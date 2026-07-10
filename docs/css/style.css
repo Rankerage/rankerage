@@ -511,27 +511,49 @@ body {
 .chart-close { cursor: pointer; color: var(--text-muted); font-size: 18px; padding: 4px 8px; }
 .chart-close:hover { color: #fff; }
 
-/* ---- Anthem Modal ---- */
-.anthem-header {
-  padding: 20px 24px 4px;
+/* ---- Anthem Nested (inside identity app) ---- */
+.anthem-nested {
+  position: absolute; inset: 0; z-index: 5;
+  display: flex; align-items: center; justify-content: center;
 }
-.anthem-title { font-size: 22px; font-weight: 800; color: #fff; }
-.anthem-sub { font-size: 14px; color: var(--accent); margin-top: 2px; }
-.anthem-meta { font-size: 11px; color: var(--text-muted); margin-top: 4px; }
-.anthem-body { padding: 0 24px 20px; flex: 1; overflow-y: auto; }
-.anthem-section { margin-top: 10px; }
+.anthem-overlay {
+  position: absolute; inset: 0;
+  background: rgba(0,0,0,0.85);
+}
+.anthem-card {
+  position: relative; z-index: 1;
+  width: 60%; max-width: 400px; max-height: 80%;
+  background: var(--bg-surface); border: 1px solid var(--border-strong);
+  border-radius: 10px; overflow: hidden;
+  display: flex; flex-direction: column;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.5);
+}
+.anthem-close {
+  position: absolute; top: 8px; right: 10px; z-index: 2;
+  font-size: 16px; color: #fff; cursor: pointer;
+  width: 26px; height: 26px; display: flex;
+  align-items: center; justify-content: center;
+  border-radius: 6px; background: rgba(0,0,0,0.5);
+}
+.anthem-close:hover { background: rgba(255,255,255,0.15); }
+.anthem-header {
+  padding: 14px 18px 8px;
+}
+.anthem-sub { font-size: 13px; color: var(--accent); margin-top: 2px; }
+.anthem-body { padding: 0 18px 14px; flex: 1; overflow-y: auto; }
+.anthem-section { margin-top: 8px; }
 .anthem-section h4 { font-size: 10px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 4px; }
 .anthem-lyrics { 
-  font-size: 12px; color: var(--text-secondary); line-height: 1.6;
+  font-size: 11px; color: var(--text-secondary); line-height: 1.6;
   white-space: pre-line; font-family: inherit;
 }
 .anthem-pronounce {
-  font-size: 12px; color: var(--accent); line-height: 1.6;
-  white-space: pre-line; font-family: inherit; margin-bottom: 4px;
+  font-size: 11px; color: var(--accent); line-height: 1.6;
+  white-space: pre-line; font-family: inherit; margin-bottom: 3px;
 }
 .anthem-video {
-  margin-top: 10px; width: 100%; height: 250px;
-  border: none; border-radius: 8px;
+  margin-top: 8px; width: 100%; height: 200px;
+  border: none; border-radius: 6px;
 }
 #trendChart { max-height: 380px; }
 

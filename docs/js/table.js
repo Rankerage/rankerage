@@ -341,6 +341,7 @@
     var ih='';for(var i=0;i<items.length;i++)ih+='<div class="detail-item"><span class="detail-label">'+items[i][0]+'</span><span class="detail-value'+(items[i][0]==='Anthem'?' anthem-link':'')+'"'+(items[i][0]==='Anthem'?' data-code="'+code+'" style="cursor:pointer;text-decoration:underline;color:var(--accent);"':'')+'>'+items[i][1]+'</span></div>';
     // Layout: Country → Info → Map → Comments
     document.getElementById('detailMap').innerHTML='';
+    document.getElementById('detailMap').style.display='none';
     document.getElementById('detailBody').innerHTML=
       '<div class="detail-country">'+(I18N.countryName(code)||data.country_name_en)+'</div><div class="detail-native">'+(data.country_name_local||'')+'</div>'+
       '<div class="detail-grid">'+ih+'</div>'+
@@ -354,7 +355,7 @@
         '<div class="comments-list" id="commentsList"></div>'+
       '</div>';
     document.getElementById('detailPanel').style.display='block';detailOpen=true;}
-    function closeDetail(){document.getElementById('detailPanel').style.display='none';detailOpen=false;}
+    function closeDetail(){document.getElementById('detailPanel').style.display='none';document.getElementById('detailMap').style.display='';detailOpen=false;}
     document.getElementById('detailPanel').addEventListener('click',function(e){if(e.target===this)closeDetail();});
     document.getElementById('detailClose').addEventListener('click',closeDetail);
     document.addEventListener('keydown',function(e){if(e.key==='Escape'){document.getElementById('anthemModal').style.display='none';closeDetail();}});
@@ -391,7 +392,7 @@
         var vid = '';
         var m = a.youtube.match(/(?:v=|youtu\.be\/|embed\/)([^&\?\/]+)/);
         if (m) vid = m[1];
-        if (vid) body += '<div class="anthem-section"><h4>🎬 Video</h4><iframe class="anthem-video" src="https://www.youtube.com/embed/'+vid+'" allowfullscreen></iframe></div>';
+        if (vid) body += '<div class="anthem-section"><h4>🎬 Video</h4><iframe class="anthem-video" src="https://www.youtube.com/embed/'+vid+'" frameborder="0" allowfullscreen></iframe></div>';
       }
       document.getElementById('anthemBody').innerHTML = body;
       document.getElementById('anthemModal').style.display = 'block';
