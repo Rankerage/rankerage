@@ -453,6 +453,7 @@ body {
   background: var(--bg-secondary);
   position: relative; overflow: hidden;
   border-radius: 12px 12px 0 0;
+  pointer-events: none;
 }
 .detail-map iframe {
   width: 100%; height: 100%; border: none;
