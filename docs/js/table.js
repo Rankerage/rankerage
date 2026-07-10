@@ -399,25 +399,76 @@
         var text = document.getElementById('commentInput').value.trim();
         if (!text) return;
         var comments = loadComments(currentCountry);
-        comments.push({ nick: nick, text: text, time: Date.now() });
+        comments.push({ nick: nick, text: text, time: Date.now(), reactions: {} });
         saveComments(currentCountry, comments);
         document.getElementById('commentInput').value = '';
         refreshCommentList(currentCountry);
+        updateCommentBadge(currentCountry);
       };
       document.getElementById('commentInput').onkeydown = function(e) {
         if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); document.getElementById('commentSubmit').click(); }
       };
+      // Emoji reaction handler (delegated)
+      document.getElementById('detailBody').addEventListener('click', function(e) {
+        var btn = e.target.closest('.reaction-btn');
+        if (!btn || !currentCountry) return;
+        var idx = parseInt(btn.getAttribute('data-idx'));
+        var emoji = btn.getAttribute('data-emoji');
+        var comments = loadComments(currentCountry);
+        if (comments[idx]) {
+          comments[idx].reactions = comments[idx].reactions || {};
+          comments[idx].reactions[emoji] = (comments[idx].reactions[emoji] || 0) + 1;
+          saveComments(currentCountry, comments);
+          refreshCommentList(currentCountry);
+        }
+      });
+      updateCommentBadge(currentCountry);
     };
     function refreshCommentList(code) {
       var list = document.getElementById('commentsList');
       if (!list) return;
       var comments = loadComments(code);
+      // Auto-seed: if no comments, generate one
+      if (!comments.length) {
+        seedComment(code);
+        comments = loadComments(code);
+      }
       var html = '';
-      comments.forEach(function(c) {
+      comments.forEach(function(c, i) {
         var t = new Date(c.time);
-        html += '<div class="comment-item"><span class="comment-nick-text">'+esc(c.nick)+'</span><span class="comment-time">'+fmtTime(t)+'</span><div class="comment-body">'+esc(c.text)+'</div></div>';
+        var r = c.reactions || {};
+        var rx = ['👍','❤️','😂','😮'].map(function(e) {
+          var cnt = r[e] || 0;
+          return '<span class="reaction-btn" data-idx="'+i+'" data-emoji="'+e+'" style="cursor:pointer;padding:1px 4px;margin-left:2px;border-radius:3px;font-size:11px;'+(cnt?'background:rgba(224,200,124,0.15);':'')+'">'+e+(cnt?' <span style="color:#8892b0;font-size:9px;">'+cnt+'</span>':'')+'</span>';
+        }).join('');
+        html += '<div class="comment-item"><span class="comment-nick-text">'+esc(c.nick)+'</span><span class="comment-time">'+fmtTime(t)+'</span><div class="comment-body">'+esc(c.text)+'</div><div style="margin-top:3px;">'+rx+'</div></div>';
       });
       list.innerHTML = html || '<div style="color:var(--text-muted);font-size:10px;padding:8px 0;">No comments yet — be the first!</div>';
+    }
+    function seedComment(code) {
+      // Generate a provocative auto-comment based on data
+      var row = table.getData().find(function(r) { return (r.country_code||'').toUpperCase() === code; });
+      if (!row) return;
+      var seeds = [];
+      if (row.approval && row.approval_rank <= 5) seeds.push({nick:'DataBot',text:'와... 지도자 지지율이 세계 '+row.approval_rank+'위라니! 😮'});
+      if (row.fifa_ranking && row.fifa_ranking_rank <= 5) seeds.push({nick:'DataBot',text:'축구 랭킹 세계 '+row.fifa_ranking_rank+'위! 이번 월드컵 기대된다 ⚽'});
+      if (row.happiness && row.happiness_rank <= 5) seeds.push({nick:'DataBot',text:'행복지수 세계 '+row.happiness_rank+'위 🥰 여기 살고 싶다...'});
+      if (row.hdi && row.hdi_rank <= 5) seeds.push({nick:'DataBot',text:'HDI 세계 '+row.hdi_rank+'위라니! 살기 좋은 나라네요 👏'});
+      if (row.gdp && row.gdp_rank >= 150 && row.population && row.population_rank <= 30) seeds.push({nick:'DataBot',text:'인구는 많은데 GDP는... 경제 성장이 시급해 보이네요 📉'});
+      if (!seeds.length) seeds.push({nick:'DataBot',text:'이 나라의 순위 데이터, 어떤 게 가장 놀라웠나요? 💬'});
+      var s = seeds[Math.floor(Math.random() * seeds.length)];
+      saveComments(code, [{ nick: s.nick, text: s.text, time: Date.now() - 86400000, reactions: {}}]);
+    }
+    function updateCommentBadge(code) {
+      var comments = loadComments(code);
+      var cnt = comments.length;
+      // Update flag tooltip
+      var row = table.getData().find(function(r) { return (r.country_code||'').toUpperCase() === code; });
+      if (row) {
+        var orig = row.country_summary || '';
+        var badge = cnt ? ' 💬'+cnt : '';
+        row.country_summary = orig.replace(/ 💬\d+/,'') + badge;
+      }
     }
 
     // Language
