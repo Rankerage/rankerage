@@ -171,6 +171,13 @@
       setTimeout(function() { dropdown.style.display = 'none'; }, 150);
     });
 
+    // Search button: trigger sort on first dropdown item
+    document.getElementById("searchBtn").addEventListener("click", function() {
+      var first = dropdown.querySelector(".search-dropdown-item");
+      if (first) first.click();
+      else searchInput.focus();
+    });
+
     // Load data
     fetch('data/countries.json').then(function(r){return r.json()}).then(function(data){
       // Replace null with sentinel so Tabulator's number sorter puts them last

@@ -107,6 +107,16 @@ body {
   box-shadow: 0 0 0 3px var(--accent-glow);
 }
 
+.search-btn {
+  height: 32px; width: 32px; padding: 0;
+  background: var(--accent);
+  border: none; border-radius: var(--radius-sm);
+  font-size: 14px; cursor: pointer;
+  transition: var(--transition);
+  display: flex; align-items: center; justify-content: center;
+}
+.search-btn:hover { background: #4a7de0; }
+
 .login-text {
   font-size: 12px; font-weight: 500;
   color: var(--text-secondary);
@@ -119,13 +129,10 @@ body {
 
 /* ---- Scroll Hint ---- */
 .scroll-hint {
-  position: fixed; top: 54px; right: 20px; z-index: 999;
-  font-size: 11px; color: var(--text-muted);
-  background: var(--bg-surface); padding: 4px 10px;
-  border-radius: var(--radius-sm);
-  border: 1px solid var(--border);
-  pointer-events: none;
-  opacity: 0.8;
+  position: relative; text-align: center; padding: 4px;
+  font-size: 10px; color: rgba(255,255,255,0.12);
+  font-family: 'JetBrains Mono', Consolas, monospace;
+  transition: opacity 1s; user-select: none; pointer-events: none;
 }
 
 /* ---- Table Container ---- */
@@ -489,7 +496,6 @@ body {
   .site-title { font-size: 15px; }
   #search { width: 100%; max-width: 100%; font-size: 14px; height: 36px; }
   .search-group { flex: 1; }
-  .scroll-hint { display: none; }
   .login-text { display: none; }
 
   /* Taller rows for touch */
