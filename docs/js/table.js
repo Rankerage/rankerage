@@ -559,7 +559,7 @@
     });
 
     // Trend chart for GDP, Population, Life Exp, GDP/cap
-    var trendFields = {"gdp":1,"population":1,"life_expectancy":1,"gdp_per_capita":1};
+    var trendFields = {"gdp":1,"gdp_per_capita":1,"population":1,"life_expectancy":1,"urban_pop":1,"internet_pct":1,"military_pct":1,"health":1,"fertility":1,"forest":1,"edu":1,"rd":1,"poverty":1};
     var historyData = null;
     var chartInstance = null;
     var chartModal = document.getElementById("chartModal");
