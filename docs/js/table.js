@@ -376,14 +376,27 @@
     }
     var currentCountry = null;
     // Inject comments into detail body
+    var commentsInjected = false;
     var _openDetailOrig = openDetail;
     openDetail = function(data) {
       _openDetailOrig(data);
       currentCountry = (data.country_code||'').toUpperCase();
       var body = document.getElementById('detailBody');
-      body.innerHTML += renderComments(currentCountry);
-      // Rebind event listeners since we replaced HTML
-      document.getElementById('commentSubmit').addEventListener('click', function() {
+      // Remove old comments if any
+      var oldC = body.querySelector('.detail-comments');
+      if (oldC) oldC.remove();
+      // Build comment section as DOM
+      var wrap = document.createElement('div');
+      wrap.className = 'detail-comments';
+      wrap.innerHTML = '<div class="comments-title">💬 Comments</div><div class="comments-list" id="commentsList"></div><div class="comment-form">' +
+        '<input type="text" class="comment-nick" id="commentNick" placeholder="Nickname" maxlength="20">' +
+        '<textarea class="comment-input" id="commentInput" placeholder="Write a comment..." rows="2"></textarea>' +
+        '<button class="comment-submit" id="commentSubmit">Post</button></div>';
+      body.appendChild(wrap);
+      // Render existing comments
+      refreshCommentList(currentCountry);
+      // Bind events
+      document.getElementById('commentSubmit').onclick = function() {
         if (!currentCountry) return;
         var nick = document.getElementById('commentNick').value.trim() || 'Anonymous';
         var text = document.getElementById('commentInput').value.trim();
@@ -392,20 +405,23 @@
         comments.push({ nick: nick, text: text, time: Date.now() });
         saveComments(currentCountry, comments);
         document.getElementById('commentInput').value = '';
-        // Refresh comments in DOM
-        var list = document.getElementById('commentsList');
-        var html = '';
-        comments.forEach(function(c) {
-          var t = new Date(c.time);
-          html += '<div class="comment-item"><span class="comment-nick-text">'+esc(c.nick)+'</span><span class="comment-time">'+fmtTime(t)+'</span><div class="comment-body">'+esc(c.text)+'</div></div>';
-        });
-        list.innerHTML = html;
-        if (!comments.length) list.innerHTML = '<div style="color:var(--text-muted);font-size:10px;padding:8px 0;">No comments yet — be the first!</div>';
-      });
-      document.getElementById('commentInput').addEventListener('keydown', function(e) {
+        refreshCommentList(currentCountry);
+      };
+      document.getElementById('commentInput').onkeydown = function(e) {
         if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); document.getElementById('commentSubmit').click(); }
-      });
+      };
     };
+    function refreshCommentList(code) {
+      var list = document.getElementById('commentsList');
+      if (!list) return;
+      var comments = loadComments(code);
+      var html = '';
+      comments.forEach(function(c) {
+        var t = new Date(c.time);
+        html += '<div class="comment-item"><span class="comment-nick-text">'+esc(c.nick)+'</span><span class="comment-time">'+fmtTime(t)+'</span><div class="comment-body">'+esc(c.text)+'</div></div>';
+      });
+      list.innerHTML = html || '<div style="color:var(--text-muted);font-size:10px;padding:8px 0;">No comments yet — be the first!</div>';
+    }
 
     // Language
     function buildLangSelectors(){var parts=I18N.buildSelectorHTML().split('|||');document.getElementById('locale1').innerHTML=parts[0];document.getElementById('locale2').innerHTML=parts[1];try{var s=JSON.parse(localStorage.getItem('rankerage_prefs')||'{}');if(s.email)document.getElementById('userEmail').value=s.email;}catch(e){}}
