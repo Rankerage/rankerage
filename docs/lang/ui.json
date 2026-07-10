@@ -82,7 +82,12 @@
     "elevation": "Elevat.",
     "agri": "Agri",
     "languages": "Languages",
-    "coffee": "Coffee"
+    "coffee": "Coffee",
+    "police": "Police",
+    "beds": "Beds",
+    "studentsPerTeacher": "S/Tcher",
+    "salary": "Salary",
+    "workhours": "WorkHrs"
   },
   "ko": {
     "search": "순위 찾기...",
@@ -167,7 +172,12 @@
     "elevation": "해발",
     "agri": "농경지",
     "languages": "언어수",
-    "coffee": "커피"
+    "coffee": "커피",
+    "police": "경찰",
+    "beds": "병상",
+    "studentsPerTeacher": "교사당학생",
+    "salary": "월급",
+    "workhours": "노동시간"
   },
   "zh": {
     "search": "搜索排名...",
@@ -252,7 +262,12 @@
     "elevation": "海拔",
     "agri": "农业",
     "languages": "语言",
-    "coffee": "咖啡"
+    "coffee": "咖啡",
+    "police": "警察",
+    "beds": "病床",
+    "studentsPerTeacher": "每师学生",
+    "salary": "月薪",
+    "workhours": "工时"
   },
   "ja": {
     "search": "ランキング検索...",
@@ -337,7 +352,12 @@
     "elevation": "標高",
     "agri": "農地",
     "languages": "言語数",
-    "coffee": "コーヒー"
+    "coffee": "コーヒー",
+    "police": "警察",
+    "beds": "病床",
+    "studentsPerTeacher": "生徒数",
+    "salary": "月給",
+    "workhours": "労働時間"
   },
   "es": {
     "search": "Buscar ranking...",
@@ -422,7 +442,12 @@
     "elevation": "Elevac.",
     "agri": "Agri.",
     "languages": "Idiomas",
-    "coffee": "Café"
+    "coffee": "Café",
+    "police": "Policía",
+    "beds": "Camas",
+    "studentsPerTeacher": "Alum/Doc",
+    "salary": "Salario",
+    "workhours": "Horas"
   },
   "fr": {
     "search": "Chercher...",
@@ -507,6 +532,11 @@
     "elevation": "Altit.",
     "agri": "Agric.",
     "languages": "Langues",
-    "coffee": "Café"
+    "coffee": "Café",
+    "police": "Police",
+    "beds": "Lits",
+    "studentsPerTeacher": "Élève/Ens",
+    "salary": "Salaire",
+    "workhours": "Heures"
   }
 }

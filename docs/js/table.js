@@ -63,6 +63,10 @@
       A(t('languages'),"languages",78), A(t('coffee'),"coffee",72),
       A(t('smoking'),"smoking",72), A(t('mcdonalds'),"mcdonalds",82),
       A(t('prison'),"prison",72), A(t('tz'),"tz",65),
+      // === MORE SOCIAL & WORK ===
+      A(t('police'),"police",72), A(t('beds'),"beds",72),
+      A(t('studentsPerTeacher'),"students_per_teacher",82), A(t('salary'),"salary",82),
+      A(t('workhours'),"workhours",78),
     ];
 
     function A(title,field,w){return{title:title,field:field,width:w,sorter:S,
@@ -187,7 +191,8 @@
         "fertility","health","obesity","alcohol","pm25","co2","forest","renew","nuclear","murder",
         "tourism","olympic","fifa_w","basket","cricket","rugby","nobel","approval",
         "gini","suicide","tz","prison","literacy","netspeed","doctors","heritage",
-        "leave","independence","smoking","mcdonalds","elevation","agri","languages","coffee"];
+        "leave","independence","smoking","mcdonalds","elevation","agri","languages","coffee",
+        "police","beds","students_per_teacher","salary","workhours"];
       data.forEach(function(row){fields.forEach(function(f){if(row[f]==null)row[f]=NULL_SENTINEL;});});
       table.setData(data);setTimeout(function(){var h=document.querySelector('.scroll-hint');if(h){h.style.opacity='0';setTimeout(function(){if(h)h.remove();},500);}},6000);
     }).catch(function(err){console.error(err);table.setData([]);});
