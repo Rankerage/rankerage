@@ -352,13 +352,19 @@
       localStorage.setItem(STORAGE_KEY + code, JSON.stringify(arr.slice(-50))); // keep last 50
     }
     function renderComments(code) {
-      var list = document.getElementById('commentsList');
+      var html = '<div class="detail-comments"><div class="comments-title">💬 Comments</div><div class="comments-list" id="commentsList">';
       var comments = loadComments(code);
-      list.innerHTML = comments.map(function(c) {
+      if (!comments.length) html += '<div style="color:var(--text-muted);font-size:10px;padding:8px 0;">No comments yet — be the first!</div>';
+      else comments.forEach(function(c) {
         var t = new Date(c.time);
-        return '<div class="comment-item"><span class="comment-nick-text">'+esc(c.nick)+'</span><span class="comment-time">'+fmtTime(t)+'</span><div class="comment-body">'+esc(c.text)+'</div></div>';
-      }).join('');
-      if (!comments.length) list.innerHTML = '<div style="color:var(--text-muted);font-size:10px;padding:8px 0;">No comments yet — be the first!</div>';
+        html += '<div class="comment-item"><span class="comment-nick-text">'+esc(c.nick)+'</span><span class="comment-time">'+fmtTime(t)+'</span><div class="comment-body">'+esc(c.text)+'</div></div>';
+      });
+      html += '</div><div class="comment-form">';
+      html += '<input type="text" class="comment-nick" id="commentNick" placeholder="Nickname" maxlength="20">';
+      html += '<textarea class="comment-input" id="commentInput" placeholder="Write a comment..." rows="2"></textarea>';
+      html += '<button class="comment-submit" id="commentSubmit">Post</button>';
+      html += '</div></div>';
+      return html;
     }
     function esc(s) { return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
     function fmtTime(d) {
@@ -369,27 +375,36 @@
       return d.toLocaleDateString();
     }
     var currentCountry = null;
-    document.getElementById('commentSubmit').addEventListener('click', function() {
-      if (!currentCountry) return;
-      var nick = document.getElementById('commentNick').value.trim() || 'Anonymous';
-      var text = document.getElementById('commentInput').value.trim();
-      if (!text) return;
-      var comments = loadComments(currentCountry);
-      comments.push({ nick: nick, text: text, time: Date.now() });
-      saveComments(currentCountry, comments);
-      document.getElementById('commentInput').value = '';
-      renderComments(currentCountry);
-    });
-    document.getElementById('commentInput').addEventListener('keydown', function(e) {
-      if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); document.getElementById('commentSubmit').click(); }
-    });
-
-    // Extend openDetail to load comments
+    // Inject comments into detail body
     var _openDetailOrig = openDetail;
     openDetail = function(data) {
       _openDetailOrig(data);
       currentCountry = (data.country_code||'').toUpperCase();
-      renderComments(currentCountry);
+      var body = document.getElementById('detailBody');
+      body.innerHTML += renderComments(currentCountry);
+      // Rebind event listeners since we replaced HTML
+      document.getElementById('commentSubmit').addEventListener('click', function() {
+        if (!currentCountry) return;
+        var nick = document.getElementById('commentNick').value.trim() || 'Anonymous';
+        var text = document.getElementById('commentInput').value.trim();
+        if (!text) return;
+        var comments = loadComments(currentCountry);
+        comments.push({ nick: nick, text: text, time: Date.now() });
+        saveComments(currentCountry, comments);
+        document.getElementById('commentInput').value = '';
+        // Refresh comments in DOM
+        var list = document.getElementById('commentsList');
+        var html = '';
+        comments.forEach(function(c) {
+          var t = new Date(c.time);
+          html += '<div class="comment-item"><span class="comment-nick-text">'+esc(c.nick)+'</span><span class="comment-time">'+fmtTime(t)+'</span><div class="comment-body">'+esc(c.text)+'</div></div>';
+        });
+        list.innerHTML = html;
+        if (!comments.length) list.innerHTML = '<div style="color:var(--text-muted);font-size:10px;padding:8px 0;">No comments yet — be the first!</div>';
+      });
+      document.getElementById('commentInput').addEventListener('keydown', function(e) {
+        if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); document.getElementById('commentSubmit').click(); }
+      });
     };
 
     // Language
