@@ -1,0 +1,587 @@
+{
+  "US": {
+    "title_en": "The Star-Spangled Banner",
+    "title_local": "The Star-Spangled Banner",
+    "lang": "English",
+    "year": 1931,
+    "lyrics": "O say can you see, by the dawn's early light,\nWhat so proudly we hailed at the twilight's last gleaming...",
+    "pronunciation_ko": "오 세이 캔 유 씨, 바이 더 던스 얼리 라이트,\n왓 쏘 프라우들리 위 헤일드 앳 더 트와일라잇츠 라스트 글리밍...",
+    "youtube": "https://www.youtube.com/watch?v=vPKp29Luryc"
+  },
+  "GB": {
+    "title_en": "God Save the King",
+    "title_local": "God Save the King",
+    "lang": "English",
+    "year": 1745,
+    "lyrics": "God save our gracious King,\nLong live our noble King,\nGod save the King...",
+    "pronunciation_ko": "가드 세이브 아워 그레이셔스 킹,\n롱 리브 아워 노블 킹,\n가드 세이브 더 킹...",
+    "youtube": "https://www.youtube.com/watch?v=tN9EC3Gy6Nk"
+  },
+  "FR": {
+    "title_en": "La Marseillaise",
+    "title_local": "La Marseillaise",
+    "lang": "French",
+    "year": 1795,
+    "lyrics": "Allons enfants de la Patrie,\nLe jour de gloire est arrivé!\nContre nous de la tyrannie,\nL'étendard sanglant est levé...",
+    "pronunciation_ko": "알롱 장팡 드 라 파트리,\n르 주르 드 글루아 에 따리베!\n콩트르 누 드 라 티라니,\n레떵다르 샹글랑 에 르베...",
+    "youtube": "https://www.youtube.com/watch?v=4K1q9Ntcr5g"
+  },
+  "DE": {
+    "title_en": "Das Lied der Deutschen",
+    "title_local": "Das Lied der Deutschen",
+    "lang": "German",
+    "year": 1922,
+    "lyrics": "Einigkeit und Recht und Freiheit\nFür das deutsche Vaterland!\nDanach lasst uns alle streben\nBrüderlich mit Herz und Hand...",
+    "pronunciation_ko": "아이니히카이트 운트 레히트 운트 프라이하이트\n퓌르 다스 도이체 파터란트!\n다나흐 라스트 운스 알레 슈트레벤\n브뤼더리히 미트 헤르츠 운트 한트...",
+    "youtube": "https://www.youtube.com/watch?v=8hLvgJ1p30A"
+  },
+  "JP": {
+    "title_en": "Kimigayo",
+    "title_local": "君が代",
+    "lang": "Japanese",
+    "year": 1880,
+    "lyrics": "君が代は\n千代に八千代に\nさざれ石の\n巌となりて\n苔のむすまで",
+    "pronunciation_ko": "키미가요와\n치요니 야치요니\n사자레 이시노\n이와오토 나리테\n코케노 무스마데",
+    "youtube": "https://www.youtube.com/watch?v=29FFHC2D12Q"
+  },
+  "KR": {
+    "title_en": "Aegukga",
+    "title_local": "애국가",
+    "lang": "Korean",
+    "year": 1948,
+    "lyrics": "동해 물과 백두산이 마르고 닳도록\n하느님이 보우하사 우리나라 만세\n무궁화 삼천리 화려 강산\n대한 사람 대한으로 길이 보전하세",
+    "pronunciation_ko": "(원문과 동일)",
+    "youtube": "https://www.youtube.com/watch?v=7EqOiN9gYmQ"
+  },
+  "CN": {
+    "title_en": "March of the Volunteers",
+    "title_local": "义勇军进行曲",
+    "lang": "Chinese",
+    "year": 1949,
+    "lyrics": "起来! 不愿做奴隶的人们!\n把我们的血肉, 筑成我们新的长城!\n中华民族到了最危险的时候...",
+    "pronunciation_ko": "치라이! 부위엔쭈어 누리더 런먼!\n바 워먼 더 쉐러우, 쭈청 워먼 신더 창청!\n중화 민쭈 따오러 쮀이 웨이시엔더 스허우...",
+    "youtube": "https://www.youtube.com/watch?v=UetSeZtrY2s"
+  },
+  "RU": {
+    "title_en": "State Anthem of the Russian Federation",
+    "title_local": "Государственный гимн РФ",
+    "lang": "Russian",
+    "year": 2000,
+    "lyrics": "Россия — священная наша держава,\nРоссия — любимая наша страна...",
+    "pronunciation_ko": "라씨야 — 스비쉐나야 나샤 데르좌바,\n라씨야 — 류비마야 나샤 스트라나...",
+    "youtube": "https://www.youtube.com/watch?v=AOAtz8y4AK4"
+  },
+  "IN": {
+    "title_en": "Jana Gana Mana",
+    "title_local": "जन गण मन",
+    "lang": "Hindi/Bengali",
+    "year": 1950,
+    "lyrics": "Jana-gana-mana-adhinayaka jaya he\nBharata-bhagya-vidhata\nPunjaba-Sindhu-Gujarata-Maratha\nDravida-Utkala-Banga...",
+    "pronunciation_ko": "자나 가나 마나 아디나야까 자야 헤\n바라따 바가 비다따\n뿐자바 신두 구자라따 마라타\n드라비다 우뜨깔라 방가...",
+    "youtube": "https://www.youtube.com/watch?v=HtMF973tXIY"
+  },
+  "BR": {
+    "title_en": "Hino Nacional Brasileiro",
+    "title_local": "Hino Nacional Brasileiro",
+    "lang": "Portuguese",
+    "year": 1831,
+    "lyrics": "Ouviram do Ipiranga as margens plácidas\nDe um povo heróico o brado retumbante...",
+    "pronunciation_ko": "오우비랑 두 이피랑가 아스 마르젠스 쁠라시다스\n지 웅 뽀부 에로이꾸 우 브라두 헤뚬반치...",
+    "youtube": "https://www.youtube.com/watch?v=UY7ZR5dPpKs"
+  },
+  "IT": {
+    "title_en": "Il Canto degli Italiani",
+    "title_local": "Fratelli d'Italia",
+    "lang": "Italian",
+    "year": 1946,
+    "lyrics": "Fratelli d'Italia,\nL'Italia s'è desta,\nDell'elmo di Scipio\nS'è cinta la testa...",
+    "pronunciation_ko": "프라텔리 디탈리아,\n리탈리아 세 데스타,\n델렐모 디 시피오\n세 친타 라 테스타...",
+    "youtube": "https://www.youtube.com/watch?v=FqxXUJ6jhOo"
+  },
+  "ES": {
+    "title_en": "Marcha Real",
+    "title_local": "Marcha Real",
+    "lang": "Spanish (instrumental)",
+    "year": 1770,
+    "lyrics": "(Instrumental - no official lyrics)",
+    "pronunciation_ko": "(기악곡 - 공식 가사 없음)",
+    "youtube": "https://www.youtube.com/watch?v=0S19dt7JWlM"
+  },
+  "CA": {
+    "title_en": "O Canada",
+    "title_local": "Ô Canada",
+    "lang": "English/French",
+    "year": 1980,
+    "lyrics": "O Canada! Our home and native land!\nTrue patriot love in all of us command...",
+    "pronunciation_ko": "오 캐나다! 아워 홈 앤 네이티브 랜드!\n트루 패트리엇 러브 인 올 오브 어스 커맨드...",
+    "youtube": "https://www.youtube.com/watch?v=zwDvF0NtgdU"
+  },
+  "AU": {
+    "title_en": "Advance Australia Fair",
+    "title_local": "Advance Australia Fair",
+    "lang": "English",
+    "year": 1984,
+    "lyrics": "Australians all let us rejoice,\nFor we are one and free...",
+    "pronunciation_ko": "오스트레일리언스 올 렛 어스 리조이스,\n포 위 아 원 앤 프리...",
+    "youtube": "https://www.youtube.com/watch?v=8BNHyb9h6OY"
+  },
+  "AR": {
+    "title_en": "Himno Nacional Argentino",
+    "title_local": "Himno Nacional Argentino",
+    "lang": "Spanish",
+    "year": 1813,
+    "lyrics": "Oíd, mortales, el grito sagrado...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=2G0x8bQ8VmE"
+  },
+  "MX": {
+    "title_en": "Himno Nacional Mexicano",
+    "title_local": "Himno Nacional Mexicano",
+    "lang": "Spanish",
+    "year": 1854,
+    "lyrics": "Mexicanos, al grito de guerra...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=dYJ0eO4pL9A"
+  },
+  "TR": {
+    "title_en": "İstiklâl Marşı",
+    "title_local": "İstiklâl Marşı",
+    "lang": "Turkish",
+    "year": 1921,
+    "lyrics": "Korkma, sönmez bu şafaklarda yüzen al sancak...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=GxiEMpDar0M"
+  },
+  "SA": {
+    "title_en": "Aash Al Maleek",
+    "title_local": "Aash Al Maleek",
+    "lang": "Arabic",
+    "year": 1950,
+    "lyrics": "سارعي للمجد والعلياء...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=1NWw0S2BgLg"
+  },
+  "ZA": {
+    "title_en": "Nkosi Sikelel' iAfrika",
+    "title_local": "Nkosi Sikelel' iAfrika",
+    "lang": "Xhosa/Zulu/Sesotho/Afrikaans/English",
+    "year": 1997,
+    "lyrics": "Nkosi sikelel' iAfrika...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=6QNhaXTEmwY"
+  },
+  "EG": {
+    "title_en": "Bilady, Bilady, Bilady",
+    "title_local": "Bilady, Bilady, Bilady",
+    "lang": "Arabic",
+    "year": 1979,
+    "lyrics": "بلادي بلادي بلادي...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=ZR4j2FgTjxQ"
+  },
+  "NG": {
+    "title_en": "Arise, O Compatriots",
+    "title_local": "Arise, O Compatriots",
+    "lang": "English",
+    "year": 1978,
+    "lyrics": "Arise, O compatriots, Nigeria's call obey...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=o7GdFMA3SD0"
+  },
+  "KE": {
+    "title_en": "Ee Mungu Nguvu Yetu",
+    "title_local": "Ee Mungu Nguvu Yetu",
+    "lang": "Swahili",
+    "year": 1963,
+    "lyrics": "Ee Mungu nguvu yetu...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=3PEwJGOMgW0"
+  },
+  "ET": {
+    "title_en": "Wodefit Gesgeshi, Widd Innat Ityopp'ya",
+    "title_local": "Wodefit Gesgeshi, Widd Innat Ityopp'ya",
+    "lang": "Amharic",
+    "year": 1992,
+    "lyrics": "ወደፊት ገስግሺ ውድ እናት ኢትዮጵያ...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=bZJG6vCF5sU"
+  },
+  "GH": {
+    "title_en": "God Bless Our Homeland Ghana",
+    "title_local": "God Bless Our Homeland Ghana",
+    "lang": "English",
+    "year": 1957,
+    "lyrics": "God bless our homeland Ghana...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=ZfDZ4Sw3SVU"
+  },
+  "TH": {
+    "title_en": "Phleng Chat",
+    "title_local": "Phleng Chat",
+    "lang": "Thai",
+    "year": 1939,
+    "lyrics": "ประเทศไทยรวมเลือดเนื้อชาติเชื้อไทย...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=3GJ-Th0MGi0"
+  },
+  "VN": {
+    "title_en": "Tiến Quân Ca",
+    "title_local": "Tiến Quân Ca",
+    "lang": "Vietnamese",
+    "year": 1945,
+    "lyrics": "Đoàn quân Việt Nam đi...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=8j2hGM-FnwA"
+  },
+  "ID": {
+    "title_en": "Indonesia Raya",
+    "title_local": "Indonesia Raya",
+    "lang": "Indonesian",
+    "year": 1945,
+    "lyrics": "Indonesia tanah airku...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=8j2hGM-FnwA"
+  },
+  "MY": {
+    "title_en": "Negaraku",
+    "title_local": "Negaraku",
+    "lang": "Malay",
+    "year": 1957,
+    "lyrics": "Negaraku, tanah tumpahnya darahku...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=BaKA-NqVE8s"
+  },
+  "PH": {
+    "title_en": "Lupang Hinirang",
+    "title_local": "Lupang Hinirang",
+    "lang": "Filipino",
+    "year": 1898,
+    "lyrics": "Bayang magiliw, perlas ng silanganan...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=uvRBUw_LsXo"
+  },
+  "SG": {
+    "title_en": "Majulah Singapura",
+    "title_local": "Majulah Singapura",
+    "lang": "Malay",
+    "year": 1965,
+    "lyrics": "Mari kita rakyat Singapura...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=X5YksygELHc"
+  },
+  "PK": {
+    "title_en": "Qaumi Taranah",
+    "title_local": "Qaumi Taranah",
+    "lang": "Persian/Urdu",
+    "year": 1954,
+    "lyrics": "پاک سرزمین شاد باد...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=3y4Aimi4LWI"
+  },
+  "BD": {
+    "title_en": "Amar Shonar Bangla",
+    "title_local": "Amar Shonar Bangla",
+    "lang": "Bengali",
+    "year": 1971,
+    "lyrics": "আমার সোনার বাংলা...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=2kYHFS7y5i0"
+  },
+  "LK": {
+    "title_en": "Sri Lanka Matha",
+    "title_local": "Sri Lanka Matha",
+    "lang": "Sinhala/Tamil",
+    "year": 1951,
+    "lyrics": "ශ්‍රී ලංකා මාතා...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=1ZqH1TvGmC0"
+  },
+  "MM": {
+    "title_en": "Kaba Ma Kyei",
+    "title_local": "Kaba Ma Kyei",
+    "lang": "Burmese",
+    "year": 1947,
+    "lyrics": "တရားမျှတ လွတ်လပ်ခြင်း...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=OnuEFz4BWZk"
+  },
+  "KP": {
+    "title_en": "Aegukka",
+    "title_local": "Aegukka",
+    "lang": "Korean",
+    "year": 1947,
+    "lyrics": "아침은 빛나라 이 강산...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=Ml6Mh5VW0qQ"
+  },
+  "IR": {
+    "title_en": "Soroud-e Melli-e Jomhouri-e Eslami-e Iran",
+    "title_local": "Soroud-e Melli-e Jomhouri-e Eslami-e Iran",
+    "lang": "Persian",
+    "year": 1990,
+    "lyrics": "سر زد از افق مهر خاوران...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=IaZBh5mVXco"
+  },
+  "IQ": {
+    "title_en": "Mawtini",
+    "title_local": "Mawtini",
+    "lang": "Arabic",
+    "year": 2004,
+    "lyrics": "مَوطِنِي مَوطِنِي...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=XkDZqXH4nQc"
+  },
+  "IL": {
+    "title_en": "Hatikvah",
+    "title_local": "Hatikvah",
+    "lang": "Hebrew",
+    "year": 2004,
+    "lyrics": "כָּל עוֹד בַּלֵּבָב פְּנִימָה...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=NjfFpFW9OdA"
+  },
+  "AE": {
+    "title_en": "Ishy Bilady",
+    "title_local": "Ishy Bilady",
+    "lang": "Arabic",
+    "year": 1971,
+    "lyrics": "عيشي بلادي...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=HqCZ4Z5oHfI"
+  },
+  "QA": {
+    "title_en": "As Salam al Amiri",
+    "title_local": "As Salam al Amiri",
+    "lang": "Arabic",
+    "year": 1996,
+    "lyrics": "قسما قسما...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=5q7aXqG0_0U"
+  },
+  "KW": {
+    "title_en": "Al-Nasheed Al-Watani",
+    "title_local": "Al-Nasheed Al-Watani",
+    "lang": "Arabic",
+    "year": 1978,
+    "lyrics": "وطني الكويت سلمت للمجد...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=2ZWGzgWZqGE"
+  },
+  "SE": {
+    "title_en": "Du gamla, Du fria",
+    "title_local": "Du gamla, Du fria",
+    "lang": "Swedish",
+    "year": 1844,
+    "lyrics": "Du gamla, Du fria, Du fjällhöga nord...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=4iKnDr1qQOY"
+  },
+  "NO": {
+    "title_en": "Ja, vi elsker dette landet",
+    "title_local": "Ja, vi elsker dette landet",
+    "lang": "Norwegian",
+    "year": 1864,
+    "lyrics": "Ja, vi elsker dette landet...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=ZhRUWnFsD_k"
+  },
+  "DK": {
+    "title_en": "Der er et yndigt land",
+    "title_local": "Der er et yndigt land",
+    "lang": "Danish",
+    "year": 1835,
+    "lyrics": "Der er et yndigt land...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=dNEsuqJGKYA"
+  },
+  "FI": {
+    "title_en": "Maamme",
+    "title_local": "Maamme",
+    "lang": "Finnish",
+    "year": 1848,
+    "lyrics": "Oi maamme, Suomi, synnyinmaa...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=5xRVJLhJ0qI"
+  },
+  "IS": {
+    "title_en": "Lofsöngur",
+    "title_local": "Lofsöngur",
+    "lang": "Icelandic",
+    "year": 1944,
+    "lyrics": "Ó, guð vors lands...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=7KQz5jvLXh0"
+  },
+  "IE": {
+    "title_en": "Amhrán na bhFiann",
+    "title_local": "Amhrán na bhFiann",
+    "lang": "Irish",
+    "year": 1926,
+    "lyrics": "Sinne Fianna Fáil...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=5_ZVPL6T5Jk"
+  },
+  "PT": {
+    "title_en": "A Portuguesa",
+    "title_local": "A Portuguesa",
+    "lang": "Portuguese",
+    "year": 1911,
+    "lyrics": "Heróis do mar, nobre povo...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=K0hNh3fCKBs"
+  },
+  "NL": {
+    "title_en": "Wilhelmus",
+    "title_local": "Wilhelmus",
+    "lang": "Dutch",
+    "year": 1932,
+    "lyrics": "Wilhelmus van Nassouwe...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=gwBr-FEI4qA"
+  },
+  "BE": {
+    "title_en": "La Brabançonne",
+    "title_local": "La Brabançonne",
+    "lang": "French/Dutch/German",
+    "year": 1860,
+    "lyrics": "Ô Belgique, ô mère chérie...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=3Lx3aB8lJ3E"
+  },
+  "CH": {
+    "title_en": "Swiss Psalm",
+    "title_local": "Swiss Psalm",
+    "lang": "German/French/Italian/Romansh",
+    "year": 1981,
+    "lyrics": "Trittst im Morgenrot daher...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=CqR9JZ0Xi-Y"
+  },
+  "AT": {
+    "title_en": "Land der Berge, Land am Strome",
+    "title_local": "Land der Berge, Land am Strome",
+    "lang": "German",
+    "year": 1947,
+    "lyrics": "Land der Berge, Land am Strome...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=0TqXLJQZ5Do"
+  },
+  "PL": {
+    "title_en": "Mazurek Dąbrowskiego",
+    "title_local": "Mazurek Dąbrowskiego",
+    "lang": "Polish",
+    "year": 1927,
+    "lyrics": "Jeszcze Polska nie zginęła...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=3Lx3aB8lJ3E"
+  },
+  "UA": {
+    "title_en": "Shche ne vmerla Ukrainy",
+    "title_local": "Shche ne vmerla Ukrainy",
+    "lang": "Ukrainian",
+    "year": 1992,
+    "lyrics": "Ще не вмерла України...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=XkDZqXH4nQc"
+  },
+  "CZ": {
+    "title_en": "Kde domov můj",
+    "title_local": "Kde domov můj",
+    "lang": "Czech",
+    "year": 1918,
+    "lyrics": "Kde domov můj, kde domov můj...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=8hLvgJ1p30A"
+  },
+  "SK": {
+    "title_en": "Nad Tatrou sa blýska",
+    "title_local": "Nad Tatrou sa blýska",
+    "lang": "Slovak",
+    "year": 1993,
+    "lyrics": "Nad Tatrou sa blýska...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=8hLvgJ1p30A"
+  },
+  "HU": {
+    "title_en": "Himnusz",
+    "title_local": "Himnusz",
+    "lang": "Hungarian",
+    "year": 1844,
+    "lyrics": "Isten, áldd meg a magyart...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=8hLvgJ1p30A"
+  },
+  "RO": {
+    "title_en": "Deșteaptă-te, române!",
+    "title_local": "Deșteaptă-te, române!",
+    "lang": "Romanian",
+    "year": 1990,
+    "lyrics": "Deșteaptă-te, române, din somnul cel de moarte...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=8hLvgJ1p30A"
+  },
+  "BG": {
+    "title_en": "Mila Rodino",
+    "title_local": "Mila Rodino",
+    "lang": "Bulgarian",
+    "year": 1964,
+    "lyrics": "Мила Родино...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=8hLvgJ1p30A"
+  },
+  "GR": {
+    "title_en": "Hymn to Liberty",
+    "title_local": "Hymn to Liberty",
+    "lang": "Greek",
+    "year": 1865,
+    "lyrics": "Σε γνωρίζω από την κόψη...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=8hLvgJ1p30A"
+  },
+  "NZ": {
+    "title_en": "God Defend New Zealand",
+    "title_local": "God Defend New Zealand",
+    "lang": "English/Maori",
+    "year": 1977,
+    "lyrics": "God of Nations at Thy feet...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=8hLvgJ1p30A"
+  },
+  "CL": {
+    "title_en": "Himno Nacional de Chile",
+    "title_local": "Himno Nacional de Chile",
+    "lang": "Spanish",
+    "year": 1847,
+    "lyrics": "Puro, Chile, es tu cielo azulado...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=8hLvgJ1p30A"
+  },
+  "CO": {
+    "title_en": "Himno Nacional de Colombia",
+    "title_local": "Himno Nacional de Colombia",
+    "lang": "Spanish",
+    "year": 1920,
+    "lyrics": "¡Oh gloria inmarcesible!...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=8hLvgJ1p30A"
+  },
+  "PE": {
+    "title_en": "Himno Nacional del Perú",
+    "title_local": "Himno Nacional del Perú",
+    "lang": "Spanish",
+    "year": 1821,
+    "lyrics": "Somos libres, seámoslo siempre...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=8hLvgJ1p30A"
+  },
+  "VE": {
+    "title_en": "Gloria al Bravo Pueblo",
+    "title_local": "Gloria al Bravo Pueblo",
+    "lang": "Spanish",
+    "year": 1881,
+    "lyrics": "Gloria al bravo pueblo...",
+    "pronunciation_ko": "(발음 작업 중)",
+    "youtube": "https://www.youtube.com/watch?v=8hLvgJ1p30A"
+  }
+}
