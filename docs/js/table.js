@@ -77,7 +77,25 @@
       A(t('carDensity'),"car_density",82), A(t('meat'),"meat",72),
       A(t('penetration'),"penetration",85), A(t('divorce'),"divorce",72),
       A(t('aviation'),"aviation",82), A(t('religionDiv'),"religion_div",82),
-    ];
+
+      A(t('milPersonnel'),"military_personnel",78),
+      A(t('railway'),"line_length",78),
+      A(t('matMortality'),"maternal_mortality",78),
+      A(t('beer'),"beer",78),
+      A(t('wine'),"wine",78),
+      A(t('chocolate'),"chocolate",78),
+      A(t('airports'),"airports",78),
+      A(t('startups'),"startups",78),
+      A(t('chess'),"chess",78),
+      A(t('nobelCapita'),"nobel_per_capita",78),
+      A(t('earthquakes'),"earthquakes",78),
+      A(t('hdiAdj'),"hdi_adj",78),
+      A(t('books'),"books",78),
+      A(t('trump'),"trump_approval",78),
+      A(t('nato'),"nato",78),
+      A(t('nuclearPower'),"nuclear_power",78),
+      A(t('volcanoes'),"volcanoes",78),
+      A(t('mathOlympiad'),"math_olympiad",78),
 
       // === MORE SOCIAL & WORK ===
       A(t('police'),"police",72), A(t('beds'),"beds",72),
@@ -207,7 +225,7 @@
         "fertility","health","obesity","alcohol","pm25","co2","forest","renew","nuclear","murder",
         "tourism","olympic","fifa_w","basket","cricket","rugby","nobel","approval",
         "gini","suicide","tz","prison","literacy","netspeed","doctors","heritage",
-        "birth_rate","death_rate","infant_mortality","urban_pop","median_age","energy_per_capita","inflation","gas_price","car_density","meat","govern_spend","tax_rev","reserves","exports","imports","penetration","divorce","aviation","religion_div","electricity","leave","independence","smoking","mcdonalds","elevation","agri","languages","coffee",
+        "military_personnel","line_length","maternal_mortality","beer","wine","chocolate","airports","startups","chess","nobel_per_capita","earthquakes","hdi_adj","books","trump_approval","nato","nuclear_power","volcanoes","math_olympiad","birth_rate","death_rate","infant_mortality","urban_pop","median_age","energy_per_capita","inflation","gas_price","car_density","meat","govern_spend","tax_rev","reserves","exports","imports","penetration","divorce","aviation","religion_div","electricity","leave","independence","smoking","mcdonalds","elevation","agri","languages","coffee",
         "police","beds","students_per_teacher","salary","workhours"];
       data.forEach(function(row){fields.forEach(function(f){if(row[f]==null)row[f]=NULL_SENTINEL;});});
       table.setData(data);setTimeout(function(){var h=document.querySelector('.scroll-hint');if(h){h.style.opacity='0';setTimeout(function(){if(h)h.remove();},500);}},6000);
