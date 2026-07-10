@@ -342,6 +342,55 @@
     document.addEventListener('keydown',function(e){if(e.key==='Escape'&&detailOpen)closeDetail();});
     table.on("cellClick",function(e,cell){var f=cell.getColumn().getField();if(f==='country_code'||f==='country_name_en')openDetail(cell.getRow().getData());});
 
+    // Comments: localStorage-based per-country
+    var STORAGE_KEY = 'rankerage_comments_';
+    function loadComments(code) {
+      try { return JSON.parse(localStorage.getItem(STORAGE_KEY + code) || '[]'); } catch(e) { return []; }
+    }
+    function saveComments(code, arr) {
+      localStorage.setItem(STORAGE_KEY + code, JSON.stringify(arr.slice(-50))); // keep last 50
+    }
+    function renderComments(code) {
+      var list = document.getElementById('commentsList');
+      var comments = loadComments(code);
+      list.innerHTML = comments.map(function(c) {
+        var t = new Date(c.time);
+        return '<div class="comment-item"><span class="comment-nick-text">'+esc(c.nick)+'</span><span class="comment-time">'+fmtTime(t)+'</span><div class="comment-body">'+esc(c.text)+'</div></div>';
+      }).join('');
+      if (!comments.length) list.innerHTML = '<div style="color:var(--text-muted);font-size:10px;padding:8px 0;">No comments yet — be the first!</div>';
+    }
+    function esc(s) { return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+    function fmtTime(d) {
+      var now = new Date(), diff = (now - d) / 1000;
+      if (diff < 60) return 'just now';
+      if (diff < 3600) return Math.floor(diff/60)+'m ago';
+      if (diff < 86400) return Math.floor(diff/3600)+'h ago';
+      return d.toLocaleDateString();
+    }
+    var currentCountry = null;
+    document.getElementById('commentSubmit').addEventListener('click', function() {
+      if (!currentCountry) return;
+      var nick = document.getElementById('commentNick').value.trim() || 'Anonymous';
+      var text = document.getElementById('commentInput').value.trim();
+      if (!text) return;
+      var comments = loadComments(currentCountry);
+      comments.push({ nick: nick, text: text, time: Date.now() });
+      saveComments(currentCountry, comments);
+      document.getElementById('commentInput').value = '';
+      renderComments(currentCountry);
+    });
+    document.getElementById('commentInput').addEventListener('keydown', function(e) {
+      if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); document.getElementById('commentSubmit').click(); }
+    });
+
+    // Extend openDetail to load comments
+    var _openDetailOrig = openDetail;
+    openDetail = function(data) {
+      _openDetailOrig(data);
+      currentCountry = (data.country_code||'').toUpperCase();
+      renderComments(currentCountry);
+    };
+
     // Language
     function buildLangSelectors(){var parts=I18N.buildSelectorHTML().split('|||');document.getElementById('locale1').innerHTML=parts[0];document.getElementById('locale2').innerHTML=parts[1];try{var s=JSON.parse(localStorage.getItem('rankerage_prefs')||'{}');if(s.email)document.getElementById('userEmail').value=s.email;}catch(e){}}
     buildLangSelectors();I18N.applyUI();
