@@ -204,8 +204,15 @@
       };
     });
 
-    // Header tooltips
-    table.on("tableBuilt",function(){document.querySelectorAll(".tabulator-col-title").forEach(function(el){if(!el.getAttribute("title"))el.setAttribute("title",el.textContent.trim());});});
+    // Header tooltips + mobile long-press
+    table.on("tableBuilt",function(){
+      document.querySelectorAll(".tabulator-col-title").forEach(function(el){
+        var col = el.closest(".tabulator-col");
+        var field = col ? col.getAttribute("tabulator-field") : "";
+        var tip = desc[field] || el.textContent.trim();
+        if (!el.getAttribute("title")) el.setAttribute("title", tip);
+      });
+    });
 
     // Trend chart for GDP, Population, Life Exp, GDP/cap
     var trendFields = {"gdp":1,"population":1,"life_expectancy":1,"gdp_per_capita":1};
