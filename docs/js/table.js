@@ -397,8 +397,9 @@
       document.getElementById('anthemBody').innerHTML = body;
       document.getElementById('anthemModal').style.display = 'block';
     }
-    document.getElementById('anthemClose').addEventListener('click',function(){document.getElementById('anthemModal').style.display='none';});
-    document.getElementById('anthemOverlay').addEventListener('click',function(){document.getElementById('anthemModal').style.display='none';});
+    function closeAnthem(){document.getElementById('anthemModal').style.display='none';document.getElementById('anthemBody').innerHTML='';}
+    document.getElementById('anthemClose').addEventListener('click',closeAnthem);
+    document.getElementById('anthemOverlay').addEventListener('click',closeAnthem);
 
     // Comments: localStorage-based per-country
     var STORAGE_KEY = 'rankerage_comments_';

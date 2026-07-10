@@ -441,7 +441,7 @@ body {
   animation: fadeIn 0.25s ease;
 }
 .detail-close {
-  position: absolute; top: 12px; left: 14px; z-index: 20;
+  position: absolute; top: 12px; right: 14px; z-index: 20;
   font-size: 20px; color: #fff; cursor: pointer;
   width: 32px; height: 32px; display: flex;
   align-items: center; justify-content: center;
