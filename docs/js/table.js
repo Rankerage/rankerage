@@ -340,13 +340,13 @@
     // Body: country name → comment form on TOP → then facts
     document.getElementById('detailBody').innerHTML='<div class="detail-country">'+(I18N.countryName(code)||data.country_name_en)+'</div><div class="detail-native">'+(data.country_name_local||'')+'</div>'+
       '<div class="detail-grid">'+ih+'</div>'+
-      '<div class="detail-comments" style="margin:8px 0 0 0;padding:6px 0 0 0;border-top:1px solid var(--border);">'+
-        '<div class="comment-form" style="display:flex;gap:3px;align-items:center;margin-bottom:4px;">'+
-          '<input type="text" class="comment-nick" id="commentNick" placeholder="이름" maxlength="20" style="width:56px;height:24px;background:var(--bg-input);border:1px solid var(--border);border-radius:3px;color:var(--text-primary);font-size:10px;padding:0 3px;font-family:inherit;flex-shrink:0;">'+
-          '<input type="text" class="comment-input" id="commentInput" placeholder="댓글... Enter로 전송" style="flex:1;height:24px;background:var(--bg-input);border:1px solid var(--border);border-radius:3px;color:var(--text-primary);font-size:10px;padding:0 5px;font-family:inherit;">'+
-          '<button class="comment-submit" id="commentSubmit" style="height:24px;padding:0 8px;background:var(--accent);border:none;border-radius:3px;color:#fff;font-size:10px;font-weight:600;cursor:pointer;flex-shrink:0;">Post</button>'+
+      '<div class="detail-comments">'+
+        '<div class="comment-form">'+
+          '<input type="text" class="comment-nick" id="commentNick" placeholder="이름" maxlength="20">'+
+          '<input type="text" class="comment-input" id="commentInput" placeholder="댓글... Enter로 전송">'+
+          '<button class="comment-submit" id="commentSubmit">Post</button>'+
         '</div>'+
-        '<div class="comments-list" id="commentsList" style="max-height:120px;overflow-y:auto;font-size:10px;"></div>'+
+        '<div class="comments-list" id="commentsList"></div>'+
       '</div>';
     document.getElementById('detailPanel').style.display='block';detailOpen=true;}
     function closeDetail(){document.getElementById('detailPanel').style.display='none';detailOpen=false;}
