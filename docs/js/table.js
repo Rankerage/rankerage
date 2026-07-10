@@ -49,11 +49,11 @@
       A(t('nobel'),"nobel",72),
     ];
 
-    function A(title,field,w){return{title:title,field:field,width:w,sorter:S,
+    function A(title,field,w){return{title:title,field:field,width:w,sorter:S,headerTooltip:title,
       formatter:function(c){var d=c.getRow().getData(),v=d[field];return numberCell(d[field+'_rank'],v!=null?fmtNumber(v):'-');}};}
-    function H(title,field,w){return{title:title,field:field,width:w,sorter:S,headerSort:false,
+    function H(title,field,w){return{title:title,field:field,width:w,sorter:S,headerTooltip:title,
       formatter:function(c){var d=c.getRow().getData(),v=d[field];return numberCell(d[field+'_rank'],v!=null?fmtNumber(v):'-');}};}
-    function E(field,w){return{title:t('election'),field:field,width:w,sorter:S,
+    function E(field,w){return{title:t('election'),field:field,width:w,sorter:S,headerTooltip:t('election'),
       formatter:function(c){var d=c.getRow().getData(),dt=d.election_date;if(!dt)return numberCell(null,'-');var p=dt.split('-'),s=p[1]+'/'+p[2];if(d.election_days<0)return numberCell(null,'✓');return numberCell(d.election_rank,s);}};}
 
     // Special formatters for non-standard value types
