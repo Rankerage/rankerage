@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Rankerage.com — World Country Rankings & Comparisons">
+    <meta name="theme-color" content="#0a0e1a">
+    <title>Rankerage.com</title>
+    <link href="vendor/tabulator.min.css" rel="stylesheet">
+    <link href="css/style.css?v=3" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <div class="header-bar">
+        <div class="header-content">
+            <div class="site-title">Rankerage.com</div>
+            <div class="header-right">
+                <div class="search-group" style="position:relative;">
+                    <input type="text" id="search" placeholder="Find ranking..." autocomplete="off">
+                    <div class="search-dropdown" id="searchDropdown" style="display:none;"></div>
+                </div>
+                <span class="lang-btn" id="langBtn" title="Language settings">🌐</span>
+                <span class="login-text">Login</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Language Settings Modal -->
+    <div class="modal-overlay" id="langModal" style="display:none;">
+        <div class="modal-box">
+            <div class="modal-header">
+                <span class="modal-title" data-i18n="langTitle">Language</span>
+                <span class="modal-close" id="modalClose">✕</span>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label data-i18n="emailLabel">Email (optional)</label>
+                    <input type="email" id="userEmail" placeholder="your@email.com" autocomplete="email">
+                </div>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label data-i18n="lang1Label">Display Language</label>
+                        <select id="locale1"></select>
+                    </div>
+                    <div class="form-group">
+                        <label data-i18n="lang2Label">Tooltip Language</label>
+                        <select id="locale2"></select>
+                    </div>
+                </div>
+                <button class="btn-primary" id="saveLang" data-i18n="saveBtn">Save</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scroll Hint -->
+    <div class="scroll-hint">⇧ Shift + Scroll to move horizontally</div>
+
+    <!-- Table -->
+    <div id="user-table-container">
+        <div id="example-table"></div>
+    </div>
+
+    <!-- Country Detail Panel -->
+    <div class="detail-panel" id="detailPanel" style="display:none;">
+        <div class="detail-overlay" id="detailOverlay"></div>
+        <div class="detail-card" id="detailCard">
+            <span class="detail-close" id="detailClose">✕</span>
+            <div class="detail-map" id="detailMap"></div>
+            <div class="detail-body" id="detailBody"></div>
+        </div>
+    </div><!-- /lang-modal -->
+
+    <!-- Trend Chart Modal -->
+    <div class="chart-modal" id="chartModal" style="display:none;">
+        <div class="chart-overlay" id="chartOverlay"></div>
+        <div class="chart-container">
+            <div class="chart-header">
+                <span class="chart-title" id="chartTitle">Trend</span>
+                <span class="chart-close" id="chartClose">✕</span>
+            </div>
+            <canvas id="trendChart"></canvas>
+        </div>
+    </div>
+
+    <script src="vendor/tabulator.min.js"></script>
+    <script src="vendor/chart.min.js"></script>
+    <script src="js/i18n.js"></script>
+    <script src="js/table.js?v=3"></script>
+</body>
+</html>

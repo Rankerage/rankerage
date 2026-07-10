@@ -1,0 +1,17 @@
+node_modules/
+.next/
+__pycache__/
+*.pyc
+/data/
+/experiments/
+/nextjs-app/
+/scripts/app.py
+/scripts/server.py
+/scripts/simple_server.py
+/scripts/create_db.py
+/scripts/init_db.py
+/scripts/convert_csv_to_json.py
+/scripts/convert_to_json.py
+/scripts/convert_to_json_v2.py
+/scripts/translate.py
+/public/data/countries2.json
