@@ -393,6 +393,7 @@
         var m = a.youtube.match(/(?:v=|youtu\.be\/|embed\/)([^&\?\/]+)/);
         if (m) vid = m[1];
         if (vid) body += '<div class="anthem-section"><h4>🎬 Video</h4><iframe class="anthem-video" src="https://www.youtube.com/embed/'+vid+'" frameborder="0" allowfullscreen></iframe></div>';
+        else body += '<div class="anthem-section"><h4>🎬 Video</h4><div style="text-align:center;padding:30px;"><a href="https://www.youtube.com/results?search_query='+encodeURIComponent(esc(a.title_en)+' '+esc(a.title_local)+' national anthem')+'" target="_blank" style="color:var(--accent);text-decoration:underline;">▶ YouTube에서 검색하기</a></div></div>';
       }
       document.getElementById('anthemBody').innerHTML = body;
       document.getElementById('anthemModal').style.display = 'block';
