@@ -377,8 +377,16 @@
         '<div class="anthem-sub">'+esc(a.title_local)+'</div>'+
         '<div class="anthem-meta">Language: '+esc(a.lang)+' | Adopted: '+a.year+'</div>';
       var body = '';
-      if (a.lyrics && a.lyrics.length > 3) body += '<div class="anthem-section"><h4>📜 Official Lyrics</h4><div class="anthem-lyrics">'+esc(a.lyrics)+'</div></div>';
-      if (a.pronunciation_ko && a.pronunciation_ko.length > 3 && a.pronunciation_ko !== '(발음 작업 중)') body += '<div class="anthem-section"><h4>🇰🇷 한글 발음</h4><div class="anthem-pronounce">'+esc(a.pronunciation_ko)+'</div></div>';
+      if (a.lyrics && a.lyrics.length > 3) {
+        var lines = a.lyrics.split('\n');
+        var pLines = (a.pronunciation_ko || '').split('\n');
+        var merged = '';
+        for (var j = 0; j < Math.max(lines.length, pLines.length); j++) {
+          if (lines[j]) merged += '<div class="anthem-lyrics">'+esc(lines[j])+'</div>';
+          if (pLines[j]) merged += '<div class="anthem-pronounce">'+esc(pLines[j])+'</div>';
+        }
+        body += '<div class="anthem-section"><h4>📜 Lyrics / 🇰🇷 발음</h4>'+merged+'</div>';
+      }
       if (a.youtube && a.youtube.includes('youtube')) {
         var vid = a.youtube.split('v=')[1] || a.youtube.split('/').pop();
         body += '<div class="anthem-section"><h4>🎬 Video</h4><iframe class="anthem-video" src="https://www.youtube.com/embed/'+vid+'" allowfullscreen></iframe></div>';
@@ -425,7 +433,13 @@
     var _openDetailOrig2 = openDetail;
     openDetail = function(data) {
       _openDetailOrig2(data);
+      // Reset for new country
+      var prev = currentCountry;
       currentCountry = (data.country_code||'').toUpperCase();
+      if (prev !== currentCountry) {
+        document.getElementById('commentsList').innerHTML = '';
+        document.getElementById('commentInput').value = '';
+      }
       refreshCommentList(currentCountry);
       document.getElementById('commentSubmit').onclick = function() {
         if (!currentCountry) return;
@@ -480,7 +494,9 @@
       list.innerHTML = html || '<div style="color:var(--text-muted);font-size:10px;padding:8px 0;">No comments yet — be the first!</div>';
     }
     function seedComment(code) {
-      // Generate a provocative auto-comment based on data
+      // Only seed if truly no comments exist
+      var existing = loadComments(code);
+      if (existing.length > 0) return;
       var row = table.getData().find(function(r) { return (r.country_code||'').toUpperCase() === code; });
       if (!row) return;
       var seeds = [];
@@ -491,7 +507,7 @@
       if (row.gdp && row.gdp_rank >= 150 && row.population && row.population_rank <= 30) seeds.push({nick:'DataBot',text:'인구는 많은데 GDP는... 경제 성장이 시급해 보이네요 📉'});
       if (!seeds.length) seeds.push({nick:'DataBot',text:'이 나라의 순위 데이터, 어떤 게 가장 놀라웠나요? 💬'});
       var s = seeds[Math.floor(Math.random() * seeds.length)];
-      saveComments(code, [{ nick: s.nick, text: s.text, time: Date.now() - 86400000, reactions: {}}]);
+      saveComments(code, [{ nick: s.nick, text: s.text, time: Date.now() - 86400000, reactions: {} }]);
     }
     function updateCommentBadge(code) {
       var comments = loadComments(code);
