@@ -63,6 +63,22 @@
       A(t('languages'),"languages",78), A(t('coffee'),"coffee",72),
       A(t('smoking'),"smoking",72), A(t('mcdonalds'),"mcdonalds",82),
       A(t('prison'),"prison",72), A(t('tz'),"tz",65),
+      // === DEMOGRAPHICS DEEP ===
+      A(t('birthRate'),"birth_rate",78), A(t('deathRate'),"death_rate",78),
+      A(t('infantMortality'),"infant_mortality",82), A(t('urbanPop'),"urban_pop",78),
+      A(t('medianAge'),"median_age",78),
+      // === ECONOMY DEEP ===
+      A(t('inflation'),"inflation",72), A(t('gasPrice'),"gas_price",78),
+      A(t('energyCapita'),"energy_per_capita",82), A(t('electricity'),"electricity",82),
+      A(t('reserves'),"reserves",82), A(t('exports'),"exports",82),
+      A(t('imports'),"imports",82), A(t('governSpend'),"govern_spend",82),
+      A(t('taxRev'),"tax_rev",78),
+      // === LIFESTYLE ===
+      A(t('carDensity'),"car_density",82), A(t('meat'),"meat",72),
+      A(t('penetration'),"penetration",85), A(t('divorce'),"divorce",72),
+      A(t('aviation'),"aviation",82), A(t('religionDiv'),"religion_div",82),
+    ];
+
       // === MORE SOCIAL & WORK ===
       A(t('police'),"police",72), A(t('beds'),"beds",72),
       A(t('studentsPerTeacher'),"students_per_teacher",82), A(t('salary'),"salary",82),
@@ -191,7 +207,7 @@
         "fertility","health","obesity","alcohol","pm25","co2","forest","renew","nuclear","murder",
         "tourism","olympic","fifa_w","basket","cricket","rugby","nobel","approval",
         "gini","suicide","tz","prison","literacy","netspeed","doctors","heritage",
-        "leave","independence","smoking","mcdonalds","elevation","agri","languages","coffee",
+        "birth_rate","death_rate","infant_mortality","urban_pop","median_age","energy_per_capita","inflation","gas_price","car_density","meat","govern_spend","tax_rev","reserves","exports","imports","penetration","divorce","aviation","religion_div","electricity","leave","independence","smoking","mcdonalds","elevation","agri","languages","coffee",
         "police","beds","students_per_teacher","salary","workhours"];
       data.forEach(function(row){fields.forEach(function(f){if(row[f]==null)row[f]=NULL_SENTINEL;});});
       table.setData(data);setTimeout(function(){var h=document.querySelector('.scroll-hint');if(h){h.style.opacity='0';setTimeout(function(){if(h)h.remove();},500);}},6000);
