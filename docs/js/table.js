@@ -336,7 +336,7 @@
 
     // Detail panel
     var detailOpen=false;
-    function openDetail(data){var code=(data.country_code||'').toUpperCase(),lat=data.lat,lon=data.lon,mapHtml='';if(lat!=null&&lon!=null){var bbox=(lon-8)+'%2C'+(lat-5)+'%2C'+(lon+8)+'%2C'+(lat+5);mapHtml='<iframe width="100%" height="170" frameborder="0" scrolling="no" src="https://www.openstreetmap.org/export/embed.html?bbox='+bbox+'&amp;layer=mapnik&amp;marker='+lat+'%2C'+lon+'" style="border:none;border-radius:12px 12px 0 0;"></iframe>';}else{mapHtml='<div style="display:flex;align-items:center;justify-content:center;height:100%;color:var(--text-muted);">🗺️ Map unavailable</div>';}var items=[['Native Name',data.country_name_local||'-'],['Capital',data.capital_en+(data.capital_local?' / '+data.capital_local:'')],['Continent',data.continent+(data.subcontinent?', '+data.subcontinent:'')],['Head of State',data.head_of_state_en||'-'],['Anthem',data.national_anthem_en||'-'],['OECD',data.oecd_member==='Yes'?'✓ '+data.oecd_year:'—'],['BRICS',data.brics_member==='Yes'?'✓ '+data.brics_year:'—'],['Population',(!N(data.population)?I18N.formatNumber(data.population):'-')+' (#'+(data.population_rank||'-')+')'],['Area',(data.area?I18N.formatNumber(data.area)+' km²':'-')+' (#'+(data.area_rank||'-')+')'],['GDP',!N(data.gdp)?'$'+I18N.formatNumber(data.gdp/1e6)+'B':'-'],['HDI',!N(data.hdi)?data.hdi.toFixed(3):'-'],['Life Exp.',!N(data.life_expectancy)?data.life_expectancy.toFixed(1)+' yr':'-'],['Happiness',!N(data.happiness)?data.happiness.toFixed(2):'-']];var ih='';for(var i=0;i<items.length;i++)ih+='<div class="detail-item"><span class="detail-label">'+items[i][0]+'</span><span class="detail-value">'+items[i][1]+'</span></div>';document.getElementById('detailMap').innerHTML=mapHtml;
+    function openDetail(data){var code=(data.country_code||'').toUpperCase(),lat=data.lat,lon=data.lon,mapHtml='';if(lat!=null&&lon!=null){var bbox=(lon-8)+'%2C'+(lat-5)+'%2C'+(lon+8)+'%2C'+(lat+5);mapHtml='<iframe width="100%" height="170" frameborder="0" scrolling="no" src="https://www.openstreetmap.org/export/embed.html?bbox='+bbox+'&amp;layer=mapnik&amp;marker='+lat+'%2C'+lon+'" style="border:none;border-radius:12px 12px 0 0;"></iframe>';}else{mapHtml='<div style="display:flex;align-items:center;justify-content:center;height:100%;color:var(--text-muted);">🗺️ Map unavailable</div>';}var items=[['Native Name',data.country_name_local||'-'],['Capital',data.capital_en+(data.capital_local?' / '+data.capital_local:'')],['Continent',data.continent+(data.subcontinent?', '+data.subcontinent:'')],['Head of State',data.head_of_state_en||'-'],['Anthem',data.national_anthem_en||'-'],['OECD',data.oecd_member==='Yes'?'✓ '+data.oecd_year:'—'],['BRICS',data.brics_member==='Yes'?'✓ '+data.brics_year:'—'],['Population',(!N(data.population)?I18N.formatNumber(data.population):'-')+' (#'+(data.population_rank||'-')+')'],['Area',(data.area?I18N.formatNumber(data.area)+' km²':'-')+' (#'+(data.area_rank||'-')+')'],['GDP',!N(data.gdp)?'$'+I18N.formatNumber(data.gdp/1e6)+'B':'-'],['HDI',!N(data.hdi)?data.hdi.toFixed(3):'-'],['Life Exp.',!N(data.life_expectancy)?data.life_expectancy.toFixed(1)+' yr':'-'],['Happiness',!N(data.happiness)?data.happiness.toFixed(2):'-']];var ih='';for(var i=0;i<items.length;i++)ih+='<div class="detail-item"><span class="detail-label">'+items[i][0]+'</span><span class="detail-value"'+(items[i][0]==='Anthem'?' style="cursor:pointer;text-decoration:underline;color:var(--accent);" onclick="openAnthem(\''+code+'\')"':'')+'>'+items[i][1]+'</span></div>';document.getElementById('detailMap').innerHTML=mapHtml;
     // Body: country name → comment form on TOP → then facts
     document.getElementById('detailBody').innerHTML='<div class="detail-country">'+(I18N.countryName(code)||data.country_name_en)+'</div><div class="detail-native">'+(data.country_name_local||'')+'</div>'+
       '<div class="detail-grid">'+ih+'</div>'+
@@ -352,8 +352,31 @@
     function closeDetail(){document.getElementById('detailPanel').style.display='none';detailOpen=false;}
     document.getElementById('detailPanel').addEventListener('click',function(e){if(e.target===this)closeDetail();});
     document.getElementById('detailClose').addEventListener('click',closeDetail);
-    document.addEventListener('keydown',function(e){if(e.key==='Escape'&&detailOpen)closeDetail();});
+    document.addEventListener('keydown',function(e){if(e.key==='Escape'){document.getElementById('anthemModal').style.display='none';closeDetail();}});
     table.on("cellClick",function(e,cell){var f=cell.getColumn().getField();if(f==='country_code'||f==='country_name_en')openDetail(cell.getRow().getData());});
+
+    // Anthem modal
+    var anthemsData = {};
+    fetch('data/anthems.json').then(function(r){return r.json()}).then(function(d){anthemsData = d;});
+    function openAnthem(code) {
+      var a = anthemsData[code];
+      if (!a) return;
+      document.getElementById('anthemHeader').innerHTML =
+        '<div class="anthem-title">'+esc(a.title_en)+'</div>'+
+        '<div class="anthem-sub">'+esc(a.title_local)+'</div>'+
+        '<div class="anthem-meta">Language: '+esc(a.lang)+' | Adopted: '+a.year+'</div>';
+      var body = '';
+      if (a.lyrics && a.lyrics.length > 3) body += '<div class="anthem-section"><h4>📜 Official Lyrics</h4><div class="anthem-lyrics">'+esc(a.lyrics)+'</div></div>';
+      if (a.pronunciation_ko && a.pronunciation_ko.length > 3 && a.pronunciation_ko !== '(발음 작업 중)') body += '<div class="anthem-section"><h4>🇰🇷 한글 발음</h4><div class="anthem-pronounce">'+esc(a.pronunciation_ko)+'</div></div>';
+      if (a.youtube && a.youtube.includes('youtube')) {
+        var vid = a.youtube.split('v=')[1] || a.youtube.split('/').pop();
+        body += '<div class="anthem-section"><h4>🎬 Video</h4><iframe class="anthem-video" src="https://www.youtube.com/embed/'+vid+'" allowfullscreen></iframe></div>';
+      }
+      document.getElementById('anthemBody').innerHTML = body;
+      document.getElementById('anthemModal').style.display = 'block';
+    }
+    document.getElementById('anthemClose').addEventListener('click',function(){document.getElementById('anthemModal').style.display='none';});
+    document.getElementById('anthemOverlay').addEventListener('click',function(){document.getElementById('anthemModal').style.display='none';});
 
     // Comments: localStorage-based per-country
     var STORAGE_KEY = 'rankerage_comments_';
