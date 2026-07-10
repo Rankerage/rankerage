@@ -163,23 +163,121 @@
       clipboardCopyConfig:{columnHeaders:false,columnGroups:false,rowGroups:false,columnCalcs:false}
     });
 
-    // Search: find ranking by name
+    // Search: smart ranking finder with fuzzy + highlight
     var searchInput = document.getElementById("search");
     var dropdown = document.getElementById("searchDropdown");
     var allColumns = cols;
 
+    // Column aliases/synonyms for smarter matching
+    var aliases = {
+      "population":"인구 population pop people 인구수".split(" "),
+      "area":"면적 area land size 크기 땅".split(" "),
+      "density":"밀도 density 밀집".split(" "),
+      "gdp":"gdp 경제 economy 경제력".split(" "),
+      "gdp_per_capita":"1인당GDP percapita 1인당 부자 wealth".split(" "),
+      "hdi":"hdi 개발 development 인간개발 development".split(" "),
+      "life_expectancy":"수명 life expectancy 기대수명 lifespan".split(" "),
+      "happiness":"행복 happiness happy 웃음".split(" "),
+      "democracy":"민주주의 democracy 민주 freedom 자유".split(" "),
+      "press":"언론 press media freedom 언론자유".split(" "),
+      "cpi":"부패 corruption cpi 청렴 transparency".split(" "),
+      "gpi":"평화 peace 평화지수 safety 안전".split(" "),
+      "approval":"지지율 approval 지지 leader president".split(" "),
+      "election_days":"선거 election vote voting 투표".split(" "),
+      "unemp":"실업 unemployment jobless 실업률 고용".split(" "),
+      "debt":"부채 debt 빚 정부부채".split(" "),
+      "poverty":"빈곤 poverty poor 가난".split(" "),
+      "rd":"연구 R&D research science 과학 development".split(" "),
+      "patents":"특허 patent invention 발명".split(" "),
+      "edu":"교육 education school 학교".split(" "),
+      "english":"영어 english 영어능력 language".split(" "),
+      "internet_pct":"인터넷 internet online 인터넷사용".split(" "),
+      "gender":"성평등 gender 여성 equality 평등".split(" "),
+      "fertility":"출산 fertility birth 출산율 baby".split(" "),
+      "health":"의료 health healthcare medical 병원".split(" "),
+      "obesity":"비만 obesity fat 뚱뚱".split(" "),
+      "alcohol":"술 alcohol drinking 음주 drink".split(" "),
+      "pm25":"미세먼지 pm25 air pollution 대기 공기".split(" "),
+      "co2":"탄소 CO2 carbon emission 배출 환경".split(" "),
+      "forest":"산림 forest tree 숲 나무".split(" "),
+      "renew":"재생 renewable energy green 재생에너지 green".split(" "),
+      "military_pct":"군사 military defense 국방 군대".split(" "),
+      "nuclear":"핵 nuke nuclear weapon 핵무기".split(" "),
+      "murder":"살인 murder crime homicide 범죄".split(" "),
+      "tourism":"관광 tourism travel 여행 tourist".split(" "),
+      "olympic":"올림픽 olympic medal 올림픽메달 sport".split(" "),
+      "fifa_ranking":"FIFA 축구 soccer football 남자축구".split(" "),
+      "fifa_w":"FIFA여 women soccer 축구여자 female".split(" "),
+      "basket":"농구 basketball basket nba".split(" "),
+      "cricket":"크리켓 cricket".split(" "),
+      "rugby":"럭비 rugby".split(" "),
+      "nobel":"노벨 nobel prize award".split(" "),
+      "gini":"불평등 gini inequality 불평등소득".split(" "),
+      "suicide":"자살 suicide kill 자살률".split(" "),
+      "prison":"수감 prison jail 감옥".split(" "),
+      "literacy":"문해 literacy read write 읽기".split(" "),
+      "netspeed":"인터넷속도 internet speed broadband 속도".split(" "),
+      "doctors":"의사 doctor 의사수 medical".split(" "),
+      "heritage":"유산 heritage unesco 세계유산 문화".split(" "),
+      "leave":"휴가 leave vacation holiday 연차".split(" "),
+      "independence":"국가연령 age old history 건국 독립".split(" "),
+      "smoking":"담배 smoking cigarette 담배소비".split(" "),
+      "coffee":"커피 coffee 카페 caffeine".split(" "),
+      "mcdonalds":"맥도날드 mcdonald 햄버거 fastfood burger".split(" "),
+      "elevation":"해발 elevation altitude height 고도".split(" "),
+      "agri":"농업 agriculture farm 농경지".split(" "),
+      "languages":"언어 language diversity 언어다양성".split(" "),
+      "police":"경찰 police cop 경찰관".split(" "),
+      "beds":"병상 bed hospital 병상수".split(" "),
+      "students_per_teacher":"교사 teacher student 학교".split(" "),
+      "salary":"월급 salary wage pay 임금".split(" "),
+      "workhours":"노동 work hour 근로시간".split(" "),
+      "meat":"육류 meat food 고기".split(" "),
+      "car_density":"자동차 car vehicle 차량".split(" "),
+      "divorce":"이혼 divorce marriage 결혼".split(" "),
+      "beer":"맥주 beer alcohol 술".split(" "),
+      "wine":"와인 wine alcohol".split(" "),
+      "volcanoes":"화산 volcano 자연재해".split(" "),
+      "earthquakes":"지진 earthquake 재해".split(" "),
+      "trump_approval":"트럼프 trump president".split(" "),
+      "nato":"나토 nato 동맹".split(" "),
+      "chess":"체스 chess game".split(" "),
+      "math_olympiad":"수학 math olympiad".split(" "),
+    };
+
+    function fuzzyScore(field, query) {
+      var title = ((colLabels[field]||'') + ' ' + (desc[field]||'')).toLowerCase();
+      var q = query.toLowerCase();
+      if (title.indexOf(q) >= 0) return 100; // exact substring
+      // Check aliases
+      var al = aliases[field] || [];
+      for (var i = 0; i < al.length; i++) {
+        if (al[i].toLowerCase().indexOf(q) >= 0) return 80;
+      }
+      // Word boundary match
+      var words = title.split(/[\s\-_\/]+/);
+      for (var i = 0; i < words.length; i++) {
+        if (words[i].indexOf(q) >= 0) return 60;
+        if (words[i].length > 0 && q.indexOf(words[i]) >= 0) return 40;
+      }
+      // Fuzzy: first letter match
+      if (title[0] === q[0]) return 20;
+      return 0;
+    }
+
     searchInput.addEventListener("input", function() {
       var q = this.value.trim().toLowerCase();
-      if (q.length < 1) { dropdown.style.display = 'none'; return; }
-      var matches = allColumns.filter(function(c) {
-        var title = (c.title || '').toLowerCase();
-        return title.indexOf(q) !== -1;
-      });
-      if (!matches.length) { dropdown.style.display = 'none'; return; }
-      dropdown.innerHTML = matches.map(function(c, i) {
-        var title = c.title;
+      if (q.length < 2) { dropdown.style.display = 'none'; return; }
+      var scored = allColumns.filter(function(c) { return c.field && c.field !== 'country_code' && c.field !== 'country_name_en'; })
+        .map(function(c) { return { col: c, score: fuzzyScore(c.field, q) }; })
+        .filter(function(s) { return s.score > 0; })
+        .sort(function(a, b) { return b.score - a.score; })
+        .slice(0, 15);
+      if (!scored.length) { dropdown.style.display = 'none'; return; }
+      dropdown.innerHTML = scored.map(function(s) {
+        var title = s.col.title;
         var hl = title.replace(new RegExp('('+q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','gi'), '<strong>$1</strong>');
-        return '<div class="search-dropdown-item" data-field="'+c.field+'">'+hl+'</div>';
+        return '<div class="search-dropdown-item" data-field="'+s.col.field+'" data-title="'+title+'">'+hl+'</div>';
       }).join('');
       dropdown.style.display = 'block';
     });
@@ -188,13 +286,18 @@
       var item = e.target.closest(".search-dropdown-item");
       if (!item) return;
       var field = item.getAttribute("data-field");
-      // Sort by that column
+      var title = item.getAttribute("data-title");
       table.setSort(field, "desc");
-      // Scroll to make the column visible
+      // Highlight column
       var header = document.querySelector('.tabulator-col[data-field="'+field+'"]');
-      if (header) header.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+      if (header) {
+        document.querySelectorAll('.tabulator-col.highlight').forEach(function(h) { h.classList.remove('highlight'); });
+        header.classList.add('highlight');
+        header.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+        setTimeout(function() { header.classList.remove('highlight'); }, 3000);
+      }
       dropdown.style.display = 'none';
-      searchInput.value = item.textContent.replace(/<[^>]*>/g,'').trim();
+      searchInput.value = title;
     });
 
     searchInput.addEventListener("keydown", function(e) {
@@ -206,7 +309,7 @@
     });
 
     searchInput.addEventListener("blur", function() {
-      setTimeout(function() { dropdown.style.display = 'none'; }, 150);
+      setTimeout(function() { dropdown.style.display = 'none'; }, 200);
     });
 
     // Search button: trigger sort on first dropdown item
