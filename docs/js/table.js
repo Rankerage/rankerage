@@ -54,6 +54,15 @@
       A(t('olympic'),"olympic",78), H(t('fifa'),"fifa_ranking",68), H(t('fifaW'),"fifa_w",72), H(t('basket'),"basket",72), H(t('cricket'),"cricket",72), H(t('rugby'),"rugby",72),
       // === ACHIEVEMENTS ===
       A(t('nobel'),"nobel",72),
+      // === CULTURE/LIFESTYLE ===
+      A(t('gini'),"gini",72), A(t('suicide'),"suicide",72),
+      A(t('literacy'),"literacy",78), A(t('leave'),"leave",72),
+      A(t('independence'),"independence",82), A(t('netspeed'),"netspeed",82),
+      A(t('doctors'),"doctors",72), A(t('heritage'),"heritage",72),
+      A(t('elevation'),"elevation",78), A(t('agri'),"agri",72),
+      A(t('languages'),"languages",78), A(t('coffee'),"coffee",72),
+      A(t('smoking'),"smoking",72), A(t('mcdonalds'),"mcdonalds",82),
+      A(t('prison'),"prison",72), A(t('tz'),"tz",65),
     ];
 
     function A(title,field,w){return{title:title,field:field,width:w,sorter:S,
@@ -169,7 +178,9 @@
         "life_expectancy","happiness","fifa_ranking","cpi","gpi","internet_pct","military_pct",
         "democracy","press","unemp","debt","poverty","rd","patents","edu","english","gender",
         "fertility","health","obesity","alcohol","pm25","co2","forest","renew","nuclear","murder",
-        "tourism","olympic","fifa_w","basket","cricket","rugby","nobel","approval"];
+        "tourism","olympic","fifa_w","basket","cricket","rugby","nobel","approval",
+        "gini","suicide","tz","prison","literacy","netspeed","doctors","heritage",
+        "leave","independence","smoking","mcdonalds","elevation","agri","languages","coffee"];
       data.forEach(function(row){fields.forEach(function(f){if(row[f]==null)row[f]=NULL_SENTINEL;});});
       table.setData(data);setTimeout(function(){var h=document.querySelector('.scroll-hint');if(h){h.style.opacity='0';setTimeout(function(){if(h)h.remove();},500);}},6000);
     }).catch(function(err){console.error(err);table.setData([]);});
