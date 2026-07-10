@@ -339,15 +339,15 @@
     function openDetail(data){var code=(data.country_code||'').toUpperCase(),lat=data.lat,lon=data.lon,mapHtml='';if(lat!=null&&lon!=null){var bbox=(lon-8)+'%2C'+(lat-5)+'%2C'+(lon+8)+'%2C'+(lat+5);mapHtml='<iframe width="100%" height="170" frameborder="0" scrolling="no" src="https://www.openstreetmap.org/export/embed.html?bbox='+bbox+'&amp;layer=mapnik&amp;marker='+lat+'%2C'+lon+'" style="border:none;border-radius:12px 12px 0 0;"></iframe>';}else{mapHtml='<div style="display:flex;align-items:center;justify-content:center;height:100%;color:var(--text-muted);">🗺️ Map unavailable</div>';}var items=[['Native Name',data.country_name_local||'-'],['Capital',data.capital_en+(data.capital_local?' / '+data.capital_local:'')],['Continent',data.continent+(data.subcontinent?', '+data.subcontinent:'')],['Head of State',data.head_of_state_en||'-'],['Anthem',data.national_anthem_en||'-'],['OECD',data.oecd_member==='Yes'?'✓ '+data.oecd_year:'—'],['BRICS',data.brics_member==='Yes'?'✓ '+data.brics_year:'—'],['Population',(!N(data.population)?I18N.formatNumber(data.population):'-')+' (#'+(data.population_rank||'-')+')'],['Area',(data.area?I18N.formatNumber(data.area)+' km²':'-')+' (#'+(data.area_rank||'-')+')'],['GDP',!N(data.gdp)?'$'+I18N.formatNumber(data.gdp/1e6)+'B':'-'],['HDI',!N(data.hdi)?data.hdi.toFixed(3):'-'],['Life Exp.',!N(data.life_expectancy)?data.life_expectancy.toFixed(1)+' yr':'-'],['Happiness',!N(data.happiness)?data.happiness.toFixed(2):'-']];var ih='';for(var i=0;i<items.length;i++)ih+='<div class="detail-item"><span class="detail-label">'+items[i][0]+'</span><span class="detail-value">'+items[i][1]+'</span></div>';document.getElementById('detailMap').innerHTML=mapHtml;
     // Body: country name → comment form on TOP → then facts
     document.getElementById('detailBody').innerHTML='<div class="detail-country">'+(I18N.countryName(code)||data.country_name_en)+'</div><div class="detail-native">'+(data.country_name_local||'')+'</div>'+
-      '<div class="detail-comments" style="margin:6px 0 2px 0;padding:4px 0;border-top:1px solid var(--border);">'+
-        '<div class="comment-form" style="display:flex;gap:3px;align-items:center;">'+
+      '<div class="detail-grid">'+ih+'</div>'+
+      '<div class="detail-comments" style="margin:8px 0 0 0;padding:6px 0 0 0;border-top:1px solid var(--border);">'+
+        '<div class="comment-form" style="display:flex;gap:3px;align-items:center;margin-bottom:4px;">'+
           '<input type="text" class="comment-nick" id="commentNick" placeholder="이름" maxlength="20" style="width:56px;height:24px;background:var(--bg-input);border:1px solid var(--border);border-radius:3px;color:var(--text-primary);font-size:10px;padding:0 3px;font-family:inherit;flex-shrink:0;">'+
           '<input type="text" class="comment-input" id="commentInput" placeholder="댓글... Enter로 전송" style="flex:1;height:24px;background:var(--bg-input);border:1px solid var(--border);border-radius:3px;color:var(--text-primary);font-size:10px;padding:0 5px;font-family:inherit;">'+
           '<button class="comment-submit" id="commentSubmit" style="height:24px;padding:0 8px;background:var(--accent);border:none;border-radius:3px;color:#fff;font-size:10px;font-weight:600;cursor:pointer;flex-shrink:0;">Post</button>'+
         '</div>'+
-        '<div class="comments-list" id="commentsList" style="max-height:120px;overflow-y:auto;margin-top:4px;font-size:10px;"></div>'+
-      '</div>'+
-      '<div class="detail-grid">'+ih+'</div>';
+        '<div class="comments-list" id="commentsList" style="max-height:120px;overflow-y:auto;font-size:10px;"></div>'+
+      '</div>';
     document.getElementById('detailPanel').style.display='block';detailOpen=true;}
     function closeDetail(){document.getElementById('detailPanel').style.display='none';detailOpen=false;}
     document.getElementById('detailPanel').addEventListener('click',function(e){if(e.target===this)closeDetail();});
