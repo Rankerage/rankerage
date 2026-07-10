@@ -11,8 +11,10 @@
     // Load descriptions
     fetch('data/descriptions.json').then(function(r){return r.json()}).then(function(d){desc = d;});
 
-    var S = function(a,b){if(a==null)return 1;if(b==null)return -1;return a-b;};
-    function fmtNumber(n) { if (n == null || isNaN(n)) return '-'; if (n >= 1e9) return (n / 1e9).toFixed(1)+'B'; if (n >= 1e6) return (n / 1e6).toFixed(1)+'M'; if (n >= 1e3) return (n / 1e3).toFixed(1)+'K'; return I18N.formatNumber(n); }
+    var S = function(a,b){return a-b;};
+    var NULL_SENTINEL = 999999;
+    function N(v) { return v === null || v === undefined || v >= NULL_SENTINEL; }
+    function fmtNumber(n) { if (N(n)) return '-'; if (n >= 1e9) return (n / 1e9).toFixed(1)+'B'; if (n >= 1e6) return (n / 1e6).toFixed(1)+'M'; if (n >= 1e3) return (n / 1e3).toFixed(1)+'K'; return I18N.formatNumber(n); }
     function rankBadge(r) { if(!r)return'<span style="display:inline-block;width:26px;"></span>';var n=parseInt(r),c='#8892b0';if(n<=3)c='#f0a04b';else if(n<=10)c='#5b8def';else if(n<=20)c='#3fb68b';return'<span style="color:'+c+';font-weight:700;font-size:11px;">#'+n+'</span>'; }
     function numberCell(r,v) { return'<div style="display:flex;align-items:center;width:100%;"><span style="flex:0 0 26px;text-align:left;">'+(r?rankBadge(r):'')+'</span><span style="flex:1;text-align:right;font-family:\'JetBrains Mono\',Consolas,monospace;font-size:10.5px;white-space:nowrap;">'+v+'</span></div>'; }
     function suffix(n) { n=parseInt(n);if(!n)return'';return['th','st','nd','rd'][(n%100>10&&n%100<14)?0:(n%10>3?0:n%10)]||'th'; }
@@ -56,10 +58,10 @@
 
     function A(title,field,w){return{title:title,field:field,width:w,sorter:S,
       headerTooltip:function(){return (desc[field]||title);},
-      formatter:function(c){var d=c.getRow().getData(),v=d[field];return numberCell(d[field+'_rank'],v!=null?fmtNumber(v):'-');}};}
+      formatter:function(c){var d=c.getRow().getData(),v=d[field];return numberCell(d[field+'_rank'],!N(v)?fmtNumber(v):'-');}};}
     function H(title,field,w){return{title:title,field:field,width:w,sorter:S,
       headerTooltip:function(){return (desc[field]||title);},
-      formatter:function(c){var d=c.getRow().getData(),v=d[field];return numberCell(d[field+'_rank'],v!=null?fmtNumber(v):'-');}};}
+      formatter:function(c){var d=c.getRow().getData(),v=d[field];return numberCell(d[field+'_rank'],!N(v)?fmtNumber(v):'-');}};}
     function E(field,w){return{title:t('election'),field:field,width:w,sorter:S,
       headerTooltip:function(){return (desc[field]||t('election'));},
       formatter:function(c){var d=c.getRow().getData(),dt=d.election_date;if(!dt)return numberCell(null,'-');var p=dt.split('-'),s=p[1]+'/'+p[2];if(d.election_days<0)return numberCell(null,'✓');return numberCell(d.election_rank,s);}};}
@@ -68,42 +70,42 @@
     cols.forEach(function(col){
       if(col.field==="gdp") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.gdp_rank,d.gdp?'$'+fmtNumber(d.gdp):'-');};
       if(col.field==="gdp_per_capita") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.gdp_per_capita_rank,d.gdp_per_capita?'$'+I18N.formatNumber(d.gdp_per_capita):'-');};
-      if(col.field==="hdi") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.hdi_rank,d.hdi!=null?d.hdi.toFixed(3):'-');};
-      if(col.field==="life_expectancy") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.life_expectancy_rank,d.life_expectancy!=null?d.life_expectancy.toFixed(1):'-');};
-      if(col.field==="happiness") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.happiness_rank,d.happiness!=null?d.happiness.toFixed(2):'-');};
-      if(col.field==="democracy") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.democracy_rank,d.democracy!=null?d.democracy.toFixed(2):'-');};
-      if(col.field==="press") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.press_rank,d.press!=null?d.press.toFixed(1):'-');};
-      if(col.field==="cpi") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.cpi_rank,d.cpi!=null?d.cpi+'/100':'-');};
-      if(col.field==="gpi") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.gpi_rank,d.gpi!=null?d.gpi.toFixed(3):'-');};
-      if(col.field==="approval") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.approval_rank,d.approval!=null?d.approval+'%':'-');};
-      if(col.field==="unemp") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.unemp_rank,d.unemp!=null?d.unemp.toFixed(1)+'%':'-');};
-      if(col.field==="debt") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.debt_rank,d.debt!=null?d.debt.toFixed(0)+'%':'-');};
-      if(col.field==="poverty") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.poverty_rank,d.poverty!=null?d.poverty.toFixed(1)+'%':'-');};
-      if(col.field==="rd") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.rd_rank,d.rd!=null?d.rd.toFixed(2)+'%':'-');};
-      if(col.field==="patents") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.patents_rank,d.patents!=null?fmtNumber(d.patents):'-');};
-      if(col.field==="edu") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.edu_rank,d.edu!=null?d.edu.toFixed(3):'-');};
-      if(col.field==="english") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.english_rank,d.english!=null?d.english:'-');};
-      if(col.field==="internet_pct") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.internet_pct_rank,d.internet_pct!=null?d.internet_pct+'%':'-');};
-      if(col.field==="gender") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.gender_rank,d.gender!=null?d.gender.toFixed(3):'-');};
-      if(col.field==="fertility") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.fertility_rank,d.fertility!=null?d.fertility.toFixed(2):'-');};
-      if(col.field==="health") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.health_rank,d.health!=null?d.health.toFixed(1)+'%':'-');};
-      if(col.field==="obesity") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.obesity_rank,d.obesity!=null?d.obesity.toFixed(1)+'%':'-');};
-      if(col.field==="alcohol") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.alcohol_rank,d.alcohol!=null?d.alcohol.toFixed(1):'-');};
-      if(col.field==="pm25") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.pm25_rank,d.pm25!=null?d.pm25.toFixed(1):'-');};
-      if(col.field==="co2") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.co2_rank,d.co2!=null?d.co2.toFixed(1):'-');};
-      if(col.field==="forest") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.forest_rank,d.forest!=null?d.forest.toFixed(1)+'%':'-');};
-      if(col.field==="renew") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.renew_rank,d.renew!=null?d.renew.toFixed(0)+'%':'-');};
-      if(col.field==="military_pct") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.military_pct_rank,d.military_pct!=null?d.military_pct.toFixed(1)+'%':'-');};
-      if(col.field==="nuclear") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.nuclear_rank,d.nuclear!=null?fmtNumber(d.nuclear):'-');};
-      if(col.field==="murder") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.murder_rank,d.murder!=null?d.murder.toFixed(1):'-');};
-      if(col.field==="tourism") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.tourism_rank,d.tourism!=null?d.tourism.toFixed(1)+'M':'-');};
-      if(col.field==="olympic") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.olympic_rank,d.olympic!=null?fmtNumber(d.olympic):'-');};
-      if(col.field==="fifa_ranking") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.fifa_ranking_rank,d.fifa_ranking!=null?d.fifa_ranking:'-');};
-      if(col.field==="fifa_w") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.fifa_w_rank,d.fifa_w!=null?d.fifa_w:'-');};
-      if(col.field==="basket") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.basket_rank,d.basket!=null?d.basket:'-');};
-      if(col.field==="cricket") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.cricket_rank,d.cricket!=null?d.cricket:'-');};
-      if(col.field==="rugby") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.rugby_rank,d.rugby!=null?d.rugby:'-');};
-      if(col.field==="nobel") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.nobel_rank,d.nobel!=null?d.nobel:'-');};
+      if(col.field==="hdi") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.hdi_rank,!N(d.hdi)?d.hdi.toFixed(3):'-');};
+      if(col.field==="life_expectancy") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.life_expectancy_rank,!N(d.life_expectancy)?d.life_expectancy.toFixed(1):'-');};
+      if(col.field==="happiness") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.happiness_rank,!N(d.happiness)?d.happiness.toFixed(2):'-');};
+      if(col.field==="democracy") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.democracy_rank,!N(d.democracy)?d.democracy.toFixed(2):'-');};
+      if(col.field==="press") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.press_rank,!N(d.press)?d.press.toFixed(1):'-');};
+      if(col.field==="cpi") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.cpi_rank,!N(d.cpi)?d.cpi+'/100':'-');};
+      if(col.field==="gpi") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.gpi_rank,!N(d.gpi)?d.gpi.toFixed(3):'-');};
+      if(col.field==="approval") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.approval_rank,!N(d.approval)?d.approval+'%':'-');};
+      if(col.field==="unemp") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.unemp_rank,!N(d.unemp)?d.unemp.toFixed(1)+'%':'-');};
+      if(col.field==="debt") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.debt_rank,!N(d.debt)?d.debt.toFixed(0)+'%':'-');};
+      if(col.field==="poverty") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.poverty_rank,!N(d.poverty)?d.poverty.toFixed(1)+'%':'-');};
+      if(col.field==="rd") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.rd_rank,!N(d.rd)?d.rd.toFixed(2)+'%':'-');};
+      if(col.field==="patents") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.patents_rank,!N(d.patents)?fmtNumber(d.patents):'-');};
+      if(col.field==="edu") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.edu_rank,!N(d.edu)?d.edu.toFixed(3):'-');};
+      if(col.field==="english") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.english_rank,!N(d.english)?d.english:'-');};
+      if(col.field==="internet_pct") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.internet_pct_rank,!N(d.internet_pct)?d.internet_pct+'%':'-');};
+      if(col.field==="gender") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.gender_rank,!N(d.gender)?d.gender.toFixed(3):'-');};
+      if(col.field==="fertility") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.fertility_rank,!N(d.fertility)?d.fertility.toFixed(2):'-');};
+      if(col.field==="health") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.health_rank,!N(d.health)?d.health.toFixed(1)+'%':'-');};
+      if(col.field==="obesity") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.obesity_rank,!N(d.obesity)?d.obesity.toFixed(1)+'%':'-');};
+      if(col.field==="alcohol") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.alcohol_rank,!N(d.alcohol)?d.alcohol.toFixed(1):'-');};
+      if(col.field==="pm25") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.pm25_rank,!N(d.pm25)?d.pm25.toFixed(1):'-');};
+      if(col.field==="co2") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.co2_rank,!N(d.co2)?d.co2.toFixed(1):'-');};
+      if(col.field==="forest") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.forest_rank,!N(d.forest)?d.forest.toFixed(1)+'%':'-');};
+      if(col.field==="renew") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.renew_rank,!N(d.renew)?d.renew.toFixed(0)+'%':'-');};
+      if(col.field==="military_pct") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.military_pct_rank,!N(d.military_pct)?d.military_pct.toFixed(1)+'%':'-');};
+      if(col.field==="nuclear") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.nuclear_rank,!N(d.nuclear)?fmtNumber(d.nuclear):'-');};
+      if(col.field==="murder") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.murder_rank,!N(d.murder)?d.murder.toFixed(1):'-');};
+      if(col.field==="tourism") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.tourism_rank,!N(d.tourism)?d.tourism.toFixed(1)+'M':'-');};
+      if(col.field==="olympic") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.olympic_rank,!N(d.olympic)?fmtNumber(d.olympic):'-');};
+      if(col.field==="fifa_ranking") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.fifa_ranking_rank,!N(d.fifa_ranking)?d.fifa_ranking:'-');};
+      if(col.field==="fifa_w") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.fifa_w_rank,!N(d.fifa_w)?d.fifa_w:'-');};
+      if(col.field==="basket") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.basket_rank,!N(d.basket)?d.basket:'-');};
+      if(col.field==="cricket") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.cricket_rank,!N(d.cricket)?d.cricket:'-');};
+      if(col.field==="rugby") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.rugby_rank,!N(d.rugby)?d.rugby:'-');};
+      if(col.field==="nobel") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.nobel_rank,!N(d.nobel)?d.nobel:'-');};
     });
 
     var table = new Tabulator("#example-table", {
@@ -161,11 +163,20 @@
     });
 
     // Load data
-    fetch('data/countries.json').then(function(r){return r.json()}).then(function(data){table.setData(data);setTimeout(function(){var h=document.querySelector('.scroll-hint');if(h){h.style.opacity='0';setTimeout(function(){if(h)h.remove();},500);}},6000);}).catch(function(err){console.error(err);table.setData([]);});
+    fetch('data/countries.json').then(function(r){return r.json()}).then(function(data){
+      // Replace null with sentinel so Tabulator's number sorter puts them last
+      var fields = ["population","area","population_density","gdp","gdp_per_capita","hdi",
+        "life_expectancy","happiness","fifa_ranking","cpi","gpi","internet_pct","military_pct",
+        "democracy","press","unemp","debt","poverty","rd","patents","edu","english","gender",
+        "fertility","health","obesity","alcohol","pm25","co2","forest","renew","nuclear","murder",
+        "tourism","olympic","fifa_w","basket","cricket","rugby","nobel","approval"];
+      data.forEach(function(row){fields.forEach(function(f){if(row[f]==null)row[f]=NULL_SENTINEL;});});
+      table.setData(data);setTimeout(function(){var h=document.querySelector('.scroll-hint');if(h){h.style.opacity='0';setTimeout(function(){if(h)h.remove();},500);}},6000);
+    }).catch(function(err){console.error(err);table.setData([]);});
 
     // Detail panel
     var detailOpen=false;
-    function openDetail(data){var code=(data.country_code||'').toUpperCase(),lat=data.lat,lon=data.lon,mapHtml='';if(lat!=null&&lon!=null){var bbox=(lon-8)+'%2C'+(lat-5)+'%2C'+(lon+8)+'%2C'+(lat+5);mapHtml='<iframe width="100%" height="220" frameborder="0" scrolling="no" src="https://www.openstreetmap.org/export/embed.html?bbox='+bbox+'&amp;layer=mapnik&amp;marker='+lat+'%2C'+lon+'" style="border:none;border-radius:12px 12px 0 0;"></iframe>';}else{mapHtml='<div style="display:flex;align-items:center;justify-content:center;height:100%;color:var(--text-muted);">🗺️ Map unavailable</div>';}var items=[['Native Name',data.country_name_local||'-'],['Capital',data.capital_en+(data.capital_local?' / '+data.capital_local:'')],['Continent',data.continent+(data.subcontinent?', '+data.subcontinent:'')],['Head of State',data.head_of_state_en||'-'],['Anthem',data.national_anthem_en||'-'],['OECD',data.oecd_member==='Yes'?'✓ '+data.oecd_year:'—'],['BRICS',data.brics_member==='Yes'?'✓ '+data.brics_year:'—'],['Population',(data.population?I18N.formatNumber(data.population):'-')+' (#'+(data.population_rank||'-')+')'],['Area',(data.area?I18N.formatNumber(data.area)+' km²':'-')+' (#'+(data.area_rank||'-')+')'],['GDP',data.gdp?'$'+I18N.formatNumber(data.gdp/1e6)+'B':'-'],['HDI',data.hdi!=null?data.hdi.toFixed(3):'-'],['Life Exp.',data.life_expectancy!=null?data.life_expectancy.toFixed(1)+' yr':'-'],['Happiness',data.happiness!=null?data.happiness.toFixed(2):'-']];var ih='';for(var i=0;i<items.length;i++)ih+='<div class="detail-item"><span class="detail-label">'+items[i][0]+'</span><span class="detail-value">'+items[i][1]+'</span></div>';document.getElementById('detailMap').innerHTML=mapHtml;document.getElementById('detailBody').innerHTML='<div class="detail-country">'+(I18N.countryName(code)||data.country_name_en)+'</div><div class="detail-native">'+(data.country_name_local||'')+'</div><div class="detail-grid">'+ih+'</div>';document.getElementById('detailPanel').style.display='block';detailOpen=true;}
+    function openDetail(data){var code=(data.country_code||'').toUpperCase(),lat=data.lat,lon=data.lon,mapHtml='';if(lat!=null&&lon!=null){var bbox=(lon-8)+'%2C'+(lat-5)+'%2C'+(lon+8)+'%2C'+(lat+5);mapHtml='<iframe width="100%" height="220" frameborder="0" scrolling="no" src="https://www.openstreetmap.org/export/embed.html?bbox='+bbox+'&amp;layer=mapnik&amp;marker='+lat+'%2C'+lon+'" style="border:none;border-radius:12px 12px 0 0;"></iframe>';}else{mapHtml='<div style="display:flex;align-items:center;justify-content:center;height:100%;color:var(--text-muted);">🗺️ Map unavailable</div>';}var items=[['Native Name',data.country_name_local||'-'],['Capital',data.capital_en+(data.capital_local?' / '+data.capital_local:'')],['Continent',data.continent+(data.subcontinent?', '+data.subcontinent:'')],['Head of State',data.head_of_state_en||'-'],['Anthem',data.national_anthem_en||'-'],['OECD',data.oecd_member==='Yes'?'✓ '+data.oecd_year:'—'],['BRICS',data.brics_member==='Yes'?'✓ '+data.brics_year:'—'],['Population',(!N(data.population)?I18N.formatNumber(data.population):'-')+' (#'+(data.population_rank||'-')+')'],['Area',(data.area?I18N.formatNumber(data.area)+' km²':'-')+' (#'+(data.area_rank||'-')+')'],['GDP',!N(data.gdp)?'$'+I18N.formatNumber(data.gdp/1e6)+'B':'-'],['HDI',!N(data.hdi)?data.hdi.toFixed(3):'-'],['Life Exp.',!N(data.life_expectancy)?data.life_expectancy.toFixed(1)+' yr':'-'],['Happiness',!N(data.happiness)?data.happiness.toFixed(2):'-']];var ih='';for(var i=0;i<items.length;i++)ih+='<div class="detail-item"><span class="detail-label">'+items[i][0]+'</span><span class="detail-value">'+items[i][1]+'</span></div>';document.getElementById('detailMap').innerHTML=mapHtml;document.getElementById('detailBody').innerHTML='<div class="detail-country">'+(I18N.countryName(code)||data.country_name_en)+'</div><div class="detail-native">'+(data.country_name_local||'')+'</div><div class="detail-grid">'+ih+'</div>';document.getElementById('detailPanel').style.display='block';detailOpen=true;}
     function closeDetail(){document.getElementById('detailPanel').style.display='none';detailOpen=false;}
     document.getElementById('detailClose').addEventListener('click',closeDetail);document.getElementById('detailOverlay').addEventListener('click',closeDetail);
     document.addEventListener('keydown',function(e){if(e.key==='Escape'&&detailOpen)closeDetail();});
