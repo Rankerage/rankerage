@@ -388,8 +388,10 @@
         body += '<div class="anthem-section"><h4>📜 Lyrics / 🇰🇷 발음</h4>'+merged+'</div>';
       }
       if (a.youtube && a.youtube.includes('youtube')) {
-        var vid = a.youtube.split('v=')[1] || a.youtube.split('/').pop();
-        body += '<div class="anthem-section"><h4>🎬 Video</h4><iframe class="anthem-video" src="https://www.youtube.com/embed/'+vid+'" allowfullscreen></iframe></div>';
+        var vid = '';
+        var m = a.youtube.match(/(?:v=|youtu\.be\/|embed\/)([^&\?\/]+)/);
+        if (m) vid = m[1];
+        if (vid) body += '<div class="anthem-section"><h4>🎬 Video</h4><iframe class="anthem-video" src="https://www.youtube.com/embed/'+vid+'" allowfullscreen></iframe></div>';
       }
       document.getElementById('anthemBody').innerHTML = body;
       document.getElementById('anthemModal').style.display = 'block';
