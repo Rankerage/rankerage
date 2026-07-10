@@ -338,7 +338,7 @@
     var detailOpen=false;
     function openDetail(data){var code=(data.country_code||'').toUpperCase(),lat=data.lat,lon=data.lon,mapHtml='';if(lat!=null&&lon!=null){var bbox=(lon-8)+'%2C'+(lat-5)+'%2C'+(lon+8)+'%2C'+(lat+5);mapHtml='<div class="detail-map"><iframe width="100%" height="170" frameborder="0" scrolling="no" src="https://www.openstreetmap.org/export/embed.html?bbox='+bbox+'&amp;layer=mapnik&amp;marker='+lat+'%2C'+lon+'" style="border:none;border-radius:8px;"></iframe></div>';}else{mapHtml='<div class="detail-map" style="display:flex;align-items:center;justify-content:center;height:120px;background:var(--bg-secondary);border-radius:8px;color:var(--text-muted);">🗺️ Map unavailable</div>';}
     var items=[['Native Name',data.country_name_local||'-'],['Capital',data.capital_en+(data.capital_local?' / '+data.capital_local:'')],['Continent',data.continent+(data.subcontinent?', '+data.subcontinent:'')],['Population',(!N(data.population)?I18N.formatNumber(data.population):'-')+' (#'+(data.population_rank||'-')+')'],['Area',(data.area?I18N.formatNumber(data.area)+' km²':'-')+' (#'+(data.area_rank||'-')+')'],['Head of State',data.head_of_state_en||'-'],['OECD',data.oecd_member==='Yes'?'✓ '+data.oecd_year:'—'],['BRICS',data.brics_member==='Yes'?'✓ '+data.brics_year:'—'],['GDP',!N(data.gdp)?'$'+I18N.formatNumber(data.gdp/1e6)+'B':'-'],['HDI',!N(data.hdi)?data.hdi.toFixed(3):'-'],['Life Exp.',!N(data.life_expectancy)?data.life_expectancy.toFixed(1)+' yr':'-'],['Happiness',!N(data.happiness)?data.happiness.toFixed(2):'-'],['Ethnic',data.ethnic||'-'],['Anthem',data.national_anthem_en||'-']];
-    var ih='';for(var i=0;i<items.length;i++)ih+='<div class="detail-item"><span class="detail-label">'+items[i][0]+'</span><span class="detail-value"'+(items[i][0]==='Anthem'?' style="cursor:pointer;text-decoration:underline;color:var(--accent);" onclick="openAnthem(\''+code+'\')"':'')+'>'+items[i][1]+'</span></div>';
+    var ih='';for(var i=0;i<items.length;i++)ih+='<div class="detail-item"><span class="detail-label">'+items[i][0]+'</span><span class="detail-value"'+(items[i][0]==='Anthem'?' class="anthem-link" data-code="'+code+'" style="cursor:pointer;text-decoration:underline;color:var(--accent);"':'')+'>'+items[i][1]+'</span></div>';
     // Layout: Country → Info → Map → Comments
     document.getElementById('detailMap').innerHTML='';
     document.getElementById('detailBody').innerHTML=
@@ -360,9 +360,15 @@
     document.addEventListener('keydown',function(e){if(e.key==='Escape'){document.getElementById('anthemModal').style.display='none';closeDetail();}});
     table.on("cellClick",function(e,cell){var f=cell.getColumn().getField();if(f==='country_code'||f==='country_name_en')openDetail(cell.getRow().getData());});
 
-    // Anthem modal
+    // Anthem modal - open via event delegation
     var anthemsData = {};
     fetch('data/anthems.json').then(function(r){return r.json()}).then(function(d){anthemsData = d;});
+    document.getElementById('detailBody').addEventListener('click', function(e) {
+      var el = e.target.closest('.anthem-link');
+      if (!el) return;
+      var code = el.getAttribute('data-code');
+      openAnthem(code);
+    });
     function openAnthem(code) {
       var a = anthemsData[code];
       if (!a) return;
@@ -380,7 +386,6 @@
       document.getElementById('anthemBody').innerHTML = body;
       document.getElementById('anthemModal').style.display = 'block';
     }
-    window.openAnthem = openAnthem;
     document.getElementById('anthemClose').addEventListener('click',function(){document.getElementById('anthemModal').style.display='none';});
     document.getElementById('anthemOverlay').addEventListener('click',function(){document.getElementById('anthemModal').style.display='none';});
 
