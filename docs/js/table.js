@@ -380,6 +380,7 @@
       document.getElementById('anthemBody').innerHTML = body;
       document.getElementById('anthemModal').style.display = 'block';
     }
+    window.openAnthem = openAnthem;
     document.getElementById('anthemClose').addEventListener('click',function(){document.getElementById('anthemModal').style.display='none';});
     document.getElementById('anthemOverlay').addEventListener('click',function(){document.getElementById('anthemModal').style.display='none';});
 
