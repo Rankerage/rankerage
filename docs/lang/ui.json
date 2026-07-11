@@ -1061,5 +1061,100 @@
     "en": "MarryRate",
     "ko": "혼인율",
     "ja": "婚姻率"
+  },
+  "eduPct": {
+    "en": "Tertiary",
+    "ko": "고등교육",
+    "ja": "高等教育"
+  },
+  "schoolYr": {
+    "en": "SchoolYr",
+    "ko": "교육연한",
+    "ja": "教育年数"
+  },
+  "univ": {
+    "en": "Univ",
+    "ko": "대학",
+    "ja": "大学"
+  },
+  "onlyfans": {
+    "en": "OnlyFans",
+    "ko": "OnlyFans",
+    "ja": "OnlyFans"
+  },
+  "adult": {
+    "en": "AdultFilm",
+    "ko": "성인영화",
+    "ja": "成人映画"
+  },
+  "porn": {
+    "en": "Porn",
+    "ko": "포르노",
+    "ja": "ポルノ"
+  },
+  "welfare": {
+    "en": "Welfare",
+    "ko": "복지",
+    "ja": "福祉"
+  },
+  "unempB": {
+    "en": "Unemp_B",
+    "ko": "실업급여",
+    "ja": "失業給付"
+  },
+  "pension": {
+    "en": "Pension",
+    "ko": "연금",
+    "ja": "年金"
+  },
+  "parental": {
+    "en": "Parental",
+    "ko": "육아휴직",
+    "ja": "育休"
+  },
+  "taxTop": {
+    "en": "TaxTop",
+    "ko": "최고세율",
+    "ja": "最高税率"
+  },
+  "corpTax": {
+    "en": "CorpTax",
+    "ko": "법인세",
+    "ja": "法人税"
+  },
+  "vat": {
+    "en": "VAT",
+    "ko": "부가세",
+    "ja": "消費税"
+  },
+  "taxBurd": {
+    "en": "TaxBurd",
+    "ko": "조세부담",
+    "ja": "税負担"
+  },
+  "f500": {
+    "en": "Fortune500",
+    "ko": "포춘500",
+    "ja": "Fortune500"
+  },
+  "unicorn": {
+    "en": "Unicorn",
+    "ko": "유니콘",
+    "ja": "ユニコーン"
+  },
+  "vc": {
+    "en": "VC",
+    "ko": "벤쳐투자",
+    "ja": "VC投資"
+  },
+  "bizEase": {
+    "en": "BizEase",
+    "ko": "비즈용이",
+    "ja": "ビジネス容易"
+  },
+  "stockMkt": {
+    "en": "StockMkt",
+    "ko": "주식시장",
+    "ja": "株式市場"
   }
 }
