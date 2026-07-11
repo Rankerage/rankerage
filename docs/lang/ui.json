@@ -1521,5 +1521,35 @@
     "en": "GayWed",
     "ko": "동성결혼",
     "ja": "同性婚"
+  },
+  "ubi": {
+    "en": "UBI",
+    "ko": "기본소득",
+    "ja": "基本所得"
+  },
+  "basicInc": {
+    "en": "BasicInc",
+    "ko": "기초보장",
+    "ja": "基礎保障"
+  },
+  "parlAge": {
+    "en": "ParlAge",
+    "ko": "의원연령",
+    "ja": "議員年齢"
+  },
+  "leadAge": {
+    "en": "LeadAge",
+    "ko": "지도자연령",
+    "ja": "指導者年齢"
+  },
+  "yngLead": {
+    "en": "YngLead",
+    "ko": "최연소지도자",
+    "ja": "最年少指導者"
+  },
+  "cabAge": {
+    "en": "CabAge",
+    "ko": "내각연령",
+    "ja": "内閣年齢"
   }
 }

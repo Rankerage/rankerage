@@ -250,5 +250,11 @@
   "disability": "Disability Rights — 장애인권리지수 0-100 (Source: UN)",
   "minority_rights": "Minority Rights — 소수자인권보호 1-10 (Source: Various)",
   "women_parl": "Women in Parliament — 여성의원비율 % (Source: IPU)",
-  "gay_marriage": "Same-Sex Marriage — 동성결혼합법화=1 (Source: ILGA)"
+  "gay_marriage": "Same-Sex Marriage — 동성결혼합법화=1 (Source: ILGA)",
+  "ubi_experiment": "UBI Experiment — 기본소득실험=1 (Source: BIEN)",
+  "basic_income": "Basic Income — 기초생활보장, %평균임금 (Source: OECD)",
+  "parl_age": "Parliament Age — 의원평균연령 (Source: IPU)",
+  "leader_age": "Leader Age — 국가원수 연령 (Source: Wikipedia)",
+  "youngest_leader": "Youngest Leader — 역대최연소지도자연령 (Source: Wikipedia)",
+  "cabinet_age": "Cabinet Age — 내각평균연령 (Source: Various)"
 }

@@ -1962,7 +1962,17 @@
     "disability_rank": 3,
     "minority_rights_rank": 5,
     "women_parl_rank": 13,
-    "gay_marriage_rank": 2
+    "gay_marriage_rank": 2,
+    "basic_income": 20,
+    "parl_age": 56,
+    "leader_age": 49,
+    "youngest_leader": 37,
+    "cabinet_age": 43,
+    "basic_income_rank": 13,
+    "parl_age_rank": 13,
+    "leader_age_rank": 11,
+    "youngest_leader_rank": 4,
+    "cabinet_age_rank": 3
   },
   {
     "flag": "🇦🇬",
@@ -2346,7 +2356,11 @@
     "height_m_rank": 12,
     "height_f_rank": 10,
     "gay_marriage": 1,
-    "gay_marriage_rank": 3
+    "gay_marriage_rank": 3,
+    "basic_income": 32,
+    "youngest_leader": 31,
+    "basic_income_rank": 7,
+    "youngest_leader_rank": 1
   },
   {
     "flag": "🇧🇦",
@@ -3096,7 +3110,9 @@
     "height_m": 179,
     "height_m_rank": 9,
     "gay_marriage": 1,
-    "gay_marriage_rank": 4
+    "gay_marriage_rank": 4,
+    "basic_income": 30,
+    "basic_income_rank": 9
   },
   {
     "flag": "🇧🇫",
@@ -4744,7 +4760,17 @@
     "death_penalty_rank": 1,
     "disability_rank": 11,
     "minority_rights_rank": 10,
-    "gay_marriage_rank": 5
+    "gay_marriage_rank": 5,
+    "ubi_experiment": 1,
+    "basic_income": 12,
+    "parl_age": 48,
+    "leader_age": 41,
+    "cabinet_age": 52,
+    "ubi_experiment_rank": 1,
+    "basic_income_rank": 17,
+    "parl_age_rank": 6,
+    "leader_age_rank": 3,
+    "cabinet_age_rank": 11
   },
   {
     "flag": "🇧🇳",
@@ -5742,7 +5768,9 @@
     "child_labor": 30,
     "child_labor_rank": 11,
     "race_diversity": 0.84,
-    "race_diversity_rank": 7
+    "race_diversity_rank": 7,
+    "leader_age": 90,
+    "leader_age_rank": 18
   },
   {
     "flag": "🇨🇦",
@@ -6116,7 +6144,19 @@
     "freedom_rank": 5,
     "disability_rank": 7,
     "minority_rights_rank": 1,
-    "gay_marriage_rank": 6
+    "gay_marriage_rank": 6,
+    "ubi_experiment": 1,
+    "basic_income": 26,
+    "parl_age": 52,
+    "leader_age": 47,
+    "youngest_leader": 43,
+    "cabinet_age": 44,
+    "ubi_experiment_rank": 2,
+    "basic_income_rank": 11,
+    "parl_age_rank": 9,
+    "leader_age_rank": 10,
+    "youngest_leader_rank": 11,
+    "cabinet_age_rank": 4
   },
   {
     "flag": "🇨🇫",
@@ -6997,7 +7037,15 @@
     "death_penalty_rank": 9,
     "disability_rank": 13,
     "minority_rights_rank": 15,
-    "women_parl_rank": 15
+    "women_parl_rank": 15,
+    "ubi_experiment": 0,
+    "basic_income": 8,
+    "leader_age": 54,
+    "cabinet_age": 56,
+    "ubi_experiment_rank": 17,
+    "basic_income_rank": 18,
+    "leader_age_rank": 12,
+    "cabinet_age_rank": 12
   },
   {
     "flag": "🇨🇴",
@@ -8780,7 +8828,11 @@
     "freedom": 97,
     "gay_marriage": 1,
     "freedom_rank": 6,
-    "gay_marriage_rank": 8
+    "gay_marriage_rank": 8,
+    "basic_income": 38,
+    "parl_age": 43,
+    "basic_income_rank": 3,
+    "parl_age_rank": 2
   },
   {
     "flag": "🇩🇯",
@@ -10613,7 +10665,19 @@
     "gay_marriage": 1,
     "freedom_rank": 1,
     "minority_rights_rank": 2,
-    "gay_marriage_rank": 10
+    "gay_marriage_rank": 10,
+    "ubi_experiment": 1,
+    "basic_income": 35,
+    "parl_age": 44,
+    "leader_age": 38,
+    "youngest_leader": 34,
+    "cabinet_age": 41,
+    "ubi_experiment_rank": 3,
+    "basic_income_rank": 5,
+    "parl_age_rank": 3,
+    "leader_age_rank": 1,
+    "youngest_leader_rank": 3,
+    "cabinet_age_rank": 2
   },
   {
     "flag": "🇫🇷",
@@ -11067,7 +11131,17 @@
     "disability_rank": 6,
     "minority_rights_rank": 11,
     "women_parl_rank": 9,
-    "gay_marriage_rank": 11
+    "gay_marriage_rank": 11,
+    "basic_income": 42,
+    "parl_age": 54,
+    "leader_age": 43,
+    "youngest_leader": 39,
+    "cabinet_age": 47,
+    "basic_income_rank": 1,
+    "parl_age_rank": 11,
+    "leader_age_rank": 4,
+    "youngest_leader_rank": 7,
+    "cabinet_age_rank": 8
   },
   {
     "flag": "🇬🇦",
@@ -11910,7 +11984,19 @@
     "disability_rank": 5,
     "minority_rights_rank": 8,
     "women_parl_rank": 11,
-    "gay_marriage_rank": 12
+    "gay_marriage_rank": 12,
+    "ubi_experiment": 1,
+    "basic_income": 36,
+    "parl_age": 55,
+    "leader_age": 46,
+    "youngest_leader": 46,
+    "cabinet_age": 48,
+    "ubi_experiment_rank": 4,
+    "basic_income_rank": 4,
+    "parl_age_rank": 12,
+    "leader_age_rank": 8,
+    "youngest_leader_rank": 14,
+    "cabinet_age_rank": 9
   },
   {
     "flag": "🇬🇭",
@@ -13860,7 +13946,19 @@
     "death_penalty_rank": 4,
     "disability_rank": 12,
     "minority_rights_rank": 13,
-    "women_parl_rank": 18
+    "women_parl_rank": 18,
+    "ubi_experiment": 1,
+    "basic_income": 5,
+    "parl_age": 50,
+    "leader_age": 55,
+    "youngest_leader": 40,
+    "cabinet_age": 50,
+    "ubi_experiment_rank": 5,
+    "basic_income_rank": 19,
+    "parl_age_rank": 7,
+    "leader_age_rank": 13,
+    "youngest_leader_rank": 9,
+    "cabinet_age_rank": 10
   },
   {
     "flag": "🇮🇩",
@@ -14323,7 +14421,13 @@
     "death_penalty": 1,
     "freedom_rank": 18,
     "slavery_rank": 11,
-    "death_penalty_rank": 11
+    "death_penalty_rank": 11,
+    "ubi_experiment": 1,
+    "leader_age": 58,
+    "cabinet_age": 58,
+    "ubi_experiment_rank": 6,
+    "leader_age_rank": 14,
+    "cabinet_age_rank": 14
   },
   {
     "flag": "🇮🇶",
@@ -14694,7 +14798,11 @@
     "fast_food": 42,
     "fast_food_rank": 7,
     "gay_marriage": 1,
-    "gay_marriage_rank": 14
+    "gay_marriage_rank": 14,
+    "basic_income": 28,
+    "youngest_leader": 38,
+    "basic_income_rank": 10,
+    "youngest_leader_rank": 6
   },
   {
     "flag": "🇮🇱",
@@ -15283,7 +15391,19 @@
     "height_f_rank": 14,
     "ai_adopt_rank": 13,
     "gay_marriage": 0,
-    "gay_marriage_rank": 29
+    "gay_marriage_rank": 29,
+    "ubi_experiment": 1,
+    "basic_income": 15,
+    "parl_age": 58,
+    "leader_age": 45,
+    "youngest_leader": 39,
+    "cabinet_age": 45,
+    "ubi_experiment_rank": 7,
+    "basic_income_rank": 16,
+    "parl_age_rank": 14,
+    "leader_age_rank": 7,
+    "youngest_leader_rank": 8,
+    "cabinet_age_rank": 5
   },
   {
     "flag": "🇯🇲",
@@ -15864,7 +15984,19 @@
     "disability_rank": 10,
     "minority_rights_rank": 14,
     "women_parl_rank": 17,
-    "gay_marriage_rank": 30
+    "gay_marriage_rank": 30,
+    "ubi_experiment": 0,
+    "basic_income": 18,
+    "parl_age": 63,
+    "leader_age": 58,
+    "youngest_leader": 47,
+    "cabinet_age": 64,
+    "ubi_experiment_rank": 18,
+    "basic_income_rank": 14,
+    "parl_age_rank": 16,
+    "leader_age_rank": 15,
+    "youngest_leader_rank": 15,
+    "cabinet_age_rank": 16
   },
   {
     "flag": "🇯🇴",
@@ -16337,7 +16469,9 @@
     "marriage_age_m_rank": 36,
     "marriage_age_f_rank": 34,
     "teen_pregnancy": 88,
-    "teen_pregnancy_rank": 9
+    "teen_pregnancy_rank": 9,
+    "ubi_experiment": 1,
+    "ubi_experiment_rank": 8
   },
   {
     "flag": "🇰🇬",
@@ -20574,7 +20708,9 @@
     "math_olympiad": null,
     "ethnic": "Khalkha Mongol 84.5%, Kazakh 3.9%, Dorvod 2.4%, other 9.2%",
     "antibiotics": 64,
-    "antibiotics_rank": 15
+    "antibiotics_rank": 15,
+    "ubi_experiment": 1,
+    "ubi_experiment_rank": 9
   },
   {
     "flag": "🇲🇪",
@@ -21297,7 +21433,9 @@
     "maternal_mortality_rank": 17,
     "ethnic": "Ovambo 50%, Kavangos 9%, Herero 7%, Damara 7%, Nama 5%, White 6%, other 16%",
     "park_area": 30,
-    "park_area_rank": 3
+    "park_area_rank": 3,
+    "ubi_experiment": 1,
+    "ubi_experiment_rank": 10
   },
   {
     "flag": "🇳🇷",
@@ -21904,7 +22042,11 @@
     "gay_marriage": 1,
     "freedom_rank": 7,
     "minority_rights_rank": 6,
-    "gay_marriage_rank": 17
+    "gay_marriage_rank": 17,
+    "ubi_experiment": 1,
+    "basic_income": 40,
+    "ubi_experiment_rank": 11,
+    "basic_income_rank": 2
   },
   {
     "flag": "🇳🇨",
@@ -22302,7 +22444,15 @@
     "disability_rank": 2,
     "minority_rights_rank": 3,
     "women_parl_rank": 6,
-    "gay_marriage_rank": 18
+    "gay_marriage_rank": 18,
+    "parl_age": 42,
+    "leader_age": 40,
+    "youngest_leader": 37,
+    "cabinet_age": 40,
+    "parl_age_rank": 1,
+    "leader_age_rank": 2,
+    "youngest_leader_rank": 5,
+    "cabinet_age_rank": 1
   },
   {
     "flag": "🇳🇮",
@@ -23623,7 +23773,9 @@
     "freedom": 100,
     "gay_marriage": 1,
     "freedom_rank": 2,
-    "gay_marriage_rank": 19
+    "gay_marriage_rank": 19,
+    "parl_age": 46,
+    "parl_age_rank": 5
   },
   {
     "flag": "🇴🇲",
@@ -26296,7 +26448,13 @@
     "minority_rights": 2,
     "freedom_rank": 17,
     "slavery_rank": 4,
-    "minority_rights_rank": 16
+    "minority_rights_rank": 16,
+    "ubi_experiment": 0,
+    "leader_age": 70,
+    "cabinet_age": 57,
+    "ubi_experiment_rank": 19,
+    "leader_age_rank": 17,
+    "cabinet_age_rank": 13
   },
   {
     "flag": "🇷🇼",
@@ -28519,7 +28677,19 @@
     "death_penalty_rank": 6,
     "disability_rank": 9,
     "women_parl_rank": 16,
-    "gay_marriage_rank": 31
+    "gay_marriage_rank": 31,
+    "ubi_experiment": 1,
+    "basic_income": 16,
+    "parl_age": 50,
+    "leader_age": 46,
+    "youngest_leader": 43,
+    "cabinet_age": 45,
+    "ubi_experiment_rank": 12,
+    "basic_income_rank": 15,
+    "parl_age_rank": 8,
+    "leader_age_rank": 9,
+    "youngest_leader_rank": 12,
+    "cabinet_age_rank": 6
   },
   {
     "flag": "🇪🇸",
@@ -28844,7 +29014,9 @@
     "women_parl": 38,
     "gay_marriage": 1,
     "women_parl_rank": 10,
-    "gay_marriage_rank": 22
+    "gay_marriage_rank": 22,
+    "ubi_experiment": 1,
+    "ubi_experiment_rank": 13
   },
   {
     "flag": "🇱🇰",
@@ -29772,7 +29944,13 @@
     "disability_rank": 1,
     "minority_rights_rank": 4,
     "women_parl_rank": 7,
-    "gay_marriage_rank": 23
+    "gay_marriage_rank": 23,
+    "basic_income": 34,
+    "parl_age": 45,
+    "youngest_leader": 32,
+    "basic_income_rank": 6,
+    "parl_age_rank": 4,
+    "youngest_leader_rank": 2
   },
   {
     "flag": "🇨🇭",
@@ -32328,7 +32506,9 @@
     "child_labor": 18,
     "child_labor_rank": 6,
     "race_diversity": 0.93,
-    "race_diversity_rank": 2
+    "race_diversity_rank": 2,
+    "ubi_experiment": 1,
+    "ubi_experiment_rank": 14
   },
   {
     "flag": "🇺🇦",
@@ -32501,7 +32681,9 @@
     "nuke_reactors": 15,
     "crypto_own_rank": 4,
     "radiation_risk_rank": 12,
-    "nuke_reactors_rank": 9
+    "nuke_reactors_rank": 9,
+    "leader_age": 44,
+    "leader_age_rank": 5
   },
   {
     "flag": "🇦🇪",
@@ -33139,7 +33321,19 @@
     "disability_rank": 4,
     "minority_rights_rank": 7,
     "women_parl_rank": 12,
-    "gay_marriage_rank": 26
+    "gay_marriage_rank": 26,
+    "ubi_experiment": 1,
+    "basic_income": 32,
+    "parl_age": 53,
+    "leader_age": 44,
+    "youngest_leader": 43,
+    "cabinet_age": 46,
+    "ubi_experiment_rank": 15,
+    "basic_income_rank": 8,
+    "parl_age_rank": 10,
+    "leader_age_rank": 6,
+    "youngest_leader_rank": 13,
+    "cabinet_age_rank": 7
   },
   {
     "flag": "🇺🇸",
@@ -33622,7 +33816,19 @@
     "disability_rank": 8,
     "minority_rights_rank": 9,
     "women_parl_rank": 14,
-    "gay_marriage_rank": 27
+    "gay_marriage_rank": 27,
+    "ubi_experiment": 1,
+    "basic_income": 22,
+    "parl_age": 62,
+    "leader_age": 60,
+    "youngest_leader": 42,
+    "cabinet_age": 62,
+    "ubi_experiment_rank": 16,
+    "basic_income_rank": 12,
+    "parl_age_rank": 15,
+    "leader_age_rank": 16,
+    "youngest_leader_rank": 10,
+    "cabinet_age_rank": 15
   },
   {
     "flag": "🇺🇾",
