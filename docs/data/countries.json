@@ -1884,7 +1884,9 @@
     "surgeons_rank": 12,
     "nurses_rank": 5,
     "life_exp_m_rank": 3,
-    "life_exp_f_rank": 6
+    "life_exp_f_rank": 6,
+    "organic_food": 3.2,
+    "organic_food_rank": 13
   },
   {
     "flag": "🇦🇬",
@@ -2254,7 +2256,11 @@
     "pork_consume": 21,
     "nobel_science_rank": 12,
     "physicists_rank": 6,
-    "pork_consume_rank": 8
+    "pork_consume_rank": 8,
+    "organic_food": 8.8,
+    "bread_consume": 62,
+    "organic_food_rank": 4,
+    "bread_consume_rank": 8
   },
   {
     "flag": "🇧🇦",
@@ -2984,7 +2990,9 @@
     "antibiotics": 27,
     "nobel_science_rank": 15,
     "fields_medal_rank": 7,
-    "antibiotics_rank": 10
+    "antibiotics_rank": 10,
+    "bottled_water": 135,
+    "bottled_water_rank": 6
   },
   {
     "flag": "🇧🇫",
@@ -4546,7 +4554,11 @@
     "chicken_consume_rank": 3,
     "surgeons_rank": 13,
     "nurses_rank": 14,
-    "med_tourism_rank": 9
+    "med_tourism_rank": 9,
+    "gold_reserves": 67,
+    "bottled_water": 45,
+    "gold_reserves_rank": 14,
+    "bottled_water_rank": 13
   },
   {
     "flag": "🇧🇳",
@@ -5856,7 +5868,11 @@
     "beef_consume_rank": 7,
     "chicken_consume_rank": 9,
     "life_exp_m_rank": 10,
-    "life_exp_f_rank": 8
+    "life_exp_f_rank": 8,
+    "organic_food": 3.5,
+    "ev_adoption": 18,
+    "organic_food_rank": 12,
+    "ev_adoption_rank": 11
   },
   {
     "flag": "🇨🇫",
@@ -6631,7 +6647,19 @@
     "surgeons_rank": 14,
     "nurses_rank": 15,
     "life_exp_m_rank": 15,
-    "life_exp_f_rank": 14
+    "life_exp_f_rank": 14,
+    "social_media": 0,
+    "organic_food": 2.0,
+    "ev_adoption": 24,
+    "gold_reserves": 2068,
+    "bottled_water": 54,
+    "bread_consume": 22,
+    "social_media_rank": 16,
+    "organic_food_rank": 15,
+    "ev_adoption_rank": 10,
+    "gold_reserves_rank": 6,
+    "bottled_water_rank": 12,
+    "bread_consume_rank": 16
   },
   {
     "flag": "🇨🇴",
@@ -8354,7 +8382,15 @@
     "nobel_science_rank": 13,
     "homelessness_rank": 3,
     "pork_consume_rank": 10,
-    "nurses_rank": 3
+    "nurses_rank": 3,
+    "social_media": 85,
+    "organic_food": 12.8,
+    "ev_adoption": 38,
+    "bread_consume": 45,
+    "social_media_rank": 7,
+    "organic_food_rank": 1,
+    "ev_adoption_rank": 5,
+    "bread_consume_rank": 13
   },
   {
     "flag": "🇩🇯",
@@ -10127,7 +10163,9 @@
     "physicists": 6.8,
     "homelessness": 3.2,
     "physicists_rank": 3,
-    "homelessness_rank": 2
+    "homelessness_rank": 2,
+    "ev_adoption": 37,
+    "ev_adoption_rank": 6
   },
   {
     "flag": "🇫🇷",
@@ -10487,7 +10525,19 @@
     "med_tourism_rank": 11,
     "life_exp_m_rank": 12,
     "life_exp_f_rank": 3,
-    "antibiotics_rank": 12
+    "antibiotics_rank": 12,
+    "social_media": 70,
+    "organic_food": 6.2,
+    "ev_adoption": 25,
+    "gold_reserves": 2436,
+    "bottled_water": 145,
+    "bread_consume": 95,
+    "social_media_rank": 13,
+    "organic_food_rank": 7,
+    "ev_adoption_rank": 9,
+    "gold_reserves_rank": 4,
+    "bottled_water_rank": 5,
+    "bread_consume_rank": 3
   },
   {
     "flag": "🇬🇦",
@@ -11232,7 +11282,19 @@
     "med_tourism_rank": 12,
     "life_exp_m_rank": 13,
     "life_exp_f_rank": 11,
-    "antibiotics_rank": 2
+    "antibiotics_rank": 2,
+    "social_media": 73,
+    "organic_food": 6.8,
+    "ev_adoption": 31,
+    "gold_reserves": 3359,
+    "bottled_water": 130,
+    "bread_consume": 106,
+    "social_media_rank": 12,
+    "organic_food_rank": 6,
+    "ev_adoption_rank": 7,
+    "gold_reserves_rank": 2,
+    "bottled_water_rank": 7,
+    "bread_consume_rank": 2
   },
   {
     "flag": "🇬🇭",
@@ -12785,7 +12847,9 @@
     "marriage_age_m_rank": 3,
     "marriage_age_f_rank": 3,
     "life_exp_m": 80,
-    "life_exp_m_rank": 5
+    "life_exp_m_rank": 5,
+    "ev_adoption": 72,
+    "ev_adoption_rank": 2
   },
   {
     "flag": "🇮🇳",
@@ -13072,7 +13136,17 @@
     "nurses_rank": 16,
     "med_tourism_rank": 2,
     "life_exp_m_rank": 16,
-    "life_exp_f_rank": 16
+    "life_exp_f_rank": 16,
+    "social_media": 32,
+    "ev_adoption": 2,
+    "gold_reserves": 743,
+    "bottled_water": 22,
+    "bread_consume": 15,
+    "social_media_rank": 15,
+    "ev_adoption_rank": 15,
+    "gold_reserves_rank": 9,
+    "bottled_water_rank": 14,
+    "bread_consume_rank": 17
   },
   {
     "flag": "🇮🇩",
@@ -14389,7 +14463,15 @@
     "nurses_rank": 13,
     "life_exp_m_rank": 6,
     "life_exp_f_rank": 7,
-    "antibiotics_rank": 11
+    "antibiotics_rank": 11,
+    "organic_food": 3.8,
+    "gold_reserves": 2452,
+    "bottled_water": 250,
+    "bread_consume": 85,
+    "organic_food_rank": 11,
+    "gold_reserves_rank": 3,
+    "bottled_water_rank": 2,
+    "bread_consume_rank": 4
   },
   {
     "flag": "🇯🇲",
@@ -14874,7 +14956,19 @@
     "surgeons_rank": 10,
     "nurses_rank": 11,
     "life_exp_m_rank": 2,
-    "life_exp_f_rank": 1
+    "life_exp_f_rank": 1,
+    "social_media": 65,
+    "organic_food": 2.5,
+    "ev_adoption": 8,
+    "gold_reserves": 846,
+    "bottled_water": 68,
+    "bread_consume": 32,
+    "social_media_rank": 14,
+    "organic_food_rank": 14,
+    "ev_adoption_rank": 14,
+    "gold_reserves_rank": 8,
+    "bottled_water_rank": 11,
+    "bread_consume_rank": 14
   },
   {
     "flag": "🇯🇴",
@@ -17212,7 +17306,9 @@
     "tertiary": 47,
     "welfare_spend": 21.4,
     "tertiary_rank": 8,
-    "welfare_spend_rank": 14
+    "welfare_spend_rank": 14,
+    "organic_food": 8.2,
+    "organic_food_rank": 5
   },
   {
     "flag": "🇲🇬",
@@ -17680,7 +17776,9 @@
     "chicken_consume": 42,
     "med_tourism": 82,
     "chicken_consume_rank": 5,
-    "med_tourism_rank": 4
+    "med_tourism_rank": 4,
+    "social_media": 87,
+    "social_media_rank": 5
   },
   {
     "flag": "🇲🇻",
@@ -18976,7 +19074,9 @@
     "beef_consume": 9,
     "med_tourism": 75,
     "beef_consume_rank": 16,
-    "med_tourism_rank": 6
+    "med_tourism_rank": 6,
+    "bottled_water": 282,
+    "bottled_water_rank": 1
   },
   {
     "flag": "🇫🇲",
@@ -20784,7 +20884,17 @@
     "nobel_science_rank": 11,
     "physicists_rank": 8,
     "homelessness_rank": 1,
-    "nurses_rank": 7
+    "nurses_rank": 7,
+    "social_media": 88,
+    "organic_food": 4.2,
+    "ev_adoption": 48,
+    "gold_reserves": 612,
+    "bread_consume": 55,
+    "social_media_rank": 4,
+    "organic_food_rank": 10,
+    "ev_adoption_rank": 4,
+    "gold_reserves_rank": 10,
+    "bread_consume_rank": 10
   },
   {
     "flag": "🇳🇨",
@@ -22427,7 +22537,9 @@
     "fields_medal_rank": 12,
     "nurses_rank": 2,
     "life_exp_m_rank": 4,
-    "life_exp_f_rank": 9
+    "life_exp_f_rank": 9,
+    "ev_adoption": 86,
+    "ev_adoption_rank": 1
   },
   {
     "flag": "🇴🇲",
@@ -24051,7 +24163,9 @@
     "cat_own_rank": 10,
     "dog_own_rank": 13,
     "pork_consume": 22,
-    "pork_consume_rank": 7
+    "pork_consume_rank": 7,
+    "bread_consume": 65,
+    "bread_consume_rank": 7
   },
   {
     "flag": "🇵🇹",
@@ -24769,7 +24883,9 @@
     "marriage_rate": 5.0,
     "marriage_rate_rank": 12,
     "antibiotics": 33,
-    "antibiotics_rank": 13
+    "antibiotics_rank": 13,
+    "bread_consume": 58,
+    "bread_consume_rank": 9
   },
   {
     "flag": "🇷🇺",
@@ -25030,7 +25146,9 @@
     "chem_olympiad_rank": 3,
     "beef_consume_rank": 13,
     "life_exp_m_rank": 17,
-    "life_exp_f_rank": 15
+    "life_exp_f_rank": 15,
+    "gold_reserves": 2301,
+    "gold_reserves_rank": 5
   },
   {
     "flag": "🇷🇼",
@@ -25755,7 +25873,9 @@
     "vc_funding_rank": 9,
     "business_ease_rank": 2,
     "med_tourism": 86,
-    "med_tourism_rank": 3
+    "med_tourism_rank": 3,
+    "social_media": 83,
+    "social_media_rank": 9
   },
   {
     "flag": "🇸🇽",
@@ -27115,7 +27235,17 @@
     "med_tourism_rank": 7,
     "life_exp_m_rank": 8,
     "life_exp_f_rank": 4,
-    "antibiotics_rank": 3
+    "antibiotics_rank": 3,
+    "social_media": 94,
+    "ev_adoption": 16,
+    "gold_reserves": 104,
+    "bottled_water": 85,
+    "bread_consume": 28,
+    "social_media_rank": 2,
+    "ev_adoption_rank": 12,
+    "gold_reserves_rank": 13,
+    "bottled_water_rank": 10,
+    "bread_consume_rank": 15
   },
   {
     "flag": "🇪🇸",
@@ -27406,7 +27536,11 @@
     "surgeons_rank": 4,
     "life_exp_m_rank": 9,
     "life_exp_f_rank": 2,
-    "antibiotics_rank": 9
+    "antibiotics_rank": 9,
+    "bottled_water": 98,
+    "bread_consume": 70,
+    "bottled_water_rank": 9,
+    "bread_consume_rank": 6
   },
   {
     "flag": "🇱🇰",
@@ -28262,7 +28396,15 @@
     "homelessness_rank": 4,
     "nurses_rank": 6,
     "life_exp_m_rank": 7,
-    "life_exp_f_rank": 10
+    "life_exp_f_rank": 10,
+    "social_media": 86,
+    "organic_food": 9.6,
+    "ev_adoption": 56,
+    "bread_consume": 48,
+    "social_media_rank": 6,
+    "organic_food_rank": 3,
+    "ev_adoption_rank": 3,
+    "bread_consume_rank": 12
   },
   {
     "flag": "🇨🇭",
@@ -28531,7 +28673,11 @@
     "surgeons_rank": 7,
     "nurses_rank": 1,
     "life_exp_m_rank": 1,
-    "life_exp_f_rank": 5
+    "life_exp_f_rank": 5,
+    "organic_food": 11.2,
+    "gold_reserves": 1040,
+    "organic_food_rank": 2,
+    "gold_reserves_rank": 7
   },
   {
     "flag": "🇸🇾",
@@ -28817,7 +28963,9 @@
     "chem_olympiad": 28,
     "med_tourism": 68,
     "chem_olympiad_rank": 5,
-    "med_tourism_rank": 8
+    "med_tourism_rank": 8,
+    "social_media": 90,
+    "social_media_rank": 3
   },
   {
     "flag": "🇹🇯",
@@ -29322,7 +29470,9 @@
     "influencers_rank": 14,
     "street_food_rank": 1,
     "med_tourism": 95,
-    "med_tourism_rank": 1
+    "med_tourism_rank": 1,
+    "bottled_water": 215,
+    "bottled_water_rank": 3
   },
   {
     "flag": "🇹🇱",
@@ -30215,7 +30365,11 @@
     "marriage_age_f_rank": 29,
     "marriage_rate_rank": 7,
     "med_tourism": 78,
-    "med_tourism_rank": 5
+    "med_tourism_rank": 5,
+    "gold_reserves": 584,
+    "bread_consume": 199,
+    "gold_reserves_rank": 11,
+    "bread_consume_rank": 1
   },
   {
     "flag": "🇹🇲",
@@ -31082,7 +31236,9 @@
     "vaccination": 96,
     "g5_coverage": 78,
     "vaccination_rank": 5,
-    "g5_coverage_rank": 6
+    "g5_coverage_rank": 6,
+    "social_media": 105,
+    "social_media_rank": 1
   },
   {
     "flag": "🇬🇧",
@@ -31443,7 +31599,19 @@
     "nurses_rank": 8,
     "life_exp_m_rank": 11,
     "life_exp_f_rank": 12,
-    "antibiotics_rank": 4
+    "antibiotics_rank": 4,
+    "social_media": 78,
+    "organic_food": 4.5,
+    "ev_adoption": 29,
+    "gold_reserves": 310,
+    "bottled_water": 105,
+    "bread_consume": 78,
+    "social_media_rank": 11,
+    "organic_food_rank": 9,
+    "ev_adoption_rank": 8,
+    "gold_reserves_rank": 12,
+    "bottled_water_rank": 8,
+    "bread_consume_rank": 5
   },
   {
     "flag": "🇺🇸",
@@ -31816,7 +31984,19 @@
     "nurses_rank": 10,
     "life_exp_m_rank": 14,
     "life_exp_f_rank": 13,
-    "antibiotics_rank": 1
+    "antibiotics_rank": 1,
+    "social_media": 80,
+    "organic_food": 5.8,
+    "ev_adoption": 13,
+    "gold_reserves": 8133,
+    "bottled_water": 178,
+    "bread_consume": 52,
+    "social_media_rank": 10,
+    "organic_food_rank": 8,
+    "ev_adoption_rank": 13,
+    "gold_reserves_rank": 1,
+    "bottled_water_rank": 4,
+    "bread_consume_rank": 11
   },
   {
     "flag": "🇺🇾",
@@ -33579,7 +33759,9 @@
     "business_ease_rank": 10,
     "stock_market_rank": 4,
     "pork_consume": 70,
-    "pork_consume_rank": 1
+    "pork_consume_rank": 1,
+    "social_media": 84,
+    "social_media_rank": 8
   },
   {
     "country_code": "xk",

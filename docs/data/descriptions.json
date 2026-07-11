@@ -193,5 +193,11 @@
   "med_tourism": "Medical Tourism — 의료관광지수 1-100 (Source: MTI)",
   "life_exp_m": "Life Exp (Male) — 남성 기대수명 (Source: WHO)",
   "life_exp_f": "Life Exp (Female) — 여성 기대수명 (Source: WHO)",
-  "antibiotics": "Antibiotic Use — 항생제사용, DDD/1000명 (Source: WHO)"
+  "antibiotics": "Antibiotic Use — 항생제사용, DDD/1000명 (Source: WHO)",
+  "social_media": "Social Media % — SNS 보급률, 인구대비 (Source: Statista)",
+  "organic_food": "Organic Food — 유기농식품 시장점유율 % (Source: FiBL)",
+  "ev_adoption": "EV Adoption — 전기차 신차판매비율 % (Source: IEA)",
+  "gold_reserves": "Gold Reserves — 금보유고, 톤 (Source: WGC)",
+  "bottled_water": "Bottled Water — 1인당 생수 소비량 L (Source: Statista)",
+  "bread_consume": "Bread Consumption — 1인당 빵 소비량 kg (Source: FAO)"
 }

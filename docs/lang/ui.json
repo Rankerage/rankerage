@@ -1236,5 +1236,35 @@
     "en": "Antibio",
     "ko": "항생제",
     "ja": "抗生物質"
+  },
+  "sMedia": {
+    "en": "SNS",
+    "ko": "SNS",
+    "ja": "SNS"
+  },
+  "organic": {
+    "en": "Organic",
+    "ko": "유기농",
+    "ja": "有機"
+  },
+  "ev": {
+    "en": "EV",
+    "ko": "전기차",
+    "ja": "EV"
+  },
+  "gold": {
+    "en": "Gold",
+    "ko": "금보유",
+    "ja": "金保有"
+  },
+  "water": {
+    "en": "Water",
+    "ko": "생수",
+    "ja": "ミネラル水"
+  },
+  "bread": {
+    "en": "Bread",
+    "ko": "빵",
+    "ja": "パン"
   }
 }
