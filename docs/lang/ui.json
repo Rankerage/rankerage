@@ -1331,5 +1331,40 @@
     "en": "Strike",
     "ko": "파업",
     "ja": "スト"
+  },
+  "college": {
+    "en": "College",
+    "ko": "대학진학",
+    "ja": "大学進学"
+  },
+  "war": {
+    "en": "War",
+    "ko": "전쟁",
+    "ja": "戦争"
+  },
+  "polKill": {
+    "en": "PolitKill",
+    "ko": "정치살해",
+    "ja": "政治的殺害"
+  },
+  "lit": {
+    "en": "Literat",
+    "ko": "문학",
+    "ja": "文学"
+  },
+  "library": {
+    "en": "Library",
+    "ko": "도서관",
+    "ja": "図書館"
+  },
+  "displaced": {
+    "en": "Displace",
+    "ko": "난민발생",
+    "ja": "難民発生"
+  },
+  "domesticV": {
+    "en": "DomesticV",
+    "ko": "가정폭력",
+    "ja": "家庭内暴力"
   }
 }

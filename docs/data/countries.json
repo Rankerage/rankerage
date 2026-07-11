@@ -155,7 +155,15 @@
     "earthquake_count": 8,
     "emigration": 20,
     "earthquake_count_rank": 5,
-    "emigration_rank": 9
+    "emigration_rank": 9,
+    "war_index": 5,
+    "polit_kill": 3.8,
+    "displaced_from": 9,
+    "domestic_viol": 62,
+    "war_index_rank": 8,
+    "polit_kill_rank": 12,
+    "displaced_from_rank": 10,
+    "domestic_viol_rank": 15
   },
   {
     "flag": "🇦🇽",
@@ -1900,7 +1908,9 @@
     "sex_duration_rank": 9,
     "insurance_rank": 13,
     "baseball_rank": 12,
-    "insurance_cap_rank": 12
+    "insurance_cap_rank": 12,
+    "college_rate": 119,
+    "college_rate_rank": 2
   },
   {
     "flag": "🇦🇬",
@@ -2274,7 +2284,9 @@
     "organic_food": 8.8,
     "bread_consume": 62,
     "organic_food_rank": 4,
-    "bread_consume_rank": 8
+    "bread_consume_rank": 8,
+    "literature": 4,
+    "literature_rank": 11
   },
   {
     "flag": "🇧🇦",
@@ -2748,7 +2760,9 @@
     "marriage_age_m": 25,
     "marriage_age_f": 20,
     "marriage_age_m_rank": 38,
-    "marriage_age_f_rank": 38
+    "marriage_age_f_rank": 38,
+    "domestic_viol": 65,
+    "domestic_viol_rank": 16
   },
   {
     "flag": "🇧🇪",
@@ -3156,7 +3170,11 @@
     "extreme_poverty_rank": 7,
     "poverty_gap_rank": 4,
     "teen_pregnancy": 108,
-    "teen_pregnancy_rank": 14
+    "teen_pregnancy_rank": 14,
+    "war_index": 6,
+    "polit_kill": 3.5,
+    "war_index_rank": 10,
+    "polit_kill_rank": 11
   },
   {
     "flag": "🇧🇬",
@@ -3353,7 +3371,9 @@
     "worldcup_parts_rank": 24,
     "olympic_per_cap_rank": 15,
     "parental_leave": 63,
-    "parental_leave_rank": 2
+    "parental_leave_rank": 2,
+    "libraries": 57,
+    "libraries_rank": 2
   },
   {
     "flag": "🇧🇭",
@@ -4596,7 +4616,13 @@
     "manufacturing": 190,
     "sex_duration_rank": 1,
     "union_rate_rank": 11,
-    "manufacturing_rank": 13
+    "manufacturing_rank": 13,
+    "college_rate": 51,
+    "literature": 2,
+    "domestic_viol": 30,
+    "college_rate_rank": 15,
+    "literature_rank": 14,
+    "domestic_viol_rank": 7
   },
   {
     "flag": "🇧🇳",
@@ -6071,7 +6097,9 @@
     "extreme_poverty_rank": 12,
     "poverty_gap_rank": 6,
     "teen_pregnancy": 115,
-    "teen_pregnancy_rank": 15
+    "teen_pregnancy_rank": 15,
+    "displaced_from": 3,
+    "displaced_from_rank": 2
   },
   {
     "flag": "🇹🇩",
@@ -6735,7 +6763,17 @@
     "sex_duration_rank": 14,
     "insurance_rank": 14,
     "manufacturing_rank": 1,
-    "insurance_cap_rank": 14
+    "insurance_cap_rank": 14,
+    "college_rate": 58,
+    "polit_kill": 0.5,
+    "literature": 3,
+    "libraries": 5,
+    "domestic_viol": 38,
+    "college_rate_rank": 14,
+    "polit_kill_rank": 3,
+    "literature_rank": 13,
+    "libraries_rank": 19,
+    "domestic_viol_rank": 10
   },
   {
     "flag": "🇨🇴",
@@ -7203,7 +7241,15 @@
     "extreme_poverty": 68,
     "poverty_gap": 29,
     "extreme_poverty_rank": 9,
-    "poverty_gap_rank": 7
+    "poverty_gap_rank": 7,
+    "war_index": 7,
+    "polit_kill": 4.8,
+    "displaced_from": 6,
+    "domestic_viol": 70,
+    "war_index_rank": 13,
+    "polit_kill_rank": 14,
+    "displaced_from_rank": 7,
+    "domestic_viol_rank": 18
   },
   {
     "flag": "🇨🇬",
@@ -8190,7 +8236,9 @@
     "antibiotics": 23,
     "homelessness_rank": 7,
     "pork_consume_rank": 9,
-    "antibiotics_rank": 6
+    "antibiotics_rank": 6,
+    "libraries": 62,
+    "libraries_rank": 1
   },
   {
     "flag": "🇩🇰",
@@ -8476,7 +8524,9 @@
     "strike_days": 68,
     "union_rate_rank": 2,
     "insurance_cap_rank": 4,
-    "strike_days_rank": 10
+    "strike_days_rank": 10,
+    "libraries": 28,
+    "libraries_rank": 11
   },
   {
     "flag": "🇩🇯",
@@ -9481,7 +9531,9 @@
     "marathon_elite": 2,
     "emigration": 22,
     "marathon_elite_rank": 14,
-    "emigration_rank": 10
+    "emigration_rank": 10,
+    "displaced_from": 3,
+    "displaced_from_rank": 3
   },
   {
     "flag": "🇪🇪",
@@ -9669,7 +9721,9 @@
     "pisa_science_rank": 2,
     "pisa_reading_rank": 5,
     "parental_leave": 82,
-    "parental_leave_rank": 1
+    "parental_leave_rank": 1,
+    "libraries": 46,
+    "libraries_rank": 5
   },
   {
     "flag": "🇪🇹",
@@ -9857,7 +9911,13 @@
     "refugees_rank": 9,
     "peacekeeping_rank": 5,
     "contraception": 35,
-    "contraception_rank": 11
+    "contraception_rank": 11,
+    "war_index": 6,
+    "polit_kill": 2.2,
+    "domestic_viol": 68,
+    "war_index_rank": 11,
+    "polit_kill_rank": 8,
+    "domestic_viol_rank": 17
   },
   {
     "flag": "🇫🇯",
@@ -10259,7 +10319,11 @@
     "union_rate": 59,
     "strike_days": 55,
     "union_rate_rank": 4,
-    "strike_days_rank": 8
+    "strike_days_rank": 8,
+    "college_rate": 93,
+    "libraries": 32,
+    "college_rate_rank": 4,
+    "libraries_rank": 10
   },
   {
     "flag": "🇫🇷",
@@ -10653,7 +10717,15 @@
     "union_rate_rank": 17,
     "manufacturing_rank": 7,
     "insurance_cap_rank": 8,
-    "strike_days_rank": 14
+    "strike_days_rank": 14,
+    "college_rate": 65,
+    "literature": 28,
+    "libraries": 15,
+    "domestic_viol": 21,
+    "college_rate_rank": 11,
+    "literature_rank": 1,
+    "libraries_rank": 18,
+    "domestic_viol_rank": 3
   },
   {
     "flag": "🇬🇦",
@@ -11434,7 +11506,15 @@
     "union_rate_rank": 12,
     "manufacturing_rank": 4,
     "insurance_cap_rank": 10,
-    "strike_days_rank": 5
+    "strike_days_rank": 5,
+    "college_rate": 74,
+    "literature": 18,
+    "libraries": 22,
+    "domestic_viol": 22,
+    "college_rate_rank": 9,
+    "literature_rank": 4,
+    "libraries_rank": 14,
+    "domestic_viol_rank": 4
   },
   {
     "flag": "🇬🇭",
@@ -11796,7 +11876,9 @@
     "sex_frequency": 164,
     "sex_frequency_rank": 1,
     "sex_duration": 20,
-    "sex_duration_rank": 4
+    "sex_duration_rank": 4,
+    "college_rate": 148,
+    "college_rate_rank": 1
   },
   {
     "flag": "🇬🇹",
@@ -12821,7 +12903,9 @@
     "corp_tax_rank": 1,
     "vat_rate_rank": 17,
     "med_tourism": 48,
-    "med_tourism_rank": 13
+    "med_tourism_rank": 13,
+    "libraries": 38,
+    "libraries_rank": 8
   },
   {
     "flag": "🇮🇸",
@@ -13310,7 +13394,15 @@
     "sex_duration_rank": 11,
     "insurance_rank": 15,
     "manufacturing_rank": 5,
-    "insurance_cap_rank": 15
+    "insurance_cap_rank": 15,
+    "college_rate": 28,
+    "literature": 2,
+    "libraries": 3,
+    "domestic_viol": 48,
+    "college_rate_rank": 16,
+    "literature_rank": 15,
+    "libraries_rank": 20,
+    "domestic_viol_rank": 11
   },
   {
     "flag": "🇮🇩",
@@ -13747,7 +13839,9 @@
     "fields_medal": 2,
     "chem_olympiad": 20,
     "fields_medal_rank": 9,
-    "chem_olympiad_rank": 8
+    "chem_olympiad_rank": 8,
+    "polit_kill": 1.2,
+    "polit_kill_rank": 5
   },
   {
     "flag": "🇮🇶",
@@ -13882,7 +13976,13 @@
     "nuclear_power": null,
     "volcanoes": null,
     "math_olympiad": null,
-    "ethnic": "Arab 75-80%, Kurdish 15-20%, Turkoman, Assyrian, other 5%"
+    "ethnic": "Arab 75-80%, Kurdish 15-20%, Turkoman, Assyrian, other 5%",
+    "war_index": 4,
+    "polit_kill": 1.8,
+    "displaced_from": 2,
+    "war_index_rank": 7,
+    "polit_kill_rank": 7,
+    "displaced_from_rank": 1
   },
   {
     "flag": "🇮🇪",
@@ -14304,7 +14404,9 @@
     "chicken_consume": 44,
     "nobel_science_rank": 16,
     "physicists_rank": 4,
-    "chicken_consume_rank": 4
+    "chicken_consume_rank": 4,
+    "war_index": 2,
+    "war_index_rank": 3
   },
   {
     "flag": "🇮🇹",
@@ -14659,7 +14761,11 @@
     "baseball_rank": 13,
     "union_rate_rank": 7,
     "manufacturing_rank": 8,
-    "strike_days_rank": 11
+    "strike_days_rank": 11,
+    "college_rate": 65,
+    "literature": 10,
+    "college_rate_rank": 12,
+    "literature_rank": 6
   },
   {
     "flag": "🇯🇲",
@@ -15180,7 +15286,15 @@
     "union_rate_rank": 13,
     "manufacturing_rank": 3,
     "insurance_cap_rank": 11,
-    "strike_days_rank": 2
+    "strike_days_rank": 2,
+    "college_rate": 64,
+    "literature": 8,
+    "libraries": 16,
+    "domestic_viol": 17,
+    "college_rate_rank": 13,
+    "literature_rank": 7,
+    "libraries_rank": 17,
+    "domestic_viol_rank": 2
   },
   {
     "flag": "🇯🇴",
@@ -16508,7 +16622,9 @@
     "nato_rank": 17,
     "ethnic": "Latvian 62.7%, Russian 24.5%, Belarusian 3.1%, Ukrainian 2.2%, Polish 2%",
     "marriage_rate": 4.6,
-    "marriage_rate_rank": 14
+    "marriage_rate_rank": 14,
+    "libraries": 49,
+    "libraries_rank": 4
   },
   {
     "flag": "🇱🇧",
@@ -16642,7 +16758,9 @@
     "math_olympiad": null,
     "ethnic": "Lebanese 78%, Palestinian 8%, Syrian 6%, Armenian 4%, other 4%",
     "refugees": 1000,
-    "refugees_rank": 10
+    "refugees_rank": 10,
+    "war_index": 3,
+    "war_index_rank": 5
   },
   {
     "flag": "🇱🇸",
@@ -17353,7 +17471,9 @@
     "marriage_rate": 4.8,
     "marriage_rate_rank": 13,
     "parental_leave": 60,
-    "parental_leave_rank": 4
+    "parental_leave_rank": 4,
+    "libraries": 52,
+    "libraries_rank": 3
   },
   {
     "flag": "🇱🇺",
@@ -18268,7 +18388,11 @@
     "extreme_poverty": 54,
     "extreme_poverty_rank": 3,
     "teen_pregnancy": 105,
-    "teen_pregnancy_rank": 13
+    "teen_pregnancy_rank": 13,
+    "war_index": 6,
+    "polit_kill": 3.2,
+    "war_index_rank": 12,
+    "polit_kill_rank": 10
   },
   {
     "flag": "🇲🇹",
@@ -19302,7 +19426,9 @@
     "baseball": 72,
     "manufacturing": 230,
     "baseball_rank": 9,
-    "manufacturing_rank": 12
+    "manufacturing_rank": 12,
+    "domestic_viol": 36,
+    "domestic_viol_rank": 9
   },
   {
     "flag": "🇫🇲",
@@ -20406,7 +20532,13 @@
     "cyclone_freq_rank": 11,
     "flood_risk_rank": 13,
     "trafficking_rank": 2,
-    "rice_consume_rank": 5
+    "rice_consume_rank": 5,
+    "war_index": 9,
+    "polit_kill": 8.5,
+    "displaced_from": 7,
+    "war_index_rank": 18,
+    "polit_kill_rank": 19,
+    "displaced_from_rank": 8
   },
   {
     "flag": "🇳🇦",
@@ -21510,7 +21642,9 @@
     "homelessness": 10.8,
     "beef_consume": 28,
     "homelessness_rank": 11,
-    "beef_consume_rank": 6
+    "beef_consume_rank": 6,
+    "college_rate": 84,
+    "college_rate_rank": 7
   },
   {
     "flag": "🇳🇮",
@@ -22005,7 +22139,13 @@
     "contraception": 17,
     "condom_use_rank": 15,
     "teen_pregnancy_rank": 17,
-    "contraception_rank": 12
+    "contraception_rank": 12,
+    "college_rate": 12,
+    "war_index": 5,
+    "polit_kill": 2.5,
+    "college_rate_rank": 17,
+    "war_index_rank": 9,
+    "polit_kill_rank": 9
   },
   {
     "flag": "🇳🇺",
@@ -22262,7 +22402,9 @@
     "volcanoes": null,
     "math_olympiad": null,
     "military_personnel_rank": 4,
-    "ethnic": null
+    "ethnic": null,
+    "polit_kill": 0.8,
+    "polit_kill_rank": 4
   },
   {
     "flag": "🇲🇰",
@@ -22789,7 +22931,9 @@
     "union_rate": 52,
     "strike_days": 62,
     "union_rate_rank": 6,
-    "strike_days_rank": 9
+    "strike_days_rank": 9,
+    "literature": 4,
+    "literature_rank": 12
   },
   {
     "flag": "🇴🇲",
@@ -23133,7 +23277,11 @@
     "marriage_age_m": 26,
     "marriage_age_f": 22,
     "marriage_age_m_rank": 37,
-    "marriage_age_f_rank": 37
+    "marriage_age_f_rank": 37,
+    "war_index": 3,
+    "domestic_viol": 55,
+    "war_index_rank": 6,
+    "domestic_viol_rank": 12
   },
   {
     "flag": "🇵🇼",
@@ -23391,7 +23539,9 @@
     "nuclear_power": null,
     "volcanoes": null,
     "math_olympiad": null,
-    "ethnic": null
+    "ethnic": null,
+    "war_index": 10,
+    "war_index_rank": 20
   },
   {
     "flag": "🇵🇦",
@@ -24419,7 +24569,11 @@
     "bread_consume": 65,
     "bread_consume_rank": 7,
     "sex_frequency": 132,
-    "sex_frequency_rank": 3
+    "sex_frequency_rank": 3,
+    "literature": 5,
+    "libraries": 44,
+    "literature_rank": 10,
+    "libraries_rank": 6
   },
   {
     "flag": "🇵🇹",
@@ -25141,7 +25295,9 @@
     "antibiotics": 33,
     "antibiotics_rank": 13,
     "bread_consume": 58,
-    "bread_consume_rank": 9
+    "bread_consume_rank": 9,
+    "libraries": 35,
+    "libraries_rank": 9
   },
   {
     "flag": "🇷🇺",
@@ -25408,7 +25564,15 @@
     "sex_frequency": 130,
     "sex_frequency_rank": 4,
     "manufacturing": 240,
-    "manufacturing_rank": 11
+    "manufacturing_rank": 11,
+    "war_index": 2,
+    "polit_kill": 0.3,
+    "literature": 7,
+    "domestic_viol": 33,
+    "war_index_rank": 4,
+    "polit_kill_rank": 2,
+    "literature_rank": 8,
+    "domestic_viol_rank": 8
   },
   {
     "flag": "🇷🇼",
@@ -26464,7 +26628,9 @@
     "parental_leave": 52,
     "parental_leave_rank": 10,
     "antibiotics": 24,
-    "antibiotics_rank": 7
+    "antibiotics_rank": 7,
+    "libraries": 41,
+    "libraries_rank": 7
   },
   {
     "flag": "🇸🇮",
@@ -26931,7 +27097,13 @@
     "maternal_mortality_rank": 51,
     "ethnic": "Somali 85%, Bantu & other 15%",
     "emigration": 18,
-    "emigration_rank": 8
+    "emigration_rank": 8,
+    "war_index": 7,
+    "polit_kill": 4.2,
+    "displaced_from": 5,
+    "war_index_rank": 14,
+    "polit_kill_rank": 13,
+    "displaced_from_rank": 6
   },
   {
     "flag": "🇿🇦",
@@ -27541,7 +27713,15 @@
     "union_rate_rank": 15,
     "manufacturing_rank": 6,
     "insurance_cap_rank": 9,
-    "strike_days_rank": 3
+    "strike_days_rank": 3,
+    "college_rate": 98,
+    "literature": 1,
+    "libraries": 18,
+    "domestic_viol": 16,
+    "college_rate_rank": 3,
+    "literature_rank": 16,
+    "libraries_rank": 16,
+    "domestic_viol_rank": 1
   },
   {
     "flag": "🇪🇸",
@@ -27846,7 +28026,11 @@
     "strike_days": 85,
     "sex_duration_rank": 2,
     "union_rate_rank": 14,
-    "strike_days_rank": 12
+    "strike_days_rank": 12,
+    "college_rate": 91,
+    "literature": 12,
+    "college_rate_rank": 5,
+    "literature_rank": 5
   },
   {
     "flag": "🇱🇰",
@@ -28129,7 +28313,13 @@
     "maternal_mortality_rank": 38,
     "ethnic": "Sudanese Arab 70%, Fur/Beja/Nuba other African 25%, Arabized Nubian 5%",
     "refugees": 1500,
-    "refugees_rank": 5
+    "refugees_rank": 5,
+    "war_index": 8,
+    "polit_kill": 6.2,
+    "displaced_from": 4,
+    "war_index_rank": 15,
+    "polit_kill_rank": 16,
+    "displaced_from_rank": 4
   },
   {
     "flag": "🇸🇸",
@@ -28282,7 +28472,13 @@
     "teen_pregnancy": 102,
     "contraception": 7,
     "teen_pregnancy_rank": 12,
-    "contraception_rank": 13
+    "contraception_rank": 13,
+    "war_index": 9,
+    "polit_kill": 6.8,
+    "displaced_from": 8,
+    "war_index_rank": 19,
+    "polit_kill_rank": 17,
+    "displaced_from_rank": 9
   },
   {
     "flag": "🇸🇷",
@@ -28720,7 +28916,13 @@
     "sex_education_rank": 2,
     "dating_apps_rank": 2,
     "union_rate": 66,
-    "union_rate_rank": 3
+    "union_rate_rank": 3,
+    "college_rate": 78,
+    "literature": 6,
+    "libraries": 25,
+    "college_rate_rank": 8,
+    "literature_rank": 9,
+    "libraries_rank": 12
   },
   {
     "flag": "🇨🇭",
@@ -29132,7 +29334,13 @@
     "math_olympiad": null,
     "ethnic": "Arab 90.3%, Kurdish 9%, Armenian 0.3%, other 0.4%",
     "emigration": 46,
-    "emigration_rank": 12
+    "emigration_rank": 12,
+    "war_index": 8,
+    "polit_kill": 7.2,
+    "displaced_from": 14,
+    "war_index_rank": 16,
+    "polit_kill_rank": 18,
+    "displaced_from_rank": 12
   },
   {
     "flag": "🇹🇼",
@@ -31238,7 +31446,9 @@
     "marathon_elite_rank": 13,
     "trafficking_rank": 3,
     "hiv_prev_rank": 3,
-    "refugees_rank": 3
+    "refugees_rank": 3,
+    "domestic_viol": 58,
+    "domestic_viol_rank": 13
   },
   {
     "flag": "🇺🇦",
@@ -31401,7 +31611,11 @@
     "marriage_age_f_rank": 31,
     "marriage_rate_rank": 15,
     "fields_medal": 1,
-    "fields_medal_rank": 14
+    "fields_medal_rank": 14,
+    "war_index": 10,
+    "displaced_from": 12,
+    "war_index_rank": 21,
+    "displaced_from_rank": 11
   },
   {
     "flag": "🇦🇪",
@@ -31965,7 +32179,17 @@
     "union_rate_rank": 10,
     "manufacturing_rank": 9,
     "insurance_cap_rank": 7,
-    "strike_days_rank": 6
+    "strike_days_rank": 6,
+    "college_rate": 68,
+    "war_index": 1,
+    "literature": 24,
+    "libraries": 24,
+    "domestic_viol": 26,
+    "college_rate_rank": 10,
+    "war_index_rank": 1,
+    "literature_rank": 2,
+    "libraries_rank": 13,
+    "domestic_viol_rank": 6
   },
   {
     "flag": "🇺🇸",
@@ -32376,7 +32600,19 @@
     "union_rate_rank": 16,
     "manufacturing_rank": 2,
     "insurance_cap_rank": 3,
-    "strike_days_rank": 4
+    "strike_days_rank": 4,
+    "college_rate": 88,
+    "war_index": 1,
+    "polit_kill": 0.1,
+    "literature": 22,
+    "libraries": 19,
+    "domestic_viol": 24,
+    "college_rate_rank": 6,
+    "war_index_rank": 2,
+    "polit_kill_rank": 1,
+    "literature_rank": 3,
+    "libraries_rank": 15,
+    "domestic_viol_rank": 5
   },
   {
     "flag": "🇺🇾",
@@ -33065,7 +33301,9 @@
     "gang_violence_rank": 12,
     "park_area_rank": 1,
     "baseball": 80,
-    "baseball_rank": 8
+    "baseball_rank": 8,
+    "polit_kill": 1.5,
+    "polit_kill_rank": 6
   },
   {
     "flag": "🇻🇳",
@@ -33681,7 +33919,13 @@
     "nuclear_power": null,
     "volcanoes": null,
     "math_olympiad": null,
-    "ethnic": "Arab 92.8%, Somali 2.2%, African 1.2%, other 3.8%"
+    "ethnic": "Arab 92.8%, Somali 2.2%, African 1.2%, other 3.8%",
+    "war_index": 8,
+    "polit_kill": 5.5,
+    "displaced_from": 4,
+    "war_index_rank": 17,
+    "polit_kill_rank": 15,
+    "displaced_from_rank": 5
   },
   {
     "flag": "🇿🇲",
@@ -33969,7 +34213,9 @@
     "maternal_mortality_rank": 23,
     "ethnic": "Shona 82%, Ndebele 14%, other African 2%, White 1%, other 1%",
     "hiv_prev": 12.7,
-    "hiv_prev_rank": 7
+    "hiv_prev_rank": 7,
+    "domestic_viol": 60,
+    "domestic_viol_rank": 14
   },
   {
     "country_code": "hk",

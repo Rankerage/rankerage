@@ -212,5 +212,12 @@
   "union_rate": "Unionization — 노조조직화율 % (Source: OECD/ILO)",
   "manufacturing": "Manufacturing — 제조업생산액, $B (Source: World Bank)",
   "insurance_cap": "Insurance/cap — 1인당 보험료, $ (Source: Swiss Re)",
-  "strike_days": "Strike Days — 1000명당 파업일수 (Source: ILO)"
+  "strike_days": "Strike Days — 1000명당 파업일수 (Source: ILO)",
+  "college_rate": "College Enrollment — 대학진학률, % (Source: UNESCO)",
+  "war_index": "War Involvement — 전쟁관여지수 0-10 (Source: ACLED/UCDP)",
+  "polit_kill": "Political Killings — 10만명당 정치적 살해 (Source: ACLED/UCDP)",
+  "literature": "Literature — 문학상 수상, 노벨+주요문학상 (Source: Nobel/Franz Kafka Prize)",
+  "libraries": "Public Libraries — 10만명당 공공도서관 (Source: IFLA)",
+  "displaced_from": "Displaced From — 자국발난민, 백만명 (Source: UNHCR)",
+  "domestic_viol": "Domestic Violence — 가정폭력평생유병률 % (Source: WHO)"
 }
