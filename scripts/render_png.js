@@ -20,7 +20,7 @@ async function render(htmlFile) {
   const page = await browser.newPage();
   await page.setViewport({ width: WIDTH, height: HEIGHT });
   await page.goto(`file://${htmlPath}`, { waitUntil: 'networkidle0' });
-  await page.waitForTimeout(2000);
+  await new Promise(r => setTimeout(r, 2000));
   await page.screenshot({ path: pngPath, fullPage: false });
   await browser.close();
   
