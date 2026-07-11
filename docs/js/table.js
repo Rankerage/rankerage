@@ -109,7 +109,8 @@
     function H(title,field,w){return{title:title,field:field,width:w,sorter:S,
       headerTooltip:function(){return (desc[field]||title);},
       formatter:function(c){var d=c.getRow().getData(),v=d[field];return numberCell(d[field+'_rank'],!N(v)?fmtNumber(v):'-');}};}
-    function E(field,w){return{title:t('election'),field:field,width:w,sorter:S,
+    function E(field,w){return{title:t('election'),field:field,width:w,
+      sorter:function(a,b){if(a==null||a>=999999)return 1;if(b==null||b>=999999)return -1;if(a<0&&b>=0)return 1;if(b<0&&a>=0)return -1;return a-b;},
       headerTooltip:function(){return (desc[field]||t('election'));},
       formatter:function(c){var d=c.getRow().getData(),dt=d.election_date;if(!dt)return numberCell(null,'-');var p=dt.split('-'),s=p[1]+'/'+p[2];if(d.election_days<0)return numberCell(null,'✓');return numberCell(d.election_rank,s);}};}
 
