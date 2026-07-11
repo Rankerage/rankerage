@@ -1,0 +1,27 @@
+{
+  "visitor": {
+    "min": 0,
+    "badge": "🥉",
+    "title": "Visitor"
+  },
+  "contributor": {
+    "min": 5,
+    "badge": "🥈",
+    "title": "Contributor"
+  },
+  "editor": {
+    "min": 20,
+    "badge": "🥇",
+    "title": "Editor"
+  },
+  "curator": {
+    "min": 50,
+    "badge": "👑",
+    "title": "Curator"
+  },
+  "ambassador": {
+    "min": 100,
+    "badge": "🏆",
+    "title": "Ambassador"
+  }
+}

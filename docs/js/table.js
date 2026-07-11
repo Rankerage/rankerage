@@ -444,6 +444,37 @@
 
     // Comments: localStorage-based per-country
     var STORAGE_KEY = 'rankerage_comments_';
+    var shadowProfiles = {};
+    var trustLevels = {};
+    fetch('data/shadows/shadow_index.json').then(function(r){return r.json()}).then(function(d){shadowProfiles = d;});
+    fetch('data/shadows/trust_levels.json').then(function(r){return r.json()}).then(function(d){trustLevels = d;});
+    
+    function getShadowFingerprint(nick) {
+      // Anonymous but consistent: hash of nickname + browser fingerprint
+      var uid = localStorage.getItem('__rs_id') || (Date.now().toString(36) + Math.random().toString(36).substr(2));
+      localStorage.setItem('__rs_id', uid);
+      var hash = 0, str = nick + ':' + uid;
+      for (var i = 0; i < str.length; i++) { hash = ((hash<<5)-hash)+str.charCodeAt(i); hash|=0; }
+      return nick + ':' + Math.abs(hash).toString(36).substr(0,6);
+    }
+    
+    function getShadowLevel(nick) {
+      var fp = getShadowFingerprint(nick);
+      var profile = shadowProfiles[fp];
+      if (!profile) return {level:'visitor',badge:'🥉'};
+      var comments = profile.comments || 0;
+      var level = 'visitor', badge = '🥉';
+      for (var l in trustLevels) {
+        if (comments >= trustLevels[l].min) { level = l; badge = trustLevels[l].badge; }
+      }
+      return {level:level, badge:badge, comments:comments, countries:profile.countries_active||0, fixes:profile.data_fixes||0};
+    }
+    
+    function shadowBadge(nick) {
+      var s = getShadowLevel(nick);
+      return '<span class="shadow-badge" title="'+s.level+' | '+s.comments+' comments, '+s.countries+' countries, '+s.fixes+' fixes">'+s.badge+'</span>';
+    }
+
     function loadComments(code) {
       try { return JSON.parse(localStorage.getItem(STORAGE_KEY + code) || '[]'); } catch(e) { return []; }
     }

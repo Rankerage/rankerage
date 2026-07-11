@@ -1,0 +1,23 @@
+{
+  "홍길동:7h2x9k": {
+    "comments": 53,
+    "countries_active": 12,
+    "first_seen": "2026-06-15",
+    "trust": "editor",
+    "data_fixes": 3
+  },
+  "데이터헌터:a3b1z": {
+    "comments": 127,
+    "countries_active": 45,
+    "first_seen": "2026-05-01",
+    "trust": "ambassador",
+    "data_fixes": 18
+  },
+  "월드트래블러:x9c2w": {
+    "comments": 8,
+    "countries_active": 8,
+    "first_seen": "2026-07-01",
+    "trust": "contributor",
+    "data_fixes": 0
+  }
+}
