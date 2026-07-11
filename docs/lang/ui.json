@@ -766,5 +766,285 @@
     "nuclearPower": "Nucléaire",
     "volcanoes": "Volcan",
     "mathOlympiad": "MathOly"
+  },
+  "quakeCnt": {
+    "en": "Earthquakes",
+    "ko": "지진",
+    "ja": "地震"
+  },
+  "tsunami": {
+    "en": "Tsunami",
+    "ko": "쓰나미",
+    "ja": "津波"
+  },
+  "cyclone": {
+    "en": "Cyclones",
+    "ko": "사이클론",
+    "ja": "サイクロン"
+  },
+  "flood": {
+    "en": "Floods",
+    "ko": "홍수",
+    "ja": "洪水"
+  },
+  "wildfire": {
+    "en": "Wildfire",
+    "ko": "산불",
+    "ja": "山火事"
+  },
+  "wcPart": {
+    "en": "World Cup",
+    "ko": "월드컵",
+    "ja": "W杯"
+  },
+  "olyGold": {
+    "en": "Olympic🥇",
+    "ko": "올림픽금",
+    "ja": "五輪金"
+  },
+  "olyCap": {
+    "en": "Oly/cap",
+    "ko": "올림픽/c",
+    "ja": "五輪/cap"
+  },
+  "davis": {
+    "en": "Davis Cup",
+    "ko": "데이비스컵",
+    "ja": "デ杯"
+  },
+  "marathon": {
+    "en": "Marathon",
+    "ko": "마라톤",
+    "ja": "マラソン"
+  },
+  "burglary": {
+    "en": "Burglary",
+    "ko": "침입절도",
+    "ja": "窃盗"
+  },
+  "drug": {
+    "en": "Drugs",
+    "ko": "마약",
+    "ja": "麻薬"
+  },
+  "assault": {
+    "en": "Assault",
+    "ko": "폭행",
+    "ja": "暴行"
+  },
+  "traffick": {
+    "en": "Traffick",
+    "ko": "인신매매",
+    "ja": "人身売買"
+  },
+  "gang": {
+    "en": "Gangs",
+    "ko": "갱",
+    "ja": "ギャング"
+  },
+  "cancer": {
+    "en": "Cancer",
+    "ko": "암",
+    "ja": "癌"
+  },
+  "diabetes": {
+    "en": "Diabetes",
+    "ko": "당뇨",
+    "ja": "糖尿病"
+  },
+  "hiv": {
+    "en": "HIV",
+    "ko": "HIV",
+    "ja": "HIV"
+  },
+  "vaccine": {
+    "en": "Vaccine",
+    "ko": "백신",
+    "ja": "ワクチン"
+  },
+  "mental": {
+    "en": "Mental",
+    "ko": "정신건강",
+    "ja": "メンタル"
+  },
+  "startup": {
+    "en": "Startups",
+    "ko": "스타트업",
+    "ja": "起業"
+  },
+  "costlive": {
+    "en": "Cost/Live",
+    "ko": "생활비",
+    "ja": "物価"
+  },
+  "house": {
+    "en": "House$",
+    "ko": "주택가",
+    "ja": "住宅価"
+  },
+  "minwage": {
+    "en": "Min Wage",
+    "ko": "최저임금",
+    "ja": "最低賃金"
+  },
+  "pisaM": {
+    "en": "PISA Math",
+    "ko": "PISA수학",
+    "ja": "PISA数学"
+  },
+  "pisaS": {
+    "en": "PISA Sci",
+    "ko": "PISA과학",
+    "ja": "PISA科学"
+  },
+  "pisaR": {
+    "en": "PISA Read",
+    "ko": "PISA읽기",
+    "ja": "PISA読解"
+  },
+  "phd": {
+    "en": "PhDs",
+    "ko": "박사",
+    "ja": "博士"
+  },
+  "pub": {
+    "en": "Papers",
+    "ko": "논문",
+    "ja": "論文"
+  },
+  "recycle": {
+    "en": "Recycle",
+    "ko": "재활용",
+    "ja": "リサイクル"
+  },
+  "plastW": {
+    "en": "Plastic",
+    "ko": "플라스틱",
+    "ja": "プラ"
+  },
+  "parkPct": {
+    "en": "Parks%",
+    "ko": "공원%",
+    "ja": "公園%"
+  },
+  "immig": {
+    "en": "Immig.",
+    "ko": "이민율",
+    "ja": "移民率"
+  },
+  "emig": {
+    "en": "Emig.",
+    "ko": "이민유출",
+    "ja": "流出"
+  },
+  "refugee": {
+    "en": "Refugees",
+    "ko": "난민",
+    "ja": "難民"
+  },
+  "genderGap": {
+    "en": "WageGap",
+    "ko": "성별격차",
+    "ja": "男女差"
+  },
+  "lgbtq": {
+    "en": "LGBTQ+",
+    "ko": "LGBTQ+",
+    "ja": "LGBTQ+"
+  },
+  "g5g": {
+    "en": "5G",
+    "ko": "5G",
+    "ja": "5G"
+  },
+  "ai": {
+    "en": "AI",
+    "ko": "AI연구",
+    "ja": "AI"
+  },
+  "space": {
+    "en": "Space",
+    "ko": "우주",
+    "ja": "宇宙"
+  },
+  "arms": {
+    "en": "Arms",
+    "ko": "무기수출",
+    "ja": "武器"
+  },
+  "peacekeep": {
+    "en": "PeaceKp",
+    "ko": "평화군",
+    "ja": "PKO"
+  },
+  "intangbl": {
+    "en": "Intangible",
+    "ko": "무형유산",
+    "ja": "無形遺産"
+  },
+  "film": {
+    "en": "Films",
+    "ko": "영화",
+    "ja": "映画"
+  },
+  "michelin": {
+    "en": "Michelin",
+    "ko": "미쉐린",
+    "ja": "ミシュラン"
+  },
+  "game": {
+    "en": "Games",
+    "ko": "게임",
+    "ja": "ゲーム"
+  },
+  "tea": {
+    "en": "Tea",
+    "ko": "차",
+    "ja": "茶"
+  },
+  "rice": {
+    "en": "Rice",
+    "ko": "쌀",
+    "ja": "米"
+  },
+  "waste": {
+    "en": "Waste",
+    "ko": "음식폐기",
+    "ja": "食品廃棄"
+  },
+  "holiday": {
+    "en": "Holiday",
+    "ko": "공휴일",
+    "ja": "休日"
+  },
+  "influ": {
+    "en": "Influencer",
+    "ko": "인플루언서",
+    "ja": "インフル"
+  },
+  "fest": {
+    "en": "Festival",
+    "ko": "축제",
+    "ja": "祭"
+  },
+  "tan": {
+    "en": "Tanning",
+    "ko": "태닝",
+    "ja": "日焼"
+  },
+  "streetfd": {
+    "en": "StFood",
+    "ko": "길거리음식",
+    "ja": "屋台"
+  },
+  "cat": {
+    "en": "Cats",
+    "ko": "고양이",
+    "ja": "猫"
+  },
+  "dog": {
+    "en": "Dogs",
+    "ko": "개",
+    "ja": "犬"
   }
 }
