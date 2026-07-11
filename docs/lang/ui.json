@@ -1046,5 +1046,20 @@
     "en": "Dogs",
     "ko": "개",
     "ja": "犬"
+  },
+  "marryM": {
+    "en": "Marry♂",
+    "ko": "초혼남",
+    "ja": "初婚♂"
+  },
+  "marryF": {
+    "en": "Marry♀",
+    "ko": "초혼여",
+    "ja": "初婚♀"
+  },
+  "marryRate": {
+    "en": "MarryRate",
+    "ko": "혼인율",
+    "ja": "婚姻率"
   }
 }

@@ -155,5 +155,8 @@
   "tanning": "Tanning Beds — 100만명당 태닝샵 (Source: Various)",
   "street_food": "Street Food — 길거리음식 점수 1-10 (Source: Various)",
   "cat_own": "Cat Ownership — 고양이소유가구 % (Source: Various)",
-  "dog_own": "Dog Ownership — 개소유가구 % (Source: Various)"
+  "dog_own": "Dog Ownership — 개소유가구 % (Source: Various)",
+  "marriage_age_m": "Marriage Age (Male) — 남성 평균 초혼연령 (Source: UN/World Data)",
+  "marriage_age_f": "Marriage Age (Female) — 여성 평균 초혼연령 (Source: UN/World Data)",
+  "marriage_rate": "Marriage Rate — 1000명당 혼인건수 (Source: UN Demographic Yearbook)"
 }

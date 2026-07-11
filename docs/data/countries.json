@@ -420,7 +420,9 @@
     "nato_rank": 1,
     "ethnic": "Albanian 82.6%, Greek 0.9%, Vlach 0.9%, other 15.6%",
     "emigration": 15,
-    "emigration_rank": 6
+    "emigration_rank": 6,
+    "marriage_rate": 5.5,
+    "marriage_rate_rank": 10
   },
   {
     "flag": "🇩🇿",
@@ -1830,7 +1832,11 @@
     "food_waste_rank": 12,
     "tanning_rank": 12,
     "cat_own_rank": 9,
-    "dog_own_rank": 5
+    "dog_own_rank": 5,
+    "marriage_age_m": 32,
+    "marriage_age_f": 31,
+    "marriage_age_m_rank": 19,
+    "marriage_age_f_rank": 16
   },
   {
     "flag": "🇦🇬",
@@ -2178,7 +2184,11 @@
     "phd_per_cap_rank": 5,
     "research_pub_rank": 10,
     "recycling_rank": 3,
-    "immigration_rank": 8
+    "immigration_rank": 8,
+    "marriage_age_m": 33,
+    "marriage_age_f": 32,
+    "marriage_age_m_rank": 14,
+    "marriage_age_f_rank": 8
   },
   {
     "flag": "🇧🇦",
@@ -2648,7 +2658,11 @@
     "refugees_rank": 4,
     "peacekeeping_rank": 1,
     "rice_consume_rank": 1,
-    "holidays_rank": 9
+    "holidays_rank": 9,
+    "marriage_age_m": 25,
+    "marriage_age_f": 20,
+    "marriage_age_m_rank": 38,
+    "marriage_age_f_rank": 38
   },
   {
     "flag": "🇧🇪",
@@ -2880,7 +2894,11 @@
     "immigration_rank": 11,
     "lgbtq_rights_rank": 5,
     "intangible_rank": 11,
-    "michelin_rank": 8
+    "michelin_rank": 8,
+    "marriage_age_m": 33,
+    "marriage_age_f": 32,
+    "marriage_age_m_rank": 15,
+    "marriage_age_f_rank": 9
   },
   {
     "flag": "🇧🇫",
@@ -4394,7 +4412,11 @@
     "influencers_rank": 2,
     "festivals_rank": 1,
     "cat_own_rank": 11,
-    "dog_own_rank": 3
+    "dog_own_rank": 3,
+    "marriage_age_m": 28,
+    "marriage_age_f": 25,
+    "marriage_age_m_rank": 26,
+    "marriage_age_f_rank": 26
   },
   {
     "flag": "🇧🇳",
@@ -5654,7 +5676,11 @@
     "influencers_rank": 15,
     "tanning_rank": 4,
     "cat_own_rank": 6,
-    "dog_own_rank": 11
+    "dog_own_rank": 11,
+    "marriage_age_m": 32,
+    "marriage_age_f": 30,
+    "marriage_age_m_rank": 20,
+    "marriage_age_f_rank": 21
   },
   {
     "flag": "🇨🇫",
@@ -6385,7 +6411,11 @@
     "rice_consume_rank": 11,
     "holidays_rank": 17,
     "festivals_rank": 6,
-    "street_food_rank": 8
+    "street_food_rank": 8,
+    "marriage_age_m": 27,
+    "marriage_age_f": 25,
+    "marriage_age_m_rank": 30,
+    "marriage_age_f_rank": 27
   },
   {
     "flag": "🇨🇴",
@@ -7594,7 +7624,9 @@
     "nuclear_power": null,
     "volcanoes": null,
     "math_olympiad": null,
-    "ethnic": "Greek 77%, Turkish 18%, other 5%"
+    "ethnic": "Greek 77%, Turkish 18%, other 5%",
+    "marriage_rate": 5.2,
+    "marriage_rate_rank": 11
   },
   {
     "flag": "🇨🇿",
@@ -8058,7 +8090,11 @@
     "recycling_rank": 10,
     "michelin_rank": 13,
     "food_waste_rank": 10,
-    "tanning_rank": 9
+    "tanning_rank": 9,
+    "marriage_age_m": 36,
+    "marriage_age_f": 34,
+    "marriage_age_m_rank": 2,
+    "marriage_age_f_rank": 2
   },
   {
     "flag": "🇩🇯",
@@ -8656,7 +8692,13 @@
     "diabetes_rank": 6,
     "refugees_rank": 12,
     "peacekeeping_rank": 8,
-    "tea_consume_rank": 8
+    "tea_consume_rank": 8,
+    "marriage_age_m": 27,
+    "marriage_age_f": 24,
+    "marriage_rate": 6.3,
+    "marriage_age_m_rank": 31,
+    "marriage_age_f_rank": 30,
+    "marriage_rate_rank": 5
   },
   {
     "flag": "🇸🇻",
@@ -9799,7 +9841,11 @@
     "recycling_rank": 12,
     "park_area_rank": 13,
     "gender_gap_rank": 2,
-    "tanning_rank": 8
+    "tanning_rank": 8,
+    "marriage_age_m": 34,
+    "marriage_age_f": 33,
+    "marriage_age_m_rank": 7,
+    "marriage_age_f_rank": 4
   },
   {
     "flag": "🇫🇷",
@@ -10089,7 +10135,13 @@
     "tanning_rank": 2,
     "street_food_rank": 14,
     "cat_own_rank": 3,
-    "dog_own_rank": 6
+    "dog_own_rank": 6,
+    "marriage_age_m": 34,
+    "marriage_age_f": 32,
+    "marriage_rate": 3.4,
+    "marriage_age_m_rank": 8,
+    "marriage_age_f_rank": 10,
+    "marriage_rate_rank": 21
   },
   {
     "flag": "🇬🇦",
@@ -10760,7 +10812,13 @@
     "festivals_rank": 3,
     "tanning_rank": 3,
     "cat_own_rank": 5,
-    "dog_own_rank": 7
+    "dog_own_rank": 7,
+    "marriage_age_m": 34,
+    "marriage_age_f": 32,
+    "marriage_rate": 3.5,
+    "marriage_age_m_rank": 9,
+    "marriage_age_f_rank": 11,
+    "marriage_rate_rank": 20
   },
   {
     "flag": "🇬🇭",
@@ -12123,7 +12181,9 @@
     "olympic_gold_rank": 11,
     "olympic_per_cap_rank": 4,
     "burglary_rank": 6,
-    "cancer_rank": 8
+    "cancer_rank": 8,
+    "marriage_rate": 4.2,
+    "marriage_rate_rank": 17
   },
   {
     "flag": "🇮🇸",
@@ -12287,7 +12347,11 @@
     "cost_living": 78,
     "gender_gap": 8,
     "cost_living_rank": 12,
-    "gender_gap_rank": 1
+    "gender_gap_rank": 1,
+    "marriage_age_m": 36,
+    "marriage_age_f": 34,
+    "marriage_age_m_rank": 3,
+    "marriage_age_f_rank": 3
   },
   {
     "flag": "🇮🇳",
@@ -12536,7 +12600,11 @@
     "holidays_rank": 1,
     "influencers_rank": 3,
     "festivals_rank": 2,
-    "street_food_rank": 2
+    "street_food_rank": 2,
+    "marriage_age_m": 26,
+    "marriage_age_f": 22,
+    "marriage_age_m_rank": 34,
+    "marriage_age_f_rank": 35
   },
   {
     "flag": "🇮🇩",
@@ -12766,7 +12834,11 @@
     "rice_consume_rank": 6,
     "holidays_rank": 15,
     "influencers_rank": 4,
-    "street_food_rank": 5
+    "street_food_rank": 5,
+    "marriage_age_m": 26,
+    "marriage_age_f": 23,
+    "marriage_age_m_rank": 35,
+    "marriage_age_f_rank": 32
   },
   {
     "flag": "🇮🇷",
@@ -12955,7 +13027,13 @@
     "refugees_rank": 7,
     "space_launch_rank": 7,
     "intangible_rank": 8,
-    "tea_consume_rank": 4
+    "tea_consume_rank": 4,
+    "marriage_age_m": 28,
+    "marriage_age_f": 23,
+    "marriage_rate": 6.8,
+    "marriage_age_m_rank": 27,
+    "marriage_age_f_rank": 33,
+    "marriage_rate_rank": 2
   },
   {
     "flag": "🇮🇶",
@@ -13300,7 +13378,11 @@
     "min_wage_rank": 5,
     "pisa_reading_rank": 6,
     "immigration_rank": 10,
-    "tea_consume_rank": 2
+    "tea_consume_rank": 2,
+    "marriage_age_m": 34,
+    "marriage_age_f": 32,
+    "marriage_age_m_rank": 10,
+    "marriage_age_f_rank": 12
   },
   {
     "flag": "🇮🇱",
@@ -13759,7 +13841,13 @@
     "tanning_rank": 1,
     "street_food_rank": 12,
     "cat_own_rank": 8,
-    "dog_own_rank": 8
+    "dog_own_rank": 8,
+    "marriage_age_m": 35,
+    "marriage_age_f": 32,
+    "marriage_rate": 2.8,
+    "marriage_age_m_rank": 4,
+    "marriage_age_f_rank": 13,
+    "marriage_rate_rank": 24
   },
   {
     "flag": "🇯🇲",
@@ -14184,7 +14272,13 @@
     "festivals_rank": 8,
     "street_food_rank": 9,
     "cat_own_rank": 7,
-    "dog_own_rank": 9
+    "dog_own_rank": 9,
+    "marriage_age_m": 31,
+    "marriage_age_f": 30,
+    "marriage_rate": 3.6,
+    "marriage_age_m_rank": 22,
+    "marriage_age_f_rank": 22,
+    "marriage_rate_rank": 19
   },
   {
     "flag": "🇯🇴",
@@ -14649,7 +14743,11 @@
     "olympic_gold_rank": 28,
     "marathon_elite_rank": 1,
     "hiv_prev_rank": 2,
-    "refugees_rank": 11
+    "refugees_rank": 11,
+    "marriage_age_m": 26,
+    "marriage_age_f": 23,
+    "marriage_age_m_rank": 36,
+    "marriage_age_f_rank": 34
   },
   {
     "flag": "🇰🇬",
@@ -15504,7 +15602,9 @@
     "startups_rank": 38,
     "chess_rank": 38,
     "nato_rank": 17,
-    "ethnic": "Latvian 62.7%, Russian 24.5%, Belarusian 3.1%, Ukrainian 2.2%, Polish 2%"
+    "ethnic": "Latvian 62.7%, Russian 24.5%, Belarusian 3.1%, Ukrainian 2.2%, Polish 2%",
+    "marriage_rate": 4.6,
+    "marriage_rate_rank": 14
   },
   {
     "flag": "🇱🇧",
@@ -16036,7 +16136,9 @@
     "nuclear_power": null,
     "volcanoes": null,
     "math_olympiad": null,
-    "ethnic": "Arab 90%, Berber 5%, other 5%"
+    "ethnic": "Arab 90%, Berber 5%, other 5%",
+    "marriage_rate": 6.2,
+    "marriage_rate_rank": 6
   },
   {
     "flag": "🇱🇮",
@@ -16163,7 +16265,9 @@
     "nuclear_power": null,
     "volcanoes": null,
     "math_olympiad": null,
-    "ethnic": "Liechtensteiner 65.5%, Swiss 10%, Austrian 5.8%, German 4%, Italian 3.1%"
+    "ethnic": "Liechtensteiner 65.5%, Swiss 10%, Austrian 5.8%, German 4%, Italian 3.1%",
+    "marriage_rate": 5.8,
+    "marriage_rate_rank": 8
   },
   {
     "flag": "🇱🇹",
@@ -16339,7 +16443,9 @@
     "chess_rank": 35,
     "hdi_adj_rank": 24,
     "nato_rank": 18,
-    "ethnic": "Lithuanian 84.6%, Polish 6.5%, Russian 5%, Belarusian 1%, other 2.9%"
+    "ethnic": "Lithuanian 84.6%, Polish 6.5%, Russian 5%, Belarusian 1%, other 2.9%",
+    "marriage_rate": 4.8,
+    "marriage_rate_rank": 13
   },
   {
     "flag": "🇱🇺",
@@ -16498,7 +16604,11 @@
     "house_price_rank": 11,
     "min_wage_rank": 1,
     "recycling_rank": 9,
-    "immigration_rank": 1
+    "immigration_rank": 1,
+    "marriage_age_m": 33,
+    "marriage_age_f": 31,
+    "marriage_age_m_rank": 16,
+    "marriage_age_f_rank": 17
   },
   {
     "flag": "🇲🇬",
@@ -17081,7 +17191,9 @@
     "nuclear_power": null,
     "volcanoes": null,
     "math_olympiad": null,
-    "ethnic": "South Indian/Dravidian 45%, Sinhalese 12%, Arab 9%, other 34%"
+    "ethnic": "South Indian/Dravidian 45%, Sinhalese 12%, Arab 9%, other 34%",
+    "marriage_rate": 6.4,
+    "marriage_rate_rank": 4
   },
   {
     "flag": "🇲🇱",
@@ -18236,7 +18348,11 @@
     "game_market_rank": 13,
     "influencers_rank": 7,
     "festivals_rank": 10,
-    "street_food_rank": 3
+    "street_food_rank": 3,
+    "marriage_age_m": 29,
+    "marriage_age_f": 26,
+    "marriage_age_m_rank": 25,
+    "marriage_age_f_rank": 25
   },
   {
     "flag": "🇫🇲",
@@ -18497,7 +18613,9 @@
     "math_olympiad": null,
     "ethnic": "Moldovan 75.1%, Romanian 7%, Ukrainian 6.6%, Gagauz 4.6%, Russian 4.1%",
     "cyclone_freq": 6,
-    "cyclone_freq_rank": 8
+    "cyclone_freq_rank": 8,
+    "marriage_rate": 7.6,
+    "marriage_rate_rank": 1
   },
   {
     "flag": "🇲🇨",
@@ -20000,7 +20118,11 @@
     "tea_consume_rank": 12,
     "food_waste_rank": 7,
     "festivals_rank": 11,
-    "cat_own_rank": 14
+    "cat_own_rank": 14,
+    "marriage_age_m": 34,
+    "marriage_age_f": 33,
+    "marriage_age_m_rank": 11,
+    "marriage_age_f_rank": 5
   },
   {
     "flag": "🇳🇨",
@@ -20370,7 +20492,11 @@
     "space_launch_rank": 12,
     "tea_consume_rank": 7,
     "food_waste_rank": 8,
-    "tanning_rank": 7
+    "tanning_rank": 7,
+    "marriage_age_m": 32,
+    "marriage_age_f": 31,
+    "marriage_age_m_rank": 21,
+    "marriage_age_f_rank": 18
   },
   {
     "flag": "🇳🇮",
@@ -20847,7 +20973,11 @@
     "worldcup_parts_rank": 32,
     "trafficking_rank": 11,
     "gang_violence_rank": 1,
-    "hiv_prev_rank": 4
+    "hiv_prev_rank": 4,
+    "marriage_age_m": 27,
+    "marriage_age_f": 22,
+    "marriage_age_m_rank": 32,
+    "marriage_age_f_rank": 36
   },
   {
     "flag": "🇳🇺",
@@ -21601,7 +21731,11 @@
     "immigration_rank": 15,
     "gender_gap_rank": 3,
     "lgbtq_rights_rank": 3,
-    "tanning_rank": 10
+    "tanning_rank": 10,
+    "marriage_age_m": 35,
+    "marriage_age_f": 33,
+    "marriage_age_m_rank": 5,
+    "marriage_age_f_rank": 6
   },
   {
     "flag": "🇴🇲",
@@ -21941,7 +22075,11 @@
     "trafficking_rank": 12,
     "diabetes_rank": 11,
     "refugees_rank": 2,
-    "peacekeeping_rank": 6
+    "peacekeeping_rank": 6,
+    "marriage_age_m": 26,
+    "marriage_age_f": 22,
+    "marriage_age_m_rank": 37,
+    "marriage_age_f_rank": 37
   },
   {
     "flag": "🇵🇼",
@@ -23434,7 +23572,13 @@
     "burglary_rank": 1,
     "drug_offense_rank": 2,
     "vaccination_rank": 1,
-    "lgbtq_rights_rank": 4
+    "lgbtq_rights_rank": 4,
+    "marriage_age_m": 33,
+    "marriage_age_f": 31,
+    "marriage_rate": 2.6,
+    "marriage_age_m_rank": 17,
+    "marriage_age_f_rank": 19,
+    "marriage_rate_rank": 25
   },
   {
     "flag": "🇵🇷",
@@ -23921,7 +24065,9 @@
     "worldcup_parts": 7,
     "olympic_gold": 91,
     "worldcup_parts_rank": 26,
-    "olympic_gold_rank": 18
+    "olympic_gold_rank": 18,
+    "marriage_rate": 5.0,
+    "marriage_rate_rank": 12
   },
   {
     "flag": "🇷🇺",
@@ -24158,7 +24304,13 @@
     "film_prod_rank": 11,
     "tea_consume_rank": 5,
     "influencers_rank": 8,
-    "cat_own_rank": 1
+    "cat_own_rank": 1,
+    "marriage_age_m": 28,
+    "marriage_age_f": 25,
+    "marriage_rate": 6.5,
+    "marriage_age_m_rank": 28,
+    "marriage_age_f_rank": 28,
+    "marriage_rate_rank": 3
   },
   {
     "flag": "🇷🇼",
@@ -25388,7 +25540,9 @@
     "pisa_science_rank": 11,
     "phd_per_cap_rank": 1,
     "research_pub_rank": 13,
-    "recycling_rank": 4
+    "recycling_rank": 4,
+    "marriage_rate": 2.4,
+    "marriage_rate_rank": 26
   },
   {
     "flag": "🇸🇧",
@@ -25879,7 +26033,11 @@
     "assault_rank": 8,
     "gang_violence_rank": 5,
     "hiv_prev_rank": 8,
-    "peacekeeping_rank": 13
+    "peacekeeping_rank": 13,
+    "marriage_age_m": 30,
+    "marriage_age_f": 28,
+    "marriage_age_m_rank": 23,
+    "marriage_age_f_rank": 23
   },
   {
     "flag": "🇰🇷",
@@ -26159,7 +26317,13 @@
     "festivals_rank": 12,
     "street_food_rank": 11,
     "cat_own_rank": 12,
-    "dog_own_rank": 10
+    "dog_own_rank": 10,
+    "marriage_age_m": 33,
+    "marriage_age_f": 31,
+    "marriage_rate": 3.8,
+    "marriage_age_m_rank": 18,
+    "marriage_age_f_rank": 20,
+    "marriage_rate_rank": 18
   },
   {
     "flag": "🇪🇸",
@@ -26420,7 +26584,13 @@
     "festivals_rank": 5,
     "street_food_rank": 13,
     "cat_own_rank": 13,
-    "dog_own_rank": 12
+    "dog_own_rank": 12,
+    "marriage_age_m": 35,
+    "marriage_age_f": 33,
+    "marriage_rate": 3.0,
+    "marriage_age_m_rank": 6,
+    "marriage_age_f_rank": 7,
+    "marriage_rate_rank": 23
   },
   {
     "flag": "🇱🇰",
@@ -27228,7 +27398,11 @@
     "lgbtq_rights_rank": 2,
     "michelin_rank": 14,
     "food_waste_rank": 11,
-    "tanning_rank": 11
+    "tanning_rank": 11,
+    "marriage_age_m": 37,
+    "marriage_age_f": 35,
+    "marriage_age_m_rank": 1,
+    "marriage_age_f_rank": 1
   },
   {
     "flag": "🇨🇭",
@@ -27467,7 +27641,11 @@
     "immigration_rank": 4,
     "g5_coverage_rank": 7,
     "ai_research_rank": 13,
-    "michelin_rank": 9
+    "michelin_rank": 9,
+    "marriage_age_m": 34,
+    "marriage_age_f": 32,
+    "marriage_age_m_rank": 12,
+    "marriage_age_f_rank": 14
   },
   {
     "flag": "🇸🇾",
@@ -29137,7 +29315,13 @@
     "tea_consume_rank": 1,
     "holidays_rank": 12,
     "influencers_rank": 10,
-    "street_food_rank": 7
+    "street_food_rank": 7,
+    "marriage_age_m": 28,
+    "marriage_age_f": 25,
+    "marriage_rate": 6.0,
+    "marriage_age_m_rank": 29,
+    "marriage_age_f_rank": 29,
+    "marriage_rate_rank": 7
   },
   {
     "flag": "🇹🇲",
@@ -29831,7 +30015,13 @@
     "math_olympiad_rank": 18,
     "ethnic": "Ukrainian 77.8%, Russian 17.3%, Belarusian 0.6%, Moldovan 0.5%, other 3.8%",
     "olympic_gold": 35,
-    "olympic_gold_rank": 27
+    "olympic_gold_rank": 27,
+    "marriage_age_m": 27,
+    "marriage_age_f": 24,
+    "marriage_rate": 4.5,
+    "marriage_age_m_rank": 33,
+    "marriage_age_f_rank": 31,
+    "marriage_rate_rank": 15
   },
   {
     "flag": "🇦🇪",
@@ -30287,7 +30477,13 @@
     "festivals_rank": 13,
     "tanning_rank": 5,
     "cat_own_rank": 4,
-    "dog_own_rank": 4
+    "dog_own_rank": 4,
+    "marriage_age_m": 34,
+    "marriage_age_f": 32,
+    "marriage_rate": 3.2,
+    "marriage_age_m_rank": 13,
+    "marriage_age_f_rank": 15,
+    "marriage_rate_rank": 22
   },
   {
     "flag": "🇺🇸",
@@ -30592,7 +30788,13 @@
     "tanning_rank": 6,
     "street_food_rank": 15,
     "cat_own_rank": 2,
-    "dog_own_rank": 1
+    "dog_own_rank": 1,
+    "marriage_age_m": 30,
+    "marriage_age_f": 28,
+    "marriage_rate": 4.4,
+    "marriage_age_m_rank": 24,
+    "marriage_age_f_rank": 24,
+    "marriage_rate_rank": 16
   },
   {
     "flag": "🇺🇾",
@@ -30879,7 +31081,9 @@
     "volcanoes": null,
     "math_olympiad": null,
     "chess_rank": 18,
-    "ethnic": "Uzbek 83.8%, Tajik 4.8%, Kazakh 2.5%, Russian 2.3%, Karakalpak 2.2%, other 4.4%"
+    "ethnic": "Uzbek 83.8%, Tajik 4.8%, Kazakh 2.5%, Russian 2.3%, Karakalpak 2.2%, other 4.4%",
+    "marriage_rate": 5.7,
+    "marriage_rate_rank": 9
   },
   {
     "flag": "🇻🇺",
