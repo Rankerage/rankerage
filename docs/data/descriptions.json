@@ -177,5 +177,21 @@
   "unicorns": "Unicorns/cap — 100만명당 유니콘기업 (Source: CB Insights)",
   "vc_funding": "VC Funding — 벤처투자액, $M (Source: Crunchbase)",
   "business_ease": "Business Ease — 비즈니스용이성점수 (Source: World Bank)",
-  "stock_market": "Stock Market — 주식시장시가총액, $B (Source: WFE)"
+  "stock_market": "Stock Market — 주식시장시가총액, $B (Source: WFE)",
+  "nobel_science": "Nobel Science — 노벨과학상 (물리+화학+의학) 수상자 수 (Source: Nobel)",
+  "fields_medal": "Fields Medal — 필즈상 수상자 수 (Source: IMU)",
+  "physicists": "Top Physicists — 100만명당 저명물리학자 (Source: CERN/ISI)",
+  "chem_olympiad": "Chemistry Olympiad — 국제화학올림피아드 금메달 (Source: IChO)",
+  "extreme_poverty": "Extreme Poverty — 극빈층비율, <$2.15/일 (Source: World Bank)",
+  "poverty_gap": "Poverty Gap — 빈곤갭, 빈곤강도지수 (Source: World Bank)",
+  "homelessness": "Homelessness — 1만명당 노숙자 수 (Source: Various)",
+  "beef_consume": "Beef Consumption — 1인당 소고기 소비량 kg (Source: FAO)",
+  "pork_consume": "Pork Consumption — 1인당 돼지고기 소비량 kg (Source: FAO)",
+  "chicken_consume": "Chicken Consumption — 1인당 닭고기 소비량 kg (Source: FAO)",
+  "surgeons": "Surgeons — 10만명당 외과의사 수 (Source: WHO)",
+  "nurses": "Nurses — 10만명당 간호사 수 (Source: WHO)",
+  "med_tourism": "Medical Tourism — 의료관광지수 1-100 (Source: MTI)",
+  "life_exp_m": "Life Exp (Male) — 남성 기대수명 (Source: WHO)",
+  "life_exp_f": "Life Exp (Female) — 여성 기대수명 (Source: WHO)",
+  "antibiotics": "Antibiotic Use — 항생제사용, DDD/1000명 (Source: WHO)"
 }

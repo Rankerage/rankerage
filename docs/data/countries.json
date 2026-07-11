@@ -1418,7 +1418,11 @@
     "holidays_rank": 5,
     "dog_own_rank": 2,
     "onlyfans": 45,
-    "onlyfans_rank": 14
+    "onlyfans_rank": 14,
+    "beef_consume": 54,
+    "chicken_consume": 40,
+    "beef_consume_rank": 1,
+    "chicken_consume_rank": 6
   },
   {
     "flag": "🇦🇲",
@@ -1862,7 +1866,25 @@
     "fortune500_rank": 14,
     "vc_funding_rank": 13,
     "business_ease_rank": 11,
-    "stock_market_rank": 12
+    "stock_market_rank": 12,
+    "nobel_science": 3,
+    "fields_medal": 2,
+    "homelessness": 11.6,
+    "beef_consume": 33,
+    "chicken_consume": 47,
+    "surgeons": 24,
+    "nurses": 137,
+    "life_exp_m": 81,
+    "life_exp_f": 85,
+    "nobel_science_rank": 14,
+    "fields_medal_rank": 6,
+    "homelessness_rank": 12,
+    "beef_consume_rank": 5,
+    "chicken_consume_rank": 2,
+    "surgeons_rank": 12,
+    "nurses_rank": 5,
+    "life_exp_m_rank": 3,
+    "life_exp_f_rank": 6
   },
   {
     "flag": "🇦🇬",
@@ -2226,7 +2248,13 @@
     "pension_rate_rank": 3,
     "parental_leave_rank": 6,
     "tax_top_rank": 15,
-    "tax_burden_rank": 10
+    "tax_burden_rank": 10,
+    "nobel_science": 4,
+    "physicists": 5.8,
+    "pork_consume": 21,
+    "nobel_science_rank": 12,
+    "physicists_rank": 6,
+    "pork_consume_rank": 8
   },
   {
     "flag": "🇧🇦",
@@ -2950,7 +2978,13 @@
     "unemp_benefit_rank": 6,
     "tax_top_rank": 14,
     "vat_rate_rank": 8,
-    "tax_burden_rank": 13
+    "tax_burden_rank": 13,
+    "nobel_science": 3,
+    "fields_medal": 2,
+    "antibiotics": 27,
+    "nobel_science_rank": 15,
+    "fields_medal_rank": 7,
+    "antibiotics_rank": 10
   },
   {
     "flag": "🇧🇫",
@@ -3088,7 +3122,11 @@
     "maternal_mortality_rank": 44,
     "ethnic": "Mossi 52%, Fulani 8.4%, Gurma 7%, Bobo 4.9%, Gurunsi 4.5%, other 23.2%",
     "peacekeeping": 1500,
-    "peacekeeping_rank": 12
+    "peacekeeping_rank": 12,
+    "extreme_poverty": 62,
+    "poverty_gap": 23,
+    "extreme_poverty_rank": 7,
+    "poverty_gap_rank": 4
   },
   {
     "flag": "🇧🇬",
@@ -3556,7 +3594,11 @@
     "math_olympiad": null,
     "ethnic": "Hutu 85%, Tutsi 14%, Twa 1%",
     "emigration": 12,
-    "emigration_rank": 3
+    "emigration_rank": 3,
+    "extreme_poverty": 74,
+    "poverty_gap": 37,
+    "extreme_poverty_rank": 13,
+    "poverty_gap_rank": 10
   },
   {
     "flag": "🇧🇯",
@@ -4490,7 +4532,21 @@
     "corp_tax_rank": 15,
     "fortune500_rank": 13,
     "unicorns_rank": 12,
-    "vc_funding_rank": 12
+    "vc_funding_rank": 12,
+    "fields_medal": 1,
+    "beef_consume": 35,
+    "pork_consume": 8,
+    "chicken_consume": 46,
+    "surgeons": 18,
+    "nurses": 42,
+    "med_tourism": 65,
+    "fields_medal_rank": 11,
+    "beef_consume_rank": 4,
+    "pork_consume_rank": 16,
+    "chicken_consume_rank": 3,
+    "surgeons_rank": 13,
+    "nurses_rank": 14,
+    "med_tourism_rank": 9
   },
   {
     "flag": "🇧🇳",
@@ -5788,7 +5844,19 @@
     "unicorns_rank": 8,
     "vc_funding_rank": 8,
     "business_ease_rank": 12,
-    "stock_market_rank": 8
+    "stock_market_rank": 8,
+    "nobel_science": 7,
+    "homelessness": 8.5,
+    "beef_consume": 25,
+    "chicken_consume": 34,
+    "life_exp_m": 78,
+    "life_exp_f": 84,
+    "nobel_science_rank": 9,
+    "homelessness_rank": 10,
+    "beef_consume_rank": 7,
+    "chicken_consume_rank": 9,
+    "life_exp_m_rank": 10,
+    "life_exp_f_rank": 8
   },
   {
     "flag": "🇨🇫",
@@ -5923,7 +5991,11 @@
     "volcanoes": null,
     "math_olympiad": null,
     "maternal_mortality_rank": 54,
-    "ethnic": "Banda 27%, Gbaya 24%, Bantu 21%, Azande 11%, Mboum 8%, other 9%"
+    "ethnic": "Banda 27%, Gbaya 24%, Bantu 21%, Azande 11%, Mboum 8%, other 9%",
+    "extreme_poverty": 73,
+    "poverty_gap": 27,
+    "extreme_poverty_rank": 12,
+    "poverty_gap_rank": 6
   },
   {
     "flag": "🇹🇩",
@@ -6059,7 +6131,11 @@
     "volcanoes": null,
     "math_olympiad": null,
     "maternal_mortality_rank": 55,
-    "ethnic": "Sara 28%, Arab 12%, Mayo-Kebbi 11%, Kanem-Bornou 9%, Ouaddai 8%"
+    "ethnic": "Sara 28%, Arab 12%, Mayo-Kebbi 11%, Kanem-Bornou 9%, Ouaddai 8%",
+    "extreme_poverty": 60,
+    "poverty_gap": 19,
+    "extreme_poverty_rank": 6,
+    "poverty_gap_rank": 2
   },
   {
     "flag": "🇨🇱",
@@ -6541,7 +6617,21 @@
     "fortune500_rank": 2,
     "unicorns_rank": 11,
     "vc_funding_rank": 2,
-    "stock_market_rank": 2
+    "stock_market_rank": 2,
+    "chem_olympiad": 45,
+    "beef_consume": 6,
+    "pork_consume": 44,
+    "surgeons": 8,
+    "nurses": 31,
+    "life_exp_m": 73,
+    "life_exp_f": 79,
+    "chem_olympiad_rank": 1,
+    "beef_consume_rank": 17,
+    "pork_consume_rank": 2,
+    "surgeons_rank": 14,
+    "nurses_rank": 15,
+    "life_exp_m_rank": 15,
+    "life_exp_f_rank": 14
   },
   {
     "flag": "🇨🇴",
@@ -6731,7 +6821,9 @@
     "gang_violence_rank": 6,
     "holidays_rank": 6,
     "onlyfans": 55,
-    "onlyfans_rank": 13
+    "onlyfans_rank": 13,
+    "med_tourism": 62,
+    "med_tourism_rank": 10
   },
   {
     "flag": "🇰🇲",
@@ -7003,7 +7095,11 @@
     "maternal_mortality_rank": 46,
     "ethnic": "Mongo-Bantu 80%, Sudanic 15%, Nilotic 3%, Pygmy 1%, other 1%",
     "cyclone_freq": 2,
-    "cyclone_freq_rank": 1
+    "cyclone_freq_rank": 1,
+    "extreme_poverty": 68,
+    "poverty_gap": 29,
+    "extreme_poverty_rank": 9,
+    "poverty_gap_rank": 7
   },
   {
     "flag": "🇨🇬",
@@ -7477,7 +7573,9 @@
     "davis_cup": 3,
     "worldcup_parts_rank": 28,
     "olympic_per_cap_rank": 9,
-    "davis_cup_rank": 7
+    "davis_cup_rank": 7,
+    "antibiotics": 22,
+    "antibiotics_rank": 5
   },
   {
     "flag": "🇨🇺",
@@ -7980,7 +8078,13 @@
     "adult_films": 350,
     "parental_leave": 56,
     "adult_films_rank": 11,
-    "parental_leave_rank": 7
+    "parental_leave_rank": 7,
+    "homelessness": 5.5,
+    "pork_consume": 20,
+    "antibiotics": 23,
+    "homelessness_rank": 7,
+    "pork_consume_rank": 9,
+    "antibiotics_rank": 6
   },
   {
     "flag": "🇩🇰",
@@ -8242,7 +8346,15 @@
     "tax_top_rank": 17,
     "vat_rate_rank": 14,
     "tax_burden_rank": 16,
-    "business_ease_rank": 3
+    "business_ease_rank": 3,
+    "nobel_science": 4,
+    "homelessness": 3.8,
+    "pork_consume": 19,
+    "nurses": 175,
+    "nobel_science_rank": 13,
+    "homelessness_rank": 3,
+    "pork_consume_rank": 10,
+    "nurses_rank": 3
   },
   {
     "flag": "🇩🇯",
@@ -10011,7 +10123,11 @@
     "parental_leave_rank": 8,
     "tax_top_rank": 12,
     "vat_rate_rank": 12,
-    "tax_burden_rank": 11
+    "tax_burden_rank": 11,
+    "physicists": 6.8,
+    "homelessness": 3.2,
+    "physicists_rank": 3,
+    "homelessness_rank": 2
   },
   {
     "flag": "🇫🇷",
@@ -10343,7 +10459,35 @@
     "fortune500_rank": 5,
     "unicorns_rank": 9,
     "vc_funding_rank": 6,
-    "stock_market_rank": 6
+    "stock_market_rank": 6,
+    "nobel_science": 18,
+    "fields_medal": 13,
+    "physicists": 5.0,
+    "chem_olympiad": 12,
+    "homelessness": 7.2,
+    "beef_consume": 23,
+    "pork_consume": 18,
+    "chicken_consume": 30,
+    "surgeons": 42,
+    "nurses": 88,
+    "med_tourism": 55,
+    "life_exp_m": 77,
+    "life_exp_f": 86,
+    "antibiotics": 30,
+    "nobel_science_rank": 4,
+    "fields_medal_rank": 2,
+    "physicists_rank": 9,
+    "chem_olympiad_rank": 11,
+    "homelessness_rank": 9,
+    "beef_consume_rank": 8,
+    "pork_consume_rank": 11,
+    "chicken_consume_rank": 10,
+    "surgeons_rank": 5,
+    "nurses_rank": 9,
+    "med_tourism_rank": 11,
+    "life_exp_m_rank": 12,
+    "life_exp_f_rank": 3,
+    "antibiotics_rank": 12
   },
   {
     "flag": "🇬🇦",
@@ -11060,7 +11204,35 @@
     "unicorns_rank": 7,
     "vc_funding_rank": 5,
     "business_ease_rank": 13,
-    "stock_market_rank": 9
+    "stock_market_rank": 9,
+    "nobel_science": 34,
+    "fields_medal": 2,
+    "physicists": 6.2,
+    "chem_olympiad": 18,
+    "homelessness": 6.8,
+    "beef_consume": 18,
+    "pork_consume": 24,
+    "chicken_consume": 26,
+    "surgeons": 40,
+    "nurses": 156,
+    "med_tourism": 52,
+    "life_exp_m": 77,
+    "life_exp_f": 83,
+    "antibiotics": 18,
+    "nobel_science_rank": 3,
+    "fields_medal_rank": 8,
+    "physicists_rank": 5,
+    "chem_olympiad_rank": 9,
+    "homelessness_rank": 8,
+    "beef_consume_rank": 10,
+    "pork_consume_rank": 6,
+    "chicken_consume_rank": 12,
+    "surgeons_rank": 6,
+    "nurses_rank": 4,
+    "med_tourism_rank": 12,
+    "life_exp_m_rank": 13,
+    "life_exp_f_rank": 11,
+    "antibiotics_rank": 2
   },
   {
     "flag": "🇬🇭",
@@ -11414,7 +11586,11 @@
     "burglary_rank": 9,
     "intangible_rank": 13,
     "vat_rate": 24,
-    "vat_rate_rank": 13
+    "vat_rate_rank": 13,
+    "surgeons": 68,
+    "antibiotics": 36,
+    "surgeons_rank": 2,
+    "antibiotics_rank": 14
   },
   {
     "flag": "🇬🇹",
@@ -11686,7 +11862,9 @@
     "volcanoes": null,
     "math_olympiad": null,
     "maternal_mortality_rank": 52,
-    "ethnic": "Fulani 33.4%, Malinke 29.4%, Susu 21.2%, Guerze 7.8%, other 8.2%"
+    "ethnic": "Fulani 33.4%, Malinke 29.4%, Susu 21.2%, Guerze 7.8%, other 8.2%",
+    "extreme_poverty": 48,
+    "extreme_poverty_rank": 1
   },
   {
     "flag": "🇬🇼",
@@ -12435,7 +12613,9 @@
     "adult_films_rank": 12,
     "parental_leave_rank": 3,
     "corp_tax_rank": 1,
-    "vat_rate_rank": 17
+    "vat_rate_rank": 17,
+    "med_tourism": 48,
+    "med_tourism_rank": 13
   },
   {
     "flag": "🇮🇸",
@@ -12603,7 +12783,9 @@
     "marriage_age_m": 36,
     "marriage_age_f": 34,
     "marriage_age_m_rank": 3,
-    "marriage_age_f_rank": 3
+    "marriage_age_f_rank": 3,
+    "life_exp_m": 80,
+    "life_exp_m_rank": 5
   },
   {
     "flag": "🇮🇳",
@@ -12874,7 +13056,23 @@
     "fortune500_rank": 11,
     "unicorns_rank": 10,
     "vc_funding_rank": 4,
-    "stock_market_rank": 7
+    "stock_market_rank": 7,
+    "chem_olympiad": 10,
+    "beef_consume": 1,
+    "chicken_consume": 3,
+    "surgeons": 4,
+    "nurses": 17,
+    "med_tourism": 88,
+    "life_exp_m": 68,
+    "life_exp_f": 72,
+    "chem_olympiad_rank": 12,
+    "beef_consume_rank": 18,
+    "chicken_consume_rank": 15,
+    "surgeons_rank": 15,
+    "nurses_rank": 16,
+    "med_tourism_rank": 2,
+    "life_exp_m_rank": 16,
+    "life_exp_f_rank": 16
   },
   {
     "flag": "🇮🇩",
@@ -13303,7 +13501,11 @@
     "marriage_rate": 6.8,
     "marriage_age_m_rank": 27,
     "marriage_age_f_rank": 33,
-    "marriage_rate_rank": 2
+    "marriage_rate_rank": 2,
+    "fields_medal": 2,
+    "chem_olympiad": 20,
+    "fields_medal_rank": 9,
+    "chem_olympiad_rank": 8
   },
   {
     "flag": "🇮🇶",
@@ -13658,7 +13860,9 @@
     "corp_tax": 12,
     "tertiary_rank": 7,
     "unemp_benefit_rank": 11,
-    "corp_tax_rank": 2
+    "corp_tax_rank": 2,
+    "antibiotics": 25,
+    "antibiotics_rank": 8
   },
   {
     "flag": "🇮🇱",
@@ -13852,7 +14056,13 @@
     "tertiary_rank": 3,
     "school_yrs_rank": 6,
     "unicorns_rank": 2,
-    "vc_funding_rank": 7
+    "vc_funding_rank": 7,
+    "nobel_science": 3,
+    "physicists": 6.5,
+    "chicken_consume": 44,
+    "nobel_science_rank": 16,
+    "physicists_rank": 4,
+    "chicken_consume_rank": 4
   },
   {
     "flag": "🇮🇹",
@@ -14155,7 +14365,31 @@
     "corp_tax_rank": 9,
     "vat_rate_rank": 10,
     "tax_burden_rank": 12,
-    "fortune500_rank": 12
+    "fortune500_rank": 12,
+    "nobel_science": 5,
+    "fields_medal": 2,
+    "physicists": 4.2,
+    "homelessness": 5.2,
+    "beef_consume": 16,
+    "pork_consume": 17,
+    "chicken_consume": 22,
+    "surgeons": 55,
+    "nurses": 62,
+    "life_exp_m": 80,
+    "life_exp_f": 85,
+    "antibiotics": 28,
+    "nobel_science_rank": 10,
+    "fields_medal_rank": 10,
+    "physicists_rank": 11,
+    "homelessness_rank": 6,
+    "beef_consume_rank": 11,
+    "pork_consume_rank": 12,
+    "chicken_consume_rank": 14,
+    "surgeons_rank": 3,
+    "nurses_rank": 13,
+    "life_exp_m_rank": 6,
+    "life_exp_f_rank": 7,
+    "antibiotics_rank": 11
   },
   {
     "flag": "🇯🇲",
@@ -14618,7 +14852,29 @@
     "tax_burden_rank": 4,
     "fortune500_rank": 3,
     "vc_funding_rank": 11,
-    "stock_market_rank": 3
+    "stock_market_rank": 3,
+    "nobel_science": 11,
+    "fields_medal": 3,
+    "physicists": 3.8,
+    "chem_olympiad": 22,
+    "beef_consume": 10,
+    "pork_consume": 14,
+    "chicken_consume": 24,
+    "surgeons": 28,
+    "nurses": 80,
+    "life_exp_m": 82,
+    "life_exp_f": 88,
+    "nobel_science_rank": 5,
+    "fields_medal_rank": 5,
+    "physicists_rank": 12,
+    "chem_olympiad_rank": 7,
+    "beef_consume_rank": 15,
+    "pork_consume_rank": 15,
+    "chicken_consume_rank": 13,
+    "surgeons_rank": 10,
+    "nurses_rank": 11,
+    "life_exp_m_rank": 2,
+    "life_exp_f_rank": 1
   },
   {
     "flag": "🇯🇴",
@@ -16343,7 +16599,9 @@
     "gang_violence": 5,
     "emigration": 9,
     "gang_violence_rank": 4,
-    "emigration_rank": 1
+    "emigration_rank": 1,
+    "extreme_poverty": 52,
+    "extreme_poverty_rank": 2
   },
   {
     "flag": "🇱🇾",
@@ -17091,7 +17349,11 @@
     "maternal_mortality_rank": 26,
     "ethnic": "Malayo-Indonesian 90%, Cotiers 9%, French 0.5%, other 0.5%",
     "cyclone_freq": 7,
-    "cyclone_freq_rank": 9
+    "cyclone_freq_rank": 9,
+    "extreme_poverty": 72,
+    "poverty_gap": 31,
+    "extreme_poverty_rank": 11,
+    "poverty_gap_rank": 8
   },
   {
     "flag": "🇲🇼",
@@ -17227,7 +17489,11 @@
     "maternal_mortality_rank": 28,
     "ethnic": "Chewa 34.3%, Lomwe 18.8%, Yao 13.2%, Ngoni 10.4%, Tumbuka 9.2%, other 14.1%",
     "hiv_prev": 9.2,
-    "hiv_prev_rank": 5
+    "hiv_prev_rank": 5,
+    "extreme_poverty": 70,
+    "poverty_gap": 33,
+    "extreme_poverty_rank": 10,
+    "poverty_gap_rank": 9
   },
   {
     "flag": "🇲🇾",
@@ -17410,7 +17676,11 @@
     "tsunami_risk_rank": 9,
     "diabetes_rank": 5,
     "holidays_rank": 10,
-    "street_food_rank": 6
+    "street_food_rank": 6,
+    "chicken_consume": 42,
+    "med_tourism": 82,
+    "chicken_consume_rank": 5,
+    "med_tourism_rank": 4
   },
   {
     "flag": "🇲🇻",
@@ -17676,7 +17946,9 @@
     "volcanoes": null,
     "math_olympiad": null,
     "maternal_mortality_rank": 47,
-    "ethnic": "Bambara 33.3%, Fulani 13.3%, Soninke 9.6%, Senoufo 9.5%, Dogon 8.8%"
+    "ethnic": "Bambara 33.3%, Fulani 13.3%, Soninke 9.6%, Senoufo 9.5%, Dogon 8.8%",
+    "extreme_poverty": 54,
+    "extreme_poverty_rank": 3
   },
   {
     "flag": "🇲🇹",
@@ -18700,7 +18972,11 @@
     "marriage_age_m_rank": 25,
     "marriage_age_f_rank": 25,
     "onlyfans": 70,
-    "onlyfans_rank": 12
+    "onlyfans_rank": 12,
+    "beef_consume": 9,
+    "med_tourism": 75,
+    "beef_consume_rank": 16,
+    "med_tourism_rank": 6
   },
   {
     "flag": "🇫🇲",
@@ -19094,7 +19370,9 @@
     "math_olympiad": null,
     "ethnic": "Monegasque 32.1%, French 19.9%, Italian 15.3%, British 5%, Belgian 2.3%",
     "house_price": 110,
-    "house_price_rank": 14
+    "house_price_rank": 14,
+    "surgeons": 92,
+    "surgeons_rank": 1
   },
   {
     "flag": "🇲🇳",
@@ -19228,7 +19506,9 @@
     "nuclear_power": null,
     "volcanoes": null,
     "math_olympiad": null,
-    "ethnic": "Khalkha Mongol 84.5%, Kazakh 3.9%, Dorvod 2.4%, other 9.2%"
+    "ethnic": "Khalkha Mongol 84.5%, Kazakh 3.9%, Dorvod 2.4%, other 9.2%",
+    "antibiotics": 64,
+    "antibiotics_rank": 15
   },
   {
     "flag": "🇲🇪",
@@ -19639,7 +19919,11 @@
     "math_olympiad": null,
     "ethnic": "Makhuwa 26.4%, Tsonga 9.1%, Lomwe 7.8%, Sena 7.3%, other 49.4%",
     "hiv_prev": 12.5,
-    "hiv_prev_rank": 6
+    "hiv_prev_rank": 6,
+    "extreme_poverty": 65,
+    "poverty_gap": 25,
+    "extreme_poverty_rank": 8,
+    "poverty_gap_rank": 5
   },
   {
     "flag": "🇲🇲",
@@ -20492,7 +20776,15 @@
     "tax_top_rank": 13,
     "vat_rate_rank": 9,
     "tax_burden_rank": 8,
-    "fortune500_rank": 10
+    "fortune500_rank": 10,
+    "nobel_science": 5,
+    "physicists": 5.2,
+    "homelessness": 2.8,
+    "nurses": 115,
+    "nobel_science_rank": 11,
+    "physicists_rank": 8,
+    "homelessness_rank": 1,
+    "nurses_rank": 7
   },
   {
     "flag": "🇳🇨",
@@ -20868,7 +21160,11 @@
     "marriage_age_m_rank": 21,
     "marriage_age_f_rank": 18,
     "business_ease": 86.8,
-    "business_ease_rank": 1
+    "business_ease_rank": 1,
+    "homelessness": 10.8,
+    "beef_consume": 28,
+    "homelessness_rank": 11,
+    "beef_consume_rank": 6
   },
   {
     "flag": "🇳🇮",
@@ -21137,7 +21433,11 @@
     "volcanoes": null,
     "math_olympiad": null,
     "maternal_mortality_rank": 43,
-    "ethnic": "Hausa 53.1%, Djerma 21.2%, Tuareg 11%, Fulani 6.5%, Kanuri 5.9%"
+    "ethnic": "Hausa 53.1%, Djerma 21.2%, Tuareg 11%, Fulani 6.5%, Kanuri 5.9%",
+    "extreme_poverty": 58,
+    "poverty_gap": 17,
+    "extreme_poverty_rank": 5,
+    "poverty_gap_rank": 1
   },
   {
     "flag": "🇳🇬",
@@ -22119,7 +22419,15 @@
     "parental_leave_rank": 9,
     "vat_rate_rank": 15,
     "tax_burden_rank": 9,
-    "business_ease_rank": 8
+    "business_ease_rank": 8,
+    "fields_medal": 1,
+    "nurses": 185,
+    "life_exp_m": 81,
+    "life_exp_f": 84,
+    "fields_medal_rank": 12,
+    "nurses_rank": 2,
+    "life_exp_m_rank": 4,
+    "life_exp_f_rank": 9
   },
   {
     "flag": "🇴🇲",
@@ -23741,7 +24049,9 @@
     "pisa_reading_rank": 14,
     "tea_consume_rank": 9,
     "cat_own_rank": 10,
-    "dog_own_rank": 13
+    "dog_own_rank": 13,
+    "pork_consume": 22,
+    "pork_consume_rank": 7
   },
   {
     "flag": "🇵🇹",
@@ -24457,7 +24767,9 @@
     "worldcup_parts_rank": 26,
     "olympic_gold_rank": 18,
     "marriage_rate": 5.0,
-    "marriage_rate_rank": 12
+    "marriage_rate_rank": 12,
+    "antibiotics": 33,
+    "antibiotics_rank": 13
   },
   {
     "flag": "🇷🇺",
@@ -24706,7 +25018,19 @@
     "porn_search": 45,
     "school_yrs_rank": 13,
     "adult_films_rank": 6,
-    "porn_search_rank": 12
+    "porn_search_rank": 12,
+    "nobel_science": 8,
+    "fields_medal": 9,
+    "chem_olympiad": 35,
+    "beef_consume": 13,
+    "life_exp_m": 65,
+    "life_exp_f": 74,
+    "nobel_science_rank": 8,
+    "fields_medal_rank": 3,
+    "chem_olympiad_rank": 3,
+    "beef_consume_rank": 13,
+    "life_exp_m_rank": 17,
+    "life_exp_f_rank": 15
   },
   {
     "flag": "🇷🇼",
@@ -25429,7 +25753,9 @@
     "corp_tax_rank": 4,
     "unicorns_rank": 1,
     "vc_funding_rank": 9,
-    "business_ease_rank": 2
+    "business_ease_rank": 2,
+    "med_tourism": 86,
+    "med_tourism_rank": 3
   },
   {
     "flag": "🇸🇽",
@@ -25752,7 +26078,9 @@
     "cancer_rank": 1,
     "phd_per_cap_rank": 4,
     "parental_leave": 52,
-    "parental_leave_rank": 10
+    "parental_leave_rank": 10,
+    "antibiotics": 24,
+    "antibiotics_rank": 7
   },
   {
     "flag": "🇸🇮",
@@ -26445,7 +26773,11 @@
     "marriage_age_m": 30,
     "marriage_age_f": 28,
     "marriage_age_m_rank": 23,
-    "marriage_age_f_rank": 23
+    "marriage_age_f_rank": 23,
+    "beef_consume": 12,
+    "chicken_consume": 38,
+    "beef_consume_rank": 14,
+    "chicken_consume_rank": 7
   },
   {
     "flag": "🇰🇷",
@@ -26761,7 +27093,29 @@
     "unicorns_rank": 6,
     "vc_funding_rank": 10,
     "business_ease_rank": 4,
-    "stock_market_rank": 10
+    "stock_market_rank": 10,
+    "physicists": 3.2,
+    "chem_olympiad": 32,
+    "beef_consume": 14,
+    "pork_consume": 33,
+    "chicken_consume": 28,
+    "surgeons": 26,
+    "nurses": 72,
+    "med_tourism": 72,
+    "life_exp_m": 79,
+    "life_exp_f": 86,
+    "antibiotics": 18,
+    "physicists_rank": 13,
+    "chem_olympiad_rank": 4,
+    "beef_consume_rank": 12,
+    "pork_consume_rank": 3,
+    "chicken_consume_rank": 11,
+    "surgeons_rank": 11,
+    "nurses_rank": 12,
+    "med_tourism_rank": 7,
+    "life_exp_m_rank": 8,
+    "life_exp_f_rank": 4,
+    "antibiotics_rank": 3
   },
   {
     "flag": "🇪🇸",
@@ -27040,7 +27394,19 @@
     "adult_films_rank": 8,
     "welfare_spend_rank": 11,
     "unemp_benefit_rank": 3,
-    "pension_rate_rank": 5
+    "pension_rate_rank": 5,
+    "homelessness": 4.8,
+    "pork_consume": 25,
+    "surgeons": 48,
+    "life_exp_m": 79,
+    "life_exp_f": 87,
+    "antibiotics": 26,
+    "homelessness_rank": 5,
+    "pork_consume_rank": 5,
+    "surgeons_rank": 4,
+    "life_exp_m_rank": 9,
+    "life_exp_f_rank": 2,
+    "antibiotics_rank": 9
   },
   {
     "flag": "🇱🇰",
@@ -27468,7 +27834,11 @@
     "maternal_mortality_rank": 56,
     "ethnic": "Dinka 35.8%, Nuer 15.6%, Shilluk 7%, Azande 6%, other 35.6%",
     "emigration": 28,
-    "emigration_rank": 11
+    "emigration_rank": 11,
+    "extreme_poverty": 82,
+    "poverty_gap": 42,
+    "extreme_poverty_rank": 14,
+    "poverty_gap_rank": 11
   },
   {
     "flag": "🇸🇷",
@@ -27878,7 +28248,21 @@
     "vat_rate_rank": 16,
     "tax_burden_rank": 14,
     "unicorns_rank": 4,
-    "business_ease_rank": 9
+    "business_ease_rank": 9,
+    "nobel_science": 9,
+    "fields_medal": 1,
+    "physicists": 7.2,
+    "homelessness": 4.2,
+    "nurses": 127,
+    "life_exp_m": 80,
+    "life_exp_f": 84,
+    "nobel_science_rank": 6,
+    "fields_medal_rank": 13,
+    "physicists_rank": 2,
+    "homelessness_rank": 4,
+    "nurses_rank": 6,
+    "life_exp_m_rank": 7,
+    "life_exp_f_rank": 10
   },
   {
     "flag": "🇨🇭",
@@ -28135,7 +28519,19 @@
     "corp_tax_rank": 3,
     "vat_rate_rank": 1,
     "fortune500_rank": 9,
-    "stock_market_rank": 11
+    "stock_market_rank": 11,
+    "nobel_science": 9,
+    "physicists": 8.5,
+    "surgeons": 38,
+    "nurses": 186,
+    "life_exp_m": 83,
+    "life_exp_f": 86,
+    "nobel_science_rank": 7,
+    "physicists_rank": 1,
+    "surgeons_rank": 7,
+    "nurses_rank": 1,
+    "life_exp_m_rank": 1,
+    "life_exp_f_rank": 5
   },
   {
     "flag": "🇸🇾",
@@ -28417,7 +28813,11 @@
     "lgbtq_rights": 78,
     "pisa_math_rank": 3,
     "pisa_science_rank": 8,
-    "lgbtq_rights_rank": 13
+    "lgbtq_rights_rank": 13,
+    "chem_olympiad": 28,
+    "med_tourism": 68,
+    "chem_olympiad_rank": 5,
+    "med_tourism_rank": 8
   },
   {
     "flag": "🇹🇯",
@@ -28920,7 +29320,9 @@
     "rice_consume_rank": 7,
     "holidays_rank": 8,
     "influencers_rank": 14,
-    "street_food_rank": 1
+    "street_food_rank": 1,
+    "med_tourism": 95,
+    "med_tourism_rank": 1
   },
   {
     "flag": "🇹🇱",
@@ -29811,7 +30213,9 @@
     "marriage_rate": 6.0,
     "marriage_age_m_rank": 29,
     "marriage_age_f_rank": 29,
-    "marriage_rate_rank": 7
+    "marriage_rate_rank": 7,
+    "med_tourism": 78,
+    "med_tourism_rank": 5
   },
   {
     "flag": "🇹🇲",
@@ -30511,7 +30915,9 @@
     "marriage_rate": 4.5,
     "marriage_age_m_rank": 33,
     "marriage_age_f_rank": 31,
-    "marriage_rate_rank": 15
+    "marriage_rate_rank": 15,
+    "fields_medal": 1,
+    "fields_medal_rank": 14
   },
   {
     "flag": "🇦🇪",
@@ -31011,7 +31417,33 @@
     "unicorns_rank": 5,
     "vc_funding_rank": 3,
     "business_ease_rank": 7,
-    "stock_market_rank": 5
+    "stock_market_rank": 5,
+    "nobel_science": 48,
+    "fields_medal": 7,
+    "physicists": 5.5,
+    "chem_olympiad": 15,
+    "homelessness": 13.5,
+    "beef_consume": 21,
+    "pork_consume": 15,
+    "chicken_consume": 36,
+    "surgeons": 32,
+    "nurses": 95,
+    "life_exp_m": 78,
+    "life_exp_f": 83,
+    "antibiotics": 20,
+    "nobel_science_rank": 2,
+    "fields_medal_rank": 4,
+    "physicists_rank": 7,
+    "chem_olympiad_rank": 10,
+    "homelessness_rank": 13,
+    "beef_consume_rank": 9,
+    "pork_consume_rank": 14,
+    "chicken_consume_rank": 8,
+    "surgeons_rank": 9,
+    "nurses_rank": 8,
+    "life_exp_m_rank": 11,
+    "life_exp_f_rank": 12,
+    "antibiotics_rank": 4
   },
   {
     "flag": "🇺🇸",
@@ -31358,7 +31790,33 @@
     "unicorns_rank": 3,
     "vc_funding_rank": 1,
     "business_ease_rank": 5,
-    "stock_market_rank": 1
+    "stock_market_rank": 1,
+    "nobel_science": 155,
+    "fields_medal": 14,
+    "physicists": 4.5,
+    "chem_olympiad": 38,
+    "homelessness": 17.2,
+    "beef_consume": 38,
+    "pork_consume": 16,
+    "chicken_consume": 49,
+    "surgeons": 36,
+    "nurses": 86,
+    "life_exp_m": 75,
+    "life_exp_f": 81,
+    "antibiotics": 17,
+    "nobel_science_rank": 1,
+    "fields_medal_rank": 1,
+    "physicists_rank": 10,
+    "chem_olympiad_rank": 2,
+    "homelessness_rank": 14,
+    "beef_consume_rank": 3,
+    "pork_consume_rank": 13,
+    "chicken_consume_rank": 1,
+    "surgeons_rank": 8,
+    "nurses_rank": 10,
+    "life_exp_m_rank": 14,
+    "life_exp_f_rank": 13,
+    "antibiotics_rank": 1
   },
   {
     "flag": "🇺🇾",
@@ -31510,7 +31968,9 @@
     "math_olympiad": null,
     "ethnic": "White 88%, Mestizo 8%, Black 4%",
     "lgbtq_rights": 82,
-    "lgbtq_rights_rank": 11
+    "lgbtq_rights_rank": 11,
+    "beef_consume": 46,
+    "beef_consume_rank": 2
   },
   {
     "flag": "🇺🇿",
@@ -32261,7 +32721,13 @@
     "intangible_rank": 15,
     "rice_consume_rank": 4,
     "holidays_rank": 16,
-    "street_food_rank": 4
+    "street_food_rank": 4,
+    "fields_medal": 1,
+    "chem_olympiad": 25,
+    "pork_consume": 30,
+    "fields_medal_rank": 15,
+    "chem_olympiad_rank": 6,
+    "pork_consume_rank": 4
   },
   {
     "flag": "🇼🇫",
@@ -32794,7 +33260,11 @@
     "maternal_mortality_rank": 30,
     "ethnic": "Bemba 21%, Tonga 13.6%, Chewa 7.4%, Lozi 5.7%, Nsenga 5.3%, other 46%",
     "park_area": 32,
-    "park_area_rank": 2
+    "park_area_rank": 2,
+    "extreme_poverty": 56,
+    "poverty_gap": 21,
+    "extreme_poverty_rank": 4,
+    "poverty_gap_rank": 3
   },
   {
     "flag": "🇿🇼",
@@ -33107,7 +33577,9 @@
     "stock_market": 5800,
     "tax_top_rank": 1,
     "business_ease_rank": 10,
-    "stock_market_rank": 4
+    "stock_market_rank": 4,
+    "pork_consume": 70,
+    "pork_consume_rank": 1
   },
   {
     "country_code": "xk",

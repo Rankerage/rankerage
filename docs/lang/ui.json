@@ -1156,5 +1156,85 @@
     "en": "StockMkt",
     "ko": "주식시장",
     "ja": "株式市場"
+  },
+  "nobelSci": {
+    "en": "NobelSci",
+    "ko": "노벨과학",
+    "ja": "ノーベル科学"
+  },
+  "fields": {
+    "en": "Fields",
+    "ko": "필즈상",
+    "ja": "フィールズ賞"
+  },
+  "phys": {
+    "en": "Physics",
+    "ko": "물리학자",
+    "ja": "物理学者"
+  },
+  "chemOly": {
+    "en": "ChemOly",
+    "ko": "화학올림",
+    "ja": "化学五輪"
+  },
+  "xpoverty": {
+    "en": "ExtPov",
+    "ko": "극빈층",
+    "ja": "極貧層"
+  },
+  "pgap": {
+    "en": "PovGap",
+    "ko": "빈곤갭",
+    "ja": "貧困Gap"
+  },
+  "homeless": {
+    "en": "Homeless",
+    "ko": "노숙자",
+    "ja": "ホームレス"
+  },
+  "beef": {
+    "en": "Beef",
+    "ko": "소고기",
+    "ja": "牛肉"
+  },
+  "pork": {
+    "en": "Pork",
+    "ko": "돼지고기",
+    "ja": "豚肉"
+  },
+  "chicken": {
+    "en": "Chicken",
+    "ko": "닭고기",
+    "ja": "鶏肉"
+  },
+  "surgeon": {
+    "en": "Surgeon",
+    "ko": "외과의",
+    "ja": "外科医"
+  },
+  "nurse": {
+    "en": "Nurse",
+    "ko": "간호사",
+    "ja": "看護師"
+  },
+  "medTour": {
+    "en": "MedTour",
+    "ko": "의료관광",
+    "ja": "医療観光"
+  },
+  "lifeM": {
+    "en": "Life♂",
+    "ko": "수명남",
+    "ja": "寿命♂"
+  },
+  "lifeF": {
+    "en": "Life♀",
+    "ko": "수명여",
+    "ja": "寿命♀"
+  },
+  "antibio": {
+    "en": "Antibio",
+    "ko": "항생제",
+    "ja": "抗生物質"
   }
 }
