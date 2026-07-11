@@ -321,16 +321,14 @@
 
     // Load data
     fetch('data/countries.json').then(function(r){return r.json()}).then(function(data){
-      // Replace null with sentinel so Tabulator's number sorter puts them last
-      var fields = ["population","area","population_density","gdp","gdp_per_capita","hdi",
-        "life_expectancy","happiness","fifa_ranking","cpi","gpi","internet_pct","military_pct",
-        "democracy","press","unemp","debt","poverty","rd","patents","edu","english","gender",
-        "fertility","health","obesity","alcohol","pm25","co2","forest","renew","nuclear","murder",
-        "tourism","olympic","fifa_w","basket","cricket","rugby","nobel","approval",
-        "gini","suicide","tz","prison","literacy","netspeed","doctors","heritage",
-        "military_personnel","line_length","maternal_mortality","beer","wine","chocolate","airports","startups","chess","nobel_per_capita","earthquakes","hdi_adj","books","trump_approval","nato","nuclear_power","volcanoes","math_olympiad","birth_rate","death_rate","infant_mortality","urban_pop","median_age","energy_per_capita","inflation","gas_price","car_density","meat","govern_spend","tax_rev","reserves","exports","imports","penetration","divorce","aviation","religion_div","electricity","leave","independence","smoking","mcdonalds","elevation","agri","languages","coffee",
-        "police","beds","students_per_teacher","salary","workhours"];
-      data.forEach(function(row){fields.forEach(function(f){if(row[f]==null)row[f]=NULL_SENTINEL;});});
+      // Replace null with two sentinels: desc fields use -999999, asc fields use 999999
+      var fields = ["population","area","population_density","gdp","gdp_per_capita","hdi","life_expectancy","happiness","fifa_ranking","cpi","gpi","internet_pct","military_pct","democracy","press","unemp","debt","poverty","rd","patents","edu","english","gender","fertility","health","obesity","alcohol","pm25","co2","forest","renew","nuclear","murder","tourism","olympic","fifa_w","basket","cricket","rugby","nobel","approval","gini","suicide","tz","prison","literacy","netspeed","doctors","heritage","military_personnel","line_length","maternal_mortality","beer","wine","chocolate","airports","startups","chess","nobel_per_capita","earthquakes","hdi_adj","books","trump_approval","nato","nuclear_power","volcanoes","math_olympiad","birth_rate","death_rate","infant_mortality","urban_pop","median_age","energy_per_capita","inflation","gas_price","car_density","meat","govern_spend","tax_rev","reserves","exports","imports","penetration","divorce","aviation","religion_div","electricity","leave","independence","smoking","mcdonalds","elevation","agri","languages","coffee","police","beds","students_per_teacher","salary","workhours"];
+      var descFields = ["population","area","gdp","gdp_per_capita","hdi","life_expectancy","happiness","democracy","press","cpi","gpi","approval","internet_pct","edu","english","gender","fertility","health","renew","forest","rd","patents","tourism","nobel","gini","netspeed","doctors","heritage","leave","independence","literacy","agri","languages","coffee","smoking","mcdonalds","elevation","police","beds","salary","meat","car_density","penetration","aviation","religion_div","beer","wine","chocolate","airports","startups","chess","nobel_per_capita","hdi_adj","books","nuclear_power","volcanoes","math_olympiad","birth_rate","urban_pop","median_age","energy_per_capita","electricity","reserves","exports","imports","govern_spend","tax_rev","military_personnel","line_length","olympic","basket","cricket","rugby"];
+      data.forEach(function(row){
+        fields.forEach(function(f){
+          if(row[f]==null) row[f] = descFields.indexOf(f) >= 0 ? -999999 : 999999;
+        });
+      });
       table.setData(data);setTimeout(function(){var h=document.querySelector('.scroll-hint');if(h){h.style.opacity='0';setTimeout(function(){if(h)h.remove();},500);}},6000);
     }).catch(function(err){console.error(err);table.setData([]);});
 
