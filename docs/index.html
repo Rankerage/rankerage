@@ -102,5 +102,13 @@
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
     <script src="js/i18n.js"></script>
     <script src="js/table.js?v=5"></script>
+
+    fetch('data/site_meta.json').then(function(r){return r.json()}).then(function(m){
+      if (m.last_updated) {
+        var d = new Date(m.last_updated);
+        var s = d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
+        document.getElementById('updateBadge').textContent = '🔄 Updated '+s+' ('+m.total_rankings+' rankings)';
+      }
+    });
 </body>
 </html>

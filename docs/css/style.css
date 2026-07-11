@@ -660,3 +660,9 @@ body {
 .tabulator-row {
   animation: fadeIn 0.3s ease-out both;
 }
+
+.update-badge {
+  font-size: 10px; color: var(--accent); background: rgba(224,200,124,0.1);
+  padding: 3px 8px; border-radius: 10px; margin-right: 8px; white-space: nowrap;
+  font-family: 'JetBrains Mono', Consolas, monospace;
+}
