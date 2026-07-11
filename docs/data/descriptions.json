@@ -242,5 +242,13 @@
   "bmi_avg": "Average BMI — 평균체질량지수 (Source: WHO)",
   "egov_index": "E-Government — 전자정부발전지수 0-1 (Source: UN)",
   "ai_adopt": "AI Adoption — 기업AI도입률 % (Source: McKinsey)",
-  "online_gov": "Online Gov — 온라인행정서비스 % (Source: UN)"
+  "online_gov": "Online Gov — 온라인행정서비스 % (Source: UN)",
+  "freedom": "Freedom Index — 자유지수 0-100 (Source: Freedom House)",
+  "slavery": "Modern Slavery — 노예지수, 1000명당 (Source: Walk Free)",
+  "child_marriage": "Child Marriage — 조혼비율 % (Source: UNICEF)",
+  "death_penalty": "Death Penalty — 사형제 유지=1, 폐지=0 (Source: Amnesty)",
+  "disability": "Disability Rights — 장애인권리지수 0-100 (Source: UN)",
+  "minority_rights": "Minority Rights — 소수자인권보호 1-10 (Source: Various)",
+  "women_parl": "Women in Parliament — 여성의원비율 % (Source: IPU)",
+  "gay_marriage": "Same-Sex Marriage — 동성결혼합법화=1 (Source: ILGA)"
 }

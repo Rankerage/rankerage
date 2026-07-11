@@ -163,7 +163,11 @@
     "war_index_rank": 8,
     "polit_kill_rank": 12,
     "displaced_from_rank": 10,
-    "domestic_viol_rank": 15
+    "domestic_viol_rank": 15,
+    "slavery": 40,
+    "death_penalty": 1,
+    "slavery_rank": 8,
+    "death_penalty_rank": 8
   },
   {
     "flag": "🇦🇽",
@@ -1432,7 +1436,9 @@
     "beef_consume_rank": 1,
     "chicken_consume_rank": 6,
     "credit_rating": 2,
-    "credit_rating_rank": 20
+    "credit_rating_rank": 20,
+    "gay_marriage": 1,
+    "gay_marriage_rank": 1
   },
   {
     "flag": "🇦🇲",
@@ -1946,7 +1952,17 @@
     "bmi_avg_rank": 9,
     "egov_index_rank": 8,
     "ai_adopt_rank": 7,
-    "online_gov_rank": 9
+    "online_gov_rank": 9,
+    "freedom": 95,
+    "disability": 88,
+    "minority_rights": 8,
+    "women_parl": 33,
+    "gay_marriage": 1,
+    "freedom_rank": 8,
+    "disability_rank": 3,
+    "minority_rights_rank": 5,
+    "women_parl_rank": 13,
+    "gay_marriage_rank": 2
   },
   {
     "flag": "🇦🇬",
@@ -2328,7 +2344,9 @@
     "height_m": 178,
     "height_f": 165,
     "height_m_rank": 12,
-    "height_f_rank": 10
+    "height_f_rank": 10,
+    "gay_marriage": 1,
+    "gay_marriage_rank": 3
   },
   {
     "flag": "🇧🇦",
@@ -2806,7 +2824,9 @@
     "domestic_viol": 65,
     "domestic_viol_rank": 16,
     "child_labor": 8,
-    "child_labor_rank": 3
+    "child_labor_rank": 3,
+    "child_marriage": 51,
+    "child_marriage_rank": 13
   },
   {
     "flag": "🇧🇪",
@@ -3074,7 +3094,9 @@
     "nuke_reactors": 7,
     "nuke_reactors_rank": 11,
     "height_m": 179,
-    "height_m_rank": 9
+    "height_m_rank": 9,
+    "gay_marriage": 1,
+    "gay_marriage_rank": 4
   },
   {
     "flag": "🇧🇫",
@@ -3224,7 +3246,9 @@
     "war_index_rank": 10,
     "polit_kill_rank": 11,
     "child_labor": 45,
-    "child_labor_rank": 15
+    "child_labor_rank": 15,
+    "child_marriage": 50,
+    "child_marriage_rank": 12
   },
   {
     "flag": "🇧🇬",
@@ -4706,7 +4730,21 @@
     "ai_adopt": 22,
     "height_m_rank": 19,
     "height_f_rank": 16,
-    "ai_adopt_rank": 12
+    "ai_adopt_rank": 12,
+    "freedom": 62,
+    "slavery": 15,
+    "child_marriage": 26,
+    "death_penalty": 0,
+    "disability": 55,
+    "minority_rights": 6,
+    "gay_marriage": 1,
+    "freedom_rank": 16,
+    "slavery_rank": 3,
+    "child_marriage_rank": 6,
+    "death_penalty_rank": 1,
+    "disability_rank": 11,
+    "minority_rights_rank": 10,
+    "gay_marriage_rank": 5
   },
   {
     "flag": "🇧🇳",
@@ -6070,7 +6108,15 @@
     "ai_adopt": 26,
     "height_m_rank": 13,
     "bmi_avg_rank": 8,
-    "ai_adopt_rank": 11
+    "ai_adopt_rank": 11,
+    "freedom": 98,
+    "disability": 80,
+    "minority_rights": 10,
+    "gay_marriage": 1,
+    "freedom_rank": 5,
+    "disability_rank": 7,
+    "minority_rights_rank": 1,
+    "gay_marriage_rank": 6
   },
   {
     "flag": "🇨🇫",
@@ -6215,7 +6261,9 @@
     "displaced_from": 3,
     "displaced_from_rank": 2,
     "child_labor": 38,
-    "child_labor_rank": 13
+    "child_labor_rank": 13,
+    "child_marriage": 68,
+    "child_marriage_rank": 16
   },
   {
     "flag": "🇹🇩",
@@ -6355,7 +6403,9 @@
     "extreme_poverty": 60,
     "poverty_gap": 19,
     "extreme_poverty_rank": 6,
-    "poverty_gap_rank": 2
+    "poverty_gap_rank": 2,
+    "child_marriage": 67,
+    "child_marriage_rank": 15
   },
   {
     "flag": "🇨🇱",
@@ -6552,7 +6602,9 @@
     "tsunami_risk_rank": 20,
     "wildfire_freq_rank": 10,
     "worldcup_parts_rank": 18,
-    "vaccination_rank": 2
+    "vaccination_rank": 2,
+    "gay_marriage": 1,
+    "gay_marriage_rank": 7
   },
   {
     "flag": "🇨🇳",
@@ -6931,7 +6983,21 @@
     "bmi_avg_rank": 5,
     "egov_index_rank": 15,
     "ai_adopt_rank": 1,
-    "online_gov_rank": 15
+    "online_gov_rank": 15,
+    "freedom": 9,
+    "slavery": 28,
+    "child_marriage": 4,
+    "death_penalty": 1,
+    "disability": 38,
+    "minority_rights": 2,
+    "women_parl": 25,
+    "freedom_rank": 19,
+    "slavery_rank": 5,
+    "child_marriage_rank": 3,
+    "death_penalty_rank": 9,
+    "disability_rank": 13,
+    "minority_rights_rank": 15,
+    "women_parl_rank": 15
   },
   {
     "flag": "🇨🇴",
@@ -8027,7 +8093,9 @@
     "olympic_gold_rank": 19,
     "vaccination_rank": 4,
     "baseball": 84,
-    "baseball_rank": 6
+    "baseball_rank": 6,
+    "women_parl": 53,
+    "women_parl_rank": 2
   },
   {
     "flag": "🇨🇾",
@@ -8708,7 +8776,11 @@
     "height_m_rank": 3,
     "height_f_rank": 4,
     "egov_index_rank": 1,
-    "online_gov_rank": 3
+    "online_gov_rank": 3,
+    "freedom": 97,
+    "gay_marriage": 1,
+    "freedom_rank": 6,
+    "gay_marriage_rank": 8
   },
   {
     "flag": "🇩🇯",
@@ -9106,7 +9178,9 @@
     "maternal_mortality_rank": 12,
     "ethnic": "Mestizo 71.9%, Indigenous 7%, Black 7.2%, White 6.1%, other 7.8%",
     "earthquake_count": 7,
-    "earthquake_count_rank": 4
+    "earthquake_count_rank": 4,
+    "gay_marriage": 1,
+    "gay_marriage_rank": 9
   },
   {
     "flag": "🇪🇬",
@@ -9316,7 +9390,9 @@
     "marriage_age_f_rank": 30,
     "marriage_rate_rank": 5,
     "water_scarcity": 7,
-    "water_scarcity_rank": 7
+    "water_scarcity_rank": 7,
+    "death_penalty": 1,
+    "death_penalty_rank": 10
   },
   {
     "flag": "🇸🇻",
@@ -9717,7 +9793,9 @@
     "marathon_elite_rank": 14,
     "emigration_rank": 10,
     "displaced_from": 3,
-    "displaced_from_rank": 3
+    "displaced_from_rank": 3,
+    "slavery": 93,
+    "slavery_rank": 14
   },
   {
     "flag": "🇪🇪",
@@ -10109,7 +10187,9 @@
     "child_labor": 32,
     "child_labor_rank": 12,
     "bmi_avg": 20.6,
-    "bmi_avg_rank": 1
+    "bmi_avg_rank": 1,
+    "child_marriage": 25,
+    "child_marriage_rank": 5
   },
   {
     "flag": "🇫🇯",
@@ -10527,7 +10607,13 @@
     "height_m_rank": 10,
     "height_f_rank": 7,
     "egov_index_rank": 2,
-    "online_gov_rank": 2
+    "online_gov_rank": 2,
+    "freedom": 100,
+    "minority_rights": 9,
+    "gay_marriage": 1,
+    "freedom_rank": 1,
+    "minority_rights_rank": 2,
+    "gay_marriage_rank": 10
   },
   {
     "flag": "🇫🇷",
@@ -10969,7 +11055,19 @@
     "bmi_avg_rank": 6,
     "egov_index_rank": 12,
     "ai_adopt_rank": 10,
-    "online_gov_rank": 12
+    "online_gov_rank": 12,
+    "freedom": 93,
+    "death_penalty": 0,
+    "disability": 82,
+    "minority_rights": 6,
+    "women_parl": 39,
+    "gay_marriage": 1,
+    "freedom_rank": 10,
+    "death_penalty_rank": 2,
+    "disability_rank": 6,
+    "minority_rights_rank": 11,
+    "women_parl_rank": 9,
+    "gay_marriage_rank": 11
   },
   {
     "flag": "🇬🇦",
@@ -11800,7 +11898,19 @@
     "bmi_avg_rank": 7,
     "egov_index_rank": 14,
     "ai_adopt_rank": 8,
-    "online_gov_rank": 14
+    "online_gov_rank": 14,
+    "freedom": 94,
+    "death_penalty": 0,
+    "disability": 84,
+    "minority_rights": 7,
+    "women_parl": 36,
+    "gay_marriage": 1,
+    "freedom_rank": 9,
+    "death_penalty_rank": 3,
+    "disability_rank": 5,
+    "minority_rights_rank": 8,
+    "women_parl_rank": 11,
+    "gay_marriage_rank": 12
   },
   {
     "flag": "🇬🇭",
@@ -12566,7 +12676,9 @@
     "nuclear_power": null,
     "volcanoes": null,
     "math_olympiad": null,
-    "ethnic": "Fula 28.5%, Balanta 22.5%, Mandinga 14.7%, Papel 9.1%, other 25.2%"
+    "ethnic": "Fula 28.5%, Balanta 22.5%, Mandinga 14.7%, Papel 9.1%, other 25.2%",
+    "child_marriage": 48,
+    "child_marriage_rank": 11
   },
   {
     "flag": "🇬🇾",
@@ -13365,7 +13477,9 @@
     "ev_adoption": 72,
     "ev_adoption_rank": 2,
     "union_rate": 91,
-    "union_rate_rank": 1
+    "union_rate_rank": 1,
+    "gay_marriage": 1,
+    "gay_marriage_rank": 13
   },
   {
     "flag": "🇮🇳",
@@ -13732,7 +13846,21 @@
     "height_f_rank": 19,
     "bmi_avg_rank": 2,
     "egov_index_rank": 16,
-    "ai_adopt_rank": 4
+    "ai_adopt_rank": 4,
+    "freedom": 66,
+    "slavery": 32,
+    "child_marriage": 27,
+    "death_penalty": 0,
+    "disability": 42,
+    "minority_rights": 5,
+    "women_parl": 14,
+    "freedom_rank": 15,
+    "slavery_rank": 6,
+    "child_marriage_rank": 7,
+    "death_penalty_rank": 4,
+    "disability_rank": 12,
+    "minority_rights_rank": 13,
+    "women_parl_rank": 18
   },
   {
     "flag": "🇮🇩",
@@ -13984,7 +14112,11 @@
     "race_diversity_rank": 9,
     "e_scooter_rank": 5,
     "height_m": 164,
-    "height_m_rank": 23
+    "height_m_rank": 23,
+    "child_marriage": 12,
+    "death_penalty": 0,
+    "child_marriage_rank": 4,
+    "death_penalty_rank": 5
   },
   {
     "flag": "🇮🇷",
@@ -14185,7 +14317,13 @@
     "fields_medal_rank": 9,
     "chem_olympiad_rank": 8,
     "polit_kill": 1.2,
-    "polit_kill_rank": 5
+    "polit_kill_rank": 5,
+    "freedom": 10,
+    "slavery": 56,
+    "death_penalty": 1,
+    "freedom_rank": 18,
+    "slavery_rank": 11,
+    "death_penalty_rank": 11
   },
   {
     "flag": "🇮🇶",
@@ -14326,7 +14464,11 @@
     "displaced_from": 2,
     "war_index_rank": 7,
     "polit_kill_rank": 7,
-    "displaced_from_rank": 1
+    "displaced_from_rank": 1,
+    "slavery": 46,
+    "death_penalty": 1,
+    "slavery_rank": 9,
+    "death_penalty_rank": 12
   },
   {
     "flag": "🇮🇪",
@@ -14550,7 +14692,9 @@
     "antibiotics": 25,
     "antibiotics_rank": 8,
     "fast_food": 42,
-    "fast_food_rank": 7
+    "fast_food_rank": 7,
+    "gay_marriage": 1,
+    "gay_marriage_rank": 14
   },
   {
     "flag": "🇮🇱",
@@ -15137,7 +15281,9 @@
     "ai_adopt": 20,
     "height_m_rank": 17,
     "height_f_rank": 14,
-    "ai_adopt_rank": 13
+    "ai_adopt_rank": 13,
+    "gay_marriage": 0,
+    "gay_marriage_rank": 29
   },
   {
     "flag": "🇯🇲",
@@ -15706,7 +15852,19 @@
     "bmi_avg_rank": 3,
     "egov_index_rank": 13,
     "ai_adopt_rank": 9,
-    "online_gov_rank": 13
+    "online_gov_rank": 13,
+    "freedom": 88,
+    "death_penalty": 1,
+    "disability": 68,
+    "minority_rights": 5,
+    "women_parl": 16,
+    "gay_marriage": 0,
+    "freedom_rank": 12,
+    "death_penalty_rank": 13,
+    "disability_rank": 10,
+    "minority_rights_rank": 14,
+    "women_parl_rank": 17,
+    "gay_marriage_rank": 30
   },
   {
     "flag": "🇯🇴",
@@ -18072,7 +18230,9 @@
     "passport": 189,
     "credit_rating": 10,
     "passport_rank": 11,
-    "credit_rating_rank": 4
+    "credit_rating_rank": 4,
+    "gay_marriage": 1,
+    "gay_marriage_rank": 15
   },
   {
     "flag": "🇲🇬",
@@ -18826,7 +18986,9 @@
     "war_index_rank": 12,
     "polit_kill_rank": 10,
     "child_labor": 40,
-    "child_labor_rank": 14
+    "child_labor_rank": 14,
+    "child_marriage": 54,
+    "child_marriage_rank": 14
   },
   {
     "flag": "🇲🇹",
@@ -18959,7 +19121,9 @@
     "nuclear_power": null,
     "volcanoes": null,
     "math_olympiad": null,
-    "ethnic": "Maltese 95%, other 5%"
+    "ethnic": "Maltese 95%, other 5%",
+    "gay_marriage": 1,
+    "gay_marriage_rank": 16
   },
   {
     "flag": "🇲🇭",
@@ -19342,7 +19506,9 @@
     "volcanoes": null,
     "math_olympiad": null,
     "maternal_mortality_rank": 42,
-    "ethnic": "Haratin 40%, Arab/Berber 30%, Halpulaar 12%, Fulani 8%, other 10%"
+    "ethnic": "Haratin 40%, Arab/Berber 30%, Halpulaar 12%, Fulani 8%, other 10%",
+    "slavery": 66,
+    "slavery_rank": 12
   },
   {
     "flag": "🇲🇺",
@@ -19874,7 +20040,9 @@
     "bmi_avg": 28.5,
     "ai_adopt": 15,
     "bmi_avg_rank": 11,
-    "ai_adopt_rank": 14
+    "ai_adopt_rank": 14,
+    "women_parl": 50,
+    "women_parl_rank": 3
   },
   {
     "flag": "🇫🇲",
@@ -20823,7 +20991,9 @@
     "extreme_poverty": 65,
     "poverty_gap": 25,
     "extreme_poverty_rank": 8,
-    "poverty_gap_rank": 5
+    "poverty_gap_rank": 5,
+    "child_marriage": 42,
+    "child_marriage_rank": 9
   },
   {
     "flag": "🇲🇲",
@@ -20988,7 +21158,9 @@
     "polit_kill_rank": 19,
     "displaced_from_rank": 8,
     "child_labor": 14,
-    "child_labor_rank": 5
+    "child_labor_rank": 5,
+    "minority_rights": 1,
+    "minority_rights_rank": 17
   },
   {
     "flag": "🇳🇦",
@@ -21726,7 +21898,13 @@
     "height_m_rank": 1,
     "height_f_rank": 2,
     "egov_index_rank": 7,
-    "online_gov_rank": 6
+    "online_gov_rank": 6,
+    "freedom": 96,
+    "minority_rights": 8,
+    "gay_marriage": 1,
+    "freedom_rank": 7,
+    "minority_rights_rank": 6,
+    "gay_marriage_rank": 17
   },
   {
     "flag": "🇳🇨",
@@ -22114,7 +22292,17 @@
     "egov_index": 0.94,
     "online_gov": 91,
     "egov_index_rank": 4,
-    "online_gov_rank": 8
+    "online_gov_rank": 8,
+    "freedom": 99,
+    "disability": 90,
+    "minority_rights": 9,
+    "women_parl": 49,
+    "gay_marriage": 1,
+    "freedom_rank": 4,
+    "disability_rank": 2,
+    "minority_rights_rank": 3,
+    "women_parl_rank": 6,
+    "gay_marriage_rank": 18
   },
   {
     "flag": "🇳🇮",
@@ -22250,7 +22438,9 @@
     "earthquake_count": 12,
     "earthquake_count_rank": 7,
     "baseball": 38,
-    "baseball_rank": 15
+    "baseball_rank": 15,
+    "women_parl": 50,
+    "women_parl_rank": 4
   },
   {
     "flag": "🇳🇪",
@@ -22391,7 +22581,9 @@
     "extreme_poverty_rank": 5,
     "poverty_gap_rank": 1,
     "teen_pregnancy": 95,
-    "teen_pregnancy_rank": 10
+    "teen_pregnancy_rank": 10,
+    "child_marriage": 76,
+    "child_marriage_rank": 17
   },
   {
     "flag": "🇳🇬",
@@ -22621,7 +22813,11 @@
     "crypto_own": 30,
     "crypto_own_rank": 6,
     "egov_index": 0.42,
-    "egov_index_rank": 17
+    "egov_index_rank": 17,
+    "child_marriage": 35,
+    "disability": 25,
+    "child_marriage_rank": 8,
+    "disability_rank": 14
   },
   {
     "flag": "🇳🇺",
@@ -22882,7 +23078,13 @@
     "polit_kill": 0.8,
     "polit_kill_rank": 4,
     "radiation_risk": 10,
-    "radiation_risk_rank": 11
+    "radiation_risk_rank": 11,
+    "freedom": 3,
+    "slavery": 104,
+    "death_penalty": 1,
+    "freedom_rank": 20,
+    "slavery_rank": 15,
+    "death_penalty_rank": 14
   },
   {
     "flag": "🇲🇰",
@@ -23417,7 +23619,11 @@
     "height_m": 182,
     "height_f": 168,
     "height_m_rank": 4,
-    "height_f_rank": 5
+    "height_f_rank": 5,
+    "freedom": 100,
+    "gay_marriage": 1,
+    "freedom_rank": 2,
+    "gay_marriage_rank": 19
   },
   {
     "flag": "🇴🇲",
@@ -23767,7 +23973,11 @@
     "war_index_rank": 6,
     "domestic_viol_rank": 12,
     "water_scarcity": 6,
-    "water_scarcity_rank": 6
+    "water_scarcity_rank": 6,
+    "slavery": 35,
+    "death_penalty": 1,
+    "slavery_rank": 7,
+    "death_penalty_rank": 15
   },
   {
     "flag": "🇵🇼",
@@ -25290,7 +25500,9 @@
     "vat_rate": 23,
     "welfare_spend_rank": 13,
     "unemp_benefit_rank": 13,
-    "vat_rate_rank": 11
+    "vat_rate_rank": 11,
+    "gay_marriage": 1,
+    "gay_marriage_rank": 20
   },
   {
     "flag": "🇵🇷",
@@ -26078,7 +26290,13 @@
     "crypto_own_rank": 12,
     "baldness_rank": 8,
     "radiation_risk_rank": 9,
-    "nuke_reactors_rank": 4
+    "nuke_reactors_rank": 4,
+    "freedom": 14,
+    "slavery": 22,
+    "minority_rights": 2,
+    "freedom_rank": 17,
+    "slavery_rank": 4,
+    "minority_rights_rank": 16
   },
   {
     "flag": "🇷🇼",
@@ -26213,7 +26431,9 @@
     "math_olympiad": null,
     "ethnic": "Hutu 84%, Tutsi 15%, Twa 1%",
     "peacekeeping": 5300,
-    "peacekeeping_rank": 4
+    "peacekeeping_rank": 4,
+    "women_parl": 61,
+    "women_parl_rank": 1
   },
   {
     "flag": "🇸🇭",
@@ -26819,7 +27039,9 @@
     "online_gov": 88,
     "egov_index_rank": 10,
     "ai_adopt_rank": 2,
-    "online_gov_rank": 10
+    "online_gov_rank": 10,
+    "death_penalty": 1,
+    "death_penalty_rank": 16
   },
   {
     "flag": "🇸🇽",
@@ -27619,7 +27841,9 @@
     "displaced_from": 5,
     "war_index_rank": 14,
     "polit_kill_rank": 13,
-    "displaced_from_rank": 6
+    "displaced_from_rank": 6,
+    "death_penalty": 1,
+    "death_penalty_rank": 17
   },
   {
     "flag": "🇿🇦",
@@ -27859,7 +28083,13 @@
     "baldness": 12,
     "race_diversity": 0.85,
     "baldness_rank": 1,
-    "race_diversity_rank": 6
+    "race_diversity_rank": 6,
+    "minority_rights": 6,
+    "women_parl": 43,
+    "gay_marriage": 1,
+    "minority_rights_rank": 12,
+    "women_parl_rank": 8,
+    "gay_marriage_rank": 21
   },
   {
     "flag": "🇰🇷",
@@ -28279,7 +28509,17 @@
     "bmi_avg_rank": 4,
     "egov_index_rank": 3,
     "ai_adopt_rank": 3,
-    "online_gov_rank": 4
+    "online_gov_rank": 4,
+    "freedom": 83,
+    "death_penalty": 0,
+    "disability": 72,
+    "women_parl": 19,
+    "gay_marriage": 0,
+    "freedom_rank": 13,
+    "death_penalty_rank": 6,
+    "disability_rank": 9,
+    "women_parl_rank": 16,
+    "gay_marriage_rank": 31
   },
   {
     "flag": "🇪🇸",
@@ -28600,7 +28840,11 @@
     "baldness": 41,
     "nuke_reactors": 7,
     "baldness_rank": 15,
-    "nuke_reactors_rank": 12
+    "nuke_reactors_rank": 12,
+    "women_parl": 38,
+    "gay_marriage": 1,
+    "women_parl_rank": 10,
+    "gay_marriage_rank": 22
   },
   {
     "flag": "🇱🇰",
@@ -28889,7 +29133,9 @@
     "displaced_from": 4,
     "war_index_rank": 15,
     "polit_kill_rank": 16,
-    "displaced_from_rank": 4
+    "displaced_from_rank": 4,
+    "death_penalty": 1,
+    "death_penalty_rank": 18
   },
   {
     "flag": "🇸🇸",
@@ -29052,7 +29298,11 @@
     "credit_rating": 1,
     "child_labor": 48,
     "credit_rating_rank": 21,
-    "child_labor_rank": 16
+    "child_labor_rank": 16,
+    "slavery": 83,
+    "child_marriage": 45,
+    "slavery_rank": 13,
+    "child_marriage_rank": 10
   },
   {
     "flag": "🇸🇷",
@@ -29512,7 +29762,17 @@
     "height_m_rank": 5,
     "height_f_rank": 6,
     "egov_index_rank": 5,
-    "online_gov_rank": 5
+    "online_gov_rank": 5,
+    "freedom": 100,
+    "disability": 92,
+    "minority_rights": 9,
+    "women_parl": 46,
+    "gay_marriage": 1,
+    "freedom_rank": 3,
+    "disability_rank": 1,
+    "minority_rights_rank": 4,
+    "women_parl_rank": 7,
+    "gay_marriage_rank": 23
   },
   {
     "flag": "🇨🇭",
@@ -29793,7 +30053,9 @@
     "credit_rating": 10,
     "credit_rating_rank": 9,
     "nuke_reactors": 4,
-    "nuke_reactors_rank": 17
+    "nuke_reactors_rank": 17,
+    "gay_marriage": 1,
+    "gay_marriage_rank": 24
   },
   {
     "flag": "🇸🇾",
@@ -30095,7 +30357,9 @@
     "baseball_rank": 5,
     "manufacturing_rank": 14,
     "e_scooter": 72,
-    "e_scooter_rank": 1
+    "e_scooter_rank": 1,
+    "gay_marriage": 1,
+    "gay_marriage_rank": 25
   },
   {
     "flag": "🇹🇯",
@@ -32408,7 +32672,9 @@
     "water_scarcity": 10,
     "water_scarcity_rank": 13,
     "crypto_own": 42,
-    "crypto_own_rank": 1
+    "crypto_own_rank": 1,
+    "women_parl": 50,
+    "women_parl_rank": 5
   },
   {
     "flag": "🇬🇧",
@@ -32857,7 +33123,23 @@
     "bmi_avg_rank": 10,
     "egov_index_rank": 9,
     "ai_adopt_rank": 6,
-    "online_gov_rank": 7
+    "online_gov_rank": 7,
+    "freedom": 93,
+    "slavery": 4,
+    "child_marriage": 1,
+    "death_penalty": 0,
+    "disability": 86,
+    "minority_rights": 8,
+    "women_parl": 35,
+    "gay_marriage": 1,
+    "freedom_rank": 11,
+    "slavery_rank": 1,
+    "child_marriage_rank": 1,
+    "death_penalty_rank": 7,
+    "disability_rank": 4,
+    "minority_rights_rank": 7,
+    "women_parl_rank": 12,
+    "gay_marriage_rank": 26
   },
   {
     "flag": "🇺🇸",
@@ -33324,7 +33606,23 @@
     "bmi_avg_rank": 12,
     "egov_index_rank": 11,
     "ai_adopt_rank": 5,
-    "online_gov_rank": 11
+    "online_gov_rank": 11,
+    "freedom": 83,
+    "slavery": 8,
+    "child_marriage": 2,
+    "death_penalty": 1,
+    "disability": 78,
+    "minority_rights": 7,
+    "women_parl": 29,
+    "gay_marriage": 1,
+    "freedom_rank": 14,
+    "slavery_rank": 2,
+    "child_marriage_rank": 2,
+    "death_penalty_rank": 19,
+    "disability_rank": 8,
+    "minority_rights_rank": 9,
+    "women_parl_rank": 14,
+    "gay_marriage_rank": 27
   },
   {
     "flag": "🇺🇾",
@@ -33478,7 +33776,9 @@
     "lgbtq_rights": 82,
     "lgbtq_rights_rank": 11,
     "beef_consume": 46,
-    "beef_consume_rank": 2
+    "beef_consume_rank": 2,
+    "gay_marriage": 1,
+    "gay_marriage_rank": 28
   },
   {
     "flag": "🇺🇿",
@@ -34247,7 +34547,9 @@
     "e_scooter": 45,
     "crypto_own_rank": 2,
     "motorcycle_rank": 1,
-    "e_scooter_rank": 3
+    "e_scooter_rank": 3,
+    "death_penalty": 1,
+    "death_penalty_rank": 20
   },
   {
     "flag": "🇼🇫",
@@ -34643,7 +34945,11 @@
     "displaced_from": 4,
     "war_index_rank": 17,
     "polit_kill_rank": 15,
-    "displaced_from_rank": 5
+    "displaced_from_rank": 5,
+    "slavery": 50,
+    "death_penalty": 1,
+    "slavery_rank": 10,
+    "death_penalty_rank": 21
   },
   {
     "flag": "🇿🇲",

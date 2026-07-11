@@ -1481,5 +1481,45 @@
     "en": "OnlineG",
     "ko": "온라인행정",
     "ja": "行政OL"
+  },
+  "freedom": {
+    "en": "Freedom",
+    "ko": "자유",
+    "ja": "自由"
+  },
+  "slavery": {
+    "en": "Slavery",
+    "ko": "노예",
+    "ja": "奴隷"
+  },
+  "childMar": {
+    "en": "ChildMar",
+    "ko": "조혼",
+    "ja": "児童婚"
+  },
+  "deathPen": {
+    "en": "DeathPen",
+    "ko": "사형",
+    "ja": "死刑"
+  },
+  "disable": {
+    "en": "Disable",
+    "ko": "장애인권",
+    "ja": "障碍者権"
+  },
+  "minority": {
+    "en": "Minority",
+    "ko": "소수자",
+    "ja": "少数者"
+  },
+  "womParl": {
+    "en": "WomenParl",
+    "ko": "여성의원",
+    "ja": "女性議員"
+  },
+  "gayWed": {
+    "en": "GayWed",
+    "ko": "동성결혼",
+    "ja": "同性婚"
   }
 }
