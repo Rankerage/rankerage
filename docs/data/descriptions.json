@@ -219,5 +219,15 @@
   "literature": "Literature — 문학상 수상, 노벨+주요문학상 (Source: Nobel/Franz Kafka Prize)",
   "libraries": "Public Libraries — 10만명당 공공도서관 (Source: IFLA)",
   "displaced_from": "Displaced From — 자국발난민, 백만명 (Source: UNHCR)",
-  "domestic_viol": "Domestic Violence — 가정폭력평생유병률 % (Source: WHO)"
+  "domestic_viol": "Domestic Violence — 가정폭력평생유병률 % (Source: WHO)",
+  "passport": "Passport Power — 무비자입국가능 국가수 (Source: Henley Index)",
+  "credit_rating": "Credit Rating — 국가신용등급 1-10 (Source: S&P/Moody's)",
+  "solar_power": "Solar Power — 태양광발전용량, MW (Source: IRENA)",
+  "wind_power": "Wind Power — 풍력발전용량, MW (Source: IRENA)",
+  "child_labor": "Child Labor — 아동노동비율, 5-14세 (Source: UNICEF)",
+  "ecommerce": "E-Commerce — 전자상거래시장, $B (Source: Statista)",
+  "fast_food": "Fast Food — 10만명당 패스트푸드점 (Source: Various)",
+  "yt_creators": "YT Creators — 10만명당 유튜브 크리에이터 (Source: YouTube)",
+  "water_scarcity": "Water Scarcity — 물부족지수 1-10 (Source: WRI)",
+  "netflix": "Netflix % — 넷플릭스 보급률 % (Source: Statista)"
 }

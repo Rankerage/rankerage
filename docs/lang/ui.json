@@ -1366,5 +1366,55 @@
     "en": "DomesticV",
     "ko": "가정폭력",
     "ja": "家庭内暴力"
+  },
+  "passport": {
+    "en": "Passport",
+    "ko": "여권파워",
+    "ja": "パスポート"
+  },
+  "credit": {
+    "en": "Credit",
+    "ko": "신용등급",
+    "ja": "格付"
+  },
+  "solar": {
+    "en": "Solar",
+    "ko": "태양광",
+    "ja": "太陽光"
+  },
+  "wind": {
+    "en": "Wind",
+    "ko": "풍력",
+    "ja": "風力"
+  },
+  "childLab": {
+    "en": "ChildLab",
+    "ko": "아동노동",
+    "ja": "児童労働"
+  },
+  "ecom": {
+    "en": "E-Com",
+    "ko": "전자상거래",
+    "ja": "EC"
+  },
+  "fastfd": {
+    "en": "FastFood",
+    "ko": "패스트푸드",
+    "ja": "ファストフード"
+  },
+  "yt": {
+    "en": "YouTube",
+    "ko": "유튜브",
+    "ja": "YouTube"
+  },
+  "waterSc": {
+    "en": "WaterSc",
+    "ko": "물부족",
+    "ja": "水不足"
+  },
+  "netflix": {
+    "en": "Netflix",
+    "ko": "넷플릭스",
+    "ja": "Netflix"
   }
 }
