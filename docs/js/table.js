@@ -12,16 +12,9 @@
     fetch('data/descriptions.json').then(function(r){return r.json()}).then(function(d){desc = d;});
 
     var S = function(a,b){return a-b;};
-    // Register custom null-last sorter in Tabulator
-    Tabulator.prototype.extendModule("sort", "sorters", {
-      nullLast: function(a, b, aRow, bRow, column, dir, sorterParams) {
-        if (a === null || a === undefined) return dir === "asc" ? 1 : -1;
-        if (b === null || b === undefined) return dir === "asc" ? -1 : 1;
-        return a - b;
-      }
-    });
-    function N(v) { return v === null || v === undefined; }
     var NULL_SENTINEL = 999999;
+    var NEG_SENTINEL = -999999;
+    function N(v) { return v === null || v === undefined || v === NULL_SENTINEL || v === NEG_SENTINEL; }
     function fmtNumber(n) { if (N(n)) return '-'; if (n >= 1e9) return (n / 1e9).toFixed(1)+'B'; if (n >= 1e6) return (n / 1e6).toFixed(1)+'M'; if (n >= 1e3) return (n / 1e3).toFixed(1)+'K'; return I18N.formatNumber(n); }
     function rankBadge(r) { if(!r)return'<span style="display:inline-block;width:26px;"></span>';var n=parseInt(r),c='#8892b0';if(n<=3)c='#f0a04b';else if(n<=10)c='#5b8def';else if(n<=20)c='#3fb68b';return'<span style="color:'+c+';font-weight:700;font-size:11px;">#'+n+'</span>'; }
     function numberCell(r,v) { return'<div style="display:flex;align-items:center;width:100%;"><span style="flex:0 0 26px;text-align:left;">'+(r?rankBadge(r):'')+'</span><span style="flex:1;text-align:right;font-family:\'JetBrains Mono\',Consolas,monospace;font-size:10.5px;white-space:nowrap;">'+v+'</span></div>'; }
@@ -111,10 +104,10 @@
       A(t('workhours'),"workhours",78),
     ];
 
-    function A(title,field,w){return{title:title,field:field,width:w,sorter:"nullLast",
+    function A(title,field,w){return{title:title,field:field,width:w,sorter:S,
       headerTooltip:function(){return (desc[field]||title);},
       formatter:function(c){var d=c.getRow().getData(),v=d[field];return numberCell(d[field+'_rank'],!N(v)?fmtNumber(v):'-');}};}
-    function H(title,field,w){return{title:title,field:field,width:w,sorter:"nullLast",
+    function H(title,field,w){return{title:title,field:field,width:w,sorter:S,
       headerTooltip:function(){return (desc[field]||title);},
       formatter:function(c){var d=c.getRow().getData(),v=d[field];return numberCell(d[field+'_rank'],!N(v)?fmtNumber(v):'-');}};}
     function E(field,w){return{title:t('election'),field:field,width:w,
@@ -330,6 +323,10 @@
 
     // Load data
     fetch('data/countries.json').then(function(r){return r.json()}).then(function(data){
+      // Replace null with sentinels
+      var fields = ["population","area","population_density","gdp","gdp_per_capita","hdi","life_expectancy","happiness","fifa_ranking","cpi","gpi","internet_pct","military_pct","democracy","press","unemp","debt","poverty","rd","patents","edu","english","gender","fertility","health","obesity","alcohol","pm25","co2","forest","renew","nuclear","murder","tourism","olympic","fifa_w","basket","cricket","rugby","nobel","approval","gini","suicide","tz","prison","literacy","netspeed","doctors","heritage","military_personnel","line_length","maternal_mortality","beer","wine","chocolate","airports","startups","chess","nobel_per_capita","earthquakes","hdi_adj","books","trump_approval","nato","nuclear_power","volcanoes","math_olympiad","birth_rate","death_rate","infant_mortality","urban_pop","median_age","energy_per_capita","inflation","gas_price","car_density","meat","govern_spend","tax_rev","reserves","exports","imports","penetration","divorce","aviation","religion_div","electricity","leave","independence","smoking","mcdonalds","elevation","agri","languages","coffee","police","beds","students_per_teacher","salary","workhours"];
+      var higherBetter = {"population":1,"area":1,"gdp":1,"gdp_per_capita":1,"hdi":1,"life_expectancy":1,"happiness":1,"democracy":1,"press":1,"cpi":1,"gpi":1,"approval":1,"internet_pct":1,"edu":1,"english":1,"gender":1,"fertility":1,"health":1,"renew":1,"forest":1,"rd":1,"patents":1,"tourism":1,"nobel":1,"netspeed":1,"doctors":1,"heritage":1,"leave":1,"independence":1,"literacy":1,"agri":1,"languages":1,"coffee":1,"mcdonalds":1,"elevation":1,"police":1,"beds":1,"salary":1,"meat":1,"car_density":1,"penetration":1,"aviation":1,"religion_div":1,"beer":1,"wine":1,"chocolate":1,"airports":1,"startups":1,"chess":1,"nobel_per_capita":1,"hdi_adj":1,"books":1,"nuclear_power":1,"volcanoes":1,"math_olympiad":1,"urban_pop":1,"median_age":1,"energy_per_capita":1,"electricity":1,"reserves":1,"exports":1,"imports":1,"govern_spend":1,"tax_rev":1,"military_personnel":1,"line_length":1,"olympic":1,"basket":1,"cricket":1,"rugby":1,"birth_rate":1,"trump_approval":1,"nato":1};
+      data.forEach(function(row){fields.forEach(function(f){if(row[f]==null)row[f]=higherBetter[f]?NEG_SENTINEL:NULL_SENTINEL;});});
       table.setData(data);setTimeout(function(){var h=document.querySelector('.scroll-hint');if(h){h.style.opacity='0';setTimeout(function(){if(h)h.remove();},500);}},6000);
     }).catch(function(err){console.error(err);table.setData([]);});
 
