@@ -229,5 +229,12 @@
   "fast_food": "Fast Food — 10만명당 패스트푸드점 (Source: Various)",
   "yt_creators": "YT Creators — 10만명당 유튜브 크리에이터 (Source: YouTube)",
   "water_scarcity": "Water Scarcity — 물부족지수 1-10 (Source: WRI)",
-  "netflix": "Netflix % — 넷플릭스 보급률 % (Source: Statista)"
+  "netflix": "Netflix % — 넷플릭스 보급률 % (Source: Statista)",
+  "crypto_own": "Crypto Ownership — 암호화폐보유율 % (Source: ChainAnalysis)",
+  "baldness": "Baldness Rate — 남성탈모율 % (Source: Various)",
+  "motorcycle": "Motorcycles — 1000명당 이륜차 (Source: OICA)",
+  "race_diversity": "Racial Diversity — 인종다양성지수 0-1 (Source: Alesina)",
+  "radiation_risk": "Radiation Risk — 방사능위험 1-10 (Source: Various)",
+  "e_scooter": "E-Scooter % — 전기스쿠터비율 (Source: IEA)",
+  "nuke_reactors": "Nuclear Reactors — 원자로수 (Source: IAEA)"
 }

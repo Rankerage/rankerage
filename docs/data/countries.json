@@ -1926,7 +1926,15 @@
     "ecommerce_rank": 11,
     "fast_food_rank": 3,
     "yt_creators_rank": 8,
-    "netflix_rank": 5
+    "netflix_rank": 5,
+    "baldness": 28,
+    "motorcycle": 35,
+    "race_diversity": 0.48,
+    "radiation_risk": 1,
+    "baldness_rank": 6,
+    "motorcycle_rank": 15,
+    "race_diversity_rank": 13,
+    "radiation_risk_rank": 1
   },
   {
     "flag": "🇦🇬",
@@ -3046,7 +3054,9 @@
     "union_rate": 55,
     "strike_days": 98,
     "union_rate_rank": 5,
-    "strike_days_rank": 13
+    "strike_days_rank": 13,
+    "nuke_reactors": 7,
+    "nuke_reactors_rank": 11
   },
   {
     "flag": "🇧🇫",
@@ -4660,7 +4670,19 @@
     "fast_food_rank": 11,
     "yt_creators_rank": 6,
     "water_scarcity_rank": 1,
-    "netflix_rank": 6
+    "netflix_rank": 6,
+    "crypto_own": 28,
+    "baldness": 30,
+    "motorcycle": 190,
+    "race_diversity": 0.72,
+    "radiation_risk": 1,
+    "nuke_reactors": 2,
+    "crypto_own_rank": 7,
+    "baldness_rank": 7,
+    "motorcycle_rank": 7,
+    "race_diversity_rank": 10,
+    "radiation_risk_rank": 2,
+    "nuke_reactors_rank": 18
   },
   {
     "flag": "🇧🇳",
@@ -5656,7 +5678,9 @@
     "worldcup_parts": 8,
     "worldcup_parts_rank": 17,
     "child_labor": 30,
-    "child_labor_rank": 11
+    "child_labor_rank": 11,
+    "race_diversity": 0.84,
+    "race_diversity_rank": 7
   },
   {
     "flag": "🇨🇦",
@@ -6010,7 +6034,13 @@
     "ecommerce_rank": 9,
     "fast_food_rank": 2,
     "yt_creators_rank": 4,
-    "netflix_rank": 2
+    "netflix_rank": 2,
+    "baldness": 33,
+    "race_diversity": 0.65,
+    "nuke_reactors": 19,
+    "baldness_rank": 9,
+    "race_diversity_rank": 12,
+    "nuke_reactors_rank": 8
   },
   {
     "flag": "🇨🇫",
@@ -6847,7 +6877,19 @@
     "ecommerce_rank": 1,
     "fast_food_rank": 14,
     "water_scarcity_rank": 4,
-    "netflix_rank": 14
+    "netflix_rank": 14,
+    "crypto_own": 6,
+    "baldness": 18,
+    "motorcycle": 280,
+    "radiation_risk": 5,
+    "e_scooter": 58,
+    "nuke_reactors": 55,
+    "crypto_own_rank": 17,
+    "baldness_rank": 3,
+    "motorcycle_rank": 6,
+    "radiation_risk_rank": 7,
+    "e_scooter_rank": 2,
+    "nuke_reactors_rank": 3
   },
   {
     "flag": "🇨🇴",
@@ -7323,7 +7365,9 @@
     "war_index_rank": 13,
     "polit_kill_rank": 14,
     "displaced_from_rank": 7,
-    "domestic_viol_rank": 18
+    "domestic_viol_rank": 18,
+    "race_diversity": 0.88,
+    "race_diversity_rank": 5
   },
   {
     "flag": "🇨🇬",
@@ -8312,7 +8356,11 @@
     "pork_consume_rank": 9,
     "antibiotics_rank": 6,
     "libraries": 62,
-    "libraries_rank": 1
+    "libraries_rank": 1,
+    "baldness": 42,
+    "nuke_reactors": 6,
+    "baldness_rank": 16,
+    "nuke_reactors_rank": 13
   },
   {
     "flag": "🇩🇰",
@@ -10407,7 +10455,9 @@
     "college_rate_rank": 4,
     "libraries_rank": 10,
     "passport": 191,
-    "passport_rank": 3
+    "passport_rank": 3,
+    "nuke_reactors": 5,
+    "nuke_reactors_rank": 16
   },
   {
     "flag": "🇫🇷",
@@ -10825,7 +10875,19 @@
     "ecommerce_rank": 7,
     "fast_food_rank": 8,
     "yt_creators_rank": 11,
-    "netflix_rank": 8
+    "netflix_rank": 8,
+    "baldness": 39,
+    "motorcycle": 85,
+    "race_diversity": 0.34,
+    "radiation_risk": 4,
+    "e_scooter": 10,
+    "nuke_reactors": 56,
+    "baldness_rank": 13,
+    "motorcycle_rank": 9,
+    "race_diversity_rank": 15,
+    "radiation_risk_rank": 6,
+    "e_scooter_rank": 11,
+    "nuke_reactors_rank": 2
   },
   {
     "flag": "🇬🇦",
@@ -11630,7 +11692,21 @@
     "ecommerce_rank": 6,
     "fast_food_rank": 9,
     "yt_creators_rank": 10,
-    "netflix_rank": 9
+    "netflix_rank": 9,
+    "crypto_own": 12,
+    "baldness": 40,
+    "motorcycle": 72,
+    "race_diversity": 0.22,
+    "radiation_risk": 3,
+    "e_scooter": 8,
+    "nuke_reactors": 6,
+    "crypto_own_rank": 15,
+    "baldness_rank": 14,
+    "motorcycle_rank": 12,
+    "race_diversity_rank": 16,
+    "radiation_risk_rank": 4,
+    "e_scooter_rank": 12,
+    "nuke_reactors_rank": 14
   },
   {
     "flag": "🇬🇭",
@@ -13538,7 +13614,21 @@
     "fast_food_rank": 15,
     "yt_creators_rank": 5,
     "water_scarcity_rank": 5,
-    "netflix_rank": 12
+    "netflix_rank": 12,
+    "crypto_own": 32,
+    "baldness": 15,
+    "motorcycle": 340,
+    "race_diversity": 0.78,
+    "radiation_risk": 2,
+    "e_scooter": 38,
+    "nuke_reactors": 22,
+    "crypto_own_rank": 5,
+    "baldness_rank": 2,
+    "motorcycle_rank": 4,
+    "race_diversity_rank": 8,
+    "radiation_risk_rank": 3,
+    "e_scooter_rank": 4,
+    "nuke_reactors_rank": 7
   },
   {
     "flag": "🇮🇩",
@@ -13780,7 +13870,15 @@
     "ecommerce": 35,
     "yt_creators": 25,
     "ecommerce_rank": 12,
-    "yt_creators_rank": 12
+    "yt_creators_rank": 12,
+    "crypto_own": 26,
+    "motorcycle": 460,
+    "race_diversity": 0.76,
+    "e_scooter": 32,
+    "crypto_own_rank": 8,
+    "motorcycle_rank": 2,
+    "race_diversity_rank": 9,
+    "e_scooter_rank": 5
   },
   {
     "flag": "🇮🇷",
@@ -14921,7 +15019,13 @@
     "wind_power_rank": 12,
     "ecommerce_rank": 13,
     "fast_food_rank": 12,
-    "netflix_rank": 13
+    "netflix_rank": 13,
+    "baldness": 37,
+    "motorcycle": 110,
+    "e_scooter": 12,
+    "baldness_rank": 11,
+    "motorcycle_rank": 8,
+    "e_scooter_rank": 10
   },
   {
     "flag": "🇯🇲",
@@ -15464,7 +15568,21 @@
     "ecommerce_rank": 4,
     "fast_food_rank": 10,
     "yt_creators_rank": 7,
-    "netflix_rank": 11
+    "netflix_rank": 11,
+    "crypto_own": 8,
+    "baldness": 26,
+    "motorcycle": 82,
+    "race_diversity": 0.08,
+    "radiation_risk": 8,
+    "e_scooter": 18,
+    "nuke_reactors": 33,
+    "crypto_own_rank": 16,
+    "baldness_rank": 5,
+    "motorcycle_rank": 10,
+    "race_diversity_rank": 17,
+    "radiation_risk_rank": 10,
+    "e_scooter_rank": 8,
+    "nuke_reactors_rank": 5
   },
   {
     "flag": "🇯🇴",
@@ -17201,7 +17319,9 @@
     "gang_violence_rank": 4,
     "emigration_rank": 1,
     "extreme_poverty": 52,
-    "extreme_poverty_rank": 2
+    "extreme_poverty_rank": 2,
+    "race_diversity": 0.91,
+    "race_diversity_rank": 3
   },
   {
     "flag": "🇱🇾",
@@ -18300,7 +18420,9 @@
     "chicken_consume_rank": 5,
     "med_tourism_rank": 4,
     "social_media": 87,
-    "social_media_rank": 5
+    "social_media_rank": 5,
+    "motorcycle": 320,
+    "motorcycle_rank": 5
   },
   {
     "flag": "🇲🇻",
@@ -21460,7 +21582,9 @@
     "passport": 189,
     "credit_rating": 10,
     "passport_rank": 12,
-    "credit_rating_rank": 5
+    "credit_rating_rank": 5,
+    "e_scooter": 14,
+    "e_scooter_rank": 9
   },
   {
     "flag": "🇳🇨",
@@ -22347,7 +22471,9 @@
     "war_index_rank": 9,
     "polit_kill_rank": 9,
     "child_labor": 26,
-    "child_labor_rank": 9
+    "child_labor_rank": 9,
+    "crypto_own": 30,
+    "crypto_own_rank": 6
   },
   {
     "flag": "🇳🇺",
@@ -22606,7 +22732,9 @@
     "military_personnel_rank": 4,
     "ethnic": null,
     "polit_kill": 0.8,
-    "polit_kill_rank": 4
+    "polit_kill_rank": 4,
+    "radiation_risk": 10,
+    "radiation_risk_rank": 11
   },
   {
     "flag": "🇲🇰",
@@ -24023,7 +24151,9 @@
     "assault": 275,
     "gang_violence": 4,
     "assault_rank": 5,
-    "gang_violence_rank": 3
+    "gang_violence_rank": 3,
+    "race_diversity": 0.99,
+    "race_diversity_rank": 1
   },
   {
     "flag": "🇵🇾",
@@ -24545,7 +24675,9 @@
     "trafficking_rank": 1,
     "rice_consume_rank": 8,
     "holidays_rank": 7,
-    "influencers_rank": 13
+    "influencers_rank": 13,
+    "crypto_own": 35,
+    "crypto_own_rank": 3
   },
   {
     "flag": "🇵🇱",
@@ -25784,7 +25916,15 @@
     "credit_rating": 3,
     "yt_creators": 22,
     "credit_rating_rank": 19,
-    "yt_creators_rank": 13
+    "yt_creators_rank": 13,
+    "crypto_own": 17,
+    "baldness": 32,
+    "radiation_risk": 7,
+    "nuke_reactors": 37,
+    "crypto_own_rank": 12,
+    "baldness_rank": 8,
+    "radiation_risk_rank": 9,
+    "nuke_reactors_rank": 4
   },
   {
     "flag": "🇷🇼",
@@ -27555,7 +27695,11 @@
     "condom_use_rank": 3,
     "teen_pregnancy_rank": 7,
     "insurance": 14.2,
-    "insurance_rank": 3
+    "insurance_rank": 3,
+    "baldness": 12,
+    "race_diversity": 0.85,
+    "baldness_rank": 1,
+    "race_diversity_rank": 6
   },
   {
     "flag": "🇰🇷",
@@ -27951,7 +28095,19 @@
     "ecommerce_rank": 5,
     "fast_food_rank": 5,
     "yt_creators_rank": 2,
-    "netflix_rank": 1
+    "netflix_rank": 1,
+    "crypto_own": 24,
+    "baldness": 22,
+    "motorcycle": 78,
+    "race_diversity": 0.04,
+    "e_scooter": 22,
+    "nuke_reactors": 25,
+    "crypto_own_rank": 9,
+    "baldness_rank": 4,
+    "motorcycle_rank": 11,
+    "race_diversity_rank": 18,
+    "e_scooter_rank": 7,
+    "nuke_reactors_rank": 6
   },
   {
     "flag": "🇪🇸",
@@ -28268,7 +28424,11 @@
     "passport_rank": 7,
     "solar_power_rank": 12,
     "wind_power_rank": 6,
-    "netflix_rank": 10
+    "netflix_rank": 10,
+    "baldness": 41,
+    "nuke_reactors": 7,
+    "baldness_rank": 15,
+    "nuke_reactors_rank": 12
   },
   {
     "flag": "🇱🇰",
@@ -29170,7 +29330,9 @@
     "wind_power": 12000,
     "passport_rank": 13,
     "credit_rating_rank": 8,
-    "wind_power_rank": 10
+    "wind_power_rank": 10,
+    "nuke_reactors": 6,
+    "nuke_reactors_rank": 15
   },
   {
     "flag": "🇨🇭",
@@ -29449,7 +29611,9 @@
     "insurance_cap_rank": 2,
     "strike_days_rank": 1,
     "credit_rating": 10,
-    "credit_rating_rank": 9
+    "credit_rating_rank": 9,
+    "nuke_reactors": 4,
+    "nuke_reactors_rank": 17
   },
   {
     "flag": "🇸🇾",
@@ -29749,7 +29913,9 @@
     "manufacturing": 170,
     "insurance_rank": 1,
     "baseball_rank": 5,
-    "manufacturing_rank": 14
+    "manufacturing_rank": 14,
+    "e_scooter": 72,
+    "e_scooter_rank": 1
   },
   {
     "flag": "🇹🇯",
@@ -30039,7 +30205,9 @@
     "teen_pregnancy": 82,
     "teen_pregnancy_rank": 8,
     "child_labor": 22,
-    "child_labor_rank": 8
+    "child_labor_rank": 8,
+    "race_diversity": 0.89,
+    "race_diversity_rank": 4
   },
   {
     "flag": "🇹🇭",
@@ -30262,7 +30430,13 @@
     "bottled_water": 215,
     "bottled_water_rank": 3,
     "condom_use": 84,
-    "condom_use_rank": 1
+    "condom_use_rank": 1,
+    "crypto_own": 16,
+    "motorcycle": 380,
+    "e_scooter": 28,
+    "crypto_own_rank": 13,
+    "motorcycle_rank": 3,
+    "e_scooter_rank": 6
   },
   {
     "flag": "🇹🇱",
@@ -31163,7 +31337,9 @@
     "wind_power": 10000,
     "yt_creators": 18,
     "wind_power_rank": 13,
-    "yt_creators_rank": 14
+    "yt_creators_rank": 14,
+    "crypto_own": 15,
+    "crypto_own_rank": 14
   },
   {
     "flag": "🇹🇲",
@@ -31706,7 +31882,9 @@
     "domestic_viol": 58,
     "domestic_viol_rank": 13,
     "child_labor": 18,
-    "child_labor_rank": 6
+    "child_labor_rank": 6,
+    "race_diversity": 0.93,
+    "race_diversity_rank": 2
   },
   {
     "flag": "🇺🇦",
@@ -31873,7 +32051,13 @@
     "war_index": 10,
     "displaced_from": 12,
     "war_index_rank": 21,
-    "displaced_from_rank": 11
+    "displaced_from_rank": 11,
+    "crypto_own": 34,
+    "radiation_risk": 10,
+    "nuke_reactors": 15,
+    "crypto_own_rank": 4,
+    "radiation_risk_rank": 12,
+    "nuke_reactors_rank": 9
   },
   {
     "flag": "🇦🇪",
@@ -32042,7 +32226,9 @@
     "social_media": 105,
     "social_media_rank": 1,
     "water_scarcity": 10,
-    "water_scarcity_rank": 13
+    "water_scarcity_rank": 13,
+    "crypto_own": 42,
+    "crypto_own_rank": 1
   },
   {
     "flag": "🇬🇧",
@@ -32465,7 +32651,21 @@
     "ecommerce_rank": 3,
     "fast_food_rank": 4,
     "yt_creators_rank": 3,
-    "netflix_rank": 4
+    "netflix_rank": 4,
+    "crypto_own": 18,
+    "baldness": 38,
+    "motorcycle": 48,
+    "race_diversity": 0.35,
+    "radiation_risk": 3,
+    "e_scooter": 6,
+    "nuke_reactors": 15,
+    "crypto_own_rank": 11,
+    "baldness_rank": 12,
+    "motorcycle_rank": 13,
+    "race_diversity_rank": 14,
+    "radiation_risk_rank": 5,
+    "e_scooter_rank": 13,
+    "nuke_reactors_rank": 10
   },
   {
     "flag": "🇺🇸",
@@ -32906,7 +33106,21 @@
     "fast_food_rank": 1,
     "yt_creators_rank": 1,
     "water_scarcity_rank": 2,
-    "netflix_rank": 3
+    "netflix_rank": 3,
+    "crypto_own": 22,
+    "baldness": 35,
+    "motorcycle": 38,
+    "race_diversity": 0.68,
+    "radiation_risk": 6,
+    "e_scooter": 3,
+    "nuke_reactors": 94,
+    "crypto_own_rank": 10,
+    "baldness_rank": 10,
+    "motorcycle_rank": 14,
+    "race_diversity_rank": 11,
+    "radiation_risk_rank": 8,
+    "e_scooter_rank": 14,
+    "nuke_reactors_rank": 1
   },
   {
     "flag": "🇺🇾",
@@ -33823,7 +34037,13 @@
     "chem_olympiad_rank": 6,
     "pork_consume_rank": 4,
     "condom_use": 76,
-    "condom_use_rank": 2
+    "condom_use_rank": 2,
+    "crypto_own": 37,
+    "motorcycle": 610,
+    "e_scooter": 45,
+    "crypto_own_rank": 2,
+    "motorcycle_rank": 1,
+    "e_scooter_rank": 3
   },
   {
     "flag": "🇼🇫",

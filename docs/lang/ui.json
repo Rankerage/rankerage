@@ -1416,5 +1416,40 @@
     "en": "Netflix",
     "ko": "넷플릭스",
     "ja": "Netflix"
+  },
+  "crypto": {
+    "en": "Crypto",
+    "ko": "암호화폐",
+    "ja": "暗号資産"
+  },
+  "bald": {
+    "en": "Bald",
+    "ko": "탈모",
+    "ja": "禿"
+  },
+  "moto": {
+    "en": "Moto",
+    "ko": "이륜차",
+    "ja": "二輪車"
+  },
+  "raceDiv": {
+    "en": "RaceDiv",
+    "ko": "인종다양",
+    "ja": "人種多様"
+  },
+  "radRisk": {
+    "en": "RadRisk",
+    "ko": "방사능",
+    "ja": "放射能"
+  },
+  "escooter": {
+    "en": "EScooter",
+    "ko": "전기스쿠터",
+    "ja": "電動スク"
+  },
+  "nukeNum": {
+    "en": "NukeNum",
+    "ko": "원자로",
+    "ja": "原子炉"
   }
 }
