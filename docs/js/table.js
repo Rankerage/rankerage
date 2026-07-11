@@ -247,22 +247,62 @@
       "math_olympiad":"수학 math olympiad".split(" "),
     };
 
+    // ===== AI CLUSTERS: smart topic groupings =====
+    var searchClusters = {
+      "경제 gdp money 부자 richest income economy":["gdp","gdp_per_capita","reserves","exports","imports","fortune500","stock_market","salary","min_wage"],
+      "건강 health medical medicine doctor 의료 hospital":["health","doctors","nurses","surgeons","beds","life_expectancy","life_exp_m","life_exp_f","cancer","diabetes","antibiotics","vaccination","med_tourism","mental_health"],
+      "범죄 crime murder theft assault criminal":["murder","burglary","assault","drug_offense","gang_violence","trafficking","slavery","homicide","polit_kill","domestic_viol"],
+      "교육 education school university college literacy":["edu","tertiary","college_rate","literacy","pisa_math","pisa_science","pisa_reading","phd_per_cap","research_pub","universities","school_yrs","sex_education"],
+      "환경 environment climate nature eco green carbon":["co2","forest","renew","recycling","park_area","plastic_waste","pm25","food_waste","ev_adoption","solar_power","wind_power","organic_food"],
+      "기술 tech technology internet digital AI IT":["internet_pct","netspeed","g5_coverage","ai_research","ai_adopt","ecommerce","penetration","egov_index","online_gov"],
+      "스포츠 sports sport olympic soccer football baseball":["olympic","olympic_gold","olympic_per_cap","worldcup_parts","fifa_ranking","fifa_w","basket","cricket","rugby","baseball","marathon_elite","chess"],
+      "음식 food drink coffee tea beer wine meat cuisine":["coffee","tea_consume","rice_consume","beer","wine","alcohol","beef_consume","pork_consume","chicken_consume","meat","bread_consume","michelin","street_food","organic_food","bottled_water"],
+      "인권 rights freedom human liberty equality 평등":["freedom","lgbtq_rights","disability","minority_rights","gay_marriage","death_penalty","gender","gender_gap","women_parl","democracy","press"],
+      "전쟁 war military 군사 nuke nuclear weapon":["war_index","military_pct","military_personnel","arms_export","nuclear","nuke_reactors","nato","peacekeeping"],
+      "세금 tax vat income corporate 과세 조세":["tax_top","corp_tax","vat_rate","tax_burden","tax_rev","govern_spend"],
+      "기업 business company startup enterprise unicorn":["fortune500","unicorns","vc_funding","business_ease","startup_rate","manufacturing","stock_market"],
+      "복지 welfare social pension unemp benefit 연금":["welfare_spend","unemp_benefit","pension_rate","parental_leave","basic_income","ubi_experiment"],
+      "행복 happiness happy happiest wellbeing 삶 well-being":["happiness","mental_health","life_expectancy","hdi","hdi_adj","life_satisfaction"],
+      "여성 women female feminism 여자 gender gap":["gender","gender_gap","women_parl","teen_pregnancy","maternal_mortality","domestic_viol"],
+      "인구 population people birth death fertility 인구":["population","population_density","birth_rate","death_rate","infant_mortality","fertility","urban_pop","median_age"],
+      "에너지 energy electricity power solar wind 전기":["energy_per_capita","electricity","solar_power","wind_power","nuclear_power","renew","gas_price"],
+      "자연재해 disaster earthquake tsunami cyclone flood 자연":["earthquake_count","tsunami_risk","cyclone_freq","flood_risk","wildfire_freq","volcanoes","earthquakes"],
+      "문화 culture art film movie music festival 축제":["film_prod","intangible","literature","festivals","libraries","game_market"],
+      "이민 immigration refugee migration emigrate 난민 migrant":["refugees","immigration","emigration","displaced_from"],
+      "섹스 sex 성관계 sexual sexuality":["sex_frequency","sex_duration","condom_use","contraception","teen_pregnancy","onlyfans","adult_films","porn_search","sex_education","dating_apps"],
+      "결혼 marriage wedding marry divorce 이혼 혼인":["marriage_age_m","marriage_age_f","marriage_rate","divorce","child_marriage","gay_marriage"],
+      "교통 transport car vehicle railway train 도로":["car_density","motorcycle","line_length","railway","aviation","airports","escooter","ev_adoption"],
+    };
+
+    // AI-enhanced fuzzy score: searches clusters for related terms
     function fuzzyScore(field, query) {
       var title = ((colLabels[field]||'') + ' ' + (desc[field]||'')).toLowerCase();
       var q = query.toLowerCase();
-      if (title.indexOf(q) >= 0) return 100; // exact substring
+      if (title.indexOf(q) >= 0) return 100;
       // Check aliases
       var al = aliases[field] || [];
       for (var i = 0; i < al.length; i++) {
         if (al[i].toLowerCase().indexOf(q) >= 0) return 80;
       }
+      // AI cluster matching: search query against all clusters
+      for (var ck in searchClusters) {
+        if (ck.indexOf(q) >= 0 && searchClusters[ck].indexOf(field) >= 0) {
+          return 75;
+        }
+        // Partial match: if query is part of any cluster keyword
+        var cWords = ck.split(' ');
+        for (var ci = 0; ci < cWords.length; ci++) {
+          if (cWords[ci].indexOf(q) >= 0 && searchClusters[ck].indexOf(field) >= 0) {
+            return 65;
+          }
+        }
+      }
       // Word boundary match
-      var words = title.split(/[\s\-_\/]+/);
+      var words = title.split(/[\s\-\_\/]+/);
       for (var i = 0; i < words.length; i++) {
         if (words[i].indexOf(q) >= 0) return 60;
         if (words[i].length > 0 && q.indexOf(words[i]) >= 0) return 40;
       }
-      // Fuzzy: first letter match
       if (title[0] === q[0]) return 20;
       return 0;
     }
