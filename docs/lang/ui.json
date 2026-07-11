@@ -1266,5 +1266,35 @@
     "en": "Bread",
     "ko": "빵",
     "ja": "パン"
+  },
+  "condom": {
+    "en": "Condom",
+    "ko": "콘돔사용",
+    "ja": "コンドーム"
+  },
+  "teenPreg": {
+    "en": "TeenPreg",
+    "ko": "10대임신",
+    "ja": "10代妊娠"
+  },
+  "contra": {
+    "en": "Contra",
+    "ko": "피임율",
+    "ja": "避妊率"
+  },
+  "sexEd": {
+    "en": "SexEd",
+    "ko": "성교육",
+    "ja": "性教育"
+  },
+  "dateApp": {
+    "en": "DateApp",
+    "ko": "데이트앱",
+    "ja": "出会い系"
+  },
+  "sexFreq": {
+    "en": "SexFreq",
+    "ko": "성관계",
+    "ja": "セックス頻度"
   }
 }

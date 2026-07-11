@@ -199,5 +199,11 @@
   "ev_adoption": "EV Adoption — 전기차 신차판매비율 % (Source: IEA)",
   "gold_reserves": "Gold Reserves — 금보유고, 톤 (Source: WGC)",
   "bottled_water": "Bottled Water — 1인당 생수 소비량 L (Source: Statista)",
-  "bread_consume": "Bread Consumption — 1인당 빵 소비량 kg (Source: FAO)"
+  "bread_consume": "Bread Consumption — 1인당 빵 소비량 kg (Source: FAO)",
+  "condom_use": "Condom Use % — 콘돔사용률 (Source: UNFPA)",
+  "teen_pregnancy": "Teen Pregnancy — 10대임신률, 1000명당 (Source: WHO)",
+  "contraception": "Contraception — 피임실천율 % (Source: WHO)",
+  "sex_education": "Sex Education — 성교육수준 1-10 (Source: Various)",
+  "dating_apps": "Dating Apps — 100명당 데이팅앱 사용자 (Source: Statista)",
+  "sex_frequency": "Sex Frequency — 연간 성관계 횟수 (Source: Durex Survey) ⚠️ self-reported"
 }

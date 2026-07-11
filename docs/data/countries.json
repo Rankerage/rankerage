@@ -1886,7 +1886,13 @@
     "life_exp_m_rank": 3,
     "life_exp_f_rank": 6,
     "organic_food": 3.2,
-    "organic_food_rank": 13
+    "organic_food_rank": 13,
+    "sex_education": 8,
+    "dating_apps": 33,
+    "sex_frequency": 98,
+    "sex_education_rank": 6,
+    "dating_apps_rank": 6,
+    "sex_frequency_rank": 11
   },
   {
     "flag": "🇦🇬",
@@ -2992,7 +2998,9 @@
     "fields_medal_rank": 7,
     "antibiotics_rank": 10,
     "bottled_water": 135,
-    "bottled_water_rank": 6
+    "bottled_water_rank": 6,
+    "sex_education": 9,
+    "sex_education_rank": 3
   },
   {
     "flag": "🇧🇫",
@@ -3134,7 +3142,9 @@
     "extreme_poverty": 62,
     "poverty_gap": 23,
     "extreme_poverty_rank": 7,
-    "poverty_gap_rank": 4
+    "poverty_gap_rank": 4,
+    "teen_pregnancy": 108,
+    "teen_pregnancy_rank": 14
   },
   {
     "flag": "🇧🇬",
@@ -4558,7 +4568,17 @@
     "gold_reserves": 67,
     "bottled_water": 45,
     "gold_reserves_rank": 14,
-    "bottled_water_rank": 13
+    "bottled_water_rank": 13,
+    "condom_use": 68,
+    "teen_pregnancy": 58,
+    "contraception": 70,
+    "dating_apps": 30,
+    "sex_frequency": 145,
+    "condom_use_rank": 4,
+    "teen_pregnancy_rank": 6,
+    "contraception_rank": 8,
+    "dating_apps_rank": 8,
+    "sex_frequency_rank": 2
   },
   {
     "flag": "🇧🇳",
@@ -5872,7 +5892,13 @@
     "organic_food": 3.5,
     "ev_adoption": 18,
     "organic_food_rank": 12,
-    "ev_adoption_rank": 11
+    "ev_adoption_rank": 11,
+    "contraception": 74,
+    "sex_education": 8,
+    "dating_apps": 32,
+    "contraception_rank": 5,
+    "sex_education_rank": 7,
+    "dating_apps_rank": 7
   },
   {
     "flag": "🇨🇫",
@@ -6011,7 +6037,9 @@
     "extreme_poverty": 73,
     "poverty_gap": 27,
     "extreme_poverty_rank": 12,
-    "poverty_gap_rank": 6
+    "poverty_gap_rank": 6,
+    "teen_pregnancy": 115,
+    "teen_pregnancy_rank": 15
   },
   {
     "flag": "🇹🇩",
@@ -6659,7 +6687,15 @@
     "ev_adoption_rank": 10,
     "gold_reserves_rank": 6,
     "bottled_water_rank": 12,
-    "bread_consume_rank": 16
+    "bread_consume_rank": 16,
+    "condom_use": 35,
+    "contraception": 85,
+    "sex_education": 2,
+    "dating_apps": 5,
+    "condom_use_rank": 13,
+    "contraception_rank": 1,
+    "sex_education_rank": 13,
+    "dating_apps_rank": 15
   },
   {
     "flag": "🇨🇴",
@@ -8390,7 +8426,9 @@
     "social_media_rank": 7,
     "organic_food_rank": 1,
     "ev_adoption_rank": 5,
-    "bread_consume_rank": 13
+    "bread_consume_rank": 13,
+    "dating_apps": 40,
+    "dating_apps_rank": 3
   },
   {
     "flag": "🇩🇯",
@@ -9767,7 +9805,9 @@
     "marathon_elite_rank": 2,
     "trafficking_rank": 4,
     "refugees_rank": 9,
-    "peacekeeping_rank": 5
+    "peacekeeping_rank": 5,
+    "contraception": 35,
+    "contraception_rank": 11
   },
   {
     "flag": "🇫🇯",
@@ -10537,7 +10577,17 @@
     "ev_adoption_rank": 9,
     "gold_reserves_rank": 4,
     "bottled_water_rank": 5,
-    "bread_consume_rank": 3
+    "bread_consume_rank": 3,
+    "condom_use": 65,
+    "contraception": 78,
+    "sex_education": 9,
+    "dating_apps": 28,
+    "sex_frequency": 120,
+    "condom_use_rank": 5,
+    "contraception_rank": 3,
+    "sex_education_rank": 4,
+    "dating_apps_rank": 9,
+    "sex_frequency_rank": 5
   },
   {
     "flag": "🇬🇦",
@@ -11294,7 +11344,19 @@
     "ev_adoption_rank": 7,
     "gold_reserves_rank": 2,
     "bottled_water_rank": 7,
-    "bread_consume_rank": 2
+    "bread_consume_rank": 2,
+    "condom_use": 56,
+    "teen_pregnancy": 8,
+    "contraception": 76,
+    "sex_education": 9,
+    "dating_apps": 25,
+    "sex_frequency": 117,
+    "condom_use_rank": 8,
+    "teen_pregnancy_rank": 3,
+    "contraception_rank": 4,
+    "sex_education_rank": 5,
+    "dating_apps_rank": 10,
+    "sex_frequency_rank": 6
   },
   {
     "flag": "🇬🇭",
@@ -11652,7 +11714,9 @@
     "surgeons": 68,
     "antibiotics": 36,
     "surgeons_rank": 2,
-    "antibiotics_rank": 14
+    "antibiotics_rank": 14,
+    "sex_frequency": 164,
+    "sex_frequency_rank": 1
   },
   {
     "flag": "🇬🇹",
@@ -13146,7 +13210,17 @@
     "ev_adoption_rank": 15,
     "gold_reserves_rank": 9,
     "bottled_water_rank": 14,
-    "bread_consume_rank": 17
+    "bread_consume_rank": 17,
+    "condom_use": 28,
+    "contraception": 54,
+    "sex_education": 2,
+    "dating_apps": 18,
+    "sex_frequency": 80,
+    "condom_use_rank": 14,
+    "contraception_rank": 10,
+    "sex_education_rank": 14,
+    "dating_apps_rank": 13,
+    "sex_frequency_rank": 13
   },
   {
     "flag": "🇮🇩",
@@ -13380,7 +13454,9 @@
     "marriage_age_m": 26,
     "marriage_age_f": 23,
     "marriage_age_m_rank": 35,
-    "marriage_age_f_rank": 32
+    "marriage_age_f_rank": 32,
+    "contraception": 55,
+    "contraception_rank": 9
   },
   {
     "flag": "🇮🇷",
@@ -14471,7 +14547,15 @@
     "organic_food_rank": 11,
     "gold_reserves_rank": 3,
     "bottled_water_rank": 2,
-    "bread_consume_rank": 4
+    "bread_consume_rank": 4,
+    "condom_use": 52,
+    "sex_education": 5,
+    "dating_apps": 22,
+    "sex_frequency": 112,
+    "condom_use_rank": 10,
+    "sex_education_rank": 9,
+    "dating_apps_rank": 11,
+    "sex_frequency_rank": 8
   },
   {
     "flag": "🇯🇲",
@@ -14968,7 +15052,17 @@
     "ev_adoption_rank": 14,
     "gold_reserves_rank": 8,
     "bottled_water_rank": 11,
-    "bread_consume_rank": 14
+    "bread_consume_rank": 14,
+    "condom_use": 42,
+    "teen_pregnancy": 4,
+    "sex_education": 3,
+    "dating_apps": 15,
+    "sex_frequency": 45,
+    "condom_use_rank": 12,
+    "teen_pregnancy_rank": 2,
+    "sex_education_rank": 12,
+    "dating_apps_rank": 14,
+    "sex_frequency_rank": 15
   },
   {
     "flag": "🇯🇴",
@@ -15437,7 +15531,9 @@
     "marriage_age_m": 26,
     "marriage_age_f": 23,
     "marriage_age_m_rank": 36,
-    "marriage_age_f_rank": 34
+    "marriage_age_f_rank": 34,
+    "teen_pregnancy": 88,
+    "teen_pregnancy_rank": 9
   },
   {
     "flag": "🇰🇬",
@@ -17449,7 +17545,9 @@
     "extreme_poverty": 72,
     "poverty_gap": 31,
     "extreme_poverty_rank": 11,
-    "poverty_gap_rank": 8
+    "poverty_gap_rank": 8,
+    "teen_pregnancy": 121,
+    "teen_pregnancy_rank": 16
   },
   {
     "flag": "🇲🇼",
@@ -17589,7 +17687,9 @@
     "extreme_poverty": 70,
     "poverty_gap": 33,
     "extreme_poverty_rank": 10,
-    "poverty_gap_rank": 9
+    "poverty_gap_rank": 9,
+    "teen_pregnancy": 98,
+    "teen_pregnancy_rank": 11
   },
   {
     "flag": "🇲🇾",
@@ -18046,7 +18146,9 @@
     "maternal_mortality_rank": 47,
     "ethnic": "Bambara 33.3%, Fulani 13.3%, Soninke 9.6%, Senoufo 9.5%, Dogon 8.8%",
     "extreme_poverty": 54,
-    "extreme_poverty_rank": 3
+    "extreme_poverty_rank": 3,
+    "teen_pregnancy": 105,
+    "teen_pregnancy_rank": 13
   },
   {
     "flag": "🇲🇹",
@@ -20894,7 +20996,11 @@
     "organic_food_rank": 10,
     "ev_adoption_rank": 4,
     "gold_reserves_rank": 10,
-    "bread_consume_rank": 10
+    "bread_consume_rank": 10,
+    "sex_education": 10,
+    "dating_apps": 45,
+    "sex_education_rank": 1,
+    "dating_apps_rank": 1
   },
   {
     "flag": "🇳🇨",
@@ -21547,7 +21653,9 @@
     "extreme_poverty": 58,
     "poverty_gap": 17,
     "extreme_poverty_rank": 5,
-    "poverty_gap_rank": 1
+    "poverty_gap_rank": 1,
+    "teen_pregnancy": 95,
+    "teen_pregnancy_rank": 10
   },
   {
     "flag": "🇳🇬",
@@ -21759,7 +21867,13 @@
     "marriage_age_m": 27,
     "marriage_age_f": 22,
     "marriage_age_m_rank": 32,
-    "marriage_age_f_rank": 36
+    "marriage_age_f_rank": 36,
+    "condom_use": 22,
+    "teen_pregnancy": 124,
+    "contraception": 17,
+    "condom_use_rank": 15,
+    "teen_pregnancy_rank": 17,
+    "contraception_rank": 12
   },
   {
     "flag": "🇳🇺",
@@ -24165,7 +24279,9 @@
     "pork_consume": 22,
     "pork_consume_rank": 7,
     "bread_consume": 65,
-    "bread_consume_rank": 7
+    "bread_consume_rank": 7,
+    "sex_frequency": 132,
+    "sex_frequency_rank": 3
   },
   {
     "flag": "🇵🇹",
@@ -25148,7 +25264,9 @@
     "life_exp_m_rank": 17,
     "life_exp_f_rank": 15,
     "gold_reserves": 2301,
-    "gold_reserves_rank": 5
+    "gold_reserves_rank": 5,
+    "sex_frequency": 130,
+    "sex_frequency_rank": 4
   },
   {
     "flag": "🇷🇼",
@@ -25875,7 +25993,9 @@
     "med_tourism": 86,
     "med_tourism_rank": 3,
     "social_media": 83,
-    "social_media_rank": 9
+    "social_media_rank": 9,
+    "sex_frequency": 62,
+    "sex_frequency_rank": 14
   },
   {
     "flag": "🇸🇽",
@@ -26897,7 +27017,11 @@
     "beef_consume": 12,
     "chicken_consume": 38,
     "beef_consume_rank": 14,
-    "chicken_consume_rank": 7
+    "chicken_consume_rank": 7,
+    "condom_use": 72,
+    "teen_pregnancy": 62,
+    "condom_use_rank": 3,
+    "teen_pregnancy_rank": 7
   },
   {
     "flag": "🇰🇷",
@@ -27245,7 +27369,19 @@
     "ev_adoption_rank": 12,
     "gold_reserves_rank": 13,
     "bottled_water_rank": 10,
-    "bread_consume_rank": 15
+    "bread_consume_rank": 15,
+    "condom_use": 48,
+    "teen_pregnancy": 3,
+    "contraception": 72,
+    "sex_education": 4,
+    "dating_apps": 20,
+    "sex_frequency": 82,
+    "condom_use_rank": 11,
+    "teen_pregnancy_rank": 1,
+    "contraception_rank": 7,
+    "sex_education_rank": 11,
+    "dating_apps_rank": 12,
+    "sex_frequency_rank": 12
   },
   {
     "flag": "🇪🇸",
@@ -27540,7 +27676,11 @@
     "bottled_water": 98,
     "bread_consume": 70,
     "bottled_water_rank": 9,
-    "bread_consume_rank": 6
+    "bread_consume_rank": 6,
+    "condom_use": 58,
+    "sex_frequency": 101,
+    "condom_use_rank": 7,
+    "sex_frequency_rank": 10
   },
   {
     "flag": "🇱🇰",
@@ -27972,7 +28112,11 @@
     "extreme_poverty": 82,
     "poverty_gap": 42,
     "extreme_poverty_rank": 14,
-    "poverty_gap_rank": 11
+    "poverty_gap_rank": 11,
+    "teen_pregnancy": 102,
+    "contraception": 7,
+    "teen_pregnancy_rank": 12,
+    "contraception_rank": 13
   },
   {
     "flag": "🇸🇷",
@@ -28404,7 +28548,11 @@
     "social_media_rank": 6,
     "organic_food_rank": 3,
     "ev_adoption_rank": 3,
-    "bread_consume_rank": 12
+    "bread_consume_rank": 12,
+    "sex_education": 10,
+    "dating_apps": 42,
+    "sex_education_rank": 2,
+    "dating_apps_rank": 2
   },
   {
     "flag": "🇨🇭",
@@ -29251,7 +29399,9 @@
     "marathon_elite": 3,
     "hiv_prev": 4.6,
     "marathon_elite_rank": 12,
-    "hiv_prev_rank": 1
+    "hiv_prev_rank": 1,
+    "teen_pregnancy": 82,
+    "teen_pregnancy_rank": 8
   },
   {
     "flag": "🇹🇭",
@@ -29472,7 +29622,9 @@
     "med_tourism": 95,
     "med_tourism_rank": 1,
     "bottled_water": 215,
-    "bottled_water_rank": 3
+    "bottled_water_rank": 3,
+    "condom_use": 84,
+    "condom_use_rank": 1
   },
   {
     "flag": "🇹🇱",
@@ -31611,7 +31763,19 @@
     "ev_adoption_rank": 8,
     "gold_reserves_rank": 12,
     "bottled_water_rank": 8,
-    "bread_consume_rank": 5
+    "bread_consume_rank": 5,
+    "condom_use": 62,
+    "teen_pregnancy": 15,
+    "contraception": 82,
+    "sex_education": 8,
+    "dating_apps": 35,
+    "sex_frequency": 115,
+    "condom_use_rank": 6,
+    "teen_pregnancy_rank": 4,
+    "contraception_rank": 2,
+    "sex_education_rank": 8,
+    "dating_apps_rank": 5,
+    "sex_frequency_rank": 7
   },
   {
     "flag": "🇺🇸",
@@ -31996,7 +32160,19 @@
     "ev_adoption_rank": 13,
     "gold_reserves_rank": 1,
     "bottled_water_rank": 4,
-    "bread_consume_rank": 11
+    "bread_consume_rank": 11,
+    "condom_use": 54,
+    "teen_pregnancy": 22,
+    "contraception": 73,
+    "sex_education": 5,
+    "dating_apps": 38,
+    "sex_frequency": 103,
+    "condom_use_rank": 9,
+    "teen_pregnancy_rank": 5,
+    "contraception_rank": 6,
+    "sex_education_rank": 10,
+    "dating_apps_rank": 4,
+    "sex_frequency_rank": 9
   },
   {
     "flag": "🇺🇾",
@@ -32907,7 +33083,9 @@
     "pork_consume": 30,
     "fields_medal_rank": 15,
     "chem_olympiad_rank": 6,
-    "pork_consume_rank": 4
+    "pork_consume_rank": 4,
+    "condom_use": 76,
+    "condom_use_rank": 2
   },
   {
     "flag": "🇼🇫",
