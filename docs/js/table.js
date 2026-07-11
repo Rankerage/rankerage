@@ -13,7 +13,8 @@
 
     var S = function(a,b){return a-b;};
     var NULL_SENTINEL = 999999;
-    function N(v) { return v === null || v === undefined || v === NULL_SENTINEL; }
+    var NEG_SENTINEL = -999999;
+    function N(v) { return v === null || v === undefined || v === NULL_SENTINEL || v === NEG_SENTINEL; }
     function fmtNumber(n) { if (N(n)) return '-'; if (n >= 1e9) return (n / 1e9).toFixed(1)+'B'; if (n >= 1e6) return (n / 1e6).toFixed(1)+'M'; if (n >= 1e3) return (n / 1e3).toFixed(1)+'K'; return I18N.formatNumber(n); }
     function rankBadge(r) { if(!r)return'<span style="display:inline-block;width:26px;"></span>';var n=parseInt(r),c='#8892b0';if(n<=3)c='#f0a04b';else if(n<=10)c='#5b8def';else if(n<=20)c='#3fb68b';return'<span style="color:'+c+';font-weight:700;font-size:11px;">#'+n+'</span>'; }
     function numberCell(r,v) { return'<div style="display:flex;align-items:center;width:100%;"><span style="flex:0 0 26px;text-align:left;">'+(r?rankBadge(r):'')+'</span><span style="flex:1;text-align:right;font-family:\'JetBrains Mono\',Consolas,monospace;font-size:10.5px;white-space:nowrap;">'+v+'</span></div>'; }
@@ -327,7 +328,7 @@
       var descFields = ["population","area","gdp","gdp_per_capita","hdi","life_expectancy","happiness","democracy","press","cpi","gpi","approval","internet_pct","edu","english","gender","fertility","health","renew","forest","rd","patents","tourism","nobel","gini","netspeed","doctors","heritage","leave","independence","literacy","agri","languages","coffee","smoking","mcdonalds","elevation","police","beds","salary","meat","car_density","penetration","aviation","religion_div","beer","wine","chocolate","airports","startups","chess","nobel_per_capita","hdi_adj","books","nuclear_power","volcanoes","math_olympiad","birth_rate","urban_pop","median_age","energy_per_capita","electricity","reserves","exports","imports","govern_spend","tax_rev","military_personnel","line_length","olympic","basket","cricket","rugby"];
       data.forEach(function(row){
         fields.forEach(function(f){
-          if(row[f]==null) row[f] = descFields.indexOf(f) >= 0 ? -999999 : 999999;
+          if(row[f]==null) row[f] = descFields.indexOf(f) >= 0 ? NEG_SENTINEL : NULL_SENTINEL;
         });
       });
       table.setData(data);setTimeout(function(){var h=document.querySelector('.scroll-hint');if(h){h.style.opacity='0';setTimeout(function(){if(h)h.remove();},500);}},6000);
@@ -584,7 +585,33 @@
       var years = Object.keys(hist).sort();
       var values = years.map(function(y) { return hist[y]; });
       var name = I18N.countryName(code) || rowData.country_name_en;
-      var title = (colLabels[field] || field) + ': ' + name;
+      
+      // Compute rank change from history data
+      var firstYear = years[0], lastYear = years[years.length-1];
+      var allData = historyData[field];
+      var rankFirst = 1, rankLast = 1;
+      try {
+        var sortedFirst = []; var sortedLast = [];
+        for (var cc in allData) {
+          if (allData[cc][firstYear] != null) sortedFirst.push({c:cc, v:allData[cc][firstYear]});
+          if (allData[cc][lastYear] != null) sortedLast.push({c:cc, v:allData[cc][lastYear]});
+        }
+        var desc = (["fifa_ranking","unemp","debt","poverty","obesity","alcohol","pm25","co2","suicide","prison","tz","murder","nuclear","divorce","inflation","gas_price","death_rate","infant_mortality","maternal_mortality","earthquakes","students_per_teacher","workhours"]).indexOf(field) < 0;
+        sortedFirst.sort(function(a,b){return desc ? b.v - a.v : a.v - b.v;});
+        sortedLast.sort(function(a,b){return desc ? b.v - a.v : a.v - b.v;});
+        rankFirst = sortedFirst.findIndex(function(x){return x.c === code.toLowerCase();}) + 1;
+        rankLast = sortedLast.findIndex(function(x){return x.c === code.toLowerCase();}) + 1;
+      } catch(e){ rankFirst = '-'; rankLast = '-'; }
+      
+      var rankChange = '';
+      if (rankFirst && rankLast && typeof rankFirst === 'number') {
+        var diff = rankFirst - rankLast;
+        if (diff > 0) rankChange = ' ↑' + diff + ' (#' + rankFirst + '→#' + rankLast + ')';
+        else if (diff < 0) rankChange = ' ↓' + Math.abs(diff) + ' (#' + rankFirst + '→#' + rankLast + ')';
+        else rankChange = ' = #' + rankFirst;
+      }
+      var title = (colLabels[field] || field) + ': ' + name + ' ' + rankChange;
+      
       chartTitleEl.textContent = title;
       chartModal.style.display = 'block';
       if (chartInstance) chartInstance.destroy();
