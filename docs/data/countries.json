@@ -1934,7 +1934,19 @@
     "baldness_rank": 6,
     "motorcycle_rank": 15,
     "race_diversity_rank": 13,
-    "radiation_risk_rank": 1
+    "radiation_risk_rank": 1,
+    "height_m": 178,
+    "height_f": 165,
+    "bmi_avg": 27.2,
+    "egov_index": 0.92,
+    "ai_adopt": 35,
+    "online_gov": 90,
+    "height_m_rank": 11,
+    "height_f_rank": 9,
+    "bmi_avg_rank": 9,
+    "egov_index_rank": 8,
+    "ai_adopt_rank": 7,
+    "online_gov_rank": 9
   },
   {
     "flag": "🇦🇬",
@@ -2312,7 +2324,11 @@
     "literature": 4,
     "literature_rank": 11,
     "passport": 190,
-    "passport_rank": 8
+    "passport_rank": 8,
+    "height_m": 178,
+    "height_f": 165,
+    "height_m_rank": 12,
+    "height_f_rank": 10
   },
   {
     "flag": "🇧🇦",
@@ -3056,7 +3072,9 @@
     "union_rate_rank": 5,
     "strike_days_rank": 13,
     "nuke_reactors": 7,
-    "nuke_reactors_rank": 11
+    "nuke_reactors_rank": 11,
+    "height_m": 179,
+    "height_m_rank": 9
   },
   {
     "flag": "🇧🇫",
@@ -4682,7 +4700,13 @@
     "motorcycle_rank": 7,
     "race_diversity_rank": 10,
     "radiation_risk_rank": 2,
-    "nuke_reactors_rank": 18
+    "nuke_reactors_rank": 18,
+    "height_m": 173,
+    "height_f": 161,
+    "ai_adopt": 22,
+    "height_m_rank": 19,
+    "height_f_rank": 16,
+    "ai_adopt_rank": 12
   },
   {
     "flag": "🇧🇳",
@@ -6040,7 +6064,13 @@
     "nuke_reactors": 19,
     "baldness_rank": 9,
     "race_diversity_rank": 12,
-    "nuke_reactors_rank": 8
+    "nuke_reactors_rank": 8,
+    "height_m": 178,
+    "bmi_avg": 26.8,
+    "ai_adopt": 26,
+    "height_m_rank": 13,
+    "bmi_avg_rank": 8,
+    "ai_adopt_rank": 11
   },
   {
     "flag": "🇨🇫",
@@ -6889,7 +6919,19 @@
     "motorcycle_rank": 6,
     "radiation_risk_rank": 7,
     "e_scooter_rank": 2,
-    "nuke_reactors_rank": 3
+    "nuke_reactors_rank": 3,
+    "height_m": 170,
+    "height_f": 160,
+    "bmi_avg": 24.2,
+    "egov_index": 0.81,
+    "ai_adopt": 58,
+    "online_gov": 72,
+    "height_m_rank": 21,
+    "height_f_rank": 17,
+    "bmi_avg_rank": 5,
+    "egov_index_rank": 15,
+    "ai_adopt_rank": 1,
+    "online_gov_rank": 15
   },
   {
     "flag": "🇨🇴",
@@ -7843,7 +7885,9 @@
     "olympic_per_cap_rank": 9,
     "davis_cup_rank": 7,
     "antibiotics": 22,
-    "antibiotics_rank": 5
+    "antibiotics_rank": 5,
+    "height_m": 180,
+    "height_m_rank": 6
   },
   {
     "flag": "🇨🇺",
@@ -8360,7 +8404,11 @@
     "baldness": 42,
     "nuke_reactors": 6,
     "baldness_rank": 16,
-    "nuke_reactors_rank": 13
+    "nuke_reactors_rank": 13,
+    "height_m": 180,
+    "height_f": 169,
+    "height_m_rank": 7,
+    "height_f_rank": 3
   },
   {
     "flag": "🇩🇰",
@@ -8652,7 +8700,15 @@
     "passport": 189,
     "credit_rating": 10,
     "passport_rank": 10,
-    "credit_rating_rank": 2
+    "credit_rating_rank": 2,
+    "height_m": 182,
+    "height_f": 169,
+    "egov_index": 0.97,
+    "online_gov": 97,
+    "height_m_rank": 3,
+    "height_f_rank": 4,
+    "egov_index_rank": 1,
+    "online_gov_rank": 3
   },
   {
     "flag": "🇩🇯",
@@ -9851,7 +9907,11 @@
     "parental_leave": 82,
     "parental_leave_rank": 1,
     "libraries": 46,
-    "libraries_rank": 5
+    "libraries_rank": 5,
+    "egov_index": 0.93,
+    "online_gov": 99,
+    "egov_index_rank": 6,
+    "online_gov_rank": 1
   },
   {
     "flag": "🇪🇹",
@@ -10047,7 +10107,9 @@
     "polit_kill_rank": 8,
     "domestic_viol_rank": 17,
     "child_labor": 32,
-    "child_labor_rank": 12
+    "child_labor_rank": 12,
+    "bmi_avg": 20.6,
+    "bmi_avg_rank": 1
   },
   {
     "flag": "🇫🇯",
@@ -10457,7 +10519,15 @@
     "passport": 191,
     "passport_rank": 3,
     "nuke_reactors": 5,
-    "nuke_reactors_rank": 16
+    "nuke_reactors_rank": 16,
+    "height_m": 179,
+    "height_f": 167,
+    "egov_index": 0.95,
+    "online_gov": 98,
+    "height_m_rank": 10,
+    "height_f_rank": 7,
+    "egov_index_rank": 2,
+    "online_gov_rank": 2
   },
   {
     "flag": "🇫🇷",
@@ -10887,7 +10957,19 @@
     "race_diversity_rank": 15,
     "radiation_risk_rank": 6,
     "e_scooter_rank": 11,
-    "nuke_reactors_rank": 2
+    "nuke_reactors_rank": 2,
+    "height_m": 175,
+    "height_f": 163,
+    "bmi_avg": 25.5,
+    "egov_index": 0.9,
+    "ai_adopt": 28,
+    "online_gov": 82,
+    "height_m_rank": 16,
+    "height_f_rank": 12,
+    "bmi_avg_rank": 6,
+    "egov_index_rank": 12,
+    "ai_adopt_rank": 10,
+    "online_gov_rank": 12
   },
   {
     "flag": "🇬🇦",
@@ -11706,7 +11788,19 @@
     "race_diversity_rank": 16,
     "radiation_risk_rank": 4,
     "e_scooter_rank": 12,
-    "nuke_reactors_rank": 14
+    "nuke_reactors_rank": 14,
+    "height_m": 180,
+    "height_f": 166,
+    "bmi_avg": 26.3,
+    "egov_index": 0.89,
+    "ai_adopt": 32,
+    "online_gov": 75,
+    "height_m_rank": 8,
+    "height_f_rank": 8,
+    "bmi_avg_rank": 7,
+    "egov_index_rank": 14,
+    "ai_adopt_rank": 8,
+    "online_gov_rank": 14
   },
   {
     "flag": "🇬🇭",
@@ -13628,7 +13722,17 @@
     "race_diversity_rank": 8,
     "radiation_risk_rank": 3,
     "e_scooter_rank": 4,
-    "nuke_reactors_rank": 7
+    "nuke_reactors_rank": 7,
+    "height_m": 165,
+    "height_f": 153,
+    "bmi_avg": 22.0,
+    "egov_index": 0.6,
+    "ai_adopt": 45,
+    "height_m_rank": 22,
+    "height_f_rank": 19,
+    "bmi_avg_rank": 2,
+    "egov_index_rank": 16,
+    "ai_adopt_rank": 4
   },
   {
     "flag": "🇮🇩",
@@ -13878,7 +13982,9 @@
     "crypto_own_rank": 8,
     "motorcycle_rank": 2,
     "race_diversity_rank": 9,
-    "e_scooter_rank": 5
+    "e_scooter_rank": 5,
+    "height_m": 164,
+    "height_m_rank": 23
   },
   {
     "flag": "🇮🇷",
@@ -15025,7 +15131,13 @@
     "e_scooter": 12,
     "baldness_rank": 11,
     "motorcycle_rank": 8,
-    "e_scooter_rank": 10
+    "e_scooter_rank": 10,
+    "height_m": 174,
+    "height_f": 162,
+    "ai_adopt": 20,
+    "height_m_rank": 17,
+    "height_f_rank": 14,
+    "ai_adopt_rank": 13
   },
   {
     "flag": "🇯🇲",
@@ -15582,7 +15694,19 @@
     "race_diversity_rank": 17,
     "radiation_risk_rank": 10,
     "e_scooter_rank": 8,
-    "nuke_reactors_rank": 5
+    "nuke_reactors_rank": 5,
+    "height_m": 171,
+    "height_f": 158,
+    "bmi_avg": 22.5,
+    "egov_index": 0.9,
+    "ai_adopt": 30,
+    "online_gov": 78,
+    "height_m_rank": 20,
+    "height_f_rank": 18,
+    "bmi_avg_rank": 3,
+    "egov_index_rank": 13,
+    "ai_adopt_rank": 9,
+    "online_gov_rank": 13
   },
   {
     "flag": "🇯🇴",
@@ -16602,7 +16726,9 @@
     "diabetes_rank": 10,
     "g5_coverage_rank": 3,
     "water_scarcity": 10,
-    "water_scarcity_rank": 11
+    "water_scarcity_rank": 11,
+    "bmi_avg": 30.0,
+    "bmi_avg_rank": 14
   },
   {
     "flag": "🇱🇦",
@@ -16916,7 +17042,9 @@
     "marriage_rate": 4.6,
     "marriage_rate_rank": 14,
     "libraries": 49,
-    "libraries_rank": 4
+    "libraries_rank": 4,
+    "height_f": 170,
+    "height_f_rank": 1
   },
   {
     "flag": "🇱🇧",
@@ -19742,7 +19870,11 @@
     "fast_food_rank": 13,
     "yt_creators_rank": 9,
     "water_scarcity_rank": 3,
-    "netflix_rank": 7
+    "netflix_rank": 7,
+    "bmi_avg": 28.5,
+    "ai_adopt": 15,
+    "bmi_avg_rank": 11,
+    "ai_adopt_rank": 14
   },
   {
     "flag": "🇫🇲",
@@ -20406,7 +20538,9 @@
     "volcanoes": null,
     "math_olympiad": null,
     "nato_rank": 20,
-    "ethnic": "Montenegrin 45%, Serbian 28.7%, Bosniak 8.6%, Albanian 4.9%, other 12.8%"
+    "ethnic": "Montenegrin 45%, Serbian 28.7%, Bosniak 8.6%, Albanian 4.9%, other 12.8%",
+    "height_m": 183,
+    "height_m_rank": 2
   },
   {
     "flag": "🇲🇦",
@@ -21584,7 +21718,15 @@
     "passport_rank": 12,
     "credit_rating_rank": 5,
     "e_scooter": 14,
-    "e_scooter_rank": 9
+    "e_scooter_rank": 9,
+    "height_m": 184,
+    "height_f": 170,
+    "egov_index": 0.93,
+    "online_gov": 94,
+    "height_m_rank": 1,
+    "height_f_rank": 2,
+    "egov_index_rank": 7,
+    "online_gov_rank": 6
   },
   {
     "flag": "🇳🇨",
@@ -21968,7 +22110,11 @@
     "college_rate": 84,
     "college_rate_rank": 7,
     "fast_food": 45,
-    "fast_food_rank": 6
+    "fast_food_rank": 6,
+    "egov_index": 0.94,
+    "online_gov": 91,
+    "egov_index_rank": 4,
+    "online_gov_rank": 8
   },
   {
     "flag": "🇳🇮",
@@ -22473,7 +22619,9 @@
     "child_labor": 26,
     "child_labor_rank": 9,
     "crypto_own": 30,
-    "crypto_own_rank": 6
+    "crypto_own_rank": 6,
+    "egov_index": 0.42,
+    "egov_index_rank": 17
   },
   {
     "flag": "🇳🇺",
@@ -23265,7 +23413,11 @@
     "literature": 4,
     "literature_rank": 12,
     "credit_rating": 10,
-    "credit_rating_rank": 6
+    "credit_rating_rank": 6,
+    "height_m": 182,
+    "height_f": 168,
+    "height_m_rank": 4,
+    "height_f_rank": 5
   },
   {
     "flag": "🇴🇲",
@@ -25426,7 +25578,9 @@
     "math_olympiad": null,
     "ethnic": "Qatari 11.6%, Indian 21.8%, Nepali 12.8%, Filipino 11.3%, Bangladeshi 7.8%, other 34.7%",
     "water_scarcity": 10,
-    "water_scarcity_rank": 12
+    "water_scarcity_rank": 12,
+    "bmi_avg": 29.8,
+    "bmi_avg_rank": 13
   },
   {
     "flag": "🇷🇴",
@@ -26659,7 +26813,13 @@
     "passport": 195,
     "credit_rating": 10,
     "passport_rank": 1,
-    "credit_rating_rank": 7
+    "credit_rating_rank": 7,
+    "egov_index": 0.91,
+    "ai_adopt": 52,
+    "online_gov": 88,
+    "egov_index_rank": 10,
+    "ai_adopt_rank": 2,
+    "online_gov_rank": 10
   },
   {
     "flag": "🇸🇽",
@@ -28107,7 +28267,19 @@
     "motorcycle_rank": 11,
     "race_diversity_rank": 18,
     "e_scooter_rank": 7,
-    "nuke_reactors_rank": 6
+    "nuke_reactors_rank": 6,
+    "height_m": 174,
+    "height_f": 162,
+    "bmi_avg": 23.8,
+    "egov_index": 0.95,
+    "ai_adopt": 48,
+    "online_gov": 96,
+    "height_m_rank": 18,
+    "height_f_rank": 15,
+    "bmi_avg_rank": 4,
+    "egov_index_rank": 3,
+    "ai_adopt_rank": 3,
+    "online_gov_rank": 4
   },
   {
     "flag": "🇪🇸",
@@ -29332,7 +29504,15 @@
     "credit_rating_rank": 8,
     "wind_power_rank": 10,
     "nuke_reactors": 6,
-    "nuke_reactors_rank": 15
+    "nuke_reactors_rank": 15,
+    "height_m": 181,
+    "height_f": 168,
+    "egov_index": 0.94,
+    "online_gov": 95,
+    "height_m_rank": 5,
+    "height_f_rank": 6,
+    "egov_index_rank": 5,
+    "online_gov_rank": 5
   },
   {
     "flag": "🇨🇭",
@@ -32665,7 +32845,19 @@
     "race_diversity_rank": 14,
     "radiation_risk_rank": 5,
     "e_scooter_rank": 13,
-    "nuke_reactors_rank": 10
+    "nuke_reactors_rank": 10,
+    "height_m": 177,
+    "height_f": 164,
+    "bmi_avg": 27.3,
+    "egov_index": 0.92,
+    "ai_adopt": 38,
+    "online_gov": 92,
+    "height_m_rank": 14,
+    "height_f_rank": 11,
+    "bmi_avg_rank": 10,
+    "egov_index_rank": 9,
+    "ai_adopt_rank": 6,
+    "online_gov_rank": 7
   },
   {
     "flag": "🇺🇸",
@@ -33120,7 +33312,19 @@
     "race_diversity_rank": 11,
     "radiation_risk_rank": 8,
     "e_scooter_rank": 14,
-    "nuke_reactors_rank": 1
+    "nuke_reactors_rank": 1,
+    "height_m": 176,
+    "height_f": 163,
+    "bmi_avg": 29.1,
+    "egov_index": 0.91,
+    "ai_adopt": 42,
+    "online_gov": 85,
+    "height_m_rank": 15,
+    "height_f_rank": 13,
+    "bmi_avg_rank": 12,
+    "egov_index_rank": 11,
+    "ai_adopt_rank": 5,
+    "online_gov_rank": 11
   },
   {
     "flag": "🇺🇾",

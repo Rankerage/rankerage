@@ -236,5 +236,11 @@
   "race_diversity": "Racial Diversity — 인종다양성지수 0-1 (Source: Alesina)",
   "radiation_risk": "Radiation Risk — 방사능위험 1-10 (Source: Various)",
   "e_scooter": "E-Scooter % — 전기스쿠터비율 (Source: IEA)",
-  "nuke_reactors": "Nuclear Reactors — 원자로수 (Source: IAEA)"
+  "nuke_reactors": "Nuclear Reactors — 원자로수 (Source: IAEA)",
+  "height_m": "Male Height — 남성평균키 cm (Source: NCD-RisC)",
+  "height_f": "Female Height — 여성평균키 cm (Source: NCD-RisC)",
+  "bmi_avg": "Average BMI — 평균체질량지수 (Source: WHO)",
+  "egov_index": "E-Government — 전자정부발전지수 0-1 (Source: UN)",
+  "ai_adopt": "AI Adoption — 기업AI도입률 % (Source: McKinsey)",
+  "online_gov": "Online Gov — 온라인행정서비스 % (Source: UN)"
 }

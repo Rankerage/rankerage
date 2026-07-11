@@ -1451,5 +1451,35 @@
     "en": "NukeNum",
     "ko": "원자로",
     "ja": "原子炉"
+  },
+  "hMale": {
+    "en": "Ht♂",
+    "ko": "키남",
+    "ja": "身長♂"
+  },
+  "hFemale": {
+    "en": "Ht♀",
+    "ko": "키여",
+    "ja": "身長♀"
+  },
+  "bmi": {
+    "en": "BMI",
+    "ko": "비만도",
+    "ja": "BMI"
+  },
+  "egov": {
+    "en": "E-Gov",
+    "ko": "전자정부",
+    "ja": "電子政府"
+  },
+  "aiUse": {
+    "en": "AI Use",
+    "ko": "AI사용",
+    "ja": "AI使用"
+  },
+  "onlineG": {
+    "en": "OnlineG",
+    "ko": "온라인행정",
+    "ja": "行政OL"
   }
 }
