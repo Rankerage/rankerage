@@ -13,8 +13,7 @@
 
     var S = function(a,b){return a-b;};
     var NULL_SENTINEL = 999999;
-    var NEG_SENTINEL = -999999;
-    function N(v) { return v === null || v === undefined || v === NULL_SENTINEL || v === NEG_SENTINEL; }
+    function N(v) { return v === null || v === undefined || v === NULL_SENTINEL; }
     function fmtNumber(n) { if (N(n)) return '-'; if (n >= 1e9) return (n / 1e9).toFixed(1)+'B'; if (n >= 1e6) return (n / 1e6).toFixed(1)+'M'; if (n >= 1e3) return (n / 1e3).toFixed(1)+'K'; return I18N.formatNumber(n); }
     function rankBadge(r) { if(!r)return'<span style="display:inline-block;width:26px;"></span>';var n=parseInt(r),c='#8892b0';if(n<=3)c='#f0a04b';else if(n<=10)c='#5b8def';else if(n<=20)c='#3fb68b';return'<span style="color:'+c+';font-weight:700;font-size:11px;">#'+n+'</span>'; }
     function numberCell(r,v) { return'<div style="display:flex;align-items:center;width:100%;"><span style="flex:0 0 26px;text-align:left;">'+(r?rankBadge(r):'')+'</span><span style="flex:1;text-align:right;font-family:\'JetBrains Mono\',Consolas,monospace;font-size:10.5px;white-space:nowrap;">'+v+'</span></div>'; }
@@ -110,8 +109,7 @@
     function H(title,field,w){return{title:title,field:field,width:w,sorter:S,
       headerTooltip:function(){return (desc[field]||title);},
       formatter:function(c){var d=c.getRow().getData(),v=d[field];return numberCell(d[field+'_rank'],!N(v)?fmtNumber(v):'-');}};}
-    function E(field,w){return{title:t('election'),field:field,width:w,
-      sorter:function(a,b){var na=(a==null||a>=NULL_SENTINEL),nb=(b==null||b>=NULL_SENTINEL);if(na&&nb)return 0;if(na)return 1;if(nb)return -1;var pa=(a<0),pb=(b<0);if(pa&&!pb)return 1;if(!pa&&pb)return -1;return a-b;},
+    function E(field,w){return{title:t('election'),field:field,width:w,sorter:S,
       headerTooltip:function(){return (desc[field]||t('election'));},
       formatter:function(c){var d=c.getRow().getData(),dt=d.election_date;if(!dt)return numberCell(null,'-');var p=dt.split('-'),s=p[1]+'/'+p[2];if(d.election_days<0)return numberCell(null,'✓');return numberCell(d.election_rank,s);}};}
 
@@ -323,10 +321,16 @@
 
     // Load data
     fetch('data/countries.json').then(function(r){return r.json()}).then(function(data){
-      // Replace null with sentinels
-      var fields = ["population","area","population_density","gdp","gdp_per_capita","hdi","life_expectancy","happiness","fifa_ranking","cpi","gpi","internet_pct","military_pct","democracy","press","unemp","debt","poverty","rd","patents","edu","english","gender","fertility","health","obesity","alcohol","pm25","co2","forest","renew","nuclear","murder","tourism","olympic","fifa_w","basket","cricket","rugby","nobel","approval","gini","suicide","tz","prison","literacy","netspeed","doctors","heritage","military_personnel","line_length","maternal_mortality","beer","wine","chocolate","airports","startups","chess","nobel_per_capita","earthquakes","hdi_adj","books","trump_approval","nato","nuclear_power","volcanoes","math_olympiad","birth_rate","death_rate","infant_mortality","urban_pop","median_age","energy_per_capita","inflation","gas_price","car_density","meat","govern_spend","tax_rev","reserves","exports","imports","penetration","divorce","aviation","religion_div","electricity","leave","independence","smoking","mcdonalds","elevation","agri","languages","coffee","police","beds","students_per_teacher","salary","workhours"];
-      var higherBetter = {"population":1,"area":1,"gdp":1,"gdp_per_capita":1,"hdi":1,"life_expectancy":1,"happiness":1,"democracy":1,"press":1,"cpi":1,"gpi":1,"approval":1,"internet_pct":1,"edu":1,"english":1,"gender":1,"fertility":1,"health":1,"renew":1,"forest":1,"rd":1,"patents":1,"tourism":1,"nobel":1,"netspeed":1,"doctors":1,"heritage":1,"leave":1,"independence":1,"literacy":1,"agri":1,"languages":1,"coffee":1,"mcdonalds":1,"elevation":1,"police":1,"beds":1,"salary":1,"meat":1,"car_density":1,"penetration":1,"aviation":1,"religion_div":1,"beer":1,"wine":1,"chocolate":1,"airports":1,"startups":1,"chess":1,"nobel_per_capita":1,"hdi_adj":1,"books":1,"nuclear_power":1,"volcanoes":1,"math_olympiad":1,"urban_pop":1,"median_age":1,"energy_per_capita":1,"electricity":1,"reserves":1,"exports":1,"imports":1,"govern_spend":1,"tax_rev":1,"military_personnel":1,"line_length":1,"olympic":1,"basket":1,"cricket":1,"rugby":1,"birth_rate":1,"trump_approval":1,"nato":1};
-      data.forEach(function(row){fields.forEach(function(f){if(row[f]==null)row[f]=higherBetter[f]?NEG_SENTINEL:NULL_SENTINEL;});});
+      // Replace null with sentinel so Tabulator's number sorter puts them last
+      var fields = ["population","area","population_density","gdp","gdp_per_capita","hdi",
+        "life_expectancy","happiness","fifa_ranking","cpi","gpi","internet_pct","military_pct",
+        "democracy","press","unemp","debt","poverty","rd","patents","edu","english","gender",
+        "fertility","health","obesity","alcohol","pm25","co2","forest","renew","nuclear","murder",
+        "tourism","olympic","fifa_w","basket","cricket","rugby","nobel","approval",
+        "gini","suicide","tz","prison","literacy","netspeed","doctors","heritage",
+        "military_personnel","line_length","maternal_mortality","beer","wine","chocolate","airports","startups","chess","nobel_per_capita","earthquakes","hdi_adj","books","trump_approval","nato","nuclear_power","volcanoes","math_olympiad","birth_rate","death_rate","infant_mortality","urban_pop","median_age","energy_per_capita","inflation","gas_price","car_density","meat","govern_spend","tax_rev","reserves","exports","imports","penetration","divorce","aviation","religion_div","electricity","leave","independence","smoking","mcdonalds","elevation","agri","languages","coffee",
+        "police","beds","students_per_teacher","salary","workhours"];
+      data.forEach(function(row){fields.forEach(function(f){if(row[f]==null)row[f]=NULL_SENTINEL;});});
       table.setData(data);setTimeout(function(){var h=document.querySelector('.scroll-hint');if(h){h.style.opacity='0';setTimeout(function(){if(h)h.remove();},500);}},6000);
     }).catch(function(err){console.error(err);table.setData([]);});
 
@@ -337,7 +341,6 @@
     var ih='';for(var i=0;i<items.length;i++)ih+='<div class="detail-item"><span class="detail-label">'+items[i][0]+'</span><span class="detail-value'+(items[i][0]==='Anthem'?' anthem-link':'')+'"'+(items[i][0]==='Anthem'?' data-code="'+code+'" style="cursor:pointer;text-decoration:underline;color:var(--accent);"':'')+'>'+items[i][1]+'</span></div>';
     // Layout: Country → Info → Map → Comments
     document.getElementById('detailMap').innerHTML='';
-    document.getElementById('detailMap').style.display='none';
     document.getElementById('detailBody').innerHTML=
       '<div class="detail-country">'+(I18N.countryName(code)||data.country_name_en)+'</div><div class="detail-native">'+(data.country_name_local||'')+'</div>'+
       '<div class="detail-grid">'+ih+'</div>'+
@@ -351,7 +354,7 @@
         '<div class="comments-list" id="commentsList"></div>'+
       '</div>';
     document.getElementById('detailPanel').style.display='block';detailOpen=true;}
-    function closeDetail(){document.getElementById('detailPanel').style.display='none';document.getElementById('detailMap').style.display='';detailOpen=false;}
+    function closeDetail(){document.getElementById('detailPanel').style.display='none';detailOpen=false;}
     document.getElementById('detailPanel').addEventListener('click',function(e){if(e.target===this)closeDetail();});
     document.getElementById('detailClose').addEventListener('click',closeDetail);
     document.addEventListener('keydown',function(e){if(e.key==='Escape'){document.getElementById('anthemModal').style.display='none';closeDetail();}});
@@ -374,29 +377,17 @@
         '<div class="anthem-sub">'+esc(a.title_local)+'</div>'+
         '<div class="anthem-meta">Language: '+esc(a.lang)+' | Adopted: '+a.year+'</div>';
       var body = '';
-      if (a.lyrics && a.lyrics.length > 3) {
-        var lines = a.lyrics.split('\n');
-        var pLines = (a.pronunciation_ko || '').split('\n');
-        var merged = '';
-        for (var j = 0; j < Math.max(lines.length, pLines.length); j++) {
-          if (lines[j]) merged += '<div class="anthem-lyrics">'+esc(lines[j])+'</div>';
-          if (pLines[j]) merged += '<div class="anthem-pronounce">'+esc(pLines[j])+'</div>';
-        }
-        body += '<div class="anthem-section"><h4>📜 Lyrics / 🇰🇷 발음</h4>'+merged+'</div>';
-      }
+      if (a.lyrics && a.lyrics.length > 3) body += '<div class="anthem-section"><h4>📜 Official Lyrics</h4><div class="anthem-lyrics">'+esc(a.lyrics)+'</div></div>';
+      if (a.pronunciation_ko && a.pronunciation_ko.length > 3 && a.pronunciation_ko !== '(발음 작업 중)') body += '<div class="anthem-section"><h4>🇰🇷 한글 발음</h4><div class="anthem-pronounce">'+esc(a.pronunciation_ko)+'</div></div>';
       if (a.youtube && a.youtube.includes('youtube')) {
-        var vid = '';
-        var m = a.youtube.match(/(?:v=|youtu\.be\/|embed\/)([^&\?\/]+)/);
-        if (m) vid = m[1];
-        if (vid) body += '<div class="anthem-section"><h4>🎬 Video</h4><iframe class="anthem-video" src="https://www.youtube.com/embed/'+vid+'" frameborder="0" allowfullscreen></iframe></div>';
-        else body += '<div class="anthem-section"><h4>🎬 Video</h4><div style="text-align:center;padding:30px;"><a href="https://www.youtube.com/results?search_query='+encodeURIComponent(esc(a.title_en)+' '+esc(a.title_local)+' national anthem')+'" target="_blank" style="color:var(--accent);text-decoration:underline;">▶ YouTube에서 검색하기</a></div></div>';
+        var vid = a.youtube.split('v=')[1] || a.youtube.split('/').pop();
+        body += '<div class="anthem-section"><h4>🎬 Video</h4><iframe class="anthem-video" src="https://www.youtube.com/embed/'+vid+'" allowfullscreen></iframe></div>';
       }
       document.getElementById('anthemBody').innerHTML = body;
       document.getElementById('anthemModal').style.display = 'block';
     }
-    function closeAnthem(){document.getElementById('anthemModal').style.display='none';document.getElementById('anthemBody').innerHTML='';}
-    document.getElementById('anthemClose').addEventListener('click',closeAnthem);
-    document.getElementById('anthemOverlay').addEventListener('click',closeAnthem);
+    document.getElementById('anthemClose').addEventListener('click',function(){document.getElementById('anthemModal').style.display='none';});
+    document.getElementById('anthemOverlay').addEventListener('click',function(){document.getElementById('anthemModal').style.display='none';});
 
     // Comments: localStorage-based per-country
     var STORAGE_KEY = 'rankerage_comments_';
@@ -434,13 +425,7 @@
     var _openDetailOrig2 = openDetail;
     openDetail = function(data) {
       _openDetailOrig2(data);
-      // Reset for new country
-      var prev = currentCountry;
       currentCountry = (data.country_code||'').toUpperCase();
-      if (prev !== currentCountry) {
-        document.getElementById('commentsList').innerHTML = '';
-        document.getElementById('commentInput').value = '';
-      }
       refreshCommentList(currentCountry);
       document.getElementById('commentSubmit').onclick = function() {
         if (!currentCountry) return;
@@ -495,9 +480,7 @@
       list.innerHTML = html || '<div style="color:var(--text-muted);font-size:10px;padding:8px 0;">No comments yet — be the first!</div>';
     }
     function seedComment(code) {
-      // Only seed if truly no comments exist
-      var existing = loadComments(code);
-      if (existing.length > 0) return;
+      // Generate a provocative auto-comment based on data
       var row = table.getData().find(function(r) { return (r.country_code||'').toUpperCase() === code; });
       if (!row) return;
       var seeds = [];
@@ -508,7 +491,7 @@
       if (row.gdp && row.gdp_rank >= 150 && row.population && row.population_rank <= 30) seeds.push({nick:'DataBot',text:'인구는 많은데 GDP는... 경제 성장이 시급해 보이네요 📉'});
       if (!seeds.length) seeds.push({nick:'DataBot',text:'이 나라의 순위 데이터, 어떤 게 가장 놀라웠나요? 💬'});
       var s = seeds[Math.floor(Math.random() * seeds.length)];
-      saveComments(code, [{ nick: s.nick, text: s.text, time: Date.now() - 86400000, reactions: {} }]);
+      saveComments(code, [{ nick: s.nick, text: s.text, time: Date.now() - 86400000, reactions: {}}]);
     }
     function updateCommentBadge(code) {
       var comments = loadComments(code);
@@ -554,8 +537,8 @@
       });
     });
 
-    // Trend chart: 15 indicators from World Bank API (10-year history)
-    var trendFields = {"gdp":1,"gdp_per_capita":1,"population":1,"life_expectancy":1,"urban_pop":1,"internet_pct":1,"military_pct":1,"health":1,"fertility":1,"forest":1,"edu":1,"rd":1,"poverty":1};
+    // Trend chart for GDP, Population, Life Exp, GDP/cap
+    var trendFields = {"gdp":1,"population":1,"life_expectancy":1,"gdp_per_capita":1};
     var historyData = null;
     var chartInstance = null;
     var chartModal = document.getElementById("chartModal");
@@ -581,33 +564,7 @@
       var years = Object.keys(hist).sort();
       var values = years.map(function(y) { return hist[y]; });
       var name = I18N.countryName(code) || rowData.country_name_en;
-      
-      // Compute rank change from history data
-      var firstYear = years[0], lastYear = years[years.length-1];
-      var allData = historyData[field];
-      var rankFirst = 1, rankLast = 1;
-      try {
-        var sortedFirst = []; var sortedLast = [];
-        for (var cc in allData) {
-          if (allData[cc][firstYear] != null) sortedFirst.push({c:cc, v:allData[cc][firstYear]});
-          if (allData[cc][lastYear] != null) sortedLast.push({c:cc, v:allData[cc][lastYear]});
-        }
-        var desc = (["fifa_ranking","unemp","debt","poverty","obesity","alcohol","pm25","co2","suicide","prison","tz","murder","nuclear","divorce","inflation","gas_price","death_rate","infant_mortality","maternal_mortality","earthquakes","students_per_teacher","workhours"]).indexOf(field) < 0;
-        sortedFirst.sort(function(a,b){return desc ? b.v - a.v : a.v - b.v;});
-        sortedLast.sort(function(a,b){return desc ? b.v - a.v : a.v - b.v;});
-        rankFirst = sortedFirst.findIndex(function(x){return x.c === code.toLowerCase();}) + 1;
-        rankLast = sortedLast.findIndex(function(x){return x.c === code.toLowerCase();}) + 1;
-      } catch(e){ rankFirst = '-'; rankLast = '-'; }
-      
-      var rankChange = '';
-      if (rankFirst && rankLast && typeof rankFirst === 'number') {
-        var diff = rankFirst - rankLast;
-        if (diff > 0) rankChange = ' ↑' + diff + ' (#' + rankFirst + '→#' + rankLast + ')';
-        else if (diff < 0) rankChange = ' ↓' + Math.abs(diff) + ' (#' + rankFirst + '→#' + rankLast + ')';
-        else rankChange = ' = #' + rankFirst;
-      }
-      var title = (colLabels[field] || field) + ': ' + name + ' ' + rankChange;
-      
+      var title = (colLabels[field] || field) + ': ' + name;
       chartTitleEl.textContent = title;
       chartModal.style.display = 'block';
       if (chartInstance) chartInstance.destroy();
