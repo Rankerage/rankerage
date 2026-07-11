@@ -159,11 +159,25 @@
 
     var table = new Tabulator("#example-table", {
       height:"100vh",layout:"fitDataFill",data:[],initialSort:[{column:"population",dir:"desc"}],columns:cols,
-      pagination:false,movableColumns:false,virtualDom:true,tooltips:true,tooltipDelay:150,rowHover:true,headerVisible:true,
+      pagination:false,movableColumns:true,virtualDom:true,headerHozAlign:"center",tooltips:true,tooltipDelay:150,rowHover:true,headerVisible:true,
       placeholder:'<div style="padding:40px;text-align:center;color:#545d7a;"><div style="font-size:48px;">🌍</div><div style="font-size:16px;font-weight:600;">'+t('loading')+'</div></div>',
       sortMode:"single",selectable:false,selectableRows:false,selectableCells:false,clipboard:true,selectableRangeMode:"click",
       clipboardCopyConfig:{columnHeaders:false,columnGroups:false,rowGroups:false,columnCalcs:false}
     });
+
+    // Save/restore column order (flexible layout)
+    table.on('columnMoved', function() {
+      var order = table.getColumns().map(function(c){return c.getField();});
+      localStorage.setItem('rankerage_col_order', JSON.stringify(order));
+    });
+    var savedOrder = localStorage.getItem('rankerage_col_order');
+    if (savedOrder) try {
+      var order = JSON.parse(savedOrder), cols = table.getColumns();
+      order.reverse().forEach(function(f) {
+        var idx = cols.findIndex(function(c){return c.getField()===f;});
+        if (idx >= 2) try { table.moveColumn(cols[idx], cols[1]); } catch(e){}
+      });
+    } catch(e) {}
 
     // Search: smart ranking finder with fuzzy + highlight
     var searchInput = document.getElementById("search");
