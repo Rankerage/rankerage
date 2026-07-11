@@ -15,8 +15,8 @@
     // Register custom null-last sorter in Tabulator
     Tabulator.prototype.extendModule("sort", "sorters", {
       nullLast: function(a, b, aRow, bRow, column, dir, sorterParams) {
-        if (a === null || a === undefined) return 1;
-        if (b === null || b === undefined) return -1;
+        if (a === null || a === undefined) return dir === "asc" ? 1 : -1;
+        if (b === null || b === undefined) return dir === "asc" ? -1 : 1;
         return a - b;
       }
     });
