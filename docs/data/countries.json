@@ -1892,7 +1892,15 @@
     "sex_frequency": 98,
     "sex_education_rank": 6,
     "dating_apps_rank": 6,
-    "sex_frequency_rank": 11
+    "sex_frequency_rank": 11,
+    "sex_duration": 15,
+    "insurance": 6.5,
+    "baseball": 55,
+    "insurance_cap": 3500,
+    "sex_duration_rank": 9,
+    "insurance_rank": 13,
+    "baseball_rank": 12,
+    "insurance_cap_rank": 12
   },
   {
     "flag": "🇦🇬",
@@ -3000,7 +3008,11 @@
     "bottled_water": 135,
     "bottled_water_rank": 6,
     "sex_education": 9,
-    "sex_education_rank": 3
+    "sex_education_rank": 3,
+    "union_rate": 55,
+    "strike_days": 98,
+    "union_rate_rank": 5,
+    "strike_days_rank": 13
   },
   {
     "flag": "🇧🇫",
@@ -4578,7 +4590,13 @@
     "teen_pregnancy_rank": 6,
     "contraception_rank": 8,
     "dating_apps_rank": 8,
-    "sex_frequency_rank": 2
+    "sex_frequency_rank": 2,
+    "sex_duration": 24,
+    "union_rate": 18,
+    "manufacturing": 190,
+    "sex_duration_rank": 1,
+    "union_rate_rank": 11,
+    "manufacturing_rank": 13
   },
   {
     "flag": "🇧🇳",
@@ -5898,7 +5916,21 @@
     "dating_apps": 32,
     "contraception_rank": 5,
     "sex_education_rank": 7,
-    "dating_apps_rank": 7
+    "dating_apps_rank": 7,
+    "sex_duration": 14,
+    "insurance": 7.8,
+    "baseball": 62,
+    "union_rate": 30,
+    "manufacturing": 160,
+    "insurance_cap": 3200,
+    "strike_days": 48,
+    "sex_duration_rank": 10,
+    "insurance_rank": 12,
+    "baseball_rank": 11,
+    "union_rate_rank": 8,
+    "manufacturing_rank": 15,
+    "insurance_cap_rank": 13,
+    "strike_days_rank": 7
   },
   {
     "flag": "🇨🇫",
@@ -6695,7 +6727,15 @@
     "condom_use_rank": 13,
     "contraception_rank": 1,
     "sex_education_rank": 13,
-    "dating_apps_rank": 15
+    "dating_apps_rank": 15,
+    "sex_duration": 9,
+    "insurance": 4.5,
+    "manufacturing": 5100,
+    "insurance_cap": 550,
+    "sex_duration_rank": 14,
+    "insurance_rank": 14,
+    "manufacturing_rank": 1,
+    "insurance_cap_rank": 14
   },
   {
     "flag": "🇨🇴",
@@ -7777,7 +7817,9 @@
     "vaccination": 96,
     "cyclone_freq_rank": 2,
     "olympic_gold_rank": 19,
-    "vaccination_rank": 4
+    "vaccination_rank": 4,
+    "baseball": 84,
+    "baseball_rank": 6
   },
   {
     "flag": "🇨🇾",
@@ -8428,7 +8470,13 @@
     "ev_adoption_rank": 5,
     "bread_consume_rank": 13,
     "dating_apps": 40,
-    "dating_apps_rank": 3
+    "dating_apps_rank": 3,
+    "union_rate": 67,
+    "insurance_cap": 5900,
+    "strike_days": 68,
+    "union_rate_rank": 2,
+    "insurance_cap_rank": 4,
+    "strike_days_rank": 10
   },
   {
     "flag": "🇩🇯",
@@ -8685,7 +8733,9 @@
     "nuclear_power": null,
     "volcanoes": null,
     "math_olympiad": null,
-    "ethnic": "Mixed 70.4%, Black 15.8%, White 13.5%, other 0.3%"
+    "ethnic": "Mixed 70.4%, Black 15.8%, White 13.5%, other 0.3%",
+    "baseball": 86,
+    "baseball_rank": 4
   },
   {
     "flag": "🇪🇨",
@@ -10205,7 +10255,11 @@
     "physicists_rank": 3,
     "homelessness_rank": 2,
     "ev_adoption": 37,
-    "ev_adoption_rank": 6
+    "ev_adoption_rank": 6,
+    "union_rate": 59,
+    "strike_days": 55,
+    "union_rate_rank": 4,
+    "strike_days_rank": 8
   },
   {
     "flag": "🇫🇷",
@@ -10587,7 +10641,19 @@
     "contraception_rank": 3,
     "sex_education_rank": 4,
     "dating_apps_rank": 9,
-    "sex_frequency_rank": 5
+    "sex_frequency_rank": 5,
+    "sex_duration": 21,
+    "insurance": 11.5,
+    "union_rate": 9,
+    "manufacturing": 320,
+    "insurance_cap": 4500,
+    "strike_days": 125,
+    "sex_duration_rank": 3,
+    "insurance_rank": 6,
+    "union_rate_rank": 17,
+    "manufacturing_rank": 7,
+    "insurance_cap_rank": 8,
+    "strike_days_rank": 14
   },
   {
     "flag": "🇬🇦",
@@ -11356,7 +11422,19 @@
     "contraception_rank": 4,
     "sex_education_rank": 5,
     "dating_apps_rank": 10,
-    "sex_frequency_rank": 6
+    "sex_frequency_rank": 6,
+    "sex_duration": 18,
+    "insurance": 10.2,
+    "union_rate": 18,
+    "manufacturing": 820,
+    "insurance_cap": 4100,
+    "strike_days": 22,
+    "sex_duration_rank": 6,
+    "insurance_rank": 8,
+    "union_rate_rank": 12,
+    "manufacturing_rank": 4,
+    "insurance_cap_rank": 10,
+    "strike_days_rank": 5
   },
   {
     "flag": "🇬🇭",
@@ -11716,7 +11794,9 @@
     "surgeons_rank": 2,
     "antibiotics_rank": 14,
     "sex_frequency": 164,
-    "sex_frequency_rank": 1
+    "sex_frequency_rank": 1,
+    "sex_duration": 20,
+    "sex_duration_rank": 4
   },
   {
     "flag": "🇬🇹",
@@ -12913,7 +12993,9 @@
     "life_exp_m": 80,
     "life_exp_m_rank": 5,
     "ev_adoption": 72,
-    "ev_adoption_rank": 2
+    "ev_adoption_rank": 2,
+    "union_rate": 91,
+    "union_rate_rank": 1
   },
   {
     "flag": "🇮🇳",
@@ -13220,7 +13302,15 @@
     "contraception_rank": 10,
     "sex_education_rank": 14,
     "dating_apps_rank": 13,
-    "sex_frequency_rank": 13
+    "sex_frequency_rank": 13,
+    "sex_duration": 13,
+    "insurance": 3.7,
+    "manufacturing": 650,
+    "insurance_cap": 86,
+    "sex_duration_rank": 11,
+    "insurance_rank": 15,
+    "manufacturing_rank": 5,
+    "insurance_cap_rank": 15
   },
   {
     "flag": "🇮🇩",
@@ -13456,7 +13546,9 @@
     "marriage_age_m_rank": 35,
     "marriage_age_f_rank": 32,
     "contraception": 55,
-    "contraception_rank": 9
+    "contraception_rank": 9,
+    "manufacturing": 260,
+    "manufacturing_rank": 10
   },
   {
     "flag": "🇮🇷",
@@ -14555,7 +14647,19 @@
     "condom_use_rank": 10,
     "sex_education_rank": 9,
     "dating_apps_rank": 11,
-    "sex_frequency_rank": 8
+    "sex_frequency_rank": 8,
+    "sex_duration": 19,
+    "insurance": 9.5,
+    "baseball": 45,
+    "union_rate": 34,
+    "manufacturing": 310,
+    "strike_days": 72,
+    "sex_duration_rank": 5,
+    "insurance_rank": 10,
+    "baseball_rank": 13,
+    "union_rate_rank": 7,
+    "manufacturing_rank": 8,
+    "strike_days_rank": 11
   },
   {
     "flag": "🇯🇲",
@@ -15062,7 +15166,21 @@
     "teen_pregnancy_rank": 2,
     "sex_education_rank": 12,
     "dating_apps_rank": 14,
-    "sex_frequency_rank": 15
+    "sex_frequency_rank": 15,
+    "sex_duration": 10,
+    "insurance": 11.0,
+    "baseball": 95,
+    "union_rate": 17,
+    "manufacturing": 1100,
+    "insurance_cap": 3800,
+    "strike_days": 6,
+    "sex_duration_rank": 13,
+    "insurance_rank": 7,
+    "baseball_rank": 2,
+    "union_rate_rank": 13,
+    "manufacturing_rank": 3,
+    "insurance_cap_rank": 11,
+    "strike_days_rank": 2
   },
   {
     "flag": "🇯🇴",
@@ -17404,7 +17522,9 @@
     "tertiary_rank": 8,
     "welfare_spend_rank": 14,
     "organic_food": 8.2,
-    "organic_food_rank": 5
+    "organic_food_rank": 5,
+    "union_rate": 28,
+    "union_rate_rank": 9
   },
   {
     "flag": "🇲🇬",
@@ -19178,7 +19298,11 @@
     "beef_consume_rank": 16,
     "med_tourism_rank": 6,
     "bottled_water": 282,
-    "bottled_water_rank": 1
+    "bottled_water_rank": 1,
+    "baseball": 72,
+    "manufacturing": 230,
+    "baseball_rank": 9,
+    "manufacturing_rank": 12
   },
   {
     "flag": "🇫🇲",
@@ -21000,7 +21124,13 @@
     "sex_education": 10,
     "dating_apps": 45,
     "sex_education_rank": 1,
-    "dating_apps_rank": 1
+    "dating_apps_rank": 1,
+    "insurance": 9.8,
+    "baseball": 70,
+    "insurance_cap": 5200,
+    "insurance_rank": 9,
+    "baseball_rank": 10,
+    "insurance_cap_rank": 6
   },
   {
     "flag": "🇳🇨",
@@ -21514,7 +21644,9 @@
     "volcanoes_rank": 17,
     "ethnic": "Mestizo 69%, White 17%, Black 9%, Indigenous 5%",
     "earthquake_count": 12,
-    "earthquake_count_rank": 7
+    "earthquake_count_rank": 7,
+    "baseball": 38,
+    "baseball_rank": 15
   },
   {
     "flag": "🇳🇪",
@@ -22653,7 +22785,11 @@
     "life_exp_m_rank": 4,
     "life_exp_f_rank": 9,
     "ev_adoption": 86,
-    "ev_adoption_rank": 1
+    "ev_adoption_rank": 1,
+    "union_rate": 52,
+    "strike_days": 62,
+    "union_rate_rank": 6,
+    "strike_days_rank": 9
   },
   {
     "flag": "🇴🇲",
@@ -23395,7 +23531,9 @@
     "earthquake_count": 18,
     "tsunami_risk": 6,
     "earthquake_count_rank": 10,
-    "tsunami_risk_rank": 15
+    "tsunami_risk_rank": 15,
+    "baseball": 40,
+    "baseball_rank": 14
   },
   {
     "flag": "🇵🇬",
@@ -24638,7 +24776,9 @@
     "nuclear_power": null,
     "volcanoes": null,
     "math_olympiad": null,
-    "ethnic": "White 75.8%, Black/African 12.4%, other 11.8%"
+    "ethnic": "White 75.8%, Black/African 12.4%, other 11.8%",
+    "baseball": 82,
+    "baseball_rank": 7
   },
   {
     "flag": "🇶🇦",
@@ -25266,7 +25406,9 @@
     "gold_reserves": 2301,
     "gold_reserves_rank": 5,
     "sex_frequency": 130,
-    "sex_frequency_rank": 4
+    "sex_frequency_rank": 4,
+    "manufacturing": 240,
+    "manufacturing_rank": 11
   },
   {
     "flag": "🇷🇼",
@@ -25995,7 +26137,9 @@
     "social_media": 83,
     "social_media_rank": 9,
     "sex_frequency": 62,
-    "sex_frequency_rank": 14
+    "sex_frequency_rank": 14,
+    "insurance_cap": 5600,
+    "insurance_cap_rank": 5
   },
   {
     "flag": "🇸🇽",
@@ -27021,7 +27165,9 @@
     "condom_use": 72,
     "teen_pregnancy": 62,
     "condom_use_rank": 3,
-    "teen_pregnancy_rank": 7
+    "teen_pregnancy_rank": 7,
+    "insurance": 14.2,
+    "insurance_rank": 3
   },
   {
     "flag": "🇰🇷",
@@ -27381,7 +27527,21 @@
     "contraception_rank": 7,
     "sex_education_rank": 11,
     "dating_apps_rank": 12,
-    "sex_frequency_rank": 12
+    "sex_frequency_rank": 12,
+    "sex_duration": 12,
+    "insurance": 11.8,
+    "baseball": 88,
+    "union_rate": 12,
+    "manufacturing": 480,
+    "insurance_cap": 4200,
+    "strike_days": 15,
+    "sex_duration_rank": 12,
+    "insurance_rank": 5,
+    "baseball_rank": 3,
+    "union_rate_rank": 15,
+    "manufacturing_rank": 6,
+    "insurance_cap_rank": 9,
+    "strike_days_rank": 3
   },
   {
     "flag": "🇪🇸",
@@ -27680,7 +27840,13 @@
     "condom_use": 58,
     "sex_frequency": 101,
     "condom_use_rank": 7,
-    "sex_frequency_rank": 10
+    "sex_frequency_rank": 10,
+    "sex_duration": 22,
+    "union_rate": 14,
+    "strike_days": 85,
+    "sex_duration_rank": 2,
+    "union_rate_rank": 14,
+    "strike_days_rank": 12
   },
   {
     "flag": "🇱🇰",
@@ -28552,7 +28718,9 @@
     "sex_education": 10,
     "dating_apps": 42,
     "sex_education_rank": 2,
-    "dating_apps_rank": 2
+    "dating_apps_rank": 2,
+    "union_rate": 66,
+    "union_rate_rank": 3
   },
   {
     "flag": "🇨🇭",
@@ -28825,7 +28993,11 @@
     "organic_food": 11.2,
     "gold_reserves": 1040,
     "organic_food_rank": 2,
-    "gold_reserves_rank": 7
+    "gold_reserves_rank": 7,
+    "insurance_cap": 7400,
+    "strike_days": 3,
+    "insurance_cap_rank": 2,
+    "strike_days_rank": 1
   },
   {
     "flag": "🇸🇾",
@@ -29113,7 +29285,13 @@
     "chem_olympiad_rank": 5,
     "med_tourism_rank": 8,
     "social_media": 90,
-    "social_media_rank": 3
+    "social_media_rank": 3,
+    "insurance": 17.5,
+    "baseball": 85,
+    "manufacturing": 170,
+    "insurance_rank": 1,
+    "baseball_rank": 5,
+    "manufacturing_rank": 14
   },
   {
     "flag": "🇹🇯",
@@ -31775,7 +31953,19 @@
     "contraception_rank": 2,
     "sex_education_rank": 8,
     "dating_apps_rank": 5,
-    "sex_frequency_rank": 7
+    "sex_frequency_rank": 7,
+    "sex_duration": 17,
+    "insurance": 12.6,
+    "union_rate": 24,
+    "manufacturing": 280,
+    "insurance_cap": 4800,
+    "strike_days": 32,
+    "sex_duration_rank": 7,
+    "insurance_rank": 4,
+    "union_rate_rank": 10,
+    "manufacturing_rank": 9,
+    "insurance_cap_rank": 7,
+    "strike_days_rank": 6
   },
   {
     "flag": "🇺🇸",
@@ -32172,7 +32362,21 @@
     "contraception_rank": 6,
     "sex_education_rank": 10,
     "dating_apps_rank": 4,
-    "sex_frequency_rank": 9
+    "sex_frequency_rank": 9,
+    "sex_duration": 16,
+    "insurance": 8.6,
+    "baseball": 100,
+    "union_rate": 10,
+    "manufacturing": 2500,
+    "insurance_cap": 6400,
+    "strike_days": 18,
+    "sex_duration_rank": 8,
+    "insurance_rank": 11,
+    "baseball_rank": 1,
+    "union_rate_rank": 16,
+    "manufacturing_rank": 2,
+    "insurance_cap_rank": 3,
+    "strike_days_rank": 4
   },
   {
     "flag": "🇺🇾",
@@ -32859,7 +33063,9 @@
     "gang_violence": 9,
     "park_area": 54,
     "gang_violence_rank": 12,
-    "park_area_rank": 1
+    "park_area_rank": 1,
+    "baseball": 80,
+    "baseball_rank": 8
   },
   {
     "flag": "🇻🇳",
@@ -33939,7 +34145,11 @@
     "pork_consume": 70,
     "pork_consume_rank": 1,
     "social_media": 84,
-    "social_media_rank": 8
+    "social_media_rank": 8,
+    "insurance": 17.4,
+    "insurance_cap": 8300,
+    "insurance_rank": 2,
+    "insurance_cap_rank": 1
   },
   {
     "country_code": "xk",

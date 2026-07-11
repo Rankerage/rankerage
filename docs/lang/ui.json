@@ -1296,5 +1296,40 @@
     "en": "SexFreq",
     "ko": "성관계",
     "ja": "セックス頻度"
+  },
+  "sexDur": {
+    "en": "Sex Dur",
+    "ko": "성관계시간",
+    "ja": "セックス時間"
+  },
+  "insure": {
+    "en": "Insure",
+    "ko": "보험",
+    "ja": "保険"
+  },
+  "baseball": {
+    "en": "Baseball",
+    "ko": "야구",
+    "ja": "野球"
+  },
+  "union": {
+    "en": "Union",
+    "ko": "노조율",
+    "ja": "組合率"
+  },
+  "mfg": {
+    "en": "Mfg",
+    "ko": "제조업",
+    "ja": "製造業"
+  },
+  "insureCap": {
+    "en": "Insur/cap",
+    "ko": "보험/cap",
+    "ja": "保険/cap"
+  },
+  "strike": {
+    "en": "Strike",
+    "ko": "파업",
+    "ja": "スト"
   }
 }

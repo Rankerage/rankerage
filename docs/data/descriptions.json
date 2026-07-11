@@ -205,5 +205,12 @@
   "contraception": "Contraception — 피임실천율 % (Source: WHO)",
   "sex_education": "Sex Education — 성교육수준 1-10 (Source: Various)",
   "dating_apps": "Dating Apps — 100명당 데이팅앱 사용자 (Source: Statista)",
-  "sex_frequency": "Sex Frequency — 연간 성관계 횟수 (Source: Durex Survey) ⚠️ self-reported"
+  "sex_frequency": "Sex Frequency — 연간 성관계 횟수 (Source: Durex Survey) ⚠️ self-reported",
+  "sex_duration": "Sex Duration — 성관계지속시간, 분 (Source: Various) ⚠️ limited",
+  "insurance": "Insurance Penetration — 보험침투율, %GDP (Source: Swiss Re)",
+  "baseball": "Baseball — 야구강국지수 1-100 (Source: WBSC)",
+  "union_rate": "Unionization — 노조조직화율 % (Source: OECD/ILO)",
+  "manufacturing": "Manufacturing — 제조업생산액, $B (Source: World Bank)",
+  "insurance_cap": "Insurance/cap — 1인당 보험료, $ (Source: Swiss Re)",
+  "strike_days": "Strike Days — 1000명당 파업일수 (Source: ILO)"
 }
