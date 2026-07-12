@@ -966,3 +966,69 @@
     document.addEventListener("keydown",function(e){if(e.ctrlKey&&e.key==="c"){var sel=document.querySelectorAll(".tabulator-cell.selected");if(!sel.length)return;var rows=new Map();sel.forEach(function(cell){var row=cell.closest(".tabulator-row");var idx=Array.from(row.parentElement.children).indexOf(row);if(!rows.has(idx))rows.set(idx,[]);rows.get(idx).push(cell.textContent.trim());});navigator.clipboard.writeText(Array.from(rows.values()).map(function(cells){return cells.join("\t");}).join("\n"));}else if(e.key==="Escape"){isSelecting=false;clearSelection();}});
   });
 })();
+
+    // ── 광고 행 삽입 (매 8행) ──
+    var adInterval = 8;
+    var adCount = 0;
+    function insertAdRows() {
+      // Remove old ad rows
+      document.querySelectorAll('.tabulator-row.ad-row').forEach(function(r) { r.remove(); });
+      var rows = table.getRows();
+      if (rows.length < adInterval) return;
+      for (var i = adInterval - 1; i < rows.length; i += adInterval + 1) {
+        var refRow = rows[i];
+        if (!refRow) break;
+        var adRow = document.createElement('div');
+        adRow.className = 'tabulator-row ad-row';
+        adRow.style.cssText = 'height:90px;display:flex;align-items:center;justify-content:center;border-bottom:1px solid rgba(255,255,255,0.04);';
+        adRow.innerHTML = '<div style="text-align:center;width:100%;padding:4px;">' +
+          '<ins class="adsbygoogle" style="display:block;height:80px" ' +
+          'data-ad-client="ca-pub-XXXXXXXXXXXXXXXX" ' +
+          'data-ad-slot="9876543210" ' +
+          'data-ad-format="horizontal" ' +
+          'data-full-width-responsive="true"></ins></div>';
+        refRow.getElement().after(adRow);
+        adCount++;
+      }
+      // Trigger AdSense
+      if (window.adsbygoogle && adCount > 0) {
+        try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch(e) {}
+      }
+    }
+
+    // 소팅/데이터 변경 시마다 광고 재삽입
+    table.on("dataSorted", function() {
+      setTimeout(insertAdRows, 200);
+      updateAdTargeting();
+    });
+    table.on("dataLoaded", function() {
+      setTimeout(insertAdRows, 500);
+    });
+    setTimeout(insertAdRows, 1000);
+
+    // ── 타겟팅 키워드 업데이트 ──
+    var currentMetric = 'population';
+    var targetKeywords = {"gdp": "finance investing stocks economy business banking", "gdp_per_capita": "wealth income investing luxury", "population": "demographics census data analytics", "life_expectancy": "healthcare health insurance medical", "happiness": "wellness travel lifestyle happiness", "tourism": "travel tours flights hotels vacation", "edu": "education university online courses learning", "internet_pct": "internet broadband technology cloud", "coffee": "coffee cafe specialty coffee beans", "beer": "beer craft beer brewery alcohol", "olympic": "sports olympics fitness training", "fifa_ranking": "soccer football sports betting", "real_estate": "real estate property housing mortgage", "renew": "solar energy renewable green energy", "startup_rate": "startups business entrepreneurship venture capital", "military_pct": "defense military security aerospace", "forest": "environment nature conservation eco tourism"};
+    var defaultKeywords = 'country comparison rankings data statistics world';
+
+    function updateAdTargeting() {
+      var sorter = table.getSorters()[0];
+      var metric = sorter ? sorter.field : 'population';
+      if (metric === currentMetric) return;
+      currentMetric = metric;
+      var keywords = targetKeywords[metric] || defaultKeywords;
+      // 페이지 메타 키워드 업데이트 (AdSense 크롤러용)
+      var metaKw = document.querySelector('meta[name="keywords"]');
+      if (!metaKw) {
+        metaKw = document.createElement('meta');
+        metaKw.name = 'keywords';
+        document.head.appendChild(metaKw);
+      }
+      metaKw.content = keywords;
+      // GPT 패스백 (있는 경우)
+      if (window.googletag) {
+        window.googletag.pubads().setTargeting('metric', [metric]);
+        window.googletag.pubads().setTargeting('keywords', keywords.split(' '));
+      }
+    }
+

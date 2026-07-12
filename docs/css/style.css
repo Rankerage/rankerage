@@ -854,3 +854,24 @@ body {
 }
 
 .shadow-badge { font-size: 12px; cursor: help; }
+
+/* ── 광고 행 ── */
+.tabulator-row.ad-row {
+  background: rgba(22,28,46,0.5) !important;
+  cursor: default !important;
+  min-height: 90px !important;
+}
+.tabulator-row.ad-row:hover {
+  background: rgba(22,28,46,0.7) !important;
+  box-shadow: none !important;
+}
+.tabulator-row.ad-row .tabulator-cell {
+  display: none !important;
+}
+
+/* ── 광고 로딩 애니메이션 ── */
+.ad-placeholder {
+  display: flex; align-items: center; justify-content: center;
+  height: 80px; color: rgba(255,255,255,0.1); font-size: 11px;
+  letter-spacing: 2px;
+}
