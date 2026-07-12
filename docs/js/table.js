@@ -28,7 +28,7 @@
 
     var cols = [
       // Flag / Category Icon
-      { title:"",field:"country_code",width:32,frozen:true,headerHozAlign:"center",hozAlign:"center",
+      { title:"",field:"country_code",width:26,frozen:true,headerHozAlign:"center",hozAlign:"center",
         formatter:function(c){var code=(c.getValue()||'??').toUpperCase();var name=c.getRow().getData().country_name_en||'';
           if(name.indexOf('***')===0)return'<div style="display:flex;align-items:center;justify-content:center;width:100%;height:100%;font-size:14px;">🏟️</div>';
           if(name.indexOf('**')===0)return'<div style="display:flex;align-items:center;justify-content:center;width:100%;height:100%;font-size:14px;">⭐</div>';
@@ -36,8 +36,8 @@
           var hash=0;for(var i=0;i<code.length;i++)hash=code.charCodeAt(i)+((hash<<5)-hash);var hue=Math.abs(hash)%360,sat=40+(Math.abs(hash>>4)%50),lit=25+(Math.abs(hash>>12)%25),bg='hsl('+hue+','+sat+'%,'+lit+'%)';return'<div style="display:flex;align-items:center;justify-content:center;width:100%;height:100%;"><span style="display:inline-flex;align-items:center;justify-content:center;width:22px;height:15px;border-radius:3px;overflow:hidden;background:'+bg+';box-shadow:0 1px 2px rgba(0,0,0,0.3);flex-shrink:0;"><img src="https://flagcdn.com/16x12/'+code.toLowerCase()+'.png" width="16" height="12" style="display:block;" onerror="this.remove();"></span></div>';},
         tooltip:function(e,c){return c.getRow().getData().country_summary;}},
       // Country
-      { title:t('country'),field:"country_name_en",width:95,frozen:true,
-        formatter:function(c){var d=c.getRow().getData(),code=d.country_code,name=I18N.countryName(code);return'<span style="display:inline-block;max-width:80px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">'+(name||d.country_name_en)+'</span>';},
+      { title:t('country'),field:"country_name_en",width:80,frozen:true,
+        formatter:function(c){var d=c.getRow().getData(),code=d.country_code,name=I18N.countryName(code);return'<span style="display:inline-block;max-width:65px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">'+(name||d.country_name_en)+'</span>';},
         tooltip:function(e,c){var d=c.getRow().getData(),code=d.country_code,n2=I18N.countryName(code,I18N.getLocale2()),lo=d.country_name_local,p=[];if(n2&&n2!==d.country_name_en)p.push(n2);if(lo&&lo!==n2)p.push(lo);return p.join(' · ')||d.country_name_en;}},
       // === CORE ===
       A(t('population'),"population",100), A(t('area'),"area",100), A(t('density'),"population_density",95),
@@ -611,16 +611,20 @@
         // 국기 클릭 → 상세 패널
         openDetail(cell.getRow().getData());
       } else if(f==='country_name_en'){
-        // 국가명 클릭 → 현재 활성 컬럼으로 소팅 (첫클릭=정순, 다음=역순)
-        var curSorter = table.getSorters()[0];
-        if (curSorter && curSorter.field === activeSortField && curSorter.dir === 'asc') {
-          activeSortDir = 'desc';
-        } else {
-          activeSortDir = 'asc';
-        }
-        table.setSort(activeSortField, activeSortDir);
-        // 하이라이트 갱신
+        // 국가명 클릭 → 그 국가 강한 순서로 컬럼 재정렬
+        var data=cell.getRow().getData(), ranks=[];
+        table.getColumns().forEach(function(col){
+          var f=col.getField();
+          if(f&&f!=='country_code'&&f!=='country_name_en'){
+            var rk=data[f+'_rank'];
+            ranks.push({field:f, rank:rk!=null?parseInt(rk):9999});
+          }
+        });
+        ranks.sort(function(a,b){return a.rank-b.rank;});
+        var order=['country_code','country_name_en'].concat(ranks.map(function(r){return r.field;}));
+        table.setColumnOrder(order);
         clearHighlight();
+        activeSortField=ranks[0].field;activeSortDir='asc';
         highlightColumn(activeSortField);
       }
     });
