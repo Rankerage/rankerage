@@ -139,6 +139,23 @@ body {
 
 .login-text:hover { color: #fff; background: var(--bg-hover); }
 
+/* ---- Slogan ---- */
+.slogan {
+  text-align: center; padding: 10px 16px 4px;
+  font-family: 'Noto Sans KR', 'Inter', sans-serif;
+  font-size: 22px; font-weight: 700;
+  letter-spacing: 2px;
+  background: linear-gradient(135deg, #5b8def 0%, #a78bfa 50%, #e0c87c 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: sloganFade 2s ease-out;
+}
+@keyframes sloganFade {
+  from { opacity: 0; transform: translateY(-8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
 /* ---- Scroll Hint ---- */
 .scroll-hint {
   position: relative; text-align: center; padding: 4px;

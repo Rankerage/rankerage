@@ -174,22 +174,22 @@
     table.on("headerClick", function(e, column) {
       var field = column.getField();
       if (field === "country_code") {
-        // 국기 헤더 클릭 → 모든 컬럼 알파벳 순 정렬 (소팅 방해 금지)
-        var saveField = activeSortField, saveDir = activeSortDir;
+        // 국기 헤더 클릭 → 모든 컬럼 알파벳 순 정렬
         e.preventDefault();
         e.stopPropagation();
-        var allCols = table.getColumns()
-          .map(function(c) { return c.getField(); })
-          .filter(function(f) { return f && f !== ''; });
-        allCols.sort(function(a, b) { return a.localeCompare(b); });
-        table.setColumnOrder(allCols);
-        localStorage.setItem('rankerage_col_order', JSON.stringify(allCols));
-        clearHighlight();
-        // Tabulator가 소팅을 건드렸을 수 있으니 원래대로 복원
-        setTimeout(function() {
-          table.setSort(saveField, saveDir);
-        }, 150);
-        return false;  // Tabulator 기본 헤더클릭 동작 완전 차단
+        try {
+          var allCols = table.getColumns()
+            .map(function(c) { return c.getField(); })
+            .filter(function(f) { return typeof f === 'string' && f.length > 0; });
+          allCols.sort();
+          table.setColumnOrder(allCols);
+          localStorage.setItem('rankerage_col_order', JSON.stringify(allCols));
+          if (typeof clearHighlight === 'function') clearHighlight();
+          setTimeout(function() {
+            if (activeSortField && activeSortDir) table.setSort(activeSortField, activeSortDir);
+          }, 200);
+        } catch(ex) {}
+        return false;
       } else if (field === "country_name_en") {
         // 국가명 헤더 클릭 → 국가명 A-Z / Z-A 토글 소팅
         e.preventDefault();
