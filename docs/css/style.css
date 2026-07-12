@@ -168,7 +168,6 @@ body {
 /* ---- Table Container ---- */
 #user-table-container {
   width: 100vw; height: calc(100vh - 48px);
-  padding-top: 48px;
 }
 
 /* ============================================
