@@ -170,22 +170,12 @@
 
     var table = new Tabulator("#example-table", {
       height:"calc(100vh - 48px)",layout:"fitDataFill",data:[],initialSort:[{column:"country_name_en",dir:"asc"}],columns:cols,
-      pagination:false,movableColumns:true,virtualDom:true,headerHozAlign:"center",tooltips:true,tooltipDelay:150,rowHover:true,headerVisible:true,
+      pagination:false,movableColumns:true,headerHozAlign:"center",tooltips:true,tooltipDelay:150,rowHover:true,headerVisible:true,
       placeholder:'<div style="padding:40px;text-align:center;color:#545d7a;"><div style="font-size:48px;">🌍</div><div style="font-size:16px;font-weight:600;">'+t('loading')+'</div></div>',
       sortMode:"single",selectable:false,selectableRows:false,selectableCells:false,clipboard:true,selectableRangeMode:"click",
       clipboardCopyConfig:{columnHeaders:false,columnGroups:false,rowGroups:false,columnCalcs:false}
     });
 
-    // Column reorder helper — moveColumn is more reliable than setColumnOrder
-    function reorderColumns(targetFields) {
-      var curCols = table.getColumns();
-      // Build reverse target order (move last columns into position first)
-      for (var i = 2; i < targetFields.length; i++) {
-        var targetIdx = i;
-        var curIdx = -1;
-        for (var j = 2; j < curCols.length; j++) {
-          if (curCols[j].getField() === targetFields[i]) { curIdx = j; break; }
-        }
         if (curIdx >= 2 && curIdx !== targetIdx) {
           try { table.moveColumn(curCols[curIdx], curCols[targetIdx]); } catch(e) {}
           // Refresh curCols after move
@@ -209,7 +199,7 @@
           .map(function(c){return c.field;})
           .filter(function(f){return typeof f==='string' && f.length>0;});
         allCols.sort();
-        reorderColumns(allCols);
+        table.setColumnOrder(allCols);
         table.setSort('country_name_en','asc');
         localStorage.setItem('rankerage_col_order',JSON.stringify(allCols));
         clearHighlight();
@@ -237,7 +227,7 @@
         var front = freq.filter(function(f) { return allCols.indexOf(f) >= 2; });
         var rest = allCols.filter(function(f) { return front.indexOf(f) < 0; });
         var newOrder = allCols.slice(0, 2).concat(front).concat(rest.filter(function(f) { return allCols.indexOf(f) >= 2; }));
-        try { reorderColumns(newOrder); } catch(e) {}
+        try { table.setColumnOrder(newOrder); } catch(e) {}
       }
     }
 
@@ -258,7 +248,7 @@
       var rest = order.filter(function(f) { return f !== 'country_code' && f !== 'country_name_en' && front.indexOf(f) < 0; });
       var newOrder = ['country_code', 'country_name_en'].concat(front).concat(rest);
 
-      try { reorderColumns(newOrder); } catch(e) {}
+      try { table.setColumnOrder(newOrder); } catch(e) {}
     }
 
     // 컬럼 순서 저장 (기존 + 검색빈도 반영)
@@ -570,7 +560,7 @@
             });
             ranks.sort(function(a, b) { return a.rank - b.rank; });
             var order = ['country_code', 'country_name_en'].concat(ranks.map(function(rk) { return rk.field; }));
-            reorderColumns(order);
+            table.setColumnOrder(order);
             activeSortField = ranks[0].field;
             activeSortDir = 'asc';
             highlightColumn(activeSortField);
@@ -587,7 +577,7 @@
         if(idx >= 2){
           allCols.splice(idx,1);
           allCols.splice(2,0,field);
-          reorderColumns(allCols);
+          table.setColumnOrder(allCols);
         }
         table.setSort(field, "desc");
         highlightColumn(field);
@@ -705,7 +695,7 @@
             .map(function(c){return c.field;})
             .filter(function(f){return typeof f==='string' && f.length>0;});
           allCols.sort();
-          reorderColumns(allCols);
+          table.setColumnOrder(allCols);
           table.setSort('country_name_en','asc');
           localStorage.setItem('rankerage_col_order',JSON.stringify(allCols));
           clearHighlight();
@@ -725,7 +715,7 @@
           return ra-rb;
         });
         var fields=['country_code','country_name_en'].concat(cols.map(function(c){return c.field;}));
-        reorderColumns(fields);
+        table.setColumnOrder(fields);
         // 소팅도 첫 컬럼 기준으로
         var topField=cols[0].field;
         table.setSort(topField,'asc');
