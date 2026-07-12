@@ -37,6 +37,7 @@
         tooltip:function(e,c){return c.getRow().getData().country_summary;}},
       // Country
       { title:t('country'),field:"country_name_en",width:80,frozen:true,
+        sorter:function(a,b){var pa=a.indexOf('*')===0||a.indexOf('**')===0||a.indexOf('***')===0;var pb=b.indexOf('*')===0||b.indexOf('**')===0||b.indexOf('***')===0;if(pa&&!pb)return 1;if(!pa&&pb)return -1;return a<b?-1:a>b?1:0;},
         formatter:function(c){var d=c.getRow().getData(),code=d.country_code,name=I18N.countryName(code);return'<span style="display:inline-block;max-width:65px;overflow:hidden;text-overflow:clip;white-space:nowrap;">'+(name||d.country_name_en)+'</span>';},
         tooltip:function(e,c){var d=c.getRow().getData(),code=d.country_code,n2=I18N.countryName(code,I18N.getLocale2()),lo=d.country_name_local,p=[];if(n2&&n2!==d.country_name_en)p.push(n2);if(lo&&lo!==n2)p.push(lo);return p.join(' · ')||d.country_name_en;}},
       // === CORE ===
