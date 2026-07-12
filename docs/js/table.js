@@ -675,21 +675,24 @@
         }
       } else if(f==='country_name_en'){
         // 국가명 클릭 → 그 국가 강한 순서로 컬럼 재정렬
-        var data=cell.getRow().getData(), ranks=[];
-        table.getColumns().forEach(function(col){
-          var f=col.getField();
-          if(f&&f!=='country_code'&&f!=='country_name_en'){
-            var rk=data[f+'_rank'];
-            ranks.push({field:f, rank:rk!=null?parseInt(rk):9999});
+        try {
+          var data=cell.getRow().getData(), ranks=[];
+          table.getColumns().forEach(function(col){
+            var cf=col.getField();
+            if(cf&&cf!=='country_code'&&cf!=='country_name_en'){
+              var rk=data[cf+'_rank'];
+              if(rk!=null) ranks.push({field:cf, rank:parseInt(rk)});
+            }
+          });
+          if(ranks.length>0){
+            ranks.sort(function(a,b){return a.rank-b.rank;});
+            var order=['country_code','country_name_en'].concat(ranks.map(function(r){return r.field;}));
+            table.setColumnOrder(order);
+            clearHighlight();
+            activeSortField=ranks[0].field;activeSortDir='asc';
+            if(typeof highlightColumn==='function') highlightColumn(activeSortField);
           }
-        });
-        ranks.sort(function(a,b){return a.rank-b.rank;});
-        var order=['country_code','country_name_en'].concat(ranks.map(function(r){return r.field;}));
-        table.setColumnOrder(order);
-        clearHighlight();
-        activeSortField=ranks[0].field;activeSortDir='asc';
-        highlightColumn(activeSortField);
-      }
+        } catch(ex) {}
     });
 
     // Anthem modal - open via event delegation
