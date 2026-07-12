@@ -111,11 +111,11 @@ body {
 
 /* ── 검색 버튼 ── */
 .search-btn {
-  height: 36px; width: 42px; padding: 0;
+  height: 36px; padding: 0 14px 0 12px; gap: 6px;
   background: linear-gradient(135deg, #5b8def, #4a7de0);
   border: 1.5px solid #5b8def; border-left: none;
   border-radius: 0 8px 8px 0;
-  color: #fff; cursor: pointer; flex-shrink: 0;
+  color: #fff; cursor: pointer; flex-shrink: 0; white-space: nowrap;
   transition: all 0.2s ease;
   display: flex; align-items: center; justify-content: center;
 }
@@ -123,8 +123,12 @@ body {
   background: linear-gradient(135deg, #6b9df5, #5b8def);
   box-shadow: 0 0 14px rgba(91,141,239,0.5);
 }
-.search-btn:active { transform: scale(0.95); }
-.search-btn svg { width: 18px; height: 18px; }
+.search-btn:active { transform: scale(0.97); }
+.search-btn svg { width: 18px; height: 18px; flex-shrink: 0; }
+.search-label {
+  font-size: 13px; font-weight: 600;
+  letter-spacing: 0.3px;
+}
 
 .login-text {
   font-size: 12px; font-weight: 500;
