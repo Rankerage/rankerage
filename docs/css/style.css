@@ -182,6 +182,7 @@ body {
 }
 
 .tabulator .tabulator-tableholder {
+  overflow-x: auto !important;
   background: var(--bg-primary) !important;
 }
 

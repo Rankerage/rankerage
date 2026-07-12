@@ -169,7 +169,7 @@
     });
 
     var table = new Tabulator("#example-table", {
-      height:"calc(100vh - 48px)",layout:"fitDataFill",data:[],initialSort:[{column:"population",dir:"desc"}],columns:cols,
+      height:"calc(100vh - 48px)",layout:"fitDataFill",data:[],initialSort:[{column:"country_name_en",dir:"asc"}],columns:cols,
       pagination:false,movableColumns:true,virtualDom:true,headerHozAlign:"center",tooltips:true,tooltipDelay:150,rowHover:true,headerVisible:true,
       placeholder:'<div style="padding:40px;text-align:center;color:#545d7a;"><div style="font-size:48px;">🌍</div><div style="font-size:16px;font-weight:600;">'+t('loading')+'</div></div>',
       sortMode:"single",selectable:false,selectableRows:false,selectableCells:false,clipboard:true,selectableRangeMode:"click",
