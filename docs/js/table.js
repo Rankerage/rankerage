@@ -21,9 +21,13 @@
     function suffix(n) { n=parseInt(n);if(!n)return'';return['th','st','nd','rd'][(n%100>10&&n%100<14)?0:(n%10>3?0:n%10)]||'th'; }
 
     var cols = [
-      // Flag
+      // Flag / Category Icon
       { title:"",field:"country_code",width:32,frozen:true,headerHozAlign:"center",hozAlign:"center",
-        formatter:function(c){var code=(c.getValue()||'??').toUpperCase(),hash=0;for(var i=0;i<code.length;i++)hash=code.charCodeAt(i)+((hash<<5)-hash);var hue=Math.abs(hash)%360,sat=40+(Math.abs(hash>>4)%50),lit=25+(Math.abs(hash>>12)%25),bg='hsl('+hue+','+sat+'%,'+lit+'%)';return'<div style="display:flex;align-items:center;justify-content:center;width:100%;height:100%;"><span style="display:inline-flex;align-items:center;justify-content:center;width:22px;height:15px;border-radius:3px;overflow:hidden;background:'+bg+';box-shadow:0 1px 2px rgba(0,0,0,0.3);flex-shrink:0;"><img src="https://flagcdn.com/16x12/'+code.toLowerCase()+'.png" width="16" height="12" style="display:block;" onerror="this.remove();"></span></div>';},
+        formatter:function(c){var code=(c.getValue()||'??').toUpperCase();var name=c.getRow().getData().country_name_en||'';
+          if(name.indexOf('***')===0)return'<div style="display:flex;align-items:center;justify-content:center;width:100%;height:100%;font-size:14px;">🏟️</div>';
+          if(name.indexOf('**')===0)return'<div style="display:flex;align-items:center;justify-content:center;width:100%;height:100%;font-size:14px;">⭐</div>';
+          if(name.indexOf('*')===0)return'<div style="display:flex;align-items:center;justify-content:center;width:100%;height:100%;font-size:14px;">🏢</div>';
+          var hash=0;for(var i=0;i<code.length;i++)hash=code.charCodeAt(i)+((hash<<5)-hash);var hue=Math.abs(hash)%360,sat=40+(Math.abs(hash>>4)%50),lit=25+(Math.abs(hash>>12)%25),bg='hsl('+hue+','+sat+'%,'+lit+'%)';return'<div style="display:flex;align-items:center;justify-content:center;width:100%;height:100%;"><span style="display:inline-flex;align-items:center;justify-content:center;width:22px;height:15px;border-radius:3px;overflow:hidden;background:'+bg+';box-shadow:0 1px 2px rgba(0,0,0,0.3);flex-shrink:0;"><img src="https://flagcdn.com/16x12/'+code.toLowerCase()+'.png" width="16" height="12" style="display:block;" onerror="this.remove();"></span></div>';},
         tooltip:function(e,c){return c.getRow().getData().country_summary;}},
       // Country
       { title:t('country'),field:"country_name_en",width:95,frozen:true,
