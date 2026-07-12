@@ -93,6 +93,12 @@ body {
   white-space: nowrap;
   margin: 0 auto 0 14px;
 }
+.header-scroll-hint {
+  font-size: 10px; font-weight: 400;
+  color: rgba(255,255,255,0.2);
+  margin-left: 8px;
+  font-family: 'JetBrains Mono', monospace;
+}
 
 /* ---- Header Right ---- */
 .header-right { display: flex; align-items: center; gap: 12px; }
