@@ -175,14 +175,19 @@
       var field = column.getField();
       if (field === "country_code") {
         // 국기 헤더 클릭 → 모든 컬럼 알파벳 순 정렬
+        var curSort = table.getSorters()[0] || { field: activeSortField, dir: activeSortDir };
         e.preventDefault();
         e.stopPropagation();
         var allCols = table.getColumns()
           .map(function(c) { return c.getField(); })
-          .filter(function(f) { return f && f !== ''; });  // null/undefined 제거
-        allCols.sort(function(a, b) { return a.localeCompare(b); });  // 올바른 문자열 정렬
+          .filter(function(f) { return f && f !== ''; });
+        allCols.sort(function(a, b) { return a.localeCompare(b); });
         table.setColumnOrder(allCols);
         localStorage.setItem('rankerage_col_order', JSON.stringify(allCols));
+        // setColumnOrder가 소팅을 망가뜨릴 수 있으니 재적용
+        setTimeout(function() {
+          table.setSort(curSort.field, curSort.dir);
+        }, 100);
         clearHighlight();
         // 잠시 헤더 깜빡임 효과
         var hdr = document.querySelector('.tabulator-col[data-field="country_code"]');
