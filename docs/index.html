@@ -7,7 +7,7 @@
     <meta name="theme-color" content="#0a0e1a">
     <title>Rankerage.com</title>
     <link href="vendor/tabulator.min.css" rel="stylesheet">
-    <link href="css/style.css?v=3" rel="stylesheet">
+    <link href="css/style.css?v=4" rel="stylesheet">
 </head>
 <body>
     <!-- Header -->
@@ -17,7 +17,12 @@
             <div class="header-right">
                 <div class="search-group" style="position:relative;">
                     <input type="text" id="search" placeholder="Find ranking..." autocomplete="off">
-                    <button class="search-btn" id="searchBtn">🔍</button>
+                    <button class="search-btn" id="searchBtn" aria-label="Search">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <circle cx="11" cy="11" r="8"/>
+                            <path d="m21 21-4.35-4.35"/>
+                        </svg>
+                    </button>
                     <div class="search-dropdown" id="searchDropdown" style="display:none;"></div>
                 </div>
                 <span class="lang-btn" id="langBtn" title="Language settings">🌐</span>
@@ -101,7 +106,7 @@
     <script src="vendor/chart.min.js"></script>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
     <script src="js/i18n.js"></script>
-    <script src="js/table.js?v=5"></script>
+    <script src="js/table.js?v=6"></script>
 
     fetch('data/site_meta.json').then(function(r){return r.json()}).then(function(m){
       if (m.last_updated) {

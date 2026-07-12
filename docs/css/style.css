@@ -108,14 +108,26 @@ body {
 }
 
 .search-btn {
-  height: 32px; width: 32px; padding: 0;
-  background: var(--accent);
-  border: none; border-radius: var(--radius-sm);
-  font-size: 14px; cursor: pointer;
-  transition: var(--transition);
+  height: 36px; width: 40px; padding: 0;
+  background: linear-gradient(135deg, #5b8def, #4a7de0);
+  border: none; border-radius: 0 8px 8px 0;
+  color: #fff; cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
   display: flex; align-items: center; justify-content: center;
 }
-.search-btn:hover { background: #4a7de0; }
+.search-btn:hover {
+  background: linear-gradient(135deg, #6b9df5, #5b8def);
+  box-shadow: 0 0 16px rgba(91,141,239,0.4);
+  transform: scale(1.05);
+}
+.search-btn:active { transform: scale(0.95); }
+
+/* 검색창 + 버튼 연결 */
+#search {
+  border-radius: 8px 0 0 8px; border-right: none;
+  height: 36px;
+}
+.search-group { display: flex; align-items: center; }
 
 .login-text {
   font-size: 12px; font-weight: 500;
