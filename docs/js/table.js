@@ -609,6 +609,26 @@
         });
       });
       table.setData(data);setTimeout(function(){var h=document.querySelector('.scroll-hint');if(h){h.style.opacity='0';setTimeout(function(){if(h)h.remove();},500);}},6000);
+
+    // ── Crosshair: column highlight on hover ──
+    (function(){
+      var lastCol = null;
+      var tableEl = document.querySelector('#example-table');
+      if(!tableEl) return;
+      tableEl.addEventListener('mouseover', function(e){
+        var cell = e.target.closest('.tabulator-cell');
+        if(!cell) return;
+        var field = cell.getAttribute('tabulator-field');
+        if(!field || field === 'country_code' || field === lastCol) return;
+        document.querySelectorAll('.tabulator-cell.col-hover').forEach(function(c){c.classList.remove('col-hover');});
+        document.querySelectorAll('.tabulator-cell[tabulator-field="'+field+'"]').forEach(function(c){c.classList.add('col-hover');});
+        lastCol = field;
+      });
+      tableEl.addEventListener('mouseleave', function(){
+        document.querySelectorAll('.tabulator-cell.col-hover').forEach(function(c){c.classList.remove('col-hover');});
+        lastCol = null;
+      });
+    })();
       
       // ── TOP 3 행 + 핫셀 하이라이트 (소팅 시마다 갱신) ──
       function refreshTopRows(){
@@ -674,25 +694,24 @@
           openDetail(cell.getRow().getData());
         }
       } else if(f==='country_name_en'){
-        // 국가명 클릭 → 그 국가 강한 순서로 컬럼 재정렬
-        try {
-          var data=cell.getRow().getData(), ranks=[];
-          table.getColumns().forEach(function(col){
-            var cf=col.getField();
-            if(cf&&cf!=='country_code'&&cf!=='country_name_en'){
-              var rk=data[cf+'_rank'];
-              if(rk!=null) ranks.push({field:cf, rank:parseInt(rk)});
-            }
-          });
-          if(ranks.length>0){
-            ranks.sort(function(a,b){return a.rank-b.rank;});
-            var order=['country_code','country_name_en'].concat(ranks.map(function(r){return r.field;}));
-            table.setColumnOrder(order);
-            clearHighlight();
-            activeSortField=ranks[0].field;activeSortDir='asc';
-            if(typeof highlightColumn==='function') highlightColumn(activeSortField);
+        var data=cell.getRow().getData(), ranks=[];
+        table.getColumns().forEach(function(col){
+          var cf=col.getField();
+          if(cf&&cf!=='country_code'&&cf!=='country_name_en'){
+            var rk=data[cf+'_rank'];
+            if(rk!=null) ranks.push({field:cf, rank:parseInt(rk)});
           }
-        } catch(ex) {}
+        });
+        if(ranks.length>1){
+          ranks.sort(function(a,b){return a.rank-b.rank;});
+          var order=['country_code','country_name_en'].concat(ranks.map(function(r){return r.field;}));
+          table.setColumnOrder(order);
+          clearHighlight();
+          activeSortField=ranks[0].field;activeSortDir='asc';
+          table.setSort(activeSortField,'asc');
+          highlightColumn(activeSortField);
+        }
+      }
     });
 
     // Anthem modal - open via event delegation
