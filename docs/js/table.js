@@ -338,22 +338,75 @@
       dropdown.style.display = 'block';
     });
 
+    // ── 검색된 컬럼을 활성 정렬 컬럼으로 추적 ──
+    var activeSortField = "population";  // 기본값
+    var activeSortDir = "desc";
+
+    // ── Persistent highlight state ──
+    var activeHighlight = null;
+    var highlightTimer = null;
+
+    function clearHighlight() {
+      if (activeHighlight) {
+        activeHighlight.classList.remove('highlight', 'highlight-pulse');
+        var badge = activeHighlight.querySelector('.search-found-badge');
+        if (badge) badge.remove();
+        activeHighlight = null;
+      }
+      if (highlightTimer) { clearTimeout(highlightTimer); highlightTimer = null; }
+    }
+
+    function highlightColumn(field) {
+      clearHighlight();
+      activeSortField = field;
+      activeSortDir = "desc";
+      var header = document.querySelector('.tabulator-col[data-field="' + field + '"]');
+      if (!header) {
+        header = document.querySelector('.tabulator-col[tabulator-field="' + field + '"]');
+      }
+      if (!header) return;
+
+      // 1) 강조 클래스 추가
+      header.classList.add('highlight', 'highlight-pulse');
+
+      // 2) 📍 배지
+      var badge = document.createElement('span');
+      badge.className = 'search-found-badge';
+      badge.textContent = '📍';
+      badge.title = '검색 결과 — 국가명 클릭으로 소팅';
+      header.appendChild(badge);
+
+      // 3) Tabulator API로 컬럼을 맨 왼쪽(국기 옆)으로 스크롤
+      try {
+        table.scrollToColumn(field, 'left', true);
+      } catch (_) {
+        header.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'start' });
+      }
+
+      // 4) 15초 후 펄스 멈춤
+      highlightTimer = setTimeout(function() {
+        if (header) header.classList.remove('highlight-pulse');
+      }, 15000);
+
+      activeHighlight = header;
+    }
+
+    // Clear highlight when user manually sorts or scrolls table
+    table.on("columnMoved", clearHighlight);
+    table.on("tableDestroyed", clearHighlight);
+
     dropdown.addEventListener("click", function(e) {
       var item = e.target.closest(".search-dropdown-item");
       if (!item) return;
       var field = item.getAttribute("data-field");
       var title = item.getAttribute("data-title");
       table.setSort(field, "desc");
-      // Highlight column
-      var header = document.querySelector('.tabulator-col[data-field="'+field+'"]');
-      if (header) {
-        document.querySelectorAll('.tabulator-col.highlight').forEach(function(h) { h.classList.remove('highlight'); });
-        header.classList.add('highlight');
-        header.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
-        setTimeout(function() { header.classList.remove('highlight'); }, 3000);
-      }
+      highlightColumn(field);
       dropdown.style.display = 'none';
       searchInput.value = title;
+      // 검색창에 포커스 유지 (바로 재검색 가능하게)
+      searchInput.focus();
+      searchInput.select();
     });
 
     searchInput.addEventListener("keydown", function(e) {
@@ -413,7 +466,20 @@
     document.getElementById('detailPanel').addEventListener('click',function(e){if(e.target===this)closeDetail();});
     document.getElementById('detailClose').addEventListener('click',closeDetail);
     document.addEventListener('keydown',function(e){if(e.key==='Escape'){document.getElementById('anthemModal').style.display='none';closeDetail();}});
-    table.on("cellClick",function(e,cell){var f=cell.getColumn().getField();if(f==='country_code'||f==='country_name_en')openDetail(cell.getRow().getData());});
+    table.on("cellClick",function(e,cell){
+      var f=cell.getColumn().getField();
+      if(f==='country_code'){
+        // 국기 클릭 → 상세 패널
+        openDetail(cell.getRow().getData());
+      } else if(f==='country_name_en'){
+        // 국가명 클릭 → 현재 활성 컬럼으로 소팅 (토글)
+        activeSortDir = (activeSortDir === 'desc') ? 'asc' : 'desc';
+        table.setSort(activeSortField, activeSortDir);
+        // 하이라이트 갱신
+        clearHighlight();
+        highlightColumn(activeSortField);
+      }
+    });
 
     // Anthem modal - open via event delegation
     var anthemsData = {};

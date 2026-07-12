@@ -414,11 +414,59 @@ body {
 }
 .search-dropdown-item strong { color: var(--accent); }
 
-/* Column highlight on search select */
+/* ── Column highlight on search select (enhanced) ── */
 .tabulator-col.highlight {
-  background: rgba(224,200,124,0.2) !important;
-  box-shadow: inset 0 -3px 0 var(--accent);
-  transition: background 0.5s, box-shadow 0.5s;
+  background: rgba(224,200,124,0.25) !important;
+  box-shadow:
+    inset 0 -4px 0 #e0c87c,
+    0 0 20px rgba(224,200,124,0.15) !important;
+  color: #fff !important;
+  transition: background 0.3s, box-shadow 0.3s;
+  position: relative;
+}
+
+/* Sort direction indicator on highlighted column */
+.tabulator-col.highlight[aria-sort="descending"] .tabulator-col-title::after {
+  content: ' ▼';
+  color: #e0c87c;
+  font-size: 10px;
+}
+
+.tabulator-col.highlight[aria-sort="ascending"] .tabulator-col-title::after {
+  content: ' ▲';
+  color: #e0c87c;
+  font-size: 10px;
+}
+
+/* Pulse ring around highlighted column */
+.tabulator-col.highlight-pulse {
+  animation: searchPulse 1.5s ease-in-out 3;
+}
+
+@keyframes searchPulse {
+  0%, 100% { box-shadow: inset 0 -4px 0 #e0c87c, 0 0 20px rgba(224,200,124,0.15); }
+  50%      { box-shadow: inset 0 -4px 0 #e0c87c, 0 0 35px rgba(224,200,124,0.4), 0 0 60px rgba(224,200,124,0.2); }
+}
+
+/* 📍 찾음 배지 */
+.search-found-badge {
+  position: absolute;
+  top: 2px;
+  right: 4px;
+  font-size: 10px;
+  z-index: 5;
+  pointer-events: none;
+  animation: badgePop 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+@keyframes badgePop {
+  0% { transform: scale(0); opacity: 0; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+/* 국가명 셀 — "클릭해서 소팅" 힌트 커서 */
+.tabulator-cell[data-field="country_name_en"] {
+  cursor: pointer;
 }
 
 /* ---- Country Detail Panel ---- */
@@ -650,15 +698,74 @@ body {
 }
 
 /* ============================================
-   Animations
+   Animations — 테이블에 생명력을!
    ============================================ */
 @keyframes fadeIn {
   from { opacity: 0; transform: translateY(4px); }
   to { opacity: 1; transform: translateY(0); }
 }
 
+/* 행 등장 애니메이션 (초기 로드 시) */
 .tabulator-row {
   animation: fadeIn 0.3s ease-out both;
+}
+
+/* 소팅 시 행 위치 변경을 부드럽게 */
+.tabulator-table {
+  transition: transform 0.2s ease-out;
+}
+
+/* ── 국가명 셀: "클릭하면 소팅"을 암시하는 호버 효과 ── */
+.tabulator-cell[data-field="country_name_en"] {
+  cursor: pointer !important;
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+.tabulator-cell[data-field="country_name_en"]::after {
+  content: '';
+  position: absolute;
+  bottom: 6px;
+  left: 12px;
+  right: 12px;
+  height: 1.5px;
+  background: #e0c87c;
+  transform: scaleX(0);
+  transition: transform 0.2s ease;
+  opacity: 0.7;
+}
+
+.tabulator-cell[data-field="country_name_en"]:hover::after {
+  transform: scaleX(1);
+}
+
+.tabulator-cell[data-field="country_name_en"]:hover {
+  color: #e0c87c !important;
+  text-shadow: 0 0 8px rgba(224,200,124,0.3);
+}
+
+/* ── 컬럼 헤더 호버: 살짝 떠오르는 효과 ── */
+.tabulator-header .tabulator-col {
+  transition: transform 0.15s ease, background 0.2s, color 0.2s !important;
+}
+
+.tabulator-header .tabulator-col:hover {
+  transform: translateY(-1px);
+  text-shadow: 0 0 6px rgba(224,200,124,0.3);
+}
+
+/* ── 데이터 셀: 소팅 후 값 변경 시 미묘한 깜빡임 ── */
+@keyframes valuePop {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.03); color: #e0c87c; }
+  100% { transform: scale(1); }
+}
+
+/* ── 빈 값은 회색으로 희미하게 (데이터 부재 명확히) ── */
+.tabulator-cell:empty::before,
+.tabulator-cell[data-value="-"] {
+  color: rgba(255,255,255,0.08);
+  content: '—';
 }
 
 .update-badge {
