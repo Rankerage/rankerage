@@ -37,7 +37,7 @@
         tooltip:function(e,c){return c.getRow().getData().country_summary;}},
       // Country
       { title:t('country'),field:"country_name_en",width:80,frozen:true,
-        sorter:function(a,b){var pa=a.charCodeAt(0)<65,pb=b.charCodeAt(0)<65;if(pa&&!pb)return 1;if(!pa&&pb)return -1;return a<b?-1:a>b?1:0;},
+        sorter:function(a,b){var sa=(a||'')[0]==='*',sb=(b||'')[0]==='*';if(sa&&!sb)return 1;if(!sa&&sb)return -1;return (a||'')<(b||'')?-1:(a||'')>(b||'')?1:0;},
         formatter:function(c){var d=c.getRow().getData(),code=d.country_code,name=I18N.countryName(code);return'<span style="display:inline-block;max-width:65px;overflow:hidden;text-overflow:clip;white-space:nowrap;">'+(name||d.country_name_en)+'</span>';},
         tooltip:function(e,c){var d=c.getRow().getData(),code=d.country_code,n2=I18N.countryName(code,I18N.getLocale2()),lo=d.country_name_local,p=[];if(n2&&n2!==d.country_name_en)p.push(n2);if(lo&&lo!==n2)p.push(lo);return p.join(' · ')||d.country_name_en;}},
       // === CORE ===
@@ -191,7 +191,7 @@
           .map(function(c){return c.field;})
           .filter(function(f){return typeof f==='string' && f.length>0;});
         allCols.sort();
-        table.setColumnOrder(allCols);
+        console.log("setColumnOrder called", allCols.length, "cols"); table.setColumnOrder(allCols);
         table.setSort('country_name_en','asc');
         localStorage.setItem('rankerage_col_order',JSON.stringify(allCols));
         clearHighlight();
@@ -219,7 +219,7 @@
         var front = freq.filter(function(f) { return allCols.indexOf(f) >= 2; });
         var rest = allCols.filter(function(f) { return front.indexOf(f) < 0; });
         var newOrder = allCols.slice(0, 2).concat(front).concat(rest.filter(function(f) { return allCols.indexOf(f) >= 2; }));
-        try { table.setColumnOrder(newOrder); } catch(e) {}
+        try { console.log("setColumnOrder called", newOrder.length, "cols"); table.setColumnOrder(newOrder); } catch(e) {}
       }
     }
 
@@ -240,7 +240,7 @@
       var rest = order.filter(function(f) { return f !== 'country_code' && f !== 'country_name_en' && front.indexOf(f) < 0; });
       var newOrder = ['country_code', 'country_name_en'].concat(front).concat(rest);
 
-      try { table.setColumnOrder(newOrder); } catch(e) {}
+      try { console.log("setColumnOrder called", newOrder.length, "cols"); table.setColumnOrder(newOrder); } catch(e) {}
     }
 
     // 컬럼 순서 저장 (기존 + 검색빈도 반영)
@@ -552,7 +552,7 @@
             });
             ranks.sort(function(a, b) { return a.rank - b.rank; });
             var order = ['country_code', 'country_name_en'].concat(ranks.map(function(rk) { return rk.field; }));
-            table.setColumnOrder(order);
+            console.log("setColumnOrder called", order.length, "cols"); table.setColumnOrder(order);
             activeSortField = ranks[0].field;
             activeSortDir = 'asc';
             highlightColumn(activeSortField);
@@ -569,7 +569,7 @@
         if(idx >= 2){
           allCols.splice(idx,1);
           allCols.splice(2,0,field);
-          table.setColumnOrder(allCols);
+          console.log("setColumnOrder called", allCols.length, "cols"); table.setColumnOrder(allCols);
         }
         table.setSort(field, "desc");
         highlightColumn(field);
@@ -687,7 +687,7 @@
             .map(function(c){return c.field;})
             .filter(function(f){return typeof f==='string' && f.length>0;});
           allCols.sort();
-          table.setColumnOrder(allCols);
+          console.log("setColumnOrder called", allCols.length, "cols"); table.setColumnOrder(allCols);
           table.setSort('country_name_en','asc');
           localStorage.setItem('rankerage_col_order',JSON.stringify(allCols));
           clearHighlight();
@@ -707,7 +707,7 @@
           return ra-rb;
         });
         var fields=['country_code','country_name_en'].concat(cols.map(function(c){return c.field;}));
-        table.setColumnOrder(fields);
+        console.log("setColumnOrder called", fields.length, "cols"); table.setColumnOrder(fields);
         // 소팅도 첫 컬럼 기준으로
         var topField=cols[0].field;
         table.setSort(topField,'asc');
