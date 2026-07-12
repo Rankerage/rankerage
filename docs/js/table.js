@@ -176,14 +176,6 @@
       clipboardCopyConfig:{columnHeaders:false,columnGroups:false,rowGroups:false,columnCalcs:false}
     });
 
-        if (curIdx >= 2 && curIdx !== targetIdx) {
-          try { table.moveColumn(curCols[curIdx], curCols[targetIdx]); } catch(e) {}
-          // Refresh curCols after move
-          curCols = table.getColumns();
-        }
-      }
-    }
-
     // 기존 컬럼 순서 복원 (검색빈도 반영은 applyColumnOrder에서)
 
     // ── 1행1열(국기헤더): 알파벳 컬럼 정렬 리셋 ──
