@@ -174,8 +174,8 @@
     table.on("headerClick", function(e, column) {
       var field = column.getField();
       if (field === "country_code") {
-        // 국기 헤더 클릭 → 모든 컬럼 알파벳 순 정렬
-        var curSort = table.getSorters()[0] || { field: activeSortField, dir: activeSortDir };
+        // 국기 헤더 클릭 → 모든 컬럼 알파벳 순 정렬 (소팅 방해 금지)
+        var saveField = activeSortField, saveDir = activeSortDir;
         e.preventDefault();
         e.stopPropagation();
         var allCols = table.getColumns()
@@ -184,14 +184,12 @@
         allCols.sort(function(a, b) { return a.localeCompare(b); });
         table.setColumnOrder(allCols);
         localStorage.setItem('rankerage_col_order', JSON.stringify(allCols));
-        // setColumnOrder가 소팅을 망가뜨릴 수 있으니 재적용
-        setTimeout(function() {
-          table.setSort(curSort.field, curSort.dir);
-        }, 100);
         clearHighlight();
-        // 잠시 헤더 깜빡임 효과
-        var hdr = document.querySelector('.tabulator-col[data-field="country_code"]');
-        if (hdr) { hdr.style.background = 'rgba(224,200,124,0.2)'; setTimeout(function() { hdr.style.background = ''; }, 300); }
+        // Tabulator가 소팅을 건드렸을 수 있으니 원래대로 복원
+        setTimeout(function() {
+          table.setSort(saveField, saveDir);
+        }, 150);
+        return false;  // Tabulator 기본 헤더클릭 동작 완전 차단
       } else if (field === "country_name_en") {
         // 국가명 헤더 클릭 → 국가명 A-Z / Z-A 토글 소팅
         e.preventDefault();
