@@ -1,0 +1,35 @@
+# wrangler.toml — rankerage AI Search Worker
+# Deploy: npx wrangler deploy
+
+name = "rankerage-ai-search"
+main = "ai-search.js"
+compatibility_date = "2025-07-12"
+compatibility_flags = ["nodejs_compat"]
+
+# ── Route / custom domain ──────────────────────────────────────────
+# Option A: workers.dev subdomain (free, auto-generated on first deploy)
+# Option B: custom domain route (uncomment and fill in)
+# routes = [
+#   { pattern = "api.rankerage.com/ai-search", zone_name = "rankerage.com" }
+# ]
+
+# ── Environment Variables ──────────────────────────────────────────
+# DEEPSEEK_API_KEY is set via:  npx wrangler secret put DEEPSEEK_API_KEY
+# Do NOT put secrets here.  Listed for documentation only.
+[vars]
+# No plain-text vars — all secrets via `wrangler secret put`
+
+# ── Triggers ───────────────────────────────────────────────────────
+# Scheduled cleanup task for rate-limit store (every 5 min)
+[triggers]
+crons = ["*/5 * * * *"]
+
+# ── Observability ──────────────────────────────────────────────────
+[observability]
+enabled = true
+head_sampling_rate = 1
+
+# ── Limits ────────────────────────────────────────────────────────
+[limits]
+# DeepSeek API calls are fast (~500ms-2s), 30s is plenty
+cpu_ms = 100
