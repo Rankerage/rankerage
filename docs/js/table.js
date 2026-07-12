@@ -37,7 +37,7 @@
         tooltip:function(e,c){return c.getRow().getData().country_summary;}},
       // Country
       { title:t('country'),field:"country_name_en",width:80,frozen:true,
-        sorter:function(a,b){var sa=(a||'')[0]==='*',sb=(b||'')[0]==='*';if(sa&&!sb)return 1;if(!sa&&sb)return -1;return (a||'')<(b||'')?-1:(a||'')>(b||'')?1:0;},
+        sorter:function(a,b){var pa=a.charCodeAt(0)<65,pb=b.charCodeAt(0)<65;if(pa&&!pb)return 1;if(!pa&&pb)return -1;return a<b?-1:a>b?1:0;},
         formatter:function(c){var d=c.getRow().getData(),code=d.country_code,name=I18N.countryName(code);return'<span style="display:inline-block;max-width:65px;overflow:hidden;text-overflow:clip;white-space:nowrap;">'+(name||d.country_name_en)+'</span>';},
         tooltip:function(e,c){var d=c.getRow().getData(),code=d.country_code,n2=I18N.countryName(code,I18N.getLocale2()),lo=d.country_name_local,p=[];if(n2&&n2!==d.country_name_en)p.push(n2);if(lo&&lo!==n2)p.push(lo);return p.join(' · ')||d.country_name_en;}},
       // === CORE ===
@@ -176,6 +176,24 @@
       clipboardCopyConfig:{columnHeaders:false,columnGroups:false,rowGroups:false,columnCalcs:false}
     });
 
+    // Column reorder helper — moveColumn is more reliable than setColumnOrder
+    function reorderColumns(targetFields) {
+      var curCols = table.getColumns();
+      // Build reverse target order (move last columns into position first)
+      for (var i = 2; i < targetFields.length; i++) {
+        var targetIdx = i;
+        var curIdx = -1;
+        for (var j = 2; j < curCols.length; j++) {
+          if (curCols[j].getField() === targetFields[i]) { curIdx = j; break; }
+        }
+        if (curIdx >= 2 && curIdx !== targetIdx) {
+          try { table.moveColumn(curCols[curIdx], curCols[targetIdx]); } catch(e) {}
+          // Refresh curCols after move
+          curCols = table.getColumns();
+        }
+      }
+    }
+
     // 기존 컬럼 순서 복원 (검색빈도 반영은 applyColumnOrder에서)
 
     // ── 1행1열(국기헤더): 알파벳 컬럼 정렬 리셋 ──
@@ -191,7 +209,7 @@
           .map(function(c){return c.field;})
           .filter(function(f){return typeof f==='string' && f.length>0;});
         allCols.sort();
-        console.log("setColumnOrder called", allCols.length, "cols"); table.setColumnOrder(allCols);
+        reorderColumns(allCols);
         table.setSort('country_name_en','asc');
         localStorage.setItem('rankerage_col_order',JSON.stringify(allCols));
         clearHighlight();
@@ -201,7 +219,6 @@
         e.preventDefault(); e.stopPropagation();
         table.setSort("country_name_en","asc");
         clearHighlight();
-        } catch(e) { console.log("country click ERROR", e); }
       }
     });
 
@@ -220,7 +237,7 @@
         var front = freq.filter(function(f) { return allCols.indexOf(f) >= 2; });
         var rest = allCols.filter(function(f) { return front.indexOf(f) < 0; });
         var newOrder = allCols.slice(0, 2).concat(front).concat(rest.filter(function(f) { return allCols.indexOf(f) >= 2; }));
-        try { console.log("setColumnOrder called", newOrder.length, "cols"); table.setColumnOrder(newOrder); } catch(e) {}
+        try { reorderColumns(newOrder); } catch(e) {}
       }
     }
 
@@ -241,7 +258,7 @@
       var rest = order.filter(function(f) { return f !== 'country_code' && f !== 'country_name_en' && front.indexOf(f) < 0; });
       var newOrder = ['country_code', 'country_name_en'].concat(front).concat(rest);
 
-      try { console.log("setColumnOrder called", newOrder.length, "cols"); table.setColumnOrder(newOrder); } catch(e) {}
+      try { reorderColumns(newOrder); } catch(e) {}
     }
 
     // 컬럼 순서 저장 (기존 + 검색빈도 반영)
@@ -553,7 +570,7 @@
             });
             ranks.sort(function(a, b) { return a.rank - b.rank; });
             var order = ['country_code', 'country_name_en'].concat(ranks.map(function(rk) { return rk.field; }));
-            console.log("setColumnOrder called", order.length, "cols"); table.setColumnOrder(order);
+            reorderColumns(order);
             activeSortField = ranks[0].field;
             activeSortDir = 'asc';
             highlightColumn(activeSortField);
@@ -570,7 +587,7 @@
         if(idx >= 2){
           allCols.splice(idx,1);
           allCols.splice(2,0,field);
-          console.log("setColumnOrder called", allCols.length, "cols"); table.setColumnOrder(allCols);
+          reorderColumns(allCols);
         }
         table.setSort(field, "desc");
         highlightColumn(field);
@@ -586,7 +603,6 @@
       if (e.key === 'Enter') {
         var first = dropdown.querySelector(".search-dropdown-item");
         if (first) first.click();
-        } catch(e) { console.log("country click ERROR", e); }
       }
     });
 
@@ -689,7 +705,7 @@
             .map(function(c){return c.field;})
             .filter(function(f){return typeof f==='string' && f.length>0;});
           allCols.sort();
-          console.log("setColumnOrder called", allCols.length, "cols"); table.setColumnOrder(allCols);
+          reorderColumns(allCols);
           table.setSort('country_name_en','asc');
           localStorage.setItem('rankerage_col_order',JSON.stringify(allCols));
           clearHighlight();
@@ -697,8 +713,6 @@
           openDetail(cell.getRow().getData());
         }
       } else if(f==='country_name_en'){
-        console.log("country click START");
-        try {
         // 국가명 클릭 → 강한 순위순 컬럼 재정렬
         var d=cell.getRow().getData(), code=d.country_code;
         // 모든 열을 해당 국가의 rank 기준으로 정렬
@@ -711,13 +725,12 @@
           return ra-rb;
         });
         var fields=['country_code','country_name_en'].concat(cols.map(function(c){return c.field;}));
-        console.log("setColumnOrder called", fields.length, "cols"); table.setColumnOrder(fields);
+        reorderColumns(fields);
         // 소팅도 첫 컬럼 기준으로
         var topField=cols[0].field;
         table.setSort(topField,'asc');
         highlightColumn(topField);
         activeSortField=topField; activeSortDir='asc';
-        } catch(e) { console.log("country click ERROR", e); }
       }
     });
 
