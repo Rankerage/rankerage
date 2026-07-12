@@ -1054,9 +1054,6 @@
     function updateSelection(s,e){if(!s||!e)return;var rows=Array.from(document.querySelectorAll(".tabulator-row:not(.tabulator-header)"));var sr=s.closest(".tabulator-row"),er=e.closest(".tabulator-row");var si=rows.indexOf(sr),ei=rows.indexOf(er);var sc=Array.from(sr.children).indexOf(s),ec=Array.from(er.children).indexOf(e);var mr=Math.min(si,ei),Mr=Math.max(si,ei),mc=Math.min(sc,ec),Mc=Math.max(sc,ec);clearSelection();for(var i=mr;i<=Mr;i++){if(!rows[i])continue;var cells=Array.from(rows[i].children);for(var j=mc;j<=Mc;j++){if(cells[j])cells[j].classList.add("selected");}}}
     function clearSelection(){document.querySelectorAll(".tabulator-cell.selected").forEach(function(c){c.classList.remove("selected");});}
     document.addEventListener("keydown",function(e){if(e.ctrlKey&&e.key==="c"){var sel=document.querySelectorAll(".tabulator-cell.selected");if(!sel.length)return;var rows=new Map();sel.forEach(function(cell){var row=cell.closest(".tabulator-row");var idx=Array.from(row.parentElement.children).indexOf(row);if(!rows.has(idx))rows.set(idx,[]);rows.get(idx).push(cell.textContent.trim());});navigator.clipboard.writeText(Array.from(rows.values()).map(function(cells){return cells.join("\t");}).join("\n"));}else if(e.key==="Escape"){isSelecting=false;clearSelection();}});
-  });
-})();
-
     // ── 광고 행 삽입 (매 8행) ──
     var adInterval = 8;
     var adCount = 0;
@@ -1121,6 +1118,9 @@
         window.googletag.pubads().setTargeting('keywords', keywords.split(' '));
       }
     }
+
+  });
+})();
 
 
 
