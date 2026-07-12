@@ -2,7 +2,7 @@
    Rankerage.com — Modern Dark Theme
    ============================================ */
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600&family=Noto+Sans+KR:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600&family=Noto+Sans+KR:wght@400;500;700&family=Outfit:wght@600;700;800&display=swap');
 
 /* ---- Reset & Base ---- */
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
@@ -59,9 +59,9 @@ body {
 /* ---- Logo ---- */
 .site-title {
   display: flex; align-items: center; gap: 10px;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Outfit', 'Inter', sans-serif;
   font-size: 20px; font-weight: 700;
-  letter-spacing: -0.5px;
+  letter-spacing: 0.5px;
   white-space: nowrap;
   background: linear-gradient(135deg, #5b8def 0%, #a78bfa 100%);
   -webkit-background-clip: text;
@@ -86,11 +86,12 @@ body {
 
 /* ---- Header Slogan ---- */
 .header-slogan {
-  font-family: 'Noto Sans KR', sans-serif;
-  font-size: 13px; font-weight: 500;
-  color: rgba(224,200,124,0.6);
+  font-family: 'Outfit', 'Noto Sans KR', sans-serif;
+  font-size: 13px; font-weight: 600;
+  letter-spacing: 1px;
+  color: rgba(224,200,124,0.7);
   white-space: nowrap;
-  margin: 0 auto 0 12px;
+  margin: 0 auto 0 14px;
 }
 
 /* ---- Header Right ---- */
