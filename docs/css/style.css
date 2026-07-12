@@ -216,11 +216,9 @@ body {
 /* Hide sort arrows */
 .tabulator-col-sorter { display: none !important; }
 
-/* Kill ellipsis on header titles — clip only */
-.tabulator-col-title {
-  text-overflow: clip !important;
-  padding-right: 0 !important;
-}
+/* Kill all ellipsis */
+.tabulator-cell { text-overflow: clip !important; }
+.tabulator-col-title { text-overflow: clip !important; padding-right: 0 !important; }
 
 .tabulator-header .tabulator-col:hover {
   color: #fff !important;
