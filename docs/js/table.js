@@ -28,7 +28,7 @@
 
     var cols = [
       // Flag / Category Icon
-      { title:"",field:"country_code",width:26,frozen:true,headerHozAlign:"center",hozAlign:"center",
+      { title:"Reset",field:"country_code",width:26,frozen:true,headerHozAlign:"center",hozAlign:"center",
         formatter:function(c){var code=(c.getValue()||'??').toUpperCase();var name=c.getRow().getData().country_name_en||'';
           if(name.indexOf('***')===0)return'<div style="display:flex;align-items:center;justify-content:center;width:100%;height:100%;font-size:14px;">🏟️</div>';
           if(name.indexOf('**')===0)return'<div style="display:flex;align-items:center;justify-content:center;width:100%;height:100%;font-size:14px;">⭐</div>';
@@ -185,28 +185,21 @@
     table.on("headerClick", function(e, column) {
       var field = column.getField();
       if (field === "country_code") {
-        // 국기 헤더 클릭 → 모든 컬럼 알파벳 순 정렬
-        e.preventDefault();
-        e.stopPropagation();
-        try {
-          var allCols = table.getColumns()
-            .map(function(c) { return c.getField(); })
-            .filter(function(f) { return typeof f === 'string' && f.length > 0; });
-          allCols.sort();
-          table.setColumnOrder(allCols);
-          localStorage.setItem('rankerage_col_order', JSON.stringify(allCols));
-          if (typeof clearHighlight === 'function') clearHighlight();
-          setTimeout(function() {
-            if (activeSortField && activeSortDir) table.setSort(activeSortField, activeSortDir);
-          }, 200);
-        } catch(ex) {}
+        // 1행1열 Reset 클릭 → 알파벳순 행+열 리셋
+        e.preventDefault(); e.stopPropagation();
+        var allCols = table.getColumnDefinitions()
+          .map(function(c){return c.field;})
+          .filter(function(f){return typeof f==='string' && f.length>0;});
+        allCols.sort();
+        table.setColumnOrder(allCols);
+        table.setSort('country_name_en','asc');
+        localStorage.setItem('rankerage_col_order',JSON.stringify(allCols));
+        clearHighlight();
         return false;
       } else if (field === "country_name_en") {
-        // 국가명 헤더 클릭 → 국가명 A-Z / Z-A 토글 소팅
-        e.preventDefault();
-        e.stopPropagation();
-        countryNameSortDir = (countryNameSortDir === "asc") ? "desc" : "asc";
-        table.setSort("country_name_en", countryNameSortDir);
+        // 국가명 헤더 클릭 → A-Z 정순만
+        e.preventDefault(); e.stopPropagation();
+        table.setSort("country_name_en","asc");
         clearHighlight();
       }
     });
@@ -567,9 +560,17 @@
         });
         searchInput.value = name;
       } else {
-        // 순위명 클릭 → 기존 동작
+        // 순위명 클릭 → 컬럼 3열로 이동 + 소팅 + 하이라이트
         var field = item.getAttribute("data-field");
         var title = item.getAttribute("data-title");
+        // 컬럼을 3열 위치로 이동
+        var allCols = table.getColumnDefinitions().map(function(c){return c.field;}).filter(function(f){return f;});
+        var idx = allCols.indexOf(field);
+        if(idx >= 2){
+          allCols.splice(idx,1);
+          allCols.splice(2,0,field);
+          table.setColumnOrder(allCols);
+        }
         table.setSort(field, "desc");
         highlightColumn(field);
         searchInput.value = title;
@@ -679,38 +680,39 @@
     table.on("cellClick",function(e,cell){
       var f=cell.getColumn().getField();
       if(f==='country_code'){
-        // 첫 행(1행) 국기 클릭 → 컬럼 알파벳 순 정렬
         var rowPos = cell.getRow().getPosition();
         if (rowPos === 0) {
-          var allCols = table.getColumns()
-            .map(function(c) { return c.getField(); })
-            .filter(function(f) { return typeof f === 'string' && f.length > 0; });
+          // 1행1열 클릭 → 행+열 모두 알파벳순 리셋
+          var allCols = table.getColumnDefinitions()
+            .map(function(c){return c.field;})
+            .filter(function(f){return typeof f==='string' && f.length>0;});
           allCols.sort();
           table.setColumnOrder(allCols);
-          localStorage.setItem('rankerage_col_order', JSON.stringify(allCols));
+          table.setSort('country_name_en','asc');
+          localStorage.setItem('rankerage_col_order',JSON.stringify(allCols));
           clearHighlight();
         } else {
-          // 다른 행 국기 클릭 → 상세 패널
           openDetail(cell.getRow().getData());
         }
       } else if(f==='country_name_en'){
-        var data=cell.getRow().getData(), ranks=[];
-        table.getColumns().forEach(function(col){
-          var cf=col.getField();
-          if(cf&&cf!=='country_code'&&cf!=='country_name_en'){
-            var rk=data[cf+'_rank'];
-            if(rk!=null) ranks.push({field:cf, rank:parseInt(rk)});
-          }
+        // 국가명 클릭 → 강한 순위순 컬럼 재정렬
+        var d=cell.getRow().getData(), code=d.country_code;
+        // 모든 열을 해당 국가의 rank 기준으로 정렬
+        var cols=table.getColumnDefinitions().filter(function(c){
+          return c.field && c.field!=='country_code' && c.field!=='country_name_en';
         });
-        if(ranks.length>1){
-          ranks.sort(function(a,b){return a.rank-b.rank;});
-          var order=['country_code','country_name_en'].concat(ranks.map(function(r){return r.field;}));
-          table.setColumnOrder(order);
-          clearHighlight();
-          activeSortField=ranks[0].field;activeSortDir='asc';
-          table.setSort(activeSortField,'asc');
-          highlightColumn(activeSortField);
-        }
+        cols.sort(function(a,b){
+          var ra=d[a.field+'_rank']!=null?parseInt(d[a.field+'_rank']):9999;
+          var rb=d[b.field+'_rank']!=null?parseInt(d[b.field+'_rank']):9999;
+          return ra-rb;
+        });
+        var fields=['country_code','country_name_en'].concat(cols.map(function(c){return c.field;}));
+        table.setColumnOrder(fields);
+        // 소팅도 첫 컬럼 기준으로
+        var topField=cols[0].field;
+        table.setSort(topField,'asc');
+        highlightColumn(topField);
+        activeSortField=topField; activeSortDir='asc';
       }
     });
 
