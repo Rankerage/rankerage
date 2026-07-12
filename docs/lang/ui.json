@@ -1,6 +1,7 @@
 {
   "en": {
     "search": "Find ranking...",
+    "searchBtn": "AI-Search",
     "login": "Login",
     "country": "Country",
     "capital": "Capital",
@@ -253,7 +254,8 @@
     "nato": "나토",
     "nuclearPower": "원전",
     "volcanoes": "화산",
-    "mathOlympiad": "수학올림"
+    "mathOlympiad": "수학올림",
+    "searchBtn": "AI-Search"
   },
   "zh": {
     "search": "搜索排名...",
@@ -381,7 +383,8 @@
     "nato": "北约",
     "nuclearPower": "核电",
     "volcanoes": "火山",
-    "mathOlympiad": "奥数"
+    "mathOlympiad": "奥数",
+    "searchBtn": "AI-Search"
   },
   "ja": {
     "search": "ランキング検索...",
@@ -509,7 +512,8 @@
     "nato": "NATO",
     "nuclearPower": "原発",
     "volcanoes": "火山",
-    "mathOlympiad": "数学五輪"
+    "mathOlympiad": "数学五輪",
+    "searchBtn": "AI-Search"
   },
   "es": {
     "search": "Buscar ranking...",
