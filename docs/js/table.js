@@ -552,6 +552,18 @@
         });
       });
       table.setData(data);setTimeout(function(){var h=document.querySelector('.scroll-hint');if(h){h.style.opacity='0';setTimeout(function(){if(h)h.remove();},500);}},6000);
+      
+      // ── TOP 3 행 하이라이트 (소팅 시마다 갱신) ──
+      function refreshTopRows(){
+        var rows=table.getRows();
+        rows.forEach(function(r,i){
+          r.getElement().classList.remove('top-1','top-2','top-3');
+          if(i<3) r.getElement().classList.add('top-'+(i+1));
+        });
+      }
+      table.on("dataSorted", refreshTopRows);
+      table.on("dataLoaded", refreshTopRows);
+      setTimeout(refreshTopRows, 500);
     }).catch(function(err){console.error(err);table.setData([]);});
 
     // Detail panel
