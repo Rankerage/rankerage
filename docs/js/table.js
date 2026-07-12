@@ -608,16 +608,16 @@
     table.on("cellClick",function(e,cell){
       var f=cell.getColumn().getField();
       if(f==='country_code'){
-        // 첫 행(1행) 국기 클릭 → 현재 활성 컬럼 소팅 토글
+        // 첫 행(1행) 국기 클릭 → 컬럼 알파벳 순 정렬
         var rowPos = cell.getRow().getPosition();
         if (rowPos === 0) {
-          var sorter = table.getSorters()[0];
-          if (sorter) {
-            var dir = sorter.dir === 'desc' ? 'asc' : 'desc';
-            table.setSort(sorter.field, dir);
-            activeSortField = sorter.field;
-            activeSortDir = dir;
-          }
+          var allCols = table.getColumns()
+            .map(function(c) { return c.getField(); })
+            .filter(function(f) { return typeof f === 'string' && f.length > 0; });
+          allCols.sort();
+          table.setColumnOrder(allCols);
+          localStorage.setItem('rankerage_col_order', JSON.stringify(allCols));
+          clearHighlight();
         } else {
           // 다른 행 국기 클릭 → 상세 패널
           openDetail(cell.getRow().getData());
