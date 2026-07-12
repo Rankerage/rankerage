@@ -201,6 +201,7 @@
         e.preventDefault(); e.stopPropagation();
         table.setSort("country_name_en","asc");
         clearHighlight();
+        } catch(e) { console.log("country click ERROR", e); }
       }
     });
 
@@ -585,6 +586,7 @@
       if (e.key === 'Enter') {
         var first = dropdown.querySelector(".search-dropdown-item");
         if (first) first.click();
+        } catch(e) { console.log("country click ERROR", e); }
       }
     });
 
@@ -695,6 +697,8 @@
           openDetail(cell.getRow().getData());
         }
       } else if(f==='country_name_en'){
+        console.log("country click START");
+        try {
         // 국가명 클릭 → 강한 순위순 컬럼 재정렬
         var d=cell.getRow().getData(), code=d.country_code;
         // 모든 열을 해당 국가의 rank 기준으로 정렬
@@ -713,6 +717,7 @@
         table.setSort(topField,'asc');
         highlightColumn(topField);
         activeSortField=topField; activeSortDir='asc';
+        } catch(e) { console.log("country click ERROR", e); }
       }
     });
 
