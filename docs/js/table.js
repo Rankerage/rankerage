@@ -165,7 +165,76 @@
       clipboardCopyConfig:{columnHeaders:false,columnGroups:false,rowGroups:false,columnCalcs:false}
     });
 
-    // Save/restore column order (flexible layout)
+    // 기존 컬럼 순서 복원 (검색빈도 반영은 applyColumnOrder에서)
+
+    // ── 1행1열(국기헤더): 알파벳 컬럼 정렬 리셋 ──
+    // ── 1행2열(국가명헤더): 국가명 A-Z 소팅 토글 ──
+    var countryNameSortDir = "asc";  // A-Z 기본
+
+    table.on("headerClick", function(e, column) {
+      var field = column.getField();
+      if (field === "country_code") {
+        // 국기 헤더 클릭 → 모든 컬럼 알파벳 순 정렬
+        e.preventDefault();
+        e.stopPropagation();
+        var allCols = table.getColumns().map(function(c) { return c.getField(); });
+        allCols.sort();
+        table.setColumnOrder(allCols);
+        localStorage.setItem('rankerage_col_order', JSON.stringify(allCols));
+        clearHighlight();
+        // 잠시 헤더 깜빡임 효과
+        var hdr = document.querySelector('.tabulator-col[data-field="country_code"]');
+        if (hdr) { hdr.style.background = 'rgba(224,200,124,0.2)'; setTimeout(function() { hdr.style.background = ''; }, 300); }
+      } else if (field === "country_name_en") {
+        // 국가명 헤더 클릭 → 국가명 A-Z / Z-A 토글 소팅
+        e.preventDefault();
+        e.stopPropagation();
+        countryNameSortDir = (countryNameSortDir === "asc") ? "desc" : "asc";
+        table.setSort("country_name_en", countryNameSortDir);
+        clearHighlight();
+      }
+    });
+
+    // ── 검색 빈도수 추적 (localStorage) → 자주 찾는 컬럼이 앞에 ──
+    function trackSearchCount(field) {
+      var counts = {};
+      try { counts = JSON.parse(localStorage.getItem('rankerage_search_counts') || '{}'); } catch(e) {}
+      counts[field] = (counts[field] || 0) + 1;
+      localStorage.setItem('rankerage_search_counts', JSON.stringify(counts));
+
+      // 검색 3회 이상인 컬럼들을 앞으로
+      var freq = Object.keys(counts).filter(function(f) { return counts[f] >= 3; });
+      if (freq.length > 0) {
+        var allCols = table.getColumns().map(function(c) { return c.getField(); });
+        // 자주 찾는 컬럼을 앞으로, 나머지는 현재 순서 유지
+        var front = freq.filter(function(f) { return allCols.indexOf(f) >= 2; });
+        var rest = allCols.filter(function(f) { return front.indexOf(f) < 0; });
+        var newOrder = allCols.slice(0, 2).concat(front).concat(rest.filter(function(f) { return allCols.indexOf(f) >= 2; }));
+        try { table.setColumnOrder(newOrder); } catch(e) {}
+      }
+    }
+
+    // 기존 컬럼 순서 복원 시 검색 빈도 반영
+    function applyColumnOrder() {
+      var savedOrder = localStorage.getItem('rankerage_col_order');
+      var counts = {};
+      try { counts = JSON.parse(localStorage.getItem('rankerage_search_counts') || '{}'); } catch(e) {}
+      var freq = Object.keys(counts).filter(function(f) { return counts[f] >= 3; });
+
+      if (!savedOrder && freq.length === 0) return;
+
+      var allCols = table.getColumns().map(function(c) { return c.getField(); });
+      var order = savedOrder ? JSON.parse(savedOrder) : allCols;
+
+      // flag(0), country(1)는 무조건 앞에
+      var front = freq.filter(function(f) { return f !== 'country_code' && f !== 'country_name_en' && order.indexOf(f) >= 0; });
+      var rest = order.filter(function(f) { return f !== 'country_code' && f !== 'country_name_en' && front.indexOf(f) < 0; });
+      var newOrder = ['country_code', 'country_name_en'].concat(front).concat(rest);
+
+      try { table.setColumnOrder(newOrder); } catch(e) {}
+    }
+
+    // 컬럼 순서 저장 (기존 + 검색빈도 반영)
     table.on('columnMoved', function() {
       var order = table.getColumns().map(function(c){return c.getField();});
       localStorage.setItem('rankerage_col_order', JSON.stringify(order));
@@ -179,7 +248,8 @@
       });
     } catch(e) {}
 
-    // Search: smart ranking finder with fuzzy + highlight
+    // 검색 빈도수 기반 컬럼 재배치
+    applyColumnOrder();
     var searchInput = document.getElementById("search");
     var dropdown = document.getElementById("searchDropdown");
     var allColumns = cols;
@@ -360,6 +430,7 @@
       clearHighlight();
       activeSortField = field;
       activeSortDir = "desc";
+      trackSearchCount(field);  // 검색 빈도 추적
       var header = document.querySelector('.tabulator-col[data-field="' + field + '"]');
       if (!header) {
         header = document.querySelector('.tabulator-col[tabulator-field="' + field + '"]');
