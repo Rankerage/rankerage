@@ -37,7 +37,7 @@
         tooltip:function(e,c){return c.getRow().getData().country_summary;}},
       // Country
       { title:t('country'),field:"country_name_en",width:80,frozen:true,
-        formatter:function(c){var d=c.getRow().getData(),code=d.country_code,name=I18N.countryName(code);return'<span style="display:inline-block;max-width:65px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">'+(name||d.country_name_en)+'</span>';},
+        formatter:function(c){var d=c.getRow().getData(),code=d.country_code,name=I18N.countryName(code);return'<span style="display:inline-block;max-width:65px;overflow:hidden;text-overflow:clip;white-space:nowrap;">'+(name||d.country_name_en)+'</span>';},
         tooltip:function(e,c){var d=c.getRow().getData(),code=d.country_code,n2=I18N.countryName(code,I18N.getLocale2()),lo=d.country_name_local,p=[];if(n2&&n2!==d.country_name_en)p.push(n2);if(lo&&lo!==n2)p.push(lo);return p.join(' · ')||d.country_name_en;}},
       // === CORE ===
       A(t('population'),"population",100), A(t('area'),"area",100), A(t('density'),"population_density",95),
@@ -582,7 +582,7 @@
 
     // Detail panel
     var detailOpen=false;
-    function openDetail(data){var code=(data.country_code||'').toUpperCase(),lat=data.lat,lon=data.lon,mapHtml='';if(lat!=null&&lon!=null){var bbox=(lon-8)+'%2C'+(lat-5)+'%2C'+(lon+8)+'%2C'+(lat+5);mapHtml='<div class="detail-map"><iframe width="100%" height="170" frameborder="0" scrolling="no" src="https://www.openstreetmap.org/export/embed.html?bbox='+bbox+'&amp;layer=mapnik&amp;marker='+lat+'%2C'+lon+'" style="border:none;border-radius:8px;"></iframe></div>';}else{mapHtml='<div class="detail-map" style="display:flex;align-items:center;justify-content:center;height:120px;background:var(--bg-secondary);border-radius:8px;color:var(--text-muted);">🗺️ Map unavailable</div>';}
+    function openDetail(data){var code=(data.country_code||'').toUpperCase(),name=data.country_name_en||'',isEntity=(name.indexOf('*')===0);if(isEntity){var prefixLen=name.match(/^\*+/)[0].length,cleanName=name.replace(/^\*+/,''),entityType=prefixLen===3?'단체':prefixLen===2?'인물':'기업',icon=prefixLen===3?'🏟️':prefixLen===2?'⭐':'🏢';var items=[['Type',icon+' '+entityType],['HQ',data.capital_en||'-'],['Category',(data.continent||'').replace(/[🌐⭐🏟️]/g,'').trim()||entityType]];if(data.country_summary)items.push(['Summary',data.country_summary]);if(data.head_of_state_en)items.push(['Leader',data.head_of_state_en]);var ih='';for(var i=0;i<items.length;i++)ih+='<div class="detail-item"><span class="detail-label">'+items[i][0]+'</span><span class="detail-value">'+items[i][1]+'</span></div>';document.getElementById('detailMap').innerHTML='';document.getElementById('detailMap').style.display='none';document.getElementById('detailBody').innerHTML='<div class="detail-country">'+cleanName+'</div><div class="detail-native" style="font-size:12px;color:var(--text-muted);">'+entityType+'</div><div class="detail-grid">'+ih+'</div><div class="detail-comments"><div class="comment-form"><input type="text" class="comment-nick" id="commentNick" placeholder="이름" maxlength="20"><input type="text" class="comment-input" id="commentInput" placeholder="댓글... Enter로 전송"><button class="comment-submit" id="commentSubmit">Post</button></div><div class="comments-list" id="commentsList"></div></div>';document.getElementById('detailPanel').style.display='block';detailOpen=true;return;}lat=data.lat,lon=data.lon,mapHtml='';if(lat!=null&&lon!=null){var bbox=(lon-8)+'%2C'+(lat-5)+'%2C'+(lon+8)+'%2C'+(lat+5);mapHtml='<div class="detail-map"><iframe width="100%" height="170" frameborder="0" scrolling="no" src="https://www.openstreetmap.org/export/embed.html?bbox='+bbox+'&amp;layer=mapnik&amp;marker='+lat+'%2C'+lon+'" style="border:none;border-radius:8px;"></iframe></div>';}else{mapHtml='<div class="detail-map" style="display:flex;align-items:center;justify-content:center;height:120px;background:var(--bg-secondary);border-radius:8px;color:var(--text-muted);">🗺️ Map unavailable</div>';}
     var items=[['Native Name',data.country_name_local||'-'],['Capital',data.capital_en+(data.capital_local?' / '+data.capital_local:'')],['Continent',data.continent+(data.subcontinent?', '+data.subcontinent:'')],['Population',(!N(data.population)?I18N.formatNumber(data.population):'-')+' (#'+(data.population_rank||'-')+')'],['Area',(data.area?I18N.formatNumber(data.area)+' km²':'-')+' (#'+(data.area_rank||'-')+')'],['Head of State',data.head_of_state_en||'-'],['OECD',data.oecd_member==='Yes'?'✓ '+data.oecd_year:'—'],['BRICS',data.brics_member==='Yes'?'✓ '+data.brics_year:'—'],['GDP',!N(data.gdp)?'$'+I18N.formatNumber(data.gdp/1e6)+'B':'-'],['HDI',!N(data.hdi)?data.hdi.toFixed(3):'-'],['Life Exp.',!N(data.life_expectancy)?data.life_expectancy.toFixed(1)+' yr':'-'],['Happiness',!N(data.happiness)?data.happiness.toFixed(2):'-'],['Ethnic',data.ethnic||'-'],['Anthem',data.national_anthem_en||'-']];
     var ih='';for(var i=0;i<items.length;i++)ih+='<div class="detail-item"><span class="detail-label">'+items[i][0]+'</span><span class="detail-value'+(items[i][0]==='Anthem'?' anthem-link':'')+'"'+(items[i][0]==='Anthem'?' data-code="'+code+'" style="cursor:pointer;text-decoration:underline;color:var(--accent);"':'')+'>'+items[i][1]+'</span></div>';
     // Layout: Country → Info → Map → Comments
@@ -608,8 +608,20 @@
     table.on("cellClick",function(e,cell){
       var f=cell.getColumn().getField();
       if(f==='country_code'){
-        // 국기 클릭 → 상세 패널
-        openDetail(cell.getRow().getData());
+        // 첫 행(1행) 국기 클릭 → 현재 활성 컬럼 소팅 토글
+        var rowPos = cell.getRow().getPosition();
+        if (rowPos === 0) {
+          var sorter = table.getSorters()[0];
+          if (sorter) {
+            var dir = sorter.dir === 'desc' ? 'asc' : 'desc';
+            table.setSort(sorter.field, dir);
+            activeSortField = sorter.field;
+            activeSortDir = dir;
+          }
+        } else {
+          // 다른 행 국기 클릭 → 상세 패널
+          openDetail(cell.getRow().getData());
+        }
       } else if(f==='country_name_en'){
         // 국가명 클릭 → 그 국가 강한 순서로 컬럼 재정렬
         var data=cell.getRow().getData(), ranks=[];
@@ -833,17 +845,20 @@
     document.getElementById('langModal').addEventListener('click',function(e){if(e.target===this)this.style.display='none';});
     document.getElementById('saveLang').addEventListener('click',function(){I18N.setLocales(document.getElementById('locale1').value,document.getElementById('locale2').value);try{var p=JSON.parse(localStorage.getItem('rankerage_prefs')||'{}');p.email=document.getElementById('userEmail').value.trim();localStorage.setItem('rankerage_prefs',JSON.stringify(p));}catch(e){}I18N.applyUI();table.setColumns(cols);document.getElementById('langModal').style.display='none';});
 
-    // Add tooltips to all data columns
+    // Add tooltips to all data columns (with country name)
     cols.forEach(function(col) {
       if (col.field === 'country_code' || col.field === 'country_name_en') return;
       var field = col.field;
       var title = col.title;
       col.tooltip = function(e, cell) {
         var d = cell.getRow().getData();
+        var code = d.country_code;
+        var cname = I18N.countryName(code, I18N.getLocale2()) || I18N.countryName(code) || d.country_name_en || '';
         var rank = d[field + '_rank'];
         var val = d[field];
-        if (val === null || val === undefined) return title + ': no data';
-        return title + ': ' + (typeof val === 'number' ? val.toLocaleString() : val) + (rank ? ' (Rank #' + rank + ')' : '');
+        var valStr = (val === null || val === undefined) ? 'no data' : (typeof val === 'number' ? val.toLocaleString() : val);
+        var rankStr = rank ? ' (Rank #' + rank + ')' : '';
+        return cname + ' · ' + title + ': ' + valStr + rankStr;
       };
     });
 
