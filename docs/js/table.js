@@ -128,7 +128,7 @@
     // Special formatters for non-standard value types
     cols.forEach(function(col){
       if(col.field==="gdp") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.gdp_rank,d.gdp?'$'+fmtNumber(d.gdp):'-');};
-      if(col.field==="gdp_per_capita") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.gdp_per_capita_rank,d.gdp_per_capita?'$'+I18N.formatNumber(d.gdp_per_capita):'-');};
+      if(col.field==="gdp_per_capita") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.gdp_per_capita_rank,!N(d.gdp_per_capita)?'$'+I18N.formatNumber(d.gdp_per_capita):'-');};
       if(col.field==="hdi") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.hdi_rank,!N(d.hdi)?d.hdi.toFixed(3):'-');};
       if(col.field==="life_expectancy") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.life_expectancy_rank,!N(d.life_expectancy)?d.life_expectancy.toFixed(1):'-');};
       if(col.field==="happiness") col.formatter=function(c){var d=c.getRow().getData();return numberCell(d.happiness_rank,!N(d.happiness)?d.happiness.toFixed(2):'-');};

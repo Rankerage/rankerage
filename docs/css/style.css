@@ -272,15 +272,20 @@ body {
   -webkit-user-select: none !important;
 }
 
-/* ---- Frozen Columns (minimal — let Tabulator handle positioning) ---- */
+/* ---- Frozen Columns — 강한 음영 ---- */
 .tabulator-row .tabulator-cell.tabulator-frozen {
-  background: var(--bg-primary) !important;
+  background: #0d1225 !important;
+  box-shadow: inset -2px 0 0 rgba(255,255,255,0.06);
 }
 .tabulator-row.tabulator-row-even .tabulator-cell.tabulator-frozen {
-  background: #111827 !important;
+  background: #111a2e !important;
 }
 .tabulator-row:hover .tabulator-cell.tabulator-frozen {
   background: var(--bg-hover) !important;
+}
+.tabulator-header .tabulator-col.tabulator-frozen {
+  background: #0d1225 !important;
+  box-shadow: inset -2px 0 0 rgba(255,255,255,0.08);
 }
 
 /* ---- Column-Specific Styles ---- */
