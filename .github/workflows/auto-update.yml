@@ -1,40 +1,49 @@
-name: Auto-Update Rankings
+name: 🤖 Weekly Data Refresh
 
 on:
   schedule:
-    # 월요일 오전 9시 KST (UTC+9 → 00:00)
     - cron: '0 0 * * 1'
-  workflow_dispatch:  # 수동 실행 가능
+  workflow_dispatch:
 
 jobs:
-  update-data:
+  update:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # auto-commit changes
-    
+      contents: write
+
     steps:
       - uses: actions/checkout@v4
-      
-      - name: Setup Python
-        uses: actions/setup-python@v5
+
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      
-      - name: Update World Bank historical data
+
+      - name: 📊 World Bank historical data
+        run: python scripts/update_history.py
+        continue-on-error: true
+
+      - name: ⚽ FIFA rankings
+        run: python scripts/update_fifa.py
+        continue-on-error: true
+
+      - name: 🧹 Analyze rankings
         run: |
-          python scripts/update_history.py
-      
-      - name: Update FIFA rankings
+          if [ -f analyze_rankings.py ]; then
+            python analyze_rankings.py || echo "⚠️ skipped"
+          fi
+
+      - name: 📊 Update site_meta
         run: |
-          python scripts/update_fifa.py
-      
-      - name: Update last-modified timestamp
-        run: |
-          echo "{\"last_updated\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\", \"total_rankings\": 257}" > docs/data/site_meta.json
-      
-      - name: Commit & Push changes
+          python3 scripts/update_site_meta.py
+
+      - name: ✅ Commit & Push
         run: |
           git config user.name "Rankerage Bot"
           git config user.email "bot@rankerage.com"
           git add docs/data/
-          git diff --staged --quiet || (git commit -m "🤖 Auto: data refresh ($(date +%Y-%m-%d))" && git push)
+          if git diff --staged --quiet; then
+            echo "✅ No changes"
+          else
+            git commit -m "🤖 Weekly refresh: $(date +%Y-%m-%d)"
+            git push
+          fi

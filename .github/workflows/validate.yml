@@ -1,0 +1,30 @@
+name: 🛡️ Validate + Health Check
+
+on:
+  push:
+    paths:
+      - 'docs/data/**'
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 🔍 Validate countries.json
+        run: python scripts/validate_data.py
+
+      - name: 🌐 Check site is live
+        run: |
+          STATUS=$(curl -s -o /dev/null -w '%{http_code}' https://rankerage.com)
+          if [ "$STATUS" = "200" ]; then
+            echo "✅ rankerage.com is up (HTTP $STATUS)"
+          else
+            echo "⚠️ rankerage.com returned HTTP $STATUS"
+          fi
