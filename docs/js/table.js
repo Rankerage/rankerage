@@ -448,7 +448,7 @@
 
     // ── 검색된 컬럼을 활성 정렬 컬럼으로 추적 ──
     var activeSortField = "population";  // 기본값
-    var activeSortDir = "desc";
+    var activeSortDir = "asc";  // 첫클릭 정순 기본값
 
     // ── Persistent highlight state ──
     var activeHighlight = null;
@@ -581,8 +581,13 @@
         // 국기 클릭 → 상세 패널
         openDetail(cell.getRow().getData());
       } else if(f==='country_name_en'){
-        // 국가명 클릭 → 현재 활성 컬럼으로 소팅 (토글)
-        activeSortDir = (activeSortDir === 'desc') ? 'asc' : 'desc';
+        // 국가명 클릭 → 현재 활성 컬럼으로 소팅 (첫클릭=정순, 다음=역순)
+        var curSorter = table.getSorters()[0];
+        if (curSorter && curSorter.field === activeSortField && curSorter.dir === 'asc') {
+          activeSortDir = 'desc';
+        } else {
+          activeSortDir = 'asc';
+        }
         table.setSort(activeSortField, activeSortDir);
         // 하이라이트 갱신
         clearHighlight();
