@@ -559,17 +559,25 @@
       });
       table.setData(data);setTimeout(function(){var h=document.querySelector('.scroll-hint');if(h){h.style.opacity='0';setTimeout(function(){if(h)h.remove();},500);}},6000);
       
-      // ── TOP 3 행 하이라이트 (소팅 시마다 갱신) ──
+      // ── TOP 3 행 + 핫셀 하이라이트 (소팅 시마다 갱신) ──
       function refreshTopRows(){
-        var rows=table.getRows();
+        var rows=table.getRows(), sortField=(table.getSorters()[0]||{}).field;
         rows.forEach(function(r,i){
-          r.getElement().classList.remove('top-1','top-2','top-3');
-          if(i<3) r.getElement().classList.add('top-'+(i+1));
+          var el=r.getElement();
+          el.classList.remove('top-1','top-2','top-3');
+          el.querySelectorAll('.hot-cell').forEach(function(c){c.classList.remove('hot-cell');});
+          if(i<3){
+            el.classList.add('top-'+(i+1));
+            if(sortField){
+              var cell=r.getCell(sortField);
+              if(cell) cell.getElement().classList.add('hot-cell');
+            }
+          }
         });
       }
       table.on("dataSorted", refreshTopRows);
       table.on("dataLoaded", refreshTopRows);
-      setTimeout(refreshTopRows, 500);
+      setTimeout(refreshTopRows, 800);
     }).catch(function(err){console.error(err);table.setData([]);});
 
     // Detail panel
