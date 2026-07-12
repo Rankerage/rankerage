@@ -11,7 +11,13 @@
     // Load descriptions
     fetch('data/descriptions.json').then(function(r){return r.json()}).then(function(d){desc = d;});
 
-    var S = function(a,b){return a-b;};
+    var S = function(a,b,aRow,bRow,col,dir){
+      var na=(a==null||a>=NULL_SENTINEL||a<=NEG_SENTINEL),nb=(b==null||b>=NULL_SENTINEL||b<=NEG_SENTINEL);
+      if(na&&nb)return 0;
+      if(na)return dir==='desc'?-1:1;
+      if(nb)return dir==='desc'?1:-1;
+      return a-b;
+    };
     var NULL_SENTINEL = 999999;
     var NEG_SENTINEL = -999999;
     function N(v) { return v === null || v === undefined || v === NULL_SENTINEL || v === NEG_SENTINEL; }
