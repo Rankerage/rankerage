@@ -131,15 +131,16 @@ var I18N = (function() {
     // Update search placeholder
     var search = document.getElementById('search');
     if (search) search.placeholder = t('search');
-    // Update search button
-    var searchBtn = document.querySelector('.search-btn');
-    if (searchBtn) searchBtn.textContent = t('searchBtn');
+    // Update search button label (keep SVG icon, only update text span)
+    var label = document.querySelector('.search-label');
+    if (label) label.textContent = t('searchBtn') || 'AI-Search';
     // Update login
     var login = document.querySelector('.login-text');
     if (login) login.textContent = t('login');
-    // Update scroll hint
-    var hint = document.querySelector('.scroll-hint');
-    if (hint) hint.textContent = t('scrollHint');
+    // Update scroll hint (header version)
+    var hint = document.querySelector('.header-scroll-hint');
+    if (!hint) hint = document.querySelector('.scroll-hint');
+    if (hint) hint.textContent = t('scrollHint') || '⇧ shift+wheel';
   }
 
   return {
