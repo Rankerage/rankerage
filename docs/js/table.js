@@ -1101,23 +1101,23 @@
 
     // ── 십자가 하이라이트 (행+열) ──
     var currentColHover = null;
-    document.querySelector('#example-table').addEventListener('mouseover', function(e) {
-      var cell = e.target.closest('.tabulator-cell');
-      if (!cell) return;
-      var colField = cell.getAttribute('tabulator-field') || '';
-      if (colField === currentColHover) return;
-      // 이전 열 하이라이트 제거
-      if (currentColHover) {
+    function addCrosshair() {
+      var tableEl = document.querySelector('#example-table');
+      if (!tableEl) { setTimeout(addCrosshair, 500); return; }
+      tableEl.addEventListener('mouseover', function(e) {
+        var cell = e.target.closest('.tabulator-cell');
+        if (!cell) return;
+        var colField = cell.getAttribute('tabulator-field');
+        if (!colField || colField === currentColHover) return;
         document.querySelectorAll('.tabulator-cell.col-hover').forEach(function(c) { c.classList.remove('col-hover'); });
-      }
-      if (colField && colField !== 'country_code') {
         document.querySelectorAll('.tabulator-cell[tabulator-field="' + colField + '"]').forEach(function(c) {
           c.classList.add('col-hover');
         });
         currentColHover = colField;
-      }
-    });
-    document.querySelector('#example-table').addEventListener('mouseleave', function() {
-      document.querySelectorAll('.tabulator-cell.col-hover').forEach(function(c) { c.classList.remove('col-hover'); });
-      currentColHover = null;
-    });
+      });
+      tableEl.addEventListener('mouseleave', function() {
+        document.querySelectorAll('.tabulator-cell.col-hover').forEach(function(c) { c.classList.remove('col-hover'); });
+        currentColHover = null;
+      });
+    }
+    setTimeout(addCrosshair, 1000);

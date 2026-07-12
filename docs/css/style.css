@@ -33,6 +33,7 @@ body {
   font-family: 'Inter', 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif;
   background: var(--bg-primary);
   color: var(--text-primary);
+  overflow: hidden;
   height: 100vh;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -877,6 +878,25 @@ body {
 }
 
 /* ── 십자가 하이라이트 (행+열) ── */
+.tabulator-row:hover {
+  background: rgba(91,141,239,0.05) !important;
+}
+.tabulator-row:hover .tabulator-cell {
+  background: rgba(91,141,239,0.04) !important;
+}
+.tabulator-row:hover .tabulator-cell.tabulator-frozen {
+  background: rgba(91,141,239,0.06) !important;
+}
+.tabulator-cell.col-hover {
+  background: rgba(91,141,239,0.06) !important;
+}
+.tabulator-cell.tabulator-frozen.col-hover {
+  background: rgba(91,141,239,0.08) !important;
+}
+.tabulator-row:hover .tabulator-cell.col-hover {
+  background: rgba(91,141,239,0.14) !important;
+  box-shadow: inset 0 0 0 1px rgba(91,141,239,0.4);
+}
 .tabulator-row:hover .tabulator-cell {
   background: rgba(91,141,239,0.04) !important;
 }
