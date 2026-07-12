@@ -177,8 +177,10 @@
         // 국기 헤더 클릭 → 모든 컬럼 알파벳 순 정렬
         e.preventDefault();
         e.stopPropagation();
-        var allCols = table.getColumns().map(function(c) { return c.getField(); });
-        allCols.sort();
+        var allCols = table.getColumns()
+          .map(function(c) { return c.getField(); })
+          .filter(function(f) { return f && f !== ''; });  // null/undefined 제거
+        allCols.sort(function(a, b) { return a.localeCompare(b); });  // 올바른 문자열 정렬
         table.setColumnOrder(allCols);
         localStorage.setItem('rankerage_col_order', JSON.stringify(allCols));
         clearHighlight();
