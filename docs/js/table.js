@@ -186,7 +186,6 @@
       var field = column.getField();
       if (field === "country_code") {
         // 1행1열 Reset 클릭 → 알파벳순 행+열 리셋
-        e.preventDefault(); e.stopPropagation();
         var allCols = table.getColumnDefinitions()
           .map(function(c){return c.field;})
           .filter(function(f){return typeof f==='string' && f.length>0;});
@@ -195,13 +194,15 @@
         table.setSort('country_name_en','asc');
         localStorage.setItem('rankerage_col_order',JSON.stringify(allCols));
         clearHighlight();
-        return false;
+        return false; // Prevent Tabulator default sort
       } else if (field === "country_name_en") {
         // 국가명 헤더 클릭 → A-Z 정순만
-        e.preventDefault(); e.stopPropagation();
         table.setSort("country_name_en","asc");
         clearHighlight();
+        return false; // Prevent Tabulator default sort toggle
       }
+      // For all other columns: let Tabulator handle sorting natively
+      // (do nothing, don't return false)
     });
 
     // ── 검색 빈도수 추적 (localStorage) → 자주 찾는 컬럼이 앞에 ──
