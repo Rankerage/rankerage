@@ -37,7 +37,7 @@
         tooltip:function(e,c){return c.getRow().getData().country_summary;}},
       // Country
       { title:t('country'),field:"country_name_en",width:80,frozen:true,
-        sorter:function(a,b){var pa=a.indexOf('*')===0||a.indexOf('**')===0||a.indexOf('***')===0;var pb=b.indexOf('*')===0||b.indexOf('**')===0||b.indexOf('***')===0;if(pa&&!pb)return 1;if(!pa&&pb)return -1;return a<b?-1:a>b?1:0;},
+        sorter:function(a,b){var pa=a.charCodeAt(0)<65,pb=b.charCodeAt(0)<65;if(pa&&!pb)return 1;if(!pa&&pb)return -1;return a<b?-1:a>b?1:0;},
         formatter:function(c){var d=c.getRow().getData(),code=d.country_code,name=I18N.countryName(code);return'<span style="display:inline-block;max-width:65px;overflow:hidden;text-overflow:clip;white-space:nowrap;">'+(name||d.country_name_en)+'</span>';},
         tooltip:function(e,c){var d=c.getRow().getData(),code=d.country_code,n2=I18N.countryName(code,I18N.getLocale2()),lo=d.country_name_local,p=[];if(n2&&n2!==d.country_name_en)p.push(n2);if(lo&&lo!==n2)p.push(lo);return p.join(' · ')||d.country_name_en;}},
       // === CORE ===
@@ -169,7 +169,7 @@
     });
 
     var table = new Tabulator("#example-table", {
-      height:function(){ return window.innerHeight - 48; },layout:"fitDataFill",data:[],initialSort:[{column:"population",dir:"desc"}],columns:cols,
+      height:"calc(100vh - 48px)",layout:"fitDataFill",data:[],initialSort:[{column:"population",dir:"desc"}],columns:cols,
       pagination:false,movableColumns:true,virtualDom:true,headerHozAlign:"center",tooltips:true,tooltipDelay:150,rowHover:true,headerVisible:true,
       placeholder:'<div style="padding:40px;text-align:center;color:#545d7a;"><div style="font-size:48px;">🌍</div><div style="font-size:16px;font-weight:600;">'+t('loading')+'</div></div>',
       sortMode:"single",selectable:false,selectableRows:false,selectableCells:false,clipboard:true,selectableRangeMode:"click",
@@ -1099,25 +1099,4 @@
     }
 
 
-    // ── 십자가 하이라이트 (행+열) ──
-    var currentColHover = null;
-    function addCrosshair() {
-      var tableEl = document.querySelector('#example-table');
-      if (!tableEl) { setTimeout(addCrosshair, 500); return; }
-      tableEl.addEventListener('mouseover', function(e) {
-        var cell = e.target.closest('.tabulator-cell');
-        if (!cell) return;
-        var colField = cell.getAttribute('tabulator-field');
-        if (!colField || colField === currentColHover) return;
-        document.querySelectorAll('.tabulator-cell.col-hover').forEach(function(c) { c.classList.remove('col-hover'); });
-        document.querySelectorAll('.tabulator-cell[tabulator-field="' + colField + '"]').forEach(function(c) {
-          c.classList.add('col-hover');
-        });
-        currentColHover = colField;
-      });
-      tableEl.addEventListener('mouseleave', function() {
-        document.querySelectorAll('.tabulator-cell.col-hover').forEach(function(c) { c.classList.remove('col-hover'); });
-        currentColHover = null;
-      });
-    }
-    setTimeout(addCrosshair, 1000);
+
