@@ -876,3 +876,25 @@ body {
   height: 80px; color: rgba(255,255,255,0.1); font-size: 11px;
   letter-spacing: 2px;
 }
+
+/* ── 십자가 하이라이트 (행+열) ── */
+.tabulator-row:hover .tabulator-cell {
+  background: rgba(91,141,239,0.04) !important;
+}
+.tabulator-row:hover .tabulator-cell.tabulator-frozen {
+  background: rgba(91,141,239,0.06) !important;
+}
+
+/* 열 하이라이트: 같은 열의 모든 셀 */
+.tabulator-cell.col-hover {
+  background: rgba(91,141,239,0.05) !important;
+}
+.tabulator-cell.tabulator-frozen.col-hover {
+  background: rgba(91,141,239,0.07) !important;
+}
+
+/* 행+열 교차점 */
+.tabulator-row:hover .tabulator-cell.col-hover {
+  background: rgba(91,141,239,0.12) !important;
+  box-shadow: inset 0 0 0 1px rgba(91,141,239,0.3);
+}

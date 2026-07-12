@@ -442,17 +442,38 @@
     searchInput.addEventListener("input", function() {
       var q = this.value.trim().toLowerCase();
       if (q.length < 2) { dropdown.style.display = 'none'; return; }
-      var scored = allColumns.filter(function(c) { return c.field && c.field !== 'country_code' && c.field !== 'country_name_en'; })
+      var html = '';
+      
+      // 1) 순위명 검색
+      var cols = allColumns.filter(function(c) { return c.field && c.field !== 'country_code' && c.field !== 'country_name_en'; })
         .map(function(c) { return { col: c, score: fuzzyScore(c.field, q) }; })
         .filter(function(s) { return s.score > 0; })
         .sort(function(a, b) { return b.score - a.score; })
-        .slice(0, 15);
-      if (!scored.length) { dropdown.style.display = 'none'; return; }
-      dropdown.innerHTML = scored.map(function(s) {
+        .slice(0, 10);
+      
+      // 2) 국가명 검색
+      var cRows = table.getRows().filter(function(r){
+        var n = (r.getData().country_name_en || '').toLowerCase();
+        return n.indexOf(q) >= 0;
+      }).slice(0, 5);
+      
+      if (!cols.length && !cRows.length) { dropdown.style.display = 'none'; return; }
+      
+      // 국가명 결과 먼저
+      cRows.forEach(function(r){
+        var d = r.getData(), name = d.country_name_en, code = d.country_code;
+        var hl = name.replace(new RegExp('('+q.replace(/[.*+?^${}()|[\\]\\\\]/g,'\\\\$&')+')','gi'), '<strong>$1</strong>');
+        html += '<div class="search-dropdown-item country-item" data-type="country" data-code="'+code+'" data-name="'+name+'">🏳️ '+hl+'</div>';
+      });
+      
+      // 순위명 결과
+      cols.forEach(function(s){
         var title = s.col.title;
-        var hl = title.replace(new RegExp('('+q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','gi'), '<strong>$1</strong>');
-        return '<div class="search-dropdown-item" data-field="'+s.col.field+'" data-title="'+title+'">'+hl+'</div>';
-      }).join('');
+        var hl = title.replace(new RegExp('('+q.replace(/[.*+?^${}()|[\\]\\\\]/g,'\\\\$&')+')','gi'), '<strong>$1</strong>');
+        html += '<div class="search-dropdown-item metric-item" data-type="metric" data-field="'+s.col.field+'" data-title="'+title+'">📊 '+hl+'</div>';
+      });
+      
+      dropdown.innerHTML = html;
       dropdown.style.display = 'block';
     });
 
@@ -517,13 +538,42 @@
     dropdown.addEventListener("click", function(e) {
       var item = e.target.closest(".search-dropdown-item");
       if (!item) return;
-      var field = item.getAttribute("data-field");
-      var title = item.getAttribute("data-title");
-      table.setSort(field, "desc");
-      highlightColumn(field);
+      var type = item.getAttribute("data-type");
+      
+      if (type === "country") {
+        // 국가 클릭 → 그 국가 최상단으로 + 강한 순위순 컬럼 재정렬
+        var code = item.getAttribute("data-code");
+        var name = item.getAttribute("data-name");
+        table.getRows().forEach(function(r){
+          if (r.getData().country_code === code) {
+            table.scrollToRow(r, 'top', true);
+            // 컬럼 재정렬 (국가 강한 순)
+            var d = r.getData(), ranks = [];
+            table.getColumns().forEach(function(col){
+              var f = col.getField();
+              if (f && f !== 'country_code' && f !== 'country_name_en') {
+                var rk = d[f + '_rank'];
+                ranks.push({field: f, rank: rk != null ? parseInt(rk) : 9999});
+              }
+            });
+            ranks.sort(function(a, b) { return a.rank - b.rank; });
+            var order = ['country_code', 'country_name_en'].concat(ranks.map(function(rk) { return rk.field; }));
+            table.setColumnOrder(order);
+            activeSortField = ranks[0].field;
+            activeSortDir = 'asc';
+            highlightColumn(activeSortField);
+          }
+        });
+        searchInput.value = name;
+      } else {
+        // 순위명 클릭 → 기존 동작
+        var field = item.getAttribute("data-field");
+        var title = item.getAttribute("data-title");
+        table.setSort(field, "desc");
+        highlightColumn(field);
+        searchInput.value = title;
+      }
       dropdown.style.display = 'none';
-      searchInput.value = title;
-      // 검색창에 포커스 유지 (바로 재검색 가능하게)
       searchInput.focus();
       searchInput.select();
     });
@@ -1047,3 +1097,26 @@
       }
     }
 
+
+    // ── 십자가 하이라이트 (행+열) ──
+    var currentColHover = null;
+    document.querySelector('#example-table').addEventListener('mouseover', function(e) {
+      var cell = e.target.closest('.tabulator-cell');
+      if (!cell) return;
+      var colField = cell.getAttribute('tabulator-field') || '';
+      if (colField === currentColHover) return;
+      // 이전 열 하이라이트 제거
+      if (currentColHover) {
+        document.querySelectorAll('.tabulator-cell.col-hover').forEach(function(c) { c.classList.remove('col-hover'); });
+      }
+      if (colField && colField !== 'country_code') {
+        document.querySelectorAll('.tabulator-cell[tabulator-field="' + colField + '"]').forEach(function(c) {
+          c.classList.add('col-hover');
+        });
+        currentColHover = colField;
+      }
+    });
+    document.querySelector('#example-table').addEventListener('mouseleave', function() {
+      document.querySelectorAll('.tabulator-cell.col-hover').forEach(function(c) { c.classList.remove('col-hover'); });
+      currentColHover = null;
+    });
