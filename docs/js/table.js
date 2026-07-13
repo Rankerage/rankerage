@@ -169,7 +169,7 @@
     });
 
     var table = new Tabulator("#example-table", {
-      height:"calc(100vh - 48px)",layout:"fitDataFill",data:[],initialSort:[{column:"country_name_en",dir:"asc"}],columns:cols,
+      height:"calc(100vh - 48px)",layout:"fitDataFill",data:[],columns:cols,
       pagination:false,movableColumns:true,headerHozAlign:"center",tooltips:true,tooltipDelay:150,rowHover:true,headerVisible:true,
       placeholder:'<div style="padding:40px;text-align:center;color:#545d7a;"><div style="font-size:48px;">🌍</div><div style="font-size:16px;font-weight:600;">'+t('loading')+'</div></div>',
       sortMode:"single",selectable:false,selectableRows:false,selectableCells:false,clipboard:true,selectableRangeMode:"click",
@@ -178,9 +178,33 @@
 
     // 기존 컬럼 순서 복원 (검색빈도 반영은 applyColumnOrder에서)
 
+    // ── Manual sort: bypass Tabulator 6.x broken sorting ──
+    function manualSort(data, field, dir) {
+      return data.slice().sort(function(a, b) {
+        var va = a[field], vb = b[field];
+        var na = (va == null || va >= NULL_SENTINEL || va <= NEG_SENTINEL);
+        var nb = (vb == null || vb >= NULL_SENTINEL || vb <= NEG_SENTINEL);
+        if (na && nb) return 0;
+        if (na) return 1;  // nulls always to bottom
+        if (nb) return -1;
+        if (typeof va === 'string') {
+          var cmp = va.localeCompare(vb);
+          return dir === 'desc' ? -cmp : cmp;
+        }
+        return dir === 'desc' ? vb - va : va - vb;
+      });
+    }
+    var currentSortField = "country_name_en";
+    var currentSortDir = "asc";
+
+    function applySort(field, dir) {
+      var sorted = manualSort(table.getData(), field, dir);
+      table.setData(sorted);
+      currentSortField = field; currentSortDir = dir;
+    }
+
     // ── 1행1열(국기헤더): 알파벳 컬럼 정렬 리셋 ──
     // ── 1행2열(국가명헤더): 국가명 A-Z 소팅 토글 ──
-    var countryNameSortDir = "asc";  // A-Z 기본
 
     table.on("headerClick", function(e, column) {
       var field = column.getField();
@@ -191,18 +215,21 @@
           .filter(function(f){return typeof f==='string' && f.length>0;});
         allCols.sort();
         table.setColumnOrder(allCols);
-        table.setSort('country_name_en','asc');
+        applySort('country_name_en', 'asc');
         localStorage.setItem('rankerage_col_order',JSON.stringify(allCols));
         clearHighlight();
-        return false; // Prevent Tabulator default sort
+        return false;
       } else if (field === "country_name_en") {
         // 국가명 헤더 클릭 → A-Z 정순만
-        table.setSort("country_name_en","asc");
+        applySort("country_name_en", "asc");
         clearHighlight();
-        return false; // Prevent Tabulator default sort toggle
+        return false;
       }
-      // For all other columns: let Tabulator handle sorting natively
-      // (do nothing, don't return false)
+      // All other columns: toggle asc/desc
+      var dir = (currentSortField === field && currentSortDir === 'asc') ? 'desc' : 'asc';
+      applySort(field, dir);
+      clearHighlight();
+      return false;
     });
 
     // ── 검색 빈도수 추적 (localStorage) → 자주 찾는 컬럼이 앞에 ──
@@ -601,7 +628,9 @@
           if(row[f]==null) row[f] = higherBetter[f] ? NEG_SENTINEL : NULL_SENTINEL;
         });
       });
-      table.setData(data);setTimeout(function(){var h=document.querySelector('.scroll-hint');if(h){h.style.opacity='0';setTimeout(function(){if(h)h.remove();},500);}},6000);
+      // Manual initial sort by country name
+      var sorted = manualSort(data, 'country_name_en', 'asc');
+      table.setData(sorted);setTimeout(function(){var h=document.querySelector('.scroll-hint');if(h){h.style.opacity='0';setTimeout(function(){if(h)h.remove();},500);}},6000);
 
       // 컬럼 순서 복원 + 검색 빈도 반영 (데이터 로드 후)
       var savedOrder = localStorage.getItem('rankerage_col_order');
