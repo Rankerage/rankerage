@@ -169,74 +169,57 @@
     });
 
     var table = new Tabulator("#example-table", {
-      height:"calc(100vh - 48px)",layout:"fitDataFill",data:[],columns:cols,
-      pagination:false,movableColumns:true,headerHozAlign:"center",tooltips:true,tooltipDelay:150,rowHover:true,headerVisible:true,
+      height:"calc(100vh - 48px)",layout:"fitDataFill",data:[],initialSort:[{column:"country_name_en",dir:"asc"}],columns:cols,
+      pagination:false,movableColumns:true,virtualDom:true,headerHozAlign:"center",tooltips:true,tooltipDelay:150,rowHover:true,headerVisible:true,
       placeholder:'<div style="padding:40px;text-align:center;color:#545d7a;"><div style="font-size:48px;">🌍</div><div style="font-size:16px;font-weight:600;">'+t('loading')+'</div></div>',
       sortMode:"single",selectable:false,selectableRows:false,selectableCells:false,clipboard:true,selectableRangeMode:"click",
       clipboardCopyConfig:{columnHeaders:false,columnGroups:false,rowGroups:false,columnCalcs:false}
     });
 
-    // 기존 컬럼 순서 복원 (검색빈도 반영은 applyColumnOrder에서)
-
-    // ── Manual sort: bypass Tabulator 6.x broken sorting ──
-    function manualSort(data, field, dir) {
-      return data.slice().sort(function(a, b) {
-        var va = a[field], vb = b[field];
-        var na = (va == null || va >= NULL_SENTINEL || va <= NEG_SENTINEL);
-        var nb = (vb == null || vb >= NULL_SENTINEL || vb <= NEG_SENTINEL);
-        if (na && nb) return 0;
-        if (na) return 1;  // nulls always to bottom
-        if (nb) return -1;
-        if (typeof va === 'string') {
-          // Replicate original country sorter: push *-prefixed entities to end
-          var pa = va.charCodeAt(0) < 65, pb = vb.charCodeAt(0) < 65;
-          if (pa && !pb) return 1;
-          if (!pa && pb) return -1;
-          var cmp = va.localeCompare(vb);
-          return dir === 'desc' ? -cmp : cmp;
+    // Column reorder helper — moveColumn is more reliable than setColumnOrder
+    function reorderColumns(targetFields) {
+      var curCols = table.getColumns();
+      // Build reverse target order (move last columns into position first)
+      for (var i = 2; i < targetFields.length; i++) {
+        var targetIdx = i;
+        var curIdx = -1;
+        for (var j = 2; j < curCols.length; j++) {
+          if (curCols[j].getField() === targetFields[i]) { curIdx = j; break; }
         }
-        return dir === 'desc' ? vb - va : va - vb;
-      });
+        if (curIdx >= 2 && curIdx !== targetIdx) {
+          try { table.moveColumn(curCols[curIdx], curCols[targetIdx]); } catch(e) {}
+          // Refresh curCols after move
+          curCols = table.getColumns();
+        }
+      }
     }
-    var currentSortField = "country_name_en";
-    var currentSortDir = "asc";
 
-    function applySort(field, dir) {
-      var sorted = manualSort(table.getData(), field, dir);
-      table.setData(sorted);
-      currentSortField = field; currentSortDir = dir;
-    }
+    // 기존 컬럼 순서 복원 (검색빈도 반영은 applyColumnOrder에서)
 
     // ── 1행1열(국기헤더): 알파벳 컬럼 정렬 리셋 ──
     // ── 1행2열(국가명헤더): 국가명 A-Z 소팅 토글 ──
+    var countryNameSortDir = "asc";  // A-Z 기본
 
     table.on("headerClick", function(e, column) {
       var field = column.getField();
       if (field === "country_code") {
-        // 1행1열 Reset: sort data first, then reorder columns
-        var sorted = manualSort(table.getData(), 'country_name_en', 'asc');
-        table.setData(sorted);
-        currentSortField = 'country_name_en'; currentSortDir = 'asc';
-        // Now reorder columns alphabetically
+        // 1행1열 Reset 클릭 → 알파벳순 행+열 리셋
+        e.preventDefault(); e.stopPropagation();
         var allCols = table.getColumnDefinitions()
           .map(function(c){return c.field;})
           .filter(function(f){return typeof f==='string' && f.length>0;});
         allCols.sort();
-        table.setColumnOrder(allCols);
+        reorderColumns(allCols);
+        table.setSort('country_name_en','asc');
         localStorage.setItem('rankerage_col_order',JSON.stringify(allCols));
         clearHighlight();
         return false;
       } else if (field === "country_name_en") {
         // 국가명 헤더 클릭 → A-Z 정순만
-        applySort("country_name_en", "asc");
+        e.preventDefault(); e.stopPropagation();
+        table.setSort("country_name_en","asc");
         clearHighlight();
-        return false;
       }
-      // All other columns: toggle asc/desc
-      var dir = (currentSortField === field && currentSortDir === 'asc') ? 'desc' : 'asc';
-      applySort(field, dir);
-      clearHighlight();
-      return false;
     });
 
     // ── 검색 빈도수 추적 (localStorage) → 자주 찾는 컬럼이 앞에 ──
@@ -254,7 +237,7 @@
         var front = freq.filter(function(f) { return allCols.indexOf(f) >= 2; });
         var rest = allCols.filter(function(f) { return front.indexOf(f) < 0; });
         var newOrder = allCols.slice(0, 2).concat(front).concat(rest.filter(function(f) { return allCols.indexOf(f) >= 2; }));
-        try { table.setColumnOrder(newOrder); } catch(e) {}
+        try { reorderColumns(newOrder); } catch(e) {}
       }
     }
 
@@ -275,7 +258,7 @@
       var rest = order.filter(function(f) { return f !== 'country_code' && f !== 'country_name_en' && front.indexOf(f) < 0; });
       var newOrder = ['country_code', 'country_name_en'].concat(front).concat(rest);
 
-      try { table.setColumnOrder(newOrder); } catch(e) {}
+      try { reorderColumns(newOrder); } catch(e) {}
     }
 
     // 컬럼 순서 저장 (기존 + 검색빈도 반영)
@@ -283,8 +266,17 @@
       var order = table.getColumns().map(function(c){return c.getField();});
       localStorage.setItem('rankerage_col_order', JSON.stringify(order));
     });
+    var savedOrder = localStorage.getItem('rankerage_col_order');
+    if (savedOrder) try {
+      var order = JSON.parse(savedOrder), cols = table.getColumns();
+      order.reverse().forEach(function(f) {
+        var idx = cols.findIndex(function(c){return c.getField()===f;});
+        if (idx >= 2) try { table.moveColumn(cols[idx], cols[1]); } catch(e){}
+      });
+    } catch(e) {}
 
-    // 검색 빈도수 기반 컬럼 재배치 — 데이터 로드 후 실행 (applyColumnOrder는 아래 fetch 콜백에서)
+    // 검색 빈도수 기반 컬럼 재배치
+    applyColumnOrder();
     var searchInput = document.getElementById("search");
     var dropdown = document.getElementById("searchDropdown");
     var allColumns = cols;
@@ -578,7 +570,7 @@
             });
             ranks.sort(function(a, b) { return a.rank - b.rank; });
             var order = ['country_code', 'country_name_en'].concat(ranks.map(function(rk) { return rk.field; }));
-            table.setColumnOrder(order);
+            reorderColumns(order);
             activeSortField = ranks[0].field;
             activeSortDir = 'asc';
             highlightColumn(activeSortField);
@@ -586,23 +578,18 @@
         });
         searchInput.value = name;
       } else {
-        // 순위명 클릭 → 컬럼 3열로 이동 + 카테고리 그룹 + 소팅 + 하이라이트
+        // 순위명 클릭 → 컬럼 3열로 이동 + 소팅 + 하이라이트
         var field = item.getAttribute("data-field");
         var title = item.getAttribute("data-title");
-        // Find category for this field
-        var catFields = [field];
-        for (var ck in searchClusters) {
-          if (searchClusters[ck].indexOf(field) >= 0) {
-            catFields = searchClusters[ck].filter(function(f){return f !== field;});
-            break;
-          }
-        }
-        // Reorder: flag(0), country(1), clicked field(2), then category siblings
+        // 컬럼을 3열 위치로 이동
         var allCols = table.getColumnDefinitions().map(function(c){return c.field;}).filter(function(f){return f;});
-        var others = allCols.filter(function(f){return f !== 'country_code' && f !== 'country_name_en' && f !== field && catFields.indexOf(f) < 0;});
-        var newOrder = ['country_code', 'country_name_en', field].concat(catFields).concat(others);
-        table.setColumnOrder(newOrder);
-        applySort(field, "desc");
+        var idx = allCols.indexOf(field);
+        if(idx >= 2){
+          allCols.splice(idx,1);
+          allCols.splice(2,0,field);
+          reorderColumns(allCols);
+        }
+        table.setSort(field, "desc");
         highlightColumn(field);
         searchInput.value = title;
       }
@@ -640,20 +627,7 @@
           if(row[f]==null) row[f] = higherBetter[f] ? NEG_SENTINEL : NULL_SENTINEL;
         });
       });
-      // Manual initial sort by country name
-      var sorted = manualSort(data, 'country_name_en', 'asc');
-      table.setData(sorted);setTimeout(function(){var h=document.querySelector('.scroll-hint');if(h){h.style.opacity='0';setTimeout(function(){if(h)h.remove();},500);}},6000);
-
-      // 컬럼 순서 복원 + 검색 빈도 반영 (데이터 로드 후)
-      var savedOrder = localStorage.getItem('rankerage_col_order');
-      if (savedOrder) try {
-        var order = JSON.parse(savedOrder), cols = table.getColumns();
-        order.reverse().forEach(function(f) {
-          var idx = cols.findIndex(function(c){return c.getField()===f;});
-          if (idx >= 2) try { table.moveColumn(cols[idx], cols[1]); } catch(e){}
-        });
-      } catch(e) {}
-      applyColumnOrder();
+      table.setData(data);setTimeout(function(){var h=document.querySelector('.scroll-hint');if(h){h.style.opacity='0';setTimeout(function(){if(h)h.remove();},500);}},6000);
 
     // ── Crosshair: column highlight on hover ──
     (function(){
@@ -731,7 +705,7 @@
             .map(function(c){return c.field;})
             .filter(function(f){return typeof f==='string' && f.length>0;});
           allCols.sort();
-          table.setColumnOrder(allCols);
+          reorderColumns(allCols);
           table.setSort('country_name_en','asc');
           localStorage.setItem('rankerage_col_order',JSON.stringify(allCols));
           clearHighlight();
@@ -751,7 +725,7 @@
           return ra-rb;
         });
         var fields=['country_code','country_name_en'].concat(cols.map(function(c){return c.field;}));
-        table.setColumnOrder(fields);
+        reorderColumns(fields);
         // 소팅도 첫 컬럼 기준으로
         var topField=cols[0].field;
         table.setSort(topField,'asc');
@@ -1098,6 +1072,7 @@
     function updateSelection(s,e){if(!s||!e)return;var rows=Array.from(document.querySelectorAll(".tabulator-row:not(.tabulator-header)"));var sr=s.closest(".tabulator-row"),er=e.closest(".tabulator-row");var si=rows.indexOf(sr),ei=rows.indexOf(er);var sc=Array.from(sr.children).indexOf(s),ec=Array.from(er.children).indexOf(e);var mr=Math.min(si,ei),Mr=Math.max(si,ei),mc=Math.min(sc,ec),Mc=Math.max(sc,ec);clearSelection();for(var i=mr;i<=Mr;i++){if(!rows[i])continue;var cells=Array.from(rows[i].children);for(var j=mc;j<=Mc;j++){if(cells[j])cells[j].classList.add("selected");}}}
     function clearSelection(){document.querySelectorAll(".tabulator-cell.selected").forEach(function(c){c.classList.remove("selected");});}
     document.addEventListener("keydown",function(e){if(e.ctrlKey&&e.key==="c"){var sel=document.querySelectorAll(".tabulator-cell.selected");if(!sel.length)return;var rows=new Map();sel.forEach(function(cell){var row=cell.closest(".tabulator-row");var idx=Array.from(row.parentElement.children).indexOf(row);if(!rows.has(idx))rows.set(idx,[]);rows.get(idx).push(cell.textContent.trim());});navigator.clipboard.writeText(Array.from(rows.values()).map(function(cells){return cells.join("\t");}).join("\n"));}else if(e.key==="Escape"){isSelecting=false;clearSelection();}});
+
     // ── 광고 행 삽입 (매 8행) ──
     var adInterval = 8;
     var adCount = 0;
@@ -1162,9 +1137,5 @@
         window.googletag.pubads().setTargeting('keywords', keywords.split(' '));
       }
     }
-
   });
 })();
-
-
-
