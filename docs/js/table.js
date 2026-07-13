@@ -188,6 +188,10 @@
         if (na) return 1;  // nulls always to bottom
         if (nb) return -1;
         if (typeof va === 'string') {
+          // Replicate original country sorter: push *-prefixed entities to end
+          var pa = va.charCodeAt(0) < 65, pb = vb.charCodeAt(0) < 65;
+          if (pa && !pb) return 1;
+          if (!pa && pb) return -1;
           var cmp = va.localeCompare(vb);
           return dir === 'desc' ? -cmp : cmp;
         }
@@ -579,18 +583,23 @@
         });
         searchInput.value = name;
       } else {
-        // 순위명 클릭 → 컬럼 3열로 이동 + 소팅 + 하이라이트
+        // 순위명 클릭 → 컬럼 3열로 이동 + 카테고리 그룹 + 소팅 + 하이라이트
         var field = item.getAttribute("data-field");
         var title = item.getAttribute("data-title");
-        // 컬럼을 3열 위치로 이동
-        var allCols = table.getColumnDefinitions().map(function(c){return c.field;}).filter(function(f){return f;});
-        var idx = allCols.indexOf(field);
-        if(idx >= 2){
-          allCols.splice(idx,1);
-          allCols.splice(2,0,field);
-          table.setColumnOrder(allCols);
+        // Find category for this field
+        var catFields = [field];
+        for (var ck in searchClusters) {
+          if (searchClusters[ck].indexOf(field) >= 0) {
+            catFields = searchClusters[ck].filter(function(f){return f !== field;});
+            break;
+          }
         }
-        table.setSort(field, "desc");
+        // Reorder: flag(0), country(1), clicked field(2), then category siblings
+        var allCols = table.getColumnDefinitions().map(function(c){return c.field;}).filter(function(f){return f;});
+        var others = allCols.filter(function(f){return f !== 'country_code' && f !== 'country_name_en' && f !== field && catFields.indexOf(f) < 0;});
+        var newOrder = ['country_code', 'country_name_en', field].concat(catFields).concat(others);
+        table.setColumnOrder(newOrder);
+        applySort(field, "desc");
         highlightColumn(field);
         searchInput.value = title;
       }
