@@ -213,13 +213,16 @@
     table.on("headerClick", function(e, column) {
       var field = column.getField();
       if (field === "country_code") {
-        // 1행1열 Reset 클릭 → 알파벳순 행+열 리셋
+        // 1행1열 Reset: sort data first, then reorder columns
+        var sorted = manualSort(table.getData(), 'country_name_en', 'asc');
+        table.setData(sorted);
+        currentSortField = 'country_name_en'; currentSortDir = 'asc';
+        // Now reorder columns alphabetically
         var allCols = table.getColumnDefinitions()
           .map(function(c){return c.field;})
           .filter(function(f){return typeof f==='string' && f.length>0;});
         allCols.sort();
         table.setColumnOrder(allCols);
-        applySort('country_name_en', 'asc');
         localStorage.setItem('rankerage_col_order',JSON.stringify(allCols));
         clearHighlight();
         return false;
