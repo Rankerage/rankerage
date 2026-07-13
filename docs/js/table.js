@@ -553,29 +553,57 @@
       var type = item.getAttribute("data-type");
       
       if (type === "country") {
-        // 국가 클릭 → 그 국가 최상단으로 + 강한 순위순 컬럼 재정렬
+        // 국가 클릭 → 그 국가 + 동일 지역 국가들 최상단으로 + 강한 순위순 컬럼 재정렬
         var code = item.getAttribute("data-code");
         var name = item.getAttribute("data-name");
-        table.getRows().forEach(function(r){
-          if (r.getData().country_code === code) {
-            table.scrollToRow(r, 'top', true);
-            // 컬럼 재정렬 (국가 강한 순)
-            var d = r.getData(), ranks = [];
-            table.getColumns().forEach(function(col){
-              var f = col.getField();
-              if (f && f !== 'country_code' && f !== 'country_name_en') {
-                var rk = d[f + '_rank'];
-                ranks.push({field: f, rank: rk != null ? parseInt(rk) : 9999});
-              }
-            });
-            ranks.sort(function(a, b) { return a.rank - b.rank; });
-            var order = ['country_code', 'country_name_en'].concat(ranks.map(function(rk) { return rk.field; }));
-            reorderColumns(order);
-            activeSortField = ranks[0].field;
-            activeSortDir = 'asc';
-            highlightColumn(activeSortField);
+        
+        // Find the country and its region
+        var targetData = null, targetSub = null;
+        var allData = table.getData();
+        for (var i = 0; i < allData.length; i++) {
+          if (allData[i].country_code === code) {
+            targetData = allData[i];
+            targetSub = targetData.subcontinent || targetData.continent || '';
+            break;
+          }
+        }
+        if (!targetData) return;
+        
+        // Save current sort state
+        var saveSort = table.getSorters()[0];
+        
+        // Reorder rows: searched country first, then same subcontinent (A-Z), then rest
+        var sameRegion = [], others = [];
+        for (var i = 0; i < allData.length; i++) {
+          if (allData[i].country_code === code) continue;
+          var sub = allData[i].subcontinent || allData[i].continent || '';
+          if (sub === targetSub) sameRegion.push(allData[i]);
+          else others.push(allData[i]);
+        }
+        sameRegion.sort(function(a, b) { return (a.country_name_en||'').localeCompare(b.country_name_en||''); });
+        var newData = [targetData].concat(sameRegion).concat(others);
+        table.setData(newData);
+        
+        // Re-apply sort if there was one
+        if (saveSort && saveSort.field) {
+          table.setSort(saveSort.field, saveSort.dir);
+        }
+        
+        // 컬럼 재정렬 (국가 강한 순)
+        var d = targetData, ranks = [];
+        table.getColumns().forEach(function(col){
+          var f = col.getField();
+          if (f && f !== 'country_code' && f !== 'country_name_en') {
+            var rk = d[f + '_rank'];
+            ranks.push({field: f, rank: rk != null ? parseInt(rk) : 9999});
           }
         });
+        ranks.sort(function(a, b) { return a.rank - b.rank; });
+        var order = ['country_code', 'country_name_en'].concat(ranks.map(function(rk) { return rk.field; }));
+        reorderColumns(order);
+        activeSortField = ranks[0].field;
+        activeSortDir = 'asc';
+        highlightColumn(activeSortField);
         searchInput.value = name;
       } else {
         // 순위명 클릭 → 컬럼 3열로 이동 + 소팅 + 하이라이트
