@@ -219,6 +219,7 @@
         e.preventDefault(); e.stopPropagation();
         table.setSort("country_name_en","asc");
         clearHighlight();
+        return false;
       }
     });
 
@@ -266,17 +267,7 @@
       var order = table.getColumns().map(function(c){return c.getField();});
       localStorage.setItem('rankerage_col_order', JSON.stringify(order));
     });
-    var savedOrder = localStorage.getItem('rankerage_col_order');
-    if (savedOrder) try {
-      var order = JSON.parse(savedOrder), cols = table.getColumns();
-      order.reverse().forEach(function(f) {
-        var idx = cols.findIndex(function(c){return c.getField()===f;});
-        if (idx >= 2) try { table.moveColumn(cols[idx], cols[1]); } catch(e){}
-      });
-    } catch(e) {}
-
-    // 검색 빈도수 기반 컬럼 재배치
-    applyColumnOrder();
+    // 검색 빈도수 기반 컬럼 재배치 — 데이터 로드 후 실행됨
     var searchInput = document.getElementById("search");
     var dropdown = document.getElementById("searchDropdown");
     var allColumns = cols;
@@ -656,6 +647,17 @@
         });
       });
       table.setData(data);setTimeout(function(){var h=document.querySelector('.scroll-hint');if(h){h.style.opacity='0';setTimeout(function(){if(h)h.remove();},500);}},6000);
+
+      // Column order restoration (after data load)
+      var savedOrder = localStorage.getItem('rankerage_col_order');
+      if (savedOrder) try {
+        var order = JSON.parse(savedOrder), cols = table.getColumns();
+        order.reverse().forEach(function(f) {
+          var idx = cols.findIndex(function(c){return c.getField()===f;});
+          if (idx >= 2) try { table.moveColumn(cols[idx], cols[1]); } catch(e){}
+        });
+      } catch(e) {}
+      applyColumnOrder();
 
     // ── Crosshair: column highlight on hover ──
     (function(){
