@@ -1494,19 +1494,27 @@
   // ── Unified column layout: single source of truth for column ordering ──
   var _reordering = false;
   function layoutColumns(focusCols) {
-    var frozen = ['country_code', 'country_name_en', 'news_score'];
-    var cur = table.getColumns().map(function(c){return c.getField();});
-    var body = cur.filter(function(f){return frozen.indexOf(f)<0;});
-    // Priority: focus columns → frequently searched → rest
-    focusCols = (focusCols||[]).filter(function(f){return body.indexOf(f)>=0;});
-    var counts = {}; try { counts = JSON.parse(localStorage.getItem('rankerage_search_counts')||'{}'); } catch(e) {}
-    var freq = Object.keys(counts).filter(function(f){return counts[f]>=3 && focusCols.indexOf(f)<0 && body.indexOf(f)>=0;});
-    var rest = body.filter(function(f){return focusCols.indexOf(f)<0 && freq.indexOf(f)<0;});
-    var order = frozen.concat(focusCols).concat(freq).concat(rest);
+    // Move focus columns right after frozen cols (pos 3) using moveColumn
+    focusCols = (focusCols||[]).filter(function(f){
+      return table.getColumnDefinitions().some(function(c){return c.field===f;});
+    });
+    if (!focusCols.length) return;
     _reordering = true;
-    try { table.setColumnOrder(order); } catch(e) {}
+    var cols = table.getColumns();
+    // Move in reverse so earlier columns stay earlier
+    for (var i = focusCols.length - 1; i >= 0; i--) {
+      var f = focusCols[i];
+      var col = null;
+      for (var j = 0; j < cols.length; j++) {
+        if (cols[j].getField() === f) { col = cols[j]; break; }
+      }
+      if (col) {
+        try { table.moveColumn(col, cols[2]); } catch(e) {}
+        cols = table.getColumns();
+      }
+    }
     _reordering = false;
-    localStorage.setItem('rankerage_col_order', JSON.stringify(order));
+    localStorage.setItem('rankerage_col_order', JSON.stringify(cols.map(function(c){return c.getField();})));
   }
   function resetLayout() { if (_reordering) return; layoutColumns([]); }
   // Trigger on sort/load
