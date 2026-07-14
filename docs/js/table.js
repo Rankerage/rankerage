@@ -4,6 +4,13 @@
 (function() {
   'use strict';
 
+  // ── AdSense Config (replace with real ID when approved) ──
+  var ADSENSE_ID = ADSENSE_ID;  // ← AdSense 승인 후 여기만 바꾸면 됨
+  var ADSENSE_TOP_SLOT = '1234567890';
+  var ADSENSE_INROW_SLOT = '9876543210';
+  var ADSENSE_FOOTER_SLOT = '5555555555';
+  var ADS_ENABLED = ADSENSE_ID.indexOf('XXX') < 0;  // 실제 ID면 true
+
   I18N.init().then(function() {
     var t = I18N.t;
     var desc = {};

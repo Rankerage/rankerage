@@ -75,11 +75,16 @@ def update_news_score_field(entities, scores):
 def main():
     print("📰 Fetching news...")
     headlines = []
+    headline_items = []  # Store {title, link, source}
     for url in RSS_FEEDS:
         try:
             feed = feedparser.parse(url)
+            source = feed.feed.get('title','News')[:20]
             for entry in feed.entries[:15]:
-                headlines.append(entry.get('title', ''))
+                title = entry.get('title', '')
+                link = entry.get('link', '')
+                headlines.append(title)
+                headline_items.append({'title':title, 'link':link, 'source':source})
         except Exception as e:
             print(f"  ⚠️ {url[:50]}: {e}")
     
