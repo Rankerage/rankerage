@@ -948,20 +948,6 @@
           // All loaded — apply default sort (news_score desc)
           table.setSort('news_score','desc');
           setTimeout(function(){ var top = table.getRows()[0]; layoutColumns(top ? top.getData().news_columns : []); }, 500);
-          setTimeout(function(){var h=document.querySelector('.scroll-hint');if(h){h.style.opacity='0';setTimeout(function(){if(h)h.remove();},500);}},6000);
-
-      // Populate trending ticker
-      var ticker = document.getElementById('trending-ticker');
-      if (ticker) {
-        var topItems = chunk.slice(0, 15).filter(function(d){return d.news_score > 0;});
-        if (topItems.length > 0) {
-          ticker.innerHTML = topItems.map(function(d){
-            var name = I18N.countryName(d.country_code) || d.country_name_en || '';
-            return '<span style="white-space:nowrap;color:#e0c87c;">' + name + ' <span style="color:#8892b0;font-size:10px;">🔥' + d.news_score + '</span></span>';
-          }).join(' <span style="color:#333;">·</span> ');
-        }
-      }
-          applyColumnOrder();
         }
       }
       loadChunk();
