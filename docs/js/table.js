@@ -1318,4 +1318,52 @@
       }
     }
   });
+  // ── Auto-rotation: table comes alive ──
+  var autoRotate = true;
+  var rotationInterval = 45000;
+  var rotationTimer = null;
+  var rotationPaused = false;
+  var rotationColumns = [];
+  var rotationIdx = 0;
+
+  setTimeout(function buildRotationList() {
+    var defs = table.getColumnDefinitions();
+    for (var i = 0; i < defs.length; i++) {
+      var f = defs[i].field;
+      if (f && f !== 'country_code' && f !== 'country_name_en' && f !== 'news_score' && f !== 'election_days') {
+        rotationColumns.push(f);
+      }
+    }
+    for (var i = rotationColumns.length - 1; i > 0; i--) {
+      var j = Math.floor(Math.random() * (i + 1));
+      var tmp = rotationColumns[i]; rotationColumns[i] = rotationColumns[j]; rotationColumns[j] = tmp;
+    }
+  }, 5000);
+
+  function doRotate() {
+    if (!autoRotate || rotationPaused || rotationColumns.length === 0) return;
+    var field = rotationColumns[rotationIdx % rotationColumns.length];
+    rotationIdx++;
+    table.setSort(field, 'asc');
+    var col = table.getColumnDefinitions().find(function(c){return c.field===field;});
+    var title = col ? col.title : field;
+    var h = document.getElementById('rotate-hint');
+    if (!h) { h = document.createElement('div'); h.id = 'rotate-hint'; h.style.cssText = 'position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:rgba(224,200,124,0.95);color:#0a0e1a;padding:6px 18px;border-radius:20px;font-size:12px;font-weight:700;z-index:9999;pointer-events:none;'; document.body.appendChild(h); }
+    h.style.opacity = '1';
+    h.textContent = '🔄 ' + title + ' 순으로 정렬';
+    setTimeout(function(){ h.style.opacity = '0'; }, 3000);
+  }
+
+  setTimeout(function(){ rotationTimer = setInterval(doRotate, rotationInterval); }, 15000);
+
+  var pauseTimeout;
+  function pauseRotation() {
+    rotationPaused = true;
+    clearTimeout(pauseTimeout);
+    pauseTimeout = setTimeout(function(){ rotationPaused = false; }, 120000);
+  }
+  table.on("headerClick", function(){ pauseRotation(); });
+  document.getElementById("search").addEventListener("input", function(){ pauseRotation(); });
+  table.on("columnMoved", function(){ pauseRotation(); });
+
 })();
