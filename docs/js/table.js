@@ -14,8 +14,8 @@
     var S = function(a,b,aRow,bRow,col,dir){
       var na=(a==null||a>=NULL_SENTINEL||a<=NEG_SENTINEL),nb=(b==null||b>=NULL_SENTINEL||b<=NEG_SENTINEL);
       if(na&&nb)return 0;
-      if(na)return dir==='desc'?-1:1;
-      if(nb)return dir==='desc'?1:-1;
+      if(na)return 1;
+      if(nb)return -1;
       return a-b;
     };
     var NULL_SENTINEL = 999999;
@@ -33,7 +33,7 @@
           if(name.indexOf('***')===0)return'<div style="display:flex;align-items:center;justify-content:center;width:100%;height:100%;font-size:14px;">🏟️</div>';
           if(name.indexOf('**')===0)return'<div style="display:flex;align-items:center;justify-content:center;width:100%;height:100%;font-size:14px;">⭐</div>';
           if(name.indexOf('*')===0)return'<div style="display:flex;align-items:center;justify-content:center;width:100%;height:100%;font-size:14px;">🏢</div>';
-          var hash=0;for(var i=0;i<code.length;i++)hash=code.charCodeAt(i)+((hash<<5)-hash);var hue=Math.abs(hash)%360,sat=40+(Math.abs(hash>>4)%50),lit=25+(Math.abs(hash>>12)%25),bg='hsl('+hue+','+sat+'%,'+lit+'%)';return'<div style="display:flex;align-items:center;justify-content:center;width:100%;height:100%;"><span style="display:inline-flex;align-items:center;justify-content:center;width:22px;height:15px;border-radius:3px;overflow:hidden;background:'+bg+';box-shadow:0 1px 2px rgba(0,0,0,0.3);flex-shrink:0;"><img src="https://flagcdn.com/16x12/'+code.toLowerCase()+'.png" width="16" height="12" style="display:block;" onerror="this.remove();"></span></div>';},
+          var hash=0;for(var i=0;i<code.length;i++)hash=code.charCodeAt(i)+((hash<<5)-hash);var hue=Math.abs(hash)%360,sat=40+(Math.abs(hash>>4)%50),lit=25+(Math.abs(hash>>12)%25),bg='hsl('+hue+','+sat+'%,'+lit+'%)';return'<div style="display:flex;align-items:center;justify-content:center;width:100%;height:100%;"><span style="display:inline-flex;align-items:center;justify-content:center;width:22px;height:15px;border-radius:3px;overflow:hidden;background:'+bg+';box-shadow:0 1px 2px rgba(0,0,0,0.3);flex-shrink:0;"><img src="https://flagcdn.com/16x12/'+code.toLowerCase()+'.png" width="16" height="12" loading="lazy" decoding="async" style="display:block;" onerror="this.remove();"></span></div>';},
         tooltip:function(e,c){return c.getRow().getData().country_summary;}},
       // Country
       { title:t('country'),field:"country_name_en",width:80,frozen:true,
@@ -169,29 +169,16 @@
     });
 
     var table = new Tabulator("#example-table", {
-      height:"calc(100vh - 48px)",layout:"fitDataFill",data:[],initialSort:[{column:"country_name_en",dir:"asc"}],columns:cols,
+      height:"calc(100vh - 48px)",layout:"fitDataFill",data:[],columns:cols,
       pagination:false,movableColumns:true,virtualDom:true,headerHozAlign:"center",tooltips:true,tooltipDelay:150,rowHover:true,headerVisible:true,
       placeholder:'<div style="padding:40px;text-align:center;color:#545d7a;"><div style="font-size:48px;">🌍</div><div style="font-size:16px;font-weight:600;">'+t('loading')+'</div></div>',
       sortMode:"single",selectable:false,selectableRows:false,selectableCells:false,clipboard:true,selectableRangeMode:"click",
       clipboardCopyConfig:{columnHeaders:false,columnGroups:false,rowGroups:false,columnCalcs:false}
     });
 
-    // Column reorder helper — moveColumn is more reliable than setColumnOrder
+    // Column reorder helper — use native bulk API for performance
     function reorderColumns(targetFields) {
-      var curCols = table.getColumns();
-      // Build reverse target order (move last columns into position first)
-      for (var i = 2; i < targetFields.length; i++) {
-        var targetIdx = i;
-        var curIdx = -1;
-        for (var j = 2; j < curCols.length; j++) {
-          if (curCols[j].getField() === targetFields[i]) { curIdx = j; break; }
-        }
-        if (curIdx >= 2 && curIdx !== targetIdx) {
-          try { table.moveColumn(curCols[curIdx], curCols[targetIdx]); } catch(e) {}
-          // Refresh curCols after move
-          curCols = table.getColumns();
-        }
-      }
+      try { table.setColumnOrder(targetFields); } catch(e) {}
     }
 
     // 기존 컬럼 순서 복원 (검색빈도 반영은 applyColumnOrder에서)
@@ -636,7 +623,7 @@
       else searchInput.focus();
     });
 
-    // Load data
+    // Load data - progressive rendering to avoid main-thread freeze
     fetch('data/countries.json').then(function(r){return r.json()}).then(function(data){
       // Replace null with two sentinels: desc fields use -999999, asc fields use 999999
       var fields = ["population","area","population_density","gdp","gdp_per_capita","hdi","life_expectancy","happiness","fifa_ranking","cpi","gpi","internet_pct","military_pct","democracy","press","unemp","debt","poverty","rd","patents","edu","english","gender","fertility","health","obesity","alcohol","pm25","co2","forest","renew","nuclear","murder","tourism","olympic","fifa_w","basket","cricket","rugby","nobel","approval","gini","suicide","tz","prison","literacy","netspeed","doctors","heritage","military_personnel","line_length","maternal_mortality","beer","wine","chocolate","airports","startups","chess","nobel_per_capita","earthquakes","hdi_adj","books","trump_approval","nato","nuclear_power","volcanoes","math_olympiad","birth_rate","death_rate","infant_mortality","urban_pop","median_age","energy_per_capita","inflation","gas_price","car_density","meat","govern_spend","tax_rev","reserves","exports","imports","penetration","divorce","aviation","religion_div","electricity","leave","independence","smoking","mcdonalds","elevation","agri","languages","coffee","police","beds","students_per_teacher","salary","workhours","earthquake_count","tsunami_risk","cyclone_freq","flood_risk","wildfire_freq","worldcup_parts","olympic_gold","olympic_per_cap","davis_cup","marathon_elite","burglary","drug_offense","assault","trafficking","gang_violence","cancer","diabetes","hiv_prev","vaccination","mental_health","startup_rate","cost_living","house_price","min_wage","pisa_math","pisa_science","pisa_reading","phd_per_cap","research_pub","recycling","plastic_waste","park_area","immigration","emigration","refugees","gender_gap","lgbtq_rights","g5_coverage","ai_research","space_launch","arms_export","peacekeeping","intangible","film_prod","michelin","game_market","tea_consume","rice_consume","food_waste","holidays","influencers","festivals","tanning","street_food","cat_own","dog_own"];
@@ -646,18 +633,28 @@
           if(row[f]==null) row[f] = higherBetter[f] ? NEG_SENTINEL : NULL_SENTINEL;
         });
       });
-      table.setData(data);setTimeout(function(){var h=document.querySelector('.scroll-hint');if(h){h.style.opacity='0';setTimeout(function(){if(h)h.remove();},500);}},6000);
-
-      // Column order restoration (after data load)
-      var savedOrder = localStorage.getItem('rankerage_col_order');
-      if (savedOrder) try {
-        var order = JSON.parse(savedOrder), cols = table.getColumns();
-        order.reverse().forEach(function(f) {
-          var idx = cols.findIndex(function(c){return c.getField()===f;});
-          if (idx >= 2) try { table.moveColumn(cols[idx], cols[1]); } catch(e){}
-        });
-      } catch(e) {}
-      applyColumnOrder();
+      // Progressive rendering: load in chunks to avoid freezing browser
+      var CHUNK = 20, idx = 0;
+      // Clear initial sort during chunked load (addData triggers sort otherwise)
+      table.setSort([]);
+      function loadChunk() {
+        var chunk = data.slice(idx, idx + CHUNK);
+        if (idx === 0) {
+          table.setData(chunk);
+        } else {
+          table.addData(chunk);
+        }
+        idx += CHUNK;
+        if (idx < data.length) {
+          requestAnimationFrame(loadChunk);
+        } else {
+          // All loaded — restore column order and initial sort in one shot
+          table.setSort('country_name_en','asc');
+          setTimeout(function(){var h=document.querySelector('.scroll-hint');if(h){h.style.opacity='0';setTimeout(function(){if(h)h.remove();},500);}},6000);
+          applyColumnOrder();
+        }
+      }
+      loadChunk();
 
     // ── Crosshair: column highlight on hover ──
     (function(){
@@ -1133,9 +1130,13 @@
     }
 
     // 소팅/데이터 변경 시마다 광고 재삽입
+    var adDebounce = null;
     table.on("dataSorted", function() {
-      setTimeout(insertAdRows, 200);
-      updateAdTargeting();
+      if (adDebounce) clearTimeout(adDebounce);
+      adDebounce = setTimeout(function() {
+        insertAdRows();
+        updateAdTargeting();
+      }, 500);
     });
     table.on("dataLoaded", function() {
       setTimeout(insertAdRows, 500);
