@@ -48,8 +48,21 @@
         formatter:function(c){var d=c.getRow().getData(),code=d.country_code,name=I18N.countryName(code);return'<span style="display:inline-block;max-width:65px;overflow:hidden;text-overflow:clip;white-space:nowrap;">'+(name||d.country_name_en)+'</span>';},
         tooltip:function(e,c){var d=c.getRow().getData(),code=d.country_code,n2=I18N.countryName(code,I18N.getLocale2()),lo=d.country_name_local,p=[];if(n2&&n2!==d.country_name_en)p.push(n2);if(lo&&lo!==n2)p.push(lo);return p.join(' · ')||d.country_name_en;}},
       // === TRENDING (default sort) ===
-      { title:"🔥Trend",field:"news_score",width:65,frozen:true,sorter:S,
-        formatter:function(c){var v=c.getValue();if(!v||v<=0)return'<span style="color:#333;font-size:10px;">-</span>';var bar='█'.repeat(Math.min(v,20));return'<span style="color:#e0c87c;font-size:10px;font-weight:700;">'+bar+' '+v+'</span>';}},
+      { title:"🔥Trend",field:"news_score",width:300,frozen:true,sorter:S,
+        formatter:function(c){var d=c.getRow().getData(),v=d.news_score,title=d.news_title||'',img=d.news_image||'',url=d.news_url||'',src=d.news_source||'';
+          if(!v||v<=0)return'<div style="color:#333;font-size:10px;padding:4px;">—</div>';
+          var bar='█'.repeat(Math.min(Math.round(v),20));
+          var h='<div class="news-card">';
+          if(img)h+='<img src="'+esc(img)+'" class="news-thumb" loading="lazy" onerror="this.style.display=\'none\'">';
+          h+='<div class="news-body">';
+          h+='<a href="'+esc(url)+'" target="_blank" class="news-headline" title="'+esc(title)+'">'+esc(title).substring(0,80)+(title.length>80?'…':'')+'</a>';
+          h+='<div class="news-meta">';
+          if(src)h+=esc(src)+' · ';
+          h+='<span style="color:#e0c87c;font-weight:700;">'+bar+' '+v.toFixed(1)+'</span>';
+          if(d.news_age)h+=' · <span style="color:#545d7a;">'+esc(d.news_age)+'</span>';
+          h+='</div>';
+          h+='</div></div>';
+          return h;}},
       // === CORE ===
       A(t('population'),"population",100), A(t('area'),"area",100), A(t('density'),"population_density",95),
       // === ECONOMY ===
@@ -307,8 +320,11 @@
 
     // ── Colspan Engine: merge cells across columns using real widths ──
     var MERGE_GROUPS = [
-      {startField:'news_score', count:4, title:'📰 Trending News', id:'news'}
-      // Add more: {startField:'gdp', count:3, title:'💰 Economy Panel', id:'econ'}
+      // News trend is single wide column (no merge, just width:300)
+      // Ad slots: merge 4-5 cells to fit AdSense in-feed native ads
+      {startField:'unemp', count:4, title:'📢', id:'ad1'},
+      {startField:'nuclear', count:4, title:'📢', id:'ad2'},
+      {startField:'divorce', count:4, title:'📢', id:'ad3'},
     ];
     function applyColspans() {
       var rows = table.getRows();
@@ -339,8 +355,17 @@
           first.style.flex = '0 0 ' + mergeW + 'px';
           first.classList.add('colspan-cell');
           first.dataset.colspanGroup = grp.id;
-          // Add content wrapper if not already
-          if (!first.querySelector('.colspan-inner')) {
+          // Ad slots: inject AdSense in-feed native ad
+          if (grp.id.indexOf('ad') === 0 && !first.querySelector('.colspan-ad')) {
+            var aw = document.createElement('div');
+            aw.className = 'colspan-ad';
+            aw.style.cssText = 'width:100%;height:100%;display:flex;align-items:center;justify-content:center;';
+            aw.innerHTML = '<ins class="adsbygoogle" style="display:block;width:'+(mergeW-8)+'px;height:32px" '
+              + 'data-ad-client="ca-pub-9060044387299153" data-ad-slot="9876543210" '
+              + 'data-ad-format="fluid" data-ad-layout-key="-fb+5w+4e-db+86"></ins>';
+            first.innerHTML = '';
+            first.appendChild(aw);
+          } else if (!first.querySelector('.colspan-inner')) {
             var wrapper = document.createElement('div');
             wrapper.className = 'colspan-inner';
             wrapper.style.cssText = 'width:100%;padding:2px 6px;overflow:hidden;';
