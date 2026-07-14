@@ -883,15 +883,8 @@
       if(f==='country_code'){
         var rowPos = cell.getRow().getPosition();
         if (rowPos === 0) {
-          // 1행1열 클릭 → 행+열 모두 알파벳순 리셋
-          var allCols = table.getColumnDefinitions()
-            .map(function(c){return c.field;})
-            .filter(function(f){return typeof f==='string' && f.length>0;});
-          allCols.sort();
-          reorderColumns(allCols);
-          table.setSort('country_name_en','asc');
-          localStorage.setItem('rankerage_col_order',JSON.stringify(allCols));
-          clearHighlight();
+          // Header click already handled by headerClick — skip
+          return;
         } else {
           openDetail(cell.getRow().getData());
         }
