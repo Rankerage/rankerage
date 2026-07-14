@@ -666,10 +666,12 @@
         .sort(function(a, b) { return b.score - a.score; })
         .slice(0, 10);
       
-      // 2) 국가명 검색
+      // 2) 국가명 검색 (English + local name)
       var cRows = table.getRows().filter(function(r){
-        var n = (r.getData().country_name_en || '').toLowerCase();
-        return n.indexOf(q) >= 0;
+        var d = r.getData();
+        var n = (d.country_name_en || '').toLowerCase();
+        var l = (d.country_name_local || '').toLowerCase();
+        return n.indexOf(q) >= 0 || l.indexOf(q) >= 0;
       }).slice(0, 5);
       
       // 3) 파생 컬럼 제안 — 사용자가 없는 순위를 원하면 즉석 생성
