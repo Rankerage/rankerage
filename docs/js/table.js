@@ -1426,12 +1426,6 @@
       newsColumnOrder = null;
     }
   }
-  // Hook into existing pauseRotation — when paused, restore normal order
-  var _pauseRotationOrig = pauseRotation;
-  pauseRotation = function() {
-    restoreNewsColumns();
-    _pauseRotationOrig();
-  };
   // Re-apply after data loads (cron pushes new data)
   table.on('dataLoaded', function() {
     setTimeout(pullNewsColumns, 600);
@@ -1486,10 +1480,30 @@
   var pauseTimeout;
   function pauseRotation() {
     rotationPaused = true;
+    restoreNewsColumns();
     clearTimeout(pauseTimeout);
-    pauseTimeout = setTimeout(function(){ rotationPaused = false; }, 120000);
+    pauseTimeout = setTimeout(resumeRotation, 600000); // fallback: 10min
   }
-  table.on("headerClick", function(){ pauseRotation(); });
+  function resumeRotation() {
+    rotationPaused = false;
+    clearTimeout(pauseTimeout);
+    setTimeout(pullNewsColumns, 300);
+  }
+  // Scroll-back-to-top = user finished browsing
+  var scrollEl2 = document.querySelector('.tabulator-tableholder');
+  if (scrollEl2) {
+    scrollEl2.addEventListener('scroll', function() {
+      if (rotationPaused && scrollEl2.scrollTop < 60) resumeRotation();
+    }, {passive: true});
+  }
+  // Tab switch = user was away, now wants fresh news
+  document.addEventListener('visibilitychange', function() {
+    if (!document.hidden && rotationPaused) resumeRotation();
+  });
+  table.on("headerClick", function(e, column){
+    if (column && column.getField() === 'news_score') resumeRotation();
+    else pauseRotation();
+  });
   document.getElementById("search").addEventListener("input", function(){ pauseRotation(); });
   table.on("columnMoved", function(){ pauseRotation(); });
 
