@@ -48,7 +48,7 @@
         formatter:function(c){var d=c.getRow().getData(),code=d.country_code,name=I18N.countryName(code);return'<span style="display:inline-block;max-width:65px;overflow:hidden;text-overflow:clip;white-space:nowrap;">'+(name||d.country_name_en)+'</span>';},
         tooltip:function(e,c){var d=c.getRow().getData(),code=d.country_code,n2=I18N.countryName(code,I18N.getLocale2()),lo=d.country_name_local,p=[];if(n2&&n2!==d.country_name_en)p.push(n2);if(lo&&lo!==n2)p.push(lo);return p.join(' · ')||d.country_name_en;}},
       // === TRENDING (default sort) ===
-      { title:"🔥Trend",field:"news_score",width:65,sorter:S,
+      { title:"🔥Trend",field:"news_score",width:65,frozen:true,sorter:S,
         formatter:function(c){var v=c.getValue();if(!v||v<=0)return'<span style="color:#333;font-size:10px;">-</span>';var bar='█'.repeat(Math.min(v,20));return'<span style="color:#e0c87c;font-size:10px;font-weight:700;">'+bar+' '+v+'</span>';}},
       // === CORE ===
       A(t('population'),"population",100), A(t('area'),"area",100), A(t('density'),"population_density",95),
@@ -296,13 +296,69 @@
       pagination:false,movableColumns:true,headerHozAlign:"center",tooltips:true,tooltipDelay:150,rowHover:true,headerVisible:true,
       placeholder:'<div style="padding:40px;text-align:center;color:#545d7a;"><div style="font-size:48px;">🌍</div><div style="font-size:16px;font-weight:600;">'+t('loading')+'</div></div>',
       sortMode:"single",selectable:false,selectableRows:false,selectableCells:false,clipboard:true,selectableRangeMode:"click",
-      clipboardCopyConfig:{columnHeaders:false,columnGroups:false,rowGroups:false,columnCalcs:false}
+      clipboardCopyConfig:{columnHeaders:false,columnGroups:false,rowGroups:false,columnCalcs:false},
+      rowFormatter:function(row){row.getElement().dataset.needsColspan='1';}
     });
 
     // Column reorder helper — use native bulk API for performance
     function reorderColumns(targetFields) {
       try { table.setColumnOrder(targetFields); } catch(e) {}
     }
+
+    // ── Colspan Engine: merge cells across columns using real widths ──
+    var MERGE_GROUPS = [
+      {startField:'news_score', count:4, title:'📰 Trending News', id:'news'}
+      // Add more: {startField:'gdp', count:3, title:'💰 Economy Panel', id:'econ'}
+    ];
+    function applyColspans() {
+      var rows = table.getRows();
+      if (!rows.length) return;
+      MERGE_GROUPS.forEach(function(grp) {
+        var cols = table.getColumns(), startIdx = -1;
+        for (var i = 0; i < cols.length; i++) {
+          if (cols[i].getField() === grp.startField) { startIdx = i; break; }
+        }
+        if (startIdx < 0) return;
+        // Use actual column widths (not precomputed — handles resize/reorder)
+        var mergeW = 0;
+        for (var j = startIdx; j < startIdx + grp.count && j < cols.length; j++) {
+          mergeW += cols[j].getWidth();
+        }
+        rows.forEach(function(row) {
+          var cells = row.getCells();
+          if (cells.length <= startIdx) return;
+          var first = cells[startIdx].getElement();
+          // Hide merged-over cells
+          for (var k = startIdx + 1; k < startIdx + grp.count && k < cells.length; k++) {
+            cells[k].getElement().style.display = 'none';
+          }
+          // Span the first cell
+          first.style.width = mergeW + 'px';
+          first.style.minWidth = mergeW + 'px';
+          first.style.maxWidth = mergeW + 'px';
+          first.style.flex = '0 0 ' + mergeW + 'px';
+          first.classList.add('colspan-cell');
+          first.dataset.colspanGroup = grp.id;
+          // Add content wrapper if not already
+          if (!first.querySelector('.colspan-inner')) {
+            var wrapper = document.createElement('div');
+            wrapper.className = 'colspan-inner';
+            wrapper.style.cssText = 'width:100%;padding:2px 6px;overflow:hidden;';
+            while (first.firstChild) wrapper.appendChild(first.firstChild);
+            first.appendChild(wrapper);
+          }
+        });
+      });
+    }
+    // Reapply after every render
+    var colspanDebounce = null;
+    function scheduleColspans() {
+      if (colspanDebounce) clearTimeout(colspanDebounce);
+      colspanDebounce = setTimeout(applyColspans, 50);
+    }
+    table.on('dataLoaded', scheduleColspans);
+    table.on('dataSorted', scheduleColspans);
+    table.on('columnResized', scheduleColspans);
 
     // 기존 컬럼 순서 복원 (검색빈도 반영은 applyColumnOrder에서)
 
