@@ -1508,7 +1508,7 @@
     _reordering = false;
     localStorage.setItem('rankerage_col_order', JSON.stringify(order));
   }
-  function resetLayout() { layoutColumns([]); }
+  function resetLayout() { if (_reordering) return; layoutColumns([]); }
   // Trigger on sort/load
   table.on('dataSorted', function() {
     var sf = (table.getSorters()[0]||{}).field;
@@ -1563,7 +1563,6 @@
 
   function pauseRotation() {
     rotationPaused = true;
-    resetLayout();
   }
   function resumeRotation() {
     rotationPaused = false;
@@ -1579,6 +1578,5 @@
     if (cell.getColumn().getField() === 'news_score') resumeRotation();
   });
   document.getElementById("search").addEventListener("input", function(){ pauseRotation(); });
-  table.on("columnMoved", function(){ pauseRotation(); });
 
 })();
