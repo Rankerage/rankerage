@@ -947,7 +947,7 @@
         } else {
           // All loaded — apply default sort (news_score desc)
           table.setSort('news_score','desc');
-          setTimeout(function(){ pullNewsColumns(); }, 500);
+          setTimeout(function(){ var top = table.getRows()[0]; layoutColumns(top ? top.getData().news_columns : []); }, 500);
           setTimeout(function(){var h=document.querySelector('.scroll-hint');if(h){h.style.opacity='0';setTimeout(function(){if(h)h.remove();},500);}},6000);
 
       // Populate trending ticker
@@ -991,7 +991,7 @@
             if (changed && !rotationPaused) {
               // Re-sort by news_score to reflect new rankings
               table.setSort('news_score', 'desc');
-              setTimeout(pullNewsColumns, 500);
+              setTimeout(function(){ var top = table.getRows()[0]; layoutColumns(top ? top.getData().news_columns : []); }, 500);
             }
           }).catch(function(){});
       }
@@ -1503,50 +1503,34 @@
       }
     }
   });
-  // ── News-driven column reorder: when news_score is active sort, pull topic columns forward ──
-  var newsColumnOrder = null, _reordering = false;
-  function pullNewsColumns() {
-    var sorter = table.getSorters()[0];
-    if (!sorter || sorter.field !== 'news_score' || rotationPaused) return;
-    var topRow = table.getRows()[0];
-    if (!topRow) return;
-    var cols = topRow.getData().news_columns;
-    if (!cols || !cols.length) return;
-    // Save current order once (before first reorder)
-    if (!newsColumnOrder) {
-      newsColumnOrder = table.getColumns().map(function(c){return c.getField();});
-    }
-    var curCols = table.getColumns().map(function(c){return c.getField();});
-    var frozen = curCols.slice(0, 3);
-    var others = curCols.slice(3).filter(function(f){return cols.indexOf(f) < 0;});
-    cols = cols.filter(function(f){return curCols.indexOf(f) >= 3;});
-    if (!cols.length) return;
-    var newOrder = frozen.concat(cols).concat(others);
-    // Guard against columnMoved → pauseRotation → restoreNewsColumns loop
+  // ── Unified column layout: single source of truth for column ordering ──
+  var _reordering = false;
+  function layoutColumns(focusCols) {
+    var frozen = ['country_code', 'country_name_en', 'news_score'];
+    var cur = table.getColumns().map(function(c){return c.getField();});
+    var body = cur.filter(function(f){return frozen.indexOf(f)<0;});
+    // Priority: focus columns → frequently searched → rest
+    focusCols = (focusCols||[]).filter(function(f){return body.indexOf(f)>=0;});
+    var counts = {}; try { counts = JSON.parse(localStorage.getItem('rankerage_search_counts')||'{}'); } catch(e) {}
+    var freq = Object.keys(counts).filter(function(f){return counts[f]>=3 && focusCols.indexOf(f)<0 && body.indexOf(f)>=0;});
+    var rest = body.filter(function(f){return focusCols.indexOf(f)<0 && freq.indexOf(f)<0;});
+    var order = frozen.concat(focusCols).concat(freq).concat(rest);
     _reordering = true;
-    try { table.setColumnOrder(newOrder); } catch(e) {}
+    try { table.setColumnOrder(order); } catch(e) {}
     _reordering = false;
+    localStorage.setItem('rankerage_col_order', JSON.stringify(order));
   }
-  function restoreNewsColumns() {
-    if (_reordering) return;  // don't restore during programmatic reorder
-    if (newsColumnOrder) {
-      _reordering = true;
-      try { table.setColumnOrder(newsColumnOrder); } catch(e) {}
-      _reordering = false;
-      newsColumnOrder = null;
-    }
-  }
-  // Re-apply after data loads (cron pushes new data)
-  table.on('dataLoaded', function() {
-    setTimeout(pullNewsColumns, 600);
-  });
+  function resetLayout() { layoutColumns([]); }
+  // Trigger on sort/load
   table.on('dataSorted', function() {
     var sf = (table.getSorters()[0]||{}).field;
-    if (sf === 'news_score') {
-      setTimeout(pullNewsColumns, 400);
-    } else {
-      restoreNewsColumns();
+    if (sf === 'news_score' && !rotationPaused) {
+      var top = table.getRows()[0];
+      setTimeout(function(){ layoutColumns(top ? top.getData().news_columns : []); }, 400);
     }
+  });
+  table.on('dataLoaded', function() {
+    setTimeout(function(){ layoutColumns([]); }, 600);
   });
 
   // ── Auto-rotation: table comes alive ──
@@ -1589,11 +1573,12 @@
 
   function pauseRotation() {
     rotationPaused = true;
-    restoreNewsColumns();
+    resetLayout();
   }
   function resumeRotation() {
     rotationPaused = false;
-    setTimeout(pullNewsColumns, 300);
+    var top = table.getRows()[0];
+    setTimeout(function(){ layoutColumns(top ? top.getData().news_columns : []); }, 300);
   }
   // Trend column click (header or any cell) resumes
   table.on("headerClick", function(e, column){
