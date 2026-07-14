@@ -1485,10 +1485,13 @@
     rotationPaused = false;
     setTimeout(pullNewsColumns, 300);
   }
-  // Only Trend header click resumes — no timers, no scroll, no tab switch
+  // Trend column click (header or any cell) resumes
   table.on("headerClick", function(e, column){
     if (column && column.getField() === 'news_score') resumeRotation();
     else pauseRotation();
+  });
+  table.on("cellClick", function(e, cell){
+    if (cell.getColumn().getField() === 'news_score') resumeRotation();
   });
   document.getElementById("search").addEventListener("input", function(){ pauseRotation(); });
   table.on("columnMoved", function(){ pauseRotation(); });
