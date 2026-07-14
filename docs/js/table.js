@@ -1399,6 +1399,52 @@
       }
     }
   });
+  // ── News-driven column reorder: when news_score is active sort, pull topic columns forward ──
+  var newsColumnOrder = null;  // saved normal order for restoration
+  function pullNewsColumns() {
+    var sorter = table.getSorters()[0];
+    if (!sorter || sorter.field !== 'news_score' || rotationPaused) return;
+    var topRow = table.getRows()[0];
+    if (!topRow) return;
+    var cols = topRow.getData().news_columns;
+    if (!cols || !cols.length) return;
+    // Save current order once
+    if (!newsColumnOrder) {
+      newsColumnOrder = table.getColumns().map(function(c){return c.getField();});
+    }
+    // Place news columns right after frozen cols (idx 3+)
+    var curCols = table.getColumns().map(function(c){return c.getField();});
+    var frozen = curCols.slice(0, 3);  // flag, country, trend
+    var others = curCols.slice(3).filter(function(f){return cols.indexOf(f) < 0;});
+    cols = cols.filter(function(f){return curCols.indexOf(f) >= 3;});  // only columns that exist
+    var newOrder = frozen.concat(cols).concat(others);
+    try { table.setColumnOrder(newOrder); } catch(e) {}
+  }
+  function restoreNewsColumns() {
+    if (newsColumnOrder) {
+      try { table.setColumnOrder(newsColumnOrder); } catch(e) {}
+      newsColumnOrder = null;
+    }
+  }
+  // Hook into existing pauseRotation — when paused, restore normal order
+  var _pauseRotationOrig = pauseRotation;
+  pauseRotation = function() {
+    restoreNewsColumns();
+    _pauseRotationOrig();
+  };
+  // Re-apply after data loads (cron pushes new data)
+  table.on('dataLoaded', function() {
+    setTimeout(pullNewsColumns, 600);
+  });
+  table.on('dataSorted', function() {
+    var sf = (table.getSorters()[0]||{}).field;
+    if (sf === 'news_score') {
+      setTimeout(pullNewsColumns, 400);
+    } else {
+      restoreNewsColumns();
+    }
+  });
+
   // ── Auto-rotation: table comes alive ──
   var autoRotate = true;
   var rotationInterval = 45000;

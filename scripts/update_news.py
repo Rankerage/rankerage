@@ -32,7 +32,75 @@ HEADERS = {
 }
 
 # ── Time decay ──
-DECAY_HALF_LIFE_MINUTES = 120  # score halves every 2 hours
+DECAY_HALF_LIFE_MINUTES = 120
+
+# ── Topic → ranking column mapping ──
+# When a headline matches a topic keyword, those columns get pulled to the front
+TOPIC_COLUMNS = {
+    # Sports
+    "world cup|fifa|soccer|football|worldcup": ["fifa_ranking", "fifa_w", "olympic", "basket"],
+    "olympic|olympics|medal": ["olympic", "olympic_gold", "olympic_per_cap", "fifa_ranking"],
+    "tennis|wimbledon|us open|grand slam": ["davis_cup"],
+    "cricket|ipl|test match": ["cricket", "olympic"],
+    "rugby|six nations": ["rugby", "olympic"],
+    "basketball|nba": ["basket", "olympic"],
+    "marathon|running|track": ["marathon_elite", "olympic"],
+    "chess|grandmaster": ["chess", "edu"],
+    # Economy
+    "gdp|economy|recession|growth|inflation|interest rate|tariff|trade war": ["gdp", "gdp_per_capita", "inflation", "unemp", "exports", "imports"],
+    "stock|market|wall street|nasdaq|dow|s&p": ["gdp", "gdp_per_capita", "stock_market", "reserves"],
+    "oil|gas price|energy|petroleum|crude": ["gas_price", "energy_per_capita", "co2", "renew", "exports"],
+    "debt|default|bailout|imf": ["debt", "gdp", "reserves", "govern_spend"],
+    "startup|venture capital|unicorn|tech ipo": ["startup_rate", "startups", "unicorns", "rd", "patents"],
+    "crypto|bitcoin|ethereum|blockchain": ["internet_pct", "gdp_per_capita", "startups"],
+    # Politics
+    "election|vote|president|prime minister|parliament": ["democracy", "approval", "press", "election_days"],
+    "protest|riot|crackdown|coup": ["democracy", "press", "gpi", "polit_kill"],
+    "corruption|scandal|bribe": ["cpi", "democracy", "press"],
+    "sanction|embargo|diplomat": ["exports", "imports", "gdp"],
+    # Military
+    "war|invasion|missile|military|troops|navy|air force": ["military_pct", "nuclear", "military_personnel", "gpi", "arms_export"],
+    "nuclear|nuke|icbm|atomic": ["nuclear", "nuclear_power", "military_pct"],
+    "nato|alliance": ["nato", "military_pct", "gdp"],
+    # Health
+    "covid|pandemic|virus|outbreak|vaccine|disease|cancer|diabetes": ["health", "life_expectancy", "doctors", "beds", "vaccination", "infant_mortality"],
+    "hospital|doctor|nurse|surgeon|medical": ["doctors", "beds", "health", "life_expectancy"],
+    "mental health|depression|suicide": ["suicide", "happiness", "mental_health", "health"],
+    "obesity|diet|weight": ["obesity", "health", "life_expectancy"],
+    "alcohol|drinking|beer|wine": ["alcohol", "beer", "wine", "health"],
+    "smoking|cigarette|tobacco|vape": ["smoking", "health", "life_expectancy"],
+    # Environment
+    "climate|global warming|carbon|emission|greenhouse": ["co2", "renew", "forest", "pm25"],
+    "earthquake|tsunami|flood|hurricane|typhoon|cyclone|wildfire|volcano": ["earthquake_count", "earthquakes", "tsunami_risk", "cyclone_freq", "flood_risk", "wildfire_freq", "volcanoes"],
+    "pollution|smog|air quality": ["pm25", "co2", "health", "life_expectancy"],
+    # Tech
+    "ai|artificial intelligence|chatgpt|openai|machine learning": ["ai_research", "internet_pct", "patents", "rd", "startups"],
+    "space|nasa|spacex|rocket|satellite": ["space_launch", "rd", "patents"],
+    "5g|internet|broadband|fiber": ["internet_pct", "netspeed", "g5_coverage", "penetration"],
+    # Society
+    "education|school|university|student|pisa": ["edu", "literacy", "pisa_math", "pisa_science", "pisa_reading", "phd_per_cap", "students_per_teacher"],
+    "crime|murder|homicide|shooting|gang": ["murder", "prison", "police", "gpi"],
+    "immigration|migrant|refugee|border": ["immigration", "emigration", "refugees", "population"],
+    "lgbtq|gay|trans|pride|marriage equality": ["lgbtq_rights", "gay_marriage", "gender", "democracy"],
+    "women|gender|feminist|equality": ["gender", "gender_gap", "women_parl", "edu"],
+    "poverty|homeless|inequality|hunger": ["poverty", "gini", "hdi", "gdp_per_capita", "homelessness"],
+    # Travel
+    "travel|tourism|tourist|visa|passport": ["tourism", "passport", "aviation", "airports"],
+    # Culture
+    "movie|film|oscar|hollywood|netflix|cinema": ["film_prod", "netflix", "intangible"],
+    "music|concert|grammy|festival": ["festivals", "intangible"],
+    "food|cuisine|restaurant|michelin": ["michelin", "coffee", "tea_consume", "meat", "street_food"],
+    # Misc
+    "nobel|prize|award": ["nobel", "nobel_per_capita", "nobel_science"],
+    "happiness|wellbeing|life satisfaction": ["happiness", "life_expectancy", "hdi", "mental_health"],
+    "religion|church|mosque|temple": ["religion_div", "democracy"],
+    "car|auto|electric vehicle|ev|tesla": ["car_density", "gas_price", "co2"],
+    "coffee|tea|espresso": ["coffee", "tea_consume"],
+    "chocolate|cocoa": ["chocolate", "agri"],
+    "beer|brewery|craft beer": ["beer", "alcohol"],
+    "wine|vineyard": ["wine", "alcohol", "agri"],
+    "mcdonald|fast food|burger": ["mcdonalds", "obesity", "meat"],
+}  # end TOPIC_COLUMNS
 
 # ── Blocklist: country codes that cause false positives (short codes matching common words) ──
 BLOCKLIST = {"US", "IN", "ME", "TO", "BE", "AT", "IS", "IT", "OR", "AS", "NO", "GO", "SO", "WE", "DO", "BY", "IF", "AN", "PM", "AM", "LA", "TV", "TA", "NE", "RE"}
@@ -110,6 +178,17 @@ def time_weight(age_minutes):
     if age_minutes <= 0:
         return 1.0
     return math.exp(-math.log(2) * age_minutes / DECAY_HALF_LIFE_MINUTES)
+
+def extract_topics(text):
+    """Match headline text against TOPIC_COLUMNS regexes, return deduped column fields."""
+    text_lower = text.lower()
+    columns = []
+    for pattern, fields in TOPIC_COLUMNS.items():
+        if re.search(pattern, text_lower):
+            columns.extend(fields)
+    # Deduplicate, keep order
+    seen = set()
+    return [f for f in columns if not (f in seen or seen.add(f))]
 
 def match_entities(text, entities):
     text_lower = text.lower()
@@ -194,8 +273,11 @@ def main():
             data[idx]["news_url"] = hl["link"]
             data[idx]["news_image"] = hl["img"]
             data[idx]["news_source"] = hl["source"]
-            # Add age info for display
             data[idx]["news_age"] = f"{int(hl['age_minutes'])}m ago" if hl["age_minutes"] < 120 else f"{int(hl['age_minutes']/60)}h ago"
+            # Topic → related ranking columns
+            topics = extract_topics(f"{hl['title']} {hl['desc']}")
+            if topics:
+                data[idx]["news_columns"] = topics[:6]  # max 6 related columns
         else:
             # Decay old score if no recent mentions
             old = data[idx].get("news_score", 0)
