@@ -1510,9 +1510,11 @@
   // Trigger on sort/load
   table.on('dataSorted', function() {
     var sf = (table.getSorters()[0]||{}).field;
-    if (sf === 'news_score' && !rotationPaused) {
+    if (sf === 'news_score') {
       var top = table.getRows()[0];
       setTimeout(function(){ layoutColumns(top ? top.getData().news_columns : []); }, 400);
+    } else {
+      resetLayout();
     }
   });
   table.on('dataLoaded', function() {
