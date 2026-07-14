@@ -9,7 +9,7 @@
   var ADSENSE_TOP_SLOT = '1234567890';
   var ADSENSE_INROW_SLOT = '9876543210';
   var ADSENSE_FOOTER_SLOT = '5555555555';
-  var ADS_ENABLED = ADSENSE_ID.indexOf('XXX') < 0;  // 실제 ID면 true
+  var ADS_ENABLED = true;  // 실제 ID면 true
 
   I18N.init().then(function() {
     var t = I18N.t;
@@ -1272,7 +1272,7 @@
         adRow.style.cssText = 'height:90px;display:flex;align-items:center;justify-content:center;border-bottom:1px solid rgba(255,255,255,0.04);';
         adRow.innerHTML = '<div style="text-align:center;width:100%;padding:4px;">' +
           '<ins class="adsbygoogle" style="display:block;height:80px" ' +
-          'data-ad-client="ca-pub-XXXXXXXXXXXXXXXX" ' +
+          'data-ad-client="ca-pub-9060044387299153" ' +
           'data-ad-slot="9876543210" ' +
           'data-ad-format="horizontal" ' +
           'data-full-width-responsive="true"></ins></div>';
