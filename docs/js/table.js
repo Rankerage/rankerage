@@ -875,6 +875,7 @@
         } else {
           // All loaded — apply default sort (news_score desc)
           table.setSort('news_score','desc');
+          setTimeout(function(){ pullNewsColumns(); }, 500);
           setTimeout(function(){var h=document.querySelector('.scroll-hint');if(h){h.style.opacity='0';setTimeout(function(){if(h)h.remove();},500);}},6000);
 
       // Populate trending ticker
@@ -1431,7 +1432,7 @@
     }
   });
   // ── News-driven column reorder: when news_score is active sort, pull topic columns forward ──
-  var newsColumnOrder = null;  // saved normal order for restoration
+  var newsColumnOrder = null, _reordering = false;
   function pullNewsColumns() {
     var sorter = table.getSorters()[0];
     if (!sorter || sorter.field !== 'news_score' || rotationPaused) return;
@@ -1439,21 +1440,27 @@
     if (!topRow) return;
     var cols = topRow.getData().news_columns;
     if (!cols || !cols.length) return;
-    // Save current order once
+    // Save current order once (before first reorder)
     if (!newsColumnOrder) {
       newsColumnOrder = table.getColumns().map(function(c){return c.getField();});
     }
-    // Place news columns right after frozen cols (idx 3+)
     var curCols = table.getColumns().map(function(c){return c.getField();});
-    var frozen = curCols.slice(0, 3);  // flag, country, trend
+    var frozen = curCols.slice(0, 3);
     var others = curCols.slice(3).filter(function(f){return cols.indexOf(f) < 0;});
-    cols = cols.filter(function(f){return curCols.indexOf(f) >= 3;});  // only columns that exist
+    cols = cols.filter(function(f){return curCols.indexOf(f) >= 3;});
+    if (!cols.length) return;
     var newOrder = frozen.concat(cols).concat(others);
+    // Guard against columnMoved → pauseRotation → restoreNewsColumns loop
+    _reordering = true;
     try { table.setColumnOrder(newOrder); } catch(e) {}
+    _reordering = false;
   }
   function restoreNewsColumns() {
+    if (_reordering) return;  // don't restore during programmatic reorder
     if (newsColumnOrder) {
+      _reordering = true;
       try { table.setColumnOrder(newsColumnOrder); } catch(e) {}
+      _reordering = false;
       newsColumnOrder = null;
     }
   }
