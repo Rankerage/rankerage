@@ -1531,6 +1531,18 @@
     setTimeout(function(){ layoutColumns([]); }, 600);
   });
 
+  // ── HARD TEST: move population to after Trend at t+3s to verify moveColumn API ──
+  setTimeout(function(){
+    var cols = table.getColumns();
+    var newsCol = cols[2]; // news_score
+    for (var i = 0; i < cols.length; i++) {
+      if (cols[i].getField() === 'population') {
+        table.moveColumn(cols[i], newsCol);
+        break;
+      }
+    }
+  }, 3000);
+
   // ── Auto-rotation: table comes alive ──
   var autoRotate = true;
   var rotationInterval = 45000;
