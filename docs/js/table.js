@@ -873,8 +873,8 @@
         if (idx < data.length) {
           requestAnimationFrame(loadChunk);
         } else {
-          // All loaded — restore column order and initial sort in one shot
-          table.setSort('country_name_en','asc');
+          // All loaded — apply default sort (news_score desc)
+          table.setSort('news_score','desc');
           setTimeout(function(){var h=document.querySelector('.scroll-hint');if(h){h.style.opacity='0';setTimeout(function(){if(h)h.remove();},500);}},6000);
 
       // Populate trending ticker
@@ -892,6 +892,37 @@
         }
       }
       loadChunk();
+
+      // ── Live news polling: fetch fresh data every 30s, update in-place ──
+      var LIVE_INTERVAL = 30000;
+      var newsFields = ['news_score','news_title','news_url','news_image','news_source','news_age','news_columns'];
+      function pollNews() {
+        fetch('data/countries.json?t=' + Date.now())
+          .then(function(r){return r.json()})
+          .then(function(fresh) {
+            var rows = table.getRows(), codeIdx = {};
+            for (var i = 0; i < rows.length; i++) {
+              codeIdx[(rows[i].getData().country_code||'').toUpperCase()] = i;
+            }
+            var changed = false;
+            for (var j = 0; j < fresh.length; j++) {
+              var code = (fresh[j].country_code||'').toUpperCase();
+              var idx = codeIdx[code];
+              if (idx === undefined) continue;
+              var row = rows[idx], d = row.getData();
+              for (var k = 0; k < newsFields.length; k++) {
+                var f = newsFields[k];
+                if (d[f] !== fresh[j][f]) { d[f] = fresh[j][f]; changed = true; }
+              }
+            }
+            if (changed && !rotationPaused) {
+              // Re-sort by news_score to reflect new rankings
+              table.setSort('news_score', 'desc');
+              setTimeout(pullNewsColumns, 500);
+            }
+          }).catch(function(){});
+      }
+      setInterval(pollNews, LIVE_INTERVAL);
 
     // ── Crosshair: column highlight on hover ──
     (function(){
