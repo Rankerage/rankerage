@@ -206,7 +206,8 @@
     "refugees_rank": null,
     "union_rate": 38.4,
     "union_rate_rank": null,
-    "fifa_ranking_rank": 140
+    "fifa_ranking_rank": 140,
+    "news_score": 0
   },
   {
     "flag": "🇦🇱",
@@ -386,7 +387,8 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "fifa_w_rank": 54
+    "fifa_w_rank": 54,
+    "news_score": 0
   },
   {
     "flag": "🇩🇿",
@@ -563,7 +565,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 44.8,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇦🇸",
@@ -727,7 +730,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇦🇩",
@@ -898,7 +902,8 @@
     "union_rate": null,
     "union_rate_rank": null,
     "fifa_ranking_rank": 141,
-    "fifa_w_rank": 118
+    "fifa_w_rank": 118,
+    "news_score": 0
   },
   {
     "flag": "🇦🇴",
@@ -1070,7 +1075,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 75.7,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇦🇮",
@@ -1236,7 +1242,8 @@
     "union_rate": null,
     "union_rate_rank": null,
     "fifa_ranking_rank": 153,
-    "fifa_w_rank": 123
+    "fifa_w_rank": 123,
+    "news_score": 0
   },
   {
     "flag": "🇦🇶",
@@ -1400,7 +1407,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇦🇬",
@@ -1566,7 +1574,8 @@
     "union_rate": null,
     "union_rate_rank": null,
     "fifa_ranking_rank": 135,
-    "fifa_w_rank": 119
+    "fifa_w_rank": 119,
+    "news_score": 0
   },
   {
     "flag": "🇦🇷",
@@ -1826,7 +1835,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 70.7,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇦🇲",
@@ -2001,7 +2011,8 @@
     "refugees_rank": null,
     "union_rate": 70.8,
     "union_rate_rank": null,
-    "fifa_w_rank": 100
+    "fifa_w_rank": 100,
+    "news_score": 0
   },
   {
     "flag": "🇦🇺",
@@ -2429,7 +2440,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 80.6,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇦🇹",
@@ -2727,7 +2739,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 77.9,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇧🇭",
@@ -2904,7 +2917,8 @@
     "refugees_rank": null,
     "union_rate": 72.9,
     "union_rate_rank": null,
-    "fifa_w_rank": 81
+    "fifa_w_rank": 81,
+    "news_score": 0
   },
   {
     "flag": "🇧🇩",
@@ -3154,7 +3168,8 @@
     "extreme_poverty": 5.9,
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇧🇧",
@@ -3323,7 +3338,8 @@
     "union_rate": 78.3,
     "union_rate_rank": null,
     "fifa_ranking_rank": 143,
-    "fifa_w_rank": 108
+    "fifa_w_rank": 108,
+    "news_score": 0
   },
   {
     "flag": "🇧🇪",
@@ -3629,7 +3645,8 @@
     "child_marriage": 0,
     "child_marriage_rank": null,
     "refugees": null,
-    "refugees_rank": null
+    "refugees_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇧🇯",
@@ -3798,7 +3815,8 @@
     "refugees_rank": null,
     "union_rate": 77.5,
     "union_rate_rank": null,
-    "fifa_w_rank": 95
+    "fifa_w_rank": 95,
+    "news_score": 0
   },
   {
     "flag": "🇧🇹",
@@ -3965,7 +3983,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 67.7,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇧🇴",
@@ -4140,7 +4159,8 @@
     "refugees_rank": null,
     "union_rate": 80.5,
     "union_rate_rank": null,
-    "fifa_w_rank": 79
+    "fifa_w_rank": 79,
+    "news_score": 0
   },
   {
     "flag": "🇧🇦",
@@ -4313,7 +4333,8 @@
     "union_rate": 63.1,
     "union_rate_rank": null,
     "fifa_ranking_rank": 62,
-    "fifa_w_rank": 57
+    "fifa_w_rank": 57,
+    "news_score": 0
   },
   {
     "flag": "🇧🇦",
@@ -4486,7 +4507,8 @@
     "union_rate": 63.1,
     "union_rate_rank": null,
     "fifa_ranking_rank": 63,
-    "fifa_w_rank": 58
+    "fifa_w_rank": 58,
+    "news_score": 0
   },
   {
     "flag": "🇧🇼",
@@ -4653,7 +4675,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 71.2,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇧🇷",
@@ -5056,7 +5079,8 @@
     "child_labor": 2.5,
     "child_labor_rank": null,
     "refugees": null,
-    "refugees_rank": null
+    "refugees_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇧🇳",
@@ -5222,7 +5246,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 69.6,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇧🇬",
@@ -5459,7 +5484,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 73.2,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇧🇬",
@@ -5688,7 +5714,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 73.2,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇧🇫",
@@ -5871,7 +5898,8 @@
     "refugees_rank": null,
     "union_rate": 71.2,
     "union_rate_rank": null,
-    "fifa_w_rank": 83
+    "fifa_w_rank": 83,
+    "news_score": 0
   },
   {
     "flag": "🇧🇫",
@@ -6046,7 +6074,8 @@
     "refugees_rank": null,
     "union_rate": 71.2,
     "union_rate_rank": null,
-    "fifa_w_rank": 84
+    "fifa_w_rank": 84,
+    "news_score": 0
   },
   {
     "flag": "🇧🇮",
@@ -6221,7 +6250,8 @@
     "union_rate": 79.1,
     "union_rate_rank": null,
     "fifa_ranking_rank": 123,
-    "fifa_w_rank": 116
+    "fifa_w_rank": 116,
+    "news_score": 0
   },
   {
     "flag": "🇧🇮",
@@ -6392,7 +6422,8 @@
     "union_rate": 79.1,
     "union_rate_rank": null,
     "fifa_ranking_rank": 124,
-    "fifa_w_rank": 117
+    "fifa_w_rank": 117,
+    "news_score": 0
   },
   {
     "flag": "🇨🇻",
@@ -6559,7 +6590,8 @@
     "union_rate": 62.2,
     "union_rate_rank": null,
     "fifa_ranking_rank": 66,
-    "fifa_w_rank": 86
+    "fifa_w_rank": 86,
+    "news_score": 0
   },
   {
     "flag": "🇰🇭",
@@ -6735,7 +6767,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 86.1,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇰🇭",
@@ -6905,7 +6938,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 86.1,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇨🇲",
@@ -7089,7 +7123,8 @@
     "refugees_rank": null,
     "union_rate": 65.8,
     "union_rate_rank": null,
-    "fifa_w_rank": 59
+    "fifa_w_rank": 59,
+    "news_score": 0
   },
   {
     "flag": "🇨🇦",
@@ -7507,7 +7542,8 @@
     "child_marriage": null,
     "child_marriage_rank": null,
     "refugees": null,
-    "refugees_rank": null
+    "refugees_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇨🇫",
@@ -7684,7 +7720,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 73.6,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇹🇩",
@@ -7860,7 +7897,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 59.5,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇨🇱",
@@ -8097,7 +8135,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 70.9,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇨🇳",
@@ -8526,7 +8565,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 74.0,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇨🇴",
@@ -8756,7 +8796,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 69.1,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 1
   },
   {
     "flag": "🇰🇲",
@@ -8924,7 +8965,8 @@
     "refugees_rank": null,
     "union_rate": 57.4,
     "union_rate_rank": null,
-    "fifa_w_rank": 120
+    "fifa_w_rank": 120,
+    "news_score": 0
   },
   {
     "flag": "🇨🇷",
@@ -9110,7 +9152,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 65.3,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 2
   },
   {
     "flag": "🇭🇷",
@@ -9348,7 +9391,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 70.4,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇨🇺",
@@ -9528,7 +9572,8 @@
     "union_rate": 63.8,
     "union_rate_rank": null,
     "fifa_ranking_rank": 136,
-    "fifa_w_rank": 70
+    "fifa_w_rank": 70,
+    "news_score": 0
   },
   {
     "flag": "🇨🇾",
@@ -9706,7 +9751,8 @@
     "refugees_rank": null,
     "union_rate": 79.3,
     "union_rate_rank": null,
-    "fifa_w_rank": 91
+    "fifa_w_rank": 91,
+    "news_score": 0
   },
   {
     "flag": "🇨🇿",
@@ -9984,7 +10030,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 77.5,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇨🇩",
@@ -10178,7 +10225,8 @@
     "refugees_rank": null,
     "union_rate": 64.6,
     "union_rate_rank": null,
-    "fifa_w_rank": 77
+    "fifa_w_rank": 77,
+    "news_score": 0
   },
   {
     "flag": "🇩🇰",
@@ -10518,7 +10566,8 @@
     "child_marriage": null,
     "child_marriage_rank": null,
     "refugees": null,
-    "refugees_rank": null
+    "refugees_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇩🇯",
@@ -10685,7 +10734,8 @@
     "union_rate": 33.3,
     "union_rate_rank": null,
     "fifa_ranking_rank": 147,
-    "fifa_w_rank": 127
+    "fifa_w_rank": 127,
+    "news_score": 0
   },
   {
     "flag": "🇩🇴",
@@ -10857,7 +10907,8 @@
     "union_rate": 69.7,
     "union_rate_rank": null,
     "fifa_ranking_rank": 126,
-    "fifa_w_rank": 68
+    "fifa_w_rank": 68,
+    "news_score": 0
   },
   {
     "flag": "🇪🇨",
@@ -11037,7 +11088,8 @@
     "refugees_rank": null,
     "union_rate": 68.0,
     "union_rate_rank": null,
-    "fifa_w_rank": 51
+    "fifa_w_rank": 51,
+    "news_score": 0
   },
   {
     "flag": "🇪🇬",
@@ -11283,7 +11335,8 @@
     "child_marriage": 1.8,
     "child_marriage_rank": null,
     "union_rate": 47.4,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇸🇻",
@@ -11465,7 +11518,8 @@
     "refugees_rank": null,
     "union_rate": 66.2,
     "union_rate_rank": null,
-    "fifa_w_rank": 62
+    "fifa_w_rank": 62,
+    "news_score": 0
   },
   {
     "flag": "🇬🇶",
@@ -11629,7 +11683,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 62.3,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇪🇷",
@@ -11802,7 +11857,8 @@
     "refugees_rank": null,
     "union_rate": 80.9,
     "union_rate_rank": null,
-    "fifa_ranking_rank": 144
+    "fifa_ranking_rank": 144,
+    "news_score": 0
   },
   {
     "flag": "🇪🇪",
@@ -12036,7 +12092,8 @@
     "union_rate": 81.1,
     "union_rate_rank": null,
     "fifa_ranking_rank": 115,
-    "fifa_w_rank": 73
+    "fifa_w_rank": 73,
+    "news_score": 0
   },
   {
     "flag": "🇪🇹",
@@ -12269,7 +12326,8 @@
     "extreme_poverty_rank": null,
     "union_rate": 69.9,
     "union_rate_rank": null,
-    "fifa_w_rank": 94
+    "fifa_w_rank": 94,
+    "news_score": 0
   },
   {
     "flag": "🇫🇯",
@@ -12437,7 +12495,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 60.3,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇫🇮",
@@ -12773,7 +12832,8 @@
     "child_marriage": null,
     "child_marriage_rank": null,
     "refugees": null,
-    "refugees_rank": null
+    "refugees_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇫🇷",
@@ -13263,7 +13323,8 @@
     "child_labor": null,
     "child_labor_rank": null,
     "child_marriage": null,
-    "child_marriage_rank": null
+    "child_marriage_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇬🇦",
@@ -13430,7 +13491,8 @@
     "refugees_rank": null,
     "union_rate": 53.1,
     "union_rate_rank": null,
-    "fifa_w_rank": 101
+    "fifa_w_rank": 101,
+    "news_score": 0
   },
   {
     "flag": "🇬🇲",
@@ -13596,7 +13658,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 48.7,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇬🇪",
@@ -13771,7 +13834,8 @@
     "refugees_rank": null,
     "union_rate": 70.9,
     "union_rate_rank": null,
-    "fifa_w_rank": 90
+    "fifa_w_rank": 90,
+    "news_score": 0
   },
   {
     "flag": "🇩🇪",
@@ -14260,7 +14324,8 @@
     "child_labor": null,
     "child_labor_rank": null,
     "child_marriage": null,
-    "child_marriage_rank": null
+    "child_marriage_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇬🇭",
@@ -14444,7 +14509,8 @@
     "refugees_rank": null,
     "union_rate": 60.4,
     "union_rate_rank": null,
-    "fifa_w_rank": 50
+    "fifa_w_rank": 50,
+    "news_score": 0
   },
   {
     "flag": "🇬🇷",
@@ -14699,7 +14765,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 70.0,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇬🇹",
@@ -14878,7 +14945,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 61.8,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇬🇳",
@@ -15047,7 +15115,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 53.6,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇬🇼",
@@ -15214,7 +15283,8 @@
     "refugees_rank": null,
     "union_rate": 65.8,
     "union_rate_rank": null,
-    "fifa_w_rank": 115
+    "fifa_w_rank": 115,
+    "news_score": 0
   },
   {
     "flag": "🇬🇾",
@@ -15386,7 +15456,8 @@
     "union_rate": 59.2,
     "union_rate_rank": null,
     "fifa_ranking_rank": 130,
-    "fifa_w_rank": 66
+    "fifa_w_rank": 66,
+    "news_score": 0
   },
   {
     "flag": "🇭🇹",
@@ -15558,7 +15629,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 65.3,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇭🇳",
@@ -15730,7 +15802,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 58.7,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "country_code": "hk",
@@ -15951,7 +16024,8 @@
     "union_rate_rank": null,
     "fifa_w": 81,
     "fifa_ranking_rank": 132,
-    "fifa_w_rank": 63
+    "fifa_w_rank": 63,
+    "news_score": 0
   },
   {
     "flag": "🇭🇺",
@@ -16212,7 +16286,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 78.3,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 1
   },
   {
     "flag": "🇮🇸",
@@ -16425,7 +16500,8 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "fifa_ranking_rank": 77
+    "fifa_ranking_rank": 77,
+    "news_score": 0
   },
   {
     "flag": "🇮🇳",
@@ -16848,7 +16924,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 59.1,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇮🇩",
@@ -17142,7 +17219,8 @@
     "union_rate": 70.1,
     "union_rate_rank": null,
     "fifa_ranking_rank": 110,
-    "fifa_w_rank": 78
+    "fifa_w_rank": 78,
+    "news_score": 0
   },
   {
     "flag": "🇮🇷",
@@ -17392,7 +17470,8 @@
     "child_marriage_rank": null,
     "union_rate": 45.0,
     "union_rate_rank": null,
-    "fifa_w_rank": 55
+    "fifa_w_rank": 55,
+    "news_score": 10
   },
   {
     "flag": "🇮🇶",
@@ -17576,7 +17655,8 @@
     "refugees_rank": null,
     "union_rate": 43.4,
     "union_rate_rank": null,
-    "fifa_w_rank": 110
+    "fifa_w_rank": 110,
+    "news_score": 1
   },
   {
     "flag": "🇮🇪",
@@ -17840,7 +17920,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 77.2,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇮🇱",
@@ -18083,7 +18164,8 @@
     "refugees_rank": null,
     "union_rate": 74.4,
     "union_rate_rank": null,
-    "fifa_w_rank": 53
+    "fifa_w_rank": 53,
+    "news_score": 3
   },
   {
     "flag": "🇮🇹",
@@ -18512,7 +18594,8 @@
     "child_marriage": null,
     "child_marriage_rank": null,
     "refugees": null,
-    "refugees_rank": null
+    "refugees_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇯🇲",
@@ -18695,7 +18778,8 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "fifa_w_rank": 39
+    "fifa_w_rank": 39,
+    "news_score": 0
   },
   {
     "flag": "🇯🇵",
@@ -19174,7 +19258,8 @@
     "child_marriage": null,
     "child_marriage_rank": null,
     "refugees": null,
-    "refugees_rank": null
+    "refugees_rank": null,
+    "news_score": 1
   },
   {
     "flag": "🇯🇴",
@@ -19347,7 +19432,8 @@
     "child_marriage_rank": null,
     "union_rate": 42.8,
     "union_rate_rank": null,
-    "fifa_w_rank": 61
+    "fifa_w_rank": 61,
+    "news_score": 0
   },
   {
     "flag": "🇰🇿",
@@ -19521,7 +19607,8 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "fifa_w_rank": 72
+    "fifa_w_rank": 72,
+    "news_score": 0
   },
   {
     "flag": "🇰🇪",
@@ -19758,7 +19845,8 @@
     "child_marriage_rank": null,
     "union_rate": 68.0,
     "union_rate_rank": null,
-    "fifa_w_rank": 88
+    "fifa_w_rank": 88,
+    "news_score": 0
   },
   {
     "flag": "🇰🇮",
@@ -19923,7 +20011,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "country_code": "xk",
@@ -20104,7 +20193,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇰🇼",
@@ -20298,7 +20388,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 75.1,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇰🇬",
@@ -20469,7 +20560,8 @@
     "refugees_rank": null,
     "union_rate": 61.1,
     "union_rate_rank": null,
-    "fifa_w_rank": 93
+    "fifa_w_rank": 93,
+    "news_score": 0
   },
   {
     "flag": "🇱🇦",
@@ -20645,7 +20737,8 @@
     "union_rate": 68.7,
     "union_rate_rank": null,
     "fifa_ranking_rank": 145,
-    "fifa_w_rank": 82
+    "fifa_w_rank": 82,
+    "news_score": 0
   },
   {
     "flag": "🇱🇻",
@@ -20865,7 +20958,8 @@
     "union_rate": 76.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 119,
-    "fifa_w_rank": 76
+    "fifa_w_rank": 76,
+    "news_score": 0
   },
   {
     "flag": "🇱🇧",
@@ -21039,7 +21133,8 @@
     "union_rate": 48.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 108,
-    "fifa_w_rank": 89
+    "fifa_w_rank": 89,
+    "news_score": 0
   },
   {
     "flag": "🇱🇸",
@@ -21206,7 +21301,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 59.1,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇱🇷",
@@ -21381,7 +21477,8 @@
     "refugees_rank": null,
     "union_rate": 77.6,
     "union_rate_rank": null,
-    "fifa_w_rank": 113
+    "fifa_w_rank": 113,
+    "news_score": 0
   },
   {
     "flag": "🇱🇾",
@@ -21557,7 +21654,8 @@
     "refugees_rank": null,
     "union_rate": 51.4,
     "union_rate_rank": null,
-    "fifa_w_rank": 121
+    "fifa_w_rank": 121,
+    "news_score": 0
   },
   {
     "flag": "🇱🇮",
@@ -21726,7 +21824,8 @@
     "union_rate": null,
     "union_rate_rank": null,
     "fifa_ranking_rank": 152,
-    "fifa_w_rank": 122
+    "fifa_w_rank": 122,
+    "news_score": 0
   },
   {
     "flag": "🇱🇹",
@@ -21948,7 +22047,8 @@
     "union_rate": 78.7,
     "union_rate_rank": null,
     "fifa_ranking_rank": 129,
-    "fifa_w_rank": 69
+    "fifa_w_rank": 69,
+    "news_score": 0
   },
   {
     "flag": "🇱🇺",
@@ -22163,7 +22263,8 @@
     "refugees": null,
     "refugees_rank": null,
     "fifa_ranking_rank": 97,
-    "fifa_w_rank": 80
+    "fifa_w_rank": 80,
+    "news_score": 0
   },
   {
     "flag": "🇲🇬",
@@ -22340,7 +22441,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 86.9,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇲🇼",
@@ -22515,7 +22617,8 @@
     "refugees_rank": null,
     "union_rate": 63.2,
     "union_rate_rank": null,
-    "fifa_w_rank": 103
+    "fifa_w_rank": 103,
+    "news_score": 0
   },
   {
     "flag": "🇲🇾",
@@ -22742,7 +22845,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 70.7,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇲🇻",
@@ -22911,7 +23015,8 @@
     "union_rate": 66.4,
     "union_rate_rank": null,
     "fifa_ranking_rank": 142,
-    "fifa_w_rank": 111
+    "fifa_w_rank": 111,
+    "news_score": 0
   },
   {
     "flag": "🇲🇱",
@@ -23091,7 +23196,8 @@
     "refugees_rank": null,
     "union_rate": 68.5,
     "union_rate_rank": null,
-    "fifa_w_rank": 64
+    "fifa_w_rank": 64,
+    "news_score": 0
   },
   {
     "flag": "🇲🇹",
@@ -23266,7 +23372,8 @@
     "union_rate": 81.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 134,
-    "fifa_w_rank": 67
+    "fifa_w_rank": 67,
+    "news_score": 0
   },
   {
     "flag": "🇲🇭",
@@ -23432,7 +23539,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇲🇶",
@@ -23597,7 +23705,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇲🇷",
@@ -23765,7 +23874,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 41.9,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇲🇺",
@@ -23932,7 +24042,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 68.8,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇾🇹",
@@ -24096,7 +24207,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇲🇽",
@@ -24407,7 +24519,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 66.3,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 1
   },
   {
     "flag": "🇫🇲",
@@ -24572,7 +24685,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇲🇩",
@@ -24748,7 +24862,8 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_ranking_rank": 133,
-    "fifa_w_rank": 85
+    "fifa_w_rank": 85,
+    "news_score": 0
   },
   {
     "flag": "🇲🇨",
@@ -24919,7 +25034,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇲🇳",
@@ -25097,7 +25213,8 @@
     "union_rate": 63.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 146,
-    "fifa_w_rank": 99
+    "fifa_w_rank": 99,
+    "news_score": 0
   },
   {
     "flag": "🇲🇪",
@@ -25271,7 +25388,8 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_ranking_rank": 83,
-    "fifa_w_rank": 65
+    "fifa_w_rank": 65,
+    "news_score": 0
   },
   {
     "flag": "🇲🇦",
@@ -25456,7 +25574,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 47.8,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇲🇿",
@@ -25627,7 +25746,8 @@
     "refugees_rank": null,
     "union_rate": 79.1,
     "union_rate_rank": null,
-    "fifa_w_rank": 114
+    "fifa_w_rank": 114,
+    "news_score": 0
   },
   {
     "flag": "🇲🇲",
@@ -25830,7 +25950,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 59.8,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇳🇦",
@@ -26008,7 +26129,8 @@
     "refugees_rank": null,
     "union_rate": 60.1,
     "union_rate_rank": null,
-    "fifa_w_rank": 87
+    "fifa_w_rank": 87,
+    "news_score": 0
   },
   {
     "flag": "🇳🇷",
@@ -26174,7 +26296,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇳🇵",
@@ -26354,7 +26477,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 41.9,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇳🇱",
@@ -26727,7 +26851,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 85.6,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 1
   },
   {
     "flag": "🇳🇨",
@@ -26894,7 +27019,8 @@
     "union_rate": 65.1,
     "union_rate_rank": null,
     "fifa_ranking_rank": 131,
-    "fifa_w_rank": 75
+    "fifa_w_rank": 75,
+    "news_score": 0
   },
   {
     "flag": "🇳🇿",
@@ -27204,7 +27330,8 @@
     "refugees_rank": null,
     "union_rate": 82.6,
     "union_rate_rank": null,
-    "fifa_ranking_rank": 87
+    "fifa_ranking_rank": 87,
+    "news_score": 0
   },
   {
     "flag": "🇳🇮",
@@ -27378,7 +27505,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 69.0,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇳🇪",
@@ -27553,7 +27681,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 80.4,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇳🇬",
@@ -27815,7 +27944,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 83.3,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇳🇺",
@@ -27979,7 +28109,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇰🇵",
@@ -28159,7 +28290,8 @@
     "refugees_rank": null,
     "union_rate": 89.3,
     "union_rate_rank": null,
-    "fifa_ranking_rank": 111
+    "fifa_ranking_rank": 111,
+    "news_score": 0
   },
   {
     "flag": "🇲🇰",
@@ -28332,7 +28464,8 @@
     "refugees_rank": null,
     "union_rate": 65.8,
     "union_rate_rank": null,
-    "fifa_w_rank": 92
+    "fifa_w_rank": 92,
+    "news_score": 0
   },
   {
     "flag": "🇲🇵",
@@ -28496,7 +28629,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇳🇴",
@@ -28809,7 +28943,8 @@
     "child_marriage": 0,
     "child_marriage_rank": null,
     "refugees": null,
-    "refugees_rank": null
+    "refugees_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇴🇲",
@@ -28981,7 +29116,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 70.4,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇵🇰",
@@ -29236,7 +29372,8 @@
     "child_marriage_rank": null,
     "union_rate": 54.7,
     "union_rate_rank": null,
-    "fifa_w_rank": 104
+    "fifa_w_rank": 104,
+    "news_score": 0
   },
   {
     "flag": "🇵🇼",
@@ -29402,7 +29539,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇵🇸",
@@ -29572,7 +29710,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 47.3,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇵🇦",
@@ -29753,7 +29892,8 @@
     "refugees_rank": null,
     "union_rate": 71.9,
     "union_rate_rank": null,
-    "fifa_w_rank": 48
+    "fifa_w_rank": 48,
+    "news_score": 0
   },
   {
     "flag": "🇵🇬",
@@ -29929,7 +30069,8 @@
     "union_rate": 52.9,
     "union_rate_rank": null,
     "fifa_ranking_rank": 138,
-    "fifa_w_rank": 49
+    "fifa_w_rank": 49,
+    "news_score": 0
   },
   {
     "flag": "🇵🇾",
@@ -30102,7 +30243,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 73.9,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇵🇪",
@@ -30309,7 +30451,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 77.0,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇵🇭",
@@ -30567,7 +30710,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 63.7,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇵🇱",
@@ -30839,7 +30983,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 75.0,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇵🇹",
@@ -31106,7 +31251,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 77.8,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇵🇷",
@@ -31276,7 +31422,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 56.8,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇶🇦",
@@ -31472,7 +31619,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 88.1,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 1
   },
   {
     "flag": "🇨🇬",
@@ -31640,7 +31788,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 68.7,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇷🇴",
@@ -31890,7 +32039,8 @@
     "refugees_rank": null,
     "union_rate": 66.9,
     "union_rate_rank": null,
-    "fifa_ranking_rank": 51
+    "fifa_ranking_rank": 51,
+    "news_score": 0
   },
   {
     "flag": "🇷🇺",
@@ -32227,7 +32377,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 76.1,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 2
   },
   {
     "flag": "🇷🇼",
@@ -32401,7 +32552,8 @@
     "refugees_rank": null,
     "union_rate": 66.1,
     "union_rate_rank": null,
-    "fifa_w_rank": 112
+    "fifa_w_rank": 112,
+    "news_score": 0
   },
   {
     "flag": "🇸🇭",
@@ -32565,7 +32717,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇰🇳",
@@ -32731,7 +32884,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇱🇨",
@@ -32901,7 +33055,8 @@
     "union_rate": 74.9,
     "union_rate_rank": null,
     "fifa_ranking_rank": 137,
-    "fifa_w_rank": 109
+    "fifa_w_rank": 109,
+    "news_score": 0
   },
   {
     "country_code": "sm",
@@ -33082,7 +33237,8 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "fifa_ranking_rank": 154
+    "fifa_ranking_rank": 154,
+    "news_score": 0
   },
   {
     "flag": "🇸🇬",
@@ -33346,7 +33502,8 @@
     "union_rate": 77.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 128,
-    "fifa_w_rank": 102
+    "fifa_w_rank": 102,
+    "news_score": 0
   },
   {
     "flag": "🇸🇽",
@@ -33510,7 +33667,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇸🇰",
@@ -33749,7 +33907,8 @@
     "union_rate": 76.2,
     "union_rate_rank": null,
     "fifa_ranking_rank": 46,
-    "fifa_w_rank": 47
+    "fifa_w_rank": 47,
+    "news_score": 0
   },
   {
     "flag": "🇸🇮",
@@ -33987,7 +34146,8 @@
     "union_rate": 76.2,
     "union_rate_rank": null,
     "fifa_ranking_rank": 56,
-    "fifa_w_rank": 36
+    "fifa_w_rank": 36,
+    "news_score": 0
   },
   {
     "flag": "🇸🇧",
@@ -34152,7 +34312,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 85.8,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇸🇴",
@@ -34341,7 +34502,8 @@
     "refugees_rank": null,
     "union_rate": 34.8,
     "union_rate_rank": null,
-    "fifa_ranking_rank": 149
+    "fifa_ranking_rank": 149,
+    "news_score": 0
   },
   {
     "flag": "🇿🇦",
@@ -34619,7 +34781,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 60.6,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇰🇷",
@@ -35091,7 +35254,8 @@
     "child_marriage": null,
     "child_marriage_rank": null,
     "refugees": null,
-    "refugees_rank": null
+    "refugees_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇸🇸",
@@ -35290,7 +35454,8 @@
     "union_rate": 74.3,
     "union_rate_rank": null,
     "fifa_ranking_rank": 139,
-    "fifa_w_rank": 125
+    "fifa_w_rank": 125,
+    "news_score": 1
   },
   {
     "flag": "🇪🇸",
@@ -35649,7 +35814,8 @@
     "child_marriage": null,
     "child_marriage_rank": null,
     "refugees": null,
-    "refugees_rank": null
+    "refugees_rank": null,
+    "news_score": 1
   },
   {
     "flag": "🇱🇰",
@@ -35826,7 +35992,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 53.8,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇸🇩",
@@ -36015,7 +36182,8 @@
     "child_marriage_rank": null,
     "union_rate": 37.9,
     "union_rate_rank": null,
-    "fifa_w_rank": 124
+    "fifa_w_rank": 124,
+    "news_score": 1
   },
   {
     "flag": "🇸🇷",
@@ -36185,7 +36353,8 @@
     "union_rate": 60.1,
     "union_rate_rank": null,
     "fifa_ranking_rank": 114,
-    "fifa_w_rank": 96
+    "fifa_w_rank": 96,
+    "news_score": 0
   },
   {
     "flag": "🇸🇪",
@@ -36561,7 +36730,8 @@
     "child_marriage": null,
     "child_marriage_rank": null,
     "refugees": null,
-    "refugees_rank": null
+    "refugees_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇨🇭",
@@ -36880,7 +37050,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 84.0,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 1
   },
   {
     "flag": "🇸🇾",
@@ -37060,7 +37231,8 @@
     "refugees_rank": null,
     "union_rate": 38.9,
     "union_rate_rank": null,
-    "fifa_w_rank": 107
+    "fifa_w_rank": 107,
+    "news_score": 0
   },
   {
     "flag": "🇹🇼",
@@ -37261,7 +37433,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇹🇯",
@@ -37432,7 +37605,8 @@
     "union_rate": 40.4,
     "union_rate_rank": null,
     "fifa_ranking_rank": 100,
-    "fifa_w_rank": 106
+    "fifa_w_rank": 106,
+    "news_score": 0
   },
   {
     "flag": "🇹🇿",
@@ -37625,7 +37799,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 85.0,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇹🇭",
@@ -37892,7 +38067,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 75.8,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇹🇱",
@@ -38061,7 +38237,8 @@
     "union_rate": 67.4,
     "union_rate_rank": null,
     "fifa_ranking_rank": 150,
-    "fifa_w_rank": 105
+    "fifa_w_rank": 105,
+    "news_score": 0
   },
   {
     "flag": "🇹🇬",
@@ -38232,7 +38409,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 59.0,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇹🇴",
@@ -38399,7 +38577,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 52.2,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇹🇹",
@@ -38570,7 +38749,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 67.3,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇹🇳",
@@ -38742,7 +38922,8 @@
     "refugees_rank": null,
     "union_rate": 51.1,
     "union_rate_rank": null,
-    "fifa_w_rank": 74
+    "fifa_w_rank": 74,
+    "news_score": 0
   },
   {
     "flag": "🇹🇷",
@@ -39023,7 +39204,8 @@
     "child_marriage_rank": null,
     "union_rate": 60.8,
     "union_rate_rank": null,
-    "fifa_w_rank": 42
+    "fifa_w_rank": 42,
+    "news_score": 0
   },
   {
     "flag": "🇹🇲",
@@ -39193,7 +39375,8 @@
     "union_rate": 44.8,
     "union_rate_rank": null,
     "fifa_ranking_rank": 122,
-    "fifa_w_rank": 97
+    "fifa_w_rank": 97,
+    "news_score": 0
   },
   {
     "flag": "🇹🇨",
@@ -39359,7 +39542,8 @@
     "union_rate": null,
     "union_rate_rank": null,
     "fifa_ranking_rank": 151,
-    "fifa_w_rank": 126
+    "fifa_w_rank": 126,
+    "news_score": 0
   },
   {
     "flag": "🇹🇻",
@@ -39525,7 +39709,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇺🇬",
@@ -39721,7 +39906,8 @@
     "child_marriage_rank": null,
     "union_rate": 81.2,
     "union_rate_rank": null,
-    "fifa_w_rank": 98
+    "fifa_w_rank": 98,
+    "news_score": 0
   },
   {
     "flag": "🇺🇦",
@@ -39935,7 +40121,8 @@
     "refugees_rank": null,
     "union_rate": 66.8,
     "union_rate_rank": null,
-    "fifa_w_rank": 32
+    "fifa_w_rank": 32,
+    "news_score": 4
   },
   {
     "flag": "🇦🇪",
@@ -40144,7 +40331,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 79.6,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇬🇧",
@@ -40645,7 +40833,8 @@
     "child_labor": null,
     "child_labor_rank": null,
     "refugees": null,
-    "refugees_rank": null
+    "refugees_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇺🇸",
@@ -41162,7 +41351,8 @@
     "child_labor": null,
     "child_labor_rank": null,
     "refugees": null,
-    "refugees_rank": null
+    "refugees_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇺🇾",
@@ -41356,7 +41546,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 77.5,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇺🇿",
@@ -41532,7 +41723,8 @@
     "refugees_rank": null,
     "union_rate": 62.9,
     "union_rate_rank": null,
-    "fifa_w_rank": 45
+    "fifa_w_rank": 45,
+    "news_score": 0
   },
   {
     "flag": "🇻🇺",
@@ -41697,7 +41889,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 60.0,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇻🇦",
@@ -41861,7 +42054,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇻🇪",
@@ -42047,7 +42241,8 @@
     "refugees_rank": null,
     "union_rate": 56.6,
     "union_rate_rank": null,
-    "fifa_w_rank": 40
+    "fifa_w_rank": 40,
+    "news_score": 0
   },
   {
     "flag": "🇻🇳",
@@ -42319,7 +42514,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 78.4,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇼🇫",
@@ -42483,7 +42679,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇪🇭",
@@ -42647,7 +42844,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇾🇪",
@@ -42834,7 +43032,8 @@
     "refugees_rank": null,
     "union_rate": 34.0,
     "union_rate_rank": null,
-    "fifa_ranking_rank": 127
+    "fifa_ranking_rank": 127,
+    "news_score": 1
   },
   {
     "flag": "🇿🇲",
@@ -43017,7 +43216,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 62.2,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇿🇼",
@@ -43196,7 +43396,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": 68.5,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "🇦🇽",
@@ -43360,7 +43561,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXAMZON",
@@ -43568,7 +43770,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXAPPLE",
@@ -43776,7 +43979,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXGOOGLE",
@@ -43984,7 +44188,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXMETA_",
@@ -44192,7 +44397,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXMCSFT",
@@ -44400,7 +44606,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXNVDIA",
@@ -44608,7 +44815,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXSMSNG",
@@ -44816,7 +45024,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXTSMC_",
@@ -45024,7 +45233,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXTESLA",
@@ -45232,7 +45442,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXTOYOT",
@@ -45440,7 +45651,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXBTS__",
@@ -45650,7 +45862,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXBEZOS",
@@ -45859,7 +46072,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXLBJ__",
@@ -46067,7 +46281,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXMESSI",
@@ -46275,7 +46490,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXMUSK_",
@@ -46484,7 +46700,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXCR7__",
@@ -46692,7 +46909,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXSWIFT",
@@ -46901,7 +47119,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXZUCK_",
@@ -47109,7 +47328,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXFCBAR",
@@ -47318,7 +47538,8 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "fifa_ranking_rank": 6
+    "fifa_ranking_rank": 6,
+    "news_score": 0
   },
   {
     "flag": "XXFIFA_",
@@ -47527,7 +47748,8 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "fifa_ranking_rank": 1
+    "fifa_ranking_rank": 1,
+    "news_score": 0
   },
   {
     "flag": "XXHARVD",
@@ -47736,7 +47958,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXIOC__",
@@ -47944,7 +48167,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXMIT__",
@@ -48152,7 +48376,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXMANUT",
@@ -48361,7 +48586,8 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "fifa_ranking_rank": 13
+    "fifa_ranking_rank": 13,
+    "news_score": 0
   },
   {
     "flag": "XXNASA_",
@@ -48570,7 +48796,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXRMADR",
@@ -48779,7 +49006,8 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "fifa_ranking_rank": 3
+    "fifa_ranking_rank": 3,
+    "news_score": 0
   },
   {
     "flag": "XXUN___",
@@ -48988,7 +49216,8 @@
     "child_marriage_rank": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 9
   },
   {
     "flag": "XXWHO__",
@@ -49197,7 +49426,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 2
   },
   {
     "flag": "XXD9EBE",
@@ -49405,7 +49635,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXF4C30",
@@ -49613,7 +49844,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX9BAB1",
@@ -49821,7 +50053,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX37429",
@@ -50029,7 +50262,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX05F7A",
@@ -50237,7 +50471,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX03E8B",
@@ -50445,7 +50680,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX55151",
@@ -50653,7 +50889,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX65D20",
@@ -50861,7 +51098,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX4D8EA",
@@ -51069,7 +51307,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX7166E",
@@ -51277,7 +51516,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 1
   },
   {
     "flag": "XX9D937",
@@ -51485,7 +51725,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXF10D0",
@@ -51693,7 +51934,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX99B87",
@@ -51901,7 +52143,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX0BA34",
@@ -52109,7 +52352,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX47259",
@@ -52317,7 +52561,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX6C0C9",
@@ -52525,7 +52770,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 2
   },
   {
     "flag": "XXE3A5D",
@@ -52733,7 +52979,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX3B478",
@@ -52941,7 +53188,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX20F0F",
@@ -53149,7 +53397,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX3F80A",
@@ -53357,7 +53606,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX7FFA9",
@@ -53565,7 +53815,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 1
   },
   {
     "flag": "XX13CD7",
@@ -53773,7 +54024,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX81E77",
@@ -53981,7 +54233,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXBAF59",
@@ -54189,7 +54442,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXE4DB4",
@@ -54397,7 +54651,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXB112B",
@@ -54605,7 +54860,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX3D50D",
@@ -54813,7 +55069,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX0A5BF",
@@ -55021,7 +55278,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXDC207",
@@ -55229,7 +55487,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX9AD14",
@@ -55437,7 +55696,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXAFBCF",
@@ -55645,7 +55905,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXA4F05",
@@ -55853,7 +56114,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX3A31A",
@@ -56061,7 +56323,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX00C79",
@@ -56269,7 +56532,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX938D9",
@@ -56477,7 +56741,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX60072",
@@ -56685,7 +56950,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXA32E9",
@@ -56893,7 +57159,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXD65DF",
@@ -57101,7 +57368,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX9DAF1",
@@ -57310,7 +57578,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX2596D",
@@ -57519,7 +57788,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX3FE68",
@@ -57728,7 +57998,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX538A7",
@@ -57937,7 +58208,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXD4D4E",
@@ -58146,7 +58418,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXD88A7",
@@ -58355,7 +58628,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX3D67D",
@@ -58564,7 +58838,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 1
   },
   {
     "flag": "XX5213D",
@@ -58773,7 +59048,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX946B0",
@@ -58982,7 +59258,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX28CCD",
@@ -59191,7 +59468,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX6C35E",
@@ -59400,7 +59678,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXDB41C",
@@ -59609,7 +59888,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX2A9C9",
@@ -59818,7 +60098,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXCAE82",
@@ -60027,7 +60308,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXD8D65",
@@ -60236,7 +60518,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXEDC5A",
@@ -60445,7 +60728,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXD1C13",
@@ -60654,7 +60938,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX8E59B",
@@ -60863,7 +61148,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX78586",
@@ -61072,7 +61358,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX65AC7",
@@ -61281,7 +61568,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX73438",
@@ -61490,7 +61778,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXD812F",
@@ -61699,7 +61988,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX681E3",
@@ -61908,7 +62198,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX81E77",
@@ -62117,7 +62408,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXEA08E",
@@ -62326,7 +62618,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXC8872",
@@ -62535,7 +62828,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX40A3D",
@@ -62744,7 +63038,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXF94CD",
@@ -62953,7 +63248,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 2
   },
   {
     "flag": "XX3750C",
@@ -63162,7 +63458,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXAF74B",
@@ -63371,7 +63668,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX6DCB9",
@@ -63580,7 +63878,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXDE46F",
@@ -63789,7 +64088,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXB7BB3",
@@ -63998,7 +64298,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX736B3",
@@ -64207,7 +64508,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX84F42",
@@ -64416,7 +64718,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX69F84",
@@ -64625,7 +64928,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXBED1D",
@@ -64834,7 +65138,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXCE674",
@@ -65043,7 +65348,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXC795E",
@@ -65252,7 +65558,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX72D23",
@@ -65461,7 +65768,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX45D22",
@@ -65670,7 +65978,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX002E2",
@@ -65879,7 +66188,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX37713",
@@ -66088,7 +66398,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX1F1F1",
@@ -66297,7 +66608,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX64039",
@@ -66506,7 +66818,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXFA369",
@@ -66715,7 +67028,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX5853D",
@@ -66924,7 +67238,8 @@
     "refugees": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX648FE",
@@ -67133,7 +67448,8 @@
     "child_marriage_rank": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 1
   },
   {
     "flag": "XX901F5",
@@ -67342,7 +67658,8 @@
     "child_marriage_rank": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX1F390",
@@ -67551,7 +67868,8 @@
     "child_marriage_rank": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX0380C",
@@ -67760,7 +68078,8 @@
     "child_marriage_rank": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX7B68B",
@@ -67969,7 +68288,8 @@
     "child_marriage_rank": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX0ED2C",
@@ -68178,7 +68498,8 @@
     "child_marriage_rank": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX91668",
@@ -68387,7 +68708,8 @@
     "child_marriage_rank": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 1
   },
   {
     "flag": "XXD8951",
@@ -68596,7 +68918,8 @@
     "child_marriage_rank": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX01CE6",
@@ -68805,7 +69128,8 @@
     "child_marriage_rank": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX6677B",
@@ -69014,7 +69338,8 @@
     "child_marriage_rank": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX66487",
@@ -69223,7 +69548,8 @@
     "child_marriage_rank": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXE1880",
@@ -69432,7 +69758,8 @@
     "child_marriage_rank": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX0AD9E",
@@ -69641,7 +69968,8 @@
     "child_marriage_rank": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX94AAD",
@@ -69850,7 +70178,8 @@
     "child_marriage_rank": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 83
   },
   {
     "flag": "XXAD724",
@@ -70059,7 +70388,8 @@
     "child_marriage_rank": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX5F767",
@@ -70268,7 +70598,8 @@
     "child_marriage_rank": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX96C20",
@@ -70477,7 +70808,8 @@
     "child_marriage_rank": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXAA176",
@@ -70686,7 +71018,8 @@
     "child_marriage_rank": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXC28AE",
@@ -70895,7 +71228,8 @@
     "child_marriage_rank": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXB7BB4",
@@ -71104,7 +71438,8 @@
     "child_marriage_rank": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX17B1B",
@@ -71313,7 +71648,8 @@
     "child_marriage_rank": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX352BB",
@@ -71522,7 +71858,8 @@
     "child_marriage_rank": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XXDF932",
@@ -71731,7 +72068,8 @@
     "child_marriage_rank": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
   },
   {
     "flag": "XX949D5",
@@ -71940,6 +72278,427 @@
     "child_marriage_rank": null,
     "refugees_rank": null,
     "union_rate": null,
-    "union_rate_rank": null
+    "union_rate_rank": null,
+    "news_score": 0
+  },
+  {
+    "flag": "XX7F6A6",
+    "country_summary": "Sanae Takaichi - 최근 뉴스 등장, 순자산 추정 $5M",
+    "country_name_en": "**Sanae Takaichi",
+    "country_name_local": "**Sanae Takaichi",
+    "capital_en": "Global",
+    "capital_local": null,
+    "continent": "⭐인물",
+    "subcontinent": "뉴스인물",
+    "national_anthem_en": null,
+    "national_anthem_local": null,
+    "head_of_state_en": null,
+    "head_of_state_local": null,
+    "oecd_member": null,
+    "oecd_year": null,
+    "brics_member": null,
+    "brics_year": null,
+    "population": 1,
+    "population_rank": null,
+    "area": null,
+    "area_rank": null,
+    "population_density": null,
+    "population_density_rank": null,
+    "country_code": "XX7F6A6",
+    "gdp": 5,
+    "gdp_per_capita": null,
+    "hdi": null,
+    "life_expectancy": null,
+    "happiness": null,
+    "fifa_ranking": null,
+    "cpi": null,
+    "gpi": null,
+    "internet_pct": null,
+    "military_pct": null,
+    "gdp_rank": null,
+    "gdp_per_capita_rank": null,
+    "hdi_rank": null,
+    "life_expectancy_rank": null,
+    "happiness_rank": null,
+    "internet_pct_rank": null,
+    "cpi_rank": null,
+    "gpi_rank": null,
+    "military_pct_rank": null,
+    "lat": null,
+    "lon": null,
+    "election_days": null,
+    "election_date": null,
+    "election_rank": null,
+    "co2": null,
+    "murder": null,
+    "edu": null,
+    "democracy": null,
+    "press": null,
+    "unemp": null,
+    "debt": null,
+    "health": null,
+    "rd": null,
+    "gender": null,
+    "olympic": null,
+    "fifa_w": null,
+    "cricket": null,
+    "rugby": null,
+    "basket": null,
+    "obesity": null,
+    "alcohol": null,
+    "tourism": null,
+    "forest": null,
+    "renew": null,
+    "edu_rank": null,
+    "democracy_rank": null,
+    "tourism_rank": null,
+    "forest_rank": null,
+    "co2_rank": null,
+    "press_rank": null,
+    "cricket_rank": null,
+    "fertility": null,
+    "poverty": null,
+    "english": null,
+    "pm25": null,
+    "nobel": null,
+    "nuclear": null,
+    "patents": null,
+    "fertility_rank": null,
+    "approval": null,
+    "gini": null,
+    "suicide": null,
+    "tz": null,
+    "prison": null,
+    "literacy": null,
+    "netspeed": null,
+    "doctors": null,
+    "heritage": null,
+    "leave": null,
+    "independence": null,
+    "smoking": null,
+    "mcdonalds": null,
+    "elevation": null,
+    "agri": null,
+    "languages": null,
+    "coffee": null,
+    "literacy_rank": null,
+    "elevation_rank": null,
+    "police": null,
+    "beds": null,
+    "students_per_teacher": null,
+    "salary": null,
+    "workhours": null,
+    "students_per_teacher_rank": null,
+    "birth_rate": null,
+    "death_rate": null,
+    "infant_mortality": null,
+    "urban_pop": null,
+    "median_age": null,
+    "energy_per_capita": null,
+    "inflation": null,
+    "gas_price": null,
+    "car_density": null,
+    "meat": null,
+    "govern_spend": null,
+    "tax_rev": null,
+    "reserves": null,
+    "exports": null,
+    "imports": null,
+    "penetration": null,
+    "divorce": null,
+    "aviation": null,
+    "religion_div": null,
+    "electricity": null,
+    "birth_rate_rank": null,
+    "urban_pop_rank": null,
+    "median_age_rank": null,
+    "infant_mortality_rank": null,
+    "military_personnel": null,
+    "line_length": null,
+    "maternal_mortality": null,
+    "beer": null,
+    "wine": null,
+    "chocolate": null,
+    "airports": null,
+    "startups": null,
+    "chess": null,
+    "nobel_per_capita": null,
+    "earthquakes": null,
+    "hdi_adj": null,
+    "books": null,
+    "trump_approval": null,
+    "nato": null,
+    "nuclear_power": null,
+    "volcanoes": null,
+    "math_olympiad": null,
+    "earthquakes_rank": null,
+    "maternal_mortality_rank": null,
+    "ethnic": null,
+    "earthquake_count": null,
+    "emigration": null,
+    "earthquake_count_rank": null,
+    "emigration_rank": null,
+    "war_index": null,
+    "polit_kill": null,
+    "displaced_from": null,
+    "domestic_viol": null,
+    "war_index_rank": null,
+    "polit_kill_rank": null,
+    "displaced_from_rank": null,
+    "domestic_viol_rank": null,
+    "slavery": null,
+    "death_penalty": null,
+    "slavery_rank": null,
+    "death_penalty_rank": null,
+    "space_launch": null,
+    "oecd_member_order": null,
+    "g20_member": null,
+    "eu_member": null,
+    "asean_member": null,
+    "apec_member": null,
+    "g7_member": null,
+    "nato_year": null,
+    "oecd_member_order_rank": null,
+    "g20_member_rank": null,
+    "eu_member_rank": null,
+    "asean_member_rank": null,
+    "apec_member_rank": null,
+    "g7_member_rank": null,
+    "nato_year_rank": null,
+    "women_parl": null,
+    "women_parl_rank": null,
+    "teen_pregnancy": null,
+    "teen_pregnancy_rank": null,
+    "college_rate": null,
+    "college_rate_rank": null,
+    "diabetes": null,
+    "diabetes_rank": null,
+    "cancer": null,
+    "cancer_rank": null,
+    "mental_health": null,
+    "mental_health_rank": null,
+    "hiv_prev": null,
+    "hiv_prev_rank": null,
+    "extreme_poverty": null,
+    "extreme_poverty_rank": null,
+    "child_labor": null,
+    "child_labor_rank": null,
+    "child_marriage": null,
+    "child_marriage_rank": null,
+    "refugees": null,
+    "refugees_rank": null,
+    "union_rate": null,
+    "union_rate_rank": null,
+    "news_score": 0
+  },
+  {
+    "flag": "XX0D193",
+    "country_summary": "Sam Neill - 최근 뉴스 등장, 순자산 추정 $5M",
+    "country_name_en": "**Sam Neill",
+    "country_name_local": "**Sam Neill",
+    "capital_en": "Global",
+    "capital_local": null,
+    "continent": "⭐인물",
+    "subcontinent": "뉴스인물",
+    "national_anthem_en": null,
+    "national_anthem_local": null,
+    "head_of_state_en": null,
+    "head_of_state_local": null,
+    "oecd_member": null,
+    "oecd_year": null,
+    "brics_member": null,
+    "brics_year": null,
+    "population": 1,
+    "population_rank": null,
+    "area": null,
+    "area_rank": null,
+    "population_density": null,
+    "population_density_rank": null,
+    "country_code": "XX0D193",
+    "gdp": 5,
+    "gdp_per_capita": null,
+    "hdi": null,
+    "life_expectancy": null,
+    "happiness": null,
+    "fifa_ranking": null,
+    "cpi": null,
+    "gpi": null,
+    "internet_pct": null,
+    "military_pct": null,
+    "gdp_rank": null,
+    "gdp_per_capita_rank": null,
+    "hdi_rank": null,
+    "life_expectancy_rank": null,
+    "happiness_rank": null,
+    "internet_pct_rank": null,
+    "cpi_rank": null,
+    "gpi_rank": null,
+    "military_pct_rank": null,
+    "lat": null,
+    "lon": null,
+    "election_days": null,
+    "election_date": null,
+    "election_rank": null,
+    "co2": null,
+    "murder": null,
+    "edu": null,
+    "democracy": null,
+    "press": null,
+    "unemp": null,
+    "debt": null,
+    "health": null,
+    "rd": null,
+    "gender": null,
+    "olympic": null,
+    "fifa_w": null,
+    "cricket": null,
+    "rugby": null,
+    "basket": null,
+    "obesity": null,
+    "alcohol": null,
+    "tourism": null,
+    "forest": null,
+    "renew": null,
+    "edu_rank": null,
+    "democracy_rank": null,
+    "tourism_rank": null,
+    "forest_rank": null,
+    "co2_rank": null,
+    "press_rank": null,
+    "cricket_rank": null,
+    "fertility": null,
+    "poverty": null,
+    "english": null,
+    "pm25": null,
+    "nobel": null,
+    "nuclear": null,
+    "patents": null,
+    "fertility_rank": null,
+    "approval": null,
+    "gini": null,
+    "suicide": null,
+    "tz": null,
+    "prison": null,
+    "literacy": null,
+    "netspeed": null,
+    "doctors": null,
+    "heritage": null,
+    "leave": null,
+    "independence": null,
+    "smoking": null,
+    "mcdonalds": null,
+    "elevation": null,
+    "agri": null,
+    "languages": null,
+    "coffee": null,
+    "literacy_rank": null,
+    "elevation_rank": null,
+    "police": null,
+    "beds": null,
+    "students_per_teacher": null,
+    "salary": null,
+    "workhours": null,
+    "students_per_teacher_rank": null,
+    "birth_rate": null,
+    "death_rate": null,
+    "infant_mortality": null,
+    "urban_pop": null,
+    "median_age": null,
+    "energy_per_capita": null,
+    "inflation": null,
+    "gas_price": null,
+    "car_density": null,
+    "meat": null,
+    "govern_spend": null,
+    "tax_rev": null,
+    "reserves": null,
+    "exports": null,
+    "imports": null,
+    "penetration": null,
+    "divorce": null,
+    "aviation": null,
+    "religion_div": null,
+    "electricity": null,
+    "birth_rate_rank": null,
+    "urban_pop_rank": null,
+    "median_age_rank": null,
+    "infant_mortality_rank": null,
+    "military_personnel": null,
+    "line_length": null,
+    "maternal_mortality": null,
+    "beer": null,
+    "wine": null,
+    "chocolate": null,
+    "airports": null,
+    "startups": null,
+    "chess": null,
+    "nobel_per_capita": null,
+    "earthquakes": null,
+    "hdi_adj": null,
+    "books": null,
+    "trump_approval": null,
+    "nato": null,
+    "nuclear_power": null,
+    "volcanoes": null,
+    "math_olympiad": null,
+    "earthquakes_rank": null,
+    "maternal_mortality_rank": null,
+    "ethnic": null,
+    "earthquake_count": null,
+    "emigration": null,
+    "earthquake_count_rank": null,
+    "emigration_rank": null,
+    "war_index": null,
+    "polit_kill": null,
+    "displaced_from": null,
+    "domestic_viol": null,
+    "war_index_rank": null,
+    "polit_kill_rank": null,
+    "displaced_from_rank": null,
+    "domestic_viol_rank": null,
+    "slavery": null,
+    "death_penalty": null,
+    "slavery_rank": null,
+    "death_penalty_rank": null,
+    "space_launch": null,
+    "oecd_member_order": null,
+    "g20_member": null,
+    "eu_member": null,
+    "asean_member": null,
+    "apec_member": null,
+    "g7_member": null,
+    "nato_year": null,
+    "oecd_member_order_rank": null,
+    "g20_member_rank": null,
+    "eu_member_rank": null,
+    "asean_member_rank": null,
+    "apec_member_rank": null,
+    "g7_member_rank": null,
+    "nato_year_rank": null,
+    "women_parl": null,
+    "women_parl_rank": null,
+    "teen_pregnancy": null,
+    "teen_pregnancy_rank": null,
+    "college_rate": null,
+    "college_rate_rank": null,
+    "diabetes": null,
+    "diabetes_rank": null,
+    "cancer": null,
+    "cancer_rank": null,
+    "mental_health": null,
+    "mental_health_rank": null,
+    "hiv_prev": null,
+    "hiv_prev_rank": null,
+    "extreme_poverty": null,
+    "extreme_poverty_rank": null,
+    "child_labor": null,
+    "child_labor_rank": null,
+    "child_marriage": null,
+    "child_marriage_rank": null,
+    "refugees": null,
+    "refugees_rank": null,
+    "union_rate": null,
+    "union_rate_rank": null,
+    "news_score": 2
   }
 ]

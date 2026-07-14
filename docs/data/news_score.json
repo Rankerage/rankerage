@@ -1,0 +1,296 @@
+{
+  "updated": "2026-07-14T12:39:46.013357",
+  "total_headlines": 60,
+  "trending": [
+    {
+      "score": 83,
+      "name": "***Columbia U",
+      "country_code": "XX94AAD",
+      "summary": "Columbia U - 교육"
+    },
+    {
+      "score": 10,
+      "name": "Iran",
+      "country_code": "ir",
+      "summary": "Iran: 중동의 석유 부국으로, 고대 페르시아 문명의 후예입니다."
+    },
+    {
+      "score": 9,
+      "name": "***UN",
+      "country_code": "XXUN___",
+      "summary": "United Nations - 국제연합, 193개 회원국"
+    },
+    {
+      "score": 4,
+      "name": "Ukraine",
+      "country_code": "ua",
+      "summary": "Ukraine: 동유럽의 국가로, 현재 러시아와의 갈등으로 주목받고 있습니다."
+    },
+    {
+      "score": 3,
+      "name": "Israel",
+      "country_code": "il",
+      "summary": "Israel: 중동의 작은 국가로, 혁신적인 기술과 경제를 보유하고 있습니다."
+    },
+    {
+      "score": 2,
+      "name": "Costa Rica",
+      "country_code": "cr",
+      "summary": "Costa Rica: 중미의 안정적인 민주주의 국가로, 생태 관광으로 유명합니다."
+    },
+    {
+      "score": 2,
+      "name": "Russia",
+      "country_code": "ru",
+      "summary": "Russia: 세계에서 가장 큰 영토를 가진 국가로, 브릭스(BRICS) 회원국입니다."
+    },
+    {
+      "score": 2,
+      "name": "***WHO",
+      "country_code": "XXWHO__",
+      "summary": "World Health Organization - 세계보건기구"
+    },
+    {
+      "score": 2,
+      "name": "*Bank of America",
+      "country_code": "XX6C0C9",
+      "summary": "Bank of America - Banking, 시총 $340B"
+    },
+    {
+      "score": 2,
+      "name": "**Son",
+      "country_code": "XXF94CD",
+      "summary": "Son - 축구선수, 순자산 $60M"
+    },
+    {
+      "score": 2,
+      "name": "**Sam Neill",
+      "country_code": "XX0D193",
+      "summary": "Sam Neill - 최근 뉴스 등장, 순자산 추정 $5M"
+    },
+    {
+      "score": 1,
+      "name": "Colombia",
+      "country_code": "co",
+      "summary": "Colombia: 남아메리카의 안데스 산맥이 지나가는 국가로, 커피 생산으로 유명합니다."
+    },
+    {
+      "score": 1,
+      "name": "Hungary",
+      "country_code": "hu",
+      "summary": "Hungary: 중유럽의 역사적 국가로, 다뉴브 강을 중심으로 발전했습니다."
+    },
+    {
+      "score": 1,
+      "name": "Iraq",
+      "country_code": "iq",
+      "summary": "Iraq: 중동의 석유 부국으로, 풍부한 역사와 문화를 자랑합니다."
+    },
+    {
+      "score": 1,
+      "name": "Japan",
+      "country_code": "jp",
+      "summary": "Japan: 동아시아의 선진국으로, 기술과 전통이 공존하는 국가입니다."
+    },
+    {
+      "score": 1,
+      "name": "Mexico",
+      "country_code": "mx",
+      "summary": "Mexico: 북아메리카의 거대 국가로, 높은 문화적 다양성을 자랑합니다."
+    },
+    {
+      "score": 1,
+      "name": "Netherlands",
+      "country_code": "nl",
+      "summary": "Netherlands: 유럽의 저지대 국가로, 높은 생활 수준과 혁신적인 기술을 자랑합니다."
+    },
+    {
+      "score": 1,
+      "name": "Qatar",
+      "country_code": "qa",
+      "summary": "Qatar: 중동의 작은 석유 부국으로, 높은 생활 수준을 자랑합니다."
+    },
+    {
+      "score": 1,
+      "name": "South Sudan",
+      "country_code": "ss",
+      "summary": "South Sudan: 동아프리카의 신생 독립 국가로, 풍부한 천연 자원을 보유하고 있습니다."
+    },
+    {
+      "score": 1,
+      "name": "Spain",
+      "country_code": "es",
+      "summary": "Spain: 유럽 남부의 국가로, 관광업과 문화가 발달해 있습니다."
+    }
+  ],
+  "all_scores": {
+    "***Columbia U": {
+      "score": 83,
+      "name": "***Columbia U",
+      "country_code": "XX94AAD",
+      "summary": "Columbia U - 교육"
+    },
+    "Iran": {
+      "score": 10,
+      "name": "Iran",
+      "country_code": "ir",
+      "summary": "Iran: 중동의 석유 부국으로, 고대 페르시아 문명의 후예입니다."
+    },
+    "***UN": {
+      "score": 9,
+      "name": "***UN",
+      "country_code": "XXUN___",
+      "summary": "United Nations - 국제연합, 193개 회원국"
+    },
+    "Ukraine": {
+      "score": 4,
+      "name": "Ukraine",
+      "country_code": "ua",
+      "summary": "Ukraine: 동유럽의 국가로, 현재 러시아와의 갈등으로 주목받고 있습니다."
+    },
+    "Israel": {
+      "score": 3,
+      "name": "Israel",
+      "country_code": "il",
+      "summary": "Israel: 중동의 작은 국가로, 혁신적인 기술과 경제를 보유하고 있습니다."
+    },
+    "Costa Rica": {
+      "score": 2,
+      "name": "Costa Rica",
+      "country_code": "cr",
+      "summary": "Costa Rica: 중미의 안정적인 민주주의 국가로, 생태 관광으로 유명합니다."
+    },
+    "Russia": {
+      "score": 2,
+      "name": "Russia",
+      "country_code": "ru",
+      "summary": "Russia: 세계에서 가장 큰 영토를 가진 국가로, 브릭스(BRICS) 회원국입니다."
+    },
+    "***WHO": {
+      "score": 2,
+      "name": "***WHO",
+      "country_code": "XXWHO__",
+      "summary": "World Health Organization - 세계보건기구"
+    },
+    "*Bank of America": {
+      "score": 2,
+      "name": "*Bank of America",
+      "country_code": "XX6C0C9",
+      "summary": "Bank of America - Banking, 시총 $340B"
+    },
+    "**Son": {
+      "score": 2,
+      "name": "**Son",
+      "country_code": "XXF94CD",
+      "summary": "Son - 축구선수, 순자산 $60M"
+    },
+    "**Sam Neill": {
+      "score": 2,
+      "name": "**Sam Neill",
+      "country_code": "XX0D193",
+      "summary": "Sam Neill - 최근 뉴스 등장, 순자산 추정 $5M"
+    },
+    "Colombia": {
+      "score": 1,
+      "name": "Colombia",
+      "country_code": "co",
+      "summary": "Colombia: 남아메리카의 안데스 산맥이 지나가는 국가로, 커피 생산으로 유명합니다."
+    },
+    "Hungary": {
+      "score": 1,
+      "name": "Hungary",
+      "country_code": "hu",
+      "summary": "Hungary: 중유럽의 역사적 국가로, 다뉴브 강을 중심으로 발전했습니다."
+    },
+    "Iraq": {
+      "score": 1,
+      "name": "Iraq",
+      "country_code": "iq",
+      "summary": "Iraq: 중동의 석유 부국으로, 풍부한 역사와 문화를 자랑합니다."
+    },
+    "Japan": {
+      "score": 1,
+      "name": "Japan",
+      "country_code": "jp",
+      "summary": "Japan: 동아시아의 선진국으로, 기술과 전통이 공존하는 국가입니다."
+    },
+    "Mexico": {
+      "score": 1,
+      "name": "Mexico",
+      "country_code": "mx",
+      "summary": "Mexico: 북아메리카의 거대 국가로, 높은 문화적 다양성을 자랑합니다."
+    },
+    "Netherlands": {
+      "score": 1,
+      "name": "Netherlands",
+      "country_code": "nl",
+      "summary": "Netherlands: 유럽의 저지대 국가로, 높은 생활 수준과 혁신적인 기술을 자랑합니다."
+    },
+    "Qatar": {
+      "score": 1,
+      "name": "Qatar",
+      "country_code": "qa",
+      "summary": "Qatar: 중동의 작은 석유 부국으로, 높은 생활 수준을 자랑합니다."
+    },
+    "South Sudan": {
+      "score": 1,
+      "name": "South Sudan",
+      "country_code": "ss",
+      "summary": "South Sudan: 동아프리카의 신생 독립 국가로, 풍부한 천연 자원을 보유하고 있습니다."
+    },
+    "Spain": {
+      "score": 1,
+      "name": "Spain",
+      "country_code": "es",
+      "summary": "Spain: 유럽 남부의 국가로, 관광업과 문화가 발달해 있습니다."
+    },
+    "Sudan": {
+      "score": 1,
+      "name": "Sudan",
+      "country_code": "sd",
+      "summary": "Sudan: 북아프리카의 내륙 국가로, 정치적 불안정성이 특징입니다."
+    },
+    "Switzerland": {
+      "score": 1,
+      "name": "Switzerland",
+      "country_code": "ch",
+      "summary": "Switzerland: 중유럽의 중립 국가로, 금융 중심지로 유명합니다."
+    },
+    "Yemen": {
+      "score": 1,
+      "name": "Yemen",
+      "country_code": "ye",
+      "summary": "Yemen: 중동의 내전 상태에 있는 국가로, 인도주의적 위기가 심각합니다."
+    },
+    "*Johnson & Johnson": {
+      "score": 1,
+      "name": "*Johnson & Johnson",
+      "country_code": "XX7166E",
+      "summary": "Johnson & Johnson - Pharma, 시총 $400B"
+    },
+    "*Intel": {
+      "score": 1,
+      "name": "*Intel",
+      "country_code": "XX7FFA9",
+      "summary": "Intel - Semiconductors, 시총 $260B"
+    },
+    "**Gates": {
+      "score": 1,
+      "name": "**Gates",
+      "country_code": "XX3D67D",
+      "summary": "Gates - Microsoft 창업자, 순자산 $145.0B"
+    },
+    "***EU": {
+      "score": 1,
+      "name": "***EU",
+      "country_code": "XX648FE",
+      "summary": "EU - 정치"
+    },
+    "***NATO": {
+      "score": 1,
+      "name": "***NATO",
+      "country_code": "XX91668",
+      "summary": "NATO - 군사"
+    }
+  }
+}

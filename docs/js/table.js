@@ -40,6 +40,9 @@
         sorter:function(a,b){var pa=a.charCodeAt(0)<65,pb=b.charCodeAt(0)<65;if(pa&&!pb)return 1;if(!pa&&pb)return -1;return a<b?-1:a>b?1:0;},
         formatter:function(c){var d=c.getRow().getData(),code=d.country_code,name=I18N.countryName(code);return'<span style="display:inline-block;max-width:65px;overflow:hidden;text-overflow:clip;white-space:nowrap;">'+(name||d.country_name_en)+'</span>';},
         tooltip:function(e,c){var d=c.getRow().getData(),code=d.country_code,n2=I18N.countryName(code,I18N.getLocale2()),lo=d.country_name_local,p=[];if(n2&&n2!==d.country_name_en)p.push(n2);if(lo&&lo!==n2)p.push(lo);return p.join(' · ')||d.country_name_en;}},
+      // === TRENDING (default sort) ===
+      { title:"🔥Trend",field:"news_score",width:65,sorter:S,
+        formatter:function(c){var v=c.getValue();if(!v||v<=0)return'<span style="color:#333;font-size:10px;">-</span>';var bar='█'.repeat(Math.min(v,20));return'<span style="color:#e0c87c;font-size:10px;font-weight:700;">'+bar+' '+v+'</span>';}},
       // === CORE ===
       A(t('population'),"population",100), A(t('area'),"area",100), A(t('density'),"population_density",95),
       // === ECONOMY ===
@@ -65,7 +68,7 @@
       // === SPORTS (headerSort disabled for null-heavy columns) ===
       A(t('olympic'),"olympic",78), H(t('fifa'),"fifa_ranking",68), H(t('fifaW'),"fifa_w",72), H(t('basket'),"basket",72), H(t('cricket'),"cricket",72), H(t('rugby'),"rugby",72),
       // === ACHIEVEMENTS ===
-      A(t('nobel'),"nobel",72),      A(t('quakeCnt'),"earthquake_count",72),      A(t('tsunami'),"tsunami_risk",72),      A(t('cyclone'),"cyclone_freq",72),      A(t('flood'),"flood_risk",72),      A(t('wildfire'),"wildfire_freq",72),      A(t('wcPart'),"worldcup_parts",72),      A(t('olyGold'),"olympic_gold",72),      A(t('olyCap'),"olympic_per_cap",72),      A(t('davis'),"davis_cup",72),      A(t('marathon'),"marathon_elite",72),      A(t('burglary'),"burglary",72),      A(t('drug'),"drug_offense",72),      A(t('assault'),"assault",72),      A(t('traffick'),"trafficking",72),      A(t('gang'),"gang_violence",72),      A(t('cancer'),"cancer",72),      A(t('diabetes'),"diabetes",72),      A(t('hiv'),"hiv_prev",72),      A(t('vaccine'),"vaccination",72),      A(t('mental'),"mental_health",72),      A(t('startup'),"startup_rate",72),      A(t('costlive'),"cost_living",72),      A(t('house'),"house_price",72),      A(t('minwage'),"min_wage",72),      A(t('pisaM'),"pisa_math",72),      A(t('pisaS'),"pisa_science",72),      A(t('pisaR'),"pisa_reading",72),      A(t('phd'),"phd_per_cap",72),      A(t('pub'),"research_pub",72),      A(t('recycle'),"recycling",72),      A(t('plastW'),"plastic_waste",72),      A(t('parkPct'),"park_area",72),      A(t('immig'),"immigration",72),      A(t('emig'),"emigration",72),      A(t('refugee'),"refugees",72),      A(t('genderGap'),"gender_gap",72),      A(t('lgbtq'),"lgbtq_rights",72),      A(t('g5g'),"g5_coverage",72),      A(t('ai'),"ai_research",72),      A(t('space'),"space_launch",72),      A(t('arms'),"arms_export",72),      A(t('peacekeep'),"peacekeeping",72),      A(t('intangbl'),"intangible",72),      A(t('film'),"film_prod",72),      A(t('michelin'),"michelin",72),      A(t('game'),"game_market",72),      A(t('tea'),"tea_consume",72),      A(t('rice'),"rice_consume",72),      A(t('waste'),"food_waste",72),      A(t('holiday'),"holidays",72),      A(t('influ'),"influencers",72),      A(t('fest'),"festivals",72),      A(t('tan'),"tanning",72),      A(t('streetfd'),"street_food",72),      A(t('cat'),"cat_own",72),      A(t('dog'),"dog_own",72),
+      A(t('nobel'),"nobel",72),      A(t('quakeCnt'),"earthquake_count",72,false),      A(t('tsunami'),"tsunami_risk",72,false),      A(t('cyclone'),"cyclone_freq",72,false),      A(t('flood'),"flood_risk",72,false),      A(t('wildfire'),"wildfire_freq",72,false),      A(t('wcPart'),"worldcup_parts",72,false),      A(t('olyGold'),"olympic_gold",72,false),      A(t('olyCap'),"olympic_per_cap",72,false),      A(t('davis'),"davis_cup",72,false),      A(t('marathon'),"marathon_elite",72,false),      A(t('burglary'),"burglary",72,false),      A(t('drug'),"drug_offense",72,false),      A(t('assault'),"assault",72,false),      A(t('traffick'),"trafficking",72,false),      A(t('gang'),"gang_violence",72,false),      A(t('cancer'),"cancer",72,false),      A(t('diabetes'),"diabetes",72,false),      A(t('hiv'),"hiv_prev",72,false),      A(t('vaccine'),"vaccination",72,false),      A(t('mental'),"mental_health",72,false),      A(t('startup'),"startup_rate",72,false),      A(t('costlive'),"cost_living",72,false),      A(t('house'),"house_price",72,false),      A(t('minwage'),"min_wage",72,false),      A(t('pisaM'),"pisa_math",72,false),      A(t('pisaS'),"pisa_science",72,false),      A(t('pisaR'),"pisa_reading",72,false),      A(t('phd'),"phd_per_cap",72,false),      A(t('pub'),"research_pub",72,false),      A(t('recycle'),"recycling",72,false),      A(t('plastW'),"plastic_waste",72,false),      A(t('parkPct'),"park_area",72,false),      A(t('immig'),"immigration",72,false),      A(t('emig'),"emigration",72,false),      A(t('refugee'),"refugees",72,false),      A(t('genderGap'),"gender_gap",72,false),      A(t('lgbtq'),"lgbtq_rights",72,false),      A(t('g5g'),"g5_coverage",72,false),      A(t('ai'),"ai_research",72,false),      A(t('space'),"space_launch",72,false),      A(t('arms'),"arms_export",72,false),      A(t('peacekeep'),"peacekeeping",72,false),      A(t('intangbl'),"intangible",72,false),      A(t('film'),"film_prod",72,false),      A(t('michelin'),"michelin",72,false),      A(t('game'),"game_market",72,false),      A(t('tea'),"tea_consume",72,false),      A(t('rice'),"rice_consume",72,false),      A(t('waste'),"food_waste",72,false),      A(t('holiday'),"holidays",72,false),      A(t('influ'),"influencers",72,false),      A(t('fest'),"festivals",72,false),      A(t('tan'),"tanning",72,false),      A(t('streetfd'),"street_food",72,false),      A(t('cat'),"cat_own",72,false),      A(t('dog'),"dog_own",72,false),
       // === CULTURE/LIFESTYLE ===
       A(t('gini'),"gini",72), A(t('suicide'),"suicide",72),
       A(t('literacy'),"literacy",78), A(t('leave'),"leave",72),
@@ -76,51 +79,53 @@
       A(t('smoking'),"smoking",72), A(t('mcdonalds'),"mcdonalds",82),
       A(t('prison'),"prison",72), A(t('tz'),"tz",65),
       // === DEMOGRAPHICS DEEP ===
-      A(t('birthRate'),"birth_rate",78), A(t('deathRate'),"death_rate",78),
-      A(t('infantMortality'),"infant_mortality",82), A(t('urbanPop'),"urban_pop",78),
-      A(t('medianAge'),"median_age",78),
+      A(t('birthRate'),"birth_rate",78,false), A(t('deathRate'),"death_rate",78,false),
+      A(t('infantMortality'),"infant_mortality",82,false), A(t('urbanPop'),"urban_pop",78,false),
+      A(t('medianAge'),"median_age",78,false),
       // === ECONOMY DEEP ===
-      A(t('inflation'),"inflation",72), A(t('gasPrice'),"gas_price",78),
-      A(t('energyCapita'),"energy_per_capita",82), A(t('electricity'),"electricity",82),
-      A(t('reserves'),"reserves",82), A(t('exports'),"exports",82),
-      A(t('imports'),"imports",82), A(t('governSpend'),"govern_spend",82),
-      A(t('taxRev'),"tax_rev",78),
+      A(t('inflation'),"inflation",72,false), A(t('gasPrice'),"gas_price",78,false),
+      A(t('energyCapita'),"energy_per_capita",82,false), A(t('electricity'),"electricity",82,false),
+      A(t('reserves'),"reserves",82,false), A(t('exports'),"exports",82,false),
+      A(t('imports'),"imports",82,false), A(t('governSpend'),"govern_spend",82,false),
+      A(t('taxRev'),"tax_rev",78,false),
       // === LIFESTYLE ===
-      A(t('carDensity'),"car_density",82), A(t('meat'),"meat",72),
-      A(t('penetration'),"penetration",85), A(t('divorce'),"divorce",72),
-      A(t('aviation'),"aviation",82), A(t('religionDiv'),"religion_div",82),
+      A(t('carDensity'),"car_density",82,false), A(t('meat'),"meat",72,false),
+      A(t('penetration'),"penetration",85,false), A(t('divorce'),"divorce",72,false),
+      A(t('aviation'),"aviation",82,false), A(t('religionDiv'),"religion_div",82,false),
 
-      A(t('milPersonnel'),"military_personnel",78),
-      A(t('railway'),"line_length",78),
-      A(t('matMortality'),"maternal_mortality",78),
-      A(t('beer'),"beer",78),
-      A(t('wine'),"wine",78),
-      A(t('chocolate'),"chocolate",78),
-      A(t('airports'),"airports",78),
-      A(t('startups'),"startups",78),
-      A(t('chess'),"chess",78),
-      A(t('nobelCapita'),"nobel_per_capita",78),
-      A(t('earthquakes'),"earthquakes",78),
-      A(t('hdiAdj'),"hdi_adj",78),
-      A(t('books'),"books",78),
-      A(t('trump'),"trump_approval",78),
-      A(t('nato'),"nato",78),
-      A(t('nuclearPower'),"nuclear_power",78),
-      A(t('volcanoes'),"volcanoes",78),
-      A(t('mathOlympiad'),"math_olympiad",78),
+      A(t('milPersonnel'),"military_personnel",78,false),
+      A(t('railway'),"line_length",78,false),
+      A(t('matMortality'),"maternal_mortality",78,false),
+      A(t('beer'),"beer",78,false),
+      A(t('wine'),"wine",78,false),
+      A(t('chocolate'),"chocolate",78,false),
+      A(t('airports'),"airports",78,false),
+      A(t('startups'),"startups",78,false),
+      A(t('chess'),"chess",78,false),
+      A(t('nobelCapita'),"nobel_per_capita",78,false),
+      A(t('earthquakes'),"earthquakes",78,false),
+      A(t('hdiAdj'),"hdi_adj",78,false),
+      A(t('books'),"books",78,false),
+      A(t('trump'),"trump_approval",78,false),
+      A(t('nato'),"nato",78,false),
+      A(t('nuclearPower'),"nuclear_power",78,false),
+      A(t('volcanoes'),"volcanoes",78,false),
+      A(t('mathOlympiad'),"math_olympiad",78,false),
 
       // === MORE SOCIAL & WORK ===
-      A(t('police'),"police",72), A(t('beds'),"beds",72),
-      A(t('studentsPerTeacher'),"students_per_teacher",82), A(t('salary'),"salary",82),
-      A(t('workhours'),"workhours",78),
+      A(t('police'),"police",72,false), A(t('beds'),"beds",72,false),
+      A(t('studentsPerTeacher'),"students_per_teacher",82,false), A(t('salary'),"salary",82,false),
+      A(t('workhours'),"workhours",78,false),
     ];
 
-    function A(title,field,w){return{title:title,field:field,width:w,sorter:S,
+    function A(title,field,w,v){var col={title:title,field:field,width:w,sorter:S,
       headerTooltip:function(){return descTip(field,title);},
-      formatter:function(c){var d=c.getRow().getData(),v=d[field];return numberCell(d[field+'_rank'],!N(v)?fmtNumber(v):'-');}};}
-    function H(title,field,w){return{title:title,field:field,width:w,sorter:S,
+      formatter:function(c){var d=c.getRow().getData(),v=d[field];return numberCell(d[field+'_rank'],!N(v)?fmtNumber(v):'-');}};
+      if(v===false)col.visible=false;return col;}
+    function H(title,field,w,v){var col={title:title,field:field,width:w,sorter:S,
       headerTooltip:function(){return descTip(field,title);},
-      formatter:function(c){var d=c.getRow().getData(),v=d[field];return numberCell(d[field+'_rank'],!N(v)?fmtNumber(v):'-');}};}
+      formatter:function(c){var d=c.getRow().getData(),v=d[field];return numberCell(d[field+'_rank'],!N(v)?fmtNumber(v):'-');}};
+      if(v===false)col.visible=false;return col;}
     function E(field,w){return{title:t('election'),field:field,width:w,
       sorter:function(a,b,aRow,bRow,col,dir){var da=aRow.getData().election_date,db=bRow.getData().election_date;if(!da&&!db)return 0;if(!da)return 1;if(!db)return -1;return da.localeCompare(db);},
       headerTooltip:function(){return descTip(field,t('election'));},
@@ -169,8 +174,8 @@
     });
 
     var table = new Tabulator("#example-table", {
-      height:"calc(100vh - 48px)",layout:"fitDataFill",data:[],columns:cols,
-      pagination:false,movableColumns:true,virtualDom:true,headerHozAlign:"center",tooltips:true,tooltipDelay:150,rowHover:true,headerVisible:true,
+      height:"calc(100vh - 48px)",layout:"fitDataFill",data:[],initialSort:[{column:"news_score",dir:"desc"}],columns:cols,
+      pagination:false,movableColumns:true,headerHozAlign:"center",tooltips:true,tooltipDelay:150,rowHover:true,headerVisible:true,
       placeholder:'<div style="padding:40px;text-align:center;color:#545d7a;"><div style="font-size:48px;">🌍</div><div style="font-size:16px;font-weight:600;">'+t('loading')+'</div></div>',
       sortMode:"single",selectable:false,selectableRows:false,selectableCells:false,clipboard:true,selectableRangeMode:"click",
       clipboardCopyConfig:{columnHeaders:false,columnGroups:false,rowGroups:false,columnCalcs:false}
@@ -647,8 +652,8 @@
     // Load data - progressive rendering to avoid main-thread freeze
     fetch('data/countries.json').then(function(r){return r.json()}).then(function(data){
       // Replace null with two sentinels: desc fields use -999999, asc fields use 999999
-      var fields = ["population","area","population_density","gdp","gdp_per_capita","hdi","life_expectancy","happiness","fifa_ranking","cpi","gpi","internet_pct","military_pct","democracy","press","unemp","debt","poverty","rd","patents","edu","english","gender","fertility","health","obesity","alcohol","pm25","co2","forest","renew","nuclear","murder","tourism","olympic","fifa_w","basket","cricket","rugby","nobel","approval","gini","suicide","tz","prison","literacy","netspeed","doctors","heritage","military_personnel","line_length","maternal_mortality","beer","wine","chocolate","airports","startups","chess","nobel_per_capita","earthquakes","hdi_adj","books","trump_approval","nato","nuclear_power","volcanoes","math_olympiad","birth_rate","death_rate","infant_mortality","urban_pop","median_age","energy_per_capita","inflation","gas_price","car_density","meat","govern_spend","tax_rev","reserves","exports","imports","penetration","divorce","aviation","religion_div","electricity","leave","independence","smoking","mcdonalds","elevation","agri","languages","coffee","police","beds","students_per_teacher","salary","workhours","earthquake_count","tsunami_risk","cyclone_freq","flood_risk","wildfire_freq","worldcup_parts","olympic_gold","olympic_per_cap","davis_cup","marathon_elite","burglary","drug_offense","assault","trafficking","gang_violence","cancer","diabetes","hiv_prev","vaccination","mental_health","startup_rate","cost_living","house_price","min_wage","pisa_math","pisa_science","pisa_reading","phd_per_cap","research_pub","recycling","plastic_waste","park_area","immigration","emigration","refugees","gender_gap","lgbtq_rights","g5_coverage","ai_research","space_launch","arms_export","peacekeeping","intangible","film_prod","michelin","game_market","tea_consume","rice_consume","food_waste","holidays","influencers","festivals","tanning","street_food","cat_own","dog_own"];
-      var higherBetter = {"population": 1, "area": 1, "gdp": 1, "gdp_per_capita": 1, "hdi": 1, "life_expectancy": 1, "happiness": 1, "democracy": 1, "press": 1, "cpi": 1, "gpi": 1, "approval": 1, "internet_pct": 1, "edu": 1, "english": 1, "gender": 1, "fertility": 1, "health": 1, "renew": 1, "forest": 1, "rd": 1, "patents": 1, "tourism": 1, "nobel": 1, "netspeed": 1, "doctors": 1, "heritage": 1, "leave": 1, "independence": 1, "literacy": 1, "agri": 1, "languages": 1, "coffee": 1, "mcdonalds": 1, "elevation": 1, "police": 1, "beds": 1, "salary": 1, "meat": 1, "car_density": 1, "penetration": 1, "aviation": 1, "religion_div": 1, "beer": 1, "wine": 1, "chocolate": 1, "airports": 1, "startups": 1, "chess": 1, "nobel_per_capita": 1, "hdi_adj": 1, "books": 1, "nuclear_power": 1, "volcanoes": 1, "math_olympiad": 1, "urban_pop": 1, "median_age": 1, "energy_per_capita": 1, "electricity": 1, "reserves": 1, "exports": 1, "imports": 1, "govern_spend": 1, "tax_rev": 1, "military_personnel": 1, "line_length": 1, "olympic": 1, "basket": 1, "cricket": 1, "rugby": 1, "birth_rate": 1, "trump_approval": 1, "nato": 1, "worldcup_parts": 1, "olympic_gold": 1, "olympic_per_cap": 1, "davis_cup": 1, "marathon_elite": 1, "startup_rate": 1, "min_wage": 1, "pisa_math": 1, "pisa_science": 1, "pisa_reading": 1, "phd_per_cap": 1, "research_pub": 1, "recycling": 1, "park_area": 1, "immigration": 1, "refugees": 1, "lgbtq_rights": 1, "g5_coverage": 1, "ai_research": 1, "space_launch": 1, "arms_export": 1, "peacekeeping": 1, "intangible": 1, "film_prod": 1, "michelin": 1, "game_market": 1, "tea_consume": 1, "rice_consume": 1, "holidays": 1, "influencers": 1, "festivals": 1, "street_food": 1, "cat_own": 1, "dog_own": 1, "marriage_age_m": 1, "marriage_age_f": 1, "marriage_rate": 1, "tertiary": 1, "school_yrs": 1, "universities": 1, "onlyfans": 1, "adult_films": 1, "porn_search": 1, "welfare_spend": 1, "unemp_benefit": 1, "pension_rate": 1, "parental_leave": 1, "fortune500": 1, "unicorns": 1, "vc_funding": 1, "business_ease": 1, "stock_market": 1};
+      var fields = ["news_score","population","area","population_density","gdp","gdp_per_capita","hdi","life_expectancy","happiness","fifa_ranking","cpi","gpi","internet_pct","military_pct","democracy","press","unemp","debt","poverty","rd","patents","edu","english","gender","fertility","health","obesity","alcohol","pm25","co2","forest","renew","nuclear","murder","tourism","olympic","fifa_w","basket","cricket","rugby","nobel","approval","gini","suicide","tz","prison","literacy","netspeed","doctors","heritage","military_personnel","line_length","maternal_mortality","beer","wine","chocolate","airports","startups","chess","nobel_per_capita","earthquakes","hdi_adj","books","trump_approval","nato","nuclear_power","volcanoes","math_olympiad","birth_rate","death_rate","infant_mortality","urban_pop","median_age","energy_per_capita","inflation","gas_price","car_density","meat","govern_spend","tax_rev","reserves","exports","imports","penetration","divorce","aviation","religion_div","electricity","leave","independence","smoking","mcdonalds","elevation","agri","languages","coffee","police","beds","students_per_teacher","salary","workhours","earthquake_count","tsunami_risk","cyclone_freq","flood_risk","wildfire_freq","worldcup_parts","olympic_gold","olympic_per_cap","davis_cup","marathon_elite","burglary","drug_offense","assault","trafficking","gang_violence","cancer","diabetes","hiv_prev","vaccination","mental_health","startup_rate","cost_living","house_price","min_wage","pisa_math","pisa_science","pisa_reading","phd_per_cap","research_pub","recycling","plastic_waste","park_area","immigration","emigration","refugees","gender_gap","lgbtq_rights","g5_coverage","ai_research","space_launch","arms_export","peacekeeping","intangible","film_prod","michelin","game_market","tea_consume","rice_consume","food_waste","holidays","influencers","festivals","tanning","street_food","cat_own","dog_own"];
+      var higherBetter = {"news_score": 1, "population": 1, "area": 1, "gdp": 1, "gdp_per_capita": 1, "hdi": 1, "life_expectancy": 1, "happiness": 1, "democracy": 1, "press": 1, "cpi": 1, "gpi": 1, "approval": 1, "internet_pct": 1, "edu": 1, "english": 1, "gender": 1, "fertility": 1, "health": 1, "renew": 1, "forest": 1, "rd": 1, "patents": 1, "tourism": 1, "nobel": 1, "netspeed": 1, "doctors": 1, "heritage": 1, "leave": 1, "independence": 1, "literacy": 1, "agri": 1, "languages": 1, "coffee": 1, "mcdonalds": 1, "elevation": 1, "police": 1, "beds": 1, "salary": 1, "meat": 1, "car_density": 1, "penetration": 1, "aviation": 1, "religion_div": 1, "beer": 1, "wine": 1, "chocolate": 1, "airports": 1, "startups": 1, "chess": 1, "nobel_per_capita": 1, "hdi_adj": 1, "books": 1, "nuclear_power": 1, "volcanoes": 1, "math_olympiad": 1, "urban_pop": 1, "median_age": 1, "energy_per_capita": 1, "electricity": 1, "reserves": 1, "exports": 1, "imports": 1, "govern_spend": 1, "tax_rev": 1, "military_personnel": 1, "line_length": 1, "olympic": 1, "basket": 1, "cricket": 1, "rugby": 1, "birth_rate": 1, "trump_approval": 1, "nato": 1, "worldcup_parts": 1, "olympic_gold": 1, "olympic_per_cap": 1, "davis_cup": 1, "marathon_elite": 1, "startup_rate": 1, "min_wage": 1, "pisa_math": 1, "pisa_science": 1, "pisa_reading": 1, "phd_per_cap": 1, "research_pub": 1, "recycling": 1, "park_area": 1, "immigration": 1, "refugees": 1, "lgbtq_rights": 1, "g5_coverage": 1, "ai_research": 1, "space_launch": 1, "arms_export": 1, "peacekeeping": 1, "intangible": 1, "film_prod": 1, "michelin": 1, "game_market": 1, "tea_consume": 1, "rice_consume": 1, "holidays": 1, "influencers": 1, "festivals": 1, "street_food": 1, "cat_own": 1, "dog_own": 1, "marriage_age_m": 1, "marriage_age_f": 1, "marriage_rate": 1, "tertiary": 1, "school_yrs": 1, "universities": 1, "onlyfans": 1, "adult_films": 1, "porn_search": 1, "welfare_spend": 1, "unemp_benefit": 1, "pension_rate": 1, "parental_leave": 1, "fortune500": 1, "unicorns": 1, "vc_funding": 1, "business_ease": 1, "stock_market": 1};
       data.forEach(function(row){
         fields.forEach(function(f){
           if(row[f]==null) row[f] = higherBetter[f] ? NEG_SENTINEL : NULL_SENTINEL;
@@ -672,6 +677,18 @@
           // All loaded — restore column order and initial sort in one shot
           table.setSort('country_name_en','asc');
           setTimeout(function(){var h=document.querySelector('.scroll-hint');if(h){h.style.opacity='0';setTimeout(function(){if(h)h.remove();},500);}},6000);
+
+      // Populate trending ticker
+      var ticker = document.getElementById('trending-ticker');
+      if (ticker) {
+        var topItems = chunk.slice(0, 15).filter(function(d){return d.news_score > 0;});
+        if (topItems.length > 0) {
+          ticker.innerHTML = topItems.map(function(d){
+            var name = I18N.countryName(d.country_code) || d.country_name_en || '';
+            return '<span style="white-space:nowrap;color:#e0c87c;">' + name + ' <span style="color:#8892b0;font-size:10px;">🔥' + d.news_score + '</span></span>';
+          }).join(' <span style="color:#333;">·</span> ');
+        }
+      }
           applyColumnOrder();
         }
       }
