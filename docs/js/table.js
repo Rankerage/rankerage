@@ -672,7 +672,44 @@
         return n.indexOf(q) >= 0;
       }).slice(0, 5);
       
-      if (!cols.length && !cRows.length) { dropdown.style.display = 'none'; return; }
+      // 3) 파생 컬럼 제안 — 사용자가 없는 순위를 원하면 즉석 생성
+      var derived = [];
+      if (cols.length < 3) {
+        // per capita: "nuclear per capita" → nuclear / population
+        var pcMatch = q.match(/^(.+?)\s*(per capita|per person|per head|1인당|인당)\s*$/);
+        // per area: "gdp per area" → gdp / area  
+        var paMatch = q.match(/^(.+?)\s*(per area|per km|per sq|면적당|단위면적)\s*$/);
+        // X/Y ratio: "nuclear vs gdp" or "nuclear/gdp"
+        var vsMatch = q.match(/^(.+?)\s*(vs\.?|versus|\/)\s*(.+?)$/);
+        var match = pcMatch || paMatch || vsMatch;
+        if (match) {
+          var term = (match[1]||'').trim();
+          var divisor = paMatch ? 'area' : pcMatch ? 'population' : (match[3]||'').trim();
+          // Find closest field to the search term
+          var bestField = null, bestScore = 0;
+          allColumns.forEach(function(c) {
+            if (!c.field || c.field === 'country_code' || c.field === 'country_name_en') return;
+            var s = fuzzyScore(c.field, term);
+            if (s > bestScore) { bestScore = s; bestField = c.field; }
+          });
+          // Find divisor field
+          var divField = null;
+          allColumns.forEach(function(c) {
+            if (!c.field) return;
+            var s = fuzzyScore(c.field, divisor);
+            if (s > 40) { divField = c.field; }
+          });
+          if (bestField && divField && bestField !== divField && bestScore > 20) {
+            var op = (paMatch||pcMatch) ? '/' : 'vs';
+            var label = (paMatch||pcMatch) ?
+              (colLabels[bestField]||bestField) + ' per ' + (colLabels[divField]||divField) :
+              (colLabels[bestField]||bestField) + ' vs ' + (colLabels[divField]||divField);
+            derived.push({field1:bestField, field2:divField, op:op, label:label, id:'derived_'+bestField+'_'+op+'_'+divField});
+          }
+        }
+      }
+      
+      if (!cols.length && !cRows.length && !derived.length) { dropdown.style.display = 'none'; return; }
       
       // 국가명 결과 먼저
       cRows.forEach(function(r){
@@ -686,6 +723,11 @@
         var title = s.col.title;
         var hl = title.replace(new RegExp('('+q.replace(/[.*+?^${}()|[\\]\\\\]/g,'\\\\$&')+')','gi'), '<strong>$1</strong>');
         html += '<div class="search-dropdown-item metric-item" data-type="metric" data-field="'+s.col.field+'" data-title="'+title+'">📊 '+hl+'</div>';
+      });
+      
+      // 파생 컬럼 결과
+      derived.forEach(function(d){
+        html += '<div class="search-dropdown-item derived-item" data-type="derived" data-field1="'+d.field1+'" data-field2="'+d.field2+'" data-op="'+d.op+'" data-label="'+esc(d.label)+'" data-id="'+d.id+'">🧪 <strong>Create:</strong> '+esc(d.label)+'</div>';
       });
       
       dropdown.innerHTML = html;
@@ -808,6 +850,36 @@
         activeSortDir = 'asc';
         highlightColumn(activeSortField);
         searchInput.value = name;
+      } else if (type === "derived") {
+        // 파생 컬럼 생성 — 없는 순위를 즉석에서 만들어 선물
+        var f1 = item.getAttribute("data-field1");
+        var f2 = item.getAttribute("data-field2");
+        var op = item.getAttribute("data-op");
+        var label = item.getAttribute("data-label");
+        var vid = item.getAttribute("data-id");
+        // Compute values for all rows
+        var rows = table.getData();
+        rows.forEach(function(r) {
+          var v1 = r[f1], v2 = r[f2];
+          if (v1 == null || v1 >= NULL_SENTINEL || v1 <= NEG_SENTINEL) v1 = null;
+          if (v2 == null || v2 >= NULL_SENTINEL || v2 <= NEG_SENTINEL) v2 = null;
+          if (v1 != null && v2 != null && v2 !== 0) {
+            r[vid] = op === '/' ? v1 / v2 : Math.abs(v1 - v2);
+          } else {
+            r[vid] = null;
+          }
+        });
+        // Compute ranks
+        var sorted = rows.slice().filter(function(r){return r[vid]!=null;}).sort(function(a,b){return b[vid]-a[vid];});
+        sorted.forEach(function(r,i){r[vid+'_rank']=i+1;});
+        // Add virtual column
+        var vcol = {title:label, field:vid, width:90, sorter:S,
+          formatter:function(c){var d=c.getRow().getData(),v=d[vid];return numberCell(d[vid+'_rank'],!N(v)?(op==='/'?v.toFixed(4):fmtNumber(v)):'-');}
+        };
+        try { table.addColumn(vcol, false, 'country_name_en'); } catch(e) {}
+        table.setSort(vid, 'desc');
+        highlightColumn(vid);
+        searchInput.value = label;
       } else {
         // 순위명 클릭 → 컬럼 3열로 이동 + 소팅 + 하이라이트
         var field = item.getAttribute("data-field");
