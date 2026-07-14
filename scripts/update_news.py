@@ -203,6 +203,87 @@ def match_entities(text, entities):
                 break
     return matched
 
+def ai_analyze(unique_items, entities, top_count=5):
+    """Send headlines to DeepSeek for global trend analysis.
+    Returns: {narrative, stories: [{topic, entities, columns, weight}]}
+    """
+    import os
+    api_key = os.environ.get("DEEPSEEK_API_KEY", "")
+    if not api_key:
+        # Try to read from .env
+        env_path = Path(__file__).resolve().parent.parent / ".env"
+        if env_path.exists():
+            for line in open(env_path):
+                if line.startswith("DEEPSEEK_API_KEY="):
+                    api_key = line.split("=", 1)[1].strip().strip('"').strip("'")
+                    break
+    if not api_key:
+        print("  ⚠ No DEEPSEEK_API_KEY, skipping AI analysis", file=sys.stderr)
+        return None
+
+    # Build prompt: top 200 headlines (by freshness)
+    sorted_items = sorted(unique_items, key=lambda x: x.get("age_minutes", 9999))[:200]
+    headlines_text = "\n".join(
+        f"[{int(i.get('age_minutes',0))}m] {i['title']}"
+        for i in sorted_items
+    )
+    
+    # Known entity list (for AI to reference)
+    entity_list = "\n".join(
+        f"{e['code']}: {e['name']} ({e['type']})"
+        for e in entities[:60]  # sample
+    )
+    
+    # Known column list
+    col_list = ", ".join(list(TOPIC_COLUMNS.values())[0])[:500]
+    
+    prompt = f"""Analyze these {len(sorted_items)} global news headlines and identify the top 3-5 trending stories/narratives.
+
+For each story, list:
+- topic: short label
+- entities: country/org/person codes most central to this story
+- columns: ranking column field names most relevant (from our dataset: {col_list}...)
+- weight: 0.0-1.0 importance
+
+Also provide a 1-sentence global_narrative.
+
+Headlines:
+{headlines_text[:8000]}
+
+Entity reference (partial):
+{entity_list}
+
+Return ONLY valid JSON, no markdown:
+{{"global_narrative":"...","stories":[{{"topic":"...","entities":["XX","YY"],"columns":["field1","field2"],"weight":0.X}}]}}"""
+
+    import json as _json
+    import urllib.request as _req
+    try:
+        body = _json.dumps({
+            "model": "deepseek-chat",
+            "messages": [{"role": "user", "content": prompt}],
+            "temperature": 0.3,
+            "max_tokens": 800,
+            "response_format": {"type": "json_object"}
+        }).encode()
+        req = _req.Request(
+            "https://api.deepseek.com/v1/chat/completions",
+            data=body,
+            headers={
+                "Authorization": f"Bearer {api_key}",
+                "Content-Type": "application/json"
+            }
+        )
+        with _req.urlopen(req, timeout=30) as resp:
+            result = _json.loads(resp.read())
+        content = result["choices"][0]["message"]["content"]
+        analysis = _json.loads(content)
+        print(f"  🤖 AI: {analysis.get('global_narrative','')[:80]}...")
+        return analysis
+    except Exception as e:
+        print(f"  ⚠ AI analysis failed: {e}", file=sys.stderr)
+        return None
+
 def compute_scores(weighted_mentions, historical):
     """Time-weighted count → log-dampened + EMA smoothed."""
     scores = {}
@@ -240,6 +321,34 @@ def main():
             unique_items.append(item)
     print(f"Unique headlines: {len(unique_items)}")
 
+    # ── AI global trend analysis ──
+    ai_result = ai_analyze(unique_items, entities)
+    if ai_result:
+        # Store global narrative in site_meta
+        meta_file = REPO / "docs" / "data" / "site_meta.json"
+        meta = json.loads(meta_file.read_text()) if meta_file.exists() else {}
+        meta["global_narrative"] = ai_result.get("global_narrative", "")
+        meta["trending_stories"] = ai_result.get("stories", [])
+        meta_file.write_text(json.dumps(meta, ensure_ascii=False))
+        # Build entity→columns map from AI stories
+        ai_columns = {}
+        ai_weights = defaultdict(float)
+        for story in ai_result.get("stories", []):
+            w = story.get("weight", 0.5)
+            cols = story.get("columns", [])
+            for code in story.get("entities", []):
+                code = code.upper()
+                # Merge columns (don't overwrite)
+                if code not in ai_columns:
+                    ai_columns[code] = []
+                for c in cols:
+                    if c and c not in ai_columns[code]:
+                        ai_columns[code].append(c)
+                ai_weights[code] += w
+    else:
+        ai_columns = {}
+        ai_weights = defaultdict(float)
+
     # Match entities with time-weighted scoring
     weighted_mentions = defaultdict(float)  # code → time-weighted score
     entity_headlines = {}  # code → best (freshest) headline
@@ -266,6 +375,10 @@ def main():
     for code in code_to_idx:
         idx = code_to_idx[code]
         score = scores.get(code, 0)
+        # AI boost: mild multiplier for entities in trending stories
+        ai_w = ai_weights.get(code, 0)
+        if ai_w > 0:
+            score = score * (1 + min(ai_w, 1.0) * 0.5)  # max 1.5x boost
         data[idx]["news_score"] = round(score, 2)
         hl = entity_headlines.get(code)
         if hl:
@@ -274,10 +387,14 @@ def main():
             data[idx]["news_image"] = hl["img"]
             data[idx]["news_source"] = hl["source"]
             data[idx]["news_age"] = f"{int(hl['age_minutes'])}m ago" if hl["age_minutes"] < 120 else f"{int(hl['age_minutes']/60)}h ago"
-            # Topic → related ranking columns
-            topics = extract_topics(f"{hl['title']} {hl['desc']}")
-            if topics:
-                data[idx]["news_columns"] = topics[:6]  # max 6 related columns
+            # Columns: AI picks first, fall back to regex topics
+            ai_cols = ai_columns.get(code, [])
+            if ai_cols:
+                data[idx]["news_columns"] = ai_cols[:8]
+            else:
+                topics = extract_topics(f"{hl['title']} {hl['desc']}")
+                if topics:
+                    data[idx]["news_columns"] = topics[:6]
         else:
             # Decay old score if no recent mentions
             old = data[idx].get("news_score", 0)
