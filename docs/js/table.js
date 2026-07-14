@@ -1477,29 +1477,15 @@
 
   setTimeout(function(){ rotationTimer = setInterval(doRotate, rotationInterval); }, 15000);
 
-  var pauseTimeout;
   function pauseRotation() {
     rotationPaused = true;
     restoreNewsColumns();
-    clearTimeout(pauseTimeout);
-    pauseTimeout = setTimeout(resumeRotation, 600000); // fallback: 10min
   }
   function resumeRotation() {
     rotationPaused = false;
-    clearTimeout(pauseTimeout);
     setTimeout(pullNewsColumns, 300);
   }
-  // Scroll-back-to-top = user finished browsing
-  var scrollEl2 = document.querySelector('.tabulator-tableholder');
-  if (scrollEl2) {
-    scrollEl2.addEventListener('scroll', function() {
-      if (rotationPaused && scrollEl2.scrollTop < 60) resumeRotation();
-    }, {passive: true});
-  }
-  // Tab switch = user was away, now wants fresh news
-  document.addEventListener('visibilitychange', function() {
-    if (!document.hidden && rotationPaused) resumeRotation();
-  });
+  // Only Trend header click resumes — no timers, no scroll, no tab switch
   table.on("headerClick", function(e, column){
     if (column && column.getField() === 'news_score') resumeRotation();
     else pauseRotation();
