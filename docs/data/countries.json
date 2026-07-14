@@ -1102,7 +1102,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObjh2cWluQmlrcnpzMzFqanI4eUJzcUEzVzBfLTFrS3N4REJ4Y21Rd0h0cU52YnVpcWJRc1NwZFdVWmR1aWtxeHoyd01DTW1TMnltbUJMN1V4NHBGZDEyaWk2Z0xtYXJMVkVrRFN1UnZjZnBpNTdPTEJhU2JNQThHT3U3dUtmWVI5bmtDd09SNXQ1WENrMnA1d3ZSRUNDejJpNHVPa214eUp6SEJQZGV6eFBLN25ZcnN4TG1ha3VDWnI2aHBUNzBEWA?oc=5",
     "news_image": "",
     "news_source": "African Development Bank Group",
-    "news_age": "633h ago",
+    "news_age": "634h ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -1871,17 +1871,19 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 2.97,
-    "news_title": "The iconic art form that inspired Argentina’s World Cup semifinal shirt - The New York Times",
-    "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORUFqdkRMU2FQaDc1M2V3R1YzVzNzRXlaUUY5MGtWNEM5ZG9EdGE4OVdVNFU2NTRKRXc4YnVERmUwWE5iX1o4NmFPdW0zNEp5RjVuVmktdFdwbURGT3BFemREaDQ2eXNFTUF3MUZLOTI0LUFMZGFCNVdfYThfTUhpX0ZTWEFaVERLNGtCZTE1MTVHMGV0NjluaHE4bw?oc=5",
+    "news_score": 2.93,
+    "news_title": "England vs Argentina at the World Cup means pantomime villains. Who will it be this time? - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSHlWRnBxd2NxWmI5ZnlSQWJxQ29UTnJZUGk0a0NseEFFeTIwb041OWVQQjcySUZEaW1RRmR4d2t1Y0hlUjhrdm9sdzdhSm1FZ3NNSGVPRzJKWU1KVV9lTmotSVM1WkYzQXBTTkpLNDlOOHMzZUczbmI4ckk1bmtBNXNncTYyeGViRVB4aVR6bDA2c3NBcGdsLVV4aERfZw?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "57m ago",
+    "news_age": "59m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
       "olympic",
-      "basket"
+      "basket",
+      "ai_research",
+      "internet_pct"
     ]
   },
   {
@@ -6687,7 +6689,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.35,
+    "news_score": 0.34,
     "news_title": "World Cup 2026 news and live updates - USA, Canada and Mexico latest including Trump, tickets and fans - Sky Sports",
     "news_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdXIxbW12UlR3d1h2Q3dRWTY3eXlFa0J0dkhvd0RhSF9KaHBxcEhNZjFDZmNlV0phamNacmk5Si1pbWVzVWE3cVpCODFMWFRNSGRGa240ZDhESnp5QWwwQWZMTzRfQ21fQ1VOdmVsb081R0FRM0U3bWNZNUhndzdFRV9lSHNyemNsWjVLSzVaS284b2JJbWRUNXFUVGtmSGZGUHRuaGJMaWFqOVMwLXljWS13cG5GYS1mTUMzZ1dqZUVMdnBQcENBYXo3ellxU21WalpiYV9PYkRibWJrTXl2Y1pULVdwSnNCRlViUFFvdw?oc=5",
     "news_image": "",
@@ -7732,19 +7734,19 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.23,
-    "news_title": "China Purges Top Official Over Corruption and Sex Charges - The New York Times",
-    "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTGIwUUJmMUtkOWhlMTh1cXpaOVd2TVpVeDdOX0xJVW50SVcwaWVCZGh6Tk5mUlBSMnNGNFptcnVvVENRSldES2tFbnVUOEZDMVEtZF9uZEhNMTVLVFlxNFotcGFWOUhncW1PU1lWempTY0p1S2hZX2VyblBCN2NkT2d2VGlxUFJHVHMxang4bjJFR2Jpdm56bVNGTUNWZw?oc=5",
+    "news_score": 0.31,
+    "news_title": "World Cup Updates: In Haaland, China Finds an Unlikely Internet Star - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JbXhZa0hCWUdvZ2FlSXk5VXB3bGxhNkFldmo5QmliZHdUYTY1SG5yUzJnUUtPc1ZYRUZVdmRXZ2p3a2E3TXBhRV9xNjFQQmtxVnFEaWl5bnNEZ0czUkJyVw?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "6h ago",
+    "news_age": "3h ago",
     "news_columns": [
-      "cpi",
-      "democracy",
-      "press",
-      "ai_research",
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket",
       "internet_pct",
-      "patents"
+      "netspeed"
     ]
   },
   {
@@ -8770,7 +8772,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM1FFRnlyLVF0RVZCYkx6UVRoVEU0WFd4UHNObDR4aWxoSkhxY3I0U1pmREttZHpDTmRKRjVyU2NiZnp3TXQ0aV8wQ25EcWFScDJPTzhDVEFmZ0t1LXNENEhqMWtQMnM1dGRjNDZZWkoyalEwM2QxVWo4WWZrMHo1YnJRbndBZ0dUQnlUREp4VkU0Zkl6MGtIUXJHT0tWVGNuQnBoOGdWb0h1dDJ2N3JVbVJTbV9Td2JhSTdBQWRrR192bnhzY1RkaQ?oc=5",
     "news_image": "",
     "news_source": "thenationalnews.com",
-    "news_age": "609h ago"
+    "news_age": "610h ago"
   },
   {
     "flag": "🇨🇾",
@@ -12534,19 +12536,19 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 3.48,
-    "news_title": "France vs. Spain odds, prediction, time: 2026 World Cup semifinal picks from expert on 19-7 run - CBS Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORE9oQ1FldTFUMW5kczFVTEs4c05OTTJBU1NKRGpEN2Z5Y3lLMThHYThBcEwzdC1BOVBUZ2h3RDV2djdsRGpiUERpMXhWUjVQQzU3dGZhTEx5QmZfUzVTWGRPY25aVVpFTndOdnlqNng4cVd2ZTdTY0U3WmhfdVp3bllCYm9iTHl6OEdfblgyVmlYTFRBOXJSc253N05iN0xhREZwbzJaak9rQm5zaFhyN3FCSXpXWDFVTEE?oc=5",
+    "news_score": 3.49,
+    "news_title": "France vs Spain mega-preview: Predictions, form guide, key players and more - The Athletic - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRkFIX0duOUdyYkljb0JUbjVIYUV0OUxvVjdxLU1LR2NFUnZFZUF3bDFZMDN6dFNzb29sYkk2MlVNaE9BME1LamtuaVc3aGF0U01QQ0EtUTc1eUtPdWVMdklqQ1JpUHhvTThYSEpzdm5NWjl3Y3NUYmNGVjFOWWhjeDdvUzhnOTI2UFZiSFNtNlVXdmhaaVNVWjFaMHRvc21yNlRwSnBVeFA?oc=5",
     "news_image": "",
-    "news_source": "CBS Sports",
-    "news_age": "54m ago",
+    "news_source": "The New York Times",
+    "news_age": "5m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
       "ai_research",
-      "internet_pct"
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "car_density"
     ]
   },
   {
@@ -16175,7 +16177,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.21,
+    "news_score": 0.2,
     "news_title": "England vs Argentina football, FIFA World Cup 2026 semi-final: Know ENG vs ARG match time and watch live streaming and telecast in India - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNjI4VS1TYW5ld0k3WlZVdFNna2RqZzlxNUZGYXBKbTNmdmpicjMzbjA3LWs1RHZMQ2JCb3lGR3JIZzZUU2ctbkxPMWIwenZLajlXZDJWU25LZ3Uxa0VGQWY2SS05MFBFSjZTNXdXWUNRNW1ZUl9lS1RmN0syZWtCWS0zQjJrcEdKcmt1TVJYS0huLTFzS2hvcG9PLXVLZk93OF92OXhGQlBacnhkeEk2Rw?oc=5",
     "news_image": "",
@@ -16747,12 +16749,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.38,
+    "news_score": 1.27,
     "news_title": "European troops and warplanes join Paris Bastille Day parade in a show of unity for Ukraine - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0dUR3ZGMlczZHc3Y2dMOU9DNTNvY2cwUldGY0tCQ0t6Y1J1cnAzUVNRNklqX1N6MEw2THRLd2I2SlFfVjhhdnJQcXBHS0NfZHNNYzdpaW9CTFhRU0hvTElUQ1RTTXEtaHh0b3dhVGN5ekZ1UFU1OF9FRDRfa1ktUTE4ZVFrVWtrLUEwRW5MVVc5aHFlZmU4Q0c2UjV1OGpOdThZ?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "107m ago",
+    "news_age": "109m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -17459,7 +17461,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2ZCVmJ4amt6UTBvQ05kcDBFWnNzb1N6QldHQ3RSWVZ0NUdzemNtaTJGaTlzM1N5dVR0djFiVV9XUGNSc1JCR2RnczNYeTUxMW5WZU5aMmJLMVVqcElmVHpibHdWMm9xOFlLWGlhY2NlQUV5cDVVcTRWZHJaNGxjaXVR?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "2913h ago",
+    "news_age": "2914h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -18569,7 +18571,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVkZmbG9keUFVVXpCbXJkbXhKcFc5bEFSNjJ4R3dFRzc3WXpZX2RreGZFaDE3QmpYYjVDeVhmUFNwU3VzRzVGQ3gzVTlmR0RWTm9YLTR5QUdVZ05VZVZmUkhNaVYzOWQxbmlObUlvUFJ2Ykg1Rkc3d2xsRm1oV1B4eEVOSDFzZVVPTWZmN3M5YW1XUUE?oc=5",
     "news_image": "",
     "news_source": "The Japan Times",
-    "news_age": "873h ago",
+    "news_age": "874h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -18751,12 +18753,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 61,
-    "news_score": 1.06,
+    "news_score": 1.05,
     "news_title": "\"The New Orleans Pelicans giving DeAndre Jordan a … - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNzljeVdIR0VhUV9TZ1V6OFJLekREdmdxUkRQRXAwbGRoOUtMcTROUmhzQmI1VXpWMXgzTENFMjR4Mk5EQWhKc1JCTnFaRnN2ZlRsWElmSHJibVBsWTlDQmlnVWdkSGVVTjdON3BEdUlfaGRfR2Jwc01SaXdsTHJVVnc5MzktazRkZGpRR0d4dzE?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "61m ago"
+    "news_age": "63m ago"
   },
   {
     "flag": "🇰🇿",
@@ -26702,12 +26704,12 @@
     "news_source": "Fox News",
     "news_age": "5h ago",
     "news_columns": [
+      "democracy",
+      "press",
+      "gpi",
+      "polit_kill",
       "health",
-      "life_expectancy",
-      "doctors",
-      "beds",
-      "vaccination",
-      "infant_mortality"
+      "life_expectancy"
     ]
   },
   {
@@ -28321,12 +28323,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.59,
-    "news_title": "Erling Haaland brings $750 stuffed raccoon back to Norway after World Cup exit - Yahoo Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR2h3bDg5cW5sRzJXVUdSdVNLZU9MSzFjNnBqUmlobzlad1RTc29SNkhEcmxWTVh4clhtdTY4cnVaaTJsX2UxdllmN2JhVWZsOFdTd3ktRGRkYVJzb3V6Z2lzaXJtT0VYZHByd2k5X1hiTGNpZmRINzc4XzlPdTUzTl83TnVXaW9rekE?oc=5",
+    "news_score": 0.52,
+    "news_title": "Norway turn World Cup heartbreak into celebration as huge crowds pack Oslo - The Guardian",
+    "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVTVVVW9lLUpndDZfUEJ4OXdLY0xTckRQMXo4a1NxbDQtM0RfLW9FRWJ6cmJrS3p1QXhCTDZDQW1OVFBsZ2c5TXRqalllQ19uei10SE0teVBGSVJ5YW5raklHV2puaUhPRWhNc0UwbGJPMDlSME9HbWdRM1hxNUVrRUdxUTc5Tk9vMWpLQk9PejY3ZlV0aTlGUmpUb1dsVU0?oc=5",
     "news_image": "",
-    "news_source": "Yahoo Sports",
-    "news_age": "4h ago",
+    "news_source": "The Guardian",
+    "news_age": "5h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -30382,7 +30384,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaTBiWGR3alBRako4UzE1dWNzY05XTkJmcFhWT0I0QXRqNVFFbEFqa0FUbEF2amhFVEI1a2N1bTV0ZWhKUWFDQmJ4dlhFRmpFbXJKN2Q1SlFIWjl4cW5NMUdUWWZ2Tk1FY0FtWmk4Y0R0YTJUbjNJQ1pfTy1lcDA0MWdrV1MtWExKOGxoUjJDSFpaejRXTDQ0VURGSEJKUQ?oc=5",
     "news_image": "",
     "news_source": "NBC News",
-    "news_age": "2889h ago"
+    "news_age": "2890h ago"
   },
   {
     "flag": "🇵🇹",
@@ -31022,12 +31024,12 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.91,
+    "news_score": 0.92,
     "news_title": "World leaders travel to Qatar to honour Father Emir - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM2VVX0tKcklEck1xTW8ycGZfd2NUaXlQa2pDVUNIeFFsSmZHV1pHcTlsOTlkTlFvbTZla1pvd2sxR0hyakkwZ283QkEydXRELUNtWXB6WjlwSjRKZ0ppdzNFdWF2NS1WbTRUWXRfWGVmVFkxZG5MbmdOUmtFNGJhWVF6ZTdxclhBQ1o4THFUN3U3UEZWOXRVMmRTRlF1S0x2NGNkbdIBqgFBVV95cUxOOFRVaEtSaWJfcTJWS2tGS25HMkkxTUdmS0RZRmdSMWJVMmdla2VNYkI5Z19UcWZsNEthUGZLbWNueF9URldHbDNSM3FjbGVvSllieVppZGE3UTh2U0l2OXVBQk5ZSkE2aFo1MVE3YkhEeDVNUnY2YjNVV2tSUTY3aGFQQTVRWHFlalJzMmFlVDF6ZXBTUXJxbUU2elhNX2ZHc3BpMjFUMFVPQQ?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "13m ago",
+    "news_age": "15m ago",
     "news_columns": [
       "tourism",
       "passport",
@@ -31796,7 +31798,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54UWxORjN1Q2FRNk5Cd1ZLcjZJd201dmZVWVRUdkstTEVxelo5cC1aZnktbi1TNlVNU0MyT2NQTm00T3BEQXdDUzZhM2pFQ3dhOHRmblRuaVFONmZyeVBnYTQ1X2pRVEU?oc=5",
     "news_image": "",
     "news_source": "Nation Thailand",
-    "news_age": "921h ago",
+    "news_age": "922h ago",
     "news_columns": [
       "exports",
       "imports",
@@ -32487,7 +32489,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOGU3ampGbjducVgtbzZRLWl3UWdxUFJkSnEyVlpabXBWZ1ZOTXg2cy1Cb2NJbUs3am9fNDJDcnFiVUo0OWhuMHZmTmRnUTR2T3F2aEtwSUhyajlTcGtlMDRBVkItaU5EUmJWb19BY0ZvUkk1d3BEQVgxWFl3ZjY4bXBtWHF3bmdwbVRxSU51THNOZ1FHT1RWYXoxckQzTGFxSUFHRVJMSnhWZlRsbTh1NDF6NHNBaUJOSTlNM21FXy1FWnRXazhWcmFXRFNVbU1FNGJIQkpfTnI?oc=5",
     "news_image": "",
     "news_source": "UConn Today",
-    "news_age": "3224h ago",
+    "news_age": "3225h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -35257,19 +35259,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 3.48,
-    "news_title": "France vs. Spain odds, prediction, time: 2026 World Cup semifinal picks from expert on 19-7 run - CBS Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORE9oQ1FldTFUMW5kczFVTEs4c05OTTJBU1NKRGpEN2Z5Y3lLMThHYThBcEwzdC1BOVBUZ2h3RDV2djdsRGpiUERpMXhWUjVQQzU3dGZhTEx5QmZfUzVTWGRPY25aVVpFTndOdnlqNng4cVd2ZTdTY0U3WmhfdVp3bllCYm9iTHl6OEdfblgyVmlYTFRBOXJSc253N05iN0xhREZwbzJaak9rQm5zaFhyN3FCSXpXWDFVTEE?oc=5",
+    "news_score": 3.49,
+    "news_title": "France vs Spain mega-preview: Predictions, form guide, key players and more - The Athletic - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRkFIX0duOUdyYkljb0JUbjVIYUV0OUxvVjdxLU1LR2NFUnZFZUF3bDFZMDN6dFNzb29sYkk2MlVNaE9BME1LamtuaVc3aGF0U01QQ0EtUTc1eUtPdWVMdklqQ1JpUHhvTThYSEpzdm5NWjl3Y3NUYmNGVjFOWWhjeDdvUzhnOTI2UFZiSFNtNlVXdmhaaVNVWjFaMHRvc21yNlRwSnBVeFA?oc=5",
     "news_image": "",
-    "news_source": "CBS Sports",
-    "news_age": "54m ago",
+    "news_source": "The New York Times",
+    "news_age": "5m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
       "ai_research",
-      "internet_pct"
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "car_density"
     ]
   },
   {
@@ -39598,12 +39600,12 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.32,
+    "news_score": 0.41,
     "news_title": "European troops and warplanes join Paris Bastille Day parade in a show of unity for Ukraine - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0dUR3ZGMlczZHc3Y2dMOU9DNTNvY2cwUldGY0tCQ0t6Y1J1cnAzUVNRNklqX1N6MEw2THRLd2I2SlFfVjhhdnJQcXBHS0NfZHNNYzdpaW9CTFhRU0hvTElUQ1RTTXEtaHh0b3dhVGN5ekZ1UFU1OF9FRDRfa1ktUTE4ZVFrVWtrLUEwRW5MVVc5aHFlZmU4Q0c2UjV1OGpOdThZ?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "107m ago",
+    "news_age": "109m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -43489,7 +43491,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.23,
+    "news_score": 0.16,
     "news_title": "Siri AI Is Becoming Apple’s Everything Tool - WIRED",
     "news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16T1RKNkNQOXh6Mm5rV0h4NjAxYTBJOFM0b2VHY0VSNDBxVm9rYUd1NTZuWlJVV1M2dUJRS0s4c0VVTHpKNDlsc2RoWnpQYlVZMDRzUy1ycUpPSjkyMkxZQ2p2bEFLV3BfYkxfajNKUGJLRTA?oc=5",
     "news_image": "",
@@ -43711,7 +43713,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.65,
+    "news_score": 0.68,
     "news_title": "Pixel Watch 5 leak shows off four different finishes - The Verge",
     "news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrblpleGtKTF9yZ0R2U3dWeDhWVXNhbWNwVHBFRnlLbVRjNGllQklHc0wtdW93VElFeVVPTVJLcWFtQW5mSVdSYXlPMGppcGxBWUhSVHVQbFFKdndDMW1Db0pNcVRIamlrWUl6cDJfeEF5TklnR2hCN2FLOA?oc=5",
     "news_image": "",
@@ -43936,7 +43938,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdHdmbDNVaTdKMmlxQ25Rb1RoOW5HRWkyb1pZYV9Dam9abnBIVFlkSHFTMnA3NmluOF92bTQ5b0JReUFtTUtIQ281TFN2VzNWS1piblJ1TUxjSjhzRXpuc2tHSWFwNzJ6eWdEM19iT01wVkRLeEhvRU10TVZYb0wyRVMyQ0oyMlFxOUxhVThqUFR3Y0JwYTBBLXRjYVp1UFYxRS16SHpuZ2RkTzJzMVpzVUhIQzFNQQ?oc=5",
     "news_image": "",
     "news_source": "CEPR",
-    "news_age": "6897h ago"
+    "news_age": "6898h ago"
   },
   {
     "flag": "XXMCSFT",
@@ -44576,15 +44578,13 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.02,
+    "news_score": 0.03,
     "news_title": "One UI 9.0 Beta 4 update is out now for the Galaxy S26 series - SamMobile",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPamU1VF9rYnNwMndFR2pUejdzYXprc2RTTjYtMmdNUldZcjQ5NTVLSm1DUGVSZjJ4eUx3TzA3LUdPbngxT0Vua0otanRmTTNTU1JOdm0xLWRHQVAweGk0eGpyQXJqX1pKeHp2bmxwbXNBckRTYzVhZHM1dThaSWtPUGpn?oc=5",
     "news_image": "",
     "news_source": "SamMobile",
     "news_age": "10h ago",
     "news_columns": [
-      "cricket",
-      "olympic",
       "car_density",
       "gas_price",
       "co2"
@@ -46064,7 +46064,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.77,
+    "news_score": 0.76,
     "news_title": "Who is Ismail Elfath, the England vs. Argentina World Cup semifinal referee? Is he Messi's good-luck charm? - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUFYtcUZrRjAyVjJzMkdyZ0lZenpUWGh1WTFpTllxMFlGQTJ5MXdzY0hyLU1uREhfaVEzY2VWcTdua09QUUtfM1NkMUI2ZGJrZzFZQkJVMk1JMnVrVENrZmsxYzMyLTZJb1JhbzFYazl0SHFja0JKVUdoRThPVDF6SGFKM1NQdDh4OWRSUl83NUd1VGl5bm9VYU96QVdRbENyM1JMdzBxVVByM3pkUUJVLUh4SUpBNTY0WEFsQjZ6S3pIUQ?oc=5",
     "news_image": "",
@@ -47335,12 +47335,12 @@
     "union_rate": null,
     "union_rate_rank": null,
     "fifa_ranking_rank": 1,
-    "news_score": 3.14,
+    "news_score": 3.13,
     "news_title": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 14 - Mashable",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR1pVTG5ETVd2TExNYTZpempobms4QnlSTnhfUHRhX0IxU1NLdHB2MG9FY083eVR6dU1FdlZzckl0QlZSVFZXMnlaUmhWeW1POTBXR2hveUl4dzVGVDdDaGw5VjAteUw0N2ctRmFjY1AwZ3JqQ1o5UHpPU0FpT2VfZmZoYmV3OGNJVlBWOUFJSjJLOW1JR1E?oc=5",
     "news_image": "",
     "news_source": "Mashable",
-    "news_age": "27m ago",
+    "news_age": "29m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -47992,7 +47992,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UZTh0cm9XSkJKX3VoZ1VEM3k5Q0VZc3BBTnk2c3cwaXNsc2tab3lnTk1rWmhtcHBKdll2X3ptMWtKbjJ3NEFXMWNJM0xYNVMwU2R4czBaa2RXM2FRakJ1MUlhbGVHbV9VaEtR?oc=5",
     "news_image": "",
     "news_source": "MIT News",
-    "news_age": "801h ago"
+    "news_age": "802h ago"
   },
   {
     "flag": "XXMANUT",
@@ -48417,7 +48417,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWk9zUFBvbmFQRDhLMmwtMGpSYXRtbmxtUTI0dnNWbWVPYlhQRDdxNHp1eHlZS1YwRks2cXlrX0lQU25aZUVvZmoyNWJ5OXpaQXE1aVAxN3g5TVAwYzBVWWg5aVhiUlRqYm1aUWF4TGcwaFZHOHVkaTdGWWtKLTZzb3JZLWY3S2tCaE03UmNNbkRkY2hPd2RzaXJpTGhXRzNEdGJISldrbGlCYVVQX2o4MElSdGRkYjdCcDdUdXZpcVRZMXVEa2pRTmpQQkpRS3NBdHdISWJ3OGZaUzJueG8xSk1nSFhqTG1MdzZqejFqQjRiaXJ2SjFCdjB4WDVIQXhTbENF?oc=5",
     "news_image": "",
     "news_source": "NASA Science (.gov)",
-    "news_age": "3368h ago",
+    "news_age": "3369h ago",
     "news_columns": [
       "space_launch",
       "rd",
@@ -49059,12 +49059,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 1.8,
+    "news_score": 1.79,
     "news_title": "England vs Argentina at the World Cup means pantomime villains. Who will it be this time? - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSHlWRnBxd2NxWmI5ZnlSQWJxQ29UTnJZUGk0a0NseEFFeTIwb041OWVQQjcySUZEaW1RRmR4d2t1Y0hlUjhrdm9sdzdhSm1FZ3NNSGVPRzJKWU1KVV9lTmotSVM1WkYzQXBTTkpLNDlOOHMzZUczbmI4ckk1bmtBNXNncTYyeGViRVB4aVR6bDA2c3NBcGdsLVV4aERfZw?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "57m ago",
+    "news_age": "59m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -52638,7 +52638,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.28,
+    "news_score": 0.32,
     "news_title": "Jordan Walker spoils Philly’s Kyle Schwarber party, rallies to win Home Run Derby - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZHNqdkxwVExxcnhseXVESng5VlBYWTd0Wkg2c3ZhSmk4ZDBGam1oZUJjOGxNd0ZrTVVtODBhY0dKNFZPaHFhMnl0N0ZfRm10LUhaZTRTTXZIdFBfWHhxVDg2V2t0aDhCSl9KMXUxY2pwLXNlUWdoSGU0ZXJReDZRTmtaeS1XTVhJN3k1TXkxUFZCdw?oc=5",
     "news_image": "",
@@ -54114,12 +54114,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.81,
+    "news_score": 0.8,
     "news_title": "Bethune-Cookman Athletics Reaches Multi-Year Extension with NIKE, BSN SPORTS - Bethune-Cookman University Athletics",
     "news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc29aOFpiT2l5eS1odkRyOVNIV3NDSE9TamllbXpTcURNb244YnJvRmthTWdpTklNZVM5RU5UWmt1M0stNUtjdHViVHU5MHEzWGtQNDlTM1U3TjdDc05mNHdXZVNpU2hpOUJtSXZoSTRpaDdoOFQzN0syeTBsYTRPQjJDNEFJZ19yYUtvaTdHQ1BaaFI2T3VIa1FVQy00MWM0ZEF0LW9LSDBJVlBKQ1laczBILTI4bV9Ob2ljZEtmZEdMWlQxZDM4?oc=5",
     "news_image": "",
     "news_source": "Bethune-Cookman University Athletics",
-    "news_age": "52m ago",
+    "news_age": "54m ago",
     "news_columns": [
       "edu",
       "literacy",
@@ -55396,7 +55396,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWTY0bWFLbW5SQmVKRWpJSFh4TGsxVTRJVG9GbGk0UGdXQjYtTlpDTXdPNVBiVjZPTmRST3NkU0dyWUFibndjTDF4dzRoek4xdlFGc2prc2RkT0Rqb0RRR3dObHVpajNlclRXZl9ScTdJcEhPaElWa3RrM2Q3OE8wTndaZ1d1MWNqdzBvMm84OWZsU1REMVYtbHVNdDZCYXpLYWN1MmoyZUpfeG1jSjZiVUNoNTA1dTBzNFQw?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "945h ago",
+    "news_age": "946h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -58349,7 +58349,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.33,
+    "news_score": 0.3,
     "news_title": "Warren Buffett excludes Gates Foundation from his annual donations of Berkshire stock - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVnFsMnVJOUhTNTNEeExEQVlyNVF6czQzZ1g2YVFPcnplYVZJWklaaWJ2SEpabG5QWlY2SU9JZTZydGlaTHR5X2tKNjJGNW1FQ2RkM2p4TG83UjFOcFJMVGxib0lXeXh3OWljVV9VYTVNZjMxTkFmMkp6RGRGV2dNZGhtSDNvNFp3M2VJb1hkVC1xVUlGQ2M0azBVV2JPVE9mNVFLWV9IeDBsdi1IOHpzQjd6dWRDS0g4NHpGV2kwMNIBxAFBVV95cUxNdUtBVVZ3UTVaYTFSbG5iRTdjcWVQdFgxN3dVWThibVJTUlBwTEFoR3c2cFdZejBBazQzM3psLVR1RkEtdnBHMlpwQmRmM2ZHMU5HNnV5cXlNaUdhZjVoQnhIQ0N0eklQUVY5eUQwS1NPUi1ORmhYOVJaVE1mbGRTbEVBSHFOWFh1akVfV0pHS2hRb3NKWFpSWkVRZklwbHlacHVPZWpxV1phSFhVQjl2WGlSSF9Vd3EtZG1nQjdMSjNkZVMt?oc=5",
     "news_image": "",
@@ -58572,7 +58572,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.33,
+    "news_score": 0.3,
     "news_title": "Warren Buffett excludes Gates Foundation from his annual donations of Berkshire stock - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVnFsMnVJOUhTNTNEeExEQVlyNVF6czQzZ1g2YVFPcnplYVZJWklaaWJ2SEpabG5QWlY2SU9JZTZydGlaTHR5X2tKNjJGNW1FQ2RkM2p4TG83UjFOcFJMVGxib0lXeXh3OWljVV9VYTVNZjMxTkFmMkp6RGRGV2dNZGhtSDNvNFp3M2VJb1hkVC1xVUlGQ2M0azBVV2JPVE9mNVFLWV9IeDBsdi1IOHpzQjd6dWRDS0g4NHpGV2kwMNIBxAFBVV95cUxNdUtBVVZ3UTVaYTFSbG5iRTdjcWVQdFgxN3dVWThibVJTUlBwTEFoR3c2cFdZejBBazQzM3psLVR1RkEtdnBHMlpwQmRmM2ZHMU5HNnV5cXlNaUdhZjVoQnhIQ0N0eklQUVY5eUQwS1NPUi1ORmhYOVJaVE1mbGRTbEVBSHFOWFh1akVfV0pHS2hRb3NKWFpSWkVRZklwbHlacHVPZWpxV1phSFhVQjl2WGlSSF9Vd3EtZG1nQjdMSjNkZVMt?oc=5",
     "news_image": "",
@@ -58795,19 +58795,19 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.0,
-    "news_title": "Trump Says Fighting With Iran Has Resumed as He Orders Blockade and Tolls - The New York Times",
-    "news_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VN19EUFA3b25qUWJwN29EOEkwM216d0VFNXZITl9YdWJNZ3F5YkxyTEZiWjZfYnBRSUFiZGtHaVAyd2laWl8xRFJqem9lLXIzWlNpc1loOXdtcWxvYy1lYmVJS251YnlZdml2UGVtY0tRT0FkN19id3REZXg?oc=5",
+    "news_score": 0.18,
+    "news_title": "IBM stock plummets more than 25% on Q2 earnings warning - Yahoo Finance",
+    "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX3RLQy1PbDFDbjVFNmxDTnhuOHZZdGRQUG1zM1MzSF9OTmhVNV9kNnptdUx2azR0dzJvY3VkdW9uXzlnOUxFVXF3MnNEMmREWWZqNkc4YVVVa3Q3UVk0TjZMUEhHN0lrR1lsX0FJQTIxNWM3WWFLUERSYVB2d0RzcTdhZ2dtWHpVYXJyMnB6RmxNOEhGWklOUFNOR3QyZ1ZjZUE?oc=5",
     "news_image": "",
-    "news_source": "The New York Times",
-    "news_age": "70m ago",
+    "news_source": "Yahoo Finance",
+    "news_age": "114m ago",
     "news_columns": [
-      "gas_price",
-      "energy_per_capita",
-      "co2",
-      "renew",
-      "exports",
-      "ai_research"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
+      "military_pct",
+      "nuclear"
     ]
   },
   {
@@ -62390,7 +62390,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.46,
+    "news_score": 0.4,
     "news_title": "How to Watch France and Mbappé vs. Spain: TV Channel, Live Stream, Time - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMjdqRXhuVl9velU4c0w4aEl4VHpiZUdIaFd5OVhtemkxaHR6RTVzaWhiZER0cUo1a3hKWGhvT2RUaGVfOEpEdnUtMDN6Y1VOY2pNcG5SSlk5dDZaczdGTmRtdmhDTnBGc3JNMU9IM09iRzlrQjE1bzM0UzhQQmw2a0QzNFNsNmsxb1hUdVRlUlo1QXJXWE5fVmpCSFRvWS1ySUJidktTaGFEREJWNHJ5WjB1VmFCRVVfcUxLM2FZUQ?oc=5",
     "news_image": "",
@@ -67473,7 +67473,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZHd2UGZFcTNiU0lIVkY4RjRqdHZLTHV6RlBRb09WMXA0SExBbnBjemo1Y1phNndhTGhFZEhVTU5DQmQ1WGR0bFlmSVIxdUN2OWJQOWNVUi1zVHV4TzZ4azlHUDBNNlhzV2kxNG5FTEd5WVJ4dDNhcEZQUGU1dHlUVkFnS2JGTndudnRyNw?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "2193h ago",
+    "news_age": "2194h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -70432,12 +70432,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.79,
+    "news_score": 0.78,
     "news_title": "Dodgers make roster decision on 6.30 ERA former Cubs reliever - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTmpKX2xncU9vNmdyMV9IUnF4WHZiSDlzalF6NVFfX1FOTUl1RWlnUFpSQ0x2LXZBNGY2c01kblVEMFhyUjd1Tzh3ZS04UWFpZloxQ0hWdGxRNWRKc2tzSEN0Q1dfeWZhdWtTR29XYlJaQk92eWs4VXRaZTZtWmUyNm00aw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "58m ago",
+    "news_age": "60m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -71728,12 +71728,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.72,
+    "news_score": 0.71,
     "news_title": "Arsenal to move for Tzolis after Trossard exit - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUFJyQXRRZ1ctREU3SWpXSzAxRFFSYlJWY3BPX3V3ZXdkaEc1ejdnbi12LVlJZlpkWTBuLVh2Qk9oNGpmZkRQT21tY0dHN3E3NEtKcE5JWGFLblBFNFlvRURwNDk0MXdXcHNCOThGS3Utb1RtSjNxZG1QbjZBalduTE1vUjhCTklmVWc?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "79m ago"
+    "news_age": "81m ago"
   },
   {
     "flag": "XX949D5",
@@ -72370,12 +72370,12 @@
     "news_source": "Fox News",
     "news_age": "5h ago",
     "news_columns": [
+      "democracy",
+      "press",
+      "gpi",
+      "polit_kill",
       "health",
-      "life_expectancy",
-      "doctors",
-      "beds",
-      "vaccination",
-      "infant_mortality"
+      "life_expectancy"
     ]
   },
   {
@@ -72591,6 +72591,6 @@
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT05rU3FFX0lFZmFhSjJJUTVXeXpucmo3dmFWX0wzam1FeFJYN1FaM0w1ZjZ1MXNlRUFFWlhtUjRWMmtabEV2cmhvbXRHbHIwQ3ZZZFQ1bDljVUgxcGs0ZkRpSFJXenp1SUdVVmVEVWZwWS1kd3FSV0ZVR0l3TGRUMjNOYw?oc=5",
     "news_image": "",
     "news_source": "Hamilton College",
-    "news_age": "7833h ago"
+    "news_age": "7834h ago"
   }
 ]
