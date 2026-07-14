@@ -3,6 +3,8 @@
 set -e
 REPO=/mnt/c/Users/mathe/Desktop/rankerage
 cd "$REPO"
+# Load API keys
+[ -f .env ] && export $(grep -v '^#' .env | xargs)
 
 # Pull latest to avoid conflicts (with timeout)
 timeout 15 git pull origin master 2>/dev/null || true
