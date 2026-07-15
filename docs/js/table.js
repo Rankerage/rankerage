@@ -64,40 +64,40 @@
           h+='</div></div>';
           return h;}},
       // === CORE ===
-      A(t('population'),"population",100), A(t('area'),"area",100), A(t('density'),"population_density",95),
+      A(t('population'),"population",100), A(t('area'),"area",100), A(t('density'),"population_density",95,false),
       // === ECONOMY ===
       A(t('gdp'),"gdp",105), A(t('gdpPerCapita'),"gdp_per_capita",100),
       // === DEVELOPMENT ===
       A(t('hdi'),"hdi",72), A(t('lifeExp'),"life_expectancy",85), A(t('happiness'),"happiness",78),
       // === GOVERNANCE ===
-      A(t('democracy'),"democracy",82), A(t('press'),"press",72), A(t('cpi'),"cpi",68), A(t('gpi'),"gpi",68), A(t('approval'),"approval",78), E("election_days",82),
+      A(t('democracy'),"democracy",82), A(t('press'),"press",72,false), A(t('cpi'),"cpi",68), A(t('gpi'),"gpi",68,false), A(t('approval'),"approval",78,false), E("election_days",82),
       // === ECONOMY DEEP ===
-      A(t('unemp'),"unemp",78), A(t('debt'),"debt",78), A(t('poverty'),"poverty",78),
+      A(t('unemp'),"unemp",78,false), A(t('debt'),"debt",78,false), A(t('poverty'),"poverty",78,false),
       // === INNOVATION ===
-      A(t('rd'),"rd",72), A(t('patents'),"patents",78),
+      A(t('rd'),"rd",72,false), A(t('patents'),"patents",78,false),
       // === SOCIETY ===
-      A(t('edu'),"edu",72), A(t('english'),"english",78), A(t('internet'),"internet_pct",78), A(t('gender'),"gender",78), A(t('fertility'),"fertility",78),
+      A(t('edu'),"edu",72,false), A(t('english'),"english",78,false), A(t('internet'),"internet_pct",78), A(t('gender'),"gender",78,false), A(t('fertility'),"fertility",78,false),
       // === HEALTH ===
-      A(t('health2'),"health",78), A(t('obesity'),"obesity",78), A(t('alcohol'),"alcohol",78), A(t('pm25'),"pm25",78),
+      A(t('health2'),"health",78,false), A(t('obesity'),"obesity",78,false), A(t('alcohol'),"alcohol",78,false), A(t('pm25'),"pm25",78,false),
       // === ENVIRONMENT ===
-      A(t('co2'),"co2",78), A(t('forest'),"forest",78), A(t('renew'),"renew",78),
+      A(t('co2'),"co2",78,false), A(t('forest'),"forest",78,false), A(t('renew'),"renew",78,false),
       // === SECURITY ===
-      A(t('military'),"military_pct",78), A(t('nuclear'),"nuclear",72), A(t('murder'),"murder",72),
+      A(t('military'),"military_pct",78), A(t('nuclear'),"nuclear",72,false), A(t('murder'),"murder",72,false),
       // === TRAVEL ===
-      A(t('tourism'),"tourism",82),
+      A(t('tourism'),"tourism",82,false),
       // === SPORTS (headerSort disabled for null-heavy columns) ===
-      A(t('olympic'),"olympic",78), H(t('fifa'),"fifa_ranking",68), H(t('fifaW'),"fifa_w",72), H(t('basket'),"basket",72), H(t('cricket'),"cricket",72), H(t('rugby'),"rugby",72),
+      A(t('olympic'),"olympic",78), H(t('fifa'),"fifa_ranking",68), H(t('fifaW'),"fifa_w",72,false), H(t('basket'),"basket",72,false), H(t('cricket'),"cricket",72,false), H(t('rugby'),"rugby",72,false),
       // === ACHIEVEMENTS ===
       A(t('nobel'),"nobel",72),      A(t('quakeCnt'),"earthquake_count",72,false),      A(t('tsunami'),"tsunami_risk",72,false),      A(t('cyclone'),"cyclone_freq",72,false),      A(t('flood'),"flood_risk",72,false),      A(t('wildfire'),"wildfire_freq",72,false),      A(t('wcPart'),"worldcup_parts",72,false),      A(t('olyGold'),"olympic_gold",72,false),      A(t('olyCap'),"olympic_per_cap",72,false),      A(t('davis'),"davis_cup",72,false),      A(t('marathon'),"marathon_elite",72,false),      A(t('burglary'),"burglary",72,false),      A(t('drug'),"drug_offense",72,false),      A(t('assault'),"assault",72,false),      A(t('traffick'),"trafficking",72,false),      A(t('gang'),"gang_violence",72,false),      A(t('cancer'),"cancer",72,false),      A(t('diabetes'),"diabetes",72,false),      A(t('hiv'),"hiv_prev",72,false),      A(t('vaccine'),"vaccination",72,false),      A(t('mental'),"mental_health",72,false),      A(t('startup'),"startup_rate",72,false),      A(t('costlive'),"cost_living",72,false),      A(t('house'),"house_price",72,false),      A(t('minwage'),"min_wage",72,false),      A(t('pisaM'),"pisa_math",72,false),      A(t('pisaS'),"pisa_science",72,false),      A(t('pisaR'),"pisa_reading",72,false),      A(t('phd'),"phd_per_cap",72,false),      A(t('pub'),"research_pub",72,false),      A(t('recycle'),"recycling",72,false),      A(t('plastW'),"plastic_waste",72,false),      A(t('parkPct'),"park_area",72,false),      A(t('immig'),"immigration",72,false),      A(t('emig'),"emigration",72,false),      A(t('refugee'),"refugees",72,false),      A(t('genderGap'),"gender_gap",72,false),      A(t('lgbtq'),"lgbtq_rights",72,false),      A(t('g5g'),"g5_coverage",72,false),      A(t('ai'),"ai_research",72,false),      A(t('space'),"space_launch",72,false),      A(t('arms'),"arms_export",72,false),      A(t('peacekeep'),"peacekeeping",72,false),      A(t('intangbl'),"intangible",72,false),      A(t('film'),"film_prod",72,false),      A(t('michelin'),"michelin",72,false),      A(t('game'),"game_market",72,false),      A(t('tea'),"tea_consume",72,false),      A(t('rice'),"rice_consume",72,false),      A(t('waste'),"food_waste",72,false),      A(t('holiday'),"holidays",72,false),      A(t('influ'),"influencers",72,false),      A(t('fest'),"festivals",72,false),      A(t('tan'),"tanning",72,false),      A(t('streetfd'),"street_food",72,false),      A(t('cat'),"cat_own",72,false),      A(t('dog'),"dog_own",72,false),
       // === CULTURE/LIFESTYLE ===
-      A(t('gini'),"gini",72), A(t('suicide'),"suicide",72),
-      A(t('literacy'),"literacy",78), A(t('leave'),"leave",72),
-      A(t('independence'),"independence",82), A(t('netspeed'),"netspeed",82),
-      A(t('doctors'),"doctors",72), A(t('heritage'),"heritage",72),
-      A(t('elevation'),"elevation",78), A(t('agri'),"agri",72),
-      A(t('languages'),"languages",78), A(t('coffee'),"coffee",72),
-      A(t('smoking'),"smoking",72), A(t('mcdonalds'),"mcdonalds",82),
-      A(t('prison'),"prison",72), A(t('tz'),"tz",65),
+      A(t('gini'),"gini",72,false), A(t('suicide'),"suicide",72,false),
+      A(t('literacy'),"literacy",78,false), A(t('leave'),"leave",72,false),
+      A(t('independence'),"independence",82,false), A(t('netspeed'),"netspeed",82,false),
+      A(t('doctors'),"doctors",72,false), A(t('heritage'),"heritage",72,false),
+      A(t('elevation'),"elevation",78,false), A(t('agri'),"agri",72,false),
+      A(t('languages'),"languages",78,false), A(t('coffee'),"coffee",72,false),
+      A(t('smoking'),"smoking",72,false), A(t('mcdonalds'),"mcdonalds",82,false),
+      A(t('prison'),"prison",72,false), A(t('tz'),"tz",65,false),
       // === DEMOGRAPHICS DEEP ===
       A(t('birthRate'),"birth_rate",78,false), A(t('deathRate'),"death_rate",78,false),
       A(t('infantMortality'),"infant_mortality",82,false), A(t('urbanPop'),"urban_pop",78,false),
@@ -1578,7 +1578,7 @@
 
   // ── Auto-rotation: table comes alive ──
   var autoRotate = true;
-  var rotationInterval = 45000;
+  var rotationInterval = 180000;
   var rotationTimer = null;
   var rotationPaused = false;
   var rotationColumns = [];
