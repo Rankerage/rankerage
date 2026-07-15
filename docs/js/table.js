@@ -698,12 +698,13 @@
         .sort(function(a, b) { return b.score - a.score; })
         .slice(0, 10);
       
-      // 2) 국가명 검색 (English + local name)
+      // 2) 국가명 검색 (English + local + i18n translated name)
       var cRows = table.getRows().filter(function(r){
         var d = r.getData();
         var n = (d.country_name_en || '').toLowerCase();
         var l = (d.country_name_local || '').toLowerCase();
-        return n.indexOf(q) >= 0 || l.indexOf(q) >= 0;
+        var t = (I18N.countryName(d.country_code) || '').toLowerCase();
+        return n.indexOf(q) >= 0 || l.indexOf(q) >= 0 || t.indexOf(q) >= 0;
       }).slice(0, 5);
       
       // 3) 파생 컬럼 제안 — 사용자가 없는 순위를 원하면 즉석 생성

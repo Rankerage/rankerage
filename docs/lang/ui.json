@@ -126,7 +126,8 @@
     "nato": "NATO",
     "nuclearPower": "NukePwr",
     "volcanoes": "Volcano",
-    "mathOlympiad": "MathOly"
+    "mathOlympiad": "MathOly",
+    "slogan": "Get to know the world!"
   },
   "ko": {
     "search": "순위 찾기...",
@@ -255,7 +256,8 @@
     "nuclearPower": "원전",
     "volcanoes": "화산",
     "mathOlympiad": "수학올림",
-    "searchBtn": "AI-Search"
+    "searchBtn": "AI-Search",
+    "slogan": "세계와 친해집시다!"
   },
   "zh": {
     "search": "搜索排名...",
@@ -384,7 +386,8 @@
     "nuclearPower": "核电",
     "volcanoes": "火山",
     "mathOlympiad": "奥数",
-    "searchBtn": "AI-Search"
+    "searchBtn": "AI-Search",
+    "slogan": "与世界交朋友吧！"
   },
   "ja": {
     "search": "ランキング検索...",
@@ -513,7 +516,8 @@
     "nuclearPower": "原発",
     "volcanoes": "火山",
     "mathOlympiad": "数学五輪",
-    "searchBtn": "AI-Search"
+    "searchBtn": "AI-Search",
+    "slogan": "世界と仲良くなろう！"
   },
   "es": {
     "search": "Buscar ranking...",
@@ -641,7 +645,8 @@
     "nato": "OTAN",
     "nuclearPower": "Nuclear",
     "volcanoes": "Volcán",
-    "mathOlympiad": "OlimMat"
+    "mathOlympiad": "OlimMat",
+    "slogan": "¡Hazte amigo del mundo!"
   },
   "fr": {
     "search": "Chercher...",
@@ -769,7 +774,8 @@
     "nato": "OTAN",
     "nuclearPower": "Nucléaire",
     "volcanoes": "Volcan",
-    "mathOlympiad": "MathOly"
+    "mathOlympiad": "MathOly",
+    "slogan": "Faites connaissance avec le monde !"
   },
   "quakeCnt": {
     "en": "Earthquakes",
