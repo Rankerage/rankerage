@@ -390,6 +390,8 @@
     // ── 1행1열(국기헤더): 알파벳 컬럼 정렬 리셋 ──
     // ── 1행2열(국가명헤더): 국가명 A-Z 소팅 토글 ──
     var countryNameSortDir = "asc";  // A-Z 기본
+    var currentSortField = "country_name_en";
+    var currentSortDir = "asc";
 
     table.on("headerClick", function(e, column) {
       var field = column.getField();
@@ -401,18 +403,48 @@
           .filter(function(f){return typeof f==='string' && f.length>0;});
         allCols.sort();
         reorderColumns(allCols);
-        table.setSort('country_name_en','asc');
+        sortDataBy('country_name_en','asc');
         localStorage.setItem('rankerage_col_order',JSON.stringify(allCols));
         clearHighlight();
         return false;
       } else if (field === "country_name_en") {
         // 국가명 헤더 클릭 → A-Z 정순만
         e.preventDefault(); e.stopPropagation();
-        table.setSort("country_name_en","asc");
+        sortDataBy("country_name_en","asc");
         clearHighlight();
         return false;
       }
+      // All other columns: manual sort (Tabulator setSort is broken)
+      e.preventDefault(); e.stopPropagation();
+      var dir = (currentSortField === field && currentSortDir === 'asc') ? 'desc' : 'asc';
+      sortDataBy(field, dir);
+      clearHighlight();
+      return false;
     });
+
+    function sortDataBy(field, dir) {
+      var data = table.getData();
+      data.sort(function(a, b) {
+        var va = a[field], vb = b[field];
+        var na = (va == null || va >= NULL_SENTINEL || va <= NEG_SENTINEL);
+        var nb = (vb == null || vb >= NULL_SENTINEL || vb <= NEG_SENTINEL);
+        if (na && nb) return 0;
+        if (na) return 1;
+        if (nb) return -1;
+        if (typeof va === 'string') {
+          var pa = va.charCodeAt(0) < 65, pb = vb.charCodeAt(0) < 65;
+          if (pa && !pb) return 1;
+          if (!pa && pb) return -1;
+          var cmp = va.localeCompare(vb);
+          return dir === 'desc' ? -cmp : cmp;
+        }
+        return dir === 'desc' ? vb - va : va - vb;
+      });
+      table.setData(data);
+      table.setSort(field, dir);
+      currentSortField = field;
+      currentSortDir = dir;
+    }
 
     // ── 검색 빈도수 추적 (localStorage) → 자주 찾는 컬럼이 앞에 ──
     function trackSearchCount(field) {
