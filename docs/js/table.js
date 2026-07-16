@@ -18,8 +18,10 @@
     var S = function(a,b,aRow,bRow,col,dir){
       var na=(a==null||a>=NULL_SENTINEL||a<=NEG_SENTINEL),nb=(b==null||b>=NULL_SENTINEL||b<=NEG_SENTINEL);
       if(na&&nb)return 0;
-      if(na)return 1;
-      if(nb)return -1;
+      // Tabulator negates the sorter result for 'desc', so reverse the null-push
+      // signal so that null always stays at the bottom regardless of direction.
+      if(na)return dir==='desc'?-1:1;
+      if(nb)return dir==='desc'?1:-1;
       return a-b;
     };
     var NULL_SENTINEL = 999999;
@@ -418,9 +420,17 @@
         clearHighlight();
         return false;
       }
-      // All other columns: manual sort (Tabulator setSort is broken)
+      // All other columns: manual sort
       e.preventDefault(); e.stopPropagation();
-      var dir = (currentSortField === field && currentSortDir === 'asc') ? 'desc' : 'asc';
+      // Read Tabulator's actual sort state (not a stale variable)
+      var sorters = table.getSorters();
+      var curSort = sorters.length > 0 ? sorters[0] : null;
+      var dir;
+      if (curSort && curSort.field === field) {
+        dir = (curSort.dir === 'asc') ? 'desc' : 'asc';
+      } else {
+        dir = 'asc';
+      }
       sortDataBy(field, dir);
       clearHighlight();
       return false;
