@@ -931,3 +931,30 @@ body {
 /* ── Colspan cell ── */
 .colspan-cell { background: rgba(224,200,124,0.02) !important; }
 .colspan-cell .colspan-inner { display: flex; align-items: center; height: 100%; }
+
+/* ── Graph View link ── */
+.graph-link {
+  font-size: 12px; font-weight: 600; color: #8892b0;
+  text-decoration: none; padding: 4px 10px;
+  border-radius: 6px; transition: all 0.2s;
+  white-space: nowrap;
+}
+.graph-link:hover { color: #e0c87c; background: rgba(224,200,124,0.08); }
+
+/* ── AdSense Merged Cell ── */
+.ad-row {
+  background: rgba(224,200,124,0.03) !important;
+  border-left: 2px solid rgba(224,200,124,0.15) !important;
+  transition: background 0.3s;
+}
+.ad-row:hover { background: rgba(224,200,124,0.06) !important; }
+.ad-merged-cell {
+  background: transparent !important;
+  border-right: none !important;
+}
+.ad-label {
+  font-family: 'Outfit', 'Inter', sans-serif;
+  opacity: 0.7;
+  transition: opacity 0.2s;
+}
+.ad-row:hover .ad-label { opacity: 1; }

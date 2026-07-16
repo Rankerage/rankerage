@@ -1455,27 +1455,36 @@
     function clearSelection(){document.querySelectorAll(".tabulator-cell.selected").forEach(function(c){c.classList.remove("selected");});}
     document.addEventListener("keydown",function(e){if(e.ctrlKey&&e.key==="c"){var sel=document.querySelectorAll(".tabulator-cell.selected");if(!sel.length)return;var rows=new Map();sel.forEach(function(cell){var row=cell.closest(".tabulator-row");var idx=Array.from(row.parentElement.children).indexOf(row);if(!rows.has(idx))rows.set(idx,[]);rows.get(idx).push(cell.textContent.trim());});navigator.clipboard.writeText(Array.from(rows.values()).map(function(cells){return cells.join("\t");}).join("\n"));}else if(e.key==="Escape"){isSelecting=false;clearSelection();}});
 
-    // ── 광고 행 삽입 (매 8행) ──
-    var adInterval = 8;
+    // ── 광고 merged-cell 행 삽입 (매 12행) ──
+    // AdSense를 표의 합친셀(merged cell) 안에만 배치 — 테이블과 일체화된 광고
+    var adInterval = 12;
     var adCount = 0;
     function insertAdRows() {
       // Remove old ad rows
       document.querySelectorAll('.tabulator-row.ad-row').forEach(function(r) { r.remove(); });
       var rows = table.getRows();
       if (rows.length < adInterval) return;
+      adCount = 0;
+      var tableHolder = document.querySelector('.tabulator-tableholder');
+      var colCount = table.getColumns().length;
       for (var i = adInterval - 1; i < rows.length; i += adInterval + 1) {
         var refRow = rows[i];
         if (!refRow) break;
+        var refEl = refRow.getElement();
+        // Create ad row that mimics Tabulator row structure — merged cell across all columns
         var adRow = document.createElement('div');
         adRow.className = 'tabulator-row ad-row';
-        adRow.style.cssText = 'height:90px;display:flex;align-items:center;justify-content:center;border-bottom:1px solid rgba(255,255,255,0.04);';
-        adRow.innerHTML = '<div style="text-align:center;width:100%;padding:4px;">' +
-          '<ins class="adsbygoogle" style="display:block;height:80px" ' +
+        adRow.style.cssText = 'height:auto;min-height:90px;display:flex;align-items:stretch;border-bottom:1px solid rgba(224,200,124,0.12);position:relative;';
+        // Single merged cell spanning full width
+        adRow.innerHTML = '<div class="tabulator-cell ad-merged-cell" style="flex:1;display:flex;align-items:center;justify-content:center;padding:6px 12px;position:relative;">' +
+          '<span class="ad-label" style="position:absolute;top:2px;left:12px;font-size:9px;color:#545d7a;text-transform:uppercase;letter-spacing:1px;">Sponsored</span>' +
+          '<ins class="adsbygoogle" style="display:block;width:728px;height:90px;max-width:100%;" ' +
           'data-ad-client="ca-pub-9060044387299153" ' +
           'data-ad-slot="9876543210" ' +
           'data-ad-format="horizontal" ' +
-          'data-full-width-responsive="true"></ins></div>';
-        refRow.getElement().after(adRow);
+          'data-full-width-responsive="true"></ins>' +
+          '</div>';
+        refEl.after(adRow);
         adCount++;
       }
       // Trigger AdSense

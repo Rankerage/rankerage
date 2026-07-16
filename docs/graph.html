@@ -1,0 +1,607 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#0a0e1a">
+    <title>Rankerage.com — Country Graph</title>
+    <style>
+        :root {
+            --bg: #0a0e1a;
+            --text: #e8ecf4;
+            --accent: #5b8def;
+            --gold: #e0c87c;
+            --muted: #545d7a;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            background: var(--bg);
+            color: var(--text);
+            font-family: 'Inter', 'Noto Sans KR', -apple-system, sans-serif;
+            overflow: hidden;
+            height: 100vh;
+        }
+        #graph-container {
+            width: 100vw; height: 100vh;
+            position: relative;
+            cursor: grab;
+        }
+        #graph-container:active { cursor: grabbing; }
+        #graph-container svg { width: 100%; height: 100%; }
+
+        /* Tooltip */
+        #tooltip {
+            position: absolute;
+            pointer-events: none;
+            background: rgba(17,22,39,0.95);
+            border: 1px solid rgba(224,200,124,0.3);
+            border-radius: 10px;
+            padding: 12px 16px;
+            font-size: 13px;
+            opacity: 0;
+            transition: opacity 0.15s;
+            z-index: 100;
+            backdrop-filter: blur(12px);
+            max-width: 280px;
+        }
+        #tooltip .tt-country {
+            font-size: 16px; font-weight: 700; color: var(--gold);
+            margin-bottom: 4px;
+        }
+        #tooltip .tt-stat {
+            font-size: 11px; color: var(--text);
+            margin: 2px 0;
+            display: flex; justify-content: space-between; gap: 12px;
+        }
+        #tooltip .tt-rank { color: var(--accent); font-weight: 600; }
+
+        /* Legend */
+        #legend {
+            position: absolute;
+            top: 16px; right: 16px;
+            background: rgba(17,22,39,0.9);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 10px;
+            padding: 12px 14px;
+            font-size: 11px;
+            z-index: 50;
+            backdrop-filter: blur(8px);
+        }
+        #legend .leg-item { display: flex; align-items: center; gap: 6px; margin: 3px 0; cursor: pointer; }
+        #legend .leg-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+        #legend .leg-item.dimmed { opacity: 0.3; }
+
+        /* Controls */
+        #controls {
+            position: absolute;
+            bottom: 24px; left: 50%;
+            transform: translateX(-50%);
+            display: flex; gap: 8px;
+            z-index: 50;
+        }
+        #controls button, #controls select {
+            background: rgba(17,22,39,0.9);
+            border: 1px solid rgba(255,255,255,0.12);
+            color: var(--text);
+            padding: 8px 14px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 12px;
+            backdrop-filter: blur(8px);
+            transition: all 0.2s;
+        }
+        #controls button:hover, #controls select:hover {
+            border-color: var(--gold);
+            color: var(--gold);
+        }
+        #controls .active { background: rgba(224,200,124,0.2); border-color: var(--gold); color: var(--gold); }
+
+        /* Back link */
+        #back-link {
+            position: absolute;
+            top: 16px; left: 16px;
+            color: var(--muted);
+            text-decoration: none;
+            font-size: 12px;
+            z-index: 50;
+            padding: 6px 12px;
+            border-radius: 6px;
+            transition: all 0.2s;
+        }
+        #back-link:hover { color: var(--gold); background: rgba(255,255,255,0.04); }
+
+        /* Search */
+        #graph-search {
+            position: absolute;
+            top: 16px; left: 50%;
+            transform: translateX(-50%);
+            z-index: 50;
+        }
+        #graph-search input {
+            background: rgba(17,22,39,0.9);
+            border: 1px solid rgba(255,255,255,0.12);
+            color: var(--text);
+            padding: 8px 16px;
+            border-radius: 20px;
+            width: 240px;
+            font-size: 13px;
+            outline: none;
+            backdrop-filter: blur(8px);
+            transition: all 0.2s;
+        }
+        #graph-search input:focus { border-color: var(--gold); }
+        #graph-search input::placeholder { color: var(--muted); }
+
+        /* Node highlight */
+        .node-highlighted { filter: drop-shadow(0 0 8px rgba(224,200,124,0.8)); }
+        .node-dimmed { opacity: 0.15; }
+        .edge-dimmed { opacity: 0; }
+        .edge-semi { opacity: 0.15; }
+
+        /* Info panel */
+        #info-panel {
+            position: absolute;
+            bottom: 80px; left: 50%;
+            transform: translateX(-50%);
+            background: rgba(17,22,39,0.95);
+            border: 1px solid rgba(224,200,124,0.3);
+            border-radius: 12px;
+            padding: 0;
+            font-size: 12px;
+            z-index: 100;
+            backdrop-filter: blur(12px);
+            display: none;
+            max-width: 400px;
+            overflow: hidden;
+        }
+        #info-panel .ip-header {
+            background: rgba(224,200,124,0.1);
+            padding: 12px 16px;
+            display: flex; align-items: center; gap: 10px;
+            border-bottom: 1px solid rgba(255,255,255,0.06);
+        }
+        #info-panel .ip-flag { font-size: 28px; }
+        #info-panel .ip-name { font-size: 16px; font-weight: 700; color: var(--gold); }
+        #info-panel .ip-stats { padding: 12px 16px; display: grid; grid-template-columns: 1fr 1fr; gap: 6px; }
+        #info-panel .ip-stat { display: flex; flex-direction: column; }
+        #info-panel .ip-stat-label { font-size: 10px; color: var(--muted); text-transform: uppercase; }
+        #info-panel .ip-stat-val { font-size: 14px; font-weight: 600; }
+        #info-panel .ip-close {
+            position: absolute; top: 8px; right: 12px;
+            cursor: pointer; color: var(--muted); font-size: 16px;
+        }
+        #info-panel .ip-close:hover { color: var(--text); }
+
+        @media (max-width: 600px) {
+            #legend { top: 60px; right: 8px; font-size: 10px; }
+            #graph-search input { width: 160px; }
+        }
+    </style>
+</head>
+<body>
+<div id="graph-container">
+    <svg id="graph-svg"></svg>
+    <div id="tooltip"></div>
+    <a id="back-link" href="/">← Table View</a>
+    <div id="graph-search"><input type="text" id="graphSearchInput" placeholder="🔍 Find country..." autocomplete="off"></div>
+    <div id="legend"></div>
+    <div id="controls">
+        <button id="btn-similarity" class="active" title="Connect countries with similar ranking profiles">Similarity</button>
+        <button id="btn-trade">Trade</button>
+        <button id="btn-geo">Geography</button>
+        <button id="btn-all">All Edges</button>
+        <button id="btn-reset">⟲ Reset</button>
+    </div>
+    <div id="info-panel"></div>
+</div>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+(async function() {
+    // ── Load data ──
+    const resp = await fetch('data/countries.json');
+    const rawData = await resp.json();
+
+    // Filter to countries only (no entities with prefixes)
+    const countries = rawData.filter(d => {
+        const n = d.country_name_en || '';
+        return !n.startsWith('*') && !n.startsWith('**') && !n.startsWith('***');
+    });
+
+    // ── Color by continent ──
+    const continentColors = {
+        'Asia': '#e74c3c',
+        'Europe': '#3498db',
+        'Africa': '#2ecc71',
+        'North America': '#f39c12',
+        'South America': '#9b59b6',
+        'Oceania': '#1abc9c',
+        'Antarctica': '#95a5a6'
+    };
+
+    // ── Key metrics for similarity ──
+    const METRICS = [
+        'population', 'area', 'gdp', 'gdp_per_capita', 'hdi', 'life_expectancy',
+        'happiness', 'democracy', 'cpi', 'internet_pct', 'military_pct',
+        'fertility', 'co2', 'renew', 'tourism', 'olympic', 'nobel'
+    ];
+
+    // Normalize data for similarity computation
+    function getMetricVector(d) {
+        const vec = [];
+        for (const m of METRICS) {
+            const v = d[m];
+            vec.push(v === null || v === undefined ? 0 : v);
+        }
+        return vec;
+    }
+
+    // Normalize vectors (min-max per metric)
+    const vectors = countries.map(d => getMetricVector(d));
+    const mins = METRICS.map((_, i) => Math.min(...vectors.map(v => v[i])));
+    const maxs = METRICS.map((_, i) => Math.max(...vectors.map(v => v[i])));
+    const norms = vectors.map(v => v.map((x, i) => {
+        const range = maxs[i] - mins[i];
+        return range > 0 ? (x - mins[i]) / range : 0;
+    }));
+
+    // Cosine similarity
+    function cosineSim(a, b) {
+        let dot = 0, na = 0, nb = 0;
+        for (let i = 0; i < a.length; i++) {
+            dot += a[i] * b[i];
+            na += a[i] * a[i];
+            nb += b[i] * b[i];
+        }
+        return dot / (Math.sqrt(na) * Math.sqrt(nb) + 1e-10);
+    }
+
+    // Build similarity edges
+    const nodes = countries.map((d, i) => ({
+        id: i,
+        country_code: d.country_code,
+        name: d.country_name_en,
+        continent: d.continent,
+        flag: d.flag,
+        population: d.population,
+        gdp: d.gdp,
+        hdi: d.hdi,
+        happiness: d.happiness,
+        life_expectancy: d.life_expectancy,
+        news_score: d.news_score || 0,
+        olympic: d.olympic,
+        nobel: d.nobel,
+        radius: 4 + Math.sqrt(d.population || 1e6) / 1000
+    }));
+
+    // Compute similarity edges (top 3 per country)
+    const simEdges = [];
+    for (let i = 0; i < countries.length; i++) {
+        const sims = [];
+        for (let j = i + 1; j < countries.length; j++) {
+            sims.push({ j, sim: cosineSim(norms[i], norms[j]) });
+        }
+        sims.sort((a, b) => b.sim - a.sim);
+        for (let k = 0; k < 3 && k < sims.length; k++) {
+            if (sims[k].sim > 0.75) {
+                simEdges.push({ source: i, target: sims[k].j, sim: sims[k].sim });
+            }
+        }
+    }
+
+    // Build geography edges (same continent, close proximity)
+    const geoEdges = [];
+    for (let i = 0; i < countries.length; i++) {
+        for (let j = i + 1; j < countries.length; j++) {
+            if (countries[i].continent === countries[j].continent) {
+                // Check if they share a subcontinent
+                if (countries[i].subcontinent === countries[j].subcontinent) {
+                    geoEdges.push({ source: i, target: j, type: 'geo' });
+                }
+            }
+            // Neighbors by proximity (lat/lon within ~15 degrees)
+            if (countries[i].lat && countries[j].lat) {
+                const dlat = countries[i].lat - countries[j].lat;
+                const dlon = countries[i].lon - countries[j].lon;
+                const dist = Math.sqrt(dlat*dlat + dlon*dlon);
+                if (dist < 15) {
+                    geoEdges.push({ source: i, target: j, type: 'proximity' });
+                }
+            }
+        }
+    }
+
+    // ── SVG setup ──
+    const container = document.getElementById('graph-container');
+    const svg = d3.select('#graph-svg');
+    const width = () => container.clientWidth;
+    const height = () => container.clientHeight;
+
+    const g = svg.append('g');
+    const linkG = g.append('g').attr('class', 'links');
+    const nodeG = g.append('g').attr('class', 'nodes');
+
+    // Zoom behavior
+    const zoom = d3.zoom()
+        .scaleExtent([0.1, 8])
+        .on('zoom', (event) => {
+            g.attr('transform', event.transform);
+        });
+    svg.call(zoom);
+
+    // ── Simulation ──
+    let currentEdges = [...simEdges];
+    const sim = d3.forceSimulation(nodes)
+        .force('link', d3.forceLink(currentEdges).id(d => d.id).distance(d => 120 * (1 - (d.sim || 0.5))).strength(d => 0.3 * (d.sim || 0.3)))
+        .force('charge', d3.forceManyBody().strength(d => -30 - (d.radius || 5) * 2))
+        .force('center', d3.forceCenter(width() / 2, height() / 2))
+        .force('collision', d3.forceCollide().radius(d => (d.radius || 5) + 2))
+        .alphaDecay(0.003)  // Slow decay for continuous movement
+        .velocityDecay(0.3);
+
+    // ── Render ──
+    function updateEdges() {
+        const link = linkG.selectAll('line').data(currentEdges, d => `${d.source.id || d.source}-${d.target.id || d.target}`);
+        link.exit().remove();
+        const linkEnter = link.enter().append('line')
+            .attr('stroke', d => {
+                if (d.sim) return `rgba(224,200,124,${d.sim * 0.3})`;
+                return 'rgba(91,141,239,0.15)';
+            })
+            .attr('stroke-width', d => d.sim ? d.sim * 2 : 0.5)
+            .attr('stroke-opacity', 0.4);
+        return linkEnter.merge(link);
+    }
+
+    function updateNodes() {
+        const node = nodeG.selectAll('g.node').data(nodes, d => d.id);
+        const nodeExit = node.exit();
+        nodeExit.transition().duration(300).attr('opacity', 0).remove();
+
+        const nodeEnter = node.enter().append('g').attr('class', 'node');
+        nodeEnter.append('circle')
+            .attr('r', d => d.radius)
+            .attr('fill', d => continentColors[d.continent] || '#5b8def')
+            .attr('stroke', d => d3.color(continentColors[d.continent] || '#5b8def').brighter(0.4))
+            .attr('stroke-width', 1.5)
+            .attr('opacity', 0.85);
+
+        nodeEnter.append('text')
+            .attr('text-anchor', 'middle')
+            .attr('dy', d => -(d.radius + 4))
+            .attr('fill', '#8892b0')
+            .attr('font-size', d => Math.max(8, Math.min(11, d.radius * 1.2)))
+            .attr('font-family', 'Inter, Noto Sans KR, sans-serif')
+            .attr('pointer-events', 'none')
+            .text(d => d.name.length > 14 ? d.name.substring(0, 13) + '…' : d.name);
+
+        const allNodes = nodeEnter.merge(node);
+
+        // Hover behavior
+        allNodes.on('mouseenter', function(event, d) {
+            // Highlight connected nodes
+            const connected = new Set();
+            connected.add(d.id);
+            currentEdges.forEach(e => {
+                const sid = e.source.id || e.source;
+                const tid = e.target.id || e.target;
+                if (sid === d.id) connected.add(tid);
+                if (tid === d.id) connected.add(sid);
+            });
+
+            nodeG.selectAll('g.node').classed('node-dimmed', n => !connected.has(n.id));
+            linkG.selectAll('line').attr('stroke-opacity', e => {
+                const sid = e.source.id || e.source;
+                const tid = e.target.id || e.target;
+                return (sid === d.id || tid === d.id) ? 0.9 : 0.03;
+            });
+            d3.select(this).select('circle').classed('node-highlighted', true);
+
+            // Tooltip
+            const tt = document.getElementById('tooltip');
+            tt.innerHTML = `
+                <div class="tt-country">${d.flag || ''} ${d.name}</div>
+                <div class="tt-stat"><span>Population</span> <span class="tt-rank">${d.population ? (d.population/1e6).toFixed(1)+'M' : '-'}</span></div>
+                <div class="tt-stat"><span>GDP</span> <span class="tt-rank">${d.gdp ? '$'+((d.gdp/1e3).toFixed(0))+'B' : '-'}</span></div>
+                <div class="tt-stat"><span>HDI</span> <span class="tt-rank">${d.hdi ? d.hdi.toFixed(3) : '-'}</span></div>
+                <div class="tt-stat"><span>Happiness</span> <span class="tt-rank">${d.happiness ? d.happiness.toFixed(2) : '-'}</span></div>
+            `;
+            tt.style.opacity = 1;
+            tt.style.left = (event.clientX + 16) + 'px';
+            tt.style.top = (event.clientY - 10) + 'px';
+        });
+
+        allNodes.on('mousemove', function(event) {
+            const tt = document.getElementById('tooltip');
+            tt.style.left = (event.clientX + 16) + 'px';
+            tt.style.top = (event.clientY - 10) + 'px';
+        });
+
+        allNodes.on('mouseleave', function() {
+            nodeG.selectAll('g.node').classed('node-dimmed', false);
+            linkG.selectAll('line').attr('stroke-opacity', 0.4);
+            d3.select(this).select('circle').classed('node-highlighted', false);
+            document.getElementById('tooltip').style.opacity = 0;
+        });
+
+        // Click — show info panel
+        allNodes.on('click', function(event, d) {
+            event.stopPropagation();
+            showInfoPanel(d, event);
+        });
+
+        return allNodes;
+    }
+
+    let links = updateEdges();
+    let nodeElems = updateNodes();
+
+    // ── Simulation tick ──
+    sim.on('tick', () => {
+        links
+            .attr('x1', d => d.source.x)
+            .attr('y1', d => d.source.y)
+            .attr('x2', d => d.target.x)
+            .attr('y2', d => d.target.y);
+
+        nodeElems.attr('transform', d => `translate(${d.x},${d.y})`);
+    });
+
+    // Periodic reheat for continuous movement
+    setInterval(() => {
+        if (sim.alpha() < 0.01) sim.alpha(0.02).restart();
+    }, 30000);
+
+    // ── Info Panel ──
+    function showInfoPanel(d, event) {
+        const panel = document.getElementById('info-panel');
+        panel.innerHTML = `
+            <div class="ip-close" onclick="document.getElementById('info-panel').style.display='none'">✕</div>
+            <div class="ip-header">
+                <span class="ip-flag">${d.flag || '🌐'}</span>
+                <span class="ip-name">${d.name}</span>
+            </div>
+            <div class="ip-stats">
+                <div class="ip-stat"><span class="ip-stat-label">Population</span><span class="ip-stat-val">${d.population ? (d.population/1e6).toFixed(1)+'M' : '-'}</span></div>
+                <div class="ip-stat"><span class="ip-stat-label">GDP</span><span class="ip-stat-val">${d.gdp ? '$'+((d.gdp/1e3).toFixed(0))+'B' : '-'}</span></div>
+                <div class="ip-stat"><span class="ip-stat-label">HDI</span><span class="ip-stat-val">${d.hdi ? d.hdi.toFixed(3) : '-'}</span></div>
+                <div class="ip-stat"><span class="ip-stat-label">Life Exp</span><span class="ip-stat-val">${d.life_expectancy ? d.life_expectancy.toFixed(1) : '-'}</span></div>
+                <div class="ip-stat"><span class="ip-stat-label">Happiness</span><span class="ip-stat-val">${d.happiness ? d.happiness.toFixed(2) : '-'}</span></div>
+                <div class="ip-stat"><span class="ip-stat-label">Olympic</span><span class="ip-stat-val">${d.olympic || '-'}</span></div>
+            </div>
+        `;
+        panel.style.display = 'block';
+
+        // Zoom to node
+        const transform = d3.zoomIdentity
+            .translate(width() / 2, height() / 2)
+            .scale(2.5)
+            .translate(-d.x, -d.y);
+        svg.transition().duration(600).call(zoom.transform, transform);
+    }
+
+    // Click background to close panel
+    svg.on('click', function(event) {
+        if (event.target === svg.node()) {
+            document.getElementById('info-panel').style.display = 'none';
+        }
+    });
+
+    // ── Legend ──
+    function buildLegend() {
+        const leg = document.getElementById('legend');
+        let html = '';
+        for (const [cont, color] of Object.entries(continentColors)) {
+            const count = countries.filter(d => d.continent === cont).length;
+            html += `<div class="leg-item" data-cont="${cont}">
+                <span class="leg-dot" style="background:${color}"></span>
+                <span>${cont} (${count})</span>
+            </div>`;
+        }
+        leg.innerHTML = html;
+
+        // Toggle continent visibility
+        leg.querySelectorAll('.leg-item').forEach(item => {
+            item.addEventListener('click', function() {
+                const cont = this.dataset.cont;
+                this.classList.toggle('dimmed');
+                nodeG.selectAll('g.node')
+                    .filter(d => d.continent === cont)
+                    .style('display', this.classList.contains('dimmed') ? 'none' : null);
+            });
+        });
+    }
+    buildLegend();
+
+    // ── Search ──
+    document.getElementById('graphSearchInput').addEventListener('input', function() {
+        const q = this.value.toLowerCase().trim();
+        nodeG.selectAll('g.node').each(function(d) {
+            const match = !q || d.name.toLowerCase().includes(q) || (d.country_code||'').includes(q);
+            d3.select(this).style('display', match ? null : 'none');
+            if (!match) d3.select(this).classed('node-dimmed', true);
+            else d3.select(this).classed('node-dimmed', false);
+        });
+        // Dim edges connected to invisible nodes
+        linkG.selectAll('line').attr('stroke-opacity', e => {
+            const sn = nodes[e.source.id || e.source];
+            const tn = nodes[e.target.id || e.target];
+            const sm = !q || sn.name.toLowerCase().includes(q);
+            const tm = !q || tn.name.toLowerCase().includes(q);
+            return (sm && tm) ? 0.6 : 0.02;
+        });
+    });
+
+    // ── Controls ──
+    document.getElementById('btn-similarity').addEventListener('click', function() {
+        setActive(this);
+        currentEdges = [...simEdges];
+        sim.force('link', d3.forceLink(currentEdges).id(d => d.id).distance(d => 120 * (1 - (d.sim || 0.5))).strength(d => 0.3 * (d.sim || 0.3)));
+        links = updateEdges();
+        sim.alpha(0.5).restart();
+    });
+
+    document.getElementById('btn-geo').addEventListener('click', function() {
+        setActive(this);
+        currentEdges = [...geoEdges];
+        sim.force('link', d3.forceLink(currentEdges).id(d => d.id).distance(80).strength(0.15));
+        links = updateEdges();
+        sim.alpha(0.5).restart();
+    });
+
+    document.getElementById('btn-all').addEventListener('click', function() {
+        setActive(this);
+        currentEdges = [...simEdges, ...geoEdges];
+        sim.force('link', d3.forceLink(currentEdges).id(d => d.id).distance(80).strength(0.15));
+        links = updateEdges();
+        sim.alpha(0.5).restart();
+    });
+
+    document.getElementById('btn-trade').addEventListener('click', function() {
+        // Trade edges: connect based on GDP correlation
+        setActive(this);
+        const tradeEdges = [];
+        for (let i = 0; i < nodes.length; i++) {
+            for (let j = i + 1; j < nodes.length; j++) {
+                if (nodes[i].gdp && nodes[j].gdp) {
+                    const ratio = Math.min(nodes[i].gdp, nodes[j].gdp) / Math.max(nodes[i].gdp, nodes[j].gdp);
+                    if (ratio > 0.3) tradeEdges.push({ source: i, target: j, sim: ratio });
+                }
+            }
+        }
+        currentEdges = tradeEdges;
+        sim.force('link', d3.forceLink(currentEdges).id(d => d.id).distance(150).strength(d => 0.1 * (d.sim || 0.1)));
+        links = updateEdges();
+        sim.alpha(0.5).restart();
+    });
+
+    document.getElementById('btn-reset').addEventListener('click', function() {
+        svg.transition().duration(600).call(zoom.transform, d3.zoomIdentity);
+        document.getElementById('info-panel').style.display = 'none';
+        nodeG.selectAll('g.node').style('display', null).classed('node-dimmed', false);
+        linkG.selectAll('line').attr('stroke-opacity', 0.4);
+        document.getElementById('graphSearchInput').value = '';
+    });
+
+    function setActive(btn) {
+        document.querySelectorAll('#controls button').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+    }
+
+    // ── Resize ──
+    window.addEventListener('resize', () => {
+        sim.force('center', d3.forceCenter(width() / 2, height() / 2));
+        sim.alpha(0.1).restart();
+    });
+
+    // ── Initial centering ──
+    sim.alpha(0.8).restart();
+    setTimeout(() => {
+        svg.transition().duration(1000).call(zoom.transform, d3.zoomIdentity.translate(width()/2, height()/2).scale(0.6));
+    }, 2000);
+
+    console.log('🌐 Graph ready: ' + nodes.length + ' nodes, ' + currentEdges.length + ' edges');
+})();
+</script>
+</body>
+</html>
