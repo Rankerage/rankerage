@@ -312,13 +312,7 @@
 
     // Column reorder helper — use native bulk API for performance
     function reorderColumns(targetFields) {
-      try { 
-        console.log('reorderColumns called with', targetFields.slice(0,5).join(',') + '...');
-        table.setColumnOrder(targetFields);
-        console.log('setColumnOrder succeeded');
-      } catch(e) {
-        console.error('setColumnOrder error:', e.message);
-      }
+      try { table.setColumnOrder(targetFields); } catch(e) {}
     }
 
     // ── Colspan Engine: merge cells across columns using real widths ──
@@ -1126,9 +1120,22 @@
         var rb = d[b.field + '_rank'] != null ? parseInt(d[b.field + '_rank']) : 9999;
         return ra - rb;
       });
-      var fields = ['country_code', 'country_name_en', 'news_score'].concat(cols.map(function(c){return c.field;}));
-      console.log('__countrySort reordering for', code, '- top field:', cols[0].field, '(rank', d[cols[0].field+'_rank'], ')');
-      reorderColumns(fields);
+      
+      // moveColumn으로 하나씩 재배치 (setColumnOrder 대신 — 더 안정적)
+      var currentCols = table.getColumns();
+      // anchor: news_score column (index 2) 뒤에 붙이기
+      var anchor = currentCols[2]; // news_score
+      for (var ci = 0; ci < cols.length; ci++) {
+        var target = null;
+        for (var cj = 0; cj < currentCols.length; cj++) {
+          if (currentCols[cj].getField() === cols[ci].field) { target = currentCols[cj]; break; }
+        }
+        if (target && target !== anchor) {
+          try { table.moveColumn(target, anchor); } catch(e) {}
+          currentCols = table.getColumns();
+          anchor = target; // 다음 컬럼은 이 컬럼 뒤에
+        }
+      }
       
       // 해당 국가가 강한 첫 번째 컬럼 기준으로 asc 정렬
       var topField = cols[0].field;
