@@ -1876,10 +1876,11 @@
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUGVMblBmbXRQY0M0NzB4V0c4ajJTNTA3LWlSMEwzOGdET0NZeC13ZlNiN0Zqd01DYnNramk0THRWdFIwdUVZNGdVLXhHeXFWdEYwVXdsWDczR0dCaHZYemdPc29nd3JZaTlrNW0xajZyY1ZIeU95NC1LMnJQWlgzLW1qcVJid3FjWEpiWElGbTVBdmMzTEVFZmhFTkU5SjZmeGxLRmt1QjhYUDRYbk5nOTNCVjNEMkppQ0E?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "73m ago",
+    "news_age": "75m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ]
   },
   {
@@ -4586,19 +4587,14 @@
     "refugees_rank": null,
     "union_rate": 71.2,
     "union_rate_rank": null,
-    "news_score": 0.79,
+    "news_score": 1.03,
     "news_title": "Botswana Urged to Speed Up Reforms as Economy Faces Prolonged Slowdown - Devdiscourse",
     "news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSGlfLUdlX09xWXZXdzFzQi1yc3dueDZLakxENmxERUtRRXVrYmtOeE93RnVaZkw2TDFfSGxnVEJ5UHN0dDliaHY2TGdhWV9SYlkyZU9Tel9TeDVVS210Rk9nZXNfSWR1TEl6bk5QVlBXcDM3ZUF4R3Q2UzNEVlhjcjdhcTYzNDJEU3R4NE5kSWJSOHNhaUtkTWV1dDRiVkNhYkcxN3BvU0tQVzNiN3E0ZWpwMUdLVWxrVTB3Z05STFUxd9IBxwFBVV95cUxOcVMxTDFBd2R4UUtSLVU4cllSbmRrR0hYREpYLW9TYlM3Q1dGQUNyUkZZNXRMaGhMSVpKempCVEl6MUNrUjh1ZHpQTmd3eURkSnRIdXNKWnVRM05raWxud1F4YXdGWko1d0VtU0FjcXdFLVllSEplajBJSC1xTGEzQzhRcmlWcVJNamlmVF9sWTR2akY4QkVWcTBsWC1sRTlRLWN3TVJvckpFeEFfcGtDakNlN0E0VDFnb2gyY1Njend3T2V4WmpV?oc=5",
     "news_image": "",
     "news_source": "Devdiscourse",
-    "news_age": "56m ago",
+    "news_age": "57m ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "olympic"
     ]
   },
   {
@@ -5010,12 +5006,7 @@
     "news_source": "CNBC",
     "news_age": "2h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "olympic"
     ]
   },
   {
@@ -6750,12 +6741,7 @@
     "news_source": "Reuters",
     "news_age": "16h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "olympic"
     ]
   },
   {
@@ -7790,12 +7776,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.55,
+    "news_score": 0.58,
     "news_title": "Hong Kong Police Raid Independent Bookstores and Arrest 5 - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONnRiN0hjQzZ6ZGEydDhQektKelNtSGlyQ2VSbVhURENJNmZLVFBGWTdFZjlpQnB3c1dnQ2NNWmJ3c0hTZWdWYkllNWtQaGlMY1poUGhwNHNCNm8yeHQwOUdGSy1vN3FGMWRqalJONk1aMXF6VzBIYXd0bE1GU0NHSGdmRWtucU1ReTdn?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "101m ago",
+    "news_age": "103m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -12612,17 +12598,16 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.89,
+    "news_score": 1.35,
     "news_title": "The inside story of France’s World Cup: Why did the favourites fall short? - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GUWkzajA0RjM1SHhiaWlfUEkzV1ZIRmI5cUx1cktWUmlCamVpQl9QYlRVRXlpQnlGeXhJTVRXWEdoaWFRVS1MUFNWX0dzUFhBelUwSmkyd1Q4T0gwd3pMMWdXcGc1T1hUWVNuN3R3UDNvZ2NaRmpuTGRaN2F6YW8?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "17m ago",
+    "news_age": "18m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ]
   },
   {
@@ -15346,12 +15331,12 @@
     "fifa_w": 81,
     "fifa_ranking_rank": 132,
     "fifa_w_rank": 63,
-    "news_score": 0.53,
+    "news_score": 0.56,
     "news_title": "Hong Kong Police Raid Independent Bookstores and Arrest 5 - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONnRiN0hjQzZ6ZGEydDhQektKelNtSGlyQ2VSbVhURENJNmZLVFBGWTdFZjlpQnB3c1dnQ2NNWmJ3c0hTZWdWYkllNWtQaGlMY1poUGhwNHNCNm8yeHQwOUdGSy1vN3FGMWRqalJONk1aMXF6VzBIYXd0bE1GU0NHSGdmRWtucU1ReTdn?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "101m ago",
+    "news_age": "103m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -16262,7 +16247,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.22,
+    "news_score": 0.28,
     "news_title": "NASA's curiosity rover spots mysterious honeycomb pattern on Mars, leaving scientists puzzled over its or - The Times of India",
     "news_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcFNtRG5ad0puMGt5QVkzTHFMcnR0U3hFMUpyWXEtbkpVVjRQUUFuekVPVWhONkd6b1hQQ0xhY2ZURnpnZkhrNjFDdV9xMzBaUmh1dEkzQnNuUS1oTVVXSlJsanNoYTc2U3I4SDZhUHZJcTJLckF4QzBrczgtVnFMc1V3RnV2QWxoaWlwNnNZbWtudjk2d0FDX250eHpZeVJ5UEh4ZHVLcmhSWHZ5MzVBQncxeUozSll3WTBVdDFISU9MS0VTV2p1T2M1N0Z6VFcycGZHeTRFbm9nUl9PZ1MwX3BuZ003cmNrcndaYzh5QllldDZqUDNzNWZHdHdwOGIta3pHeGRBVk7SAY4CQVVfeXFMUGFaLXVUajh0UGFuU1hQek1IT2NMZmVvVl9Qek1sU0tsdGJUdTcwWE5hWm9OSS04NHdROERibFAzQ0RVOE02N1B2VU5IekZVYjNqc1YtYjlSWHVqcU5neEExN2dyR1FtM0JWcWJNZnFDTDJqWEpPQXVkc2NJd1J6WGJuNlR3TmNrbUllZVVYSmxYQW5oT2l2NUI5cHZFdzdZTUNhVllpNEloYUVVLWMtZkNoY3lFZWxBSE4zT0daZDdKb2VEYWFZbXZVekxTYXVvQ2VYaEh3SS1jSGkzVHNaRjJTYVFVMU0tN1plUTNFRTA2WXE1YWZnTDQ4emRyOS1XaFdXcDFnZkVUX3pVR0R3?oc=5",
     "news_image": "",
@@ -16834,19 +16819,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.53,
+    "news_score": 1.41,
     "news_title": "UK economy grew by 0.1% in May despite impact of Iran war - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQejNlLWNWZklWWldGdmRnRkNYRWIwdl9UMVFxN0VlS3g4bFRKM1ZTNEI4OW41QVRuR3diYThZN3Z2dzl0bWpsSEthQ01YdnQzMXFyTjVnS05wVVpaNmstcm9DUDNIYU0yWE5Eb2ZFcHJKdmVCbmdBR2UxNllXNzQ1YkJPTTBHVWNFVjRVd2Z3?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "55m ago",
+    "news_age": "56m ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "olympic"
     ]
   },
   {
@@ -17554,19 +17534,14 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.4,
+    "news_score": 0.5,
     "news_title": "House vote exposes Democrats’ widening divide over Israel - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb2pRdEUxdzVXQ1h6S1g2Q3JYbnlMVkFTQlg0Rm9zdFR6bkF0MTR1cVpJY0kxQkk0dFZvVjlEekJYdUVlM3hoUU9leTJEWDc2bTU0d1o3UGl5NF91cDJaeENzeDFCQnB6eXNLWEIwbjIxVHZiSkxHemVLTzRrS2g1MWhBakhyVndTY2pOVDJ4aDFadUJOWGF3bEJBVWFKVkRTNmhDSG1YdlJrUFlT?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "3h ago",
     "news_columns": [
-      "democracy",
-      "approval",
-      "press",
-      "election_days",
-      "military_pct",
-      "nuclear"
+      "olympic"
     ]
   },
   {
@@ -27461,19 +27436,14 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 1.01,
+    "news_score": 1.13,
     "news_title": "How the Landlords’ Economy is Pricing Nigerians Out of Home - Business Post Nigeria",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU1I3RE0wMGxLRE9WTEdjV0VReGxuS3FXUGF0NWRDRWpfeVlfTFdQa18yYmFHNVNpR3VtTjVtdFFGSW4xdy1ETmsxalladTZXWTNxTDd1c3NDLW5sdjFpN0lKVTgta0plbWFvVy1ZeWZYak5oNHVueWswV0IxLXU2Z05OSUY0YWhyWU40bkluWnd4RXoyYno2SmVJTQ?oc=5",
     "news_image": "",
     "news_source": "Business Post Nigeria",
-    "news_age": "11m ago",
+    "news_age": "13m ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "olympic"
     ]
   },
   {
@@ -31955,19 +31925,14 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.3,
+    "news_score": 0.38,
     "news_title": "Two killed in Russian missile fire on Kyiv after Ukraine-EU drone deal - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOGVlTElzajRUSklORUVFZ1Fka2lFYnM5VEdrVVFjQ1ZrOFVBLTdLRXFRY2Vzd3I3UWphbXlUNWg0VXhhTUZmSVAxQURxUGhBMWZBZ3QtNmZLanVKVExIdnZxNjZfZmtSQml1R1o5VkJPWTRJblNDc2VURVhZYXJpZFJOdV9OWTRXX3ZrSVdPWWdGbWd5TDRkMkN0Tk02MndpU0ZTNVRkUGpFYzMza2hzaNIBtgFBVV95cUxQWklXN1BOZ013YkZ1ZzBYWmppbVpZczdhV0pkRUstSjFnaEY3ak5qVEZhMmpETGdiSkJsY25tUVFBLTJjYVdINThMSUZYakxsTlFZbDM5YmxBSG50M2VWT2dlR1NkeE1QS2pNNkctN3BwaE04b2FFbVg1VjVxcl9GWXl5MVpQaHVHN0ttSl9Yb1BsTENZbEFHMEFJTGZXY1lzVHNaMXdtdVIta2lEM0Y3T2JiU2N3dw?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
     "news_age": "4h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
-      "military_pct",
-      "nuclear"
+      "olympic"
     ]
   },
   {
@@ -35434,19 +35399,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.74,
+    "news_score": 2.54,
     "news_title": "Messi's World Cup farewell comes full circle against Spain - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOU5vdlgwR214c0x1Ym0tX3l2VzlDcy1uVHozcllKTU9reGJHMWR5R0dLYXlSZU8yNFVnRUNsV1NUVDVqZzUzUFpmaTMwRWdYTmphYmJ1ZW85aHBhenBPNlZxbGZJbi00MEcwRnp3SF94RGVFRUk3RER0U3NjZnNQcFlMelBGZTBJQ2lIMEdVdFpUYmV1UTZlSmo5X3c0dw?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "19m ago",
+    "news_age": "21m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "olympic"
     ]
   },
   {
@@ -39787,19 +39749,14 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.3,
+    "news_score": 0.38,
     "news_title": "Two killed in Russian missile fire on Kyiv after Ukraine-EU drone deal - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOGVlTElzajRUSklORUVFZ1Fka2lFYnM5VEdrVVFjQ1ZrOFVBLTdLRXFRY2Vzd3I3UWphbXlUNWg0VXhhTUZmSVAxQURxUGhBMWZBZ3QtNmZLanVKVExIdnZxNjZfZmtSQml1R1o5VkJPWTRJblNDc2VURVhZYXJpZFJOdV9OWTRXX3ZrSVdPWWdGbWd5TDRkMkN0Tk02MndpU0ZTNVRkUGpFYzMza2hzaNIBtgFBVV95cUxQWklXN1BOZ013YkZ1ZzBYWmppbVpZczdhV0pkRUstSjFnaEY3ak5qVEZhMmpETGdiSkJsY25tUVFBLTJjYVdINThMSUZYakxsTlFZbDM5YmxBSG50M2VWT2dlR1NkeE1QS2pNNkctN3BwaE04b2FFbVg1VjVxcl9GWXl5MVpQaHVHN0ttSl9Yb1BsTENZbEFHMEFJTGZXY1lzVHNaMXdtdVIta2lEM0Y3T2JiU2N3dw?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
     "news_age": "4h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
-      "military_pct",
-      "nuclear"
+      "olympic"
     ]
   },
   {
@@ -43930,7 +43887,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.34,
+    "news_score": 0.33,
     "news_title": "The band playing when a Bangkok bar caught fire mourns its members among the 33 dead - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaE53ME8zbnJ0RTUzMzVZdG9Xb3BRTkJfTjhYM1J6TjJmaG5GV21PaEN4d2tTb0tCMVhDMnVZT3Z3OFU0X0VIT1N3dlZzT1dqaFhpOGJRMEk1a05zN2l6S0NUdUZaNGx6a1BZU1hQQXpOSUpwaWJydnNmakUtT3VnTHdNd1ZHRGFSMHJNdldPaVc1Zzc5TmFacjhGR2g?oc=5",
     "news_image": "",
@@ -46313,12 +46270,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 2.71,
+    "news_score": 2.66,
     "news_title": "Messi's World Cup farewell comes full circle against Spain - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOU5vdlgwR214c0x1Ym0tX3l2VzlDcy1uVHozcllKTU9reGJHMWR5R0dLYXlSZU8yNFVnRUNsV1NUVDVqZzUzUFpmaTMwRWdYTmphYmJ1ZW85aHBhenBPNlZxbGZJbi00MEcwRnp3SF94RGVFRUk3RER0U3NjZnNQcFlMelBGZTBJQ2lIMEdVdFpUYmV1UTZlSmo5X3c0dw?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "19m ago",
+    "news_age": "21m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -47597,12 +47554,12 @@
     "union_rate": null,
     "union_rate_rank": null,
     "fifa_ranking_rank": 1,
-    "news_score": 1.7,
+    "news_score": 1.69,
     "news_title": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 15 - Mashable",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSXBDbFRlUTNxZEsya0tRbXNKNmJCSkUxRmNzWWVzWmxONi1DM1B1ZEFJR2g4NUk5eGgtQ0VVQVpEVC1ESko3RHZ1MGVKQVZTMnhyTXdyZHBuN0U5UnpaNHZ6MkRWZVoySnFRc3J2YnpHZHdlRm5GMWZ0clQwZ04wakJlUk5OMVB1UEh5bGNJdUwxamYzTHc?oc=5",
     "news_image": "",
     "news_source": "Mashable",
-    "news_age": "76m ago",
+    "news_age": "78m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -48694,7 +48651,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.22,
+    "news_score": 0.28,
     "news_title": "NASA's curiosity rover spots mysterious honeycomb pattern on Mars, leaving scientists puzzled over its or - The Times of India",
     "news_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcFNtRG5ad0puMGt5QVkzTHFMcnR0U3hFMUpyWXEtbkpVVjRQUUFuekVPVWhONkd6b1hQQ0xhY2ZURnpnZkhrNjFDdV9xMzBaUmh1dEkzQnNuUS1oTVVXSlJsanNoYTc2U3I4SDZhUHZJcTJLckF4QzBrczgtVnFMc1V3RnV2QWxoaWlwNnNZbWtudjk2d0FDX250eHpZeVJ5UEh4ZHVLcmhSWHZ5MzVBQncxeUozSll3WTBVdDFISU9MS0VTV2p1T2M1N0Z6VFcycGZHeTRFbm9nUl9PZ1MwX3BuZ003cmNrcndaYzh5QllldDZqUDNzNWZHdHdwOGIta3pHeGRBVk7SAY4CQVVfeXFMUGFaLXVUajh0UGFuU1hQek1IT2NMZmVvVl9Qek1sU0tsdGJUdTcwWE5hWm9OSS04NHdROERibFAzQ0RVOE02N1B2VU5IekZVYjNqc1YtYjlSWHVqcU5neEExN2dyR1FtM0JWcWJNZnFDTDJqWEpPQXVkc2NJd1J6WGJuNlR3TmNrbUllZVVYSmxYQW5oT2l2NUI5cHZFdzdZTUNhVllpNEloYUVVLWMtZkNoY3lFZWxBSE4zT0daZDdKb2VEYWFZbXZVekxTYXVvQ2VYaEh3SS1jSGkzVHNaRjJTYVFVMU0tN1plUTNFRTA2WXE1YWZnTDQ4emRyOS1XaFdXcDFnZkVUX3pVR0R3?oc=5",
     "news_image": "",
@@ -49354,12 +49311,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 1.08,
+    "news_score": 1.19,
     "news_title": "Patients who suffer heart attack have more micro and nanoplastic in their blood - European Society of Cardiology",
     "news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM1oyR0gyeTUwaGhCLVBiV25DWTZIR0xQemFZQXZuMy1pXzJsWXpyN0NWWDE4TjFPRUVxaWlicTN1R0psQkdKZk9zb2Q0UEdwZ09yazY0UEM1RU9wRkMtLThZMWI3cTdJb00xUTlOMHNtRzhxdHU4a0hPX3NFVmpuVjNkWTBSZlhJdU5KTHlNZUJlME1iMmF5RkNEZF9wd0NNY21pVlF3bmJpZ0o5OUxfWVBWUEg0a0ItYl9XaGx0bUR0M3lwYUk1OWFTMA?oc=5",
     "news_image": "",
     "news_source": "European Society of Cardiology",
-    "news_age": "35m ago",
+    "news_age": "37m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -59152,19 +59109,19 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.42,
-    "news_title": "Europe Inc heads into strongest earnings season in years, but AI gap persists - Reuters",
-    "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVVU1aEpPakJCTFpXOU16QWhlRlJHYVZzTzhRS0pWRjVPRGtWUERpUGtvMVZLR0RoMGwtdVphcldwWkJaenVieGpkR2Q3ek9CcDItaXQzOUhzTnRRcmFYQjQ0ZkZkTzFLc1hicFpHT3NXbHpFMFc2dThlOUlQUjRYRy1wTndNQ0RXVWZoLUJwcGEyN21SVWkwSDN2VV9kN1JITkxmRVJsbFNSZElxV0staHpIcFJfUUx4b0lYaU1FUQ?oc=5",
+    "news_score": 0.38,
+    "news_title": "Asian shares fall on chipmaker drag, bonds cheer cooler inflation - Reuters",
+    "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONzEtUE5IX0ZhajhxclVEalRCODR4QWpsVTNmWHFYZkpvXy1jTy10ZGJmVEZ4SVFKT1BkSkF2OTdzTXd6WE1tWk5OMEV2ajVLOGhnaUlER3pKbnZ5SHhSdGcxSG83RTVIckFaOUp6Z0x2T1FKUGo2M0V6YzhQRnFOLTlRcw?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "3h ago",
+    "news_age": "5h ago",
     "news_columns": [
-      "cricket",
-      "olympic",
       "gdp",
       "gdp_per_capita",
       "inflation",
-      "unemp"
+      "unemp",
+      "exports",
+      "imports"
     ]
   },
   {
@@ -67080,7 +67037,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.33,
+    "news_score": 0.32,
     "news_title": "Vsevolod Ishchenko's Defense Against Cameron Boozer Shows Strong Value - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmxOejdNbURtS3NwbmRfcjA3YXhpbEZoa2tFNllFeUpETVpqWDl1c3lYV1lVU0lQWHJNN25lSzQ3M2Yzb1VRb2hVdzNscS1FWkJHZkdqTkJoYUE0SUh1QmNfRzdENlh4eThfTVZ1bTRVSkFzbjh6ZVNBYlBPTUlaMVBNUzg2TEExeDVTSm15N3FCeENHVFE4?oc=5",
     "news_image": "",
@@ -72011,7 +71968,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.45,
+    "news_score": 0.47,
     "news_title": "World Cup: Chelsea deletes social media post celebrating Enzo Fernández's goal vs. England in Argentina's semifinal win - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPMDFvQzZRTloteWJzZXhZYXMxOFBZRTNkNzBRQU1NUHdMc185RHlaZFFyQkNlcUJzUXcxSmlENWl0NkxmN2xRajhuWkUxdEtQNkpzVmJ1VEdIcXBwU0pfLXZBc2FucWNfaUJ3cHFJM0h4M0hreF80dHV2ak5rLXVST3NONDRET2ppZDBrTVpPMHB1a3RWVm9SMEtxdDhzVHpSYzBTVWF6ZFFFUGJxeHc3YkNlWHkwaUtfbGVyWG5PZGphQm9SNnN6ZUE5SUJnLXgzdWFCaFZkby1vdW9FYWJDRlZmUmlhSFF4QWtfempvdW5JTU9RTVVFa2FydHNQQ3BjV29oZXFhUWxZdzVEZ3FXaER3?oc=5",
     "news_image": "",
@@ -72873,7 +72830,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.36,
+    "news_score": 0.35,
     "news_title": "Sam Neill died from pneumonia, representative for 'Jurassic Park' actor says - ABC News - Breaking News, Latest News and Videos",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ3huS0dXeVhJQUdGUjhUZGlGaDBRZkdodEpJdnpSajRLYWxPb25laDR2T1lFaWlMZm5RdGpzcFJuNk51RHMwcXJjVmRybjB2SVVydFpkemdiY3VIRk12ZUpBM28zRnVFNTRTcXZxaDVhR1Ixcmh5WHZRcWQ2aEdkeGMyVXh2bzBtUlhocUpJWDJaX05lcS02eFlYM2ZuMUpMTnE3WllQazFtV2FYYkN30gG0AUFVX3lxTE1oU0V6TlpVSTdkb2o0eVVYY28xN1RfY2QwdWY1Q2lsUXFQcnhqYjQ1YXdpM0czSUFzSE93eVJIa3JseW1aX29UdVZBLWcxcWRDZnFwSm9vR1IwVHdCYm55QkVxODl6NWNwSjhzRlVkbGlncUVja2VSRWRmM0FVcjZVeWh0U0EzZ3A1eTNhYXd5aDlZZzZ4UVI3Qm1Ka0xKZFpvWi1zQUw1WVhsSHVHdFJ2bXJpbw?oc=5",
     "news_image": "",
@@ -73120,7 +73077,7 @@
     "area": null,
     "gdp": null,
     "hdi": null,
-    "news_score": 0.91,
+    "news_score": 0.88,
     "news_title": "U.S. slaps 25% tariff on most Brazilian goods over 'unfair trade practices' - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYlZSWDYybm1iZHF3VjgwQ3F1cERoVWFvTmpJTVpZSGl2Um13Rkw2MDlSNWtTTjVkSjJ6YkRjYm03VXdvc0tPR1FwUTZENTdMLXJIbUtBZEhTR29DZkcyX09PZ1JMa2RwLW5UcVhpaGVQcnIyYXlrRHZlYjlaM2JDSl93WXBUMWFfZUVwN3BtV2wyMGQy0gGaAUFVX3lxTE1Hc3FVa0ViZUc3YkE2RGQ0Q2t3Q3oxOGFmS0d2YU9yUHQtYjNCQXZjS2N2V1RUZGV1emFMRjd2M0wzWnRiNnlObjBRZlZMWlhZYnJFcEpma25RN0RwYjVHWk14Y1RpcW1IWndOSVhscmZ5MlBEdHl0WDYtX1hyMkg4NEJtb050elN5SjdVWEg4eVVLUmJhNURsLWc?oc=5",
     "news_image": "",
