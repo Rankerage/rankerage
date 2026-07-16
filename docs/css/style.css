@@ -928,9 +928,19 @@ body {
   text-overflow: ellipsis;
 }
 
-/* ── Colspan cell ── */
-.colspan-cell { background: rgba(224,200,124,0.02) !important; }
+/* ── Colspan cell (AdSense merged cell 포함) ── */
+.colspan-cell {
+  background: rgba(224,200,124,0.03) !important;
+  border-left: 1px solid rgba(224,200,124,0.12) !important;
+  border-right: none !important;
+  transition: background 0.3s;
+}
+.colspan-cell:hover { background: rgba(224,200,124,0.06) !important; }
 .colspan-cell .colspan-inner { display: flex; align-items: center; height: 100%; }
+.colspan-ad {
+  border-radius: 4px;
+  background: rgba(17,22,39,0.5);
+}
 
 /* ── Graph View link ── */
 .graph-link {
@@ -940,21 +950,3 @@ body {
   white-space: nowrap;
 }
 .graph-link:hover { color: #e0c87c; background: rgba(224,200,124,0.08); }
-
-/* ── AdSense Merged Cell ── */
-.ad-row {
-  background: rgba(224,200,124,0.03) !important;
-  border-left: 2px solid rgba(224,200,124,0.15) !important;
-  transition: background 0.3s;
-}
-.ad-row:hover { background: rgba(224,200,124,0.06) !important; }
-.ad-merged-cell {
-  background: transparent !important;
-  border-right: none !important;
-}
-.ad-label {
-  font-family: 'Outfit', 'Inter', sans-serif;
-  opacity: 0.7;
-  transition: opacity 0.2s;
-}
-.ad-row:hover .ad-label { opacity: 1; }

@@ -4,12 +4,9 @@
 (function() {
   'use strict';
 
-  // ── AdSense Config (replace with real ID when approved) ──
-  var ADSENSE_ID = ADSENSE_ID;  // ← AdSense 승인 후 여기만 바꾸면 됨
-  var ADSENSE_TOP_SLOT = '1234567890';
-  var ADSENSE_INROW_SLOT = '9876543210';
-  var ADSENSE_FOOTER_SLOT = '5555555555';
-  var ADS_ENABLED = true;  // 실제 ID면 true
+  // ── AdSense: 표의 합친셀(colspan) 안에만 In-feed 광고 배치 ──
+  // Google 정책 준수: "Sponsored" 라벨 표시, 콘텐츠와 시각적 구분
+  // Publisher ID: ca-pub-9060044387299153, In-feed slot: 9876543210
 
   I18N.init().then(function() {
     var t = I18N.t;
@@ -319,12 +316,14 @@
     }
 
     // ── Colspan Engine: merge cells across columns using real widths ──
+    // AdSense를 표의 합친셀(colspan) 안에만 배치 — Google In-feed 광고 정책 준수
     var MERGE_GROUPS = [
-      // News trend is single wide column (no merge, just width:300)
-      // Ad slots: merge 4-5 cells to fit AdSense in-feed native ads
-      {startField:'unemp', count:4, title:'📢', id:'ad1'},
-      {startField:'nuclear', count:4, title:'📢', id:'ad2'},
-      {startField:'divorce', count:4, title:'📢', id:'ad3'},
+      // Ad slot 1: 6개 열 합치기 (unemp~poverty 영역) — 반응형 in-feed 네이티브 광고
+      {startField:'unemp', count:6, title:'📢', id:'ad1'},
+      // Ad slot 2: 6개 열 합치기 (nuclear~tourism 영역) 
+      {startField:'nuclear', count:6, title:'📢', id:'ad2'},
+      // Ad slot 3: 6개 열 합치기 (divorce~religion_div 영역) — 하단 스크롤 시 노출
+      {startField:'divorce', count:6, title:'📢', id:'ad3'},
     ];
     function applyColspans() {
       var rows = table.getRows();
@@ -355,14 +354,15 @@
           first.style.flex = '0 0 ' + mergeW + 'px';
           first.classList.add('colspan-cell');
           first.dataset.colspanGroup = grp.id;
-          // Ad slots: inject AdSense in-feed native ad
+          // Ad slots: inject AdSense in-feed native ad with "Sponsored" label
           if (grp.id.indexOf('ad') === 0 && !first.querySelector('.colspan-ad')) {
             var aw = document.createElement('div');
             aw.className = 'colspan-ad';
-            aw.style.cssText = 'width:100%;height:100%;display:flex;align-items:center;justify-content:center;';
-            aw.innerHTML = '<ins class="adsbygoogle" style="display:block;width:'+(mergeW-8)+'px;height:32px" '
+            aw.style.cssText = 'width:100%;min-height:60px;display:flex;flex-direction:column;align-items:center;justify-content:center;position:relative;padding:4px 8px;';
+            aw.innerHTML = '<span style="font-size:8px;color:#545d7a;text-transform:uppercase;letter-spacing:1.5px;margin-bottom:2px;opacity:0.7;">Sponsored</span>'
+              + '<ins class="adsbygoogle" style="display:block;width:'+(mergeW-16)+'px;height:50px" '
               + 'data-ad-client="ca-pub-9060044387299153" data-ad-slot="9876543210" '
-              + 'data-ad-format="fluid" data-ad-layout-key="-fb+5w+4e-db+86"></ins>';
+              + 'data-ad-format="fluid" data-ad-layout-key="-fn+5v+3l-dh+hr"></ins>';
             first.innerHTML = '';
             first.appendChild(aw);
           } else if (!first.querySelector('.colspan-inner')) {
@@ -374,6 +374,10 @@
           }
         });
       });
+      // Trigger AdSense after DOM is ready
+      if (window.adsbygoogle) {
+        try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch(e) {}
+      }
     }
     // Reapply after every render
     var colspanDebounce = null;
@@ -1455,59 +1459,7 @@
     function clearSelection(){document.querySelectorAll(".tabulator-cell.selected").forEach(function(c){c.classList.remove("selected");});}
     document.addEventListener("keydown",function(e){if(e.ctrlKey&&e.key==="c"){var sel=document.querySelectorAll(".tabulator-cell.selected");if(!sel.length)return;var rows=new Map();sel.forEach(function(cell){var row=cell.closest(".tabulator-row");var idx=Array.from(row.parentElement.children).indexOf(row);if(!rows.has(idx))rows.set(idx,[]);rows.get(idx).push(cell.textContent.trim());});navigator.clipboard.writeText(Array.from(rows.values()).map(function(cells){return cells.join("\t");}).join("\n"));}else if(e.key==="Escape"){isSelecting=false;clearSelection();}});
 
-    // ── 광고 merged-cell 행 삽입 (매 12행) ──
-    // AdSense를 표의 합친셀(merged cell) 안에만 배치 — 테이블과 일체화된 광고
-    var adInterval = 12;
-    var adCount = 0;
-    function insertAdRows() {
-      // Remove old ad rows
-      document.querySelectorAll('.tabulator-row.ad-row').forEach(function(r) { r.remove(); });
-      var rows = table.getRows();
-      if (rows.length < adInterval) return;
-      adCount = 0;
-      var tableHolder = document.querySelector('.tabulator-tableholder');
-      var colCount = table.getColumns().length;
-      for (var i = adInterval - 1; i < rows.length; i += adInterval + 1) {
-        var refRow = rows[i];
-        if (!refRow) break;
-        var refEl = refRow.getElement();
-        // Create ad row that mimics Tabulator row structure — merged cell across all columns
-        var adRow = document.createElement('div');
-        adRow.className = 'tabulator-row ad-row';
-        adRow.style.cssText = 'height:auto;min-height:90px;display:flex;align-items:stretch;border-bottom:1px solid rgba(224,200,124,0.12);position:relative;';
-        // Single merged cell spanning full width
-        adRow.innerHTML = '<div class="tabulator-cell ad-merged-cell" style="flex:1;display:flex;align-items:center;justify-content:center;padding:6px 12px;position:relative;">' +
-          '<span class="ad-label" style="position:absolute;top:2px;left:12px;font-size:9px;color:#545d7a;text-transform:uppercase;letter-spacing:1px;">Sponsored</span>' +
-          '<ins class="adsbygoogle" style="display:block;width:728px;height:90px;max-width:100%;" ' +
-          'data-ad-client="ca-pub-9060044387299153" ' +
-          'data-ad-slot="9876543210" ' +
-          'data-ad-format="horizontal" ' +
-          'data-full-width-responsive="true"></ins>' +
-          '</div>';
-        refEl.after(adRow);
-        adCount++;
-      }
-      // Trigger AdSense
-      if (window.adsbygoogle && adCount > 0) {
-        try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch(e) {}
-      }
-    }
-
-    // 소팅/데이터 변경 시마다 광고 재삽입
-    var adDebounce = null;
-    table.on("dataSorted", function() {
-      if (adDebounce) clearTimeout(adDebounce);
-      adDebounce = setTimeout(function() {
-        insertAdRows();
-        updateAdTargeting();
-      }, 500);
-    });
-    table.on("dataLoaded", function() {
-      setTimeout(insertAdRows, 500);
-    });
-    setTimeout(insertAdRows, 1000);
-
-    // ── 타겟팅 키워드 업데이트 ──
+    // ── Unified column layout: single source of truth for column ordering ──
     var currentMetric = 'population';
     var targetKeywords = {"gdp": "finance investing stocks economy business banking", "gdp_per_capita": "wealth income investing luxury", "population": "demographics census data analytics", "life_expectancy": "healthcare health insurance medical", "happiness": "wellness travel lifestyle happiness", "tourism": "travel tours flights hotels vacation", "edu": "education university online courses learning", "internet_pct": "internet broadband technology cloud", "coffee": "coffee cafe specialty coffee beans", "beer": "beer craft beer brewery alcohol", "olympic": "sports olympics fitness training", "fifa_ranking": "soccer football sports betting", "real_estate": "real estate property housing mortgage", "renew": "solar energy renewable green energy", "startup_rate": "startups business entrepreneurship venture capital", "military_pct": "defense military security aerospace", "forest": "environment nature conservation eco tourism"};
     var defaultKeywords = 'country comparison rankings data statistics world';
