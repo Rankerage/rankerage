@@ -292,7 +292,7 @@ body {
 /* Flag column */
 
 /* Country name */
-.tabulator-cell[data-field="country_name_en"] {
+.tabulator-cell[tabulator-field="country_name_en"] {
   font-weight: 800 !important;
   font-size: 14.5px !important;
   color: #a0c4ff !important;
@@ -498,9 +498,43 @@ body {
   100% { transform: scale(1); opacity: 1; }
 }
 
-/* 국가명 셀 — "클릭해서 소팅" 힌트 커서 */
-.tabulator-cell[data-field="country_name_en"] {
+/* 국가명 셀 — "클릭 → 강한 순위순 정렬" 힌트 */
+.tabulator-cell[tabulator-field="country_name_en"] {
   cursor: pointer;
+  position: relative;
+  transition: all 0.2s ease;
+}
+.tabulator-cell[tabulator-field="country_name_en"]:hover {
+  color: #e0c87c !important;
+  background: rgba(224,200,124,0.06) !important;
+  text-shadow: 0 0 8px rgba(224,200,124,0.3);
+}
+/* 호버 시 ↕ 아이콘 (우측) */
+.tabulator-cell[tabulator-field="country_name_en"]::before {
+  content: '↕';
+  position: absolute;
+  right: 4px; top: 50%;
+  transform: translateY(-50%);
+  font-size: 9px; color: #545d7a;
+  opacity: 0; transition: opacity 0.2s;
+  z-index: 1;
+}
+.tabulator-cell[tabulator-field="country_name_en"]:hover::before {
+  opacity: 1;
+}
+/* 호버 시 하단 언더라인 슬라이드 */
+.tabulator-cell[tabulator-field="country_name_en"]::after {
+  content: '';
+  position: absolute;
+  bottom: 6px; left: 12px; right: 12px;
+  height: 1.5px;
+  background: #e0c87c;
+  transform: scaleX(0);
+  transition: transform 0.2s ease;
+  opacity: 0.7;
+}
+.tabulator-cell[tabulator-field="country_name_en"]:hover::after {
+  transform: scaleX(1);
 }
 
 /* ---- Country Detail Panel ---- */
@@ -749,35 +783,6 @@ body {
   transition: transform 0.2s ease-out;
 }
 
-/* ── 국가명 셀: "클릭하면 소팅"을 암시하는 호버 효과 ── */
-.tabulator-cell[data-field="country_name_en"] {
-  cursor: pointer !important;
-  transition: all 0.2s ease;
-  position: relative;
-}
-
-.tabulator-cell[data-field="country_name_en"]::after {
-  content: '';
-  position: absolute;
-  bottom: 6px;
-  left: 12px;
-  right: 12px;
-  height: 1.5px;
-  background: #e0c87c;
-  transform: scaleX(0);
-  transition: transform 0.2s ease;
-  opacity: 0.7;
-}
-
-.tabulator-cell[data-field="country_name_en"]:hover::after {
-  transform: scaleX(1);
-}
-
-.tabulator-cell[data-field="country_name_en"]:hover {
-  color: #e0c87c !important;
-  text-shadow: 0 0 8px rgba(224,200,124,0.3);
-}
-
 /* ── 컬럼 헤더 호버: 살짝 떠오르는 효과 ── */
 .tabulator-header .tabulator-col {
   transition: transform 0.15s ease, background 0.2s, color 0.2s !important;
@@ -812,7 +817,7 @@ body {
 .tabulator-row.top-3 { background: rgba(180,130,80,0.025) !important; }
 
 /* 1등 국가명 골드 글로우 */
-.tabulator-row.top-1 .tabulator-cell[data-field="country_name_en"] {
+.tabulator-row.top-1 .tabulator-cell[tabulator-field="country_name_en"] {
   color: #e0c87c !important;
   text-shadow: 0 0 6px rgba(224,200,124,0.4);
   font-weight: 900 !important;
