@@ -42,7 +42,7 @@
       // Country
       { title:t('country'),field:"country_name_en",width:80,frozen:true,
         sorter:function(a,b){var pa=a.charCodeAt(0)<65,pb=b.charCodeAt(0)<65;if(pa&&!pb)return 1;if(!pa&&pb)return -1;return a<b?-1:a>b?1:0;},
-        formatter:function(c){var d=c.getRow().getData(),code=d.country_code,name=I18N.countryName(code);return'<span style="display:inline-block;max-width:65px;overflow:hidden;text-overflow:clip;white-space:nowrap;">'+(name||d.country_name_en)+'</span>';},
+        formatter:function(c){var d=c.getRow().getData(),code=d.country_code,name=I18N.countryName(code);return'<span class="country-clickable" onclick="window.__countrySort(\''+code+'\')" style="display:inline-block;max-width:65px;overflow:hidden;text-overflow:clip;white-space:nowrap;cursor:pointer;" title="클릭: '+ (name||d.country_name_en)+' 강한 순위순 정렬">'+(name||d.country_name_en)+'</span>';},
         tooltip:function(e,c){var d=c.getRow().getData(),code=d.country_code,n2=I18N.countryName(code,I18N.getLocale2()),lo=d.country_name_local,p=[];if(n2&&n2!==d.country_name_en)p.push(n2);if(lo&&lo!==n2)p.push(lo);return p.join(' · ')||d.country_name_en;}},
       // === TRENDING (default sort) ===
       { title:"🔥Trend",field:"news_score",width:300,frozen:true,sorter:S,
@@ -1102,28 +1102,15 @@
     });
 
     // ── 국가명 클릭 → 해당 국가의 강한 순위순으로 컬럼 재정렬 ──
-    // Tabulator frozen column cellClick 버그 우회: delegated 이벤트 사용
-    document.getElementById('example-table').addEventListener('click', function(e) {
-      var cell = e.target.closest('.tabulator-cell');
-      if (!cell) return;
-      // Check if this is a country name cell (tabulator-field 속성 사용)
-      var row = cell.closest('.tabulator-row');
-      if (!row || row.classList.contains('tabulator-header')) return;
-      // Find which column this cell belongs to
-      var field = cell.getAttribute('tabulator-field') || '';
-      if (field !== 'country_name_en') return;
+    // onclick="window.__countrySort(code)" 로 formatter에서 직접 호출
+    window.__countrySort = function(code) {
+      var data = table.getData();
+      var d = null;
+      for (var i = 0; i < data.length; i++) {
+        if ((data[i].country_code||'').toUpperCase() === code.toUpperCase()) { d = data[i]; break; }
+      }
+      if (!d) return;
       
-      // Get the country data from Tabulator
-      var rowData = null;
-      try {
-        var rows = table.getRows();
-        for (var ri = 0; ri < rows.length; ri++) {
-          if (rows[ri].getElement() === row) { rowData = rows[ri].getData(); break; }
-        }
-      } catch(ex) { return; }
-      if (!rowData) return;
-      
-      var d = rowData, code = d.country_code;
       // 모든 열을 해당 국가의 rank 기준으로 정렬 (낮은 rank = 강한 순위)
       var cols = table.getColumnDefinitions().filter(function(c) {
         return c.field && c.field !== 'country_code' && c.field !== 'country_name_en' && c.field !== 'news_score';
@@ -1142,17 +1129,24 @@
       highlightColumn(topField);
       currentSortField = topField; currentSortDir = 'asc';
       
-      // 해당 국가 행을 맨 위로 스크롤
+      // 해당 국가 행을 맨 위로 스크롤 + 하이라이트
       setTimeout(function() {
-        row.scrollIntoView({block: 'start', behavior: 'smooth'});
-        // 국가 행 하이라이트
-        row.style.boxShadow = 'inset 0 0 30px rgba(224,200,124,0.3)';
-        setTimeout(function() { row.style.boxShadow = ''; }, 2000);
+        var rows = table.getRows();
+        for (var ri = 0; ri < rows.length; ri++) {
+          var rd = rows[ri].getData();
+          if ((rd.country_code||'').toUpperCase() === code.toUpperCase()) {
+            var rowEl = rows[ri].getElement();
+            rowEl.scrollIntoView({block: 'start', behavior: 'smooth'});
+            rowEl.style.boxShadow = 'inset 0 0 30px rgba(224,200,124,0.3)';
+            setTimeout(function() { rowEl.style.boxShadow = ''; }, 2000);
+            break;
+          }
+        }
       }, 200);
       
       // rotation pause
       pauseRotation();
-    });
+    };
 
     // Anthem modal - open via event delegation
     var anthemsData = {};
