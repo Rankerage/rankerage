@@ -312,7 +312,13 @@
 
     // Column reorder helper — use native bulk API for performance
     function reorderColumns(targetFields) {
-      try { table.setColumnOrder(targetFields); } catch(e) {}
+      try { 
+        console.log('reorderColumns called with', targetFields.slice(0,5).join(',') + '...');
+        table.setColumnOrder(targetFields);
+        console.log('setColumnOrder succeeded');
+      } catch(e) {
+        console.error('setColumnOrder error:', e.message);
+      }
     }
 
     // ── Colspan Engine: merge cells across columns using real widths ──
@@ -1109,7 +1115,7 @@
       for (var i = 0; i < data.length; i++) {
         if ((data[i].country_code||'').toUpperCase() === code.toUpperCase()) { d = data[i]; break; }
       }
-      if (!d) return;
+      if (!d) { console.warn('Country not found:', code); return; }
       
       // 모든 열을 해당 국가의 rank 기준으로 정렬 (낮은 rank = 강한 순위)
       var cols = table.getColumnDefinitions().filter(function(c) {
@@ -1121,6 +1127,7 @@
         return ra - rb;
       });
       var fields = ['country_code', 'country_name_en', 'news_score'].concat(cols.map(function(c){return c.field;}));
+      console.log('__countrySort reordering for', code, '- top field:', cols[0].field, '(rank', d[cols[0].field+'_rank'], ')');
       reorderColumns(fields);
       
       // 해당 국가가 강한 첫 번째 컬럼 기준으로 asc 정렬
