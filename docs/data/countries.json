@@ -1871,15 +1871,16 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 5.88,
+    "news_score": 5.93,
     "news_title": "With World Cup Dream Intact, Argentina Turns Focus To Spain With Confidence - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWFpQeWx3cmpPbHhLSy1rRGpnT2YwSEZFMlZHb3pOWGF6SlFQbWpqYmhSWUJEVzlOSXNNTEdrdE92MHp0UFNqc3pNWkdNUzMyWDZwSEVLTGs4c3g1NmQwWmRlOFRWZGpPQjlxMDhZVzB2OERpUDYzTHphVmd1MjF1Wk0zdXRoSlJKaG04WUhyc3pEeU92NllLbjh3X0s4SXpzVVhZY9IBpAFBVV95cUxNekNWV0ljTUdEUmJtUS1Jemt4X3k1N0ZUcnNTUTNoWWkyWDM3MTczWEVXN2szeVB4TFVxTDBFOFhoNnJOLV92dGUtbFl1Yk82NWFST0xPWmNRanB6VUVsWG1ucjVqckFtOWxmR0RSVy15YnFJT2ozM09XT1NFd254eU10X0dselNlQnRGYmk3Z1lZSnN2RE5scmlseU9RYXAtWk9XeA?oc=5",
     "news_image": "",
     "news_source": "FOX Sports",
-    "news_age": "12m ago",
+    "news_age": "14m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ]
   },
   {
@@ -2980,19 +2981,19 @@
     "union_rate": 72.9,
     "union_rate_rank": null,
     "fifa_w_rank": 81,
-    "news_score": 0.0,
-    "news_title": "US reimposes blockade and steps up strikes as Iran threatens to halt Mideast energy exports - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc0ZjN3ZmUVdvbVVLMXFrejJubVRQczZPdVF0QkVwQ3B4SkdNWERtQU5Na0NFWGdrZ0pjU0w1MC05SjhpOHRRVDRZY2lDQkFnRERXWGR6QmlIcV9LaDBQcFdhTThxejdyUDFVbDNBZVlfR0I1Vmg1U19HWERQbnBqUFJJSmpoM2w5VDNacHA4RWZSalpUQ0xwTEpKazJMeGM?oc=5",
+    "news_score": 0.12,
+    "news_title": "Iran War Latest: U.S. disables ship that allegedly tried to sail to Kharg Island as feud over Strait of Hormuz escalates - CBS News",
+    "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR1pGUHJ0UXlGRjNPZzNtdHJyUC0wbXh6UmxYUWhMQ2l6U0txd1NWT3BscU1CVk4wRTd6VkxOakx3eXBqQ3RRSWVwbWJLVGJGWGIwUFJ5QzkyTFZmVHBkVUFhc1hNUmxmdzhhWHdvOWNsMktCQzlPd1JLSl9STzluQi1oaTZIUU5VU2xuVDhnZW9JS1MtcDJYVA?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "2h ago",
+    "news_source": "CBS News",
+    "news_age": "3h ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
       "co2",
       "renew",
       "exports",
-      "ai_research"
+      "military_pct"
     ]
   },
   {
@@ -6717,19 +6718,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.74,
-    "news_title": "Wildfire Smoke Spreads Across the Northeast as Temperatures Spike - The New York Times",
-    "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd1JoMi1HRk9FcTRyRTVZWHQwbHlyQk10dm9WQm9GbEdMVVNfWE13Zk1VWWE0UVhkVEZ3VWxZS1VfaWV5eGxnUkxzOVV1T3pWMExUQUxzNjdCOWRzMktQbHJ5NmU0N0dzZWdNN2lRWF9obV9YN1hvV0VYRVAtTzhicWVUd3VyMloxdGJZck1BVVBhdGZoWWZURg?oc=5",
+    "news_score": 0.53,
+    "news_title": "Bank of Canada holds rates, says the economy is growing again - Reuters",
+    "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVjJlNmNvNXVVby1JTFRHZ3RLLVU0bWJfRUJ2TUxfZGUzSkhsemphWThOMXJVcVM4NEE3SWdxNFE3NVlWMER6YjRZVzV0cW9IUUJlelE2a2R4eWk0ZHVyaXc1SmJFWW10QWZxQkJaOUhxcTRUOXlfVjNCcXF5aERkOGhTSU9VNzZOTzNIeW5pZk5CMm9kMFVOUmg2aTZ3WE5qVlFCVERiRHZ6NDdXeWFlX0c4TnlYeUZuVlNmM1EzZmdiMnVWV0R6WEpn?oc=5",
     "news_image": "",
-    "news_source": "The New York Times",
-    "news_age": "32m ago",
+    "news_source": "Reuters",
+    "news_age": "11h ago",
     "news_columns": [
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ]
   },
   {
@@ -7764,7 +7765,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.61,
     "news_title": "China and Xi Jinping seen more favourably than the US and Trump in poll of major countries - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeTdKU1c2dWh3czBsTEpxLU41Wml3bU96eGdHODZqejVjU2lyRWtwVTJOdmVHNUpBVlU3dVNzZUZWLVNOdlNsY1pmT2x6ZGh5Z3d1c0tmdzBMRkVoMUZPYzNrZjdCLUJMOXloSnpUOVhnQWVVNmx1NGxwa1ZvZVZNak9VOWRZWEtvRUNvLWZwMmVWMnNjNVE?oc=5",
     "news_image": "",
@@ -12587,7 +12588,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.21,
+    "news_score": 1.71,
     "news_title": "Why is there a World Cup third-place playoff between England and France? - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUzFvR1hRcENjUVd3cld1MXRBa3RXSUFLNFRhRkVpV1k5ZWl4UU1FeEd2YkhYVzc1MVl1NEpqVTlCTXZIS3F4bUxrSmdUOEcyNHV0Zjd4M3NIMTd4SDQ3RXl0UWtHSHpsOEhLUTNrQnRnVnNneGlQYmdfTnFCcEg0REthaktacmpDRkMyV2l6VzJweHRWNVRn?oc=5",
     "news_image": "",
@@ -12596,8 +12597,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ]
   },
   {
@@ -16810,12 +16810,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.32,
+    "news_score": 1.39,
     "news_title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave' - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04Y29uM0stWFdBX2ZvYno1emtKc25RYTZJdFVqazNHMWdJTFdCb2tlV3FqblB0dHBJRDdoNUxMeXNweGM2NW5hakdCLU9jelo4V2VKby1laGVZdw?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -17530,9 +17530,9 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.3,
+    "news_score": 0.28,
     "news_title": "100 House Democrats vote to cut off aid to Israel, showcasing party shift - The Hill",
-    "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRmhDR1hpczdHWUxDelNLQmlWcGJibGhiWjR5SUhTMDRHWEs5ZFFqTGwtc1o5NnZCN3gxenNQOW1HdzNwMDBGdm9YbXZDa1ZJOVBHejdlN3Q4NlZrY2M2b2VESkNXY3JFZGU5UzJoVmhRdDFsYVJhbnFUbTVpWnFfdzlaOTJCSUHSAYwBQVVfeXFMUEpLWVBrSzRZUklpYmZEY042TFo1bVJRaXVRRGQxZVJJdU1SM1AyOXpkZU5jQnNxeHFtZWVsZWw2WU8yWVJ6SmVSUUdiTHZJS2lzcmhBTThLUDN6R184bzVwOE0yc3VXX3BNdjBEQklOcDVxc1Z4UXpsek8yT2V6NGIzVTAxaDZteWdsZm8?oc=5",
+    "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRmhDR1hpczdHWUxDelNLQmlWcGJibGhiWjR5SUhTMDRHWEs5ZFFqTGwtc1o5NnZCN3gxenNQOW1HdzNwMDBGdm9YbXZDa1ZJOVBHejdlN3Q4NlZrY2M2b2VESkNXY3JFZGU5UzJoVmhRdDFsYVJhbnFUbTVpWnFfdzlaOTJCSUE?oc=5",
     "news_image": "",
     "news_source": "The Hill",
     "news_age": "5h ago",
@@ -19806,19 +19806,19 @@
     "refugees_rank": null,
     "union_rate": 75.1,
     "union_rate_rank": null,
-    "news_score": 0.0,
-    "news_title": "US reimposes blockade and steps up strikes as Iran threatens to halt Mideast energy exports - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc0ZjN3ZmUVdvbVVLMXFrejJubVRQczZPdVF0QkVwQ3B4SkdNWERtQU5Na0NFWGdrZ0pjU0w1MC05SjhpOHRRVDRZY2lDQkFnRERXWGR6QmlIcV9LaDBQcFdhTThxejdyUDFVbDNBZVlfR0I1Vmg1U19HWERQbnBqUFJJSmpoM2w5VDNacHA4RWZSalpUQ0xwTEpKazJMeGM?oc=5",
+    "news_score": 0.12,
+    "news_title": "Iran War Latest: U.S. disables ship that allegedly tried to sail to Kharg Island as feud over Strait of Hormuz escalates - CBS News",
+    "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR1pGUHJ0UXlGRjNPZzNtdHJyUC0wbXh6UmxYUWhMQ2l6U0txd1NWT3BscU1CVk4wRTd6VkxOakx3eXBqQ3RRSWVwbWJLVGJGWGIwUFJ5QzkyTFZmVHBkVUFhc1hNUmxmdzhhWHdvOWNsMktCQzlPd1JLSl9STzluQi1oaTZIUU5VU2xuVDhnZW9JS1MtcDJYVA?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "2h ago",
+    "news_source": "CBS News",
+    "news_age": "3h ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
       "co2",
       "renew",
       "exports",
-      "ai_research"
+      "military_pct"
     ]
   },
   {
@@ -35399,15 +35399,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 4.23,
+    "news_score": 4.3,
     "news_title": "With World Cup Dream Intact, Argentina Turns Focus To Spain With Confidence - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWFpQeWx3cmpPbHhLSy1rRGpnT2YwSEZFMlZHb3pOWGF6SlFQbWpqYmhSWUJEVzlOSXNNTEdrdE92MHp0UFNqc3pNWkdNUzMyWDZwSEVLTGs4c3g1NmQwWmRlOFRWZGpPQjlxMDhZVzB2OERpUDYzTHphVmd1MjF1Wk0zdXRoSlJKaG04WUhyc3pEeU92NllLbjh3X0s4SXpzVVhZY9IBpAFBVV95cUxNekNWV0ljTUdEUmJtUS1Jemt4X3k1N0ZUcnNTUTNoWWkyWDM3MTczWEVXN2szeVB4TFVxTDBFOFhoNnJOLV92dGUtbFl1Yk82NWFST0xPWmNRanB6VUVsWG1ucjVqckFtOWxmR0RSVy15YnFJT2ozM09XT1NFd254eU10X0dselNlQnRGYmk3Z1lZSnN2RE5scmlseU9RYXAtWk9XeA?oc=5",
     "news_image": "",
     "news_source": "FOX Sports",
-    "news_age": "12m ago",
+    "news_age": "14m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ]
   },
   {
@@ -43670,16 +43671,19 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.03,
-    "news_title": "Apple adds new 36-month financing options for iPad purchases - 9to5Mac",
-    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOGZKdWtJSUFDSTg4TVphU1B4NmpzLUk1ZllQYU1DMG9fN0N6Y0txYm5mTXlyUkdjdV8wd3JwVm5RT2pVMXRFSURvb2dRVlVlS2x1N1hXMlAzekh4YkpiYzdqSzE0TXUzTjQzTVRNMDVhTVhZNE9KRms0S3B4Y0RRYmVHZ1l4VFpsTlViYzdOZ3JjT0lGdHF3?oc=5",
+    "news_score": 0.06,
+    "news_title": "AppleCare+ gets a price increase for new Mac and iPad plans - 9to5Mac",
+    "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLW5GdXRhOXlKZUZ2Q1NCSzZUSzV1eTJrRnBCY1BuVlVtZWFOdWJJUi0xUDBDVk9VQUhRWm5PbVRjMTZ5eGZzUlIwVnVpRUw3Z0VpVy1RTFBKVEFSSzdpdTd5R0ZXSGwtekc4ckx0ZHBuMDR0d3ZmaUpSbGY4M1ZOckpLV0xESVhmMy1FeEJjRGlWNU81?oc=5",
     "news_image": "",
     "news_source": "9to5Mac",
-    "news_age": "12h ago",
+    "news_age": "7h ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "car_density"
     ]
   },
   {
@@ -43889,7 +43893,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.09,
+    "news_score": 0.08,
     "news_title": "More health workers strike as Ebola cases in Congo exceed 2,000, including 754 deaths - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN25mbGtRWE41clEwTkJBaDVkTE5XZVNFSDhXU0puWjlHRXh0aWgwNEtfRklIS3ctaHprMHd1bnd2TDdiSVQzNEppRDAzc3lZS0RSNVlYSkI4VEV2RlJmbFlvNHJVREg0MDY4UUZQUjZOSmIyVm83TmxTMUtENWhnRzI5dFhOdjloSEFhVDNPdkdGcU1CTEhBYTAtYw?oc=5",
     "news_image": "",
@@ -46044,7 +46048,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTVRUMjhUMjN0aW8xaTlCQkVDYURpOGZ0MjRWQXNTQVRTTjliZjIxUDBQT3l5YnhMaVhsTXNVX1htU0tqUDR3QzV0Q3hUQXJnNS0ybWxpVW1Jb3dZd2lYaVJKWjVSWGZ0WnducXNOZnh6RFFnNkNUak5sOHdjMWNReUFXTFU1SF9lMVVvQw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -46261,12 +46265,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 2.74,
+    "news_score": 2.75,
     "news_title": "Jude Bellingham explains viral confrontation with Lionel Messi in World Cup semifinal - USA Today",
     "news_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOT3RUV3ZRYWIwMWZwTmRGNUFHMUFSSTlzd1hSUElDcEdzRUxBUFRqYUZZc2lSRFVNT1dRZDdoaUhnVjNOMWQzLVhZb0lzVUhSS21SblkwRDNXT19ydWtRRU42WEFZWklmOE1UVjhHZlJmaVF2cFJoUzlfc0s1bER6VF9KblQ5SmZTWlhmdFNqWldBZDdFRXFTMzZma3pma2V1c3pxeWNkV3lHVVVYWmJNZUhhSElpLUZFc19xY28wT1F5VkkwamdYVnRDTThmMTAzT1pxZk44U1ppUkU?oc=5",
     "news_image": "",
     "news_source": "USA Today",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -47545,17 +47549,19 @@
     "union_rate": null,
     "union_rate_rank": null,
     "fifa_ranking_rank": 1,
-    "news_score": 2.08,
-    "news_title": "Argentina risks FIFA punishment for Falkland Islands flag during England win celebrations - The New York Times",
-    "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeGVWVDg4b3VublB2b0lhUkFiV1g3aWhzS3U5MUNyMmpRQ1NfU1BkQXhkQjdKOXAwX3JmaG51RzZ5amNsYkZYRVB2YmlnVVFUcTBmOU9GREFnTVdIVlpBTXNwRGxKRVZxU0FkZjRobXFSSThvaDEzNEFuOXlnZ0huaW9GdlB6UzlxOElOOGo3eVlkdEhvWHpVbVRPbFZudFRD?oc=5",
+    "news_score": 2.13,
+    "news_title": "FIFA World Cup 2026: England captain Harry Kane says they gave 'blood, sweat and tears' in dramatic semi-final defeat to Argentina - olympics.com",
+    "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa1NsXzRKME5odzlxbGhvMF9aUmZUX01kdTByUW9xdVBBSktYOVN4ZmktbWpBUUJYTDNpei1LWkJPS1ZFaHhWNW5QY252a2NBWG0zMnZEQ0FNUnF4a1o3RmFfQTE1Q0l3YXE1NDFaTF9MTkVGNF91czRXNXhIUzBaX0VwT1RWaW8wTXNEY1gyRDJhc2REQktOTHRPZXlrSVg2SnZvTXR6aXFSZw?oc=5",
     "news_image": "",
-    "news_source": "The New York Times",
-    "news_age": "97m ago",
+    "news_source": "olympics.com",
+    "news_age": "25m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
       "olympic",
-      "basket"
+      "basket",
+      "olympic_gold",
+      "olympic_per_cap"
     ]
   },
   {
@@ -48865,12 +48871,12 @@
     "union_rate": null,
     "union_rate_rank": null,
     "fifa_ranking_rank": 3,
-    "news_score": 0.55,
+    "news_score": 0.56,
     "news_title": "Spain will play the World Cup final against Argentina this Sunday - Real Madrid CF | Web Oficial",
     "news_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNLVUwMDcxM25sSTZGeTBYVWpyc1RPTWc1VjJIMi1INUhoaVNuUVJya1Q0MzhqbXNOVGM1UkVfYVpFMzdpZGFtd3lGMEtHWE90SW9jQmYtY2xXei1IczBteE9QN0NpRmUtZWlmaGo0ZDB3T0RhQkNyWUg1ZjZVeFF5U0ZvSkZVbndWTG1sVzRmQmpERFpDRGVITG52M05taVRhbVBCTDBrTzBtNTY1OVhudW9UOUg1X2NrOHl2eFZJVmUzS19ITlVDc2hVWW83UnhzV3hqTEtxck9qS3Axa0E?oc=5",
     "news_image": "",
     "news_source": "Real Madrid CF | Web Oficial",
-    "news_age": "119m ago",
+    "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -49302,7 +49308,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.91,
+    "news_score": 0.88,
     "news_title": "Dave Kendall, Former MTV Host, Dies - The Hollywood Reporter",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb0JIRVpUYXkwdGNYVExwRUVwTURnV3JLd0hvc3V1SUszcEVUbjBfa1VsU01XQWhhZWdxQV80Y1JzdGUzQUY1c09lZzVsZHdGR19COUotMDVwekxPVUpFNUhYeF9McDhJQlFTVHRVM0k3bXkwZm5acmFKTTFhb0w0cjk4V3lsam5oZlQwR1JYTFJWcG5oZVBFclczNA?oc=5",
     "news_image": "",
@@ -59078,18 +59084,18 @@
     "union_rate": null,
     "union_rate_rank": null,
     "news_score": 0.1,
-    "news_title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex - TechCrunch",
-    "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMHhsTXhwRnhHblp6Y1g2MDRGZ1BNS0JTelZFYkhRNHlkZ09lcmdFZl9zQ0tsWnlPYUFKRVVFTWY3ZHJnU0pLV0hlSXVaT2lDLV8wMnhPal92ZVAxLXFhZ0kxcUJmOUpWelVsdFRvUmI3S2MtSjNXa1hVZ3h0eS1vb01tbkc4b2laX0tEWE9oVzZMVnp0ZXRPanFaeVpmMXV0OHBtdw?oc=5",
+    "news_title": "AppleCare+ gets a price increase for new Mac and iPad plans - 9to5Mac",
+    "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLW5GdXRhOXlKZUZ2Q1NCSzZUSzV1eTJrRnBCY1BuVlVtZWFOdWJJUi0xUDBDVk9VQUhRWm5PbVRjMTZ5eGZzUlIwVnVpRUw3Z0VpVy1RTFBKVEFSSzdpdTd5R0ZXSGwtekc4ckx0ZHBuMDR0d3ZmaUpSbGY4M1ZOckpLV0xESVhmMy1FeEJjRGlWNU81?oc=5",
     "news_image": "",
-    "news_source": "TechCrunch",
-    "news_age": "6h ago",
+    "news_source": "9to5Mac",
+    "news_age": "7h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "car_density"
     ]
   },
   {
@@ -60572,12 +60578,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.83,
+    "news_score": 0.82,
     "news_title": "LeBron James Could Put Philadelphia 76ers Over the Top - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTVRUMjhUMjN0aW8xaTlCQkVDYURpOGZ0MjRWQXNTQVRTTjliZjIxUDBQT3l5YnhMaVhsTXNVX1htU0tqUDR3QzV0Q3hUQXJnNS0ybWxpVW1Jb3dZd2lYaVJKWjVSWGZ0WnducXNOZnh6RFFnNkNUak5sOHdjMWNReUFXTFU1SF9lMVVvQw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -61875,7 +61881,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR3Q3LThIeFA0dUJBTC1PZi15U1lkUjViTWNJbkhtbnRsN3dJMEUtTGdsUF8wRF84c1Z3MlFYTU9XbVllUHNvaGNLSDlTUWwzWXdsTmxsWUxsYjl5TThlX2Z5N0V0d1luemVHczMtMWl0MGxjS0JIUTFjMGZ6OVlQdXRxSlBDekJSS3FiRmNNWFhqZkNHX3I0M0lMN3dHdWN6VkRkbnZRcjc?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "113m ago",
+    "news_age": "115m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -62723,7 +62729,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.55,
+    "news_score": 0.53,
     "news_title": "Kylian Mbappé feels sands of time shifting as France suffer fresh World Cup angst - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdTZoVVZPakY1SzFlNFZmdDRZUmJ6al9ZNlFxRjlPc3kxLWU1QzgtS3NXWVZfcXBneW1lSHdaZ01sUDFfTVdKT1RVT1JheDF4cXNGZDB4QkhGeHVWRGYxR3BKbXd4cXVOaFVxT09LdGpCMnNsTGJvS0dmSy16NmR6enVzdVBkczhCbFBlT3Q3SDhKOWtXQWc?oc=5",
     "news_image": "",
@@ -73008,12 +73014,12 @@
     "area": null,
     "gdp": null,
     "hdi": null,
-    "news_score": 1.75,
+    "news_score": 1.77,
     "news_title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave' - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04Y29uM0stWFdBX2ZvYno1emtKc25RYTZJdFVqazNHMWdJTFdCb2tlV3FqblB0dHBJRDdoNUxMeXNweGM2NW5hakdCLU9jelo4V2VKby1laGVZdw?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -74176,12 +74182,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.03,
-    "news_title": "President Donald Trump endorses Mike Lindell for Minnesota governor - Star Tribune",
-    "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPczJITGo2UmlHMmp4QXpMSUEzTUdMOUlSRXZ6WC1JRms0c0pScEdER01lUkl3bnJ3SnR2dUEyd1hrMDBHWlMwUVFBd21Ua1JTeVZjRkJXSFNWdjFJcExyLVpWWFZXdGtFdFhUZXF4aUpNRk5vaVUtMGtxOVp5T1MyaGdUbUFSMHpseTRHck9HdS02QmVHTVdxaTlvQ0s5SGh2MnhJeFlBMndMelFy?oc=5",
+    "news_score": 0.18,
+    "news_title": "Donald Trump endorses ‘Pillow Man’ Mike Lindell for Minnesota governor - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcG5SMUd3OVEyaEp3YmpfWks3bHo5ZEtoMXhkb20zbDFOZ3VrTmNvY3FLWkxNRmVQVFE1azhXREgtalZrbUF6UHFjQWYyeXN5ejNkRXZjVGd5QnQtMXJWYlhsSHA5ZklXWWROckw4ZUhNdzRCX2tSZl9ad0NzUzlfZnpLTlJIUmJYTzZjYlI5ZklrQ1RmX242UWhnMXNFTWR1d3pzcXlpaU8xYzAzNk56dTRn?oc=5",
     "news_image": "",
-    "news_source": "Star Tribune",
-    "news_age": "9h ago",
+    "news_source": "AP News",
+    "news_age": "2h ago",
     "news_columns": [
       "democracy",
       "approval",
