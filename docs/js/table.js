@@ -18,11 +18,9 @@
     var S = function(a,b,aRow,bRow,col,dir){
       var na=(a==null||a>=NULL_SENTINEL||a<=NEG_SENTINEL),nb=(b==null||b>=NULL_SENTINEL||b<=NEG_SENTINEL);
       if(na&&nb)return 0;
-      // Tabulator negates the sorter result for 'desc', so reverse the null-push
-      // signal so that null always stays at the bottom regardless of direction.
-      if(na)return dir==='desc'?-1:1;
-      if(nb)return dir==='desc'?1:-1;
-      return a-b;
+      if(na)return 1;
+      if(nb)return -1;
+      return dir==='desc' ? b-a : a-b;
     };
     var NULL_SENTINEL = 999999;
     var NEG_SENTINEL = -999999;
@@ -396,8 +394,6 @@
     // ── 1행1열(국기헤더): 알파벳 컬럼 정렬 리셋 ──
     // ── 1행2열(국가명헤더): 국가명 A-Z 소팅 토글 ──
     var countryNameSortDir = "asc";  // A-Z 기본
-    var currentSortField = "country_name_en";
-    var currentSortDir = "asc";
 
     table.on("headerClick", function(e, column) {
       var field = column.getField();
@@ -437,27 +433,7 @@
     });
 
     function sortDataBy(field, dir) {
-      var data = table.getData();
-      data.sort(function(a, b) {
-        var va = a[field], vb = b[field];
-        var na = (va == null || va >= NULL_SENTINEL || va <= NEG_SENTINEL);
-        var nb = (vb == null || vb >= NULL_SENTINEL || vb <= NEG_SENTINEL);
-        if (na && nb) return 0;
-        if (na) return 1;
-        if (nb) return -1;
-        if (typeof va === 'string') {
-          var pa = va.charCodeAt(0) < 65, pb = vb.charCodeAt(0) < 65;
-          if (pa && !pb) return 1;
-          if (!pa && pb) return -1;
-          var cmp = va.localeCompare(vb);
-          return dir === 'desc' ? -cmp : cmp;
-        }
-        return dir === 'desc' ? vb - va : va - vb;
-      });
-      table.setData(data);
       table.setSort(field, dir);
-      currentSortField = field;
-      currentSortDir = dir;
     }
 
     // ── 검색 빈도수 추적 (localStorage) → 자주 찾는 컬럼이 앞에 ──
@@ -1151,7 +1127,6 @@
       var topField = cols[0].field;
       table.setSort(topField, 'asc');
       highlightColumn(topField);
-      currentSortField = topField; currentSortDir = 'asc';
       
       // 해당 국가 행을 맨 위로 스크롤 + 하이라이트
       setTimeout(function() {
