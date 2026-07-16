@@ -1871,16 +1871,15 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 4.45,
+    "news_score": 4.47,
     "news_title": "World Cup 2026: Argentina break England hearts and head for final with Spain – live - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQUFJLTVLcFNjYzZGM3l5dUcyaGRLbG4tYWN1ZHlOdnVPa0ZrTjJJXy1uME52dVJTTVFuX1JtR01ESklJbTRuOWc0ZVY1M1pPNmVvTXFGY01CaFhyb2h0QnZuOXN5b05PR0ZwWGVUX3VhS05POXBKclFsVC1VY2ZaOEFZMVA1TW9YUnpla1FFOFJNS2dJS0VIZGxCR3pYSnd5UGYxM1B2b0k3V3ZXZWhIYmsyRllDTFdaY01GZm1sSHpEWmNYenRmSHBteHhQX3ZDWWNqWUN4b3lWVzFrN0F1RmtoSTlEcXNsUWU4OVJFblktTWduNDNfOU80Zjh4T1FXVHpEUTln?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "8m ago",
+    "news_age": "10m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ]
   },
   {
@@ -4996,7 +4995,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYlZSWDYybm1iZHF3VjgwQ3F1cERoVWFvTmpJTVpZSGl2Um13Rkw2MDlSNWtTTjVkSjJ6YkRjYm03VXdvc0tPR1FwUTZENTdMLXJIbUtBZEhTR29DZkcyX09PZ1JMa2RwLW5UcVhpaGVQcnIyYXlrRHZlYjlaM2JDSl93WXBUMWFfZUVwN3BtV2wyMGQy0gGaAUFVX3lxTE1Hc3FVa0ViZUc3YkE2RGQ0Q2t3Q3oxOGFmS0d2YU9yUHQtYjNCQXZjS2N2V1RUZGV1emFMRjd2M0wzWnRiNnlObjBRZlZMWlhZYnJFcEpma25RN0RwYjVHWk14Y1RpcW1IWndOSVhscmZ5MlBEdHl0WDYtX1hyMkg4NEJtb050elN5SjdVWEg4eVVLUmJhNURsLWc?oc=5",
     "news_image": "",
     "news_source": "CNBC",
-    "news_age": "106m ago",
+    "news_age": "108m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -7778,7 +7777,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.6,
+    "news_score": 0.62,
     "news_title": "Five booksellers arrested in Hong Kong police raids in latest crackdown on ‘seditious’ materials - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQkE3N29XRHpzUWVyRmkwcGFfeFM3bFZ5OG1ONi1BdnhteGxHWEJPNHRXeEJWNXN2dVRtREM4UjFkOHNPTnpDY01jcElPbWw3ajBtTUNxcG1RSjNMRklaOFpEbTRLZ09UbnlCRDc5TzlUWl9fbndSSXZ5MFhwSkJTQUNtdk4wWXVFTll2cDBDd0kzUQ?oc=5",
     "news_image": "",
@@ -15335,7 +15334,7 @@
     "fifa_w": 81,
     "fifa_ranking_rank": 132,
     "fifa_w_rank": 63,
-    "news_score": 0.48,
+    "news_score": 0.52,
     "news_title": "Five booksellers arrested in Hong Kong police raids in latest crackdown on ‘seditious’ materials - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQkE3N29XRHpzUWVyRmkwcGFfeFM3bFZ5OG1ONi1BdnhteGxHWEJPNHRXeEJWNXN2dVRtREM4UjFkOHNPTnpDY01jcElPbWw3ajBtTUNxcG1RSjNMRklaOFpEbTRLZ09UbnlCRDc5TzlUWl9fbndSSXZ5MFhwSkJTQUNtdk4wWXVFTll2cDBDd0kzUQ?oc=5",
     "news_image": "",
@@ -16829,7 +16828,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQejNlLWNWZklWWldGdmRnRkNYRWIwdl9UMVFxN0VlS3g4bFRKM1ZTNEI4OW41QVRuR3diYThZN3Z2dzl0bWpsSEthQ01YdnQzMXFyTjVnS05wVVpaNmstcm9DUDNIYU0yWE5Eb2ZFcHJKdmVCbmdBR2UxNllXNzQ1YkJPTTBHVWNFVjRVd2Z3?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "48m ago",
+    "news_age": "50m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -26833,12 +26832,9 @@
     "news_source": "Rolling Stone",
     "news_age": "3h ago",
     "news_columns": [
-      "health",
-      "life_expectancy",
-      "doctors",
-      "beds",
-      "vaccination",
-      "infant_mortality"
+      "car_density",
+      "gas_price",
+      "co2"
     ]
   },
   {
@@ -31947,19 +31943,19 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.11,
+    "news_score": 0.18,
     "news_title": "Two killed in Russian missile fire on Kyiv after Ukraine-EU drone deal - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOGVlTElzajRUSklORUVFZ1Fka2lFYnM5VEdrVVFjQ1ZrOFVBLTdLRXFRY2Vzd3I3UWphbXlUNWg0VXhhTUZmSVAxQURxUGhBMWZBZ3QtNmZLanVKVExIdnZxNjZfZmtSQml1R1o5VkJPWTRJblNDc2VURVhZYXJpZFJOdV9OWTRXX3ZrSVdPWWdGbWd5TDRkMkN0Tk02MndpU0ZTNVRkUGpFYzMza2hzaNIBtgFBVV95cUxQWklXN1BOZ013YkZ1ZzBYWmppbVpZczdhV0pkRUstSjFnaEY3ak5qVEZhMmpETGdiSkJsY25tUVFBLTJjYVdINThMSUZYakxsTlFZbDM5YmxBSG50M2VWT2dlR1NkeE1QS2pNNkctN3BwaE04b2FFbVg1VjVxcl9GWXl5MVpQaHVHN0ttSl9Yb1BsTENZbEFHMEFJTGZXY1lzVHNaMXdtdVIta2lEM0Y3T2JiU2N3dw?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
     "news_age": "3h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
       "military_pct",
-      "nuclear"
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ]
   },
   {
@@ -35426,12 +35422,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.63,
+    "news_score": 1.74,
     "news_title": "World Cup 2026: Argentina break England hearts and head for final with Spain – live - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQUFJLTVLcFNjYzZGM3l5dUcyaGRLbG4tYWN1ZHlOdnVPa0ZrTjJJXy1uME52dVJTTVFuX1JtR01ESklJbTRuOWc0ZVY1M1pPNmVvTXFGY01CaFhyb2h0QnZuOXN5b05PR0ZwWGVUX3VhS05POXBKclFsVC1VY2ZaOEFZMVA1TW9YUnpla1FFOFJNS2dJS0VIZGxCR3pYSnd5UGYxM1B2b0k3V3ZXZWhIYmsyRllDTFdaY01GZm1sSHpEWmNYenRmSHBteHhQX3ZDWWNqWUN4b3lWVzFrN0F1RmtoSTlEcXNsUWU4OVJFblktTWduNDNfOU80Zjh4T1FXVHpEUTln?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "8m ago",
+    "news_age": "10m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -39786,12 +39782,12 @@
     "news_source": "Al Jazeera",
     "news_age": "3h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
       "military_pct",
-      "nuclear"
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ]
   },
   {
@@ -43922,7 +43918,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.41,
     "news_title": "The band playing when a Bangkok bar caught fire mourns its members among the 33 dead - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaE53ME8zbnJ0RTUzMzVZdG9Xb3BRTkJfTjhYM1J6TjJmaG5GV21PaEN4d2tTb0tCMVhDMnVZT3Z3OFU0X0VIT1N3dlZzT1dqaFhpOGJRMEk1a05zN2l6S0NUdUZaNGx6a1BZU1hQQXpOSUpwaWJydnNmakUtT3VnTHdNd1ZHRGFSMHJNdldPaVc1Zzc5TmFacjhGR2g?oc=5",
     "news_image": "",
@@ -46084,7 +46080,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.91,
+    "news_score": 0.8,
     "news_title": "Heat Receive Major Klay Thompson Update Amid LeBron Watch - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYmlNQlo4UXVGX2l6bnl1RmcyQ0pKMFVfNlZWeVY5ankwbkloQ2oxS0FqdzFqWWhKVy1KeVQ4dV9DSGx3ZE1adW9lQ285YmtFTHktSEpPWE1fbVdRbHg2enRWd2VhYm1kUmkxOWptMFhSR1c4WEM5a25mdUNVWUtXUy1YLXZTOWM3?oc=5",
     "news_image": "",
@@ -46305,12 +46301,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 2.6,
+    "news_score": 2.59,
     "news_title": "Jude Bellingham explains heated Lionel Messi exchange after England’s World Cup exit: ‘We were discussing…’ - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbDFnRVNEMVJ4QzNBdEZmQkFycE5UTS1IdWVWS1RINFFrUGh3amh1TExIQW1hbmlXS3dtOU1Nek1QVXZFSV96Z0VWelR5RUoyR1FKUjU3MF92c2JscDRWd1lCVVFnM3hYdkQxamt0VldaTGRaWTVMNXhZZ2Z5ZEZrTkRsWFgtLVF3cUhkRTFDa2s?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "26m ago",
+    "news_age": "28m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -47589,12 +47585,12 @@
     "union_rate": null,
     "union_rate_rank": null,
     "fifa_ranking_rank": 1,
-    "news_score": 2.08,
+    "news_score": 2.04,
     "news_title": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 15 - Mashable",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSXBDbFRlUTNxZEsya0tRbXNKNmJCSkUxRmNzWWVzWmxONi1DM1B1ZEFJR2g4NUk5eGgtQ0VVQVpEVC1ESko3RHZ1MGVKQVZTMnhyTXdyZHBuN0U5UnpaNHZ6MkRWZVoySnFRc3J2YnpHZHdlRm5GMWZ0clQwZ04wakJlUk5OMVB1UEh5bGNJdUwxamYzTHc?oc=5",
     "news_image": "",
     "news_source": "Mashable",
-    "news_age": "31m ago",
+    "news_age": "33m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -49346,7 +49342,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.44,
+    "news_score": 0.45,
     "news_title": "Measles - World Health Organization (WHO)",
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CSm90Nlo1aVhLczFhQ3MwSV80amFZNzd4WWZBbHFqbllGaXJ1S3psNFZ5YkxwbVB5bG93bTY5bnc1SEFaOTRtekd3ZVlmYXltT2lvYjRqbTNyc2VBYnE0WTkyYXpUT0k?oc=5",
     "news_image": "",
@@ -50407,7 +50403,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNV3o3WE5vZl9aTGM0ZklWdi0wQTNUZXoxRkVfSHBDNEZGNXN3bi1QckQyTHRyNmNtclFUVDZiNzhUWjNNQ01WcENVcmkwbnNpZUZuYXFfQk9sTjJhYXJwdWQ2Z254YlhtS2doZTR2b1RyektnNUdZaWxUbXZPQmFESEd3d0tpZGNSZGluUDRfX0N4RzIwMnRwdzR1SWY3b1FmTDBuMjdtOFB6cVhvNVd1SUtMTDAzM0kyc21GZzB2clpINzh2cWt6MnA1UEhGWUs4RXdrNWlXRVJ4OGFnYnc?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "41h ago",
+    "news_age": "42h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -51460,7 +51456,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.0,
+    "news_score": 0.01,
     "news_title": "Johnson & Johnson CFO Says Guidance Hike Is Just the Start - Barron's",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMTZYX0hFVUhHanBBV2p1TmxlaTRIOHYybmNSZzhoUnl2c2RVRkJrdU01MEtqc00xM205TmRYNEllSFp5Tmd1cXBfWEV4RG5WWkRULV8xZFBWck9LT0dVX1VySnpheE5uRlpFUzZDZHhmZm8wRW5sNFBnYjJrelFCaEpLTTdDOWFOZ0E?oc=5",
     "news_image": "",
@@ -59145,7 +59141,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.18,
+    "news_score": 0.2,
     "news_title": "Asian shares slump on chipmaker drag, bonds cheer cooler inflation - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONzEtUE5IX0ZhajhxclVEalRCODR4QWpsVTNmWHFYZkpvXy1jTy10ZGJmVEZ4SVFKT1BkSkF2OTdzTXd6WE1tWk5OMEV2ajVLOGhnaUlER3pKbnZ5SHhSdGcxSG83RTVIckFaOUp6Z0x2T1FKUGo2M0V6YzhQRnFOLTlRcw?oc=5",
     "news_image": "",
@@ -62801,7 +62797,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.29,
+    "news_score": 0.31,
     "news_title": "FIFA World Cup 2026 stats: Messi 33-25 Mbappé, Messi 10-4 Pelé, Messi 99-71 Maradona - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY3RZcWtkSmtoMmNjZkpCdzlvU0pERkdxOEU5YkFhRUJwRUh5eWF6MHV3VEJrcnpMcElRakRuWndkeTVPVUY1aE0tMDB2dVdIT3Rubjk0cWJ6dUZMRGNWOXozbGUwa1F1ZEp0MnE0a1laYXVzYk82dWxvU21CR0FwUjNQMjBUbW1xcGtQRVBFcWhKNWVDRlBHQ01QMXo1Wk5fb1E1RmFzVDJFUkVzSS1uNjlwT1lJMnVrUXRxTlBuRTlqYnowcGJSRXRnNUhQOFdtYzNiOVA4YlE5VEluQWJzckk0dkFSbEktT0p6VFBxUm5DZXBu?oc=5",
     "news_image": "",
@@ -67073,7 +67069,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.41,
+    "news_score": 0.4,
     "news_title": "Vsevolod Ishchenko's Defense Against Cameron Boozer Shows Strong Value - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmxOejdNbURtS3NwbmRfcjA3YXhpbEZoa2tFNllFeUpETVpqWDl1c3lYV1lVU0lQWHJNN25lSzQ3M2Yzb1VRb2hVdzNscS1FWkJHZkdqTkJoYUE0SUh1QmNfRzdENlh4eThfTVZ1bTRVSkFzbjh6ZVNBYlBPTUlaMVBNUzg2TEExeDVTSm15N3FCeENHVFE4?oc=5",
     "news_image": "",
@@ -72873,12 +72869,9 @@
     "news_source": "Rolling Stone",
     "news_age": "3h ago",
     "news_columns": [
-      "health",
-      "life_expectancy",
-      "doctors",
-      "beds",
-      "vaccination",
-      "infant_mortality"
+      "car_density",
+      "gas_price",
+      "co2"
     ]
   },
   {
@@ -73116,12 +73109,12 @@
     "area": null,
     "gdp": null,
     "hdi": null,
-    "news_score": 1.03,
+    "news_score": 1.01,
     "news_title": "U.S. slaps 25% tariff on most Brazilian goods over 'unfair trade practices' - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYlZSWDYybm1iZHF3VjgwQ3F1cERoVWFvTmpJTVpZSGl2Um13Rkw2MDlSNWtTTjVkSjJ6YkRjYm03VXdvc0tPR1FwUTZENTdMLXJIbUtBZEhTR29DZkcyX09PZ1JMa2RwLW5UcVhpaGVQcnIyYXlrRHZlYjlaM2JDSl93WXBUMWFfZUVwN3BtV2wyMGQy0gGaAUFVX3lxTE1Hc3FVa0ViZUc3YkE2RGQ0Q2t3Q3oxOGFmS0d2YU9yUHQtYjNCQXZjS2N2V1RUZGV1emFMRjd2M0wzWnRiNnlObjBRZlZMWlhZYnJFcEpma25RN0RwYjVHWk14Y1RpcW1IWndOSVhscmZ5MlBEdHl0WDYtX1hyMkg4NEJtb050elN5SjdVWEg4eVVLUmJhNURsLWc?oc=5",
     "news_image": "",
     "news_source": "CNBC",
-    "news_age": "106m ago",
+    "news_age": "108m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
