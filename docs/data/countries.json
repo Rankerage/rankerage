@@ -1871,12 +1871,12 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 3.36,
+    "news_score": 3.41,
     "news_title": "Watch FIFA World Cup: Argentina arrive in New Jersey ahead of Spain final - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rT2l3d09UaVNMRldWNEpSWXp3NGVubEJTanRiNkEtTDJuRS1INUxmT09JOEh3WTVOOVFRMDJzdHM5MjViV1p3U1E3bGN0OUplSWV0ZzJxdDlXbUNGaGlpamJTZWpZV1JoNHl5QVVTMzFKZlN6R0hPWElDRUdhQdIBgwFBVV95cUxPNFpEUy1PajVnckhZMW10Q0Vsbm12LV8xOHVzbmI0OGRFOV9oZUxJWE1iR2ZndElINzl4aUlPb20wSTBFbVE5US1EOEZhdXFWX3hwSVN3SldZX185ekpybnY4UTZURVl0U3RRNWJlRVlhYjJLZ3F4YS1rZU03VUdoMUYzbw?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "50m ago",
+    "news_age": "52m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -2485,7 +2485,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.15,
+    "news_score": 0.14,
     "news_title": "SA landscape changes forever in hundred-million-dollar loss to economy - InDaily South Australia",
     "news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR28wdWdxWXRPWk1wRU90dk41QVZ4TWxWc3hhTXYtYVNSaVloYTFseTltRG12aDNJZjVKS3Bvb0g4czl0ZmMyNHhBRGN0MElIOTg0OXBZajRVWTBIS3EwQzhYMG82Qy1KS3lrT2I4WllKUFVKM29mWFJRRmhLeWZtbVR1TkprSHVLNi1OdUZ2bEREeE5OMTlBaGhubmN5RmJQQUtrelhyVERIYVBCSXplMUYxMnU3RzJjcFFscXc2VUhTUQ?oc=5",
     "news_image": "",
@@ -5975,19 +5975,14 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 66,
     "fifa_w_rank": 86,
-    "news_score": 0.59,
+    "news_score": 0.82,
     "news_title": "Humberto Bettencourt, the man who coached Cabo Verde’s World Cup team: “None of this would have been possible without Olympic Solidarity\" - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOejVDaGhDQk5RdHB6Z0VSZHpEV21iUkdJTmtfUFdHYUkzVEdxcmtYeGNGdVZ6SkFVTHRqdXUxeWw4MnRjU1ptMk5INGlhQkQ3QmpIN0phelNvcVRveGZCSWZXMi1fTy00RU1SVjN6cXhBTVp6eTg3YzM4cENXLVg2S1ZVcy1VbC1HcnlCd3puNHk0T3pwck1wTlR2Vl9IOXpPcW9iV2k2dnlTeExF?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "27m ago",
+    "news_age": "29m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "olympic_gold",
-      "olympic_per_cap"
+      "olympic"
     ]
   },
   {
@@ -6774,7 +6769,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUk00bmlsd1dKZ0Y4VldKUDBEcUFRcGZmYk1OQ3ZYUWMtZS1xdXRIMWpEVGxROE5Ua2FidVlCcGZaRGlBMUhIWDlRSllqNWx4MnhlaXpkelNOMUMzcGNGTWRWYU5ZSWlRaEdsSXR5NE5kMFotZWIyaFpIODBrd2s2bE9lRmNZa3cyeFdhSDBrSlA5NFYza0VicHF3eThuMWVYM2VKRFQxaXRKaWwza3NjclZwUDBLQjNXYk1POXVfNlhvNk5f?oc=5",
     "news_image": "",
     "news_source": "PBS",
-    "news_age": "9h ago",
+    "news_age": "10h ago",
     "news_columns": [
       "marathon_elite",
       "olympic",
@@ -7816,19 +7811,19 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.59,
-    "news_title": "Xi pitches China as AI partner to developing world, warns against risks and security overreach - CNBC",
-    "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nRDNkN1V1YXJVaFcyT3dhc2FnN0Y4djN2d3Ffd0MxejdFWENWQjFiVV85cHJfWFRNOXd1RzlwTGFQRWMwWllRYTNaYWl1YU9zZGJMaEEtTVlnVGdENFVBMGxCaVdadEM5ZXJDTTNrM0N4SDNpX2pJQdIBfkFVX3lxTE9VTnBHZk1XYWZsVlpjUkNMYXkzOFE5Y2NMUXlZMUNCNzJXNmNlNnplT24yREstWlJ3RjM0OFo2M0NLSE93cTZOWmFKSTFLV1drbG9pMEtUOWFuWWlXNzJYMW9JajctTUQ0NTczN2Y0Q1VoWkhYMFY3OWdIY01ZQQ?oc=5",
+    "news_score": 0.82,
+    "news_title": "Xi Jinping sets out China’s goal to be global AI leader - Financial Times",
+    "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWpKaU03eUwzV3NNb1FzVnM2VlJsYjZnODdYMGhFVzBTZ1lqeEktRFZyZXpqbzljTWpiTHp6ZEt1NTd1M09OZkRJV2Izd0lTYmFCY3Z4U3U4TDFWTDZDWHRFWWFha2o0VDVIQnFzUmRxSU1ZWWtETU1hZ1N6VmQ4UG94S0g?oc=5",
     "news_image": "",
-    "news_source": "CNBC",
-    "news_age": "4h ago",
+    "news_source": "Financial Times",
+    "news_age": "3h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "democracy",
+      "approval",
+      "press",
+      "election_days",
+      "ai_research",
+      "internet_pct"
     ]
   },
   {
@@ -12639,12 +12634,12 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.96,
+    "news_score": 1.22,
     "news_title": "World Cup 2026: Thousands of tickets still available for England-France - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xMmo0N3NCVXBYS1hfNkk0ZDM0LUo0QTJNT1VSNEJtY0pDdjduMDZfT0hMVVNOVkJfaFduRVhEYkQwZUFxMUExalpBREpZYmRiQTJETnRGQ09DMTF3Y1hYQkRjOXhCNjQ?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -16290,7 +16285,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.41,
     "news_title": "Index of Services Production: What Is It? How India's New Monthly Services Gauge Will Help Track the Econom - News18",
     "news_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR3ZyRUQ2eVFjVERuSTdDUm1TRkctS0RUMGVhWHp2cWs0eUFGY1hVUHllMnBoUERUZzM0YjFOUTA0TVpfZVd2cTJ0NzVMR2xBRncxbHJUX1JJZlZqMGVGWFVHS3pBNXpYeU8wV1luOUc3bTdsWVNDLUFTSEc0VDB5UHdKVV94dWxSSlBiMWZqSzFWQ0FDcFNma3NrRms1V2laY2J5eDZaNkFKbjNjZkpxYmpqN2ZzSllsZFRqMVFaOGl1Q0RZaUpGQXJsSUhSRzRtMUQwQWZvcWFBTjhwNjZsdE50T0NCdmNYV3gyYWhPTUZqZlFiVHpN0gH8AUFVX3lxTE9kT2ZIckUyeGNBTTRYUEFJN1JWc1NNaTU0b1FmdUp6UlVYZkQ4R0RFMkFXVi1XYTVrRmx6eFBfN2U0TE1WcEZ2dVJaT2FxNjl4WTlZeXRNeXljRmZsTWpaVUthYVNkMkFwTXF5aEFIODZOWGQ3aVZQcXBoVTBvZTliZ0Q3MjVYNXFLY2RGODlsNFlkVU9EYUwxX3VobU1EY3J6aTNEOXF5MHBfTkpSR3JGeVpaLXIwM1pNT09wajEwT1k4UzJ3TXVUWWphQnV3cDZkN1F2SDZ3dEZBWnhBZ0FMZ0VZQ1ZfX09ZeTF1NUc1X19XNnpHVzVRc1FHQQ?oc=5",
     "news_image": "",
@@ -16858,18 +16853,18 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.65,
-    "news_title": "US launches new strikes as Iran says civilian infrastructure hit - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGS2EteFNKR1VrbVVwZ0kwRkpWaVdCTFhwNWtISThhYnFnYzRPNTRCYWpaa3FGdDYzUWJmcmZfN1VhQWNuM2pSZ2l3WGVkTW1BeHM3b3ZkWW5UQQ?oc=5",
+    "news_score": 0.46,
+    "news_title": "U.S. Targets Iranian Bridges in Bid to Choke Off Regime’s Supply Routes - WSJ",
+    "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNekY2dUlxSDcyRnNDWWZkelVLTXNTVlhoOVdzaTVVY3NYX2JhWHNRS2VRcTd1T0lGT2Q5OUkxU0xUbTJkUVV3N20xSXQwTmV4N01CR0ZpOElDZHZMc0hxd0JXdFYxeWxpcGFqRVVIUU9JaHJpOUpMb0NUNTBvMktZMDJ1R1hzUlZaMkZ6V1JtMEtTNXRabmN1YXpHN2c0LVBXa3pSNUNIaUU5aU1zeWF4YXdfN0xyQU0?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "100m ago",
+    "news_source": "WSJ",
+    "news_age": "10h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ]
   },
   {
@@ -18708,8 +18703,8 @@
       "approval",
       "press",
       "election_days",
-      "ai_research",
-      "internet_pct"
+      "gender",
+      "gender_gap"
     ]
   },
   {
@@ -30331,7 +30326,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON2lXN3QtcHh4c2xRVG5qNGlQVmoxWk4tcENRbGtHUGtvaTd5VEVmaktjOGNRQkRuaWl6aUpVaVFqZ2NSS09QcWw1QWRNWEhLQ2t2Tm1uTmFxXzQyNGY2VElBYnp3ZjJRcDdwMWJ0TDVjNklFQ0l1VnhPeU5uYm1jbXNPa3NRc3dSZVczZC1DUmRsOFRsMklLclU2Tmo?oc=5",
     "news_image": "",
     "news_source": "Daily Tribune",
-    "news_age": "117m ago",
+    "news_age": "119m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -35571,12 +35566,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 3.35,
+    "news_score": 3.32,
     "news_title": "Watch FIFA World Cup: Argentina arrive in New Jersey ahead of Spain final - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rT2l3d09UaVNMRldWNEpSWXp3NGVubEJTanRiNkEtTDJuRS1INUxmT09JOEh3WTVOOVFRMDJzdHM5MjViV1p3U1E3bGN0OUplSWV0ZzJxdDlXbUNGaGlpamJTZWpZV1JoNHl5QVVTMzFKZlN6R0hPWElDRUdhQdIBgwFBVV95cUxPNFpEUy1PajVnckhZMW10Q0Vsbm12LV8xOHVzbmI0OGRFOV9oZUxJWE1iR2ZndElINzl4aUlPb20wSTBFbVE5US1EOEZhdXFWX3hwSVN3SldZX185ekpybnY4UTZURVl0U3RRNWJlRVlhYjJLZ3F4YS1rZU03VUdoMUYzbw?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "50m ago",
+    "news_age": "52m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -44106,12 +44101,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.1,
-    "news_title": "Cyclospora Linked to Taylor Farms Lettuce Sent to Taco Bell - The New York Times",
-    "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVVlKZU02YUNvdUpPYXBiY2hqUktab2J1MUp3ZWpqTkVkOGd4dWJaMmNGdmhnQ0ctXzlHX3JHMVRiR04xaHlXZkU0WGphakJTaDVqQW9pRHExNjJwb0tGazBBSXVzcmY4X0VxTlVHN0x5MUo2ZVprVmZpNUY4bER5TXRpalUzWEhjOEdFTlRNbw?oc=5",
+    "news_score": 0.08,
+    "news_title": "EU Orders Google to Give Rival AI Apps the Same Android Access as Gemini - MacRumors",
+    "news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FRGU2VDNGWjYyT1FPYmJpRWFDZ0NJNFlGQUpMUG5IYWJCd2l2ZjJ5czRoOEVNNlFqNUkxanRLUGhyblhjbE1SWXNjVGN5TDAtd29CcjRCdzZGRmVpUkUtbHRfNG1LVVBqdUQtbUZMWDB3T0JmTHNEUS13?oc=5",
     "news_image": "",
-    "news_source": "The New York Times",
-    "news_age": "6h ago",
+    "news_source": "MacRumors",
+    "news_age": "11h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -46287,7 +46282,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZlNUS3pNNEFaMTIxZnNPc0JzLWZqTjEzOUlvaEVNSmZobkVaZUpGNERPSlU5WW9EV0VIaDlHQUF2UFVJdk5KblVycjNQVTV2M09xLWlnaHJQcFgyZVByUGhBeVozcTRjZkN4TUU3bUdDZVZWYVVCQnZETmd3RzZ2bHNFMTY5SDBFVnc?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "6h ago",
+    "news_age": "7h ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -46505,7 +46500,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3VoSVR6d0szQkJPOWdlNEo5RW9WVlkwMXNvR2VzLWticlJjWTVnZEJ1cXotN0kzNC1jVkpEV0phTjV6M0pRWjNoV0xwbGNjQVk5aktMVWNOZUJVSzBJRExILUZIejdqRUx6bUV6ZnN1aUlhdWVqOU5XbGx1bExfM0dWcldzclFBc0R1MEhhRk9Ic3NUN0NQbnJuSnVzUXdPUlpINEt3?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "50m ago",
+    "news_age": "52m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -47598,7 +47593,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wMWdvM2ZpNnUwYWkzWjBudzVVNGxhQ2RNRWxoZzlfdXV3M0lwbnowei0yZ2lqaFJnTnJoeGgxa25GRjZPckJUWE5kdGZLMFNKc1k1TkRHc0QxalJNWUFha1djZThnb05hNVpzVk42MTlNdWVCZ3gtNmNnRk5PWTQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "50m ago"
+    "news_age": "52m ago"
   },
   {
     "flag": "XXFIFA_",
@@ -47813,7 +47808,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZTVBWnk1QW5tYmZjWTJrajZDc2xtXzZ2RDkyNVhsNExJZkxaSTM4UUNyYXpEX1lHb3ZxVE1mSHJCYlRYeGZkM3RjNFRVTVNZNWFMWklGaVJRX3J6YkFrTjdBX1FPN0ZCUnhzZUhONVB4WTZYc3FveEkzV29uSzZPS05YMlJ3QTBvSWRoemhPSnhubmdOdEdJU2RaZ3pabG9NUTBqa2VTRGdidw?oc=5",
     "news_image": "",
     "news_source": "Amarillo Tribune",
-    "news_age": "21m ago",
+    "news_age": "23m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -48032,11 +48027,11 @@
     "union_rate": null,
     "union_rate_rank": null,
     "news_score": 0.0,
-    "news_title": "Finding a niche in the innovation economy - Harvard Business School",
-    "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5reXJrbUtGZmk4THFaVWUtQVlsV0ExcUNOREFRQklLVmo3dVZyMWNJTnRmS2E1ZmY4dnZ2TnM0LWt6RUhTaURjQ0Y1NklSTjhUei05bXZSalBLZ0tKMXJRM0NKcDJfRU5UY3I0X0VVdkVnNE0tdnBn?oc=5",
+    "news_title": "Astronomers Find an Atmosphere on a Nearby Earthlike Planet - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2VrM0JicFZGM3VUbkktY1l3eXJjVkxVeWtuaER0UzRPNVU0Zk9RMk1zdUhoOXktQjFjN0U3MkdvYXFob3ZrbHFkS2JkcWZRX1dtWVlOTFVIN0QyS2NEdTJqbEdSMXBTaVNaaElWN2V4ZXZ1dzc1UFdCb1dNc25CVS1ueEY?oc=5",
     "news_image": "",
-    "news_source": "Harvard Business School",
-    "news_age": "3721h ago",
+    "news_source": "The New York Times",
+    "news_age": "15h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -49564,12 +49559,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 1.4,
+    "news_score": 1.45,
     "news_title": "Humberto Bettencourt, the man who coached Cabo Verde’s World Cup team: “None of this would have been possible without Olympic Solidarity\" - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOejVDaGhDQk5RdHB6Z0VSZHpEV21iUkdJTmtfUFdHYUkzVEdxcmtYeGNGdVZ6SkFVTHRqdXUxeWw4MnRjU1ptMk5INGlhQkQ3QmpIN0phelNvcVRveGZCSWZXMi1fTy00RU1SVjN6cXhBTVp6eTg3YzM4cENXLVg2S1ZVcy1VbC1HcnlCd3puNHk0T3pwck1wTlR2Vl9IOXpPcW9iV2k2dnlTeExF?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "27m ago",
+    "news_age": "29m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -53185,7 +53180,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fSEw5bWh4Uk9hWV9BZEJUWnJ2OXdxR1hNbGZPVFhNdmd2UVg5SDQzLXptRVNnR0V1V0tya2JHV2VlREhSRUItdnZkVGlHOWk5aWd5SWJVdjVRd091cTJoWXNRczRvY01kbXZ1NkNCWTNpREhseVhyeHFn?oc=5",
     "news_image": "",
     "news_source": "Barron's",
-    "news_age": "68m ago",
+    "news_age": "70m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -59401,19 +59396,19 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.01,
-    "news_title": "Bessent’s 3-3-3 Economy Is Slipping Out of Reach - Bloomberg.com",
-    "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORWNoMDNUd09yYXZmQTRxMTJ2LWtCTzdDZV9WVVJtMVdHWlI5NVV6SzdLU09VcUQyU0JiX19Lc2QtUWQzb3cyUm1Hd3Y5dDdFdks1emtRWkczelV0aS1lZGhNdGRNY21OQXV1REJQbjd2d3RrZF9CRkZiR3NmbEV3RENWZE5pSFJjNkN4b2NTWkNNSkN1dGlrWkU0MG1LM05sTlpRbQ?oc=5",
+    "news_score": 0.13,
+    "news_title": "Xi Jinping sets out China’s goal to be global AI leader - Financial Times",
+    "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWpKaU03eUwzV3NNb1FzVnM2VlJsYjZnODdYMGhFVzBTZ1lqeEktRFZyZXpqbzljTWpiTHp6ZEt1NTd1M09OZkRJV2Izd0lTYmFCY3Z4U3U4TDFWTDZDWHRFWWFha2o0VDVIQnFzUmRxSU1ZWWtETU1hZ1N6VmQ4UG94S0g?oc=5",
     "news_image": "",
-    "news_source": "Bloomberg.com",
-    "news_age": "22h ago",
+    "news_source": "Financial Times",
+    "news_age": "3h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "democracy",
+      "approval",
+      "press",
+      "election_days",
+      "ai_research",
+      "internet_pct"
     ]
   },
   {
@@ -60901,7 +60896,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZlNUS3pNNEFaMTIxZnNPc0JzLWZqTjEzOUlvaEVNSmZobkVaZUpGNERPSlU5WW9EV0VIaDlHQUF2UFVJdk5KblVycjNQVTV2M09xLWlnaHJQcFgyZVByUGhBeVozcTRjZkN4TUU3bUdDZVZWYVVCQnZETmd3RzZ2bHNFMTY5SDBFVnc?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "6h ago",
+    "news_age": "7h ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -71214,7 +71209,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.36,
+    "news_score": 0.38,
     "news_title": "New York Yankees Make Max Fried Announcement Before Dodgers Series - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNm83U28xa3dKdEtpVWVYNDhLTXlIYWw1aTUydmNYVnpnR2Roejd4OVQ3NktTWm9jZTVKUXBIR1VpeHFFNC1ZYlBpRGMtT3FWd1QwVVpPQW1hLTcxV2Y5LUtFMXRtUHpmdTBtUnEwTFZiTTJnY242YzV5ZFdUZkRUU2JfWjNCYTJJMnM0aw?oc=5",
     "news_image": "",
@@ -72310,7 +72305,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.32,
+    "news_score": 0.31,
     "news_title": "Trevoh Chalobah ‘talks continue’ between Como and Chelsea — report - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM2hnV3BVSGVUQkk2UmxDZ1oxQ2puNGl5SnMzN01GNUV2TXZHaXE4OFRrVnA3WlRsWTVrQThyYmVrd1h2N1MtS1hSaWRGVlBTQklUM1hXMzlIN3p1bk56ODhYaDNrR3Q1eGN2d1oybC1LZk1UZkhjMHJlTkx5c2I3WXItWnhSUF9RanRlUUhrcUQ?oc=5",
     "news_image": "",
@@ -72530,12 +72525,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.83,
+    "news_score": 0.82,
     "news_title": "Arsenal sign teenage Danish goalkeeper Damm - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOazlvMm9oU01YN0xNLTVVcmJJUGVqR2VFc1dCMXFoS0dadzdhdVBzT3IwdW9WTVQyV1UzMDM1elg4YWtaRklhZUpxQVI2dHZObzZFNFAwaVJrYTZ1U3JDS25DVjBXcG5RTExOVV9kYVpmbWh0bFkxU0tuQWxoQUdsN3JEN2pkaklRU1Nhd1FDdEQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "50m ago",
+    "news_age": "52m ago",
     "news_columns": [
       "lgbtq_rights",
       "gay_marriage",
@@ -73418,12 +73413,12 @@
     "area": null,
     "gdp": null,
     "hdi": null,
-    "news_score": 1.45,
+    "news_score": 1.52,
     "news_title": "World Cup rings for winners as Trump attendance confirmed - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KZDZLVk1mcTREVUt1cTRKcXI5VTJYN3Rod3pmRlk5ZVBZUWVvRElfOHh6YUEwbEVoa1J3UDliNUd2SXJpZ3p4V0s4ekhid0NRLXJzWVZXcFAwNzY4UmFraC04TXlLM1h1Smc?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "69m ago",
+    "news_age": "71m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -73525,7 +73520,7 @@
     "area": null,
     "gdp": null,
     "hdi": null,
-    "news_score": 0.0,
+    "news_score": 0.12,
     "news_title": "Xi Jinping sets out China’s goal to be global AI leader - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWpKaU03eUwzV3NNb1FzVnM2VlJsYjZnODdYMGhFVzBTZ1lqeEktRFZyZXpqbzljTWpiTHp6ZEt1NTd1M09OZkRJV2Izd0lTYmFCY3Z4U3U4TDFWTDZDWHRFWWFha2o0VDVIQnFzUmRxSU1ZWWtETU1hZ1N6VmQ4UG94S0g?oc=5",
     "news_image": "",
