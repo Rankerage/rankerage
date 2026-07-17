@@ -1876,11 +1876,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rT2l3d09UaVNMRldWNEpSWXp3NGVubEJTanRiNkEtTDJuRS1INUxmT09JOEh3WTVOOVFRMDJzdHM5MjViV1p3U1E3bGN0OUplSWV0ZzJxdDlXbUNGaGlpamJTZWpZV1JoNHl5QVVTMzFKZlN6R0hPWElDRUdhQdIBgwFBVV95cUxPNFpEUy1PajVnckhZMW10Q0Vsbm12LV8xOHVzbmI0OGRFOV9oZUxJWE1iR2ZndElINzl4aUlPb20wSTBFbVE5US1EOEZhdXFWX3hwSVN3SldZX185ekpybnY4UTZURVl0U3RRNWJlRVlhYjJLZ3F4YS1rZU03VUdoMUYzbw?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "48m ago",
+    "news_age": "50m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ]
   },
   {
@@ -5976,14 +5975,19 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 66,
     "fifa_w_rank": 86,
-    "news_score": 0.53,
+    "news_score": 0.59,
     "news_title": "Humberto Bettencourt, the man who coached Cabo Verde’s World Cup team: “None of this would have been possible without Olympic Solidarity\" - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOejVDaGhDQk5RdHB6Z0VSZHpEV21iUkdJTmtfUFdHYUkzVEdxcmtYeGNGdVZ6SkFVTHRqdXUxeWw4MnRjU1ptMk5INGlhQkQ3QmpIN0phelNvcVRveGZCSWZXMi1fTy00RU1SVjN6cXhBTVp6eTg3YzM4cENXLVg2S1ZVcy1VbC1HcnlCd3puNHk0T3pwck1wTlR2Vl9IOXpPcW9iV2k2dnlTeExF?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "25m ago",
+    "news_age": "27m ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket",
+      "olympic_gold",
+      "olympic_per_cap"
     ]
   },
   {
@@ -7812,7 +7816,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.67,
+    "news_score": 0.59,
     "news_title": "Xi pitches China as AI partner to developing world, warns against risks and security overreach - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nRDNkN1V1YXJVaFcyT3dhc2FnN0Y4djN2d3Ffd0MxejdFWENWQjFiVV85cHJfWFRNOXd1RzlwTGFQRWMwWllRYTNaYWl1YU9zZGJMaEEtTVlnVGdENFVBMGxCaVdadEM5ZXJDTTNrM0N4SDNpX2pJQdIBfkFVX3lxTE9VTnBHZk1XYWZsVlpjUkNMYXkzOFE5Y2NMUXlZMUNCNzJXNmNlNnplT24yREstWlJ3RjM0OFo2M0NLSE93cTZOWmFKSTFLV1drbG9pMEtUOWFuWWlXNzJYMW9JajctTUQ0NTczN2Y0Q1VoWkhYMFY3OWdIY01ZQQ?oc=5",
     "news_image": "",
@@ -12635,19 +12639,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.52,
-    "news_title": "World Cup 2026 today: Live updates, news as England prep for third-place playoff against France - July 17 - ESPN",
-    "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb0hqTHNPbGlYSHBMb3NNZ3pFUEpNXzY4aFJheE9XUzl0NnJYVGRwWEdXc2d0NDZlWEhySmdQUmd0Rng3ZzRXY3NtVE1vZFVqZEFCV25FZjdsVmU3Sk1IOFp4eFo0Y0xUOW5KSEZteFBnLXlpUnJEdnE0OVB5RW1OS3dhNnpZLTgtSFpxY1Q1aU9ETjFwZVB4SHVKR1RWc3JSbVpsRV9PTnFWZnBLek5VSTlqeFM2eWZ5em9mcVJvcG9hOFhYSEhBMlh3?oc=5",
+    "news_score": 0.96,
+    "news_title": "World Cup 2026: Thousands of tickets still available for England-France - BBC",
+    "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xMmo0N3NCVXBYS1hfNkk0ZDM0LUo0QTJNT1VSNEJtY0pDdjduMDZfT0hMVVNOVkJfaFduRVhEYkQwZUFxMUExalpBREpZYmRiQTJETnRGQ09DMTF3Y1hYQkRjOXhCNjQ?oc=5",
     "news_image": "",
-    "news_source": "ESPN",
-    "news_age": "2h ago",
+    "news_source": "BBC",
+    "news_age": "34m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "fifa_w"
     ]
   },
   {
@@ -16858,12 +16858,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.66,
+    "news_score": 0.65,
     "news_title": "US launches new strikes as Iran says civilian infrastructure hit - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGS2EteFNKR1VrbVVwZ0kwRkpWaVdCTFhwNWtISThhYnFnYzRPNTRCYWpaa3FGdDYzUWJmcmZfN1VhQWNuM2pSZ2l3WGVkTW1BeHM3b3ZkWW5UQQ?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "98m ago",
+    "news_age": "100m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -30326,12 +30326,12 @@
     "refugees_rank": null,
     "union_rate": 63.7,
     "union_rate_rank": null,
-    "news_score": 0.61,
+    "news_score": 0.6,
     "news_title": "Aboitiz Group Drives Circular Economy in the Philippines Through Strategic Business Partnerships - Daily Tribune",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON2lXN3QtcHh4c2xRVG5qNGlQVmoxWk4tcENRbGtHUGtvaTd5VEVmaktjOGNRQkRuaWl6aUpVaVFqZ2NSS09QcWw1QWRNWEhLQ2t2Tm1uTmFxXzQyNGY2VElBYnp3ZjJRcDdwMWJ0TDVjNklFQ0l1VnhPeU5uYm1jbXNPa3NRc3dSZVczZC1DUmRsOFRsMklLclU2Tmo?oc=5",
     "news_image": "",
     "news_source": "Daily Tribune",
-    "news_age": "115m ago",
+    "news_age": "117m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -35571,16 +35571,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 3.38,
+    "news_score": 3.35,
     "news_title": "Watch FIFA World Cup: Argentina arrive in New Jersey ahead of Spain final - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rT2l3d09UaVNMRldWNEpSWXp3NGVubEJTanRiNkEtTDJuRS1INUxmT09JOEh3WTVOOVFRMDJzdHM5MjViV1p3U1E3bGN0OUplSWV0ZzJxdDlXbUNGaGlpamJTZWpZV1JoNHl5QVVTMzFKZlN6R0hPWElDRUdhQdIBgwFBVV95cUxPNFpEUy1PajVnckhZMW10Q0Vsbm12LV8xOHVzbmI0OGRFOV9oZUxJWE1iR2ZndElINzl4aUlPb20wSTBFbVE5US1EOEZhdXFWX3hwSVN3SldZX185ekpybnY4UTZURVl0U3RRNWJlRVlhYjJLZ3F4YS1rZU03VUdoMUYzbw?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "48m ago",
+    "news_age": "50m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ]
   },
   {
@@ -39958,7 +39957,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.19,
+    "news_score": 0.18,
     "news_title": "Zelensky ousts popular defense minister, an architect of Ukraine’s drone program - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObzZQc0pQSWxFVUhpZ0V5TlR6dENhRFBsOFJnODNRblpweWNGNXYzaHpCS0FDV25PdjRMYUl0YWZLaFRscGtKNjRZUk83OGxVTUpvUDJqRHdwVWs3RmdLM010c3J2WVdCdGpVUTVqM2FZbGx4UE5MMUZfRmdPQll2czV4clZWSDZiZVQ0YXZYakdVX0x2ZENGUlRoR1FEa3E1SE5GY1lfM1BwZTBaT2hNZTNKTHNLdE9zeFpweXg4b2dMQQ?oc=5",
     "news_image": "",
@@ -44107,12 +44106,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.06,
-    "news_title": "EU Orders Google to Give Rival AI Apps the Same Android Access as Gemini - MacRumors",
-    "news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FRGU2VDNGWjYyT1FPYmJpRWFDZ0NJNFlGQUpMUG5IYWJCd2l2ZjJ5czRoOEVNNlFqNUkxanRLUGhyblhjbE1SWXNjVGN5TDAtd29CcjRCdzZGRmVpUkUtbHRfNG1LVVBqdUQtbUZMWDB3T0JmTHNEUS13?oc=5",
+    "news_score": 0.1,
+    "news_title": "Cyclospora Linked to Taylor Farms Lettuce Sent to Taco Bell - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVVlKZU02YUNvdUpPYXBiY2hqUktab2J1MUp3ZWpqTkVkOGd4dWJaMmNGdmhnQ0ctXzlHX3JHMVRiR04xaHlXZkU0WGphakJTaDVqQW9pRHExNjJwb0tGazBBSXVzcmY4X0VxTlVHN0x5MUo2ZVprVmZpNUY4bER5TXRpalUzWEhjOEdFTlRNbw?oc=5",
     "news_image": "",
-    "news_source": "MacRumors",
-    "news_age": "11h ago",
+    "news_source": "The New York Times",
+    "news_age": "6h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -46506,7 +46505,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3VoSVR6d0szQkJPOWdlNEo5RW9WVlkwMXNvR2VzLWticlJjWTVnZEJ1cXotN0kzNC1jVkpEV0phTjV6M0pRWjNoV0xwbGNjQVk5aktMVWNOZUJVSzBJRExILUZIejdqRUx6bUV6ZnN1aUlhdWVqOU5XbGx1bExfM0dWcldzclFBc0R1MEhhRk9Ic3NUN0NQbnJuSnVzUXdPUlpINEt3?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "48m ago",
+    "news_age": "50m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -47599,7 +47598,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wMWdvM2ZpNnUwYWkzWjBudzVVNGxhQ2RNRWxoZzlfdXV3M0lwbnowei0yZ2lqaFJnTnJoeGgxa25GRjZPckJUWE5kdGZLMFNKc1k1TkRHc0QxalJNWUFha1djZThnb05hNVpzVk42MTlNdWVCZ3gtNmNnRk5PWTQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "48m ago"
+    "news_age": "50m ago"
   },
   {
     "flag": "XXFIFA_",
@@ -47810,16 +47809,18 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 1,
     "news_score": 2.37,
-    "news_title": "FIFA introduces championship rings for World Cup winner - Yahoo Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQlBHdW9pR3AxTmdLWVAyNVVoT1FTbW84RTR2SHZabms1NEZ2SVJBOERoMnF5M09zVTB6dzB3bWFkZm5iZWVZT0hTdUlaNHBzd0NFNlRfenlVT2RPaTZYcnpJcThWczYyNVJGWlFDanAzcmotM1VyVEFtTzM0Z04zdTZ3Rm1YQWdIUnJhU1NsSUJvQVk?oc=5",
+    "news_title": "Don’t Miss: Caprock High School student bears flag at FIFA World Cup - Amarillo Tribune",
+    "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZTVBWnk1QW5tYmZjWTJrajZDc2xtXzZ2RDkyNVhsNExJZkxaSTM4UUNyYXpEX1lHb3ZxVE1mSHJCYlRYeGZkM3RjNFRVTVNZNWFMWklGaVJRX3J6YkFrTjdBX1FPN0ZCUnhzZUhONVB4WTZYc3FveEkzV29uSzZPS05YMlJ3QTBvSWRoemhPSnhubmdOdEdJU2RaZ3pabG9NUTBqa2VTRGdidw?oc=5",
     "news_image": "",
-    "news_source": "Yahoo Sports",
-    "news_age": "22m ago",
+    "news_source": "Amarillo Tribune",
+    "news_age": "21m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
       "olympic",
-      "basket"
+      "basket",
+      "edu",
+      "literacy"
     ]
   },
   {
@@ -49563,12 +49564,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 1.32,
+    "news_score": 1.4,
     "news_title": "Humberto Bettencourt, the man who coached Cabo Verde’s World Cup team: “None of this would have been possible without Olympic Solidarity\" - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOejVDaGhDQk5RdHB6Z0VSZHpEV21iUkdJTmtfUFdHYUkzVEdxcmtYeGNGdVZ6SkFVTHRqdXUxeWw4MnRjU1ptMk5INGlhQkQ3QmpIN0phelNvcVRveGZCSWZXMi1fTy00RU1SVjN6cXhBTVp6eTg3YzM4cENXLVg2S1ZVcy1VbC1HcnlCd3puNHk0T3pwck1wTlR2Vl9IOXpPcW9iV2k2dnlTeExF?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "25m ago",
+    "news_age": "27m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -53184,7 +53185,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fSEw5bWh4Uk9hWV9BZEJUWnJ2OXdxR1hNbGZPVFhNdmd2UVg5SDQzLXptRVNnR0V1V0tya2JHV2VlREhSRUItdnZkVGlHOWk5aWd5SWJVdjVRd091cTJoWXNRczRvY01kbXZ1NkNCWTNpREhseVhyeHFn?oc=5",
     "news_image": "",
     "news_source": "Barron's",
-    "news_age": "66m ago",
+    "news_age": "68m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -71213,12 +71214,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.33,
+    "news_score": 0.36,
     "news_title": "New York Yankees Make Max Fried Announcement Before Dodgers Series - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNm83U28xa3dKdEtpVWVYNDhLTXlIYWw1aTUydmNYVnpnR2Roejd4OVQ3NktTWm9jZTVKUXBIR1VpeHFFNC1ZYlBpRGMtT3FWd1QwVVpPQW1hLTcxV2Y5LUtFMXRtUHpmdTBtUnEwTFZiTTJnY242YzV5ZFdUZkRUU2JfWjNCYTJJMnM0aw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -72094,7 +72095,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.71,
+    "news_score": 0.0,
     "news_title": "Casa Juventus arrives in Perth - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMHJqVUtldTRMYlFqN3dVMHBoNHNmY2twd3NhaV9zcjhVVmU1bG9DUGc0UWxHZ2VyN2luN2phUVliT280aEp0bGZOemtaYlhycmZnLUEzN1JKOWlPbDEtQ3ZGUmFDV0hqOElZS2JwdDV3Tk5TQnVGeUxPY3dwUUljWFlR?oc=5",
     "news_image": "",
@@ -72529,12 +72530,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.84,
+    "news_score": 0.83,
     "news_title": "Arsenal sign teenage Danish goalkeeper Damm - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOazlvMm9oU01YN0xNLTVVcmJJUGVqR2VFc1dCMXFoS0dadzdhdVBzT3IwdW9WTVQyV1UzMDM1elg4YWtaRklhZUpxQVI2dHZObzZFNFAwaVJrYTZ1U3JDS25DVjBXcG5RTExOVV9kYVpmbWh0bFkxU0tuQWxoQUdsN3JEN2pkaklRU1Nhd1FDdEQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "48m ago",
+    "news_age": "50m ago",
     "news_columns": [
       "lgbtq_rights",
       "gay_marriage",
@@ -73397,12 +73398,12 @@
     "news_source": "WLWT",
     "news_age": "10h ago",
     "news_columns": [
+      "cricket",
+      "olympic",
       "health",
       "life_expectancy",
       "doctors",
-      "beds",
-      "vaccination",
-      "infant_mortality"
+      "beds"
     ]
   },
   {
@@ -73417,19 +73418,17 @@
     "area": null,
     "gdp": null,
     "hdi": null,
-    "news_score": 1.38,
-    "news_title": "Trump Speech Live Updates: President Exaggerates Claims About Election Vulnerabilities - The New York Times",
-    "news_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yY3VReFRzQmFUcUVhU2hjaUZrN3ZVVXZWSEc5VGVScF9EbERoeTFyeGF3UVlGSUo0LVNlRk1zT2JoMkYtaFJmRzFydVlzQjdzNTc0dlFXbk81WGlrSzlVX0NLRmttcERya1NlQ1dFQzMyQQ?oc=5",
+    "news_score": 1.45,
+    "news_title": "World Cup rings for winners as Trump attendance confirmed - BBC",
+    "news_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KZDZLVk1mcTREVUt1cTRKcXI5VTJYN3Rod3pmRlk5ZVBZUWVvRElfOHh6YUEwbEVoa1J3UDliNUd2SXJpZ3p4V0s4ekhid0NRLXJzWVZXcFAwNzY4UmFraC04TXlLM1h1Smc?oc=5",
     "news_image": "",
-    "news_source": "The New York Times",
-    "news_age": "95m ago",
+    "news_source": "BBC",
+    "news_age": "69m ago",
     "news_columns": [
-      "democracy",
-      "approval",
-      "press",
-      "election_days",
-      "ai_research",
-      "internet_pct"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ]
   },
   {
@@ -73832,7 +73831,7 @@
     "area": null,
     "gdp": null,
     "hdi": null,
-    "news_score": 0.19,
+    "news_score": 0.18,
     "news_title": "Zelensky ousts popular defense minister, an architect of Ukraine’s drone program - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObzZQc0pQSWxFVUhpZ0V5TlR6dENhRFBsOFJnODNRblpweWNGNXYzaHpCS0FDV25PdjRMYUl0YWZLaFRscGtKNjRZUk83OGxVTUpvUDJqRHdwVWs3RmdLM010c3J2WVdCdGpVUTVqM2FZbGx4UE5MMUZfRmdPQll2czV4clZWSDZiZVQ0YXZYakdVX0x2ZENGUlRoR1FEa3E1SE5GY1lfM1BwZTBaT2hNZTNKTHNLdE9zeFpweXg4b2dMQQ?oc=5",
     "news_image": "",
