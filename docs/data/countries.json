@@ -1876,10 +1876,11 @@
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rT2l3d09UaVNMRldWNEpSWXp3NGVubEJTanRiNkEtTDJuRS1INUxmT09JOEh3WTVOOVFRMDJzdHM5MjViV1p3U1E3bGN0OUplSWV0ZzJxdDlXbUNGaGlpamJTZWpZV1JoNHl5QVVTMzFKZlN6R0hPWElDRUdhQdIBgwFBVV95cUxPNFpEUy1PajVnckhZMW10Q0Vsbm12LV8xOHVzbmI0OGRFOV9oZUxJWE1iR2ZndElINzl4aUlPb20wSTBFbVE5US1EOEZhdXFWX3hwSVN3SldZX185ekpybnY4UTZURVl0U3RRNWJlRVlhYjJLZ3F4YS1rZU03VUdoMUYzbw?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ]
   },
   {
@@ -5975,19 +5976,14 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 66,
     "fifa_w_rank": 86,
-    "news_score": 0.27,
+    "news_score": 0.53,
     "news_title": "Humberto Bettencourt, the man who coached Cabo Verde’s World Cup team: “None of this would have been possible without Olympic Solidarity\" - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOejVDaGhDQk5RdHB6Z0VSZHpEV21iUkdJTmtfUFdHYUkzVEdxcmtYeGNGdVZ6SkFVTHRqdXUxeWw4MnRjU1ptMk5INGlhQkQ3QmpIN0phelNvcVRveGZCSWZXMi1fTy00RU1SVjN6cXhBTVp6eTg3YzM4cENXLVg2S1ZVcy1VbC1HcnlCd3puNHk0T3pwck1wTlR2Vl9IOXpPcW9iV2k2dnlTeExF?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "23m ago",
+    "news_age": "25m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "olympic_gold",
-      "olympic_per_cap"
+      "olympic"
     ]
   },
   {
@@ -7816,19 +7812,19 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.78,
-    "news_title": "Xi Jinping sets out China’s goal to be global AI leader - Financial Times",
-    "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWpKaU03eUwzV3NNb1FzVnM2VlJsYjZnODdYMGhFVzBTZ1lqeEktRFZyZXpqbzljTWpiTHp6ZEt1NTd1M09OZkRJV2Izd0lTYmFCY3Z4U3U4TDFWTDZDWHRFWWFha2o0VDVIQnFzUmRxSU1ZWWtETU1hZ1N6VmQ4UG94S0g?oc=5",
+    "news_score": 0.67,
+    "news_title": "Xi pitches China as AI partner to developing world, warns against risks and security overreach - CNBC",
+    "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nRDNkN1V1YXJVaFcyT3dhc2FnN0Y4djN2d3Ffd0MxejdFWENWQjFiVV85cHJfWFRNOXd1RzlwTGFQRWMwWllRYTNaYWl1YU9zZGJMaEEtTVlnVGdENFVBMGxCaVdadEM5ZXJDTTNrM0N4SDNpX2pJQdIBfkFVX3lxTE9VTnBHZk1XYWZsVlpjUkNMYXkzOFE5Y2NMUXlZMUNCNzJXNmNlNnplT24yREstWlJ3RjM0OFo2M0NLSE93cTZOWmFKSTFLV1drbG9pMEtUOWFuWWlXNzJYMW9JajctTUQ0NTczN2Y0Q1VoWkhYMFY3OWdIY01ZQQ?oc=5",
     "news_image": "",
-    "news_source": "Financial Times",
-    "news_age": "3h ago",
+    "news_source": "CNBC",
+    "news_age": "4h ago",
     "news_columns": [
-      "democracy",
-      "approval",
-      "press",
-      "election_days",
-      "ai_research",
-      "internet_pct"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ]
   },
   {
@@ -10639,7 +10635,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLXBhUmhDbXJVbk5UT2J6N0JfTTRhV0E3NGYxdUtsSUtpNUNpWFY5czlNM0loakI1dlBNYWJ3RjFwYUktT1lnREc4U2xxaXh3VkZtVmlpclVCT3Q4UEstR0tXVlRhaXdkdnE1dEo2bEZqWDl4aWE2TE03Rl91TW9MNUxEem5QOE9qVEpSR0lGR3FSMU5jQTB4SlN1Ulp3Tno3djhrVUdpeU4xS2NhcGlBdTZ3bUFPVXI3SGhsS1RIQm5KZw?oc=5",
     "news_image": "",
     "news_source": "Ahram Online",
-    "news_age": "39h ago",
+    "news_age": "40h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -12639,7 +12635,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.8,
+    "news_score": 0.52,
     "news_title": "World Cup 2026 today: Live updates, news as England prep for third-place playoff against France - July 17 - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb0hqTHNPbGlYSHBMb3NNZ3pFUEpNXzY4aFJheE9XUzl0NnJYVGRwWEdXc2d0NDZlWEhySmdQUmd0Rng3ZzRXY3NtVE1vZFVqZEFCV25FZjdsVmU3Sk1IOFp4eFo0Y0xUOW5KSEZteFBnLXlpUnJEdnE0OVB5RW1OS3dhNnpZLTgtSFpxY1Q1aU9ETjFwZVB4SHVKR1RWc3JSbVpsRV9PTnFWZnBLek5VSTlqeFM2eWZ5em9mcVJvcG9hOFhYSEhBMlh3?oc=5",
     "news_image": "",
@@ -12647,7 +12643,11 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket",
+      "ai_research",
+      "internet_pct"
     ]
   },
   {
@@ -16290,7 +16290,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.43,
+    "news_score": 0.42,
     "news_title": "Index of Services Production: What Is It? How India's New Monthly Services Gauge Will Help Track the Econom - News18",
     "news_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR3ZyRUQ2eVFjVERuSTdDUm1TRkctS0RUMGVhWHp2cWs0eUFGY1hVUHllMnBoUERUZzM0YjFOUTA0TVpfZVd2cTJ0NzVMR2xBRncxbHJUX1JJZlZqMGVGWFVHS3pBNXpYeU8wV1luOUc3bTdsWVNDLUFTSEc0VDB5UHdKVV94dWxSSlBiMWZqSzFWQ0FDcFNma3NrRms1V2laY2J5eDZaNkFKbjNjZkpxYmpqN2ZzSllsZFRqMVFaOGl1Q0RZaUpGQXJsSUhSRzRtMUQwQWZvcWFBTjhwNjZsdE50T0NCdmNYV3gyYWhPTUZqZlFiVHpN0gH8AUFVX3lxTE9kT2ZIckUyeGNBTTRYUEFJN1JWc1NNaTU0b1FmdUp6UlVYZkQ4R0RFMkFXVi1XYTVrRmx6eFBfN2U0TE1WcEZ2dVJaT2FxNjl4WTlZeXRNeXljRmZsTWpaVUthYVNkMkFwTXF5aEFIODZOWGQ3aVZQcXBoVTBvZTliZ0Q3MjVYNXFLY2RGODlsNFlkVU9EYUwxX3VobU1EY3J6aTNEOXF5MHBfTkpSR3JGeVpaLXIwM1pNT09wajEwT1k4UzJ3TXVUWWphQnV3cDZkN1F2SDZ3dEZBWnhBZ0FMZ0VZQ1ZfX09ZeTF1NUc1X19XNnpHVzVRc1FHQQ?oc=5",
     "news_image": "",
@@ -16863,7 +16863,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGS2EteFNKR1VrbVVwZ0kwRkpWaVdCTFhwNWtISThhYnFnYzRPNTRCYWpaa3FGdDYzUWJmcmZfN1VhQWNuM2pSZ2l3WGVkTW1BeHM3b3ZkWW5UQQ?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "96m ago",
+    "news_age": "98m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -17582,7 +17582,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.27,
+    "news_score": 0.26,
     "news_title": "Türkiye and Israel go head-to-head in Europe’s new energy race - Al Majalla",
     "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZnZfLW1DVE5DN1kzM0JGNjh4QzJLQzZudXhmM2ZSb2dURUNwTzVmTmp4Q01qMDNWUzdoMXg2eTh0dWV1SzNQWVRrSEFHOWRkRWYwa29sMksyYlk4Nkh3YjRLNXhRQVUtTm5EMVZyN2lieFZnNzJrQmJHN01ObXBuTlNfZFdqTWY1SWJIbUpPaVpHaE14Vnp5ZlBrNlJraVlpYVUzMXFFNzF0SXhjdVZQXy1Jd0g5dTlQM2V5TkZB?oc=5",
     "news_image": "",
@@ -18697,7 +18697,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.31,
+    "news_score": 0.3,
     "news_title": "Japan revises law to ensure supply of (male) heirs to the imperial throne - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPay1PbnFHVmZHa2gtZ25rdklWekhfUlpzcE9GcEYxTi1FRnZOUHNpOFZQR2FUeEZaTFYxSFZnSXJxOFVqc3V3Zml3LUdFU2Z5NGNxZUhtcjNYNnhJUWpYSTkzbjJDWGxxWFB2Z3gzRVdlb1FnQkVVRWdiVXdaWldaN0FsZFRRcmJYaldKUkVOaWtVYXBCMGN2cm1YN1lOREpHaGVvb3RKWTIxcFBTQzRoRGF1aHU?oc=5",
     "news_image": "",
@@ -30331,7 +30331,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON2lXN3QtcHh4c2xRVG5qNGlQVmoxWk4tcENRbGtHUGtvaTd5VEVmaktjOGNRQkRuaWl6aUpVaVFqZ2NSS09QcWw1QWRNWEhLQ2t2Tm1uTmFxXzQyNGY2VElBYnp3ZjJRcDdwMWJ0TDVjNklFQ0l1VnhPeU5uYm1jbXNPa3NRc3dSZVczZC1DUmRsOFRsMklLclU2Tmo?oc=5",
     "news_image": "",
     "news_source": "Daily Tribune",
-    "news_age": "113m ago",
+    "news_age": "115m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -35571,15 +35571,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 3.42,
+    "news_score": 3.38,
     "news_title": "Watch FIFA World Cup: Argentina arrive in New Jersey ahead of Spain final - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rT2l3d09UaVNMRldWNEpSWXp3NGVubEJTanRiNkEtTDJuRS1INUxmT09JOEh3WTVOOVFRMDJzdHM5MjViV1p3U1E3bGN0OUplSWV0ZzJxdDlXbUNGaGlpamJTZWpZV1JoNHl5QVVTMzFKZlN6R0hPWElDRUdhQdIBgwFBVV95cUxPNFpEUy1PajVnckhZMW10Q0Vsbm12LV8xOHVzbmI0OGRFOV9oZUxJWE1iR2ZndElINzl4aUlPb20wSTBFbVE5US1EOEZhdXFWX3hwSVN3SldZX185ekpybnY4UTZURVl0U3RRNWJlRVlhYjJLZ3F4YS1rZU03VUdoMUYzbw?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ]
   },
   {
@@ -39011,7 +39012,7 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.27,
+    "news_score": 0.26,
     "news_title": "Türkiye and Israel go head-to-head in Europe’s new energy race - Al Majalla",
     "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZnZfLW1DVE5DN1kzM0JGNjh4QzJLQzZudXhmM2ZSb2dURUNwTzVmTmp4Q01qMDNWUzdoMXg2eTh0dWV1SzNQWVRrSEFHOWRkRWYwa29sMksyYlk4Nkh3YjRLNXhRQVUtTm5EMVZyN2lieFZnNzJrQmJHN01ObXBuTlNfZFdqTWY1SWJIbUpPaVpHaE14Vnp5ZlBrNlJraVlpYVUzMXFFNzF0SXhjdVZQXy1Jd0g5dTlQM2V5TkZB?oc=5",
     "news_image": "",
@@ -39964,12 +39965,12 @@
     "news_source": "The Washington Post",
     "news_age": "5h ago",
     "news_columns": [
-      "democracy",
-      "press",
-      "gpi",
-      "polit_kill",
       "military_pct",
-      "nuclear"
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ]
   },
   {
@@ -46500,12 +46501,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 1.65,
+    "news_score": 1.64,
     "news_title": "Messi is the best player at the World Cup, and the best male athlete of all time - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3VoSVR6d0szQkJPOWdlNEo5RW9WVlkwMXNvR2VzLWticlJjWTVnZEJ1cXotN0kzNC1jVkpEV0phTjV6M0pRWjNoV0xwbGNjQVk5aktMVWNOZUJVSzBJRExILUZIejdqRUx6bUV6ZnN1aUlhdWVqOU5XbGx1bExfM0dWcldzclFBc0R1MEhhRk9Ic3NUN0NQbnJuSnVzUXdPUlpINEt3?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -46721,7 +46722,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.0,
     "news_title": "SpaceX aborts Starship Flight 13 launch attempt - SpaceNews",
     "news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15SVdob3A5emotOElyVVJFWkhCd044NHNlS3RzRndsOWMwdy0wdnR5N2poc3NTWFUwbDBnNmFDRlh4MzFwdDNTNzBQSDBfZU51WHJzLWdDS2VIT3VNZXZsZkZ4VDZxMF8yN3l4OG5CNmcwd2pNcHZ4aFBB?oc=5",
     "news_image": "",
@@ -47598,7 +47599,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wMWdvM2ZpNnUwYWkzWjBudzVVNGxhQ2RNRWxoZzlfdXV3M0lwbnowei0yZ2lqaFJnTnJoeGgxa25GRjZPckJUWE5kdGZLMFNKc1k1TkRHc0QxalJNWUFha1djZThnb05hNVpzVk42MTlNdWVCZ3gtNmNnRk5PWTQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "46m ago"
+    "news_age": "48m ago"
   },
   {
     "flag": "XXFIFA_",
@@ -47808,12 +47809,12 @@
     "union_rate": null,
     "union_rate_rank": null,
     "fifa_ranking_rank": 1,
-    "news_score": 2.44,
+    "news_score": 2.37,
     "news_title": "FIFA introduces championship rings for World Cup winner - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQlBHdW9pR3AxTmdLWVAyNVVoT1FTbW84RTR2SHZabms1NEZ2SVJBOERoMnF5M09zVTB6dzB3bWFkZm5iZWVZT0hTdUlaNHBzd0NFNlRfenlVT2RPaTZYcnpJcThWczYyNVJGWlFDanAzcmotM1VyVEFtTzM0Z04zdTZ3Rm1YQWdIUnJhU1NsSUJvQVk?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "20m ago",
+    "news_age": "22m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -49562,12 +49563,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 1.16,
+    "news_score": 1.32,
     "news_title": "Humberto Bettencourt, the man who coached Cabo Verde’s World Cup team: “None of this would have been possible without Olympic Solidarity\" - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOejVDaGhDQk5RdHB6Z0VSZHpEV21iUkdJTmtfUFdHYUkzVEdxcmtYeGNGdVZ6SkFVTHRqdXUxeWw4MnRjU1ptMk5INGlhQkQ3QmpIN0phelNvcVRveGZCSWZXMi1fTy00RU1SVjN6cXhBTVp6eTg3YzM4cENXLVg2S1ZVcy1VbC1HcnlCd3puNHk0T3pwck1wTlR2Vl9IOXpPcW9iV2k2dnlTeExF?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "23m ago",
+    "news_age": "25m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -53178,12 +53179,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.73,
+    "news_score": 0.74,
     "news_title": "Netflix Stock Drops on Revenue Miss, Engagement Update - Barron's",
     "news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fSEw5bWh4Uk9hWV9BZEJUWnJ2OXdxR1hNbGZPVFhNdmd2UVg5SDQzLXptRVNnR0V1V0tya2JHV2VlREhSRUItdnZkVGlHOWk5aWd5SWJVdjVRd091cTJoWXNRczRvY01kbXZ1NkNCWTNpREhseVhyeHFn?oc=5",
     "news_image": "",
     "news_source": "Barron's",
-    "news_age": "64m ago",
+    "news_age": "66m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -58310,7 +58311,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.01,
+    "news_score": 0.0,
     "news_title": "'90 Day Fiancé' star breaks down in tears as he shares 'scary' update on daughter's medical emergency - Page Six",
     "news_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMEtoN2F5VlVBelFjMktfU045LTBfZzA4djMxZlFBUVQ2eUxPZ0VKMEdBRmVhaTE5cFdkN0R5a2UwV2pCNmR5YlRndDlBQnhjUFdrbjhZbGJOc21xUElVQVdSd2ZSTlBKTXhmZzR2ZUtkU090eUxJYTlzbmNpYmx2MHRkNWNpbFFUTmxBRjllaWZlQjNnQlRfOWlhSFRJWmxzZ3RfdlBRcWtvNkNtUW1XMFRxQVdESzdWbHprWmVPVjh5RXNFUWU3bW5pNjFoc3FCZ1JxLWxwTXRUR2s?oc=5",
     "news_image": "",
@@ -63090,7 +63091,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.15,
+    "news_score": 0.14,
     "news_title": "World Cup goal leaders: Pair of semifinal assists vault Lionel Messi ahead of Kylian Mbappé in Golden Boot race - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTmhwV3JZT0MxSFRmd0dWblVBN1N0WEVDQ2FQY0lONVM3dUhVcVBNdzk2MjVPbW82X0x6UTFZTkVudk42UjdiVzFpR3ZzQkV6eGZPZFM2SF83THM4Q1NkUldfNy1PaEFDMk1BR3NxRWUyMkJyTWtGMHdLLUQyQlFfbWJ6WVNGYXhYV0pvMU9wSHJ4OUJuMi1OYUExVks3ZDhXZTRJRzNlWG5yM3hFalVhdlhFMTZXbEx4VmZRbklQbHdYQk1yWm8wTDhwUWx4UGF4MUwxYmJ3WWxxbHJtOG5rNg?oc=5",
     "news_image": "",
@@ -71212,7 +71213,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.29,
+    "news_score": 0.33,
     "news_title": "New York Yankees Make Max Fried Announcement Before Dodgers Series - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNm83U28xa3dKdEtpVWVYNDhLTXlIYWw1aTUydmNYVnpnR2Roejd4OVQ3NktTWm9jZTVKUXBIR1VpeHFFNC1ZYlBpRGMtT3FWd1QwVVpPQW1hLTcxV2Y5LUtFMXRtUHpmdTBtUnEwTFZiTTJnY242YzV5ZFdUZkRUU2JfWjNCYTJJMnM0aw?oc=5",
     "news_image": "",
@@ -72098,7 +72099,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMHJqVUtldTRMYlFqN3dVMHBoNHNmY2twd3NhaV9zcjhVVmU1bG9DUGc0UWxHZ2VyN2luN2phUVliT280aEp0bGZOemtaYlhycmZnLUEzN1JKOWlPbDEtQ3ZGUmFDV0hqOElZS2JwdDV3Tk5TQnVGeUxPY3dwUUljWFlR?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "77m ago"
+    "news_age": "79m ago"
   },
   {
     "flag": "XX352BB",
@@ -72528,12 +72529,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.85,
+    "news_score": 0.84,
     "news_title": "Arsenal sign teenage Danish goalkeeper Damm - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOazlvMm9oU01YN0xNLTVVcmJJUGVqR2VFc1dCMXFoS0dadzdhdVBzT3IwdW9WTVQyV1UzMDM1elg4YWtaRklhZUpxQVI2dHZObzZFNFAwaVJrYTZ1U3JDS25DVjBXcG5RTExOVV9kYVpmbWh0bFkxU0tuQWxoQUdsN3JEN2pkaklRU1Nhd1FDdEQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
       "lgbtq_rights",
       "gay_marriage",
@@ -73416,12 +73417,12 @@
     "area": null,
     "gdp": null,
     "hdi": null,
-    "news_score": 1.43,
+    "news_score": 1.38,
     "news_title": "Trump Speech Live Updates: President Exaggerates Claims About Election Vulnerabilities - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yY3VReFRzQmFUcUVhU2hjaUZrN3ZVVXZWSEc5VGVScF9EbERoeTFyeGF3UVlGSUo0LVNlRk1zT2JoMkYtaFJmRzFydVlzQjdzNTc0dlFXbk81WGlrSzlVX0NLRmttcERya1NlQ1dFQzMyQQ?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "93m ago",
+    "news_age": "95m ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -73525,7 +73526,7 @@
     "area": null,
     "gdp": null,
     "hdi": null,
-    "news_score": 0.44,
+    "news_score": 0.0,
     "news_title": "Xi Jinping sets out China’s goal to be global AI leader - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWpKaU03eUwzV3NNb1FzVnM2VlJsYjZnODdYMGhFVzBTZ1lqeEktRFZyZXpqbzljTWpiTHp6ZEt1NTd1M09OZkRJV2Izd0lTYmFCY3Z4U3U4TDFWTDZDWHRFWWFha2o0VDVIQnFzUmRxSU1ZWWtETU1hZ1N6VmQ4UG94S0g?oc=5",
     "news_image": "",
@@ -73838,12 +73839,12 @@
     "news_source": "The Washington Post",
     "news_age": "5h ago",
     "news_columns": [
-      "democracy",
-      "press",
-      "gpi",
-      "polit_kill",
       "military_pct",
-      "nuclear"
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ]
   },
   {
