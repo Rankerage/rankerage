@@ -301,14 +301,26 @@
     }
 
     // ── Load data ──
-    const [rawResp, worldResp, histResp] = await Promise.all([
+    const [rawResp, worldResp] = await Promise.all([
         fetch('data/countries.json'),
-        fetch('data/world-110m.json'),
-        fetch('data/history.json').catch(() => ({ json: () => Promise.resolve({}) }))
+        fetch('data/world-110m.json')
     ]);
     const rawData = await rawResp.json();
     const worldTopo = await worldResp.json();
-    const historyData = await histResp.json();
+
+    // Lazy-load history data (12MB — defer until first country click)
+    let historyData = null;
+    let historyPromise = null;
+    async function ensureHistory() {
+        if (historyData) return historyData;
+        if (!historyPromise) {
+            historyPromise = fetch('data/history.json')
+                .then(r => r.json())
+                .catch(() => ({}));
+        }
+        historyData = await historyPromise;
+        return historyData;
+    }
 
     // Separate entity types
     const isEntity = d => {
@@ -785,6 +797,7 @@
     // ── Info Panel ──
     // Get available history indicators for a country
     function getHistoryIndicators(countryCode) {
+        if (!historyData) return [];
         const cc = countryCode.toUpperCase();
         const available = [];
         for (const [indicator, data] of Object.entries(historyData)) {
@@ -797,6 +810,7 @@
 
     // Get time-series data for country+indicator
     function getTimeSeries(countryCode, indicator) {
+        if (!historyData) return [];
         const cc = countryCode.toUpperCase();
         const raw = historyData[indicator]?.[cc];
         if (!raw) return [];
@@ -848,14 +862,16 @@
         students_per_teacher: 'Students/Teacher',
     };
 
-    function showInfoPanel(d, event) {
+    async function showInfoPanel(d, event) {
         const panel = document.getElementById('info-panel');
         const typeLabel = d.etype === 'company' ? '🏢 Company' :
                           d.etype === 'individual' ? '⭐ Person' :
                           d.etype === 'org' ? '🏟️ Organization' : '🌍 Country';
 
         let chartHtml = '';
-        if (d.etype === 'country' && d.country_code && Object.keys(historyData).length > 0) {
+        if (d.etype === 'country' && d.country_code) {
+            // Lazy-load history on first country click
+            const hd = await ensureHistory();
             const availableIndicators = getHistoryIndicators(d.country_code);
             if (availableIndicators.length > 0) {
                 // Pick default indicator: prefer population, then gdp, then first available
