@@ -18,17 +18,19 @@ print(f"Total entries: {len(data)}")
 for i, c in enumerate(data):
     name = c.get('country_name_en', f'Entry {i}')
     code = c.get('country_code', '')
+    is_entity = name.startswith('*')
     
-    # Check required fields
+    # Check required fields (entities don't need flag — use icon in formatter)
     for field in REQUIRED:
+        if field == 'flag' and is_entity:
+            continue  # entities use category icons, not flags
         if field not in c or not c[field]:
             print(f'  ❌ {name}: missing {field}')
             errors += 1
     
-    # Check duplicate codes
+    # Check duplicate codes (warning only — entities may share codes across categories)
     if code in codes:
-        print(f'  ❌ {name}: duplicate country_code {code}')
-        errors += 1
+        print(f'  ⚠️ {name}: duplicate country_code {code}')
     codes.add(code)
     
     # Check entity prefix consistency
