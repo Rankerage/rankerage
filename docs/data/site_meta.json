@@ -1,1 +1,66 @@
-{"last_updated": "2026-07-14", "total_rankings": 339, "total_countries": 230, "version": "1.0", "update_frequency": "weekly", "global_narrative": "The 2026 FIFA World Cup dominates global headlines, with Argentina's semifinal win over England sparking political controversy over the Falkland Islands flag, while the final between Argentina and Spain approaches, and the tournament's economic and cultural impacts are felt worldwide.", "trending_stories": [{"topic": "2026 FIFA World Cup Semifinals and Final", "entities": ["AR", "GB", "ES", "FR", "FIFA"], "columns": ["fifa_ranking", "fifa_w"], "weight": 0.9}, {"topic": "Falkland Islands Flag Controversy", "entities": ["AR", "GB", "FIFA"], "columns": ["fifa_ranking"], "weight": 0.7}, {"topic": "World Cup Economic and Cultural Impact", "entities": ["US", "GB", "AR"], "columns": [], "weight": 0.5}, {"topic": "England's World Cup Exit and Tuchel Criticism", "entities": ["GB", "DE"], "columns": ["fifa_ranking"], "weight": 0.6}, {"topic": "US Domestic Sports (NFL, NBA, MLB) Offseason News", "entities": ["US"], "columns": [], "weight": 0.4}]}
+{
+  "last_updated": "2026-07-20T10:33:54Z",
+  "total_rankings": 135,
+  "total_countries": 1196,
+  "version": "1.0",
+  "update_frequency": "weekly",
+  "global_narrative": "The 2026 FIFA World Cup dominates global headlines, with Argentina's semifinal win over England sparking political controversy over the Falkland Islands flag, while the final between Argentina and Spain approaches, and the tournament's economic and cultural impacts are felt worldwide.",
+  "trending_stories": [
+    {
+      "topic": "2026 FIFA World Cup Semifinals and Final",
+      "entities": [
+        "AR",
+        "GB",
+        "ES",
+        "FR",
+        "FIFA"
+      ],
+      "columns": [
+        "fifa_ranking",
+        "fifa_w"
+      ],
+      "weight": 0.9
+    },
+    {
+      "topic": "Falkland Islands Flag Controversy",
+      "entities": [
+        "AR",
+        "GB",
+        "FIFA"
+      ],
+      "columns": [
+        "fifa_ranking"
+      ],
+      "weight": 0.7
+    },
+    {
+      "topic": "World Cup Economic and Cultural Impact",
+      "entities": [
+        "US",
+        "GB",
+        "AR"
+      ],
+      "columns": [],
+      "weight": 0.5
+    },
+    {
+      "topic": "England's World Cup Exit and Tuchel Criticism",
+      "entities": [
+        "GB",
+        "DE"
+      ],
+      "columns": [
+        "fifa_ranking"
+      ],
+      "weight": 0.6
+    },
+    {
+      "topic": "US Domestic Sports (NFL, NBA, MLB) Offseason News",
+      "entities": [
+        "US"
+      ],
+      "columns": [],
+      "weight": 0.4
+    }
+  ]
+}
