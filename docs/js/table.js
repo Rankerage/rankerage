@@ -385,6 +385,9 @@
     table.on('dataLoaded', scheduleColspans);
     table.on('dataSorted', scheduleColspans);
     table.on('columnResized', scheduleColspans);
+    // Fallback: ensure colspans apply even if events fire before DOM ready
+    setTimeout(applyColspans, 200);
+    setTimeout(applyColspans, 800);
 
     // 기존 컬럼 순서 복원 (검색빈도 반영은 applyColumnOrder에서)
 
