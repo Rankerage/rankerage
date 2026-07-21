@@ -316,14 +316,9 @@
     }
 
     // ── Colspan Engine: merge cells across columns using real widths ──
-    // AdSense를 표의 합친셀(colspan) 안에만 배치 — Google In-feed 광고 정책 준수
+    // AdSense: 6열 합친 영역에 딱 3개 행만 광고 배치 (Google 정책 준수)
     var MERGE_GROUPS = [
-      // Ad slot 1: 6개 열 합치기 (unemp~poverty 영역) — 반응형 in-feed 네이티브 광고
-      {startField:'unemp', count:6, title:'📢', id:'ad1'},
-      // Ad slot 2: 6개 열 합치기 (nuclear~tourism 영역) 
-      {startField:'nuclear', count:6, title:'📢', id:'ad2'},
-      // Ad slot 3: 6개 열 합치기 (divorce~religion_div 영역) — 하단 스크롤 시 노출
-      {startField:'divorce', count:6, title:'📢', id:'ad3'},
+      {startField:'unemp', count:6, title:'📢', id:'ad1', adRows:[5,12,19]},
     ];
     function applyColspans() {
       var rows = table.getRows();
@@ -339,7 +334,9 @@
         for (var j = startIdx; j < startIdx + grp.count && j < cols.length; j++) {
           mergeW += cols[j].getWidth();
         }
-        rows.forEach(function(row) {
+        rows.forEach(function(row, rowIdx) {
+          // 광고 그룹: 지정된 행에만 적용
+          if (grp.adRows && grp.adRows.indexOf(rowIdx) === -1) return;
           var cells = row.getCells();
           if (cells.length <= startIdx) return;
           var first = cells[startIdx].getElement();
