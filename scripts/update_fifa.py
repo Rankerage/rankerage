@@ -13,7 +13,7 @@ import re
 import os
 import time
 
-DATA_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'public', 'data', 'countries.json')
+DATA_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'docs', 'data', 'countries.json')
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',

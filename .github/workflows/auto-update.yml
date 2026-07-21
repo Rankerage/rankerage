@@ -1,8 +1,8 @@
-name: 🤖 Weekly Data Refresh
+name: 🤖 Monthly Data Refresh (Backup)
 
 on:
   schedule:
-    - cron: '0 0 * * 1'
+    - cron: '0 0 1 * *'
   workflow_dispatch:
 
 jobs:
