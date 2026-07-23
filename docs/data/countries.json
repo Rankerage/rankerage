@@ -6809,10 +6809,11 @@
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDhmay0xSHk0M2VaX1BlclZVQkNTOXFaNXVmZDNPMUZmUzQtaTUzLVA3V1E5WXlUUERtZnl0VzBhZ25OWHppMkdTUm9nUjEwZzVIemY1QS10Zko5NTJjQkdQNDllYWI5OHlZMTA3N2pzcUVOeFY0SXpZMXNaTWExWkNXRDFxVXJoSXI0MG9xZw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "44m ago",
+    "news_age": "46m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ]
   },
   {
@@ -9537,7 +9538,7 @@
     "union_rate": 64.6,
     "union_rate_rank": null,
     "fifa_w_rank": 77,
-    "news_score": 0.23,
+    "news_score": 0.22,
     "news_title": "Ebola death toll in the Democratic Republic of the Congo surges above 1,000 - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa1ZXWjVfU1V0VlBTd2VURWgxVHVlNlRHWkVqWmFVZDNzQ1ZLdVIwYTFhd1R1dmJneklGSGFybkdSYktsbVgzNWxhX0RWVGlxdkpYYnA2U2ZDeFMweUs2WktnbFYwckhKN3NQallPYnhBSDBFNjI5MTJnTWFVcVRnbjNKWElxN2ZFbDJzbmlVUTU1aU1zcTlz0gGcAUFVX3lxTE5xR3A2TVdQZmVqSVZEY043UlBPb2ZaaTNYYnRIWklZeVppQzhReGNaZmROQ0JsaHpFd0VkMmpZQ1RjNjF0R2h5WG13TWQ2aTJNUW5GeUhGb002T01RczRvN2RhZTJTSDQwZ3NYVVk1SlVOSFYzekE4RVM0VTZON1R4REJ6ZTRKeWtoU3RyRUQxVzhBelQxNVBlQVRRUQ?oc=5",
     "news_image": "",
@@ -12708,8 +12709,7 @@
     "news_age": "2737h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ]
   },
   {
@@ -16419,7 +16419,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.03,
     "news_title": "India’s trade deals will matter more than ever amid uncertainties - Deloitte",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbVNEUF9teW9VSlNOTVBOOXNjbVkybkFnOTVDNkljbWpGTld4Z1BhS243VUhJcHJqMjh3UWJDRkQwYlhTam9fMzQwTTRuejFnMlJrUjNteUVmZE5LeUc4ODVPRHhFYVlQNGU4S3RwX1dKc01XTTB4VTR0STVNbVVMN0F5WndKRnNiSlpUcUlCV2pIY2ZiVUdBb09XMA?oc=5",
     "news_image": "",
@@ -16991,12 +16991,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.59,
-    "news_title": "Iran War Updates: U.S. carries out 12th straight night of strikes as threats to oil trade deepen - CBS News",
-    "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnFoblVaeW56TWFYUWE1SGl5N0RtX2t1S25oOFprWVlLZjFPa0Nmdm5hWjdzcmNpTGJCejk5OUxnMF9Pbnh0SklXc3BRYlktaVR2cS1Mbk1FNVVhak5QakV0UEh2VXF5UEFJQ2ppWXZ1Um9FX2lYSEpiaUEtT3dFaEQ2N3lRdTRLSjZRTnZGWk1PUk1tWHUwOVdVZjc?oc=5",
+    "news_score": 1.81,
+    "news_title": "Iran Ready to Expand Technology Cooperation with Pakistan: Science Minister - iranpress.com",
+    "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS3JaQmIxZWNndGN2V0hON2Z3NGtYR2lOa2xlUVA5ME1ONmVYRXljSGw1dU5icFZqNlVGN1dxUHpXYnJxeGdpMXFWTnZFNS1RZjQ0azVWeHAtY0R2d0kxenNycTFONjNUaGlIZENpMENTVldfUFZadVRoNWM3SnFfZWVuMURld2VLaVVZal9vRXNuamFCc2lhbmhOLUFFWGR4RXpEYVpHZnB3NGRx?oc=5",
     "news_image": "",
-    "news_source": "CBS News",
-    "news_age": "49m ago",
+    "news_source": "iranpress.com",
+    "news_age": "2m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -18164,7 +18164,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.32,
+    "news_score": 0.43,
     "news_title": "All 23 World Cups ranked: Ronaldo’s redemption, Maradona’s mastery and underdogs Italy - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNHltYmhvbnJBQ3Z2UExfS0huUGduZGczZVRYUjgzYjBpVGtleTZ2cGh3LXVaNEpiVWptUURQUlF0b1hVQ1dTYWJ5S0NBSTdMUlY2NDJtbC03RHNRcm13M3Btcmx6XzdReUUzUU92anFVOHJ0eEk2WUNEOC13MWt2SlYwelFUMG5TOTdlQlJ2RWt5WkphSXhV?oc=5",
     "news_image": "",
@@ -18172,9 +18172,7 @@
     "news_age": "4h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "fifa_w"
     ]
   },
   {
@@ -24208,10 +24206,11 @@
     "news_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY2ZHRE1JTVlqZTJMZ1FLbXI0ZjZnZWhJT1BwOXk1WFFKNVM0UjNjaG41MnY0dTMtWWxRTFZqUm4zVEdiekxXSkhOSnhOVE1CbFd2WlcxODl6U2hzdUJybUdUZXBJekdzNDdtMVZmXzNPZmFnZWdiWnVSWFY1RkFHNU5mUjZfcnVqbDRkY0lwU0Q4ZUdncFhvNDhzYmFuMVVYb1pCbVBwOGtoOERHSVRUZ3NoaGUwYjEwN2VLLXdTZndGTnBEMTRQREVBUHMxd0RfNHE5ZnlUVVc?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "82m ago",
+    "news_age": "84m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ]
   },
   {
@@ -29231,12 +29230,12 @@
     "union_rate": 54.7,
     "union_rate_rank": null,
     "fifa_w_rank": 104,
-    "news_score": 0.0,
-    "news_title": "Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says - CNBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdUZmU0NNWkJ4dWdsLVV3LVZBMzFkTjh2cTBFZmNRRDVHczFkZHJVdWFmWFMxMUZ2N3ZlczFUbHBtSGk1QXdTTGVXTFZPVlF0cmh5RUlJbUdTM0FMYmxTUjNxQURpaGk1QlZEWWxkaER1LUhKNFNzSTFwRFljX25nYnh3UGp0MkEx0gGOAUFVX3lxTE5PNnJudUJ5aUFST0EyYy1vX3FWVnhZWE9DRXRCS0VRenhhQ1pXMWRuMFhIb0ZHSktjOHI0ZnV3azMyRVBjVkRxbktYY3k4dWhueUFncmd2MzE0YU1tVnQtVlRRNFcwSnE5alpmRnR6dkRyd3BvS3FiQmY1RFhuUzVFTk13RHczT1FtUUhmM0E?oc=5",
+    "news_score": 0.3,
+    "news_title": "Iran Ready to Expand Technology Cooperation with Pakistan: Science Minister - iranpress.com",
+    "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS3JaQmIxZWNndGN2V0hON2Z3NGtYR2lOa2xlUVA5ME1ONmVYRXljSGw1dU5icFZqNlVGN1dxUHpXYnJxeGdpMXFWTnZFNS1RZjQ0azVWeHAtY0R2d0kxenNycTFONjNUaGlIZENpMENTVldfUFZadVRoNWM3SnFfZWVuMURld2VLaVVZal9vRXNuamFCc2lhbmhOLUFFWGR4RXpEYVpHZnB3NGRx?oc=5",
     "news_image": "",
-    "news_source": "CNBC",
-    "news_age": "3h ago",
+    "news_source": "iranpress.com",
+    "news_age": "2m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -35893,10 +35892,11 @@
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTM3TlRta1R4ZmpDaDE0WkljS1haSk1iNnVMdjQ5X1hGZW9DRzh1UHMwQ0pxdjdiaUZIQkR0amljS0FuR1NfVnpXYkZnOFM0YTF4b1NlbG1IVXdGRmUwYW1TWGszVC1rNXlGWVJSWXhxb0h3bUFIck9TeVNaMTlSa0JzWk4?oc=5",
     "news_image": "",
     "news_source": "Fortune",
-    "news_age": "83m ago",
+    "news_age": "85m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ]
   },
   {
@@ -40322,7 +40322,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNWREMUJlWDJUVWVqSkVDWlk2MEcxbE9xdVBubkFYNEw0czVhci1EemZjTUEycTFvNmctNDRqX2hBbDFYSG1HOFdyX2FvNktpYllNYmZBMnQzMUtxcjFqWF91OHRZeGRyTXIxdk9IRldPZFBXdVFWSUdMNktBcTZIelFiLXVSWl9jLVFjSUo4clVTV2RWcllxOGN5bzBUX3A5S19YTQ?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "94m ago",
+    "news_age": "96m ago",
     "news_columns": [
       "democracy",
       "press",
@@ -41568,7 +41568,8 @@
     "news_age": "24h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ]
   },
   {
@@ -43288,7 +43289,7 @@
     "union_rate": 34.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 127,
-    "news_score": 0.42,
+    "news_score": 0.53,
     "news_title": "Yemen’s Houthis claim attack on two Saudi oil tankers - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkQ3bDFHdEZrQjNEQmtHZkRSUk1Ydnp4YXNDbHF2V0lDSkFmaEVrcmcxd3NPNVU5aXA3TnlWSFF0LW54cXBMcDcyS3ptOXlLaEl2ZVBITjN0T0Vra2llVjNBZUFTY0Z1N0FXQ0RNSnR1ZGI2MHN1bXJqdUZsdWxLNXA2dWdXVnhBejZYZEgzZnJwb2R3TTFTbdIBngFBVV95cUxQX2piN0J0Q2YwOUcyOTZBc2lFdkJpR3Q4SGJwMjhmVHlvZzJjM0pKUzgzWWZwMzRDdXhQWGRveG9NTTFwT1ZHX1ozYTdWcmlfa2J4STdFWXhuQ0U0azRaVEdIcDV3elJnRklrYWNUOHV2Z3ZrWDBEVC1DY3ZqWGRWTXpzYTJZNlZGWVlpaDIxb1R3ZFd5clItcE1VMDYtUQ?oc=5",
     "news_image": "",
@@ -44266,7 +44267,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.35,
+    "news_score": 0.34,
     "news_title": "The fight for the future of foldable phones is here - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUozdXlIc09nWThHZ0hteHZ2TlRHM05RTXdSWjdpdUZxWHlYeC14cjJrSFcxVmtpQ255akpXYl9oREdDbDB2X0JHN0hjNVItTmkxNzN3Uk5zOVc1SHNsTXhHODBlSW1yc205VXI2Q2R0aXZGV3BtOTgxRkVHV1htSzF2cXFZaFo0TzRkbnkwYw?oc=5",
     "news_image": "",
@@ -44485,7 +44486,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.38,
+    "news_score": 0.39,
     "news_title": "Alphabet Inc (GOOG) Q2 2026 Earnings Call Highlights: Record Revenue Growth and AI Innovations ... - Yahoo Finance",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSC1Cel91YWt3aWJFRi1BdFF2OUNSU24za19HeENCeFNXeTgzZVoyWjI2bi1PSWIteHloeS1fMUlkbDFSV2ZmZ1RUek1keUt1bEFzM0tuc0I5SXRNaDNraVpJRDJ0MkRkbnRENTdyS3ZNcTdla2pQU3BQMGJURlhUQjNmUk5LM1hrakJrWFZnYllXdWc?oc=5",
     "news_image": "",
@@ -46682,12 +46683,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.82,
+    "news_score": 0.83,
     "news_title": "LeBron James Camp Shuts Down Free Agency Theory: ‘No!’ - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObXd4VXlqT3hkS3hIX1UtRnZrWV9Zc2J5S0JhLWtiU2RsVFZXSVByNGpBUzlsZHZmbzFJMllZTTczMXRRSFBhYWN0ZEtLTldtRERJYnVsV0c0eHNHQXFMdGJqbDRSRHd4QXYzTWV6Zm5ESzBRdHNRSjZCQmZIWWZqcnUwQQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "41m ago",
+    "news_age": "43m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -48220,7 +48221,7 @@
     "union_rate": null,
     "union_rate_rank": null,
     "fifa_ranking_rank": 1,
-    "news_score": 0.45,
+    "news_score": 0.44,
     "news_title": "Atlanta leaders call FIFA World Cup public safety operations a success - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVmdKTzFFekFjand0c3pibzBFc1NrRXdsNkpCcDF2SzJDWHhsc1VaRHE1R0ZIeS10enhpV0U2NmhtNElkeVRDSFNzLWdaTHpRYV91SEVhdkhvM3V6VEFSbU9vZmEtQjVsUXhrcHZINU9LNDdZcFhmdXEzNEZVNUpCMlJ3YzNlQ1VxU2Y2NVhzRm5rYWhJeDBNMzM4b3FqMUhVOEpYeFhzeThKdkpD?oc=5",
     "news_image": "",
@@ -49541,7 +49542,7 @@
     "union_rate": null,
     "union_rate_rank": null,
     "fifa_ranking_rank": 3,
-    "news_score": 0.36,
+    "news_score": 0.35,
     "news_title": "Fulham reportedly linked with move for Real Madrid striker - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ1k1ODFnbDRKN3lpdXQ5bF9EN19razBYMmQ1TlpWbFZRWW9TVkZ5WDBnT19sOVRLWVF6OHV0NXh4QzhRMFFzS191TFMwZTZIUW90MXZ4dTcteFg2d2dRWVUzYlVLb19vNHE2U1RKVmd4ZlFNNEZScTZmVG1rM0Mwb0ZPTk1VYUJmOTlB?oc=5",
     "news_image": "",
@@ -49975,7 +49976,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.48,
+    "news_score": 0.34,
     "news_title": "World Cup 2030 (very early) power rankings: who will challenge Spain at top? - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVV9PZnplX3QtaVJXN1RmUVktdVdNRUwxRm5zRkhqMkFPTnI0OFlDdVNKWHR6NnVUMGVlNmhCY0RROWdkTGltcElCVHdIVkt1bnNTVnpReGN5eFdqUTBqSnY5clFTelFsNDhoNVNjbURRWnV2VnZQdXdtQl9PMElpemIxNm9NUHVkZlBjRk12YlVzQkk?oc=5",
     "news_image": "",
@@ -59924,19 +59925,16 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.56,
-    "news_title": "Yemen’s Houthis claim attack on two Saudi oil tankers - Al Jazeera",
-    "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkQ3bDFHdEZrQjNEQmtHZkRSUk1Ydnp4YXNDbHF2V0lDSkFmaEVrcmcxd3NPNVU5aXA3TnlWSFF0LW54cXBMcDcyS3ptOXlLaEl2ZVBITjN0T0Vra2llVjNBZUFTY0Z1N0FXQ0RNSnR1ZGI2MHN1bXJqdUZsdWxLNXA2dWdXVnhBejZYZEgzZnJwb2R3TTFTbdIBngFBVV95cUxQX2piN0J0Q2YwOUcyOTZBc2lFdkJpR3Q4SGJwMjhmVHlvZzJjM0pKUzgzWWZwMzRDdXhQWGRveG9NTTFwT1ZHX1ozYTdWcmlfa2J4STdFWXhuQ0U0azRaVEdIcDV3elJnRklrYWNUOHV2Z3ZrWDBEVC1DY3ZqWGRWTXpzYTJZNlZGWVlpaDIxb1R3ZFd5clItcE1VMDYtUQ?oc=5",
+    "news_score": 0.5,
+    "news_title": "The fight for the future of foldable phones is here - NBC News",
+    "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUozdXlIc09nWThHZ0hteHZ2TlRHM05RTXdSWjdpdUZxWHlYeC14cjJrSFcxVmtpQ255akpXYl9oREdDbDB2X0JHN0hjNVItTmkxNzN3Uk5zOVc1SHNsTXhHODBlSW1yc205VXI2Q2R0aXZGV3BtOTgxRkVHV1htSzF2cXFZaFo0TzRkbnkwYw?oc=5",
     "news_image": "",
-    "news_source": "Al Jazeera",
+    "news_source": "NBC News",
     "news_age": "3h ago",
     "news_columns": [
+      "car_density",
       "gas_price",
-      "energy_per_capita",
-      "co2",
-      "renew",
-      "exports",
-      "military_pct"
+      "co2"
     ]
   },
   {
@@ -61432,12 +61430,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.82,
+    "news_score": 0.83,
     "news_title": "LeBron James Camp Shuts Down Free Agency Theory: ‘No!’ - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObXd4VXlqT3hkS3hIX1UtRnZrWV9Zc2J5S0JhLWtiU2RsVFZXSVByNGpBUzlsZHZmbzFJMllZTTczMXRRSFBhYWN0ZEtLTldtRERJYnVsV0c0eHNHQXFMdGJqbDRSRHd4QXYzTWV6Zm5ESzBRdHNRSjZCQmZIWWZqcnUwQQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "41m ago",
+    "news_age": "43m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -72285,7 +72283,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTDNVaXlsckhicW1lM1MwV2dSNE0xbk54TW9RRDd6OHE1eEN0Sjk3bkxxWV9sNWZPMzluTkR3eVNwWjJSQ2tlemNhRHFWelFOSXdDWFpwRS1EUUVoYmV2UFhFc0VnMGRRUm9OMFlYOVpXZ2NCOHRUeUZRc0phZlFYOVdQd3FzbC1yMG5EbFE0TXMxRWNMOVE?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "90m ago",
+    "news_age": "92m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -73158,12 +73156,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 1.19,
-    "news_title": "Roles Reversed as Newcastle Contacts Arsenal Over Bruno Guimaraes Transfer - Yahoo Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN25mVnptQVYzd0dBUDhTUGlmLU5mVTdFLV83VEF2SC0zaUtzSnFGZlFxZ0x0TUNYTUNlb2J2cTRVVjZqWkRKTXBvLU9teGkxQ2FQVVJjZUItYXdtZEZKaWRpZFdaQU40S3RGZ3ByUTF5VWxENkF4alJJOENwYXdsUThxRXFUMDd5cDZxTlVlY0s1VFNY?oc=5",
+    "news_score": 1.37,
+    "news_title": "Arsenal confirm William Saliba injury update - Yahoo Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdkdmLXRhQTVtRDgwVTZHWjFSc25ERjFSTFhZLWJpUHVaVkNMVjRWbnd4OTVYcmpfT0VKU2hnR0dRNEpFc3AtdjZhOEFXR0VyR21XZndTUWJKT2lvNmRhLWtNM2Q0ZEJCQ2JCME5sRE1MVmtNOGZibC1IZENMSlBlUUFZWm53Z3FkUlMwYWJOUQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "18m ago",
+    "news_age": "15m ago",
     "news_columns": [
       "lgbtq_rights",
       "gay_marriage",
@@ -74059,18 +74057,15 @@
     "area": null,
     "gdp": null,
     "hdi": null,
-    "news_score": 1.08,
-    "news_title": "Iran War Updates: U.S. carries out 12th straight night of strikes as threats to oil trade deepen - CBS News",
-    "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnFoblVaeW56TWFYUWE1SGl5N0RtX2t1S25oOFprWVlLZjFPa0Nmdm5hWjdzcmNpTGJCejk5OUxnMF9Pbnh0SklXc3BRYlktaVR2cS1Mbk1FNVVhak5QakV0UEh2VXF5UEFJQ2ppWXZ1Um9FX2lYSEpiaUEtT3dFaEQ2N3lRdTRLSjZRTnZGWk1PUk1tWHUwOVdVZjc?oc=5",
+    "news_score": 0.93,
+    "news_title": "U.S. signs nuclear deal with Saudi Arabia that gives it path to enriching fuel - The Washington Post",
+    "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeHgya3BPS203QXhIQVVkOV9JNmZpQ2M4eG1jSjJJZkk2UXY3eV8wVEhKZUZhd3o2TFJJaExWNWVTSUkyTi1QMTBSTkhGTGdTdXhGVEdVbnB0VzFqRzA5Y1JzMDJiNGROU2Q2VktGc2w4T3hoY0M0U3lVY3IybzFsUVdZUTF3aUtsUC1RRFRHcWVYZDV0OW9Yc2psMnctTmw4cU5NTV9weUMxRlBR?oc=5",
     "news_image": "",
-    "news_source": "CBS News",
-    "news_age": "49m ago",
+    "news_source": "The Washington Post",
+    "news_age": "3h ago",
     "news_columns": [
-      "gas_price",
-      "energy_per_capita",
-      "co2",
-      "renew",
-      "exports",
+      "nuclear",
+      "nuclear_power",
       "military_pct"
     ]
   },
@@ -74491,7 +74486,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNWREMUJlWDJUVWVqSkVDWlk2MEcxbE9xdVBubkFYNEw0czVhci1EemZjTUEycTFvNmctNDRqX2hBbDFYSG1HOFdyX2FvNktpYllNYmZBMnQzMUtxcjFqWF91OHRZeGRyTXIxdk9IRldPZFBXdVFWSUdMNktBcTZIelFiLXVSWl9jLVFjSUo4clVTV2RWcllxOGN5bzBUX3A5S19YTQ?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "94m ago",
+    "news_age": "96m ago",
     "news_columns": [
       "democracy",
       "press",
@@ -81652,7 +81647,7 @@
     "cpi": null,
     "lat": 40,
     "lon": -3,
-    "news_score": 0.2,
+    "news_score": 0.14,
     "news_title": "World Cup glory sees Fabián Ruiz and Gavi gifted their weight in tomatoes - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFk2OXBvZzIwZEFfVTJsd00xWmw4dWc2cm5WLUZSejBIeDZybHl1cVJRcm1mRmdYeXBWc19ITjlodEJYeFQxX1o1dkhjNnFfaWlIT3EtYUd6RFJXZi1lejc0SU02M3cxYjczVmhTeVhvLUlQay0ySDNsNXdaLWg2SDZ2Wk15NDdrOHhEc1d2TFdEVTBScEhFeF9EWl95R3JScGpLb191N3RjX2VZazY2emlHNHg?oc=5",
     "news_image": "",
@@ -81810,12 +81805,12 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.62,
+    "news_score": 0.68,
     "news_title": "Ben Rice reemerges in Hitter Power Rankings after June slump - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX2NKYUtkOE5ILUtDZmttZjJSbFFUTmRuTWI5UjBfTUdlZWZ5UU1zT1R0NEJZMUNXZDVfUlZaOEdDcThDaEdDdEEzQjRMN1pVcExuMWFCYVZRWUZqUzVUejU3TnkyOGFyYjB1VDIwNkdLalB5bGNMandhUmFXdUN1eVVfQ2I5WVE?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "47m ago",
+    "news_age": "49m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -83765,12 +83760,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.95,
+    "news_score": 0.94,
     "news_title": "Man fatally shot by police officer in Madison, prompting protest in city - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU1l4QkFYNjdJRXg0aHB4QS02RUpoOHJPdW16ZzRKMmdBNDQzOWw5aU40dklKdnRiTTl1cEpZRVFpSV9Fb3U2em5ZeEpWemc4VS1XU2p1TFBDT09aN0poMXVfTFdETVNsNnNNZGtKOW0wSGtqN1l0cWgxRXJJYzBPSlVqU28yR3dMNTIzNWNVa2dXOVNQTmhzNEtyYUJqYUF1VzFULU1INFkxZllUeVgzd2I4WVdZQQ?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "88m ago",
+    "news_age": "90m ago",
     "news_columns": [
       "democracy",
       "press",
@@ -84685,12 +84680,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.79,
+    "news_score": 0.8,
     "news_title": "What UCLA learned from their exhibition match against Team Canada - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDhmay0xSHk0M2VaX1BlclZVQkNTOXFaNXVmZDNPMUZmUzQtaTUzLVA3V1E5WXlUUERtZnl0VzBhZ25OWHppMkdTUm9nUjEwZzVIemY1QS10Zko5NTJjQkdQNDllYWI5OHlZMTA3N2pzcUVOeFY0SXpZMXNaTWExWkNXRDFxVXJoSXI0MG9xZw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "44m ago",
+    "news_age": "46m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -87138,7 +87133,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.12,
+    "news_score": 0.1,
     "news_title": "OpenAI hacking incident exposes mounting risks in AI arms race - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMURVdjN6dHFWVVhMX0xUY21fajRZMXpnUEswSkJRQVdYempQc2RsVEl0RmR4MjNHMk1YMUYzcXdBSFdHZ1VtVXA5Z0VrMGpRM1VZS3pqOExBMkV3RmtsYmtORjM1TG5rX0VSYVNNYTFNTlNwUzM3N1RyN0F6cUtYWGxXcFI?oc=5",
     "news_image": "",
@@ -87304,7 +87299,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.12,
+    "news_score": 0.1,
     "news_title": "OpenAI hacking incident exposes mounting risks in AI arms race - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMURVdjN6dHFWVVhMX0xUY21fajRZMXpnUEswSkJRQVdYempQc2RsVEl0RmR4MjNHMk1YMUYzcXdBSFdHZ1VtVXA5Z0VrMGpRM1VZS3pqOExBMkV3RmtsYmtORjM1TG5rX0VSYVNNYTFNTlNwUzM3N1RyN0F6cUtYWGxXcFI?oc=5",
     "news_image": "",
@@ -87719,7 +87714,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTWdEUHV5a2xOOXZlRHNIUC1yQVhtSnk4RzF5LURocnNiY3hPZzZOTU5jVXFIT3Z4NmRwOWVQNjNjdkxlQkZ3OWE2V0huV2NRM1FDMWJuYlVXWWN2cm82MTdBaWlOYmdEZE41bDF2dWE0bDh0d0VVNDlWdUpuNFo4S2NwU0sxcEVWSUlxUHd2dV9aVlFra0c2VVU2STg3bnVNWF82LUJnLUJpRVp2OENHZEkzN0xRU000eVRIMDFOYw?oc=5",
     "news_image": "",
     "news_source": "Consumer Reports",
-    "news_age": "7m ago",
+    "news_age": "9m ago",
     "news_columns": [
       "marathon_elite",
       "olympic",
@@ -87763,16 +87758,15 @@
     "lat": 38,
     "lon": -97,
     "news_score": 0.03,
-    "news_title": "House Dems hand GOP a win on trans sports as party unity cracks - Fox News",
-    "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVhET1h0RkhTZV9vcnV6QWtiYXNGQm1pMThPbl95RkFFNGJfVW9VbjZhazVzQTFJc2RyZzg5T09YZWxrVzJVa1JEUFpoY19nUmxtYlBUQU96SEFaMGlaNmRXOXF1MFFGOWYtM1lhNTRadW5NSFp4X0h2dHRaZVhPRXBQbnBPVkxybU41V0lIRmk5d9IBlwFBVV95cUxOVW9fUGpjUTVvc3JIWlQtazMxT3I2bEhSNmJfdlBPVmk3a3l6WlN6ZC0zNXIxY1dWZ2hpM0s0X1NPazdTYmtxS2k1NnJJWndEQ2pMaHEwRmxNSFRHMWhTYWttNjVGX1VsQ0QyeWVsN2x2VFBwaktrQ0hrLUdxVnp1eVNuNzBFTm5VQWJCTmZYOUNwYmZValhB?oc=5",
+    "news_title": "Cause of death revealed for 18-year-old ‘Godzilla’ actress Kaylee Hottle, reports say - Action News 5",
+    "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGNiWmdxSHVnbjNNX1JCeVV1c0dCVVpmV2pNek1QNlR6V3VKV1JyNUMzMTlndHh5VlpkWUgtU3lwaHFYYWxncGJKR0RPYmFjNFY4U25YeVJIUWhPZWZQTWxXUkd0UmhTN0t6QmRJNnB2LWhhTnYtclFVeUNzaG9mUFJkUWZlMjdsaHVqZGNyTnI4ZWpkaGVyNjdMQkZMVC0tZlJlY2pNcFZRVzR4Yjh4eVVxeVBJQdIBygFBVV95cUxNdFRTOFNnNElOem9rWGt4dTZNS1JBYi1GQ3JNRGRpd0I5Ylp1dTBueGxlZ3dOaFJWME9tYm9zM29CUlAwVGxUbHRuX29HSUU0djZHQ01BZFkxLV9Ta1ZkbDUtdld1OXFpSjdiWk45Ujk0Sm5BRlNiVzJHZ2Z2SnEyS1ZJRkNUOTRqU0doTDBCZk8tNDU4SVFUazIzS1dWcWJlU3JaUGI2ZlZuV0pkZGlkajJXTnk1cHF2VlRuRkhBaEVkQVgwM2Z3b0JR?oc=5",
     "news_image": "",
-    "news_source": "Fox News",
-    "news_age": "17h ago",
+    "news_source": "Action News 5",
+    "news_age": "12h ago",
     "news_columns": [
-      "lgbtq_rights",
-      "gay_marriage",
-      "gender",
-      "democracy"
+      "car_density",
+      "gas_price",
+      "co2"
     ]
   },
   {
@@ -87958,18 +87952,19 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.28,
-    "news_title": "Top diplomats gather for security forum in Southeast Asia - Reuters",
-    "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVlFUbWJmemtXX2xyMlFhb1lZbTRQQXB0aVNsOFlCN3FKTVlQMGlUcnhWdU02WHItdnZGcU1JUDkteHQ4UUJQTVVKUXNDV2czaWF6czZVdmdZYVl3Rzd2VDBnejJmZkFXalQzZG1mRzlBdjJsendCdElteHMtenlIN1VVbTExSVZyaHlweWgyeHJmVGExWkFxem45dEk2Tm8?oc=5",
+    "news_score": 0.48,
+    "news_title": "Iran War Updates: U.S. carries out 12th straight night of strikes as threats to oil trade deepen - CBS News",
+    "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnFoblVaeW56TWFYUWE1SGl5N0RtX2t1S25oOFprWVlLZjFPa0Nmdm5hWjdzcmNpTGJCejk5OUxnMF9Pbnh0SklXc3BRYlktaVR2cS1Mbk1FNVVhak5QakV0UEh2VXF5UEFJQ2ppWXZ1Um9FX2lYSEpiaUEtT3dFaEQ2N3lRdTRLSjZRTnZGWk1PUk1tWHUwOVdVZjc?oc=5",
     "news_image": "",
-    "news_source": "Reuters",
-    "news_age": "6h ago",
+    "news_source": "CBS News",
+    "news_age": "51m ago",
     "news_columns": [
-      "cricket",
-      "olympic",
+      "gas_price",
+      "energy_per_capita",
+      "co2",
+      "renew",
       "exports",
-      "imports",
-      "gdp"
+      "military_pct"
     ]
   },
   {
@@ -88040,7 +88035,7 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.28,
+    "news_score": 0.21,
     "news_title": "Glasgow set to welcome the world for scaled back Commonwealth Games - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UaC1pUlVseEtIRllMeHJjUldxeC1yS0VNa0hkbTktbnZaUVVFNjBiN092SVp6cFc3T04xWWhaU3Q1SEVMcGh4UU1JVFJkbE5xTGNtdmJrcGpjQQ?oc=5",
     "news_image": "",
@@ -88088,12 +88083,12 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 1.49,
+    "news_score": 1.46,
     "news_title": "‘A surprising success’: US, Mexico and Canada fans on hosting the World Cup - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY2ZHRE1JTVlqZTJMZ1FLbXI0ZjZnZWhJT1BwOXk1WFFKNVM0UjNjaG41MnY0dTMtWWxRTFZqUm4zVEdiekxXSkhOSnhOVE1CbFd2WlcxODl6U2hzdUJybUdUZXBJekdzNDdtMVZmXzNPZmFnZWdiWnVSWFY1RkFHNU5mUjZfcnVqbDRkY0lwU0Q4ZUdncFhvNDhzYmFuMVVYb1pCbVBwOGtoOERHSVRUZ3NoaGUwYjEwN2VLLXdTZndGTnBEMTRQREVBUHMxd0RfNHE5ZnlUVVc?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "82m ago",
+    "news_age": "84m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -88574,7 +88569,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4cWxwTkpHMTlwY05Za2dLS3FscUtXNVE5QTdKMWM1Rms0aTNiVEdkS0ItSXRNcjFIUkI4R0ZDWVdJb1VBMm40ZlpYTXc5OFVlNWpuc0NEQWVPaUZycU5zSnUzOWRSRVNrZm1kWjZTenJ6ZkpYdUY4?oc=5",
     "news_image": "",
     "news_source": "Yonhap News Agency",
-    "news_age": "8h ago"
+    "news_age": "9h ago"
   },
   {
     "flag": "",
@@ -90324,7 +90319,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.43,
+    "news_score": 0.42,
     "news_title": "The fight for the future of foldable phones is here - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUozdXlIc09nWThHZ0hteHZ2TlRHM05RTXdSWjdpdUZxWHlYeC14cjJrSFcxVmtpQ255akpXYl9oREdDbDB2X0JHN0hjNVItTmkxNzN3Uk5zOVc1SHNsTXhHODBlSW1yc205VXI2Q2R0aXZGV3BtOTgxRkVHV1htSzF2cXFZaFo0TzRkbnkwYw?oc=5",
     "news_image": "",
@@ -91033,12 +91028,12 @@
     "cpi": null,
     "lat": 40,
     "lon": -3,
-    "news_score": 0.68,
+    "news_score": 0.69,
     "news_title": "Gossip: Man Utd consider Camavinga - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM2ljajZORU9zUjZJMGlFTmJnRGNpSGFWRk1hSTNLNXlBX2ZNRmNBV082RE9iOU9uek9UcWxoZHBDdER6YWhqM0pDeEZDMk80eXBDV0ZEMkJDb2pCME1TN3VZOE5abGEtR0R2ZG1pTWdDendHOThHUFdPRGRTZVkwSlMySXNRMXpVZXc?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "78m ago",
+    "news_age": "80m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -94300,7 +94295,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.52,
+    "news_score": 0.5,
     "news_title": "FDA reviews peptide injections favored by RFK Jr. and wellness influencers - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcFlTZ0lsWldkUm9LNG9qZ00zbUJaTnR4WkRkR1hsV3pua2hBZklhVUJ1UUtJOGNTV2FCMENMa2Y3S3JnQnFhYWNsVzVrUTNGbDk4TWxLRVF0ams0SERNU0hKZ1lTa3RSdGZXQmhIU2w1TE5DbUNYdnNpbkRudm9EeUppRkQ1Q0lZR2xTRmFKNFpydUZQUlNZMFhUOUgydw?oc=5",
     "news_image": "",
@@ -94910,12 +94905,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 1.49,
+    "news_score": 1.48,
     "news_title": "Gossip: Roma target Disasi - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NckZZSkl0UUV2eEVhNjJBMkFmcHplbmstTVlmSy1MNjQwallpMWhtNlVVbDNuVEdOQ1c0b216REFFV3BpN0l1YUU3VDFudjlWdjliRHg2NGFsaW9iYmtfVmROMDRKVUFNR09LQkhadXZQS1A0Y0ZnYkVVcTlEY1k?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "70m ago",
+    "news_age": "72m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -97703,7 +97698,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.15,
+    "news_score": 0.14,
     "news_title": "Tesla Profit Falls Even as Car Sales Rebound - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lMWkxdjBWOUgzMnlUbnZFZ0pCQjBxOTV0NGVYclJ1SHg0X1U4OENUMUZPX2hBTEZtSHUtNEhhVWQtUDU3RFYyZU51TG9GTW8takRzU2VlcGxJNGNMeWpubktKdG9NY0ZxTFhCbTFMRXUtUmxDbGJBQnBWeDJxQQ?oc=5",
     "news_image": "",
