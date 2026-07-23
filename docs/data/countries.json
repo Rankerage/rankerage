@@ -2500,7 +2500,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.14,
+    "news_score": 0.15,
     "news_title": "Socceroos Depth Chart: Predicting Australia's 2030 World Cup squad - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcDRYUmlGSUQwbm9Ec2ZmR3ZoVDhoUTNVQlkxdGZHbkV0UFZrU01xN0hyVGF2Q2hZb0VWTmZ1LWtZN0tsVFZYMUZQOUtJOHFxcy1HeUhGVUtpWjV2ZWR0SUQxSm1oM0NsYlNScWdqYVY2SzNwd3BkdGdHV0JzX0VFT2pkZDFIMGhZWU42M1pKSm9rZndNLWJyeXVXdDFLcjU3OHNwbjBKVTBHWXdVYVNhay1R?oc=5",
     "news_image": "",
@@ -3262,7 +3262,7 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.52,
+    "news_score": 0.51,
     "news_title": "PM invites global investors to partner in Bangladesh's economic transformation - The Business Standard",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNanRQNFZRejlfWFo1TXhZRGRWSnY3YnpZMlRNNWZVbk1xOFNpeWVBRlVqSmptYndMSG1YeUprY0hnbFBnZ3RzRDhIWEVOQVRGR29HMEk5RXdMZ2FsNzgxa2xwMGZhRWJtQk1hY3ZzQnFObW12OEpmNjNDamdNSEVnVzExUFZyUDhjSW1jNFFlVG1ubmRFTlhSREtVcUVmMTVRS2YzNXJaS0pCbFNGbG9IaNIBtgFBVV95cUxOY29iVHhCSVE0eFNCZ2dIZ0ExNXFmRW5NQzZ4VmNLcTRpSU4wMEFyNl9ac0tTcmd4Z0ZmSFFraDNwU0lpLWxBdm4wTE4td09KVmRDNUZRZzVnMjdSbVRnd2w4dHdIUXRqajNxTFNlc1gzbG03QlAzU1padzRSaWV2SEdQLWVzdmNlVDRxeFpmVUV2SkRwSGZFNzNSd1IwYWtla2IxRF9jMGE2SW15MERwTk1ZaV9RUQ?oc=5",
     "news_image": "",
@@ -6799,7 +6799,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.23,
+    "news_score": 1.22,
     "news_title": "What UCLA learned from their exhibition match against Team Canada - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDhmay0xSHk0M2VaX1BlclZVQkNTOXFaNXVmZDNPMUZmUzQtaTUzLVA3V1E5WXlUUERtZnl0VzBhZ25OWHppMkdTUm9nUjEwZzVIemY1QS10Zko5NTJjQkdQNDllYWI5OHlZMTA3N2pzcUVOeFY0SXpZMXNaTWExWkNXRDFxVXJoSXI0MG9xZw?oc=5",
     "news_image": "",
@@ -6807,7 +6807,8 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ]
   },
   {
@@ -16411,19 +16412,14 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.46,
+    "news_score": 0.58,
     "news_title": "India protest movement holds capital sit-in as police crack down on demonstrators - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUFLTkNnV0U3YkE5eUo3X190anpLTlg0QTBKWGNwbExRVXU5cWlmMWpiejNJZG5PbWp3U0FDM0xyWGhZcHVGMVh2LXJoUFlaTnE0ME43dnhmTkkxdlNPUHJJeTh5REFDNm11bVFtOVh0ZTZpY21ONWgtel9uUHhkZUtHVS15VEtNREE2WFpfSGt2MFc5a1hlR0RiNjI2WjhYZ1dMUGZHbE5pM1NiR3c?oc=5",
     "news_image": "",
     "news_source": "AP News",
     "news_age": "2h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
-      "gas_price",
-      "energy_per_capita"
+      "olympic"
     ]
   },
   {
@@ -16983,18 +16979,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.49,
+    "news_score": 1.48,
     "news_title": "Iran Ready to Expand Technology Cooperation with Pakistan: Science Minister - iranpress.com",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS3JaQmIxZWNndGN2V0hON2Z3NGtYR2lOa2xlUVA5ME1ONmVYRXljSGw1dU5icFZqNlVGN1dxUHpXYnJxeGdpMXFWTnZFNS1RZjQ0azVWeHAtY0R2d0kxenNycTFONjNUaGlIZENpMENTVldfUFZadVRoNWM3SnFfZWVuMURld2VLaVVZal9vRXNuamFCc2lhbmhOLUFFWGR4RXpEYVpHZnB3NGRx?oc=5",
     "news_image": "",
     "news_source": "iranpress.com",
-    "news_age": "106m ago",
+    "news_age": "108m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "olympic"
     ]
   },
   {
@@ -24202,7 +24194,8 @@
     "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ]
   },
   {
@@ -29232,7 +29225,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS3JaQmIxZWNndGN2V0hON2Z3NGtYR2lOa2xlUVA5ME1ONmVYRXljSGw1dU5icFZqNlVGN1dxUHpXYnJxeGdpMXFWTnZFNS1RZjQ0azVWeHAtY0R2d0kxenNycTFONjNUaGlIZENpMENTVldfUFZadVRoNWM3SnFfZWVuMURld2VLaVVZal9vRXNuamFCc2lhbmhOLUFFWGR4RXpEYVpHZnB3NGRx?oc=5",
     "news_image": "",
     "news_source": "iranpress.com",
-    "news_age": "106m ago",
+    "news_age": "108m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -32361,12 +32354,12 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.9,
+    "news_score": 0.74,
     "news_title": "IOC drops Russia ban, but it might not be all good news for the Kremlin - The Christian Science Monitor",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeW5MWHdDZGZ4UklFWUJKMGZZSmE5RHUzRFFZYURmbXhBd3VPektlcUkyTXhjaDNUV2g4VGt3MW9PSU0zWi1JLVR4UU1BZEd6bUJRcFlReDFnRWQ0dFdVbVhxYXFpOEFWb1FqcGZybk1qcTh2V2ppZHBUcWdBQW1YYktVOXk3bmZLSEdEQVhRbjc1Njl6MTY4Z2E0Q1Z1blV6Um9RT3NNYjZVU2PSAbgBQVVfeXFMT1AxMDRRV3VFa2NVT2Nnd1VSSkNUTV9zeFBSVHRUVFJpSWJOY2V3ek9vY3lHdUNyckZHTGhRa3FpcWIzTWV0Rk83NW1sRTE4M0hkZ3llNklneWljOTA3U0Y3dUFJZFNBU2cwLWIya2FVelVIbHIxd1pLeWZMbW9fNzBsbUgwNEdqSE5ENlNWUDJLYUtaNElfOXRSUWpSbnpEdm5RNW93b1hRX09DTjhVclpWU2JKUERsRQ?oc=5",
     "news_image": "",
     "news_source": "The Christian Science Monitor",
-    "news_age": "69m ago",
+    "news_age": "71m ago",
     "news_columns": [
       "olympic"
     ]
@@ -35880,7 +35873,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.75,
+    "news_score": 0.74,
     "news_title": "Spain lifted the World Cup, but the IRS still gets a cut of its $50 million pay day as players face complex U.S. “jock taxes” - Fortune",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTM3TlRta1R4ZmpDaDE0WkljS1haSk1iNnVMdjQ5X1hGZW9DRzh1UHMwQ0pxdjdiaUZIQkR0amljS0FuR1NfVnpXYkZnOFM0YTF4b1NlbG1IVXdGRmUwYW1TWGszVC1rNXlGWVJSWXhxb0h3bUFIck9TeVNaMTlSa0JzWk4?oc=5",
     "news_image": "",
@@ -35888,7 +35881,8 @@
     "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ]
   },
   {
@@ -37933,7 +37927,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNzRKNWx4SHRhNkRtNjdmLXkxTmtNcXdEUU1fV3htZkYxX2pNMmhmVHlIazJtTFBjbXdzZml5bktFY1pQVUFIOE15OHM5NExvcUl5VE9JWnE1aFo0emU1bEduUkZQMXdlanJEMmNpVEhvNDlmMEZxdG44dlY5TVBGQy1xUVBDRDdSNFRzTDNEUQ?oc=5",
     "news_image": "",
     "news_source": "dailynews.co.tz",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -41566,6 +41560,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
+      "olympic",
       "basket"
     ]
   },
@@ -43293,12 +43288,7 @@
     "news_source": "Al Jazeera",
     "news_age": "5h ago",
     "news_columns": [
-      "gas_price",
-      "energy_per_capita",
-      "co2",
-      "renew",
-      "exports",
-      "ai_research"
+      "olympic"
     ]
   },
   {
@@ -44483,12 +44473,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.91,
+    "news_score": 0.98,
     "news_title": "Venice Film Festival Reveals 2026 Lineup (Updating Live) - Variety",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd2p2UWJXX19jLXpKY29YSllmWms0eHZWNl84TkI3OWJkLWJ0Rm43aUltUmhiN29ueFRlLXpqdEtfVGtJVzk0Zlp4dDNPTDlrUWxJMkZvZnlqUGl5Q25kQlg5dWtzVHEtdXZuTUN2TnJVZVEwQ255c2xPTWpCbWhOanFBT0JFTGc2RWl6Sw?oc=5",
     "news_image": "",
     "news_source": "Variety",
-    "news_age": "79m ago",
+    "news_age": "81m ago",
     "news_columns": [
       "film_prod",
       "netflix",
@@ -46680,7 +46670,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.12,
+    "news_score": 0.1,
     "news_title": "The Indecision: What's LeBron James waiting for? - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUnREbGgzRkJiUzJpQ29WV09BTkhfOVlicDY5bXJpUi1HYjgxbVBzU2lvRnBwdDJrN2hPZ3c2TzA4UHh5QXZiRUtwUnFrU0M2VXVRX19kSXotdzl3eEtINVF0dmlCaEJwMm85T2NvckZUMGFoYi1KQ0doS29yaXdBZ2htVmZmMC1VNFFoZnlJT3BzSUJ5ZkFQRGFzM1UyQQ?oc=5",
     "news_image": "",
@@ -46906,7 +46896,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRWJ1aVlRaGZRTWdJWW4zZk1IRXpWVTRKVjRFYVozVTBYd1VFYW5Fd0hYVW9KbnFDTl83TndFSFZIRFhOMjdCejRlX3NITnloeGs3c0lHcldLVy1NTi1WekR2dHZWQjdVNHMtNkd1YmJ1RGdMMzRiVmwwRWZ1MjRxUVFIQ0RCOEw4?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "60m ago",
+    "news_age": "62m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -48219,12 +48209,12 @@
     "union_rate": null,
     "union_rate_rank": null,
     "fifa_ranking_rank": 1,
-    "news_score": 1.38,
+    "news_score": 1.24,
     "news_title": "FIFA, global advisory body clash over potential betting irregularities at World Cup - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSGtkcUpwak1JTzAxZFBoS3NEMTJTeEVVZnZRTG4yLUt6a1RjejVQM1FOOEVldkh6VGp0Vm1Ub2VuNmw5Ylh5SnRFZEp4TzhWWEpTQUZUYVlpQ01kcENObHdzX0RQaHZkcksxRHFGM2ctVEsySTRFSXYtNW1yS0FHV1BCb1Qtdm5aUjA0MmlCVXJyYnZt?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "68m ago",
+    "news_age": "70m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -48662,12 +48652,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.75,
+    "news_score": 0.74,
     "news_title": "IOC drops Russia ban, but it might not be all good news for the Kremlin - The Christian Science Monitor",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeW5MWHdDZGZ4UklFWUJKMGZZSmE5RHUzRFFZYURmbXhBd3VPektlcUkyTXhjaDNUV2g4VGt3MW9PSU0zWi1JLVR4UU1BZEd6bUJRcFlReDFnRWQ0dFdVbVhxYXFpOEFWb1FqcGZybk1qcTh2V2ppZHBUcWdBQW1YYktVOXk3bmZLSEdEQVhRbjc1Njl6MTY4Z2E0Q1Z1blV6Um9RT3NNYjZVU2PSAbgBQVVfeXFMT1AxMDRRV3VFa2NVT2Nnd1VSSkNUTV9zeFBSVHRUVFJpSWJOY2V3ek9vY3lHdUNyckZHTGhRa3FpcWIzTWV0Rk83NW1sRTE4M0hkZ3llNklneWljOTA3U0Y3dUFJZFNBU2cwLWIya2FVelVIbHIxd1pLeWZMbW9fNzBsbUgwNEdqSE5ENlNWUDJLYUtaNElfOXRSUWpSbnpEdm5RNW93b1hRX09DTjhVclpWU2JKUERsRQ?oc=5",
     "news_image": "",
     "news_source": "The Christian Science Monitor",
-    "news_age": "69m ago",
+    "news_age": "71m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -49974,19 +49964,15 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 1.12,
-    "news_title": "10 African stars who caught transfer scouts' eyes at the FIFA World Cup - ESPN",
-    "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNFB6d1E5NmI4OWFqTmRrM0EwTHFmWmU3c1dkamxleWpyMXJVTWQtLWJKWF8wNXhTVzk3X1lOakZackEyS0lvQ0o2R0hiQktFTmRLSENrc0tBWGFNUGZaUEFqa0pwdkNvWWlYcTlIMjB5SVllOTI2WkhTcmtCdjN3TEY4bnZXWFlUTnlIeDZBeTdscmVILXdjdTV0aVAzaTBmSzdWdjJiWFRrbzBE?oc=5",
+    "news_score": 0.96,
+    "news_title": "10 teams with willingness, prospects to make moves at the Trade Deadline - MLB.com",
+    "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQczNnbEF1ZXZFc05XQkxsVzhOaTVQcDBpUEE0Rl9NaEhGMEF0SHFINEpiazVHNlcwcm1VNGIxOUZvVEF1YXRrTmxCSnk0WVNEaXpzdVR0WTQzYW5ISEMyZ20zU19RRGFjc2JUTXp3SXBtcFpycW90ZFR5Rmg4dnFQNFZIZw?oc=5",
     "news_image": "",
-    "news_source": "ESPN",
-    "news_age": "70m ago",
+    "news_source": "MLB.com",
+    "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "lgbtq_rights",
-      "gay_marriage"
+      "coffee",
+      "tea_consume"
     ]
   },
   {
@@ -50196,12 +50182,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.89,
+    "news_score": 0.88,
     "news_title": "Alphabet Stock Falls: Google-Parent Reports Blowout Earnings - Barron's",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSjI0MGhTM2Yyb1hsTVJRT083ZWVMbDlIWjE0QU5wNTFCWjg3SFFUbmo0NTlPSVd6TWY0eW1WbEp4MUpNWTR5cWRLYnBIWnRhT2pwMEpTUUl1ZF9Sb2NLQ0UxSWYxM3VnUGtuTDhxM2s3SWhsOG5TS0JZcHFaUXBEOXRKYw?oc=5",
     "news_image": "",
     "news_source": "Barron's",
-    "news_age": "98m ago",
+    "news_age": "100m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -54521,7 +54507,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.59,
+    "news_score": 0.58,
     "news_title": "10 teams with willingness, prospects to make moves at the Trade Deadline - MLB.com",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQczNnbEF1ZXZFc05XQkxsVzhOaTVQcDBpUEE0Rl9NaEhGMEF0SHFINEpiazVHNlcwcm1VNGIxOUZvVEF1YXRrTmxCSnk0WVNEaXpzdVR0WTQzYW5ISEMyZ20zU19RRGFjc2JUTXp3SXBtcFpycW90ZFR5Rmg4dnFQNFZIZw?oc=5",
     "news_image": "",
@@ -59923,7 +59909,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.13,
+    "news_score": 0.1,
     "news_title": "Mexico mayor killed in town hall months after surviving assassination attempt - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcDdrR2tzSlZxaUhaVFdKMlZqWkJoTG1icy15c19RcWE5bUROcE9GN2RsSFZ4cjF5anh6VUQzNnRVYU1pZnJmaVd5VWZ6dHNHLWM5Q3JtWkdMcEZnWVRJYjY1RDhQeHlaMUEzbGVVQ29VSkhyYkN4N3hZY3ZNaFh0TTgxVnJPV1FC?oc=5",
     "news_image": "",
@@ -61441,7 +61427,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.12,
+    "news_score": 0.1,
     "news_title": "The Indecision: What's LeBron James waiting for? - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUnREbGgzRkJiUzJpQ29WV09BTkhfOVlicDY5bXJpUi1HYjgxbVBzU2lvRnBwdDJrN2hPZ3c2TzA4UHh5QXZiRUtwUnFrU0M2VXVRX19kSXotdzl3eEtINVF0dmlCaEJwMm85T2NvckZUMGFoYi1KQ0doS29yaXdBZ2htVmZmMC1VNFFoZnlJT3BzSUJ5ZkFQRGFzM1UyQQ?oc=5",
     "news_image": "",
@@ -72734,12 +72720,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.72,
+    "news_score": 0.71,
     "news_title": "Juventus announces partnership with bet365 Scores - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWlXRFpEU2w4Y1VKbG1iSVpqZEp1c3FnR0k0eWhnNGFTRFJwX3cxbnYzdVIxVlNwc1N6elNzS203dlVFNEZCR21lWWFCdTQtaEZTUW9UNlU2WXg5MFhieVpnVU9RR2JhLWlYdTczTURxd2hVSWVRajdiMGtma2tlT0NydnRqZ0ppMUNqYTV1Y0FicGhXSDFTTA?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "79m ago"
+    "news_age": "81m ago"
   },
   {
     "flag": "XX352BB",
@@ -73169,12 +73155,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 1.04,
+    "news_score": 1.03,
     "news_title": "Saliba starts managed recovery programme - do Arsenal need back-up? - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaGQzaWpkN3JBNnFWd21HbFBNcW5DWG94RnFSLTZnUzFzejA4Z0hUMERGeDdwTmNBRjMzY2J6SXVMbkVSS1lKR2lYU1RPdHRvOFZFeTVrX3NxZ1paQzN3OUdMOXlzeG90Sjk2a0ZtOHdrQmJuTmNoR1htVTB4dlFrOFM1OTZoT2NmcVN6X3k1OUhYY0U?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "103m ago",
+    "news_age": "105m ago",
     "news_columns": [
       "lgbtq_rights",
       "gay_marriage",
@@ -74043,12 +74029,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.75,
+    "news_score": 0.74,
     "news_title": "Lewis Hamilton Celebrates Ferrari’s Biggest Weakness Being Fixed - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ1ZuM0l5Nnk2TUlzOGZnM20zWDRGS3lzU3c4NF9PVzQ3X0NHMWF6bXhLWWV4anBYZjJ4c2RZTm1SVFE5cXE2Ukh5RHI3WTNSNGpCSmhpVlMwdnI1Q0FlYmVtd05Sb19PdEx4MHZ2ekdXcGpQZGxpNFRqNURrekVCd2tYM0drUWE4cWo3bTRKUHFsdW0w?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "69m ago",
+    "news_age": "71m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -74070,16 +74056,19 @@
     "area": null,
     "gdp": null,
     "hdi": null,
-    "news_score": 0.73,
-    "news_title": "U.S. signs nuclear deal with Saudi Arabia that gives it path to enriching fuel - The Washington Post",
-    "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeHgya3BPS203QXhIQVVkOV9JNmZpQ2M4eG1jSjJJZkk2UXY3eV8wVEhKZUZhd3o2TFJJaExWNWVTSUkyTi1QMTBSTkhGTGdTdXhGVEdVbnB0VzFqRzA5Y1JzMDJiNGROU2Q2VktGc2w4T3hoY0M0U3lVY3IybzFsUVdZUTF3aUtsUC1RRFRHcWVYZDV0OW9Yc2psMnctTmw4cU5NTV9weUMxRlBR?oc=5",
+    "news_score": 0.8,
+    "news_title": "Tension between Mullin and White House appears to be growing, sources say - NBC News",
+    "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUDJLczBNMzcwNnZhdkNRZWN4MFRsQmtXZmR4eUxMX2NRaGFKRHZUT2JBYkRYdVVLamc2QmtfbHZSVjdCX19LRFhxdHJfYXk3cVUwRTZtblFTNTd2ZDdUMmJ5QnctV0h6WlBlVkhVSHNuLWdMbDN4N3Z3WVhHMlFkZVBHYW5KLWpic2h2UUl5OEREZHhwcTZXdTh6cUx0NUE5dDlHNndfWXBDc0NVa2lB?oc=5",
     "news_image": "",
-    "news_source": "The Washington Post",
-    "news_age": "5h ago",
+    "news_source": "NBC News",
+    "news_age": "70m ago",
     "news_columns": [
-      "nuclear",
-      "nuclear_power",
-      "military_pct"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "murder"
     ]
   },
   {
@@ -75330,7 +75319,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdjVibU5vTzk0U0UwalhDeUNVSk9lQWtUV0VBSUlhMExRTEdQYktmU0szUmdvWU53eXc4bHk3eVVPN3lUVW9UWmRhTmx3SGVNUnY1Q1U5dXcxTmdqSV9oS2VuaFdZbkZJM1dzQ2prbzAwaUh2cnRfUFc5OWJnRTNHRHctWWtjMjZ6?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "23h ago",
+    "news_age": "24h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -78108,11 +78097,11 @@
     "lat": 35,
     "lon": 105,
     "news_score": 0.0,
-    "news_title": "Lenovo launches 16-inch laptop globally with newer processors and Nvidia GeForce RTX 5070 12GB - Notebookcheck",
-    "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNkRnR2VQV3ZHanZDUUNFOEVqSVM2RERPbVpiNHJVQ0JwdzJDRHBpX054Z0JyQ3lrcFk2Mjh0OFhPYTF3QkJ5VmZVcEJtQkowZGN6OGdjd2FIczRZaWF4TlRMWlhzOURadlAxaG9raXZEbkFFVUpiSWp0cnd6MGRjcnl1bFhMN0ZkaE00blRrVnFrWmdNMzItNUw4Ni1tZjBjbHh0T2lJM18wc3lpbm05cThLVEdmNVlOQ3FnS2RZNWM5M3BKSzNseWd5TGtrd0tnSEMwM2h3?oc=5",
+    "news_title": "Lenovo reveals more about its new lightweight Legion gaming handheld - Notebookcheck",
+    "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ1J4SWhBdTJwOERtNjlYeDhtbnRZU0JxVjdhaWQzcTFWcU9YQ1VWaVlGOUNfUFpYN0xhV1pESXF6YU51MHZ0MFFBODIzMUxTbFNMY0RtR0x1QjlFOXQtWFZLU0c2bjZCV25zZzJRdjBVeGZZMlpZcGVLZy01VnZ3aVBrU0I0MWxpcTdablEzUVhfV0liMGdPNmNDcFIwUmdKRUh0Zm0zdGE5VW9jaTdxTGduNA?oc=5",
     "news_image": "",
     "news_source": "Notebookcheck",
-    "news_age": "33h ago",
+    "news_age": "17h ago",
     "news_columns": [
       "obesity",
       "health",
@@ -79794,12 +79783,12 @@
     "cpi": null,
     "lat": 42.8,
     "lon": 12.8,
-    "news_score": 0.75,
+    "news_score": 0.74,
     "news_title": "Lewis Hamilton Celebrates Ferrari’s Biggest Weakness Being Fixed - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ1ZuM0l5Nnk2TUlzOGZnM20zWDRGS3lzU3c4NF9PVzQ3X0NHMWF6bXhLWWV4anBYZjJ4c2RZTm1SVFE5cXE2Ukh5RHI3WTNSNGpCSmhpVlMwdnI1Q0FlYmVtd05Sb19PdEx4MHZ2ekdXcGpQZGxpNFRqNURrekVCd2tYM0drUWE4cWo3bTRKUHFsdW0w?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "69m ago",
+    "news_age": "71m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -81672,7 +81661,7 @@
     "cpi": null,
     "lat": 40,
     "lon": -3,
-    "news_score": 0.48,
+    "news_score": 0.5,
     "news_title": "World Cup 2026: Fabian Ruiz and Gavi get weight in tomatoes for win - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzMmRQa29WNU1yZnF4YXphdENUaHg1TktPM2lmalRTWHBQSjh4cnFQMFN6SktQNHVfaFVxVDBWRzg3LTJIdXhaUnIwSkJyT0hibEFsNXlhbUtfVnd5RDQ1QXdpVXMyZU0?oc=5",
     "news_image": "",
@@ -83785,7 +83774,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.22,
+    "news_score": 0.21,
     "news_title": "U.S. signs nuclear deal with Saudi Arabia that gives it path to enriching fuel - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeHgya3BPS203QXhIQVVkOV9JNmZpQ2M4eG1jSjJJZkk2UXY3eV8wVEhKZUZhd3o2TFJJaExWNWVTSUkyTi1QMTBSTkhGTGdTdXhGVEdVbnB0VzFqRzA5Y1JzMDJiNGROU2Q2VktGc2w4T3hoY0M0U3lVY3IybzFsUVdZUTF3aUtsUC1RRFRHcWVYZDV0OW9Yc2psMnctTmw4cU5NTV9weUMxRlBR?oc=5",
     "news_image": "",
@@ -83877,12 +83866,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.18,
+    "news_score": 0.31,
     "news_title": "Analyst Says Trevor Lawrence is an Underrated QB in 2026 - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGJPbTZWMWI1aExvZnZMYlRrT3plSzVmcHRadlFFMkNkemtYM1pVQ3IyV1pyNm9jWHVJVGUtamJlWEpGbzhsMzFPd2diWXE2cjRXV3NyRkEyUGdUQ0c3b2VmbXR6WmJHS0hfQ0w3WS04U1ZXbVkzbVVtS2NNYVN0ZUxQSzJxeExSY3VoNkNoZEgtUQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "113m ago",
+    "news_age": "115m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -84702,7 +84691,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.52,
+    "news_score": 0.51,
     "news_title": "What UCLA learned from their exhibition match against Team Canada - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDhmay0xSHk0M2VaX1BlclZVQkNTOXFaNXVmZDNPMUZmUzQtaTUzLVA3V1E5WXlUUERtZnl0VzBhZ25OWHppMkdTUm9nUjEwZzVIemY1QS10Zko5NTJjQkdQNDllYWI5OHlZMTA3N2pzcUVOeFY0SXpZMXNaTWExWkNXRDFxVXJoSXI0MG9xZw?oc=5",
     "news_image": "",
@@ -85964,7 +85953,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSnhoUV9Vb2xzcC1wV3hZSmhCQWtMY0s1eGFIRHBQMXpxNF93SF9aeVh2dW5fVnRvMS01ZHZWUGpYaUdaRnp3Tk5JUmJZaTNuR2sxOTFleE1FS3g0OS1TS1prY3BsWkUxNjZCc1VTR2hsQ21rVHNHUHFtV1BmaTNYZ1lzbk5MRjA?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "118m ago",
+    "news_age": "2h ago",
     "news_columns": [
       "lgbtq_rights",
       "gay_marriage",
@@ -87171,7 +87160,8 @@
       "internet_pct",
       "patents",
       "rd",
-      "startups"
+      "startups",
+      "car_density"
     ]
   },
   {
@@ -87336,7 +87326,8 @@
       "internet_pct",
       "patents",
       "rd",
-      "startups"
+      "startups",
+      "car_density"
     ]
   },
   {
@@ -87734,12 +87725,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 1.12,
+    "news_score": 1.1,
     "news_title": "No, You Shouldn’t Avoid Fruits and Vegetables Due to Cyclospora - Consumer Reports",
     "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTWdEUHV5a2xOOXZlRHNIUC1yQVhtSnk4RzF5LURocnNiY3hPZzZOTU5jVXFIT3Z4NmRwOWVQNjNjdkxlQkZ3OWE2V0huV2NRM1FDMWJuYlVXWWN2cm82MTdBaWlOYmdEZE41bDF2dWE0bDh0d0VVNDlWdUpuNFo4S2NwU0sxcEVWSUlxUHd2dV9aVlFra0c2VVU2STg3bnVNWF82LUJnLUJpRVp2OENHZEkzN0xRU000eVRIMDFOYw?oc=5",
     "news_image": "",
     "news_source": "Consumer Reports",
-    "news_age": "113m ago",
+    "news_age": "115m ago",
     "news_columns": [
       "marathon_elite",
       "olympic",
@@ -87782,19 +87773,17 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.02,
-    "news_title": "Trump gives emotional tribute to fallen Army Lt Tyler Feehan after flying grieving family on Air Force One - Fox News",
-    "news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOWtwSmRCSF9oY0JUWW13Nkh0YU9RMUlKWU9WRDlNQ1ZTMlpTaWh1Q1JjYjZxbmZhQklFZ2FkdEZxU3p6cnR5NUh6NWc2Uk5RYlhmMmpYd1g3aXpUTUxMZVVUYlVSMjN4b1JSdVY4Y0U4WmtWSFF1RDVsZ3liX2RBbDlpb0owb2hldHpHTDMwWUE2XzJCcGdiVGdSeHBTa3Z4WGZVLWFPb3B0QmNxNDVvZFlXMEtBMFJPTmxuSHMtZnV1NFht0gHKAUFVX3lxTFB4QXMwYkRUVFBKeVNtWU95ZkdxWEYxQUctdmV0TmltWWpYbmNxdmtXbElIcGtNYWpwZGdIeU5ObXRVNThGVVNSNjdLeHYwNFJvU3haYVhpaWJ6OEtaVk9XZTMwTmthYzVURTZJQlh6MEVqOXNSVUNiRHd2anBIOFdsbVpIYnNOeU9iQzZON3RVU25MNWNPNWZGVVVyV3V0QXE5WXhZUmlaWFlhNjNiZG1kMzR5aEg3MmNNanQzMHVkOWFIQmNfd2ptUEE?oc=5",
+    "news_score": 0.01,
+    "news_title": "House Dems hand GOP a win on trans sports as party unity cracks - Fox News",
+    "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVhET1h0RkhTZV9vcnV6QWtiYXNGQm1pMThPbl95RkFFNGJfVW9VbjZhazVzQTFJc2RyZzg5T09YZWxrVzJVa1JEUFpoY19nUmxtYlBUQU96SEFaMGlaNmRXOXF1MFFGOWYtM1lhNTRadW5NSFp4X0h2dHRaZVhPRXBQbnBPVkxybU41V0lIRmk5d9IBlwFBVV95cUxOVW9fUGpjUTVvc3JIWlQtazMxT3I2bEhSNmJfdlBPVmk3a3l6WlN6ZC0zNXIxY1dWZ2hpM0s0X1NPazdTYmtxS2k1NnJJWndEQ2pMaHEwRmxNSFRHMWhTYWttNjVGX1VsQ0QyeWVsN2x2VFBwaktrQ0hrLUdxVnp1eVNuNzBFTm5VQWJCTmZYOUNwYmZValhB?oc=5",
     "news_image": "",
     "news_source": "Fox News",
-    "news_age": "11h ago",
+    "news_age": "19h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "lgbtq_rights",
+      "gay_marriage",
+      "gender",
+      "democracy"
     ]
   },
   {
@@ -87900,7 +87889,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.56,
+    "news_score": 0.55,
     "news_title": "Stock futures slip as investors eye more earnings; Alphabet falls on higher capex outlook: Live updates - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vblI0ZnhoVnRkR2FISkRsT3hDd0UzZVhPd1JmaGFldHpEY1BaTl96dmtCcXFvU0ZJdHJ0U3kxS0t6eTY3LUUzTXo5TExReU5IdWJsbVc5Z1pKekJuWVpxZTBkdjc2Tm52b3MxYVRFU0lFTEN3WW9B0gF8QVVfeXFMUHJIVU9pa2lVQ1YxcGVuVXBIbFN4M1JJS1BCQ0dvTklEbmhlYjRrelFmVXNSbXVZLVhBZHVNZjcxZlU1OEtyNU1UaGo1Vjdua1p3MFUxa0dPYlo4ay1HN0k0eXBNcXlfU0ZRX1gtb3dPOXVhbC1IR3RWWlZNZg?oc=5",
     "news_image": "",
@@ -87983,7 +87972,7 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.34,
+    "news_score": 0.33,
     "news_title": "U.S. signs nuclear deal with Saudi Arabia that gives it path to enriching fuel - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeHgya3BPS203QXhIQVVkOV9JNmZpQ2M4eG1jSjJJZkk2UXY3eV8wVEhKZUZhd3o2TFJJaExWNWVTSUkyTi1QMTBSTkhGTGdTdXhGVEdVbnB0VzFqRzA5Y1JzMDJiNGROU2Q2VktGc2w4T3hoY0M0U3lVY3IybzFsUVdZUTF3aUtsUC1RRFRHcWVYZDV0OW9Yc2psMnctTmw4cU5NTV9weUMxRlBR?oc=5",
     "news_image": "",
@@ -88063,7 +88052,7 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.48,
+    "news_score": 0.5,
     "news_title": "World Cup 2026: Fabian Ruiz and Gavi get weight in tomatoes for win - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzMmRQa29WNU1yZnF4YXphdENUaHg1TktPM2lmalRTWHBQSjh4cnFQMFN6SktQNHVfaFVxVDBWRzg3LTJIdXhaUnIwSkJyT0hibEFsNXlhbUtfVnd5RDQ1QXdpVXMyZU0?oc=5",
     "news_image": "",
@@ -88111,7 +88100,7 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.48,
+    "news_score": 0.47,
     "news_title": "‘A surprising success’: US, Mexico and Canada fans on hosting the World Cup - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY2ZHRE1JTVlqZTJMZ1FLbXI0ZjZnZWhJT1BwOXk1WFFKNVM0UjNjaG41MnY0dTMtWWxRTFZqUm4zVEdiekxXSkhOSnhOVE1CbFd2WlcxODl6U2hzdUJybUdUZXBJekdzNDdtMVZmXzNPZmFnZWdiWnVSWFY1RkFHNU5mUjZfcnVqbDRkY0lwU0Q4ZUdncFhvNDhzYmFuMVVYb1pCbVBwOGtoOERHSVRUZ3NoaGUwYjEwN2VLLXdTZndGTnBEMTRQREVBUHMxd0RfNHE5ZnlUVVc?oc=5",
     "news_image": "",
@@ -88157,7 +88146,7 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.8,
+    "news_score": 0.7,
     "news_title": "India protest movement holds capital sit-in as police crack down on demonstrators - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUFLTkNnV0U3YkE5eUo3X190anpLTlg0QTBKWGNwbExRVXU5cWlmMWpiejNJZG5PbWp3U0FDM0xyWGhZcHVGMVh2LXJoUFlaTnE0ME43dnhmTkkxdlNPUHJJeTh5REFDNm11bVFtOVh0ZTZpY21ONWgtel9uUHhkZUtHVS15VEtNREE2WFpfSGt2MFc5a1hlR0RiNjI2WjhYZ1dMUGZHbE5pM1NiR3c?oc=5",
     "news_image": "",
@@ -88461,7 +88450,7 @@
     "cpi": null,
     "lat": 25.3,
     "lon": 51.2,
-    "news_score": 0.72,
+    "news_score": 0.71,
     "news_title": "Iran War Updates: U.S. carries out 12th straight night of strikes as threats to oil trade deepen - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnFoblVaeW56TWFYUWE1SGl5N0RtX2t1S25oOFprWVlLZjFPa0Nmdm5hWjdzcmNpTGJCejk5OUxnMF9Pbnh0SklXc3BRYlktaVR2cS1Mbk1FNVVhak5QakV0UEh2VXF5UEFJQ2ppWXZ1Um9FX2lYSEpiaUEtT3dFaEQ2N3lRdTRLSjZRTnZGWk1PUk1tWHUwOVdVZjc?oc=5",
     "news_image": "",
@@ -90621,12 +90610,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.77,
+    "news_score": 0.76,
     "news_title": "Natalie Potts, Justin Evans, Kennadi Williams on Sports Nightly: Wednesday, July 22, 2026 - huskers.com",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMTFtTFg0bkZSZ2dvRHVpaEFmSWtlcHF3eG00MEZIOGFJWUpUcnpVeFhNNjYySTVtRDJYbmJXeEFxU216cEhmWXZBVXBKcUlWWTZYWWYzNE9tVjk4TFA4b0FJcXlwYlJ3Q3k3cEJfQ0h1WlplRlE2NlNOd1F5SFljQmdhUG5HaGlncFpOSWIyRTFua2RWLTlIZDBTNGlNOXhkQXkzRU8wRGloc3lxMWNUWkhsSF9aQWhGQXlveA?oc=5",
     "news_image": "",
     "news_source": "huskers.com",
-    "news_age": "64m ago",
+    "news_age": "66m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -91347,12 +91336,12 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.05,
+    "news_score": 0.09,
     "news_title": "Anthony Joshua returns to the ring seven months after facing a tragedy beyond sport - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMnExUE1xNEYxd1o0X0hvcWg5Q3Z0dE1ldFVUSGFyU1d4WnNESF9CLWNhZERULU5EVmphWWZlS2ZEOXo1TGRRS1lOLWdQQW9hWGVEM2xhOHZmaU1mc3l1ME1fMzZoRDJrUlBpNm9hN0xvOUJlbU9IUDlVQ2pfRG9QYTlTSkxWU2lTeUN1cEJyVXNWQQ?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "5h ago",
+    "news_age": "6h ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -93190,7 +93179,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUFpqS0Zsd2owZ09VSmRPV2pFa2dRaHlrcEN3U2JubTVWLWY4QnNwd2FLaV9HcG5mbEVQUm1BNXR2TTBKLTZyQmFINWJtRXQwLXRtd0l6el8tMkhMMmhCZDZIZ2paN0dUdUNVNEF6WE5XNjRPVy16WGw2b2syX1BKZ015Tlc0Z0hlVnU1MUJTSE9kbXNJ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "6h ago",
+    "news_age": "7h ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -93605,12 +93594,12 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 1.38,
+    "news_score": 1.43,
     "news_title": "Sports ministers renew Commonwealth cooperation through sport - thecommonwealth.org",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbzBNX01UTlplbXcyYk9POV9VcHZSNnRVQXFmMW1OX0NwY0U3V09abjZwaGtuMl9WOXVSWVc4djB4cFRUU2s0QmRtdzVzb3cyRGJMZXZSUmVfbEhRRVhzSzhJVGI3aHlKbnV0NjNjcGVyTGYxYjhiS0hKWC1SOXlGNGVBbXdTRlhOOV9BUlBqSVZSazBVSVJHa3Z3?oc=5",
     "news_image": "",
     "news_source": "thecommonwealth.org",
-    "news_age": "5m ago",
+    "news_age": "7m ago",
     "news_columns": [
       "olympic",
       "olympic_gold",
@@ -94401,7 +94390,8 @@
       "internet_pct",
       "patents",
       "rd",
-      "startups"
+      "startups",
+      "car_density"
     ]
   },
   {
@@ -96024,7 +96014,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZmU0dDAyaGZERTFvdElRLVdqRTdIdVRDRi13R2w4cGVlVU55NG41UlRpdnhGZjhfSERkTzZlYlBPQkxYYWxzcGw5cnNqM241a29MTHJUSzBoVGphdDQ3RWpaRFdjV051WncwQ1NmR19FbVluVVE3eWQ3bVpXVUd1SnVKdUVfSnY2TnlKUzhQYw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "68m ago",
+    "news_age": "70m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -98283,19 +98273,19 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.4,
-    "news_title": "White House re-edits World Cup photo after Spain and FIFA crop out Donald Trump - Yahoo Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOHYzSUcyUXBTem5mU2VkNDNLRUxnNk9uTXlESzVuWXRYbndiR1dJN3BUOFhjdWhoTnBLVGN1WUg1WnZaQlZ1ZExyUjZBZzJCYzJocUN1Ml9aWWZxTGtVSS1nb3BJNUtpUlVMbWE1M0pmdU5ZVTFjRTl0YjRNcy1YdTFn?oc=5",
+    "news_score": 0.5,
+    "news_title": "Tension between Mullin and White House appears to be growing, sources say - NBC News",
+    "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUDJLczBNMzcwNnZhdkNRZWN4MFRsQmtXZmR4eUxMX2NRaGFKRHZUT2JBYkRYdVVLamc2QmtfbHZSVjdCX19LRFhxdHJfYXk3cVUwRTZtblFTNTd2ZDdUMmJ5QnctV0h6WlBlVkhVSHNuLWdMbDN4N3Z3WVhHMlFkZVBHYW5KLWpic2h2UUl5OEREZHhwcTZXdTh6cUx0NUE5dDlHNndfWXBDc0NVa2lB?oc=5",
     "news_image": "",
-    "news_source": "Yahoo Sports",
-    "news_age": "39h ago",
+    "news_source": "NBC News",
+    "news_age": "70m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
       "ai_research",
-      "internet_pct"
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "murder"
     ]
   },
   {
@@ -98877,7 +98867,7 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.75,
+    "news_score": 0.0,
     "news_title": "10 African stars who caught transfer scouts' eyes at the FIFA World Cup - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNFB6d1E5NmI4OWFqTmRrM0EwTHFmWmU3c1dkamxleWpyMXJVTWQtLWJKWF8wNXhTVzk3X1lOakZackEyS0lvQ0o2R0hiQktFTmRLSENrc0tBWGFNUGZaUEFqa0pwdkNvWWlYcTlIMjB5SVllOTI2WkhTcmtCdjN3TEY4bnZXWFlUTnlIeDZBeTdscmVILXdjdTV0aVAzaTBmSzdWdjJiWFRrbzBE?oc=5",
     "news_image": "",
