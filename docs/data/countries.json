@@ -1891,7 +1891,8 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ]
   },
   {
@@ -7846,7 +7847,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.5,
+    "news_score": 0.52,
     "news_title": "Trump vows to punish Iran and Houthis for attacks in Red Sea - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNFdZY1R2bFRCTk51X1E2U2dLZUphMDA2MVlUaGRzOEJXRXc5Vl9ObDNaVE9FNnU4eTV6TXBjYjRyR2xZekJYeGY2VHNrYW9hSjhpSjQ0aVJEdXBkSk9Ja2NXRjZjQng3Rkp1eFBHMlVwQ2paZUlVRnZUN0l3OThQRlZVLTJDanZHREpMTjFNVm9odWl5alZwRUpDbUhwSWRWeHc?oc=5",
     "news_image": "",
@@ -13730,7 +13731,8 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ]
   },
   {
@@ -16414,12 +16416,12 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.88,
-    "news_title": "Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeTY2cVJHNnVRWG01TG14d1ZxTmUycTZWXzFmd3hEdnYwTUJtTzdiUDJOUXRUX05YMmFIcjVJTmRFWkFwaEJ2RXBEZnIxU3pITU1vbER1TlBvY0VqTW0za3RRRG1OQWI3ZHFDX2tOWDVsUjZDVU9tZkJUZEpCdlQxTGlDQ0Y2V1U0X2FBQThfSlEwampOWk14dWxKNE0xU2Ja?oc=5",
+    "news_score": 0.76,
+    "news_title": "Amit Bhatia, Liverpool and the potential of India: Is this the beginning of something spectacular? - The Athletic - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSUh6WGlGMG82RnNBNG1Ec3pua0RFeTlpQm1NOFBFVHJqZkxxeG52MWRsZlU3TE5ZdmVFNlhnZzA0Q2FhWVNEQ1NrWV9HVGpJR3dCMEZRUDVQYWU2LXktZjZrekdqRjJFQVhlRHAxV09Jd013SVk4b2lDVmRENW1nTThSVlRnRjk5c2Jmamh3TFNMZk53WWY4?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "89m ago",
+    "news_source": "The New York Times",
+    "news_age": "4h ago",
     "news_columns": [
       "democracy",
       "press",
@@ -16986,7 +16988,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.77,
+    "news_score": 0.83,
     "news_title": "Trump vows to punish Iran and Houthis for attacks in Red Sea - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNFdZY1R2bFRCTk51X1E2U2dLZUphMDA2MVlUaGRzOEJXRXc5Vl9ObDNaVE9FNnU4eTV6TXBjYjRyR2xZekJYeGY2VHNrYW9hSjhpSjQ0aVJEdXBkSk9Ja2NXRjZjQng3Rkp1eFBHMlVwQ2paZUlVRnZUN0l3OThQRlZVLTJDanZHREpMTjFNVm9odWl5alZwRUpDbUhwSWRWeHc?oc=5",
     "news_image": "",
@@ -32066,7 +32068,7 @@
     "union_rate": 66.9,
     "union_rate_rank": null,
     "fifa_ranking_rank": 49,
-    "news_score": 0.19,
+    "news_score": 0.18,
     "news_title": "India and Romania sign three agreements in the fields of Science and Technology, Education and Sports - News On AIR",
     "news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVlZTUlFwcTlSZFRqQmxmWnFzbW9TZ2YzTVhvZ0ZNc29WWFRjYWNqM2kwQU95ZDJBMmZBR21uWFRXMzk5a0dEODNjblVzZVVMYy1HRWxjZF9vbGlKNzBTRkZVeVhGYW4tZlRQMk9nNzRJR3lveG96ODZfTzBxeC1fdmRkbU5ySzJrbUFJd0VDX0N2OUpXWnU4N1hDbXJEdm96QlZhSXZYV0g1R1pUTWotWWVKdGlsM0F6SHhBeEV1YktFcnVy?oc=5",
     "news_image": "",
@@ -32426,10 +32428,10 @@
     "news_columns": [
       "cricket",
       "olympic",
-      "exports",
-      "imports",
       "gdp",
-      "military_pct"
+      "gdp_per_capita",
+      "inflation",
+      "unemp"
     ]
   },
   {
@@ -35939,7 +35941,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.56,
+    "news_score": 0.8,
     "news_title": "Spain coach slams Argentina's World Cup final behaviour as 'unacceptable’ - Euronews.com",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPazQ4UWZOZHB3bU1uVWZteU9HcjItb240czkxU3ZXNGhZNGNEc3B0RzJKbjRnYWdnTkYyY0VJanpfU1RQU2wycjVXLTBiOVQ5QnhTWEdhWTBaMm1aNzhSOGluVC1mVFI0aW5rUWFPUDU5a1pwOVVMMjVfZ3BkRU1lZi12TTFETWtBVWV5bHZKYU85M1Q4cUVMY3ZJY0U1em9fM3VlRVdyR0tMZw?oc=5",
     "news_image": "",
@@ -35948,10 +35950,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "olympic"
     ]
   },
   {
@@ -40386,10 +40385,10 @@
     "news_columns": [
       "cricket",
       "olympic",
-      "exports",
-      "imports",
       "gdp",
-      "military_pct"
+      "gdp_per_capita",
+      "inflation",
+      "unemp"
     ]
   },
   {
@@ -43351,7 +43350,7 @@
     "union_rate": 34.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 123,
-    "news_score": 0.15,
+    "news_score": 0.24,
     "news_title": "Trump vows to punish Iran and Houthis for attacks in Red Sea - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNFdZY1R2bFRCTk51X1E2U2dLZUphMDA2MVlUaGRzOEJXRXc5Vl9ObDNaVE9FNnU4eTV6TXBjYjRyR2xZekJYeGY2VHNrYW9hSjhpSjQ0aVJEdXBkSk9Ja2NXRjZjQng3Rkp1eFBHMlVwQ2paZUlVRnZUN0l3OThQRlZVLTJDanZHREpMTjFNVm9odWl5alZwRUpDbUhwSWRWeHc?oc=5",
     "news_image": "",
@@ -44108,18 +44107,18 @@
     "union_rate": null,
     "union_rate_rank": null,
     "news_score": 0.0,
-    "news_title": "Widening Ukrainian attacks on Russian online retailer Wildberries shutter another warehouse - Reuters",
-    "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcWJhZzRQbDFwWDZFZDh0bE5Lc2FwT0FmZHB5ZXNaaDEweDAxUDVSaW43TV9EUmEyY0FkVEY3TEhmdWk5V0NxZ1VtTWNyYU5jSEgtWUxyaWxtaExjbTVZQ2g2dVlYd1hSRGwxYURuTEJtV3JqRm5mYVJtQ19TTGRwSTVSOTI1bDRhOXpxN2F6dXJ4bDd6NVloamtJOUFMalRyN3M3aG44RUJ3SlI0QmNPd3lVYTJNekZLbWh4VDJfckhYUFV5Z000WlpCNDFuWWc0NW53U1J3?oc=5",
+    "news_title": "Top US and Russian diplomats discuss Ukraine war in Manila - Al Jazeera",
+    "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT1lsVDNhcXkzR3ZQS0lROEdZay0zalFBVTVoc1FsUjQ3Q1A2R3JDazc1eWt3YjBRMlQwUnJGSkhjNkpOUmk0OGw2VFJDYzlQQjdpekxWSU1tY1dNenByMWlva1RIMDRoMTZST1dSYjNNbFJqQmpsY1BaX1U5M3lUVEtlSGpwZGhSVW1KMW1FU2hnZGxkeTBFMVZRR21NczM30gGmAUFVX3lxTE05ejZoYzJIcG44TFVzaWREYUpFMmlBV3FJN2FJRUtmSGcxOXdrb0tCV0JaS0pKbm1qTjFOUGxyckNSSlh6Sl9KdG52U0N4clc3eGRRX3hHaDBKdlJQZzFTVjRPejJlVWdGQ2RHRDdNbnBOX1M4Y3hMdFZuajR4SWo0eF8wM0w3WUhyclI4dXlRbktRbTliZ19Za25OZTJHWlh3Uktubnc?oc=5",
     "news_image": "",
-    "news_source": "Reuters",
-    "news_age": "9h ago",
+    "news_source": "Al Jazeera",
+    "news_age": "21h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "cricket",
+      "olympic",
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp"
     ]
   },
   {
@@ -44329,19 +44328,19 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.59,
-    "news_title": "My Galaxy Z Fold 8 Ongoing Review Living With Samsung’s Passport Foldable - CNET",
-    "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM0RiMV9FWWNlcnkxVENVbDh3T284aUhhOW9odDR6V0N0b2hSU1lWdHFqRTBUY3U0aGlpVlE1cUI2a2FUSmgwWGpfdEM5MUp0dm5FZEluaHNhTXNZdzhIVTlHYlhzWU1nMjZLZGxicjd1N3Fudzh5VEItR3lCQjVHVDJKaFozUnJpamZMZmdSbnBXWDE4ZEdTcEw4YnpyaFZ5LV9DNlpvSmVxalFERE1VQg?oc=5",
+    "news_score": 0.42,
+    "news_title": "10 iOS 27 Performance Improvements You'll Actually Notice - MacRumors",
+    "news_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nM1c1RUhQLWFSY1dEeXhDRzVCYmdZRlNlYVZqMVhDclF5MnNBNTFtNE5jN1o5MmtIa0lwMk15NUx4TVMxQXdnZGV5UkJ4VFhnVU1KOFpCLUxRckVWWWFGd2k1YU1RR05SYzBDMmxVWmxVdw?oc=5",
     "news_image": "",
-    "news_source": "CNET",
-    "news_age": "2h ago",
+    "news_source": "MacRumors",
+    "news_age": "10h ago",
     "news_columns": [
-      "tourism",
-      "passport",
-      "aviation",
-      "airports",
-      "car_density",
-      "gas_price"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "car_density"
     ]
   },
   {
@@ -44551,19 +44550,19 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.14,
-    "news_title": "Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI - VentureBeat",
-    "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSTZYWFpQOXB1YmdpWHo1bEswUlBWaGNUX0Z6dEtVR3dBeXBUVXJoNHk3bVJnYXZfZlNNbWFGY1JULUF3bHBUNk1ySHUta1BGYy12b3ZWdXR0aG1yQVRvRW1ZY1lfSGxMZFJfR0cxc2wySnNKWTc0dVptdjlrX3IxakdqMEVsMmxERHZoR0NVRWJ0d1BUbGlqd3k0TDdxSFFCanMwbVNaMWlnWTZPb2EtN1Jtd2tnYkpoejZrUXBn?oc=5",
+    "news_score": 0.33,
+    "news_title": "Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeTY2cVJHNnVRWG01TG14d1ZxTmUycTZWXzFmd3hEdnYwTUJtTzdiUDJOUXRUX05YMmFIcjVJTmRFWkFwaEJ2RXBEZnIxU3pITU1vbER1TlBvY0VqTW0za3RRRG1OQWI3ZHFDX2tOWDVsUjZDVU9tZkJUZEpCdlQxTGlDQ0Y2V1U0X2FBQThfSlEwampOWk14dWxKNE0xU2Ja?oc=5",
     "news_image": "",
-    "news_source": "VentureBeat",
-    "news_age": "8h ago",
+    "news_source": "AP News",
+    "news_age": "91m ago",
     "news_columns": [
-      "davis_cup",
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "democracy",
+      "press",
+      "gpi",
+      "polit_kill",
+      "poverty",
+      "gini"
     ]
   },
   {
@@ -45439,7 +45438,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.57,
+    "news_score": 0.56,
     "news_title": "My Galaxy Z Fold 8 Ongoing Review Living With Samsung’s Passport Foldable - CNET",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM0RiMV9FWWNlcnkxVENVbDh3T284aUhhOW9odDR6V0N0b2hSU1lWdHFqRTBUY3U0aGlpVlE1cUI2a2FUSmgwWGpfdEM5MUp0dm5FZEluaHNhTXNZdzhIVTlHYlhzWU1nMjZLZGxicjd1N3Fudzh5VEItR3lCQjVHVDJKaFozUnJpamZMZmdSbnBXWDE4ZEdTcEw4YnpyaFZ5LV9DNlpvSmVxalFERE1VQg?oc=5",
     "news_image": "",
@@ -48318,7 +48317,7 @@
     "union_rate": null,
     "union_rate_rank": null,
     "fifa_ranking_rank": 1,
-    "news_score": 0.39,
+    "news_score": 0.38,
     "news_title": "Norway considers filing Fifa ethics complaint over Trump role in World Cup red card saga - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcVRBQkZEdGpCRkxjWm9pS0RCSWlGWUNrVlkzQ0EtOGJRemlDT0RGVlhxd1lmbmVqazVhMEQxemVveEtGd3JqemVXNzFsS2pLUWF3Y2JjSXFjdC1RbHN2bmNQVHlSVzhlZEdsaWM3R292OUQzckxOZ3NIODZaZFFqRU5JTWJGdElpZWQ1ZzVKQW4wSWRadGNZTjc2Vm9UbTQyNEE?oc=5",
     "news_image": "",
@@ -50076,7 +50075,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.19,
+    "news_score": 0.18,
     "news_title": "One Brewers Player Who Must Be Better - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZlozc1lMU010anlKdlo4U284RGw5bFU0VHhVM0F1MkZMemJBYmRTUFhIdUh0Yk9LSVQ3RjFRY1djWUtrd29WRXQxT3dna1dOVDRkWk1zdXdsaDExbVEzSDlOYkFBNEY2TnVMY2s3ODhhNTN5YlRLTnRNTnVTNVlyR0w0YWxUZw?oc=5",
     "news_image": "",
@@ -72009,7 +72008,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.65,
+    "news_score": 0.63,
     "news_title": "Dodgers visit White House to celebrate back-to-back World Series titles - MLB.com",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbHU2MF8zWkNzZkllUUE1MjhTbzIta3o5d3JNR19RSXRTVnVWY0hGNDRHZ2t6SXBvNXVqcUtvV1F3d3lYcUQ2QXlzb1BYd05XQ05ranVJOV93UW83NEpvdHpiWlRXQXkwVzRtVVBhTFJuSGxzYXFSdXVGMVMyNF95VkUta3FwMl9EbnBMczhBOWhiYTZOaXhEQlR3?oc=5",
     "news_image": "",
@@ -72451,7 +72450,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.16,
+    "news_score": 0.2,
     "news_title": "Amit Bhatia, Liverpool and the potential of India: Is this the beginning of something spectacular? - The Athletic - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSUh6WGlGMG82RnNBNG1Ec3pua0RFeTlpQm1NOFBFVHJqZkxxeG52MWRsZlU3TE5ZdmVFNlhnZzA0Q2FhWVNEQ1NrWV9HVGpJR3dCMEZRUDVQYWU2LXktZjZrekdqRjJFQVhlRHAxV09Jd013SVk4b2lDVmRENW1nTThSVlRnRjk5c2Jmamh3TFNMZk53WWY4?oc=5",
     "news_image": "",
@@ -74232,7 +74231,7 @@
     "area": null,
     "gdp": null,
     "hdi": null,
-    "news_score": 1.3,
+    "news_score": 1.28,
     "news_title": "Trump, His Money, and the World - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbFZUMXo0LTFZSldCLXpjN1hwOUtMaEc2cjlTcUJQVjdTRVBnRFlocVNKLUZoek55T0FMLUZNdzBDNjl3Z2Z0czFfQjEzOVFDOHUxcExwRG8zbkt2dnVUY3owdjkxdlZuU00wVEtvMnQzaS03WnFPb1pXQXlhTVFweUR6QWQ?oc=5",
     "news_image": "",
@@ -75495,7 +75494,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.17,
+    "news_score": 0.18,
     "news_title": "Donald Trump says decision on ‘massive attack’ against Iran is close - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX080UG13UG5QNjJFR3RYaFRSc1dzSWxvNFRkYkdJZkYxcWNDaDRwSEtOd205MnpMZFVWYVpLd1FvM1hVdGFWV2RHc0pUSWd0M2JXQTZOVm5ZQTAxWnhfOHZ6TE1DaFl3NVNrNE43aURsb0pGSXVTWjJoSVpNUEY3MDh0cE9STXdkUjZIeHpSdnZEX1N6NmJBbE4tcDlST01zUWJRT2ZSSjNEdDBMdkpF?oc=5",
     "news_image": "",
@@ -75904,19 +75903,16 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.01,
-    "news_title": "SpaceX’s Latest Growth Opportunity Isn’t About Starship. And It Isn’t Helping the Stock. - Barron's",
-    "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1EyV0RadjdqWWQzejJuZHlkMDZoMlRkQ3laYWozNHZwQy1VSXdSdzJwa1ZoamZEckVzejYyUnVUY0ZDaU9hUDZxSFMzakFrdHJTNGNPX0VtVFF6NDcyLWhxUDBrRlhQWTBXVGU1YlVBTV9zZEd5X1RiZER0VHBwc3hWdUpMaUE?oc=5",
+    "news_score": 0.03,
+    "news_title": "SpaceX Is Turning Away Falcon Customers in Major Bet on Starship - Bloomberg.com",
+    "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNczdubXVsc2I3VmxUS3dMZFU3NG03M1RRT09TbHB3ejU1WFVqRWYzdktRbVVzaWt2NDFFNHd5anlVMTNhUzNwVlNJanpNR3NGRks5SG80NHRTa3VPejBaNzdGcG1SMzRxTmlJU1VRNDBOMDlkbXQ0clJKZnkxQkF0N0p6bzR5dGxTUmFqeXlhTTItZnBza2oyNGZpSk1wVjV1OGxQTWpuLV9iU0FFRWRWSUg1MjZUZw?oc=5",
     "news_image": "",
-    "news_source": "Barron's",
-    "news_age": "34h ago",
+    "news_source": "Bloomberg.com",
+    "news_age": "9h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "space_launch",
+      "rd",
+      "patents"
     ]
   },
   {
@@ -81713,7 +81709,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbXRadTBBY3UxdjhzM2UyXzVRYUJBM2c0RmtPZ0JRc0c1b2FIVkxCQTRWakJqb2R4RnYzNzBQQXRaMG1QRU5aLUdyT2xRQklzdGZ3UFl3SUlWczlUNWktY00yemI4cU40M2RySWFsT2R6MS1yTkFKSjE4OGEwTGx2VS1mME1Pc1VycEV6RXl2ZklHOVQ3ZUt4U0ZVOVFjQTBpc3F4MGpzSkE4M1BsQ1RtYWpoWUZzMmp1UzRGazQ3VDNMdnlKSFBJRUJZUm9TcHhQX21ZVDR2aG1rLWc?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "77m ago",
+    "news_age": "79m ago",
     "news_columns": [
       "gender",
       "gender_gap",
@@ -82919,7 +82915,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbXRadTBBY3UxdjhzM2UyXzVRYUJBM2c0RmtPZ0JRc0c1b2FIVkxCQTRWakJqb2R4RnYzNzBQQXRaMG1QRU5aLUdyT2xRQklzdGZ3UFl3SUlWczlUNWktY00yemI4cU40M2RySWFsT2R6MS1yTkFKSjE4OGEwTGx2VS1mME1Pc1VycEV6RXl2ZklHOVQ3ZUt4U0ZVOVFjQTBpc3F4MGpzSkE4M1BsQ1RtYWpoWUZzMmp1UzRGazQ3VDNMdnlKSFBJRUJZUm9TcHhQX21ZVDR2aG1rLWc?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "77m ago",
+    "news_age": "79m ago",
     "news_columns": [
       "gender",
       "gender_gap",
@@ -83999,7 +83995,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.33,
+    "news_score": 0.35,
     "news_title": "Kenmore Air seaplane crashes near Sucia Island; all 11 aboard rescued - KOMO",
     "news_url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOdERKMmdiQ0JLaFA3Q1hkUDVldGRzZ2kzTG01RGdSTjNhMnpwWDBiUF9NZ3huMDlqTWlLdXVHci04SHFNZjNZa05FbWIxTEhTVWxZVkZXUHljYk42MHRiZFluTzE5aEJJY1NhUGo2empaUlMzTTJITGpwRzl5ZS0wN2RJLVM3UDRvTG1WQ2dzYlpERThkRFFlbFFYckNHcENrcE1YNHUtb2xaejNVSURLc3BwamU4bFg5WFZpR1lnMXREUjVqZVZiS0owSjVlZnFEeC1PLUI4djdlazNBX2ZsWkJvbnhsanYxYnROTm9jN3MzenBqQ09aUVpYMmFwdlBNQmxIUjFyQVJhTDMyWmc0WkptWC1ob0dvcG9BZDBpSTZyVWdpdzl6aWtmeWduQ0VKRDBqY1l5RQ?oc=5",
     "news_image": "",
@@ -84469,7 +84465,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbXRadTBBY3UxdjhzM2UyXzVRYUJBM2c0RmtPZ0JRc0c1b2FIVkxCQTRWakJqb2R4RnYzNzBQQXRaMG1QRU5aLUdyT2xRQklzdGZ3UFl3SUlWczlUNWktY00yemI4cU40M2RySWFsT2R6MS1yTkFKSjE4OGEwTGx2VS1mME1Pc1VycEV6RXl2ZklHOVQ3ZUt4U0ZVOVFjQTBpc3F4MGpzSkE4M1BsQ1RtYWpoWUZzMmp1UzRGazQ3VDNMdnlKSFBJRUJZUm9TcHhQX21ZVDR2aG1rLWc?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "77m ago",
+    "news_age": "79m ago",
     "news_columns": [
       "gender",
       "gender_gap",
@@ -86036,7 +86032,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.4,
+    "news_score": 0.39,
     "news_title": "For Kansas City, the World Cup Was a Peek Into a Possible Future - Governing",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaHJfR0ZzdnFPOVM4Nm1WNFhBTDZRb2ZyekhYYUhrZGtaTi0xNVNjVU1LaUl6QmlHX3REckE2cXFpNFhFNzdUTjY0c0dTalN4Mi1Jb2MwVjAwUnZQYXlMMnFuNWRfSG5tcnh0emtOTzZVbFlxM0tZWGkxZk9iRGFmVFgwNG9RQjhtOEMxX3BzY0xobHpBVkxldjdWbnM4ZDNxd2ZsdlFpRQ?oc=5",
     "news_image": "",
@@ -88010,19 +88006,18 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 1.03,
-    "news_title": "My Galaxy Z Fold 8 Ongoing Review Living With Samsung’s Passport Foldable - CNET",
-    "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM0RiMV9FWWNlcnkxVENVbDh3T284aUhhOW9odDR6V0N0b2hSU1lWdHFqRTBUY3U0aGlpVlE1cUI2a2FUSmgwWGpfdEM5MUp0dm5FZEluaHNhTXNZdzhIVTlHYlhzWU1nMjZLZGxicjd1N3Fudzh5VEItR3lCQjVHVDJKaFozUnJpamZMZmdSbnBXWDE4ZEdTcEw4YnpyaFZ5LV9DNlpvSmVxalFERE1VQg?oc=5",
+    "news_score": 0.91,
+    "news_title": "Kenmore Air seaplane crashes near Sucia Island; all 11 aboard rescued - KOMO",
+    "news_url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOdERKMmdiQ0JLaFA3Q1hkUDVldGRzZ2kzTG01RGdSTjNhMnpwWDBiUF9NZ3huMDlqTWlLdXVHci04SHFNZjNZa05FbWIxTEhTVWxZVkZXUHljYk42MHRiZFluTzE5aEJJY1NhUGo2empaUlMzTTJITGpwRzl5ZS0wN2RJLVM3UDRvTG1WQ2dzYlpERThkRFFlbFFYckNHcENrcE1YNHUtb2xaejNVSURLc3BwamU4bFg5WFZpR1lnMXREUjVqZVZiS0owSjVlZnFEeC1PLUI4djdlazNBX2ZsWkJvbnhsanYxYnROTm9jN3MzenBqQ09aUVpYMmFwdlBNQmxIUjFyQVJhTDMyWmc0WkptWC1ob0dvcG9BZDBpSTZyVWdpdzl6aWtmeWduQ0VKRDBqY1l5RQ?oc=5",
     "news_image": "",
-    "news_source": "CNET",
-    "news_age": "2h ago",
+    "news_source": "KOMO",
+    "news_age": "3h ago",
     "news_columns": [
-      "tourism",
-      "passport",
-      "aviation",
-      "airports",
-      "car_density",
-      "gas_price"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ]
   },
   {
@@ -88106,7 +88101,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.22,
+    "news_score": 0.23,
     "news_title": "Justice Dept. drops 'New York Times' subpoenas under pressure from judge - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUzB1YTBFc0RmazhoVTJiN2R1YXl3YW5EckZ0SnlRREVZWlhRdmYzR25rTGJNVkx0U1FSVDAwU1BYQWt6WUh6TFUxUmRiNkNkV2E2NkRSYlhSaU56dng2TUxoZUVzVzlHRnRmUy1zMURraWNQVEVzbEJESHJWQmNGRkszYlhKTEpITFJMcS1meXhxb29KZlVqOEhvZTdFS0Nk?oc=5",
     "news_image": "",
@@ -88268,7 +88263,7 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 1.21,
+    "news_score": 1.19,
     "news_title": "Hot weather and World Cup give surprise boost to retail sales - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOXMzak9nbFRPNDR6UmYtU1hxUjZXV0hKdEZHUXd3b21sTkFTWF82X0ZxZW5jTWdKYUJBb1F0OXFyeFJuNThDMU5PRHA5WXcyZWcwTjVFV2VVcklSMkIwZ0lROWZfcE52VHpsc1VVVUdMTWxnMnBzTXY5ZDFDd3pKZV9DSXNXS1hQZ0g1SEsxdw?oc=5",
     "news_image": "",
@@ -88351,19 +88346,16 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 1.04,
-    "news_title": "Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeTY2cVJHNnVRWG01TG14d1ZxTmUycTZWXzFmd3hEdnYwTUJtTzdiUDJOUXRUX05YMmFIcjVJTmRFWkFwaEJ2RXBEZnIxU3pITU1vbER1TlBvY0VqTW0za3RRRG1OQWI3ZHFDX2tOWDVsUjZDVU9tZkJUZEpCdlQxTGlDQ0Y2V1U0X2FBQThfSlEwampOWk14dWxKNE0xU2Ja?oc=5",
+    "news_score": 0.89,
+    "news_title": "Two Chinese win world's top Maths prize for solving century's-old problems - BBC",
+    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByWjJPUmkyb3JVRU1xS1FnWXY3ZEdtMjRtUWJ5WnVrVEpVSlo0Sks4SHlKQjdYVlFBVlVvb19ieDE3MkhmTG9VaDlQa0NUXzY4aHJmeUY4OWI2Zw?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "89m ago",
+    "news_source": "BBC",
+    "news_age": "2h ago",
     "news_columns": [
-      "democracy",
-      "press",
-      "gpi",
-      "polit_kill",
-      "poverty",
-      "gini"
+      "nobel",
+      "nobel_per_capita",
+      "nobel_science"
     ]
   },
   {
@@ -88399,12 +88391,12 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 1.77,
+    "news_score": 1.71,
     "news_title": "Chess: Bodhana Sivanandan, 11, breaks world age record from 38 years ago - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd05iTHdYYXVQLVhXZ3ZLT05TaVpmbDZJZC1nYnR0emxYNXpNMUJOM2V1ZllCRWwweDd2ZkJnT3dDdFlGUjhzR0NWazY1ZlZVZHAxQXI1dHVTbjZ2ZGY0V2pOWDVrUWlwQmNOSE5nMnI1TTlvbXFVd1BoRldSVVdaMy1CcHRBbmMyVjFyR0ZtaTNjN09Bc19jcDhXVU42dE4tbC1wMGV6SkZKUmNybVVncjZ5dzJwUQ?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "72m ago",
+    "news_age": "74m ago",
     "news_columns": [
       "chess",
       "edu"
@@ -93255,7 +93247,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.28,
+    "news_score": 0.27,
     "news_title": "Toronto Blue Jays Closer Makes Team History - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZzdXM3A2Z3hGakZRZmlUVUF5THQtTk52QWNCa05JczdNbWx3Y0ctcEdUSmdfNmZJbXYzWnNvaGhGQm44V1RCWU5FRmZTcTlBMzNIcjRLRy1tYmlUaEVGTHZEbTB1cHFvN0NBZUwwbTVacllMdnk3cU1CMGlkdDRPYTF6eGRhQQ?oc=5",
     "news_image": "",
@@ -94641,7 +94633,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.22,
+    "news_score": 0.23,
     "news_title": "Justice Dept. drops 'New York Times' subpoenas under pressure from judge - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUzB1YTBFc0RmazhoVTJiN2R1YXl3YW5EckZ0SnlRREVZWlhRdmYzR25rTGJNVkx0U1FSVDAwU1BYQWt6WUh6TFUxUmRiNkNkV2E2NkRSYlhSaU56dng2TUxoZUVzVzlHRnRmUy1zMURraWNQVEVzbEJESHJWQmNGRkszYlhKTEpITFJMcS1meXhxb29KZlVqOEhvZTdFS0Nk?oc=5",
     "news_image": "",
@@ -97059,12 +97051,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.07,
+    "news_score": 0.08,
     "news_title": "Ken Paxton loses ruling in Texas abortion case against Houston-area midwife - Houston Chronicle",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPamdGRDJ5bWFrcFg1VlhET2VMbVpPWkRHSjdUYjlFNmdMRk9WZzlWSzFsWmVKalpBVzk2amlVR085TGQ3c1ZIbWYwcTRLdWVoaWk5STJadEY5ZldyNTZqMU5Wd2NSX0JvM3pUei1jeXJUN1FlMmZIWEJOeE5SMV9jd3UyRWpFZ1VtbTdQeU8zR3BOMGlHZmd4bw?oc=5",
     "news_image": "",
     "news_source": "Houston Chronicle",
-    "news_age": "8h ago",
+    "news_age": "9h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -98666,7 +98658,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.65,
+    "news_score": 0.63,
     "news_title": "Dodgers visit White House to celebrate back-to-back World Series titles - MLB.com",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbHU2MF8zWkNzZkllUUE1MjhTbzIta3o5d3JNR19RSXRTVnVWY0hGNDRHZ2t6SXBvNXVqcUtvV1F3d3lYcUQ2QXlzb1BYd05XQ05ranVJOV93UW83NEpvdHpiWlRXQXkwVzRtVVBhTFJuSGxzYXFSdXVGMVMyNF95VkUta3FwMl9EbnBMczhBOWhiYTZOaXhEQlR3?oc=5",
     "news_image": "",
