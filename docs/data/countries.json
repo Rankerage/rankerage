@@ -1907,7 +1907,11 @@
     "news_age": "14h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket",
+      "democracy",
+      "approval"
     ]
   },
   {
@@ -7882,12 +7886,7 @@
     "news_source": "World Baseball Softball Confederation (WBSC)",
     "news_age": "10h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "gender",
-      "gender_gap"
+      "olympic"
     ]
   },
   {
@@ -12772,15 +12771,16 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 2.04,
+    "news_score": 2.25,
     "news_title": "UNESCO adds France's D-Day landing beaches, Greece's Mount Olympus to World Heritage List - WISN",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUGdlUGF4Ym1zWjlBaW1XdUctWkdwbkN1VHZSVlUzamkxVHBPWWc0SnBpTVJjYUN2MXNITEVzRXBVN2hNbl9aY0FEZGJmX0F3aEc0Z1BfRjJyYnhrdDVHYW9CRHdjaEZZLTRRSEU5eVpBdVU1VmpfdkZmMk1lUk5TRDladGxfX1Ju?oc=5",
     "news_image": "",
     "news_source": "WISN",
-    "news_age": "14m ago",
+    "news_age": "16m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ]
   },
   {
@@ -13292,7 +13292,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.06,
+    "news_score": 0.04,
     "news_title": "Georgia’s Okefenokee Swamp among new additions to join UNESCO’s World Heritage List - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcVkzUGYteC1oVnNGNV9KNXVTY1dZcTRzYjI0aFd3Ykt3YzhfOUVkQ3hCMHVjUGhMUU9WYnduVmpfdUJyaFlLVTA0TEdpZzJvQ3pkQUxFZ0JKOGlJQlRxWTE1bGQ5Y1JZY1IwSlZHS1Z3bHo4T1d0c1NvbDdmQXhZQklBSzFqU3hDSWRPME5raXREdVlJSElIVml1VGRiQUIwb05zWmxORQ?oc=5",
     "news_image": "",
@@ -13794,7 +13794,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.47,
+    "news_score": 0.49,
     "news_title": "World Cup as a career killer: has this Germany star gambled badly? - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNckZFSExoUzZVWE9qTVNROUk2UjI4QlV2ZHRzcGpNdWV5a2h2N1U2aFJmbUFvQ2tzRTdnNDczc1VDYnM5VVpTaE9VMTZ2OWlUVGliWkd4ZjZYTHFlQXNuYi01LVRTeXprdGt0Y1hxZXhVeGRWV1JHTmtiUURxY3lyc01CLXMyNzg?oc=5",
     "news_image": "",
@@ -14257,19 +14257,14 @@
     "refugees_rank": null,
     "union_rate": 70.0,
     "union_rate_rank": null,
-    "news_score": 2.17,
+    "news_score": 2.11,
     "news_title": "UNESCO adds France's D-Day landing beaches, Greece's Mount Olympus to World Heritage List - WISN",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUGdlUGF4Ym1zWjlBaW1XdUctWkdwbkN1VHZSVlUzamkxVHBPWWc0SnBpTVJjYUN2MXNITEVzRXBVN2hNbl9aY0FEZGJmX0F3aEc0Z1BfRjJyYnhrdDVHYW9CRHdjaEZZLTRRSEU5eVpBdVU1VmpfdkZmMk1lUk5TRDladGxfX1Ju?oc=5",
     "news_image": "",
     "news_source": "WISN",
-    "news_age": "14m ago",
+    "news_age": "16m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "murder",
-      "prison"
+      "olympic"
     ]
   },
   {
@@ -17065,19 +17060,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.16,
+    "news_score": 1.15,
     "news_title": "Trump Seems Trapped by Iran War, Even as He Wields the World’s Biggest Hammer - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPems4eWFxMUp2N21pajlRbUEtUHBBbVBKU0pUcTNfWW1abGRHTnJVbU95aVhITERhdVM0aE93dHM2UXZjLTk2Ri1iZG9EZ0tVVDZ6UktwZXo0YVF4VmdsbGx0QWhXQ2FZUHQ3THVha2cyekpXZllTa2lTMTY1dHhuQjVERQ?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "75m ago",
+    "news_age": "77m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "car_density"
+      "olympic"
     ]
   },
   {
@@ -17263,7 +17253,7 @@
     "union_rate": 43.4,
     "union_rate_rank": null,
     "fifa_w_rank": 108,
-    "news_score": 0.23,
+    "news_score": 0.22,
     "news_title": "Energy in Iraq: the new front line between Washington and Tehran - Al Majalla",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSWNmdl9nX1ZONnJyemNYWUFTZUZQajJIZnYwNnpvdFZJd1Rib1I1bzFsTnN3S3NMS2lZb2RBTWZGemlsMVNkdUpwTWpKbnBuNVcydHRlVTk3QjJEZ3ZTcTR4aTEzUjVZWlpJLWNINXZOT0htOUdLVzJOQVVJTkJqN005bFh5Q2ViQmctN1NNai1DUnJQVlctOVQwczZfdUh4NkZoc2p6UkxfMEs1?oc=5",
     "news_image": "",
@@ -18237,12 +18227,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.6,
+    "news_score": 0.87,
     "news_title": "Pirlo’s Italy appointment stalls as FIGC scrutinise Russian betting links - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOczczX0o5azRZTDVEbzdzcC0ydVR1QTRuNUI1VXkwVlZWTi00VFlTOHBoaF9yb21iMHJNOWRJdmJ5RUxvYzBkSXNUeHJ2VzZJSWl4OWdoV1haMVN3Z0ZxUzhQX2xWQS0tdWtzcVViOTZ2YlVMaTU1UFQxOGZQbks2RFNFT19tcHp2NTVmSw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "117m ago",
+    "news_age": "119m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -18917,12 +18907,7 @@
     "news_source": "mofa.go.jp",
     "news_age": "2811h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "olympic"
     ]
   },
   {
@@ -36009,7 +35994,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.8,
+    "news_score": 0.84,
     "news_title": "USA Women Win Gold Medal At 2026 World Cup Final With 13-9 Victory Over Spain - USA Water Polo",
     "news_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZW9CZFFuZE1YTVZRQnNrbkNjQ2Z5VXJpWWotdzJQQVBWeTVQWW9tNElKclhydjVLNS1Zc0ZtVGQ1OTVkU1U3UG02QjNFZ3lFSHFaM0l5ZWs0M195MTJ6Z1J1RDhSelJqcGtoVlJiOWF5TGxkY2JEek9xSFQ1WFhKVHlBaDVaUmI1Qmdyd09JdEsxaG94QmZRM3JXaVlQQ1JYRXZ2SWZ0dUNoUjZRVTZvWVJQREVoRV9rTDVMcHRRRl9DbzBib2x4Z0loRnFCYzRyZUZRU0UyRTVqWVZxaWVoY3duSGc?oc=5",
     "news_image": "",
@@ -38355,7 +38340,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04VHZFREZNRG44TDEyWWlFbEUzcFN3eXJ1amxISHNRSThNTmIyRWFrZU1STUhJSGlMVThDV09ka3VwLTRwRFcxTWtwME9JZVozY0p1UUhoNFBQeDJpNkZ6Z3VNQkhmcGM?oc=5",
     "news_image": "",
     "news_source": "Nation Thailand",
-    "news_age": "9h ago",
+    "news_age": "10h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -45521,7 +45506,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQenZQaW53TFhTV25jQlNDNVNJTGlyQWxvN2lkbFJrb1NmQW1CN2dSaXBSaDk1ZnBlUW02OUZIdXdhLWRmRHNHN1dNLU1nbFgzeEdNemM2T3d5ajltZjVMSjd6MTBwbDVqN2JCam5sbl9VY19haldKZUdPWE9BVG5yYlZPdzFPbC1qYmtZY21R?oc=5",
     "news_image": "",
     "news_source": "PhoneArena",
-    "news_age": "10h ago",
+    "news_age": "11h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -47063,7 +47048,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.43,
+    "news_score": 0.42,
     "news_title": "☕️ Messi steps up, Pirlo controversy and Sunday’s 5️⃣ stories - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYmVkSHJtTVlBRGJfSlo3TG5jOVpVUXVsa000N0hUMVZ6WkxncUgxSWdLajJvMUxsckNkTF9DbmpqUnBVZG1yTFp0a29sbFdobF94c2wtdzk4Z0NWVTgtNFJXQzRpZmlvZ0RkYmpzX215V0tEZUVRc25rNEs5M1E2SDNkQzlaMDBOd1BCakJn?oc=5",
     "news_image": "",
@@ -69542,12 +69527,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 2.33,
+    "news_score": 2.36,
     "news_title": "UNESCO adds France's D-Day landing beaches, Greece's Mount Olympus to World Heritage List - WISN",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUGdlUGF4Ym1zWjlBaW1XdUctWkdwbkN1VHZSVlUzamkxVHBPWWc0SnBpTVJjYUN2MXNITEVzRXBVN2hNbl9aY0FEZGJmX0F3aEc0Z1BfRjJyYnhrdDVHYW9CRHdjaEZZLTRRSEU5eVpBdVU1VmpfdkZmMk1lUk5TRDladGxfX1Ju?oc=5",
     "news_image": "",
     "news_source": "WISN",
-    "news_age": "14m ago",
+    "news_age": "16m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -72142,7 +72127,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.63,
+    "news_score": 0.51,
     "news_title": "Tucker's Solo Shot Helps Dodgers Beat Mets - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLUFXTEUxUUlONlBvalZDSmRINTlyYkpRVFVZaHZ0THgzMlpRc3MtbDYzcE50MWlPdFdsWGpxQ3FZZXV1bDlYeExmYzhHRHdrYnNLVnZZN2FOUUNqX1kxS0d5LTRjTm1nRzdRLWF5aDhYSGZacXZtRjl2ai10ZkR4OXpCUFd6b2M?oc=5",
     "news_image": "",
@@ -73248,7 +73233,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOQTg2WHRfRXJhRTJJSlhnMjd3WnBPTXhJd19qakhhLU1VbjBFa1Brdjhuc2FvSWVsX0hic2YtU3o0TVZ3T00xV1JWNUhvVFcxUmNGZUhmeFN5eEpuX1JLZDMwcC00azBrWHRHanJDZnNqVXh0SUF0YndyVG1zLU5Mc2ZIYzlkV0lUSkRzaWpEeVQ4VXRjV3pneExDSkJkczFnUlhYRk8zaHRONmdCR2tOYTB2SWNnQmFNTG5XTWVKNWljYmtrakN4MHF2bnN3N2xmeWZ4Z1RiNjA5R1JxNUk5YmZyVnJZdlFjU2JkYnBZV0xRTFctNmZBeXRTWWN0U29faFVhTEhtUnM2X2JXRDh0VUxn?oc=5",
     "news_image": "",
     "news_source": "Sky Sports",
-    "news_age": "37m ago",
+    "news_age": "39m ago",
     "news_columns": [
       "lgbtq_rights",
       "gay_marriage",
@@ -74361,12 +74346,12 @@
     "area": null,
     "gdp": null,
     "hdi": null,
-    "news_score": 0.71,
+    "news_score": 0.79,
     "news_title": "Trump Seems Trapped by Iran War, Even as He Wields the World’s Biggest Hammer - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPems4eWFxMUp2N21pajlRbUEtUHBBbVBKU0pUcTNfWW1abGRHTnJVbU95aVhITERhdVM0aE93dHM2UXZjLTk2Ri1iZG9EZ0tVVDZ6UktwZXo0YVF4VmdsbGx0QWhXQ2FZUHQ3THVha2cyekpXZllTa2lTMTY1dHhuQjVERQ?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "75m ago",
+    "news_age": "77m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -74393,7 +74378,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR21CUFdHU2YyTjY1bnFfZHQyQXNNQ004aGEyUmVFelZjRnJkUUtEckpickl1RUxJVXIxcW5RdW5sb29qcjV4UERxX0JqZFZHZzFSWUdLNy0yZ09fYXBsWTZOWk5NeHhRNVFScVNDUTRZbDZXTmVmbkllSFQyQ0YzemdYWDVXa3VJTGlNczlqLWc1UFBDd045UlBwNXYtZDYxWkdmRVJ6Zw?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "54m ago",
+    "news_age": "56m ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -76848,7 +76833,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQenZQaW53TFhTV25jQlNDNVNJTGlyQWxvN2lkbFJrb1NmQW1CN2dSaXBSaDk1ZnBlUW02OUZIdXdhLWRmRHNHN1dNLU1nbFgzeEdNemM2T3d5ajltZjVMSjd6MTBwbDVqN2JCam5sbl9VY19haldKZUdPWE9BVG5yYlZPdzFPbC1qYmtZY21R?oc=5",
     "news_image": "",
     "news_source": "PhoneArena",
-    "news_age": "10h ago",
+    "news_age": "11h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -81918,12 +81903,12 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.76,
+    "news_score": 0.75,
     "news_title": "Nusa stays Roma’s priority after Rashford and Schjelderup suggestions - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR2E2TGxnTzZfQUl4cVAya09NclZESUtJZTF5dFdpSjViNkF4YlpVRjFTeWpyU21WTGVDcVR0bHRuZEhKUTZtTUN1MENNLTZmdFUzak1oM2o4OFNJSGtVM0d1NXIzQkgyTDhCX0lEWGIwWkxlM01QU0pXSHVFMlR6Q3QzYXBQWk5sbUE?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "67m ago"
+    "news_age": "69m ago"
   },
   {
     "flag": "",
@@ -84290,12 +84275,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 1.22,
+    "news_score": 1.27,
     "news_title": "The shrinking world of former president Joe Biden - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR21CUFdHU2YyTjY1bnFfZHQyQXNNQ004aGEyUmVFelZjRnJkUUtEckpickl1RUxJVXIxcW5RdW5sb29qcjV4UERxX0JqZFZHZzFSWUdLNy0yZ09fYXBsWTZOWk5NeHhRNVFScVNDUTRZbDZXTmVmbkllSFQyQ0YzemdYWDVXa3VJTGlNczlqLWc1UFBDd045UlBwNXYtZDYxWkdmRVJ6Zw?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "54m ago",
+    "news_age": "56m ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -84532,7 +84517,7 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.0,
+    "news_score": 0.03,
     "news_title": "Nolan Wells’ best friend skipped funeral due to death threats: ‘Wish I could have been there’ - New York Post",
     "news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRkRmcE9vby12OE5XMUt5YnJzOE1ZSHlCSG95Vm1tY1lBVjl0TUVOUlRHTngtbVVjOUVTd0lzWnVyVHhwRkp4R2J3ZkQ3LVEyRmJHNVRmSEUzZW1JbHk1NUdPVWRrai0zNTljSW83Q2s5S1JLWUwtY1M4WmxmcGdHdk1wUWFSSDgzS2dqQlJ3QXVFSG40M2NXemJjbXprcFNQNDNad0Z1R0pnakxLX2l4LWROS2pWSkVlSVRRTEtKTi1iel9fcmpn?oc=5",
     "news_image": "",
@@ -86570,7 +86555,7 @@
     "cpi": null,
     "lat": 42.8,
     "lon": 12.8,
-    "news_score": 0.55,
+    "news_score": 0.54,
     "news_title": "Newcastle Battling Premier League Rival for AC Milan’s Defender - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMGp2UkdtcjZBeUM5SzE2S1hfenZGc1ZJOFFWd3hReFRrdVU3T1ZBM2ZoLW9aRkpqQ0pTUWY0WWJOa0NKdm1rODZDaFc4UUM2aDBydkotbS1BbWo4bFBJck81aDhtOTJENTB3dENzcDZ1alNKQVZZWlpJWmFTYWtueFdmVk5pZ1FoWUFCek5Zd0E2QQ?oc=5",
     "news_image": "",
@@ -88366,12 +88351,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.41,
-    "news_title": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp? - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDJld2dfWkJobEFGdjZJaUQ0LThjRlJfcDFXSVc4dEwxMjhmeVB4QVVqcFVTV3B3RGRFV2NHWmpQdWsyVEx6ckxOdWVXcXcyRmpuejVER2R2alBhTEIyRlhGaHkyUXRQSjNKQ1kySDR4dHZvdm9LTWxMMXZUZ3p1ZUJqOE1WS1VNYlpKalF0NWdsVTdWZ3c0ZGRB?oc=5",
+    "news_score": 0.33,
+    "news_title": "Vance, Caine raised concerns about escalating war in Iran, sources say as US pauses consecutive nights of strikes - CNN",
+    "news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBieTh2VUFkT2FTaklvelQzMlUzemVpSlhzeThqNlhjQjV4SlhWY3ZYeUMzbThCQXlZTFRacVljM1BIa1oxQUtqU0RiVFgzU3BTWEE3NlhhUjBJcUpPSERvRWhETTRoTlFhYjhIZXEyTXVVcTQ?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "4h ago",
+    "news_source": "CNN",
+    "news_age": "8h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -88628,12 +88613,12 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.9,
+    "news_score": 0.89,
     "news_title": "Normandy's D-Day World War Two beaches become UNESCO heritage site - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVTU0dExaQXQwclFiczhBbmVYTG1PWVF4NmswWk1GRm9sendaeWwxZ244MXBvaTNYQmZmZWlxN0x2NEpKQmlvV2RPbEg1M2hDaEctcTZwVXlHcldxT2IxTnliOEk1bUZBQzc5ZW5CdDM1M0t2bWZwLS03bG0xSzYyaXJpT2hjZFpYUkpwTDhPM1hPbXhnRjFoOFFPejdzVUR6VUpGRGpCTHY0UnFVelpPUzMxYkdzaFk?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -88710,7 +88695,7 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.05,
+    "news_score": 0.06,
     "news_title": "France and Spain fires force more than 200,000 to flee homes - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU3ByX3R4dXFNeGhFZUNSandpX3ZXM2lVMHdCUkx3MXdOemtfaHBBZTRHc2pOVXVwR3FQZTRDbnFDNzBwTUZabzNLNFFWSnFza0FDUE10R3lDdGVCRU9PZEpyQjY4b01lR0FCNmFYM2ZTbmVrXzlIZVBudUpabjRqZ2RoMmlWdw?oc=5",
     "news_image": "",
@@ -88758,7 +88743,7 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.82,
+    "news_score": 0.81,
     "news_title": "‘Weekday games were amazing’: pubs toast extra £150m in World Cup sales - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORk9NT0hSck13VFBwWnY0Y3BaQlNLaEpBeEYzd2hMVTJ3N3BsaklLTXV6clVhS25CNlU1UUk2VjJWZy1BcmtRbzJYT2FjVG5TOHlDV1RtWk1pLWZFNTA5RnV6czNWTkxKZGVBbUhfdjUySWRPbll0ZlVfSk83R3NXVFVDTDB3bG9jLTlsTXp1ZVUxYTJSaFVR?oc=5",
     "news_image": "",
@@ -89110,7 +89095,7 @@
     "cpi": null,
     "lat": 25.3,
     "lon": 51.2,
-    "news_score": 0.7,
+    "news_score": 0.68,
     "news_title": "Cape Verde World Cup star Vozinha agrees deal with Chile’s Colo Colo - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWExSanc2ek5NQUtkNHVIVlJZeXgwd1NTYV9WT2JpQmFxdnFndVhCN1g0OTBUWEdibXBqTkZCS2ZXUjJud1dkZ01DMXBoUlZDSVd5MTloS1NWVS03SnM3NG1WdlgzQmo2RVlLOGlTdjIwTl9wYWlod3JrbE1QM000akx1WkIzcWg4STNOV1gyanRBWmYwcTl2eDF5WTF0S0tULTdqYmlmU0JkcjFOOWQ00gG0AUFVX3lxTFBoV1NCYUd4ai1ldVd5eUFKRm1QX3FyU1VGS0JiZWRaSkxmWkZzQnR0dlF3S0dDQjBJOXdneF9MaUpNSzBCazJwSWRsVXhyWVoyRXFhWlJncDdhQ0VGUzZOZU4zMTI0REU4SG5EblJCU1ZSMHFVRk9PTWZRZVQtOVpyRXk5WGlMdW1CSFl1ampFVDY1ZW5zWFhiY1BrZFZZVHFrZEd2T3I0NGNGUE5nQXBNYXo0Yw?oc=5",
     "news_image": "",
@@ -91003,7 +90988,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.47,
+    "news_score": 0.52,
     "news_title": "Bills Face Dire Prediction on Josh Allen’s Future in Buffalo - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcmhNMEM3dHdpUEE5c19qUjBHREcxYTAxVExVNVNtS0xwOHhoN2lsVkRKeE01RVZ5Q1BNc0lsd2pIb3haRlFidGZmU1JHdmxTTDh6aFVWd3FJcjQ3UHhSeEFPRnNYY1ktZGlmWE5zS0loWTF6VUd0NzYwODBISXhoS0o2QWVkTGc?oc=5",
     "news_image": "",
