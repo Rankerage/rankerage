@@ -1,1 +1,66 @@
-{"last_updated": "2026-07-20T10:33:54Z", "total_rankings": 135, "total_countries": 1196, "version": "1.0", "update_frequency": "weekly", "global_narrative": "The 2026 FIFA World Cup dominates global sports headlines, with discussions on its economic impact, cultural significance, and future implications, while geopolitical tensions involving the US, Iran, and China persist alongside domestic political developments.", "trending_stories": [{"topic": "2026 FIFA World Cup", "entities": ["AR", "ES", "US", "FIFA"], "columns": ["fifa_ranking", "fifa_w"], "weight": 0.9}, {"topic": "US-Iran Conflict", "entities": ["US", "IR"], "columns": [], "weight": 0.7}, {"topic": "US Politics and Tariffs", "entities": ["US", "CA"], "columns": [], "weight": 0.6}, {"topic": "NBA and College Sports", "entities": ["US"], "columns": ["basket"], "weight": 0.5}, {"topic": "Global Economy and Trade", "entities": ["CN", "US", "GB"], "columns": [], "weight": 0.4}]}
+{
+  "last_updated": "2026-07-31T18:04:13Z",
+  "total_rankings": 135,
+  "total_countries": 1211,
+  "version": "1.0",
+  "update_frequency": "weekly",
+  "global_narrative": "The global sports world is dominated by controversies surrounding FIFA's World Cup plans, the NFL's ongoing issues, and major personnel changes in broadcasting, while economic and geopolitical tensions simmer in the background.",
+  "trending_stories": [
+    {
+      "topic": "FIFA World Cup subsidiary sale controversy",
+      "entities": [
+        "FIFA",
+        "Infantino",
+        "UEFA",
+        "UK"
+      ],
+      "columns": [
+        "fifa_ranking",
+        "fifa_w"
+      ],
+      "weight": 0.9
+    },
+    {
+      "topic": "Tony Romo arrest and CBS leave",
+      "entities": [
+        "USA",
+        "CBS",
+        "Romo"
+      ],
+      "columns": [],
+      "weight": 0.8
+    },
+    {
+      "topic": "NFL training camps and team predictions",
+      "entities": [
+        "USA",
+        "NFL"
+      ],
+      "columns": [],
+      "weight": 0.7
+    },
+    {
+      "topic": "Global economic and geopolitical tensions",
+      "entities": [
+        "US",
+        "CN",
+        "IR"
+      ],
+      "columns": [],
+      "weight": 0.6
+    },
+    {
+      "topic": "International sports competitions and records",
+      "entities": [
+        "FIFA",
+        "FIBA",
+        "IOC"
+      ],
+      "columns": [
+        "fifa_ranking",
+        "olympic"
+      ],
+      "weight": 0.5
+    }
+  ]
+}
