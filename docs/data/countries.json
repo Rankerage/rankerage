@@ -6827,15 +6827,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.6,
+    "news_score": 1.53,
     "news_title": "USA Women Dominate Canada to Win Fifth Straight World Championship - USA Lacrosse",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVGVHMURLaVIzN0FJTG5GTlFJM3NZOEx3c3Y0NC1teng4S2JEejAwNzQ2Q2xCUUk3U2txOG1scGY1UHQtN2JITF9uempKdTY4ODU3RTJpWmFfWlYzZ2pvVEdCNHU0dU9JTmU4ck9rcExacWNEZVhmZWhfajY3anhlTE93Wi00aGNPVGpZcTEwWnd4azVkUE4zV1gtUkZxc0trZnRxM0cydXB3NjA?oc=5",
     "news_image": "",
     "news_source": "USA Lacrosse",
-    "news_age": "49m ago",
+    "news_age": "51m ago",
     "news_columns": [
-      "olympic",
-      "basket"
+      "olympic"
     ]
   },
   {
@@ -12810,14 +12809,19 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.78,
+    "news_score": 0.85,
     "news_title": "French wildfire near Bordeaux contained as 1,500 firefighters battle separate blaze in Provence - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSVVmOGN3UkdYdHBLWVhmMlFheVFwZkplU2xkekoybWZtRi0tbXFRMHBwVHpBTUlwU1RfdFVBTUhuSEVVYnQ0TFVLYXFTWlFNbDZ6Q3JhQUwtMTk0R25HRlZ4OVNKOWtwN2FzYW5Ia2NKdWFsd1U2OFdXVWFyb290dGFUT2VDREhreE5CbUxUQWlmRi1KaWlNdGVuRF80NThpckZ2c2VsSlVRTzU0aUFUVTI4RQ?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "27m ago",
+    "news_age": "29m ago",
     "news_columns": [
-      "olympic"
+      "earthquake_count",
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ]
   },
   {
@@ -13329,12 +13333,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.64,
+    "news_score": 0.63,
     "news_title": "Georgia DB trying to return for fifth college football season - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTEh1Y09KVERNblpMTGNhdjNnZ0I0bGFPcndhUzZfcUY0YzY5a2ZyalFEOGRreW83VXoxMGhSV2xUTWhRSng0M3Y1M0FaRHVXSGxsV1RjQy1XVHdmZE9NZHhwZ0JMLWRndk1BdHVERzNqUmtmeWItS1FWekhDaHRpRk81Vi1IZw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "105m ago",
+    "news_age": "107m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -16863,12 +16867,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 0.27,
+    "news_score": 0.46,
     "news_title": "The Pat I knew - Inside Indonesia",
     "news_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOSDRuMW0yN0FxWkdvWGFKbF9VS0UwbjV4M2dKS1lPd0hXN2lBS1djTE9vODFkYjFOeVBvSXJFYnJ3TGhQZE03NXR0V1ZpcXlra3lGcFhpZk03RUxYSnNJV09UUQ?oc=5",
     "news_image": "",
     "news_source": "Inside Indonesia",
-    "news_age": "25m ago",
+    "news_age": "27m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -17127,15 +17131,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.9,
+    "news_score": 0.87,
     "news_title": "Live updates: US-Iran war news; Trump calls off Iran strikes subject to deal being ‘rapidly’ reached - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmRm9ldjJOd2ZubDZtNFZ2YTdlLVJ4QWxpTEwtek1weGtPdW02blI1Mlpsa0hLUFRpeGRKaTN6bmlacldaSzVodG5ieVRpMC15RG9SWXNROHZ5eTBBb3llUnV5aVhEOXBEMHd3YnJB?oc=5",
     "news_image": "",
     "news_source": "CNN",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ]
   },
   {
@@ -17857,7 +17860,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wNDQ5a25fTURQZW9EX3JVemRnQy1acFZPdFJMSjRQT3NFM1hKSmkzN2NTV3ZoWHI1aE1taWdleG5FTzYyMHhIYnhBaWdsWUp0MndmaUw4VmFSTW5LLWQ4WUJGZE1IdDQ?oc=5",
     "news_image": "",
     "news_source": "World Lacrosse",
-    "news_age": "87m ago",
+    "news_age": "89m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -18295,12 +18298,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.78,
+    "news_score": 1.0,
     "news_title": "Newcastle express interest in Italy and Atalanta defender Scalvini - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzBmclJoSk5FOUlhM2pIeGpFQ1BZazBRZ2pGOXFqY3pFR3RWNjM5SVBRa0lSVzJsS1R3NWdZaVE1UVYtNlQ5QzZqT1VvSTJZUF9PbnRCWDhQV25DYTltSHhLVjRUV0ZHWUxRTHlXZC1FTlNWV1JQWXY1NXVIT2J2aGZyZi1UdHhaU3RPWEp4R21HdGt5?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "102m ago",
+    "news_age": "104m ago",
     "news_columns": [
       "fifa_ranking"
     ]
@@ -18974,8 +18977,7 @@
     "news_source": "Deloitte",
     "news_age": "2359h ago",
     "news_columns": [
-      "olympic",
-      "basket"
+      "olympic"
     ]
   },
   {
@@ -36097,19 +36099,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.06,
+    "news_score": 0.05,
     "news_title": "Climate change increases likelihood of compounding drivers of severe wildfire conditions in France and Spain - World Weather Attribution",
     "news_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYUh0Mmw3TkJOb0R1dkZTY19sYW1lY1JhUmdUYmVHaC1ka1pYYmFBeGhzVm42RnctbWxYRUtPQlFhemdWYzU3OW1hdzE3ejUtT2w0U3hTYjhQZjQ3LXJxc3V4UHZwdDk2aXpmVi1mdUplazJNVjBhRHo1ZU1WV0tORHN1RUtoaFEwcHIyV0R1RGYzaEY1R0lIV053aUx2RmYtYTNFcUozUGhUbTltSnM5c3lEMlcxS2txcGFxejJLeFY3cWhhU1VsM0NVSkJNV2FZRFRiQkRBYTUwR2tBT2NuWFJ0RQ?oc=5",
     "news_image": "",
     "news_source": "World Weather Attribution",
     "news_age": "64h ago",
     "news_columns": [
-      "co2",
-      "renew",
-      "forest",
-      "pm25",
-      "earthquake_count",
-      "earthquakes"
+      "fifa_ranking"
     ]
   },
   {
@@ -41814,7 +41811,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.83,
+    "news_score": 0.81,
     "news_title": "The United States completes perfect campaign at the Nissin Foods 2026 World Lacrosse Women’s Championship with fifth consecutive gold medal - World Lacrosse",
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SUzg1a1E2dVdseDI0bjNqT0hvYThtdk05UzdTUElQcnZ6WmJ1VGRTVUxnWVo3UzMtaERHLVFKbnNmams0NzFMd2pKRjdpSUl2S2dMS3d2U1ROQUEwWm5CaUUxSVdrM2M?oc=5",
     "news_image": "",
@@ -41822,9 +41819,8 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "basket",
+      "olympic"
     ]
   },
   {
@@ -42739,7 +42735,12 @@
     "news_source": "The New York Times",
     "news_age": "3h ago",
     "news_columns": [
-      "olympic"
+      "earthquake_count",
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ]
   },
   {
@@ -44744,12 +44745,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.61,
     "news_title": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNV82Z0xEX2JldWNxWXNmMFQtakZrbndjeWNKaEgwRDQ2Z2pNRzJHQllnRkVVcjh4SzgtTmJPWTV4VEV0Z3YzdFctekpqck92RGpYLU1kMUtIN29IOEpwZVNBMTlFRDQtVktmWWYtbG9LZ0NwZER2QzJwYjByTWduVUtaR1lNVG5GVDVMRXd0dEJPdG9QYnk3VU5ORWtsYjRONkE?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "118m ago",
+    "news_age": "2h ago",
     "news_columns": [
       "immigration",
       "emigration",
@@ -46962,7 +46963,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSkNVZFg2NzRha21wNUoyRjU3bW0xQ3JUbXpjNEYtUFV6R0Y0a2p6VmF3OTUzQ19UdFRldG53VEJQcTBtNDUzNmpqUUlXVG9TZHFpZ19PSDVNUlo3S0NRUmtGazBvZC1VUGMzdFdfbzJiODB5ZDh0N3BlYXJaeUg3OENtMURQOTdydWZuLXdlQkM0UQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "107m ago",
+    "news_age": "109m ago",
     "news_columns": [
       "basket",
       "olympic"
@@ -47175,12 +47176,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.41,
     "news_title": "Messi returns for Inter Miami after World Cup - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVEtPLUw3eFk1VGs5YkpIc0N4MHhiLThMS3I1NFpycUZWcVpQdkJNR2lRY25YZ0ZnbXFtZUp3QTBjdWpGZ1N4WDZSTUpkNlUzSm5MMEsxTlBwM29kNUh3X0RjLUpvdnBjZHBTdmpNYUNWVlk4eFd2TllpVzdtcjZMUGVMNkRFYlk?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "4h ago",
+    "news_age": "5h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -48508,7 +48509,7 @@
     "union_rate": null,
     "union_rate_rank": null,
     "fifa_ranking_rank": 1,
-    "news_score": 0.69,
+    "news_score": 0.68,
     "news_title": "Inside the week that shook Gianni Infantino, FIFA and the football world - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRjJ5RlB3SUJSWkhmQWVrZ3JLX0JhQ0FLbXd1RHM2Tmx3Ui1WYkxmbEFMVm5MMjhBZFBPVW5velhYN3NBYWdqTVNvb1dBZG9ycjR3UTFaeFQ4VWlEVEFsNm93eFN4SXZjN0xqRFE4TEpVY1UwMUN1b3NjTjdaQW1Hc19CTXlfVXlWWjJmQkxR?oc=5",
     "news_image": "",
@@ -49608,7 +49609,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.15,
+    "news_score": 0.1,
     "news_title": "Technology Originally Developed for Space Missions Now Integral to Everyday Life - NASA Science (.gov)",
     "news_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWk9zUFBvbmFQRDhLMmwtMGpSYXRtbmxtUTI0dnNWbWVPYlhQRDdxNHp1eHlZS1YwRks2cXlrX0lQU25aZUVvZmoyNWJ5OXpaQXE1aVAxN3g5TVAwYzBVWWg5aVhiUlRqYm1aUWF4TGcwaFZHOHVkaTdGWWtKLTZzb3JZLWY3S2tCaE03UmNNbkRkY2hPd2RzaXJpTGhXRzNEdGJISldrbGlCYVVQX2o4MElSdGRkYjdCcDdUdXZpcVRZMXVEa2pRTmpQQkpRS3NBdHdISWJ3OGZaUzJueG8xSk1nSFhqTG1MdzZqejFqQjRiaXJ2SjFCdjB4WDVIQXhTbENF?oc=5",
     "news_image": "",
@@ -60289,12 +60290,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.88,
+    "news_score": 0.89,
     "news_title": "OPEC agrees September oil hike, completing rollback of voluntary cuts - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOUxtS1l6d0U4NVcxelJCQ1EwSGpaQ3BjNXJHUlpQcVlfZXJjMWU5WllQR21KdDZ0dlo2NDI0cW1RVXd3U0FiTHZMRHNDNng5ZXZseU9lT19KeG1RY18xRGNTVzBjdHpzOWpYQkwxTENWWko4NmtFQm5iQzFvQWdfeGhvQVZSMHdrZjhzRFREVnN2RWQyanBEdGp0T19mazNxR0ZiRXdFRVlvX1RZNW5mVFgyYlUxeS15QlZfOHhWY1UzSzFTZk13Yw?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "35m ago",
+    "news_age": "37m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -61841,7 +61842,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSkNVZFg2NzRha21wNUoyRjU3bW0xQ3JUbXpjNEYtUFV6R0Y0a2p6VmF3OTUzQ19UdFRldG53VEJQcTBtNDUzNmpqUUlXVG9TZHFpZ19PSDVNUlo3S0NRUmtGazBvZC1VUGMzdFdfbzJiODB5ZDh0N3BlYXJaeUg3OENtMURQOTdydWZuLXdlQkM0UQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "107m ago",
+    "news_age": "109m ago",
     "news_columns": [
       "basket",
       "olympic"
@@ -62711,7 +62712,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.06,
+    "news_score": 0.07,
     "news_title": "Sunday’s fire weather forecast not as dire as Saturday, but ‘we’re not out of the woods yet’ - The Spokesman-Review",
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOUF5U2ZDZmZwWnlLY1Q3WjVnWDJJRS1hdzZpT0M0QkY4Z2dNSE9rcTNKa1hPVXpZS2owME5ZTmpidkxtQTVfUUhDcXdFSTF5d2U2czl3RmYzdHBlVVZubE11cTVMNkpZWkZBZWpRQ0lNUDN3UTc5M1hQVjVzMTV6S3g2dzFlVFVpeUNlLXFPVEpXMUdvTkFYX1RVZzJYUQ?oc=5",
     "news_image": "",
@@ -64690,7 +64691,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.55,
+    "news_score": 0.54,
     "news_title": "Controversial Broadcaster Defends Bizarre Shohei Ohtani Take Using Aaron Judge - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUnprZVo1SmNHVi1nR2MxbnVCdlBRN2plNkVxNTEtdzNBS18zSUU1Yl9tREd6d1Z2ZExfLTVYVU8yTjhxaExkT0JjWUx6RWZmbVhUZVNOOGJJUVRORWhkbERzSGc5OUlUQnd0bG81M3I5czBSVS02VC1Xb1VvYkQ0NWgzY1VqQmZMRUtoWjNXQU5pZlZTMVp1ZEtEOW9Gdw?oc=5",
     "news_image": "",
@@ -72290,12 +72291,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 1.49,
+    "news_score": 1.48,
     "news_title": "‘LeBron James Ruined Professional Sports’ — Ex-NFL Player Calls Out NBA Legend After Dodgers’ Stunning Tarik Skubal Trade - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSkNVZFg2NzRha21wNUoyRjU3bW0xQ3JUbXpjNEYtUFV6R0Y0a2p6VmF3OTUzQ19UdFRldG53VEJQcTBtNDUzNmpqUUlXVG9TZHFpZ19PSDVNUlo3S0NRUmtGazBvZC1VUGMzdFdfbzJiODB5ZDh0N3BlYXJaeUg3OENtMURQOTdydWZuLXdlQkM0UQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "107m ago",
+    "news_age": "109m ago",
     "news_columns": [
       "basket",
       "olympic"
@@ -72509,7 +72510,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.31,
+    "news_score": 0.3,
     "news_title": "Are Bayern Munich fans starting to turn on Manuel Neuer? - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWUpnc3FrRllhNEhJN0w5T25KSjdnbWJjZ1RwYWZ6ZVhlb1hPaTFjT0ZqeUFGbTIwNC1KUUl0Z3Etd3JQcEZMbTMwQ1Z3c3FzR0pfLUR4XzFrY2c0T2JPQjdHcjNvNEJFdFVTVXJ1OE9PaDNaVV9tYkJBazJhUFdiUGhOa29iQkR0?oc=5",
     "news_image": "",
@@ -73615,12 +73616,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 1.17,
+    "news_score": 1.18,
     "news_title": "Arsenal 2026/27 third kit release date leaks - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15Z2RqMWRpeVo3bmVZSEFRSXlfenZ3U0M5OUo1N2otcTJyZW5ScG1wYi1UQVlzXzRHemdxSF92N0JkVUFlbkVOckxMN1poVHhveFdKVUUtZWN6RkFZMjlZaGctSGJEZVFsUHFORGloMzRVSXBpVHRWU1VjMHoyVVU?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "72m ago",
+    "news_age": "74m ago",
     "news_columns": [
       "lgbtq_rights",
       "gay_marriage",
@@ -73836,7 +73837,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.24,
+    "news_score": 0.23,
     "news_title": "K-League K-League All Stars Man City Manchester City - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwbnVWY0x5TnhDSTR5U0Q1UVN0eUlzSU1YWEdZNjJjOF9hRk9TQXNsdDlBeFEtSmlSaVRDaFRKa2hoZnBzWHV5WXNNUUdtVDZsRlJfeVRkWmtzRmZxdGg0OHpOVXUzRnZDbklqUG1uSTBRa2lXczZ3WVhzcHE?oc=5",
     "news_image": "",
@@ -74510,7 +74511,7 @@
     "area": null,
     "gdp": null,
     "hdi": null,
-    "news_score": 1.13,
+    "news_score": 1.12,
     "news_title": "Live updates: US-Iran war news; Trump calls off Iran strikes subject to deal being ‘rapidly’ reached - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmRm9ldjJOd2ZubDZtNFZ2YTdlLVJ4QWxpTEwtek1weGtPdW02blI1Mlpsa0hLUFRpeGRKaTN6bmlacldaSzVodG5ieVRpMC15RG9SWXNROHZ5eTBBb3llUnV5aVhEOXBEMHd3YnJB?oc=5",
     "news_image": "",
@@ -84079,7 +84080,7 @@
     "cpi": null,
     "lat": 37,
     "lon": 127.5,
-    "news_score": 0.09,
+    "news_score": 0.15,
     "news_title": "Josue Briceno homers twice, Lakeland wins in extras - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVmlCdTc1cmlHQ3ppdVpWNFp3M0FHLWdrd1FuSmJyMkpoY01GcHZGdU53ME1ORm9pejZ2MEo5TFk0ZTlILW5qaUJfa21rTHo3M0cyY0ZmRktiUWlVYnN6b3o5WDFkbXlPbndHekZzWExPYXBVWkRwQkZUdFIzdU41TS1rY0FobDRUckY3Ug?oc=5",
     "news_image": "",
@@ -86720,7 +86721,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.32,
+    "news_score": 0.31,
     "news_title": "Recap: Ten-man Sporting KC falls 2-0 to Houston Dynamo - Sporting Kansas City",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVlp5WmpQNGprN0FmS1gyaDRudEMtbTJkQkNGVWU4WHFiTnQycDVBNTFoOHNraUNFYVMyd0Nkckc3VVRiOElJeTFJYmR1UU9wcTVZaGZFWk1wUEpqSVB5ZlU4WThKWkFwUWQ4T2NyZEY1SFo2SkU1anNRbWt1VGlCbktQcV9TTVVzMlEtMzZR?oc=5",
     "news_image": "",
@@ -87036,12 +87037,12 @@
     "cpi": null,
     "lat": 51,
     "lon": 9,
-    "news_score": 0.74,
+    "news_score": 0.73,
     "news_title": "Borussia Dortmund’s Yan Couto now set for Como loan - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU3oybDFERl94enl3NW16UEl5V2s4TE9FTHFXS0FiN1U0QnpUMmFneUdibTN2UXdacFpYRWNmV1oxYnlpbGFyWUZaUHBaNjZiWnF3V2ZiRC1STUU3YlExZ1JydjVpOGp5TlN0UmtUYjlESlpRTl9NRDVidjhvaV9Xdlc5NGJQZTA?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "72m ago",
+    "news_age": "74m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -88844,12 +88845,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.62,
+    "news_score": 0.61,
     "news_title": "Dodgers reportedly acquire ace Tarik Skubal from Tigers in trade that stirs up MLB world - Fox News",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNczRTZG13dnJ3M0xab0l1YWVLeE8wM3FzeDVoazRjNXNSTlRNTHN5SERMTFZEdkNhYk51QWoyRW1heFBNWGU0NGRncmUyeXAybm9pZ0pnbmRpaXFmX2J3dlFJejF2TklnMV9QN3RHQjFIVmxKSFB2WU1EcG53bEM2blczcTNBLXloaktwVmNyUmtfdTQ1YXVZ0gGcAUFVX3lxTE15UGNaYm4zQTZBalIwQlpJTXp1NkVOQm1ERlVaZXNlNDdkc0pzanpoWm44MVN6OTJLVldaMUZhS2M2NlV2dnM5aG5SYzJ3Yk9XMlYwZjZxSU0xX1E4QmNMakdmRXFVQ1ctVmRHQ0tXUkVxZ09JNnZkX0ZNTVBzOV9DclQtQ05VUW1lWHJZV2gySWFCNHFHaHpvSFRPdA?oc=5",
     "news_image": "",
     "news_source": "Fox News",
-    "news_age": "119m ago",
+    "news_age": "2h ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -88971,12 +88972,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 1.14,
+    "news_score": 1.16,
     "news_title": "OPEC agrees September oil hike, completing rollback of voluntary cuts - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOUxtS1l6d0U4NVcxelJCQ1EwSGpaQ3BjNXJHUlpQcVlfZXJjMWU5WllQR21KdDZ0dlo2NDI0cW1RVXd3U0FiTHZMRHNDNng5ZXZseU9lT19KeG1RY18xRGNTVzBjdHpzOWpYQkwxTENWWko4NmtFQm5iQzFvQWdfeGhvQVZSMHdrZjhzRFREVnN2RWQyanBEdGp0T19mazNxR0ZiRXdFRVlvX1RZNW5mVFgyYlUxeS15QlZfOHhWY1UzSzFTZk13Yw?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "35m ago",
+    "news_age": "37m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -89058,7 +89059,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOUxtS1l6d0U4NVcxelJCQ1EwSGpaQ3BjNXJHUlpQcVlfZXJjMWU5WllQR21KdDZ0dlo2NDI0cW1RVXd3U0FiTHZMRHNDNng5ZXZseU9lT19KeG1RY18xRGNTVzBjdHpzOWpYQkwxTENWWko4NmtFQm5iQzFvQWdfeGhvQVZSMHdrZjhzRFREVnN2RWQyanBEdGp0T19mazNxR0ZiRXdFRVlvX1RZNW5mVFgyYlUxeS15QlZfOHhWY1UzSzFTZk13Yw?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "35m ago",
+    "news_age": "37m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -89182,7 +89183,7 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.66,
+    "news_score": 0.65,
     "news_title": "US officials focus on identification and rapid action as measles cases rise - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jQm41ZzFQaUVnQWx5b2w1dEpjbnZoME1seGxUSGFhVVRJbjFzUXZTX2pMeHpST0tib3lua1lwUzhacFBZakE2OVIxRTJqY2xqdWUwb0lBdkJuN05qMnM1enNCTFBuTHMzZGhsSl9oZzNIQW1LUjJZX2Q5QlZhUQ?oc=5",
     "news_image": "",
@@ -89227,12 +89228,12 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.76,
+    "news_score": 0.8,
     "news_title": "French wildfire near Bordeaux contained as 1,500 firefighters battle separate blaze in Provence - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSVVmOGN3UkdYdHBLWVhmMlFheVFwZkplU2xkekoybWZtRi0tbXFRMHBwVHpBTUlwU1RfdFVBTUhuSEVVYnQ0TFVLYXFTWlFNbDZ6Q3JhQUwtMTk0R25HRlZ4OVNKOWtwN2FzYW5Ia2NKdWFsd1U2OFdXVWFyb290dGFUT2VDREhreE5CbUxUQWlmRi1KaWlNdGVuRF80NThpckZ2c2VsSlVRTzU0aUFUVTI4RQ?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "27m ago",
+    "news_age": "29m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -91491,12 +91492,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.99,
+    "news_score": 0.98,
     "news_title": "'Wilder was tight-lipped about Hamer future' - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanN3SkdyRWR3TzdFUEZSaGhzSkkwcTRMRWVNX1ZKRVNvT1RwdkdoN2pkcjZvX2NJZzJ6azQ1OVphQ2YzTHdVb3hua1c5d0xQaGw4S1JXYjQ4QlJ6QWh2LTZkMnFILW9Nd084aHdoa3NWNEJfM3p0OHEzWEcwaHlmRV9BdG5ycDQx?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "75m ago",
+    "news_age": "77m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -94668,12 +94669,12 @@
     "cpi": null,
     "lat": 39,
     "lon": 35,
-    "news_score": 0.65,
+    "news_score": 0.64,
     "news_title": "Report – Milan & Fenerbahce Locked in Talks for Portuguese Superstar - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcWtDOFZKZWEzOGxBTmtidExLRTdsbElEaFlHOXlCdzdtby1US1M2a09UdDVHRnFGS3hnekpIQlhCNkZXekVOT3NobDhsQzZpd2VPaTZxQUh2dnJuUnE3MlpITXM5WkROVkxra2ZJeEJjeVZqZjNha2tDYWZLUE1RMTUtVVJuX1E0ZjFvRDlR?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "102m ago",
+    "news_age": "104m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -94865,12 +94866,12 @@
     "cpi": null,
     "lat": 47.3,
     "lon": 13.3,
-    "news_score": 0.83,
+    "news_score": 0.84,
     "news_title": "OPEC agrees September oil hike, completing rollback of voluntary cuts - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOUxtS1l6d0U4NVcxelJCQ1EwSGpaQ3BjNXJHUlpQcVlfZXJjMWU5WllQR21KdDZ0dlo2NDI0cW1RVXd3U0FiTHZMRHNDNng5ZXZseU9lT19KeG1RY18xRGNTVzBjdHpzOWpYQkwxTENWWko4NmtFQm5iQzFvQWdfeGhvQVZSMHdrZjhzRFREVnN2RWQyanBEdGp0T19mazNxR0ZiRXdFRVlvX1RZNW5mVFgyYlUxeS15QlZfOHhWY1UzSzFTZk13Yw?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "35m ago",
+    "news_age": "37m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -96388,7 +96389,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.55,
+    "news_score": 0.54,
     "news_title": "Yankees potential trade target: Pete Fairbanks - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN0FMTzFxZFRtQkFjNGhfNVFSZkhxZGRtQ0UxRkdvQ3JJMUVMX0dkb0pJZHBQOEgwWWRMRE03SU5rcGxLcHRTU3NKdEZNYjlhSlhMZmZ6cnZ1c2hrVVJmM3lmQ1RBekM3eWFmRE81Q3V5VGhYeWNtRi1xRDRKT2VrX2dwZF9KSVJ4eHdmSw?oc=5",
     "news_image": "",
