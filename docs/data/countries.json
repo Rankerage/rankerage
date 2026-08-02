@@ -583,7 +583,7 @@
     "refugees_rank": null,
     "union_rate": 44.8,
     "union_rate_rank": null,
-    "news_score": 0.74,
+    "news_score": 0.56,
     "news_title": "Lawrence celebrates Algeria with thank-you party after World Cup summer - KCTV",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQVpNN28tTkRXSkhSZXhBWEpGbVIwb3ZOV1pDTnJEbzF0c2FpdmJEM0RSMUFYMWwxdUJlYnBjcF9xTUJCS2hlVHlwMWt3Z2NZZ0Vfb000ZDFZMzhOV1YxVmJyT1NfeDhMWlNid0VUVUVoOEM5RnVkS1dFa215dTJxQnVnckJyMHV6MWVtYWVlUGwzS1J4QUJMZmg1NDR5eFc4SVRwVHNXWnDSAbwBQVVfeXFMTXhmSUlVTHc5VU9jSzVlU2gtaWNsVk5JWTNQYzNESEk4TTU1dE5TeE5MaGQxeGZldC1kZWxDb2gxTkk5aDdObDlYY2dmaFVYblRfVWdhUks3RnJ2bm1lY0ZmQnYwNjZCVXR3dWNZbmRCQVF1ZjNMUlRnc2dFMnFWOUxtdjdmTEpKbHliMm1TbW5mU2VnRVhHb3RQWGhibEpTUmpldlZOZE1xeFNzUmpQQjIwclg4ZWhuWkFXYTA?oc=5",
     "news_image": "",
@@ -591,8 +591,9 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic_gold",
-      "world_championship"
+      "fifa_w",
+      "olympic",
+      "basket"
     ]
   },
   {
@@ -6826,16 +6827,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.33,
+    "news_score": 0.31,
     "news_title": "Team USA Defeats Canada, 7-2, to Close World Junior Summer Showcase - Team USA Hockey",
     "news_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uUlhQTThmWnpETVQ1Q1Y2ZHRBZklVb0hjd2Iya2FHMkhIUGxycGJhek5HVDBkZmpCVjFfeE9qMWVlblVuUGR3LVJUWFc1OEpzYWpRQnRTMEpCSlNlWmt6SEhXZ3VYdw?oc=5",
     "news_image": "",
     "news_source": "Team USA Hockey",
     "news_age": "5h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic_gold",
-      "world_championship"
+      "olympic",
+      "world_championships"
     ]
   },
   {
@@ -17129,14 +17129,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.34,
-    "news_title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9na2VtOEVjWF9TREttVVRmd2Ftc2VtUmV1dXF1QzM0TURGdDk3VUlQZzJIeDhXS1NrazVBQXFNZFNQcVpTUVdUSmFaYXRNeHFmZEtCUXVScmJMUQ?oc=5",
+    "news_score": 1.25,
+    "news_title": "Several states report cyberattacks as spy agencies suspect Iran is targeting water - washingtonpost.com",
+    "news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZkpnSEpYSWVuYTZERTV5Wjc0cGRZaWRSeDJfaC1ZVzFrVlVhTU90UWhCeHo3M3lxSlBadjduY2RBSFJvYXhuOXdZVk1ZQmJxQ3lOOUMzRllqeHFVZDhOYzZDSWxXTDZxVmVrb0htcUNfUFU2OVlCbG5pUC00VUNzZEtoMXlKbWpieVE5eFVkQUN6ckxtMUY4T3UtOWlSbzJLdnpvbXUySHdkTmprazN3cURWV3BabjJZeHZBanh4VmJsVmNo?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "2h ago",
+    "news_source": "washingtonpost.com",
+    "news_age": "78m ago",
     "news_columns": [
-      "none"
+      "global_security"
     ]
   },
   {
@@ -17853,14 +17853,16 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.29,
-    "news_title": "Israeli strikes kill seven across Gaza, destroy medical supply warehouse - Al Jazeera",
-    "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWmI5dVlWZ2U4Y09CajNGOTllcHpxbzUtT1YtSDBFREtXYXp1Y3h4MW0xbVZZWGhobGpkcWg2aG5yN2t1TnIydDJPTFFkX1Y5WDVIcWNkT1hUaUt5ampmanBTeFhubDJSZXd2c01vU1JjeFZOTFVMOWJuTmpteXFQUUF4MGRybDlQa2NXaU1mVmpNVFk1UW5MWi1qNFN5MWdrOS14WHlTWTZ4d0Nic2VJ0gG0AUFVX3lxTE1ObWZpSzFnQUlYNXk0d3MzMWszYVg2bERRX2tfWE96WXR1aGNfdGJ3YlQ2WFhJemRzUndaUGdNaVFLR0hSenhwT0Z6ZFlsc1ZMeHFHVGxfbGVzYTR5X0FMdXJtMjMydl9OcURqWm1uR0ZTV011b1JFbjlJVGlIVzBpaV9kYUNLXzBqbERCWEFoS3VBY2RYME9MNWs2NkczNzVrNTBfWG9kLV9wNnNRYkVvaEhSQg?oc=5",
+    "news_score": 0.17,
+    "news_title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcjA3enFNWkJEbkJMQTZ5OHdnblVWRS1PRU1zSFRhSjBIZHVSMTRvWkJZOGFWUmZsaE5vblBNOFE3MHVoMXA2cVBHaUhJMm1VTnBnaVBsRks3cWFLMXFTSmc2Qzl1QWxSb0sxTTVLOFR2cEQtaHJ1aWxRdi04Z3dkN2xBSkhXRVJURDhpVl90UjBCM00?oc=5",
     "news_image": "",
-    "news_source": "Al Jazeera",
-    "news_age": "6h ago",
+    "news_source": "The New York Times",
+    "news_age": "8h ago",
     "news_columns": [
-      "none"
+      "car_density",
+      "gas_price",
+      "co2"
     ]
   },
   {
@@ -18966,16 +18968,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.21,
+    "news_score": 0.34,
     "news_title": "EXCLUSIVE: Japan to announce Tokyo, Washington took joint action on yen, sources say - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeWRxZmUtQUZfS21oaHA2QVRaX0FYX09hRTBYRXZ6dnZ4dzAxamMzREtPN2laazBKdDNacXg3UUcxbS1fM3VSNGV4bDFNVkJPU3RCUWFDZjlDQ3VaTV9zTmQzaDgxYlV1MmNJcFZZcmJvRG9qSlRWTnZlQ1MyTm14OVItU2M2cDJfcklTdERRR2xBZ09FVWtYVkhZaTJiQXE5S0Q1eUNFdE5fbGl1X3VyUko1bHFiQ1M2SExvVw?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "87m ago",
+    "news_age": "3h ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "olympic",
+      "world_championships"
     ]
   },
   {
@@ -26412,19 +26413,18 @@
     "refugees_rank": null,
     "union_rate": 41.9,
     "union_rate_rank": null,
-    "news_score": 0.01,
-    "news_title": "Nirmal Purja Dead In Avalanche: Mountaineer In Netflix Documentary Was 43 - Deadline",
-    "news_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tc1h5Y1hfV1RnYVVaQ0JuczBReUkxZWo3ZzdtMUhBM1VnV0Nsa2tlVjAxTGZiMnA0WFFfaHVfRFVzb1VNRjd4LWstMjJWcmo3d3FjNzlMLVRTeThKU3VRdE50aTlPSTJVZUE?oc=5",
+    "news_score": 0.15,
+    "news_title": "Famed mountaineer Nirmal Purja, 43, among 10 climbers killed after avalanche in Pakistan - Fox News",
+    "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWNNeWU5LU1aWXQzdkk1MWRoTEh4NTJldEsxc3MwM1ItRU5zTUdOcWpNLWY4Z0FEc214YXYzWTZlLUM5ZXE1cnF5R0dTUHJITkhFVU1uaGZYOV9fS0FlQ2JUcDJNWTFKb2tDWDZacWhWVHBFby1SRDVrMXdfTWZsSWs5TDNVdlUtV3JteFRSQ3dvbjl5T3ZpMVRFQ2VwUkRPSEozZUVYVXd1M1HSAbABQVVfeXFMUGM1dUkxNURMZUpxM2twOGc1YUwwUEY0NGREZHhOS0RoN2NMTE5tM1lPX2dza2poOUFjc2hvekxRcmhoNnQ2YTN0VVUzVGhoTFkyZnIyT0FIMVR2Nk5TNTRPbG5NV0o4MTlkdzJaMUFTWnFER0daQThMR3N6YkEyZmRlYzhYZW5UYXhaUWlPYU56OThqZHc1WWhVcUpQM3N0RVJ0bUppS3kzOVZEV3ByZDU?oc=5",
     "news_image": "",
-    "news_source": "Deadline",
-    "news_age": "10h ago",
+    "news_source": "Fox News",
+    "news_age": "2h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
       "patents",
       "rd",
-      "startups",
-      "film_prod"
+      "startups"
     ]
   },
   {
@@ -29405,19 +29405,18 @@
     "union_rate": 54.7,
     "union_rate_rank": null,
     "fifa_w_rank": 102,
-    "news_score": 0.08,
-    "news_title": "Nirmal Purja Dead In Avalanche: Mountaineer In Netflix Documentary Was 43 - Deadline",
-    "news_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tc1h5Y1hfV1RnYVVaQ0JuczBReUkxZWo3ZzdtMUhBM1VnV0Nsa2tlVjAxTGZiMnA0WFFfaHVfRFVzb1VNRjd4LWstMjJWcmo3d3FjNzlMLVRTeThKU3VRdE50aTlPSTJVZUE?oc=5",
+    "news_score": 0.21,
+    "news_title": "Famed mountaineer Nirmal Purja, 43, among 10 climbers killed after avalanche in Pakistan - Fox News",
+    "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWNNeWU5LU1aWXQzdkk1MWRoTEh4NTJldEsxc3MwM1ItRU5zTUdOcWpNLWY4Z0FEc214YXYzWTZlLUM5ZXE1cnF5R0dTUHJITkhFVU1uaGZYOV9fS0FlQ2JUcDJNWTFKb2tDWDZacWhWVHBFby1SRDVrMXdfTWZsSWs5TDNVdlUtV3JteFRSQ3dvbjl5T3ZpMVRFQ2VwUkRPSEozZUVYVXd1M1HSAbABQVVfeXFMUGM1dUkxNURMZUpxM2twOGc1YUwwUEY0NGREZHhOS0RoN2NMTE5tM1lPX2dza2poOUFjc2hvekxRcmhoNnQ2YTN0VVUzVGhoTFkyZnIyT0FIMVR2Nk5TNTRPbG5NV0o4MTlkdzJaMUFTWnFER0daQThMR3N6YkEyZmRlYzhYZW5UYXhaUWlPYU56OThqZHc1WWhVcUpQM3N0RVJ0bUppS3kzOVZEV3ByZDU?oc=5",
     "news_image": "",
-    "news_source": "Deadline",
-    "news_age": "10h ago",
+    "news_source": "Fox News",
+    "news_age": "2h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
       "patents",
       "rd",
-      "startups",
-      "film_prod"
+      "startups"
     ]
   },
   {
@@ -32572,14 +32571,14 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.17,
+    "news_score": 0.15,
     "news_title": "Zelensky says Ukraine has ‘no interceptors’ as ballistic missiles hit Kyiv - washingtonpost.com",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY0xoeDV0cU1GNDlvUjNYcHpmWldoUjBGWjJrRnZkUGxnNExyOGJtNUw4Z19YdkE2SDFnSHlWYVZqMFVGVEl1TXVzT2dwdnFoNk56NFI4dl9kNmZWbW9XcUdaVFNoOGtMRngxNVRhdGdBOS1CV1h0X2thSllObS0xWGhUTnlFOTBJZFlPaU04OXJTM09YaU4zak1keFdfVWFuTjQ4UDdWVHAtVkZu?oc=5",
     "news_image": "",
     "news_source": "washingtonpost.com",
     "news_age": "7h ago",
     "news_columns": [
-      "none"
+      "global_security"
     ]
   },
   {
@@ -35514,19 +35513,18 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.15,
-    "news_title": "Crushed by Kospi Rout, Angry Koreans Rip Lee and Vow Not to Buy - Bloomberg.com",
-    "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWVVlbmVWV1UxSzR2YWNic2dKV1h3RWRETWhXbUN3dVBXaVNfOF94TnRFUnhDQ3RTVHExMmxuSV9PWUk5V1A1YWMwQmpqWWVXT2FBNnJ2c210emxPZ1YxR2VESjVGejFoeTFHXzRhZHFjR1NoMXBSaG9oRGxxMm1fU2o5VFo2ZzB4Q1lqeWRMSjNPTWpYcEh0U0RuWFd2ZkVIcmpBM2VQTUwtSTRXSlo5ZXFjUQ?oc=5",
+    "news_score": 0.1,
+    "news_title": "How To Fly from The U.S. on Korean Air to Seoul in South Korea [Plane Types & Seat Options] - Upgraded Points",
+    "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOE1LbGtnVjhVTFpzcVpZYWxlSXpVbXJPd0RCeTNGWUxtNHp4V1JJRGNObE5uYVBRQnV3djVsU0VneG9EM3FnaVZLbUJ3YXdIcGVOVUQwckd6eUhOS3hCUTFHNGJMUWwzV2lCLXhCNk92WWpyUndIclp0dm10NnpxekNR?oc=5",
     "news_image": "",
-    "news_source": "Bloomberg.com",
-    "news_age": "4h ago",
+    "news_source": "Upgraded Points",
+    "news_age": "181h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
-      "doctors",
-      "beds"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ]
   },
   {
@@ -41805,21 +41803,21 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.3,
+    "news_score": 0.29,
     "news_title": "Inside the disunited United States that shadows the WNBA - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcEUxYk1PVHExdDVDaXVrelFPZFVYQ0pwNDNVdnFwQWI3R0ZZZGpMSnJ0XzBLU0dMTndLRFdEd1kyRzdkX1h0SnctT1M3Uk8yUlFGTVVSeWRGWXpLTUxRSE1aZVhuN3piTlAwelAwMW5pVUtNaHBaUlNOTGQ3emg1VmNGX1VGLTA5VGpQT01YMWtOaVJEdHFHbWJGbjN5VE50ZERYMGRMWFVJUDhNaDgzdkZR?oc=5",
     "news_image": "",
     "news_source": "ESPN",
     "news_age": "5h ago",
     "news_columns": [
-      "mlb_wins",
-      "mlb_era",
-      "mlb_strikeouts",
-      "nfl_wins",
-      "nfl_yards",
-      "nfl_touchdowns",
-      "fifa_ranking",
-      "olympic_gold"
+      "mlb_standings",
+      "mlb_pitching",
+      "nfl_standings",
+      "nfl_stats",
+      "olympic",
+      "world_championships",
+      "global_security",
+      "public_safety"
     ]
   },
   {
@@ -44745,7 +44743,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.27,
+    "news_score": 0.23,
     "news_title": "Pixel 11 specs and price leak with no surprises - The Verge",
     "news_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53cHhhVHJjZ1FtSWM2dGhzZDhMUnU4WmdqOE5WZFVVT1JXeFpRVHlRTldienR6RWgzWl9GTlV2akNmaGJoUTd5ckRHSV9ocTJJUjZNcE5wRFRMTUFyeHpTV1ZtZFdfbEZaOElEV3lab0NoUzdI?oc=5",
     "news_image": "",
@@ -44967,7 +44965,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.02,
     "news_title": "Assessment of disruptive innovation in science and technology policy: Insights from meta-science research trends - cepr.org",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdHdmbDNVaTdKMmlxQ25Rb1RoOW5HRWkyb1pZYV9Dam9abnBIVFlkSHFTMnA3NmluOF92bTQ5b0JReUFtTUtIQ281TFN2VzNWS1piblJ1TUxjSjhzRXpuc2tHSWFwNzJ6eWdEM19iT01wVkRLeEhvRU10TVZYb0wyRVMyQ0oyMlFxOUxhVThqUFR3Y0JwYTBBLXRjYVp1UFYxRS16SHpuZ2RkTzJzMVpzVUhIQzFNQQ?oc=5",
     "news_image": "",
@@ -47183,7 +47181,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.55,
+    "news_score": 0.54,
     "news_title": "Lionel Messi returns after World Cup but Miami held by Columbus - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaGI0anotdEZ3N3NhYS1ycWhHRVVEcjZzYW9ZSTIwWDBqQ2ZGbllndURHQ3Y0T3h6UkxBTjVRbkg0ZHItVkZ3TVljM2w3LU1nbjQzc2V0c0dRWVhwSUsxZ3AxeURORnlURkppM2dRTUhzc3NmTjFROURkY0YyR0FTNVl1S2dfNGJkaTJGWFZVa01pZEdDVDJCY0xSWF9laUROYV9CN2t6eGpYcmM?oc=5",
     "news_image": "",
@@ -53997,7 +53995,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.01,
+    "news_score": 0.0,
     "news_title": "Nirmal Purja Dead In Avalanche: Mountaineer In Netflix Documentary Was 43 - Deadline",
     "news_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tc1h5Y1hfV1RnYVVaQ0JuczBReUkxZWo3ZzdtMUhBM1VnV0Nsa2tlVjAxTGZiMnA0WFFfaHVfRFVzb1VNRjd4LWstMjJWcmo3d3FjNzlMLVRTeThKU3VRdE50aTlPSTJVZUE?oc=5",
     "news_image": "",
@@ -60295,19 +60293,16 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.08,
-    "news_title": "Crushed by Kospi Rout, Angry Koreans Rip Lee and Vow Not to Buy - Bloomberg.com",
-    "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWVVlbmVWV1UxSzR2YWNic2dKV1h3RWRETWhXbUN3dVBXaVNfOF94TnRFUnhDQ3RTVHExMmxuSV9PWUk5V1A1YWMwQmpqWWVXT2FBNnJ2c210emxPZ1YxR2VESjVGejFoeTFHXzRhZHFjR1NoMXBSaG9oRGxxMm1fU2o5VFo2ZzB4Q1lqeWRMSjNPTWpYcEh0U0RuWFd2ZkVIcmpBM2VQTUwtSTRXSlo5ZXFjUQ?oc=5",
+    "news_score": 0.06,
+    "news_title": "Bessent and the Fed Help Japan Reverse Months of Yen Losses - Bloomberg.com",
+    "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd3dwbUFjZjVMenRHV3lmeW5JQjVaaEZsWE1yTVhyeWY3ZjR5Mk1sbVRwaWNmUzdJc0hnSk8tOVNEZG1CWVhEVzFBeW8wSVcxTzNOcVAzTFhLTHUtclJOUzh2T01IWXhxbjFXRXZTUFZPMHg0UmhEZ2lNN3V1R2QySHlCVjFDMDltTFNzYWZjZkR0ekZMUnBqVlJFSFZvVEVraW9pY2huZmlJOHU0VFVZ?oc=5",
     "news_image": "",
     "news_source": "Bloomberg.com",
-    "news_age": "4h ago",
+    "news_age": "18h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
-      "doctors",
-      "beds"
+      "car_density",
+      "gas_price",
+      "co2"
     ]
   },
   {
@@ -72301,12 +72296,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 2.57,
+    "news_score": 2.56,
     "news_title": "Dodgers Acquire Tigers' Skubal in Blockbuster Trade - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMDhxVmdxRG1wUmlxTm5OSGxVM0JuZlJNUmwxWkx0SHpMLXMta1hPZEpiV3BTTzFiSkJCT2dadXJKYXdXSzYyOVZFUTRHS09KNEhmTEk0TmJrWHl0NnZhUUpVQWZVMGVkeWQyYlJoLUFvNHVGNkNaUkM5Y25FaUFqbVhseHl1dmZFS3pTeEpDb2Q0M2Nh?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "47m ago",
+    "news_age": "49m ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -74520,7 +74515,7 @@
     "area": null,
     "gdp": null,
     "hdi": null,
-    "news_score": 0.96,
+    "news_score": 0.92,
     "news_title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9na2VtOEVjWF9TREttVVRmd2Ftc2VtUmV1dXF1QzM0TURGdDk3VUlQZzJIeDhXS1NrazVBQXFNZFNQcVpTUVdUSmFaYXRNeHFmZEtCUXVScmJMUQ?oc=5",
     "news_image": "",
@@ -74728,7 +74723,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ1pyX215UjZYTVVKZ2cwQ0M3OVQtVDg4cDZPVVFLa2NGYWJCQWpreDBHQ0dNR0huZmtmY054eHRrcGtFdUFVZnFhU2E1OV9xRjlrMGJJYlFheFVrWDZoQk03WXN1M2ZFSVM5ZWQ3bU1IdkZDWkM1NUR1b3lnNXVIUnZIUllvdFA5S3BsNGhCdTFUSE5vWjZHejY2SER4TU5DS3c?oc=5",
     "news_image": "",
     "news_source": "newsonair.gov.in",
-    "news_age": "14h ago",
+    "news_age": "15h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -77180,7 +77175,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX3RtWGQ2cWhFWW8xOGcxVEpLSW9LSEFPUGRKbXh4NmVjQTdJLTZBX3NpaHdNcVNzRVNHZDhMN3dGNmdIbFdOYXd3RDFPajJjeUExWHg4WWxwQlZIMGd2bTRvYTRQZTFNVEJDWWstNHZQN3p1blFfWHM0bk5HN0JGcTlvbFFKd0dUcXJkN2Zn?oc=5",
     "news_image": "",
     "news_source": "Audacy",
-    "news_age": "37m ago",
+    "news_age": "39m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -81842,7 +81837,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMDB4TmZGX3hQajFzaXM0Q29iMFNTTVdGWXZpUFdGcVA3a0YteEpaVGd3V25wYzdoMzUteEk3b1VuaXhOVDhJOWFQZlU5a0pEenpSaU9zRU1ZZi1pTGhINFg4R0VkT3QtN1RaS0FhaXJJYk5Nekc1QW1vRzNuMmo1c0ZiWElLQ25lUVB6ekJ3?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "6h ago",
+    "news_age": "7h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -84608,12 +84603,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.2,
+    "news_score": 0.25,
     "news_title": "EXCLUSIVE: Japan to announce Tokyo, Washington took joint action on yen, sources say - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeWRxZmUtQUZfS21oaHA2QVRaX0FYX09hRTBYRXZ6dnZ4dzAxamMzREtPN2laazBKdDNacXg3UUcxbS1fM3VSNGV4bDFNVkJPU3RCUWFDZjlDQ3VaTV9zTmQzaDgxYlV1MmNJcFZZcmJvRG9qSlRWTnZlQ1MyTm14OVItU2M2cDJfcklTdERRR2xBZ09FVWtYVkhZaTJiQXE5S0Q1eUNFdE5fbGl1X3VyUko1bHFiQ1M2SExvVw?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "87m ago",
+    "news_age": "3h ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -84701,7 +84696,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.57,
+    "news_score": 0.56,
     "news_title": "Lawrence celebrates Algeria with thank-you party after World Cup summer - KCTV",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQVpNN28tTkRXSkhSZXhBWEpGbVIwb3ZOV1pDTnJEbzF0c2FpdmJEM0RSMUFYMWwxdUJlYnBjcF9xTUJCS2hlVHlwMWt3Z2NZZ0Vfb000ZDFZMzhOV1YxVmJyT1NfeDhMWlNid0VUVUVoOEM5RnVkS1dFa215dTJxQnVnckJyMHV6MWVtYWVlUGwzS1J4QUJMZmg1NDR5eFc4SVRwVHNXWnDSAbwBQVVfeXFMTXhmSUlVTHc5VU9jSzVlU2gtaWNsVk5JWTNQYzNESEk4TTU1dE5TeE5MaGQxeGZldC1kZWxDb2gxTkk5aDdObDlYY2dmaFVYblRfVWdhUks3RnJ2bm1lY0ZmQnYwNjZCVXR3dWNZbmRCQVF1ZjNMUlRnc2dFMnFWOUxtdjdmTEpKbHliMm1TbW5mU2VnRVhHb3RQWGhibEpTUmpldlZOZE1xeFNzUmpQQjIwclg4ZWhuWkFXYTA?oc=5",
     "news_image": "",
@@ -88805,12 +88800,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 1.12,
+    "news_score": 1.29,
     "news_title": "Several people killed in explosion at Moscow restaurant, Russian officials say - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRC16R0hVelY2TE5CWHJnWk45eHZnaVBNY3BNRzZyLUVWekdKU2Z4cGJqSDcyVkVNSWdfbjFDU1lTUzJvMW1Sc2UxRWZRV1lfajB4UDhuRWFEV0xwNFhRNjUxQS1fV3pheUp1YmFlVWppWXZfTTZmTWdhLUFGekU2VWlSdw?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "64m ago",
+    "news_age": "66m ago",
     "news_columns": [
       "michelin",
       "coffee",
@@ -88853,19 +88848,18 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.2,
-    "news_title": "State Department raises travel warning for part of Spain as migrant surge sparks military deployment - Fox News",
-    "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnIzS0ZjVllzVFVZd1FsZnUwNG1XNVdhbWpPZ0xPWkhSbVBzNGxJN1FCN1h0OHd4dGFySEcwV2NOX2lCN0Rod3JpMHZ2clhRRmo5bTN4WlppN1l2ZW1Ib3N4RUx5aWROVHAtRUt4cDB5NjUyaUZTbHQ2OERwZ3k2QVlCbzVTRXRTZXlVanppMWJ2WU1hS1h5TGlCMExTYi1jQUQ4dUo1V1Zuam4yRUFwSVpnNVZHT3Y0S2x1btIBwgFBVV95cUxPYnAwVkl0M25qTGM3YmY2NDBSM2pKb0ZTd202SDRobk9rN000U2VtWTVvSk9SUFoyTDNKd1puLW1nVVZFckRvaU4zcEFEWURlLWpTZmNjRUpQZktscFJxWV9ha1YybEJVWlVlX2I0bWJFS1lmaktaMmhCeXZjc2tnX3I2aGpVNmhjc1lvRERrX2dZbjdtRWpiLURlRVBsWEZVNTF0UVVHSG5Va2hXbnJ2a1ZfT2Z6cGFtUDRxdzB4R2tfQQ?oc=5",
+    "news_score": 0.32,
+    "news_title": "Famed mountaineer Nirmal Purja, 43, among 10 climbers killed after avalanche in Pakistan - Fox News",
+    "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWNNeWU5LU1aWXQzdkk1MWRoTEh4NTJldEsxc3MwM1ItRU5zTUdOcWpNLWY4Z0FEc214YXYzWTZlLUM5ZXE1cnF5R0dTUHJITkhFVU1uaGZYOV9fS0FlQ2JUcDJNWTFKb2tDWDZacWhWVHBFby1SRDVrMXdfTWZsSWs5TDNVdlUtV3JteFRSQ3dvbjl5T3ZpMVRFQ2VwUkRPSEozZUVYVXd1M1HSAbABQVVfeXFMUGM1dUkxNURMZUpxM2twOGc1YUwwUEY0NGREZHhOS0RoN2NMTE5tM1lPX2dza2poOUFjc2hvekxRcmhoNnQ2YTN0VVUzVGhoTFkyZnIyT0FIMVR2Nk5TNTRPbG5NV0o4MTlkdzJaMUFTWnFER0daQThMR3N6YkEyZmRlYzhYZW5UYXhaUWlPYU56OThqZHc1WWhVcUpQM3N0RVJ0bUppS3kzOVZEV3ByZDU?oc=5",
     "news_image": "",
     "news_source": "Fox News",
-    "news_age": "5h ago",
+    "news_age": "2h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ]
   },
   {
@@ -89065,12 +89059,12 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.9,
+    "news_score": 0.8,
     "news_title": "EXCLUSIVE: Japan to announce Tokyo, Washington took joint action on yen, sources say - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeWRxZmUtQUZfS21oaHA2QVRaX0FYX09hRTBYRXZ6dnZ4dzAxamMzREtPN2laazBKdDNacXg3UUcxbS1fM3VSNGV4bDFNVkJPU3RCUWFDZjlDQ3VaTV9zTmQzaDgxYlV1MmNJcFZZcmJvRG9qSlRWTnZlQ1MyTm14OVItU2M2cDJfcklTdERRR2xBZ09FVWtYVkhZaTJiQXE5S0Q1eUNFdE5fbGl1X3VyUko1bHFiQ1M2SExvVw?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "87m ago",
+    "news_age": "3h ago",
     "news_columns": [
       "michelin",
       "coffee",
@@ -89148,7 +89142,7 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.87,
+    "news_score": 0.89,
     "news_title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9na2VtOEVjWF9TREttVVRmd2Ftc2VtUmV1dXF1QzM0TURGdDk3VUlQZzJIeDhXS1NrazVBQXFNZFNQcVpTUVdUSmFaYXRNeHFmZEtCUXVScmJMUQ?oc=5",
     "news_image": "",
@@ -89558,7 +89552,7 @@
     "cpi": null,
     "lat": 25.3,
     "lon": 51.2,
-    "news_score": 0.73,
+    "news_score": 0.58,
     "news_title": "Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum? - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT3ZVRUhGVjR6cmh4bXg1enR2RGJSTlpvX0dqQThmMndTZkdrRzlvdnZILTBHZlRKeHB2WTl1LXdGbzZGTHZnMFd6ZHNPX1JrLTF2ZnNpTVlSOHVqdGpTS1pVWThfM2hYUDlSVnl4T0gxek9yb0VnR2t2OHEyYWwzZk9pVjZSVzZ4MDAyTXNSZXE3SlVmNXU3WHBEWVdSQ2VjdE1ySjA0Tk5PaWN2Z0HSAbMBQVVfeXFMTUtrUDhMdDI4cWsybEVEdG5QVTJVMTZNRmFDVFpicUhGYlcxTmo4amFIX01GNWVuZGgzdkNpNVFYNlVaSWc0ZkhyalFCd3FHUHJNUWRjcWRIM3NsSDlvNVFzT3YtcU9VLWlNeWVMTHJxN0Q3YW83LWM0ZmRkb0dOMW1WU2NhUGJIY1FQdlFXWWZ5N1FUSVdDZ2J0YTFzaDRPLUI0bDZCdXpHZ1FvdFI1eGp4QlE?oc=5",
     "news_image": "",
@@ -91301,7 +91295,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.58,
+    "news_score": 0.57,
     "news_title": "Gretchen Walsh nearly breaks world record, Caeleb Dressel wins again to cap swim nationals - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNejEzM09UUTdyS1FlbUpVblJuRThydlZKUlpHV05WSE5OSW5fczZPR2VaaUJuSWtCUHVJZHUwc1ZUdERwa21ndEgyYjFNaHJuQnVJX2syaDAtUHNMY0RBTHpNTmtUekhVX2I4a0ZLaVZ1VkZiWDBSVUc4VllvR2Z0TnBFN2sxZ0luS1Nj?oc=5",
     "news_image": "",
@@ -91507,17 +91501,17 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.25,
-    "news_title": "Oba Femi's Win vs. Brock Lesnar at SummerSlam Marks the Start of WWE's Next Era - Bleacher Report",
-    "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRTI2X1pnR01DTmxIVjVGWUp4clpUUl9BYlpTc0FVNXdhWDVVaHJQNEVLMmFDU3B0OUhjQ0JSRExkdHJUOEI4cWduNnNXNjlzZ3QwQ3V6bUltTVI2ZVhEUV83TXJ6MF9QTXBad2NUcS1MY0hpVnhKdzNES0JCZFVzUGVqYVo4eHJndUZYeGYzTVBxdVhnMU8yQXlLdFNsR2xCSDV5SjBsa2t0QkNWWko3dA?oc=5",
+    "news_score": 0.19,
+    "news_title": "FIFA scraps World Cup private investment plans as Infantino fights for his future - The Athletic - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa2k3V0hJbGFaSGRZWGZsa2lZODBfN05aWkdXenJFSmhUbkR2VWFsejQ5WTRfRXlIMTljOGozUUdYN01HbjhIclF1RFAxSG02ZGxkV0diWFBzcUpTVDd5TGEwU0ZvU1VBZnZpa0pWdFJIV2h1MjU2YjVzTDdrRk5yY1lPTmhTTlNyazZ2aHhmNm9QQjZoRy01VzV5T24?oc=5",
     "news_image": "",
-    "news_source": "Bleacher Report",
-    "news_age": "87m ago",
+    "news_source": "The New York Times",
+    "news_age": "11h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ]
   },
   {
@@ -94354,12 +94348,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.73,
+    "news_score": 0.72,
     "news_title": "Green Bay Packers Writer Makes Strong Declaration on Kicker Situation - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeVFudXlXQzluaVRXS1RXVHRXb3h1UHU1aXppRmpBX3MxanhOZ1pkTmtHam9ZdEpDXzZJbU80NENzSXpJdnQ4MHE0S3RBZjAtRGNwQ0VOVF9BY1cwWE45STVWSXUyc0Ryb0xNZ1ZMdGFvQURJT3hucDJaSUd6NG1haExwRmZ3UQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "76m ago",
+    "news_age": "78m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -94565,12 +94559,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.0,
-    "news_title": "Western U.S. heat wave brings record temps to Phoenix, wildfire evacuations in Spokane - latimes.com",
+    "news_score": 0.22,
+    "news_title": "Western U.S. heat wave brings record temps to Phoenix, wildfire evacuations in Spokane - Los Angeles Times",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUmJ4RGh1OVdNRUc1aEpKbEZEOXBWVmg0WUlEVnpoeWpRNktyRmZfaFMyQ3VuRy1RR1N0TU5aQXpfMlpBanFxN2g3RTk5RVR4UnVtUzZtUlE4bDRQSWl3YmNZT2s3eEItM095Zm40Tld4bU5vRGE3YUM5S2RIXzJ5OXRyeE9ZRFZUNWx3dFo0c3YxbG1aOWRMUjFGTmlyUXc?oc=5",
     "news_image": "",
-    "news_source": "latimes.com",
-    "news_age": "57m ago",
+    "news_source": "Los Angeles Times",
+    "news_age": "73m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -96402,12 +96396,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.99,
+    "news_score": 1.06,
     "news_title": "Yankees trade target Tarik Skubal traded to Dodgers - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNalRFemZpQUxrZnNMM2dPVFhFek1OcG5Da3NxSDBRbGthblhNeE1Ub2dieXhvWEdzQjRUMHlyX2pwRTFWNDduUkk3X2JQQ0lsM0RsTnRmQ25fa0QtNUtyUmRZSEpsM2ZtVk5XcUUzNXNVTVNsWUpkbGZGQS0xN05hNWNIa1d5SEs4bkE?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "53m ago",
+    "news_age": "55m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -96917,7 +96911,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOE1LbGtnVjhVTFpzcVpZYWxlSXpVbXJPd0RCeTNGWUxtNHp4V1JJRGNObE5uYVBRQnV3djVsU0VneG9EM3FnaVZLbUJ3YXdIcGVOVUQwckd6eUhOS3hCUTFHNGJMUWwzV2lCLXhCNk92WWpyUndIclp0dm10NnpxekNR?oc=5",
     "news_image": "",
     "news_source": "Upgraded Points",
-    "news_age": "180h ago",
+    "news_age": "181h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -98302,7 +98296,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.39,
+    "news_score": 0.38,
     "news_title": "In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV1RxVTZMM09DS0NWejJ2Sm5zd3JWeXZycnhrUzFoWXpOVEdQcWZuVGNGZzZabmg1c3o5bkd1WkxYOUZWVWlyV2gzR0NaMmQ5Zm15QW5FUWh0MTNSNUpZcDRYNUZiQkRPZzQ2UTBEUlFPRGtmeVpaOUE2R3BUVUtfOUJneW13Z3hSLWdFUkY0VFQ?oc=5",
     "news_image": "",
@@ -98540,7 +98534,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU1RiemUxSnFGT3Q4a2owYlhjaFY1UTZmaVU0SEcxLTYwUy1TQm9JdkFndnRSWlVZNUpHTWJIdjhnTDQyVG9PY1V3ZVIwb1ZtZWJoU3c2U243NTJVek93MnlERUJyZ3c1Y19jQnp0OFI1UlFTb1ROMzVKZWdiVk1NUDdRYko?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "29m ago",
+    "news_age": "31m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -99672,7 +99666,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.52,
+    "news_score": 0.51,
     "news_title": "Photos: Morgan and SKY collide in thrilling title match - WWE",
     "news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpeEJjbS0xR01mb3NST1hkSW81UWxwamFXb2pvZUJXTllhbmFkLTREWG9kVjAzcmJ3c0otcHJWUGNnOTU5OG9HZmlLNmQ0a3FWYlVOeFdhdkVZdGY5bER6cl9FVHhYYmlaUlZoWVo3QVFlZkZXd1NDVEU4QQ?oc=5",
     "news_image": "",
@@ -99731,18 +99725,15 @@
     "lat": 38,
     "lon": -97,
     "news_score": 0.01,
-    "news_title": "US economy grows sluggish 1.5% in second quarter as inflation tops Fed target - theguardian.com",
-    "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNVEyX2xIT3ZxR19wajJYZ0w5STlFdWVMamZLVW1QRjRXUkFYcUhYRW9Wc21maElCSUhuQlF6X0hINVlpX3BfalRHT1R1YXQ4aW4yS2tSd3JhVWxpLUpFbXJ3ZDhWS2xEWF8yTTNXNktfQ2YwWndxNmxmM1hJM0E0SEVfQWw1bFdnNFNFbXJuZERWck1wSEE?oc=5",
+    "news_title": "Bessent and the Fed Help Japan Reverse Months of Yen Losses - Bloomberg.com",
+    "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd3dwbUFjZjVMenRHV3lmeW5JQjVaaEZsWE1yTVhyeWY3ZjR5Mk1sbVRwaWNmUzdJc0hnSk8tOVNEZG1CWVhEVzFBeW8wSVcxTzNOcVAzTFhLTHUtclJOUzh2T01IWXhxbjFXRXZTUFZPMHg0UmhEZ2lNN3V1R2QySHlCVjFDMDltTFNzYWZjZkR0ekZMUnBqVlJFSFZvVEVraW9pY2huZmlJOHU0VFVZ?oc=5",
     "news_image": "",
-    "news_source": "theguardian.com",
-    "news_age": "36h ago",
+    "news_source": "Bloomberg.com",
+    "news_age": "18h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "car_density",
+      "gas_price",
+      "co2"
     ]
   },
   {
@@ -104195,19 +104186,16 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.01,
-    "news_title": "I always fly business class — but economy has never looked so good - The Times",
-    "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMjNyM3U0WEE1VlNzZm90TGxSS2ZWRmFpdE5PNVVkUmZFRmxNSkZZRXg4dnpkUTFOSktGTXZLUXZFYnlJd0hUb0NyMzYyZ3hxZkF6NTYwZFpJSGNVSzZNcWNTTjUxcXNCcE5xYkRtYnpWSElWTWFpS016X0xIcWl4RGh0ZWwxRXhDZ2tkcGh6a3BrZHJjVzVzZWRkZjE3VW9Cc2VCNk1EWE5HNTF0NG9KZTRiME00T182MG5ta0RNUQ?oc=5",
+    "news_score": 0.03,
+    "news_title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcjA3enFNWkJEbkJMQTZ5OHdnblVWRS1PRU1zSFRhSjBIZHVSMTRvWkJZOGFWUmZsaE5vblBNOFE3MHVoMXA2cVBHaUhJMm1VTnBnaVBsRks3cWFLMXFTSmc2Qzl1QWxSb0sxTTVLOFR2cEQtaHJ1aWxRdi04Z3dkN2xBSkhXRVJURDhpVl90UjBCM00?oc=5",
     "news_image": "",
-    "news_source": "The Times",
-    "news_age": "1365h ago",
+    "news_source": "The New York Times",
+    "news_age": "8h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "car_density",
+      "gas_price",
+      "co2"
     ]
   },
   {
@@ -105308,7 +105296,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.37,
+    "news_score": 0.36,
     "news_title": "In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV1RxVTZMM09DS0NWejJ2Sm5zd3JWeXZycnhrUzFoWXpOVEdQcWZuVGNGZzZabmg1c3o5bkd1WkxYOUZWVWlyV2gzR0NaMmQ5Zm15QW5FUWh0MTNSNUpZcDRYNUZiQkRPZzQ2UTBEUlFPRGtmeVpaOUE2R3BUVUtfOUJneW13Z3hSLWdFUkY0VFQ?oc=5",
     "news_image": "",
