@@ -591,8 +591,7 @@
     "news_age": "6h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ]
   },
   {
@@ -7883,15 +7882,19 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.31,
+    "news_score": 0.3,
     "news_title": "Landslide death toll rises in China's Gansu Province as heavy rains continue - reuters.com",
     "news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU211TUJlRDhVUV9BaEFiVG9wY18xdnJ0U1NBZDgtRFZsVTVDN0puSnkyRnk0Mi11Q0RrcV9NalNyY2RxUDNNNjkwM3FnNlVNTkZMcVBVeGF3RHBHNXFqclEtME9JSWxpRHJjRXNMRUgtVlpfYl9lUzlfZ1RsRm1SRXdjMGJsSy1lYzVEWjBFbVNhRHVjenMzWkRfYUUwV3BvRmdSdXBsVnVnaGhxSFV1YXRULWplREx5YVVJcEFFQVZBUEd6?oc=5",
     "news_image": "",
     "news_source": "reuters.com",
     "news_age": "4h ago",
     "news_columns": [
-      "disaster_risk",
-      "emergency_response"
+      "earthquake_count",
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ]
   },
   {
@@ -17125,17 +17128,18 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.6,
+    "news_score": 1.54,
     "news_title": "Live updates: US-Iran war; Trump says he’s canceling planned attacks - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmRm9ldjJOd2ZubDZtNFZ2YTdlLVJ4QWxpTEwtek1weGtPdW02blI1Mlpsa0hLUFRpeGRKaTN6bmlacldaSzVodG5ieVRpMC15RG9SWXNROHZ5eTBBb3llUnV5aVhEOXBEMHd3YnJB?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "61m ago",
+    "news_age": "63m ago",
     "news_columns": [
-      "geopolitical_tension",
-      "military_actions",
-      "cyber_risk",
-      "infrastructure_security"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ]
   },
   {
@@ -18293,19 +18297,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.49,
+    "news_score": 0.85,
     "news_title": "Buffon reveals who he would have chosen as Italy head coach: ‘World Cup main goal’ - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeFkzdEgxWjRTS0toMzk2dHU4ZThGdUFKazJOSDlnSTJMY2c2Y1A2bnJrelNIQ09mSnc3YW5XcGY4MGlCbk4yM1pqWHdRbVpVV3g2dnh3VnE0TlluMEljVTdOMzgyRlRyc2RLQjBXSEtDVHJLTGloSnRBVlRiSjZYbVptd1Nud3NF?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "8m ago",
+    "news_age": "10m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "fifa_w"
     ]
   },
   {
@@ -28970,7 +28970,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFJLME1QOGdKSmJDa0V3eV9sNUxiN05rX3JobENpZUQ2Tlk4TmRpbzMzVU1EX2hRRERkczdBSEhNc2JlVVV3T1Jad2VHTkg5TGp4LWYtY2k5azBuckJwQTQtQ2RmVWFYdktEZHhncjBrWHlfVHZNcjZOaDJLbXNpZkszVGdYcW1faFMxZkhLMjZvQ0NuRE9Mbnl4dXhsdTc2VDhV?oc=5",
     "news_image": "",
     "news_source": "Universitetet i Bergen | UiB",
-    "news_age": "3001h ago",
+    "news_age": "3002h ago",
     "news_columns": [
       "fifa_ranking"
     ]
@@ -31114,12 +31114,12 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.86,
+    "news_score": 0.85,
     "news_title": "2026 World Lacrosse Women’s Championship Division II concludes after eight days in Wroclaw, Poland - World Lacrosse",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcm90VkpDZmdoLXNnREltMm5td0gtQ21hdXgzRlE2bW1KYjF4WldmUURHdlVFelB1a0M4MS1IcWFTV2RrQmpQNWFqaU9Wc1dSdWxPMGxETDUwMVJMcWVrOEVJTnhuMFdjc21FaEhxaW5LZ0hBdFRhRU1udnJsUUZqNTZfWm1CMWFLRS1CMmdJa3VDa3BTWHlVUUI1VDcydU9LQkxKeUNRQW16VFpzb2N6clhYVlB3OFFUdEZPdVh1UWdZRzQ?oc=5",
     "news_image": "",
     "news_source": "World Lacrosse",
-    "news_age": "38m ago",
+    "news_age": "40m ago",
     "news_columns": [
       "gender",
       "gender_gap",
@@ -32580,12 +32580,12 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.15,
-    "news_title": "Three killed after bomb detonated at Moscow restaurant, state media say - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mVWFVTVlSM3VaTUxFeHdyNlZuSXhsaUsyZFBlTzFnM05sVjBtSEJNZzJDbzFxLWxUUGE0SkViMFNacHZHN0Y5ZWVnYks1S2M0NU9EUDVMaXI2Zw?oc=5",
+    "news_score": 0.11,
+    "news_title": "Zelensky says Ukraine has ‘no interceptors’ as ballistic missiles hit Kyiv - The Washington Post",
+    "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY0xoeDV0cU1GNDlvUjNYcHpmWldoUjBGWjJrRnZkUGxnNExyOGJtNUw4Z19YdkE2SDFnSHlWYVZqMFVGVEl1TXVzT2dwdnFoNk56NFI4dl9kNmZWbW9XcUdaVFNoOGtMRngxNVRhdGdBOS1CV1h0X2thSllObS0xWGhUTnlFOTBJZFlPaU04OXJTM09YaU4zak1keFdfVWFuTjQ4UDdWVHAtVkZu?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "3h ago",
+    "news_source": "The Washington Post",
+    "news_age": "11h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -33276,7 +33276,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOGU3ampGbjducVgtbzZRLWl3UWdxUFJkSnEyVlpabXBWZ1ZOTXg2cy1Cb2NJbUs3am9fNDJDcnFiVUo0OWhuMHZmTmRnUTR2T3F2aEtwSUhyajlTcGtlMDRBVkItaU5EUmJWb19BY0ZvUkk1d3BEQVgxWFl3ZjY4bXBtWHF3bmdwbVRxSU51THNOZ1FHT1RWYXoxckQzTGFxSUFHRVJMSnhWZlRsbTh1NDF6NHNBaUJOSTlNM21FXy1FWnRXazhWcmFXRFNVbU1FNGJIQkpfTnI?oc=5",
     "news_image": "",
     "news_source": "UConn Today",
-    "news_age": "3672h ago",
+    "news_age": "3673h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -40565,12 +40565,12 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.15,
-    "news_title": "Three killed after bomb detonated at Moscow restaurant, state media say - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mVWFVTVlSM3VaTUxFeHdyNlZuSXhsaUsyZFBlTzFnM05sVjBtSEJNZzJDbzFxLWxUUGE0SkViMFNacHZHN0Y5ZWVnYks1S2M0NU9EUDVMaXI2Zw?oc=5",
+    "news_score": 0.11,
+    "news_title": "Zelensky says Ukraine has ‘no interceptors’ as ballistic missiles hit Kyiv - The Washington Post",
+    "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY0xoeDV0cU1GNDlvUjNYcHpmWldoUjBGWjJrRnZkUGxnNExyOGJtNUw4Z19YdkE2SDFnSHlWYVZqMFVGVEl1TXVzT2dwdnFoNk56NFI4dl9kNmZWbW9XcUdaVFNoOGtMRngxNVRhdGdBOS1CV1h0X2thSllObS0xWGhUTnlFOTBJZFlPaU04OXJTM09YaU4zak1keFdfVWFuTjQ4UDdWVHAtVkZu?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "3h ago",
+    "news_source": "The Washington Post",
+    "news_age": "11h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -41822,16 +41822,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcEUxYk1PVHExdDVDaXVrelFPZFVYQ0pwNDNVdnFwQWI3R0ZZZGpMSnJ0XzBLU0dMTndLRFdEd1kyRzdkX1h0SnctT1M3Uk8yUlFGTVVSeWRGWXpLTUxRSE1aZVhuN3piTlAwelAwMW5pVUtNaHBaUlNOTGQ3emg1VmNGX1VGLTA5VGpQT01YMWtOaVJEdHFHbWJGbjN5VE50ZERYMGRMWFVJUDhNaDgzdkZR?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "9h ago",
+    "news_age": "10h ago",
     "news_columns": [
-      "mlb_rankings",
-      "mlb_wins",
-      "mlb_losses",
-      "geopolitical_tension",
-      "military_actions",
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "mlb_rank",
+      "mlb_w"
     ]
   },
   {
@@ -43025,12 +43019,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.82,
+    "news_score": 0.81,
     "news_title": "Brawl and BVB defeat in Vietnam: the wildest friendlies ever - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWDdOZ29QVFRwNFZoSFVFOHZTZlVGTzdFM09HSlJjeUY5c20tQ3NJVHI2amZKdGpxY3dyVU9ORDN2TkY5bDlMNjM1WG9uVzNVN0YwX05GLU90T09IWVFYWm1UVmFzM2tOc3hBd0ctTVJVeFN6VXlvTUFNeVkyZ0ZPSWJQSGF4NlNp?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "50m ago",
+    "news_age": "52m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -44313,18 +44307,17 @@
     "union_rate": null,
     "union_rate_rank": null,
     "news_score": 0.0,
-    "news_title": "Wall Street To Big Tech: Show Us The Money In Pricey AI Race - Investor's Business Daily",
-    "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVzZpQWZ2VVd0SDdHRWJ5Y2RXQXptLXBJbm9RT1hMNnhmVzNKamlRdHdFT2otZTRic0k5NlVQY2NQR3JycWY2QmVuZzFPdlBGQXNIbVJnRGVKa0NveXBndVNIZ01VZ2IxVnpDeEZZSjNfRzZ1ZHBQWlhOS1FDcTBUUURQai10UUVXQ3JxRFV2TVlBdWFySXc?oc=5",
+    "news_title": "Amazon and Microsoft Delivered Major Earnings Wins - Barron's",
+    "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTUNRV0pLRENmMGhQLWdLWGlZczgzTmpNakRoVDRpd0cwd3JUekZ5d0dIMTFYSHFiWm9vclRrb1FwOHB0R1BjaGNEZl9kTmFFcmVYNXB0bENaWXI5MVdHQXlnbE12WGQ0UV9uVERCYVNkVTRCWjZySUZtQXJXWFFXdGNwRm0zcEVXT3dIMkNB?oc=5",
     "news_image": "",
-    "news_source": "Investor's Business Daily",
+    "news_source": "Barron's",
     "news_age": "37h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
       "ai_research",
-      "internet_pct"
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ]
   },
   {
@@ -44983,7 +44976,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdHdmbDNVaTdKMmlxQ25Rb1RoOW5HRWkyb1pZYV9Dam9abnBIVFlkSHFTMnA3NmluOF92bTQ5b0JReUFtTUtIQ281TFN2VzNWS1piblJ1TUxjSjhzRXpuc2tHSWFwNzJ6eWdEM19iT01wVkRLeEhvRU10TVZYb0wyRVMyQ0oyMlFxOUxhVThqUFR3Y0JwYTBBLXRjYVp1UFYxRS16SHpuZ2RkTzJzMVpzVUhIQzFNQQ?oc=5",
     "news_image": "",
     "news_source": "cepr.org",
-    "news_age": "7345h ago",
+    "news_age": "7346h ago",
     "news_columns": [
       "tourism",
       "passport",
@@ -45201,18 +45194,17 @@
     "union_rate": null,
     "union_rate_rank": null,
     "news_score": 0.0,
-    "news_title": "Wall Street To Big Tech: Show Us The Money In Pricey AI Race - Investor's Business Daily",
-    "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVzZpQWZ2VVd0SDdHRWJ5Y2RXQXptLXBJbm9RT1hMNnhmVzNKamlRdHdFT2otZTRic0k5NlVQY2NQR3JycWY2QmVuZzFPdlBGQXNIbVJnRGVKa0NveXBndVNIZ01VZ2IxVnpDeEZZSjNfRzZ1ZHBQWlhOS1FDcTBUUURQai10UUVXQ3JxRFV2TVlBdWFySXc?oc=5",
+    "news_title": "Amazon and Microsoft Delivered Major Earnings Wins - Barron's",
+    "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTUNRV0pLRENmMGhQLWdLWGlZczgzTmpNakRoVDRpd0cwd3JUekZ5d0dIMTFYSHFiWm9vclRrb1FwOHB0R1BjaGNEZl9kTmFFcmVYNXB0bENaWXI5MVdHQXlnbE12WGQ0UV9uVERCYVNkVTRCWjZySUZtQXJXWFFXdGNwRm0zcEVXT3dIMkNB?oc=5",
     "news_image": "",
-    "news_source": "Investor's Business Daily",
+    "news_source": "Barron's",
     "news_age": "37h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
       "ai_research",
-      "internet_pct"
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ]
   },
   {
@@ -47197,7 +47189,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.4,
+    "news_score": 0.39,
     "news_title": "Lionel Messi starts on Miami bench following World Cup heartbreak - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUmFES2VaVzNIUmFObDBMNWZQUkduZW1DakZBUF9mdTcweE92eW5pTVdWbU01OFZ6Wl9qdk53R3VlUzBldnhTUW9qdV82TUp1TEFXNkU4Z2FNUDczdWU5MnJlQmJzOGRQaDhkaXZQNktQMGVHcnhrVEhlUnk5MHl2MW9mZXlCOXZFS2RPWjlpdjFGU1hOdk9BUG9PVFZHTHIzMHBEWHhYMmxTMnpxY1hfbnNn?oc=5",
     "news_image": "",
@@ -49633,7 +49625,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWk9zUFBvbmFQRDhLMmwtMGpSYXRtbmxtUTI0dnNWbWVPYlhQRDdxNHp1eHlZS1YwRks2cXlrX0lQU25aZUVvZmoyNWJ5OXpaQXE1aVAxN3g5TVAwYzBVWWg5aVhiUlRqYm1aUWF4TGcwaFZHOHVkaTdGWWtKLTZzb3JZLWY3S2tCaE03UmNNbkRkY2hPd2RzaXJpTGhXRzNEdGJISldrbGlCYVVQX2o4MElSdGRkYjdCcDdUdXZpcVRZMXVEa2pRTmpQQkpRS3NBdHdISWJ3OGZaUzJueG8xSk1nSFhqTG1MdzZqejFqQjRiaXJ2SjFCdjB4WDVIQXhTbENF?oc=5",
     "news_image": "",
     "news_source": "NASA Science (.gov)",
-    "news_age": "3816h ago",
+    "news_age": "3817h ago",
     "news_columns": [
       "space_launch",
       "rd",
@@ -49856,7 +49848,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUHZlUE5IbmxrQlFOZUQ0Z05XcXE5OGZCRW43ekVCZmNLRUM0ZnpuV0k4YmpsbjM1ZFlQYi1ScTBqaGVQcTlzTlN6M3NkdWtfWm80MUM0MzNYVEdVRVNTc1EtbmM5djFrdkpYMTh1VnhlS1Rpa24yVkp4ZWdKQXJHY2p3?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
       "lgbtq_rights",
       "gay_marriage",
@@ -50286,12 +50278,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 1.13,
+    "news_score": 1.08,
     "news_title": "Buffon reveals who he would have chosen as Italy head coach: ‘World Cup main goal’ - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeFkzdEgxWjRTS0toMzk2dHU4ZThGdUFKazJOSDlnSTJMY2c2Y1A2bnJrelNIQ09mSnc3YW5XcGY4MGlCbk4yM1pqWHdRbVpVV3g2dnh3VnE0TlluMEljVTdOMzgyRlRyc2RLQjBXSEtDVHJLTGloSnRBVlRiSjZYbVptd1Nud3NF?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "8m ago",
+    "news_age": "10m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -50509,18 +50501,17 @@
     "union_rate": null,
     "union_rate_rank": null,
     "news_score": 0.0,
-    "news_title": "Wall Street To Big Tech: Show Us The Money In Pricey AI Race - Investor's Business Daily",
-    "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVzZpQWZ2VVd0SDdHRWJ5Y2RXQXptLXBJbm9RT1hMNnhmVzNKamlRdHdFT2otZTRic0k5NlVQY2NQR3JycWY2QmVuZzFPdlBGQXNIbVJnRGVKa0NveXBndVNIZ01VZ2IxVnpDeEZZSjNfRzZ1ZHBQWlhOS1FDcTBUUURQai10UUVXQ3JxRFV2TVlBdWFySXc?oc=5",
+    "news_title": "Amazon and Microsoft Delivered Major Earnings Wins - Barron's",
+    "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTUNRV0pLRENmMGhQLWdLWGlZczgzTmpNakRoVDRpd0cwd3JUekZ5d0dIMTFYSHFiWm9vclRrb1FwOHB0R1BjaGNEZl9kTmFFcmVYNXB0bENaWXI5MVdHQXlnbE12WGQ0UV9uVERCYVNkVTRCWjZySUZtQXJXWFFXdGNwRm0zcEVXT3dIMkNB?oc=5",
     "news_image": "",
-    "news_source": "Investor's Business Daily",
+    "news_source": "Barron's",
     "news_age": "37h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
       "ai_research",
-      "internet_pct"
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ]
   },
   {
@@ -56829,7 +56820,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWTY0bWFLbW5SQmVKRWpJSFh4TGsxVTRJVG9GbGk0UGdXQjYtTlpDTXdPNVBiVjZPTmRST3NkU0dyWUFibndjTDF4dzRoek4xdlFGc2prc2RkT0Rqb0RRR3dObHVpajNlclRXZl9ScTdJcEhPaElWa3RrM2Q3OE8wTndaZ1d1MWNqdzBvMm84OWZsU1REMVYtbHVNdDZCYXpLYWN1MmoyZUpfeG1jSjZiVUNoNTA1dTBzNFQw?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "1393h ago",
+    "news_age": "1394h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -60312,7 +60303,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.75,
+    "news_score": 0.77,
     "news_title": "America Is Exporting Bewilderment to the Rest of the World - Bloomberg.com",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTVFSMkVjLUNBSWJGN1NiUWJHbU54MGsxVHRqQlQxYTI5RnMtcWE3VHRibUcxZWJiNC1jZkctNzRmekZzcUtLVFBaNDBHWURQRVUtdFRxYnNhNHZFMkxWcHFyVmVGbUxhS2tYVnpyUkxta1hHMkdXLVV5LUlWVmZUcTJsUHlrUmg0VUtnQlo4OUtKZkdGY1R5OV85a0UwdEZwOFgtSmdKRUhEZHBGNThqUndn?oc=5",
     "news_image": "",
@@ -69710,7 +69701,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTElOQU9vMmtSOUtMZENuQVdVdWFzX2NnN1EyaHVxRjZMcVBFNERIY1NhZEFld25XVFdqNkRLeWhhc2ltWnVoNVRZR0hJLVBacVRTUXFtellNd1l5eHpaZUstdm52dXQxWjl2OHVHMFMxZi1SUlFKSkc4Y3pwNjEtRFRCNm52eHljc2dBRzlWZFNqUWNIQmdMdEdyMlp2TTQ5Z2ljLWk2OUdIYXdLWDgwbENTX1RPMXlzcVQxcHNxMA?oc=5",
     "news_image": "",
     "news_source": "UNESCO",
-    "news_age": "2617h ago",
+    "news_age": "2618h ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -72317,7 +72308,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 1.69,
+    "news_score": 1.68,
     "news_title": "BREAKING: Dodgers Trading for Tigers’ Tarik Skubal in Blockbuster Deal - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZk1ZSjVGblU0YjFZTW0xMHkxOTFJRmFUdmVRVXFlSEJVZFN2aHdGYUpqNjdQVGdTdm9QYTgyV3FzTUczZTc2OE9pNUpnZGRJZVk1dHl1bzFNRzRqZTVtdTBiWGF1M2tCR01MQlVWc0xfaEQ5U1FBR1FaT293VmNfaHFGeENxbGZHYm50eGRlaw?oc=5",
     "news_image": "",
@@ -73650,7 +73641,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVWZzSlh6M2F4dkZ3ZWt5QThzUmR1QkZxWV9iN0Q2RGlDWEFMNkZ5cFpIM2RFWmFfYjlUVjNvTDVNbUU5Yk0tVUwwbHNWVWRqM1RKNTlQQUpRTmFpNUFkakZoMmsxbFU0dGxwT0VvUWxqNkM0bEtPNHhlTlFfR1lSRjNPMThZc2ZWbmFPbnpzbHZBRG1jU3VGVEd4Q0FsSGZvVlJlT2k1QndhbVRyRU1qS3F5NmpsdFNnNXRTUzU0SVgzOEQyNG5UZk1pTEk0bFdFSllpTC04X0dncUZqb0YwYS1tTEZXdmhxWi1KYjVB?oc=5",
     "news_image": "",
     "news_source": "Sky Sports",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
       "lgbtq_rights",
       "gay_marriage",
@@ -73866,12 +73857,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.22,
+    "news_score": 0.28,
     "news_title": "Josko Gvardiol interview: His new Man City deal, Pep Guardiola’s exit and Enzo Maresca hopes - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQURpSTk1UHh1ZlBDeXlEc3B2ZlpTODdVaGhTWm93X3BKRkpaN1FFRUtNYVdHdzdORzczSXNUVFdSTk1RdmdmaTM1RnRIb2dRYmpVYjJqVkVoMXVoNV9jSTNNZ29CXzBfNmttb3dyVFlxSnlzWmROTThhUmtyalBiSjVGeXhHZnZCeFNscC1Waw?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
       "exports",
       "imports",
@@ -74540,12 +74531,12 @@
     "area": null,
     "gdp": null,
     "hdi": null,
-    "news_score": 1.04,
+    "news_score": 1.07,
     "news_title": "Live updates: US-Iran war; Trump says he’s canceling planned attacks - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmRm9ldjJOd2ZubDZtNFZ2YTdlLVJ4QWxpTEwtek1weGtPdW02blI1Mlpsa0hLUFRpeGRKaTN6bmlacldaSzVodG5ieVRpMC15RG9SWXNROHZ5eTBBb3llUnV5aVhEOXBEMHd3YnJB?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "61m ago",
+    "news_age": "63m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -75832,12 +75823,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.64,
+    "news_score": 0.68,
     "news_title": "Live updates: US-Iran war; Trump says he’s canceling planned attacks - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmRm9ldjJOd2ZubDZtNFZ2YTdlLVJ4QWxpTEwtek1weGtPdW02blI1Mlpsa0hLUFRpeGRKaTN6bmlacldaSzVodG5ieVRpMC15RG9SWXNROHZ5eTBBb3llUnV5aVhEOXBEMHd3YnJB?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "61m ago",
+    "news_age": "63m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -76253,7 +76244,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.03,
+    "news_score": 0.02,
     "news_title": "Will SpaceX paint its rocket pink? Investor questions go beyond Moon and Mars ahead of first results - reuters.com",
     "news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWlqNFRRdmhvdnJCYjdZNU5ZQWRFczZoSnJrbHhmWjc4OEplN3VOSE00RlBwc3J4MDRhbUdiNm80a09weGVQRUxqZHhfRzMtT2d2UkpjazBWaXduSk1MUG5pdUNIZFpTUzgyR09WQnJMYkctNEJtcFlCQWVTb2gwaEd0ZHJpNDhaQzQ0UzZYUTJJZkFiTWJsU1RMMVdRTktiZVZtRWN0cE1wUFpvWUdKbTQ0X295WHBBTW9CakYyRUU0VTh1YlM5b3YzMGwzOGtTZzNR?oc=5",
     "news_image": "",
@@ -76963,7 +76954,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaThKSDA1RVEzdDJGdnZ4U3VYMkhabkk4R2JnT2FJXzdNSnMxM3gyaXhSZVVwZ09JRk54MXNqUHpVX1g0S0pGWmFwZEtSUVhNWU5OaGxBWHIzZEx2SEwxMXFwSjJqTFlsdElESEVmR2h6WW5jVXBDQWJ1SGVuYlo2elpCdU1PQ2FLTm1tdmpKXzdyeC1U0gGaAUFVX3lxTFBsZl9pOEF3Vlkwc0VMOWhIdU0ybVh3Vm95OUpmR2dIa2ZYbUEyd3BiZ1FTVl9oaExyc2J3Y1BMVFBNUzVEUkJzdXRmNm1UeUFOT1lUbW1PTHdMOC1DUkJyQ0ZFMzc3RjI0ai15NWdFUzhzWm1XeEJDR2J6blZ5SUhGeFNqU1padjFCUmU1N3hlMEd6MGNmTkRYQ3c?oc=5",
     "news_image": "",
     "news_source": "The Center Square",
-    "news_age": "2401h ago",
+    "news_age": "2402h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -79533,7 +79524,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZEZCSVpPTDlMZGtOM0prbnhxRE9ONEhkV3dsVjNSQi1oU2FteHhYd3ZPWWJXREU2TlNXMmEzZFk5Y3Nxa2hNZlhidm1KX2duZmV0aDNkb1FfdU1VTGoyQ0V0d1ZUQjBtaFdvSURzOTVzMWNUY2lHLVUybm1PS0NISHpQNGxiNkdLUWNaeWNSb1JuMEdyX3Vubk8xWjhqX1pwalNLTjV3?oc=5",
     "news_image": "",
     "news_source": "Simple Flying",
-    "news_age": "34h ago",
+    "news_age": "35h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -83212,7 +83203,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON0FhcjdOVUNBQUdObDFma0tpWDUwQTUtRkpwQ1dnNHd1RkVSNlJTTFplRUxEbmhYemFQV1pESnBpSkxCQ2dpX2VUSjFxNzlhT0R1eGVrWU52djVUWngwRDJkbEVfUkF2THdvdVltZ0xycVJaT1BZYnpzM3VxakZHaA?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "1825h ago",
+    "news_age": "1826h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -85340,7 +85331,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.64,
+    "news_score": 0.63,
     "news_title": "Browns QB Shedeur Sanders reacts to Deion visiting training camp - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaXdWdllzeUNYZmsxbFpPMmI3ZTdhdDR6Wm9ieDZPcS1XSHBkZTBvcmJybWtJcFNlUnNmbmNocUg5QmpTdXVmQU1uTWxMNjZ1b1E3UVRIOGNQYjFpcnF3aWtZbXd5NjR1Njg2Y29NQWN2czNDdG5Xak9fZnFKN09OQ0ZBNUhicFJK?oc=5",
     "news_image": "",
@@ -85672,7 +85663,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXpVRnJ0MXRlRndIWkJYY2xDMVJzY2VpUWNqOHk3TUEzUkFnVG11UnBST2trZlNVV0RWNFdxMC1tbkpRTW9SMkxNUFVRWDh5Q0Y5WURTMENJeDA3QzZ2QVZIZEZxY2hJaWlRVGdmckRCeFhCbjJQZDVJaVpieE5kVkFJLWJCSlJ4Z01sbGMtY242bElqVjNxVWNuWUljSlVXNUFPc2NHUmRlNXZqNGc?oc=5",
     "news_image": "",
     "news_source": "Duke Today",
-    "news_age": "7297h ago",
+    "news_age": "7298h ago",
     "news_columns": [
       "basket",
       "olympic",
@@ -86746,7 +86737,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.32,
+    "news_score": 0.33,
     "news_title": "Houston Dynamo FC secure their second consecutive shutout victory at Sporting Kansas City - Houston Dynamo FC",
     "news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWEVZMTg5RDBTUHFybVR0dnVGZ3J5c3d6NkRmUGlFT1RFVTdOWUowbTVaLW51bnZlY2xod2FoeEZlUTAxcGdtVURPMlV3bFRLWldfRGJvOHJTQnVtblEtVWNvQk9Wb0RKRWVUUTlFY2ZVbnB4WGp5aExCX3pFbjJkS2pMcE1yZjdjX0N0eG1nbG5jeWRxY0NEZ0R1YXg2SkNjcUZwQjRwU1JmbG0zRV9aX3RVTDliN0hvZ0hGaTdGSm41QU5R?oc=5",
     "news_image": "",
@@ -87640,7 +87631,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZXp1SWZxMm1MTG1uTlpYWl9UbURSamc5TkFKenItVnJkMnA5OG9GZHVidk5KUUwwX0c3S1dIazZJQVBHWmVXbG1KNkROQlRFVG1KdGNjQkZGa05QakoxNHBkNm1IckpWeEc5V1JFSVYxbGlKbnc4LTZzTjZGSkZ4eTZDZDhRV0ZLRHd1M21QMUFXWFRoZGR0ajZWbTBCbDczNWV4SnVzWFpxbDJCakRraUZfaDFTenVDZkktNW1Vdm15NmtQUkRBNmNB?oc=5",
     "news_image": "",
     "news_source": "International Atomic Energy Agency",
-    "news_age": "4344h ago",
+    "news_age": "4345h ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -88822,12 +88813,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.89,
+    "news_score": 0.86,
     "news_title": "Live updates: US-Iran war; Trump says he’s canceling planned attacks - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmRm9ldjJOd2ZubDZtNFZ2YTdlLVJ4QWxpTEwtek1weGtPdW02blI1Mlpsa0hLUFRpeGRKaTN6bmlacldaSzVodG5ieVRpMC15RG9SWXNROHZ5eTBBb3llUnV5aVhEOXBEMHd3YnJB?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "61m ago",
+    "news_age": "63m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -89168,12 +89159,12 @@
     "news_source": "BBC",
     "news_age": "3h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "michelin",
+      "coffee",
+      "tea_consume",
+      "meat",
+      "street_food",
+      "car_density"
     ]
   },
   {
@@ -89209,12 +89200,12 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.36,
-    "news_title": "Gina Rinehart threatens ABC with legal action over Race Around the World program - The Guardian",
-    "news_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV0R4N1Y2TXplTEJiNEdZbHBDekcyT0VBeFZXR0QyNnhvSGRtOFk3d3pDQVhkOUVtTTZwaGtaT3lKdVYyV1huR1JSQW8yQUdxN1BZN1gzNnNSTTdraC0tbjh0VGV4dTVudlJndS1YUnJZWDV0dXN3b2pxWEYyQldKMTV5R2JKbXZHRU1iNWVkSWhpOVhneko2dThiS0lka2RVbUtuVFRiRExCa01HdUkzWV9haFNlaDh4S3ZDa21hcEV5S2VNTlRLalI0M0dHZw?oc=5",
+    "news_score": 0.4,
+    "news_title": "Three killed after bomb detonated at Moscow restaurant, state media say - BBC",
+    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mVWFVTVlSM3VaTUxFeHdyNlZuSXhsaUsyZFBlTzFnM05sVjBtSEJNZzJDbzFxLWxUUGE0SkViMFNacHZHN0Y5ZWVnYks1S2M0NU9EUDVMaXI2Zw?oc=5",
     "news_image": "",
-    "news_source": "The Guardian",
-    "news_age": "8h ago",
+    "news_source": "BBC",
+    "news_age": "3h ago",
     "news_columns": [
       "michelin",
       "coffee",
@@ -89257,7 +89248,7 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.57,
+    "news_score": 0.61,
     "news_title": "World in Brief: Trump cancels strikes on Iran; EU calls emergency meeting to discuss Ceuta - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTVJyQlhrWG5RNExHWFFHTmNhTS1jWU1keVdmbkR5dHFCWEd3d0lScC15VS1YOWtoSUN1cHdjaHpPX0ZTaUNRSDJiZjY2MWNkVzdCcm1pR2RTQW9MZWt5YUVqMWFOVzVWcllBNVZsVV94bk5seXpUczdJUE5pMmFuNFZTLUs1Tm4tZE1vX1ZHSVRlTmpLLXRF?oc=5",
     "news_image": "",
@@ -89574,7 +89565,7 @@
     "cpi": null,
     "lat": 25.3,
     "lon": 51.2,
-    "news_score": 0.47,
+    "news_score": 0.45,
     "news_title": "Dodgers acquiring pitcher Tarik Skubal from Detroit Tigers in blockbuster trade - latimes.com",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOVZXbU9icXhWUXNCajE1QkY2Wkk1Q0pQZm5neERVRDVrdEs3RDZqT0FJTWU4VmZmeVJ1S1BwU2tCRnNJRmV1T1ZqZzRucnRVMmpaQTFOX1BaNXpNZVBPWmJNR2ZSbG9jTGMzUTM4SnY5VG82SnZES0dlZHhnbFlQWWxGcWZZWjhiNDdUU19FdFBEZ0RmekdUbElWRS1vSlZSU2E0RDRuZnJIQQ?oc=5",
     "news_image": "",
@@ -91524,7 +91515,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa2k3V0hJbGFaSGRZWGZsa2lZODBfN05aWkdXenJFSmhUbkR2VWFsejQ5WTRfRXlIMTljOGozUUdYN01HbjhIclF1RFAxSG02ZGxkV0diWFBzcUpTVDd5TGEwU0ZvU1VBZnZpa0pWdFJIV2h1MjU2YjVzTDdrRk5yY1lPTmhTTlNyazZ2aHhmNm9QQjZoRy01VzV5T24?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "15h ago",
+    "news_age": "16h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -95664,7 +95655,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50MEJKYnVDelp3Mk9NcEVhcFFGMVB2MFJxSGh5d21TQm5vay1TbWJmUE1XR3FBbUNZaS1zLTRfazd3b205Wi1IYTdvR0lwd09RdDdFY292RDBwYVlKRG5mY3kxMFozQXdQ?oc=5",
     "news_image": "",
     "news_source": "RAND Corporation",
-    "news_age": "2137h ago",
+    "news_age": "2138h ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -95741,7 +95732,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.37,
+    "news_score": 0.35,
     "news_title": "Idaho fast food restaurant shooting leaves 3 dead and 7 injured, city spokesman says - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYW9uN0pxS05KdmgwSlBrYXdBTjBJTDY2N05QS2FSbUIycnRaR3ZnYTdBVTU5OUxpWnpGZnJUS0tVUWR0dFJIbGNKZGVYZEdxS3RfZjk1bHVnc3h3TTRHN2g1TUFMRU8yZHk3NnE0elkzZXFtUEwxRWNuZjktOTdmcGpCbUxYQW9vM05nZUZ3?oc=5",
     "news_image": "",
@@ -99783,18 +99774,15 @@
     "lat": 38,
     "lon": -97,
     "news_score": 0.01,
-    "news_title": "Big Ten, SEC join to support Protect College Sports Act, breathing new life into landmark legislation - CBS Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON3FVUGxCY3dnRlFYVGROMzFHZ3hOSkNnWkVlR29hR3dLTmZNdzZIdWw2Tld0ZGdIRmVUZFRHZmxQTXEzSDYxS1E2dW5vVmdNQ3pGbTU2RHNmdlQ1QndzLVhDUVN5a0FMTGNKcDdKbWQ1ZjZncU91NDQwNGxkekhDWUpoYXl1REpzWk0zU1BkcVR6dGRMbkVqcjVCcw?oc=5",
+    "news_title": "Big Ten, SEC support college sports bill, reviving Senate chances - ESPN",
+    "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRXI1ZWxvc3R5M2VmQ3NxVEtMVUVzS3V3c0xMTEV5QzlzYnJZV0NwZVBGX2xPZUkzTUtiZ2hPWGwzR1hjQkdxcWJ0NFhnNXRaakpzZWVjNUVBVVhHb2hXdldkUkx1R19waFZITm14Q3g3SndDcUQ0cWZoU1BUYXF2LXh4YkhsSEFnXzRqVHJpX1JnQWtuV01SMTVNX094NWVyYXdudkR2ckZneThOYkdVUkZoOV9DR1NKNE40?oc=5",
     "news_image": "",
-    "news_source": "CBS Sports",
+    "news_source": "ESPN",
     "news_age": "30h ago",
     "news_columns": [
-      "democracy",
-      "approval",
-      "press",
-      "election_days",
-      "ai_research",
-      "internet_pct"
+      "car_density",
+      "gas_price",
+      "co2"
     ]
   },
   {
@@ -104219,7 +104207,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMjNyM3U0WEE1VlNzZm90TGxSS2ZWRmFpdE5PNVVkUmZFRmxNSkZZRXg4dnpkUTFOSktGTXZLUXZFYnlJd0hUb0NyMzYyZ3hxZkF6NTYwZFpJSGNVSzZNcWNTTjUxcXNCcE5xYkRtYnpWSElWTWFpS016X0xIcWl4RGh0ZWwxRXhDZ2tkcGh6a3BrZHJjVzVzZWRkZjE3VW9Cc2VCNk1EWE5HNTF0NG9KZTRiME00T182MG5ta0RNUQ?oc=5",
     "news_image": "",
     "news_source": "The Times",
-    "news_age": "1369h ago",
+    "news_age": "1370h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
