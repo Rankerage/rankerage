@@ -1908,10 +1908,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket",
-      "suicide",
-      "happiness"
+      "olympic"
     ]
   },
   {
@@ -7886,17 +7883,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.1,
+    "news_score": 0.08,
     "news_title": "The World Should Not Ignore China’s Undervalued Currency - Council on Foreign Relations",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbTFpOWFOTWFzd0RCYWZodDQzSXFmT3g0bEZ5S0NmS1lhZTNRaHluc0txTnoyUHk5NUl4dTAyWEYxUzlmY2VxNWNiNnFnVVQ3ZVM0RUV0MVhYZUd4N2lBUEpnX3JJeHhSZmZUclM5cGNjRUYyb1BfOUR3Rm9xbnpqaEo3dEpfYm9KQk4ycVNETmVucGxqLXZ0RVJB?oc=5",
     "news_image": "",
     "news_source": "Council on Foreign Relations",
     "news_age": "38h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
       "olympic",
-      "basket"
+      "fifa_w"
     ]
   },
   {
@@ -9630,7 +9625,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdTBDVVNZcGVsYWlVc2VLalJKVE9MUVlCMlRLblVBWVo5ZEVsQmNzRC04bU92NXFWQnp2X2x2MWt6N2FONU9qbEhqRjJsaHIzc0NTMnVkWGh5VGxxREhjakh1ZWQ2c080RjVzTkg3TWRRVGE2eWJwT3h0bktSQVdkelQyUERNU3p0THI2SXFsaGZveC04T2ZKdEktbnRYV1htNnVHSWxIT1MzMld3dTg4?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "25h ago",
+    "news_age": "26h ago",
     "news_columns": [
       "health",
       "life_expectancy",
@@ -12832,10 +12827,11 @@
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTExHRzVKTC11ZHhmMUF6RmZrSWFqMVI0dHhYajQ0U1FTWlEzZ05jTjB2MmlvVEgtUDkzeDJiWG5ENERDTHBPR0g2MXdybUwyWEcyRDFadkp2VjBwRFUzV3kzMENmU3AyVGgwLTBrcDBSY0o4WTZjNmx5bVJyeWRidTcyU243UmdYNHc3WTNEZWNVcTdfOVRwRkhKREQ0dlFlRHFlV0tnSGxSUTRtc211MWlneXo?oc=5",
     "news_image": "",
     "news_source": "News On AIR",
-    "news_age": "19h ago",
+    "news_age": "20h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ]
   },
   {
@@ -14053,10 +14049,11 @@
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZVQzaS1zbGx2Wm8wbWFlUmpBeUtaRjhQSE9DYmVDaUVBVXhwRk5IRFp1djRXUW1VYjdfWnBFTElGYjdadkZGTkNDWWtoWnFqa2Ffd0gwcTcyT0k1aTB6cTJ5ZUZvT0g3bUU5bkp5MmhIeF9CVXZ0YjNMTlFnLUs4VWFYNVZ6b0drY01VdkdRRjV6X21iVkNCSnJxaDExcWRBNHhHWHFDUzNZQnlGczhiQnM2VHpzeWQ5MThpS1NQUDRlS2pnQlRFWA?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "26m ago",
+    "news_age": "28m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ]
   },
   {
@@ -16130,19 +16127,16 @@
     "refugees": null,
     "refugees_rank": null,
     "fifa_ranking_rank": 74,
-    "news_score": 0.0,
-    "news_title": "August's total solar eclipse will sweep over Spain, Iceland and Greenland - Phys.org",
-    "news_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SeGl3UUNOdUM2b3BibGJxNjJzZVl2QnVwbEF0VEJGUDlqSmh3T3g5UUNUMW1OMzdWemtPMXJOcEtrbkNQQXlJT1RkdFFWckpaM2llUTdSRDhPWHA5cDBUbzE5RlBkLWNnU0NYNzN6NmUtendYeEE?oc=5",
+    "news_score": 0.02,
+    "news_title": "Best meteor shower of year, 2 eclipses highlight August skywatching events - KING5.com",
+    "news_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNzFQR2FvVG02X1QtVm5TRTAxRkJnTUp2M0ZLR0F3VEpfQUZOWG9zNC0wSFdLVGZrZDhKdXJYdk9UcGFZaVZRUGI3Z0UyQlZ6WTFrREZ5Mk05bFFJS2RBdV9VdDQ4Q3dLcGxuYkU3WFpCTWlHZnQ2cEtlY1RhTVpLaTIwWGJtWVZ1ZWNnR09GSVFzTHQ0aU1VWkJhWU5sN1JsQTBKbndtc1pQcXhzdmdwWEIwU3V1OHlQRU1OWThlYmlCdUE5Z2Eybkl6OEZWX1FB?oc=5",
     "news_image": "",
-    "news_source": "Phys.org",
-    "news_age": "14h ago",
+    "news_source": "KING5.com",
+    "news_age": "9h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "space_launch"
+      "car_density",
+      "gas_price",
+      "co2"
     ]
   },
   {
@@ -16572,14 +16566,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTExHRzVKTC11ZHhmMUF6RmZrSWFqMVI0dHhYajQ0U1FTWlEzZ05jTjB2MmlvVEgtUDkzeDJiWG5ENERDTHBPR0g2MXdybUwyWEcyRDFadkp2VjBwRFUzV3kzMENmU3AyVGgwLTBrcDBSY0o4WTZjNmx5bVJyeWRidTcyU243UmdYNHc3WTNEZWNVcTdfOVRwRkhKREQ0dlFlRHFlV0tnSGxSUTRtc211MWlneXo?oc=5",
     "news_image": "",
     "news_source": "News On AIR",
-    "news_age": "19h ago",
+    "news_age": "20h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "space_launch"
+      "olympic",
+      "fifa_w"
     ]
   },
   {
@@ -17138,19 +17128,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.55,
+    "news_score": 0.54,
     "news_title": "Live Updates: Despite Trump's remarks, no new negotiations with Iran are planned, U.S. officials tell CBS News - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ1dLLUtEN1BOZURoRGtpQ1JYaDRibllHa25fRHBpNXlrSUdLV1N3NzVETUFZN3FXTFZlUTB2dmJWd1hSWUNRdDdVcUNnTmNfTTgtVXd1eTJ3WmNoRWxrY2FhcFdlX1d4bUxQdzVIcWM5RHNHNDBsOEN0TjFVTGN5ZHMtZkJ2SW5JTVJLWC04YzJmRG9CTlM5MGRVdzFTNVNYcVVOcGlzeFlSamc?oc=5",
     "news_image": "",
     "news_source": "CBS News",
     "news_age": "4h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "olympic",
+      "fifa_w"
     ]
   },
   {
@@ -17613,19 +17599,15 @@
     "refugees_rank": null,
     "union_rate": 77.2,
     "union_rate_rank": null,
-    "news_score": 0.54,
+    "news_score": 0.56,
     "news_title": "Poor productivity in Ireland’s domestic business threatens to hold economy back - The Irish Times",
     "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORkc0cTNFZ0VJMHRuY1J6eENLSHB5S2g0SFVHamljX3lZS2wzVnR4WWVQbkxBY2M5VDYyNWRPQ2ZFeWdTTmJJN0ZtVjd6WFNWeWVmdFFSbW1nODkyUVl4dUZMSEZxOHZ2Q3hQOHE4WGQxVEtfWGVyZWF4dndndXlBU05wSTljUXVXdW5CZDJValFNazZEOEh2SnNfdkF1QWdYajlUdndsYkpHRTVMQUhjTjFmTC1JSDhGSlZjZS1XQkhWcWpXRUZTTVpGUkJpOUk?oc=5",
     "news_image": "",
     "news_source": "The Irish Times",
     "news_age": "3h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "olympic",
+      "fifa_w"
     ]
   },
   {
@@ -17870,18 +17852,15 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.35,
+    "news_score": 0.34,
     "news_title": "Board of Peace appears to shift terms for IDF pullback after meeting PM; Gaza airstrike reported - The Times of Israel",
     "news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU05WUklmNl90VjJVaW42SVhZOFVNZlBYNjgwOS1URTNDYklwVHFzY19TZFNDekxZcW93ZWFFOW5aMHZHMkNTV0NNTC1PTlBFQzg2MVB0X3ZFZUxSdlBpekp5SG9CZ0VEaHBsUjd1MGNQdHpvZ2ZKUHhFQUstdDJBVEYtbTVDZndTLUoxR25zTEl6czFkYnh4VjlLa0F5RlY4WnRWTDhaLWg1ZUhQcUhBRzFhVFRpVF9EajZmWTc2T3JJZEVl0gHKAUFVX3lxTE9weGQyX1czTzBRaEhMVzFQMndJSi1hZVJtMHc0NnZCWlJFQXU4X0JVTUo0UmpXTWZheFEtcnd3NkQ1aFFlNlhjQlFUaTJmNHFsTzFkc2FmdHNXbXY3WnZPN1pXQ1h0dWNpdGZWMW1UeV9KWUI0VEgyckd5VURLLWpnRC1qdUlrbGtVRTc5OHNiQVg2YkpJOWFicmZveU42ZUhPdlBRYmRVUGkxaFNuN1JKYzYzeDQyQ2VEN1d0THRZU1dRdFM1S2Jwa0E?oc=5",
     "news_image": "",
     "news_source": "The Times of Israel",
     "news_age": "4h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "olympic",
+      "fifa_w"
     ]
   },
   {
@@ -18312,15 +18291,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.14,
+    "news_score": 0.1,
     "news_title": "Fans celebrate Lake Mary 12U softball team World Series win against Italy - WESH",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdkotdXcwRVdFM1Y4RHNIemdyYU45Tk5DdHpLb2hJeEZmNEloRkNMcmxkdWM2dTVGSzZ5R21tUi1iOTNtZDJNb0UtN25mUk5wanJJTjNfelRZSlBPeElIaEVBYlUzMk1uRWdBMGdjNG5RRFZQNHZUSnlHUXRkTGQ0U0szM1hIWHVySEI0dnd2WWFoZFhNZnM4Ng?oc=5",
     "news_image": "",
     "news_source": "WESH",
     "news_age": "7h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "coffee"
     ]
   },
   {
@@ -26256,7 +26239,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.44,
     "news_title": "Nauru, the world’s 3rd-smallest country, changes its name to Naoero - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOTdtLXhRZzdxbUNrTGNoLUljb2JINkFYOW1aY2RXN0VPTmdNMzNLT1BnaGQ0RE14WUpyemhKcUh5c3pxd01ZejJTR2ozSnJDd0Fnc2toRTM3M1MtblR1S1B2dWRPNVMwOVA5aXV4cklmRWUwSzBxYnRtSmh0NHRmamZiTEU2Szk4OF9kU0pyVjFNU0pzb01WZnNjQU91aGw2?oc=5",
     "news_image": "",
@@ -27975,10 +27958,11 @@
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZVQzaS1zbGx2Wm8wbWFlUmpBeUtaRjhQSE9DYmVDaUVBVXhwRk5IRFp1djRXUW1VYjdfWnBFTElGYjdadkZGTkNDWWtoWnFqa2Ffd0gwcTcyT0k1aTB6cTJ5ZUZvT0g3bUU5bkp5MmhIeF9CVXZ0YjNMTlFnLUs4VWFYNVZ6b0drY01VdkdRRjV6X21iVkNCSnJxaDExcWRBNHhHWHFDUzNZQnlGczhiQnM2VHpzeWQ5MThpS1NQUDRlS2pnQlRFWA?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "26m ago",
+    "news_age": "28m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ]
   },
   {
@@ -29172,7 +29156,7 @@
     "refugees_rank": null,
     "union_rate": 70.4,
     "union_rate_rank": null,
-    "news_score": 0.22,
+    "news_score": 0.0,
     "news_title": "Live Updates: Despite Trump's remarks, no new negotiations with Iran are planned, U.S. officials tell CBS News - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ1dLLUtEN1BOZURoRGtpQ1JYaDRibllHa25fRHBpNXlrSUdLV1N3NzVETUFZN3FXTFZlUTB2dmJWd1hSWUNRdDdVcUNnTmNfTTgtVXd1eTJ3WmNoRWxrY2FhcFdlX1d4bUxQdzVIcWM5RHNHNDBsOEN0TjFVTGN5ZHMtZkJ2SW5JTVJLWC04YzJmRG9CTlM5MGRVdzFTNVNYcVVOcGlzeFlSamc?oc=5",
     "news_image": "",
@@ -31998,7 +31982,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdTBDVVNZcGVsYWlVc2VLalJKVE9MUVlCMlRLblVBWVo5ZEVsQmNzRC04bU92NXFWQnp2X2x2MWt6N2FONU9qbEhqRjJsaHIzc0NTMnVkWGh5VGxxREhjakh1ZWQ2c080RjVzTkg3TWRRVGE2eWJwT3h0bktSQVdkelQyUERNU3p0THI2SXFsaGZveC04T2ZKdEktbnRYV1htNnVHSWxIT1MzMld3dTg4?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "25h ago",
+    "news_age": "26h ago",
     "news_columns": [
       "health",
       "life_expectancy",
@@ -32605,19 +32589,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.66,
     "news_title": "At least 27 killed as Russia and Ukraine trade heavy attacks - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2hVcVRnM3VfSm5Kd2ROOUxyVGZZMWEtNUkzZ1VtLW5UOGQxendTMlIzMXFmR21IYnJOTlVUc0N6Z0VjcWprNlgtQjVyRk1KYUtxWWhTNnhWd2puTHpBeHdSUjRTeUlVaXdral9uYUVHeC1NNTVNMXZYZWN4TTZPVV9iYVFLb1g0WjVFcXFpczAtVlRLaXdMcURXWWxEZHZTZ1A40gGoAUFVX3lxTE4xRkNUYWJ4clFOVFJMZEVFak5Cb1hxUTUyNmJRZktnWEZRVFhpQlZqcHlOcnRYc3gwazl5aGhEN2VHTnFsak5oMmV5VS1RMXpaWUtpeDRMb3dKYlZxeHVLeDc2MzJGWkJUYjlUREVCTU9WTFQtc2FQZE9ILWJsRE4yUVpDUGFRY3o2eE5GUktwR09hNW53VUJBejVMUEctc2hNME5jNEg2aQ?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
     "news_age": "2h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "car_density"
+      "olympic",
+      "fifa_w"
     ]
   },
   {
@@ -35073,10 +35053,11 @@
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZVQzaS1zbGx2Wm8wbWFlUmpBeUtaRjhQSE9DYmVDaUVBVXhwRk5IRFp1djRXUW1VYjdfWnBFTElGYjdadkZGTkNDWWtoWnFqa2Ffd0gwcTcyT0k1aTB6cTJ5ZUZvT0g3bUU5bkp5MmhIeF9CVXZ0YjNMTlFnLUs4VWFYNVZ6b0drY01VdkdRRjV6X21iVkNCSnJxaDExcWRBNHhHWHFDUzNZQnlGczhiQnM2VHpzeWQ5MThpS1NQUDRlS2pnQlRFWA?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "26m ago",
+    "news_age": "28m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ]
   },
   {
@@ -36130,7 +36111,8 @@
     "news_age": "9h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ]
   },
   {
@@ -40584,19 +40566,15 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.51,
+    "news_score": 0.59,
     "news_title": "At least 27 killed as Russia and Ukraine trade heavy attacks - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2hVcVRnM3VfSm5Kd2ROOUxyVGZZMWEtNUkzZ1VtLW5UOGQxendTMlIzMXFmR21IYnJOTlVUc0N6Z0VjcWprNlgtQjVyRk1KYUtxWWhTNnhWd2puTHpBeHdSUjRTeUlVaXdral9uYUVHeC1NNTVNMXZYZWN4TTZPVV9iYVFLb1g0WjVFcXFpczAtVlRLaXdMcURXWWxEZHZTZ1A40gGoAUFVX3lxTE4xRkNUYWJ4clFOVFJMZEVFak5Cb1hxUTUyNmJRZktnWEZRVFhpQlZqcHlOcnRYc3gwazl5aGhEN2VHTnFsak5oMmV5VS1RMXpaWUtpeDRMb3dKYlZxeHVLeDc2MzJGWkJUYjlUREVCTU9WTFQtc2FQZE9ILWJsRE4yUVpDUGFRY3o2eE5GUktwR09hNW53VUJBejVMUEctc2hNME5jNEg2aQ?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
     "news_age": "2h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "car_density"
+      "olympic",
+      "fifa_w"
     ]
   },
   {
@@ -44770,7 +44748,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.07,
+    "news_score": 0.05,
     "news_title": "[Interview] [Galaxy Unpacked July 2026] Inside the Design Behind the Latest Galaxy Z Series and Galaxy Watch - samsung.com",
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORUR1SXduZE5nOEM5dmZ5UVg0UElSRUFncFBMaGVqRURzQWJRSzV2cC12bmRBY3ROam84NzYxdW5heFJGRWgzekRTdU9YckdhQ0E2c2Izb2gzcVZLZmlza2k2WEduaUhiTlREMFp3SjhXVXpMdlI5a2FOb2docjlpdDRoOURzSVhCXzgxZnMxTWh2SjVCeENFZ1VONmU2ZzJyQVNtNGx3WU1kdjlKa09TNU5GZlZmZWdrM1BSVC0yMjU3eUNadlVCQ1EzcGE?oc=5",
     "news_image": "",
@@ -49858,12 +49836,12 @@
     "union_rate": null,
     "union_rate_rank": null,
     "fifa_ranking_rank": 3,
-    "news_score": 0.89,
+    "news_score": 0.88,
     "news_title": "🗞️ Ferran bombshell and Real Madrid market, Tuesday's front pages - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSjdIel9hNndDRENiVkZ6RDZ3STN2aGNfWDVBci1ZRmhaOWVCYzJST0pEQ2o4V08wVGV4dUE1SGdYckQ4RVBpallzWEdZako3RjBMdWFUUkFCaHJUbnpCV1RCZE1CQkhpcnpMXzdxanl5dUlROUw4TmNBQmxlQmdLS2J1cHpwVTZjSU04Rg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "54m ago",
+    "news_age": "56m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -50293,12 +50271,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 1.17,
+    "news_score": 1.16,
     "news_title": "Noah Hiles: Pat Freiermuth’s actions in a viral video reflect who he has become on and off the field - Pittsburgh Post-Gazette",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLVdBQ3FLdTFfTnBZMFZNbDF4TU13c0tFdGV5ZFYwZDZLS0x2N2FTSUkyZG91VTNxWURldlVJTGtVSmx1VzRrQ1ZLUThRRFZMdmRTOC1yZU9rei00ZmR3Mk1uYkF3OHFZbk1WLWJNNGpFTTZleHVRZFR1aXpwMGtEQjlJX0dTMnJWeGlkekxUUTdabzVJMjh1blZFUHhvM2Y5VFV2RkxMeGUxRVRrSUxLU3BVLWpqVjVCOVE?oc=5",
     "news_image": "",
     "news_source": "Pittsburgh Post-Gazette",
-    "news_age": "38m ago",
+    "news_age": "40m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -60310,7 +60288,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.2,
+    "news_score": 0.16,
     "news_title": "House Ag Chair ‘pleased’ with Senate farm bill - Politico",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWnZUbTJqU08wV183elR6WHNpYkxBc2ZwLXV3TV8zRTNQR2gycVEwdWFVd0d2Z3lyN2JqZzloUEgxZlg3dktZcUhnNGlQRS00M2hScG14cEprWDR5X0tLRFZKLXdNOWRMOFlZWUQ3ZnR1b1RGTjRiZHg4aS1jZUxzYzFjMTVTbHJUVzRWdXU5YWFNMlQzS21RNXVDX0VTRThyS1B4QTFremk1bFcwanZWZQ?oc=5",
     "news_image": "",
@@ -64490,7 +64468,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.33,
+    "news_score": 0.36,
     "news_title": "Scoop: Trump tells Max Miller his candidacy is in trouble - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvVkJSNXAwb1ljcmtEY2sxVUlnY2RYa0xvUnJTakJrNUl2T0xoM3B3dnZJQmtqbUpSZTFVUllYQWJILXBWMWxwU0N6LTVJck00QTQ5OHBFWjNEUEEzZEs3YngtSjZmcXk2TVZsNEVJNW9teTNxNnYzQmxGZw?oc=5",
     "news_image": "",
@@ -68612,7 +68590,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV25CYTY0SmxUOVdjb29sa1ZONGJPOXNKaU5abUF0VWdyOHcxb2NvSmM1ZVVPOXY0VW9PUFJtd2VURURyM3BlWWYwNzJGZWF4VlZfZ3lHSnN2MU56YkhqWXZYUW5JLVhYanlGWFFtTVRMQzlqeU5BZ2IyRE9LMGJkT191SQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "93m ago",
+    "news_age": "95m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -72317,7 +72295,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 1.34,
+    "news_score": 1.33,
     "news_title": "Dave Roberts hopes Tarik Skubal can break Dodgers’ losing streak - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSEhMQm11NXlic1Z2ZEU3S3cweUptZUlCY3R6TV82MGlhN3F5dERqZUVaUDB0U3B3R2ZSOWJfbHc2R0c0SE90VTM1eWFTZUhicGpBNTdkSlptYkVqa2o5RXFQV2FBUjZFZVA1aDVCNmpoalU0XzAzYlJBV0R2SF9xVUpoUU1xSnM?oc=5",
     "news_image": "",
@@ -73872,7 +73850,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON0ljTmdfRVp4WDF1TnRYTTJtcXJfU0MxTjN2Yk5aZUNhQk9tSWkyV2xpYlAyLUZPcTV1RmlWSWlXOWxDTzAtQ0s2cmFoc3MzQVBjMm9wMm5SMnJURF80MGo5eXZLbXVpR0xHTXd2WXhPdEdwVXExU2QzcWpWM3hteVdn?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "71m ago",
+    "news_age": "73m ago",
     "news_columns": [
       "exports",
       "imports",
@@ -74896,7 +74874,7 @@
     "area": null,
     "gdp": null,
     "hdi": null,
-    "news_score": 0.26,
+    "news_score": 0.25,
     "news_title": "Board of Peace appears to shift terms for IDF pullback after meeting PM; Gaza airstrike reported - The Times of Israel",
     "news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU05WUklmNl90VjJVaW42SVhZOFVNZlBYNjgwOS1URTNDYklwVHFzY19TZFNDekxZcW93ZWFFOW5aMHZHMkNTV0NNTC1PTlBFQzg2MVB0X3ZFZUxSdlBpekp5SG9CZ0VEaHBsUjd1MGNQdHpvZ2ZKUHhFQUstdDJBVEYtbTVDZndTLUoxR25zTEl6czFkYnh4VjlLa0F5RlY4WnRWTDhaLWg1ZUhQcUhBRzFhVFRpVF9EajZmWTc2T3JJZEVl0gHKAUFVX3lxTE9weGQyX1czTzBRaEhMVzFQMndJSi1hZVJtMHc0NnZCWlJFQXU4X0JVTUo0UmpXTWZheFEtcnd3NkQ1aFFlNlhjQlFUaTJmNHFsTzFkc2FmdHNXbXY3WnZPN1pXQ1h0dWNpdGZWMW1UeV9KWUI0VEgyckd5VURLLWpnRC1qdUlrbGtVRTc5OHNiQVg2YkpJOWFicmZveU42ZUhPdlBRYmRVUGkxaFNuN1JKYzYzeDQyQ2VEN1d0THRZU1dRdFM1S2Jwa0E?oc=5",
     "news_image": "",
@@ -77204,7 +77182,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.11,
+    "news_score": 0.1,
     "news_title": "Snap beats revenue estimates on ad boost from World Cup, shares surge - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONHhwTFpNbHJYTmtEWG1kS1lTaGRELXZnVC1HS21zbXNaUDhrWmZicjVpNGVKejVFQzQ1M2NRT05hZTVvWWpfSTdrY3JheGprdTE2eEZRTmRvTXUyczdoZjVFbHUxYXZYZ24xUjl2VnAwdUx1dENaSkZDM0VCOEloczZHNEdSaGRqM3pxY1IwVjBSZ3Y1d3Z3?oc=5",
     "news_image": "",
@@ -83186,19 +83164,18 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.31,
-    "news_title": "Exclusive: House Democratic Women's Caucus calls on Chuck Edwards to resign - Axios",
-    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbnlmdEtvQTRMUWIxV2VYUURjUVNUZ2JVZ3B1dGtBRGhvaUhCLTVlMWljWDg2M2w5T21FeWJUSjFkNkZHX1c0Si0xdVNTbGdhV0dMNUZRUmdxU2Vmbl9ZX09zRy16eEU4V2FhQXBnTGFfQXAxeDRMS245SzhFSGNrUVJWX3ZLSmExcjhPcg?oc=5",
+    "news_score": 0.24,
+    "news_title": "Chuck Edwards recommended for censure by House Ethics Committee - Politico",
+    "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaXZiSWM0Yk9Td1lLbFkxT2ViaWU5V1d2Sm9fVzFzOC12RVRmcGtRMjE4dmlzNC04NHd6Wlo2OTZHUHpWRGVnWmpoenZZc3NlRFZXaW45blFpaVBnTmtRekhMQlZqQzlFZzBIVDRiaEpEZjZSVlJUVHBSMk5GTVFmVUpvckZVQjU4WlExaVBJd1p6MTg?oc=5",
     "news_image": "",
-    "news_source": "Axios",
-    "news_age": "6h ago",
+    "news_source": "Politico",
+    "news_age": "8h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
       "military_personnel",
       "gpi",
-      "arms_export",
-      "gender"
+      "arms_export"
     ]
   },
   {
@@ -84671,7 +84648,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.38,
+    "news_score": 0.3,
     "news_title": "Washington state wildfires cause 60,000 people to evacuate homes - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hUTFuYXVsblNnQ2pLLUdMQ19KR1pwVWdQZDZHVzB0dC1pWlBmVG83MnpCaVNfUFR1VjdIN2VLa0VCbzVGZHpOM01CS0RIaHFLaGdmZVlUZ2ozQQ?oc=5",
     "news_image": "",
@@ -85901,7 +85878,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.48,
+    "news_score": 0.47,
     "news_title": "NYU Langone Health Once Again Holds the Most No. 1–Ranked Specialties in the Nation in ‘U.S. News & World Report’ Rankings - NYU Langone Health",
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRG43Tk10czZYRmxDT3lwT1Vjek9GSTN5MHpTaFVFNGxyNm83OFJzNVJWSE9wZHlfSElGc0pabnVEcG9iY19pT0V3ZXlUeDVFQnpHNnJUUXQyMlFBR2g0UWFVX2MxbFZ2LWQ2a1lZdjJmSnF5WEx1VnJQQk5QY0xhb2EtY1plSzRWck9NME1zQldqYXQ4LVlXQzVXb1hVOTUwaGp1UGlaSWpEaTFDVXI1WU1VcllyME5acmZ3Wm11VDM0X05qWVp6MQ?oc=5",
     "news_image": "",
@@ -88881,7 +88858,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 1.08,
+    "news_score": 1.09,
     "news_title": "At least 27 killed as Russia and Ukraine trade heavy attacks - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2hVcVRnM3VfSm5Kd2ROOUxyVGZZMWEtNUkzZ1VtLW5UOGQxendTMlIzMXFmR21IYnJOTlVUc0N6Z0VjcWprNlgtQjVyRk1KYUtxWWhTNnhWd2puTHpBeHdSUjRTeUlVaXdral9uYUVHeC1NNTVNMXZYZWN4TTZPVV9iYVFLb1g0WjVFcXFpczAtVlRLaXdMcURXWWxEZHZTZ1A40gGoAUFVX3lxTE4xRkNUYWJ4clFOVFJMZEVFak5Cb1hxUTUyNmJRZktnWEZRVFhpQlZqcHlOcnRYc3gwazl5aGhEN2VHTnFsak5oMmV5VS1RMXpaWUtpeDRMb3dKYlZxeHVLeDc2MzJGWkJUYjlUREVCTU9WTFQtc2FQZE9ILWJsRE4yUVpDUGFRY3o2eE5GUktwR09hNW53VUJBejVMUEctc2hNME5jNEg2aQ?oc=5",
     "news_image": "",
@@ -88929,7 +88906,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.09,
+    "news_score": 0.08,
     "news_title": "Living longer could hinge on one surprising dietary change, study review suggests - Fox News",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3dUZUZ5MnEzdk9DbURIZ1lSOVR2VkRUajFiWW1ISzdEV1pKNnZscVk0VkdYcFVEY3VNVnJjWkVlNmtCZVBXV3RIcWd4R1M4NS1oM0UtZFlLV1pvQ05CUy1kbkpOYlYzVW1ra1BhY2ZWeWUwUlZTWmdoUkl0VHpySGFWUWY4ZlRxTzVIMG1Gc3NEVEh6UHFObDFDTW1abTZSSXlHcHctQ0Z0N2FE0gGyAUFVX3lxTFBhbmJ2U0NrVkdhaUhhRUNrV04tbUpWMXM1ZTBjUV80SEFhLWlEMmlONFdZSllscXBGZkNGUEMwOXBEX3hqN1Jyc1ROYW04U1JVMFo3c2NUZ2pDdjRXbGQ5MHV6aHR3dWZKd21KUWxza3FfQ2owMWVMazh5cTFzZWhvZjIzMVBJLVpIVEVub1dJdEF0MmVfNnZHTVZ6cFRDME5sbDJEYzJVZndpY1JOREYzRXc?oc=5",
     "news_image": "",
@@ -89142,7 +89119,7 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.23,
+    "news_score": 0.29,
     "news_title": "Scott Bessent’s yen intervention signals new era of US ‘currency activism’ - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcDhQblNJaDRoYUVyMXpGUXNMeGZMd3JSMThHRVAzZWxhdmVLeUVVT1hHQ0hWYnVlR1ZpRFdueDVqdURmellaeWc5NnF6MVBzajZhNE9QZVdaS3VJNXIwTnJ2TW9lTGxKQWViTlVnWHhSTDlYRlRJN2NkdWZXNTNmX3VvTXA?oc=5",
     "news_image": "",
@@ -89224,7 +89201,7 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.68,
+    "news_score": 0.72,
     "news_title": "At least 27 killed as Russia and Ukraine trade heavy attacks - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2hVcVRnM3VfSm5Kd2ROOUxyVGZZMWEtNUkzZ1VtLW5UOGQxendTMlIzMXFmR21IYnJOTlVUc0N6Z0VjcWprNlgtQjVyRk1KYUtxWWhTNnhWd2puTHpBeHdSUjRTeUlVaXdral9uYUVHeC1NNTVNMXZYZWN4TTZPVV9iYVFLb1g0WjVFcXFpczAtVlRLaXdMcURXWWxEZHZTZ1A40gGoAUFVX3lxTE4xRkNUYWJ4clFOVFJMZEVFak5Cb1hxUTUyNmJRZktnWEZRVFhpQlZqcHlOcnRYc3gwazl5aGhEN2VHTnFsak5oMmV5VS1RMXpaWUtpeDRMb3dKYlZxeHVLeDc2MzJGWkJUYjlUREVCTU9WTFQtc2FQZE9ILWJsRE4yUVpDUGFRY3o2eE5GUktwR09hNW53VUJBejVMUEctc2hNME5jNEg2aQ?oc=5",
     "news_image": "",
@@ -89272,7 +89249,7 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.59,
+    "news_score": 0.57,
     "news_title": "What, no sequinned crooners? How cruises became the home for world class theatre - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZEhaYk1iXzlqWjE1MFRCZHk1S3F2dDZVZnh1a1JQLWoteWg0NzRuSkVBZkp1b3FOS0trdjNsMEZlRk5pcVlmbEc0Y2hYZXRWaUpqSnZUZHFqclVIY25QN3dscEppRnBCSE41djhRMm1ERTF0MmtJdjlFRExCTDJMYmZ6ZW4za1pBS0MwYw?oc=5",
     "news_image": "",
@@ -89636,7 +89613,7 @@
     "cpi": null,
     "lat": 25.3,
     "lon": 51.2,
-    "news_score": 0.51,
+    "news_score": 0.53,
     "news_title": "At least 27 killed as Russia and Ukraine trade heavy attacks - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2hVcVRnM3VfSm5Kd2ROOUxyVGZZMWEtNUkzZ1VtLW5UOGQxendTMlIzMXFmR21IYnJOTlVUc0N6Z0VjcWprNlgtQjVyRk1KYUtxWWhTNnhWd2puTHpBeHdSUjRTeUlVaXdral9uYUVHeC1NNTVNMXZYZWN4TTZPVV9iYVFLb1g0WjVFcXFpczAtVlRLaXdMcURXWWxEZHZTZ1A40gGoAUFVX3lxTE4xRkNUYWJ4clFOVFJMZEVFak5Cb1hxUTUyNmJRZktnWEZRVFhpQlZqcHlOcnRYc3gwazl5aGhEN2VHTnFsak5oMmV5VS1RMXpaWUtpeDRMb3dKYlZxeHVLeDc2MzJGWkJUYjlUREVCTU9WTFQtc2FQZE9ILWJsRE4yUVpDUGFRY3o2eE5GUktwR09hNW53VUJBejVMUEctc2hNME5jNEg2aQ?oc=5",
     "news_image": "",
@@ -91049,12 +91026,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.63,
+    "news_score": 0.62,
     "news_title": "Blue Jays GM Ross Atkins Explains Jeff Hoffman Trade - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmYU1oNXZUU1lZYnE5NDBhRkNNdzIzRFpTN2pZUUxhMi1KcGtLTE1PMnR4cVNIMVBQbmRRLTNsejc0Mk1CRnJpNDM3Y2JJSXNhN1cySDNYOExUZjEzeXNYWHV1enpVQlk5cGZ1TmttNmFrNXNoNTVtQzJMRHdwUQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "109m ago",
+    "news_age": "111m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -92665,11 +92642,11 @@
     "lat": 54,
     "lon": -2,
     "news_score": 0.0,
-    "news_title": "Why Infantino's plans to sell off World Cup made no sense - ESPN",
-    "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONlJGWUUzUlRwajNOMGI2MUdmaHltMjlYYkg4SEt2WFhnRTNVNXo0d1JZa2JNZTFQd3VJNTFIRjFQS0c1TmFoT2Jaa2hpTXRIZXZ0c21IWElsT21zR0tucURBc2I2XzVxd1p3d1FERkhSYTNRUVJQbmNsUFRPYTg0LUJtblJ1WXRERHhjUTJTdTVxRUc4a2pGSS1GbjZXLXVRU21YQ19UOWZocVowUHFJMA?oc=5",
+    "news_title": "UEFA threatens FIFA, Joshua Kushner with legal action over World Cup investment plan - The Athletic - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNzAybVJHcnhvckpDM1FMNURqUFh5dGIzanpUbzRESEd3Q01jcDVzSV9yQ0FlalNfZmJGUWV2RVA2WTBxVXpISnJ5RWFnaHVkOXNnQm80bTR1dTJsZkpueVUzbjRoYk5wTW93a0FrOGQyNUJyd0JNZjE3NE9kX29Ud21iYmg1bThoZVdPX1F1UU9PbTVkU0tR?oc=5",
     "news_image": "",
-    "news_source": "ESPN",
-    "news_age": "42h ago",
+    "news_source": "The New York Times",
+    "news_age": "33h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -93929,12 +93906,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.05,
+    "news_score": 0.04,
     "news_title": "Brown’s President Will Resign After a Tenure That Included Trump Deal - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVGJ2TWJKdUpEZU0zWktrR3ZjOFBJRGxHSlJaMW45M1FrUGV5LVRFbGdlMkZub2IzLThudEpvRUV4VEU2TjJRcHpOc2J0ekZ2UWhUclNVd0o2ODdWTVp3d2gxcHU2ZUtJMXFtUEtxd2p0Zlp4OVJuUXQ1THAwMFcxTXd5UTFmYlN6anc?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "9h ago",
+    "news_age": "13h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -95845,7 +95822,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.09,
+    "news_score": 0.12,
     "news_title": "Nauru, the world’s third-smallest country, changes its name to Naoero - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM3EwWHM3cGFqcWZLY2JxbGNKU29hc2tNRWFiaTFNaHVHbUhIOXpjcmFHa3hmUlNlVDk1Yms4bC1UUk9GemtFLWR0LXpsUXFLcVB3UFJRTDFNRjNCQ2pYa3NabGx2aVVnVDM5ZDZpQ0JYQzltUUJuU0drdzJyTDJVaVNLRU00WlhZcXdfTHhadXRzWDNlckw1RFVRTVI1OEcw?oc=5",
     "news_image": "",
@@ -95909,7 +95886,7 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.24,
+    "news_score": 0.28,
     "news_title": "Scott Bessent’s yen intervention signals new era of US ‘currency activism’ - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcDhQblNJaDRoYUVyMXpGUXNMeGZMd3JSMThHRVAzZWxhdmVLeUVVT1hHQ0hWYnVlR1ZpRFdueDVqdURmellaeWc5NnF6MVBzajZhNE9QZVdaS3VJNXIwTnJ2TW9lTGxKQWViTlVnWHhSTDlYRlRJN2NkdWZXNTNmX3VvTXA?oc=5",
     "news_image": "",
@@ -97732,7 +97709,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.55,
+    "news_score": 0.54,
     "news_title": "Dave Roberts hopes Tarik Skubal can break Dodgers’ losing streak - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSEhMQm11NXlic1Z2ZEU3S3cweUptZUlCY3R6TV82MGlhN3F5dERqZUVaUDB0U3B3R2ZSOWJfbHc2R0c0SE90VTM1eWFTZUhicGpBNTdkSlptYkVqa2o5RXFQV2FBUjZFZVA1aDVCNmpoalU0XzAzYlJBV0R2SF9xVUpoUU1xSnM?oc=5",
     "news_image": "",
@@ -100127,18 +100104,17 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.21,
-    "news_title": "Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case - The New York Times",
-    "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORkMyWk1JQm5HOGg4WEhZWlZvVWRKeW16eE1USjJqeEpJdnc5ejF1R0VnUF8tRkZSRDJxUHg1b2ZRTkZ5aXNiLUtQS0x1VjZCNm8yZExfMXpnV1VqNXNMQ0o1cDFQNzU5WkEyY24xXzUycm1UQlk3M0V1SjlSUHozSFp0eUQ0TXRkaGZyZVR5MnZKdjA?oc=5",
+    "news_score": 0.23,
+    "news_title": "Blanche poised for confirmation vote after he kills Trump's fund - Axios",
+    "news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnNzhpUHhPS3NOd3RlZGIxNGI2RTJvY3FkbVNKcnRCOWpLNHZOS0N1UjJ6ZnFpd2FaVEZGa3VqT00zRnpXQ2FhZFYySnNTa296WTVrTTZnYmN2czRGbDJ4QWt0ZEhITHAxOThmQkowcEM2SnYwejlCVDB3?oc=5",
     "news_image": "",
-    "news_source": "The New York Times",
+    "news_source": "Axios",
     "news_age": "6h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "democracy",
+      "approval",
+      "press",
+      "election_days"
     ]
   },
   {
@@ -104337,7 +104313,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.26,
+    "news_score": 0.25,
     "news_title": "Board of Peace appears to shift terms for IDF pullback after meeting PM; Gaza airstrike reported - The Times of Israel",
     "news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU05WUklmNl90VjJVaW42SVhZOFVNZlBYNjgwOS1URTNDYklwVHFzY19TZFNDekxZcW93ZWFFOW5aMHZHMkNTV0NNTC1PTlBFQzg2MVB0X3ZFZUxSdlBpekp5SG9CZ0VEaHBsUjd1MGNQdHpvZ2ZKUHhFQUstdDJBVEYtbTVDZndTLUoxR25zTEl6czFkYnh4VjlLa0F5RlY4WnRWTDhaLWg1ZUhQcUhBRzFhVFRpVF9EajZmWTc2T3JJZEVl0gHKAUFVX3lxTE9weGQyX1czTzBRaEhMVzFQMndJSi1hZVJtMHc0NnZCWlJFQXU4X0JVTUo0UmpXTWZheFEtcnd3NkQ1aFFlNlhjQlFUaTJmNHFsTzFkc2FmdHNXbXY3WnZPN1pXQ1h0dWNpdGZWMW1UeV9KWUI0VEgyckd5VURLLWpnRC1qdUlrbGtVRTc5OHNiQVg2YkpJOWFicmZveU42ZUhPdlBRYmRVUGkxaFNuN1JKYzYzeDQyQ2VEN1d0THRZU1dRdFM1S2Jwa0E?oc=5",
     "news_image": "",
@@ -105671,12 +105647,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.05,
+    "news_score": 0.04,
     "news_title": "Brown’s President Will Resign After a Tenure That Included Trump Deal - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVGJ2TWJKdUpEZU0zWktrR3ZjOFBJRGxHSlJaMW45M1FrUGV5LVRFbGdlMkZub2IzLThudEpvRUV4VEU2TjJRcHpOc2J0ekZ2UWhUclNVd0o2ODdWTVp3d2gxcHU2ZUtJMXFtUEtxd2p0Zlp4OVJuUXQ1THAwMFcxTXd5UTFmYlN6anc?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "9h ago",
+    "news_age": "13h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
