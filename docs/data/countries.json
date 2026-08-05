@@ -1899,7 +1899,7 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.22,
+    "news_score": 0.15,
     "news_title": "England fan amends viral World Cup win tattoo weeks after Argentina defeat - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWVnUW1LazUtV2w2dXRuWFVEOTBlUF9CWlpta0hIemVZdHlIcy0yQUY1V3hHVVNaamU0OWhfSUFHQ1ZIekVwTW90Smxoa0lCQzVPNnVKUXM1MDBoUFpVWHU4dWR4dTRPLUZGempaTE1FbjdaczJRbkp4Vk9HUDdTaklNM2g1QQ?oc=5",
     "news_image": "",
@@ -1908,7 +1908,8 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ]
   },
   {
@@ -17150,7 +17151,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.58,
+    "news_score": 0.44,
     "news_title": "U.S. nears Hormuz deal, aiming for Wednesday announcement - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84eGZaOTdPem5TejVqS0Iwb2NtdmJNQm5CNW1jWmIzMWl5LTcwdld4LUVLSGJDZkRfYWlFU3NsbmNKOThnV3pqZkJ0ZmVXdzZlS0NVZXBrLXJCazN3bmxkUDlTN01IdW1PZHR5V0paS1ZYSzdmdG5B?oc=5",
     "news_image": "",
@@ -17161,8 +17162,7 @@
       "internet_pct",
       "patents",
       "rd",
-      "startups",
-      "car_density"
+      "startups"
     ]
   },
   {
@@ -17882,7 +17882,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.35,
+    "news_score": 0.38,
     "news_title": "Netanyahu says no Israeli withdrawal from Gaza until Hamas has been completely disarmed - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWlgtZDJKWkRiTWNwOFRhUzM2WGhhTlR4clFocEt4TGNEV0VLb0gtbDEzQmlYZkt3OFNyckJpQ1JPUzQyRUdFVDFjbWdyaXQwNGV5dUYzeXFocWF3UnNqTkpUVnhrX3RudkJ0R3lYVXR1MmwxazZ1ZzF5SDdlQWNsWVVlZVZYVzJJNUJxQnFjYS0tQ1VyaWR2QkJZQTRYSDVG?oc=5",
     "news_image": "",
@@ -19187,12 +19187,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.98,
+    "news_score": 1.05,
     "news_title": "Rockies' Jordan Romano: Falters in save chance Tuesday - CBS Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDJ0Z2JfdkVlU1JuWGFFbEoxaV84M1FhQWRsV29nN2pNeG5ieVM1eWE0RVR1RjJQWG5GaGptMTQwMnV2NTFKWXduQzFyZ004RFRFSXRXQkM2b1RpWmVUZnFScVMySjducEFHUWs0TmpNdk1MUXZuQUMyRjV0TnlOV3JPeHJnQmlzb25QYmlrQk5LMzFyWXVrUTczeXY2eXp6Q3hR?oc=5",
     "news_image": "",
     "news_source": "CBS Sports",
-    "news_age": "8m ago",
+    "news_age": "10m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -24401,7 +24401,7 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.48,
+    "news_score": 0.46,
     "news_title": "Mexico, Panama Meet With World Cup Spot at Stake - concacaf.com",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdUZfZHZnV2I1c203LXNZbmc5M1g5T0RMVEdYNmg3eHFHV2FsWS13WWp0NHpSei03RjJuTEh1TnpYUGN3V0hySUhYbWFUTVRhYTFjajJkNUtabUJsUmhJakZNeXlnZE00NXpyU0Vzd2RsNjVnT1RVeUNyUWk0TDhTWXhLcWhxUVpTN1U1cFZ5QnZMVnEtNnQzSk5hSmtodF9IeEFxZGpoZ3gxR254d1V1Q0FB?oc=5",
     "news_image": "",
@@ -24409,8 +24409,7 @@
     "news_age": "4h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ]
   },
   {
@@ -29209,8 +29208,7 @@
       "internet_pct",
       "patents",
       "rd",
-      "startups",
-      "car_density"
+      "startups"
     ]
   },
   {
@@ -30012,7 +30010,7 @@
     "union_rate": 71.9,
     "union_rate_rank": null,
     "fifa_w_rank": 48,
-    "news_score": 0.46,
+    "news_score": 0.45,
     "news_title": "Mexico, Panama Meet With World Cup Spot at Stake - concacaf.com",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdUZfZHZnV2I1c203LXNZbmc5M1g5T0RMVEdYNmg3eHFHV2FsWS13WWp0NHpSei03RjJuTEh1TnpYUGN3V0hySUhYbWFUTVRhYTFjajJkNUtabUJsUmhJakZNeXlnZE00NXpyU0Vzd2RsNjVnT1RVeUNyUWk0TDhTWXhLcWhxUVpTN1U1cFZ5QnZMVnEtNnQzSk5hSmtodF9IeEFxZGpoZ3gxR254d1V1Q0FB?oc=5",
     "news_image": "",
@@ -30020,8 +30018,7 @@
     "news_age": "4h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ]
   },
   {
@@ -32628,7 +32625,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.15,
+    "news_score": 0.27,
     "news_title": "One killed, 12 injured in Russian ballistic missile attack on Kyiv - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQakxadDBaakxEWXBQMjZpMWdLekt6T01HRHVnWkgyVHdPVE1kRU9kRnczLVpNak5jVEZ1bGp4Snd2NWVlaDhGQWEtNUI5bC16SU5sNHJPN2laeHhRckR2VlliQkZJSWNnZGZ6OHJLdFJEVVVRaDM5ZmJrVUZ6emVMM21ualhfU2JlVFVKRE1LZHYtYzA3c2xTOWsxbjlvX2Z3LThJ0gGoAUFVX3lxTFBQZ0JQdGt6V3RQUmVxdGhGMFBmMHlLSHl0WUpCNG1vRlBoMkZGX0s0RFNzZ3Bxam8tcnVYTkN3RU1idk9LLVFJSW84aWZaQ2hRZkhXRnVtbjMxdkI3N3hackhyY2FaZl9zWjBub2FySXo2d3JmRHhCbkprcmwxNEtYVmRSTFpRcFJ3YkNTOGxkeFBCOTJrdDNRcjNVaThLdXhGM3QxRFFSNw?oc=5",
     "news_image": "",
@@ -36155,8 +36152,7 @@
     "news_age": "5h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ]
   },
   {
@@ -37605,7 +37601,7 @@
     "union_rate": 38.9,
     "union_rate_rank": null,
     "fifa_w_rank": 105,
-    "news_score": 0.05,
+    "news_score": 0.04,
     "news_title": "Syria's economic recovery 'accelerating' but poverty remains widespread, IMF says - thenationalnews.com",
     "news_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORHVoR0lDeU9OU2I3dlczdzBPQkl5S1UwYnBfMmxDS1dtY3JHSHR3S0lZcGtNbDE4QVhzb1l6bVJkREFVOUhoUkhZWUkwUmpoM2dQV1FYYkowblQ4NUdUTjJYeGFTSHIxMHFJMkUxY1FkZnRLRlJBSXI0MngtN296eEk2OE1Fc202cXVMTWU5QURVT0VBaWNSYVB4WHU5MGhpYUtHRlRUMXdyV095MWxoZWtMV0VFX3ZiU2E5czJRV0FadDdBeGYyLWlXR2thZ2N0TkludQ?oc=5",
     "news_image": "",
@@ -40614,7 +40610,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.41,
+    "news_score": 0.47,
     "news_title": "One killed, 12 injured in Russian ballistic missile attack on Kyiv - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQakxadDBaakxEWXBQMjZpMWdLekt6T01HRHVnWkgyVHdPVE1kRU9kRnczLVpNak5jVEZ1bGp4Snd2NWVlaDhGQWEtNUI5bC16SU5sNHJPN2laeHhRckR2VlliQkZJSWNnZGZ6OHJLdFJEVVVRaDM5ZmJrVUZ6emVMM21ualhfU2JlVFVKRE1LZHYtYzA3c2xTOWsxbjlvX2Z3LThJ0gGoAUFVX3lxTFBQZ0JQdGt6V3RQUmVxdGhGMFBmMHlLSHl0WUpCNG1vRlBoMkZGX0s0RFNzZ3Bxam8tcnVYTkN3RU1idk9LLVFJSW84aWZaQ2hRZkhXRnVtbjMxdkI3N3hackhyY2FaZl9zWjBub2FySXo2d3JmRHhCbkprcmwxNEtYVmRSTFpRcFJ3YkNTOGxkeFBCOTJrdDNRcjNVaThLdXhGM3QxRFFSNw?oc=5",
     "news_image": "",
@@ -48563,12 +48559,12 @@
     "union_rate": null,
     "union_rate_rank": null,
     "fifa_ranking_rank": 1,
-    "news_score": 0.96,
+    "news_score": 0.95,
     "news_title": "U.S. World Cup host cities say FIFA owes them millions - Jefferson City News Tribune",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWllyX1V1c3pxSEFSSVZyTzNHVWpPWnk1ZWE2WXhUejhSRVROektBV1AxTjZ6VW11NzlTV0IyX3JmMWg4NmlEUXRsdFlJNDBmU0JNWTJfSmpBdGF4bW5xVmRSZU55Y2gzaUF0OWd0M011YzY4UDRLakM1d3ROeTlPWHZBNF9CLXRYbFdtUElRSHFOTU1DeWd3QXlsMDZ0b2s?oc=5",
     "news_image": "",
     "news_source": "Jefferson City News Tribune",
-    "news_age": "71m ago",
+    "news_age": "73m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -49661,7 +49657,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.23,
+    "news_score": 0.22,
     "news_title": "SpaceX rocket about to crash into the moon in unintentional collision - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTU1pazBkYUxlanBRUVF3NndNOWhPWTA3SnpjX0F4dlNzaW5ZYlRqLWFGd2UtTkFhWmNRQk1qZ0NZU3JIM3FkNDRXQ1AzN21UZFpyZXRSRDBRSnhLTS1JZGo0dFhmTTlXWFc0aTYwVTlmVmJVcnRHOGQ2R2w3TDRSdDVBYkxya01jOThXcTdGRnF6dw?oc=5",
     "news_image": "",
@@ -50321,7 +50317,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRk9iSlFOOXlXLTIxZFNnOGowU2hCSTRoN05pT2RTSFVWcVZncjg3RkFTcUI4cTN0QlljendsdW1XeWkwRkpOOTgtVTBfOFJta3RUUUxKN3RldnRTM1dBN2xraTV1bEtRZC1PVzB6eFlnYVRVRDVKcUpLaUQ1UE5oX3hrMlVvSGtPa0F4eDdaV1M3Y2ZJU1Y0V1BpV2Jpdw?oc=5",
     "news_image": "",
     "news_source": "The Spokesman-Review",
-    "news_age": "117m ago",
+    "news_age": "119m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -60335,12 +60331,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.84,
+    "news_score": 0.87,
     "news_title": "Arrested at Reflecting Pool, woman details ‘heartbreaking’ toll case has taken - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRlFoYk83VEFKUlM5RHNDNUxpTE9wWXc1azRCZXRHLUJuUkdZcEZ5SWR6bnZ1RS1MUnpZNEtoaklzeXZOUFUwcGg2aENfU3lneko4Vzh2M29oUUtaaXlUODBsMG92MDV4ZUdQNlNBVENvekRrTFZ3YVZVbVdxRGgyb3JscFJSYlg5SmFrS2dQeElDandiTnVIUXVjNThJQnhYRkpMcFRBR3A2bGRWMHB4YUNQbw?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "52m ago",
+    "news_age": "54m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -61437,7 +61433,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.29,
+    "news_score": 0.28,
     "news_title": "Bryan Cook is the Cincinnati Bengals' Most Overlooked Offseason Addition - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWnpGRlMwN3p2QVc0Y3JOcjB3VEVPNjgxWWF1RGFoOU5FUV9WcEgwTGxBNjVjVkFLQ005N2hPSnNrNkVwSTBzU0VhckF0VThwUWVfVlc2b05SdlYtVVBURTJJcXRSOVVrSHJnRS1WdDhLOW9aS0toMmRBcDdSWTZHSFFKUVJpeVFFY0s4?oc=5",
     "news_image": "",
@@ -69276,7 +69272,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.05,
+    "news_score": 0.04,
     "news_title": "Syria's economic recovery 'accelerating' but poverty remains widespread, IMF says - thenationalnews.com",
     "news_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORHVoR0lDeU9OU2I3dlczdzBPQkl5S1UwYnBfMmxDS1dtY3JHSHR3S0lZcGtNbDE4QVhzb1l6bVJkREFVOUhoUkhZWUkwUmpoM2dQV1FYYkowblQ4NUdUTjJYeGFTSHIxMHFJMkUxY1FkZnRLRlJBSXI0MngtN296eEk2OE1Fc202cXVMTWU5QURVT0VBaWNSYVB4WHU5MGhpYUtHRlRUMXdyV095MWxoZWtMV0VFX3ZiU2E5czJRV0FadDdBeGYyLWlXR2thZ2N0TkludQ?oc=5",
     "news_image": "",
@@ -74565,12 +74561,12 @@
     "area": null,
     "gdp": null,
     "hdi": null,
-    "news_score": 1.82,
+    "news_score": 1.8,
     "news_title": "Arrested at Reflecting Pool, woman details ‘heartbreaking’ toll case has taken - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRlFoYk83VEFKUlM5RHNDNUxpTE9wWXc1azRCZXRHLUJuUkdZcEZ5SWR6bnZ1RS1MUnpZNEtoaklzeXZOUFUwcGg2aENfU3lneko4Vzh2M29oUUtaaXlUODBsMG92MDV4ZUdQNlNBVENvekRrTFZ3YVZVbVdxRGgyb3JscFJSYlg5SmFrS2dQeElDandiTnVIUXVjNThJQnhYRkpMcFRBR3A2bGRWMHB4YUNQbw?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "52m ago",
+    "news_age": "54m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -84739,12 +84735,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 1.73,
+    "news_score": 1.76,
     "news_title": "Arrested at Reflecting Pool, woman details ‘heartbreaking’ toll case has taken - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRlFoYk83VEFKUlM5RHNDNUxpTE9wWXc1azRCZXRHLUJuUkdZcEZ5SWR6bnZ1RS1MUnpZNEtoaklzeXZOUFUwcGg2aENfU3lneko4Vzh2M29oUUtaaXlUODBsMG92MDV4ZUdQNlNBVENvekRrTFZ3YVZVbVdxRGgyb3JscFJSYlg5SmFrS2dQeElDandiTnVIUXVjNThJQnhYRkpMcFRBR3A2bGRWMHB4YUNQbw?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "52m ago",
+    "news_age": "54m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -84835,7 +84831,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.56,
+    "news_score": 0.55,
     "news_title": "Progressive activist wins Democratic primary in one of the country’s biggest House races - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd1VDR3JLM2E2T1lzZ2JGWVh0RmFkMG5uN2EzWFRqb2RXOHFjSVF2ZFJxdUp3MUVydENScGVxQ0U5ZE4yV3ZzM1JEVFI2QWswSjU2ak16ZWlScDhjRHhLaEtPR3FhVTk5WlM1d3gtVlVCaVVjT2pWYy1lUmdPME9Kc2JZU29OZjJHZ2RGRmtCOWp6YU9lSGVXVEphSnhHSmtUOHFwZmF1OEtxQkNUV2I3UVVsakIyOTF5dFRHb1h1UUM5UzZwZzRV?oc=5",
     "news_image": "",
@@ -85467,7 +85463,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.68,
+    "news_score": 0.67,
     "news_title": "Shedeur Sanders, Deshaun Watson will each get a preseason start - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdG9NV3ZYcVBVSnlnUThhTV9tOE5xVUdXM3l3NXp5aXhpZTc0ZkRhZzJjeXZUUUNhcThVYVFTelZ1aURZdk9WZ1lHeW1JdlZlRkY4UHl3VmYzby1wbFRhTE9LNjE1aHhRdXZTd251MlBxZW4yeTJ2SGNaVlg1SDhIUmhka0FncE41b2VSaEY3eW9ycUE?oc=5",
     "news_image": "",
@@ -88972,12 +88968,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 1.11,
+    "news_score": 1.05,
     "news_title": "Primary Elections Live Updates: In Michigan Senate Race, El-Sayed and Stevens Face Off - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbWpKeVFhVFlyMV9FX09pTEdJVFUzeGI1ajkxajlQb3FyX0gwdkM0c2VwYUpnTlVZdkJIaDVBRkxJZFBwVVJxMklaQ1dGVEFUTmU1T1dfM05KXzQteU5OSUVwdnFvTS1XaVRNZDluRGdjVklKU1FiXzRYNXFYSjgxeXdwQnY2Zw?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "106m ago",
+    "news_age": "108m ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -89150,7 +89146,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.01,
+    "news_score": 0.0,
     "news_title": "Watch Bono and Eddie Vedder Perform at Glen Hansard’s Funeral - Rolling Stone",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcXRIVFZMNmxCSU44OG8tU3ZyaTF3dDJ6YmF3d0hiWjVkMkVoTVQ1blA4MDJ5NlhUUVdGRmpOYS1GVnhlT2l3Z1o1S2pKdjZSUi1zX2djbWh5Tk5lal9FbF9GLVNIbFBibmExLVZjcFVjQTRUekx3MHppdGk2MDZWdXZmOHVLYXloMTZUV3djXzZCY3RReEQzN0l1d21KMUdvSHRndGJocw?oc=5",
     "news_image": "",
@@ -89233,7 +89229,7 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.66,
+    "news_score": 0.64,
     "news_title": "U.S. nears Hormuz deal, aiming for Wednesday announcement - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84eGZaOTdPem5TejVqS0Iwb2NtdmJNQm5CNW1jWmIzMWl5LTcwdld4LUVLSGJDZkRfYWlFU3NsbmNKOThnV3pqZkJ0ZmVXdzZlS0NVZXBrLXJCazN3bmxkUDlTN01IdW1PZHR5V0paS1ZYSzdmdG5B?oc=5",
     "news_image": "",
@@ -89244,8 +89240,7 @@
       "internet_pct",
       "patents",
       "rd",
-      "startups",
-      "car_density"
+      "startups"
     ]
   },
   {
@@ -89316,19 +89311,19 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 1.01,
-    "news_title": "Man arrested near Trump golf course after gun found in car - Axios",
-    "news_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tMXozbmhaby00WlZ6YmhZQVlvUGt3TlR5d1ZZTTNDcUJXYjQ4QVF3TG02YmU4a0FxMEdUa1VvdXFEeHlfUkhudkhoaGlfR3psSXBKZXVGaEVrN0hWbUJ5dXgzbVZYZlNHQ1RQcQ?oc=5",
+    "news_score": 0.95,
+    "news_title": "Anthropic and OpenAI models tried to trick humans into poisoning code during safety testing - Politico",
+    "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUFh4R2tCZU4wRFJjSmhLWUJKclduSFFBaVdCbW9LTnE5R3U5NGxXcDV2QWtJX3ZDZkpnU0k0cmNLd3o5ZXFWelJIZHZpNTFMS2t2MVIwRXUwSUliczZlLXRtWXFwQjFLOVRkc0piUjJVSUFSdDdfSWtra3RlVU45SmtjZVhLdw?oc=5",
     "news_image": "",
-    "news_source": "Axios",
-    "news_age": "102m ago",
+    "news_source": "Politico",
+    "news_age": "2h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
-      "democracy",
-      "approval"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "car_density"
     ]
   },
   {
@@ -89364,7 +89359,7 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.84,
+    "news_score": 0.8,
     "news_title": "Democrat Marie Gluesenkamp Perez survives Washington’s crowded primary - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTF95WVFaVFpsUmRxeEI4SDVFbC1PVG1uVzF2LVRGazFOaUxSWFJ5VlB0aEJOQWJ6T01zTVkwblg4eS1FX29jV19hWE84cG9hSTd6YVoyUGJXeU5tdUlCU211bGFYTnpNTnhDaW9sVmNYNXd3MHJzWGIwTVVVaEo5REpkWnJGdDBiZ2VuMU15SjlwdEd6bjhQXzl0SHdxTUxK?oc=5",
     "news_image": "",
@@ -89727,7 +89722,7 @@
     "cpi": null,
     "lat": 25.3,
     "lon": 51.2,
-    "news_score": 0.41,
+    "news_score": 0.49,
     "news_title": "One killed, 12 injured in Russian ballistic missile attack on Kyiv - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQakxadDBaakxEWXBQMjZpMWdLekt6T01HRHVnWkgyVHdPVE1kRU9kRnczLVpNak5jVEZ1bGp4Snd2NWVlaDhGQWEtNUI5bC16SU5sNHJPN2laeHhRckR2VlliQkZJSWNnZGZ6OHJLdFJEVVVRaDM5ZmJrVUZ6emVMM21ualhfU2JlVFVKRE1LZHYtYzA3c2xTOWsxbjlvX2Z3LThJ0gGoAUFVX3lxTFBQZ0JQdGt6V3RQUmVxdGhGMFBmMHlLSHl0WUpCNG1vRlBoMkZGX0s0RFNzZ3Bxam8tcnVYTkN3RU1idk9LLVFJSW84aWZaQ2hRZkhXRnVtbjMxdkI3N3hackhyY2FaZl9zWjBub2FySXo2d3JmRHhCbkprcmwxNEtYVmRSTFpRcFJ3YkNTOGxkeFBCOTJrdDNRcjNVaThLdXhGM3QxRFFSNw?oc=5",
     "news_image": "",
@@ -94678,7 +94673,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.24,
+    "news_score": 0.23,
     "news_title": "Bryan Cook is the Cincinnati Bengals' Most Overlooked Offseason Addition - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWnpGRlMwN3p2QVc0Y3JOcjB3VEVPNjgxWWF1RGFoOU5FUV9WcEgwTGxBNjVjVkFLQ005N2hPSnNrNkVwSTBzU0VhckF0VThwUWVfVlc2b05SdlYtVVBURTJJcXRSOVVrSHJnRS1WdDhLOW9aS0toMmRBcDdSWTZHSFFKUVJpeVFFY0s4?oc=5",
     "news_image": "",
@@ -96035,7 +96030,7 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.08,
+    "news_score": 0.06,
     "news_title": "Best books of 2025: Environment, Science and Technology - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZnVPZTVLMEpqQTJSMVdHQmxta1NwZl9fdElRUW5lelVqRi0yX0xKR2VZb1B4b1BfdG5sQ18ycGFwOHR0aFp4NU5tSVR0MENOZXMxdllLc25vZEUxTW12M3ZDU1pBb2I2eEEzQThsdktScHhVWFc5WS1aeUtRcDRxekozZjU?oc=5",
     "news_image": "",
@@ -96777,12 +96772,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.71,
+    "news_score": 0.7,
     "news_title": "Police Respond to Perez Hilton’s Miami Home After He Appeared to Harm Himself on Livestream - The Hollywood Reporter",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT0RPeEcxRmxOTzVCSTZZemY2R0VGTno5ckdTWl9IZEI1dFlSb2JOSVF6aE5JejRnb3VfdXk5QkZ0MEhGUzg0dXhjR3VLZ3RWNE5PekE2bnRSc1FnSXhHa01ydjVxMy1pZEpldTJvU1JQUDk2LWlrR01Xa25VMV9UaEpEaGk4N1IyeFlyYUpPS3l1RHJVTXFyVkdTOTIxSW5EclJMa1NxUUswUG1lT3pLVWdNSndZN0NCY1g1bw?oc=5",
     "news_image": "",
     "news_source": "The Hollywood Reporter",
-    "news_age": "88m ago",
+    "news_age": "90m ago",
     "news_columns": [
       "doctors",
       "beds",
@@ -98404,18 +98399,19 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.0,
-    "news_title": "Meghan Markle Dives Into Pool in a Black One-Piece Swimsuit to Celebrate Her 45th Birthday - instyle.com",
-    "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ05oQmYzNlQwU0pLak9hMjJWbGo0Y3ZCNEh4cjhQUkRHU0VGUjVSVnNoOFhaOXhWa2JrNnJDcWkwYlFtczR6aldEY29RVndLVWxTcC14VXhFNjk2R1pPaEpITzNCYmFUSmhLWGNlU1lGUlU3TTFZQ2lCYTBZMzExSFg3SnF5Zw?oc=5",
+    "news_score": 0.07,
+    "news_title": "Meghan Markle Dances Around Her Kitchen in a Cheeky Graphic T-Shirt in New Video Filmed by Prince Harry - Yahoo",
+    "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcXhQajEwM2UwRjBzaGpFaGhYY3hQbVEtTDNhNUtPVFI3VXl1dm5JNXhsVjJYZ0NWUGpHcU1EY0c3X1NKOEpLMGFXSXNySnUxLWprTkhYWlpkQVBVZFNTSWY1bzktOVBrZ1ZsY0pSaHY5QXEtUGw4OVdoVVRKWmlscWRSUjVMX3Y0djcyY1h6M2lRX0tEVnlJcEFWWjdvdjZYWHg4?oc=5",
     "news_image": "",
-    "news_source": "instyle.com",
-    "news_age": "9h ago",
+    "news_source": "Yahoo",
+    "news_age": "4h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "film_prod"
     ]
   },
   {
@@ -98593,12 +98589,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 1.08,
+    "news_score": 1.13,
     "news_title": "Arrested at Reflecting Pool, woman details ‘heartbreaking’ toll case has taken - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRlFoYk83VEFKUlM5RHNDNUxpTE9wWXc1azRCZXRHLUJuUkdZcEZ5SWR6bnZ1RS1MUnpZNEtoaklzeXZOUFUwcGg2aENfU3lneko4Vzh2M29oUUtaaXlUODBsMG92MDV4ZUdQNlNBVENvekRrTFZ3YVZVbVdxRGgyb3JscFJSYlg5SmFrS2dQeElDandiTnVIUXVjNThJQnhYRkpMcFRBR3A2bGRWMHB4YUNQbw?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "52m ago",
+    "news_age": "54m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -98829,16 +98825,19 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.77,
-    "news_title": "Devin Bush Makes Noise at Chicago Bears Practice - Yahoo Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ3g4dnVJMVd0T0s5WFNDQ1J2TjRKd0ZZZ0NNVno1bkpOODFDdW5OU3pkTC1tbEQxOWJPN3BzTXk3aWpDbHFScjNYbElweEt3NVNQLWJDelBGMmNOby10d2pZNmVLVUxwME1PVXQxZTRXLThBNlI4NHdoYTBja0oxbGtHVmtjQQ?oc=5",
+    "news_score": 0.85,
+    "news_title": "Wesley Bell beats Cori Bush in Democratic primary for St. Louis congressional seat - Missouri Independent",
+    "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVTdHX05jTHZMTUFwb01PM2pNRVdSVklrazY3Zy1jeHlxRWs0eXZ3eWhtX1pmcl9KMUFia0xKd2l0NnVPWTdtd214VGY3SHZzV1FlbDBYT3NCcUl4YnZsT1JDcGNwT19pekVsY09BaVhGZW5IeGZxLVVKaHh6c0l2WjNaWGZNUkVTdGNyRzJjWkphNi1pNEVkUVZUSkhRQlZsWXUtVUNlNENTLUdON1F0end2T2hVRTBPYXhfWE4yT2tJQUU?oc=5",
     "news_image": "",
-    "news_source": "Yahoo Sports",
-    "news_age": "2h ago",
+    "news_source": "Missouri Independent",
+    "news_age": "69m ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "democracy",
+      "approval",
+      "press",
+      "election_days",
+      "ai_research",
+      "internet_pct"
     ]
   },
   {
@@ -99803,12 +99802,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.0,
-    "news_title": "Wesley Bell wins Missouri House primary as Cori Bush comeback bid fails - The Guardian",
-    "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTkxKeC1MejZ1UzJyR3N2d1dLOXBkU0VHYThnRW54STVRTVpGS0RlMmstV3lUSmU3bnIwcklETkZmOVRBaGc2SGg0MU8xcXpNZXo5YTVUR3dWUllxQ3VKR1poTERTOHdtRXBldzd3ZlRuMm5ZOG96TkZzbXE5cUNWSmlnNjhyRDFNLWhkOXQtSWZMTkxTZkJOdlNXa0E?oc=5",
+    "news_score": 0.22,
+    "news_title": "Wesley Bell beats Cori Bush in Democratic primary for St. Louis congressional seat - Missouri Independent",
+    "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVTdHX05jTHZMTUFwb01PM2pNRVdSVklrazY3Zy1jeHlxRWs0eXZ3eWhtX1pmcl9KMUFia0xKd2l0NnVPWTdtd214VGY3SHZzV1FlbDBYT3NCcUl4YnZsT1JDcGNwT19pekVsY09BaVhGZW5IeGZxLVVKaHh6c0l2WjNaWGZNUkVTdGNyRzJjWkphNi1pNEVkUVZUSkhRQlZsWXUtVUNlNENTLUdON1F0end2T2hVRTBPYXhfWE4yT2tJQUU?oc=5",
     "news_image": "",
-    "news_source": "The Guardian",
-    "news_age": "4h ago",
+    "news_source": "Missouri Independent",
+    "news_age": "69m ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -105626,12 +105625,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.7,
+    "news_score": 0.73,
     "news_title": "Arrested at Reflecting Pool, woman details ‘heartbreaking’ toll case has taken - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRlFoYk83VEFKUlM5RHNDNUxpTE9wWXc1azRCZXRHLUJuUkdZcEZ5SWR6bnZ1RS1MUnpZNEtoaklzeXZOUFUwcGg2aENfU3lneko4Vzh2M29oUUtaaXlUODBsMG92MDV4ZUdQNlNBVENvekRrTFZ3YVZVbVdxRGgyb3JscFJSYlg5SmFrS2dQeElDandiTnVIUXVjNThJQnhYRkpMcFRBR3A2bGRWMHB4YUNQbw?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "52m ago",
+    "news_age": "54m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
