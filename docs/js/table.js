@@ -16,14 +16,14 @@
     fetch('data/descriptions.json').then(function(r){return r.json()}).then(function(d){desc = d;});function descTip(field,title){var d=desc[field]||title;var loc=I18N.getLocale2();if(loc==='ko'||!d)return d;var m=d.match(/^([^—]+?) — ([^(]+)\s*\((.+)\)$/);if(m)return m[1].trim()+' ('+m[3].trim()+')';m=d.match(/^([^—]+?) — (.+)$/);if(m)return m[1].trim();return d;}
 
     var S = function(a,b,aRow,bRow,col,dir){
-      var na=(a==null||a>=NULL_SENTINEL||a<=NEG_SENTINEL),nb=(b==null||b>=NULL_SENTINEL||b<=NEG_SENTINEL);
+      var na=(a==null||a===NULL_SENTINEL||a===NEG_SENTINEL),nb=(b==null||b===NULL_SENTINEL||b===NEG_SENTINEL);
       if(na&&nb)return 0;
       if(na)return 1;
       if(nb)return -1;
       return dir==='desc' ? b-a : a-b;
     };
-    var NULL_SENTINEL = 999999;
-    var NEG_SENTINEL = -999999;
+    var NULL_SENTINEL = 1e15;
+    var NEG_SENTINEL = -1e15;
     function N(v) { return v === null || v === undefined || v === NULL_SENTINEL || v === NEG_SENTINEL; }
     function fmtNumber(n) { if (N(n)) return '-'; if (n >= 1e9) return (n / 1e9).toFixed(1)+'B'; if (n >= 1e6) return (n / 1e6).toFixed(1)+'M'; if (n >= 1e3) return (n / 1e3).toFixed(1)+'K'; return I18N.formatNumber(n); }
     function rankBadge(r) { if(!r)return'<span style="display:inline-block;width:26px;"></span>';var n=parseInt(r),c='#8892b0';if(n<=3)c='#f0a04b';else if(n<=10)c='#5b8def';else if(n<=20)c='#3fb68b';return'<span style="color:'+c+';font-weight:700;font-size:11px;">#'+n+'</span>'; }
@@ -302,7 +302,7 @@
     });
 
     var table = new Tabulator("#example-table", {
-      height:"calc(100vh - 48px)",layout:"fitDataFill",data:[],initialSort:[{column:"news_score",dir:"desc"}],columns:cols,
+      height:"calc(100vh - 96px)",layout:"fitDataFill",data:[],columns:cols,
       pagination:false,movableColumns:true,headerHozAlign:"center",tooltips:true,tooltipDelay:150,rowHover:true,headerVisible:true,
       placeholder:'<div style="padding:40px;text-align:center;color:#545d7a;"><div style="font-size:48px;">🌍</div><div style="font-size:16px;font-weight:600;">'+t('loading')+'</div></div>',
       sortMode:"single",selectable:false,selectableRows:false,selectableCells:false,clipboard:true,selectableRangeMode:"click",
@@ -475,8 +475,9 @@
       try { reorderColumns(newOrder); } catch(e) {}
     }
 
-    // 컬럼 순서 저장 (기존 + 검색빈도 반영)
+    // 컬럼 순서 저장 (프로그램적 재정렬 시 제외)
     table.on('columnMoved', function() {
+      if (_reordering) return;
       var order = table.getColumns().map(function(c){return c.getField();});
       localStorage.setItem('rankerage_col_order', JSON.stringify(order));
     });
@@ -886,8 +887,8 @@
         var rows = table.getData();
         rows.forEach(function(r) {
           var v1 = r[f1], v2 = r[f2];
-          if (v1 == null || v1 >= NULL_SENTINEL || v1 <= NEG_SENTINEL) v1 = null;
-          if (v2 == null || v2 >= NULL_SENTINEL || v2 <= NEG_SENTINEL) v2 = null;
+          if (v1 == null || v1 === NULL_SENTINEL || v1 === NEG_SENTINEL) v1 = null;
+          if (v2 == null || v2 === NULL_SENTINEL || v2 === NEG_SENTINEL) v2 = null;
           if (v1 != null && v2 != null && v2 !== 0) {
             r[vid] = op === '/' ? v1 / v2 : Math.abs(v1 - v2);
           } else {
@@ -970,8 +971,8 @@
         if (idx < data.length) {
           requestAnimationFrame(loadChunk);
         } else {
-          // All loaded — apply default sort (news_score desc)
-          table.setSort('news_score','desc');
+          // All loaded — apply default sort (election_days asc = soonest first)
+          table.setSort('election_days','asc');
           setTimeout(function(){ var top = table.getRows()[0]; layoutColumns(top ? top.getData().news_columns : []); }, 500);
         }
       }
@@ -1097,34 +1098,23 @@
       }
       if (!d) { console.warn('Country not found:', code); return; }
       
-      // 모든 열을 해당 국가의 rank 기준으로 정렬 (낮은 rank = 강한 순위)
+      // 해당 국가가 강한 상위 7개 컬럼만 추출 (moveColumn 루프 최적화)
+      var strongCols = [];
       var cols = table.getColumnDefinitions().filter(function(c) {
         return c.field && c.field !== 'country_code' && c.field !== 'country_name_en' && c.field !== 'news_score';
       });
-      cols.sort(function(a, b) {
-        var ra = d[a.field + '_rank'] != null ? parseInt(d[a.field + '_rank']) : 9999;
-        var rb = d[b.field + '_rank'] != null ? parseInt(d[b.field + '_rank']) : 9999;
-        return ra - rb;
+      cols.forEach(function(c) {
+        var rk = d[c.field + '_rank'];
+        if (rk != null) strongCols.push({field: c.field, rank: parseInt(rk)});
       });
+      strongCols.sort(function(a, b) { return a.rank - b.rank; });
+      var topFields = strongCols.slice(0, 7).map(function(x) { return x.field; });
       
-      // moveColumn으로 하나씩 재배치 (setColumnOrder 대신 — 더 안정적)
-      var currentCols = table.getColumns();
-      // anchor: news_score column (index 2) 뒤에 붙이기
-      var anchor = currentCols[2]; // news_score
-      for (var ci = 0; ci < cols.length; ci++) {
-        var target = null;
-        for (var cj = 0; cj < currentCols.length; cj++) {
-          if (currentCols[cj].getField() === cols[ci].field) { target = currentCols[cj]; break; }
-        }
-        if (target && target !== anchor) {
-          try { table.moveColumn(target, anchor); } catch(e) {}
-          currentCols = table.getColumns();
-          anchor = target; // 다음 컬럼은 이 컬럼 뒤에
-        }
-      }
+      // layoutColumns로 상위 컬럼만 효율적으로 재배치
+      layoutColumns(topFields);
       
-      // 해당 국가가 강한 첫 번째 컬럼 기준으로 asc 정렬
-      var topField = cols[0].field;
+      // 가장 강한 컬럼 기준 asc 정렬
+      var topField = topFields[0] || 'population';
       table.setSort(topField, 'asc');
       highlightColumn(topField);
       
@@ -1467,13 +1457,34 @@
     var colLabels = {};
     cols.forEach(function(c) { colLabels[c.field] = c.title; });
 
-    // Load history data and enable trend clicks
-    fetch('data/history.json').then(function(r){return r.json()}).then(function(d){
-      historyData = d;
-      table.on("cellClick", function(e, cell) {
-        var field = cell.getColumn().getField();
-        if (trendFields[field]) showTrend(field, cell.getRow().getData());
-      });
+    // Load history data lazily on first trend click
+    var historyData = null;
+    var historyLoading = false;
+    function ensureHistory(callback) {
+      if (historyData) { callback(); return; }
+      if (historyLoading) {
+        // Wait for in-flight fetch — retry up to 50x at 100ms
+        var retries = 0;
+        var check = setInterval(function() {
+          if (historyData) { clearInterval(check); callback(); }
+          if (++retries > 50) { clearInterval(check); }
+        }, 100);
+        return;
+      }
+      historyLoading = true;
+      fetch('data/history.json').then(function(r){return r.json()}).then(function(d){
+        historyData = d;
+        historyLoading = false;
+        callback();
+      }).catch(function(){ historyLoading = false; });
+    }
+
+    table.on("cellClick", function(e, cell) {
+      var row = cell.getRow();
+      if (row.getPosition() === 0) return; // header click — skip
+      var field = cell.getColumn().getField();
+      if (field === 'country_code') return; // detail panel handled elsewhere
+      if (trendFields[field]) ensureHistory(function() { showTrend(field, row.getData()); });
     });
 
     // Cell selection
@@ -1511,7 +1522,7 @@
         window.googletag.pubads().setTargeting('keywords', keywords.split(' '));
       }
     }
-  });
+
   // ── Unified column layout: single source of truth for column ordering ──
   var _reordering = false;
   function layoutColumns(focusCols) {
@@ -1551,18 +1562,6 @@
   table.on('dataLoaded', function() {
     setTimeout(function(){ layoutColumns([]); }, 600);
   });
-
-  // ── HARD TEST: move population to after Trend at t+3s to verify moveColumn API ──
-  setTimeout(function(){
-    var cols = table.getColumns();
-    var newsCol = cols[2]; // news_score
-    for (var i = 0; i < cols.length; i++) {
-      if (cols[i].getField() === 'population') {
-        table.moveColumn(cols[i], newsCol);
-        break;
-      }
-    }
-  }, 3000);
 
   // ── Auto-rotation: table comes alive ──
   var autoRotate = true;
@@ -1616,8 +1615,10 @@
     else pauseRotation();
   });
   table.on("cellClick", function(e, cell){
+    if (cell.getRow().getPosition() === 0) return; // header click — skip
     if (cell.getColumn().getField() === 'news_score') resumeRotation();
   });
   document.getElementById("search").addEventListener("input", function(){ pauseRotation(); });
 
+  }).catch(function(err){console.error('I18N init failed',err);});
 })();

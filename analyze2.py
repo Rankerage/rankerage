@@ -1,57 +1,68 @@
 import json
 
 with open('docs/data/countries.json', 'r', encoding='utf-8') as f:
-    data = json.load(f)
+    countries = json.load(f)
 
-# Filter: only real countries (have country_code like 'af', 'kr', etc. - not XX-prefixed)
-real_countries = [c for c in data if c.get('country_code') and not c.get('country_code', '').startswith('XX')]
+# FIFA ranking - lower is better (1 = best)
+print("=== FIFA RANKING TOP 5 ===")
+fifa = [(c.get('fifa_ranking', 9999), c.get('flag',''), c.get('country_name_en',''), c.get('fifa_ranking_rank', 9999)) 
+        for c in countries if c.get('fifa_ranking') is not None]
+fifa.sort()
+for rank_val, flag, name, rank_rank in fifa[:5]:
+    print(f"  {flag} {name}: FIFA={rank_val}, rank={rank_rank}")
 
-print(f"Total entries: {len(data)}, Real countries: {len(real_countries)}")
+print()
+print("=== HAPPINESS TOP 5 ===")
+happy = [(c.get('happiness', 0), c.get('flag',''), c.get('country_name_en',''), c.get('happiness_rank', 9999))
+         for c in countries if c.get('happiness') is not None]
+happy.sort(reverse=True)
+for val, flag, name, rank in happy[:5]:
+    print(f"  {flag} {name}: happiness={val}, rank={rank}")
 
-# Alcohol consumption
-print('\n=== ALCOHOL (Top 10, real countries) ===')
-sorted_al = sorted(real_countries, key=lambda x: (x.get('alcohol') or 0), reverse=True)
-for c in sorted_al[:10]:
-    print(f"  {c['flag']} {c['country_name_en']}: alcohol={c.get('alcohol')}L")
+print()
+print("=== GDP PER CAPITA TOP 5 ===")
+gdp_pc = [(c.get('gdp_per_capita', 0), c.get('flag',''), c.get('country_name_en',''), c.get('gdp_per_capita_rank', 9999))
+          for c in countries if c.get('gdp_per_capita') is not None]
+gdp_pc.sort(reverse=True)
+for val, flag, name, rank in gdp_pc[:5]:
+    print(f"  {flag} {name}: gdp_per_capita={val}, rank={rank}")
 
-# Forest %
-print('\n=== FOREST % (Top 10, real countries) ===')
-sorted_for = sorted(real_countries, key=lambda x: (x.get('forest') or 0), reverse=True)
-for c in sorted_for[:10]:
-    print(f"  {c['flag']} {c['country_name_en']}: forest={c.get('forest')}% (rank={c.get('forest_rank')})")
+print()
+print("=== HDI TOP 5 ===")
+hdi = [(c.get('hdi', 0), c.get('flag',''), c.get('country_name_en',''), c.get('hdi_rank', 9999))
+       for c in countries if c.get('hdi') is not None]
+hdi.sort(reverse=True)
+for val, flag, name, rank in hdi[:5]:
+    print(f"  {flag} {name}: hdi={val}, rank={rank}")
 
-# Happiness  
-print('\n=== HAPPINESS (Top 10, real countries) ===')
-sorted_h = sorted(real_countries, key=lambda x: (x.get('happiness') or 0), reverse=True)
-for c in sorted_h[:10]:
-    print(f"  {c['flag']} {c['country_name_en']}: happiness={c.get('happiness')} (rank={c.get('happiness_rank')})")
+print()
+print("=== LIFE EXPECTANCY TOP 5 ===")
+life = [(c.get('life_expectancy', 0), c.get('flag',''), c.get('country_name_en',''), c.get('life_expectancy_rank', 9999))
+        for c in countries if c.get('life_expectancy') is not None]
+life.sort(reverse=True)
+for val, flag, name, rank in life[:5]:
+    print(f"  {flag} {name}: life_expectancy={val}, rank={rank}")
 
-# CPI
-print('\n=== CPI (Top 10, real countries) ===')
-sorted_c = sorted(real_countries, key=lambda x: (x.get('cpi') or 0), reverse=True)
-for c in sorted_c[:10]:
-    print(f"  {c['flag']} {c['country_name_en']}: cpi={c.get('cpi')} (rank={c.get('cpi_rank')})")
+print()
+print("=== 재생에너지 TOP 5 ===")
+renew = [(c.get('renew', 0), c.get('flag',''), c.get('country_name_en',''), c.get('renew_rank', 9999))
+         for c in countries if c.get('renew') is not None]
+renew.sort(reverse=True)
+for val, flag, name, rank in renew[:5]:
+    print(f"  {flag} {name}: renew={val}%, rank={rank}")
 
-# GDP per capita
-print('\n=== GDP per capita (Top 10, real countries) ===')
-sorted_g = sorted(real_countries, key=lambda x: (x.get('gdp_per_capita') or 0), reverse=True)
-for c in sorted_g[:10]:
-    print(f"  {c['flag']} {c['country_name_en']}: gdp_pc=${c.get('gdp_per_capita'):,} (rank={c.get('gdp_per_capita_rank')})")
+print()
+print("=== MURDER RATE LOWEST (best) ===")
+murder = [(c.get('murder', 999), c.get('flag',''), c.get('country_name_en',''), c.get('murder_rank', 9999))
+          for c in countries if c.get('murder') is not None]
+murder.sort()  # lower is better
+for val, flag, name, rank in murder[:5]:
+    print(f"  {flag} {name}: murder={val}, rank={rank}")
 
-# Democracy
-print('\n=== DEMOCRACY (Top 10, real countries) ===')
-sorted_d = sorted(real_countries, key=lambda x: (x.get('democracy') or 0), reverse=True)
-for c in sorted_d[:10]:
-    print(f"  {c['flag']} {c['country_name_en']}: democracy={c.get('democracy')} (rank={c.get('democracy_rank')})")
-
-# Check South Korea in happiness
-print('\n=== SOUTH KOREA ===')
-for c in real_countries:
-    if c.get('country_name_en') == 'South Korea':
-        print(f"  {c['flag']} Happiness rank: {c.get('happiness_rank')}, score: {c.get('happiness')}")
-        print(f"  GDP per capita: ${c.get('gdp_per_capita'):,}, rank: {c.get('gdp_per_capita_rank')}")
-        print(f"  Forest: {c.get('forest')}%, rank: {c.get('forest_rank')}")
-        print(f"  Alcohol: {c.get('alcohol')}L")
-        print(f"  CPI: {c.get('cpi')}, rank: {c.get('cpi_rank')}")
-        print(f"  Internet: {c.get('internet_pct')}%")
-        print(f"  FIFA: {c.get('fifa_ranking')}")
+print()
+print("=== FOREST TOP 5 ===")
+forest = [(c.get('forest', 0), c.get('flag',''), c.get('country_name_en',''), c.get('forest_rank', 9999))
+          for c in countries if c.get('forest') is not None]
+forest.sort(reverse=True)
+for val, flag, name, rank in forest[:5]:
+    print(f"  {flag} {name}: forest={val}%, rank={rank}")
