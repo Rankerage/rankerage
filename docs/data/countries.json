@@ -2513,15 +2513,14 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.93,
+    "news_score": 0.95,
     "news_title": "Restored 1st Cav. Div. memorial plaque rededicated in Australia, preserving World War II legacy in Pacific - forthoodsentinel.com",
     "news_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOS0MzbzFTY05pMXYyd0d6VURaTGFKMzZ3dnlCZE5PZ3ZlcTFtT3RTdzUwSkV4NjZXN096T0E3ZmhlbW8tQlMtWTZvR3k5a1pLNG55MHRHN1lRSGI2RDlrNGVCallydnlSR2NhUXhUWkpxaC1vZmtNMkhCU3h4SGdPQnBXRnh5cUg3VEFBbkdXYUFTRHFtcm1YTHQ3YVVub3pVV2pRY1BwTm1yMlJLcTdMbW1zeDVxSEdiT19ySGpOa0lxX1N2TDRQQVgtWHJna3AzdWE5d09OZlYxMVhUTW03cUtESEgwQjcyVDBEZUJiemI3VlhHY1lZaUlqbjlTa01JVVUtRktINjllSGc?oc=5",
     "news_image": "",
     "news_source": "forthoodsentinel.com",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic",
-      "athletics"
+      "olympic"
     ]
   },
   {
@@ -2821,7 +2820,7 @@
     "refugees_rank": null,
     "union_rate": 77.9,
     "union_rate_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.02,
     "news_title": "Neuronal Precursor Splits into Two Cell Lineages Earlier than Anticipated - Institute of Science and Technology Austria (ISTA)",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPczIxTG43RkVla0hWUnRHa1dDbGhYQk5vVkNlX0s2SzJqU2VpVU41Uk5yRjFBUTdZVmxUeVNadDRFd3hpUXFBZDRnLWxOMzdrQThoalNQdmVBZ2FELVpFb2gxUG5kUXBsckkyR0xGcUpVUGdmY18zNUY2WGRpQy1wdUJVSWZmeE5kT2VrOUpjek1rS0NibTlESWdKTDNuX05fUkNF?oc=5",
     "news_image": "",
@@ -12849,19 +12848,14 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.45,
+    "news_score": 0.63,
     "news_title": "Police raid South Korea FA in probe into World Cup coach appointment - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS3lwMDJacXJ3Y0ZhcXhJdTMza1hQU01TQ3VRaU1jLVY3bTN2b3Vzd1E5Y093OWRxOUVTSU1OQndya3psY2Zna0ktclNvUWh4OWc0cm9jNVJpcnNNZFFwTEljUDhRaUxxek50WWJqSE45MFBkZW10ODJDcEtMOEYzeWJOT2lPX1N2OVRxNkJoS19CcW5GbFNJb21mb0lxNUR1b2dsN1RmTzBPaXptMmlWb05MLXQ1Zw?oc=5",
     "news_image": "",
     "news_source": "France 24",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "olympic"
     ]
   },
   {
@@ -13875,19 +13869,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.88,
+    "news_score": 1.32,
     "news_title": "Soft Ad Market, World Cup Competition Hit Germany’s ProSiebenSat.1 Results - The Hollywood Reporter",
     "news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVHg4Vk5BLXliTUZjVHIwX3VfTGJ6QWN4YjR4RmowYkRFUXJOVnpwRS1NYTlyaExFNW4zdDVrb0hIYXVIb2lXOUREVkNWYnlKUzV0T3BibWo1TDktc1hXQ0tiVzlQUVR3VTQ1RExKSEtMRFZpYTFPekRrU2hqQXVETksyZHdYd3drQWhraDZfYzgtSW1XWm5kV1dOV3BVTVBFQXNQVHlmeW1VT19jZkZvNlFoSW45bC1lQk1xZ1JTZm8tdw?oc=5",
     "news_image": "",
     "news_source": "The Hollywood Reporter",
-    "news_age": "30m ago",
+    "news_age": "29m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "gdp",
-      "gdp_per_capita"
+      "fifa_w"
     ]
   },
   {
@@ -17172,15 +17162,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.59,
+    "news_score": 1.74,
     "news_title": "Trump, Hegseth clashed at Camp David over Iran missile depletion concerns - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUliZlNTQUp4dGdITlFNX19DTENuNkh5TkJaMlJvMXhKRDlOWFhmVXNTT2RMSnQyLVlOWExDNWlJN0Q3QUY0bDBJWVBHMnFOSjZEUEdidkhFaEI3YVVlM0Jxa0taV2RVcEFwWFNNb180YmZqU3VDY3VzdU9zQ183VXBYWk9tVFFyeVQ5WDFpWWxfaDNQVFJ3LWM0Q2oyTWdtdFVXNmZtb01Nd1I5OWFoZy0taTJ0VWVXMHVJRjNGd3pCY0JpcWZLQjdB?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "54m ago",
+    "news_age": "4m ago",
     "news_columns": [
-      "travel",
-      "tourism"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ]
   },
   {
@@ -18540,15 +18534,19 @@
     "union_rate": 74.0,
     "union_rate_rank": null,
     "fifa_w_rank": 39,
-    "news_score": 0.08,
+    "news_score": 0.06,
     "news_title": "World Athletics U20 Championships 2026: USA's Tate Taylor and Jamaica's Theianna-Lee Terrelong fastest in the 100m first round - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObFYzRkdDUjUtU2x2eHlfQ3l2YU9QbTRfU0RIVW1jWmhkQ1RuVFZVWFdNQ1dsYUZ0X2JvbU1VXzNZRE9rLU42ZVl4c2tqUENvWVBrSzdkVjZfMHgyZ1JfWjF5aVZlQ2J1WVpmdlkzbG9PRDRzNi0zR2U3RmV3b2ttYkRfd194d3V1bGlCSm1uSzJBZ3VSN1FQdlg1MlcxUUhqaE1VVzVTcHc4TldTOGJKZlFRWUFUV1lUMTk0NmFBX0x1S3F0UHBLc0xuNA?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "9h ago",
+    "news_age": "10h ago",
     "news_columns": [
       "olympic",
-      "athletics"
+      "olympic_gold",
+      "olympic_per_cap",
+      "fifa_ranking",
+      "ai_research",
+      "internet_pct"
     ]
   },
   {
@@ -29223,15 +29221,19 @@
     "refugees_rank": null,
     "union_rate": 70.4,
     "union_rate_rank": null,
-    "news_score": 0.49,
+    "news_score": 0.38,
     "news_title": "Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3luLUxvekFtWFdpQU9vSnJ2RzRwdndUZ205VmYwcEl2WDNPSmZ1YUNteThESjB4LW5SdHlXX3pyZkdqNGtQd0JDQU5oeER4U21BY1AtMUpiSEdDWHZacnV5SGdQOXpzdllRU1lTLUtFZlFlU25JWGgtMnRSaE9sdVNOWQ?oc=5",
     "news_image": "",
     "news_source": "CBS News",
     "news_age": "3h ago",
     "news_columns": [
-      "travel",
-      "tourism"
+      "gas_price",
+      "energy_per_capita",
+      "co2",
+      "renew",
+      "exports",
+      "ai_research"
     ]
   },
   {
@@ -35603,7 +35605,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.78,
+    "news_score": 0.53,
     "news_title": "Police raid South Korea FA in probe into World Cup coach appointment - RFI",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT0N6VjlsYmZQcjFqXzdPYnpvbVdSS2dIaF8yV3N5cThhemJYYzJ6VFIya3RmQUY5c2lwU196QVE4U0FkWkZ4LTNGV253UDNxbGtnejVKUzg0amhpYWpoYm9TdjB4MjRKeUI1NzA0Uk1tejk0N1hiY3piZGFITXAxQ3V5V2MtTmoyazVaZEhmS0hMSHh4QXQtWmJGVFBVOW1nYmM0akpJZ1ppUQ?oc=5",
     "news_image": "",
@@ -35611,7 +35613,11 @@
     "news_age": "4h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket",
+      "ai_research",
+      "internet_pct"
     ]
   },
   {
@@ -44843,7 +44849,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQWJRSzBheW5KelZNbmt1RHpoM3Jza1R3ZVNQR2xodXBkdnoxWHZISEFZR2s4RjdJeDlnN0k3c0tDT0VlYTh5bTBMcElfUy1TWGlzYlRGeV9ZazJ2UTlyaTZYYVowWXhIQmtFWEszalowN0tNRVBfNzNSaE02NUZLd0tBQ3FITzRlSUlSWHNEM01ILWlnYmN3MXRvRXg4WTY0V2xEcW1PSEMzTVg2WVBqQw?oc=5",
     "news_image": "",
     "news_source": "Semafor",
-    "news_age": "8h ago",
+    "news_age": "9h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -45067,12 +45073,12 @@
     "news_source": "Bloomberg.com",
     "news_age": "8h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "netspeed"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ]
   },
   {
@@ -48605,11 +48611,11 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 1,
     "news_score": 1.14,
-    "news_title": "Gianni Infantino clings to Fifa presidency after apologising for ‘mistakes’ over World Cup sell-off plan - Yahoo Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb2xYUUdHMUNrWHprLWhaNklRRGhWNjU2RGJLY3l0TXV4R2pocWlSSFBfZWFaa3VuYzl1ekN4RUE5T3h5enRjMU1ENGdxeVhkLUVHNmJsdW10TGpZTTlPNkxGdUc5a3NIRDN0cURKZlpfR3B3VU5Wa1B4Q0h1N0NoNnNESjVhcmc5eDM4RFk0akZ3QVNE?oc=5",
+    "news_title": "Gianni Infantino clings to Fifa presidency after apologising for ‘mistakes’ over World Cup sell-off plan - The Independent",
+    "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMDczRWcxdFZpMjJLakd1ZVZjVVJNc1RPQzhVZWQ4ODRiOHhpdGVMblBMWE1oa19ZUTh5dHdUX0ZGd3B4aDNkTXUwSzJVSVE1enZpV3B3VEhBWkNfenJ1NWtyWHNELWpVUWF2anlVLU5BTGFhQzBwSWNmTURHQzNLSTJEZkxwXzZiSkUtMDlENUVncl9kNEF0NjVOd0M2WVlKbks5SGRtNEdBRG54dGlSLUR2WQ?oc=5",
     "news_image": "",
-    "news_source": "Yahoo Sports",
-    "news_age": "65m ago",
+    "news_source": "The Independent",
+    "news_age": "67m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -50362,12 +50368,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 1.06,
+    "news_score": 1.05,
     "news_title": "Players who turned World Cup heroics into big transfers - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Pb2xRRDcwS253UjVHLUpfWHFabXF2dEdnLTFvTGJkaXByNW54X1pwcjVzbGRaTjdwTXpXZGVPZXB5WXZLY0V5aGMwS1pCbW0tbmdnUWprZUo0TWhqcGF3M3BPZjZqcDA?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "75m ago",
+    "news_age": "77m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -60382,12 +60388,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.84,
+    "news_score": 0.89,
     "news_title": "Trump, Hegseth clashed at Camp David over Iran missile depletion concerns - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUliZlNTQUp4dGdITlFNX19DTENuNkh5TkJaMlJvMXhKRDlOWFhmVXNTT2RMSnQyLVlOWExDNWlJN0Q3QUY0bDBJWVBHMnFOSjZEUEdidkhFaEI3YVVlM0Jxa0taV2RVcEFwWFNNb180YmZqU3VDY3VzdU9zQ183VXBYWk9tVFFyeVQ5WDFpWWxfaDNQVFJ3LWM0Q2oyTWdtdFVXNmZtb01Nd1I5OWFoZy0taTJ0VWVXMHVJRjNGd3pCY0JpcWZLQjdB?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "54m ago",
+    "news_age": "4m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -68468,7 +68474,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.23,
+    "news_score": 0.22,
     "news_title": "Cameron outduels Kremer for a Royals win - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbHh1TDd4NmRCX1RMRVpZM20tVDdKY0Q1aERLOHB4YXBrb2V6bGRGVC1ORjEzdGE0d0stQmc3em1NUTJoa3J6VUZLeVB4Smthc2dHVGNaVUFMZklkdjVUZmtCQ1RUN0NaR1BabjlxSFlleVI0Tk5sRWJHY2NDc1hSWkktTnBzaU5fbVdz?oc=5",
     "news_image": "",
@@ -68688,7 +68694,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.1,
+    "news_score": 0.09,
     "news_title": "Ravens Jesse Minter Says Lamar Jackson Critics Drive Him 'Insane' - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYjR0Y0FTWm1vVkVURWg5SGV5VVhoTmpkeWdfMFlzWGhadi1lcmhESEtBZnpUM3NaamdBSFNaVm5GaEZWd3FsTjFhZEFBVU53QkVfZmo4V1U2TnBqRzQtY0c3SzZweno0RDIyUFBYSEVFdDVMNmxjeFhCcHhreTlQOGxJQUxjdw?oc=5",
     "news_image": "",
@@ -71095,7 +71101,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.14,
+    "news_score": 0.13,
     "news_title": "Jason Arday: Cambridge professor in plagiarism row quits - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5czhLVFdZM2RyNm52SmM3VjZyTlN5ODFHOE1Qd2RpclVVTVNHUXhnS3h4U01sbzh1dEJ1YWQzRGxTMmdEWUt5RkMtUG5IV0VUUWM2OTdrbUE3UQ?oc=5",
     "news_image": "",
@@ -74625,12 +74631,12 @@
     "area": null,
     "gdp": null,
     "hdi": null,
-    "news_score": 1.17,
+    "news_score": 1.2,
     "news_title": "Trump, Hegseth clashed at Camp David over Iran missile depletion concerns - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUliZlNTQUp4dGdITlFNX19DTENuNkh5TkJaMlJvMXhKRDlOWFhmVXNTT2RMSnQyLVlOWExDNWlJN0Q3QUY0bDBJWVBHMnFOSjZEUEdidkhFaEI3YVVlM0Jxa0taV2RVcEFwWFNNb180YmZqU3VDY3VzdU9zQ183VXBYWk9tVFFyeVQ5WDFpWWxfaDNQVFJ3LWM0Q2oyTWdtdFVXNmZtb01Nd1I5OWFoZy0taTJ0VWVXMHVJRjNGd3pCY0JpcWZLQjdB?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "54m ago",
+    "news_age": "4m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -76355,7 +76361,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.22,
+    "news_score": 0.24,
     "news_title": "A Four-Ton SpaceX Rocket Stage Hit the Moon, but Almost No One Saw It - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNHpocGRvMUhXeUlQR1ExRTBQTS1PRjNORDVnMGZpeEJ1WS13RHJJYm94RWpBeGp0MVJWYUpXX1AtT3pETXNKZGp1QkU1REl5WDBBWTBIclBpN1Z3WUJiX0x2QnFrai1GVS12MGFVT1M3MXhqSllJNERNQXFtNXlkalE5OV9Pdw?oc=5",
     "news_image": "",
@@ -78956,7 +78962,7 @@
     "cpi": null,
     "lat": 37,
     "lon": 127.5,
-    "news_score": 0.29,
+    "news_score": 0.37,
     "news_title": "Asian tech stocks drop with SK Hynix plunging 10% after Wall Street AI names fall - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb1VJU0stOGEwNEVYRm5ybXhhWUpqeGprZ3IzMFJ6djQtZFRxVHVfYVN4RVRfVFVlV0tUcDZoVTlSRFBoUEJub1hfejNfdzFjd3dWaE5jUm9uMV9NbTNYT2V4WFNsVFdhQ09ENkd5N3VnRFU2aGpWRFBUZVgtM2pCNUttNTNyMk1kdndB0gGQAUFVX3lxTE4zSTdGRGlzVktTaXFUOG5KOVpDaTJ3QWZRYnFhWjF2YkVSem5zeG5VeHB6WjNVRFFiMmFRaDkxZmZST0w2WWYwdXowQnlXRlJFeVV1Nms0cjdueE5SUXFzRERUOVVfZ1NkMnM2Y0RRcngyOUJXUHh2NlM3UkJ1XzdKNEU5clZOTjVUNGVLMlR3Uw?oc=5",
     "news_image": "",
@@ -84821,12 +84827,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.85,
+    "news_score": 0.9,
     "news_title": "Trump, Hegseth clashed at Camp David over Iran missile depletion concerns - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUliZlNTQUp4dGdITlFNX19DTENuNkh5TkJaMlJvMXhKRDlOWFhmVXNTT2RMSnQyLVlOWExDNWlJN0Q3QUY0bDBJWVBHMnFOSjZEUEdidkhFaEI3YVVlM0Jxa0taV2RVcEFwWFNNb180YmZqU3VDY3VzdU9zQ183VXBYWk9tVFFyeVQ5WDFpWWxfaDNQVFJ3LWM0Q2oyTWdtdFVXNmZtb01Nd1I5OWFoZy0taTJ0VWVXMHVJRjNGd3pCY0JpcWZLQjdB?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "54m ago",
+    "news_age": "4m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -88448,11 +88454,11 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.0,
-    "news_title": "A Meta AI Model Hacked Another Company During Cybersecurity Testing - The Information",
-    "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXJaWXQwbnVqZnJuM2tUeWVvZW5xdy1YdmE1YW51aEJwUFJMOUoxc0NkZDNuQVhPeGNqbGtpQVlQMXgzTXVQR3o5bUo2am1vVGMxVFp1YXMyVUZUYWhWS3VIc0lwNjFDQ2pJczloamN0RlBGRXRRXzhxWHY1U3NIOHQwdVN3dVJmVUhlYl9rUkk5U1paaWFQM3Jpdk9ySTQ?oc=5",
+    "news_score": 0.02,
+    "news_title": "Meta AI Model Accessed Internet, Hacked Outside Firm in Testing - Bloomberg.com",
+    "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeG9FOHFuNTdmY3ItcldFQUdvQmpBNWZRSU96LVdoN21IZVJ6TmFKZHRXSjZEMkNQOXhZT0hSeWNwZENLcHJDaWtpeGxCb0x1ZXljdjJtVjROS3RfXzJKMGxwa1BTUXV5QXhzN09XMmR1aHRfUGloYzdCUkphYTFwMHpNUktNWTB2UHFSOTlOSUZMejFQQ1A3eGYwSFJOMnMzekNrWlVJRU9rUEZOOEZfVzhFVQ?oc=5",
     "news_image": "",
-    "news_source": "The Information",
+    "news_source": "Bloomberg.com",
     "news_age": "8h ago",
     "news_columns": [
       "military_pct",
@@ -88501,7 +88507,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQWJRSzBheW5KelZNbmt1RHpoM3Jza1R3ZVNQR2xodXBkdnoxWHZISEFZR2s4RjdJeDlnN0k3c0tDT0VlYTh5bTBMcElfUy1TWGlzYlRGeV9ZazJ2UTlyaTZYYVowWXhIQmtFWEszalowN0tNRVBfNzNSaE02NUZLd0tBQ3FITzRlSUlSWHNEM01ILWlnYmN3MXRvRXg4WTY0V2xEcW1PSEMzTVg2WVBqQw?oc=5",
     "news_image": "",
     "news_source": "Semafor",
-    "news_age": "8h ago",
+    "news_age": "9h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -89063,7 +89069,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 1.17,
+    "news_score": 1.11,
     "news_title": "WHO chief says Ebola outbreak is outpacing response as aid workers strike over pay - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRHR4MEdrUEJtTHFsb1o0ZHh1RUd3NHRpUHBLbGlWYVY2Rld5V1JROGRPX3FfUXdqUWdUTUl5SDRDeUJWQU9hLWJNMzNPSFdQY3VDOWlUanBGSDRTVzhvMl9aYnR4ekVIOUJjNlZqWGJfa05vN2pGc0w5V0V3TEk1NTVLbGRlUXY5RE5lOFI5Z2NkeVdTa2pqenhMM09rSjZyOGUwVmQ1VFJXMmF0TkpjTGd0OA?oc=5",
     "news_image": "",
@@ -89111,7 +89117,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.34,
+    "news_score": 0.31,
     "news_title": "Fauci's HHS iPhone turned over to Senate investigators as contempt vote looms - Fox News",
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYTdqd2lDNks4eG10WS1tQWVKM2lTRkotVktFWS1zdjVnUTYwek1HbUJjeGZIak9EZDNLUlZWTVdXU083QWkwQk94S0ZJbEZvWmpwNnFKX1I1VjVFRHBpUE41VFJiWDdSbXo1VkkxUnZ3Yzl0VzAwSWNUV3l2UV9GVUtyM0ZlVzVmOVVtUWhNY1BqaGpiYlJlZW9lbGtrZ9IBowFBVV95cUxNZlN2bjhvMW1xa0J2S0hrZGE2MEh4bHJpaE4wbnZScEF3M0NiMkdSVWNuU1l0c3BteV85SGVBdERBX0J3LU56UEtNMm9ucWF6QkkxYUM2dnRVQWxPM0xid0hQbC04enRtN1ltRTNjRDdiRTU0VzRvV3BTcV9ycTI3ajNRMl92dGVia250N3pxZUdEd3lfdlA0VEpVTVZLcGFnaGVB?oc=5",
     "news_image": "",
@@ -89320,7 +89326,7 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.68,
+    "news_score": 0.75,
     "news_title": "Asian tech stocks drop with SK Hynix plunging 10% after Wall Street AI names fall - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb1VJU0stOGEwNEVYRm5ybXhhWUpqeGprZ3IzMFJ6djQtZFRxVHVfYVN4RVRfVFVlV0tUcDZoVTlSRFBoUEJub1hfejNfdzFjd3dWaE5jUm9uMV9NbTNYT2V4WFNsVFdhQ09ENkd5N3VnRFU2aGpWRFBUZVgtM2pCNUttNTNyMk1kdndB0gGQAUFVX3lxTE4zSTdGRGlzVktTaXFUOG5KOVpDaTJ3QWZRYnFhWjF2YkVSem5zeG5VeHB6WjNVRFFiMmFRaDkxZmZST0w2WWYwdXowQnlXRlJFeVV1Nms0cjdueE5SUXFzRERUOVVfZ1NkMnM2Y0RRcngyOUJXUHh2NlM3UkJ1XzdKNEU5clZOTjVUNGVLMlR3Uw?oc=5",
     "news_image": "",
@@ -89403,12 +89409,12 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.93,
+    "news_score": 0.94,
     "news_title": "Players who turned World Cup heroics into big transfers - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Pb2xRRDcwS253UjVHLUpfWHFabXF2dEdnLTFvTGJkaXByNW54X1pwcjVzbGRaTjdwTXpXZGVPZXB5WXZLY0V5aGMwS1pCbW0tbmdnUWprZUo0TWhqcGF3M3BPZjZqcDA?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "75m ago",
+    "news_age": "77m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -93066,7 +93072,7 @@
     "cpi": null,
     "lat": 37,
     "lon": 127.5,
-    "news_score": 0.24,
+    "news_score": 0.23,
     "news_title": "Federal Reserve’s Lisa Cook tells Anchorage business crowd she’s ‘firmly committed’ to bringing down inflation - Anchorage Daily News",
     "news_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcXdabTZ4REFFeHd4Zld3UWlfT1NOT2VkWkc3dEpjdEJDY29jdVVlVmhiM3Z5eGkzcDlDOEtZN1BQd3dvOEpBUmNqbm1fMzhDUkR4UVFhQjkzQk1IUTlNX2dZYmZiTk10dG1fUWdYNEo4SC00ZGp1a19qUkduZGVTUVRyRzdMaDNqRE1UMVpQV3dMTzN0N09saFVQZW5DaHZIWHBzZUdJMzEzaWpfa2hpSlVCbm9OelpQMHZ3ZUtpcElyVUgwRGlRWC1GRHVTTnJfR1FnVGR1TU5DdU82cFRjU0VFVjlxN2lsV3o4?oc=5",
     "news_image": "",
@@ -93614,7 +93620,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQWJRSzBheW5KelZNbmt1RHpoM3Jza1R3ZVNQR2xodXBkdnoxWHZISEFZR2s4RjdJeDlnN0k3c0tDT0VlYTh5bTBMcElfUy1TWGlzYlRGeV9ZazJ2UTlyaTZYYVowWXhIQmtFWEszalowN0tNRVBfNzNSaE02NUZLd0tBQ3FITzRlSUlSWHNEM01ILWlnYmN3MXRvRXg4WTY0V2xEcW1PSEMzTVg2WVBqQw?oc=5",
     "news_image": "",
     "news_source": "Semafor",
-    "news_age": "8h ago",
+    "news_age": "9h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -96076,7 +96082,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.15,
+    "news_score": 0.18,
     "news_title": "Three state attorneys general subpoena Anthony Fauci over Covid guidance - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbGFQNDhsbWRUd1A5OUkyOExJZDZvbF95U3VtNU5ZYXpPWU1iU1NHMEVhVmhKa0I5eENoU1hmaENpaVdEbzBUM1UtZDR3NEU4MmVxSW1MYUhvNDVjbzZUZ1pfdHM2bGdEd3ZmREk1OWRHNmJHSmdBUjFWT191NzRBRWczWmpBcVpoQTBIVXBVWnZTS1NGSWRwY05iUmR2QlpiNzJzTGVnZEc0c2dxZndMLXBEeU1OM29NY01jamdGTnVFakk?oc=5",
     "news_image": "",
@@ -96769,12 +96775,12 @@
     "news_source": "Bloomberg.com",
     "news_age": "8h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "netspeed"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ]
   },
   {
@@ -97875,7 +97881,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSk5CTTgxM0JYRm9CTmE0Z0JMLW95c251cS1OcU1GUGd0YlN1QUs3QUFIQXZmV0VJSHBpYTI0MXhvdXI1ZUpyQWdxdjdtN1AyUlBnSWtUYV9qX0ZVTEtsemFUNndLM0ZxV1BGQ3VTYkJZMHYxNzZRbnNQdG1hM3REMHo1TUV6REdyNTRBaWFFdHpTTTU0MGhjT056N3FrQ0FRcjRFbldGZ0dDckowOS1pRzJ0V1JXNTducXlySmctVzBsNFhDM2c?oc=5",
     "news_image": "",
     "news_source": "theringer.com",
-    "news_age": "44h ago"
+    "news_age": "45h ago"
   },
   {
     "flag": "",
@@ -98584,7 +98590,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.1,
+    "news_score": 0.09,
     "news_title": "Ravens Jesse Minter Says Lamar Jackson Critics Drive Him 'Insane' - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYjR0Y0FTWm1vVkVURWg5SGV5VVhoTmpkeWdfMFlzWGhadi1lcmhESEtBZnpUM3NaamdBSFNaVm5GaEZWd3FsTjFhZEFBVU53QkVfZmo4V1U2TnBqRzQtY0c3SzZweno0RDIyUFBYSEVFdDVMNmxjeFhCcHhreTlQOGxJQUxjdw?oc=5",
     "news_image": "",
@@ -100289,7 +100295,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.04,
+    "news_score": 0.05,
     "news_title": "Texas leads nation in Candida auris cases as the drug-resistant fungus spreads - Houston Chronicle",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQODNqaTZEMDc5Zk0wOXEzWHZwWXdtcm5ZZHl4MlZob1VXTWdPYkIwSWZDQjFfTzJ2c1NjS0YwcTB1RjBjbWgzQm8tYXc3ekNZeVVVM2hJNjFlcmhFTmk1NnNsaU5XbmZYMEQzOWdKY0JRTXJoUkw3T2xrRjZiTGNDdTBLS0hfSUFRYkszeW9ySTVfT3hOZk1GQktaVEYtNXVKbFlSU0lDbkZoNXc?oc=5",
     "news_image": "",
@@ -100471,7 +100477,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.13,
+    "news_score": 0.16,
     "news_title": "Three state attorneys general subpoena Anthony Fauci over Covid guidance - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbGFQNDhsbWRUd1A5OUkyOExJZDZvbF95U3VtNU5ZYXpPWU1iU1NHMEVhVmhKa0I5eENoU1hmaENpaVdEbzBUM1UtZDR3NEU4MmVxSW1MYUhvNDVjbzZUZ1pfdHM2bGdEd3ZmREk1OWRHNmJHSmdBUjFWT191NzRBRWczWmpBcVpoQTBIVXBVWnZTS1NGSWRwY05iUmR2QlpiNzJzTGVnZEc0c2dxZndMLXBEeU1OM29NY01jamdGTnVFakk?oc=5",
     "news_image": "",
@@ -105323,7 +105329,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQWJRSzBheW5KelZNbmt1RHpoM3Jza1R3ZVNQR2xodXBkdnoxWHZISEFZR2s4RjdJeDlnN0k3c0tDT0VlYTh5bTBMcElfUy1TWGlzYlRGeV9ZazJ2UTlyaTZYYVowWXhIQmtFWEszalowN0tNRVBfNzNSaE02NUZLd0tBQ3FITzRlSUlSWHNEM01ILWlnYmN3MXRvRXg4WTY0V2xEcW1PSEMzTVg2WVBqQw?oc=5",
     "news_image": "",
     "news_source": "Semafor",
-    "news_age": "8h ago",
+    "news_age": "9h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
