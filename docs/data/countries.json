@@ -5496,12 +5496,12 @@
     "refugees_rank": null,
     "union_rate": 73.2,
     "union_rate_rank": null,
-    "news_score": 1.1,
+    "news_score": 1.15,
     "news_title": "Drones spotted in Bulgaria and Germany raise concerns about Russian escalation - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGN3STBkTXUwR3NXZDN3TzJEcjJXR29rZDFJNW1LS1V6WVdZenh1SzQtTjZTOEhtNk8wTUotSmFPN2ZqRTR6ZEhwSTZ0dDFxUEhZQkVFVFg2YVZTQzY2RzJoTFBWcVVQQjRPeUVCaHdSem1lclJYeTNTZVY3SFp6X2hRRzFDMFVxTWxlYmN0N1RqWFVZZEVZMTBSdTBNWGVwY0ZrNk9NY3pXbjYtc3RTenYxYmVZUdIBuwFBVV95cUxOZGIwWXdiTmNOSy1MMXBBWUFLd1JWS0tmUmNyWk9UNHZ4bmRuZW15TU83NDBtQkxBQU1Qa2dDN0xyS1V0QVFzWmJlSm9MN0lGTG5IZndpMjlxZGJyallKVkZSem0tV1h4X2M5M2E0bjc2Vm85V0Q3Sm5yYTBTUnh4VHBJcEV4S0JhQUJTTGJVenBwT0VzR3hMVGtsT2E3bXhaRllsY1lBWlRjVkFSWU0xeUswZnVoTGFVR3JN?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -6856,7 +6856,8 @@
     "news_source": "gov.bc.ca",
     "news_age": "264h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "basket"
     ]
   },
   {
@@ -10353,11 +10354,7 @@
     "news_source": "fundsforNGOs",
     "news_age": "1295h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "basket"
     ]
   },
   {
@@ -13875,19 +13872,14 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.1,
+    "news_score": 1.27,
     "news_title": "Drones spotted in Bulgaria and Germany raise concerns about Russian escalation - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGN3STBkTXUwR3NXZDN3TzJEcjJXR29rZDFJNW1LS1V6WVdZenh1SzQtTjZTOEhtNk8wTUotSmFPN2ZqRTR6ZEhwSTZ0dDFxUEhZQkVFVFg2YVZTQzY2RzJoTFBWcVVQQjRPeUVCaHdSem1lclJYeTNTZVY3SFp6X2hRRzFDMFVxTWxlYmN0N1RqWFVZZEVZMTBSdTBNWGVwY0ZrNk9NY3pXbjYtc3RTenYxYmVZUdIBuwFBVV95cUxOZGIwWXdiTmNOSy1MMXBBWUFLd1JWS0tmUmNyWk9UNHZ4bmRuZW15TU83NDBtQkxBQU1Qa2dDN0xyS1V0QVFzWmJlSm9MN0lGTG5IZndpMjlxZGJyallKVkZSem0tV1h4X2M5M2E0bjc2Vm85V0Q3Sm5yYTBTUnh4VHBJcEV4S0JhQUJTTGJVenBwT0VzR3hMVGtsT2E3bXhaRllsY1lBWlRjVkFSWU0xeUswZnVoTGFVR3JN?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "space_launch"
+      "basket"
     ]
   },
   {
@@ -14342,12 +14334,12 @@
     "refugees_rank": null,
     "union_rate": 70.0,
     "union_rate_rank": null,
-    "news_score": 0.78,
+    "news_score": 0.84,
     "news_title": "As the world rediscovers 'The Odyssey,' disabled actors in Greece explore the pain of war - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb29aR3ZyRlJnZVRpOU1NaUVvUDk4SV9JSWs3b0NRR0M1SEZrdVQ0RUJMVDc5SFRmY3U0V3NRUVF2Sk1DbENLU3RTWFZMV2lHUUhQb3dyN3lOWnU0MXhTNmp3T3FlMXdmdWxlMzQ2LWVsNG12Szg1SmJaRGg3VEVSb1dDcENiN0ItOEJmMHBfWUxBZ19zcV9LTmZ5RWdqRjZneWZId3RMZmVxcjJ3SEM1M0tYcjRYQlVydlBJLUp4ZDBTbzVjRGc0LV9lQ1RqWGNhanhicG9oUzJPd3MxVTdr?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "1m ago",
+    "news_age": "3m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -18532,7 +18524,7 @@
     "union_rate": 74.0,
     "union_rate_rank": null,
     "fifa_w_rank": 39,
-    "news_score": 0.77,
+    "news_score": 0.76,
     "news_title": "Extraordinary wealth in a small economy – a confession - Jamaica Gleaner",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHRLSVhfQmRnZHlHUFNPQ1F6MkJQRkx6VFJ2R2ZHSXZQSDcxQ1hLRlkwSEVsZE9kOVVsbGJDQ2lYSy1SVy1od213NmtKREM0bklPeENOQlBoYkZaRWFhMWoyNndESmVOS21TYjJOSVRTR0hlNFowQUZVa18tWEpOQzFuZUpNaElqYjAtUWNYNkVweEtPRmRORS11VDE4WEE?oc=5",
     "news_image": "",
@@ -32650,14 +32642,19 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.92,
+    "news_score": 0.82,
     "news_title": "Pentagon presses defense firms to build weapons as Iran war depletes stocks - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMEVSY1poSEdoWXlVam44MEZhT2RqY3lRYWE1M001R2tlb2E3aUlWdEJHeWFvem5wY0ZXRzdKMzNTMTBCdUdHTWtxV2hucWRnVmk3SExENGk5M1lUeTN2RzA1V1F1RU54S041Q2U5WG5iZVdTUkhSUG5jQ3hna0tEeDNDNWVJN2E3ZzRRNl9lSmlrOXFtWFFKU3E0MmtrVkFQSmVqcmoyNDh5U29ZS1hRQ00wY3hKd1RNdklWWkZUaGo?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
+      "military_pct",
+      "nuclear"
     ]
   },
   {
@@ -36186,18 +36183,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.07,
+    "news_score": 0.1,
     "news_title": "USA Cadet Men Fall To Spain 17-16 After Penalties In Semifinals At U16 World Championships - USA Water Polo",
     "news_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNlI1SDBoTE9sRVNyRC1yQUpUVFlJRmtxMFhNYkdyd25VaFJlcVZLMkUwaWhFYzYxQmMzY1RCaHMwLWhJaHU3YWRxS2t5QS05SVJ3QVhja2h1LXdQUWtpRjF4SEp6eGRLbVNlVGNmdHhOUlc5UllHcE41b2NNdVVCZEhlNm5xMGx0QVEzQjBEUzRNYXlmaU9obEF5MXZpSWFCWTNZeUlTNGl1aEotNG94S2hnM25DR0ZpajQzX2QxWklXSGE1cFFVV2xraDFxNGdSc0hMRkQ4bE9YTml4TlpPek4weHVPdmQ4YUlKaVhBV1U?oc=5",
     "news_image": "",
     "news_source": "USA Water Polo",
     "news_age": "10h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking"
     ]
   },
   {
@@ -40664,12 +40657,12 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 1.35,
+    "news_score": 1.4,
     "news_title": "Drones spotted in Bulgaria and Germany raise concerns about Russian escalation - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGN3STBkTXUwR3NXZDN3TzJEcjJXR29rZDFJNW1LS1V6WVdZenh1SzQtTjZTOEhtNk8wTUotSmFPN2ZqRTR6ZEhwSTZ0dDFxUEhZQkVFVFg2YVZTQzY2RzJoTFBWcVVQQjRPeUVCaHdSem1lclJYeTNTZVY3SFp6X2hRRzFDMFVxTWxlYmN0N1RqWFVZZEVZMTBSdTBNWGVwY0ZrNk9NY3pXbjYtc3RTenYxYmVZUdIBuwFBVV95cUxOZGIwWXdiTmNOSy1MMXBBWUFLd1JWS0tmUmNyWk9UNHZ4bmRuZW15TU83NDBtQkxBQU1Qa2dDN0xyS1V0QVFzWmJlSm9MN0lGTG5IZndpMjlxZGJyallKVkZSem0tV1h4X2M5M2E0bjc2Vm85V0Q3Sm5yYTBTUnh4VHBJcEV4S0JhQUJTTGJVenBwT0VzR3hMVGtsT2E3bXhaRllsY1lBWlRjVkFSWU0xeUswZnVoTGFVR3JN?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -61958,7 +61951,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbUNiRGpyM2hSd3BuZVZvOThOb2VHbGYyOXpsSWdrb0VyME5BRWc1M1dOellMRlF1SjBicVVWTWk5TjlzT0JiZFFTNi1nSDF2NFBRMlRFOFBkdkRUeW5ScV9tMUZMQUhSaXVmTWhjNkdleW9rSTZDU0hXY2lSd05KeWxEc2t4dFpvSWFMdVFB?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "107m ago",
+    "news_age": "109m ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -67401,7 +67394,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.07,
+    "news_score": 0.09,
     "news_title": "Ed Case wins Democratic nomination for U.S. House, fending off challenge from the left - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ2lBY1hsME13aTZ5bTZ4NHU0cDZ1cUU4OXZpNldhQXlNMU54N3BmQ1FHT0hzeHBDZVVpZ1p3OG5uYXR2OU5jenZPdU1ybDZ0WHFURW8wM2JFNzR0UTVfR2J6OHE2X05MTmkxX1BGb0R2UkcxN21TcDh5Q25HNU5DM0dTd3pzdW1EYzd1MVp4SHE5YnljQUhwdGdabHZiY0J2cDNfQTJwSk1xLWI1cG5ySGFNT3gxakc0MHNMLXpZcWtIVDB5UVdB?oc=5",
     "news_image": "",
@@ -72424,7 +72417,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.47,
+    "news_score": 0.46,
     "news_title": "Dodgers World Series odds: LA still favorites despite recent slump - USA Today",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSkZMekN6MWNsY1ZHUGxJZHNnUTd4WmtRYjdLd3NjbXZ6V29lQzdtQXVzakFWeXdnN1FpLW5uRlNjODJuWkkzUUpwVkdPXzVpejhzaTNzS3hXdlRuSkgxT0w0cTZyUHlnWk1xcjBxWGplWjVsOFQwQnp2RlI0TFF3WG1Qb0RiYnFSejdvUFRkUHR5TXY2Q0c2S3NfTFU3a2xPUnIwR0tqc0E?oc=5",
     "news_image": "",
@@ -72872,7 +72865,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2NlWlJGbHAwOHdrWE1YbGNyRm1LRkprYXJxMGVyX3k2Z3V4TW1Cd1NQVlBFRFZOVUF6ZkcyeEZ6bmR5dXVtdGFGRE5uR2hrTFY4Mjc3NFM5X1otZGtBcXZ1ako1QVFDZmF0S0llV3oxTzZnUE9BaWFuejJGaDJaaTl4emF5V1RROXc?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "45m ago",
+    "news_age": "47m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -74651,7 +74644,7 @@
     "area": null,
     "gdp": null,
     "hdi": null,
-    "news_score": 0.15,
+    "news_score": 0.16,
     "news_title": "Turkiye says Mecca defence pact not aimed at Iran - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUk80bjVqWnNpMWVOMVIzek5TWHdkaE9pY0xHMWl5bWZzWXk3M3ZYbTJKTG95X1ZKWkRrYTJROVdTV2w1UFVCUmlKUHl6enQ3bzBjX1NGRWdWanp5STFUbXF5V3lxcjRZTVNjZWViTEFfV1JwZnFzd2phSTBOdEJnLUtKQ09pUnVwQldCMTNDSnU2NVnSAZgBQVVfeXFMTW9hUkhnWEdYS1loSlloUk4wMTQ1YklScW02LXVfWWlkQy1ndjNlY3ZNVnd4c3Zpb1hVaXVmd1o2UVJmd3ZPVk9zN0FtNC1SbHRqTG1iSDdDQUt2NEVOMUtWX3oweUNlVTMxYlA0SzFHd1lTMkdXdlNnTzNFTURTcnBNbGFuRjJpWHlWRHAtWlo2N2NOVEREeUE?oc=5",
     "news_image": "",
@@ -81403,7 +81396,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRGFMcDN2QkxpRkZvekJWNjkxR3NOOFlxd3dWNVhTZFhxRUpuMlBoZXB5Qy1yd1ZVNDRJWm9DZFFSd2cxZTBnU20zbXhxY093cDdIWGhKVDlXeXlza0VlZ2s0aEM5enI1elFkMTFpVGtENGYyT1ZqQm5CaTFQR3ZFYzBDMzdEUzRGZ2J3WlhJTnFaa3ZqUkdlTTVrQ3FKMnVvdGFjbExLckNESjNPR01NSUt0N0NmREpqZkZGSWRzYnNkTERrSTNSV3F0ZXBJU3ZQTHc?oc=5",
     "news_image": "",
     "news_source": "heraldextra.com",
-    "news_age": "83m ago",
+    "news_age": "85m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -84897,12 +84890,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 1.14,
+    "news_score": 1.2,
     "news_title": "As the world rediscovers 'The Odyssey,' disabled actors in Greece explore the pain of war - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb29aR3ZyRlJnZVRpOU1NaUVvUDk4SV9JSWs3b0NRR0M1SEZrdVQ0RUJMVDc5SFRmY3U0V3NRUVF2Sk1DbENLU3RTWFZMV2lHUUhQb3dyN3lOWnU0MXhTNmp3T3FlMXdmdWxlMzQ2LWVsNG12Szg1SmJaRGg3VEVSb1dDcENiN0ItOEJmMHBfWUxBZ19zcV9LTmZ5RWdqRjZneWZId3RMZmVxcjJ3SEM1M0tYcjRYQlVydlBJLUp4ZDBTbzVjRGc0LV9lQ1RqWGNhanhicG9oUzJPd3MxVTdr?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "1m ago",
+    "news_age": "3m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -89183,7 +89176,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.21,
+    "news_score": 0.18,
     "news_title": "Scott Eastwood says his father sent Kevin Costner home from set while filming 'A Perfect World' - Fox News",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMWJrS3lvUjJ2M0FWN0F0TDZCUUFkbGlUR2tybGhYdi1INGtBT3pXYXJZQ3Q1LXZ3LXVKUWMtZFNPYUhXSUJwVHp4RlZ4S1JuRmlVRHF2ejduRlJvTnZVMm10bnk2V1RoNWVxQUNSbXc3M1RzcGJNMUkzanZHdWZ5dkU1UXhWUlZKOWVNS1dmS1ptbFN1LWRSemhkdUNUOE9TY19CZEVfTlhrYzlUdmfSAbMBQVVfeXFMTzZrZ21LS0RvMWpzZVloZWRrZHlqRk1PZE1wZzFvOFBjWE02VnNaRkMtRHNOUENTa0ZZX1ZzZzhTMHhuZXhpU3VDM0ZDSkR6cnFEbHpuRzNDczdKZm01TjNjamhiczY2NWpkeFc0V2ZEY1pqZE1GLVhYeUFtYmwtWG80RVd1Q0JQRVdfY0xEeVhXNDhpSWJBdHU4U19HblJiQlJEdnJpNVBMQ2FWWDI1LUtuRWc?oc=5",
     "news_image": "",
@@ -89395,12 +89388,12 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 1.2,
+    "news_score": 1.35,
     "news_title": "Drones spotted in Bulgaria and Germany raise concerns about Russian escalation - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGN3STBkTXUwR3NXZDN3TzJEcjJXR29rZDFJNW1LS1V6WVdZenh1SzQtTjZTOEhtNk8wTUotSmFPN2ZqRTR6ZEhwSTZ0dDFxUEhZQkVFVFg2YVZTQzY2RzJoTFBWcVVQQjRPeUVCaHdSem1lclJYeTNTZVY3SFp6X2hRRzFDMFVxTWxlYmN0N1RqWFVZZEVZMTBSdTBNWGVwY0ZrNk9NY3pXbjYtc3RTenYxYmVZUdIBuwFBVV95cUxOZGIwWXdiTmNOSy1MMXBBWUFLd1JWS0tmUmNyWk9UNHZ4bmRuZW15TU83NDBtQkxBQU1Qa2dDN0xyS1V0QVFzWmJlSm9MN0lGTG5IZndpMjlxZGJyallKVkZSem0tV1h4X2M5M2E0bjc2Vm85V0Q3Sm5yYTBTUnh4VHBJcEV4S0JhQUJTTGJVenBwT0VzR3hMVGtsT2E3bXhaRllsY1lBWlRjVkFSWU0xeUswZnVoTGFVR3JN?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -89478,15 +89471,17 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.87,
-    "news_title": "Perez Hilton faces long recovery after reports he self-harmed during livestream - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uUHBiNm5ldEpzUG5Hb2JpcjE2cVM5M0pOWW94N05oNld3UkducWlzbmhQYVJoT1czcmVqc08wWW5rd0cwd0ladExkR2RJcDVEaWxzMEp5akc2UQ?oc=5",
+    "news_score": 0.77,
+    "news_title": "Hunter Biden Says His Father’s Cancer Is Worsening - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNS1uT1J2NkhyR0hTSElTSy1FSnZnS3JzUUNvaUV5N2M3TjlPUWJCVWFEVG81emlyOHlhc3A3b0hRSmtseDVOM2NSRmhVTWJ1SjZibXJtcnpMTC0yZ2hPOUlOTEhWYjJWaFFlQUxfVEZ2LTVyMHBHNU5iTS1Gd0loNm9aM0tZWVNYbkF4MlRod1FCOEFCNUVCdmZYemlJTUZMUS1v?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "2h ago",
+    "news_source": "The New York Times",
+    "news_age": "4h ago",
     "news_columns": [
-      "doctors",
-      "beds",
+      "democracy",
+      "approval",
+      "press",
+      "election_days",
       "health",
       "life_expectancy"
     ]
@@ -89887,12 +89882,12 @@
     "cpi": null,
     "lat": 25.3,
     "lon": 51.2,
-    "news_score": 1.1,
+    "news_score": 1.22,
     "news_title": "World number one Sabalenka upset by Alexandrova at Canadian Open - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNamt0dDkwNlpoZFdZZmIwbG1MQlRHVWg4Qk9taFJUcDhpUVVNMlllLXJ1bzNZWVB1VmFfNkxwVGZEMWlMWXFjVzJVUlh1dmpjbFF5NTJ0N3JMQy1xbXNObWM2RHZkTUFVQ3YxeWt1c0JjcmJKdU83Z0YwbHZCTEUwUHFlREpWbTRxOVdHRC1UbnBjZmNOejBsYWktcll2X2l0eTFFelQtWGt3QdIBrwFBVV95cUxQYlAzc3VzU3dSQ2pQdXJLakV3ZTEyTzJzb01Ic1plWEFXQmFrNUVlUlZGSG1sN0lUQ29nNTFIcnQ4OS1DbC0zOWVHaVVmQTcxYzlpaFFnMDYzZ3hwejJkT25pUGwzbDBWSFl5OU1EMEpxNUItZEh3enJkN0FvWTR3X0htVzRSb0JVUFBNMlFTSzVyaFV2X0MtSld2WTFfLTUzemduV3F3Y284MkFNbU1R?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "8m ago",
+    "news_age": "10m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -91888,12 +91883,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.74,
+    "news_score": 0.73,
     "news_title": "‘It’s impactful’: Seattle Sports fans see a bright future at stadium gatherings - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMzhtNW5KSzQ5V0tIc2NsbURNYUtIdXJoN2hkY3BCazZSaURBRDhLQUtsZENwUVc1bk5rVUVhZ2s5cWtTX2FZM0Q4YWdpZW5DeS12ZlNMMUxXTHltUUxEOEZXbWtmNmlrQjdsY0NFQWtkT25vY01DOWVaekFJbU94djdmUzd5Mm8xZGc?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
       "health",
       "life_expectancy",
@@ -94231,7 +94226,7 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.61,
+    "news_score": 0.6,
     "news_title": "World U20 records by Brown and Italy on day four in Oregon - worldathletics.org",
     "news_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ08wdEstRWxyajlzOUhMQVh0dTJLeWRGUDdIVnZDcENBb0NLS3hRSGVLZTNvYVdMbi14UWJWNFowaXhjME45cml5M3Zhek50TEg1LU5vZmJzRHNzR0xpdkY2SmdtallQbkJfU1NuZmVFLXFJNVo1Ry1XSkVjdlZ1MDRaUlp2SklrXzQ4X29KTC1sX2NOVVhoSWtpTElENnBVNDNubE5Ua1UwRHVnbDFyUHNIXzNsNEtsVFljOTQtS2xwQTlNckpNMjNVYUNLUQ?oc=5",
     "news_image": "",
@@ -95744,7 +95739,7 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.92,
+    "news_score": 0.91,
     "news_title": "Tate Taylor, Mia Maxwell sweep 100m, 200m at World U20 Championships as U.S. adds 4 golds - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWXM4ekIwZEtuNGVDMW9DV0NFb28wcTRpSVA4eS1CeFBlMm5ad2locTZBVjU5ZHRYUjU0VHRpZXhWWWFVYm9mbzZMSExzTXR2U0hxb19MWnN2eDIxaGoyX0tZeDFkeW5UQXpaOHp4VTdkRWVoQkQwWGI3c3B6YWhFaDJFOGE?oc=5",
     "news_image": "",
@@ -96252,7 +96247,7 @@
     "cpi": null,
     "lat": 54,
     "lon": -2,
-    "news_score": 0.06,
+    "news_score": 0.05,
     "news_title": "US Senate advances landmark crypto bill before heading on August recess - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMVhmVXltaDhxQW1BeWtBZktQbmNhUGI1Y0s5X2xJSDVaSkZPLXZlckdUMWRoSmcwX0NvUmtERjBrc3dRc1lPQXMxZzVlVmFVMnpXMjEwTGZzaEs0anJPdzJ4UU9RMFRpVjFHMWJKekFNaThIZjA4cUZZMm85MVhfbGt2YlNKV2d3SHY5TGI5UjdXOWlocTdiQ1RqMUtQMXBDZHlzTUdTZDNGbW5yeWtwWl81TTZ0ZTNSeHNlTTdB?oc=5",
     "news_image": "",
@@ -97006,17 +97001,19 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.46,
-    "news_title": "Perez Hilton faces long recovery after reports he self-harmed during livestream - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uUHBiNm5ldEpzUG5Hb2JpcjE2cVM5M0pOWW94N05oNld3UkducWlzbmhQYVJoT1czcmVqc08wWW5rd0cwd0ladExkR2RJcDVEaWxzMEp5akc2UQ?oc=5",
+    "news_score": 0.34,
+    "news_title": "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery - The Hollywood Reporter",
+    "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMHBYREljS0gtUjkxYVBlRjM5VFdJSm1SRXU4RnhuWmZwNzFNVVMya0VXVmNQUXlIc1A0ekxDaXlwOGhWN3pDcU85bUxpTFk3QklpNkVBOXdnRG11ejJlanpEVTI5Um1abWRzZUZGUnB3T05pUUhkTFJlVVZhbncyeGZpY3dlZlRWMThSTE9hNHpYZ0dKNExtbE9EVk5DaWdleHZlWGhoSFk3V2piTmlOeW1QaEo4WENI?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "2h ago",
+    "news_source": "The Hollywood Reporter",
+    "news_age": "8h ago",
     "news_columns": [
       "doctors",
       "beds",
       "health",
-      "life_expectancy"
+      "life_expectancy",
+      "film_prod",
+      "netflix"
     ]
   },
   {
@@ -98488,12 +98485,12 @@
     "cpi": null,
     "lat": 38,
     "lon": -97,
-    "news_score": 0.72,
+    "news_score": 0.71,
     "news_title": "2026 Lucas Oil North-South 100 Results at Florence Speedway - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMkFTX2dCMFdEbnpNanBzbmp0bVo0QWxuQW9sbXpoUk16WjJaTHlQLXBZZkxHNmd2YXp1SWF6NVN1NlBhM1ptS1hMZHJRczFLMVVqYmhqUnRadTlydDk4ZHNYUzJaTGIwWFpRdjNCdjQtSUNKSDBvSXNCdE1sSy1FSA?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "78m ago",
+    "news_age": "80m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
