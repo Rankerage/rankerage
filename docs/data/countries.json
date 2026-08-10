@@ -3291,7 +3291,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNndKTjlWN0R6X3dmR212Z2NQWThWQW1EbGloaDM3QjA3ampKd2dTWHlvU2l3d1FNd2RxRG1La1RxYUhzNWQ5UTdmVzh0WE5kdkFGbDZPR0N3UzN0NjVKNjVRclpoMjRLZmtDQ19TVWtoOWZJYnJIeExNeW1PV1lDY05KN3ZrdFp6NlRrMXdrNGVpUFJabWtTMXZ2TGxBT1k?oc=5",
     "news_image": "",
     "news_source": "The Daily Star",
-    "news_age": "5h ago",
+    "news_age": "6h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -6857,19 +6857,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.07,
+    "news_score": 0.1,
     "news_title": "Wildfires burn across the western US and Canada, Israel rejects Trump’s Gaza plan - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WNHpUb1BfWWRkXzBxVnc2T2pkMVlHeFJHQVpyNGNyYWg5MWJBNlllNy1UcW10Rm5oRnhNaW8yMEZOeXZDckZCOUF5YWRyVHliVWpVcG9NWXBKcVVGZmRYbFprbTRDajZI?oc=5",
     "news_image": "",
     "news_source": "AP News",
     "news_age": "8h ago",
     "news_columns": [
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ]
   },
   {
@@ -8159,14 +8156,19 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 1.11,
+    "news_score": 1.04,
     "news_title": "Buildings collapse after magnitude-7.4 earthquake in Colombia - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QbG5ndEZ1enJXUjNYbjVjdldqRzNDR01UdW1tZzF3SEY3WHBVUm9pVjJsd0hqaWlYSVcyQlJkRzE2ZUlyckZTSDlLb2Flb1dXVHl0MA?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "62m ago",
+    "news_age": "64m ago",
     "news_columns": [
-      "olympic"
+      "earthquake_count",
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ]
   },
   {
@@ -10545,12 +10547,12 @@
     "union_rate": 68.0,
     "union_rate_rank": null,
     "fifa_w_rank": 51,
-    "news_score": 0.23,
+    "news_score": 0.39,
     "news_title": "Buildings collapse after magnitude-7.4 earthquake in Colombia - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QbG5ndEZ1enJXUjNYbjVjdldqRzNDR01UdW1tZzF3SEY3WHBVUm9pVjJsd0hqaWlYSVcyQlJkRzE2ZUlyckZTSDlLb2Flb1dXVHl0MA?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "62m ago",
+    "news_age": "64m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -14081,16 +14083,17 @@
     "union_rate": 60.4,
     "union_rate_rank": null,
     "fifa_w_rank": 50,
-    "news_score": 1.23,
+    "news_score": 0.85,
     "news_title": "Outsiders Malawi beat Ghana to reach WAFCON semi-finals and World Cup - RFI",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUdSMG5fRFJSZ2lPUXRlT2tlLW12Njk5RnhTaXA5UmJ3YjVxd2JsbEs1eDBCNmFCSDNmRWViYmg4bTI3U1NJQWhUTXNwSmdQM1lQVmduSDNmM0JwT1prakgtdTZheEhJWlNneFF5REpUcURyTzJhYTZqdk0zZFNDM25leklXWFRPeG52Z0Q5ZE1ESkNHSXpwLU05SXdEMlFHWUZ4eTlhUGN6OFE?oc=5",
     "news_image": "",
     "news_source": "RFI",
-    "news_age": "40m ago",
+    "news_age": "42m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ]
   },
   {
@@ -16603,7 +16606,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.87,
+    "news_score": 0.86,
     "news_title": "The role of the government in India’s heat crisis - The World from PRX",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZk5LNERCQVh0UlFQU3JlTk1yYklFWE5WNm9kUU1JdUIycUhVZ2pCYmNXX1JXWkFGMUJLTUZBd1dBSVFIaTdxUF9NVDdfQ0U4dFBBd0FuQkl4Skl1ZkJGcFR6cVpjbnJCSzZ5b29NVkh4dkp2ZWVSb3Z6NS01SnVSYlNVa2FLMGRkR3ZzZkRCeTRkdw?oc=5",
     "news_image": "",
@@ -17166,19 +17169,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.07,
-    "news_title": "S&P 500 is little changed as traders await possible Hormuz deal, Intel shares fall: Live updates - CNBC",
-    "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PSlBQSkZDeVFXczJmMmRVYU4zbFdIejBqeUVSa1Z2cHNMaXUtVHZ5eUVKUEZzb2RMUWpYVE1aQWV0b21BNkM0VE9WNFI2dTFsUGNQUXNfOWtNV211WkhlLUxOTm9zOW01UHJVU0o2eDM1Wm5TREVz0gF8QVVfeXFMT1FxMFFZOTZCbGpROU5BX0xLVW9kMmtFLTBRRk9PTm5DaXJpdTJyRUpiNk5XcTQ5eUtmLThVUWIxOW5MSjE2NEhLZWtfV0ZFS1hiV0t5d2V3VmdacWdXTG0wSlV3MHYwY0NsMUVrb0pSSWpvYlM5Sm1vUEc5cg?oc=5",
+    "news_score": 0.88,
+    "news_title": "Iran's economy is buckling after nearly 6 months of war. These 5 charts show the damage. - businessinsider.com",
+    "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVDM0ckRoZ0hUcjF3S011cVRid21RM0VVNHdpY24yejA1bjRyaU43dWluMzNZcnlvd0lLSGVKRUEtQ211S3drYmxlZDBjWTRsd1QtR2NyM2UwOXQ1NWFTTDJoMkdUQ2RLa1l4ZFJMOWF5VnVLMGExSDZSejZfTjZaZTRXNmxQajNLc0w3Nm02R01YWUlVc21oazU1cVRKU0NZX3RQWG1OanRxeEZ5WEhj?oc=5",
     "news_image": "",
-    "news_source": "CNBC",
-    "news_age": "2h ago",
+    "news_source": "businessinsider.com",
+    "news_age": "3h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
-      "stock_market",
-      "reserves",
-      "gas_price",
-      "energy_per_capita"
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ]
   },
   {
@@ -17898,7 +17901,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.09,
+    "news_score": 0.08,
     "news_title": "Wildfires burn across the western US and Canada, Israel rejects Trump’s Gaza plan - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WNHpUb1BfWWRkXzBxVnc2T2pkMVlHeFJHQVpyNGNyYWg5MWJBNlllNy1UcW10Rm5oRnhNaW8yMEZOeXZDckZCOUF5YWRyVHliVWpVcG9NWXBKcVVGZmRYbFprbTRDajZI?oc=5",
     "news_image": "",
@@ -19214,7 +19217,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.51,
+    "news_score": 0.5,
     "news_title": "Jordan Smith Jr. has a trait all great athletes possess - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZFd4T0FwZnJDSkhDZXNyZFdjRUpJVWdMeGp4b1VWSEl0Yms1ZHctMVhoUFN6VW56UGtMWGh0XzVfS2RJUDg1SzlFamdnRXVXdVh6NzNNd0pNYkdHbjNlMUhvQ0FBdWJOcFp3U3hUYWMzMHRBLW1XMVloOXA5djNlWE53?oc=5",
     "news_image": "",
@@ -22501,16 +22504,17 @@
     "union_rate": 63.2,
     "union_rate_rank": null,
     "fifa_w_rank": 101,
-    "news_score": 1.32,
+    "news_score": 0.9,
     "news_title": "Outsiders Malawi beat Ghana to reach WAFCON semi-finals and World Cup - RFI",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUdSMG5fRFJSZ2lPUXRlT2tlLW12Njk5RnhTaXA5UmJ3YjVxd2JsbEs1eDBCNmFCSDNmRWViYmg4bTI3U1NJQWhUTXNwSmdQM1lQVmduSDNmM0JwT1prakgtdTZheEhJWlNneFF5REpUcURyTzJhYTZqdk0zZFNDM25leklXWFRPeG52Z0Q5ZE1ESkNHSXpwLU05SXdEMlFHWUZ4eTlhUGN6OFE?oc=5",
     "news_image": "",
     "news_source": "RFI",
-    "news_age": "40m ago",
+    "news_age": "42m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ]
   },
   {
@@ -24442,7 +24446,7 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.51,
+    "news_score": 0.74,
     "news_title": "New Mexico’s Roadrunner Little League to play in Junior League World Series - KOB 4",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeW9GUnFmZUlFeVhaaUtDUU1XWHI5em0zX29rU2syN29TNjllZWdFRHlWR2RfVVo2Y3RLbkVianBJMy0zREcwQTM4b3JpMS0tNV9LUjJoeGN6LWJ3cDJuLWZhbXBzb29FdFhhYkxBNWdVcF94aXZuYTNLamxETnQyX0tRVXZ6T1hiMTZvNkxicnpZRkVGQjZ6WmotUV9mSDdZc0sxZDM5QXBGR0NBQUE?oc=5",
     "news_image": "",
@@ -26908,7 +26912,7 @@
     "refugees_rank": null,
     "union_rate": 85.6,
     "union_rate_rank": null,
-    "news_score": 0.36,
+    "news_score": 0.33,
     "news_title": "Scotland, Netherlands criticise ICC's World Cup format changes - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWXpBNEJibkMybFk0aUxHRk8yRXdaNTR2ZGdNR25pTHN0dGMtU0Z6ekRtLTBGc1pWcEFSd05NT29QRUlwUWJsX1E0Tmx1d0RsNlVxNVVUX0tNUUpkdFlub01IcGFFcG1JazlDc1AzOWtPTmpoY3MzUFdyRkxwc1NnNFJJTVprS2s1ZXJWMUJma0kzSnkwQ01aTUhvRVdUYnFWY1lPWnRZcjlwTFhvXzlqUA?oc=5",
     "news_image": "",
@@ -32678,14 +32682,19 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.01,
+    "news_score": 1.0,
     "news_title": "Ukrainian drone strikes 750 miles inside Russia kill at least 13, authorities say - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdkVrQ2Q0MERpaVZuQWJZNXV2SEZPOElTdWVPRXRpMmNmSXQ1VDFyU2tNUDRjTjI5M3NiQ0hYQzVmRmhiVmJzVGlkTVgyWXA0VzFUR19BTFNQMmVIZkZ4ZVJCdF9JOGVpT0xocDZNdWNVRDh2QmcxZV9ReXNwZjlJVg?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "56m ago",
+    "news_age": "58m ago",
     "news_columns": [
-      "olympic"
+      "gas_price",
+      "energy_per_capita",
+      "co2",
+      "renew",
+      "exports",
+      "military_pct"
     ]
   },
   {
@@ -33377,10 +33386,10 @@
     "fifa_ranking_rank": 133,
     "fifa_w_rank": 107,
     "news_score": 0.0,
-    "news_title": "Professor Sir Cato T. Laurencin: Founding Fellow of The Saint Lucia Academy of Technology, Science, and the Arts - UConn Today",
+    "news_title": "Professor Sir Cato T. Laurencin: Founding Fellow of The Saint Lucia Academy of Technology, Science, and the Arts - today.uconn.edu",
     "news_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOGU3ampGbjducVgtbzZRLWl3UWdxUFJkSnEyVlpabXBWZ1ZOTXg2cy1Cb2NJbUs3am9fNDJDcnFiVUo0OWhuMHZmTmRnUTR2T3F2aEtwSUhyajlTcGtlMDRBVkItaU5EUmJWb19BY0ZvUkk1d3BEQVgxWFl3ZjY4bXBtWHF3bmdwbVRxSU51THNOZ1FHT1RWYXoxckQzTGFxSUFHRVJMSnhWZlRsbTh1NDF6NHNBaUJOSTlNM21FXy1FWnRXazhWcmFXRFNVbU1FNGJIQkpfTnI?oc=5",
     "news_image": "",
-    "news_source": "UConn Today",
+    "news_source": "today.uconn.edu",
     "news_age": "3874h ago",
     "news_columns": [
       "ai_research",
@@ -40717,7 +40726,12 @@
     "news_source": "The Independent",
     "news_age": "9h ago",
     "news_columns": [
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ]
   },
   {
@@ -41957,7 +41971,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.49,
+    "news_score": 0.46,
     "news_title": "USEA Podcast #419: Two Duttons, Two World Championships - United States Eventing Association (USEA)",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbXc4V2Z5bW1EUFd0azd5Q1E5dGU5SDZfM21qbFZodS04bUxjY2lmU3pjbS1lZG5WY2lfTDduWkl1bFA0M3FMVHFNU1pIX0JIdDRnYzUxeV9KajBDTFY0c0xqR1hEbkFTaUZhSHgxSnBUSGJuQzhuXzNVaFRscEV0SEEtNWwwYjY0VjYzWk5QSFUzbG4tN0E?oc=5",
     "news_image": "",
@@ -41966,8 +41980,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ]
   },
   {
