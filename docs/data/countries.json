@@ -6857,7 +6857,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.43,
+    "news_score": 0.42,
     "news_title": "Look West: Jobs and Prosperity for a Stronger BC and Canada - Province of British Columbia - Government of British Columbia",
     "news_url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1sb3l0N0g2Tm15TDdBc1VvMkpkdWl4QjM3ZlRndHFGd0VFXzh1VVdpYU9HdGtWbk9nTFlSWlZKMA?oc=5",
     "news_image": "",
@@ -8155,12 +8155,12 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 1.54,
+    "news_score": 1.57,
     "news_title": "At least 77 killed after powerful earthquake hits western Colombia - reuters.com",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQm11YVZfbDU1RnZ6SmtvZUJDX3JZT0JpajE4MkV2TzZsRVZhRW05X1JjUnU3a093elpuM1pIdjdKa2dhSkdLY1FtYWhkd3FBSGNLcHloc0d2ck9ESmtNOG5PRDlCQkVKLTlOMEpwbl9adkozZmppWFVvbUIxV3d6WDk5WE5VcDgwazIzajlaQlZtdXA5YVE?oc=5",
     "news_image": "",
     "news_source": "reuters.com",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -10546,7 +10546,7 @@
     "union_rate": 68.0,
     "union_rate_rank": null,
     "fifa_w_rank": 51,
-    "news_score": 0.26,
+    "news_score": 0.0,
     "news_title": "At least 77 killed after powerful earthquake hits western Colombia - reuters.com",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQm11YVZfbDU1RnZ6SmtvZUJDX3JZT0JpajE4MkV2TzZsRVZhRW05X1JjUnU3a093elpuM1pIdjdKa2dhSkdLY1FtYWhkd3FBSGNLcHloc0d2ck9ESmtNOG5PRDlCQkVKLTlOMEpwbl9adkozZmppWFVvbUIxV3d6WDk5WE5VcDgwazIzajlaQlZtdXA5YVE?oc=5",
     "news_image": "",
@@ -14082,15 +14082,17 @@
     "union_rate": 60.4,
     "union_rate_rank": null,
     "fifa_w_rank": 50,
-    "news_score": 0.97,
+    "news_score": 0.71,
     "news_title": "Outsiders Malawi beat Ghana to reach WAFCON semi-finals and World Cup - RFI",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUdSMG5fRFJSZ2lPUXRlT2tlLW12Njk5RnhTaXA5UmJ3YjVxd2JsbEs1eDBCNmFCSDNmRWViYmg4bTI3U1NJQWhUTXNwSmdQM1lQVmduSDNmM0JwT1prakgtdTZheEhJWlNneFF5REpUcURyTzJhYTZqdk0zZFNDM25leklXWFRPeG52Z0Q5ZE1ESkNHSXpwLU05SXdEMlFHWUZ4eTlhUGN6OFE?oc=5",
     "news_image": "",
     "news_source": "RFI",
-    "news_age": "80m ago",
+    "news_age": "82m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket"
     ]
   },
   {
@@ -16603,7 +16605,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.71,
+    "news_score": 0.7,
     "news_title": "The role of the government in India’s heat crisis - The World from PRX",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZk5LNERCQVh0UlFQU3JlTk1yYklFWE5WNm9kUU1JdUIycUhVZ2pCYmNXX1JXWkFGMUJLTUZBd1dBSVFIaTdxUF9NVDdfQ0U4dFBBd0FuQkl4Skl1ZkJGcFR6cVpjbnJCSzZ5b29NVkh4dkp2ZWVSb3Z6NS01SnVSYlNVa2FLMGRkR3ZzZkRCeTRkdw?oc=5",
     "news_image": "",
@@ -17166,19 +17168,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.02,
-    "news_title": "World in Brief: Iran says deal with Oman “very close”; earthquake rocks Colombia - The Economist",
-    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdnVsenV6dERVVF9CMFZDaVBBN0VGX0xNR0p2ZzJjMHVKaVgxZFdKNWlCMVZPQWQzbWhQOFlqRU1VU1VJTEpyOG1VdHRldHdsZWVua0c5WWtrdzd6elNqOExBdHlpSk1GMFR4VkFxekdGc29DM2VZLVN3b2V2eEJtWGNGcXdxc2p1dnRTQmdkbkNaZzE5ejFV?oc=5",
+    "news_score": 1.55,
+    "news_title": "Live updates: US-Iran war news; Oil prices climb as Iran signals Strait of Hormuz will stay closed - CNN",
+    "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xcnRIaENDM0VobHdzWGIteUx1Y1pwYU42VUlVdzhMUDRvMGV3MWZ2cEppX0NnV29nSE5ZWTFWS3dGd0ZNYjByWldRM3VERU10ZFBaUnY5X2VmTDJ6ekgxNUV4RUJ2U3ZYemZhS0NB?oc=5",
     "news_image": "",
-    "news_source": "The Economist",
-    "news_age": "2h ago",
+    "news_source": "CNN",
+    "news_age": "50m ago",
     "news_columns": [
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "gas_price",
+      "energy_per_capita",
+      "co2",
+      "renew",
+      "exports",
+      "military_pct"
     ]
   },
   {
@@ -17646,7 +17648,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYXFKZGRNb29uWFh1VnlrV3MtcW5pOEtLRTNfM3hQeXRtMVRjb09tMDdxcnFEVnRLRDg4ZGZnMHdqZ0xZd2lHNEhialU1YmNNLUVVU3R2Z1Y4UUp1OXBQbi1maHhmazlyVlM2ZVRMdUJIN29hdlJ3bWtWZnpISGFYcEU3a0dCcm1hMVdXR3hKY3NXUWpWZXZTMDlFTkkxQjVhLWgzQ1pTRTJhRFBVTmxTdTUyMlpuX09BbkE?oc=5",
     "news_image": "",
     "news_source": "Rutgers University Athletics",
-    "news_age": "5h ago",
+    "news_age": "6h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -19213,7 +19215,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.42,
+    "news_score": 0.41,
     "news_title": "Jordan Smith Jr. has a trait all great athletes possess - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZFd4T0FwZnJDSkhDZXNyZFdjRUpJVWdMeGp4b1VWSEl0Yms1ZHctMVhoUFN6VW56UGtMWGh0XzVfS2RJUDg1SzlFamdnRXVXdVh6NzNNd0pNYkdHbjNlMUhvQ0FBdWJOcFp3U3hUYWMzMHRBLW1XMVloOXA5djNlWE53?oc=5",
     "news_image": "",
@@ -22500,15 +22502,17 @@
     "union_rate": 63.2,
     "union_rate_rank": null,
     "fifa_w_rank": 101,
-    "news_score": 1.04,
+    "news_score": 0.76,
     "news_title": "Outsiders Malawi beat Ghana to reach WAFCON semi-finals and World Cup - RFI",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUdSMG5fRFJSZ2lPUXRlT2tlLW12Njk5RnhTaXA5UmJ3YjVxd2JsbEs1eDBCNmFCSDNmRWViYmg4bTI3U1NJQWhUTXNwSmdQM1lQVmduSDNmM0JwT1prakgtdTZheEhJWlNneFF5REpUcURyTzJhYTZqdk0zZFNDM25leklXWFRPeG52Z0Q5ZE1ESkNHSXpwLU05SXdEMlFHWUZ4eTlhUGN6OFE?oc=5",
     "news_image": "",
     "news_source": "RFI",
-    "news_age": "80m ago",
+    "news_age": "82m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket"
     ]
   },
   {
@@ -24440,7 +24444,7 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.59,
     "news_title": "New Mexico’s Roadrunner Little League to play in Junior League World Series - KOB 4",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeW9GUnFmZUlFeVhaaUtDUU1XWHI5em0zX29rU2syN29TNjllZWdFRHlWR2RfVVo2Y3RLbkVianBJMy0zREcwQTM4b3JpMS0tNV9LUjJoeGN6LWJ3cDJuLWZhbXBzb29FdFhhYkxBNWdVcF94aXZuYTNLamxETnQyX0tRVXZ6T1hiMTZvNkxicnpZRkVGQjZ6WmotUV9mSDdZc0sxZDM5QXBGR0NBQUE?oc=5",
     "news_image": "",
@@ -25559,7 +25563,11 @@
     "news_age": "21h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket",
+      "gender",
+      "gender_gap"
     ]
   },
   {
@@ -29247,7 +29255,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdnVsenV6dERVVF9CMFZDaVBBN0VGX0xNR0p2ZzJjMHVKaVgxZFdKNWlCMVZPQWQzbWhQOFlqRU1VU1VJTEpyOG1VdHRldHdsZWVua0c5WWtrdzd6elNqOExBdHlpSk1GMFR4VkFxekdGc29DM2VZLVN3b2V2eEJtWGNGcXdxc2p1dnRTQmdkbkNaZzE5ejFV?oc=5",
     "news_image": "",
     "news_source": "The Economist",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -36224,12 +36232,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.74,
+    "news_score": 0.78,
     "news_title": "Total solar eclipse Aug. 12, 2026 live updates — 2 days to totality - Space",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHpkWFU3RW1tNldsVTBJWkdXM0ZkUG9MV0E1Wmc0el9iVFVkXzB1dzFRNVMwdFpOZURzUUpfdk9mdVFpV0MtcDl3RWRRelRVdDdkNWIzeFR4THdBWE14TUVnNFlIekE3LTVhdS15amI3alhWa3lVdWdITWswdDBKT1Y5cU41NTJ5X2VreXVXWVhwMTVWQnJWbmVuU251bzA?oc=5",
     "news_image": "",
     "news_source": "Space",
-    "news_age": "28m ago",
+    "news_age": "30m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -41960,15 +41968,17 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.41,
+    "news_score": 0.39,
     "news_title": "USEA Podcast #419: Two Duttons, Two World Championships - United States Eventing Association (USEA)",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbXc4V2Z5bW1EUFd0azd5Q1E5dGU5SDZfM21qbFZodS04bUxjY2lmU3pjbS1lZG5WY2lfTDduWkl1bFA0M3FMVHFNU1pIX0JIdDRnYzUxeV9KajBDTFY0c0xqR1hEbkFTaUZhSHgxSnBUSGJuQzhuXzNVaFRscEV0SEEtNWwwYjY0VjYzWk5QSFUzbG4tN0E?oc=5",
     "news_image": "",
     "news_source": "United States Eventing Association (USEA)",
     "news_age": "4h ago",
     "news_columns": [
+      "mlb",
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "nfl"
     ]
   },
   {
@@ -44302,7 +44312,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 1.33,
+    "news_score": 1.34,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
@@ -44318,7 +44328,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZS1dfeGcwRDVBQ3NDRlk3WmgzaC11Tjh0OXNBRjZPemU1cTQxNjVQRjBBZHBCSmo1VW5PeHZxYUVVd0FNdlp2UVBFWHplTTVPUUdUQzc2NUthazlMRTRnY0VZTk1vcFJEOEtleTNUMFJ4Y2VKaFE?oc=5",
     "news_image": "",
     "news_source": "Cambridge Day",
-    "news_age": "39m ago",
+    "news_age": "41m ago",
     "news_columns": [
       "car_density",
       "gas_price",
