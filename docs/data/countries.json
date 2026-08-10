@@ -2529,7 +2529,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPczN2TFl6NHZ1OGNSd0xNVWFmM3JYLXZLZEhOeHh6TU1pVU1SMXh5MUlnZUJsbFNNRDlRRVozakVXS3RSUUhPUFlISURMc2FYbXBoWG1WNFBCQTdmclQtSVczd0RCM0ZheUdmeTFBOTJOU3lvYzVBU0pUdnNhX3Bhd1NJWEctX3V2YVZXSGxhSU9FNGpfUUEtT3kxTnBucHJPOGh6Q2RKdW5HV2xsUlJ0TW94bC1TYXlfd0NoREU2dkVlMU9kVWFsdGNaaw?oc=5",
     "news_image": "",
     "news_source": "vovworld.vn",
-    "news_age": "8h ago",
+    "news_age": "9h ago",
     "news_columns": [
       "olympic"
     ]
@@ -6857,12 +6857,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.51,
+    "news_score": 0.75,
     "news_title": "Wildfires burn across western US and Canada as residents are evacuated - The Seattle Times",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNai1WcnZKd1dBU0hBcWI1dzh5eTBqT1BIQlJjNFhHV0xNUWxQbEc0Mzl6OVdPNThaRlJ4MDVVeExvekF0N253SHBFYktycTk1aUpOQ3FTWUtoUVIzYWRLUGVkMkRsM2s2eGk5NUxqbl81SkxMMUw0QTVPWTJYSk9VWTdqeXM0cVpHM3hKQ3BZMFJhOVJxWjBEa3JYRW5TdFBCcWlKdTlMaE9DaV9fNDdlODQ3ZVE?oc=5",
     "news_image": "",
     "news_source": "The Seattle Times",
-    "news_age": "32m ago",
+    "news_age": "34m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -8155,14 +8155,19 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 1.17,
-    "news_title": "Live updates: At least 20 dead after powerful earthquake hits Colombia - CNN",
-    "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2E0OE5yZGJtT1ItYXF5SU9URXp2SzRFcWFIR0tvUmFFei1jcVFxUG4yVTZCb0F3N1hVZXMtalpjUEc0RmhNblhIN0F1ZXhJTHI1b3YyNnFmZE84T0FpWkdjdUVKWEVQb09MV0p2VllfYTJsVGpCMnk3WV9xdHM2dnJBWlc3ZExLSmp5SnlVUQ?oc=5",
+    "news_score": 1.45,
+    "news_title": "At least 77 killed after powerful earthquake hits western Colombia - reuters.com",
+    "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQm11YVZfbDU1RnZ6SmtvZUJDX3JZT0JpajE4MkV2TzZsRVZhRW05X1JjUnU3a093elpuM1pIdjdKa2dhSkdLY1FtYWhkd3FBSGNLcHloc0d2ck9ESmtNOG5PRDlCQkVKLTlOMEpwbl9adkozZmppWFVvbUIxV3d6WDk5WE5VcDgwazIzajlaQlZtdXA5YVE?oc=5",
     "news_image": "",
-    "news_source": "CNN",
-    "news_age": "81m ago",
+    "news_source": "reuters.com",
+    "news_age": "30m ago",
     "news_columns": [
-      "disaster"
+      "earthquake_count",
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ]
   },
   {
@@ -10541,7 +10546,7 @@
     "union_rate": 68.0,
     "union_rate_rank": null,
     "fifa_w_rank": 51,
-    "news_score": 0.36,
+    "news_score": 0.0,
     "news_title": "Live updates: At least 20 dead after powerful earthquake hits Colombia - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2E0OE5yZGJtT1ItYXF5SU9URXp2SzRFcWFIR0tvUmFFei1jcVFxUG4yVTZCb0F3N1hVZXMtalpjUEc0RmhNblhIN0F1ZXhJTHI1b3YyNnFmZE84T0FpWkdjdUVKWEVQb09MV0p2VllfYTJsVGpCMnk3WV9xdHM2dnJBWlc3ZExLSmp5SnlVUQ?oc=5",
     "news_image": "",
@@ -14077,12 +14082,12 @@
     "union_rate": 60.4,
     "union_rate_rank": null,
     "fifa_w_rank": 50,
-    "news_score": 0.74,
+    "news_score": 0.73,
     "news_title": "Outsiders Malawi beat Ghana to reach WAFCON semi-finals and World Cup - RFI",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUdSMG5fRFJSZ2lPUXRlT2tlLW12Njk5RnhTaXA5UmJ3YjVxd2JsbEs1eDBCNmFCSDNmRWViYmg4bTI3U1NJQWhUTXNwSmdQM1lQVmduSDNmM0JwT1prakgtdTZheEhJWlNneFF5REpUcURyTzJhYTZqdk0zZFNDM25leklXWFRPeG52Z0Q5ZE1ESkNHSXpwLU05SXdEMlFHWUZ4eTlhUGN6OFE?oc=5",
     "news_image": "",
     "news_source": "RFI",
-    "news_age": "74m ago",
+    "news_age": "76m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -16600,7 +16605,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.73,
+    "news_score": 0.72,
     "news_title": "The role of the government in India’s heat crisis - The World from PRX",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZk5LNERCQVh0UlFQU3JlTk1yYklFWE5WNm9kUU1JdUIycUhVZ2pCYmNXX1JXWkFGMUJLTUZBd1dBSVFIaTdxUF9NVDdfQ0U4dFBBd0FuQkl4Skl1ZkJGcFR6cVpjbnJCSzZ5b29NVkh4dkp2ZWVSb3Z6NS01SnVSYlNVa2FLMGRkR3ZzZkRCeTRkdw?oc=5",
     "news_image": "",
@@ -17163,14 +17168,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.61,
+    "news_score": 1.68,
     "news_title": "Live updates: US-Iran war news; Oil prices climb as Iran signals Strait of Hormuz will stay closed - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xcnRIaENDM0VobHdzWGIteUx1Y1pwYU42VUlVdzhMUDRvMGV3MWZ2cEppX0NnV29nSE5ZWTFWS3dGd0ZNYjByWldRM3VERU10ZFBaUnY5X2VmTDJ6ekgxNUV4RUJ2U3ZYemZhS0NB?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "92m ago",
+    "news_age": "94m ago",
     "news_columns": [
-      "oil"
+      "gas_price",
+      "energy_per_capita",
+      "co2",
+      "renew",
+      "exports",
+      "military_pct"
     ]
   },
   {
@@ -22492,12 +22502,12 @@
     "union_rate": 63.2,
     "union_rate_rank": null,
     "fifa_w_rank": 101,
-    "news_score": 0.79,
+    "news_score": 0.78,
     "news_title": "Outsiders Malawi beat Ghana to reach WAFCON semi-finals and World Cup - RFI",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUdSMG5fRFJSZ2lPUXRlT2tlLW12Njk5RnhTaXA5UmJ3YjVxd2JsbEs1eDBCNmFCSDNmRWViYmg4bTI3U1NJQWhUTXNwSmdQM1lQVmduSDNmM0JwT1prakgtdTZheEhJWlNneFF5REpUcURyTzJhYTZqdk0zZFNDM25leklXWFRPeG52Z0Q5ZE1ESkNHSXpwLU05SXdEMlFHWUZ4eTlhUGN6OFE?oc=5",
     "news_image": "",
     "news_source": "RFI",
-    "news_age": "74m ago",
+    "news_age": "76m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -24434,7 +24444,7 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.6,
     "news_title": "New Mexico’s Roadrunner Little League to play in Junior League World Series - KOB 4",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeW9GUnFmZUlFeVhaaUtDUU1XWHI5em0zX29rU2syN29TNjllZWdFRHlWR2RfVVo2Y3RLbkVianBJMy0zREcwQTM4b3JpMS0tNV9LUjJoeGN6LWJ3cDJuLWZhbXBzb29FdFhhYkxBNWdVcF94aXZuYTNLamxETnQyX0tRVXZ6T1hiMTZvNkxicnpZRkVGQjZ6WmotUV9mSDdZc0sxZDM5QXBGR0NBQUE?oc=5",
     "news_image": "",
@@ -29240,7 +29250,7 @@
     "refugees_rank": null,
     "union_rate": 70.4,
     "union_rate_rank": null,
-    "news_score": 0.38,
+    "news_score": 0.4,
     "news_title": "World in Brief: Iran says deal with Oman “very close”; earthquake rocks Colombia - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdnVsenV6dERVVF9CMFZDaVBBN0VGX0xNR0p2ZzJjMHVKaVgxZFdKNWlCMVZPQWQzbWhQOFlqRU1VU1VJTEpyOG1VdHRldHdsZWVua0c5WWtrdzd6elNqOExBdHlpSk1GMFR4VkFxekdGc29DM2VZLVN3b2V2eEJtWGNGcXdxc2p1dnRTQmdkbkNaZzE5ejFV?oc=5",
     "news_image": "",
@@ -32669,7 +32679,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.45,
+    "news_score": 0.44,
     "news_title": "Ukrainian drone attack on an oil hub deep inside Russia kills 13, officials say - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUNmLWxickRLU05ySXVrTTR6U2Q4aTVSZExPY3ZaZnhCR01UcUtUMzhMU1c5Q0YwNFFCc0ZRVWpLYWo0RWZHWkhRc3Y2d1lLdDhwbTFNSmRZcXJ0SHV1VUtVWmdxQUZOei1iS1dwNEk3dkhyVTJvSWZiSjl6MXU1X01nQTZjenBZWkdUYmU4eG4tdUk?oc=5",
     "news_image": "",
@@ -36222,12 +36232,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.46,
+    "news_score": 0.59,
     "news_title": "Total solar eclipse Aug. 12, 2026 live updates — 2 days to totality - Space",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHpkWFU3RW1tNldsVTBJWkdXM0ZkUG9MV0E1Wmc0el9iVFVkXzB1dzFRNVMwdFpOZURzUUpfdk9mdVFpV0MtcDl3RWRRelRVdDdkNWIzeFR4THdBWE14TUVnNFlIekE3LTVhdS15amI3alhWa3lVdWdITWswdDBKT1Y5cU41NTJ5X2VreXVXWVhwMTVWQnJWbmVuU251bzA?oc=5",
     "news_image": "",
     "news_source": "Space",
-    "news_age": "22m ago",
+    "news_age": "24m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -41965,12 +41975,9 @@
     "news_source": "United States Eventing Association (USEA)",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
       "mlb_ranking",
-      "mlb_w",
-      "oil",
-      "ai"
+      "fifa_ranking",
+      "fifa_w"
     ]
   },
   {
@@ -43171,7 +43178,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPczN2TFl6NHZ1OGNSd0xNVWFmM3JYLXZLZEhOeHh6TU1pVU1SMXh5MUlnZUJsbFNNRDlRRVozakVXS3RSUUhPUFlISURMc2FYbXBoWG1WNFBCQTdmclQtSVczd0RCM0ZheUdmeTFBOTJOU3lvYzVBU0pUdnNhX3Bhd1NJWEctX3V2YVZXSGxhSU9FNGpfUUEtT3kxTnBucHJPOGh6Q2RKdW5HV2xsUlJ0TW94bC1TYXlfd0NoREU2dkVlMU9kVWFsdGNaaw?oc=5",
     "news_image": "",
     "news_source": "vovworld.vn",
-    "news_age": "8h ago",
+    "news_age": "9h ago",
     "news_columns": [
       "edu",
       "literacy",
@@ -44304,7 +44311,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 1.21,
+    "news_score": 1.27,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
@@ -44320,7 +44327,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZS1dfeGcwRDVBQ3NDRlk3WmgzaC11Tjh0OXNBRjZPemU1cTQxNjVQRjBBZHBCSmo1VW5PeHZxYUVVd0FNdlp2UVBFWHplTTVPUUdUQzc2NUthazlMRTRnY0VZTk1vcFJEOEtleTNUMFJ4Y2VKaFE?oc=5",
     "news_image": "",
     "news_source": "Cambridge Day",
-    "news_age": "33m ago",
+    "news_age": "35m ago",
     "news_columns": [
       "car_density",
       "gas_price",
