@@ -2524,7 +2524,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.16,
+    "news_score": 0.15,
     "news_title": "Vietnam, Australia should be model partnership in science, technology, and innovation: Top leader - vovworld.vn",
     "news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPczN2TFl6NHZ1OGNSd0xNVWFmM3JYLXZLZEhOeHh6TU1pVU1SMXh5MUlnZUJsbFNNRDlRRVozakVXS3RSUUhPUFlISURMc2FYbXBoWG1WNFBCQTdmclQtSVczd0RCM0ZheUdmeTFBOTJOU3lvYzVBU0pUdnNhX3Bhd1NJWEctX3V2YVZXSGxhSU9FNGpfUUEtT3kxTnBucHJPOGh6Q2RKdW5HV2xsUlJ0TW94bC1TYXlfd0NoREU2dkVlMU9kVWFsdGNaaw?oc=5",
     "news_image": "",
@@ -6857,11 +6857,11 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.05,
-    "news_title": "Look West: Jobs and Prosperity for a Stronger BC and Canada - Province of British Columbia - gov.bc.ca",
+    "news_score": 0.03,
+    "news_title": "Look West: Jobs and Prosperity for a Stronger BC and Canada - Province of British Columbia - Government of British Columbia",
     "news_url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1sb3l0N0g2Tm15TDdBc1VvMkpkdWl4QjM3ZlRndHFGd0VFXzh1VVdpYU9HdGtWbk9nTFlSWlZKMA?oc=5",
     "news_image": "",
-    "news_source": "gov.bc.ca",
+    "news_source": "Government of British Columbia",
     "news_age": "299h ago",
     "news_columns": [
       "fifa_ranking",
@@ -8156,14 +8156,19 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 1.0,
+    "news_score": 0.99,
     "news_title": "Buildings collapse after magnitude-7.4 earthquake in Colombia - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QbG5ndEZ1enJXUjNYbjVjdldqRzNDR01UdW1tZzF3SEY3WHBVUm9pVjJsd0hqaWlYSVcyQlJkRzE2ZUlyckZTSDlLb2Flb1dXVHl0MA?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "70m ago",
+    "news_age": "72m ago",
     "news_columns": [
-      "olympic"
+      "earthquake_count",
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ]
   },
   {
@@ -12855,12 +12860,12 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.01,
-    "news_title": "India,France review expanding canvas of bilateral cooperation in science, technology & space | Akashvani News - News On AIR",
-    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTExHRzVKTC11ZHhmMUF6RmZrSWFqMVI0dHhYajQ0U1FTWlEzZ05jTjB2MmlvVEgtUDkzeDJiWG5ENERDTHBPR0g2MXdybUwyWEcyRDFadkp2VjBwRFUzV3kzMENmU3AyVGgwLTBrcDBSY0o4WTZjNmx5bVJyeWRidTcyU243UmdYNHc3WTNEZWNVcTdfOVRwRkhKREQ0dlFlRHFlV0tnSGxSUTRtc211MWlneXo?oc=5",
+    "news_score": 0.08,
+    "news_title": "UK and France prepare for another heat wave as western Europe sets new temperature record - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQWlXMklpT2cyRS16eEZiZFBpTElONGRxeDd3NXhRY1VfX0RPai16b0loVXhpdENxYzU1QVhaOHh6X2dNNDRmaHRNeTFGVnNyajAwaVFpQ042bjhDU3ZpQVhGaUNVWEVBYTlwZUh4YmVMT09BOXllMnIxU0RNVnlpTi1WcFNYSVRNX2hCbllBMlVldms?oc=5",
     "news_image": "",
-    "news_source": "News On AIR",
-    "news_age": "28h ago",
+    "news_source": "AP News",
+    "news_age": "5h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -14078,16 +14083,15 @@
     "union_rate": 60.4,
     "union_rate_rank": null,
     "fifa_w_rank": 50,
-    "news_score": 1.19,
+    "news_score": 1.15,
     "news_title": "Outsiders Malawi beat Ghana to reach WAFCON semi-finals and World Cup - RFI",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUdSMG5fRFJSZ2lPUXRlT2tlLW12Njk5RnhTaXA5UmJ3YjVxd2JsbEs1eDBCNmFCSDNmRWViYmg4bTI3U1NJQWhUTXNwSmdQM1lQVmduSDNmM0JwT1prakgtdTZheEhJWlNneFF5REpUcURyTzJhYTZqdk0zZFNDM25leklXWFRPeG52Z0Q5ZE1ESkNHSXpwLU05SXdEMlFHWUZ4eTlhUGN6OFE?oc=5",
     "news_image": "",
     "news_source": "RFI",
-    "news_age": "48m ago",
+    "news_age": "50m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ]
   },
   {
@@ -16600,7 +16604,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.83,
+    "news_score": 0.82,
     "news_title": "The role of the government in India’s heat crisis - The World from PRX",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZk5LNERCQVh0UlFQU3JlTk1yYklFWE5WNm9kUU1JdUIycUhVZ2pCYmNXX1JXWkFGMUJLTUZBd1dBSVFIaTdxUF9NVDdfQ0U4dFBBd0FuQkl4Skl1ZkJGcFR6cVpjbnJCSzZ5b29NVkh4dkp2ZWVSb3Z6NS01SnVSYlNVa2FLMGRkR3ZzZkRCeTRkdw?oc=5",
     "news_image": "",
@@ -17163,14 +17167,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.43,
-    "news_title": "Live updates: US-Iran war news; Oil prices climb as Iran signals Strait of Hormuz will stay closed - CNN",
-    "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xcnRIaENDM0VobHdzWGIteUx1Y1pwYU42VUlVdzhMUDRvMGV3MWZ2cEppX0NnV29nSE5ZWTFWS3dGd0ZNYjByWldRM3VERU10ZFBaUnY5X2VmTDJ6ekgxNUV4RUJ2U3ZYemZhS0NB?oc=5",
+    "news_score": 0.9,
+    "news_title": "Iran's economy is buckling after nearly 6 months of war. These 5 charts show the damage. - businessinsider.com",
+    "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVDM0ckRoZ0hUcjF3S011cVRid21RM0VVNHdpY24yejA1bjRyaU43dWluMzNZcnlvd0lLSGVKRUEtQ211S3drYmxlZDBjWTRsd1QtR2NyM2UwOXQ1NWFTTDJoMkdUQ2RLa1l4ZFJMOWF5VnVLMGExSDZSejZfTjZaZTRXNmxQajNLc0w3Nm02R01YWUlVc21oazU1cVRKU0NZX3RQWG1OanRxeEZ5WEhj?oc=5",
     "news_image": "",
-    "news_source": "CNN",
-    "news_age": "66m ago",
+    "news_source": "businessinsider.com",
+    "news_age": "3h ago",
     "news_columns": [
-      "olympic"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ]
   },
   {
@@ -17890,7 +17899,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.06,
+    "news_score": 0.04,
     "news_title": "Iran wages economic war in hopes of outlasting U.S. and Israel - washingtonpost.com",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2ZCVmJ4amt6UTBvQ05kcDBFWnNzb1N6QldHQ3RSWVZ0NUdzemNtaTJGaTlzM1N5dVR0djFiVV9XUGNSc1JCR2RnczNYeTUxMW5WZU5aMmJLMVVqcElmVHpibHdWMm9xOFlLWGlhY2NlQUV5cDVVcTRWZHJaNGxjaXVR?oc=5",
     "news_image": "",
@@ -19205,7 +19214,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.49,
+    "news_score": 0.48,
     "news_title": "Jordan Smith Jr. has a trait all great athletes possess - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZFd4T0FwZnJDSkhDZXNyZFdjRUpJVWdMeGp4b1VWSEl0Yms1ZHctMVhoUFN6VW56UGtMWGh0XzVfS2RJUDg1SzlFamdnRXVXdVh6NzNNd0pNYkdHbjNlMUhvQ0FBdWJOcFp3U3hUYWMzMHRBLW1XMVloOXA5djNlWE53?oc=5",
     "news_image": "",
@@ -22492,16 +22501,15 @@
     "union_rate": 63.2,
     "union_rate_rank": null,
     "fifa_w_rank": 101,
-    "news_score": 1.28,
+    "news_score": 1.22,
     "news_title": "Outsiders Malawi beat Ghana to reach WAFCON semi-finals and World Cup - RFI",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUdSMG5fRFJSZ2lPUXRlT2tlLW12Njk5RnhTaXA5UmJ3YjVxd2JsbEs1eDBCNmFCSDNmRWViYmg4bTI3U1NJQWhUTXNwSmdQM1lQVmduSDNmM0JwT1prakgtdTZheEhJWlNneFF5REpUcURyTzJhYTZqdk0zZFNDM25leklXWFRPeG52Z0Q5ZE1ESkNHSXpwLU05SXdEMlFHWUZ4eTlhUGN6OFE?oc=5",
     "news_image": "",
     "news_source": "RFI",
-    "news_age": "48m ago",
+    "news_age": "50m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ]
   },
   {
@@ -26899,7 +26907,7 @@
     "refugees_rank": null,
     "union_rate": 85.6,
     "union_rate_rank": null,
-    "news_score": 0.28,
+    "news_score": 0.27,
     "news_title": "Scotland, Netherlands criticise ICC's World Cup format changes - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWXpBNEJibkMybFk0aUxHRk8yRXdaNTR2ZGdNR25pTHN0dGMtU0Z6ekRtLTBGc1pWcEFSd05NT29QRUlwUWJsX1E0Tmx1d0RsNlVxNVVUX0tNUUpkdFlub01IcGFFcG1JazlDc1AzOWtPTmpoY3MzUFdyRkxwc1NnNFJJTVprS2s1ZXJWMUJma0kzSnkwQ01aTUhvRVdUYnFWY1lPWnRZcjlwTFhvXzlqUA?oc=5",
     "news_image": "",
@@ -32669,14 +32677,19 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.01,
+    "news_score": 0.78,
     "news_title": "Ukrainian drone strikes 750 miles inside Russia kill at least 13, authorities say - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdkVrQ2Q0MERpaVZuQWJZNXV2SEZPOElTdWVPRXRpMmNmSXQ1VDFyU2tNUDRjTjI5M3NiQ0hYQzVmRmhiVmJzVGlkTVgyWXA0VzFUR19BTFNQMmVIZkZ4ZVJCdF9JOGVpT0xocDZNdWNVRDh2QmcxZV9ReXNwZjlJVg?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "64m ago",
+    "news_age": "66m ago",
     "news_columns": [
-      "olympic"
+      "gas_price",
+      "energy_per_capita",
+      "co2",
+      "renew",
+      "exports",
+      "military_pct"
     ]
   },
   {
@@ -40701,14 +40714,19 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.08,
+    "news_score": 0.06,
     "news_title": "North Korea preparing to deploy another 50,000 soldiers to fight for Russia in Ukraine, Zelensky claims - The Independent",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSU52eDQ1a25rbklKdm1BUktqdzVLRWNtV21VRlhhUGxEclBvVmhpS3JYUXhNVVpBNElkbEZ3SHk5NTNrdHlBeWtjZ2pPc2VXTXdUZUx2ck9ES19JbGpkUXN1Y3ZKQ1VfVmZ1YUxjZDhzY2RiVnRSRzcwM0hOdG1QOWx2a2s2V3ppMmVIaGlnRy00ZFBGTlg3NU10eUo5NkhsVFF6RXlOOW9yakk4R2o0?oc=5",
     "news_image": "",
     "news_source": "The Independent",
     "news_age": "10h ago",
     "news_columns": [
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ]
   },
   {
@@ -41955,10 +41973,9 @@
     "news_source": "United States Eventing Association (USEA)",
     "news_age": "4h ago",
     "news_columns": [
+      "mlb_ranking",
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "fifa_w"
     ]
   },
   {
@@ -43154,7 +43171,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.21,
+    "news_score": 0.2,
     "news_title": "Vietnam, Australia should be model partnership in science, technology, and innovation: Top leader - vovworld.vn",
     "news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPczN2TFl6NHZ1OGNSd0xNVWFmM3JYLXZLZEhOeHh6TU1pVU1SMXh5MUlnZUJsbFNNRDlRRVozakVXS3RSUUhPUFlISURMc2FYbXBoWG1WNFBCQTdmclQtSVczd0RCM0ZheUdmeTFBOTJOU3lvYzVBU0pUdnNhX3Bhd1NJWEctX3V2YVZXSGxhSU9FNGpfUUEtT3kxTnBucHJPOGh6Q2RKdW5HV2xsUlJ0TW94bC1TYXlfd0NoREU2dkVlMU9kVWFsdGNaaw?oc=5",
     "news_image": "",
@@ -44292,7 +44309,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 0.36,
+    "news_score": 0.53,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
@@ -44304,18 +44321,18 @@
     "lat": 64,
     "g7_member": 0,
     "population": 1,
-    "news_title": "Brad Pitt Says He’s Drinking Again After 7 Years of Sobriety - The Hollywood Reporter",
-    "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUlcybE0xLTFmQ1dlTGxpOGxraWVva0ZLMkhPR3BuV3hHX1FVQTVPVlBCMFZ1X1BESmVRSERuUF8zOHVPeEtteFU2a3QxLWpvb21tZUxIOFJEcDNObTdJQWhyYzFad3BuRFBBVWF3bkgxUFFxQjhXYVpidGRZc2V2alpQRkhNQQ?oc=5",
+    "news_title": "Buildings collapse after magnitude-7.4 earthquake in Colombia - BBC",
+    "news_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QbG5ndEZ1enJXUjNYbjVjdldqRzNDR01UdW1tZzF3SEY3WHBVUm9pVjJsd0hqaWlYSVcyQlJkRzE2ZUlyckZTSDlLb2Flb1dXVHl0MA?oc=5",
     "news_image": "",
-    "news_source": "The Hollywood Reporter",
-    "news_age": "4h ago",
+    "news_source": "BBC",
+    "news_age": "72m ago",
     "news_columns": [
-      "alcohol",
-      "beer",
-      "wine",
-      "health",
-      "ai_research",
-      "internet_pct"
+      "earthquake_count",
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ]
   },
   {
