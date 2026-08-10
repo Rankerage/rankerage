@@ -1908,17 +1908,16 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.0,
-    "news_title": "Jorge Messi, father of soccer legend Lionel Messi, dies at age 68 - NBC News",
-    "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVzRaTlM4aG9HZDhNNUFCTjI0d2tsNC1pbGctcnUycVp3R0huWlBkOWp1SDQ4TFE1TVlkaldIU0I0ejBqYWREdXYwc2ZVQnFCcU1DYUtCYURMUTdVMXZXSkNJN2NLU1FYTzRKVVR1b0RxSmtJeS1yNEkyNVJpZ3dFeWQ3WHhKcTg3S2VJNXdFOFMxVDhuVWVjNkhYLXA3ekNHUWc?oc=5",
+    "news_score": 0.43,
+    "news_title": "Call-up boosts Oregon's Giselle White ahead of Argentina's U20 World Cup camp - KMTR",
+    "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUFlFcms4QkducnhXLThNTlZIekRQS2JMLXBfLTJIVEpyM2I5cWtsbDkwTGQtLU5zUlpxeVVwSkpoUm5CVjgtWlVHdHF3Tkx6NUVOSjRhYTlDUWZzaVBZb0RBV18tOEY4NVp2bU55UEswdGF5NWNMRFlyaHBfVHJmRzQybjc1VGxfUm4zOC1paXYydW14cWhhUGk4ZUh0UmgxX2ctNkhseUZnZw?oc=5",
     "news_image": "",
-    "news_source": "NBC News",
-    "news_age": "9h ago",
+    "news_source": "KMTR",
+    "news_age": "3m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ]
   },
   {
@@ -2831,7 +2830,7 @@
     "refugees_rank": null,
     "union_rate": 77.9,
     "union_rate_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.41,
     "news_title": "Austria breaks up sanctions-evasion scheme supplying Russian arms industry - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQemhDNHRGckVHU3hGazZNNld4QTVOcjd0SUVzUTdrRHZkQXUtcUZmOC1DQkRhX2VMV3BuZExJSl9xZXM1YVVObjk4Z3RZeTBnNnhrWkQtZzdRSkFtM2hCZl9NUFpVemlTbThiUzRURmV4UURfOTlpN0Z2QTdodEJQR1pBWVJzNl90eEt5TUR5VWRSZy10TWtFVmo1Y1kzTGRQd3BKaEVkckJEampOMFdjVi1tN3ZvMlk5WHdKdTdSeVhzSnpZYUpudG9wWDAxVEVfSFhJ?oc=5",
     "news_image": "",
@@ -6857,7 +6856,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.15,
+    "news_score": 0.14,
     "news_title": "Look West: Jobs and Prosperity for a Stronger BC and Canada - Province of British Columbia - Government of British Columbia",
     "news_url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1sb3l0N0g2Tm15TDdBc1VvMkpkdWl4QjM3ZlRndHFGd0VFXzh1VVdpYU9HdGtWbk9nTFlSWlZKMA?oc=5",
     "news_image": "",
@@ -6865,7 +6864,8 @@
     "news_age": "300h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ]
   },
   {
@@ -8155,12 +8155,12 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 1.55,
+    "news_score": 1.42,
     "news_title": "At least 111 killed after powerful earthquake hits western Colombia - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQm11YVZfbDU1RnZ6SmtvZUJDX3JZT0JpajE4MkV2TzZsRVZhRW05X1JjUnU3a093elpuM1pIdjdKa2dhSkdLY1FtYWhkd3FBSGNLcHloc0d2ck9ESmtNOG5PRDlCQkVKLTlOMEpwbl9adkozZmppWFVvbUIxV3d6WDk5WE5VcDgwazIzajlaQlZtdXA5YVE?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "40m ago",
+    "news_age": "42m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -14082,17 +14082,16 @@
     "union_rate": 60.4,
     "union_rate_rank": null,
     "fifa_w_rank": 50,
-    "news_score": 0.7,
+    "news_score": 1.0,
     "news_title": "Outsiders Malawi beat Ghana to reach WAFCON semi-finals and World Cup - RFI",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUdSMG5fRFJSZ2lPUXRlT2tlLW12Njk5RnhTaXA5UmJ3YjVxd2JsbEs1eDBCNmFCSDNmRWViYmg4bTI3U1NJQWhUTXNwSmdQM1lQVmduSDNmM0JwT1prakgtdTZheEhJWlNneFF5REpUcURyTzJhYTZqdk0zZFNDM25leklXWFRPeG52Z0Q5ZE1ESkNHSXpwLU05SXdEMlFHWUZ4eTlhUGN6OFE?oc=5",
     "news_image": "",
     "news_source": "RFI",
-    "news_age": "86m ago",
+    "news_age": "88m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ]
   },
   {
@@ -16605,7 +16604,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.69,
+    "news_score": 0.68,
     "news_title": "The role of the government in India’s heat crisis - The World from PRX",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZk5LNERCQVh0UlFQU3JlTk1yYklFWE5WNm9kUU1JdUIycUhVZ2pCYmNXX1JXWkFGMUJLTUZBd1dBSVFIaTdxUF9NVDdfQ0U4dFBBd0FuQkl4Skl1ZkJGcFR6cVpjbnJCSzZ5b29NVkh4dkp2ZWVSb3Z6NS01SnVSYlNVa2FLMGRkR3ZzZkRCeTRkdw?oc=5",
     "news_image": "",
@@ -17168,12 +17167,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.7,
+    "news_score": 1.49,
     "news_title": "Live updates: US-Iran war news; Oil prices climb as Iran signals Strait of Hormuz will stay closed - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xcnRIaENDM0VobHdzWGIteUx1Y1pwYU42VUlVdzhMUDRvMGV3MWZ2cEppX0NnV29nSE5ZWTFWS3dGd0ZNYjByWldRM3VERU10ZFBaUnY5X2VmTDJ6ekgxNUV4RUJ2U3ZYemZhS0NB?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "54m ago",
+    "news_age": "56m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -19215,7 +19214,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.41,
+    "news_score": 0.4,
     "news_title": "Jordan Smith Jr. has a trait all great athletes possess - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZFd4T0FwZnJDSkhDZXNyZFdjRUpJVWdMeGp4b1VWSEl0Yms1ZHctMVhoUFN6VW56UGtMWGh0XzVfS2RJUDg1SzlFamdnRXVXdVh6NzNNd0pNYkdHbjNlMUhvQ0FBdWJOcFp3U3hUYWMzMHRBLW1XMVloOXA5djNlWE53?oc=5",
     "news_image": "",
@@ -22502,12 +22501,12 @@
     "union_rate": 63.2,
     "union_rate_rank": null,
     "fifa_w_rank": 101,
-    "news_score": 0.75,
+    "news_score": 0.74,
     "news_title": "Outsiders Malawi beat Ghana to reach WAFCON semi-finals and World Cup - RFI",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUdSMG5fRFJSZ2lPUXRlT2tlLW12Njk5RnhTaXA5UmJ3YjVxd2JsbEs1eDBCNmFCSDNmRWViYmg4bTI3U1NJQWhUTXNwSmdQM1lQVmduSDNmM0JwT1prakgtdTZheEhJWlNneFF5REpUcURyTzJhYTZqdk0zZFNDM25leklXWFRPeG52Z0Q5ZE1ESkNHSXpwLU05SXdEMlFHWUZ4eTlhUGN6OFE?oc=5",
     "news_image": "",
     "news_source": "RFI",
-    "news_age": "86m ago",
+    "news_age": "88m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -24444,7 +24443,7 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.41,
+    "news_score": 0.58,
     "news_title": "New Mexico’s Roadrunner Little League to play in Junior League World Series - KOB 4",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeW9GUnFmZUlFeVhaaUtDUU1XWHI5em0zX29rU2syN29TNjllZWdFRHlWR2RfVVo2Y3RLbkVianBJMy0zREcwQTM4b3JpMS0tNV9LUjJoeGN6LWJ3cDJuLWZhbXBzb29FdFhhYkxBNWdVcF94aXZuYTNLamxETnQyX0tRVXZ6T1hiMTZvNkxicnpZRkVGQjZ6WmotUV9mSDdZc0sxZDM5QXBGR0NBQUE?oc=5",
     "news_image": "",
@@ -24452,7 +24451,8 @@
     "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ]
   },
   {
@@ -25564,10 +25564,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket",
-      "gender",
-      "gender_gap"
+      "olympic"
     ]
   },
   {
@@ -32679,7 +32676,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.41,
     "news_title": "Ukrainian drone attack on an oil hub deep inside Russia kills 13, officials say - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUNmLWxickRLU05ySXVrTTR6U2Q4aTVSZExPY3ZaZnhCR01UcUtUMzhMU1c5Q0YwNFFCc0ZRVWpLYWo0RWZHWkhRc3Y2d1lLdDhwbTFNSmRZcXJ0SHV1VUtVWmdxQUZOei1iS1dwNEk3dkhyVTJvSWZiSjl6MXU1X01nQTZjenBZWkdUYmU4eG4tdUk?oc=5",
     "news_image": "",
@@ -35181,7 +35178,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQlo3S3N4NDZfS1c1SE9ucmZEekxlUzRGRTdQYkRLMDUtbUlKRElLb2tiallHaEdvUnFjNExnV1JLc1k1am5YNDJiaWJFalJtbG0wSDFmeEpSU0J0MlYwX3hYUmg3SDVlYXVqeGRfcC1Xb1hiSDQzY0N3emJNUFBCQnlPOUtRVF9zVGVyWGNoU09VQ2JnWm5fNGdVQzN6ZUJsZzJxakZkaWhyQQ?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "9h ago",
+    "news_age": "10h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -36232,15 +36229,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.16,
+    "news_score": 0.84,
     "news_title": "Total solar eclipse Aug. 12, 2026 live updates — 2 days to totality - Space",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHpkWFU3RW1tNldsVTBJWkdXM0ZkUG9MV0E1Wmc0el9iVFVkXzB1dzFRNVMwdFpOZURzUUpfdk9mdVFpV0MtcDl3RWRRelRVdDdkNWIzeFR4THdBWE14TUVnNFlIekE3LTVhdS15amI3alhWa3lVdWdITWswdDBKT1Y5cU41NTJ5X2VreXVXWVhwMTVWQnJWbmVuU251bzA?oc=5",
     "news_image": "",
     "news_source": "Space",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
+      "ai_research",
+      "internet_pct"
     ]
   },
   {
@@ -41972,7 +41973,10 @@
     "news_age": "4h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "nfl",
+      "mlb"
     ]
   },
   {
@@ -44306,7 +44310,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 1.36,
+    "news_score": 1.35,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
@@ -44322,7 +44326,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZS1dfeGcwRDVBQ3NDRlk3WmgzaC11Tjh0OXNBRjZPemU1cTQxNjVQRjBBZHBCSmo1VW5PeHZxYUVVd0FNdlp2UVBFWHplTTVPUUdUQzc2NUthazlMRTRnY0VZTk1vcFJEOEtleTNUMFJ4Y2VKaFE?oc=5",
     "news_image": "",
     "news_source": "Cambridge Day",
-    "news_age": "45m ago",
+    "news_age": "47m ago",
     "news_columns": [
       "car_density",
       "gas_price",
