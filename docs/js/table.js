@@ -243,7 +243,7 @@
     function E(field,w){return{title:t('election'),field:field,width:w,
       sorter:function(a,b,aRow,bRow,col,dir){var da=aRow.getData().election_date,db=bRow.getData().election_date;if(!da&&!db)return 0;if(!da)return 1;if(!db)return -1;return da.localeCompare(db);},
       headerTooltip:function(){return descTip(field,t('election'));},
-      formatter:function(c){var d=c.getRow().getData(),dt=d.election_date;if(!dt)return'<span style="color:#545d7a;">—</span>';var p=dt.split('-'),s=p[1]+'/'+p[2];var title=d.election_title||'';var name=d.country_name_en||'';var q=encodeURIComponent(name.replace(/\*+/g,'')+' election polls prediction');var url='https://news.google.com/search?q='+q;var style='cursor:pointer;color:#e0c87c;font-weight:700;font-size:12px;';if(title)style+='text-decoration:underline dotted;';return'<span onclick="window.open(\''+esc(url)+'\',\'_blank\')" style="'+style+'" title="'+esc(title||name)+'">'+s+'</span>';}};}
+      formatter:function(c){var d=c.getRow().getData(),dt=d.election_date;if(!dt)return'<span style="color:#545d7a;">—</span>';var p=dt.split('-'),s=p[1]+'/'+p[2];var title=d.election_title||'';var name=d.country_name_en||'';var style='cursor:pointer;color:#e0c87c;font-weight:700;font-size:12px;';if(title)style+='text-decoration:underline dotted;';var onclick='window.__showElection(\"'+esc(name)+'\",\"'+esc(title)+'\")';return'<span onclick=\"'+onclick+'\" style=\"'+style+'\" title=\"'+esc(title||name)+'\">'+s+'</span>';}};}
 
     // Special formatters for non-standard value types
     cols.forEach(function(col){
@@ -1096,6 +1096,36 @@
       
       // rotation pause
       pauseRotation();
+    };
+
+    // ── Election click → 모달 + AI 요약 ──
+    window.__showElection = function(name, title) {
+      var modal = document.getElementById('electionModal');
+      var titleEl = document.getElementById('electionModalTitle');
+      var bodyEl = document.getElementById('electionModalBody');
+      var linksEl = document.getElementById('electionModalLinks');
+      titleEl.textContent = '🗳 ' + name.replace(/\*+/g,'');
+      bodyEl.innerHTML = '<div style="text-align:center;padding:20px;color:#545d7a;">⏳ AI가 최신 뉴스를 검색 중...</div>';
+      linksEl.innerHTML = '';
+      modal.style.display = 'flex';
+      // Worker API 호출
+      fetch('https://rankerage-ai-search.your-worker.workers.dev', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({action:'election', country: name.replace(/\*+/g,''), title: title})
+      }).then(function(r){return r.json()}).then(function(d){
+        var s = (d.summary||'뉴스를 가져오지 못했어요.').replace(/\n/g,'<br>');
+        bodyEl.innerHTML = s;
+        if (d.links && d.links.length) {
+          var lh = '<div style="margin-top:8px;border-top:1px solid rgba(255,255,255,0.06);padding-top:8px;">';
+          lh += '<div style="color:#545d7a;font-size:10px;margin-bottom:4px;">📰 관련 뉴스</div>';
+          d.links.forEach(function(l){ lh += '<div><a href="'+esc(l.url)+'" target="_blank" style="color:#5b8def;font-size:11px;">'+esc(l.title)+'</a></div>'; });
+          lh += '</div>';
+          linksEl.innerHTML = lh;
+        }
+      }).catch(function(){
+        bodyEl.innerHTML = '죄송합니다. 뉴스를 가져오지 못했어요.<br><br><a href="https://news.google.com/search?q='+encodeURIComponent(name.replace(/\*+/g,'')+' election')+'" target="_blank" style="color:#5b8def;">Google News에서 보기 →</a>';
+      });
     };
 
     // Anthem modal - open via event delegation

@@ -126,7 +126,19 @@
         <span style="margin:0 10px;">© 2026 Rankerage.com</span>
     </div>
 
-    <!-- AdSense Fallback: show placeholder text when ads don't load -->
+    <!-- Election News Modal -->
+    <div id="electionModal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.7);z-index:9999;justify-content:center;align-items:center;">
+      <div style="background:#0f1322;border:1px solid #e0c87c;border-radius:12px;padding:20px 24px;max-width:500px;width:90%;max-height:80vh;overflow-y:auto;box-shadow:0 0 40px rgba(224,200,124,0.2);">
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;">
+          <span id="electionModalTitle" style="color:#e0c87c;font-weight:700;font-size:15px;"></span>
+          <span onclick="document.getElementById('electionModal').style.display='none'" style="color:#545d7a;cursor:pointer;font-size:20px;">✕</span>
+        </div>
+        <div id="electionModalBody" style="color:#b0b8d0;font-size:12px;line-height:1.7;"></div>
+        <div id="electionModalLinks" style="margin-top:12px;"></div>
+      </div>
+    </div>
+
+    <!-- AdSense Fallback -->
     <script>
     setTimeout(function(){
         document.querySelectorAll('ins.adsbygoogle').forEach(function(ins){
