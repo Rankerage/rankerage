@@ -220,7 +220,8 @@
       "unemp",
       "exports",
       "imports"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇦🇱",
@@ -414,7 +415,8 @@
       "murder",
       "prison",
       "police"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇩🇿",
@@ -605,7 +607,8 @@
       "basket",
       "gender",
       "gender_gap"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇦🇸",
@@ -774,7 +777,8 @@
     "news_title": "World Cup winner odds put France as clear favorite ahead of Spain, England, Argentina - The Athletic - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMVFKdGJsUDcyV0hMSmUxOS14cXlGN2Y2Umo0YnJTNmQzU3pkVU10YmpYd19hNHVUMnUyNEFYdHRuT3d3Q3AxS3JhQkVqZFp0WDM0T1J3c1FFaF82ZC1fa0JIc3lEYUZuWnY3a2ZVb2pJOGtHR1lzUXhNUzN5OU9yUlQzZU9aY09kN1FNVEVYM2sxMElKQ0E?oc=5",
     "news_image": "",
-    "news_source": "The New York Times"
+    "news_source": "The New York Times",
+    "bottom50_wealth": null
   },
   {
     "flag": "🇦🇩",
@@ -946,7 +950,8 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 137,
     "fifa_w_rank": 115,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇦🇴",
@@ -1129,7 +1134,8 @@
       "car_density",
       "gas_price",
       "co2"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇦🇮",
@@ -1300,7 +1306,8 @@
     "news_title": "11th Forum on Science, Technology and Innovation for the Sustainable Development Goals, “Building Government AI Capacity: Insights from the City, National and Regional Perspectives - UNU | United Nations University",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMU4xUEdWNHBiY2xKMm1XTGVoREdWYm5hUXlHTUdBY25VaF9UM2ZDYUVIRDc0ZmMyZFJ1VmFwcmpPS3ZfdWdVdWYtX2JZU05fd0NQLVZrVmZabWFlV2VUV1JNYzFiUGdHZENBNGhwdFZ5a2lDU3MwUGFHUmVpcUk5bHh4LXpER0pNLV9YOWpmcEx1NjZGVHhkcFJDUC1wUmVYUEMtMWFlSFhqYlhfMkE?oc=5",
     "news_image": "",
-    "news_source": "UNU | United Nations University"
+    "news_source": "UNU | United Nations University",
+    "bottom50_wealth": null
   },
   {
     "flag": "🇦🇶",
@@ -1475,7 +1482,8 @@
       "car_density",
       "gas_price",
       "co2"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇦🇬",
@@ -1647,7 +1655,8 @@
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT0dLaDVVR1NTRGRXa0ZOSEMyTlVidDRRc0I0c0dyQkRWekZoZHp3S3BQQk9HWktrNk5ONzVIc1M4dU9RVFhIVGZCZlJpbTFiOEw2VlRjZVdyV1dTVEE2bFQ5TjVwZGRwZXFIVkhRSncyVGxHVmZIRm5YVm5KMkR5Q2NmY3ZHTzl3SDhr?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "71m ago"
+    "news_age": "71m ago",
+    "bottom50_wealth": null
   },
   {
     "flag": "🇦🇷",
@@ -1919,7 +1928,8 @@
       "fifa_w",
       "olympic",
       "basket"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇦🇲",
@@ -2095,7 +2105,8 @@
     "union_rate": 70.8,
     "union_rate_rank": null,
     "fifa_w_rank": 98,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇦🇺",
@@ -2532,7 +2543,9 @@
     "news_age": "13h ago",
     "news_columns": [
       "olympic"
-    ]
+    ],
+    "bottom50_wealth": 5.0,
+    "bottom50_wealth_rank": 9
   },
   {
     "flag": "🇦🇹",
@@ -2831,7 +2844,7 @@
     "refugees_rank": null,
     "union_rate": 77.9,
     "union_rate_rank": null,
-    "news_score": 0.07,
+    "news_score": 0.0,
     "news_title": "Austria breaks up sanctions-evasion scheme supplying Russian arms industry - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQemhDNHRGckVHU3hGazZNNld4QTVOcjd0SUVzUTdrRHZkQXUtcUZmOC1DQkRhX2VMV3BuZExJSl9xZXM1YVVObjk4Z3RZeTBnNnhrWkQtZzdRSkFtM2hCZl9NUFpVemlTbThiUzRURmV4UURfOTlpN0Z2QTdodEJQR1pBWVJzNl90eEt5TUR5VWRSZy10TWtFVmo1Y1kzTGRQd3BKaEVkckJEampOMFdjVi1tN3ZvMlk5WHdKdTdSeVhzSnpZYUpudG9wWDAxVEVfSFhJ?oc=5",
     "news_image": "",
@@ -2844,7 +2857,9 @@
       "military_pct",
       "nuclear",
       "military_personnel"
-    ]
+    ],
+    "bottom50_wealth": 2.3,
+    "bottom50_wealth_rank": 23
   },
   {
     "flag": "🇧🇭",
@@ -3035,7 +3050,8 @@
       "unemp",
       "exports",
       "imports"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇧🇩",
@@ -3298,7 +3314,8 @@
       "patents",
       "rd",
       "startups"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇧🇧",
@@ -3478,7 +3495,8 @@
       "car_density",
       "gas_price",
       "co2"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇧🇪",
@@ -3798,7 +3816,9 @@
       "unemp",
       "exports",
       "imports"
-    ]
+    ],
+    "bottom50_wealth": 3.1,
+    "bottom50_wealth_rank": 18
   },
   {
     "flag": "🇧🇯",
@@ -3973,7 +3993,8 @@
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWE4MEo1OUlJSG9NeklYeVc1UEpqajJKc2toRHlEQW5UQ2d4YWZXbDVmZWlOa3hHMG1BUUItbzBVcGMzR21QZWR4YWJNMWFBRDR1NUplOFozSWs1dG9HZEtub1hRRTRMYm1wR01BQ2U4UTZaVDF4WkFnSWFHZzZEUGhpYkZOeHNHRklNR181amdIWjlucVdTd1VfbjlMWmZsQk5lMkxn?oc=5",
     "news_image": "",
     "news_source": "Oceanographic Magazine",
-    "news_age": "25h ago"
+    "news_age": "25h ago",
+    "bottom50_wealth": null
   },
   {
     "flag": "🇧🇹",
@@ -4141,7 +4162,8 @@
     "refugees_rank": null,
     "union_rate": 67.7,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇧🇴",
@@ -4317,7 +4339,8 @@
     "union_rate": 80.5,
     "union_rate_rank": null,
     "fifa_w_rank": 78,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇧🇦",
@@ -4502,7 +4525,8 @@
       "fifa_w",
       "olympic",
       "basket"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇧🇼",
@@ -4683,7 +4707,8 @@
       "unemp",
       "exports",
       "imports"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇧🇷",
@@ -5097,7 +5122,9 @@
       "fifa_ranking",
       "fifa_w",
       "olympic"
-    ]
+    ],
+    "bottom50_wealth": 2.1,
+    "bottom50_wealth_rank": 24
   },
   {
     "flag": "🇧🇳",
@@ -5264,7 +5291,8 @@
     "refugees_rank": null,
     "union_rate": 69.6,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇧🇬",
@@ -5515,7 +5543,8 @@
       "gpi",
       "arms_export",
       "ai_research"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇧🇫",
@@ -5699,7 +5728,8 @@
     "union_rate": 71.2,
     "union_rate_rank": null,
     "fifa_w_rank": 82,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇧🇮",
@@ -5875,7 +5905,8 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 120,
     "fifa_w_rank": 114,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇨🇻",
@@ -6056,7 +6087,8 @@
       "basket",
       "olympic_gold",
       "olympic_per_cap"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇰🇭",
@@ -6242,7 +6274,8 @@
     "news_columns": [
       "olympic",
       "fifa_ranking"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇨🇲",
@@ -6438,7 +6471,8 @@
       "fifa_w",
       "olympic",
       "basket"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇨🇦",
@@ -6866,7 +6900,9 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
-    ]
+    ],
+    "bottom50_wealth": 4.2,
+    "bottom50_wealth_rank": 12
   },
   {
     "flag": "🇨🇫",
@@ -7044,7 +7080,8 @@
     "refugees_rank": null,
     "union_rate": 73.6,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇹🇩",
@@ -7234,7 +7271,8 @@
       "rd",
       "startups",
       "murder"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇨🇱",
@@ -7483,7 +7521,8 @@
       "fifa_w",
       "olympic",
       "basket"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇨🇳",
@@ -7913,7 +7952,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.03,
     "news_title": "Translators’ Voices: China's pursuit of strength and self-reliance in science and technology presents an inspiring path - Global Times",
     "news_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Hd2VWY1NXSk0tQ2xUd3BNTGppX1hnVzlubHh5Q05pU0ZwQXpENDdSREpQUFZsT2hIam8zVTA0M3AwdVJpZmRsbkVQS2VrRWZkNGhFRXdGeE55SzhQZXlIUVRR?oc=5",
     "news_image": "",
@@ -7924,7 +7963,9 @@
       "gay_marriage",
       "gender",
       "democracy"
-    ]
+    ],
+    "bottom50_wealth": 6.4,
+    "bottom50_wealth_rank": 2
   },
   {
     "flag": "🇨🇴",
@@ -8155,12 +8196,12 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 1.65,
+    "news_score": 1.59,
     "news_title": "Live updates: At least 111 dead following 7.4 magnitude earthquake in Colombia - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2E0OE5yZGJtT1ItYXF5SU9URXp2SzRFcWFIR0tvUmFFei1jcVFxUG4yVTZCb0F3N1hVZXMtalpjUEc0RmhNblhIN0F1ZXhJTHI1b3YyNnFmZE84T0FpWkdjdUVKWEVQb09MV0p2VllfYTJsVGpCMnk3WV9xdHM2dnJBWlc3ZExLSmp5SnlVUQ?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "6m ago",
+    "news_age": "8m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -8168,7 +8209,8 @@
       "cyclone_freq",
       "flood_risk",
       "wildfire_freq"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇰🇲",
@@ -8337,7 +8379,8 @@
     "union_rate": 57.4,
     "union_rate_rank": null,
     "fifa_w_rank": 117,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇨🇷",
@@ -8533,7 +8576,8 @@
     "news_columns": [
       "coffee",
       "tea_consume"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇭🇷",
@@ -8783,7 +8827,8 @@
       "fifa_w",
       "olympic",
       "basket"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇨🇺",
@@ -8975,7 +9020,8 @@
       "gdp_per_capita",
       "stock_market",
       "reserves"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇨🇾",
@@ -9167,7 +9213,8 @@
       "gpi",
       "arms_export",
       "ai_research"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇨🇿",
@@ -9451,7 +9498,8 @@
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTVZ1ZzNrWG4zaXNzdXBKYURaOXVCMmhtUFpQa3NwbG5uY3duWjZJbTc0UVlvY0RtR1V2NlMwRW1scF94WHdXSERlanUyTEpsUXdmeHZLS19yRG9KdTF0NU1TdUNESlhXd0J4ajRDSDRqQjBqQkxCZ0d0bXZucWRvUlptbGpPM00?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "40m ago"
+    "news_age": "40m ago",
+    "bottom50_wealth": null
   },
   {
     "flag": "🇨🇩",
@@ -9659,7 +9707,8 @@
       "beds",
       "vaccination",
       "infant_mortality"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇩🇰",
@@ -10012,7 +10061,9 @@
       "military_personnel",
       "gpi",
       "arms_export"
-    ]
+    ],
+    "bottom50_wealth": 1.9,
+    "bottom50_wealth_rank": 26
   },
   {
     "flag": "🇩🇯",
@@ -10180,7 +10231,8 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 143,
     "fifa_w_rank": 124,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇩🇴",
@@ -10365,7 +10417,8 @@
       "patents",
       "rd",
       "startups"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇪🇨",
@@ -10559,7 +10612,8 @@
       "cyclone_freq",
       "flood_risk",
       "wildfire_freq"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇪🇬",
@@ -10819,7 +10873,8 @@
       "renew",
       "exports",
       "ai_research"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇸🇻",
@@ -11015,7 +11070,8 @@
       "cyclone_freq",
       "flood_risk",
       "wildfire_freq"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇬🇶",
@@ -11184,7 +11240,8 @@
     "news_title": "Where did Erling Haaland get that raccoon holding a bottle of booze? - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOEJZcGZVc1JPdDcwT0FhaU1pSVlCeEpYQUJqY0Z6d0dybjUta0UxVjFvNVIxTy1PNjZ1ZmxxRGRUOTNZcUxqdUExRUtpSlh5UkVrTTZDS3luTHhlaGl6Z042Z3FhV1F3amhlZnpqOXB3ZTBKemhLV1RWZ2RJTUFxMHhqQk1CZjFnZ2IzQ3dPZElQS2pHWjNhckJTSzJTZjFEeTlQYlFZOFpDaVh3R01ZN1pR?oc=5",
     "news_image": "",
-    "news_source": "The Washington Post"
+    "news_source": "The Washington Post",
+    "bottom50_wealth": null
   },
   {
     "flag": "🇪🇷",
@@ -11358,7 +11415,8 @@
     "union_rate": 80.9,
     "union_rate_rank": null,
     "fifa_ranking_rank": 140,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇪🇪",
@@ -11598,7 +11656,8 @@
     "news_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNEZLNDJMQlRXYzZ6NnJPOTFyNy04d1NkZkFIVzBucWQtYXZLTDZmRnNYZUQ4ZE83SllwS1hOV0praWg3TG5UZm9zdWJGRm9Cand3N01lTnhoZkVxakJWQmRhOTNxemJ3SE9wOW5qWmlOWFJUbUpBeXpzV3l0cnhLMkRtbThZd25ET3RySDJBNllzNU5SYmVLcTZza0ptSkVlM3k3eG5oSlhxZmxwaUVLaEVTZlgtOWRhUW1iMy00X0ZlWWpIQjdOMnRabmpXUjFIN1R5UEVIa9IB3AFBVV95cUxQOW05dGRkaG84SEhfcWY4eWIyZGFKS2o4LW5NSWhTd2JRRVJYYmduai0yS0N0Z1YyMUJuMlQwcFRNcUsxeHEzYUdlWmZvOFI0ajNIZkFhLWlPUUFyVi02ZzZpYjlEZkN4UkN6UU9mejRmOHJ2cHNwWjhWUU9zNEwyYVZYQzQwT1VsSzdkdjJRMlhvcWtENG1WSklDT1lWSHB2X1h5OWxuRkFObEQ0U01LelJrQS1sVmFXcVdfVmdERU9pbTdLenkyUWFVcldwcXhSZVRyMTNlOVJwTHRX?oc=5",
     "news_image": "",
     "news_source": "Business Standard",
-    "news_age": "18h ago"
+    "news_age": "18h ago",
+    "bottom50_wealth": null
   },
   {
     "flag": "🇪🇹",
@@ -11837,7 +11896,8 @@
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1SWhqdWNLMW1JVDA0RElUZEFjNXRCeXVXTFVoTHQ4eUtTU0V3Q3NlMlRsN3huemxCZ1BhNE9YVVppQ2dsU0tiT0lnTTBGODVzdHFRLTkyU1ZzQQ?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "4h ago"
+    "news_age": "4h ago",
+    "bottom50_wealth": null
   },
   {
     "flag": "🇫🇯",
@@ -12018,7 +12078,8 @@
       "patents",
       "rd",
       "startups"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇫🇮",
@@ -12368,7 +12429,9 @@
       "rd",
       "startups",
       "car_density"
-    ]
+    ],
+    "bottom50_wealth": 4.2,
+    "bottom50_wealth_rank": 13
   },
   {
     "flag": "🇫🇷",
@@ -12872,7 +12935,9 @@
       "rd",
       "startups",
       "space_launch"
-    ]
+    ],
+    "bottom50_wealth": 3.8,
+    "bottom50_wealth_rank": 14
   },
   {
     "flag": "🇬🇦",
@@ -13040,7 +13105,8 @@
     "union_rate": 53.1,
     "union_rate_rank": null,
     "fifa_w_rank": 99,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇬🇲",
@@ -13207,7 +13273,8 @@
     "refugees_rank": null,
     "union_rate": 48.7,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇬🇪",
@@ -13396,7 +13463,8 @@
       "pisa_science",
       "pisa_reading",
       "phd_per_cap"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇩🇪",
@@ -13899,7 +13967,9 @@
       "car_density",
       "gas_price",
       "co2"
-    ]
+    ],
+    "bottom50_wealth": 2.5,
+    "bottom50_wealth_rank": 21
   },
   {
     "flag": "🇬🇭",
@@ -14095,7 +14165,8 @@
       "fifa_w",
       "olympic",
       "basket"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇬🇷",
@@ -14356,11 +14427,13 @@
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZXBtRklxVTFJcVlaSDRVR0FPbE9JbjlScTRYOEFRbWVaYUF6NlBGMUVEdlpENkJiOFVaYUswTk1qQlhtS2RaZ2ZkdVNNeGY4UVZGQTh4LW83bi1pay1YLWpfZWZyXzhfOTFCY0ZDRjk4MENwU1NaTXhacGRaVHZDYlRENUpJZ0ZqRjRxcjY5NA?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "77m ago",
+    "news_age": "79m ago",
     "news_columns": [
       "basket",
       "fifa_ranking"
-    ]
+    ],
+    "bottom50_wealth": 6.8,
+    "bottom50_wealth_rank": 1
   },
   {
     "flag": "🇬🇹",
@@ -14553,7 +14626,8 @@
       "cyclone_freq",
       "flood_risk",
       "wildfire_freq"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇬🇳",
@@ -14736,7 +14810,8 @@
       "unemp",
       "exports",
       "imports"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇬🇼",
@@ -14906,7 +14981,8 @@
     "fifa_w_rank": 113,
     "news_score": 0.0,
     "election_title": "N/A",
-    "election_url": "https://www.electionguide.org/countries/id/92"
+    "election_url": "https://www.electionguide.org/countries/id/92",
+    "bottom50_wealth": null
   },
   {
     "flag": "🇬🇾",
@@ -15089,7 +15165,8 @@
       "car_density",
       "gas_price",
       "co2"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇭🇹",
@@ -15274,7 +15351,8 @@
       "patents",
       "rd",
       "startups"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇭🇳",
@@ -15447,7 +15525,8 @@
     "refugees_rank": null,
     "union_rate": 58.7,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "country_code": "hk",
@@ -15682,7 +15761,8 @@
       "fifa_ranking",
       "edu",
       "literacy"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇭🇺",
@@ -15954,7 +16034,8 @@
       "car_density",
       "gas_price",
       "co2"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇮🇸",
@@ -16183,7 +16264,8 @@
       "space_launch"
     ],
     "election_title": "N/A",
-    "election_url": "https://www.electionguide.org/countries/id/100"
+    "election_url": "https://www.electionguide.org/countries/id/100",
+    "bottom50_wealth": null
   },
   {
     "flag": "🇮🇳",
@@ -16607,17 +16689,19 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.24,
+    "news_score": 0.19,
     "news_title": "India's world championships organisers hire monkey whisperers - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdHhuVnIwRnd6LVVPM25WaFdKZ2ducDNpdjVSV0tHR0JQSGdpRGlZX1ZpalZzZjEtRlFiTlhoeVFZTVcyS3M3dUxTNlVkNlRrb0VOMWNMR2xFYzBKb0FQRk9CYjFUY1ZoZDhYcWF1ZWpLcm1fcEk4YjBZZEhmaF9wM1ljMlpHMS04UUpoVHY2U2FTMllXMkZYTXpRWTBDdHlVWUNrRFZBN2I1eU40?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "7h ago",
+    "news_age": "8h ago",
     "news_columns": [
       "car_density",
       "gas_price",
       "co2"
-    ]
+    ],
+    "bottom50_wealth": 4.8,
+    "bottom50_wealth_rank": 10
   },
   {
     "flag": "🇮🇩",
@@ -16920,7 +17004,9 @@
     "news_age": "62h ago",
     "news_columns": [
       "olympic"
-    ]
+    ],
+    "bottom50_wealth": 6.2,
+    "bottom50_wealth_rank": 3
   },
   {
     "flag": "🇮🇷",
@@ -17171,12 +17257,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.12,
+    "news_score": 1.11,
     "news_title": "S&P 500 closes little changed as oil rises on Iran uncertainty, Intel leads chips lower - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PSlBQSkZDeVFXczJmMmRVYU4zbFdIejBqeUVSa1Z2cHNMaXUtVHZ5eUVKUEZzb2RMUWpYVE1aQWV0b21BNkM0VE9WNFI2dTFsUGNQUXNfOWtNV211WkhlLUxOTm9zOW01UHJVU0o2eDM1Wm5TREVz0gF8QVVfeXFMT1FxMFFZOTZCbGpROU5BX0xLVW9kMmtFLTBRRk9PTm5DaXJpdTJyRUpiNk5XcTQ5eUtmLThVUWIxOW5MSjE2NEhLZWtfV0ZFS1hiV0t5d2V3VmdacWdXTG0wSlV3MHYwY0NsMUVrb0pSSWpvYlM5Sm1vUEc5cg?oc=5",
     "news_image": "",
     "news_source": "CNBC",
-    "news_age": "92m ago",
+    "news_age": "94m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -17184,7 +17270,8 @@
       "reserves",
       "gas_price",
       "energy_per_capita"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇮🇶",
@@ -17381,7 +17468,8 @@
       "military_personnel",
       "gpi",
       "arms_export"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇮🇪",
@@ -17659,7 +17747,9 @@
       "basket",
       "edu",
       "literacy"
-    ]
+    ],
+    "bottom50_wealth": 2.7,
+    "bottom50_wealth_rank": 20
   },
   {
     "flag": "🇮🇱",
@@ -17903,7 +17993,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.06,
+    "news_score": 0.04,
     "news_title": "Iran wages economic war in hopes of outlasting U.S. and Israel - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2ZCVmJ4amt6UTBvQ05kcDBFWnNzb1N6QldHQ3RSWVZ0NUdzemNtaTJGaTlzM1N5dVR0djFiVV9XUGNSc1JCR2RnczNYeTUxMW5WZU5aMmJLMVVqcElmVHpibHdWMm9xOFlLWGlhY2NlQUV5cDVVcTRWZHJaNGxjaXVR?oc=5",
     "news_image": "",
@@ -17915,7 +18005,8 @@
       "military_personnel",
       "gpi",
       "arms_export"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇮🇹",
@@ -18355,7 +18446,9 @@
       "fifa_ranking",
       "fifa_w",
       "olympic"
-    ]
+    ],
+    "bottom50_wealth": 3.2,
+    "bottom50_wealth_rank": 17
   },
   {
     "flag": "🇯🇲",
@@ -18551,7 +18644,8 @@
       "patents",
       "rd",
       "startups"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇯🇵",
@@ -19044,7 +19138,9 @@
       "unemp",
       "exports",
       "imports"
-    ]
+    ],
+    "bottom50_wealth": 5.3,
+    "bottom50_wealth_rank": 6
   },
   {
     "flag": "🇯🇴",
@@ -19218,7 +19314,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.48,
+    "news_score": 0.47,
     "news_title": "Miami Hurricanes' Jordan Lyle Eyeing Comeback - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS3V4R1pmSUQwLWo1bjBCSmlkb2g5eTFEcUNXUmpoWU9pWDVaNXpfR2dCRzdJa0tkeDYwdTlYYmNtX3U1Z255a1B5WWlVc0loSWtHYXNBdC1tWnFpeUpyTGpLZC04TGdsZUgxUVhVLXRKMGJOYlhqSG5aVU5IWHpiVkNldXdVNkJrWFRWSw?oc=5",
     "news_image": "",
@@ -19231,7 +19327,8 @@
       "cyclone_freq",
       "flood_risk",
       "wildfire_freq"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇰🇿",
@@ -19421,7 +19518,8 @@
       "pisa_reading"
     ],
     "election_title": "Kazakh National Congress",
-    "election_url": "https://www.electionguide.org/countries/id/111"
+    "election_url": "https://www.electionguide.org/countries/id/111",
+    "bottom50_wealth": null
   },
   {
     "flag": "🇰🇪",
@@ -19672,7 +19770,8 @@
       "unemp",
       "exports",
       "imports"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇰🇮",
@@ -19838,7 +19937,8 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "country_code": "xk",
@@ -20020,7 +20120,8 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇰🇼",
@@ -20228,7 +20329,8 @@
       "reserves",
       "ai_research",
       "internet_pct"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇰🇬",
@@ -20412,7 +20514,8 @@
       "patents",
       "rd",
       "startups"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇱🇦",
@@ -20597,7 +20700,8 @@
     "news_age": "47m ago",
     "news_columns": [
       "basket"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇱🇻",
@@ -20820,7 +20924,8 @@
     "fifa_w_rank": 75,
     "news_score": 0.0,
     "election_title": "Latvian Parliament",
-    "election_url": "https://www.electionguide.org/countries/id/119"
+    "election_url": "https://www.electionguide.org/countries/id/119",
+    "bottom50_wealth": null
   },
   {
     "flag": "🇱🇧",
@@ -21008,7 +21113,8 @@
       "gpi",
       "arms_export",
       "ai_research"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇱🇸",
@@ -21189,7 +21295,8 @@
       "unemp",
       "exports",
       "imports"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇱🇷",
@@ -21365,7 +21472,8 @@
     "union_rate": 77.6,
     "union_rate_rank": null,
     "fifa_w_rank": 111,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇱🇾",
@@ -21547,7 +21655,8 @@
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUDJvS2JyTERYYW9zdGl1UnlXZVNNYm5FS01sWkJlWjdTTGszLXRzUXd0MzZLVmZyU3c3QW16bmItbWFJbGQzcDhlZFVCellicTExM1VKM1ctcmpJX3J1X0NDTjlZcHBzZDNfM3Y5a0d5azEybXBGcHQwRjh3Wms1VGlzLWhwNjR3aVlKSXR6Q1paOThmVElWMk0wNHdZdmVaQllqVE5TRVpGTmJsazR3VnBDblUtQkpZckE?oc=5",
     "news_image": "",
     "news_source": "Libya Herald",
-    "news_age": "23h ago"
+    "news_age": "23h ago",
+    "bottom50_wealth": null
   },
   {
     "flag": "🇱🇮",
@@ -21717,7 +21826,8 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 148,
     "fifa_w_rank": 119,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇱🇹",
@@ -21940,7 +22050,8 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 125,
     "fifa_w_rank": 68,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇱🇺",
@@ -22156,7 +22267,8 @@
     "refugees_rank": null,
     "fifa_ranking_rank": 94,
     "fifa_w_rank": 79,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇲🇬",
@@ -22334,7 +22446,8 @@
     "refugees_rank": null,
     "union_rate": 86.9,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇲🇼",
@@ -22510,7 +22623,7 @@
     "union_rate": 63.2,
     "union_rate_rank": null,
     "fifa_w_rank": 101,
-    "news_score": 0.2,
+    "news_score": 0.19,
     "news_title": "Outsiders Malawi beat Ghana to reach WAFCON semi-finals and World Cup - RFI",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUdSMG5fRFJSZ2lPUXRlT2tlLW12Njk5RnhTaXA5UmJ3YjVxd2JsbEs1eDBCNmFCSDNmRWViYmg4bTI3U1NJQWhUTXNwSmdQM1lQVmduSDNmM0JwT1prakgtdTZheEhJWlNneFF5REpUcURyTzJhYTZqdk0zZFNDM25leklXWFRPeG52Z0Q5ZE1ESkNHSXpwLU05SXdEMlFHWUZ4eTlhUGN6OFE?oc=5",
     "news_image": "",
@@ -22521,7 +22634,8 @@
       "fifa_w",
       "olympic",
       "basket"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇲🇾",
@@ -22760,7 +22874,8 @@
       "fifa_w",
       "olympic",
       "basket"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇲🇻",
@@ -22930,7 +23045,8 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 138,
     "fifa_w_rank": 109,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇲🇱",
@@ -23124,7 +23240,8 @@
       "rd",
       "startups",
       "car_density"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇲🇹",
@@ -23305,7 +23422,8 @@
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdzcyNUg4dm5ZTWZ2c0lnN19veDJtX19sS0IxUlBRTmVWam03aGRPT0FDYy00aG1zb2pzd2xFWHlKeXUxUWxtbFNwVGR5emc0Qk42aFE3Mm9wUG1nV0VSdzJhbEpyalVzcHZZeDYydFpPRUpnQ3AzZXVTa0NNemVqaTk5cVQ?oc=5",
     "news_image": "",
     "news_source": "nytimes.com",
-    "news_age": "85h ago"
+    "news_age": "85h ago",
+    "bottom50_wealth": null
   },
   {
     "flag": "🇲🇭",
@@ -23472,7 +23590,8 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇲🇶",
@@ -23638,7 +23757,8 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇲🇷",
@@ -23807,7 +23927,8 @@
     "refugees_rank": null,
     "union_rate": 41.9,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇲🇺",
@@ -23975,7 +24096,8 @@
     "refugees_rank": null,
     "union_rate": 68.8,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇾🇹",
@@ -24140,7 +24262,8 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇲🇽",
@@ -24461,7 +24584,9 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
-    ]
+    ],
+    "bottom50_wealth": 2.5,
+    "bottom50_wealth_rank": 22
   },
   {
     "flag": "🇫🇲",
@@ -24631,7 +24756,8 @@
     "news_title": "In a liquor store parking lot, the Cass Corridor watches the World Cup - WDET 101.9 FM",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYUVrSGpYY181a3JaTkk0a2NfbzZHRDdXRG14elI3ZlA4Qm56OUI1c3hhVVdpaUJydl94enFtNFRJUHFtMlZqMzFJOUVtS19XaFdVZWo1dW5FcXpjSWJIS1JqZ0RVLUlTaU9lQkRCNTlQbXRXZE1GckZOeE5fbUtmRWdlYVdHc0xkSmtEdXZ1WG5Ld2ZVeHh4Z1A2NEoyV2s?oc=5",
     "news_image": "",
-    "news_source": "WDET 101.9 FM"
+    "news_source": "WDET 101.9 FM",
+    "bottom50_wealth": null
   },
   {
     "flag": "🇲🇩",
@@ -24821,7 +24947,8 @@
       "unemp",
       "exports",
       "imports"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇲🇨",
@@ -25005,7 +25132,8 @@
       "patents",
       "rd",
       "startups"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇲🇳",
@@ -25194,7 +25322,8 @@
       "nato",
       "military_pct",
       "gdp"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇲🇪",
@@ -25377,7 +25506,8 @@
     "news_age": "3h ago",
     "news_columns": [
       "olympic"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇲🇦",
@@ -25578,7 +25708,8 @@
       "gender_gap"
     ],
     "election_title": "Moroccan Chamber of Representatives",
-    "election_url": "https://www.electionguide.org/countries/id/146"
+    "election_url": "https://www.electionguide.org/countries/id/146",
+    "bottom50_wealth": null
   },
   {
     "flag": "🇲🇿",
@@ -25763,7 +25894,8 @@
       "unemp",
       "exports",
       "imports"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇲🇲",
@@ -25980,7 +26112,8 @@
       "gpi",
       "arms_export",
       "ai_research"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇳🇦",
@@ -26172,7 +26305,8 @@
       "basket",
       "cricket",
       "ai_research"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇳🇷",
@@ -26351,7 +26485,8 @@
       "patents",
       "rd",
       "startups"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇳🇵",
@@ -26545,7 +26680,8 @@
       "rd",
       "startups",
       "car_density"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇳🇱",
@@ -26930,7 +27066,9 @@
       "fifa_w",
       "olympic",
       "basket"
-    ]
+    ],
+    "bottom50_wealth": 2.1,
+    "bottom50_wealth_rank": 25
   },
   {
     "flag": "🇳🇨",
@@ -27102,7 +27240,8 @@
     "news_title": "CNBC: NC in top 2 states for business for 6th straight year - Carolina Journal",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaFRYTWY2N0dNeXZTaHpwX004Q0NYQ09yNkRDUlR1UUZlSHBUaFFFd3lLdVZ3NXpldjA5LUV3blVFT3hDeWVOSVBuS01PNW5DejRGVkRoRFpyWHJXdGNUUDBHS1hDUHZ4bklSeVpLQ3oyZkJBMUx6MUJxWDJ5UVJDbUMxWnE1U2JZUHY1U1ZheFF6ZmlZZmc?oc=5",
     "news_image": "",
-    "news_source": "Carolina Journal"
+    "news_source": "Carolina Journal",
+    "bottom50_wealth": null
   },
   {
     "flag": "🇳🇿",
@@ -27424,7 +27563,8 @@
       "gdp_per_capita",
       "stock_market",
       "reserves"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇳🇮",
@@ -27612,7 +27752,8 @@
       "election_days",
       "ai_research",
       "internet_pct"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇳🇪",
@@ -27788,7 +27929,8 @@
     "refugees_rank": null,
     "union_rate": 80.4,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇳🇬",
@@ -28064,7 +28206,8 @@
       "basket",
       "gender",
       "gender_gap"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇳🇺",
@@ -28229,7 +28372,8 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇰🇵",
@@ -28423,7 +28567,8 @@
       "gpi",
       "arms_export",
       "ai_research"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇲🇰",
@@ -28597,7 +28742,8 @@
     "union_rate": 65.8,
     "union_rate_rank": null,
     "fifa_w_rank": 90,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇲🇵",
@@ -28762,7 +28908,8 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇳🇴",
@@ -29087,7 +29234,9 @@
       "fifa_w",
       "olympic",
       "basket"
-    ]
+    ],
+    "bottom50_wealth": 2.8,
+    "bottom50_wealth_rank": 19
   },
   {
     "flag": "🇴🇲",
@@ -29260,7 +29409,7 @@
     "refugees_rank": null,
     "union_rate": 70.4,
     "union_rate_rank": null,
-    "news_score": 0.13,
+    "news_score": 0.12,
     "news_title": "World in Brief: Iran says deal with Oman “very close”; earthquake rocks Colombia - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdnVsenV6dERVVF9CMFZDaVBBN0VGX0xNR0p2ZzJjMHVKaVgxZFdKNWlCMVZPQWQzbWhQOFlqRU1VU1VJTEpyOG1VdHRldHdsZWVua0c5WWtrdzd6elNqOExBdHlpSk1GMFR4VkFxekdGc29DM2VZLVN3b2V2eEJtWGNGcXdxc2p1dnRTQmdkbkNaZzE5ejFV?oc=5",
     "news_image": "",
@@ -29273,7 +29422,8 @@
       "cyclone_freq",
       "flood_risk",
       "wildfire_freq"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇵🇰",
@@ -29540,7 +29690,8 @@
       "gay_marriage",
       "gender",
       "democracy"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇵🇼",
@@ -29707,7 +29858,8 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇵🇸",
@@ -29891,7 +30043,8 @@
       "gpi",
       "arms_export",
       "ai_research"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇵🇦",
@@ -30084,7 +30237,8 @@
       "fifa_w",
       "olympic",
       "basket"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇵🇬",
@@ -30274,7 +30428,8 @@
       "unemp",
       "exports",
       "imports"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇵🇾",
@@ -30461,7 +30616,8 @@
       "basket",
       "car_density",
       "gas_price"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇵🇪",
@@ -30680,7 +30836,8 @@
       "fifa_w",
       "olympic",
       "basket"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇵🇭",
@@ -30952,7 +31109,8 @@
       "pisa_science",
       "pisa_reading",
       "phd_per_cap"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇵🇱",
@@ -31238,7 +31396,8 @@
       "unemp",
       "exports",
       "imports"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇵🇹",
@@ -31517,7 +31676,9 @@
       "fifa_w",
       "olympic",
       "basket"
-    ]
+    ],
+    "bottom50_wealth": 6.1,
+    "bottom50_wealth_rank": 4
   },
   {
     "flag": "🇵🇷",
@@ -31697,7 +31858,8 @@
     "news_columns": [
       "marathon_elite",
       "olympic"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇶🇦",
@@ -31905,7 +32067,8 @@
       "gdp_per_capita",
       "stock_market",
       "reserves"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇨🇬",
@@ -32087,7 +32250,8 @@
       "beds",
       "vaccination",
       "infant_mortality"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇷🇴",
@@ -32351,7 +32515,8 @@
       "unemp",
       "exports",
       "imports"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇷🇺",
@@ -32689,22 +32854,24 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.1,
-    "news_title": "Ukrainian drone attack on an oil hub deep inside Russia kills 13, officials say - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUNmLWxickRLU05ySXVrTTR6U2Q4aTVSZExPY3ZaZnhCR01UcUtUMzhMU1c5Q0YwNFFCc0ZRVWpLYWo0RWZHWkhRc3Y2d1lLdDhwbTFNSmRZcXJ0SHV1VUtVWmdxQUZOei1iS1dwNEk3dkhyVTJvSWZiSjl6MXU1X01nQTZjenBZWkdUYmU4eG4tdUk?oc=5",
+    "news_score": 0.15,
+    "news_title": "Russian court bars only anti-war party from standing in parliamentary elections - BBC",
+    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SUGw0SU1EX2c4U0NXUXdsY0dsM1hlMFFta1pSQm5FRU1UQlM1Yi0tWS16UFhmVS1INHNXOXN1SGdwNV93WHBnNXJUUlh6MHZZd3d4TGRDT3ZEZw?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "7h ago",
+    "news_source": "BBC",
+    "news_age": "5h ago",
     "news_columns": [
-      "gas_price",
-      "energy_per_capita",
-      "co2",
-      "renew",
-      "exports",
-      "ai_research"
+      "democracy",
+      "approval",
+      "press",
+      "election_days",
+      "military_pct",
+      "nuclear"
     ],
     "election_title": "Russian Federal Duma",
-    "election_url": "https://www.electionguide.org/countries/id/179"
+    "election_url": "https://www.electionguide.org/countries/id/179",
+    "bottom50_wealth": 3.7,
+    "bottom50_wealth_rank": 15
   },
   {
     "flag": "🇷🇼",
@@ -32891,7 +33058,8 @@
       "patents",
       "rd",
       "startups"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇸🇭",
@@ -33056,7 +33224,8 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇰🇳",
@@ -33223,7 +33392,8 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇱🇨",
@@ -33406,7 +33576,8 @@
       "patents",
       "rd",
       "startups"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "country_code": "sm",
@@ -33588,7 +33759,8 @@
     "union_rate": null,
     "union_rate_rank": null,
     "fifa_ranking_rank": 150,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇸🇬",
@@ -33866,7 +34038,8 @@
       "rd",
       "patents",
       "ai_research"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇸🇽",
@@ -34031,7 +34204,8 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇸🇰",
@@ -34279,7 +34453,8 @@
     "news_age": "54m ago",
     "news_columns": [
       "olympic"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇸🇮",
@@ -34529,7 +34704,8 @@
       "fifa_w",
       "olympic",
       "basket"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇸🇧",
@@ -34706,7 +34882,8 @@
       "passport",
       "aviation",
       "airports"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇸🇴",
@@ -34909,7 +35086,8 @@
       "unemp",
       "exports",
       "imports"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇿🇦",
@@ -35199,7 +35377,9 @@
       "fifa_w",
       "olympic",
       "basket"
-    ]
+    ],
+    "bottom50_wealth": 1.2,
+    "bottom50_wealth_rank": 29
   },
   {
     "flag": "🇰🇷",
@@ -35684,7 +35864,9 @@
       "patents",
       "rd",
       "startups"
-    ]
+    ],
+    "bottom50_wealth": 5.1,
+    "bottom50_wealth_rank": 8
   },
   {
     "flag": "🇸🇸",
@@ -35884,7 +36066,8 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 135,
     "fifa_w_rank": 122,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇪🇸",
@@ -36253,7 +36436,9 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
-    ]
+    ],
+    "bottom50_wealth": 5.8,
+    "bottom50_wealth_rank": 5
   },
   {
     "flag": "🇱🇰",
@@ -36443,7 +36628,8 @@
       "military_personnel",
       "gpi",
       "arms_export"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇸🇩",
@@ -36633,7 +36819,8 @@
     "union_rate": 37.9,
     "union_rate_rank": null,
     "fifa_w_rank": 121,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇸🇷",
@@ -36804,7 +36991,8 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 111,
     "fifa_w_rank": 94,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇸🇪",
@@ -37196,7 +37384,9 @@
       "gas_price"
     ],
     "election_title": "Swedish Parliament",
-    "election_url": "https://www.electionguide.org/countries/id/206"
+    "election_url": "https://www.electionguide.org/countries/id/206",
+    "bottom50_wealth": 3.5,
+    "bottom50_wealth_rank": 16
   },
   {
     "flag": "🇨🇭",
@@ -37531,7 +37721,9 @@
       "imports"
     ],
     "election_title": "N/A",
-    "election_url": "https://www.electionguide.org/countries/id/207"
+    "election_url": "https://www.electionguide.org/countries/id/207",
+    "bottom50_wealth": 1.9,
+    "bottom50_wealth_rank": 27
   },
   {
     "flag": "🇸🇾",
@@ -37724,7 +37916,8 @@
       "military_personnel",
       "gpi",
       "arms_export"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇹🇼",
@@ -37939,7 +38132,8 @@
       "gpi",
       "arms_export",
       "ai_research"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇹🇯",
@@ -38122,7 +38316,8 @@
       "approval",
       "press",
       "election_days"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇹🇿",
@@ -38329,7 +38524,8 @@
       "unemp",
       "exports",
       "imports"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇹🇭",
@@ -38609,7 +38805,8 @@
       "patents",
       "rd",
       "startups"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇹🇱",
@@ -38788,7 +38985,8 @@
     "news_columns": [
       "olympic",
       "fifa_ranking"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇹🇬",
@@ -38960,7 +39158,8 @@
     "refugees_rank": null,
     "union_rate": 59.0,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇹🇴",
@@ -39133,7 +39332,8 @@
     "news_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fUURSYmQ4QTFUZ1Y1cU0xbUxDYVVOa0FMTl9zR2VsUzlWSUtnaHEzdHhrUmNUZWJmczQzSlRKS3pRaUZteGdaWGhyTExVdHdBdXV1RUFCR044eGhydUJrZnAyQXd3RndSV0NWcUJfb2RzcHM0QkRpVVFLMG8?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "2h ago"
+    "news_age": "2h ago",
+    "bottom50_wealth": null
   },
   {
     "flag": "🇹🇹",
@@ -39310,7 +39510,8 @@
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT2hVVGxnMlJJbjFTeDdOei1ycjBsMUVhYVlxVUstTThMMjFqVzQxM0N0bUZZMFFvb0dDRDkydk9NTEFLcV93SXpnaGduQnV4YW9OLVdPbVlqQWhiRXhfcEptWGhDaEV5Rno2ZDR3TzRSUjBiVzJYcTFhaURGM3BscmUtMGRYdw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "2h ago"
+    "news_age": "2h ago",
+    "bottom50_wealth": null
   },
   {
     "flag": "🇹🇳",
@@ -39495,7 +39696,8 @@
       "patents",
       "rd",
       "startups"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇹🇷",
@@ -39787,7 +39989,9 @@
       "car_density",
       "gas_price",
       "co2"
-    ]
+    ],
+    "bottom50_wealth": 5.2,
+    "bottom50_wealth_rank": 7
   },
   {
     "flag": "🇹🇲",
@@ -39969,7 +40173,8 @@
       "passport",
       "aviation",
       "airports"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇹🇨",
@@ -40136,7 +40341,8 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 147,
     "fifa_w_rank": 123,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇹🇻",
@@ -40307,7 +40513,8 @@
     "news_title": "How and where to watch Spain vs. France 2026 World Cup match: TV channel, streaming options - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdE9BSGl1UnpmM2JVc1NxV3VQXzlvalAtUU16bTlEZnEteUhGZE12UVpTOE0xOTg1U21JMHNQOHRmMFd6MkptMUtORG84RU5lWUEtSWs3cmh2VmgzdlA1NnRhNTZVVlV1Q01lZmhJS3lHNXFMVnNWQzMzOG43c1BidFVBVk91SmhWZ3lYYXBYLWZKdGlsSVZnNXpaMEdMQl9nQVNEMkNwZEY3bGVuRG91enZ5aVFwQUJ4TmtJSHlwRUNWanpSSXhzdXp0eVVDY18xeEVSd3BXNGM?oc=5",
     "news_image": "",
-    "news_source": "The New York Times"
+    "news_source": "The New York Times",
+    "bottom50_wealth": null
   },
   {
     "flag": "🇺🇬",
@@ -40513,7 +40720,8 @@
     "news_columns": [
       "festivals",
       "intangible"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇺🇦",
@@ -40728,20 +40936,21 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.01,
-    "news_title": "AI creates 700,000 new viruses: Why scientists are alarmed - RBC-Ukraine",
-    "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONDUtZlBqMnNTczhzRkhKV3ItOGtmb2QtaFhXQWRFdVRCSGFSZmVxdlFvSFNXaEljbHNMTWxkMDVHbk5kek1GUWxyTEFZbk9CdHhHcFlzTFdGekJiQjBYc3VLd0VuMjF4QkFnVkpRSk5DNEJwMWlyRTZla3dMQ2FzM3BxUE9zTkFONUpENDQzM3puNmNaQV9seQ?oc=5",
+    "news_score": 0.07,
+    "news_title": "Russian court bars only anti-war party from standing in parliamentary elections - BBC",
+    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SUGw0SU1EX2c4U0NXUXdsY0dsM1hlMFFta1pSQm5FRU1UQlM1Yi0tWS16UFhmVS1INHNXOXN1SGdwNV93WHBnNXJUUlh6MHZZd3d4TGRDT3ZEZw?oc=5",
     "news_image": "",
-    "news_source": "RBC-Ukraine",
-    "news_age": "52h ago",
+    "news_source": "BBC",
+    "news_age": "5h ago",
     "news_columns": [
-      "health",
-      "life_expectancy",
-      "doctors",
-      "beds",
-      "vaccination",
-      "infant_mortality"
-    ]
+      "democracy",
+      "approval",
+      "press",
+      "election_days",
+      "military_pct",
+      "nuclear"
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇦🇪",
@@ -40951,7 +41160,8 @@
     "refugees_rank": null,
     "union_rate": 79.6,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇬🇧",
@@ -41462,7 +41672,9 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
-    ]
+    ],
+    "bottom50_wealth": 4.6,
+    "bottom50_wealth_rank": 11
   },
   {
     "flag": "🇺🇸",
@@ -41989,7 +42201,9 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
-    ]
+    ],
+    "bottom50_wealth": 1.5,
+    "bottom50_wealth_rank": 28
   },
   {
     "flag": "🇺🇾",
@@ -42195,7 +42409,8 @@
       "fifa_w",
       "olympic",
       "basket"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇺🇿",
@@ -42380,7 +42595,8 @@
     "news_age": "10h ago",
     "news_columns": [
       "olympic"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇻🇺",
@@ -42546,7 +42762,8 @@
     "refugees_rank": null,
     "union_rate": 60.0,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇻🇦",
@@ -42711,7 +42928,8 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇻🇪",
@@ -42911,7 +43129,8 @@
       "cyclone_freq",
       "flood_risk",
       "wildfire_freq"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇻🇳",
@@ -43197,7 +43416,8 @@
       "pisa_science",
       "pisa_reading",
       "phd_per_cap"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇼🇫",
@@ -43362,7 +43582,8 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇪🇭",
@@ -43527,7 +43748,8 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "flag": "🇾🇪",
@@ -43728,7 +43950,8 @@
       "renew",
       "exports",
       "ai_research"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇿🇲",
@@ -43914,7 +44137,8 @@
     "union_rate_rank": null,
     "news_score": 0.0,
     "election_title": "Zambian Presidency",
-    "election_url": "https://www.electionguide.org/countries/id/239"
+    "election_url": "https://www.electionguide.org/countries/id/239",
+    "bottom50_wealth": null
   },
   {
     "flag": "🇿🇼",
@@ -44103,7 +44327,8 @@
     "news_columns": [
       "olympic",
       "fifa_ranking"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "flag": "🇦🇽",
@@ -44268,7 +44493,8 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.0
+    "news_score": 0.0,
+    "bottom50_wealth": null
   },
   {
     "country_code": "XXCOMPS",
@@ -44281,7 +44507,7 @@
     "country_summary": "288 entities in this category",
     "gdp": 2200000,
     "g7_member": 0,
-    "news_score": 0.15,
+    "news_score": 0.1,
     "rd": 85000,
     "g20_member": 0,
     "independence": 2004,
@@ -44305,7 +44531,8 @@
       "unemp",
       "exports",
       "imports"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "country_code": "XXPEEPS",
@@ -44324,7 +44551,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 1.04,
+    "news_score": 1.01,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
@@ -44348,7 +44575,8 @@
       "polit_kill",
       "military_pct",
       "nuclear"
-    ]
+    ],
+    "bottom50_wealth": null
   },
   {
     "country_code": "XXORGSS",
@@ -44383,6 +44611,7 @@
     "peacekeeping": 87000,
     "fifa_ranking": 10,
     "vaccination": 80,
-    "population": 448000000
+    "population": 448000000,
+    "bottom50_wealth": null
   }
 ]
