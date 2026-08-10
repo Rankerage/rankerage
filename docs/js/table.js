@@ -243,7 +243,7 @@
     function E(field,w){return{title:t('election'),field:field,width:w,
       sorter:function(a,b,aRow,bRow,col,dir){var da=aRow.getData().election_date,db=bRow.getData().election_date;if(!da&&!db)return 0;if(!da)return 1;if(!db)return -1;return da.localeCompare(db);},
       headerTooltip:function(){return descTip(field,t('election'));},
-      formatter:function(c){var d=c.getRow().getData(),dt=d.election_date;if(!dt)return numberCell(null,'-');var p=dt.split('-'),s=p[1]+'/'+p[2];var title=d.election_title||'';var url=d.election_url||'';var h=numberCell(d.election_rank,s);if(title)h=h.replace('>'+s+'<',' title="'+esc(title)+'" style="cursor:pointer">'+s+'<');if(url)h=h.replace('<span','<span onclick="window.open(\''+esc(url)+'\',\'_blank\')" style="cursor:pointer;text-decoration:underline"');return h;}};}
+      formatter:function(c){var d=c.getRow().getData(),dt=d.election_date;if(!dt)return'<span style="color:#545d7a;">—</span>';var p=dt.split('-'),s=p[1]+'/'+p[2];var title=d.election_title||'';var name=d.country_name_en||'';var q=encodeURIComponent(name.replace(/\*+/g,'')+' election polls prediction');var url='https://news.google.com/search?q='+q;var style='cursor:pointer;color:#e0c87c;font-weight:700;font-size:12px;';if(title)style+='text-decoration:underline dotted;';return'<span onclick="window.open(\''+esc(url)+'\',\'_blank\')" style="'+style+'" title="'+esc(title||name)+'">'+s+'</span>';}};}
 
     // Special formatters for non-standard value types
     cols.forEach(function(col){
