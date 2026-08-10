@@ -1576,7 +1576,7 @@
   }
   table.on("cellClick", function(e, cell){
     var field = cell.getColumn().getField();
-    var frozenFields = ['country_code','country_name_en','election_days','news_score'];
+    var frozenFields = ['country_code','country_name_en','election_days'];
     if (frozenFields.indexOf(field) >= 0) return;
     if (field.endsWith('_rank')) return;
     var rowData = cell.getRow().getData();
@@ -1585,22 +1585,37 @@
     var col = table.getColumnDefinitions().find(function(c){return c.field===field;});
     var metricName = col ? (col.title||field) : field;
     loadHistory(function(hist){
-      if (!hist[field]) { alert('No trend data for '+metricName); return; }
+      if (!hist[field]) { showToast('📊 '+metricName+' 트렌드 데이터 없음'); return; }
       var countryData = hist[field][code];
-      if (!countryData) { alert('No data for '+name); return; }
+      if (!countryData) { showToast('📊 '+name+' 데이터 없음'); return; }
       var years = Object.keys(countryData).sort();
       var values = years.map(function(y){return countryData[y];});
+      // 최근 10년만
+      if (years.length > 10) { years = years.slice(-10); values = values.slice(-10); }
       document.getElementById('trendTitle').textContent = '📈 '+name+' — '+metricName+' ('+years[0]+'~'+years[years.length-1]+')';
       document.getElementById('trendModal').style.display = 'flex';
       var ctx = document.getElementById('trendChart').getContext('2d');
       if (chartInstance) chartInstance.destroy();
-      chartInstance = new Chart(ctx, {
+      var grad = ctx.createLinearGradient(0,0,0,300);
+      grad.addColorStop(0,'rgba(224,200,124,0.25)');grad.addColorStop(1,'rgba(224,200,124,0)');
+      chartInstance = new Chart(ctx,{
         type:'line',
-        data:{labels:years,datasets:[{label:name,data:values,borderColor:'#e0c87c',backgroundColor:'rgba(224,200,124,0.1)',fill:true,tension:0.3,pointRadius:3,pointBackgroundColor:'#e0c87c'}]},
-        options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{ticks:{color:'#545d7a',maxTicksLimit:10}},y:{ticks:{color:'#545d7a',callback:function(v){return v>=1e9?(v/1e9).toFixed(1)+'B':v>=1e6?(v/1e6).toFixed(1)+'M':v>=1e3?(v/1e3).toFixed(1)+'K':v;}}}}}
+        data:{labels:years,datasets:[{label:name,data:values,borderColor:'#e0c87c',backgroundColor:grad,fill:true,borderWidth:2,tension:0.4,pointRadius:4,pointBackgroundColor:'#e0c87c',pointBorderColor:'#0f1322',pointBorderWidth:2,pointHoverRadius:7,pointHoverBackgroundColor:'#fff'}]},
+        options:{
+          responsive:true,maintainAspectRatio:false,animation:{duration:600,easing:'easeOutQuart'},
+          interaction:{intersect:false,mode:'index'},
+          plugins:{legend:{display:false},
+            tooltip:{backgroundColor:'rgba(15,19,34,0.95)',titleColor:'#e0c87c',bodyColor:'#b0b8d0',borderColor:'#e0c87c',borderWidth:1,padding:10,displayColors:false,
+              callbacks:{label:function(c){var v=c.raw;return v>=1e9?(v/1e9).toFixed(2)+'B':v>=1e6?(v/1e6).toFixed(2)+'M':v>=1e3?(v/1e3).toFixed(1)+'K':v.toLocaleString();}}}},
+          scales:{
+            x:{grid:{color:'rgba(84,93,122,0.15)'},ticks:{color:'#545d7a',font:{size:10}}},
+            y:{grid:{color:'rgba(84,93,122,0.15)'},ticks:{color:'#545d7a',font:{size:10},callback:function(v){return v>=1e9?(v/1e9).toFixed(1)+'B':v>=1e6?(v/1e6).toFixed(1)+'M':v>=1e3?(v/1e3).toFixed(1)+'K':v;}}}
+          }
+        }
       });
     });
   });
+  function showToast(msg){var t=document.createElement('div');t.textContent=msg;t.style.cssText='position:fixed;bottom:30px;left:50%;transform:translateX(-50%);background:rgba(15,19,34,0.95);color:#e0c87c;padding:8px 20px;border-radius:20px;font-size:12px;z-index:99999;border:1px solid #e0c87c;';document.body.appendChild(t);setTimeout(function(){t.remove();},2000);}
 
   }).catch(function(err){console.error('I18N init failed',err);});
 })();
