@@ -1908,7 +1908,7 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.33,
+    "news_score": 0.32,
     "news_title": "Call-up boosts Oregon's Giselle White ahead of Argentina's U20 World Cup camp - KVAL",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZWVqX0kxcHF0OC1ueE1vWnFjMXFEOHNEOFRFSlhUX1IzWHRfWHJhZU41Qk5SVi1LSEtMclVjMzFtNW44WDlJZzR0WXZqVWd3VDNObTJSUi14V016Wkctc21teVlablZ1aFhTS0xsTDUwMkFuaU9mR3VpZmdkV3h5UEE0MVRvWENXU1Itd002N0dPQXQ2RDdrQzdPYklGQUNO?oc=5",
     "news_image": "",
@@ -2831,7 +2831,7 @@
     "refugees_rank": null,
     "union_rate": 77.9,
     "union_rate_rank": null,
-    "news_score": 0.0,
+    "news_score": 0.03,
     "news_title": "Austria breaks up sanctions-evasion scheme supplying Russian arms industry - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQemhDNHRGckVHU3hGazZNNld4QTVOcjd0SUVzUTdrRHZkQXUtcUZmOC1DQkRhX2VMV3BuZExJSl9xZXM1YVVObjk4Z3RZeTBnNnhrWkQtZzdRSkFtM2hCZl9NUFpVemlTbThiUzRURmV4UURfOTlpN0Z2QTdodEJQR1pBWVJzNl90eEt5TUR5VWRSZy10TWtFVmo1Y1kzTGRQd3BKaEVkckJEampOMFdjVi1tN3ZvMlk5WHdKdTdSeVhzSnpZYUpudG9wWDAxVEVfSFhJ?oc=5",
     "news_image": "",
@@ -3790,7 +3790,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG4zUUhUV3lvcjJybFJHQlI4cjZwUzVMMGpQY3lVNlhSb3NmQ0pSbzRUcDJfczdqUzU5VUhTQmk0VkxROE1OSHg3RWtOQVIxajRBLWREYm84Ujc3TnFKZU16RW4zdUt3eG16SG5STVViQk1UQk1Ed1RWYmtWTUhkeTkyRnFsTlg4V3JzXzE4UlU3NXV4Sk01Vk11NzNvRXJhUnpMNWJXTVhxNmRpdjFUdlVBTQ?oc=5",
     "news_image": "",
     "news_source": "Euronews.com",
-    "news_age": "29h ago",
+    "news_age": "30h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -8155,19 +8155,15 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 1.41,
+    "news_score": 1.44,
     "news_title": "Live updates: At least 111 dead following 7.4 magnitude earthquake in Colombia - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2E0OE5yZGJtT1ItYXF5SU9URXp2SzRFcWFIR0tvUmFFei1jcVFxUG4yVTZCb0F3N1hVZXMtalpjUEc0RmhNblhIN0F1ZXhJTHI1b3YyNnFmZE84T0FpWkdjdUVKWEVQb09MV0p2VllfYTJsVGpCMnk3WV9xdHM2dnJBWlc3ZExLSmp5SnlVUQ?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "30m ago",
+    "news_age": "32m ago",
     "news_columns": [
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "fifa_ranking",
+      "fifa_w"
     ]
   },
   {
@@ -14351,12 +14347,12 @@
     "refugees_rank": null,
     "union_rate": 70.0,
     "union_rate_rank": null,
-    "news_score": 0.71,
+    "news_score": 0.73,
     "news_title": "Giannis Antetokounmpo will not play for Greece this summer - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZXBtRklxVTFJcVlaSDRVR0FPbE9JbjlScTRYOEFRbWVaYUF6NlBGMUVEdlpENkJiOFVaYUswTk1qQlhtS2RaZ2ZkdVNNeGY4UVZGQTh4LW83bi1pay1YLWpfZWZyXzhfOTFCY0ZDRjk4MENwU1NaTXhacGRaVHZDYlRENUpJZ0ZqRjRxcjY5NA?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "53m ago",
+    "news_age": "55m ago",
     "news_columns": [
       "basket",
       "fifa_ranking"
@@ -16607,7 +16603,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.12,
+    "news_score": 0.11,
     "news_title": "India's world championships organisers hire monkey whisperers - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdHhuVnIwRnd6LVVPM25WaFdKZ2ducDNpdjVSV0tHR0JQSGdpRGlZX1ZpalZzZjEtRlFiTlhoeVFZTVcyS3M3dUxTNlVkNlRrb0VOMWNMR2xFYzBKb0FQRk9CYjFUY1ZoZDhYcWF1ZWpLcm1fcEk4YjBZZEhmaF9wM1ljMlpHMS04UUpoVHY2U2FTMllXMkZYTXpRWTBDdHlVWUNrRFZBN2I1eU40?oc=5",
     "news_image": "",
@@ -17171,12 +17167,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.2,
+    "news_score": 1.17,
     "news_title": "S&P 500 closes little changed as oil rises on Iran uncertainty, Intel leads chips lower - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PSlBQSkZDeVFXczJmMmRVYU4zbFdIejBqeUVSa1Z2cHNMaXUtVHZ5eUVKUEZzb2RMUWpYVE1aQWV0b21BNkM0VE9WNFI2dTFsUGNQUXNfOWtNV211WkhlLUxOTm9zOW01UHJVU0o2eDM1Wm5TREVz0gF8QVVfeXFMT1FxMFFZOTZCbGpROU5BX0xLVW9kMmtFLTBRRk9PTm5DaXJpdTJyRUpiNk5XcTQ5eUtmLThVUWIxOW5MSjE2NEhLZWtfV0ZFS1hiV0t5d2V3VmdacWdXTG0wSlV3MHYwY0NsMUVrb0pSSWpvYlM5Sm1vUEc5cg?oc=5",
     "news_image": "",
     "news_source": "CNBC",
-    "news_age": "68m ago",
+    "news_age": "70m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -17903,12 +17899,12 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.07,
-    "news_title": "‘We have no one’: Palestinians react to Israel’s rejection of Gaza plan - Al Jazeera",
-    "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVFlUc0RGVlh0MVotcTBQZ083aVAzUHE0WDEzMXhwazNBd2JUdFhnVU0xTlo2bTFkbFBQTUpKNlZvd0tHdW0zUmU3MnY5WHB3cVpJQ3RkZHY1Q3ZuRnVNOUg1ekwyNGJqaENoVTFKeDF4VnM5RzRzaW5RTmJRNFFCMzM4OV9JQzAtMGtObzdYM09JRzJ4UkQ3Q0UzeC05UmZHTlR4NWQ4TUxlM0w3cmprS0tB0gG3AUFVX3lxTE5LRjZYOFhWSmpqNHlOaTdwYUQxYUdfYkZHMHU1R2I4VmNRSFFZaFVyaDdzWnFxWm5pNC1KS3JjMUwtVWVycWJWLTNMdkZYcnM0bmNCalNRNnR3WWpwTFlDMjJSUUxoNklTMTFLZlpMM2hVMmQyLVNicnE2R2prS1NpMkVtTjFoRUlqRVlGLUU5N1lrQ0c5UXFxY0tIQ0ozZW1ZVll6RWxYOGRuQWZSOVFpa19DN1luTQ?oc=5",
+    "news_score": 0.05,
+    "news_title": "Iran wages economic war in hopes of outlasting U.S. and Israel - The Washington Post",
+    "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2ZCVmJ4amt6UTBvQ05kcDBFWnNzb1N6QldHQ3RSWVZ0NUdzemNtaTJGaTlzM1N5dVR0djFiVV9XUGNSc1JCR2RnczNYeTUxMW5WZU5aMmJLMVVqcElmVHpibHdWMm9xOFlLWGlhY2NlQUV5cDVVcTRWZHJaNGxjaXVR?oc=5",
     "news_image": "",
-    "news_source": "Al Jazeera",
-    "news_age": "6h ago",
+    "news_source": "The Washington Post",
+    "news_age": "3568h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -19218,7 +19214,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.54,
+    "news_score": 0.53,
     "news_title": "Miami Hurricanes' Jordan Lyle Eyeing Comeback - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS3V4R1pmSUQwLWo1bjBCSmlkb2g5eTFEcUNXUmpoWU9pWDVaNXpfR2dCRzdJa0tkeDYwdTlYYmNtX3U1Z255a1B5WWlVc0loSWtHYXNBdC1tWnFpeUpyTGpLZC04TGdsZUgxUVhVLXRKMGJOYlhqSG5aVU5IWHpiVkNldXdVNkJrWFRWSw?oc=5",
     "news_image": "",
@@ -24452,7 +24448,7 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.69,
+    "news_score": 0.68,
     "news_title": "Mexico City’s thriving bike culture - The World from PRX",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRWNDb3hISVJwbjBzeXRXMnFXd1RfTDNCdTZfMlp2aURiaEVvT3ExSnB1cnE2ejI4V1loNk5HMkpwdXN6SWk2ZC1CdGJWMU9RLWhZdHVOQy1tYVFwQzhCSFEwTmh2ZURhaC1HcER2NzQ3bXlacjJqVEZLUWhBeFprSG1URQ?oc=5",
     "news_image": "",
@@ -31230,7 +31226,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG4zUUhUV3lvcjJybFJHQlI4cjZwUzVMMGpQY3lVNlhSb3NmQ0pSbzRUcDJfczdqUzU5VUhTQmk0VkxROE1OSHg3RWtOQVIxajRBLWREYm84Ujc3TnFKZU16RW4zdUt3eG16SG5STVViQk1UQk1Ed1RWYmtWTUhkeTkyRnFsTlg4V3JzXzE4UlU3NXV4Sk01Vk11NzNvRXJhUnpMNWJXTVhxNmRpdjFUdlVBTQ?oc=5",
     "news_image": "",
     "news_source": "Euronews.com",
-    "news_age": "29h ago",
+    "news_age": "30h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -32689,19 +32685,19 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.19,
-    "news_title": "Russian court bars only anti-war party from standing in parliamentary elections - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SUGw0SU1EX2c4U0NXUXdsY0dsM1hlMFFta1pSQm5FRU1UQlM1Yi0tWS16UFhmVS1INHNXOXN1SGdwNV93WHBnNXJUUlh6MHZZd3d4TGRDT3ZEZw?oc=5",
+    "news_score": 0.16,
+    "news_title": "Ukrainian Drone Attack Deep Into Russia Is Among Its Deadliest of the War - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTHBldlpFNjhwckVhVE5GSmpHUW0xRUYzT3owZC01czJYYXR2aXl5amNYbjR5YWRyU0dxS3RQR2FOdE9sal9oamJfNXVWTGpnV2VOS2FfU1lBY3ZSUThYWm9ZVGt1a2N6djZkMGZRV0I3MjBES2JiTWhRdkc2SnBjbmFzWXJSTE0?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "5h ago",
+    "news_source": "The New York Times",
+    "news_age": "8h ago",
     "news_columns": [
-      "marathon_elite",
-      "olympic",
-      "democracy",
-      "approval",
-      "press",
-      "election_days"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179"
@@ -37521,7 +37517,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG4zUUhUV3lvcjJybFJHQlI4cjZwUzVMMGpQY3lVNlhSb3NmQ0pSbzRUcDJfczdqUzU5VUhTQmk0VkxROE1OSHg3RWtOQVIxajRBLWREYm84Ujc3TnFKZU16RW4zdUt3eG16SG5STVViQk1UQk1Ed1RWYmtWTUhkeTkyRnFsTlg4V3JzXzE4UlU3NXV4Sk01Vk11NzNvRXJhUnpMNWJXTVhxNmRpdjFUdlVBTQ?oc=5",
     "news_image": "",
     "news_source": "Euronews.com",
-    "news_age": "29h ago",
+    "news_age": "30h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -40728,19 +40724,19 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.13,
-    "news_title": "Russian court bars only anti-war party from standing in parliamentary elections - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SUGw0SU1EX2c4U0NXUXdsY0dsM1hlMFFta1pSQm5FRU1UQlM1Yi0tWS16UFhmVS1INHNXOXN1SGdwNV93WHBnNXJUUlh6MHZZd3d4TGRDT3ZEZw?oc=5",
+    "news_score": 0.09,
+    "news_title": "AI creates 700,000 new viruses: Why scientists are alarmed - RBC-Ukraine",
+    "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONDUtZlBqMnNTczhzRkhKV3ItOGtmb2QtaFhXQWRFdVRCSGFSZmVxdlFvSFNXaEljbHNMTWxkMDVHbk5kek1GUWxyTEFZbk9CdHhHcFlzTFdGekJiQjBYc3VLd0VuMjF4QkFnVkpRSk5DNEJwMWlyRTZla3dMQ2FzM3BxUE9zTkFONUpENDQzM3puNmNaQV9seQ?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "5h ago",
+    "news_source": "RBC-Ukraine",
+    "news_age": "52h ago",
     "news_columns": [
-      "marathon_elite",
-      "olympic",
-      "democracy",
-      "approval",
-      "press",
-      "election_days"
+      "health",
+      "life_expectancy",
+      "doctors",
+      "beds",
+      "vaccination",
+      "infant_mortality"
     ]
   },
   {
@@ -41988,9 +41984,7 @@
     "news_age": "8h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "fifa_w"
     ]
   },
   {
@@ -44326,7 +44320,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 0.79,
+    "news_score": 0.75,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
@@ -44348,8 +44342,8 @@
       "press",
       "gpi",
       "polit_kill",
-      "ai_research",
-      "internet_pct"
+      "military_pct",
+      "nuclear"
     ]
   },
   {
