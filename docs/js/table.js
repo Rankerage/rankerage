@@ -473,7 +473,7 @@
     var allColumns = cols;
 
     // Column aliases/synonyms for smarter matching
-            var aliases = {
+                var aliases = {
       "agri": "농업 농경지 agri Agricultural Land — 국토 중 농경지 비율, % (Source: World Bank)".split(" "),
       "airports": "공항 airports Airports — 공항 총 개수 (Source: CIA Factbook)".split(" "),
       "alcohol": "술 알코올 음주 alcohol Alcohol Consumption — 1인당 연간 알코올 소비량, L (Source: WHO)".split(" "),
@@ -560,6 +560,13 @@
       "nato": "nato NATO Member — 북대서양조약기구 회원국 여부".split(" "),
       "nato_year": "NATO 나토 nato year nato_year".split(" "),
       "netspeed": "인터넷속도 netspeed Internet Speed — 평균 인터넷 속도, Mbps (Source: Speedtest Global Index)".split(" "),
+      "news_age": "news age news_age".split(" "),
+      "news_columns": "news columns news_columns".split(" "),
+      "news_image": "news image news_image".split(" "),
+      "news_score": "news score news_score".split(" "),
+      "news_source": "news source news_source".split(" "),
+      "news_title": "news title news_title".split(" "),
+      "news_url": "news url news_url".split(" "),
       "nobel": "노벨상 nobel Nobel Prizes — 노벨상 총 수상자 수 (Source: Nobel Foundation)".split(" "),
       "nobel_per_capita": "1인당노벨상 nobel per capita Nobel per Capita — 백만명당 노벨상 수상자 (Source: Nobel Foundation)".split(" "),
       "nuclear": "핵무기 nuclear Nuclear Weapons — 추정 핵탄두 보유량 (Source: SIPRI)".split(" "),
@@ -605,7 +612,7 @@
     };
 
     // ===== AI CLUSTERS: smart topic groupings =====
-            var searchClusters = {
+                var searchClusters = {
       "경제 경제력 GDP 소득 부자 무역 수출입 세금": ["gdp", "gdp_per_capita", "reserves", "exports", "imports", "salary", "tax_rev", "inflation", "debt", "govern_spend", "union_rate"],
       "건강 의료 병원 수명 질병 암 당뇨": ["health", "life_expectancy", "doctors", "beds", "cancer", "diabetes", "mental_health", "hiv_prev", "maternal_mortality", "infant_mortality", "obesity", "alcohol", "smoking"],
       "범죄 살인 절도 폭력 마약": ["murder", "prison", "police", "death_penalty", "domestic_viol", "polit_kill"],
