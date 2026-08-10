@@ -2831,7 +2831,7 @@
     "refugees_rank": null,
     "union_rate": 77.9,
     "union_rate_rank": null,
-    "news_score": 0.09,
+    "news_score": 0.0,
     "news_title": "Austria breaks up sanctions-evasion scheme supplying Russian arms industry - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQemhDNHRGckVHU3hGazZNNld4QTVOcjd0SUVzUTdrRHZkQXUtcUZmOC1DQkRhX2VMV3BuZExJSl9xZXM1YVVObjk4Z3RZeTBnNnhrWkQtZzdRSkFtM2hCZl9NUFpVemlTbThiUzRURmV4UURfOTlpN0Z2QTdodEJQR1pBWVJzNl90eEt5TUR5VWRSZy10TWtFVmo1Y1kzTGRQd3BKaEVkckJEampOMFdjVi1tN3ZvMlk5WHdKdTdSeVhzSnpZYUpudG9wWDAxVEVfSFhJ?oc=5",
     "news_image": "",
@@ -8156,12 +8156,12 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 1.36,
+    "news_score": 1.62,
     "news_title": "Colombia Earthquake Live Updates: Death Toll Surpasses 100 as Rescuers Search for Survivors - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa3BWWUxiazdqYnNHXzVROThNRzFtNHBvRWFuMGpnQVFaczVVVl9wR0lVWkNFeHJkQW9pajJmME9ISHZLOERUV0FfUjhoSXRQMUVOUE1ORmRscERlUDFnLUZtcUNjUGN4Unl6cXJXX0lDUFBPQzI2WmJoSXVKaE9jcV8zMA?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "54m ago",
+    "news_age": "56m ago",
     "news_columns": [
       "olympic"
     ]
@@ -13384,7 +13384,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcnZ1dTZRazFLUjA4WDdsZ3B6ZWJNekVqSExLUk1wVkNFejhnWk5YaG1IcEVBckNxY3JITTZvazR3QTZIdVp5bWRKTmhibGVLS2oySDlSRVE3U2NLbm85cGVXTEJVOEtSTWZLeDY4NkpqRjhEM0VoVXJzbC02WWlWWlVUMkdzN2ZOUDBGeXB3akZ6d0EwWUVpWXNvd3BBUzdVZm5peUFVV0dYUWViZDJBWTk5RDJJeXdYUFlwRzhsUkZ1SURqRkxweGdn?oc=5",
     "news_image": "",
     "news_source": "University of Georgia Athletics",
-    "news_age": "69m ago",
+    "news_age": "71m ago",
     "news_columns": [
       "edu",
       "literacy",
@@ -16607,14 +16607,16 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.99,
+    "news_score": 0.91,
     "news_title": "In India, whimsical cars are a public health intervention - The World from PRX",
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEpoaERlRVQ4Slo4ZThILUhrN1BPdGlpTWxMbUNYNnA5dnZJZEx6SElBcDBEbFBUWkVfX2sxdWhILWlTVGt5MEJDczFNX2dpdWViUkhucTNCMHFwQUVrUzJqenlseDNrdzZ0X2RHcmY2YkgxdU8yTEMtMGd5ZkdpZ1RWb0hGYVJzSXdlbjlaVHJIRktDcWxlWkNVR3FvZw?oc=5",
     "news_image": "",
     "news_source": "The World from PRX",
-    "news_age": "48m ago",
+    "news_age": "50m ago",
     "news_columns": [
-      "olympic"
+      "car_density",
+      "gas_price",
+      "co2"
     ]
   },
   {
@@ -17169,7 +17171,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.82,
+    "news_score": 0.84,
     "news_title": "World in Brief: Earthquake rocks Colombia; Iran says deal with Oman “very close” - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZEk3cVNjYWNhcFlSc2dwQUNFNkQtbEp4aG9IQ1pjczFiS3JyTy01S0cxSGxNZndtZEIzdjhhSU9QZHpIVGNLRWEzWTRYa091X3BqamFVYXhTeG5UWUpxRW5ueW5lWTg3LTVQdjM0Ykk4YWRaUVo5UTkzZ1BMZE5qSW9teWtlWE44VHp3WGZlRXVtbXhkUHpJ?oc=5",
     "news_image": "",
@@ -18542,7 +18544,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcjJPYVR6SUVhMF9SUzl3V0loWTJFbmVWN0pfSTd3ZXlhcmdoYjBiZ2syX0ZZTkFpVlJvc253UXFxN1UwYXRkV3FGcWV4Zy14SW1tS3ZaOHR6Z0o1Sk5ZQzlvRDd1OU1Mdk5fOW1Jc1FJRHU3OGV2Z3lUNXRDd1o0eFY1bS1JVHZqcXZDcVJob09pcmNvdUItcDEyN1dqa3VxSGJfdGdiVUdBbWhsQVJRbUlYUGZlR0loRlNRemE5WUZDNTQ?oc=5",
     "news_image": "",
     "news_source": "worldathletics.org",
-    "news_age": "20h ago",
+    "news_age": "22h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -19221,7 +19223,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS3V4R1pmSUQwLWo1bjBCSmlkb2g5eTFEcUNXUmpoWU9pWDVaNXpfR2dCRzdJa0tkeDYwdTlYYmNtX3U1Z255a1B5WWlVc0loSWtHYXNBdC1tWnFpeUpyTGpLZC04TGdsZUgxUVhVLXRKMGJOYlhqSG5aVU5IWHpiVkNldXdVNkJrWFRWSw?oc=5",
     "news_image": "",
     "news_source": "sports.yahoo.com",
-    "news_age": "54m ago",
+    "news_age": "56m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -22508,7 +22510,7 @@
     "union_rate": 63.2,
     "union_rate_rank": null,
     "fifa_w_rank": 101,
-    "news_score": 0.36,
+    "news_score": 0.35,
     "news_title": "Outsiders Malawi beat Ghana to reach WAFCON semi-finals and World Cup - RFI",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUdSMG5fRFJSZ2lPUXRlT2tlLW12Njk5RnhTaXA5UmJ3YjVxd2JsbEs1eDBCNmFCSDNmRWViYmg4bTI3U1NJQWhUTXNwSmdQM1lQVmduSDNmM0JwT1prakgtdTZheEhJWlNneFF5REpUcURyTzJhYTZqdk0zZFNDM25leklXWFRPeG52Z0Q5ZE1ESkNHSXpwLU05SXdEMlFHWUZ4eTlhUGN6OFE?oc=5",
     "news_image": "",
@@ -24455,7 +24457,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRWNDb3hISVJwbjBzeXRXMnFXd1RfTDNCdTZfMlp2aURiaEVvT3ExSnB1cnE2ejI4V1loNk5HMkpwdXN6SWk2ZC1CdGJWMU9RLWhZdHVOQy1tYVFwQzhCSFEwTmh2ZURhaC1HcER2NzQ3bXlacjJqVEZLUWhBeFprSG1URQ?oc=5",
     "news_image": "",
     "news_source": "The World from PRX",
-    "news_age": "49m ago",
+    "news_age": "51m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -29257,7 +29259,7 @@
     "refugees_rank": null,
     "union_rate": 70.4,
     "union_rate_rank": null,
-    "news_score": 0.64,
+    "news_score": 0.63,
     "news_title": "World in Brief: Earthquake rocks Colombia; Iran says deal with Oman “very close” - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZEk3cVNjYWNhcFlSc2dwQUNFNkQtbEp4aG9IQ1pjczFiS3JyTy01S0cxSGxNZndtZEIzdjhhSU9QZHpIVGNLRWEzWTRYa091X3BqamFVYXhTeG5UWUpxRW5ueW5lWTg3LTVQdjM0Ykk4YWRaUVo5UTkzZ1BMZE5qSW9teWtlWE44VHp3WGZlRXVtbXhkUHpJ?oc=5",
     "news_image": "",
@@ -40726,17 +40728,18 @@
     "union_rate_rank": null,
     "fifa_w_rank": 32,
     "news_score": 0.01,
-    "news_title": "Serbia and Ukraine pledge closer economic ties, eye free trade deal - Al Jazeera",
-    "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZTFjUURGY0VmTzl4T19HOXdIZ01ZNl9ENnFibms3WTJlcHB2cDlRQ2prY25DZFl4TTJod25DNFdvY1o0R3RaWkVtRXJDSVRMTGVGTGh4M3FPVUJFaVZzU21jYjktQk4xdE1HR05fQ3R3VmFYWFVhZk9JSzY2ajlweDNfdFNNci14aDZuWXNNcmQwRjZJaHVIdFItT2YwNTFpZzJNXzhua3Zsd9IBrwFBVV95cUxOZTZKQlI5Zm52R2wzWUJleFFSVTVxcU5yZ1dteVdiQkNLcHMwTEJud2J1aVdOUFczM1JpTjU0TVE1YzlmODRLeUI4LWJjcHFPY1ItaGhMSDJnaDNUQUtkbThMTDhiRW1jOGE5cXZORWJ1OXVvQ0JtS056clQwNjA0TEJNbTJfQjU4bENnYWR4V0hHbndJUTRRcnZvWm56VnZJRkd1RUtRbzlsR202WFlV?oc=5",
+    "news_title": "North Korea preparing to deploy another 50,000 soldiers to fight for Russia in Ukraine, Zelensky claims - The Independent",
+    "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSU52eDQ1a25rbklKdm1BUktqdzVLRWNtV21VRlhhUGxEclBvVmhpS3JYUXhNVVpBNElkbEZ3SHk5NTNrdHlBeWtjZ2pPc2VXTXdUZUx2ck9ES19JbGpkUXN1Y3ZKQ1VfVmZ1YUxjZDhzY2RiVnRSRzcwM0hOdG1QOWx2a2s2V3ppMmVIaGlnRy00ZFBGTlg3NU10eUo5NkhsVFF6RXlOOW9yakk4R2o0?oc=5",
     "news_image": "",
-    "news_source": "Al Jazeera",
-    "news_age": "52h ago",
+    "news_source": "The Independent",
+    "news_age": "13h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ]
   },
   {
@@ -41976,13 +41979,14 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.16,
+    "news_score": 0.18,
     "news_title": "USEA Podcast #419: Two Duttons, Two World Championships - United States Eventing Association (USEA)",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbXc4V2Z5bW1EUFd0azd5Q1E5dGU5SDZfM21qbFZodS04bUxjY2lmU3pjbS1lZG5WY2lfTDduWkl1bFA0M3FMVHFNU1pIX0JIdDRnYzUxeV9KajBDTFY0c0xqR1hEbkFTaUZhSHgxSnBUSGJuQzhuXzNVaFRscEV0SEEtNWwwYjY0VjYzWk5QSFUzbG4tN0E?oc=5",
     "news_image": "",
     "news_source": "United States Eventing Association (USEA)",
     "news_age": "7h ago",
     "news_columns": [
+      "fifa_ranking",
       "olympic"
     ]
   },
@@ -44276,7 +44280,7 @@
     "country_summary": "288 entities in this category",
     "gdp": 2200000,
     "g7_member": 0,
-    "news_score": 0.07,
+    "news_score": 0.05,
     "rd": 85000,
     "g20_member": 0,
     "independence": 2004,
@@ -44319,7 +44323,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 1.78,
+    "news_score": 1.77,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
@@ -44335,7 +44339,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzhiWnFNZ1otSmJSVDRSWkJnaXlIdGw4WWR2X3EwamozMlhQdUpGRVFmQm9BOEhoX3hhdS1EcFVMZEUyNkhfRjhOUU95bVVHWVRiVzBzazJ1Z0NnVUNLVVZhQVZHZWZub2RhVWYydGpNUXduOGJPX0lkRDFYMDkzeWVXS3pTLXc?oc=5",
     "news_image": "",
     "news_source": "sports.yahoo.com",
-    "news_age": "41m ago",
+    "news_age": "43m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
