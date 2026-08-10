@@ -1109,7 +1109,7 @@
       linksEl.innerHTML = '';
       modal.style.display = 'flex';
       // Worker API 호출
-      fetch('https://rankerage-ai-search.your-worker.workers.dev', {
+      fetch('https://rankerage-ai-search.workers.dev', {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
         body: JSON.stringify({action:'election', country: name.replace(/\*+/g,''), title: title})
