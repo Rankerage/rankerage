@@ -1908,16 +1908,15 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.83,
+    "news_score": 0.96,
     "news_title": "Call-up boosts Oregon's Giselle White ahead of Argentina's U20 World Cup camp - KVAL",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZWVqX0kxcHF0OC1ueE1vWnFjMXFEOHNEOFRFSlhUX1IzWHRfWHJhZU41Qk5SVi1LSEtMclVjMzFtNW44WDlJZzR0WXZqVWd3VDNObTJSUi14V016Wkctc21teVlablZ1aFhTS0xsTDUwMkFuaU9mR3VpZmdkV3h5UEE0MVRvWENXU1Itd002N0dPQXQ2RDdrQzdPYklGQUNO?oc=5",
     "news_image": "",
     "news_source": "KVAL",
-    "news_age": "7m ago",
+    "news_age": "9m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ]
   },
   {
@@ -2830,7 +2829,7 @@
     "refugees_rank": null,
     "union_rate": 77.9,
     "union_rate_rank": null,
-    "news_score": 0.41,
+    "news_score": 0.4,
     "news_title": "Austria breaks up sanctions-evasion scheme supplying Russian arms industry - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQemhDNHRGckVHU3hGazZNNld4QTVOcjd0SUVzUTdrRHZkQXUtcUZmOC1DQkRhX2VMV3BuZExJSl9xZXM1YVVObjk4Z3RZeTBnNnhrWkQtZzdRSkFtM2hCZl9NUFpVemlTbThiUzRURmV4UURfOTlpN0Z2QTdodEJQR1pBWVJzNl90eEt5TUR5VWRSZy10TWtFVmo1Y1kzTGRQd3BKaEVkckJEampOMFdjVi1tN3ZvMlk5WHdKdTdSeVhzSnpZYUpudG9wWDAxVEVfSFhJ?oc=5",
     "news_image": "",
@@ -6856,7 +6855,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.05,
+    "news_score": 0.03,
     "news_title": "Look West: Jobs and Prosperity for a Stronger BC and Canada - Province of British Columbia - Government of British Columbia",
     "news_url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1sb3l0N0g2Tm15TDdBc1VvMkpkdWl4QjM3ZlRndHFGd0VFXzh1VVdpYU9HdGtWbk9nTFlSWlZKMA?oc=5",
     "news_image": "",
@@ -8155,12 +8154,12 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 1.58,
+    "news_score": 1.57,
     "news_title": "At least 111 killed after powerful earthquake hits western Colombia - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQm11YVZfbDU1RnZ6SmtvZUJDX3JZT0JpajE4MkV2TzZsRVZhRW05X1JjUnU3a093elpuM1pIdjdKa2dhSkdLY1FtYWhkd3FBSGNLcHloc0d2ck9ESmtNOG5PRDlCQkVKLTlOMEpwbl9adkozZmppWFVvbUIxV3d6WDk5WE5VcDgwazIzajlaQlZtdXA5YVE?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -14082,16 +14081,17 @@
     "union_rate": 60.4,
     "union_rate_rank": null,
     "fifa_w_rank": 50,
-    "news_score": 0.88,
+    "news_score": 0.67,
     "news_title": "Outsiders Malawi beat Ghana to reach WAFCON semi-finals and World Cup - RFI",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUdSMG5fRFJSZ2lPUXRlT2tlLW12Njk5RnhTaXA5UmJ3YjVxd2JsbEs1eDBCNmFCSDNmRWViYmg4bTI3U1NJQWhUTXNwSmdQM1lQVmduSDNmM0JwT1prakgtdTZheEhJWlNneFF5REpUcURyTzJhYTZqdk0zZFNDM25leklXWFRPeG52Z0Q5ZE1ESkNHSXpwLU05SXdEMlFHWUZ4eTlhUGN6OFE?oc=5",
     "news_image": "",
     "news_source": "RFI",
-    "news_age": "92m ago",
+    "news_age": "94m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ]
   },
   {
@@ -16604,7 +16604,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.67,
+    "news_score": 0.66,
     "news_title": "The role of the government in India’s heat crisis - The World from PRX",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZk5LNERCQVh0UlFQU3JlTk1yYklFWE5WNm9kUU1JdUIycUhVZ2pCYmNXX1JXWkFGMUJLTUZBd1dBSVFIaTdxUF9NVDdfQ0U4dFBBd0FuQkl4Skl1ZkJGcFR6cVpjbnJCSzZ5b29NVkh4dkp2ZWVSb3Z6NS01SnVSYlNVa2FLMGRkR3ZzZkRCeTRkdw?oc=5",
     "news_image": "",
@@ -17167,19 +17167,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.98,
-    "news_title": "World in Brief: Iran says deal with Oman “very close”; earthquake rocks Colombia - The Economist",
-    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdnVsenV6dERVVF9CMFZDaVBBN0VGX0xNR0p2ZzJjMHVKaVgxZFdKNWlCMVZPQWQzbWhQOFlqRU1VU1VJTEpyOG1VdHRldHdsZWVua0c5WWtrdzd6elNqOExBdHlpSk1GMFR4VkFxekdGc29DM2VZLVN3b2V2eEJtWGNGcXdxc2p1dnRTQmdkbkNaZzE5ejFV?oc=5",
+    "news_score": 1.44,
+    "news_title": "Live updates: US-Iran war news; Oil prices climb as Iran signals Strait of Hormuz will stay closed - CNN",
+    "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xcnRIaENDM0VobHdzWGIteUx1Y1pwYU42VUlVdzhMUDRvMGV3MWZ2cEppX0NnV29nSE5ZWTFWS3dGd0ZNYjByWldRM3VERU10ZFBaUnY5X2VmTDJ6ekgxNUV4RUJ2U3ZYemZhS0NB?oc=5",
     "news_image": "",
-    "news_source": "The Economist",
-    "news_age": "3h ago",
+    "news_source": "CNN",
+    "news_age": "62m ago",
     "news_columns": [
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "gas_price",
+      "energy_per_capita",
+      "co2",
+      "renew",
+      "exports",
+      "military_pct"
     ]
   },
   {
@@ -22501,16 +22501,17 @@
     "union_rate": 63.2,
     "union_rate_rank": null,
     "fifa_w_rank": 101,
-    "news_score": 0.95,
+    "news_score": 0.72,
     "news_title": "Outsiders Malawi beat Ghana to reach WAFCON semi-finals and World Cup - RFI",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUdSMG5fRFJSZ2lPUXRlT2tlLW12Njk5RnhTaXA5UmJ3YjVxd2JsbEs1eDBCNmFCSDNmRWViYmg4bTI3U1NJQWhUTXNwSmdQM1lQVmduSDNmM0JwT1prakgtdTZheEhJWlNneFF5REpUcURyTzJhYTZqdk0zZFNDM25leklXWFRPeG52Z0Q5ZE1ESkNHSXpwLU05SXdEMlFHWUZ4eTlhUGN6OFE?oc=5",
     "news_image": "",
     "news_source": "RFI",
-    "news_age": "92m ago",
+    "news_age": "94m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ]
   },
   {
@@ -24442,7 +24443,7 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.4,
+    "news_score": 0.39,
     "news_title": "New Mexico’s Roadrunner Little League to play in Junior League World Series - KOB 4",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeW9GUnFmZUlFeVhaaUtDUU1XWHI5em0zX29rU2syN29TNjllZWdFRHlWR2RfVVo2Y3RLbkVianBJMy0zREcwQTM4b3JpMS0tNV9LUjJoeGN6LWJ3cDJuLWZhbXBzb29FdFhhYkxBNWdVcF94aXZuYTNLamxETnQyX0tRVXZ6T1hiMTZvNkxicnpZRkVGQjZ6WmotUV9mSDdZc0sxZDM5QXBGR0NBQUE?oc=5",
     "news_image": "",
@@ -28045,7 +28046,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGaVBfZVp6LWk1TmYxTGhZbGFBN1dBNmNIU1E1Qm83SnJhd3YtQ2J0dV9BZ21sUE5MbWZCbUktd2pjY1NsX3RvS1oxZ08zYnBaUF9CLVQ0b1MtNHd0ejl6TnNjTjJKYVU?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "6h ago",
+    "news_age": "7h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -32678,7 +32679,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.41,
+    "news_score": 0.4,
     "news_title": "Ukrainian drone attack on an oil hub deep inside Russia kills 13, officials say - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUNmLWxickRLU05ySXVrTTR6U2Q4aTVSZExPY3ZaZnhCR01UcUtUMzhMU1c5Q0YwNFFCc0ZRVWpLYWo0RWZHWkhRc3Y2d1lLdDhwbTFNSmRZcXJ0SHV1VUtVWmdxQUZOei1iS1dwNEk3dkhyVTJvSWZiSjl6MXU1X01nQTZjenBZWkdUYmU4eG4tdUk?oc=5",
     "news_image": "",
@@ -36236,7 +36237,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHpkWFU3RW1tNldsVTBJWkdXM0ZkUG9MV0E1Wmc0el9iVFVkXzB1dzFRNVMwdFpOZURzUUpfdk9mdVFpV0MtcDl3RWRRelRVdDdkNWIzeFR4THdBWE14TUVnNFlIekE3LTVhdS15amI3alhWa3lVdWdITWswdDBKT1Y5cU41NTJ5X2VreXVXWVhwMTVWQnJWbmVuU251bzA?oc=5",
     "news_image": "",
     "news_source": "Space",
-    "news_age": "40m ago",
+    "news_age": "42m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -41977,7 +41978,6 @@
       "mlb",
       "fifa_ranking",
       "fifa_w",
-      "olympic",
       "nfl"
     ]
   },
@@ -44269,7 +44269,7 @@
     "country_summary": "288 entities in this category",
     "gdp": 2200000,
     "g7_member": 0,
-    "news_score": 0.13,
+    "news_score": 0.09,
     "rd": 85000,
     "g20_member": 0,
     "independence": 2004,
@@ -44281,17 +44281,18 @@
     "eu_member": 0,
     "lat": 62,
     "population": 2100000,
-    "news_title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision - TechCrunch",
-    "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZWwzeUJxYkFGS3MxY0xucVh5QXRpWUNaVjZuUUwwVU1JWWtrYUlDZlJYNFE2bWh5dkFlQm5lNm5xdXRxdmpPc1N5S3B6dGhqREtMR2ZaaVhVeERlNlpfSlhCRHBZMGttcnVtaWZpQy1BRkptV2RIRXhYeVlQaVJWSkxfRmpPeTNQUVZhSXhoSWE3cTE1VUg5cEpqbzVraXNrdWg2TmlfbXFmSkRhSmtGNnVNblR3eHpRMTU0?oc=5",
+    "news_title": "The U.S. Economy Is Leaving These Companies Behind - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTmdQYk1nM01KdjdmMHFfbHpBbXo3N1IxQlUxYlp6SDJvanlrZ2J5TURSVWJYcHBlRkJybUdURFhCazVLWVpLa0VTU203TFd6eVNLalpVaVZyazhjNTVPd3ItUnlPY1p3YU5YbDhIR2FlZXI3cTJaME5EN29UUm5XRHhqb3p6TFFwLWZsU1ZLUQ?oc=5",
     "news_image": "",
-    "news_source": "TechCrunch",
-    "news_age": "3h ago",
+    "news_source": "The New York Times",
+    "news_age": "1308h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ]
   },
   {
@@ -44311,7 +44312,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 1.33,
+    "news_score": 1.32,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
@@ -44327,7 +44328,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZS1dfeGcwRDVBQ3NDRlk3WmgzaC11Tjh0OXNBRjZPemU1cTQxNjVQRjBBZHBCSmo1VW5PeHZxYUVVd0FNdlp2UVBFWHplTTVPUUdUQzc2NUthazlMRTRnY0VZTk1vcFJEOEtleTNUMFJ4Y2VKaFE?oc=5",
     "news_image": "",
     "news_source": "Cambridge Day",
-    "news_age": "51m ago",
+    "news_age": "53m ago",
     "news_columns": [
       "car_density",
       "gas_price",
