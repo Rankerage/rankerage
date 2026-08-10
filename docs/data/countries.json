@@ -1908,15 +1908,17 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.73,
+    "news_score": 0.55,
     "news_title": "Call-up boosts Oregon's Giselle White ahead of Argentina's U20 World Cup camp - KVAL",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZWVqX0kxcHF0OC1ueE1vWnFjMXFEOHNEOFRFSlhUX1IzWHRfWHJhZU41Qk5SVi1LSEtMclVjMzFtNW44WDlJZzR0WXZqVWd3VDNObTJSUi14V016Wkctc21teVlablZ1aFhTS0xsTDUwMkFuaU9mR3VpZmdkV3h5UEE0MVRvWENXU1Itd002N0dPQXQ2RDdrQzdPYklGQUNO?oc=5",
     "news_image": "",
     "news_source": "KVAL",
     "news_age": "2h ago",
     "news_columns": [
+      "fifa_ranking",
+      "fifa_w",
       "olympic",
-      "world_championships"
+      "basket"
     ]
   },
   {
@@ -7912,7 +7914,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.08,
+    "news_score": 0.07,
     "news_title": "Translators’ Voices: China's pursuit of strength and self-reliance in science and technology presents an inspiring path - Global Times",
     "news_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Hd2VWY1NXSk0tQ2xUd3BNTGppX1hnVzlubHh5Q05pU0ZwQXpENDdSREpQUFZsT2hIam8zVTA0M3AwdVJpZmRsbkVQS2VrRWZkNGhFRXdGeE55SzhQZXlIUVRR?oc=5",
     "news_image": "",
@@ -8154,15 +8156,14 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 1.77,
+    "news_score": 1.82,
     "news_title": "Powerful Colombia earthquake kills at least 111 - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQm11YVZfbDU1RnZ6SmtvZUJDX3JZT0JpajE4MkV2TzZsRVZhRW05X1JjUnU3a093elpuM1pIdjdKa2dhSkdLY1FtYWhkd3FBSGNLcHloc0d2ck9ESmtNOG5PRDlCQkVKLTlOMEpwbl9adkozZmppWFVvbUIxV3d6WDk5WE5VcDgwazIzajlaQlZtdXA5YVE?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "21m ago",
+    "news_age": "23m ago",
     "news_columns": [
-      "olympic",
-      "world_championships"
+      "olympic"
     ]
   },
   {
@@ -12861,12 +12862,8 @@
     "news_source": "News On AIR",
     "news_age": "31h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "space_launch"
+      "fifa_ranking",
+      "fifa_w"
     ]
   },
   {
@@ -13378,12 +13375,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.83,
+    "news_score": 0.82,
     "news_title": "Six Bulldogs Shine on the World Stage at 2026 World Athletics U20 Championships - University of Georgia Athletics",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcnZ1dTZRazFLUjA4WDdsZ3B6ZWJNekVqSExLUk1wVkNFejhnWk5YaG1IcEVBckNxY3JITTZvazR3QTZIdVp5bWRKTmhibGVLS2oySDlSRVE3U2NLbm85cGVXTEJVOEtSTWZLeDY4NkpqRjhEM0VoVXJzbC02WWlWWlVUMkdzN2ZOUDBGeXB3akZ6d0EwWUVpWXNvd3BBUzdVZm5peUFVV0dYUWViZDJBWTk5RDJJeXdYUFlwRzhsUkZ1SURqRkxweGdn?oc=5",
     "news_image": "",
     "news_source": "University of Georgia Athletics",
-    "news_age": "47m ago",
+    "news_age": "49m ago",
     "news_columns": [
       "edu",
       "literacy",
@@ -16606,12 +16603,12 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.97,
+    "news_score": 0.96,
     "news_title": "In India, whimsical cars are a public health intervention - The World from PRX",
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEpoaERlRVQ4Slo4ZThILUhrN1BPdGlpTWxMbUNYNnA5dnZJZEx6SElBcDBEbFBUWkVfX2sxdWhILWlTVGt5MEJDczFNX2dpdWViUkhucTNCMHFwQUVrUzJqenlseDNrdzZ0X2RHcmY2YkgxdU8yTEMtMGd5ZkdpZ1RWb0hGYVJzSXdlbjlaVHJIRktDcWxlWkNVR3FvZw?oc=5",
     "news_image": "",
     "news_source": "The World from PRX",
-    "news_age": "37m ago",
+    "news_age": "39m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -17170,7 +17167,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.0,
+    "news_score": 0.99,
     "news_title": "World in Brief: Earthquake rocks Colombia; Iran says deal with Oman “very close” - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZEk3cVNjYWNhcFlSc2dwQUNFNkQtbEp4aG9IQ1pjczFiS3JyTy01S0cxSGxNZndtZEIzdjhhSU9QZHpIVGNLRWEzWTRYa091X3BqamFVYXhTeG5UWUpxRW5ueW5lWTg3LTVQdjM0Ykk4YWRaUVo5UTkzZ1BMZE5qSW9teWtlWE44VHp3WGZlRXVtbXhkUHpJ?oc=5",
     "news_image": "",
@@ -17909,11 +17906,7 @@
     "news_source": "The Washington Post",
     "news_age": "3566h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "olympic"
     ]
   },
   {
@@ -19217,12 +19210,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.44,
+    "news_score": 0.57,
     "news_title": "Miami Hurricanes' Jordan Lyle Eyeing Comeback - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS3V4R1pmSUQwLWo1bjBCSmlkb2g5eTFEcUNXUmpoWU9pWDVaNXpfR2dCRzdJa0tkeDYwdTlYYmNtX3U1Z255a1B5WWlVc0loSWtHYXNBdC1tWnFpeUpyTGpLZC04TGdsZUgxUVhVLXRKMGJOYlhqSG5aVU5IWHpiVkNldXdVNkJrWFRWSw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "32m ago",
+    "news_age": "34m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -28051,7 +28044,7 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.02,
+    "news_score": 0.03,
     "news_title": "Women's World Cup 2027: Nigeria 'still have hope' after Wafcon 2026 exit - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGaVBfZVp6LWk1TmYxTGhZbGFBN1dBNmNIU1E1Qm83SnJhd3YtQ2J0dV9BZ21sUE5MbWZCbUktd2pjY1NsX3RvS1oxZ08zYnBaUF9CLVQ0b1MtNHd0ejl6TnNjTjJKYVU?oc=5",
     "news_image": "",
@@ -32689,7 +32682,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.22,
+    "news_score": 0.21,
     "news_title": "Ukrainian drone attack on an oil hub deep inside Russia kills 13, officials say - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUNmLWxickRLU05ySXVrTTR6U2Q4aTVSZExPY3ZaZnhCR01UcUtUMzhMU1c5Q0YwNFFCc0ZRVWpLYWo0RWZHWkhRc3Y2d1lLdDhwbTFNSmRZcXJ0SHV1VUtVWmdxQUZOei1iS1dwNEk3dkhyVTJvSWZiSjl6MXU1X01nQTZjenBZWkdUYmU4eG4tdUk?oc=5",
     "news_image": "",
@@ -41987,11 +41980,10 @@
     "news_source": "United States Eventing Association (USEA)",
     "news_age": "7h ago",
     "news_columns": [
-      "nfl_draft",
-      "nfl_combine",
-      "little_league_world_series",
+      "fifa_ranking",
+      "fifa_w",
       "olympic",
-      "world_championships"
+      "basket"
     ]
   },
   {
@@ -44284,7 +44276,7 @@
     "country_summary": "288 entities in this category",
     "gdp": 2200000,
     "g7_member": 0,
-    "news_score": 0.65,
+    "news_score": 0.69,
     "rd": 85000,
     "g20_member": 0,
     "independence": 2004,
@@ -44300,7 +44292,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNanM3a2JVejlVN1lRcUE2Q2xxMXprZ1lPY25kdWtYNk41RHBnenZsWWk0R3h0dWFpSS1Wck5QNUdSNTFmd19fbHRIMjh0UnpCRUNNdUFnRHQ4dnRCcll1SkRwSURPOW5CN2FIZ2JHbTdFcC15RVpyOXJhTlNnODBjWXl5QTRZUzNjZklPMklfUWZXX1NMbGdfd2VkeFZ1LWFKclpWY0dmY2JQcDk4bm9janE1WTVrUHBBUE81Nw?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "50m ago",
+    "news_age": "52m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -44327,7 +44319,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 1.42,
+    "news_score": 1.43,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
@@ -44339,18 +44331,18 @@
     "lat": 64,
     "g7_member": 0,
     "population": 1,
-    "news_title": "Mark Zuckerberg Posts Deranged 6,500-Word Essay About Giving Everyone AI Superintelligence - 404 Media",
-    "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWGVMeW1kYm9TZlloOGZrMldfLVNuczFYa1FYZXZvNkRvWlgtY2lkSzdjd2NXUGxyZXk5OHBQQXNoNkNkSDdIRHBoNWh1NEtGSThVTGNUbEZTNXZMaHZDTGladjFlb25IbnhwZ1ZzMTFvaHVkU1k0bXNJM2RVNlFlYTM2UGZYb2xYb1llS1NnUDZEaWY2amh6QUw3N2kyTEpvRDIyd1kxRkFMVUV5WU9wX0FyWlU1Zw?oc=5",
+    "news_title": "Brad Pitt admits he began drinking again after years of sobriety - Fox News",
+    "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUpGVjhVRFRxaVFFU3pGSWFXZ2h3QW9aanI1bktfZmNBZGQ5WDlaWV9hU0tMeW9uT3dzWFljcklaTnRrQVNRYlpudGxMV2ZGQmlBWDlzeU1NWG11MlM2N0lvWXFIOWFDaFF0dlROd3RZNU84bEpHLUlpSWFlWnNYSDBEWE4yUWNNaDQ4anVESWZjeFot0gGaAUFVX3lxTE1RQnBjTWpLWkowMWp0a1RJLVFKeVFrenJpNnFza3hoLUNNZGlBQmh3WURoRDZJSzBmanJIbXJJcS1xMzhlbjFjSElLU2ZJdDQyd1BxZnJyMUJBMHlXZXlWRFZ4bjNrT2RpcEJPRFFyZVZvaHVZZzZDZURlWU9uZXRKNHZONkowU09wODBCT0dUR0Fla0ZZVGJ1R2c?oc=5",
     "news_image": "",
-    "news_source": "404 Media",
-    "news_age": "74m ago",
+    "news_source": "Fox News",
+    "news_age": "44m ago",
     "news_columns": [
+      "alcohol",
+      "beer",
+      "wine",
+      "health",
       "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "car_density"
+      "internet_pct"
     ]
   },
   {
