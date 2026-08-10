@@ -1,70 +1,53 @@
 {
-  "last_updated": "2026-08-10T17:49:59Z",
+  "last_updated": "2026-08-10T20:23:37Z",
   "total_rankings": 135,
   "total_countries": 200,
   "version": "1.0",
   "update_frequency": "weekly",
-  "global_narrative": "Global sports and geopolitical events dominate headlines, with major narratives around the 2026 World Cup, college sports legislation, and health crises.",
+  "global_narrative": "Global attention is split between natural disasters and geopolitical tensions, while sports and tech developments also capture significant interest.",
   "trending_stories": [
     {
-      "topic": "2026 FIFA World Cup and Soccer Governance",
+      "topic": "Colombia Earthquake",
       "entities": [
-        "FIFA",
-        "UEFA",
-        "CONCACAF",
-        "AFC",
-        "SOM"
+        "CO"
       ],
-      "columns": [
-        "fifa_ranking",
-        "fifa_w"
-      ],
+      "columns": [],
       "weight": 0.9
     },
     {
-      "topic": "College Sports Legislation and Governance",
+      "topic": "US-Iran Tensions",
       "entities": [
-        "USA",
-        "NCAA",
-        "TRUMP",
-        "CRUZ"
+        "US",
+        "IR"
       ],
-      "columns": [
-        "fifa_ranking",
-        "basket"
-      ],
+      "columns": [],
       "weight": 0.8
     },
     {
-      "topic": "Natural Disasters and Health Crises",
+      "topic": "AI Infrastructure Investment",
       "entities": [
-        "COL",
-        "USA"
+        "US"
       ],
       "columns": [],
       "weight": 0.7
     },
     {
-      "topic": "AI and Technology in Sports",
+      "topic": "Sports Highlights",
       "entities": [
-        "USA",
-        "GOOGLE",
-        "META"
+        "US"
       ],
-      "columns": [],
+      "columns": [
+        "fifa_ranking",
+        "olympic"
+      ],
       "weight": 0.6
     },
     {
-      "topic": "Women's Sports Growth and Challenges",
+      "topic": "Health Scares",
       "entities": [
-        "USA",
-        "WNBA",
-        "FIFA"
+        "US"
       ],
-      "columns": [
-        "fifa_w",
-        "basket"
-      ],
+      "columns": [],
       "weight": 0.5
     }
   ]
