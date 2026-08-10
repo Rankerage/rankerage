@@ -1,1 +1,55 @@
-{"last_updated": "2026-08-10T21:01:58Z", "total_rankings": 135, "total_countries": 200, "version": "1.0", "update_frequency": "weekly", "global_narrative": "Global sports and health events dominate headlines, with major earthquakes, food safety issues, and political moves shaping the news cycle.", "trending_stories": [{"topic": "Colombia Earthquake", "entities": ["CO"], "columns": [], "weight": 0.9}, {"topic": "Food Safety Recalls", "entities": ["US"], "columns": [], "weight": 0.7}, {"topic": "NFL Preseason and Player Moves", "entities": ["US"], "columns": [], "weight": 0.6}, {"topic": "Trump Administration Policies", "entities": ["US"], "columns": [], "weight": 0.5}, {"topic": "World Cup Economic Impact", "entities": ["US", "GB"], "columns": [], "weight": 0.4}]}
+{
+  "last_updated": "2026-08-10T23:48:50Z",
+  "total_rankings": 136,
+  "total_countries": 200,
+  "version": "1.0",
+  "update_frequency": "weekly",
+  "global_narrative": "Global sports and political events dominate headlines, with major earthquakes, vaccine policy shifts, and sports contract news capturing attention.",
+  "trending_stories": [
+    {
+      "topic": "Colombia Earthquake",
+      "entities": [
+        "CO"
+      ],
+      "columns": [],
+      "weight": 0.9
+    },
+    {
+      "topic": "US Vaccine Policy",
+      "entities": [
+        "US"
+      ],
+      "columns": [],
+      "weight": 0.8
+    },
+    {
+      "topic": "NFL Contracts and Team News",
+      "entities": [
+        "US"
+      ],
+      "columns": [
+        "fifa_ranking"
+      ],
+      "weight": 0.7
+    },
+    {
+      "topic": "World Cup Economic Impact",
+      "entities": [
+        "US",
+        "GB"
+      ],
+      "columns": [
+        "fifa_w"
+      ],
+      "weight": 0.6
+    },
+    {
+      "topic": "Sports Media and Broadcasting",
+      "entities": [
+        "US"
+      ],
+      "columns": [],
+      "weight": 0.5
+    }
+  ]
+}

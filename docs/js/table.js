@@ -73,7 +73,7 @@
       // === ACHIEVEMENTS ===
       A(t('nobel'),"nobel",72),      A(t('quakeCnt'),"earthquake_count",72,false),      A(t('tsunami'),"tsunami_risk",72,false),      A(t('cyclone'),"cyclone_freq",72,false),      A(t('flood'),"flood_risk",72,false),      A(t('wildfire'),"wildfire_freq",72,false),      A(t('wcPart'),"worldcup_parts",72,false),      A(t('olyGold'),"olympic_gold",72,false),      A(t('olyCap'),"olympic_per_cap",72,false),      A(t('davis'),"davis_cup",72,false),      A(t('marathon'),"marathon_elite",72,false),      A(t('burglary'),"burglary",72,false),      A(t('drug'),"drug_offense",72,false),      A(t('assault'),"assault",72,false),      A(t('traffick'),"trafficking",72,false),      A(t('gang'),"gang_violence",72,false),      A(t('cancer'),"cancer",72,false),      A(t('diabetes'),"diabetes",72,false),      A(t('hiv'),"hiv_prev",72,false),      A(t('vaccine'),"vaccination",72,false),      A(t('mental'),"mental_health",72,false),      A(t('startup'),"startup_rate",72,false),      A(t('costlive'),"cost_living",72,false),      A(t('house'),"house_price",72,false),      A(t('minwage'),"min_wage",72,false),      A(t('pisaM'),"pisa_math",72,false),      A(t('pisaS'),"pisa_science",72,false),      A(t('pisaR'),"pisa_reading",72,false),      A(t('phd'),"phd_per_cap",72,false),      A(t('pub'),"research_pub",72,false),      A(t('recycle'),"recycling",72,false),      A(t('plastW'),"plastic_waste",72,false),      A(t('parkPct'),"park_area",72,false),      A(t('immig'),"immigration",72,false),      A(t('emig'),"emigration",72,false),      A(t('refugee'),"refugees",72,false),      A(t('genderGap'),"gender_gap",72,false),      A(t('lgbtq'),"lgbtq_rights",72,false),      A(t('g5g'),"g5_coverage",72,false),      A(t('ai'),"ai_research",72,false),      A(t('space'),"space_launch",72,false),      A(t('arms'),"arms_export",72,false),      A(t('peacekeep'),"peacekeeping",72,false),      A(t('intangbl'),"intangible",72,false),      A(t('film'),"film_prod",72,false),      A(t('michelin'),"michelin",72,false),      A(t('game'),"game_market",72,false),      A(t('tea'),"tea_consume",72,false),      A(t('rice'),"rice_consume",72,false),      A(t('waste'),"food_waste",72,false),      A(t('holiday'),"holidays",72,false),      A(t('influ'),"influencers",72,false),      A(t('fest'),"festivals",72,false),      A(t('tan'),"tanning",72,false),      A(t('streetfd'),"street_food",72,false),      A(t('cat'),"cat_own",72,false),      A(t('dog'),"dog_own",72,false),
       // === CULTURE/LIFESTYLE ===
-      A(t('gini'),"gini",72,false), A(t('suicide'),"suicide",72,false),
+      A(t('gini'),"gini",72,false), A(t('b50w'),"bottom50_wealth",78), A(t('suicide'),"suicide",72,false),
       A(t('literacy'),"literacy",78,false), A(t('leave'),"leave",72,false),
       A(t('independence'),"independence",82,false), A(t('netspeed'),"netspeed",82,false),
       A(t('doctors'),"doctors",72,false), A(t('heritage'),"heritage",72,false),
@@ -473,7 +473,7 @@
     var allColumns = cols;
 
     // Column aliases/synonyms for smarter matching
-                var aliases = {
+                    var aliases = {
       "agri": "농업 농경지 agri Agricultural Land — 국토 중 농경지 비율, % (Source: World Bank)".split(" "),
       "airports": "공항 airports Airports — 공항 총 개수 (Source: CIA Factbook)".split(" "),
       "alcohol": "술 알코올 음주 alcohol Alcohol Consumption — 1인당 연간 알코올 소비량, L (Source: WHO)".split(" "),
@@ -487,6 +487,7 @@
       "beer": "맥주 beer Beer Consumption — 1인당 연간 맥주소비량 L (Source: Kirin Beer Univ.)".split(" "),
       "birth_rate": "출생률 출산 birth rate Birth Rate — 1000명당 출생률 (Source: UN)".split(" "),
       "books": "도서 책 books Book Publications — 연간 신간 발행 수 (Source: IPA)".split(" "),
+      "bottom50_wealth": "bottom50 wealth bottom50_wealth".split(" "),
       "cancer": "암 cancer Cancer Incidence — 10만명당 암발생률 (Source: WHO)".split(" "),
       "car_density": "자동차 차량 car density Car Density — 1000명당 자동차 보유대수 (Source: OICA)".split(" "),
       "chess": "체스 chess Chess Grandmasters — 체스 그랜드마스터 수 (Source: FIDE)".split(" "),
@@ -612,7 +613,7 @@
     };
 
     // ===== AI CLUSTERS: smart topic groupings =====
-                var searchClusters = {
+                    var searchClusters = {
       "경제 경제력 GDP 소득 부자 무역 수출입 세금": ["gdp", "gdp_per_capita", "reserves", "exports", "imports", "salary", "tax_rev", "inflation", "debt", "govern_spend", "union_rate"],
       "건강 의료 병원 수명 질병 암 당뇨": ["health", "life_expectancy", "doctors", "beds", "cancer", "diabetes", "mental_health", "hiv_prev", "maternal_mortality", "infant_mortality", "obesity", "alcohol", "smoking"],
       "범죄 살인 절도 폭력 마약": ["murder", "prison", "police", "death_penalty", "domestic_viol", "polit_kill"],
