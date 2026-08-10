@@ -1567,5 +1567,40 @@
   });
   document.getElementById("search").addEventListener("input", function(){ pauseRotation(); });
 
+  // ── Trend Chart: 셀 클릭 → 10년 추이 그래프 ──
+  var historyCache = null;
+  var chartInstance = null;
+  function loadHistory(cb) {
+    if (historyCache) return cb(historyCache);
+    fetch('data/history.json').then(function(r){return r.json()}).then(function(d){historyCache=d;cb(d);});
+  }
+  table.on("cellClick", function(e, cell){
+    var field = cell.getColumn().getField();
+    var frozenFields = ['country_code','country_name_en','election_days','news_score'];
+    if (frozenFields.indexOf(field) >= 0) return;
+    if (field.endsWith('_rank')) return;
+    var rowData = cell.getRow().getData();
+    var code = (rowData.country_code||'').toUpperCase();
+    var name = (rowData.country_name_en||'').replace(/\*+/g,'');
+    var col = table.getColumnDefinitions().find(function(c){return c.field===field;});
+    var metricName = col ? (col.title||field) : field;
+    loadHistory(function(hist){
+      if (!hist[field]) { alert('No trend data for '+metricName); return; }
+      var countryData = hist[field][code];
+      if (!countryData) { alert('No data for '+name); return; }
+      var years = Object.keys(countryData).sort();
+      var values = years.map(function(y){return countryData[y];});
+      document.getElementById('trendTitle').textContent = '📈 '+name+' — '+metricName+' ('+years[0]+'~'+years[years.length-1]+')';
+      document.getElementById('trendModal').style.display = 'flex';
+      var ctx = document.getElementById('trendChart').getContext('2d');
+      if (chartInstance) chartInstance.destroy();
+      chartInstance = new Chart(ctx, {
+        type:'line',
+        data:{labels:years,datasets:[{label:name,data:values,borderColor:'#e0c87c',backgroundColor:'rgba(224,200,124,0.1)',fill:true,tension:0.3,pointRadius:3,pointBackgroundColor:'#e0c87c'}]},
+        options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{ticks:{color:'#545d7a',maxTicksLimit:10}},y:{ticks:{color:'#545d7a',callback:function(v){return v>=1e9?(v/1e9).toFixed(1)+'B':v>=1e6?(v/1e6).toFixed(1)+'M':v>=1e3?(v/1e3).toFixed(1)+'K':v;}}}}}
+      });
+    });
+  });
+
   }).catch(function(err){console.error('I18N init failed',err);});
 })();
