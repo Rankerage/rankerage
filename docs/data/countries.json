@@ -2831,7 +2831,7 @@
     "refugees_rank": null,
     "union_rate": 77.9,
     "union_rate_rank": null,
-    "news_score": 0.54,
+    "news_score": 0.53,
     "news_title": "Austria breaks up sanctions-evasion scheme supplying Russian arms industry - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQemhDNHRGckVHU3hGazZNNld4QTVOcjd0SUVzUTdrRHZkQXUtcUZmOC1DQkRhX2VMV3BuZExJSl9xZXM1YVVObjk4Z3RZeTBnNnhrWkQtZzdRSkFtM2hCZl9NUFpVemlTbThiUzRURmV4UURfOTlpN0Z2QTdodEJQR1pBWVJzNl90eEt5TUR5VWRSZy10TWtFVmo1Y1kzTGRQd3BKaEVkckJEampOMFdjVi1tN3ZvMlk5WHdKdTdSeVhzSnpZYUpudG9wWDAxVEVfSFhJ?oc=5",
     "news_image": "",
@@ -8159,12 +8159,12 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.89,
-    "news_title": "Buildings collapse after magnitude-7.4 earthquake in Colombia - bbc.com",
+    "news_score": 0.86,
+    "news_title": "Buildings collapse after magnitude-7.4 earthquake in Colombia - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QbG5ndEZ1enJXUjNYbjVjdldqRzNDR01UdW1tZzF3SEY3WHBVUm9pVjJsd0hqaWlYSVcyQlJkRzE2ZUlyckZTSDlLb2Flb1dXVHl0MA?oc=5",
     "news_image": "",
-    "news_source": "bbc.com",
-    "news_age": "56m ago",
+    "news_source": "BBC",
+    "news_age": "58m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -12870,12 +12870,9 @@
     "news_source": "News On AIR",
     "news_age": "28h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "space_launch"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ]
   },
   {
@@ -14086,16 +14083,15 @@
     "union_rate": 60.4,
     "union_rate_rank": null,
     "fifa_w_rank": 50,
-    "news_score": 1.28,
+    "news_score": 1.13,
     "news_title": "Outsiders Malawi beat Ghana to reach WAFCON semi-finals and World Cup - RFI",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUdSMG5fRFJSZ2lPUXRlT2tlLW12Njk5RnhTaXA5UmJ3YjVxd2JsbEs1eDBCNmFCSDNmRWViYmg4bTI3U1NJQWhUTXNwSmdQM1lQVmduSDNmM0JwT1prakgtdTZheEhJWlNneFF5REpUcURyTzJhYTZqdk0zZFNDM25leklXWFRPeG52Z0Q5ZE1ESkNHSXpwLU05SXdEMlFHWUZ4eTlhUGN6OFE?oc=5",
     "news_image": "",
     "news_source": "RFI",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ]
   },
   {
@@ -16608,7 +16604,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.91,
+    "news_score": 0.89,
     "news_title": "The role of the government in India’s heat crisis - The World from PRX",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZk5LNERCQVh0UlFQU3JlTk1yYklFWE5WNm9kUU1JdUIycUhVZ2pCYmNXX1JXWkFGMUJLTUZBd1dBSVFIaTdxUF9NVDdfQ0U4dFBBd0FuQkl4Skl1ZkJGcFR6cVpjbnJCSzZ5b29NVkh4dkp2ZWVSb3Z6NS01SnVSYlNVa2FLMGRkR3ZzZkRCeTRkdw?oc=5",
     "news_image": "",
@@ -17171,15 +17167,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.81,
-    "news_title": "Live updates: US-Iran war news; Oil prices climb as Iran signals Strait of Hormuz will stay closed - CNN",
-    "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xcnRIaENDM0VobHdzWGIteUx1Y1pwYU42VUlVdzhMUDRvMGV3MWZ2cEppX0NnV29nSE5ZWTFWS3dGd0ZNYjByWldRM3VERU10ZFBaUnY5X2VmTDJ6ekgxNUV4RUJ2U3ZYemZhS0NB?oc=5",
+    "news_score": 1.65,
+    "news_title": "Live Updates: Trump says U.S. only \"semi-negotiating\" with Iran after Tehran sets demands to reopen Strait of Hormuz - CBS News",
+    "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeVR5TzZOblVGaldmaERTUlk2Sk5XSEhfYWNiTWMyRVhwNXdZamp5LVhBX2JKMTdxSlFlZHQ4WFc3Vk1OakI0VFlNMThrS3ZPdzB6LUxCSThSSmtvbW5ISkJYSWN3WUNDaTFUTXl1QnFoXzlCV3UtdW9CNjJodTc2VGhWTG0?oc=5",
     "news_image": "",
-    "news_source": "CNN",
-    "news_age": "52m ago",
+    "news_source": "CBS News",
+    "news_age": "79m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "gas_price",
+      "energy_per_capita",
+      "co2",
+      "renew",
+      "exports",
+      "military_pct"
     ]
   },
   {
@@ -22501,16 +22501,15 @@
     "union_rate": 63.2,
     "union_rate_rank": null,
     "fifa_w_rank": 101,
-    "news_score": 1.35,
+    "news_score": 1.21,
     "news_title": "Outsiders Malawi beat Ghana to reach WAFCON semi-finals and World Cup - RFI",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUdSMG5fRFJSZ2lPUXRlT2tlLW12Njk5RnhTaXA5UmJ3YjVxd2JsbEs1eDBCNmFCSDNmRWViYmg4bTI3U1NJQWhUTXNwSmdQM1lQVmduSDNmM0JwT1prakgtdTZheEhJWlNneFF5REpUcURyTzJhYTZqdk0zZFNDM25leklXWFRPeG52Z0Q5ZE1ESkNHSXpwLU05SXdEMlFHWUZ4eTlhUGN6OFE?oc=5",
     "news_image": "",
     "news_source": "RFI",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ]
   },
   {
@@ -24442,7 +24441,7 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.53,
+    "news_score": 0.52,
     "news_title": "New Mexico’s Roadrunner Little League to play in Junior League World Series - KOB 4",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeW9GUnFmZUlFeVhaaUtDUU1XWHI5em0zX29rU2syN29TNjllZWdFRHlWR2RfVVo2Y3RLbkVianBJMy0zREcwQTM4b3JpMS0tNV9LUjJoeGN6LWJ3cDJuLWZhbXBzb29FdFhhYkxBNWdVcF94aXZuYTNLamxETnQyX0tRVXZ6T1hiMTZvNkxicnpZRkVGQjZ6WmotUV9mSDdZc0sxZDM5QXBGR0NBQUE?oc=5",
     "news_image": "",
@@ -25563,7 +25562,10 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket",
+      "gender",
+      "gender_gap"
     ]
   },
   {
@@ -28037,7 +28039,7 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.23,
+    "news_score": 0.22,
     "news_title": "Women's World Cup 2027: Nigeria 'still have hope' after Wafcon 2026 exit - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGaVBfZVp6LWk1TmYxTGhZbGFBN1dBNmNIU1E1Qm83SnJhd3YtQ2J0dV9BZ21sUE5MbWZCbUktd2pjY1NsX3RvS1oxZ08zYnBaUF9CLVQ0b1MtNHd0ejl6TnNjTjJKYVU?oc=5",
     "news_image": "",
@@ -32675,12 +32677,12 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.82,
+    "news_score": 1.11,
     "news_title": "Ukrainian drone strikes 750 miles inside Russia kill at least 13, authorities say - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdkVrQ2Q0MERpaVZuQWJZNXV2SEZPOElTdWVPRXRpMmNmSXQ1VDFyU2tNUDRjTjI5M3NiQ0hYQzVmRmhiVmJzVGlkTVgyWXA0VzFUR19BTFNQMmVIZkZ4ZVJCdF9JOGVpT0xocDZNdWNVRDh2QmcxZV9ReXNwZjlJVg?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "50m ago",
+    "news_age": "52m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -40712,7 +40714,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.08,
+    "news_score": 0.09,
     "news_title": "North Korea preparing to deploy another 50,000 soldiers to fight for Russia in Ukraine, Zelensky claims - The Independent",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSU52eDQ1a25rbklKdm1BUktqdzVLRWNtV21VRlhhUGxEclBvVmhpS3JYUXhNVVpBNElkbEZ3SHk5NTNrdHlBeWtjZ2pPc2VXTXdUZUx2ck9ES19JbGpkUXN1Y3ZKQ1VfVmZ1YUxjZDhzY2RiVnRSRzcwM0hOdG1QOWx2a2s2V3ppMmVIaGlnRy00ZFBGTlg3NU10eUo5NkhsVFF6RXlOOW9yakk4R2o0?oc=5",
     "news_image": "",
@@ -41964,16 +41966,18 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.51,
+    "news_score": 0.49,
     "news_title": "USEA Podcast #419: Two Duttons, Two World Championships - United States Eventing Association (USEA)",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbXc4V2Z5bW1EUFd0azd5Q1E5dGU5SDZfM21qbFZodS04bUxjY2lmU3pjbS1lZG5WY2lfTDduWkl1bFA0M3FMVHFNU1pIX0JIdDRnYzUxeV9KajBDTFY0c0xqR1hEbkFTaUZhSHgxSnBUSGJuQzhuXzNVaFRscEV0SEEtNWwwYjY0VjYzWk5QSFUzbG4tN0E?oc=5",
     "news_image": "",
     "news_source": "United States Eventing Association (USEA)",
-    "news_age": "3h ago",
+    "news_age": "4h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "nfl",
+      "mlb"
     ]
   },
   {
@@ -44307,7 +44311,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 0.46,
+    "news_score": 0.43,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
@@ -44319,18 +44323,18 @@
     "lat": 64,
     "g7_member": 0,
     "population": 1,
-    "news_title": "Brad Pitt Says ‘Family Stuff’ Drove Him to Suicidal Thoughts - Rolling Stone",
-    "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY2tBbzl5YVptNHBsX0EwWHNTZVFnVGU2S2FobzlhQlJONHZxT0dXQlJZb3VrcFZvSFFWS1g5NGZSNVFDTGVCdi04cDd6THFRR2lvR3hmRm1MRDAtUUh4Mm9RMEgydERtTHNCYVlDaXBwWXZISlVjbTRRY2xNMjVJVy02Vlk0UnBFZ3d0WDU5X2JzVWdBNDlQdXdlVDV4cTQ4SGdOYw?oc=5",
+    "news_title": "Brad Pitt Says He’s Drinking Again After 7 Years of Sobriety - The Hollywood Reporter",
+    "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUlcybE0xLTFmQ1dlTGxpOGxraWVva0ZLMkhPR3BuV3hHX1FVQTVPVlBCMFZ1X1BESmVRSERuUF8zOHVPeEtteFU2a3QxLWpvb21tZUxIOFJEcDNObTdJQWhyYzFad3BuRFBBVWF3bkgxUFFxQjhXYVpidGRZc2V2alpQRkhNQQ?oc=5",
     "news_image": "",
-    "news_source": "Rolling Stone",
+    "news_source": "The Hollywood Reporter",
     "news_age": "3h ago",
     "news_columns": [
+      "alcohol",
+      "beer",
+      "wine",
+      "health",
       "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "car_density"
+      "internet_pct"
     ]
   },
   {
