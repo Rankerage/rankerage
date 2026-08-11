@@ -8196,19 +8196,19 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 1.16,
+    "news_score": 1.24,
     "news_title": "August 10, 2026: Death toll rises to 132 following 7.4 magnitude earthquake in Colombia - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2E0OE5yZGJtT1ItYXF5SU9URXp2SzRFcWFIR0tvUmFFei1jcVFxUG4yVTZCb0F3N1hVZXMtalpjUEc0RmhNblhIN0F1ZXhJTHI1b3YyNnFmZE84T0FpWkdjdUVKWEVQb09MV0p2VllfYTJsVGpCMnk3WV9xdHM2dnJBWlc3ZExLSmp5SnlVUQ?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "56m ago",
+    "news_age": "58m ago",
     "news_columns": [
-      "democracy",
-      "approval",
-      "press",
-      "election_days",
       "earthquake_count",
-      "earthquakes"
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ],
     "bottom50_wealth": null
   },
@@ -12922,16 +12922,19 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.06,
+    "news_score": 0.71,
     "news_title": "Charleston-area chef captains US pastry team to the world finals in France - Post and Courier",
     "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQW01ZzNPbUdDd1poOEJpR294SFdCZ0hBNE0xWjVTOTBJUWp6TDZaU1dveFVpRTNIMUF3TnRITnctQ3FfbWFMM0tfeTg3czRCNzktQVhSLTgzYjdxTlFvdmJtMS1hbnNYbGRSNDdRT0FuaE1yWU13SURaWlVrVDhreE9ZS2pnT0htZzNGaU1UeTBFY25pMGdxWUZGYVMwQkxPUEFJTGxPcFFrQm5VZFlDSTNFSWRVbHV2X2tSRlJB?oc=5",
     "news_image": "",
     "news_source": "Post and Courier",
-    "news_age": "80m ago",
+    "news_age": "82m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "coffee"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17262,19 +17265,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.68,
-    "news_title": "Trump used elaborate ruse to fly out of Turkey following summit because of Iran threat, report says - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaWEwRVJMUWthdlFuSTV5N2ZqaDA2TXViaUlic1NJSlgtbXNKYzY5Qnh2d0QtMGRGYTg1QU5uUFNaY2xXOEpPenR1TEZrWGJIT2NxTFFtUE9yZFlUdUlKNFNfRUJ0MV9wT3NjdkhXYWVKN1NTeUh5c1JlTzNiMUM0ZzNyZXBmX0dkdkxWTHktRG9HeWpQMEE?oc=5",
+    "news_score": 1.17,
+    "news_title": "World Cup boost helps Holiday Inn owner weather Iran war hit - uk.finance.yahoo.com",
+    "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVHpuRFJ5ZGIwcTVOTDlkMjdIMUJNa3V1SDNzQWwwQkdBWnEzMmZVZXp3QUxmVHk1dkN4c3NyT1A3aUJWM3laZDVvejdtVGxwc3NoUUhrbEJCVldFTS0yT3ZYX3I2YlVFRUlEd2VLRkRyeEE2R0tPVXhwcjJIMW9HZzZ3anQ?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "96m ago",
+    "news_source": "uk.finance.yahoo.com",
+    "news_age": "3h ago",
     "news_columns": [
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket",
       "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "nuclear"
     ],
     "bottom50_wealth": null
   },
@@ -19130,7 +19133,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.02,
+    "news_score": 0.01,
     "news_title": "The 11th Meeting of the Japan-France Joint Committee on Cooperation in Science and Technology - mofa.go.jp",
     "news_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42OVlMNk55UHpxdkFwQWtDMUhCUmFmTEtJVnFfcC13ckl4SnNfdVJ1N1k2QXNnckwxR2hLMy15OGdKV29TUkJkQmZCeW5HODVLeWU0akFlaGRyQWIxYzJmYjgzY3BjY3M2ejBsSC1TZ1M?oc=5",
     "news_image": "",
@@ -28197,15 +28200,15 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.44,
+    "news_score": 0.62,
     "news_title": "South Africa vs. Nigeria - Kick-off time, team news, permutations, how to watch - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1M3VHltd1VWcWVKNzliUmotc2F5eFJWWnQ1ZlBxZ01ybnN3cEhrOFlRZEl6b09uUjFMWkhmMWdpRW9oeWRKZ3RMX2JXaC1ieXNMQ2JIdXdvX1hQdkU3aGZpSnljaF9sb1JHbW8tdVQtSHAzcHl1VzUyaGk5MGxVNUxjeGdtNWtlVFYxQ2ptMjNUaEE0UkgwWXBDTEhadlpobVdXc2JqWkh3MnA5TERV?oc=5",
     "news_image": "",
     "news_source": "ESPN",
     "news_age": "3h ago",
     "news_columns": [
-      "coffee",
-      "tea_consume"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -31665,19 +31668,15 @@
     "refugees_rank": null,
     "union_rate": 77.8,
     "union_rate_rank": null,
-    "news_score": 0.84,
+    "news_score": 1.16,
     "news_title": "Moises Henriques to captain Portugal in T20 World Cup qualification bid - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSmVQbnlZV3BHNGNUN1k0LWtib1hDMmZCSzR2Q3RoRXkzV1JBOWFjZ3h5aVpEVmF5bmhfX0lNYmdNSlZNWXBYMUhDM3gwWWpZbDFxazhyZzQ4aEt0MXFvc2JZM3NVWXVpZTlHYmphU2NpaWVrWDcwakRKYkh5X1VyWXlYck51QTMtY0ZTWWN4TVNmOHJ0b3gwUHhkX3hUWGlCSndKMFFEbURiN1Q4ZGhmaHprUQ?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "43m ago",
+    "news_age": "45m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "fifa_w"
     ],
     "bottom50_wealth": 6.1,
     "bottom50_wealth_rank": 4
@@ -35366,15 +35365,15 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.44,
+    "news_score": 0.62,
     "news_title": "South Africa vs. Nigeria - Kick-off time, team news, permutations, how to watch - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1M3VHltd1VWcWVKNzliUmotc2F5eFJWWnQ1ZlBxZ01ybnN3cEhrOFlRZEl6b09uUjFMWkhmMWdpRW9oeWRKZ3RMX2JXaC1ieXNMQ2JIdXdvX1hQdkU3aGZpSnljaF9sb1JHbW8tdVQtSHAzcHl1VzUyaGk5MGxVNUxjeGdtNWtlVFYxQ2ptMjNUaEE0UkgwWXBDTEhadlpobVdXc2JqWkh3MnA5TERV?oc=5",
     "news_image": "",
     "news_source": "ESPN",
     "news_age": "3h ago",
     "news_columns": [
-      "coffee",
-      "tea_consume"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 1.2,
     "bottom50_wealth_rank": 29
@@ -36430,11 +36429,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcFdxX3hRSjFubmkyNThuMTI3OVFDbjZCWjVhdzBvMm1SV09PMXZWcVJocEwwSG5uTmFwOGJ3SlB5TGhheXR4cnpDZTZzclgzX2hOVzF2MTVvMGpaNXRSTlBXRFBNY0QtRnhjeFMzRlZ5aGx4S0pJSVQ4dmhkWDRwamRn?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "100m ago",
+    "news_age": "102m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -37903,18 +37901,17 @@
     "union_rate": 38.9,
     "union_rate_rank": null,
     "fifa_w_rank": 105,
-    "news_score": 0.41,
-    "news_title": "Bashar al-Assad, Atef Najib sentenced to death in landmark Syria trial - Al Jazeera",
+    "news_score": 0.65,
+    "news_title": "Bashar al-Assad, Atef Najib sentenced to death in landmark Syria trial - aljazeera.com",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbHNxYWNhdzFEb3B1V19Ob2pxV3FZUlV4QnE4aVVMeE1rZ1FfRW1jUTNqS25kZDdMMXNBRC0talZSR1V2aUJxanI1ekw1Zl9EYWhwcEJDZUp0OGlQanRMaHhTbUhBUTNqTXZuelZJdF8xWlNrdHhVRktMUno1NkJ1RDVWczBPaXhjZkd2eVVubGxIQ2hBdVBOTnJwRDhBelFrNE9TV1hMckxpQzU3bjRn0gG0AUFVX3lxTFBqSDNnYzcyM1o2NXRxQm05OHNuS091VTVXa3dsME4wbEJOOElETFUxSXBXdzFRWE9SdTVLZDV3VkwwODZ5MjQ1NHMxSlhHNGJWaHNORTRiMVR3WmVlRlBCQnV0YjZoU19MTHVzV2d4MXgxdHNVc2tvc2hqUUR1NDNDRlBBc3djN0lkX1Voc0VqSWxSVTFwN3liaE5PMEllQWRXWEoyQzZrWVZrUTFsV012Wk9xSw?oc=5",
     "news_image": "",
-    "news_source": "Al Jazeera",
-    "news_age": "103m ago",
+    "news_source": "aljazeera.com",
+    "news_age": "105m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "democracy",
+      "approval",
+      "press",
+      "election_days"
     ],
     "bottom50_wealth": null
   },
@@ -39978,15 +39975,19 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.61,
-    "news_title": "Trump used elaborate ruse to fly out of Turkey following summit because of Iran threat, report says - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaWEwRVJMUWthdlFuSTV5N2ZqaDA2TXViaUlic1NJSlgtbXNKYzY5Qnh2d0QtMGRGYTg1QU5uUFNaY2xXOEpPenR1TEZrWGJIT2NxTFFtUE9yZFlUdUlKNFNfRUJ0MV9wT3NjdkhXYWVKN1NTeUh5c1JlTzNiMUM0ZzNyZXBmX0dkdkxWTHktRG9HeWpQMEE?oc=5",
+    "news_score": 0.32,
+    "news_title": "Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat - The Guardian",
+    "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZFQ4RWFKS1pmY3Nha1Nad3NLd1lIVzU3aTRLM1pkZXFoWjN0R1RyQjdENDdaYmR5dlhFcWZRT0IybEFsdkxkY3k3TU96UEw0cWd4STlXSy1xVnV4QVdrV0dPWWVLZFh4dnlMaHF2eHBsQS1GaFNsa3lGVGtYOE9kOHFsbmpJdw?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "96m ago",
+    "news_source": "The Guardian",
+    "news_age": "7h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -40935,18 +40936,18 @@
     "union_rate_rank": null,
     "fifa_w_rank": 32,
     "news_score": 0.01,
-    "news_title": "AI creates 700,000 new viruses: Why scientists are alarmed - RBC-Ukraine",
-    "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONDUtZlBqMnNTczhzRkhKV3ItOGtmb2QtaFhXQWRFdVRCSGFSZmVxdlFvSFNXaEljbHNMTWxkMDVHbk5kek1GUWxyTEFZbk9CdHhHcFlzTFdGekJiQjBYc3VLd0VuMjF4QkFnVkpRSk5DNEJwMWlyRTZla3dMQ2FzM3BxUE9zTkFONUpENDQzM3puNmNaQV9seQ?oc=5",
+    "news_title": "Russia readying more North Korean troops and missiles, Zelenskyy says - Euronews.com",
+    "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQkdUYnE3S05rY3ZCeG9BQkNfOTJGazJYVnpoNloxbFdlRTZqZnpDVWduVzZ2MXZNdVcwRmdxdl93YlNKRkJ1TXpTTjViWWZReFBTNjc4bV8wOXNSSThyR0w0R3ExSDVjc1BxOTdoUkQ5bnVGNmYwSzhlYkFyM0NCczBtYWtNTzAyREdxSHRHWHFxbEpiRjBLVVExVlV1QXFseURGVXMzWlFJNFB3bDNtTlI4d0ZvbHBWWDNWbkxBZ3BCdmJGQWRpdEdn?oc=5",
     "news_image": "",
-    "news_source": "RBC-Ukraine",
-    "news_age": "63h ago",
+    "news_source": "Euronews.com",
+    "news_age": "14h ago",
     "news_columns": [
-      "health",
-      "life_expectancy",
-      "doctors",
-      "beds",
-      "vaccination",
-      "infant_mortality"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -42190,7 +42191,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.41,
     "news_title": "Mexico crowned 2026 U20 Champions after defeating the United States - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU05VTHYxYVlXWGQzd0d0bnE2Q0M0eHZBeWFuZU5HUk9TUzVpV2c2U0lzLXZCblBPVG1ubV9kS2xpbHRiNU9OUXd4ZGF5UEhwcEdOSEVLeTZiM2JZWFA3amJvTVZvTjZZVDNPd3NYbHEzbEhpTEt6Yk5nQVdjY1RxMENnOVpRN2tneXc?oc=5",
     "news_image": "",
@@ -42198,8 +42199,7 @@
     "news_age": "4h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
