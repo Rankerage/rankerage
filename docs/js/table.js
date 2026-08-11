@@ -243,7 +243,7 @@
     function E(field,w){return{title:t('election'),field:field,width:w,
       sorter:function(a,b,aRow,bRow,col,dir){var da=aRow.getData().election_date,db=bRow.getData().election_date;if(!da&&!db)return 0;if(!da)return 1;if(!db)return -1;return da.localeCompare(db);},
       headerTooltip:function(){return descTip(field,t('election'));},
-      formatter:function(c){var d=c.getRow().getData(),dt=d.election_date;if(!dt)return'<span style="color:#545d7a;">—</span>';var p=dt.split('-'),s=p[1]+'/'+p[2];var title=d.election_title||'';var name=d.country_name_en||'';var cn=name.replace(/\*+/g,'');var q=encodeURIComponent(cn+' election polls results');var url='https://news.google.com/search?q='+q+'&hl=en-US&gl=US&ceid=US:en';var style='cursor:pointer;color:#e0c87c;font-weight:700;font-size:12px;';if(title)style+='text-decoration:underline dotted;';return'<a href=\"'+esc(url)+'\" target=\"_blank\" style=\"'+style+'\" title=\"'+esc(title||name)+'\">'+s+'</a>';}};}
+      formatter:function(c){var d=c.getRow().getData(),dt=d.election_date;if(!dt)return'<span style="color:#545d7a;">—</span>';var p=dt.split('-'),s=p[1]+'/'+p[2];var title=d.election_title||'';var name=d.country_name_en||'';var cn=name.replace(/\*+/g,'');var style='cursor:pointer;color:#e0c87c;font-weight:700;font-size:12px;';if(title)style+='text-decoration:underline dotted;';return'<span onclick="window.__showElectionNews(\''+esc(cn)+'\',\''+esc(title)+'\',\''+s+'\')" style="'+style+'" title="'+esc(title||name)+'">'+s+'</span>';}};}
 
     // Special formatters for non-standard value types
     cols.forEach(function(col){
@@ -1097,6 +1097,34 @@
       
       // rotation pause
       pauseRotation();
+    };
+
+    // ── Election News Modal ──
+    window.__showElectionNews = function(country, title, date) {
+      var modal = document.getElementById('elecNewsModal');
+      document.getElementById('elecNewsTitle').textContent = '🗳 '+country+' — '+date+(title?' ('+title+')':'');
+      document.getElementById('elecNewsBody').innerHTML = '<div style="text-align:center;padding:20px;color:#545d7a;">⏳ 뉴스 검색 중...</div>';
+      modal.style.display = 'flex';
+      // Google News RSS via CORS proxy
+      var q = encodeURIComponent(country+' election '+title);
+      var rssUrl = 'https://news.google.com/rss/search?q='+q+'&hl=en-US&gl=US&ceid=US:en';
+      fetch(rssUrl).then(function(r){return r.text()}).then(function(xml){
+        var items = xml.match(/<item>[\s\S]*?<\/item>/g)||[];
+        var html = '';
+        for (var i=0;i<Math.min(items.length,8);i++) {
+          var t = (items[i].match(/<title>(.*?)<\/title>/)||[])[1]||'';
+          var l = (items[i].match(/<link>(.*?)<\/link>/)||[])[1]||'';
+          var s = ((items[i].match(/<source[^>]*>(.*?)<\/source>/)||[])[1]||'');
+          html += '<div style="margin-bottom:6px;padding-bottom:6px;border-bottom:1px solid rgba(255,255,255,0.04);">';
+          html += '<a href="'+esc(l)+'" target="_blank" style="color:#5b8def;font-size:12px;text-decoration:none;">'+esc(t)+'</a>';
+          if(s) html += '<span style="color:#545d7a;font-size:10px;margin-left:6px;">'+esc(s)+'</span>';
+          html += '</div>';
+        }
+        if(!html) html = '<div style="color:#545d7a;">뉴스를 찾을 수 없습니다.</div>';
+        document.getElementById('elecNewsBody').innerHTML = html;
+      }).catch(function(){
+        document.getElementById('elecNewsBody').innerHTML = '<a href="https://news.google.com/search?q='+q+'" target="_blank" style="color:#5b8def;">Google News에서 보기 →</a>';
+      });
     };
 
     // Anthem modal - open via event delegation
