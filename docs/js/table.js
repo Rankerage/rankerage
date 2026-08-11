@@ -291,7 +291,7 @@
       height:"calc(100vh - 96px)",layout:"fitDataFill",data:[],columns:cols,
       pagination:false,movableColumns:true,headerHozAlign:"center",tooltips:true,tooltipDelay:150,rowHover:true,headerVisible:true,
       placeholder:'<div style="padding:40px;text-align:center;color:#545d7a;"><div style="font-size:48px;">🌍</div><div style="font-size:16px;font-weight:600;">'+t('loading')+'</div></div>',
-      sortMode:"single",selectable:false,selectableRows:false,selectableCells:false,clipboard:true,selectableRangeMode:"click",
+      sortMode:"single",initialSort:[{column:"election_days",dir:"asc"}],selectable:false,selectableRows:false,selectableCells:false,clipboard:true,selectableRangeMode:"click",
       clipboardCopyConfig:{columnHeaders:false,columnGroups:false,rowGroups:false,columnCalcs:false},
       rowFormatter:function(row){row.getElement().dataset.needsColspan='1';}
     });
@@ -952,8 +952,8 @@
       });
       // Progressive rendering: load in chunks to avoid freezing browser
       var CHUNK = 20, idx = 0;
-      // Clear initial sort during chunked load (addData triggers sort otherwise)
-      table.setSort([]);
+      // Start with election sort from first chunk
+      table.setSort([{column:"election_days",dir:"asc"}]);
       function loadChunk() {
         var chunk = data.slice(idx, idx + CHUNK);
         if (idx === 0) {
