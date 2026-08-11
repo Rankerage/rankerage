@@ -103,6 +103,18 @@ def main():
         print(f"  {code} {e['electionname']}: {e['electiondate']} ({'+'if days>=0 else ''}{days}d) — {e.get('institution','')}")
     
     # 순위 재계산 (election_days asc → 작을수록 임박)
+    # ── 모든 국가의 election_days를 오늘 기준으로 재계산 (절대값) ──
+    recalc = 0
+    for c in countries:
+        dt = c.get('election_date')
+        if dt:
+            try:
+                edate = datetime.strptime(dt, '%Y-%m-%d').date()
+                c['election_days'] = abs((edate - today).days)
+                recalc += 1
+            except:
+                pass
+    
     ranked = sorted(
         [(i, c.get('election_days', 99999)) for i, c in enumerate(countries) if c.get('election_date')],
         key=lambda x: x[1]
