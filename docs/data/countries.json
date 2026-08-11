@@ -2531,7 +2531,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.44,
+    "news_score": 0.34,
     "news_title": "VN, Australia should forge new strategic partnership in science, technology - Báo VietNamNet",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaXZ6V3BDUnJhTHo5U1J4RVRNd2ZhSUhjY3FlbDVDRDRRVmtqWjczdU9ZTENpcjQtOGRKTjVSVkRRbEhzUXBib2c2YThMa2dwUHVvNnAzd0V6TlFJRzN5UzhnTm1fTlBQS19CWUY4OTA4WmYyTjVqYmNBd0s5MVVXcWttNEE0TTkwX0c5VFhwNTlKSU9jR1lPQTNWOWw3MW1YME9SUzF3WTZqVG95NlJieQ?oc=5",
     "news_image": "",
@@ -7949,7 +7949,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.65,
+    "news_score": 0.62,
     "news_title": "Opinion | China exports its economic problems to the world - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdEVSd0V6U05sVnNiSzQtMHU1Sm9Ybl9GWnlZbmRHMGJXSFJtSHlVajNOQXNkVzRnZFZ1ekxEcDNaTk1FcGZOanBLbFgzX3p1V2R1SWdNY1prYUYtZ2hTejBpdi04TUFfQUU3eVJVaGlsQzZSeFZDTkdaVjNwbHpuSXpmX1RRaVN5cEFSNkkxazRPcHhvTkgyVUVWeGZBZllpTlVtVWZzVzNHc3UxUXc?oc=5",
     "news_image": "",
@@ -8190,14 +8190,19 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 1.53,
+    "news_score": 1.7,
     "news_title": "Live updates: Death toll rises to 132 following 7.4 magnitude earthquake in Colombia - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2E0OE5yZGJtT1ItYXF5SU9URXp2SzRFcWFIR0tvUmFFei1jcVFxUG4yVTZCb0F3N1hVZXMtalpjUEc0RmhNblhIN0F1ZXhJTHI1b3YyNnFmZE84T0FpWkdjdUVKWEVQb09MV0p2VllfYTJsVGpCMnk3WV9xdHM2dnJBWlc3ZExLSmp5SnlVUQ?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "27m ago",
+    "news_age": "29m ago",
     "news_columns": [
-      "fifa_ranking"
+      "earthquake_count",
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ],
     "bottom50_wealth": null
   },
@@ -16686,7 +16691,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNmJlSUJ2akRmcUFwWkdmZnJ6MThhaTRyaEJzR2pyYWZGVkRxOHVZV0N3TS05Q25SZWRwMmFXY2U2RTk0bFpRck9yNmJlb2JLSjVVWEx2VHEzNzBxd0ZhcFhNR2pMQ1c2dnRRczkxcEZBQ3hscVU5TS1RN2RJdzlXMFZtaTNId1dyWEFaWmpydzBUbmFlZXdsNEVvdnluSUFpWFlFRXdfdjNTZk9vb2k2Q3ZHOGJHdlRUd0NxcGtLc09OVzFuMGs1dtIBzgFBVV95cUxNOUlBaVp2UFMydW9WV01tY1REWVRnMGN3V1AydWdVaGpYLVc2NE9RTlNsSHZoOFB3N0lWVk1Ralc1TGg5MG9MWmFldkI5NWZ5TFNlSk5RTzVheFBCQ2F3YlI3eUV0LUMtSzd0S2IwR0pPaE5HclEzNmdLVkt1WjBTTTZOSWZCZ2R4aThwZ1FKQUFCUUFZNTd6SHpVMG1GM0pOZUxMQm55ZXR6d2JEYWN0aXBVbHc3ZEVCMGRhdkFmdEo1QzFYeEJtbTl3Ymg0QQ?oc=5",
     "news_image": "",
     "news_source": "news18.com",
-    "news_age": "84m ago",
+    "news_age": "86m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -17252,14 +17257,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 2.31,
+    "news_score": 2.45,
     "news_title": "World Cup boost helps Holiday Inn owner weather Iran war hit - Yahoo Finance UK",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVHpuRFJ5ZGIwcTVOTDlkMjdIMUJNa3V1SDNzQWwwQkdBWnEzMmZVZXp3QUxmVHk1dkN4c3NyT1A3aUJWM3laZDVvejdtVGxwc3NoUUhrbEJCVldFTS0yT3ZYX3I2YlVFRUlEd2VLRkRyeEE2R0tPVXhwcjJIMW9HZzZ3anQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Finance UK",
-    "news_age": "27m ago",
+    "news_age": "29m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket",
+      "military_pct",
+      "nuclear"
     ],
     "bottom50_wealth": null
   },
@@ -19116,11 +19126,11 @@
     "refugees": null,
     "refugees_rank": null,
     "news_score": 0.0,
-    "news_title": "Japan’s growth holds up despite drop in business investment - The Japan Times",
-    "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVkZmbG9keUFVVXpCbXJkbXhKcFc5bEFSNjJ4R3dFRzc3WXpZX2RreGZFaDE3QmpYYjVDeVhmUFNwU3VzRzVGQ3gzVTlmR0RWTm9YLTR5QUdVZ05VZVZmUkhNaVYzOWQxbmlObUlvUFJ2Ykg1Rkc3d2xsRm1oV1B4eEVOSDFzZVVPTWZmN3M5YW1XUUE?oc=5",
+    "news_title": "The 11th Meeting of the Japan-France Joint Committee on Cooperation in Science and Technology - mofa.go.jp",
+    "news_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42OVlMNk55UHpxdkFwQWtDMUhCUmFmTEtJVnFfcC13ckl4SnNfdVJ1N1k2QXNnckwxR2hLMy15OGdKV29TUkJkQmZCeW5HODVLeWU0akFlaGRyQWIxYzJmYjgzY3BjY3M2ejBsSC1TZ1M?oc=5",
     "news_image": "",
-    "news_source": "The Japan Times",
-    "news_age": "1536h ago",
+    "news_source": "mofa.go.jp",
+    "news_age": "3192h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -24562,12 +24572,12 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 1.45,
+    "news_score": 1.39,
     "news_title": "Mexico crowned 2026 U20 Champions after defeating the United States - sports.yahoo.com",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU05VTHYxYVlXWGQzd0d0bnE2Q0M0eHZBeWFuZU5HUk9TUzVpV2c2U0lzLXZCblBPVG1ubV9kS2xpbHRiNU9OUXd4ZGF5UEhwcEdOSEVLeTZiM2JZWFA3amJvTVZvTjZZVDNPd3NYbHEzbEhpTEt6Yk5nQVdjY1RxMENnOVpRN2tneXc?oc=5",
     "news_image": "",
     "news_source": "sports.yahoo.com",
-    "news_age": "118m ago",
+    "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -28180,12 +28190,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 1.32,
+    "news_score": 1.27,
     "news_title": "South Africa vs. Nigeria - Kick-off time, team news, permutations, how to watch - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1M3VHltd1VWcWVKNzliUmotc2F5eFJWWnQ1ZlBxZ01ybnN3cEhrOFlRZEl6b09uUjFMWkhmMWdpRW9oeWRKZ3RMX2JXaC1ieXNMQ2JIdXdvX1hQdkU3aGZpSnljaF9sb1JHbW8tdVQtSHAzcHl1VzUyaGk5MGxVNUxjeGdtNWtlVFYxQ2ptMjNUaEE0UkgwWXBDTEhadlpobVdXc2JqWkh3MnA5TERV?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "24m ago",
+    "news_age": "26m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -35347,12 +35357,12 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 1.32,
+    "news_score": 1.27,
     "news_title": "South Africa vs. Nigeria - Kick-off time, team news, permutations, how to watch - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1M3VHltd1VWcWVKNzliUmotc2F5eFJWWnQ1ZlBxZ01ybnN3cEhrOFlRZEl6b09uUjFMWkhmMWdpRW9oeWRKZ3RMX2JXaC1ieXNMQ2JIdXdvX1hQdkU3aGZpSnljaF9sb1JHbW8tdVQtSHAzcHl1VzUyaGk5MGxVNUxjeGdtNWtlVFYxQ2ptMjNUaEE0UkgwWXBDTEhadlpobVdXc2JqWkh3MnA5TERV?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "24m ago",
+    "news_age": "26m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -39958,14 +39968,18 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.69,
+    "news_score": 0.53,
     "news_title": "Contradicting public statements, Trump took secret flight from Turkey amid Iranian threat - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ19xNGhGZ0JaLTNDVWtsdmQxLW1WU0xOeG5iLTJjZ1QxUDdrYWZGMGR6TnJycWF2SkRzRHFlYzM4c2didkgwZjYzY2RPcmJENjR0bDl0VFlaSDBDR2xNQ3NuVENTalV5ei10eGpmZzVrbDBzTUtCOTZBSjh5V1RBOFN1emNPaVpkYXQxWGgzZEsxdkoyNVNMSk5VRTI1VXY1VUhrQlVuNkVrMDNBRFJYd0dya3RMNnd6amdLdlQtQWk?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "109m ago",
+    "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -42174,11 +42188,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU05VTHYxYVlXWGQzd0d0bnE2Q0M0eHZBeWFuZU5HUk9TUzVpV2c2U0lzLXZCblBPVG1ubV9kS2xpbHRiNU9OUXd4ZGF5UEhwcEdOSEVLeTZiM2JZWFA3amJvTVZvTjZZVDNPd3NYbHEzbEhpTEt6Yk5nQVdjY1RxMENnOVpRN2tneXc?oc=5",
     "news_image": "",
     "news_source": "sports.yahoo.com",
-    "news_age": "118m ago",
+    "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -44485,7 +44498,7 @@
     "country_summary": "288 entities in this category",
     "gdp": 2200000,
     "g7_member": 0,
-    "news_score": 0.04,
+    "news_score": 0.05,
     "rd": 85000,
     "g20_member": 0,
     "independence": 2004,
@@ -44501,7 +44514,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1senJHLTl4OWd5UTJqY1hVN1R4ZTNFYmdidHJkR3VGclh0a3ZCYzFNT0hLaUcyWVVRNlhLcnM4WllEa1d0ZU1tTHlpbndWUVFnOWdDUHZPUmNycFJRcTRfeXhTLWlsN3hHSXZYMUd3RmpiVHhjUUMzaDFxaVFMSnfSAYQBQVVfeXFMUEU0MGJ0NFJkeTFIS0dXUHk4aEdlcTNuLTltS3h3enB4UUhtM0hkUXFFWFd5OC1rRXVlYzBDVTMwM2U0d0ZQeGthZ21VNzBrVUZkQ0owRjBxem16Vm1mdjd4NHVKVkMyLXFTc3hSWEdBQVpCUUlkdUhXN25WZTVCcWo5MzFp?oc=5",
     "news_image": "",
     "news_source": "The Hill",
-    "news_age": "8h ago",
+    "news_age": "9h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -44528,7 +44541,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 0.13,
+    "news_score": 0.1,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
@@ -44540,15 +44553,18 @@
     "lat": 64,
     "g7_member": 0,
     "population": 1,
-    "news_title": "Sounds Like Jon Hamm Is About to Be a Father - The Cut",
-    "news_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3SWcwMGJVc21sdHpfc2hhRjc1UEZTMXM2LTZ1alR0a0lmWmhjVDVla185R09zSlU3LV9pRUc2NnpEUkU1YzYwYVl1WnlmVk5lUDM3TWhTdm4tSS10R1E3SEVuTnZOdw?oc=5",
+    "news_title": "WHO says Congo’s fast-moving Ebola outbreak started months before it was declared - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMzQ2WnExRkN1SjVSWUVhWkxJbVFHT1VwZmI4bmlSOUpGdnV6b1RKc25NOFBKZVExUm1lNEZuSzZYYXBWVkkxak12U3BMM2JwUDdTakpheklyVjA1X3RsSXhjRWdPRmJndXo2cG5Jb1R3c0JPVVhmVkpxQjc4RG1SWWhZNDZ1a2tfUzFfSGQtaHdzNkhaNS13eGc3a05adw?oc=5",
     "news_image": "",
-    "news_source": "The Cut",
-    "news_age": "9h ago",
+    "news_source": "AP News",
+    "news_age": "12h ago",
     "news_columns": [
-      "film_prod",
-      "netflix",
-      "intangible"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "health"
     ],
     "bottom50_wealth": null
   },
