@@ -1593,8 +1593,8 @@
       var values = years.map(function(y){return countryData[y];});
       // 최근 10년만
       if (years.length > 10) { years = years.slice(-10); values = values.slice(-10); }
-      document.getElementById('trendTitle').textContent = '📈 '+name+' — '+metricName+' ('+years[0]+'~'+years[years.length-1]+')';
-      document.getElementById('trendModal').style.display = 'flex';
+      document.getElementById('chartTitle').textContent = '📈 '+name+' — '+metricName+' ('+years[0]+'~'+years[years.length-1]+')';
+      document.getElementById('chartModal').style.display = 'flex';
       var ctx = document.getElementById('trendChart').getContext('2d');
       if (chartInstance) chartInstance.destroy();
       var grad = ctx.createLinearGradient(0,0,0,300);
