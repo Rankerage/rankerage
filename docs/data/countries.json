@@ -2535,12 +2535,12 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.87,
+    "news_score": 0.86,
     "news_title": "VN, Australia should forge new strategic partnership in science, technology - Báo VietNamNet",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaXZ6V3BDUnJhTHo5U1J4RVRNd2ZhSUhjY3FlbDVDRDRRVmtqWjczdU9ZTENpcjQtOGRKTjVSVkRRbEhzUXBib2c2YThMa2dwUHVvNnAzd0V6TlFJRzN5UzhnTm1fTlBQS19CWUY4OTA4WmYyTjVqYmNBd0s5MVVXcWttNEE0TTkwX0c5VFhwNTlKSU9jR1lPQTNWOWw3MW1YME9SUzF3WTZqVG95NlJieQ?oc=5",
     "news_image": "",
     "news_source": "Báo VietNamNet",
-    "news_age": "36m ago",
+    "news_age": "38m ago",
     "news_columns": [
       "olympic",
       "fifa_ranking"
@@ -7953,12 +7953,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.86,
+    "news_score": 0.85,
     "news_title": "Opinion | China exports its economic problems to the world - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdEVSd0V6U05sVnNiSzQtMHU1Sm9Ybl9GWnlZbmRHMGJXSFJtSHlVajNOQXNkVzRnZFZ1ekxEcDNaTk1FcGZOanBLbFgzX3p1V2R1SWdNY1prYUYtZ2hTejBpdi04TUFfQUU3eVJVaGlsQzZSeFZDTkdaVjNwbHpuSXpmX1RRaVN5cEFSNkkxazRPcHhvTkgyVUVWeGZBZllpTlVtVWZzVzNHc3UxUXc?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "38m ago",
+    "news_age": "40m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -8195,14 +8195,15 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 1.13,
+    "news_score": 1.16,
     "news_title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people - Politico",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNTFyRl84N3czd1JKOEN1dWpXMWJzdlp3SzFtemlrNG9mWlpQWVNwZTUyNVRKSklfRFRkTldPai1KZ1l4WXZpZ0pmR0c2aUpsbUVIYlI2Nl9kVHVGMkdRU2ZTRExtQzFoRnRzVFlXUEw4M3dibUYxQVRBQXNxWWlrakcxUjNQT1d2dHViRmFnZlEtcVJudlVMWnJzbS1sa1JWZHBYblRlQ2Z2bURZN3YtTjFFWWlpWXhFZHB5Vg?oc=5",
     "news_image": "",
     "news_source": "Politico",
-    "news_age": "79m ago",
+    "news_age": "81m ago",
     "news_columns": [
-      "olympic"
+      "disaster_aid",
+      "health_crisis"
     ],
     "bottom50_wealth": null
   },
@@ -17254,19 +17255,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.93,
+    "news_score": 1.84,
     "news_title": "Trump scoffs at Iran’s demand for war reparations and other Mideast developments - apnews.com",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHRSRTdObVh1eUFaNml6X3lhU0FnaEJvWHM2V2g2eC0yblF2QktZTnctM1Vud0pqZ2ZzQ0ZZTzBRNUV2TnpFNkV2V3lNUVhfcGlHbmtzT1k5bnJCclRCS1dTYnB5WTdmRk5aaHM4aEktLVFzc1lhallpd1FfM2J1aTE3NzBIejRSaTctUDdETm1hSFBadWk2aTR1ZDk?oc=5",
     "news_image": "",
     "news_source": "apnews.com",
-    "news_age": "84m ago",
+    "news_age": "86m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "oil_price",
+      "gold_price"
     ],
     "bottom50_wealth": null
   },
@@ -19129,12 +19126,9 @@
     "news_source": "mofa.go.jp",
     "news_age": "3189h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "mlb_w",
+      "mlb_hr",
+      "mlb_rbi"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -34022,7 +34016,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPRDdDWTZrS2hmQ3dxMm9LckNhQkZxbXlvZFg1bFBJSWgwOXJab1VDNS14eG55X2JrQ2RRblNaTk41VVdtQWNtYkZVVUtVYzM1SnBvVDF1UTk1SDlhWEdBUGRUZjRXOWlONlFlMTB3aTc3T1lGVUt4ZlMzakZSY3BYcWNIU3pabFZGNl9lMUlQMU9sWHM4U0lzMmM1M0lTVnktWXV5WG95NXhxOTJuY2xzQ3lnQkJpS0h4RnR3bk9ReG10ejJGZW9kM0RKTlAzUWFaVG5QOTdUVUJrckJsNmI0RUFTdHhGb2Znc3NXcjA4Nzk0cmRtY3RZek5LQVhvMmRXc0U1VU5JZmlFQWRtaEo2MQ?oc=5",
     "news_image": "",
     "news_source": "巴士的報",
-    "news_age": "45m ago",
+    "news_age": "47m ago",
     "news_columns": [
       "gender",
       "gender_gap",
@@ -39974,7 +39968,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZFQ4RWFKS1pmY3Nha1Nad3NLd1lIVzU3aTRLM1pkZXFoWjN0R1RyQjdENDdaYmR5dlhFcWZRT0IybEFsdkxkY3k3TU96UEw0cWd4STlXSy1xVnV4QVdrV0dPWWVLZFh4dnlMaHF2eHBsQS1GaFNsa3lGVGtYOE9kOHFsbmpJdw?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "117m ago",
+    "news_age": "119m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -44500,7 +44494,7 @@
     "country_summary": "288 entities in this category",
     "gdp": 2200000,
     "g7_member": 0,
-    "news_score": 0.01,
+    "news_score": 0.02,
     "rd": 85000,
     "g20_member": 0,
     "independence": 2004,
@@ -44512,18 +44506,17 @@
     "eu_member": 0,
     "lat": 62,
     "population": 2100000,
-    "news_title": "The U.S. Economy Is Leaving These Companies Behind - The New York Times",
-    "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTmdQYk1nM01KdjdmMHFfbHpBbXo3N1IxQlUxYlp6SDJvanlrZ2J5TURSVWJYcHBlRkJybUdURFhCazVLWVpLa0VTU203TFd6eVNLalpVaVZyazhjNTVPd3ItUnlPY1p3YU5YbDhIR2FlZXI3cTJaME5EN29UUm5XRHhqb3p6TFFwLWZsU1ZLUQ?oc=5",
+    "news_title": "Mark Zuckerberg Says He’s Surprised the ‘Discourse’ From AI Companies ‘Is So Filled With Doom’ - Variety",
+    "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMEY1emxuTDNTcngwZVRqTVdYTTNFdmliYXZ1bmUzUTRtSlJHeVlWRTd2SHpJUm1SVjJocWRZRDlTNnhKT1NtZVRvTEcwNHNTeGcwbUlIOE5oVHczUWR3VWZPSGJINTROTUlZOFpQWXhVOF8zd25seVkzRndWZkF1bk5LcmZndw?oc=5",
     "news_image": "",
-    "news_source": "The New York Times",
-    "news_age": "1317h ago",
+    "news_source": "Variety",
+    "news_age": "10h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": null
   },
@@ -44544,7 +44537,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 0.84,
+    "news_score": 0.83,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
@@ -44560,7 +44553,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNTFyRl84N3czd1JKOEN1dWpXMWJzdlp3SzFtemlrNG9mWlpQWVNwZTUyNVRKSklfRFRkTldPai1KZ1l4WXZpZ0pmR0c2aUpsbUVIYlI2Nl9kVHVGMkdRU2ZTRExtQzFoRnRzVFlXUEw4M3dibUYxQVRBQXNxWWlrakcxUjNQT1d2dHViRmFnZlEtcVJudlVMWnJzbS1sa1JWZHBYblRlQ2Z2bURZN3YtTjFFWWlpWXhFZHB5Vg?oc=5",
     "news_image": "",
     "news_source": "Politico",
-    "news_age": "79m ago",
+    "news_age": "81m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
