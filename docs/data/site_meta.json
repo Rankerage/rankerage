@@ -1,68 +1,54 @@
 {
-  "last_updated": "2026-08-11T21:01:36Z",
+  "last_updated": "2026-08-11T22:04:24Z",
   "total_rankings": 136,
   "total_countries": 200,
   "version": "1.0",
   "update_frequency": "weekly",
-  "global_narrative": "Global sports and geopolitical events dominate headlines, with major narratives around football governance, athletic championships, and international crises.",
+  "global_narrative": "Global attention is split between natural disasters, geopolitical tensions, and major sports events, with significant focus on the FIFA World Cup expansion, NFL preseason, and international conflicts.",
   "trending_stories": [
-    {
-      "topic": "Football Governance and World Cup",
-      "entities": [
-        "FIFA",
-        "US",
-        "UK"
-      ],
-      "columns": [
-        "fifa_ranking",
-        "fifa_w"
-      ],
-      "weight": 0.9
-    },
-    {
-      "topic": "Athletics World Championships",
-      "entities": [
-        "US",
-        "JAM",
-        "KEN"
-      ],
-      "columns": [
-        "olympic",
-        "fifa_ranking"
-      ],
-      "weight": 0.8
-    },
-    {
-      "topic": "NFL Preseason and Injuries",
-      "entities": [
-        "US"
-      ],
-      "columns": [
-        "basket",
-        "fifa_ranking"
-      ],
-      "weight": 0.7
-    },
     {
       "topic": "Colombia Earthquake",
       "entities": [
         "CO"
       ],
-      "columns": [
-        "olympic"
-      ],
-      "weight": 0.6
+      "columns": [],
+      "weight": 0.9
     },
     {
-      "topic": "Global Debt Concerns",
+      "topic": "FIFA World Cup Expansion",
       "entities": [
-        "US",
-        "EU"
+        "FIFA"
       ],
       "columns": [
-        "fifa_ranking"
+        "fifa_ranking",
+        "fifa_w"
       ],
-      "weight": 0.5
+      "weight": 0.8
+    },
+    {
+      "topic": "NFL Preseason and Player Updates",
+      "entities": [
+        "US"
+      ],
+      "columns": [],
+      "weight": 0.7
+    },
+    {
+      "topic": "Iran Conflict and Middle East Tensions",
+      "entities": [
+        "IR",
+        "US"
+      ],
+      "columns": [],
+      "weight": 0.85
+    },
+    {
+      "topic": "Global Health and Disease Outbreaks",
+      "entities": [
+        "CD"
+      ],
+      "columns": [],
+      "weight": 0.75
     }
   ]
 }
