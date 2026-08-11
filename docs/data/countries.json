@@ -3308,7 +3308,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNndKTjlWN0R6X3dmR212Z2NQWThWQW1EbGloaDM3QjA3ampKd2dTWHlvU2l3d1FNd2RxRG1La1RxYUhzNWQ5UTdmVzh0WE5kdkFGbDZPR0N3UzN0NjVKNjVRclpoMjRLZmtDQ19TVWtoOWZJYnJIeExNeW1PV1lDY05KN3ZrdFp6NlRrMXdrNGVpUFJabWtTMXZ2TGxBT1k?oc=5",
     "news_image": "",
     "news_source": "The Daily Star",
-    "news_age": "14h ago",
+    "news_age": "15h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -7958,7 +7958,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdEVSd0V6U05sVnNiSzQtMHU1Sm9Ybl9GWnlZbmRHMGJXSFJtSHlVajNOQXNkVzRnZFZ1ekxEcDNaTk1FcGZOanBLbFgzX3p1V2R1SWdNY1prYUYtZ2hTejBpdi04TUFfQUU3eVJVaGlsQzZSeFZDTkdaVjNwbHpuSXpmX1RRaVN5cEFSNkkxazRPcHhvTkgyVUVWeGZBZllpTlVtVWZzVzNHc3UxUXc?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "15m ago",
+    "news_age": "17m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -8194,12 +8194,12 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.93,
+    "news_score": 1.36,
     "news_title": "Live updates: Death toll rises to 132 following 7.4 magnitude earthquake in Colombia - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2E0OE5yZGJtT1ItYXF5SU9URXp2SzRFcWFIR0tvUmFFei1jcVFxUG4yVTZCb0F3N1hVZXMtalpjUEc0RmhNblhIN0F1ZXhJTHI1b3YyNnFmZE84T0FpWkdjdUVKWEVQb09MV0p2VllfYTJsVGpCMnk3WV9xdHM2dnJBWlc3ZExLSmp5SnlVUQ?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "24m ago",
+    "news_age": "12m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -17258,14 +17258,16 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 2.03,
+    "news_score": 1.74,
     "news_title": "Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZFQ4RWFKS1pmY3Nha1Nad3NLd1lIVzU3aTRLM1pkZXFoWjN0R1RyQjdENDdaYmR5dlhFcWZRT0IybEFsdkxkY3k3TU96UEw0cWd4STlXSy1xVnV4QVdrV0dPWWVLZFh4dnlMaHF2eHBsQS1GaFNsa3lGVGtYOE9kOHFsbmpJdw?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "65m ago",
+    "news_age": "67m ago",
     "news_columns": [
-      "fifa_ranking"
+      "car_density",
+      "gas_price",
+      "co2"
     ],
     "bottom50_wealth": null
   },
@@ -19122,11 +19124,11 @@
     "refugees": null,
     "refugees_rank": null,
     "news_score": 0.0,
-    "news_title": "The 11th Meeting of the Japan-France Joint Committee on Cooperation in Science and Technology - mofa.go.jp",
-    "news_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42OVlMNk55UHpxdkFwQWtDMUhCUmFmTEtJVnFfcC13ckl4SnNfdVJ1N1k2QXNnckwxR2hLMy15OGdKV29TUkJkQmZCeW5HODVLeWU0akFlaGRyQWIxYzJmYjgzY3BjY3M2ejBsSC1TZ1M?oc=5",
+    "news_title": "Japan’s growth holds up despite drop in business investment - japantimes.co.jp",
+    "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVkZmbG9keUFVVXpCbXJkbXhKcFc5bEFSNjJ4R3dFRzc3WXpZX2RreGZFaDE3QmpYYjVDeVhmUFNwU3VzRzVGQ3gzVTlmR0RWTm9YLTR5QUdVZ05VZVZmUkhNaVYzOWQxbmlObUlvUFJ2Ykg1Rkc3d2xsRm1oV1B4eEVOSDFzZVVPTWZmN3M5YW1XUUE?oc=5",
     "news_image": "",
-    "news_source": "mofa.go.jp",
-    "news_age": "3188h ago",
+    "news_source": "japantimes.co.jp",
+    "news_age": "1532h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -39975,7 +39977,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZFQ4RWFKS1pmY3Nha1Nad3NLd1lIVzU3aTRLM1pkZXFoWjN0R1RyQjdENDdaYmR5dlhFcWZRT0IybEFsdkxkY3k3TU96UEw0cWd4STlXSy1xVnV4QVdrV0dPWWVLZFh4dnlMaHF2eHBsQS1GaFNsa3lGVGtYOE9kOHFsbmpJdw?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "65m ago",
+    "news_age": "67m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -44498,7 +44500,7 @@
     "country_summary": "288 entities in this category",
     "gdp": 2200000,
     "g7_member": 0,
-    "news_score": 0.05,
+    "news_score": 0.03,
     "rd": 85000,
     "g20_member": 0,
     "independence": 2004,
@@ -44510,17 +44512,18 @@
     "eu_member": 0,
     "lat": 62,
     "population": 2100000,
-    "news_title": "Mark Zuckerberg Says He’s Surprised the ‘Discourse’ From AI Companies ‘Is So Filled With Doom’ - Variety",
-    "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMEY1emxuTDNTcngwZVRqTVdYTTNFdmliYXZ1bmUzUTRtSlJHeVlWRTd2SHpJUm1SVjJocWRZRDlTNnhKT1NtZVRvTEcwNHNTeGcwbUlIOE5oVHczUWR3VWZPSGJINTROTUlZOFpQWXhVOF8zd25seVkzRndWZkF1bk5LcmZndw?oc=5",
+    "news_title": "The U.S. Economy Is Leaving These Companies Behind - nytimes.com",
+    "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTmdQYk1nM01KdjdmMHFfbHpBbXo3N1IxQlUxYlp6SDJvanlrZ2J5TURSVWJYcHBlRkJybUdURFhCazVLWVpLa0VTU203TFd6eVNLalpVaVZyazhjNTVPd3ItUnlPY1p3YU5YbDhIR2FlZXI3cTJaME5EN29UUm5XRHhqb3p6TFFwLWZsU1ZLUQ?oc=5",
     "news_image": "",
-    "news_source": "Variety",
-    "news_age": "9h ago",
+    "news_source": "nytimes.com",
+    "news_age": "1316h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": null
   },
@@ -44557,7 +44560,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR1FEZVdBUzdSc3czbEpraXR5dWExdkY3LXhKelFBSmRNVkVhWVZOOUYxdWFPWGVDdWsyOGhqM3BEcks3N196Q3NWSXhaV1lDZE5jeE5mRWFqcTJibncwNzNmd3JzeTlrUkRGZ3dFWXFsbGVCSlhGRG5TeWVYOEhlRElHUlVkbDhWVTdVY3JKVXLSAZYBQVVfeXFMT3VnWE1jMWNkQ0cyY09YTW1kdXZZNTliWnRzWEk1b2M4SGVtc2RnRGtWa2hkYWxKZXZlSEhIdUcwR0M2cVVqVlR1U1AtVmd5X2pOb1U4MHhweFhsZFVhV1B2THdlc2JiQ0tJVldiOW9sVFlxTDJQd1Z6dXRIOXhCUnVPTlNFLVBON0dydjRBYVZ5OFNOVzFB?oc=5",
     "news_image": "",
     "news_source": "CNBC",
-    "news_age": "102m ago",
+    "news_age": "104m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
