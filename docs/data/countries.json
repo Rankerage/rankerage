@@ -8209,7 +8209,7 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.67,
+    "news_score": 0.84,
     "news_title": "A whisper from the rubble led to baby’s rescue after Colombia earthquake - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXM0em93d0x3aXY5Uk5XOHVEMW4yWmFOREJkM3pWOWVmMWh0LUxMUW9pUW9sRnA5alB0M0dibG9TMUxnM0dmeERFWFJvbDI0Z2lFeHVnbTk0amdWQU9lZFp3amYtQWo5RS05QjRLb19DNEk1UFVvZHdqNXNlMUFpWlNPbzlYaWM?oc=5",
     "news_image": "",
@@ -12942,8 +12942,7 @@
     "news_source": "mofa.go.jp",
     "news_age": "3217h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17272,15 +17271,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.86,
-    "news_title": "World in Brief: Iran threatens to keep Hormuz shut; rescue work continues in Colombia - The Economist",
-    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3NTUl92VDMwcmN1WTFjMkxMdXJsZ3pKNUw4eFJURkN6alNKM1RmY1JwdHN4TnhneEh3MEp1U3VZQ2h4VVctdUl0Y2drSFRETzFUQVdFU1FIbFBuQUpyZnJtZVZYLXVZVjVhUm9Ubk03RUR0TWx2Z0tHSkUwZkE0Uk9NbEF3VFBETGpramJrN0s2WldVSldR?oc=5",
+    "news_score": 1.17,
+    "news_title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
     "news_image": "",
-    "news_source": "The Economist",
-    "news_age": "3h ago",
+    "news_source": "AP News",
+    "news_age": "7m ago",
     "news_columns": [
-      "oil_prices",
-      "geopolitical_risk"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "car_density"
     ],
     "bottom50_wealth": null
   },
@@ -19136,12 +19139,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.9,
+    "news_score": 0.91,
     "news_title": "Are we on the verge of World War III? - The Japan Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMUQ5MjhYaE9PMEd4Y2JKQ1hubDZ0ZWVrakdOQTlSRFk5N1llTERKS1lNbHVSRDdObTBBbUJ5TE5yTGktckxSVkhQR2tjVEFLQklVSDdCUXlZT09HaWQ3cTVwNzVGR2xhS01tazFsc3ZvdjZrNW5oenUwOTc4Tm0wZkx3SDY?oc=5",
     "news_image": "",
     "news_source": "The Japan Times",
-    "news_age": "44m ago",
+    "news_age": "46m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -19511,12 +19514,12 @@
     "union_rate": 77.0,
     "union_rate_rank": null,
     "fifa_w_rank": 71,
-    "news_score": 0.62,
+    "news_score": 0.61,
     "news_title": "Kazakhstan to Establish 'KAIST Model' Science and Technology Institute... Korea-Kazakhstan Cooperation Discussed - 아시아경제",
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBUXBoR0dvbDVRdDJpcjYzT0FJbm51Ujg1WlRnV1dqRFlzM3pWZVg0YjJqZGR6b1hiRWlFbXVqRmNhZk1Nbk81azhyZ095dHY2dkZRVGZpVWRYMVhHQlppcUV6U0RsanVt?oc=5",
     "news_image": "",
     "news_source": "아시아경제",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -29683,12 +29686,12 @@
     "union_rate": 54.7,
     "union_rate_rank": null,
     "fifa_w_rank": 102,
-    "news_score": 0.13,
+    "news_score": 0.38,
     "news_title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "6h ago",
+    "news_age": "7m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -32871,12 +32874,11 @@
     "news_source": "Reuters",
     "news_age": "19h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -35377,15 +35379,17 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 1.12,
+    "news_score": 0.85,
     "news_title": "'The dream is still there' - South Africa players defiant about World Cup hopes - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaFRMM3Qwbl9VcTk1QmNPM0N6RkFFV3Boc19BV09QajRMc01TakdFXy12T0x2eDF5Z0hMX0NSSFFrNFM4bzlaWDNyUDR2dG5Nbkg4eVVrR2lwVkp6MTlxUWd3MVNzRmlmdnFhNTNJaUVCNUtIRF9zcGpBSzdPX2ZLR3dLel9SWVhQQUZOZEpGdnJIdWVITUdGazVpbXlyM2loMnJvUEw4Q0RaVE9SZ2c?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "5m ago",
+    "news_age": "7m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 1.2,
     "bottom50_wealth_rank": 29
@@ -39991,7 +39995,7 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.48,
+    "news_score": 0.49,
     "news_title": "Jimmy Fallon Recreates Trump’s Catering Container Escape - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcm1nSXV1WUphQWdwSkhNOUJfNlBZalR6azc1ZmxvRzNYV3ZlUlVEeXpUX1JwVGFwTDJXOUhWWW4zOGoxVllkWXJ3Q0YtQmhOVkpZSUQySERIMUJwaklKb1NYV2MteDdtMGRPVDJVaXFYeVNVS2pjYmxRWE5GNEJMVldaWC02SHNWeWVMY2RuREVHb2Z6T2dhUS1HMkxUblJhdDNGZklvUGc?oc=5",
     "news_image": "",
@@ -40957,12 +40961,11 @@
     "news_source": "Reuters",
     "news_age": "19h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": null
   },
@@ -44564,7 +44567,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 0.14,
+    "news_score": 0.16,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
