@@ -2540,7 +2540,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTAyd3pqTU1uQVFBYy0zTEM5YzBGdUdLYTBudHBKNm1WTVVWWlIwTnVQTThXTjBYSW1LMjgwX2NwdUE1blZVTVBOdW5La2NzamtEdnhKT3lUTW5RQUpkNGxTdTRhVFFpYVdua3E2cU5EeWFWSXZZZXZhZktPSHRUTFNtYmR6YWVFRnJieFcxZFd5VVYxTlVPekJ1SzJ0ZkZhT0RuRmhNSWRZRjlXMVNidVBHelpad0RxRl85VHpxN3pzODNvY2FDVVhIb3JNUXhFU1E?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "85m ago",
+    "news_age": "87m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -8207,19 +8207,19 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.27,
-    "news_title": "As search for thousands of missing pushes on, Colombia earthquake tests new president - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnk3enhDLU5PRHZPNVlfdkVRb0t5ZjFPYmExTFlGcmIzVnh3eDNWQ3loVVF6MEg4ejNZOE92YkxKc0lpNE5pcXRQYnhPRXFWV05QUnpmNE0tMXZkVVU3YndadUxkampNUWx0Q3JqdjY3aC1Wa0pYT0dwVzgyT2JpVDMwVnAteFdDT2NXTXFOLTUwR0x6X01z?oc=5",
+    "news_score": 0.37,
+    "news_title": "Live updates: More than 200 dead in Colombia earthquake, with rescuers unable to reach epicenter yet - CNN",
+    "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaWFGOFhweUJhMFZ2UEZ1MktEQjZSQ09qMVp4T3FOeVhZbmF3aUlHel95Z0dwRVRRdVJfeHRLN2JQTUNtRE40Vy1QSEs0X1hzVzJzMHNoTUNPcHF4XzlPX0ducVp4RENzSmdZaUU5N0ZyajdMSlJKZk1iazJ1WEJ4eTZzdw?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "6h ago",
+    "news_source": "CNN",
+    "news_age": "118m ago",
     "news_columns": [
-      "democracy",
-      "approval",
-      "press",
-      "election_days",
       "earthquake_count",
-      "earthquakes"
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ],
     "bottom50_wealth": null
   },
@@ -10421,7 +10421,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaWg0S1lQSHdVTVgydXdxUnlfN0NLV2QtVDFyTWpWY3hUTWVNelpPZkVlTEowbUt6N0hQdmJnV2V2WlNpRG10TFNjQnVJMmFqQkd1WTNSQWhWSFZmcWtMWkxSM1YwQXAteWZJQ21EdHNDVHU0d1ZnZWtJY0FXa3IwVFR6RkQwU2t0ZjNOSExSR1ZYYndGMmxkZ2pZd2tSVnNHMkpPNEYtTW43eENKMVR6dlVld2hvNzlX0gG-AUFVX3lxTE9QNEJRTC1MNl9LcEVHQ2k0SkdIT2JYLXpzNjFCYUVGNndCMGt5TFU1enlhY2VINkwydDNfSW9Mc3lfdzFJTTVWcElVU3pBSTA3bk1lQ3JUYjRpaTZWc0ViSjhiU3ZhSThuV2VqMTRNWWhSTmh4M0U4MjdGSU90VVZ1TW13X1ZfT1RqalRYUXVBbnJuM25CdzluVFZnZURqQWx5UHFwWFdPdWg1UXItc0E4LXFsMUNmaGU1RFJaSVE?oc=5",
     "news_image": "",
     "news_source": "fundsforNGOs",
-    "news_age": "1364h ago",
+    "news_age": "1365h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -12940,9 +12940,12 @@
     "news_source": "News On AIR",
     "news_age": "62h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "space_launch"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17269,12 +17272,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.28,
+    "news_score": 1.36,
     "news_title": "Iran war latest: Trump claims control of Hormuz as assassination threat revealed - The Independent",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUDBFdjV1S2xzeGdicXJ1T2Y3aFdUQjJPTzM0Y2Fxc2RoRkZTWkpUNmMxek4tMlJXbmdvakdEemFXRkRYWTlFVUtGQzVIR21MN19XVG13bmhhUm9odFlad1RNM1BGT1NPWHRPODJLSWI4ZEw0Y0lnVWVDdkVIZnA2U2NEV0Y3MHhLdU9TUTZJMldZSmZFWXpzYldwU29zUVQ4empKaXBWMzN4X01SRnVGT2FoSl94QTJCalE?oc=5",
     "news_image": "",
     "news_source": "The Independent",
-    "news_age": "3m ago",
+    "news_age": "5m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -27570,7 +27573,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV1IwSUEyX2pqSlRQWm0xWTh3TEp5Uy0tTGFidURIYnJXdWlscUxVcDRrSFJqZEE5TVF0bWJuRF94eGJiSFhONUo2M3ZGMGxSX3NJYU9MUjVmM25fcmpqX2doUjdQQzNDVnpxOUwxTXdyLVRWT2F3Vm5xTVVxMWtOV0ZIRWVRQ0xaLXU2VTMtbUN2WEkxSW5BaTFXUWZVa3JVMVExb2FoaW9IeDlBRVNoNUluN3FJQkhDZXBYc0NBSnZBTFVhT0IybFdwUUM1MzRmaEVOQXRiMzlya3BZWUtkZFB3?oc=5",
     "news_image": "",
     "news_source": "NZ Herald",
-    "news_age": "10h ago",
+    "news_age": "11h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -28213,7 +28216,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOenJqQTdrRlM5SHNrT2pKOVRDa0FQQ082TnVER2tLVFBiMXpYX1RITzVjVTZEWktDZWpWVm5zY0JGaFdIcl9FUGtsYWpldVZBMEtqcnZtTjVuNmNFWTFKNmM1b2tBUXQzV2E1YXkyVGQtWHBpVk1acFVaUEdPZTZ1Q3pHWkpmUGJYNEc0MGRQeExNN1A0eG0wR3VkclhPeVFEb3B3QUdnRHlQQVhUUmtmbkVR?oc=5",
     "news_image": "",
     "news_source": "Business News Nigeria",
-    "news_age": "17h ago",
+    "news_age": "18h ago",
     "news_columns": [
       "marathon_elite",
       "olympic"
@@ -28565,7 +28568,7 @@
     "union_rate": 89.3,
     "union_rate_rank": null,
     "fifa_ranking_rank": 108,
-    "news_score": 0.03,
+    "news_score": 0.0,
     "news_title": "North Korea fires missile ahead of major US-South Korea drills - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDVfd0tWeklYMkllazVablhzaXQxcllibnNjZDhBTXpzWWtPLXNMcWpWVUpJeXRQRUZUZ2x4LV9pQ0c5UmVlaWd4eVpYbGlQNHNXYnlYODZSSTB6QlF5Vzc1OEFpc0kwQ1l3V19aQmU0TnRxMk9NWUQxQ21leG9UUEkxNnYwOFhMWlpjdlRKc1BLcUszTzd4Q1JGSzRSNjI2LWx6Yk00SFZXYjA?oc=5",
     "news_image": "",
@@ -32870,7 +32873,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.01,
+    "news_score": 0.02,
     "news_title": "Moscow releases former US Marine Robert Gilman after four-year stint in Russian prison - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRFpmSG9sTjFqN3VzZnd5aV9TNFBjOXNkY0oyYUNEbjdmeFg1RFZGeWYzUDI4eFJ6eFZSLXROeUM2Nk9wenRGWXFHQW12a055R3ktNHR6YVVoVmRzek4tOFc4clNKQl9nZGNDWl9DWnY2QXVpbV92SFBia3hsUzFzY0w5SXI?oc=5",
     "news_image": "",
@@ -35866,7 +35869,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.0,
     "news_title": "North Korea fires missile ahead of major US-South Korea drills - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDVfd0tWeklYMkllazVablhzaXQxcllibnNjZDhBTXpzWWtPLXNMcWpWVUpJeXRQRUZUZ2x4LV9pQ0c5UmVlaWd4eVpYbGlQNHNXYnlYODZSSTB6QlF5Vzc1OEFpc0kwQ1l3V19aQmU0TnRxMk9NWUQxQ21leG9UUEkxNnYwOFhMWlpjdlRKc1BLcUszTzd4Q1JGSzRSNjI2LWx6Yk00SFZXYjA?oc=5",
     "news_image": "",
@@ -37916,7 +37919,7 @@
     "union_rate": 38.9,
     "union_rate_rank": null,
     "fifa_w_rank": 105,
-    "news_score": 0.0,
+    "news_score": 0.03,
     "news_title": "Syria sentences absent Bashar al-Assad to death over killings and torture - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczRfNktLU3lTNHRHVU5wVWNGZUNaVFRZSkdJWnVyUUY3dlA4c3BmWVlHLWwxRzM0eHkzdlIwZVhDZHpGQWROUlAwbUJXcElYMTc2TExMRGh1R0xwY210RlZrYkd5N1kxTm93OVY4WFVHR1RhZ3hrUmRlclpjLWZhbFo1TmF1c3VhNXZFd2VMQ3E3ZjJmUnQxY01HYWVILXpQQ3NablB6YkZMU0xS?oc=5",
     "news_image": "",
@@ -39992,19 +39995,19 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.0,
-    "news_title": "With Trump Secretly Evacuated, Imperiled Air Force One Became a Flying Decoy - The New York Times",
-    "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZTBGNXM3enN6Z01BdUotNGtWRUdIcl9iU1BkZGlMazFvamQ0alBpZzN3U0JiM3JnTWJRSEJlMy1lX0tvaXJkWnMwcTFXTzNkS1R3bTE5b2gtNnJoVDRLZFVhb2RvSkpzQU1DWWx3U0JGVVU1RHo2VlAtcms0cFRzTnpibw?oc=5",
+    "news_score": 0.13,
+    "news_title": "Trump says he switched planes after Nato summit because of possible threat - BBC",
+    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rcWVHSndOalZNOExnTy1NN0dGclYweE9HN1l1cGRMeEpwMGo5OVA4VWp1RDc3Vi1YdjA4aVI5R2t2Yk5Od0tKYWJwSlZrRHdLMXUwSWVWdkRNQQ?oc=5",
     "news_image": "",
-    "news_source": "The New York Times",
-    "news_age": "2h ago",
+    "news_source": "BBC",
+    "news_age": "3h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
       "military_personnel",
       "gpi",
       "arms_export",
-      "ai_research"
+      "nato"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -42215,10 +42218,8 @@
     "news_source": "United States Eventing Association (USEA)",
     "news_age": "11h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "mlb",
+      "nfl"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -44569,7 +44570,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 0.51,
+    "news_score": 0.5,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
@@ -44585,7 +44586,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONG1QeWd0R1pBWWlHV2RuWEVLNGY3QWhCOU1hUUd2cWo4Tk95dzhnUTFRaTBoVno3NFp0b096by13V1JZSWZybHdXc3MtRGl1YnRuTVBiNklRUjFWTThfU2NNMlNSUWV6UGlFVGFBNENobkE1U3VqaldBRGpmWHktMWJpRmZmWUtuQjZkTEw2RDhKUF9YZVFVVVZEZGNFNFdNMmdpUy1QWlhuNjlwTUk4M1FfVktWd29TVDFJ?oc=5",
     "news_image": "",
     "news_source": "Page Six",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
