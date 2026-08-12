@@ -2535,7 +2535,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.91,
+    "news_score": 0.72,
     "news_title": "Sami Whitcomb readies herself for 2026 FIBA World Cup campaign - Basketball Australia",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWDN4UHlGdFFXREpnUnVmSzNqMHFUX0NFZkkxLTBzU2FKY2kzMklCTWFFMWZ3TFVnRGk1YjJmWm0tYmFCWWpCdUo1R2RPMm0yLWhrSUk0bS1FUEswWE5HZE1mb3ZzdDNLMXFoc0NvekNqSF9DeEN0d2RyS183clNhR0VJbkJrUk1CNVNkaUM2Sk1KVlpVX3NYRXk1MnNKV004WWFZOHZDdGF1NlM3?oc=5",
     "news_image": "",
@@ -2544,7 +2544,10 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket",
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -15760,7 +15763,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOW4xUks2X1pQRDZzRVgtejh4YXNiYW9PWGc2NE9qQ0FpUVJnQV9IYUF2NElTWmVQZXBvNlZmcDIzX3FlcVF0MmdpVldtZlltbExOaEZENHpyR1NNVFlocWtYVWxXcnRwQ1BDXzBRYk9PNlFkZ1VJNVg0NnFhYWxWRE1KRlNmUkc4bF92S2FWbWRJRzFzU0FVMjhxaUU?oc=5",
     "news_image": "",
     "news_source": "OSV News",
-    "news_age": "9h ago",
+    "news_age": "10h ago",
     "news_columns": [
       "olympic",
       "olympic_gold",
@@ -17273,7 +17276,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.15,
+    "news_score": 1.1,
     "news_title": "World in Brief: Iran threatens to keep Hormuz shut; rescue work continues in Colombia - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3NTUl92VDMwcmN1WTFjMkxMdXJsZ3pKNUw4eFJURkN6alNKM1RmY1JwdHN4TnhneEh3MEp1U3VZQ2h4VVctdUl0Y2drSFRETzFUQVdFU1FIbFBuQUpyZnJtZVZYLXVZVjVhUm9Ubk03RUR0TWx2Z0tHSkUwZkE0Uk9NbEF3VFBETGpramJrN0s2WldVSldR?oc=5",
     "news_image": "",
@@ -19137,7 +19140,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.33,
+    "news_score": 0.32,
     "news_title": "Why the historic U.S.-Japan intervention has failed to halt the yen’s slide - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FQUhmRWc3YTZVWDVub3p3d3NXRFBXQUswajBRREdldXNoNEVpX3Y2TWY2cFdzNkZvNXZrb0NwLWFXRFpVU3lQMDFsZmhvS2tual85TER1cGd1T2dORUhWUzVMQXNtZVJBZmZrQ1d5SUNIZndRWnhlWFV30gF_QVVfeXFMTUVNUzFyQnlDUFRuOV90UHdlZU1CLW1NUlFBY2kzdXFjX01HQ1VrTmFzSmVWUlJYRHpOVnVfWU5ERHRadDJuckdVSHFUam5PcndpSUp2OGdwaGtBT29XSGFibFBkRTFzOVNIZ3h2UHI2YUdlMnFpSkRQRnUweURxRQ?oc=5",
     "news_image": "",
@@ -19512,12 +19515,12 @@
     "union_rate": 77.0,
     "union_rate_rank": null,
     "fifa_w_rank": 71,
-    "news_score": 0.86,
+    "news_score": 0.85,
     "news_title": "Kazakhstan to Establish 'KAIST Model' Science and Technology Institute... Korea-Kazakhstan Cooperation Discussed - 아시아경제",
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBUXBoR0dvbDVRdDJpcjYzT0FJbm51Ujg1WlRnV1dqRFlzM3pWZVg0YjJqZGR6b1hiRWlFbXVqRmNhZk1Nbk81azhyZ095dHY2dkZRVGZpVWRYMVhHQlppcUV6U0RsanVt?oc=5",
     "news_image": "",
     "news_source": "아시아경제",
-    "news_age": "39m ago",
+    "news_age": "41m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -27066,12 +27069,12 @@
     "refugees_rank": null,
     "union_rate": 85.6,
     "union_rate_rank": null,
-    "news_score": 0.72,
+    "news_score": 0.71,
     "news_title": "Slot to stay in club football after Netherlands talks - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSkNpaDFjdEtYXzlmSGh2aXVrOVlFcEFPQnhDNGdDb3NpTTBCdVdTZ2F6bms3SHlZM2o1RDNydWdiMTIyWlo3WS03WlQzUVlRMklFS1NKbF9Pb05uTlZQc3ZseWpZUllYV0stUjRndTBpUzRPMmN3RFZHVWNzblRnSzUzcGxUZFJKV0xuMg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "79m ago",
+    "news_age": "81m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -34047,7 +34050,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPRDdDWTZrS2hmQ3dxMm9LckNhQkZxbXlvZFg1bFBJSWgwOXJab1VDNS14eG55X2JrQ2RRblNaTk41VVdtQWNtYkZVVUtVYzM1SnBvVDF1UTk1SDlhWEdBUGRUZjRXOWlONlFlMTB3aTc3T1lGVUt4ZlMzakZSY3BYcWNIU3pabFZGNl9lMUlQMU9sWHM4U0lzMmM1M0lTVnktWXV5WG95NXhxOTJuY2xzQ3lnQkJpS0h4RnR3bk9ReG10ejJGZW9kM0RKTlAzUWFaVG5QOTdUVUJrckJsNmI0RUFTdHhGb2Znc3NXcjA4Nzk0cmRtY3RZek5LQVhvMmRXc0U1VU5JZmlFQWRtaEo2MQ?oc=5",
     "news_image": "",
     "news_source": "bastillepost.com",
-    "news_age": "27h ago",
+    "news_age": "28h ago",
     "news_columns": [
       "gender",
       "gender_gap",
@@ -35381,7 +35384,7 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.74,
+    "news_score": 0.59,
     "news_title": "'The dream is still there' - South Africa players defiant about World Cup hopes - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaFRMM3Qwbl9VcTk1QmNPM0N6RkFFV3Boc19BV09QajRMc01TakdFXy12T0x2eDF5Z0hMX0NSSFFrNFM4bzlaWDNyUDR2dG5Nbkg4eVVrR2lwVkp6MTlxUWd3MVNzRmlmdnFhNTNJaUVCNUtIRF9zcGpBSzdPX2ZLR3dLel9SWVhQQUZOZEpGdnJIdWVITUdGazVpbXlyM2loMnJvUEw4Q0RaVE9SZ2c?oc=5",
     "news_image": "",
@@ -35390,7 +35393,8 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 1.2,
     "bottom50_wealth_rank": 29
@@ -39996,7 +40000,7 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.29,
+    "news_score": 0.28,
     "news_title": "Trump says security threat spurred secret plane swap in Turkey - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaXkzUV9FZGJVRFdwWDhYa3JqckdsVHVWNWxQS2s3SjRULWU3MEpKMXpuR3dwOVhuT2x0MnhJUU5DcThrQnAtU2djN0k1Tjg2SkNtbGpKNGI5b25SN0tPaFVjYmg5ZklPU0pyd3dRZGZObkV0ZjNtRFB4WldfNEJ2UTdxRGFvdFN6WFdVd2gzb3JOa2N5SEpxTktxOWNwS3RLTnF4RDV3anFBbFdRbVBjYXN4YXMtTXR3UXdSUw?oc=5",
     "news_image": "",
