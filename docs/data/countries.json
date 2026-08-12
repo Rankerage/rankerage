@@ -2535,19 +2535,16 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 1.27,
+    "news_score": 1.89,
     "news_title": "Sami Whitcomb readies herself for 2026 FIBA World Cup campaign - Basketball Australia",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWDN4UHlGdFFXREpnUnVmSzNqMHFUX0NFZkkxLTBzU2FKY2kzMklCTWFFMWZ3TFVnRGk1YjJmWm0tYmFCWWpCdUo1R2RPMm0yLWhrSUk0bS1FUEswWE5HZE1mb3ZzdDNLMXFoc0NvekNqSF9DeEN0d2RyS183clNhR0VJbkJrUk1CNVNkaUM2Sk1KVlpVX3NYRXk1MnNKV004WWFZOHZDdGF1NlM3?oc=5",
     "news_image": "",
     "news_source": "Basketball Australia",
-    "news_age": "24m ago",
+    "news_age": "26m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "olympic"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3307,7 +3304,7 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.01,
+    "news_score": 0.0,
     "news_title": "Bangladesh Business Growth July 2026 | Business activity rose in July: PMI - The Daily Star",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNmNGaHNpY29ieHRaVFljb01CbG5URjFkYkxiOXpBX201OFY3S3VCRHBZMVltdzVXM1RIU2ZTYnBUdllVQ05id2h1Ym8tMmRhaEhpV3lLM1l3VTVGMEo4eWZDMmdRY0xWQnpCYUE1eDZMTW94MWk4eVNDS01meHlJTlluLUFpdXJzWUZtdTlvVEhkdGhl?oc=5",
     "news_image": "",
@@ -8211,7 +8208,7 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.54,
+    "news_score": 0.46,
     "news_title": "World in Brief: Iran threatens to keep Hormuz shut; rescue work continues in Colombia - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3NTUl92VDMwcmN1WTFjMkxMdXJsZ3pKNUw4eFJURkN6alNKM1RmY1JwdHN4TnhneEh3MEp1U3VZQ2h4VVctdUl0Y2drSFRETzFUQVdFU1FIbFBuQUpyZnJtZVZYLXVZVjVhUm9Ubk03RUR0TWx2Z0tHSkUwZkE0Uk9NbEF3VFBETGpramJrN0s2WldVSldR?oc=5",
     "news_image": "",
@@ -10875,7 +10872,7 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.05,
     "news_title": "Egypt annual core inflation accelerates to 14.7% in July: CBE - Economy - Business - Ahram Online",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUGZ1cnpHMFdFbGZPQmE3YU01ZjBKMURTMGpiRFRoeXpjWUo3dW1jOUh1Nnh4Z0Fza3JBOHJvTUhRQzV5dTJXNlZsNXlVVGFKU0dYRm1lZi03TDhzLUZzTC1YNTRYR2JzY0dtbm5ENFpGZWlsT3FzdHo1dGRkNDNQWTNZeUZVem15eDE2YVJzc1E4NlJMOUJQUFdGcmw0V0c0U1NRT2JpQlQzT0d4Z0xiNDNMQkhCVUFQYXlqZHpkSUZVLVk?oc=5",
     "news_image": "",
@@ -12944,8 +12941,12 @@
     "news_source": "France 24",
     "news_age": "28h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "marathon_elite",
+      "olympic",
+      "democracy",
+      "approval",
+      "press",
+      "election_days"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13466,7 +13467,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTHcyenFUeVpqY3ZaMEZ4V09VQ2xJQXhmb3hRdkprc3BNb1B4VjVjSUpZUlEyNWNocUVTMTVpLUNnNkpvQ2lNTFpQbFVvVUY5d2c1cXFYOVllMW1HbWxnOHlBbUxrbUFGT0xJRkh1N2JSaERONk5nYkhoTXhBbGVKMTRxbGhvZUF3QzNBdEJrZkNfMlY1UHg4MWtXTnhRQ1luNDVnYXhCSUtER0FFaGZ3RkxRX0FLUjg?oc=5",
     "news_image": "",
     "news_source": "CBS Sports",
-    "news_age": "13h ago",
+    "news_age": "14h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -17273,12 +17274,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.78,
+    "news_score": 1.86,
     "news_title": "Iran war latest: Trump claims control of Hormuz as assassination threat revealed - The Independent",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUDBFdjV1S2xzeGdicXJ1T2Y3aFdUQjJPTzM0Y2Fxc2RoRkZTWkpUNmMxek4tMlJXbmdvakdEemFXRkRYWTlFVUtGQzVIR21MN19XVG13bmhhUm9odFlad1RNM1BGT1NPWHRPODJLSWI4ZEw0Y0lnVWVDdkVIZnA2U2NEV0Y3MHhLdU9TUTZJMldZSmZFWXpzYldwU29zUVQ4empKaXBWMzN4X01SRnVGT2FoSl94QTJCalE?oc=5",
     "news_image": "",
     "news_source": "The Independent",
-    "news_age": "29m ago",
+    "news_age": "31m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -29699,7 +29700,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGw5MS02YnN3dGFJNGFPbExyWDZEQW03UXFtcC0tSGRjRV9tUFVwSEFRc1pacURiY2gzNEYtZ29tRnlvT0RUNHByWmszNk9lbmdBaVVKOXNCMlNGaTZ3LXBWNnB0MjEySC1HYldEdnhZRFdrdDNnRG5ldGdGQ1RXOENPM1BCcEJUU3pfOThxMzQ0UHhKcWJDTzlhSXNEaUlRSzZabkJDVmRuUDlGTWfSAbMBQVVfeXFMTXNnQ2czc1dNS3ZkTFNHY3g1SS1QTWo0VzE2V1EwVThhdTdOUUZORS04VUFmZ21vV0RRSHRlSnptd0p4Nl9PQWNiZTcyY2VXUlJOMEt1WElJbTRhTnBsRWpfQzhZcmg4QVZSbC0ySFliZ2cxWGdFMjEyZjZrMXo2VHc1WnA5ckNJU29TSzRnNnVLS3J3cnVWVGk2cGVDU1kySm5sQ2JNVUpDYlliZnFCYzBaODA?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "16h ago",
+    "news_age": "17h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -39996,12 +39997,12 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.57,
+    "news_score": 0.58,
     "news_title": "Trump says he switched planes after Nato summit because of possible threat - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rcWVHSndOalZNOExnTy1NN0dGclYweE9HN1l1cGRMeEpwMGo5OVA4VWp1RDc3Vi1YdjA4aVI5R2t2Yk5Od0tKYWJwSlZrRHdLMXUwSWVWdkRNQQ?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "108m ago",
+    "news_age": "110m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -42219,9 +42220,9 @@
     "news_source": "United States Eventing Association (USEA)",
     "news_age": "11h ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -44572,7 +44573,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 0.45,
+    "news_score": 0.44,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
