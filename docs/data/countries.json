@@ -2535,7 +2535,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.61,
+    "news_score": 0.45,
     "news_title": "Sami Whitcomb readies herself for 2026 FIBA World Cup campaign - Basketball Australia",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWDN4UHlGdFFXREpnUnVmSzNqMHFUX0NFZkkxLTBzU2FKY2kzMklCTWFFMWZ3TFVnRGk1YjJmWm0tYmFCWWpCdUo1R2RPMm0yLWhrSUk0bS1FUEswWE5HZE1mb3ZzdDNLMXFoc0NvekNqSF9DeEN0d2RyS183clNhR0VJbkJrUk1CNVNkaUM2Sk1KVlpVX3NYRXk1MnNKV004WWFZOHZDdGF1NlM3?oc=5",
     "news_image": "",
@@ -2543,7 +2543,11 @@
     "news_age": "4h ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic"
+      "fifa_w",
+      "olympic",
+      "basket",
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -2850,7 +2854,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG4zUUhUV3lvcjJybFJHQlI4cjZwUzVMMGpQY3lVNlhSb3NmQ0pSbzRUcDJfczdqUzU5VUhTQmk0VkxROE1OSHg3RWtOQVIxajRBLWREYm84Ujc3TnFKZU16RW4zdUt3eG16SG5STVViQk1UQk1Ed1RWYmtWTUhkeTkyRnFsTlg4V3JzXzE4UlU3NXV4Sk01Vk11NzNvRXJhUnpMNWJXTVhxNmRpdjFUdlVBTQ?oc=5",
     "news_image": "",
     "news_source": "Euronews.com",
-    "news_age": "63h ago",
+    "news_age": "64h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -3810,7 +3814,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG4zUUhUV3lvcjJybFJHQlI4cjZwUzVMMGpQY3lVNlhSb3NmQ0pSbzRUcDJfczdqUzU5VUhTQmk0VkxROE1OSHg3RWtOQVIxajRBLWREYm84Ujc3TnFKZU16RW4zdUt3eG16SG5STVViQk1UQk1Ed1RWYmtWTUhkeTkyRnFsTlg4V3JzXzE4UlU3NXV4Sk01Vk11NzNvRXJhUnpMNWJXTVhxNmRpdjFUdlVBTQ?oc=5",
     "news_image": "",
     "news_source": "Euronews.com",
-    "news_age": "63h ago",
+    "news_age": "64h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -7962,17 +7966,16 @@
     "union_rate": 74.0,
     "union_rate_rank": null,
     "news_score": 0.01,
-    "news_title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC",
-    "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU55bUVtSkMySDZUS2RPRWpBTTRRZHhucjFpaUxWM0RoV0NuMVFPNFh1T29XMkpSR1NYRm5Oc1hUc1hnWTNVOXd5T29qXzNVTWdxRWxpal9oT1VCNk1kQVNYeW9fVDBZNG1jODVJNHN3R0lMQ19KSmwtY2JNQXM1V3ptYk7SAYoBQVVfeXFMTmt2WjUtTThxd2gzZnhqcW8wejI3WWdRNDlaZGFLaVFTZXQyZ0tkLW80RW4wSXFoMDBlNTVjZ1pnNFBpQzBQZjJFY0xHQ3Q5S2p4OHdSV05QZi01eG5XcFFmOGVHWmV6MndsZ2dNNU9NLU9FVHUzMkpmaE1DTGVEcS12NXBHcl9CWlJ3?oc=5",
+    "news_title": "Translators’ Voices: China's pursuit of strength and self-reliance in science and technology presents an inspiring path - globaltimes.cn",
+    "news_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Hd2VWY1NXSk0tQ2xUd3BNTGppX1hnVzlubHh5Q05pU0ZwQXpENDdSREpQUFZsT2hIam8zVTA0M3AwdVJpZmRsbkVQS2VrRWZkNGhFRXdGeE55SzhQZXlIUVRR?oc=5",
     "news_image": "",
-    "news_source": "CNBC",
-    "news_age": "12h ago",
+    "news_source": "globaltimes.cn",
+    "news_age": "45h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "lgbtq_rights",
+      "gay_marriage",
+      "gender",
+      "democracy"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -8206,12 +8209,12 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.59,
+    "news_score": 0.58,
     "news_title": "A whisper from the rubble led to baby’s rescue after Colombia earthquake - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXM0em93d0x3aXY5Uk5XOHVEMW4yWmFOREJkM3pWOWVmMWh0LUxMUW9pUW9sRnA5alB0M0dibG9TMUxnM0dmeERFWFJvbDI0Z2lFeHVnbTk0amdWQU9lZFp3amYtQWo5RS05QjRLb19DNEk1UFVvZHdqNXNlMUFpWlNPbzlYaWM?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "3h ago",
+    "news_age": "4h ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -12932,15 +12935,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.18,
+    "news_score": 0.3,
     "news_title": "Total Eclipse - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS0t1V3VVZ0NEdUZLTGJJMzNROXZuNl96bFhwVm1TRTJyaTk2RFBqOXV6bmZJbmlWcTgwS1Vkb3NFUzB2UkhhTnNYQjlhTDF2ZC1DWGhGNHJQQWY1WjlXazQ2VTZZQXRYc29tbUZCSnRvUXBWWnZTSGdxQWM2bUlZRURiVWtlZw?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
     "news_age": "4h ago",
     "news_columns": [
-      "religion_div",
-      "democracy"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17269,19 +17272,18 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.86,
-    "news_title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
+    "news_score": 1.58,
+    "news_title": "Hormuz shipping traffic falls to one-week low amid hostilities - Reuters",
+    "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN1dzT200SXd2Z1ZNMmhKMEN1b1NITFZ5WGRCcU00Zm1KOUd4dC1sU0lERk1SNk5SaExMUlFBc1hzbmQ4YTJQNm15elZ6eUJCRlMzYzZabV9WTGNtWkFpQy02elVaeXhvQmRMSG5oRzgxWFc1b2Faa1hUNGJtV3pZbDZfMzJzMnJWdVM0UU9jMXVKbEpuWTVZSlhkMENxdGRfTFRCLVRqbjhSVXdkQ3lYb2RKYw?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "35m ago",
+    "news_source": "Reuters",
+    "news_age": "4h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "car_density"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": null
   },
@@ -19142,7 +19144,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMUQ5MjhYaE9PMEd4Y2JKQ1hubDZ0ZWVrakdOQTlSRFk5N1llTERKS1lNbHVSRDdObTBBbUJ5TE5yTGktckxSVkhQR2tjVEFLQklVSDdCUXlZT09HaWQ3cTVwNzVGR2xhS01tazFsc3ZvdjZrNW5oenUwOTc4Tm0wZkx3SDY?oc=5",
     "news_image": "",
     "news_source": "The Japan Times",
-    "news_age": "74m ago",
+    "news_age": "76m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -19512,7 +19514,7 @@
     "union_rate": 77.0,
     "union_rate_rank": null,
     "fifa_w_rank": 71,
-    "news_score": 0.54,
+    "news_score": 0.53,
     "news_title": "Kazakhstan to Establish 'KAIST Model' Science and Technology Institute... Korea-Kazakhstan Cooperation Discussed - 아시아경제",
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBUXBoR0dvbDVRdDJpcjYzT0FJbm51Ujg1WlRnV1dqRFlzM3pWZVg0YjJqZGR6b1hiRWlFbXVqRmNhZk1Nbk81azhyZ095dHY2dkZRVGZpVWRYMVhHQlppcUV6U0RsanVt?oc=5",
     "news_image": "",
@@ -27066,7 +27068,7 @@
     "refugees_rank": null,
     "union_rate": 85.6,
     "union_rate_rank": null,
-    "news_score": 0.45,
+    "news_score": 0.44,
     "news_title": "Slot to stay in club football after Netherlands talks - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSkNpaDFjdEtYXzlmSGh2aXVrOVlFcEFPQnhDNGdDb3NpTTBCdVdTZ2F6bms3SHlZM2o1RDNydWdiMTIyWlo3WS03WlQzUVlRMklFS1NKbF9Pb05uTlZQc3ZseWpZUllYV0stUjRndTBpUzRPMmN3RFZHVWNzblRnSzUzcGxUZFJKV0xuMg?oc=5",
     "news_image": "",
@@ -29684,12 +29686,12 @@
     "union_rate": 54.7,
     "union_rate_rank": null,
     "fifa_w_rank": 102,
-    "news_score": 0.87,
+    "news_score": 0.64,
     "news_title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "35m ago",
+    "news_age": "7h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -32070,7 +32072,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zZk9XazIwT29Pd3VFaDc3bUt0RHZuTDIwZDJvZThuLWdqNkdVd1JaekJrdUdUWTc0MXVIMnVyQ1V1YmFkY3NwQ2QxUEV4UjdaRTBUMGdkcHdOS2VFa09uV3NMWQ?oc=5",
     "news_image": "",
     "news_source": "Arab News PK",
-    "news_age": "20h ago",
+    "news_age": "21h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -35378,15 +35380,15 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 1.17,
+    "news_score": 1.16,
     "news_title": "'The dream is still there' - South Africa players defiant about World Cup hopes - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaFRMM3Qwbl9VcTk1QmNPM0N6RkFFV3Boc19BV09QajRMc01TakdFXy12T0x2eDF5Z0hMX0NSSFFrNFM4bzlaWDNyUDR2dG5Nbkg4eVVrR2lwVkp6MTlxUWd3MVNzRmlmdnFhNTNJaUVCNUtIRF9zcGpBSzdPX2ZLR3dLel9SWVhQQUZOZEpGdnJIdWVITUdGazVpbXlyM2loMnJvUEw4Q0RaVE9SZ2c?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "35m ago",
+    "news_age": "37m ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": 1.2,
     "bottom50_wealth_rank": 29
@@ -38132,18 +38134,19 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.89,
-    "news_title": "South Philly’s youth paddlers head to world championship in Taiwan - WHYY",
+    "news_score": 0.9,
+    "news_title": "South Philly’s youth dragon boat team heads to world championships in Taiwan - WHYY",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdzBuR3hLbmU4Z19JdmNxZHRZRFIwLXRqSUhZZUJwbEJwSkFqVEtORkJTeXVpVW1rQ2tISF8wYTRvbm5oSHdBYnlfSHdsdFp5VDdpRWFkbWFRWmR4M0VwQ2I4YXgxREpPRzc4M2VIbnE5eVdMLUp6X2VWT3JZMFBzV1FpNmRNOXlJeDRF?oc=5",
     "news_image": "",
     "news_source": "WHYY",
-    "news_age": "17m ago",
+    "news_age": "18m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
       "patents",
       "rd",
-      "startups"
+      "startups",
+      "coffee"
     ],
     "bottom50_wealth": null
   },
@@ -39992,18 +39995,19 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.09,
-    "news_title": "Trump says security threat spurred secret plane swap in Turkey - NBC News",
-    "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaXkzUV9FZGJVRFdwWDhYa3JqckdsVHVWNWxQS2s3SjRULWU3MEpKMXpuR3dwOVhuT2x0MnhJUU5DcThrQnAtU2djN0k1Tjg2SkNtbGpKNGI5b25SN0tPaFVjYmg5ZklPU0pyd3dRZGZObkV0ZjNtRFB4WldfNEJ2UTdxRGFvdFN6WFdVd2gzb3JOa2N5SEpxTktxOWNwS3RLTnF4RDV3anFBbFdRbVBjYXN4YXMtTXR3UXdSUw?oc=5",
+    "news_score": 0.12,
+    "news_title": "With Trump Secretly Evacuated, Imperiled Air Force One Became a Flying Decoy - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZTBGNXM3enN6Z01BdUotNGtWRUdIcl9iU1BkZGlMazFvamQ0alBpZzN3U0JiM3JnTWJRSEJlMy1lX0tvaXJkWnMwcTFXTzNkS1R3bTE5b2gtNnJoVDRLZFVhb2RvSkpzQU1DWWx3U0JGVVU1RHo2VlAtcms0cFRzTnpibw?oc=5",
     "news_image": "",
-    "news_source": "NBC News",
-    "news_age": "6h ago",
+    "news_source": "The New York Times",
+    "news_age": "5h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
       "military_personnel",
       "gpi",
-      "arms_export"
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
