@@ -1925,7 +1925,9 @@
     "news_age": "18h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -2538,7 +2540,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTzl3QU5XR3c1NDA5UF8ydnVGRTdISGRpUTV6ZFA2WWY1MmZobmNFcHRBWkU5djNwN1NZOTllUXUyQldIX1VYUXBZaldrTDNmX3kyMnlhS01ac3NjUnhqaWhrc1NsZ0k4Sm5jbm9RZ3c2WGwweGRGSXBsNmVyaXdPclZGajEyd1JpeFR0VkZaSEFFY1JxeGo1MlNMZjMzeUlXaEF1bFBadTFmajR2SXhEYm9raURTZERkSER6emg0ZFRaWHdUUGtzeUZvNUNUWkZ3TDFZNmVR?oc=5",
     "news_image": "",
     "news_source": "U.S. News & World Report",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -2849,7 +2851,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG4zUUhUV3lvcjJybFJHQlI4cjZwUzVMMGpQY3lVNlhSb3NmQ0pSbzRUcDJfczdqUzU5VUhTQmk0VkxROE1OSHg3RWtOQVIxajRBLWREYm84Ujc3TnFKZU16RW4zdUt3eG16SG5STVViQk1UQk1Ed1RWYmtWTUhkeTkyRnFsTlg4V3JzXzE4UlU3NXV4Sk01Vk11NzNvRXJhUnpMNWJXTVhxNmRpdjFUdlVBTQ?oc=5",
     "news_image": "",
     "news_source": "Euronews.com",
-    "news_age": "58h ago",
+    "news_age": "59h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -3809,7 +3811,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG4zUUhUV3lvcjJybFJHQlI4cjZwUzVMMGpQY3lVNlhSb3NmQ0pSbzRUcDJfczdqUzU5VUhTQmk0VkxROE1OSHg3RWtOQVIxajRBLWREYm84Ujc3TnFKZU16RW4zdUt3eG16SG5STVViQk1UQk1Ed1RWYmtWTUhkeTkyRnFsTlg4V3JzXzE4UlU3NXV4Sk01Vk11NzNvRXJhUnpMNWJXTVhxNmRpdjFUdlVBTQ?oc=5",
     "news_image": "",
     "news_source": "Euronews.com",
-    "news_age": "58h ago",
+    "news_age": "59h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -8205,12 +8207,12 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.74,
+    "news_score": 1.05,
     "news_title": "Live updates: More than 200 dead in Colombia earthquake, with rescuers unable to reach epicenter yet - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NcGl2M1MzbFhrSEdTTW5Jc2xOa0JCLXBYLUVHVVZuSnIycWhiWjNzWDdBQ0ZrRVBFNUxkWm8yRW1CWjVqOVRxeWxTSkRxdUNJTUpib0p0UFlpckZOWTByNnFKU3BVMjM5bWJQeVBmSnoxLWE0encyQk9fTkxVZw?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "70m ago",
+    "news_age": "72m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -12938,8 +12940,12 @@
     "news_source": "newsonair.gov.in",
     "news_age": "62h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "space_launch"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17266,19 +17272,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.93,
-    "news_title": "Iran war latest: Trump claims control of Hormuz as assassination threat revealed - The Independent",
-    "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUDBFdjV1S2xzeGdicXJ1T2Y3aFdUQjJPTzM0Y2Fxc2RoRkZTWkpUNmMxek4tMlJXbmdvakdEemFXRkRYWTlFVUtGQzVIR21MN19XVG13bmhhUm9odFlad1RNM1BGT1NPWHRPODJLSWI4ZEw0Y0lnVWVDdkVIZnA2U2NEV0Y3MHhLdU9TUTZJMldZSmZFWXpzYldwU29zUVQ4empKaXBWMzN4X01SRnVGT2FoSl94QTJCalE?oc=5",
+    "news_score": 0.92,
+    "news_title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
     "news_image": "",
-    "news_source": "The Independent",
-    "news_age": "47m ago",
+    "news_source": "AP News",
+    "news_age": "2h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
       "military_personnel",
       "gpi",
       "arms_export",
-      "ai_research"
+      "car_density"
     ],
     "bottom50_wealth": null
   },
@@ -19321,7 +19327,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.08,
+    "news_score": 0.07,
     "news_title": "World Market coming soon to Jordan Landing - ABC4 Utah",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeF9rbk5zTW5PSGxBb0F1U0I2OXUzTzdVTWtSeUJOX01hcHE1VVZrVWNvbXFNbWp6aGRwck1TdFNKM2paU21FengxNmNQZWg4VHg3WkdfTEsyblhuQXlSUzdrYnNJU2VRVU9fa0tKczkydHAzM1d2UjRzV1Q4WUN0azAyeHdnLWt2TXfSAY8BQVVfeXFMUFM2WXRyOXd5cFhFbEZUSlVpZWpEWHNLM3FyVXZNRUM4Y1lyQXZwNzNJUkRaLXpNWl9TLXpvT2VXRU14aEtScTRiXzQ4T25uY1ZvN0NkMmxfa0NRalo2UGdSZ0pzMkFyT1QxdDNGbTA3dzJWaGpoS2ZaeW54c3BUTEdmVUt4SkEwQ3FnbG4xdHc?oc=5",
     "news_image": "",
@@ -28205,19 +28211,15 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.05,
-    "news_title": "CIBN urges banks to deploy fresh capital to MSMEs as Nigeria targets $1 trillion economy - Premium Times Nigeria",
-    "news_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUGhKZFByc0lDTXo5YXg2R1EtTFFuUHVBeTRnRF9tdmdKVDcxMU84eGJWVGdCNlE4OWkwTTMtQWF6anpoWXUwZ1dtSU9Hb3Zub1N4WTBiMVdpZWdFZDlYNjZ1M2ZBa2hwMDZQdnQ4YXN5ZnZSb1ZXYVdqNWthWWlUYV9jUU8xM0VHcDBmT21scVpKRlRjUk51STNDTnc5WDJvVjFYM0pNWE5oY05jbEJFdmFUQVJWZnJEOTVhaUlTcjFpeTJNa2xXaVRIVUtZX28wdENQRGZjUUJaT3RTaGZxRkN1bHlwYXk1?oc=5",
+    "news_score": 0.04,
+    "news_title": "Nigeria’s economic recovery is running ahead of its fundamentals - Business News Nigeria",
+    "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOenJqQTdrRlM5SHNrT2pKOVRDa0FQQ082TnVER2tLVFBiMXpYX1RITzVjVTZEWktDZWpWVm5zY0JGaFdIcl9FUGtsYWpldVZBMEtqcnZtTjVuNmNFWTFKNmM1b2tBUXQzV2E1YXkyVGQtWHBpVk1acFVaUEdPZTZ1Q3pHWkpmUGJYNEc0MGRQeExNN1A0eG0wR3VkclhPeVFEb3B3QUdnRHlQQVhUUmtmbkVR?oc=5",
     "news_image": "",
-    "news_source": "Premium Times Nigeria",
-    "news_age": "9h ago",
+    "news_source": "Business News Nigeria",
+    "news_age": "17h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "marathon_elite",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -32077,7 +32079,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zZk9XazIwT29Pd3VFaDc3bUt0RHZuTDIwZDJvZThuLWdqNkdVd1JaekJrdUdUWTc0MXVIMnVyQ1V1YmFkY3NwQ2QxUEV4UjdaRTBUMGdkcHdOS2VFa09uV3NMWQ?oc=5",
     "news_image": "",
     "news_source": "Arab News PK",
-    "news_age": "15h ago",
+    "news_age": "16h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -39995,7 +39997,7 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.24,
+    "news_score": 0.31,
     "news_title": "Rubio, Bessent and Miller Traveled on Decoy Plane From Turkey Without Trump - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83T3pRR3QwZ2pTMHBGQUpDRTBNcjU5YlFma0U4aGhWWlAzdzMwYTAxeDQzTXJXZDRxdWNTSXMzbmdpbjNRRkoySzZuOGE2M0hSY2ZDMW9vMDFmejNyQnA3bmp2c0hRYUMtcnhrRHFHTjdzM1ZzZlpOcWIxTGp3X1U?oc=5",
     "news_image": "",
@@ -42219,6 +42221,7 @@
     "news_age": "10h ago",
     "news_columns": [
       "fifa_ranking",
+      "olympic",
       "fifa_w"
     ],
     "bottom50_wealth": 1.5,
@@ -43956,7 +43959,7 @@
     "union_rate": 34.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 123,
-    "news_score": 0.34,
+    "news_score": 0.6,
     "news_title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
     "news_image": "",
@@ -44570,7 +44573,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 1.11,
+    "news_score": 1.12,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
@@ -44586,7 +44589,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NcGl2M1MzbFhrSEdTTW5Jc2xOa0JCLXBYLUVHVVZuSnIycWhiWjNzWDdBQ0ZrRVBFNUxkWm8yRW1CWjVqOVRxeWxTSkRxdUNJTUpib0p0UFlpckZOWTByNnFKU3BVMjM5bWJQeVBmSnoxLWE0encyQk9fTkxVZw?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "70m ago",
+    "news_age": "72m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
