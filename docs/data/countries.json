@@ -2535,7 +2535,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.85,
+    "news_score": 0.84,
     "news_title": "Sami Whitcomb readies herself for 2026 FIBA World Cup campaign - Basketball Australia",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWDN4UHlGdFFXREpnUnVmSzNqMHFUX0NFZkkxLTBzU2FKY2kzMklCTWFFMWZ3TFVnRGk1YjJmWm0tYmFCWWpCdUo1R2RPMm0yLWhrSUk0bS1FUEswWE5HZE1mb3ZzdDNLMXFoc0NvekNqSF9DeEN0d2RyS183clNhR0VJbkJrUk1CNVNkaUM2Sk1KVlpVX3NYRXk1MnNKV004WWFZOHZDdGF1NlM3?oc=5",
     "news_image": "",
@@ -7965,19 +7965,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.04,
     "news_title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU55bUVtSkMySDZUS2RPRWpBTTRRZHhucjFpaUxWM0RoV0NuMVFPNFh1T29XMkpSR1NYRm5Oc1hUc1hnWTNVOXd5T29qXzNVTWdxRWxpal9oT1VCNk1kQVNYeW9fVDBZNG1jODVJNHN3R0lMQ19KSmwtY2JNQXM1V3ptYk7SAYoBQVVfeXFMTmt2WjUtTThxd2gzZnhqcW8wejI3WWdRNDlaZGFLaVFTZXQyZ0tkLW80RW4wSXFoMDBlNTVjZ1pnNFBpQzBQZjJFY0xHQ3Q5S2p4OHdSV05QZi01eG5XcFFmOGVHWmV6MndsZ2dNNU9NLU9FVHUzMkpmaE1DTGVEcS12NXBHcl9CWlJ3?oc=5",
     "news_image": "",
     "news_source": "CNBC",
     "news_age": "10h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
-      "ai_research",
-      "internet_pct"
+      "satellite_launches",
+      "tech_investment"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -8216,7 +8212,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXM0em93d0x3aXY5Uk5XOHVEMW4yWmFOREJkM3pWOWVmMWh0LUxMUW9pUW9sRnA5alB0M0dibG9TMUxnM0dmeERFWFJvbDI0Z2lFeHVnbTk0amdWQU9lZFp3amYtQWo5RS05QjRLb19DNEk1UFVvZHdqNXNlMUFpWlNPbzlYaWM?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "109m ago",
+    "news_age": "111m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -12944,8 +12940,8 @@
     "news_source": "News On AIR",
     "news_age": "1824h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "temperature_anomalies",
+      "economic_losses"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17273,14 +17269,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.55,
+    "news_score": 1.51,
     "news_title": "World in Brief: Iran threatens to keep Hormuz shut; rescue work continues in Colombia - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3NTUl92VDMwcmN1WTFjMkxMdXJsZ3pKNUw4eFJURkN6alNKM1RmY1JwdHN4TnhneEh3MEp1U3VZQ2h4VVctdUl0Y2drSFRETzFUQVdFU1FIbFBuQUpyZnJtZVZYLXVZVjVhUm9Ubk03RUR0TWx2Z0tHSkUwZkE0Uk9NbEF3VFBETGpramJrN0s2WldVSldR?oc=5",
     "news_image": "",
     "news_source": "The Economist",
-    "news_age": "118m ago",
+    "news_age": "2h ago",
     "news_columns": [
-      "oil"
+      "oil_prices",
+      "geopolitical_risk"
     ],
     "bottom50_wealth": null
   },
@@ -19136,7 +19133,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.38,
+    "news_score": 0.37,
     "news_title": "Why the historic U.S.-Japan intervention has failed to halt the yen’s slide - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FQUhmRWc3YTZVWDVub3p3d3NXRFBXQUswajBRREdldXNoNEVpX3Y2TWY2cFdzNkZvNXZrb0NwLWFXRFpVU3lQMDFsZmhvS2tual85TER1cGd1T2dORUhWUzVMQXNtZVJBZmZrQ1d5SUNIZndRWnhlWFV30gF_QVVfeXFMTUVNUzFyQnlDUFRuOV90UHdlZU1CLW1NUlFBY2kzdXFjX01HQ1VrTmFzSmVWUlJYRHpOVnVfWU5ERHRadDJuckdVSHFUam5PcndpSUp2OGdwaGtBT29XSGFibFBkRTFzOVNIZ3h2UHI2YUdlMnFpSkRQRnUweURxRQ?oc=5",
     "news_image": "",
@@ -19511,18 +19508,15 @@
     "union_rate": 77.0,
     "union_rate_rank": null,
     "fifa_w_rank": 71,
-    "news_score": 0.49,
+    "news_score": 0.79,
     "news_title": "Kazakhstan to Establish 'KAIST Model' Science and Technology Institute... Korea-Kazakhstan Cooperation Discussed - 아시아경제",
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBUXBoR0dvbDVRdDJpcjYzT0FJbm51Ujg1WlRnV1dqRFlzM3pWZVg0YjJqZGR6b1hiRWlFbXVqRmNhZk1Nbk81azhyZ095dHY2dkZRVGZpVWRYMVhHQlppcUV6U0RsanVt?oc=5",
     "news_image": "",
     "news_source": "아시아경제",
-    "news_age": "11m ago",
+    "news_age": "13m ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "satellite_launches",
+      "tech_investment"
     ],
     "election_title": "Kazakh National Congress",
     "election_url": "https://www.electionguide.org/countries/id/111",
@@ -27070,7 +27064,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSkNpaDFjdEtYXzlmSGh2aXVrOVlFcEFPQnhDNGdDb3NpTTBCdVdTZ2F6bms3SHlZM2o1RDNydWdiMTIyWlo3WS03WlQzUVlRMklFS1NKbF9Pb05uTlZQc3ZseWpZUllYV0stUjRndTBpUzRPMmN3RFZHVWNzblRnSzUzcGxUZFJKV0xuMg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "51m ago",
+    "news_age": "53m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -29236,7 +29230,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFJLME1QOGdKSmJDa0V3eV9sNUxiN05rX3JobENpZUQ2Tlk4TmRpbzMzVU1EX2hRRERkczdBSEhNc2JlVVV3T1Jad2VHTkg5TGp4LWYtY2k5azBuckJwQTQtQ2RmVWFYdktEZHhncjBrWHlfVHZNcjZOaDJLbXNpZkszVGdYcW1faFMxZkhLMjZvQ0NuRE9Mbnl4dXhsdTc2VDhV?oc=5",
     "news_image": "",
     "news_source": "Universitetet i Bergen",
-    "news_age": "3237h ago",
+    "news_age": "3240h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -31398,7 +31392,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaGJRb1lkSmpENXJFbHVzdXp1LVM5UVBvWldacGJCelZRRWc1eHBYYk1wUlhoWWcyN0F3WHB6VGk2UU5pOTNuWHMyT0UxNmdfdTRvVlZyNHdYYTFWTTc1UnNZOE1jcEd6eFBOOUMzZlpkZlNXNU91S3FDZElON29HXzBZRTIybWs0MGYzMlNMX2pTU1VRNWpqM044eGpSOGRhcHluNGk0RmFsMWRlNHpjcTMyMHZqd9IBuwFBVV95cUxPM0kxMWpsbWNVN0FXck9JakJvYjJ0Y25KYzdhYmJfZmJhRkI4bkd2cUdIU1lZOFNkbVhmUXIwbW9wMTRRSU5pRFhINlkxV0x2dlRPZ2JsOXlaRlB3SjR6UDN3SFUxeFExMXRPREhTVlMzSE1PSVU3Xzk1Rk9MSV9Mczhqa3B0Rk1TWWFQckdtOUxQZ1l1TnZFOVVRQXR1TE52aGVZR0RmM3VKdjhwOTNWZHBDM3hVMG93ek9J?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "13h ago",
+    "news_age": "14h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -35386,7 +35380,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaFRMM3Qwbl9VcTk1QmNPM0N6RkFFV3Boc19BV09QajRMc01TakdFXy12T0x2eDF5Z0hMX0NSSFFrNFM4bzlaWDNyUDR2dG5Nbkg4eVVrR2lwVkp6MTlxUWd3MVNzRmlmdnFhNTNJaUVCNUtIRF9zcGpBSzdPX2ZLR3dLel9SWVhQQUZOZEpGdnJIdWVITUdGazVpbXlyM2loMnJvUEw4Q0RaVE9SZ2c?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "94m ago",
+    "news_age": "96m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -39998,19 +39992,19 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.31,
-    "news_title": "Trump says he switched planes after Nato summit because of possible threat - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rcWVHSndOalZNOExnTy1NN0dGclYweE9HN1l1cGRMeEpwMGo5OVA4VWp1RDc3Vi1YdjA4aVI5R2t2Yk5Od0tKYWJwSlZrRHdLMXUwSWVWdkRNQQ?oc=5",
+    "news_score": 0.29,
+    "news_title": "Trump says Secret Service and the military wanted him off Air Force One in Turkey due to threat - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVV1RWxfQzVfNS1IeF9sWDl4UGFjTWR0ZUlWTDZJR2t4ekRRRENZdmNZMmZCMGtGM2VEOWpFX21jQXRkZ0NoUkROZWdWUndfZ09uNy1odFpDellLYXFnaFJiSlVxeFQ1T1lBTGJha1pqbWd6LU9JVWotNVE5MTVQeGpxX1Zqa0t1MkdxZ3NOOFRzdnVsT1d6TkFYSGREVkRm?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "3h ago",
+    "news_source": "AP News",
+    "news_age": "4h ago",
     "news_columns": [
-      "nato",
       "military_pct",
-      "gdp",
-      "ai_research",
-      "internet_pct",
-      "patents"
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -44540,18 +44534,15 @@
     "eu_member": 0,
     "lat": 62,
     "population": 2100000,
-    "news_title": "The U.S. Economy Is Leaving These Companies Behind - nytimes.com",
-    "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTmdQYk1nM01KdjdmMHFfbHpBbXo3N1IxQlUxYlp6SDJvanlrZ2J5TURSVWJYcHBlRkJybUdURFhCazVLWVpLa0VTU203TFd6eVNLalpVaVZyazhjNTVPd3ItUnlPY1p3YU5YbDhIR2FlZXI3cTJaME5EN29UUm5XRHhqb3p6TFFwLWZsU1ZLUQ?oc=5",
+    "news_title": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands - nytimes.com",
+    "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXZPMnhmOHdlN2dRanE5VlJBWFpFVEU1Z0d3SnJoRnhZdHc3VEl6ZXVOZnA1dGVBUU5qRUNXQnhCTTNra0s2akZXc2o3Z0ZBa19weUhCRV9DV1R3Y3FmYTRuR2lxUnVrOXB6STRqdzVyZmxtaWxSMHlJVUozLUQyT2wxbUZpMk1ZX0RwZk9jV2stek56?oc=5",
     "news_image": "",
     "news_source": "nytimes.com",
-    "news_age": "1344h ago",
+    "news_age": "336h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "car_density",
+      "gas_price",
+      "co2"
     ],
     "bottom50_wealth": null
   },
