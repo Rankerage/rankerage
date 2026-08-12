@@ -241,7 +241,8 @@
     function E(field,w){return{title:t('election'),field:field,width:w,
       sorter:function(a,b,aRow,bRow,col,dir){var da=aRow.getData().election_days,db=bRow.getData().election_days;var na=N(da),nb=N(db);if(na&&nb)return 0;if(na)return 1;if(nb)return -1;return dir==='desc'?db-da:da-db;},
       headerTooltip:function(){return descTip(field,t('election'));},
-      formatter:function(c){var d=c.getRow().getData(),dt=d.election_date;if(!dt)return'<span style="color:#545d7a;">—</span>';var p=dt.split('-'),s=p[1]+'/'+p[2];var title=d.election_title||'';var name=d.country_name_en||'';var cn=name.replace(/\*+/g,'');var style='cursor:pointer;color:#e0c87c;font-weight:700;font-size:12px;';if(title)style+='text-decoration:underline dotted;';return'<span onclick="window.__showElectionNews(\''+esc(cn)+'\',\''+esc(title)+'\',\''+s+'\',\''+esc(name)+'\')" style="'+style+'" title="'+esc(title||cn)+'">'+s+'</span>';}};}
+      tooltip:function(e,c){var d=c.getRow().getData();return d.election_title||'';},
+      formatter:function(c){var d=c.getRow().getData(),dt=d.election_date;if(!dt)return'<span style="color:#545d7a;">—</span>';var p=dt.split('-'),s=p[1]+'/'+p[2];var title=d.election_title||'';var name=d.country_name_en||'';var cn=name.replace(/\*+/g,'');var style='cursor:pointer;color:#e0c87c;font-weight:700;font-size:12px;';if(title)style+='text-decoration:underline dotted;';return'<span onclick="window.__showElectionNews(\''+esc(cn)+'\',\''+esc(title)+'\',\''+s+'\',\''+esc(name)+'\')" style="'+style+'">'+s+'</span>';}};}
 
     // Special formatters for non-standard value types
     cols.forEach(function(col){
@@ -958,39 +959,27 @@
         if (idx < data.length) {
           requestAnimationFrame(loadChunk);
         } else {
-          // All loaded — apply default sort (election_days asc = soonest first)
+          // All loaded — apply default sort
           table.setSort('election_days','asc');
-
-          // ── Push null-heavy columns to the far right ──
-          (function(){
-            var cols = table.getColumns();
-            var frozenFields = ['country_code','country_name_en','election_days'];
-            var rows = table.getRows();
-            var nullCount = {};
-            cols.forEach(function(col){
-              var f = col.getField();
-              if (frozenFields.indexOf(f) >= 0) return;
+          // Push null-heavy columns to far right (deferred to avoid blocking)
+          setTimeout(function(){
+            var cols = table.getColumnDefinitions();
+            var frozen = ['country_code','country_name_en','election_days'];
+            var rows = table.getData();
+            var counts = {};
+            cols.forEach(function(c){
+              var f = c.field;
+              if (!f || frozen.indexOf(f) >= 0) return;
               var n = 0;
-              rows.forEach(function(r){
-                var v = r.getData()[f];
-                if (v === null || v === undefined || v === '') n++;
-              });
-              nullCount[f] = n;
-            });
-            var sorted = Object.keys(nullCount).sort(function(a,b){
-              return nullCount[a] - nullCount[b];
-            });
-            sorted.forEach(function(f){
-              var col = null;
-              var cs = table.getColumns();
-              for (var j = 0; j < cs.length; j++) {
-                if (cs[j].getField() === f) { col = cs[j]; break; }
+              for (var ri = 0; ri < rows.length; ri++) {
+                if (rows[ri][f] == null) n++;
               }
-              if (col) {
-                try { table.moveColumn(col, cs[2]); } catch(e) {}
-              }
+              counts[f] = n;
             });
-          })();
+            var ordered = Object.keys(counts).sort(function(a,b){return counts[a]-counts[b];});
+            var all = frozen.concat(ordered);
+            table.setColumnOrder(all);
+          }, 500);
         }
       }
       loadChunk();
