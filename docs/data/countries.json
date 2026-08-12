@@ -2542,7 +2542,10 @@
     "news_source": "Nhan Dan Online",
     "news_age": "13h ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3804,7 +3807,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.03,
     "news_title": "FIH Hockey World Cup 2026 Belgium & Netherlands: Schedule, stars in action and how to watch live - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTlJvTVdaOFBuNG5kdWFQYWlUZ1AyTkR3SkxDbU5oenZ2dXc2cXdHdXdHUVdwNF94UWJUOFNseXVOWkhzSjM3VlhJS2E0YXRQbG5wTkYwbVhtSFBpQ0g2UFNQSFZpdDNzaHBxVFA4US1sa25GZ19NODRSc1RJVmNiN3VLSFBPVEU0MFE?oc=5",
     "news_image": "",
@@ -8205,19 +8208,17 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 1.25,
-    "news_title": "Live updates: Over 200 dead in Colombia earthquake, with rescuers unable to reach epicenter yet - CNN",
+    "news_score": 1.15,
+    "news_title": "Live updates: More than 200 dead in Colombia earthquake, with rescuers unable to reach epicenter yet - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NcGl2M1MzbFhrSEdTTW5Jc2xOa0JCLXBYLUVHVVZuSnIycWhiWjNzWDdBQ0ZrRVBFNUxkWm8yRW1CWjVqOVRxeWxTSkRxdUNJTUpib0p0UFlpckZOWTByNnFKU3BVMjM5bWJQeVBmSnoxLWE0encyQk9fTkxVZw?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -15752,7 +15753,7 @@
     "fifa_w": 81,
     "fifa_ranking_rank": 128,
     "fifa_w_rank": 62,
-    "news_score": 0.25,
+    "news_score": 0.24,
     "news_title": "Hong Kong’s Father Benedict Chao, world’s oldest Trappist monk, dead at 108 - osvnews.com",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOW4xUks2X1pQRDZzRVgtejh4YXNiYW9PWGc2NE9qQ0FpUVJnQV9IYUF2NElTWmVQZXBvNlZmcDIzX3FlcVF0MmdpVldtZlltbExOaEZENHpyR1NNVFlocWtYVWxXcnRwQ1BDXzBRYk9PNlFkZ1VJNVg0NnFhYWxWRE1KRlNmUkc4bF92S2FWbWRJRzFzU0FVMjhxaUU?oc=5",
     "news_image": "",
@@ -17270,19 +17271,17 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.15,
+    "news_score": 0.89,
     "news_title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XUmJWU0hkazJFUk1NNjVUbUdILUJUZUlaRk9ZZ1B6N21KeWQwYmFLbDVpY29xcmJYOVlFTHR0NWdOcGg1ZG1LaUxUeFNOakU5ZDZlZF93U0tSQQ?oc=5",
     "news_image": "",
     "news_source": "BBC",
     "news_age": "3h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "nato"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -25712,7 +25711,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdXZDcS02WEtidnVJbWExV1o3OFZ1VFpXbXExcXZhZXRnTi1DV0t6NGRGbVAySlNiTmptR1UtTE5KT3d4RUZFa29Wb3FxVG93Z3c3QmVWWGhucS03US1zeFFQcU9hVEJCVkJ1c0IzMzl5cnZIOVZKRVNKY2NQOE03YzluQWxjUktLdUd5MEROZU9ZZ0t0WjJrQjQzMENQblFBSW0yeFhRQmlqdHRzdWhxZUhvWjNla0p6X1lDSEZqUjZ1ZjdJcmN3VmxtX0RWdE0?oc=5",
     "news_image": "",
     "news_source": "EUobserver",
-    "news_age": "10h ago",
+    "news_age": "11h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -27069,7 +27068,7 @@
     "refugees_rank": null,
     "union_rate": 85.6,
     "union_rate_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.03,
     "news_title": "FIH Hockey World Cup 2026 Belgium & Netherlands: Schedule, stars in action and how to watch live - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTlJvTVdaOFBuNG5kdWFQYWlUZ1AyTkR3SkxDbU5oenZ2dXc2cXdHdXdHUVdwNF94UWJUOFNseXVOWkhzSjM3VlhJS2E0YXRQbG5wTkYwbVhtSFBpQ0g2UFNQSFZpdDNzaHBxVFA4US1sa25GZ19NODRSc1RJVmNiN3VLSFBPVEU0MFE?oc=5",
     "news_image": "",
@@ -36456,7 +36455,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdXZDcS02WEtidnVJbWExV1o3OFZ1VFpXbXExcXZhZXRnTi1DV0t6NGRGbVAySlNiTmptR1UtTE5KT3d4RUZFa29Wb3FxVG93Z3c3QmVWWGhucS03US1zeFFQcU9hVEJCVkJ1c0IzMzl5cnZIOVZKRVNKY2NQOE03YzluQWxjUktLdUd5MEROZU9ZZ0t0WjJrQjQzMENQblFBSW0yeFhRQmlqdHRzdWhxZUhvWjNla0p6X1lDSEZqUjZ1ZjdJcmN3VmxtX0RWdE0?oc=5",
     "news_image": "",
     "news_source": "EUobserver",
-    "news_age": "10h ago",
+    "news_age": "11h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -42230,7 +42229,9 @@
     "news_age": "8h ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43967,19 +43968,17 @@
     "union_rate": 34.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 123,
-    "news_score": 0.11,
+    "news_score": 0.26,
     "news_title": "U.S. military operations killed 153 civilians last year, Pentagon says - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYklXZHdyRmIxN3ctT2kzOGRmcUc4RC1aMFVTODdHbDlKcVZTWmR2RDAzaHRub0UzNFZFQmJnRkNGUlZsNVY1QWFDSW5hTE1JNFMwZTUweHFLcmcxeWotOTZLd3N1c01TRVB4aWxWY2hMWWZhSVh4Z196QkFEd0xvd0x1TTMyTjBTMkd1VWN2LVlCNUo3NEFoS0hJeHhiUDFnVTdYdkMtd1p5UVdsRHlKag?oc=5",
     "news_image": "",
     "news_source": "CBS News",
     "news_age": "3h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
