@@ -2535,12 +2535,12 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 1.6,
+    "news_score": 1.29,
     "news_title": "Sami Whitcomb readies herself for 2026 FIBA World Cup campaign - Basketball Australia",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWDN4UHlGdFFXREpnUnVmSzNqMHFUX0NFZkkxLTBzU2FKY2kzMklCTWFFMWZ3TFVnRGk1YjJmWm0tYmFCWWpCdUo1R2RPMm0yLWhrSUk0bS1FUEswWE5HZE1mb3ZzdDNLMXFoc0NvekNqSF9DeEN0d2RyS183clNhR0VJbkJrUk1CNVNkaUM2Sk1KVlpVX3NYRXk1MnNKV004WWFZOHZDdGF1NlM3?oc=5",
     "news_image": "",
     "news_source": "Basketball Australia",
-    "news_age": "14m ago",
+    "news_age": "16m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -8211,7 +8211,7 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.68,
+    "news_score": 0.74,
     "news_title": "Live updates: More than 200 dead in Colombia earthquake, with rescuers unable to reach epicenter yet - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NcGl2M1MzbFhrSEdTTW5Jc2xOa0JCLXBYLUVHVVZuSnIycWhiWjNzWDdBQ0ZrRVBFNUxkWm8yRW1CWjVqOVRxeWxTSkRxdUNJTUpib0p0UFlpckZOWTByNnFKU3BVMjM5bWJQeVBmSnoxLWE0encyQk9fTkxVZw?oc=5",
     "news_image": "",
@@ -12945,7 +12945,8 @@
     "news_age": "63h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17278,7 +17279,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUDBFdjV1S2xzeGdicXJ1T2Y3aFdUQjJPTzM0Y2Fxc2RoRkZTWkpUNmMxek4tMlJXbmdvakdEemFXRkRYWTlFVUtGQzVIR21MN19XVG13bmhhUm9odFlad1RNM1BGT1NPWHRPODJLSWI4ZEw0Y0lnVWVDdkVIZnA2U2NEV0Y3MHhLdU9TUTZJMldZSmZFWXpzYldwU29zUVQ4empKaXBWMzN4X01SRnVGT2FoSl94QTJCalE?oc=5",
     "news_image": "",
     "news_source": "The Independent",
-    "news_age": "19m ago",
+    "news_age": "21m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -32074,19 +32075,16 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.02,
+    "news_score": 0.03,
     "news_title": "Qatar’s economy expands 2.9% in 2025 as non-hydrocarbon growth leads - Arab News PK",
     "news_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zZk9XazIwT29Pd3VFaDc3bUt0RHZuTDIwZDJvZThuLWdqNkdVd1JaekJrdUdUWTc0MXVIMnVyQ1V1YmFkY3NwQ2QxUEV4UjdaRTBUMGdkcHdOS2VFa09uV3NMWQ?oc=5",
     "news_image": "",
     "news_source": "Arab News PK",
     "news_age": "17h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -32874,7 +32872,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.0,
+    "news_score": 0.01,
     "news_title": "Moscow releases former US Marine Robert Gilman after four-year stint in Russian prison - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRFpmSG9sTjFqN3VzZnd5aV9TNFBjOXNkY0oyYUNEbjdmeFg1RFZGeWYzUDI4eFJ6eFZSLXROeUM2Nk9wenRGWXFHQW12a055R3ktNHR6YVVoVmRzek4tOFc4clNKQl9nZGNDWl9DWnY2QXVpbV92SFBia3hsUzFzY0w5SXI?oc=5",
     "news_image": "",
@@ -37920,7 +37918,7 @@
     "union_rate": 38.9,
     "union_rate_rank": null,
     "fifa_w_rank": 105,
-    "news_score": 0.06,
+    "news_score": 0.0,
     "news_title": "Syria sentences absent Bashar al-Assad to death over killings and torture - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczRfNktLU3lTNHRHVU5wVWNGZUNaVFRZSkdJWnVyUUY3dlA4c3BmWVlHLWwxRzM0eHkzdlIwZVhDZHpGQWROUlAwbUJXcElYMTc2TExMRGh1R0xwY210RlZrYkd5N1kxTm93OVY4WFVHR1RhZ3hrUmRlclpjLWZhbFo1TmF1c3VhNXZFd2VMQ3E3ZjJmUnQxY01HYWVILXpQQ3NablB6YkZMU0xS?oc=5",
     "news_image": "",
@@ -39996,19 +39994,19 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.44,
-    "news_title": "Trump says Secret Service and the military wanted him off Air Force One in Turkey due to threat - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVV1RWxfQzVfNS1IeF9sWDl4UGFjTWR0ZUlWTDZJR2t4ekRRRENZdmNZMmZCMGtGM2VEOWpFX21jQXRkZ0NoUkROZWdWUndfZ09uNy1odFpDellLYXFnaFJiSlVxeFQ1T1lBTGJha1pqbWd6LU9JVWotNVE5MTVQeGpxX1Zqa0t1MkdxZ3NOOFRzdnVsT1d6TkFYSGREVkRm?oc=5",
+    "news_score": 0.5,
+    "news_title": "Trump says he switched planes after Nato summit because of possible threat - BBC",
+    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rcWVHSndOalZNOExnTy1NN0dGclYweE9HN1l1cGRMeEpwMGo5OVA4VWp1RDc3Vi1YdjA4aVI5R2t2Yk5Od0tKYWJwSlZrRHdLMXUwSWVWdkRNQQ?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "3h ago",
+    "news_source": "BBC",
+    "news_age": "100m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
       "military_personnel",
       "gpi",
       "arms_export",
-      "ai_research"
+      "nato"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -42220,7 +42218,7 @@
     "news_age": "11h ago",
     "news_columns": [
       "basket",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43957,7 +43955,7 @@
     "union_rate": 34.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 123,
-    "news_score": 0.19,
+    "news_score": 0.0,
     "news_title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
     "news_image": "",
