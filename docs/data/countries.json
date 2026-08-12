@@ -8206,14 +8206,19 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 1.29,
-    "news_title": "Live updates: Over 200 dead in Colombia earthquake, with rescuers unable to reach epicenter yet - CNN",
+    "news_score": 0.98,
+    "news_title": "Live updates: More than 200 dead in Colombia earthquake, with rescuers unable to reach epicenter yet - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NcGl2M1MzbFhrSEdTTW5Jc2xOa0JCLXBYLUVHVVZuSnIycWhiWjNzWDdBQ0ZrRVBFNUxkWm8yRW1CWjVqOVRxeWxTSkRxdUNJTUpib0p0UFlpckZOWTByNnFKU3BVMjM5bWJQeVBmSnoxLWE0encyQk9fTkxVZw?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "18m ago",
+    "news_age": "20m ago",
     "news_columns": [
-      "olympic"
+      "earthquake_count",
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ],
     "bottom50_wealth": null
   },
@@ -12935,7 +12940,9 @@
     "news_age": "3211h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17262,14 +17269,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.11,
-    "news_title": "Four crew, two rescuers killed in Red Sea attack; US strikes ship in Gulf of Oman - Reuters",
-    "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXg2TDlnMzVlaTc1d1hoaFVFTG91b29XZzlBMC1hNGZ1REtpdDlTLXZFcGF5Mjg0N1ZvaVpSZlpEYkR6TUM1Mktja1k2TDdIVGlBZHBrMEFGdHNXSFFQV0s0eEY3aHRBcXNxa3FKUkR6Y1RmSVZOS0lwbGVZTVFKX3VUMzU5c2wwZ2VjZ1pqWU1PeDNhb0lOeFlzcDFnN1lS?oc=5",
+    "news_score": 0.9,
+    "news_title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
     "news_image": "",
-    "news_source": "Reuters",
-    "news_age": "2h ago",
+    "news_source": "AP News",
+    "news_age": "22m ago",
     "news_columns": [
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "car_density"
     ],
     "bottom50_wealth": null
   },
@@ -19309,7 +19321,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.26,
+    "news_score": 0.25,
     "news_title": "Packers' Jordan Love plans to play Thursday after injuring his thumb in last year's preseason opener - Spectrum News",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOHFzd0lUZUc4Zkc4OXJsUlgyR0ZXMXAxR2RUaHFuYWxlazV0akpzdXZ5SFV2YlFNYnpRSFJkbU16a0VrTW1YdVlTYXlaYVhzX2VhcWk1eTdLSE9Ua3BZYWRXVktMWG4zRHdIZ1Z4Q05qd0ZJU29ZbjNlblBnNE1lSGUybjFHamNqbkpZMGNKU1FZN3c?oc=5",
     "news_image": "",
@@ -29413,12 +29425,12 @@
     "refugees_rank": null,
     "union_rate": 70.4,
     "union_rate_rank": null,
-    "news_score": 0.14,
-    "news_title": "Four crew, two rescuers killed in Red Sea attack; US strikes ship in Gulf of Oman - Reuters",
-    "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXg2TDlnMzVlaTc1d1hoaFVFTG91b29XZzlBMC1hNGZ1REtpdDlTLXZFcGF5Mjg0N1ZvaVpSZlpEYkR6TUM1Mktja1k2TDdIVGlBZHBrMEFGdHNXSFFQV0s0eEY3aHRBcXNxa3FKUkR6Y1RmSVZOS0lwbGVZTVFKX3VUMzU5c2wwZ2VjZ1pqWU1PeDNhb0lOeFlzcDFnN1lS?oc=5",
+    "news_score": 0.37,
+    "news_title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
     "news_image": "",
-    "news_source": "Reuters",
-    "news_age": "2h ago",
+    "news_source": "AP News",
+    "news_age": "22m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -29683,18 +29695,17 @@
     "union_rate": 54.7,
     "union_rate_rank": null,
     "fifa_w_rank": 102,
-    "news_score": 0.05,
-    "news_title": "US fired on Panama-flagged ship that tried to break blockade of Iranian ports, WSJ reports citing US official - Reuters",
-    "news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTElqUlBOZlk3YzNMRzFoNEV6S1MxOXFhTXRaRF83Rjdzc1FxYUZZV3ZOZnJibWdPNmN5TWtrQnVRYzFyTWkwbjRVRjRqUWxhbExsdUxRN2ZOcDlwYV93U1ltaWRJdy0xYlBvSzhFLXM3TmV4VG1oOHRDWEdGTW44UEo1RkJDY2tqUG1zbjd5U3JSd1pDNVlpOTlxckxSYV93VXVVM2lpT1JGeVo5TmVUOEVZTEVsaVpLNk9BYnFqOWRTMHRoMElia2Nodw?oc=5",
+    "news_score": 0.04,
+    "news_title": "Hockey World Cup 2026: Full match schedule, groups, India vs Pakistan - Al Jazeera",
+    "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGw5MS02YnN3dGFJNGFPbExyWDZEQW03UXFtcC0tSGRjRV9tUFVwSEFRc1pacURiY2gzNEYtZ29tRnlvT0RUNHByWmszNk9lbmdBaVVKOXNCMlNGaTZ3LXBWNnB0MjEySC1HYldEdnhZRFdrdDNnRG5ldGdGQ1RXOENPM1BCcEJUU3pfOThxMzQ0UHhKcWJDTzlhSXNEaUlRSzZabkJDVmRuUDlGTWfSAbMBQVVfeXFMTXNnQ2czc1dNS3ZkTFNHY3g1SS1QTWo0VzE2V1EwVThhdTdOUUZORS04VUFmZ21vV0RRSHRlSnptd0p4Nl9PQWNiZTcyY2VXUlJOMEt1WElJbTRhTnBsRWpfQzhZcmg4QVZSbC0ySFliZ2cxWGdFMjEyZjZrMXo2VHc1WnA5ckNJU29TSzRnNnVLS3J3cnVWVGk2cGVDU1kySm5sQ2JNVUpDYlliZnFCYzBaODA?oc=5",
     "news_image": "",
-    "news_source": "Reuters",
+    "news_source": "Al Jazeera",
     "news_age": "13h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -37914,12 +37925,12 @@
     "union_rate": 38.9,
     "union_rate_rank": null,
     "fifa_w_rank": 105,
-    "news_score": 0.15,
-    "news_title": "Former Syrian President Assad sentenced to death in absentia - Fox News",
-    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPblZLUEt5aHBqMnFJdjNRT2diWHplS1NXbGxjUGJ0eFdqN2txdzhFTEVWOVhaVTlDcXFvZXNOc3VPODZNdUluU1JPT3lsdTVNSHNMdmtPcVJfOW8xZU4xaUUtLUdZbTloWFVSRzB6MkZOd3ZwaGd1d2gxWnBWd1Qzckh6OUVHZV9DVHhUSNIBkgFBVV95cUxNX0JZVXY1bGRCblpYLWVXZjBZdHZhZjR3Q09lX3RMenBtQWxtUllzSDRNd0t6OTAteVhTNmhQT0JTT0V3elZBemRvQWlGc1dMNE5ZXzBzSnFib1lVcDJuZlRnRW5Tc0FzLVFmUngyN1lSNTZROWF3SHZMRXNfSzZDQ3llUzdhNEh5d2F1WGlYYjRTQQ?oc=5",
+    "news_score": 0.18,
+    "news_title": "Syria sentences absent Bashar al-Assad to death over killings and torture - Reuters",
+    "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczRfNktLU3lTNHRHVU5wVWNGZUNaVFRZSkdJWnVyUUY3dlA4c3BmWVlHLWwxRzM0eHkzdlIwZVhDZHpGQWROUlAwbUJXcElYMTc2TExMRGh1R0xwY210RlZrYkd5N1kxTm93OVY4WFVHR1RhZ3hrUmRlclpjLWZhbFo1TmF1c3VhNXZFd2VMQ3E3ZjJmUnQxY01HYWVILXpQQ3NablB6YkZMU0xS?oc=5",
     "news_image": "",
-    "news_source": "Fox News",
-    "news_age": "13h ago",
+    "news_source": "Reuters",
+    "news_age": "4h ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -42206,7 +42217,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.12,
+    "news_score": 0.11,
     "news_title": "Fast Facts: 2026 FEI Eventing World Championships - United States Eventing Association (USEA)",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZy1CbHN2NmVtWTRFb3pBRWl1UEdBTDdCMU05YlJBLUpNZ1ZnRUR1RkZ0SDNEdDJ0N1Fldko0anhvdXpnZDBFSi04eXA5djRmWmZMRU52TmY0bndKc0RPQ1RvcTFnUk5pWW5JR0Y2SVYzcDJXNmJaa1Nidm52Ujlua3gxeUIxVXI1aldTUFhRcDM?oc=5",
     "news_image": "",
@@ -42214,9 +42225,9 @@
     "news_age": "8h ago",
     "news_columns": [
       "fifa_ranking",
-      "basket",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43953,15 +43964,19 @@
     "union_rate": 34.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 123,
-    "news_score": 0.0,
+    "news_score": 0.28,
     "news_title": "Pentagon report reveals steep civilian toll of Trump’s Yemen campaign - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOckVBc3JYUXFQcW1HaUZ5ckJGRUo1b1BGSUZwUUxkQkFDME1CY2Z6ak9PTWxCQ0QzUEJvMmVNX0VmbUFRYVV0eEozS1R3cV9UaDdXZ3NoYmV5MGQ3R2M3SmVrWmZJaEg4TTRYV1BOYzJrenpqYVVxUWpEeUM3OXk1c0UzZ1ctaGRsOXIzUlFjSnhxdmFNTjJ2ZDV0ZzB6Ry1ER2RWMzdIWFF1NzRNUnhMRzdBSGVtQ200cnhteEJCLWU?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "37m ago",
+    "news_age": "41m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -44563,7 +44578,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 0.08,
+    "news_score": 0.06,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
