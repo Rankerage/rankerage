@@ -239,7 +239,7 @@
       formatter:function(c){var d=c.getRow().getData(),v=d[field];return numberCell(d[field+'_rank'],!N(v)?fmtNumber(v):'-');}};
       if(v===false)col.visible=false;return col;}
     function E(field,w){return{title:t('election'),field:field,width:w,
-      sorter:function(a,b,aRow,bRow,col,dir){var da=aRow.getData().election_days,db=bRow.getData().election_days;var na=N(da),nb=N(db);if(na&&nb)return 0;if(na)return 1;if(nb)return -1;return da-db;},
+      sorter:function(a,b,aRow,bRow,col,dir){var da=aRow.getData().election_days,db=bRow.getData().election_days;var na=N(da),nb=N(db);if(na&&nb)return 0;if(na)return 1;if(nb)return -1;return dir==='desc'?db-da:da-db;},
       headerTooltip:function(){return descTip(field,t('election'));},
       formatter:function(c){var d=c.getRow().getData(),dt=d.election_date;if(!dt)return'<span style="color:#545d7a;">—</span>';var p=dt.split('-'),s=p[1]+'/'+p[2];var title=d.election_title||'';var name=d.country_name_en||'';var cn=name.replace(/\*+/g,'');var style='cursor:pointer;color:#e0c87c;font-weight:700;font-size:12px;';if(title)style+='text-decoration:underline dotted;';return'<span onclick="window.__showElectionNews(\''+esc(cn)+'\',\''+esc(title)+'\',\''+s+'\',\''+esc(name)+'\')" style="'+style+'" title="'+esc(title||cn)+'">'+s+'</span>';}};}
 
