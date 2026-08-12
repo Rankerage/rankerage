@@ -239,9 +239,9 @@
       formatter:function(c){var d=c.getRow().getData(),v=d[field];return numberCell(d[field+'_rank'],!N(v)?fmtNumber(v):'-');}};
       if(v===false)col.visible=false;return col;}
     function E(field,w){return{title:t('election'),field:field,width:w,
-      sorter:function(a,b,aRow,bRow,col,dir){var da=aRow.getData().election_date,db=bRow.getData().election_date;if(!da&&!db)return 0;if(!da)return 1;if(!db)return -1;return da.localeCompare(db);},
+      sorter:function(a,b,aRow,bRow,col,dir){var da=aRow.getData().election_days,db=bRow.getData().election_days;var na=N(da),nb=N(db);if(na&&nb)return 0;if(na)return 1;if(nb)return -1;return da-db;},
       headerTooltip:function(){return descTip(field,t('election'));},
-      formatter:function(c){var d=c.getRow().getData(),dt=d.election_date;if(!dt)return'<span style="color:#545d7a;">—</span>';var p=dt.split('-'),s=p[1]+'/'+p[2];var title=d.election_title||'';var name=d.country_name_en||'';var cn=name.replace(/\*+/g,'');var style='cursor:pointer;color:#e0c87c;font-weight:700;font-size:12px;';if(title)style+='text-decoration:underline dotted;';return'<span onclick="window.__showElectionNews(\''+esc(cn)+'\',\''+esc(title)+'\',\''+s+'\')" style="'+style+'" title="'+esc(title||name)+'">'+s+'</span>';}};}
+      formatter:function(c){var d=c.getRow().getData(),dt=d.election_date;if(!dt)return'<span style="color:#545d7a;">—</span>';var p=dt.split('-'),s=p[1]+'/'+p[2];var title=d.election_title||'';var name=d.country_name_en||'';var cn=name.replace(/\*+/g,'');var style='cursor:pointer;color:#e0c87c;font-weight:700;font-size:12px;';if(title)style+='text-decoration:underline dotted;';return'<span onclick="window.__showElectionNews(\''+esc(cn)+'\',\''+esc(title)+'\',\''+s+'\',\''+esc(name)+'\')" style="'+style+'" title="'+esc(title||cn)+'">'+s+'</span>';}};}
 
     // Special formatters for non-standard value types
     cols.forEach(function(col){
@@ -389,7 +389,7 @@
           .filter(function(f){return typeof f==='string' && f.length>0;});
         allCols.sort();
         reorderColumns(allCols);
-        sortDataBy('country_name_en','asc');
+        sortDataBy('election_days','asc');
         localStorage.setItem('rankerage_col_order',JSON.stringify(allCols));
         clearHighlight();
         return false;
@@ -1092,32 +1092,13 @@
       pauseRotation();
     };
 
-    // ── Election News Modal ──
-    window.__showElectionNews = function(country, title, date) {
+    // ── Election Modal (지지율 placeholder) ──
+    window.__showElectionNews = function(country, title, date, name) {
       var modal = document.getElementById('elecNewsModal');
-      document.getElementById('elecNewsTitle').textContent = '🗳 '+country+' — '+date+(title?' ('+title+')':'');
-      document.getElementById('elecNewsBody').innerHTML = '<div style="text-align:center;padding:20px;color:#545d7a;">⏳ 뉴스 검색 중...</div>';
+      var cn = (name||country||'').replace(/\*+/g,'');
+      document.getElementById('elecNewsTitle').textContent = '🗳 '+cn+' — '+date+(title?' ('+title+')':'');
+      document.getElementById('elecNewsBody').innerHTML = '<div style="text-align:center;padding:30px 20px;color:#b0b8d0;">지지율 데이터 준비 중</div>';
       modal.style.display = 'flex';
-      // Google News RSS via CORS proxy
-      var q = encodeURIComponent(country+' election '+title);
-      var rssUrl = 'https://news.google.com/rss/search?q='+q+'&hl=en-US&gl=US&ceid=US:en';
-      fetch(rssUrl).then(function(r){return r.text()}).then(function(xml){
-        var items = xml.match(/<item>[\s\S]*?<\/item>/g)||[];
-        var html = '';
-        for (var i=0;i<Math.min(items.length,8);i++) {
-          var t = (items[i].match(/<title>(.*?)<\/title>/)||[])[1]||'';
-          var l = (items[i].match(/<link>(.*?)<\/link>/)||[])[1]||'';
-          var s = ((items[i].match(/<source[^>]*>(.*?)<\/source>/)||[])[1]||'');
-          html += '<div style="margin-bottom:6px;padding-bottom:6px;border-bottom:1px solid rgba(255,255,255,0.04);">';
-          html += '<a href="'+esc(l)+'" target="_blank" style="color:#5b8def;font-size:12px;text-decoration:none;">'+esc(t)+'</a>';
-          if(s) html += '<span style="color:#545d7a;font-size:10px;margin-left:6px;">'+esc(s)+'</span>';
-          html += '</div>';
-        }
-        if(!html) html = '<div style="color:#545d7a;">뉴스를 찾을 수 없습니다.</div>';
-        document.getElementById('elecNewsBody').innerHTML = html;
-      }).catch(function(){
-        document.getElementById('elecNewsBody').innerHTML = '<a href="https://news.google.com/search?q='+q+'" target="_blank" style="color:#5b8def;">Google News에서 보기 →</a>';
-      });
     };
 
     // Anthem modal - open via event delegation
@@ -1479,6 +1460,19 @@
     function updateSelection(s,e){if(!s||!e)return;var rows=Array.from(document.querySelectorAll(".tabulator-row:not(.tabulator-header)"));var sr=s.closest(".tabulator-row"),er=e.closest(".tabulator-row");var si=rows.indexOf(sr),ei=rows.indexOf(er);var sc=Array.from(sr.children).indexOf(s),ec=Array.from(er.children).indexOf(e);var mr=Math.min(si,ei),Mr=Math.max(si,ei),mc=Math.min(sc,ec),Mc=Math.max(sc,ec);clearSelection();for(var i=mr;i<=Mr;i++){if(!rows[i])continue;var cells=Array.from(rows[i].children);for(var j=mc;j<=Mc;j++){if(cells[j])cells[j].classList.add("selected");}}}
     function clearSelection(){document.querySelectorAll(".tabulator-cell.selected").forEach(function(c){c.classList.remove("selected");});}
     document.addEventListener("keydown",function(e){if(e.ctrlKey&&e.key==="c"){var sel=document.querySelectorAll(".tabulator-cell.selected");if(!sel.length)return;var rows=new Map();sel.forEach(function(cell){var row=cell.closest(".tabulator-row");var idx=Array.from(row.parentElement.children).indexOf(row);if(!rows.has(idx))rows.set(idx,[]);rows.get(idx).push(cell.textContent.trim());});navigator.clipboard.writeText(Array.from(rows.values()).map(function(cells){return cells.join("\t");}).join("\n"));}else if(e.key==="Escape"){isSelecting=false;clearSelection();}});
+
+    // ── Shift + Mouse Wheel → horizontal scroll ──
+    (function(){
+      var holder = document.querySelector(".tabulator-tableholder") || document.querySelector("#example-table");
+      if (!holder) return;
+      holder.addEventListener('wheel', function(e){
+        if (!e.shiftKey) return;
+        e.preventDefault();
+        if (holder.scrollLeft !== undefined) {
+          holder.scrollLeft += e.deltaY || e.deltaX;
+        }
+      }, { passive: false });
+    })();
 
     // ── Unified column layout: single source of truth for column ordering ──
     var currentMetric = 'population';
