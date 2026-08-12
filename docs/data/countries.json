@@ -2535,15 +2535,16 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 1.19,
+    "news_score": 1.78,
     "news_title": "Australia Sets 'World-Leading' Minimum Pay and Insurance Rules for Gig Delivery Workers - U.S. News & World Report",
     "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTzl3QU5XR3c1NDA5UF8ydnVGRTdISGRpUTV6ZFA2WWY1MmZobmNFcHRBWkU5djNwN1NZOTllUXUyQldIX1VYUXBZaldrTDNmX3kyMnlhS01ac3NjUnhqaWhrc1NsZ0k4Sm5jbm9RZ3c2WGwweGRGSXBsNmVyaXdPclZGajEyd1JpeFR0VkZaSEFFY1JxeGo1MlNMZjMzeUlXaEF1bFBadTFmajR2SXhEYm9raURTZERkSER6emg0ZFRaWHdUUGtzeUZvNUNUWkZ3TDFZNmVR?oc=5",
     "news_image": "",
     "news_source": "U.S. News & World Report",
-    "news_age": "38m ago",
+    "news_age": "40m ago",
     "news_columns": [
-      "olympic",
-      "fifa_w"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -7960,7 +7961,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.16,
+    "news_score": 0.12,
     "news_title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU55bUVtSkMySDZUS2RPRWpBTTRRZHhucjFpaUxWM0RoV0NuMVFPNFh1T29XMkpSR1NYRm5Oc1hUc1hnWTNVOXd5T29qXzNVTWdxRWxpal9oT1VCNk1kQVNYeW9fVDBZNG1jODVJNHN3R0lMQ19KSmwtY2JNQXM1V3ptYk7SAYoBQVVfeXFMTmt2WjUtTThxd2gzZnhqcW8wejI3WWdRNDlaZGFLaVFTZXQyZ0tkLW80RW4wSXFoMDBlNTVjZ1pnNFBpQzBQZjJFY0xHQ3Q5S2p4OHdSV05QZi01eG5XcFFmOGVHWmV6MndsZ2dNNU9NLU9FVHUzMkpmaE1DTGVEcS12NXBHcl9CWlJ3?oc=5",
     "news_image": "",
@@ -8206,14 +8207,16 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.88,
+    "news_score": 1.0,
     "news_title": "Live updates: More than 200 dead in Colombia earthquake, with rescuers unable to reach epicenter yet - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NcGl2M1MzbFhrSEdTTW5Jc2xOa0JCLXBYLUVHVVZuSnIycWhiWjNzWDdBQ0ZrRVBFNUxkWm8yRW1CWjVqOVRxeWxTSkRxdUNJTUpib0p0UFlpckZOWTByNnFKU3BVMjM5bWJQeVBmSnoxLWE0encyQk9fTkxVZw?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "62m ago",
+    "news_age": "64m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -12928,11 +12931,11 @@
     "child_marriage": null,
     "child_marriage_rank": null,
     "news_score": 0.01,
-    "news_title": "India,France review expanding canvas of bilateral cooperation in science, technology & space | Akashvani News - News On AIR",
-    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTExHRzVKTC11ZHhmMUF6RmZrSWFqMVI0dHhYajQ0U1FTWlEzZ05jTjB2MmlvVEgtUDkzeDJiWG5ENERDTHBPR0g2MXdybUwyWEcyRDFadkp2VjBwRFUzV3kzMENmU3AyVGgwLTBrcDBSY0o4WTZjNmx5bVJyeWRidTcyU243UmdYNHc3WTNEZWNVcTdfOVRwRkhKREQ0dlFlRHFlV0tnSGxSUTRtc211MWlneXo?oc=5",
+    "news_title": "The 11th Meeting of the Japan-France Joint Committee on Cooperation in Science and Technology - mofa.go.jp",
+    "news_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42OVlMNk55UHpxdkFwQWtDMUhCUmFmTEtJVnFfcC13ckl4SnNfdVJ1N1k2QXNnckwxR2hLMy15OGdKV29TUkJkQmZCeW5HODVLeWU0akFlaGRyQWIxYzJmYjgzY3BjY3M2ejBsSC1TZ1M?oc=5",
     "news_image": "",
-    "news_source": "News On AIR",
-    "news_age": "61h ago",
+    "news_source": "mofa.go.jp",
+    "news_age": "3213h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -17266,7 +17269,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.29,
+    "news_score": 0.2,
     "news_title": "Iran's economy is buckling after nearly 6 months of war. These 5 charts show the damage. - Business Insider",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVDM0ckRoZ0hUcjF3S011cVRid21RM0VVNHdpY24yejA1bjRyaU43dWluMzNZcnlvd0lLSGVKRUEtQ211S3drYmxlZDBjWTRsd1QtR2NyM2UwOXQ1NWFTTDJoMkdUQ2RLa1l4ZFJMOWF5VnVLMGExSDZSejZfTjZaZTRXNmxQajNLc0w3Nm02R01YWUlVc21oazU1cVRKU0NZX3RQWG1OanRxeEZ5WEhj?oc=5",
     "news_image": "",
@@ -42218,7 +42221,9 @@
     "news_source": "United States Eventing Association (USEA)",
     "news_age": "10h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -44569,7 +44574,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 0.99,
+    "news_score": 1.04,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
@@ -44585,7 +44590,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NcGl2M1MzbFhrSEdTTW5Jc2xOa0JCLXBYLUVHVVZuSnIycWhiWjNzWDdBQ0ZrRVBFNUxkWm8yRW1CWjVqOVRxeWxTSkRxdUNJTUpib0p0UFlpckZOWTByNnFKU3BVMjM5bWJQeVBmSnoxLWE0encyQk9fTkxVZw?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "62m ago",
+    "news_age": "64m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
