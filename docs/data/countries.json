@@ -1925,7 +1925,9 @@
     "news_age": "18h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -2533,12 +2535,12 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 1.11,
+    "news_score": 1.19,
     "news_title": "Australia Sets 'World-Leading' Minimum Pay and Insurance Rules for Gig Delivery Workers - U.S. News & World Report",
     "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTzl3QU5XR3c1NDA5UF8ydnVGRTdISGRpUTV6ZFA2WWY1MmZobmNFcHRBWkU5djNwN1NZOTllUXUyQldIX1VYUXBZaldrTDNmX3kyMnlhS01ac3NjUnhqaWhrc1NsZ0k4Sm5jbm9RZ3c2WGwweGRGSXBsNmVyaXdPclZGajEyd1JpeFR0VkZaSEFFY1JxeGo1MlNMZjMzeUlXaEF1bFBadTFmajR2SXhEYm9raURTZERkSER6emg0ZFRaWHdUUGtzeUZvNUNUWkZ3TDFZNmVR?oc=5",
     "news_image": "",
     "news_source": "U.S. News & World Report",
-    "news_age": "36m ago",
+    "news_age": "38m ago",
     "news_columns": [
       "olympic",
       "fifa_w"
@@ -7958,7 +7960,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.12,
+    "news_score": 0.16,
     "news_title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU55bUVtSkMySDZUS2RPRWpBTTRRZHhucjFpaUxWM0RoV0NuMVFPNFh1T29XMkpSR1NYRm5Oc1hUc1hnWTNVOXd5T29qXzNVTWdxRWxpal9oT1VCNk1kQVNYeW9fVDBZNG1jODVJNHN3R0lMQ19KSmwtY2JNQXM1V3ptYk7SAYoBQVVfeXFMTmt2WjUtTThxd2gzZnhqcW8wejI3WWdRNDlaZGFLaVFTZXQyZ0tkLW80RW4wSXFoMDBlNTVjZ1pnNFBpQzBQZjJFY0xHQ3Q5S2p4OHdSV05QZi01eG5XcFFmOGVHWmV6MndsZ2dNNU9NLU9FVHUzMkpmaE1DTGVEcS12NXBHcl9CWlJ3?oc=5",
     "news_image": "",
@@ -8204,19 +8206,14 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.8,
+    "news_score": 0.88,
     "news_title": "Live updates: More than 200 dead in Colombia earthquake, with rescuers unable to reach epicenter yet - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NcGl2M1MzbFhrSEdTTW5Jc2xOa0JCLXBYLUVHVVZuSnIycWhiWjNzWDdBQ0ZrRVBFNUxkWm8yRW1CWjVqOVRxeWxTSkRxdUNJTUpib0p0UFlpckZOWTByNnFKU3BVMjM5bWJQeVBmSnoxLWE0encyQk9fTkxVZw?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "60m ago",
+    "news_age": "62m ago",
     "news_columns": [
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -15751,7 +15748,7 @@
     "fifa_w": 81,
     "fifa_ranking_rank": 128,
     "fifa_w_rank": 62,
-    "news_score": 0.16,
+    "news_score": 0.15,
     "news_title": "Hong Kong’s Father Benedict Chao, world’s oldest Trappist monk, dead at 108 - OSV News",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOW4xUks2X1pQRDZzRVgtejh4YXNiYW9PWGc2NE9qQ0FpUVJnQV9IYUF2NElTWmVQZXBvNlZmcDIzX3FlcVF0MmdpVldtZlltbExOaEZENHpyR1NNVFlocWtYVWxXcnRwQ1BDXzBRYk9PNlFkZ1VJNVg0NnFhYWxWRE1KRlNmUkc4bF92S2FWbWRJRzFzU0FVMjhxaUU?oc=5",
     "news_image": "",
@@ -17269,7 +17266,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.53,
+    "news_score": 0.29,
     "news_title": "Iran's economy is buckling after nearly 6 months of war. These 5 charts show the damage. - Business Insider",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVDM0ckRoZ0hUcjF3S011cVRid21RM0VVNHdpY24yejA1bjRyaU43dWluMzNZcnlvd0lLSGVKRUEtQ211S3drYmxlZDBjWTRsd1QtR2NyM2UwOXQ1NWFTTDJoMkdUQ2RLa1l4ZFJMOWF5VnVLMGExSDZSejZfTjZaZTRXNmxQajNLc0w3Nm02R01YWUlVc21oazU1cVRKU0NZX3RQWG1OanRxeEZ5WEhj?oc=5",
     "news_image": "",
@@ -27565,7 +27562,7 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 85,
-    "news_score": 0.06,
+    "news_score": 0.05,
     "news_title": "Inside Economics: Is Auckland simply too big for New Zealand’s economy? - NZ Herald",
     "news_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV1IwSUEyX2pqSlRQWm0xWTh3TEp5Uy0tTGFidURIYnJXdWlscUxVcDRrSFJqZEE5TVF0bWJuRF94eGJiSFhONUo2M3ZGMGxSX3NJYU9MUjVmM25fcmpqX2doUjdQQzNDVnpxOUwxTXdyLVRWT2F3Vm5xTVVxMWtOV0ZIRWVRQ0xaLXU2VTMtbUN2WEkxSW5BaTFXUWZVa3JVMVExb2FoaW9IeDlBRVNoNUluN3FJQkhDZXBYc0NBSnZBTFVhT0IybFdwUUM1MzRmaEVOQXRiMzlya3BZWUtkZFB3?oc=5",
     "news_image": "",
@@ -28570,7 +28567,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 108,
     "news_score": 0.12,
-    "news_title": "North Korea fires ballistic missile ahead of major US-South Korea military drills - Reuters",
+    "news_title": "North Korea fires missile ahead of major US-South Korea drills - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDVfd0tWeklYMkllazVablhzaXQxcllibnNjZDhBTXpzWWtPLXNMcWpWVUpJeXRQRUZUZ2x4LV9pQ0c5UmVlaWd4eVpYbGlQNHNXYnlYODZSSTB6QlF5Vzc1OEFpc0kwQ1l3V19aQmU0TnRxMk9NWUQxQ21leG9UUEkxNnYwOFhMWlpjdlRKc1BLcUszTzd4Q1JGSzRSNjI2LWx6Yk00SFZXYjA?oc=5",
     "news_image": "",
     "news_source": "Reuters",
@@ -31405,7 +31402,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaGJRb1lkSmpENXJFbHVzdXp1LVM5UVBvWldacGJCelZRRWc1eHBYYk1wUlhoWWcyN0F3WHB6VGk2UU5pOTNuWHMyT0UxNmdfdTRvVlZyNHdYYTFWTTc1UnNZOE1jcEd6eFBOOUMzZlpkZlNXNU91S3FDZElON29HXzBZRTIybWs0MGYzMlNMX2pTU1VRNWpqM044eGpSOGRhcHluNGk0RmFsMWRlNHpjcTMyMHZqd9IBuwFBVV95cUxPM0kxMWpsbWNVN0FXck9JakJvYjJ0Y25KYzdhYmJfZmJhRkI4bkd2cUdIU1lZOFNkbVhmUXIwbW9wMTRRSU5pRFhINlkxV0x2dlRPZ2JsOXlaRlB3SjR6UDN3SFUxeFExMXRPREhTVlMzSE1PSVU3Xzk1Rk9MSV9Mczhqa3B0Rk1TWWFQckdtOUxQZ1l1TnZFOVVRQXR1TE52aGVZR0RmM3VKdjhwOTNWZHBDM3hVMG93ek9J?oc=5",
     "news_image": "",
     "news_source": "aljazeera.com",
-    "news_age": "10h ago",
+    "news_age": "11h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -35873,7 +35870,7 @@
     "refugees": null,
     "refugees_rank": null,
     "news_score": 0.12,
-    "news_title": "North Korea fires ballistic missile ahead of major US-South Korea military drills - Reuters",
+    "news_title": "North Korea fires missile ahead of major US-South Korea drills - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDVfd0tWeklYMkllazVablhzaXQxcllibnNjZDhBTXpzWWtPLXNMcWpWVUpJeXRQRUZUZ2x4LV9pQ0c5UmVlaWd4eVpYbGlQNHNXYnlYODZSSTB6QlF5Vzc1OEFpc0kwQ1l3V19aQmU0TnRxMk9NWUQxQ21leG9UUEkxNnYwOFhMWlpjdlRKc1BLcUszTzd4Q1JGSzRSNjI2LWx6Yk00SFZXYjA?oc=5",
     "news_image": "",
     "news_source": "Reuters",
@@ -40005,10 +40002,12 @@
     "news_source": "The New York Times",
     "news_age": "2h ago",
     "news_columns": [
-      "tourism",
-      "passport",
-      "aviation",
-      "airports"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -42219,8 +42218,7 @@
     "news_source": "United States Eventing Association (USEA)",
     "news_age": "10h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -44571,7 +44569,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 0.91,
+    "news_score": 0.99,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
@@ -44587,7 +44585,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NcGl2M1MzbFhrSEdTTW5Jc2xOa0JCLXBYLUVHVVZuSnIycWhiWjNzWDdBQ0ZrRVBFNUxkWm8yRW1CWjVqOVRxeWxTSkRxdUNJTUpib0p0UFlpckZOWTByNnFKU3BVMjM5bWJQeVBmSnoxLWE0encyQk9fTkxVZw?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "60m ago",
+    "news_age": "62m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
