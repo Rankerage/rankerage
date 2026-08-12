@@ -7960,7 +7960,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.24,
+    "news_score": 0.23,
     "news_title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU55bUVtSkMySDZUS2RPRWpBTTRRZHhucjFpaUxWM0RoV0NuMVFPNFh1T29XMkpSR1NYRm5Oc1hUc1hnWTNVOXd5T29qXzNVTWdxRWxpal9oT1VCNk1kQVNYeW9fVDBZNG1jODVJNHN3R0lMQ19KSmwtY2JNQXM1V3ptYk7SAYoBQVVfeXFMTmt2WjUtTThxd2gzZnhqcW8wejI3WWdRNDlaZGFLaVFTZXQyZ0tkLW80RW4wSXFoMDBlNTVjZ1pnNFBpQzBQZjJFY0xHQ3Q5S2p4OHdSV05QZi01eG5XcFFmOGVHWmV6MndsZ2dNNU9NLU9FVHUzMkpmaE1DTGVEcS12NXBHcl9CWlJ3?oc=5",
     "news_image": "",
@@ -8206,12 +8206,12 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.98,
+    "news_score": 0.91,
     "news_title": "Live updates: Over 200 dead in Colombia earthquake, with rescuers unable to reach epicenter yet - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NcGl2M1MzbFhrSEdTTW5Jc2xOa0JCLXBYLUVHVVZuSnIycWhiWjNzWDdBQ0ZrRVBFNUxkWm8yRW1CWjVqOVRxeWxTSkRxdUNJTUpib0p0UFlpckZOWTByNnFKU3BVMjM5bWJQeVBmSnoxLWE0encyQk9fTkxVZw?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "14m ago",
+    "news_age": "16m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -12940,8 +12940,7 @@
     "news_age": "3211h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17268,19 +17267,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.95,
-    "news_title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say - BBC",
+    "news_score": 0.83,
+    "news_title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say - bbc.com",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XUmJWU0hkazJFUk1NNjVUbUdILUJUZUlaRk9ZZ1B6N21KeWQwYmFLbDVpY29xcmJYOVlFTHR0NWdOcGg1ZG1LaUxUeFNOakU5ZDZlZF93U0tSQQ?oc=5",
     "news_image": "",
-    "news_source": "BBC",
+    "news_source": "bbc.com",
     "news_age": "3h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -25132,18 +25127,15 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.32,
+    "news_score": 0.34,
     "news_title": "Pogba expected to have Monaco contract terminated - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOUNuUjBRLWdWR0tWdjc2Smhfa0QyU2dNdUFVRjZUaTNIRXFtNERkWDNEbm55ZFhnSzBUakh1ZG44Q3hLMWZQcVdFTVc2NFdCeWQ3LVEyRndJb255dnpxVXV3cGF2RmlsV3lyXzRyRUJ4YjNfZGtPWEVJejJYWFFCck1RbDBpUml1RVh5OGg3WEdRN1Nk?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
     "news_age": "4h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -29697,17 +29689,18 @@
     "union_rate": 54.7,
     "union_rate_rank": null,
     "fifa_w_rank": 102,
-    "news_score": 0.08,
-    "news_title": "Hockey World Cup 2026: Full match schedule, groups, India vs Pakistan - Al Jazeera",
-    "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGw5MS02YnN3dGFJNGFPbExyWDZEQW03UXFtcC0tSGRjRV9tUFVwSEFRc1pacURiY2gzNEYtZ29tRnlvT0RUNHByWmszNk9lbmdBaVVKOXNCMlNGaTZ3LXBWNnB0MjEySC1HYldEdnhZRFdrdDNnRG5ldGdGQ1RXOENPM1BCcEJUU3pfOThxMzQ0UHhKcWJDTzlhSXNEaUlRSzZabkJDVmRuUDlGTWfSAbMBQVVfeXFMTXNnQ2czc1dNS3ZkTFNHY3g1SS1QTWo0VzE2V1EwVThhdTdOUUZORS04VUFmZ21vV0RRSHRlSnptd0p4Nl9PQWNiZTcyY2VXUlJOMEt1WElJbTRhTnBsRWpfQzhZcmg4QVZSbC0ySFliZ2cxWGdFMjEyZjZrMXo2VHc1WnA5ckNJU29TSzRnNnVLS3J3cnVWVGk2cGVDU1kySm5sQ2JNVUpDYlliZnFCYzBaODA?oc=5",
+    "news_score": 0.06,
+    "news_title": "US fired on Panama-flagged ship that tried to break blockade of Iranian ports, WSJ reports citing US official - Reuters",
+    "news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTElqUlBOZlk3YzNMRzFoNEV6S1MxOXFhTXRaRF83Rjdzc1FxYUZZV3ZOZnJibWdPNmN5TWtrQnVRYzFyTWkwbjRVRjRqUWxhbExsdUxRN2ZOcDlwYV93U1ltaWRJdy0xYlBvSzhFLXM3TmV4VG1oOHRDWEdGTW44UEo1RkJDY2tqUG1zbjd5U3JSd1pDNVlpOTlxckxSYV93VXVVM2lpT1JGeVo5TmVUOEVZTEVsaVpLNk9BYnFqOWRTMHRoMElia2Nodw?oc=5",
     "news_image": "",
-    "news_source": "Al Jazeera",
+    "news_source": "Reuters",
     "news_age": "13h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": null
   },
@@ -30255,8 +30248,7 @@
       "nuclear",
       "military_personnel",
       "gpi",
-      "arms_export",
-      "car_density"
+      "arms_export"
     ],
     "bottom50_wealth": null
   },
@@ -31403,7 +31395,7 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.08,
+    "news_score": 0.07,
     "news_title": "Poland says Women’s World Cup plan on course despite UEFA boycott of FIFA - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaGJRb1lkSmpENXJFbHVzdXp1LVM5UVBvWldacGJCelZRRWc1eHBYYk1wUlhoWWcyN0F3WHB6VGk2UU5pOTNuWHMyT0UxNmdfdTRvVlZyNHdYYTFWTTc1UnNZOE1jcEd6eFBOOUMzZlpkZlNXNU91S3FDZElON29HXzBZRTIybWs0MGYzMlNMX2pTU1VRNWpqM044eGpSOGRhcHluNGk0RmFsMWRlNHpjcTMyMHZqd9IBuwFBVV95cUxPM0kxMWpsbWNVN0FXck9JakJvYjJ0Y25KYzdhYmJfZmJhRkI4bkd2cUdIU1lZOFNkbVhmUXIwbW9wMTRRSU5pRFhINlkxV0x2dlRPZ2JsOXlaRlB3SjR6UDN3SFUxeFExMXRPREhTVlMzSE1PSVU3Xzk1Rk9MSV9Mczhqa3B0Rk1TWWFQckdtOUxQZ1l1TnZFOVVRQXR1TE52aGVZR0RmM3VKdjhwOTNWZHBDM3hVMG93ek9J?oc=5",
     "news_image": "",
@@ -37928,7 +37920,7 @@
     "union_rate": 38.9,
     "union_rate_rank": null,
     "fifa_w_rank": 105,
-    "news_score": 0.19,
+    "news_score": 0.21,
     "news_title": "Syria sentences absent Bashar al-Assad to death over killings and torture - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczRfNktLU3lTNHRHVU5wVWNGZUNaVFRZSkdJWnVyUUY3dlA4c3BmWVlHLWwxRzM0eHkzdlIwZVhDZHpGQWROUlAwbUJXcElYMTc2TExMRGh1R0xwY210RlZrYkd5N1kxTm93OVY4WFVHR1RhZ3hrUmRlclpjLWZhbFo1TmF1c3VhNXZFd2VMQ3E3ZjJmUnQxY01HYWVILXpQQ3NablB6YkZMU0xS?oc=5",
     "news_image": "",
@@ -42228,9 +42220,7 @@
     "news_age": "8h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43967,19 +43957,15 @@
     "union_rate": 34.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 123,
-    "news_score": 0.82,
+    "news_score": 0.87,
     "news_title": "Pentagon report reveals steep civilian toll of Trump’s Yemen campaign - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOckVBc3JYUXFQcW1HaUZ5ckJGRUo1b1BGSUZwUUxkQkFDME1CY2Z6ak9PTWxCQ0QzUEJvMmVNX0VmbUFRYVV0eEozS1R3cV9UaDdXZ3NoYmV5MGQ3R2M3SmVrWmZJaEg4TTRYV1BOYzJrenpqYVVxUWpEeUM3OXk1c0UzZ1ctaGRsOXIzUlFjSnhxdmFNTjJ2ZDV0ZzB6Ry1ER2RWMzdIWFF1NzRNUnhMRzdBSGVtQ200cnhteEJCLWU?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "35m ago",
+    "news_age": "37m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -44581,7 +44567,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 0.07,
+    "news_score": 0.12,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
@@ -44593,11 +44579,11 @@
     "lat": 64,
     "g7_member": 0,
     "population": 1,
-    "news_title": "Seychelles: President Herminie - Science, Technology and Innovation Belong at The Centre of a People-Centred Society - Zawya",
-    "news_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQQlRSM2VMdk1rS1ZfdHVHanNac3psYUVjdEZRRThUSnNrQVl5bmJ5OVlQSnFXVzhyNFVTd0FGWE1UcW91VjJOeXpWckNhdmd4WFhBTmdUTWxSRjFpam5VVkltX3h3Y3V3bXZYRzZMSWVTZU5ock5EVFZlQ3Nubm45WUdrd0lHNkhCN0M4a01IS3NaREEwWDE1TTEwTElJMVZ0eFFsendFcEJIVkVVNFA4dVhrdEFsRF9GcmFCTTBFSGIyTzF2cGFERUhpNWh3S0gtWHNtbEstRDVuRmt5bVVXeGs2NzF3NE5sTVpSOE54UHprel9XbE4waDBKUEc3cTMyVUNNQjUza28tcE12?oc=5",
+    "news_title": "Nicholas Hoult Joins ‘Harry Potter’ Season 2 As Gilderoy Lockhart - Deadline",
+    "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZlk1Y3pPNHdvcGtPaXRuM1J4YUk3R3ViQUYtNDNFWE9oM0c4Z0l1cFFtSUtEc3Zoa2hDdTJpTEhDYzltT3d6U3M3ZHdGeVM3NHJjQWRreVFvQUt3M0lCY1pQTEVXWndpek5IWVNXQlZHblRjOGpQZlpGZDZjRFowSFRMREloYXNHT2NRdk5LYV9oRjBOMjNXWVRlZw?oc=5",
     "news_image": "",
-    "news_source": "Zawya",
-    "news_age": "36h ago",
+    "news_source": "Deadline",
+    "news_age": "4h ago",
     "news_columns": [
       "democracy",
       "approval",
