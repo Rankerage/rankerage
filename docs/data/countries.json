@@ -207,19 +207,19 @@
     "union_rate": 38.4,
     "union_rate_rank": null,
     "fifa_ranking_rank": 136,
-    "news_score": 0.0,
-    "news_title": "Afghanistan seal 2027 World Cup berth, West Indies to go through qualifiers again - reuters.com",
-    "news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX0s0NlBEZ0xrRkhyd0Z6WjFLSEtYRTFpdEh3c1VKVDE5SmYwWWR4UGU2R3pueTAtWmZabEZHeVFDVm9QQ081aGMydmhIRE5CeEw1MEtCdVRKSVNsdHFRaUc1LVVKTFlaWkpyakhnc0cyUHUxcFNlSDVucDNURjJxNXR3OWk4enYyNkJha0Z6UEJnOTFjUnU2MGdqS0RRMVVNLXdlQkpOVkJwaFZYVDJER0V3WTNkQm1kbjE0QUt0WnZCXzJHTkRB?oc=5",
+    "news_score": 0.1,
+    "news_title": "‘We are still here’: a day in the life of 12 Afghan women | Afghanistan - The Guardian",
+    "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnJpQ21uX255RkltVDRyX1hrUEVEOXgxT3dYQ0ppMVlOYi1IMGJKWXN5MTI1bDNRVXJLMXhXX0VKSGg5TlhiQ0dCYU80QW1pMS03Mm51NmE0cFFCSmxBTGdDckZnLU5NM0M4LV9kaFhhVTQ2WG1wY3FYdjdVeWRWN1djcWo4M3JNV1dRRzh4eDNqSEc3SmlXckc5T1B4Q2V5UTNJY3pDWDlvNTkxN05yTjE1eG9mMlY2RHhUaTZR?oc=5",
     "news_image": "",
-    "news_source": "reuters.com",
-    "news_age": "11h ago",
+    "news_source": "The Guardian",
+    "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "edu",
+      "literacy",
+      "pisa_math",
+      "pisa_science",
+      "pisa_reading",
+      "phd_per_cap"
     ],
     "bottom50_wealth": null
   },
@@ -2535,7 +2535,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.84,
+    "news_score": 1.04,
     "news_title": "Sami Whitcomb readies herself for 2026 FIBA World Cup campaign - Basketball Australia",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWDN4UHlGdFFXREpnUnVmSzNqMHFUX0NFZkkxLTBzU2FKY2kzMklCTWFFMWZ3TFVnRGk1YjJmWm0tYmFCWWpCdUo1R2RPMm0yLWhrSUk0bS1FUEswWE5HZE1mb3ZzdDNLMXFoc0NvekNqSF9DeEN0d2RyS183clNhR0VJbkJrUk1CNVNkaUM2Sk1KVlpVX3NYRXk1MnNKV004WWFZOHZDdGF1NlM3?oc=5",
     "news_image": "",
@@ -2543,11 +2543,8 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
       "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "basket"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -7965,15 +7962,19 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.03,
     "news_title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU55bUVtSkMySDZUS2RPRWpBTTRRZHhucjFpaUxWM0RoV0NuMVFPNFh1T29XMkpSR1NYRm5Oc1hUc1hnWTNVOXd5T29qXzNVTWdxRWxpal9oT1VCNk1kQVNYeW9fVDBZNG1jODVJNHN3R0lMQ19KSmwtY2JNQXM1V3ptYk7SAYoBQVVfeXFMTmt2WjUtTThxd2gzZnhqcW8wejI3WWdRNDlaZGFLaVFTZXQyZ0tkLW80RW4wSXFoMDBlNTVjZ1pnNFBpQzBQZjJFY0xHQ3Q5S2p4OHdSV05QZi01eG5XcFFmOGVHWmV6MndsZ2dNNU9NLU9FVHUzMkpmaE1DTGVEcS12NXBHcl9CWlJ3?oc=5",
     "news_image": "",
     "news_source": "CNBC",
     "news_age": "10h ago",
     "news_columns": [
-      "satellite_launches",
-      "tech_investment"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -8212,7 +8213,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXM0em93d0x3aXY5Uk5XOHVEMW4yWmFOREJkM3pWOWVmMWh0LUxMUW9pUW9sRnA5alB0M0dibG9TMUxnM0dmeERFWFJvbDI0Z2lFeHVnbTk0amdWQU9lZFp3amYtQWo5RS05QjRLb19DNEk1UFVvZHdqNXNlMUFpWlNPbzlYaWM?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -12938,10 +12939,14 @@
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTExHRzVKTC11ZHhmMUF6RmZrSWFqMVI0dHhYajQ0U1FTWlEzZ05jTjB2MmlvVEgtUDkzeDJiWG5ENERDTHBPR0g2MXdybUwyWEcyRDFadkp2VjBwRFUzV3kzMENmU3AyVGgwLTBrcDBSY0o4WTZjNmx5bVJyeWRidTcyU243UmdYNHc3WTNEZWNVcTdfOVRwRkhKREQ0dlFlRHFlV0tnSGxSUTRtc211MWlneXo?oc=5",
     "news_image": "",
     "news_source": "News On AIR",
-    "news_age": "1824h ago",
+    "news_age": "64h ago",
     "news_columns": [
-      "temperature_anomalies",
-      "economic_losses"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "space_launch"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -16696,17 +16701,16 @@
     "union_rate": 59.1,
     "union_rate_rank": null,
     "news_score": 0.01,
-    "news_title": "Trump's Turkey takeout: World's most protected man was spirited out in a catering container - The Times of India",
-    "news_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdVhFRWNVWHZmX0l1Rm15MU5Wbkx0amR6WXJORi0wRFdmMWd4ZktIN3B2d25rT04zWUVNdkFsUWlCX05vLUtkT0JOcW1Ca3FFVC01WnRLOUR4ekJEZG83N1N2SlJPTHk1TzhWUDdaaW1CSG5FdDFMeG5JOGotWVBQWjk1RVdmT1pxVk1aQ0xscjhoN3J0ZFN5RzRzdGs1YXFRLXIwQjBHYWJNYTk3emlHZFQ1bnYzcDZHUVpENUk1TURLLXZBeU10RGFfelZGaGZVeGJCNF92bldrRU50TEctN1hwMk8zbFZwQVpDeEZVaFDSAfYBQVVfeXFMTXh3c0tzUmZHU3hHWThCaFRMYUJLRjU5ZF9ISmJUWjVuZm41NFBheklldFc4eVdSVTdQcXpUczRBSEM5d3U0RzhwN0V2TkdYVXFScGU5MUZNRk1hOWd3UHFVeWV6b1Jra1dLYmVsd1EzZmxIV2NWWGs5V1BLa1JSSlBLMnVwSXItMWxHNFMzSnF0QTdtQlF6Z2pEdUxYRVNmWGM2TDJvbWtqWHcxMklyNFVidDVNNnZPUXh3MkJpOUcwclMwX2VrUjcxRFNnTi1leWJQRjNhN3AzUXBzTm50XzE1VWNBR1QxU0hDUE5Nb3BaY1pac2dR?oc=5",
+    "news_title": "Hockey World Cup 2026: Full match schedule, groups, India vs Pakistan - Al Jazeera",
+    "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGw5MS02YnN3dGFJNGFPbExyWDZEQW03UXFtcC0tSGRjRV9tUFVwSEFRc1pacURiY2gzNEYtZ29tRnlvT0RUNHByWmszNk9lbmdBaVVKOXNCMlNGaTZ3LXBWNnB0MjEySC1HYldEdnhZRFdrdDNnRG5ldGdGQ1RXOENPM1BCcEJUU3pfOThxMzQ0UHhKcWJDTzlhSXNEaUlRSzZabkJDVmRuUDlGTWfSAbMBQVVfeXFMTXNnQ2czc1dNS3ZkTFNHY3g1SS1QTWo0VzE2V1EwVThhdTdOUUZORS04VUFmZ21vV0RRSHRlSnptd0p4Nl9PQWNiZTcyY2VXUlJOMEt1WElJbTRhTnBsRWpfQzhZcmg4QVZSbC0ySFliZ2cxWGdFMjEyZjZrMXo2VHc1WnA5ckNJU29TSzRnNnVLS3J3cnVWVGk2cGVDU1kySm5sQ2JNVUpDYlliZnFCYzBaODA?oc=5",
     "news_image": "",
-    "news_source": "The Times of India",
-    "news_age": "16h ago",
+    "news_source": "Al Jazeera",
+    "news_age": "18h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17269,15 +17273,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.51,
+    "news_score": 1.52,
     "news_title": "World in Brief: Iran threatens to keep Hormuz shut; rescue work continues in Colombia - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3NTUl92VDMwcmN1WTFjMkxMdXJsZ3pKNUw4eFJURkN6alNKM1RmY1JwdHN4TnhneEh3MEp1U3VZQ2h4VVctdUl0Y2drSFRETzFUQVdFU1FIbFBuQUpyZnJtZVZYLXVZVjVhUm9Ubk03RUR0TWx2Z0tHSkUwZkE0Uk9NbEF3VFBETGpramJrN0s2WldVSldR?oc=5",
     "news_image": "",
     "news_source": "The Economist",
     "news_age": "2h ago",
     "news_columns": [
-      "oil_prices",
-      "geopolitical_risk"
+      "oil_prices"
     ],
     "bottom50_wealth": null
   },
@@ -19508,15 +19511,18 @@
     "union_rate": 77.0,
     "union_rate_rank": null,
     "fifa_w_rank": 71,
-    "news_score": 0.79,
+    "news_score": 0.72,
     "news_title": "Kazakhstan to Establish 'KAIST Model' Science and Technology Institute... Korea-Kazakhstan Cooperation Discussed - 아시아경제",
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBUXBoR0dvbDVRdDJpcjYzT0FJbm51Ujg1WlRnV1dqRFlzM3pWZVg0YjJqZGR6b1hiRWlFbXVqRmNhZk1Nbk81azhyZ095dHY2dkZRVGZpVWRYMVhHQlppcUV6U0RsanVt?oc=5",
     "news_image": "",
     "news_source": "아시아경제",
-    "news_age": "13m ago",
+    "news_age": "15m ago",
     "news_columns": [
-      "satellite_launches",
-      "tech_investment"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "election_title": "Kazakh National Congress",
     "election_url": "https://www.electionguide.org/countries/id/111",
@@ -27059,12 +27065,12 @@
     "refugees_rank": null,
     "union_rate": 85.6,
     "union_rate_rank": null,
-    "news_score": 0.81,
+    "news_score": 0.8,
     "news_title": "Slot to stay in club football after Netherlands talks - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSkNpaDFjdEtYXzlmSGh2aXVrOVlFcEFPQnhDNGdDb3NpTTBCdVdTZ2F6bms3SHlZM2o1RDNydWdiMTIyWlo3WS03WlQzUVlRMklFS1NKbF9Pb05uTlZQc3ZseWpZUllYV0stUjRndTBpUzRPMmN3RFZHVWNzblRnSzUzcGxUZFJKV0xuMg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "53m ago",
+    "news_age": "55m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -35375,15 +35381,14 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.67,
+    "news_score": 0.83,
     "news_title": "'The dream is still there' - South Africa players defiant about World Cup hopes - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaFRMM3Qwbl9VcTk1QmNPM0N6RkFFV3Boc19BV09QajRMc01TakdFXy12T0x2eDF5Z0hMX0NSSFFrNFM4bzlaWDNyUDR2dG5Nbkg4eVVrR2lwVkp6MTlxUWd3MVNzRmlmdnFhNTNJaUVCNUtIRF9zcGpBSzdPX2ZLR3dLel9SWVhQQUZOZEpGdnJIdWVITUdGazVpbXlyM2loMnJvUEw4Q0RaVE9SZ2c?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "96m ago",
+    "news_age": "98m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
       "olympic",
       "basket"
     ],
@@ -39992,19 +39997,15 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.29,
-    "news_title": "Trump says Secret Service and the military wanted him off Air Force One in Turkey due to threat - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVV1RWxfQzVfNS1IeF9sWDl4UGFjTWR0ZUlWTDZJR2t4ekRRRENZdmNZMmZCMGtGM2VEOWpFX21jQXRkZ0NoUkROZWdWUndfZ09uNy1odFpDellLYXFnaFJiSlVxeFQ1T1lBTGJha1pqbWd6LU9JVWotNVE5MTVQeGpxX1Zqa0t1MkdxZ3NOOFRzdnVsT1d6TkFYSGREVkRm?oc=5",
+    "news_score": 0.41,
+    "news_title": "Trump says security threat spurred secret plane swap in Turkey - NBC News",
+    "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaXkzUV9FZGJVRFdwWDhYa3JqckdsVHVWNWxQS2s3SjRULWU3MEpKMXpuR3dwOVhuT2x0MnhJUU5DcThrQnAtU2djN0k1Tjg2SkNtbGpKNGI5b25SN0tPaFVjYmg5ZklPU0pyd3dRZGZObkV0ZjNtRFB4WldfNEJ2UTdxRGFvdFN6WFdVd2gzb3JOa2N5SEpxTktxOWNwS3RLTnF4RDV3anFBbFdRbVBjYXN4YXMtTXR3UXdSUw?oc=5",
     "news_image": "",
-    "news_source": "AP News",
+    "news_source": "NBC News",
     "news_age": "4h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
