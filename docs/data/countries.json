@@ -2535,12 +2535,12 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.59,
+    "news_score": 1.05,
     "news_title": "Australia Sets 'World-Leading' Minimum Pay and Insurance Rules for Gig Delivery Workers - U.S. News & World Report",
     "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTzl3QU5XR3c1NDA5UF8ydnVGRTdISGRpUTV6ZFA2WWY1MmZobmNFcHRBWkU5djNwN1NZOTllUXUyQldIX1VYUXBZaldrTDNmX3kyMnlhS01ac3NjUnhqaWhrc1NsZ0k4Sm5jbm9RZ3c2WGwweGRGSXBsNmVyaXdPclZGajEyd1JpeFR0VkZaSEFFY1JxeGo1MlNMZjMzeUlXaEF1bFBadTFmajR2SXhEYm9raURTZERkSER6emg0ZFRaWHdUUGtzeUZvNUNUWkZ3TDFZNmVR?oc=5",
     "news_image": "",
     "news_source": "U.S. News & World Report",
-    "news_age": "4m ago",
+    "news_age": "6m ago",
     "news_columns": [
       "olympic"
     ],
@@ -7959,7 +7959,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.2,
+    "news_score": 0.15,
     "news_title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU55bUVtSkMySDZUS2RPRWpBTTRRZHhucjFpaUxWM0RoV0NuMVFPNFh1T29XMkpSR1NYRm5Oc1hUc1hnWTNVOXd5T29qXzNVTWdxRWxpal9oT1VCNk1kQVNYeW9fVDBZNG1jODVJNHN3R0lMQ19KSmwtY2JNQXM1V3ptYk7SAYoBQVVfeXFMTmt2WjUtTThxd2gzZnhqcW8wejI3WWdRNDlaZGFLaVFTZXQyZ0tkLW80RW4wSXFoMDBlNTVjZ1pnNFBpQzBQZjJFY0xHQ3Q5S2p4OHdSV05QZi01eG5XcFFmOGVHWmV6MndsZ2dNNU9NLU9FVHUzMkpmaE1DTGVEcS12NXBHcl9CWlJ3?oc=5",
     "news_image": "",
@@ -8205,15 +8205,19 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 1.17,
+    "news_score": 1.25,
     "news_title": "Live updates: More than 200 dead in Colombia earthquake, with rescuers unable to reach epicenter yet - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NcGl2M1MzbFhrSEdTTW5Jc2xOa0JCLXBYLUVHVVZuSnIycWhiWjNzWDdBQ0ZrRVBFNUxkWm8yRW1CWjVqOVRxeWxTSkRxdUNJTUpib0p0UFlpckZOWTByNnFKU3BVMjM5bWJQeVBmSnoxLWE0encyQk9fTkxVZw?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "28m ago",
+    "news_age": "30m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "earthquake_count",
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ],
     "bottom50_wealth": null
   },
@@ -10865,7 +10869,7 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.07,
     "news_title": "Egypt annual core inflation accelerates to 14.7% in July: CBE - Economy - Business - Ahram Online",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUGZ1cnpHMFdFbGZPQmE3YU01ZjBKMURTMGpiRFRoeXpjWUo3dW1jOUh1Nnh4Z0Fza3JBOHJvTUhRQzV5dTJXNlZsNXlVVGFKU0dYRm1lZi03TDhzLUZzTC1YNTRYR2JzY0dtbm5ENFpGZWlsT3FzdHo1dGRkNDNQWTNZeUZVem15eDE2YVJzc1E4NlJMOUJQUFdGcmw0V0c0U1NRT2JpQlQzT0d4Z0xiNDNMQkhCVUFQYXlqZHpkSUZVLVk?oc=5",
     "news_image": "",
@@ -15753,7 +15757,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOW4xUks2X1pQRDZzRVgtejh4YXNiYW9PWGc2NE9qQ0FpUVJnQV9IYUF2NElTWmVQZXBvNlZmcDIzX3FlcVF0MmdpVldtZlltbExOaEZENHpyR1NNVFlocWtYVWxXcnRwQ1BDXzBRYk9PNlFkZ1VJNVg0NnFhYWxWRE1KRlNmUkc4bF92S2FWbWRJRzFzU0FVMjhxaUU?oc=5",
     "news_image": "",
     "news_source": "OSV News",
-    "news_age": "5h ago",
+    "news_age": "6h ago",
     "news_columns": [
       "olympic",
       "olympic_gold",
@@ -17266,12 +17270,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.17,
+    "news_score": 1.13,
     "news_title": "Iran war latest: Trump claims control of Hormuz as assassination threat revealed - The Independent",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUDBFdjV1S2xzeGdicXJ1T2Y3aFdUQjJPTzM0Y2Fxc2RoRkZTWkpUNmMxek4tMlJXbmdvakdEemFXRkRYWTlFVUtGQzVIR21MN19XVG13bmhhUm9odFlad1RNM1BGT1NPWHRPODJLSWI4ZEw0Y0lnVWVDdkVIZnA2U2NEV0Y3MHhLdU9TUTZJMldZSmZFWXpzYldwU29zUVQ4empKaXBWMzN4X01SRnVGT2FoSl94QTJCalE?oc=5",
     "news_image": "",
     "news_source": "The Independent",
-    "news_age": "106m ago",
+    "news_age": "108m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -34052,7 +34056,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPRDdDWTZrS2hmQ3dxMm9LckNhQkZxbXlvZFg1bFBJSWgwOXJab1VDNS14eG55X2JrQ2RRblNaTk41VVdtQWNtYkZVVUtVYzM1SnBvVDF1UTk1SDlhWEdBUGRUZjRXOWlONlFlMTB3aTc3T1lGVUt4ZlMzakZSY3BYcWNIU3pabFZGNl9lMUlQMU9sWHM4U0lzMmM1M0lTVnktWXV5WG95NXhxOTJuY2xzQ3lnQkJpS0h4RnR3bk9ReG10ejJGZW9kM0RKTlAzUWFaVG5QOTdUVUJrckJsNmI0RUFTdHhGb2Znc3NXcjA4Nzk0cmRtY3RZek5LQVhvMmRXc0U1VU5JZmlFQWRtaEo2MQ?oc=5",
     "news_image": "",
     "news_source": "bastillepost.com",
-    "news_age": "23h ago",
+    "news_age": "24h ago",
     "news_columns": [
       "gender",
       "gender_gap",
@@ -42224,7 +42228,9 @@
     "news_age": "9h ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43961,7 +43967,7 @@
     "union_rate": 34.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 123,
-    "news_score": 0.83,
+    "news_score": 0.7,
     "news_title": "Pentagon tells Congress US military airstrikes in Yemen resulted in 153 civilians killed - The Hill",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWlhzNTdzLVpMQUdSRUhLMXZobWtXLUFOX2F3a2dkeXlKNW9mN1BCTXlzZzAwM2R5dzdOQVVyVldlSVRDWmhNMlNuZWRFQ2dNS3o2UFpLaGoySVUyS0NVdFZiNGlYZGFXUHhNaGdCTF9QeklJdUhZRC1FbWwtVWhqMTR2dXFfWXFPMEhhUnp30gGTAUFVX3lxTFB4NXEwSmFYVnZ5T1ZFcVBqTW9CX2FOd3VwTV9QTm1KYUg5RzlNUWEtZ2xfcTJENG9sdFRtcnZfTm1oN3N4VENTUUYtUmIyTnU5b3N2UHNONFdQWWxhMGF1S3NlVzlrelVVYmlVSkJDbVFXdlR4QXpSaUhqWElIZ3o0N01sdmdUaVpRcG4wYVY4U3EtSQ?oc=5",
     "news_image": "",
@@ -44575,7 +44581,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 0.52,
+    "news_score": 0.4,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
