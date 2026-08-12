@@ -16,15 +16,13 @@
     fetch('data/descriptions.json').then(function(r){return r.json()}).then(function(d){desc = d;});function descTip(field,title){var d=desc[field]||title;var loc=I18N.getLocale2();if(loc==='ko'||!d)return d;var m=d.match(/^([^—]+?) — ([^(]+)\s*\((.+)\)$/);if(m)return m[1].trim()+' ('+m[3].trim()+')';m=d.match(/^([^—]+?) — (.+)$/);if(m)return m[1].trim();return d;}
 
     var S = function(a,b,aRow,bRow,col,dir){
-      var na=(a==null||a===NULL_SENTINEL||a===NEG_SENTINEL),nb=(b==null||b===NULL_SENTINEL||b===NEG_SENTINEL);
+      var na=(a==null),nb=(b==null);
       if(na&&nb)return 0;
       if(na)return 1;
       if(nb)return -1;
       return dir==='desc' ? b-a : a-b;
     };
-    var NULL_SENTINEL = 1e15;
-    var NEG_SENTINEL = -1e15;
-    function N(v) { return v === null || v === undefined || v === NULL_SENTINEL || v === NEG_SENTINEL; }
+    function N(v) { return v === null || v === undefined; }
     function fmtNumber(n) { if (N(n)) return '-'; if (n >= 1e9) return (n / 1e9).toFixed(1)+'B'; if (n >= 1e6) return (n / 1e6).toFixed(1)+'M'; if (n >= 1e3) return (n / 1e3).toFixed(1)+'K'; return I18N.formatNumber(n); }
     function rankBadge(r) { if(!r)return'<span style="display:inline-block;width:26px;"></span>';var n=parseInt(r),c='#8892b0';if(n<=3)c='#f0a04b';else if(n<=10)c='#5b8def';else if(n<=20)c='#3fb68b';return'<span style="color:'+c+';font-weight:700;font-size:11px;">#'+n+'</span>'; }
     function numberCell(r,v) { return'<div style="display:flex;align-items:center;width:100%;"><span style="flex:0 0 26px;text-align:left;">'+(r?rankBadge(r):'')+'</span><span style="flex:1;text-align:right;font-family:\'JetBrains Mono\',Consolas,monospace;font-size:10.5px;white-space:nowrap;">'+v+'</span></div>'; }
@@ -41,7 +39,7 @@
         tooltip:function(e,c){return c.getRow().getData().country_summary;}},
       // Country
       { title:t('country'),field:"country_name_en",width:80,frozen:true,
-        sorter:function(a,b){var pa=a.charCodeAt(0)<65,pb=b.charCodeAt(0)<65;if(pa&&!pb)return 1;if(!pa&&pb)return -1;return a<b?-1:a>b?1:0;},
+        sorter:function(a,b,aRow,bRow,col,dir){var pa=a.charCodeAt(0)<65,pb=b.charCodeAt(0)<65;var r;if(pa&&!pb)r=1;else if(!pa&&pb)r=-1;else r=(a<b?-1:a>b?1:0);return dir==='desc'?-r:r;},
         formatter:function(c){var d=c.getRow().getData(),code=d.country_code,name=I18N.countryName(code);return'<span class="country-clickable" onclick="window.__countrySort(\''+code+'\')" style="display:inline-block;max-width:65px;overflow:hidden;text-overflow:clip;white-space:nowrap;cursor:pointer;" title="클릭: '+ (name||d.country_name_en)+' 강한 순위순 정렬">'+(name||d.country_name_en)+'</span>';},
         tooltip:function(e,c){var d=c.getRow().getData(),code=d.country_code,n2=I18N.countryName(code,I18N.getLocale2()),lo=d.country_name_local,p=[];if(n2&&n2!==d.country_name_en)p.push(n2);if(lo&&lo!==n2)p.push(lo);return p.join(' · ')||d.country_name_en;}},
       // === ELECTION (default sort) ===
@@ -396,9 +394,12 @@
         clearHighlight();
         return false;
       } else if (field === "country_name_en") {
-        // 국가명 헤더 클릭 → A-Z 정순만
+        // 국가명 헤더 클릭 → A-Z 정순/역순 토글
         e.preventDefault(); e.stopPropagation();
-        sortDataBy("country_name_en","asc");
+        var sorters = table.getSorters();
+        var curSort = sorters.length > 0 ? sorters[0] : null;
+        var dir = (curSort && curSort.field === field && curSort.dir === 'asc') ? 'desc' : 'asc';
+        sortDataBy("country_name_en", dir);
         clearHighlight();
         return false;
       }
@@ -881,8 +882,8 @@
         var rows = table.getData();
         rows.forEach(function(r) {
           var v1 = r[f1], v2 = r[f2];
-          if (v1 == null || v1 === NULL_SENTINEL || v1 === NEG_SENTINEL) v1 = null;
-          if (v2 == null || v2 === NULL_SENTINEL || v2 === NEG_SENTINEL) v2 = null;
+          if (v1 == null) v1 = null;
+          if (v2 == null) v2 = null;
           if (v1 != null && v2 != null && v2 !== 0) {
             r[vid] = op === '/' ? v1 / v2 : Math.abs(v1 - v2);
           } else {
@@ -942,14 +943,6 @@
 
     // Load data - progressive rendering to avoid main-thread freeze
     fetch('data/countries.json').then(function(r){return r.json()}).then(function(data){
-      // Replace null with two sentinels: desc fields use -999999, asc fields use 999999
-      var fields = ["population","area","population_density","gdp","gdp_per_capita","hdi","life_expectancy","happiness","fifa_ranking","cpi","gpi","internet_pct","military_pct","democracy","press","unemp","debt","poverty","rd","patents","edu","english","gender","fertility","health","obesity","alcohol","pm25","co2","forest","renew","nuclear","murder","tourism","olympic","fifa_w","basket","cricket","rugby","nobel","approval","gini","suicide","tz","prison","literacy","netspeed","doctors","heritage","military_personnel","line_length","maternal_mortality","beer","wine","chocolate","airports","startups","chess","nobel_per_capita","earthquakes","hdi_adj","books","trump_approval","nato","nuclear_power","volcanoes","math_olympiad","birth_rate","death_rate","infant_mortality","urban_pop","median_age","energy_per_capita","inflation","gas_price","car_density","meat","govern_spend","tax_rev","reserves","exports","imports","penetration","divorce","aviation","religion_div","electricity","leave","independence","smoking","mcdonalds","elevation","agri","languages","coffee","police","beds","students_per_teacher","salary","workhours","earthquake_count","tsunami_risk","cyclone_freq","flood_risk","wildfire_freq","worldcup_parts","olympic_gold","olympic_per_cap","davis_cup","marathon_elite","burglary","drug_offense","assault","trafficking","gang_violence","cancer","diabetes","hiv_prev","vaccination","mental_health","startup_rate","cost_living","house_price","min_wage","pisa_math","pisa_science","pisa_reading","phd_per_cap","research_pub","recycling","plastic_waste","park_area","immigration","emigration","refugees","gender_gap","lgbtq_rights","g5_coverage","ai_research","space_launch","arms_export","peacekeeping","intangible","film_prod","michelin","game_market","tea_consume","rice_consume","food_waste","holidays","influencers","festivals","tanning","street_food","cat_own","dog_own"];
-      var higherBetter = {"population": 1, "area": 1, "gdp": 1, "gdp_per_capita": 1, "hdi": 1, "life_expectancy": 1, "happiness": 1, "democracy": 1, "press": 1, "cpi": 1, "gpi": 1, "approval": 1, "internet_pct": 1, "edu": 1, "english": 1, "gender": 1, "fertility": 1, "health": 1, "renew": 1, "forest": 1, "rd": 1, "patents": 1, "tourism": 1, "nobel": 1, "netspeed": 1, "doctors": 1, "heritage": 1, "leave": 1, "independence": 1, "literacy": 1, "agri": 1, "languages": 1, "coffee": 1, "mcdonalds": 1, "elevation": 1, "police": 1, "beds": 1, "salary": 1, "meat": 1, "car_density": 1, "penetration": 1, "aviation": 1, "religion_div": 1, "beer": 1, "wine": 1, "chocolate": 1, "airports": 1, "startups": 1, "chess": 1, "nobel_per_capita": 1, "hdi_adj": 1, "books": 1, "nuclear_power": 1, "volcanoes": 1, "math_olympiad": 1, "urban_pop": 1, "median_age": 1, "energy_per_capita": 1, "electricity": 1, "reserves": 1, "exports": 1, "imports": 1, "govern_spend": 1, "tax_rev": 1, "military_personnel": 1, "line_length": 1, "olympic": 1, "basket": 1, "cricket": 1, "rugby": 1, "birth_rate": 1, "trump_approval": 1, "nato": 1, "worldcup_parts": 1, "olympic_gold": 1, "olympic_per_cap": 1, "davis_cup": 1, "marathon_elite": 1, "startup_rate": 1, "min_wage": 1, "pisa_math": 1, "pisa_science": 1, "pisa_reading": 1, "phd_per_cap": 1, "research_pub": 1, "recycling": 1, "park_area": 1, "immigration": 1, "refugees": 1, "lgbtq_rights": 1, "g5_coverage": 1, "ai_research": 1, "space_launch": 1, "arms_export": 1, "peacekeeping": 1, "intangible": 1, "film_prod": 1, "michelin": 1, "game_market": 1, "tea_consume": 1, "rice_consume": 1, "holidays": 1, "influencers": 1, "festivals": 1, "street_food": 1, "cat_own": 1, "dog_own": 1, "marriage_age_m": 1, "marriage_age_f": 1, "marriage_rate": 1, "tertiary": 1, "school_yrs": 1, "universities": 1, "onlyfans": 1, "adult_films": 1, "porn_search": 1, "welfare_spend": 1, "unemp_benefit": 1, "pension_rate": 1, "parental_leave": 1, "fortune500": 1, "unicorns": 1, "vc_funding": 1, "business_ease": 1, "stock_market": 1};
-      data.forEach(function(row){
-        fields.forEach(function(f){
-          if(row[f]==null) row[f] = higherBetter[f] ? NEG_SENTINEL : NULL_SENTINEL;
-        });
-      });
       // Progressive rendering: load in chunks to avoid freezing browser
       var CHUNK = 20, idx = 0;
       // Start with election sort from first chunk
@@ -1087,7 +1080,7 @@
           var rd = rows[ri].getData();
           if ((rd.country_code||'').toUpperCase() === code.toUpperCase()) {
             var rowEl = rows[ri].getElement();
-            rowEl.scrollIntoView({block: 'start', behavior: 'smooth'});
+            rowEl.scrollIntoView({block: 'center', behavior: 'smooth'});
             rowEl.style.boxShadow = 'inset 0 0 30px rgba(224,200,124,0.3)';
             setTimeout(function() { rowEl.style.boxShadow = ''; }, 2000);
             break;
