@@ -2535,7 +2535,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.02,
     "news_title": "Viet Nam-Australia Joint Statement on Enhancement of Science, Technology and Innovation Connectivity - Nhan Dan Online",
     "news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN2FaVGpZdXJPOEhZUnJxbElLUTN0WUNiaDNRS2JzSUd2U1FDZmQ1T2Fnam9IZW44ZmFRUzJKMV8wMUpXMzczaTlRN2lPWXQtalZtelFicENHdjJMeUQ2NTlwOE1wTWdiT3dwQmtKYnpUUlJRZXY3NXZaVmlKVmwzdURpQm5pajFmQURpN3p0T2NNUjlWbTlUVmhvbHhIOWJHeUF6YzJGaGFIQndXeDl0d2h6R1Y2dmhUcUlPNWprUno1RjRVdkdNWTMySzZsNk5wOTJR?oc=5",
     "news_image": "",
@@ -8213,12 +8213,14 @@
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NcGl2M1MzbFhrSEdTTW5Jc2xOa0JCLXBYLUVHVVZuSnIycWhiWjNzWDdBQ0ZrRVBFNUxkWm8yRW1CWjVqOVRxeWxTSkRxdUNJTUpib0p0UFlpckZOWTByNnFKU3BVMjM5bWJQeVBmSnoxLWE0encyQk9fTkxVZw?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "48m ago",
+    "news_age": "50m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "earthquake_count",
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ],
     "bottom50_wealth": null
   },
@@ -12933,18 +12935,18 @@
     "child_marriage": null,
     "child_marriage_rank": null,
     "news_score": 0.01,
-    "news_title": "India,France review expanding canvas of bilateral cooperation in science, technology & space | Akashvani News - News On AIR",
-    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTExHRzVKTC11ZHhmMUF6RmZrSWFqMVI0dHhYajQ0U1FTWlEzZ05jTjB2MmlvVEgtUDkzeDJiWG5ENERDTHBPR0g2MXdybUwyWEcyRDFadkp2VjBwRFUzV3kzMENmU3AyVGgwLTBrcDBSY0o4WTZjNmx5bVJyeWRidTcyU243UmdYNHc3WTNEZWNVcTdfOVRwRkhKREQ0dlFlRHFlV0tnSGxSUTRtc211MWlneXo?oc=5",
+    "news_title": "Farage vs Count Binface: What to know about UK snap poll - France 24",
+    "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdzNhLUhZQ3ROeEJoZXhoSzllMFo1OXRKQWIzMG8yMVBqREgtSE04OElXRFdyakZGWDV6d0NsTXFIdUI0MlB6NnFxQ3djX3ZXZzB2a09EZWdSQ0JoS1g3Z0ZDNWNYZmFqNjFtN2JzcjFlY1RCeUllcDJQRmVZbjVES0YtLXd3eDFZODY2THdHOHpUcW54NDc3bmljUlhKNVpaX0Nwbw?oc=5",
     "news_image": "",
-    "news_source": "News On AIR",
-    "news_age": "60h ago",
+    "news_source": "France 24",
+    "news_age": "25h ago",
     "news_columns": [
+      "democracy",
+      "approval",
+      "press",
+      "election_days",
       "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "space_launch"
+      "internet_pct"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17271,17 +17273,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.89,
-    "news_title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XUmJWU0hkazJFUk1NNjVUbUdILUJUZUlaRk9ZZ1B6N21KeWQwYmFLbDVpY29xcmJYOVlFTHR0NWdOcGg1ZG1LaUxUeFNOakU5ZDZlZF93U0tSQQ?oc=5",
+    "news_score": 1.12,
+    "news_title": "Iran war latest: Trump claims control of Hormuz as assassination threat revealed - The Independent",
+    "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUDBFdjV1S2xzeGdicXJ1T2Y3aFdUQjJPTzM0Y2Fxc2RoRkZTWkpUNmMxek4tMlJXbmdvakdEemFXRkRYWTlFVUtGQzVIR21MN19XVG13bmhhUm9odFlad1RNM1BGT1NPWHRPODJLSWI4ZEw0Y0lnVWVDdkVIZnA2U2NEV0Y3MHhLdU9TUTZJMldZSmZFWXpzYldwU29zUVQ4empKaXBWMzN4X01SRnVGT2FoSl94QTJCalE?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "3h ago",
+    "news_source": "The Independent",
+    "news_age": "52m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "democracy",
+      "approval",
+      "press",
+      "election_days",
+      "military_pct",
+      "nuclear"
     ],
     "bottom50_wealth": null
   },
@@ -37929,7 +37933,7 @@
     "union_rate": 38.9,
     "union_rate_rank": null,
     "fifa_w_rank": 105,
-    "news_score": 0.23,
+    "news_score": 0.22,
     "news_title": "Syria sentences absent Bashar al-Assad to death over killings and torture - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczRfNktLU3lTNHRHVU5wVWNGZUNaVFRZSkdJWnVyUUY3dlA4c3BmWVlHLWwxRzM0eHkzdlIwZVhDZHpGQWROUlAwbUJXcElYMTc2TExMRGh1R0xwY210RlZrYkd5N1kxTm93OVY4WFVHR1RhZ3hrUmRlclpjLWZhbFo1TmF1c3VhNXZFd2VMQ3E3ZjJmUnQxY01HYWVILXpQQ3NablB6YkZMU0xS?oc=5",
     "news_image": "",
@@ -40005,12 +40009,12 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.0,
+    "news_score": 0.24,
     "news_title": "Iran war latest: Trump claims control of Hormuz as assassination threat revealed - The Independent",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUDBFdjV1S2xzeGdicXJ1T2Y3aFdUQjJPTzM0Y2Fxc2RoRkZTWkpUNmMxek4tMlJXbmdvakdEemFXRkRYWTlFVUtGQzVIR21MN19XVG13bmhhUm9odFlad1RNM1BGT1NPWHRPODJLSWI4ZEw0Y0lnVWVDdkVIZnA2U2NEV0Y3MHhLdU9TUTZJMldZSmZFWXpzYldwU29zUVQ4empKaXBWMzN4X01SRnVGT2FoSl94QTJCalE?oc=5",
     "news_image": "",
     "news_source": "The Independent",
-    "news_age": "46m ago",
+    "news_age": "52m ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -42228,10 +42232,7 @@
     "news_source": "United States Eventing Association (USEA)",
     "news_age": "8h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43968,17 +43969,19 @@
     "union_rate": 34.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 123,
-    "news_score": 0.26,
+    "news_score": 0.24,
     "news_title": "U.S. military operations killed 153 civilians last year, Pentagon says - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYklXZHdyRmIxN3ctT2kzOGRmcUc4RC1aMFVTODdHbDlKcVZTWmR2RDAzaHRub0UzNFZFQmJnRkNGUlZsNVY1QWFDSW5hTE1JNFMwZTUweHFLcmcxeWotOTZLd3N1c01TRVB4aWxWY2hMWWZhSVh4Z196QkFEd0xvd0x1TTMyTjBTMkd1VWN2LVlCNUo3NEFoS0hJeHhiUDFnVTdYdkMtd1p5UVdsRHlKag?oc=5",
     "news_image": "",
     "news_source": "CBS News",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
