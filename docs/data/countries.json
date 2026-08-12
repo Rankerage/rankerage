@@ -1917,7 +1917,7 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.01,
+    "news_score": 0.0,
     "news_title": "FBI probe into Argentina soccer funds clouds new Miami-area sports complex - Miami Herald",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWRJeWpvbGxFRU5iTGRSd0Q0cEN6UWZHWjEwUkVVaG5tNGJmYlhsTEhha2ttckRjV1ptX3NEUU9LYk8yQU5KVkc4a3RNNTNDZ29vZXlkRWRsaUVkTG5OWVUxajh1MGloanRUazBtWVZNUXB5dWRWNU5SX0NMd2xSN3EzMk1MVUto0gGIAUFVX3lxTE9wZGtRaEI1RmgweHhpVExWZnAxdnRFRFQ4TXVtU3NrdGlZbHlsdnhZekdXN0V2TzRKeUI2c2ZEeGZpWF9zX2NLTjRqUTQxcGx4ZzNwMV96b1l2NjVNaTNBa2hUOG1UZHJDU0M4TWFpRlBLR1o3c0lVZmJ5eGtVd1ZoRVMwZUFzNEE?oc=5",
     "news_image": "",
@@ -2540,7 +2540,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTAyd3pqTU1uQVFBYy0zTEM5YzBGdUdLYTBudHBKNm1WTVVWWlIwTnVQTThXTjBYSW1LMjgwX2NwdUE1blZVTVBOdW5La2NzamtEdnhKT3lUTW5RQUpkNGxTdTRhVFFpYVdua3E2cU5EeWFWSXZZZXZhZktPSHRUTFNtYmR6YWVFRnJieFcxZFd5VVYxTlVPekJ1SzJ0ZkZhT0RuRmhNSWRZRjlXMVNidVBHelpad0RxRl85VHpxN3pzODNvY2FDVVhIb3JNUXhFU1E?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "83m ago",
+    "news_age": "63m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -8207,7 +8207,7 @@
     "union_rate": 69.1,
     "union_rate_rank": null,
     "news_score": 0.32,
-    "news_title": "Live updates: Over 200 dead in Colombia earthquake, with rescuers unable to reach epicenter yet - CNN",
+    "news_title": "Live updates: More than 200 dead in Colombia earthquake, with rescuers unable to reach epicenter yet - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NcGl2M1MzbFhrSEdTTW5Jc2xOa0JCLXBYLUVHVVZuSnIycWhiWjNzWDdBQ0ZrRVBFNUxkWm8yRW1CWjVqOVRxeWxTSkRxdUNJTUpib0p0UFlpckZOWTByNnFKU3BVMjM5bWJQeVBmSnoxLWE0encyQk9fTkxVZw?oc=5",
     "news_image": "",
     "news_source": "CNN",
@@ -12940,9 +12940,7 @@
     "news_age": "62h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17269,17 +17267,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.9,
-    "news_title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
+    "news_score": 0.99,
+    "news_title": "With Trump Secretly Evacuated, Imperiled Air Force One Became a Flying Decoy - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZTBGNXM3enN6Z01BdUotNGtWRUdIcl9iU1BkZGlMazFvamQ0alBpZzN3U0JiM3JnTWJRSEJlMy1lX0tvaXJkWnMwcTFXTzNkS1R3bTE5b2gtNnJoVDRLZFVhb2RvSkpzQU1DWWx3U0JGVVU1RHo2VlAtcms0cFRzTnpibw?oc=5",
     "news_image": "",
-    "news_source": "AP News",
+    "news_source": "The New York Times",
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -28206,7 +28202,7 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.02,
+    "news_score": 0.01,
     "news_title": "Nigeria’s economic recovery is running ahead of its fundamentals - Business News Nigeria",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOenJqQTdrRlM5SHNrT2pKOVRDa0FQQ082TnVER2tLVFBiMXpYX1RITzVjVTZEWktDZWpWVm5zY0JGaFdIcl9FUGtsYWpldVZBMEtqcnZtTjVuNmNFWTFKNmM1b2tBUXQzV2E1YXkyVGQtWHBpVk1acFVaUEdPZTZ1Q3pHWkpmUGJYNEc0MGRQeExNN1A0eG0wR3VkclhPeVFEb3B3QUdnRHlQQVhUUmtmbkVR?oc=5",
     "news_image": "",
@@ -28563,7 +28559,7 @@
     "union_rate": 89.3,
     "union_rate_rank": null,
     "fifa_ranking_rank": 108,
-    "news_score": 0.03,
+    "news_score": 0.05,
     "news_title": "North Korea fires missile ahead of major US-South Korea drills - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDVfd0tWeklYMkllazVablhzaXQxcllibnNjZDhBTXpzWWtPLXNMcWpWVUpJeXRQRUZUZ2x4LV9pQ0c5UmVlaWd4eVpYbGlQNHNXYnlYODZSSTB6QlF5Vzc1OEFpc0kwQ1l3V19aQmU0TnRxMk9NWUQxQ21leG9UUEkxNnYwOFhMWlpjdlRKc1BLcUszTzd4Q1JGSzRSNjI2LWx6Yk00SFZXYjA?oc=5",
     "news_image": "",
@@ -35866,7 +35862,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.05,
     "news_title": "North Korea fires missile ahead of major US-South Korea drills - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDVfd0tWeklYMkllazVablhzaXQxcllibnNjZDhBTXpzWWtPLXNMcWpWVUpJeXRQRUZUZ2x4LV9pQ0c5UmVlaWd4eVpYbGlQNHNXYnlYODZSSTB6QlF5Vzc1OEFpc0kwQ1l3V19aQmU0TnRxMk9NWUQxQ21leG9UUEkxNnYwOFhMWlpjdlRKc1BLcUszTzd4Q1JGSzRSNjI2LWx6Yk00SFZXYjA?oc=5",
     "news_image": "",
@@ -37916,7 +37912,7 @@
     "union_rate": 38.9,
     "union_rate_rank": null,
     "fifa_w_rank": 105,
-    "news_score": 0.03,
+    "news_score": 0.05,
     "news_title": "Syria sentences absent Bashar al-Assad to death over killings and torture - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczRfNktLU3lTNHRHVU5wVWNGZUNaVFRZSkdJWnVyUUY3dlA4c3BmWVlHLWwxRzM0eHkzdlIwZVhDZHpGQWROUlAwbUJXcElYMTc2TExMRGh1R0xwY210RlZrYkd5N1kxTm93OVY4WFVHR1RhZ3hrUmRlclpjLWZhbFo1TmF1c3VhNXZFd2VMQ3E3ZjJmUnQxY01HYWVILXpQQ3NablB6YkZMU0xS?oc=5",
     "news_image": "",
@@ -39992,12 +39988,12 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.0,
-    "news_title": "Rubio, Bessent and Miller Traveled on Decoy Plane From Turkey Without Trump - The New York Times",
-    "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83T3pRR3QwZ2pTMHBGQUpDRTBNcjU5YlFma0U4aGhWWlAzdzMwYTAxeDQzTXJXZDRxdWNTSXMzbmdpbjNRRkoySzZuOGE2M0hSY2ZDMW9vMDFmejNyQnA3bmp2c0hRYUMtcnhrRHFHTjdzM1ZzZlpOcWIxTGp3X1U?oc=5",
+    "news_score": 0.15,
+    "news_title": "With Trump Secretly Evacuated, Imperiled Air Force One Became a Flying Decoy - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZTBGNXM3enN6Z01BdUotNGtWRUdIcl9iU1BkZGlMazFvamQ0alBpZzN3U0JiM3JnTWJRSEJlMy1lX0tvaXJkWnMwcTFXTzNkS1R3bTE5b2gtNnJoVDRLZFVhb2RvSkpzQU1DWWx3U0JGVVU1RHo2VlAtcms0cFRzTnpibw?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "3h ago",
+    "news_age": "2h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -42216,9 +42212,7 @@
     "news_age": "10h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43955,17 +43949,19 @@
     "union_rate": 34.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 123,
-    "news_score": 0.34,
+    "news_score": 0.32,
     "news_title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
     "news_image": "",
     "news_source": "AP News",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "car_density"
     ],
     "bottom50_wealth": null
   },
@@ -44567,7 +44563,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 0.63,
+    "news_score": 0.61,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
