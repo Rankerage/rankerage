@@ -1,1 +1,61 @@
-{"last_updated": "2026-08-11T22:10:28Z", "total_rankings": 136, "total_countries": 200, "version": "1.0", "update_frequency": "weekly", "global_narrative": "Global attention is split between escalating geopolitical tensions, domestic political maneuvers, and a heavy focus on sports, particularly baseball and football, with notable events in the Middle East and US elections.", "trending_stories": [{"topic": "US Politics and Elections", "entities": ["US", "Trump", "Mamdani"], "columns": [], "weight": 0.3}, {"topic": "Middle East Conflict", "entities": ["US", "Yemen", "Iran", "Houthis"], "columns": [], "weight": 0.25}, {"topic": "Baseball Season Highlights", "entities": ["MLB", "Pirates", "Rockies", "Braves"], "columns": ["fifa_ranking"], "weight": 0.2}, {"topic": "NFL Training Camps and Preseason", "entities": ["NFL", "Bears", "Bills", "Cowboys"], "columns": [], "weight": 0.15}, {"topic": "Natural Disasters", "entities": ["Colombia"], "columns": [], "weight": 0.1}]}
+{
+  "last_updated": "2026-08-12T22:14:38Z",
+  "total_rankings": 136,
+  "total_countries": 200,
+  "version": "1.0",
+  "update_frequency": "weekly",
+  "global_narrative": "Global sports and geopolitical events dominate headlines, with major shifts in soccer coaching, NBA ownership, and international tensions over the Strait of Hormuz.",
+  "trending_stories": [
+    {
+      "topic": "World Cup and Soccer Coaching Changes",
+      "entities": [
+        "NL",
+        "AR",
+        "ES"
+      ],
+      "columns": [
+        "fifa_ranking",
+        "fifa_w"
+      ],
+      "weight": 0.9
+    },
+    {
+      "topic": "NBA Ownership and Player Moves",
+      "entities": [
+        "US"
+      ],
+      "columns": [
+        "basket"
+      ],
+      "weight": 0.8
+    },
+    {
+      "topic": "Geopolitical Tensions in the Middle East",
+      "entities": [
+        "US",
+        "IR"
+      ],
+      "columns": [],
+      "weight": 0.7
+    },
+    {
+      "topic": "NFL Preseason and Player Updates",
+      "entities": [
+        "US"
+      ],
+      "columns": [],
+      "weight": 0.6
+    },
+    {
+      "topic": "World Records in Sports",
+      "entities": [
+        "IT",
+        "US"
+      ],
+      "columns": [
+        "olympic"
+      ],
+      "weight": 0.5
+    }
+  ]
+}
