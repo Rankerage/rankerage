@@ -960,6 +960,37 @@
         } else {
           // All loaded — apply default sort (election_days asc = soonest first)
           table.setSort('election_days','asc');
+
+          // ── Push null-heavy columns to the far right ──
+          (function(){
+            var cols = table.getColumns();
+            var frozenFields = ['country_code','country_name_en','election_days'];
+            var rows = table.getRows();
+            var nullCount = {};
+            cols.forEach(function(col){
+              var f = col.getField();
+              if (frozenFields.indexOf(f) >= 0) return;
+              var n = 0;
+              rows.forEach(function(r){
+                var v = r.getData()[f];
+                if (v === null || v === undefined || v === '') n++;
+              });
+              nullCount[f] = n;
+            });
+            var sorted = Object.keys(nullCount).sort(function(a,b){
+              return nullCount[a] - nullCount[b];
+            });
+            sorted.forEach(function(f){
+              var col = null;
+              var cs = table.getColumns();
+              for (var j = 0; j < cs.length; j++) {
+                if (cs[j].getField() === f) { col = cs[j]; break; }
+              }
+              if (col) {
+                try { table.moveColumn(col, cs[2]); } catch(e) {}
+              }
+            });
+          })();
         }
       }
       loadChunk();
