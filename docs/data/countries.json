@@ -2535,12 +2535,12 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 1.17,
+    "news_score": 1.16,
     "news_title": "Sami Whitcomb readies herself for 2026 FIBA World Cup campaign - Basketball Australia",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWDN4UHlGdFFXREpnUnVmSzNqMHFUX0NFZkkxLTBzU2FKY2kzMklCTWFFMWZ3TFVnRGk1YjJmWm0tYmFCWWpCdUo1R2RPMm0yLWhrSUk0bS1FUEswWE5HZE1mb3ZzdDNLMXFoc0NvekNqSF9DeEN0d2RyS183clNhR0VJbkJrUk1CNVNkaUM2Sk1KVlpVX3NYRXk1MnNKV004WWFZOHZDdGF1NlM3?oc=5",
     "news_image": "",
     "news_source": "Basketball Australia",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -8211,12 +8211,12 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.65,
-    "news_title": "Live updates: More than 200 dead in Colombia earthquake, with rescuers unable to reach epicenter yet - CNN",
-    "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaWFGOFhweUJhMFZ2UEZ1MktEQjZSQ09qMVp4T3FOeVhZbmF3aUlHel95Z0dwRVRRdVJfeHRLN2JQTUNtRE40Vy1QSEs0X1hzVzJzMHNoTUNPcHF4XzlPX0ducVp4RENzSmdZaUU5N0ZyajdMSlJKZk1iazJ1WEJ4eTZzdw?oc=5",
+    "news_score": 0.44,
+    "news_title": "World in Brief: Iran threatens to keep Hormuz shut; rescue work continues in Colombia - The Economist",
+    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3NTUl92VDMwcmN1WTFjMkxMdXJsZ3pKNUw4eFJURkN6alNKM1RmY1JwdHN4TnhneEh3MEp1U3VZQ2h4VVctdUl0Y2drSFRETzFUQVdFU1FIbFBuQUpyZnJtZVZYLXVZVjVhUm9Ubk03RUR0TWx2Z0tHSkUwZkE0Uk9NbEF3VFBETGpramJrN0s2WldVSldR?oc=5",
     "news_image": "",
-    "news_source": "CNN",
-    "news_age": "4h ago",
+    "news_source": "The Economist",
+    "news_age": "5h ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -12938,14 +12938,15 @@
     "child_marriage": null,
     "child_marriage_rank": null,
     "news_score": 0.01,
-    "news_title": "India,France review expanding canvas of bilateral cooperation in science, technology & space | Akashvani News - News On AIR",
-    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTExHRzVKTC11ZHhmMUF6RmZrSWFqMVI0dHhYajQ0U1FTWlEzZ05jTjB2MmlvVEgtUDkzeDJiWG5ENERDTHBPR0g2MXdybUwyWEcyRDFadkp2VjBwRFUzV3kzMENmU3AyVGgwLTBrcDBSY0o4WTZjNmx5bVJyeWRidTcyU243UmdYNHc3WTNEZWNVcTdfOVRwRkhKREQ0dlFlRHFlV0tnSGxSUTRtc211MWlneXo?oc=5",
+    "news_title": "Farage vs Count Binface: What to know about UK snap poll - France 24",
+    "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdzNhLUhZQ3ROeEJoZXhoSzllMFo1OXRKQWIzMG8yMVBqREgtSE04OElXRFdyakZGWDV6d0NsTXFIdUI0MlB6NnFxQ3djX3ZXZzB2a09EZWdSQ0JoS1g3Z0ZDNWNYZmFqNjFtN2JzcjFlY1RCeUllcDJQRmVZbjVES0YtLXd3eDFZODY2THdHOHpUcW54NDc3bmljUlhKNVpaX0Nwbw?oc=5",
     "news_image": "",
-    "news_source": "News On AIR",
-    "news_age": "63h ago",
+    "news_source": "France 24",
+    "news_age": "28h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17273,19 +17274,16 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.31,
+    "news_score": 1.28,
     "news_title": "Trump says he switched planes after Nato summit because of possible threat - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rcWVHSndOalZNOExnTy1NN0dGclYweE9HN1l1cGRMeEpwMGo5OVA4VWp1RDc3Vi1YdjA4aVI5R2t2Yk5Od0tKYWJwSlZrRHdLMXUwSWVWdkRNQQ?oc=5",
     "news_image": "",
     "news_source": "BBC",
     "news_age": "2h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "nato"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -35391,10 +35389,11 @@
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaFRMM3Qwbl9VcTk1QmNPM0N6RkFFV3Boc19BV09QajRMc01TakdFXy12T0x2eDF5Z0hMX0NSSFFrNFM4bzlaWDNyUDR2dG5Nbkg4eVVrR2lwVkp6MTlxUWd3MVNzRmlmdnFhNTNJaUVCNUtIRF9zcGpBSzdPX2ZLR3dLel9SWVhQQUZOZEpGdnJIdWVITUdGazVpbXlyM2loMnJvUEw4Q0RaVE9SZ2c?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "18m ago",
+    "news_age": "20m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 1.2,
     "bottom50_wealth_rank": 29
@@ -36445,7 +36444,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.18,
+    "news_score": 0.0,
     "news_title": "What to watch for during Wednesday’s total solar eclipse - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsaGUySzh0VWdDSXZFUkdHS1h6emRYalBRNFh3NEdHNFg3dVMxUlV1MzNxVEZFaTBFcDFsblQ2OTBldlk0VUtqdXhoYUFNM2Y5THczR2xBZ3o3OWtGbEF3eDNJYnFZcDI4LXI4TUFoNXRnYWM?oc=5",
     "news_image": "",
@@ -37924,7 +37923,7 @@
     "union_rate": 38.9,
     "union_rate_rank": null,
     "fifa_w_rank": 105,
-    "news_score": 0.06,
+    "news_score": 0.0,
     "news_title": "Syria sentences absent Bashar al-Assad to death over killings and torture - reuters.com",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczRfNktLU3lTNHRHVU5wVWNGZUNaVFRZSkdJWnVyUUY3dlA4c3BmWVlHLWwxRzM0eHkzdlIwZVhDZHpGQWROUlAwbUJXcElYMTc2TExMRGh1R0xwY210RlZrYkd5N1kxTm93OVY4WFVHR1RhZ3hrUmRlclpjLWZhbFo1TmF1c3VhNXZFd2VMQ3E3ZjJmUnQxY01HYWVILXpQQ3NablB6YkZMU0xS?oc=5",
     "news_image": "",
@@ -40007,11 +40006,9 @@
     "news_source": "The Times of India",
     "news_age": "14h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -42224,7 +42221,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43961,7 +43958,7 @@
     "union_rate": 34.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 123,
-    "news_score": 0.05,
+    "news_score": 0.0,
     "news_title": "Pentagon tells Congress US military airstrikes in Yemen resulted in 153 civilians killed - The Hill",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWlhzNTdzLVpMQUdSRUhLMXZobWtXLUFOX2F3a2dkeXlKNW9mN1BCTXlzZzAwM2R5dzdOQVVyVldlSVRDWmhNMlNuZWRFQ2dNS3o2UFpLaGoySVUyS0NVdFZiNGlYZGFXUHhNaGdCTF9QeklJdUhZRC1FbWwtVWhqMTR2dXFfWXFPMEhhUnp30gGTAUFVX3lxTFB4NXEwSmFYVnZ5T1ZFcVBqTW9CX2FOd3VwTV9QTm1KYUg5RzlNUWEtZ2xfcTJENG9sdFRtcnZfTm1oN3N4VENTUUYtUmIyTnU5b3N2UHNONFdQWWxhMGF1S3NlVzlrelVVYmlVSkJDbVFXdlR4QXpSaUhqWElIZ3o0N01sdmdUaVpRcG4wYVY4U3EtSQ?oc=5",
     "news_image": "",
