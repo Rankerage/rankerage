@@ -2535,12 +2535,12 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 1.11,
+    "news_score": 1.1,
     "news_title": "Sami Whitcomb readies herself for 2026 FIBA World Cup campaign - Basketball Australia",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWDN4UHlGdFFXREpnUnVmSzNqMHFUX0NFZkkxLTBzU2FKY2kzMklCTWFFMWZ3TFVnRGk1YjJmWm0tYmFCWWpCdUo1R2RPMm0yLWhrSUk0bS1FUEswWE5HZE1mb3ZzdDNLMXFoc0NvekNqSF9DeEN0d2RyS183clNhR0VJbkJrUk1CNVNkaUM2Sk1KVlpVX3NYRXk1MnNKV004WWFZOHZDdGF1NlM3?oc=5",
     "news_image": "",
     "news_source": "Basketball Australia",
-    "news_age": "60m ago",
+    "news_age": "62m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -8211,19 +8211,16 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.5,
+    "news_score": 0.68,
     "news_title": "Live updates: More than 200 dead in Colombia earthquake, with rescuers unable to reach epicenter yet - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaWFGOFhweUJhMFZ2UEZ1MktEQjZSQ09qMVp4T3FOeVhZbmF3aUlHel95Z0dwRVRRdVJfeHRLN2JQTUNtRE40Vy1QSEs0X1hzVzJzMHNoTUNPcHF4XzlPX0ducVp4RENzSmdZaUU5N0ZyajdMSlJKZk1iazJ1WEJ4eTZzdw?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -10875,12 +10872,12 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.0,
+    "news_score": 0.02,
     "news_title": "Egypt annual core inflation accelerates to 14.7% in July: CBE - Economy - Business - Ahram Online",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUGZ1cnpHMFdFbGZPQmE3YU01ZjBKMURTMGpiRFRoeXpjWUo3dW1jOUh1Nnh4Z0Fza3JBOHJvTUhRQzV5dTJXNlZsNXlVVGFKU0dYRm1lZi03TDhzLUZzTC1YNTRYR2JzY0dtbm5ENFpGZWlsT3FzdHo1dGRkNDNQWTNZeUZVem15eDE2YVJzc1E4NlJMOUJQUFdGcmw0V0c0U1NRT2JpQlQzT0d4Z0xiNDNMQkhCVUFQYXlqZHpkSUZVLVk?oc=5",
     "news_image": "",
     "news_source": "Ahram Online",
-    "news_age": "8h ago",
+    "news_age": "9h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -12944,8 +12941,12 @@
     "news_source": "News On AIR",
     "news_age": "63h ago",
     "news_columns": [
-      "fifa_ranking",
-      "transfer_fees"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "space_launch"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17272,15 +17273,16 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.96,
+    "news_score": 0.99,
     "news_title": "Iran war latest: Trump claims control of Hormuz as assassination threat revealed - The Independent",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUDBFdjV1S2xzeGdicXJ1T2Y3aFdUQjJPTzM0Y2Fxc2RoRkZTWkpUNmMxek4tMlJXbmdvakdEemFXRkRYWTlFVUtGQzVIR21MN19XVG13bmhhUm9odFlad1RNM1BGT1NPWHRPODJLSWI4ZEw0Y0lnVWVDdkVIZnA2U2NEV0Y3MHhLdU9TUTZJMldZSmZFWXpzYldwU29zUVQ4empKaXBWMzN4X01SRnVGT2FoSl94QTJCalE?oc=5",
     "news_image": "",
     "news_source": "The Independent",
-    "news_age": "4h ago",
+    "news_age": "2h ago",
     "news_columns": [
-      "oil_prices",
-      "geopolitical_risk"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -35381,15 +35383,17 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 1.1,
+    "news_score": 0.88,
     "news_title": "'The dream is still there' - South Africa players defiant about World Cup hopes - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaFRMM3Qwbl9VcTk1QmNPM0N6RkFFV3Boc19BV09QajRMc01TakdFXy12T0x2eDF5Z0hMX0NSSFFrNFM4bzlaWDNyUDR2dG5Nbkg4eVVrR2lwVkp6MTlxUWd3MVNzRmlmdnFhNTNJaUVCNUtIRF9zcGpBSzdPX2ZLR3dLel9SWVhQQUZOZEpGdnJIdWVITUdGazVpbXlyM2loMnJvUEw4Q0RaVE9SZ2c?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "32m ago",
+    "news_age": "34m ago",
     "news_columns": [
       "fifa_ranking",
-      "transfer_fees"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 1.2,
     "bottom50_wealth_rank": 29
@@ -37919,7 +37923,7 @@
     "union_rate": 38.9,
     "union_rate_rank": null,
     "fifa_w_rank": 105,
-    "news_score": 0.04,
+    "news_score": 0.05,
     "news_title": "Syria sentences absent Bashar al-Assad to death over killings and torture - reuters.com",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczRfNktLU3lTNHRHVU5wVWNGZUNaVFRZSkdJWnVyUUY3dlA4c3BmWVlHLWwxRzM0eHkzdlIwZVhDZHpGQWROUlAwbUJXcElYMTc2TExMRGh1R0xwY210RlZrYkd5N1kxTm93OVY4WFVHR1RhZ3hrUmRlclpjLWZhbFo1TmF1c3VhNXZFd2VMQ3E3ZjJmUnQxY01HYWVILXpQQ3NablB6YkZMU0xS?oc=5",
     "news_image": "",
@@ -42214,14 +42218,10 @@
     "news_source": "United States Eventing Association (USEA)",
     "news_age": "12h ago",
     "news_columns": [
-      "oil_prices",
-      "geopolitical_risk",
-      "election_results",
-      "primary_votes",
-      "temperature",
-      "wildfire_risk",
-      "economic_loss",
-      "nfl_rankings"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -44572,7 +44572,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 0.38,
+    "news_score": 0.37,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
