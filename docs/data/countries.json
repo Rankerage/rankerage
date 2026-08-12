@@ -2535,7 +2535,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.55,
+    "news_score": 0.74,
     "news_title": "Sami Whitcomb readies herself for 2026 FIBA World Cup campaign - Basketball Australia",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWDN4UHlGdFFXREpnUnVmSzNqMHFUX0NFZkkxLTBzU2FKY2kzMklCTWFFMWZ3TFVnRGk1YjJmWm0tYmFCWWpCdUo1R2RPMm0yLWhrSUk0bS1FUEswWE5HZE1mb3ZzdDNLMXFoc0NvekNqSF9DeEN0d2RyS183clNhR0VJbkJrUk1CNVNkaUM2Sk1KVlpVX3NYRXk1MnNKV004WWFZOHZDdGF1NlM3?oc=5",
     "news_image": "",
@@ -2543,11 +2543,7 @@
     "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "olympic"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -8211,7 +8207,7 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.71,
+    "news_score": 0.7,
     "news_title": "A whisper from the rubble led to baby’s rescue after Colombia earthquake - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXM0em93d0x3aXY5Uk5XOHVEMW4yWmFOREJkM3pWOWVmMWh0LUxMUW9pUW9sRnA5alB0M0dibG9TMUxnM0dmeERFWFJvbDI0Z2lFeHVnbTk0amdWQU9lZFp3amYtQWo5RS05QjRLb19DNEk1UFVvZHdqNXNlMUFpWlNPbzlYaWM?oc=5",
     "news_image": "",
@@ -12944,8 +12940,7 @@
     "news_source": "newsonair.gov.in",
     "news_age": "66h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -15761,7 +15756,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOW4xUks2X1pQRDZzRVgtejh4YXNiYW9PWGc2NE9qQ0FpUVJnQV9IYUF2NElTWmVQZXBvNlZmcDIzX3FlcVF0MmdpVldtZlltbExOaEZENHpyR1NNVFlocWtYVWxXcnRwQ1BDXzBRYk9PNlFkZ1VJNVg0NnFhYWxWRE1KRlNmUkc4bF92S2FWbWRJRzFzU0FVMjhxaUU?oc=5",
     "news_image": "",
     "news_source": "OSV News",
-    "news_age": "10h ago",
+    "news_age": "11h ago",
     "news_columns": [
       "olympic",
       "olympic_gold",
@@ -17274,14 +17269,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.32,
+    "news_score": 1.41,
     "news_title": "Jimmy Fallon Recreates Trump’s Catering Container Escape - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcm1nSXV1WUphQWdwSkhNOUJfNlBZalR6azc1ZmxvRzNYV3ZlUlVEeXpUX1JwVGFwTDJXOUhWWW4zOGoxVllkWXJ3Q0YtQmhOVkpZSUQySERIMUJwaklKb1NYV2MteDdtMGRPVDJVaXFYeVNVS2pjYmxRWE5GNEJMVldaWC02SHNWeWVMY2RuREVHb2Z6T2dhUS1HMkxUblJhdDNGZklvUGc?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "nato",
+      "military_pct",
+      "gdp",
+      "ai_research",
+      "internet_pct",
+      "patents"
     ],
     "bottom50_wealth": null
   },
@@ -19137,12 +19137,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.46,
+    "news_score": 0.63,
     "news_title": "Are we on the verge of World War III? - The Japan Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMUQ5MjhYaE9PMEd4Y2JKQ1hubDZ0ZWVrakdOQTlSRFk5N1llTERKS1lNbHVSRDdObTBBbUJ5TE5yTGktckxSVkhQR2tjVEFLQklVSDdCUXlZT09HaWQ3cTVwNzVGR2xhS01tazFsc3ZvdjZrNW5oenUwOTc4Tm0wZkx3SDY?oc=5",
     "news_image": "",
     "news_source": "The Japan Times",
-    "news_age": "32m ago",
+    "news_age": "34m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -19512,12 +19512,12 @@
     "union_rate": 77.0,
     "union_rate_rank": null,
     "fifa_w_rank": 71,
-    "news_score": 0.66,
+    "news_score": 0.65,
     "news_title": "Kazakhstan to Establish 'KAIST Model' Science and Technology Institute... Korea-Kazakhstan Cooperation Discussed - 아시아경제",
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBUXBoR0dvbDVRdDJpcjYzT0FJbm51Ujg1WlRnV1dqRFlzM3pWZVg0YjJqZGR6b1hiRWlFbXVqRmNhZk1Nbk81azhyZ095dHY2dkZRVGZpVWRYMVhHQlppcUV6U0RsanVt?oc=5",
     "news_image": "",
     "news_source": "아시아경제",
-    "news_age": "99m ago",
+    "news_age": "101m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -28563,7 +28563,7 @@
     "union_rate": 89.3,
     "union_rate_rank": null,
     "fifa_ranking_rank": 108,
-    "news_score": 0.03,
+    "news_score": 0.05,
     "news_title": "North Korea Fires Ballistic Missile 1 Day After Zelensky Warns Japan, South Korea, Philippines - kyivpost.com",
     "news_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mUW9kenRGZkU0SWZrUmZQSnYxeGtkeFlkQ0hEdk4tTlN0SXctR2JXMFo5RDgwQmxMZUVvYU5YQk1JLW8ydVB3QmhKMA?oc=5",
     "news_image": "",
@@ -31104,7 +31104,7 @@
     "refugees_rank": null,
     "union_rate": 63.7,
     "union_rate_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.05,
     "news_title": "North Korea Fires Ballistic Missile 1 Day After Zelensky Warns Japan, South Korea, Philippines - kyivpost.com",
     "news_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mUW9kenRGZkU0SWZrUmZQSnYxeGtkeFlkQ0hEdk4tTlN0SXctR2JXMFo5RDgwQmxMZUVvYU5YQk1JLW8ydVB3QmhKMA?oc=5",
     "news_image": "",
@@ -34043,7 +34043,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPRDdDWTZrS2hmQ3dxMm9LckNhQkZxbXlvZFg1bFBJSWgwOXJab1VDNS14eG55X2JrQ2RRblNaTk41VVdtQWNtYkZVVUtVYzM1SnBvVDF1UTk1SDlhWEdBUGRUZjRXOWlONlFlMTB3aTc3T1lGVUt4ZlMzakZSY3BYcWNIU3pabFZGNl9lMUlQMU9sWHM4U0lzMmM1M0lTVnktWXV5WG95NXhxOTJuY2xzQ3lnQkJpS0h4RnR3bk9ReG10ejJGZW9kM0RKTlAzUWFaVG5QOTdUVUJrckJsNmI0RUFTdHhGb2Znc3NXcjA4Nzk0cmRtY3RZek5LQVhvMmRXc0U1VU5JZmlFQWRtaEo2MQ?oc=5",
     "news_image": "",
     "news_source": "bastillepost.com",
-    "news_age": "28h ago",
+    "news_age": "29h ago",
     "news_columns": [
       "gender",
       "gender_gap",
@@ -35377,7 +35377,7 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.44,
+    "news_score": 0.59,
     "news_title": "'The dream is still there' - South Africa players defiant about World Cup hopes - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaFRMM3Qwbl9VcTk1QmNPM0N6RkFFV3Boc19BV09QajRMc01TakdFXy12T0x2eDF5Z0hMX0NSSFFrNFM4bzlaWDNyUDR2dG5Nbkg4eVVrR2lwVkp6MTlxUWd3MVNzRmlmdnFhNTNJaUVCNUtIRF9zcGpBSzdPX2ZLR3dLel9SWVhQQUZOZEpGdnJIdWVITUdGazVpbXlyM2loMnJvUEw4Q0RaVE9SZ2c?oc=5",
     "news_image": "",
@@ -35385,9 +35385,7 @@
     "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 1.2,
     "bottom50_wealth_rank": 29
@@ -35863,7 +35861,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.05,
     "news_title": "North Korea Fires Ballistic Missile 1 Day After Zelensky Warns Japan, South Korea, Philippines - kyivpost.com",
     "news_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mUW9kenRGZkU0SWZrUmZQSnYxeGtkeFlkQ0hEdk4tTlN0SXctR2JXMFo5RDgwQmxMZUVvYU5YQk1JLW8ydVB3QmhKMA?oc=5",
     "news_image": "",
@@ -39993,7 +39991,7 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.16,
+    "news_score": 0.28,
     "news_title": "Jimmy Fallon Recreates Trump’s Catering Container Escape - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcm1nSXV1WUphQWdwSkhNOUJfNlBZalR6azc1ZmxvRzNYV3ZlUlVEeXpUX1JwVGFwTDJXOUhWWW4zOGoxVllkWXJ3Q0YtQmhOVkpZSUQySERIMUJwaklKb1NYV2MteDdtMGRPVDJVaXFYeVNVS2pjYmxRWE5GNEJMVldaWC02SHNWeWVMY2RuREVHb2Z6T2dhUS1HMkxUblJhdDNGZklvUGc?oc=5",
     "news_image": "",
