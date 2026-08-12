@@ -2535,12 +2535,12 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 1.04,
+    "news_score": 1.03,
     "news_title": "Sami Whitcomb readies herself for 2026 FIBA World Cup campaign - Basketball Australia",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWDN4UHlGdFFXREpnUnVmSzNqMHFUX0NFZkkxLTBzU2FKY2kzMklCTWFFMWZ3TFVnRGk1YjJmWm0tYmFCWWpCdUo1R2RPMm0yLWhrSUk0bS1FUEswWE5HZE1mb3ZzdDNLMXFoc0NvekNqSF9DeEN0d2RyS183clNhR0VJbkJrUk1CNVNkaUM2Sk1KVlpVX3NYRXk1MnNKV004WWFZOHZDdGF1NlM3?oc=5",
     "news_image": "",
     "news_source": "Basketball Australia",
-    "news_age": "76m ago",
+    "news_age": "78m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -17272,19 +17272,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.91,
+    "news_score": 0.97,
     "news_title": "Trump says Secret Service and the military wanted him off Air Force One in Turkey due to threat - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVV1RWxfQzVfNS1IeF9sWDl4UGFjTWR0ZUlWTDZJR2t4ekRRRENZdmNZMmZCMGtGM2VEOWpFX21jQXRkZ0NoUkROZWdWUndfZ09uNy1odFpDellLYXFnaFJiSlVxeFQ1T1lBTGJha1pqbWd6LU9JVWotNVE5MTVQeGpxX1Zqa0t1MkdxZ3NOOFRzdnVsT1d6TkFYSGREVkRm?oc=5",
     "news_image": "",
     "news_source": "AP News",
     "news_age": "4h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "oil_prices"
     ],
     "bottom50_wealth": null
   },
@@ -19332,7 +19327,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeF9rbk5zTW5PSGxBb0F1U0I2OXUzTzdVTWtSeUJOX01hcHE1VVZrVWNvbXFNbWp6aGRwck1TdFNKM2paU21FengxNmNQZWg4VHg3WkdfTEsyblhuQXlSUzdrYnNJU2VRVU9fa0tKczkydHAzM1d2UjRzV1Q4WUN0azAyeHdnLWt2TXfSAY8BQVVfeXFMUFM2WXRyOXd5cFhFbEZUSlVpZWpEWHNLM3FyVXZNRUM4Y1lyQXZwNzNJUkRaLXpNWl9TLXpvT2VXRU14aEtScTRiXzQ4T25uY1ZvN0NkMmxfa0NRalo2UGdSZ0pzMkFyT1QxdDNGbTA3dzJWaGpoS2ZaeW54c3BUTEdmVUt4SkEwQ3FnbG4xdHc?oc=5",
     "news_image": "",
     "news_source": "ABC4 Utah",
-    "news_age": "10h ago",
+    "news_age": "11h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -35387,17 +35382,15 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.82,
+    "news_score": 1.15,
     "news_title": "'The dream is still there' - South Africa players defiant about World Cup hopes - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaFRMM3Qwbl9VcTk1QmNPM0N6RkFFV3Boc19BV09QajRMc01TakdFXy12T0x2eDF5Z0hMX0NSSFFrNFM4bzlaWDNyUDR2dG5Nbkg4eVVrR2lwVkp6MTlxUWd3MVNzRmlmdnFhNTNJaUVCNUtIRF9zcGpBSzdPX2ZLR3dLel9SWVhQQUZOZEpGdnJIdWVITUdGazVpbXlyM2loMnJvUEw4Q0RaVE9SZ2c?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "48m ago",
+    "news_age": "50m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": 1.2,
     "bottom50_wealth_rank": 29
@@ -40004,15 +39997,19 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.21,
+    "news_score": 0.2,
     "news_title": "Trump says Secret Service and the military wanted him off Air Force One in Turkey due to threat - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVV1RWxfQzVfNS1IeF9sWDl4UGFjTWR0ZUlWTDZJR2t4ekRRRENZdmNZMmZCMGtGM2VEOWpFX21jQXRkZ0NoUkROZWdWUndfZ09uNy1odFpDellLYXFnaFJiSlVxeFQ1T1lBTGJha1pqbWd6LU9JVWotNVE5MTVQeGpxX1Zqa0t1MkdxZ3NOOFRzdnVsT1d6TkFYSGREVkRm?oc=5",
     "news_image": "",
     "news_source": "AP News",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -44574,7 +44571,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 0.35,
+    "news_score": 0.34,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
