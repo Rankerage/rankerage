@@ -1129,7 +1129,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObjh2cWluQmlrcnpzMzFqanI4eUJzcUEzVzBfLTFrS3N4REJ4Y21Rd0h0cU52YnVpcWJRc1NwZFdVWmR1aWtxeHoyd01DTW1TMnltbUJMN1V4NHBGZDEyaWk2Z0xtYXJMVkVrRFN1UnZjZnBpNTdPTEJhU2JNQThHT3U3dUtmWVI5bmtDd09SNXQ1WENrMnA1d3ZSRUNDejJpNHVPa214eUp6SEJQZGV6eFBLN25ZcnN4TG1ha3VDWnI2aHBUNzBEWA?oc=5",
     "news_image": "",
     "news_source": "African Development Bank Group",
-    "news_age": "1317h ago",
+    "news_age": "1318h ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -2535,14 +2535,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.92,
+    "news_score": 0.9,
     "news_title": "Australia sets 'world-leading' minimum pay and insurance rules for gig delivery workers - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTAyd3pqTU1uQVFBYy0zTEM5YzBGdUdLYTBudHBKNm1WTVVWWlIwTnVQTThXTjBYSW1LMjgwX2NwdUE1blZVTVBOdW5La2NzamtEdnhKT3lUTW5RQUpkNGxTdTRhVFFpYVdua3E2cU5EeWFWSXZZZXZhZktPSHRUTFNtYmR6YWVFRnJieFcxZFd5VVYxTlVPekJ1SzJ0ZkZhT0RuRmhNSWRZRjlXMVNidVBHelpad0RxRl85VHpxN3pzODNvY2FDVVhIb3JNUXhFU1E?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "99m ago",
+    "news_age": "101m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -7271,7 +7272,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQS1hfZUpkcHN5bXp0VzFrb3hoSmhqeGpJNldobTd4dk9qblgxNV9VU3dfUUF0ejdrdTNZOVZjc3ItdEJFRUcybHZlRzBrbG0zenFLRUdhV1lFeEYtcDNlNFI2Y083UFZfcmtNOEhKWUs2c0ZabE5ObEJUdk1PSE5mbUs3TVFUS1BUZUVpcGppaFB1MWs5Qk5oUk1zWldrQWJLWm5mRkNJT1VDRW96cnVtZEFLWnd2bVdQaTNxcnBGSUJKdEREX2d2dFFIalNXSTA1LVNEQlRBSmhYUQ?oc=5",
     "news_image": "",
     "news_source": "Business Insider Africa",
-    "news_age": "21h ago",
+    "news_age": "22h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -7960,19 +7961,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.1,
+    "news_score": 0.14,
     "news_title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU55bUVtSkMySDZUS2RPRWpBTTRRZHhucjFpaUxWM0RoV0NuMVFPNFh1T29XMkpSR1NYRm5Oc1hUc1hnWTNVOXd5T29qXzNVTWdxRWxpal9oT1VCNk1kQVNYeW9fVDBZNG1jODVJNHN3R0lMQ19KSmwtY2JNQXM1V3ptYk7SAYoBQVVfeXFMTmt2WjUtTThxd2gzZnhqcW8wejI3WWdRNDlaZGFLaVFTZXQyZ0tkLW80RW4wSXFoMDBlNTVjZ1pnNFBpQzBQZjJFY0xHQ3Q5S2p4OHdSV05QZi01eG5XcFFmOGVHWmV6MndsZ2dNNU9NLU9FVHUzMkpmaE1DTGVEcS12NXBHcl9CWlJ3?oc=5",
     "news_image": "",
     "news_source": "CNBC",
-    "news_age": "7h ago",
+    "news_age": "8h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
-      "ai_research",
-      "internet_pct"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -8206,19 +8203,19 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.35,
-    "news_title": "Live updates: More than 200 dead in Colombia earthquake, with rescuers unable to reach epicenter yet - CNN",
-    "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NcGl2M1MzbFhrSEdTTW5Jc2xOa0JCLXBYLUVHVVZuSnIycWhiWjNzWDdBQ0ZrRVBFNUxkWm8yRW1CWjVqOVRxeWxTSkRxdUNJTUpib0p0UFlpckZOWTByNnFKU3BVMjM5bWJQeVBmSnoxLWE0encyQk9fTkxVZw?oc=5",
+    "news_score": 0.29,
+    "news_title": "As search for thousands of missing pushes on, Colombia earthquake tests new president - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnk3enhDLU5PRHZPNVlfdkVRb0t5ZjFPYmExTFlGcmIzVnh3eDNWQ3loVVF6MEg4ejNZOE92YkxKc0lpNE5pcXRQYnhPRXFWV05QUnpmNE0tMXZkVVU3YndadUxkampNUWx0Q3JqdjY3aC1Wa0pYT0dwVzgyT2JpVDMwVnAteFdDT2NXTXFOLTUwR0x6X01z?oc=5",
     "news_image": "",
-    "news_source": "CNN",
-    "news_age": "4h ago",
+    "news_source": "AP News",
+    "news_age": "6h ago",
     "news_columns": [
+      "democracy",
+      "approval",
+      "press",
+      "election_days",
       "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "earthquakes"
     ],
     "bottom50_wealth": null
   },
@@ -17271,14 +17268,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.23,
+    "news_score": 1.13,
     "news_title": "Iran war latest: Trump claims control of Hormuz as assassination threat revealed - The Independent",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUDBFdjV1S2xzeGdicXJ1T2Y3aFdUQjJPTzM0Y2Fxc2RoRkZTWkpUNmMxek4tMlJXbmdvakdEemFXRkRYWTlFVUtGQzVIR21MN19XVG13bmhhUm9odFlad1RNM1BGT1NPWHRPODJLSWI4ZEw0Y0lnVWVDdkVIZnA2U2NEV0Y3MHhLdU9TUTZJMldZSmZFWXpzYldwU29zUVQ4empKaXBWMzN4X01SRnVGT2FoSl94QTJCalE?oc=5",
     "news_image": "",
     "news_source": "The Independent",
-    "news_age": "85m ago",
+    "news_age": "87m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -18007,7 +18005,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2ZCVmJ4amt6UTBvQ05kcDBFWnNzb1N6QldHQ3RSWVZ0NUdzemNtaTJGaTlzM1N5dVR0djFiVV9XUGNSc1JCR2RnczNYeTUxMW5WZU5aMmJLMVVqcElmVHpibHdWMm9xOFlLWGlhY2NlQUV5cDVVcTRWZHJaNGxjaXVR?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "3597h ago",
+    "news_age": "3598h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -19139,7 +19137,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42OVlMNk55UHpxdkFwQWtDMUhCUmFmTEtJVnFfcC13ckl4SnNfdVJ1N1k2QXNnckwxR2hLMy15OGdKV29TUkJkQmZCeW5HODVLeWU0akFlaGRyQWIxYzJmYjgzY3BjY3M2ejBsSC1TZ1M?oc=5",
     "news_image": "",
     "news_source": "mofa.go.jp",
-    "news_age": "3213h ago",
+    "news_age": "3214h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -28562,7 +28560,7 @@
     "union_rate": 89.3,
     "union_rate_rank": null,
     "fifa_ranking_rank": 108,
-    "news_score": 0.03,
+    "news_score": 0.05,
     "news_title": "North Korea fires missile ahead of major US-South Korea drills - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDVfd0tWeklYMkllazVablhzaXQxcllibnNjZDhBTXpzWWtPLXNMcWpWVUpJeXRQRUZUZ2x4LV9pQ0c5UmVlaWd4eVpYbGlQNHNXYnlYODZSSTB6QlF5Vzc1OEFpc0kwQ1l3V19aQmU0TnRxMk9NWUQxQ21leG9UUEkxNnYwOFhMWlpjdlRKc1BLcUszTzd4Q1JGSzRSNjI2LWx6Yk00SFZXYjA?oc=5",
     "news_image": "",
@@ -32867,12 +32865,12 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.0,
-    "news_title": "US Marine Robert Gilman released after 4 years in Russian prison - USA Today",
-    "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV0pWUWc2VGRLM1EwaHJiMy1JazlRT1Y4MDJUNUxjd3lMQ1hjWGNja3hudHZxRkJIX2ZPYlhyQlhBQ0pWZmY1c3NsTzd3dERIQ0t3RGJkSHZrV0NDZkRHdDl0NHRoaXpJMTNXNEQwTmdISFlTUlZmRWJLWjUwSWlGbnZRRFdnSnFzXzBfNHM1enMzQjVsUVRkVDZMOXdCV2ZBV1RzLUFIX0hlcnNT?oc=5",
+    "news_score": 0.01,
+    "news_title": "Moscow releases former US Marine Robert Gilman after four-year stint in Russian prison - Financial Times",
+    "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRFpmSG9sTjFqN3VzZnd5aV9TNFBjOXNkY0oyYUNEbjdmeFg1RFZGeWYzUDI4eFJ6eFZSLXROeUM2Nk9wenRGWXFHQW12a055R3ktNHR6YVVoVmRzek4tOFc4clNKQl9nZGNDWl9DWnY2QXVpbV92SFBia3hsUzFzY0w5SXI?oc=5",
     "news_image": "",
-    "news_source": "USA Today",
-    "news_age": "7h ago",
+    "news_source": "Financial Times",
+    "news_age": "11h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -33063,7 +33061,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53anN3Y0FsQkNxd0drdHRCQVU1Mk1Ja09FT0wtdjNJbnNMMTBINUtsZ1N3dVF5a09XMHdvTHRrTmVyaElUbmFpRTV0OTJ6V2dYclljUjlNSXpfRFFDcWdv?oc=5",
     "news_image": "",
     "news_source": "Nature",
-    "news_age": "1029h ago",
+    "news_age": "1030h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -33581,7 +33579,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOGU3ampGbjducVgtbzZRLWl3UWdxUFJkSnEyVlpabXBWZ1ZOTXg2cy1Cb2NJbUs3am9fNDJDcnFiVUo0OWhuMHZmTmRnUTR2T3F2aEtwSUhyajlTcGtlMDRBVkItaU5EUmJWb19BY0ZvUkk1d3BEQVgxWFl3ZjY4bXBtWHF3bmdwbVRxSU51THNOZ1FHT1RWYXoxckQzTGFxSUFHRVJMSnhWZlRsbTh1NDF6NHNBaUJOSTlNM21FXy1FWnRXazhWcmFXRFNVbU1FNGJIQkpfTnI?oc=5",
     "news_image": "",
     "news_source": "UConn Today",
-    "news_age": "3908h ago",
+    "news_age": "3909h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -35863,7 +35861,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.05,
     "news_title": "North Korea fires missile ahead of major US-South Korea drills - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDVfd0tWeklYMkllazVablhzaXQxcllibnNjZDhBTXpzWWtPLXNMcWpWVUpJeXRQRUZUZ2x4LV9pQ0c5UmVlaWd4eVpYbGlQNHNXYnlYODZSSTB6QlF5Vzc1OEFpc0kwQ1l3V19aQmU0TnRxMk9NWUQxQ21leG9UUEkxNnYwOFhMWlpjdlRKc1BLcUszTzd4Q1JGSzRSNjI2LWx6Yk00SFZXYjA?oc=5",
     "news_image": "",
@@ -39989,7 +39987,7 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.11,
+    "news_score": 0.0,
     "news_title": "Rubio, Bessent and Miller Traveled on Decoy Plane From Turkey Without Trump - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83T3pRR3QwZ2pTMHBGQUpDRTBNcjU5YlFma0U4aGhWWlAzdzMwYTAxeDQzTXJXZDRxdWNTSXMzbmdpbjNRRkoySzZuOGE2M0hSY2ZDMW9vMDFmejNyQnA3bmp2c0hRYUMtcnhrRHFHTjdzM1ZzZlpOcWIxTGp3X1U?oc=5",
     "news_image": "",
@@ -42210,9 +42208,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZy1CbHN2NmVtWTRFb3pBRWl1UEdBTDdCMU05YlJBLUpNZ1ZnRUR1RkZ0SDNEdDJ0N1Fldko0anhvdXpnZDBFSi04eXA5djRmWmZMRU52TmY0bndKc0RPQ1RvcTFnUk5pWW5JR0Y2SVYzcDJXNmJaa1Nidm52Ujlua3gxeUIxVXI1aldTUFhRcDM?oc=5",
     "news_image": "",
     "news_source": "United States Eventing Association (USEA)",
-    "news_age": "10h ago",
+    "news_age": "11h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43949,7 +43948,7 @@
     "union_rate": 34.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 123,
-    "news_score": 0.25,
+    "news_score": 0.0,
     "news_title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
     "news_image": "",
@@ -44535,7 +44534,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTmdQYk1nM01KdjdmMHFfbHpBbXo3N1IxQlUxYlp6SDJvanlrZ2J5TURSVWJYcHBlRkJybUdURFhCazVLWVpLa0VTU203TFd6eVNLalpVaVZyazhjNTVPd3ItUnlPY1p3YU5YbDhIR2FlZXI3cTJaME5EN29UUm5XRHhqb3p6TFFwLWZsU1ZLUQ?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "1341h ago",
+    "news_age": "1342h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
