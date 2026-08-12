@@ -8211,7 +8211,7 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.92,
+    "news_score": 0.91,
     "news_title": "A whisper from the rubble led to baby’s rescue after Colombia earthquake - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXM0em93d0x3aXY5Uk5XOHVEMW4yWmFOREJkM3pWOWVmMWh0LUxMUW9pUW9sRnA5alB0M0dibG9TMUxnM0dmeERFWFJvbDI0Z2lFeHVnbTk0amdWQU9lZFp3amYtQWo5RS05QjRLb19DNEk1UFVvZHdqNXNlMUFpWlNPbzlYaWM?oc=5",
     "news_image": "",
@@ -12942,14 +12942,9 @@
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTExHRzVKTC11ZHhmMUF6RmZrSWFqMVI0dHhYajQ0U1FTWlEzZ05jTjB2MmlvVEgtUDkzeDJiWG5ENERDTHBPR0g2MXdybUwyWEcyRDFadkp2VjBwRFUzV3kzMENmU3AyVGgwLTBrcDBSY0o4WTZjNmx5bVJyeWRidTcyU243UmdYNHc3WTNEZWNVcTdfOVRwRkhKREQ0dlFlRHFlV0tnSGxSUTRtc211MWlneXo?oc=5",
     "news_image": "",
     "news_source": "News On AIR",
-    "news_age": "65h ago",
+    "news_age": "1825h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "space_launch"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13466,16 +13461,18 @@
     "union_rate_rank": null,
     "fifa_w_rank": 88,
     "news_score": 0.01,
-    "news_title": "2026 College Football Playoff bracket projection: Notre Dame, Georgia take top seeds - CBS Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTHcyenFUeVpqY3ZaMEZ4V09VQ2xJQXhmb3hRdkprc3BNb1B4VjVjSUpZUlEyNWNocUVTMTVpLUNnNkpvQ2lNTFpQbFVvVUY5d2c1cXFYOVllMW1HbWxnOHlBbUxrbUFGT0xJRkh1N2JSaERONk5nYkhoTXhBbGVKMTRxbGhvZUF3QzNBdEJrZkNfMlY1UHg4MWtXTnhRQ1luNDVnYXhCSUtER0FFaGZ3RkxRX0FLUjg?oc=5",
+    "news_title": "Six Bulldogs Shine on the World Stage at 2026 World Athletics U20 Championships - University of Georgia Athletics",
+    "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcnZ1dTZRazFLUjA4WDdsZ3B6ZWJNekVqSExLUk1wVkNFejhnWk5YaG1IcEVBckNxY3JITTZvazR3QTZIdVp5bWRKTmhibGVLS2oySDlSRVE3U2NLbm85cGVXTEJVOEtSTWZLeDY4NkpqRjhEM0VoVXJzbC02WWlWWlVUMkdzN2ZOUDBGeXB3akZ6d0EwWUVpWXNvd3BBUzdVZm5peUFVV0dYUWViZDJBWTk5RDJJeXdYUFlwRzhsUkZ1SURqRkxweGdn?oc=5",
     "news_image": "",
-    "news_source": "CBS Sports",
-    "news_age": "16h ago",
+    "news_source": "University of Georgia Athletics",
+    "news_age": "34h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "edu",
+      "literacy",
+      "pisa_math",
+      "pisa_science",
+      "pisa_reading",
+      "phd_per_cap"
     ],
     "bottom50_wealth": null
   },
@@ -17276,7 +17273,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.1,
+    "news_score": 1.01,
     "news_title": "World in Brief: Iran threatens to keep Hormuz shut; rescue work continues in Colombia - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3NTUl92VDMwcmN1WTFjMkxMdXJsZ3pKNUw4eFJURkN6alNKM1RmY1JwdHN4TnhneEh3MEp1U3VZQ2h4VVctdUl0Y2drSFRETzFUQVdFU1FIbFBuQUpyZnJtZVZYLXVZVjVhUm9Ubk03RUR0TWx2Z0tHSkUwZkE0Uk9NbEF3VFBETGpramJrN0s2WldVSldR?oc=5",
     "news_image": "",
@@ -19515,12 +19512,12 @@
     "union_rate": 77.0,
     "union_rate_rank": null,
     "fifa_w_rank": 71,
-    "news_score": 0.85,
+    "news_score": 0.84,
     "news_title": "Kazakhstan to Establish 'KAIST Model' Science and Technology Institute... Korea-Kazakhstan Cooperation Discussed - 아시아경제",
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBUXBoR0dvbDVRdDJpcjYzT0FJbm51Ujg1WlRnV1dqRFlzM3pWZVg0YjJqZGR6b1hiRWlFbXVqRmNhZk1Nbk81azhyZ095dHY2dkZRVGZpVWRYMVhHQlppcUV6U0RsanVt?oc=5",
     "news_image": "",
     "news_source": "아시아경제",
-    "news_age": "41m ago",
+    "news_age": "43m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -27074,7 +27071,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSkNpaDFjdEtYXzlmSGh2aXVrOVlFcEFPQnhDNGdDb3NpTTBCdVdTZ2F6bms3SHlZM2o1RDNydWdiMTIyWlo3WS03WlQzUVlRMklFS1NKbF9Pb05uTlZQc3ZseWpZUllYV0stUjRndTBpUzRPMmN3RFZHVWNzblRnSzUzcGxUZFJKV0xuMg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "81m ago",
+    "news_age": "83m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -29692,17 +29689,16 @@
     "union_rate": 54.7,
     "union_rate_rank": null,
     "fifa_w_rank": 102,
-    "news_score": 0.01,
-    "news_title": "Hockey World Cup 2026: Full match schedule, groups, India vs Pakistan - Al Jazeera",
-    "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGw5MS02YnN3dGFJNGFPbExyWDZEQW03UXFtcC0tSGRjRV9tUFVwSEFRc1pacURiY2gzNEYtZ29tRnlvT0RUNHByWmszNk9lbmdBaVVKOXNCMlNGaTZ3LXBWNnB0MjEySC1HYldEdnhZRFdrdDNnRG5ldGdGQ1RXOENPM1BCcEJUU3pfOThxMzQ0UHhKcWJDTzlhSXNEaUlRSzZabkJDVmRuUDlGTWfSAbMBQVVfeXFMTXNnQ2czc1dNS3ZkTFNHY3g1SS1QTWo0VzE2V1EwVThhdTdOUUZORS04VUFmZ21vV0RRSHRlSnptd0p4Nl9PQWNiZTcyY2VXUlJOMEt1WElJbTRhTnBsRWpfQzhZcmg4QVZSbC0ySFliZ2cxWGdFMjEyZjZrMXo2VHc1WnA5ckNJU29TSzRnNnVLS3J3cnVWVGk2cGVDU1kySm5sQ2JNVUpDYlliZnFCYzBaODA?oc=5",
+    "news_score": 0.06,
+    "news_title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
     "news_image": "",
-    "news_source": "Al Jazeera",
-    "news_age": "19h ago",
+    "news_source": "AP News",
+    "news_age": "5h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "car_density",
+      "gas_price",
+      "co2"
     ],
     "bottom50_wealth": null
   },
@@ -32879,11 +32875,12 @@
     "news_source": "Reuters",
     "news_age": "17h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -35384,7 +35381,7 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.59,
+    "news_score": 0.58,
     "news_title": "'The dream is still there' - South Africa players defiant about World Cup hopes - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaFRMM3Qwbl9VcTk1QmNPM0N6RkFFV3Boc19BV09QajRMc01TakdFXy12T0x2eDF5Z0hMX0NSSFFrNFM4bzlaWDNyUDR2dG5Nbkg4eVVrR2lwVkp6MTlxUWd3MVNzRmlmdnFhNTNJaUVCNUtIRF9zcGpBSzdPX2ZLR3dLel9SWVhQQUZOZEpGdnJIdWVITUdGazVpbXlyM2loMnJvUEw4Q0RaVE9SZ2c?oc=5",
     "news_image": "",
@@ -40967,11 +40964,12 @@
     "news_source": "Reuters",
     "news_age": "17h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -44589,7 +44587,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtSENYWThacDFlQ3NzcF81ZkItbFhtV0ZsQXVFZml3SmdXOFFOSDU0djBMemhtVERnVGlSaktZaW4zemk0enlMZk5wbVR2bnhOZlRsTDQzTEdyODVJWnhfU2pLLVd2M2lpaUl1VDNaQUxlb1k?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "10h ago",
+    "news_age": "11h ago",
     "news_columns": [
       "health",
       "life_expectancy",
