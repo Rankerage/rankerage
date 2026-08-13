@@ -3300,19 +3300,18 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.0,
-    "news_title": "Closer US business ties can boost Bangladesh economy: Kobir - Bangladesh Sangbad Sangstha (BSS)",
-    "news_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zaHFxblpmR3R2c2FYaWFnS3QwR18yYkpCRkJTV0pndTJzdFBsdENEVjh6alV3QS03b1MzQWxVYWFTRkg1YnFwMi16STBKaUF5c29n?oc=5",
+    "news_score": 0.29,
+    "news_title": "Bangladesh wants durable economic partnership with US: PM - The Daily Star",
+    "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0RobDA2R00tX05jNHMwamZwS2hycTk3WUo1MzJBeXZLYXo1SWRqRVcycjg1Nm8yZmM4dXh6cGNNYkdENk9uYl9BWjN5LURiRTFyWkVGWXJfWGVlOG1kRVV1WTVpek5OUWtrMy1pZVJfUzkwSWxCZ1dUZlFYSlhJa2lFV2JXald3Z1hzZ1J2TXBhbm5xZjV2MkhTZGE1Y3lsVlZNWDdfWGg3LXNrd2Rr?oc=5",
     "news_image": "",
-    "news_source": "Bangladesh Sangbad Sangstha (BSS)",
-    "news_age": "18h ago",
+    "news_source": "The Daily Star",
+    "news_age": "4m ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": null
   },
@@ -8204,7 +8203,7 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.24,
+    "news_score": 0.25,
     "news_title": "'End of the world': Meridian woman stranded in Colombia after 7.4 magnitude earthquake - KTVB",
     "news_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNR1NLb2dpLThHMm8zMkJJblVscnQ5NXhfclNjZmowcXZqcXg2V3Rad2U3bGEzX2EyaUVPRXNQVFVfRU9wUjhnVWlfdERYUnNjdlhQVENKdFhoWVlBOHMwYWc2WlM4OHR6aV9LSlVvUmZubk9CWVNQU1pTcDdvZlNDazd5WVdSVmxqcWw3bXc4LW9WWXlVbVpfdWZaazM2SFgtNGhTZ0pYNnFsbjhZM2ZObE1BRk1hU0tUeFltcTNFZFdPZG9xQXYybEhNUGhEVUlRS202b0RRU0d6X3JmUTZHV056eVRvSmRoaU4yVmxsR0ZnSGJQTDJWWWFn?oc=5",
     "news_image": "",
@@ -12937,7 +12936,8 @@
     "news_source": "News On AIR",
     "news_age": "1849h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17265,12 +17265,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 2.46,
+    "news_score": 2.52,
     "news_title": "World Cup and June’s hot weather help UK economy withstand Iran war pressures - Yahoo Finance UK",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN2xnSkNzMHJwWXA0MjVOVHhWd0tOSmhHUnQ1Rkkwa3FEeld2aF81ajl4UDNSc0xwMkRWcDE2ejdXYmpuRlRPTWFnMWp2Qm1naEJQT2xQUXNLU190SjRGOVE0T0lyVDlQdVRaeC1kRU1sUTNGeGRNWFl5UktUUGxpOUwxNA?oc=5",
     "news_image": "",
     "news_source": "Yahoo Finance UK",
-    "news_age": "14m ago",
+    "news_age": "16m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -19128,18 +19128,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.84,
+    "news_score": 1.09,
     "news_title": "Japan bans military cosplay at key war shrine ahead of second world war anniversary - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaWJPeFJIRWZVSVIyMElsZTFoYkg1WVI2MnMxd0t0dGhuZkV3WTZ5bHR2a0FpLUU3YnlSOThrT2k4SmdOdDI0cTVhUWJOcXRWVHAwamF5UjhfdjhvZ0doSHdaUHhUb25pWVFGSUhmcktSUk8xRTk4TjhpR2tGQUhrQXl2b0dkdlU4UUkzS1UyQmRkdi12TEoyU2JsQXJfNGZMd1E?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
     "news_age": "2h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "olympic"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -39980,12 +39976,12 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.77,
+    "news_score": 0.76,
     "news_title": "CIA had ‘low confidence’ in Iranian threat before Trump switched planes in Turkey - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWng0Yy10eHlZdTNFcVMtZHA3d2pjTUExY0htX3R1eC1OaEdlaTZqdUNpMFpSVDZrZ3ItNVhDMlFPaHRDMHJWdlVOeWJoanZMLXlHdi16RF9mUU9tSkg0Q0MzNzVhQWxxVzd4ZzJrSkRnRXEyR0RQSnZ4ZmRXMGh1WVJHbXVrS3dLWGUyLXJyN29za2t0YWlHQ3hIemFyRi1ZaFRzay1PT19tRlBpNndaM1hpOFVpcHR4MWRWa0N3dGRoVzBvVnZxUHZ6SlVxeWs?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "64m ago",
+    "news_age": "66m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -44558,7 +44554,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 0.03,
+    "news_score": 0.02,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
