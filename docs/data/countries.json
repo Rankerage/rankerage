@@ -212,7 +212,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EZHkwaTd5WVBDQ0RuUWRDTzBPb3dUV2dtMy1LWjNvZTRiRFAyT0R6X2lCM0t5VHBvbTdkcFhZNjVDQl9ibjVkUlVPQ01SSUFYNTBqcElPWQ?oc=5",
     "news_image": "",
     "news_source": "UN News",
-    "news_age": "96m ago",
+    "news_age": "98m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -7275,7 +7275,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUk9LSUpvYkVubDRrcUprUWxBcDhwMXJsdzVzWGNTZmVHUGgzV1NFM2NwTVE1VElUeXAxNE9IdjZ4UkVJaUJQNUxVLWd4NF9NdE5FYzMyWDItVGlGcHlEVnlRMXBIeWFtWVRubkE0NGxLMk1ERTNtT2gtMGdYSFdRVXFsbUI0Zw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "74m ago",
+    "news_age": "76m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -12933,16 +12933,19 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.33,
-    "news_title": "Kennedy Center Board votes again to shut main building down — and add Trump's name back - NPR",
-    "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUmVaZkROTm1ON0lZQTY1VVVxVk4zN2ZQN2R3eUNjb28tY0FCcUlWeVdQeGo1NU1RUnNxeG51aS1Ncks1TnU1WVJUWWEtSVI0cUVkT2FRY1FoZllTRDlySnpTTEJuMFdudnY0V2J2VmpLVGZmekN3WnMxU3RUT2dfRWJqM08tbVh6YzZvT2tMRQ?oc=5",
+    "news_score": 0.17,
+    "news_title": "India,France review expanding canvas of bilateral cooperation in science, technology & space | Akashvani News - News On AIR",
+    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTExHRzVKTC11ZHhmMUF6RmZrSWFqMVI0dHhYajQ0U1FTWlEzZ05jTjB2MmlvVEgtUDkzeDJiWG5ENERDTHBPR0g2MXdybUwyWEcyRDFadkp2VjBwRFUzV3kzMENmU3AyVGgwLTBrcDBSY0o4WTZjNmx5bVJyeWRidTcyU243UmdYNHc3WTNEZWNVcTdfOVRwRkhKREQ0dlFlRHFlV0tnSGxSUTRtc211MWlneXo?oc=5",
     "news_image": "",
-    "news_source": "NPR",
-    "news_age": "84m ago",
+    "news_source": "News On AIR",
+    "news_age": "12h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "space_launch"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -14159,7 +14162,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRzlEb1lLSnlmUFhzakJQS3lzQXZpZm43QlFEakc1OWFxbGE0S09lLUM0TnNfN2NIMFJBR0N0dnpYX2ZQZ3k4QklkbHpDd3EtN2ozaGxIclF5U3ZSX05LSkNBM0tIeWFDTGcwdVpleHQzRWdwTzg3dUV6MDVzWjZvNkJGaHB1SkFHWTFVaVRWZ0lCREFuZHQ3eTRPYjZpT2VXZXpkeGEzVi1EenJYOXc?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "63m ago",
+    "news_age": "65m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -16690,7 +16693,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.28,
+    "news_score": 0.21,
     "news_title": "India at Men's FIH Hockey World Cup 2026: Schedule, where to watch, opponents, key players and all you need to know - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbVRGU3M4bGYyOWFCbHdodXZkXzdtMm4yVHpKNWd0VVZTVEFOVWhCdVhWdG95YmNYUUFMUC1kcEdlaTUycTZodUN4Q21FYTB4SHNqX3VVRUN3Z1k1Z0lHSC1GN0ZSbDZBMy12OVB3RlFaQjdqNjBoT01xcm9yeExOMDBKa0FCckxFR1dlektaR1dhXzhtUklYOVZmSkVVd2Z5OWV3UmdwYkNFTmZHRFZkOENMZFQwQi0yY0NoSEkxS1luSnl6REhRX3ZNZ0YyYTRRRGdnV3VHMVZsWjQzQUF3?oc=5",
     "news_image": "",
@@ -17263,14 +17266,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.33,
+    "news_score": 1.31,
     "news_title": "South Korean airport becomes busiest in world for global traffic amid Iran war - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcVplcGRpeXh1NGVBSm91bXRfbmhuRWhxeWs2WjN4Z19mVlBkZ25FTVRDX3RzWnlzallHRkd4M2JfU19SOUVzWjg4WjFVSE1lU040dzE5TzdFQWN6SXVINXlkVzJQOHBHOXdpT19QQVFkVjBOU3k5R0xsUlFIa25odk1mMmFVMmFIbC1XTk9hUlY4VjhhSkd6NUh3?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "39m ago",
+    "news_age": "41m ago",
     "news_columns": [
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -17997,7 +18005,11 @@
     "news_source": "The Washington Post",
     "news_age": "3637h ago",
     "news_columns": [
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": null
   },
@@ -18429,7 +18441,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.94,
+    "news_score": 0.74,
     "news_title": "Italy's Curtis betters own 50m backstroke world record - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVTBIRm5ybjR2a2pLdjU0aGlxSTBJbzFOTFpFbGw5VmY5U1RodWVVZ2lXU3N0UVEtTjlrVG1YX1VQZjhPUFYtUW9rdUJ4UzktQVZHVGJma2FIUnNUbkRybGVYc0tGR2hSS3JQV0loZDBqTFp2VDR4SUt5NUFiaDFJd205RWhSNTI2VmVqNW9IdEJBekJzTzM5azZQZHQ?oc=5",
     "news_image": "",
@@ -19116,12 +19128,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.99,
+    "news_score": 1.05,
     "news_title": "Key Japan war shrine bans military cosplay ahead of second world war anniversary - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaWJPeFJIRWZVSVIyMElsZTFoYkg1WVI2MnMxd0t0dGhuZkV3WTZ5bHR2a0FpLUU3YnlSOThrT2k4SmdOdDI0cTVhUWJOcXRWVHAwamF5UjhfdjhvZ0doSHdaUHhUb25pWVFGSUhmcktSUk8xRTk4TjhpR2tGQUhrQXl2b0dkdlU4UUkzS1UyQmRkdi12TEoyU2JsQXJfNGZMd1E?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "39m ago",
+    "news_age": "41m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -25300,7 +25312,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 142,
     "fifa_w_rank": 97,
-    "news_score": 0.16,
+    "news_score": 0.15,
     "news_title": "Will the world’s drying lands get relief from COP17 in Mongolia? - Climate Home News",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRmhVckQxbmNiVXhBNC1uZ0REXzF5Vk9qcllkcjVxZV9NNGhlS0J3WS1URlhITHpCMGx0enRvZzVDRU9tZ2VNVDhWR2g3YWo1ZFg3bjJJX01iZXFjLVZkV295ZmVqY1BVLWl2Nms4UkRPbGdzYW5VaFBVUm1ac1ktRFV0UkFkeXFTNUlWdEkwODlzZHVTN0VJZ2EweXRlZlIxVnJpZ1Ftbk8wN0lH?oc=5",
     "news_image": "",
@@ -26091,7 +26103,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EZHkwaTd5WVBDQ0RuUWRDTzBPb3dUV2dtMy1LWjNvZTRiRFAyT0R6X2lCM0t5VHBvbTdkcFhZNjVDQl9ibjVkUlVPQ01SSUFYNTBqcElPWQ?oc=5",
     "news_image": "",
     "news_source": "UN News",
-    "news_age": "96m ago",
+    "news_age": "98m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -28187,7 +28199,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTkpsNk5WZXZVUkViV2JHRi15cHg3b3VGUmJRRUc2c0N5OGIzNUk1Zk9wYmh0VEthUlRKS3I5MC1JbWxOTmFFNmM3eXJDZVBucTNQcEV4Zm5LWFNCNUVGeGFRcjRCSW9IajFzRF8zSWkyRVlzeGs0cTlXM1RTV2VtOGZwNFpiS2pHajZLalBBS1dwVVNOaG5MRVpuYXVQUmhQX1BfeWtkNDg4NUdHRkdyemtfVWV5ZVBwQVQwVmJVMnB6dw?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "54m ago",
+    "news_age": "56m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -32046,7 +32058,7 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.07,
+    "news_score": 0.05,
     "news_title": "Qatar, Morocco among six Arab federations backing FIFA's Infantino - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN0I4Rl84djB5MTYxcFFjNHoyUlhWbFEzcU13Z2piMlBMREJkeW5WVnhIYlBJUGJGRHl5WV9TbFVQZ2M5RnZsT2ZLT1ZQNFA5SVZLdkFzMkdQU1MyV25kZkRXMklKak5URXJCbzdRN1F6bW5TWVd6aTRUQTdUNHFuMV82clZWUkU2NFl3X295V0ZDVFZmbE5lNUMydjR3SXRzclZtQ2t1aVNPTjR0MnVBTFhSUDk?oc=5",
     "news_image": "",
@@ -32055,7 +32067,8 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -32843,12 +32856,12 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.95,
+    "news_score": 1.25,
     "news_title": "Ukraine Iran: J.D. Vance is learning an important foreign policy lesson the hard way. - Slate Magazine",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdm8wSjRkM2pLSUd5VlI0ekJzOEJsV1VlUWpXS2pxZExpY24yTFljcUNMLThrbUVyVzhpaFdqZmlfVVlnMHVITTN1UWpaRVk0eWkyRjlKTHcta1U3MjFIR3JPZEJ3SWRxSTdoWmpjMnJaQ0dPY3ExeXUzc3ZjUC15ejlRa1NmbTd2UmpqVlNNXzdQU2dmSHc?oc=5",
     "news_image": "",
     "news_source": "Slate Magazine",
-    "news_age": "79m ago",
+    "news_age": "81m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -34439,7 +34452,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaGxzdGlaeE5DUTJEdlNRX0lPNEFQczBtV1ZXZEpWQkhscDNnTFpyMnhuVllqRklRVkVvQVBDeTZfUFdLWnBsbGs3YUFOa3NnLUNhVWlIN3hXZl93RUxGNHVWemhVc05qQ0NQSzBGcWtSNFZXZ29KRm5ETndtMS1yWWV1enBvelBEOVpRVkFnZHVSbUtzaGkzbzd3MjdsQThwLVRhZkZQNjVIMmpkTGFrNEs1Zw?oc=5",
     "news_image": "",
     "news_source": "USA Wrestling",
-    "news_age": "94m ago",
+    "news_age": "96m ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -35361,7 +35374,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTkpsNk5WZXZVUkViV2JHRi15cHg3b3VGUmJRRUc2c0N5OGIzNUk1Zk9wYmh0VEthUlRKS3I5MC1JbWxOTmFFNmM3eXJDZVBucTNQcEV4Zm5LWFNCNUVGeGFRcjRCSW9IajFzRF8zSWkyRVlzeGs0cTlXM1RTV2VtOGZwNFpiS2pHajZLalBBS1dwVVNOaG5MRVpuYXVQUmhQX1BfeWtkNDg4NUdHRkdyemtfVWV5ZVBwQVQwVmJVMnB6dw?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "54m ago",
+    "news_age": "56m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -37899,7 +37912,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EZHkwaTd5WVBDQ0RuUWRDTzBPb3dUV2dtMy1LWjNvZTRiRFAyT0R6X2lCM0t5VHBvbTdkcFhZNjVDQl9ibjVkUlVPQ01SSUFYNTBqcElPWQ?oc=5",
     "news_image": "",
     "news_source": "UN News",
-    "news_age": "96m ago",
+    "news_age": "98m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -40930,14 +40943,18 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 1.18,
+    "news_score": 1.16,
     "news_title": "Ukraine Iran: J.D. Vance is learning an important foreign policy lesson the hard way. - Slate Magazine",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdm8wSjRkM2pLSUd5VlI0ekJzOEJsV1VlUWpXS2pxZExpY24yTFljcUNMLThrbUVyVzhpaFdqZmlfVVlnMHVITTN1UWpaRVk0eWkyRjlKTHcta1U3MjFIR3JPZEJ3SWRxSTdoWmpjMnJaQ0dPY3ExeXUzc3ZjUC15ejlRa1NmbTd2UmpqVlNNXzdQU2dmSHc?oc=5",
     "news_image": "",
     "news_source": "Slate Magazine",
-    "news_age": "79m ago",
+    "news_age": "81m ago",
     "news_columns": [
-      "olympic"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": null
   },
@@ -44549,7 +44566,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 0.47,
+    "news_score": 0.41,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
