@@ -6909,7 +6909,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNNENRcTVkcEFBZTR2SDlCWUlTME1PeFFjczBPcVFzR3JzNnowMzgzWElKQlhKRGlsZzR1VjhWY3MtVXpoQlo0NEd5N1lZWnF4YS0zV1Q1WUl5S3BKNGtoV1J4WjRyNEVhYUJieGNjWGpfeGlsQkNQSFprdnktTGQ1MVlFMkxqMnVaWm5NNFhCX2RraFA4TFhvZHRtY2JDYkViQ2syT3B1WEVCcFc0QzRteXVWS3VKUlBkWTNnVWhzZjFGdTloa21fRGdRSC0ydnJFTDV5bnRUM3JVWFVsSzVOUlFJZ2o4dHAtM3ZvUXg5OE1EVE9YR2k1VkZpREJGaDJHNVVWTWE3amY2cUlkWjNRMW9iX1FWeWFjaDZmaFRCR2R2ZHhYeFE?oc=5",
     "news_image": "",
     "news_source": "Little League",
-    "news_age": "25h ago",
+    "news_age": "26h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -8211,14 +8211,19 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.61,
+    "news_score": 0.6,
     "news_title": "'End of the world': Meridian woman stranded in Colombia after 7.4 magnitude earthquake - KTVB",
     "news_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNR1NLb2dpLThHMm8zMkJJblVscnQ5NXhfclNjZmowcXZqcXg2V3Rad2U3bGEzX2EyaUVPRXNQVFVfRU9wUjhnVWlfdERYUnNjdlhQVENKdFhoWVlBOHMwYWc2WlM4OHR6aV9LSlVvUmZubk9CWVNQU1pTcDdvZlNDazd5WVdSVmxqcWw3bXc4LW9WWXlVbVpfdWZaazM2SFgtNGhTZ0pYNnFsbjhZM2ZObE1BRk1hU0tUeFltcTNFZFdPZG9xQXYybEhNUGhEVUlRS202b0RRU0d6X3JmUTZHV056eVRvSmRoaU4yVmxsR0ZnSGJQTDJWWWFn?oc=5",
     "news_image": "",
     "news_source": "KTVB",
     "news_age": "4h ago",
     "news_columns": [
-      "olympic"
+      "earthquake_count",
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ],
     "bottom50_wealth": null
   },
@@ -16693,15 +16698,15 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.86,
+    "news_score": 0.92,
     "news_title": "India at Women's FIH Hockey World Cup 2026: Schedule, where to watch, opponents, key players and all you need to know - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc2Q3SHpfMmZrcW80V21USl83dE9SRTE2dEJQRUxyZWN4bEJKLVN4SUp1bHNqbEZ1U2YxUlBNVS1sSjhsZUxlUXp0WVczeXB6NkpUWTRiN0o1ZDRaUVc4R2FybGRMY3IyNWdzSmZtT083YUhTNzZ6aVR1VG9fdnhRTDNEUm1XUFZOQzhtNF85N1p5eGRtbEhIcmpZRTZSdFRPZlFKcl9nZ0U1MzFNSlpIUmtfOHBIWHJyeF9QQXRjeVRScUFNOW9fSnlJeXVrOFQtWFJWdmx1QzVZbS1hRFhXNnh3?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "93m ago",
+    "news_age": "95m ago",
     "news_columns": [
       "olympic",
-      "fifa_ranking"
+      "fifa_w"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17264,19 +17269,18 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.47,
-    "news_title": "Members of Trump's cabinet remained on decoy plane, after Trump's quiet exit - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13ZmZ4bDlLLUVlX0xWOV9DYmExMUljdnNhbDRDQWhrUThxTmlhaWVER2V6ZHByaERLeXhZU3RLNFZrdl94SWdNNm5UOGc0Umo4NGI0cFBiQmg4QQ?oc=5",
+    "news_score": 0.73,
+    "news_title": "CIA had ‘low confidence’ in Iranian threat before Trump switched planes in Turkey - The Washington Post",
+    "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWng0Yy10eHlZdTNFcVMtZHA3d2pjTUExY0htX3R1eC1OaEdlaTZqdUNpMFpSVDZrZ3ItNVhDMlFPaHRDMHJWdlVOeWJoanZMLXlHdi16RF9mUU9tSkg0Q0MzNzVhQWxxVzd4ZzJrSkRnRXEyR0RQSnZ4ZmRXMGh1WVJHbXVrS3dLWGUyLXJyN29za2t0YWlHQ3hIemFyRi1ZaFRzay1PT19tRlBpNndaM1hpOFVpcHR4MWRWa0N3dGRoVzBvVnZxUHZ6SlVxeWs?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "5h ago",
+    "news_source": "The Washington Post",
+    "news_age": "84m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
       "military_personnel",
       "gpi",
-      "arms_export",
-      "ai_research"
+      "arms_export"
     ],
     "bottom50_wealth": null
   },
@@ -18000,19 +18004,18 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.46,
-    "news_title": "Members of Trump's cabinet remained on decoy plane, after Trump's quiet exit - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13ZmZ4bDlLLUVlX0xWOV9DYmExMUljdnNhbDRDQWhrUThxTmlhaWVER2V6ZHByaERLeXhZU3RLNFZrdl94SWdNNm5UOGc0Umo4NGI0cFBiQmg4QQ?oc=5",
+    "news_score": 0.53,
+    "news_title": "CIA had ‘low confidence’ in Iranian threat before Trump switched planes in Turkey - The Washington Post",
+    "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWng0Yy10eHlZdTNFcVMtZHA3d2pjTUExY0htX3R1eC1OaEdlaTZqdUNpMFpSVDZrZ3ItNVhDMlFPaHRDMHJWdlVOeWJoanZMLXlHdi16RF9mUU9tSkg0Q0MzNzVhQWxxVzd4ZzJrSkRnRXEyR0RQSnZ4ZmRXMGh1WVJHbXVrS3dLWGUyLXJyN29za2t0YWlHQ3hIemFyRi1ZaFRzay1PT19tRlBpNndaM1hpOFVpcHR4MWRWa0N3dGRoVzBvVnZxUHZ6SlVxeWs?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "5h ago",
+    "news_source": "The Washington Post",
+    "news_age": "84m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
       "military_personnel",
       "gpi",
-      "arms_export",
-      "ai_research"
+      "arms_export"
     ],
     "bottom50_wealth": null
   },
@@ -19132,15 +19135,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.42,
+    "news_score": 1.32,
     "news_title": "Japan’s Underground Lab Wants to Solve the World’s Nuclear Waste Problem - The Diplomat – Asia-Pacific Current Affairs Magazine",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnJlYlNUSkxkT1d3RjVsT0oyd3lFNkoxTERIZWZRMy1EcmNObEpJWENpc2MyRm40NFQ1ZEYwRGozWnFKWUpYX1hqNExOa082X0ZZRXp4ZjJFOWIzUVFBRXdwNUpxczlVaXdkbU1WbFU1d1FaR0tzYThPOWhxN19hbjNzM3pEU0h1ZGxfS0p2UmdObmlqeElXYTlfQXpjejR1T21SNk5R?oc=5",
     "news_image": "",
     "news_source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
-    "news_age": "109m ago",
+    "news_age": "111m ago",
     "news_columns": [
       "olympic",
-      "fifa_ranking"
+      "fifa_w"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -22624,7 +22627,7 @@
     "union_rate": 63.2,
     "union_rate_rank": null,
     "fifa_w_rank": 101,
-    "news_score": 0.22,
+    "news_score": 0.21,
     "news_title": "Malawi FA chief backs Infantino, credits FIFA investment for World Cup breakthrough - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNejR2WHZkaWNtdDFyTnFtTFhtUnE1cEJ5SkhVMlBLNG9rWmd1Sjc0OFlSczVJR24xdVJLUUpQY1VjbW9HeVZaNTY3ZXFhcnlVY3RtUXhCbEJfRnlDYklWM05jbFp6MkxWM1dGUWxTalM4QjF5SVd0aXhncEpBVXoxR3dsSTVPdGlYeTlzcXd5Rl8tSndmNEczNFR5UDR4dGswUWxWck1iVUhfSnBTbzQ5WGxPNm9iMjBzdXdINUl5aUU4OHdZQVA4?oc=5",
     "news_image": "",
@@ -27057,7 +27060,7 @@
     "refugees_rank": null,
     "union_rate": 85.6,
     "union_rate_rank": null,
-    "news_score": 0.33,
+    "news_score": 0.35,
     "news_title": "Xavi named as new Netherlands head coach until 2030 World Cup - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeElXV3Vna19EYlkyWmlvODhEZE5KQndiLXp6UWFSYWZMS0ZuWDRKbWlQeHZlQkRyRjBzOV9DbV9UQW13U3AwcTlVMGRyOHJqOEk1cG13Nm9TRzczeXFydUVIT1JzQU9wNVhwZkwtcV96SlI4Mk9EMGV5ck5SLXZHMFhHUURwbi1fLXc?oc=5",
     "news_image": "",
@@ -27065,7 +27068,7 @@
     "news_age": "6h ago",
     "news_columns": [
       "olympic",
-      "fifa_ranking"
+      "fifa_w"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 25
@@ -28195,7 +28198,7 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.59,
+    "news_score": 0.58,
     "news_title": "Academy, LBS target informal economy with new programme - The Guardian Nigeria News",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQby1qMFBST2F5ekZIX09TUXExMnZXUUVwS2gyOWxBemtFbThpRElWSUJiNW5LekpubFkxZVN1WU12SzVGR2pPTmtJa0dFalB5VFRJZ1ZGcEJuZ0duS1BaQXNlLUIzbXRKbzVTbXNRcVdSWGF6QXkxck9Eb2ZNLWd2NGRHdklaUklxMkdKSXdndno3Zw?oc=5",
     "news_image": "",
@@ -32859,7 +32862,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.01,
+    "news_score": 0.02,
     "news_title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMkhxMGxURF9FNDF6a1QtU1hsU01vdWN5bjBZYTFZd1k1SlU4Y2pqdkRMSGtxVF81Nm1naW01WnNlUWJ1WUJfbWgzVnRBZzdoQmN1V3RnNzdsZw?oc=5",
     "news_image": "",
@@ -34033,7 +34036,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 100,
-    "news_score": 0.74,
+    "news_score": 0.0,
     "news_title": "Duolingo Invests in World-Class Motion Design with Acquisition of Animade - Yahoo Finance Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT2VkcXliWU1DRE5INTFHWHdpNFE2Z0Y1TlBnTGlPeTRCUGtBWlExZjg4R1NHaGxSZDZENzMzNUxDT0pqb3BwMTdPenJJZWtiU1V5WE11YnQxWnBoQWkwYzZjTlZ6U1k3TDVFaFR5QjVyV1ZqQlBuQ3hZSDN4WmxYU2VXLXhjb2hIWU00RA?oc=5",
     "news_image": "",
@@ -39987,19 +39990,18 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.51,
-    "news_title": "Members of Trump's cabinet remained on decoy plane, after Trump's quiet exit - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13ZmZ4bDlLLUVlX0xWOV9DYmExMUljdnNhbDRDQWhrUThxTmlhaWVER2V6ZHByaERLeXhZU3RLNFZrdl94SWdNNm5UOGc0Umo4NGI0cFBiQmg4QQ?oc=5",
+    "news_score": 0.76,
+    "news_title": "CIA had ‘low confidence’ in Iranian threat before Trump switched planes in Turkey - The Washington Post",
+    "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWng0Yy10eHlZdTNFcVMtZHA3d2pjTUExY0htX3R1eC1OaEdlaTZqdUNpMFpSVDZrZ3ItNVhDMlFPaHRDMHJWdlVOeWJoanZMLXlHdi16RF9mUU9tSkg0Q0MzNzVhQWxxVzd4ZzJrSkRnRXEyR0RQSnZ4ZmRXMGh1WVJHbXVrS3dLWGUyLXJyN29za2t0YWlHQ3hIemFyRi1ZaFRzay1PT19tRlBpNndaM1hpOFVpcHR4MWRWa0N3dGRoVzBvVnZxUHZ6SlVxeWs?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "5h ago",
+    "news_source": "The Washington Post",
+    "news_age": "84m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
       "military_personnel",
       "gpi",
-      "arms_export",
-      "ai_research"
+      "arms_export"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
