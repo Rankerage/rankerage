@@ -7971,9 +7971,7 @@
     "news_source": "RAND Corporation",
     "news_age": "2405h ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -16690,15 +16688,17 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 1.29,
+    "news_score": 1.02,
     "news_title": "India at Men's FIH Hockey World Cup 2026: Schedule, where to watch, opponents, key players and all you need to know - ESPN Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcEZITGFKcDBJTVJ3NU9NMG1NUTlSY0FWclVqcWdCLVNHejlkZ3NBRVFjZ0Y5SlhHaUNoUmEySXBkRm41RmozZEpQQUlrM21ORUdWRTV1QmdnT3Vod08ySTBGZzlXOUpIcmpyM1VpSWloTW5aU25xRTAyQW1FNWg1bEQtNWNhS3J6UXltdXRDWUplcUNoazdpSFZlOTZMXy16ZEtPRHdJUXdGU1hxbEZ4R1piZm5Kb1FMSHAzS1FKV0NZZzdSZDlHeHJfZTEwV1oycWk5eF9UVUV4NTA4LXVEbGZzSQ?oc=5",
     "news_image": "",
     "news_source": "ESPN Singapore",
-    "news_age": "28m ago",
+    "news_age": "30m ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17261,19 +17261,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.71,
-    "news_title": "Live Updates: Tehran says Strait of Hormuz \"under Iran's control\" after Trump threatens U.S. might \"keep it\" - CBS News",
-    "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR2RHTTJfTFBtYldWN0p1aFl6bWNhQ3FHc3VLVUVodGl4SmY1RGZuTmhFNjRWZjBpLUlvaktWVnhpQ2FFZHJZYV9SeWVGVFNaZ0VKQ2xLNF9LVnAwOVE2MFhBUTlaWm1TZFFELW53bC1vekluLXlHanRTdE9aU3ZpWG9aRmhvUDdiMTFoUzlkcFFvcWVscTA3YWxaZDBIbi1xbkVaMURGVFpPTXY0WEcwWTBn?oc=5",
+    "news_score": 1.42,
+    "news_title": "South Korean airport becomes busiest in world for global traffic amid Iran war - The Guardian",
+    "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcVplcGRpeXh1NGVBSm91bXRfbmhuRWhxeWs2WjN4Z19mVlBkZ25FTVRDX3RzWnlzallHRkd4M2JfU19SOUVzWjg4WjFVSE1lU040dzE5TzdFQWN6SXVINXlkVzJQOHBHOXdpT19QQVFkVjBOU3k5R0xsUlFIa25odk1mMmFVMmFIbC1XTk9hUlY4VjhhSkd6NUh3?oc=5",
     "news_image": "",
-    "news_source": "CBS News",
-    "news_age": "47m ago",
+    "news_source": "The Guardian",
+    "news_age": "2h ago",
     "news_columns": [
-      "democracy",
-      "approval",
-      "press",
-      "election_days",
-      "ai_research",
-      "internet_pct"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -17993,7 +17988,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.47,
+    "news_score": 0.48,
     "news_title": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror' - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WQkVfVy1rNkxsMmY3ZzVqWmVhUHc3RWZTSlZuVVViUzdmMFhHRmk0LWRmUVB1NlBuSEdEdTd5VnpHbGNERzRSNEtXTTFMT1A0cE9SSHlwREM3OGpWUTdwd3Jndzg2R25PejkxY3BvZ1NXUQ?oc=5",
     "news_image": "",
@@ -19123,18 +19118,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.06,
+    "news_score": 1.35,
     "news_title": "Putin Visits Islands Seized from Japan in World War II, Angering Tokyo - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMUJSazBHRkwzZmk0aHJzWldhTXpGNThoR0ZCVTlkOTZmNVZaekIyUlIxekxLTFV4QjFfb1NSQmtVeXN6TnRZMDJtZEhXUVJJenFrY1pnLWJ0bFd2TDhyV2R4SU9XbW1oaS1MMHFfYWdLSkZ5QkZqeWJUREVFZ1FpalZqeTh3YWdkUVo4?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "87m ago",
+    "news_age": "89m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "olympic"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -25688,12 +25679,12 @@
     "refugees_rank": null,
     "union_rate": 47.8,
     "union_rate_rank": null,
-    "news_score": 1.27,
+    "news_score": 1.26,
     "news_title": "NFL GM Called Wisconsin a \"Sleeping Giant\" to Morocco Brown - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZTlFcWN4czdRRGZiOFB4cHJwWTN5SjVMZFFFWEVaNFhxMG5pejBZVk44dXd2ZTFJeHJZUWxkSTlmMkZsbFhuclBhUTR5bDUzV29ieUs2Ukc1cmxyRzN0LTJaMm9LOTNtZXJvNU5DRk5wV0FyUkUtRW9VcXJXTGc3YlZQQUs0X05W?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "81m ago",
+    "news_age": "83m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -32059,7 +32050,8 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -32847,18 +32839,14 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.88,
+    "news_score": 1.22,
     "news_title": "World in Brief: Russia strikes back at Ukrainian port; South Korea’s bull run - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVNHV0lzaVpJeEN2bTNwN3F2MVpqQ0tNUDdKTW9OZWdnWDBTZXBLSjZLQ1NIS3ZRNEhPUnhkWXdJYVFWYk1mRnBxd19uLXBTa1Y4R0pvUjRxbUZZMDlpbTJZQk80LVRfeUNWdEM5UW11clFzZ3lqUEpWdmdDUVY3b1g1Q3JxWXB1ZXFPVTZlTGFpc0s1WHQ4?oc=5",
     "news_image": "",
     "news_source": "The Economist",
-    "news_age": "49m ago",
+    "news_age": "51m ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "olympic"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -34020,15 +34008,17 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 100,
-    "news_score": 1.12,
+    "news_score": 0.89,
     "news_title": "India at Men's FIH Hockey World Cup 2026: Schedule, where to watch, opponents, key players and all you need to know - ESPN Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcEZITGFKcDBJTVJ3NU9NMG1NUTlSY0FWclVqcWdCLVNHejlkZ3NBRVFjZ0Y5SlhHaUNoUmEySXBkRm41RmozZEpQQUlrM21ORUdWRTV1QmdnT3Vod08ySTBGZzlXOUpIcmpyM1VpSWloTW5aU25xRTAyQW1FNWg1bEQtNWNhS3J6UXltdXRDWUplcUNoazdpSFZlOTZMXy16ZEtPRHdJUXdGU1hxbEZ4R1piZm5Kb1FMSHAzS1FKV0NZZzdSZDlHeHJfZTEwV1oycWk5eF9UVUV4NTA4LXVEbGZzSQ?oc=5",
     "news_image": "",
     "news_source": "ESPN Singapore",
-    "news_age": "28m ago",
+    "news_age": "30m ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -35840,12 +35830,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.96,
+    "news_score": 0.98,
     "news_title": "World in Brief: Russia strikes back at Ukrainian port; South Korea’s bull run - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVNHV0lzaVpJeEN2bTNwN3F2MVpqQ0tNUDdKTW9OZWdnWDBTZXBLSjZLQ1NIS3ZRNEhPUnhkWXdJYVFWYk1mRnBxd19uLXBTa1Y4R0pvUjRxbUZZMDlpbTJZQk80LVRfeUNWdEM5UW11clFzZ3lqUEpWdmdDUVY3b1g1Q3JxWXB1ZXFPVTZlTGFpc0s1WHQ4?oc=5",
     "news_image": "",
     "news_source": "The Economist",
-    "news_age": "49m ago",
+    "news_age": "51m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -40929,19 +40919,14 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.08,
-    "news_title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMkhxMGxURF9FNDF6a1QtU1hsU01vdWN5bjBZYTFZd1k1SlU4Y2pqdkRMSGtxVF81Nm1naW01WnNlUWJ1WUJfbWgzVnRBZzdoQmN1V3RnNzdsZw?oc=5",
+    "news_score": 0.16,
+    "news_title": "Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets - CNBC",
+    "news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZSWtXLXFuV3JTdHVRRG42UU5Iclp5dVpFOFh2RmNxXzQ4NWxXSlo0THo4X2VPSy1TalhwRk1SYjNva2lXQmsxN24tRVFnczhBT0ZjR1pybUVrbWVGUmtWd3c5bXhwSktVQVJtTHNSRWZNWENtZXhYLXB30gF_QVVfeXFMT2tUYml0RlZKY1R0U01td0Y0NUVPQ3loTU9FSTIyVVdZY3NNRWU4dGpEbzBfVVRXMEg2ZzYwTFVDRGVEODJRNXRUckxlajZ6LTZUZnBZQXh0eHJ5X1hUbWpXejJjV3Vuc3A5NEl2M3hrdmZPanBzT0IzbWt6Y2hwVQ?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "8h ago",
+    "news_source": "CNBC",
+    "news_age": "5h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "michelin"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -44572,7 +44557,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tWGpuSWp1NnhPS1p2YXlkcUpaSFA1ZmszSWFySnk5dnVSTE5uQm5VU3VJN1dJamZYV21mcGVKU2pKeEJfUXF1NFNxNUlzYzNqU2ZpZjQ5bFJyUQ?oc=5",
     "news_image": "",
     "news_source": "Forbes",
-    "news_age": "16h ago",
+    "news_age": "17h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
