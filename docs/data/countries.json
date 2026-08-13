@@ -2540,8 +2540,7 @@
     "news_source": "vietnamnews.vn",
     "news_age": "42h ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "olympic"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -6901,7 +6900,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.17,
+    "news_score": 0.18,
     "news_title": "Hockey Canada Reinstates Alex Formenton, But Not His 2018 World Junior Teammates - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRWI0WFh4NkgwNXY1U0V1VEhfMGc3OWtWNUhMNWpDdmd5aDhOWHdzdjJSbkdFZENyMXBrNDlXNHZnQkJXWWRENkQyTkRNRHNaY3BxanNHcmtkNlEtR2hxRWFudFFHekpVVkFsMmI1dGozWW5tVXFXWVZIaHhSX2pPZ2IzdnRSbmFzazZzamlaaG5fUQ?oc=5",
     "news_image": "",
@@ -17271,14 +17270,18 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.15,
-    "news_title": "Members of Trump's cabinet remained on decoy plane, after Trump's quiet exit - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13ZmZ4bDlLLUVlX0xWOV9DYmExMUljdnNhbDRDQWhrUThxTmlhaWVER2V6ZHByaERLeXhZU3RLNFZrdl94SWdNNm5UOGc0Umo4NGI0cFBiQmg4QQ?oc=5",
+    "news_score": 0.85,
+    "news_title": "Trump's secret plane switch took place within a day of credible Iranian missile threat - CBS News",
+    "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYm01T0Y1WHdvS2I4b3ZTU1hGZkpSOVB0ZU10QzZRcnlQcGI1d1pwRW5yMk5VTmI4QzNjYWw2QTFaRFRZaHJEeVNZOGF3YTU3RGoxZXRja090YU5EVVhjcXdlV1ZrLVZib1NmX1JfcTFieXh0TmxSeDdsR2xoa1kyTkN3VjUtYlk1Y1A0?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "6h ago",
+    "news_source": "CBS News",
+    "news_age": "7h ago",
     "news_columns": [
-      "fifa_ranking"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": null
   },
@@ -18002,19 +18005,18 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.41,
-    "news_title": "Members of Trump's cabinet remained on decoy plane, after Trump's quiet exit - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13ZmZ4bDlLLUVlX0xWOV9DYmExMUljdnNhbDRDQWhrUThxTmlhaWVER2V6ZHByaERLeXhZU3RLNFZrdl94SWdNNm5UOGc0Umo4NGI0cFBiQmg4QQ?oc=5",
+    "news_score": 0.32,
+    "news_title": "Trump's secret plane switch took place within a day of credible Iranian missile threat - CBS News",
+    "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYm01T0Y1WHdvS2I4b3ZTU1hGZkpSOVB0ZU10QzZRcnlQcGI1d1pwRW5yMk5VTmI4QzNjYWw2QTFaRFRZaHJEeVNZOGF3YTU3RGoxZXRja090YU5EVVhjcXdlV1ZrLVZib1NmX1JfcTFieXh0TmxSeDdsR2xoa1kyTkN3VjUtYlk1Y1A0?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "6h ago",
+    "news_source": "CBS News",
+    "news_age": "7h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
       "military_personnel",
       "gpi",
-      "arms_export",
-      "ai_research"
+      "arms_export"
     ],
     "bottom50_wealth": null
   },
@@ -19134,15 +19136,18 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.95,
+    "news_score": 1.29,
     "news_title": "Japan bans military cosplay at key war shrine ahead of second world war anniversary - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaWJPeFJIRWZVSVIyMElsZTFoYkg1WVI2MnMxd0t0dGhuZkV3WTZ5bHR2a0FpLUU3YnlSOThrT2k4SmdOdDI0cTVhUWJOcXRWVHAwamF5UjhfdjhvZ0doSHdaUHhUb25pWVFGSUhmcktSUk8xRTk4TjhpR2tGQUhrQXl2b0dkdlU4UUkzS1UyQmRkdi12TEoyU2JsQXJfNGZMd1E?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -32869,7 +32874,12 @@
     "news_source": "BBC",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -39982,19 +39992,18 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.41,
-    "news_title": "Members of Trump's cabinet remained on decoy plane, after Trump's quiet exit - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13ZmZ4bDlLLUVlX0xWOV9DYmExMUljdnNhbDRDQWhrUThxTmlhaWVER2V6ZHByaERLeXhZU3RLNFZrdl94SWdNNm5UOGc0Umo4NGI0cFBiQmg4QQ?oc=5",
+    "news_score": 0.32,
+    "news_title": "Trump's secret plane switch took place within a day of credible Iranian missile threat - CBS News",
+    "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYm01T0Y1WHdvS2I4b3ZTU1hGZkpSOVB0ZU10QzZRcnlQcGI1d1pwRW5yMk5VTmI4QzNjYWw2QTFaRFRZaHJEeVNZOGF3YTU3RGoxZXRja090YU5EVVhjcXdlV1ZrLVZib1NmX1JfcTFieXh0TmxSeDdsR2xoa1kyTkN3VjUtYlk1Y1A0?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "6h ago",
+    "news_source": "CBS News",
+    "news_age": "7h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
       "military_personnel",
       "gpi",
-      "arms_export",
-      "ai_research"
+      "arms_export"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -40949,7 +40958,12 @@
     "news_source": "BBC",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
