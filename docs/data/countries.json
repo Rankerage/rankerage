@@ -2533,14 +2533,19 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.61,
+    "news_score": 0.62,
     "news_title": "Australia housing prices drop slows economy - The Business Times",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMVhrcThuS3JWNDF4LVNGTFNGcDBaV2VWM3A1T3ZVSjdhTzJoRmZiN1hMRFJMMWJ3QWdzbmpMTkVUUEdYaVNWOUU5SHpVaGhIaEtLcFhpMVlHY29KUWFIbWUxZUdPdFFJOVV1RENkMUFHSW9aT19zaWZtaDVsdnhKemF2dlFac0tzYzg1QTBB?oc=5",
     "news_image": "",
     "news_source": "The Business Times",
-    "news_age": "13m ago",
+    "news_age": "15m ago",
     "news_columns": [
-      "olympic"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -8210,7 +8215,7 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.2,
+    "news_score": 0.16,
     "news_title": "'End of the world': Meridian woman stranded in Colombia after 7.4 magnitude earthquake - KTVB",
     "news_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNR1NLb2dpLThHMm8zMkJJblVscnQ5NXhfclNjZmowcXZqcXg2V3Rad2U3bGEzX2EyaUVPRXNQVFVfRU9wUjhnVWlfdERYUnNjdlhQVENKdFhoWVlBOHMwYWc2WlM4OHR6aV9LSlVvUmZubk9CWVNQU1pTcDdvZlNDazd5WVdSVmxqcWw3bXc4LW9WWXlVbVpfdWZaazM2SFgtNGhTZ0pYNnFsbjhZM2ZObE1BRk1hU0tUeFltcTNFZFdPZG9xQXYybEhNUGhEVUlRS202b0RRU0d6X3JmUTZHV056eVRvSmRoaU4yVmxsR0ZnSGJQTDJWWWFn?oc=5",
     "news_image": "",
@@ -12936,7 +12941,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.96,
+    "news_score": 0.81,
     "news_title": "🚨 Zinédine Zidane’s France staff revealed! - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSEQ3N2R2SnNBcHh5UnY2Si02UDNBNUZmVUR1NHdMZ1BGRk14RXZTUjVMUVdVLUdLNWV0Q2NTNkp2SlMzMkVyM1N2MlRicTlVa2JsSE9aZ29UajY0OXlaRDlLb2tfZnR4VlZoYnlONlJ3THl4cU1KWjNMYlNFN1BGWk5DSQ?oc=5",
     "news_image": "",
@@ -12944,7 +12949,8 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13460,7 +13466,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.37,
+    "news_score": 0.0,
     "news_title": "Powerball player in Illinois wins $1 billion jackpot - ABC News - Breaking News, Latest News and Videos",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR2FhOUQyanpVcHBCaDJJQmNScjBfci1vMzBwSjZxbUhmSmRicWZBZmtNTDJtX2pTTU12cXdrbmlITEZadm5yMHRIc0FvbUEtdjJRWEFrRjd0RnRnU1dSdFpLeXNVbzdkUDJwaTZ0ZGRyZDVaXzVtNEtuOGk0OUljeDU0MkQwa0p5OGdIR2I5QXVyUjJJ0gGaAUFVX3lxTE5CMUhBUTdfbHNqZ3ljeUJ0VGc5dHJBQl9hY25Ic3ViZEdWZml4cjdmeGxxb3lheWJMNDY4MVVZTFUwbzhkM283R0VJNHUtUXBsRXlKM2FQcmNPaVhTVHdLaG1CakgzVDRWN1U0NFBTRGhNaG1NemFpWlduaFR6YzNBd05FRnY5WWlWd1kyN0VIcnYtcEN6TU01WXc?oc=5",
     "news_image": "",
@@ -16695,7 +16701,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.65,
+    "news_score": 0.61,
     "news_title": "'Five per cent chance' but dreaming big: Craig Fulton embraces India's World Cup underdog tag - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeTNFU0IyOGpzRDdCWEZxY1FTUXIzZHlnLS1DT1hiTWZ6SFVhdlBabTYyU1FldzhEMllhWG5TdzEyYklSYW5IZXhWd25rUXQ4UmJnTHZqbWR1S3VWdFU5Xy0yWHNnczR3QkRqbHhYNHhXUHJsdHBpdTNSRkRkVC1JNDFYd0s4dk5LNzVuem1ocGo?oc=5",
     "news_image": "",
@@ -17270,19 +17276,16 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.54,
-    "news_title": "Live Updates: Trump says U.S. has \"total control\" over Strait of Hormuz and might \"keep it\" - CBS News",
-    "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTNOYzlIQUFzd2ZmNXU5eEJzS0g1ZHNwcVo0Nm1HeUExa2RJQzNQSGJpSWFfZWdoSmxYLVZBMlkzMG10T0R0WWN1dWM1VG5fbjFkcGlBQUZtSWxzVTd4dEJtVUwzdVBRTTNMZWhURWF1Ry1SLW93aGxVX25kcFZtNldkV1REcW91ZGZ3YzZkak9wZTJWOG9HVEx3UUg0RURheVZyZWpFZkpFV1dqUmdWZQ?oc=5",
+    "news_score": 1.82,
+    "news_title": "South Korean airport becomes busiest in world for global traffic amid Iran war - The Guardian",
+    "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcVplcGRpeXh1NGVBSm91bXRfbmhuRWhxeWs2WjN4Z19mVlBkZ25FTVRDX3RzWnlzallHRkd4M2JfU19SOUVzWjg4WjFVSE1lU040dzE5TzdFQWN6SXVINXlkVzJQOHBHOXdpT19QQVFkVjBOU3k5R0xsUlFIa25odk1mMmFVMmFIbC1XTk9hUlY4VjhhSkd6NUh3?oc=5",
     "news_image": "",
-    "news_source": "CBS News",
-    "news_age": "108m ago",
+    "news_source": "The Guardian",
+    "news_age": "2m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -19134,14 +19137,18 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.89,
+    "news_score": 0.7,
     "news_title": "Key Japan war shrine bans military cosplay ahead of second world war anniversary - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaWJPeFJIRWZVSVIyMElsZTFoYkg1WVI2MnMxd0t0dGhuZkV3WTZ5bHR2a0FpLUU3YnlSOThrT2k4SmdOdDI0cTVhUWJOcXRWVHAwamF5UjhfdjhvZ0doSHdaUHhUb25pWVFGSUhmcktSUk8xRTk4TjhpR2tGQUhrQXl2b0dkdlU4UUkzS1UyQmRkdi12TEoyU2JsQXJfNGZMd1E?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -25700,10 +25707,11 @@
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaXFZNFRWdXFBVERoVDVSSTFvNWUwdGhMQXozNW05OXRrSWRkTUkyVTgtOXF3c1VqYm1KalN1Y0pqNDF1YXRCbTdjSVNtOFViVjdtOGFHLWNzNGRtOENBdWIyY2NaazdpLVd6ZElWNnpBX1pJRGRwdG1BUHlEWUYwTFAyUzgtakJJd21kTkxWQ2tlRElQMHlRbGE3Z0RGVWt6Qmt4TlQzSHRlWnRDTmNESnE0MDNSUHhP0gG-AUFVX3lxTE9rRDQ1aHFsdFg4MGwxeW5QNVU4TnBPaXNWV2ZmOUxlRlhYV2c1R09Zd015RzVYTHdzNTBoVkp5RkZJLTAzdUg5Q1R0WnVlZEhLRnRibzJiTXVYejlaWFNXNDc5V1RCSjhaaEtPMGJoRzNtYjQzVXFZOHFJc0tfSERRd0lEazJGdTNfZE80NU41aEcySUhGX2IzRmNCMnBhR2lfMi10cUN3U2lMTm1JNjBfRkh6R1htQ0dfdTV3Qnc?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "26m ago",
+    "news_age": "28m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "election_title": "Moroccan Chamber of Representatives",
     "election_url": "https://www.electionguide.org/countries/id/146",
@@ -28198,7 +28206,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQby1qMFBST2F5ekZIX09TUXExMnZXUUVwS2gyOWxBemtFbThpRElWSUJiNW5LekpubFkxZVN1WU12SzVGR2pPTmtJa0dFalB5VFRJZ1ZGcEJuZ0duS1BaQXNlLUIzbXRKbzVTbXNRcVdSWGF6QXkxck9Eb2ZNLWd2NGRHdklaUklxMkdKSXdndno3Zw?oc=5",
     "news_image": "",
     "news_source": "The Guardian Nigeria News",
-    "news_age": "6h ago",
+    "news_age": "5h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -32057,15 +32065,16 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 2.13,
+    "news_score": 2.06,
     "news_title": "FIFA’s Infantino backed by six Arab federations including Qatar and Morocco - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaXFZNFRWdXFBVERoVDVSSTFvNWUwdGhMQXozNW05OXRrSWRkTUkyVTgtOXF3c1VqYm1KalN1Y0pqNDF1YXRCbTdjSVNtOFViVjdtOGFHLWNzNGRtOENBdWIyY2NaazdpLVd6ZElWNnpBX1pJRGRwdG1BUHlEWUYwTFAyUzgtakJJd21kTkxWQ2tlRElQMHlRbGE3Z0RGVWt6Qmt4TlQzSHRlWnRDTmNESnE0MDNSUHhP0gG-AUFVX3lxTE9rRDQ1aHFsdFg4MGwxeW5QNVU4TnBPaXNWV2ZmOUxlRlhYV2c1R09Zd015RzVYTHdzNTBoVkp5RkZJLTAzdUg5Q1R0WnVlZEhLRnRibzJiTXVYejlaWFNXNDc5V1RCSjhaaEtPMGJoRzNtYjQzVXFZOHFJc0tfSERRd0lEazJGdTNfZE80NU41aEcySUhGX2IzRmNCMnBhR2lfMi10cUN3U2lMTm1JNjBfRkh6R1htQ0dfdTV3Qnc?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "26m ago",
+    "news_age": "28m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -34027,7 +34036,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 100,
-    "news_score": 0.0,
+    "news_score": 0.05,
     "news_title": "Duolingo Invests in World-Class Motion Design with Acquisition of Animade - Yahoo Finance Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT2VkcXliWU1DRE5INTFHWHdpNFE2Z0Y1TlBnTGlPeTRCUGtBWlExZjg4R1NHaGxSZDZENzMzNUxDT0pqb3BwMTdPenJJZWtiU1V5WE11YnQxWnBoQWkwYzZjTlZ6U1k3TDVFaFR5QjVyV1ZqQlBuQ3hZSDN4WmxYU2VXLXhjb2hIWU00RA?oc=5",
     "news_image": "",
@@ -35849,18 +35858,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.34,
+    "news_score": 0.48,
     "news_title": "South Korea's Incheon airport beats Heathrow to become world's busiest - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tc2Z0VGcyXzZrdFpCVUp5b1N2Y2dWLVdqQzhFWmUxXzlEbFc2M3NpbkNacXVnME5SSUEycGVJa2VQamI1bGZqYnk3TEdnYUVaWHhZempYV3BUQQ?oc=5",
     "news_image": "",
     "news_source": "BBC",
     "news_age": "3h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 5.1,
     "bottom50_wealth_rank": 8
@@ -38118,7 +38125,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.02,
+    "news_score": 0.03,
     "news_title": "Taiwan military drills clear streets, slow internet in Taipei - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTWJtQnNISjdBTmZ1eGZyNXRuOXZCeEhvZnZkaDFvbzFwTXUwQmJCbjlzb2N1QzBjZFdwMFJyVXpXWWVROEZkOTRuQ1Q1TFpnSnNHeWdIRjkzTXY0c2R4clFLdzB0djh0TWdIQzdqZE5VMUNzVzc2X1ZQa2w3TmRkZVR2X3N6R2xFMlZZbkFxWmFrckR5dU1oU3VFS05SYXp0WTNMQzFsajJwa1NTOFZuWGM2SHRpX0FlOGU1MFZPSGlrUkhWaGc?oc=5",
     "news_image": "",
@@ -40937,7 +40944,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.21,
+    "news_score": 0.19,
     "news_title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMkhxMGxURF9FNDF6a1QtU1hsU01vdWN5bjBZYTFZd1k1SlU4Y2pqdkRMSGtxVF81Nm1naW01WnNlUWJ1WUJfbWgzVnRBZzdoQmN1V3RnNzdsZw?oc=5",
     "news_image": "",
@@ -44564,7 +44571,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 0.29,
+    "news_score": 0.28,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
