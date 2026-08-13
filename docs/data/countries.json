@@ -2538,7 +2538,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVWhWcUVYaDJsOXVTdkEzam83cjYyOW5uWThUejlDR1FNZy1iQ3BDYmNuSW1IRWlpMmRfZVBadkQ4ei02bXhDS0N6THdjcXpBSGlEdXlEQmdjV1pyNEh3MmtVOUgxa2EtVlVzYUgySkxXcEpVcHZpZjg0T1FTVGdhN294Uk80MUxMbFAxN191dFA1Mk1EcHRjcUZXRUZISlhQelZFa1VsdENYbUJZSlU1eFUyUWl4TC0tdUszeVdRcEpwNWdm?oc=5",
     "news_image": "",
     "news_source": "Tạp chí KH&CN Việt Nam",
-    "news_age": "33h ago",
+    "news_age": "34h ago",
     "news_columns": [
       "olympic",
       "fifa_ranking"
@@ -3301,7 +3301,7 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.37,
+    "news_score": 0.36,
     "news_title": "Bangladesh wants durable economic partnership with US: PM - The Daily Star",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0RobDA2R00tX05jNHMwamZwS2hycTk3WUo1MzJBeXZLYXo1SWRqRVcycjg1Nm8yZmM4dXh6cGNNYkdENk9uYl9BWjN5LURiRTFyWkVGWXJfWGVlOG1kRVV1WTVpek5OUWtrMy1pZVJfUzkwSWxCZ1dUZlFYSlhJa2lFV2JXald3Z1hzZ1J2TXBhbm5xZjV2MkhTZGE1Y3lsVlZNWDdfWGg3LXNrd2Rr?oc=5",
     "news_image": "",
@@ -6900,14 +6900,18 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.03,
     "news_title": "Little Mountain Little League Returns as Canada Region Representative for the 2026 Little League Baseball® World Series, Presented by T-Mobile - Little League",
     "news_url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNNENRcTVkcEFBZTR2SDlCWUlTME1PeFFjczBPcVFzR3JzNnowMzgzWElKQlhKRGlsZzR1VjhWY3MtVXpoQlo0NEd5N1lZWnF4YS0zV1Q1WUl5S3BKNGtoV1J4WjRyNEVhYUJieGNjWGpfeGlsQkNQSFprdnktTGQ1MVlFMkxqMnVaWm5NNFhCX2RraFA4TFhvZHRtY2JDYkViQ2syT3B1WEVCcFc0QzRteXVWS3VKUlBkWTNnVWhzZjFGdTloa21fRGdRSC0ydnJFTDV5bnRUM3JVWFVsSzVOUlFJZ2o4dHAtM3ZvUXg5OE1EVE9YR2k1VkZpREJGaDJHNVVWTWE3amY2cUlkWjNRMW9iX1FWeWFjaDZmaFRCR2R2ZHhYeFE?oc=5",
     "news_image": "",
     "news_source": "Little League",
     "news_age": "13h ago",
     "news_columns": [
-      "fifa_ranking"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -7960,15 +7964,19 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.66,
-    "news_title": "KOSPI exits bear market as tech rally returns; Nikkei gains, China slips - Investing.com",
-    "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdU1zd2NMVTdVNzdxUGs5cmtnOHRya1VtcW1yMjdKRGwtVnpCd05FYmt6ZWc1SkxSQU9WS0xXRVZoUXRkSHB2Yld0R0JCQ3RZZS1xSzdBN1I3M05ldDhWMTlRb2cwazdDUTRRUDNxOGx6bERrUUlLRnMwS3F0dm12SEtsOTM4N3hlTWZIeFY5ZE1HaWFYVlJLaFVrZVltb0h3YUpVWWRfOWl1Z0NJUDVPX3FTb3RHTmw5SnNhNG50NjBrand6dWVCZnZB?oc=5",
+    "news_score": 0.32,
+    "news_title": "Taiwan military drills clear streets, slow internet in Taipei - Reuters",
+    "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTWJtQnNISjdBTmZ1eGZyNXRuOXZCeEhvZnZkaDFvbzFwTXUwQmJCbjlzb2N1QzBjZFdwMFJyVXpXWWVROEZkOTRuQ1Q1TFpnSnNHeWdIRjkzTXY0c2R4clFLdzB0djh0TWdIQzdqZE5VMUNzVzc2X1ZQa2w3TmRkZVR2X3N6R2xFMlZZbkFxWmFrckR5dU1oU3VFS05SYXp0WTNMQzFsajJwa1NTOFZuWGM2SHRpX0FlOGU1MFZPSGlrUkhWaGc?oc=5",
     "news_image": "",
-    "news_source": "Investing.com",
-    "news_age": "3h ago",
+    "news_source": "Reuters",
+    "news_age": "10h ago",
     "news_columns": [
-      "olympic",
-      "fifa_w"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -12928,14 +12936,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.22,
-    "news_title": "India,France review expanding canvas of bilateral cooperation in science, technology & space | Akashvani News - News On AIR",
-    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTExHRzVKTC11ZHhmMUF6RmZrSWFqMVI0dHhYajQ0U1FTWlEzZ05jTjB2MmlvVEgtUDkzeDJiWG5ENERDTHBPR0g2MXdybUwyWEcyRDFadkp2VjBwRFUzV3kzMENmU3AyVGgwLTBrcDBSY0o4WTZjNmx5bVJyeWRidTcyU243UmdYNHc3WTNEZWNVcTdfOVRwRkhKREQ0dlFlRHFlV0tnSGxSUTRtc211MWlneXo?oc=5",
+    "news_score": 0.13,
+    "news_title": "The 11th Meeting of the Japan-France Joint Committee on Cooperation in Science and Technology - mofa.go.jp",
+    "news_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42OVlMNk55UHpxdkFwQWtDMUhCUmFmTEtJVnFfcC13ckl4SnNfdVJ1N1k2QXNnckwxR2hLMy15OGdKV29TUkJkQmZCeW5HODVLeWU0akFlaGRyQWIxYzJmYjgzY3BjY3M2ejBsSC1TZ1M?oc=5",
     "news_image": "",
-    "news_source": "News On AIR",
-    "news_age": "2h ago",
+    "news_source": "mofa.go.jp",
+    "news_age": "3244h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -15746,12 +15755,12 @@
     "fifa_w": 81,
     "fifa_ranking_rank": 128,
     "fifa_w_rank": 62,
-    "news_score": 0.24,
+    "news_score": 0.4,
     "news_title": "Shein Is Finally Listing in Hong Kong. But Has the World Moved On? - Morningstar",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVGVyeTh5R0VrR3RsOFp2MXZmSjhvcVhWMTQydUFzZ1p4LVdsWXN2YWl2S2h3VFBScXpoX1VzY3FVVThRWGMyc1lETXIwQmpsN3VBMXB6ejR4M2JpQk0wNWFCS0lrMnZjbElTc3ZRaWNJN3B6NXIzUENrNjBWOExSeUxTaW9LQTFhVmZ5UnRR?oc=5",
     "news_image": "",
     "news_source": "Morningstar",
-    "news_age": "56m ago",
+    "news_age": "58m ago",
     "news_columns": [
       "olympic",
       "olympic_gold",
@@ -16690,15 +16699,17 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 1.4,
+    "news_score": 1.05,
     "news_title": "India at Men's FIH Hockey World Cup 2026: Schedule, where to watch, opponents, key players and all you need to know - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbVRGU3M4bGYyOWFCbHdodXZkXzdtMm4yVHpKNWd0VVZTVEFOVWhCdVhWdG95YmNYUUFMUC1kcEdlaTUycTZodUN4Q21FYTB4SHNqX3VVRUN3Z1k1Z0lHSC1GN0ZSbDZBMy12OVB3RlFaQjdqNjBoT01xcm9yeExOMDBKa0FCckxFR1dlektaR1dhXzhtUklYOVZmSkVVd2Z5OWV3UmdwYkNFTmZHRFZkOENMZFQwQi0yY0NoSEkxS1luSnl6REhRX3ZNZ0YyYTRRRGdnV3VHMVZsWjQzQUF3?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "63m ago",
+    "news_age": "65m ago",
     "news_columns": [
+      "fifa_ranking",
+      "fifa_w",
       "olympic",
-      "fifa_w"
+      "basket"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17261,19 +17272,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.58,
+    "news_score": 1.62,
     "news_title": "South Korean airport becomes busiest in world for global traffic amid Iran war - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcVplcGRpeXh1NGVBSm91bXRfbmhuRWhxeWs2WjN4Z19mVlBkZ25FTVRDX3RzWnlzallHRkd4M2JfU19SOUVzWjg4WjFVSE1lU040dzE5TzdFQWN6SXVINXlkVzJQOHBHOXdpT19QQVFkVjBOU3k5R0xsUlFIa25odk1mMmFVMmFIbC1XTk9hUlY4VjhhSkd6NUh3?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "78m ago",
+    "news_age": "80m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -19124,15 +19131,18 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.78,
+    "news_score": 0.54,
     "news_title": "Key Japan war shrine bans military cosplay ahead of second world war anniversary - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaWJPeFJIRWZVSVIyMElsZTFoYkg1WVI2MnMxd0t0dGhuZkV3WTZ5bHR2a0FpLUU3YnlSOThrT2k4SmdOdDI0cTVhUWJOcXRWVHAwamF5UjhfdjhvZ0doSHdaUHhUb25pWVFGSUhmcktSUk8xRTk4TjhpR2tGQUhrQXl2b0dkdlU4UUkzS1UyQmRkdi12TEoyU2JsQXJfNGZMd1E?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
     "news_age": "3h ago",
     "news_columns": [
-      "olympic",
-      "fifa_w"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -25686,17 +25696,15 @@
     "refugees_rank": null,
     "union_rate": 47.8,
     "union_rate_rank": null,
-    "news_score": 1.16,
+    "news_score": 1.49,
     "news_title": "Qatar, Morocco among six Arab federations backing FIFA's Infantino - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN0I4Rl84djB5MTYxcFFjNHoyUlhWbFEzcU13Z2piMlBMREJkeW5WVnhIYlBJUGJGRHl5WV9TbFVQZ2M5RnZsT2ZLT1ZQNFA5SVZLdkFzMkdQU1MyV25kZkRXMklKak5URXJCbzdRN1F6bW5TWVd6aTRUQTdUNHFuMV82clZWUkU2NFl3X295V0ZDVFZmbE5lNUMydjR3SXRzclZtQ2t1aVNPTjR0MnVBTFhSUDk?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "82m ago",
+    "news_age": "84m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "fifa_w"
     ],
     "election_title": "Moroccan Chamber of Representatives",
     "election_url": "https://www.electionguide.org/countries/id/146",
@@ -28191,7 +28199,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQby1qMFBST2F5ekZIX09TUXExMnZXUUVwS2gyOWxBemtFbThpRElWSUJiNW5LekpubFkxZVN1WU12SzVGR2pPTmtJa0dFalB5VFRJZ1ZGcEJuZ0duS1BaQXNlLUIzbXRKbzVTbXNRcVdSWGF6QXkxck9Eb2ZNLWd2NGRHdklaUklxMkdKSXdndno3Zw?oc=5",
     "news_image": "",
     "news_source": "The Guardian Nigeria News",
-    "news_age": "6h ago",
+    "news_age": "7h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -32050,17 +32058,15 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 1.16,
+    "news_score": 1.49,
     "news_title": "Qatar, Morocco among six Arab federations backing FIFA's Infantino - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN0I4Rl84djB5MTYxcFFjNHoyUlhWbFEzcU13Z2piMlBMREJkeW5WVnhIYlBJUGJGRHl5WV9TbFVQZ2M5RnZsT2ZLT1ZQNFA5SVZLdkFzMkdQU1MyV25kZkRXMklKak5URXJCbzdRN1F6bW5TWVd6aTRUQTdUNHFuMV82clZWUkU2NFl3X295V0ZDVFZmbE5lNUMydjR3SXRzclZtQ2t1aVNPTjR0MnVBTFhSUDk?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "82m ago",
+    "news_age": "84m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -32848,7 +32854,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.05,
     "news_title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMkhxMGxURF9FNDF6a1QtU1hsU01vdWN5bjBZYTFZd1k1SlU4Y2pqdkRMSGtxVF81Nm1naW01WnNlUWJ1WUJfbWgzVnRBZzdoQmN1V3RnNzdsZw?oc=5",
     "news_image": "",
@@ -38113,7 +38119,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.01,
+    "news_score": 0.02,
     "news_title": "Taiwan military drills clear streets, slow internet in Taipei - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTWJtQnNISjdBTmZ1eGZyNXRuOXZCeEhvZnZkaDFvbzFwTXUwQmJCbjlzb2N1QzBjZFdwMFJyVXpXWWVROEZkOTRuQ1Q1TFpnSnNHeWdIRjkzTXY0c2R4clFLdzB0djh0TWdIQzdqZE5VMUNzVzc2X1ZQa2w3TmRkZVR2X3N6R2xFMlZZbkFxWmFrckR5dU1oU3VFS05SYXp0WTNMQzFsajJwa1NTOFZuWGM2SHRpX0FlOGU1MFZPSGlrUkhWaGc?oc=5",
     "news_image": "",
@@ -39973,7 +39979,7 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.27,
+    "news_score": 0.26,
     "news_title": "CIA had ‘low confidence’ in Iranian threat before Trump switched planes in Turkey - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWng0Yy10eHlZdTNFcVMtZHA3d2pjTUExY0htX3R1eC1OaEdlaTZqdUNpMFpSVDZrZ3ItNVhDMlFPaHRDMHJWdlVOeWJoanZMLXlHdi16RF9mUU9tSkg0Q0MzNzVhQWxxVzd4ZzJrSkRnRXEyR0RQSnZ4ZmRXMGh1WVJHbXVrS3dLWGUyLXJyN29za2t0YWlHQ3hIemFyRi1ZaFRzay1PT19tRlBpNndaM1hpOFVpcHR4MWRWa0N3dGRoVzBvVnZxUHZ6SlVxeWs?oc=5",
     "news_image": "",
@@ -39984,8 +39990,7 @@
       "internet_pct",
       "patents",
       "rd",
-      "startups",
-      "car_density"
+      "startups"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -40933,7 +40938,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.17,
+    "news_score": 0.15,
     "news_title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMkhxMGxURF9FNDF6a1QtU1hsU01vdWN5bjBZYTFZd1k1SlU4Y2pqdkRMSGtxVF81Nm1naW01WnNlUWJ1WUJfbWgzVnRBZzdoQmN1V3RnNzdsZw?oc=5",
     "news_image": "",
@@ -43406,7 +43411,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVWhWcUVYaDJsOXVTdkEzam83cjYyOW5uWThUejlDR1FNZy1iQ3BDYmNuSW1IRWlpMmRfZVBadkQ4ei02bXhDS0N6THdjcXpBSGlEdXlEQmdjV1pyNEh3MmtVOUgxa2EtVlVzYUgySkxXcEpVcHZpZjg0T1FTVGdhN294Uk80MUxMbFAxN191dFA1Mk1EcHRjcUZXRUZISlhQelZFa1VsdENYbUJZSlU1eFUyUWl4TC0tdUszeVdRcEpwNWdm?oc=5",
     "news_image": "",
     "news_source": "Tạp chí KH&CN Việt Nam",
-    "news_age": "33h ago",
+    "news_age": "34h ago",
     "news_columns": [
       "democracy",
       "approval",
