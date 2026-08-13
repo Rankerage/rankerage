@@ -212,7 +212,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EZHkwaTd5WVBDQ0RuUWRDTzBPb3dUV2dtMy1LWjNvZTRiRFAyT0R6X2lCM0t5VHBvbTdkcFhZNjVDQl9ibjVkUlVPQ01SSUFYNTBqcElPWQ?oc=5",
     "news_image": "",
     "news_source": "UN News",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -3310,7 +3310,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0RobDA2R00tX05jNHMwamZwS2hycTk3WUo1MzJBeXZLYXo1SWRqRVcycjg1Nm8yZmM4dXh6cGNNYkdENk9uYl9BWjN5LURiRTFyWkVGWXJfWGVlOG1kRVV1WTVpek5OUWtrMy1pZVJfUzkwSWxCZ1dUZlFYSlhJa2lFV2JXald3Z1hzZ1J2TXBhbm5xZjV2MkhTZGE1Y3lsVlZNWDdfWGg3LXNrd2Rr?oc=5",
     "news_image": "",
     "news_source": "The Daily Star",
-    "news_age": "5h ago",
+    "news_age": "6h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -6904,15 +6904,18 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.27,
+    "news_score": 0.13,
     "news_title": "Little Mountain Little League Returns as Canada Region Representative for the 2026 Little League Baseball® World Series, Presented by T-Mobile - Little League",
     "news_url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNNENRcTVkcEFBZTR2SDlCWUlTME1PeFFjczBPcVFzR3JzNnowMzgzWElKQlhKRGlsZzR1VjhWY3MtVXpoQlo0NEd5N1lZWnF4YS0zV1Q1WUl5S3BKNGtoV1J4WjRyNEVhYUJieGNjWGpfeGlsQkNQSFprdnktTGQ1MVlFMkxqMnVaWm5NNFhCX2RraFA4TFhvZHRtY2JDYkViQ2syT3B1WEVCcFc0QzRteXVWS3VKUlBkWTNnVWhzZjFGdTloa21fRGdRSC0ydnJFTDV5bnRUM3JVWFVsSzVOUlFJZ2o4dHAtM3ZvUXg5OE1EVE9YR2k1VkZpREJGaDJHNVVWTWE3amY2cUlkWjNRMW9iX1FWeWFjaDZmaFRCR2R2ZHhYeFE?oc=5",
     "news_image": "",
     "news_source": "Little League",
     "news_age": "21h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -7972,7 +7975,7 @@
     "news_source": "RAND Corporation",
     "news_age": "2412h ago",
     "news_columns": [
-      "fifa_ranking"
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -8206,12 +8209,12 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.65,
+    "news_score": 0.63,
     "news_title": "Join “Hoy por Colombia” with Chivas and Fundación Jorge Vergara - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNk1SWGl1a09LMEZKc09rUktlUW9jdDFVUFIzR1g4cnJoYXN0emE1N1VtZmI4bkQxM3A2ZjlLOVh1YW9GZXh5T2xDQmNRLURjOEU0Y3E0Y05JQ0xDOFp6OUdfWTN5OTRidnJ6UmN6S0lSbGFhb0Jka19lclB1YzFvSWRWcw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "116m ago",
+    "news_age": "118m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -12932,15 +12935,19 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.06,
+    "news_score": 0.04,
     "news_title": "India,France review expanding canvas of bilateral cooperation in science, technology & space | Akashvani News - newsonair.gov.in",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTExHRzVKTC11ZHhmMUF6RmZrSWFqMVI0dHhYajQ0U1FTWlEzZ05jTjB2MmlvVEgtUDkzeDJiWG5ENERDTHBPR0g2MXdybUwyWEcyRDFadkp2VjBwRFUzV3kzMENmU3AyVGgwLTBrcDBSY0o4WTZjNmx5bVJyeWRidTcyU243UmdYNHc3WTNEZWNVcTdfOVRwRkhKREQ0dlFlRHFlV0tnSGxSUTRtc211MWlneXo?oc=5",
     "news_image": "",
     "news_source": "newsonair.gov.in",
     "news_age": "11h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "space_launch"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13456,7 +13463,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.47,
+    "news_score": 0.4,
     "news_title": "Side Track with Georgia Hunter Bell - worldathletics.org",
     "news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOF9kMXd2YWdzUU4tMHRLcTFUazhyal9MMEFzWHF6ZXFUY084Q1pFcDA5emdBX0p2ZWdnMlBuU0ZMYnNsMW1iVVZFLTVnbGJpOUxRNThlRnJNSjNQS3dyTmU5X0dmREFRQmxsaW1tampyZUdlQklkWEVndXIyU0dWbnJROWpVVW5YcnJ1eEU3OXN6N3QtNlJGb0IxNmVjakVEeEFsRE45TVFsVDQtTEVadXlJMGpfUHRtejNOOXpWY0pqYWh1cEVaTUk3QQ?oc=5",
     "news_image": "",
@@ -14152,7 +14159,7 @@
     "union_rate": 60.4,
     "union_rate_rank": null,
     "fifa_w_rank": 50,
-    "news_score": 0.07,
+    "news_score": 0.11,
     "news_title": "Nigeria vs South Africa World Cup qualifiers preview: Ghana dey meet Ivory as Super Falcons jam Banyana Banyana for 2027 Women's World Cup African playoff - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92SDlkZk44NzhhOTN0QmVQMDZVOXRGa0RSQmFiVmVNQlBmUzBpd2xFWnlING01Unk0WmRfX1haNjZPbjh1SFcyUEY2ZGFlYm5yZEpwZXlqWFBlM2lx0gFiQVVfeXFMUHpTNXp2ZDM3OFZ6NmRWYVl4WXFuLTIyV3J4Y3Z3NU14UjFnZDZrWVRRNERKVTBlRC1UaDJzYklYUU1wZDBEVUlHT0pXNC1rT28yNktxZTItdWYtQldnNzV3TGc?oc=5",
     "news_image": "",
@@ -17261,7 +17268,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.53,
+    "news_score": 0.59,
     "news_title": "South Korean airport becomes busiest in world for global traffic amid Iran war - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcVplcGRpeXh1NGVBSm91bXRfbmhuRWhxeWs2WjN4Z19mVlBkZ25FTVRDX3RzWnlzallHRkd4M2JfU19SOUVzWjg4WjFVSE1lU040dzE5TzdFQWN6SXVINXlkVzJQOHBHOXdpT19QQVFkVjBOU3k5R0xsUlFIa25odk1mMmFVMmFIbC1XTk9hUlY4VjhhSkd6NUh3?oc=5",
     "news_image": "",
@@ -18436,15 +18443,13 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.5,
+    "news_score": 1.24,
     "news_title": "Italy's Curtis betters own 50m backstroke world record - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVTBIRm5ybjR2a2pLdjU0aGlxSTBJbzFOTFpFbGw5VmY5U1RodWVVZ2lXU3N0UVEtTjlrVG1YX1VQZjhPUFYtUW9rdUJ4UzktQVZHVGJma2FIUnNUbkRybGVYc0tGR2hSS3JQV0loZDBqTFp2VDR4SUt5NUFiaDFJd205RWhSNTI2VmVqNW9IdEJBekJzTzM5azZQZHQ?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "115m ago",
+    "news_age": "117m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
       "olympic"
     ],
     "bottom50_wealth": 3.2,
@@ -19125,18 +19130,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.05,
+    "news_score": 1.42,
     "news_title": "Key Japan war shrine bans military cosplay ahead of second world war anniversary - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaWJPeFJIRWZVSVIyMElsZTFoYkg1WVI2MnMxd0t0dGhuZkV3WTZ5bHR2a0FpLUU3YnlSOThrT2k4SmdOdDI0cTVhUWJOcXRWVHAwamF5UjhfdjhvZ0doSHdaUHhUb25pWVFGSUhmcktSUk8xRTk4TjhpR2tGQUhrQXl2b0dkdlU4UUkzS1UyQmRkdi12TEoyU2JsQXJfNGZMd1E?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "75m ago",
+    "news_age": "77m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "olympic"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -26100,7 +26101,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EZHkwaTd5WVBDQ0RuUWRDTzBPb3dUV2dtMy1LWjNvZTRiRFAyT0R6X2lCM0t5VHBvbTdkcFhZNjVDQl9ibjVkUlVPQ01SSUFYNTBqcElPWQ?oc=5",
     "news_image": "",
     "news_source": "UN News",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -28191,7 +28192,7 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.07,
+    "news_score": 0.11,
     "news_title": "Nigeria vs South Africa World Cup qualifiers preview: Ghana dey meet Ivory as Super Falcons jam Banyana Banyana for 2027 Women's World Cup African playoff - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92SDlkZk44NzhhOTN0QmVQMDZVOXRGa0RSQmFiVmVNQlBmUzBpd2xFWnlING01Unk0WmRfX1haNjZPbjh1SFcyUEY2ZGFlYm5yZEpwZXlqWFBlM2lx0gFiQVVfeXFMUHpTNXp2ZDM3OFZ6NmRWYVl4WXFuLTIyV3J4Y3Z3NU14UjFnZDZrWVRRNERKVTBlRC1UaDJzYklYUU1wZDBEVUlHT0pXNC1rT28yNktxZTItdWYtQldnNzV3TGc?oc=5",
     "news_image": "",
@@ -32853,14 +32854,14 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.16,
+    "news_score": 1.07,
     "news_title": "Russia Stays Out of World Curling Competitions - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRFBKQndjTlBBa0FEZzlxU25XT2RLaUp0RVpoQl9YM1NhWUg2NmVXUExXYXpkOTZBbmlKa1VqYzNnMGdqMXZpemp4R1d0bENzbjhJSS11Q0dVeHlhbUhrbXQ1bUpZTDkwcnYyM29meXFsOWZLbk1MdjRFRXFRUWx3ZlZXd1c1dTU2NVlSSC1GUnJGQQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "106m ago",
+    "news_age": "108m ago",
     "news_columns": [
-      "fifa_ranking"
+      "olympic"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -34445,7 +34446,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaGxzdGlaeE5DUTJEdlNRX0lPNEFQczBtV1ZXZEpWQkhscDNnTFpyMnhuVllqRklRVkVvQVBDeTZfUFdLWnBsbGs3YUFOa3NnLUNhVWlIN3hXZl93RUxGNHVWemhVc05qQ0NQSzBGcWtSNFZXZ29KRm5ETndtMS1yWWV1enBvelBEOVpRVkFnZHVSbUtzaGkzbzd3MjdsQThwLVRhZkZQNjVIMmpkTGFrNEs1Zw?oc=5",
     "news_image": "",
     "news_source": "USA Wrestling",
-    "news_age": "32m ago",
+    "news_age": "34m ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -35362,7 +35363,7 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.07,
+    "news_score": 0.11,
     "news_title": "Nigeria vs South Africa World Cup qualifiers preview: Ghana dey meet Ivory as Super Falcons jam Banyana Banyana for 2027 Women's World Cup African playoff - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92SDlkZk44NzhhOTN0QmVQMDZVOXRGa0RSQmFiVmVNQlBmUzBpd2xFWnlING01Unk0WmRfX1haNjZPbjh1SFcyUEY2ZGFlYm5yZEpwZXlqWFBlM2lx0gFiQVVfeXFMUHpTNXp2ZDM3OFZ6NmRWYVl4WXFuLTIyV3J4Y3Z3NU14UjFnZDZrWVRRNERKVTBlRC1UaDJzYklYUU1wZDBEVUlHT0pXNC1rT28yNktxZTItdWYtQldnNzV3TGc?oc=5",
     "news_image": "",
@@ -35850,7 +35851,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.33,
+    "news_score": 0.23,
     "news_title": "South Korea's Incheon airport becomes world's busiest for global traffic - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tc2Z0VGcyXzZrdFpCVUp5b1N2Y2dWLVdqQzhFWmUxXzlEbFc2M3NpbkNacXVnME5SSUEycGVJa2VQamI1bGZqYnk3TEdnYUVaWHhZempYV3BUQQ?oc=5",
     "news_image": "",
@@ -37905,7 +37906,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EZHkwaTd5WVBDQ0RuUWRDTzBPb3dUV2dtMy1LWjNvZTRiRFAyT0R6X2lCM0t5VHBvbTdkcFhZNjVDQl9ibjVkUlVPQ01SSUFYNTBqcElPWQ?oc=5",
     "news_image": "",
     "news_source": "UN News",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -40944,7 +40945,11 @@
     "news_source": "The New Voice of Ukraine",
     "news_age": "31h ago",
     "news_columns": [
-      "fifa_ranking"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": null
   },
@@ -43113,19 +43118,19 @@
     "union_rate": 56.6,
     "union_rate_rank": null,
     "fifa_w_rank": 40,
-    "news_score": 0.06,
-    "news_title": "New Jersey mother died saving daughter in Colombia earthquake, family says - 6abc Philadelphia",
-    "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnY2dXZYbEVsUW5teFBjRGVmcHFLYW0xMkNIMVoyelpJWms3X1c1M0hOdklNWXJJTThUVWJJSEwzcVk0YzNjM3E4czZnNnVLZ2VzREExU1VfTTFYQzJYXzU1VEtrMGo1dXRwbmEtVGJoaVJLY0ZyWk91M3lsTm9qb0lYSWJJX2hFOGJhVm1zNGZENnRmZVIxSVZhZXlYLTk2OGJtUFZn?oc=5",
+    "news_score": 0.04,
+    "news_title": "Colombia earthquake death toll rises as frantic search for survivors continues - CBS News",
+    "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLUtpR3ZFcmpmMEJkUEhJZS16TWtGb1NTM2t3eEtCUDl5dUc0MkthNk9fMlJNbU1UbUVmQ3N0Ty1iZzRpb2g5VTMxLXh4ZTVjVEEyM1VIbUJBYXFya3BrS21IaUt6bm1kWVhYejhSeXFHQmdQNW5tdW1kS0o1d1Iwczd2UVM4ZDhGUlNYM1JRUXJudUpFdlI0eUlaVQ?oc=5",
     "news_image": "",
-    "news_source": "6abc Philadelphia",
-    "news_age": "6h ago",
+    "news_source": "CBS News",
+    "news_age": "18h ago",
     "news_columns": [
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
       "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "earthquakes"
     ],
     "bottom50_wealth": null
   },
@@ -43934,7 +43939,7 @@
     "union_rate": 34.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 123,
-    "news_score": 0.38,
+    "news_score": 0.37,
     "news_title": "Will all-out war in Yemen reignite as the Houthis escalate attacks? - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUx1NlFUQ0lkSkpES0NkeXpmYlQ3anlWLVQtSi1CSTNaTUJRVGlpM3F0RFdTX0U0c19QNGFqZlE1Y1g0Z2FjZnRCSVIzYklRYTZfcUMyWjBRbHltY0w3WUxrSXJZX3RUaGNyRUkwZmhGNnpXM21DTG5naWs0WEFvM01EcFZpaEllSFdpeGwtTHU4LV8ySWF6U25iNlduVDZ5WWVRSF930gGrAUFVX3lxTE5wd1RXTmdZalhXRHlxQXd0TXNyR1NwaGdkR0xLb3pQUmRYYlhQZnEzNXVzVDZpVm1hSENhQnVzTFhrU1daeVQtUkY3ZmNGTzlkV2E3X2VROEVRWWVKNjZhTXFTZGRyYjNOczVvT3VIanJNLTdfU3VBUy1GcDNORGp4ZVRYVXRxX2hrVVhlbzIyaHVCWUxDOENNdEtGSVFsam9JUzJSQVNSbTl2dw?oc=5",
     "news_image": "",
@@ -44556,7 +44561,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 0.61,
+    "news_score": 0.7,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
@@ -44572,7 +44577,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMGRvYklmcXRFRjdLdEc5V3NVdV9lQVRHcm5FcGFwS09LcnhQbEpfNFFZTEZEdFFqMDZNNmdtU0lYMlVVOUptOUZQelpveFZXOVFRM2pVU1V2cTRvT3NVNWx1Y0tsenY5ODVfWWlONTc5MnpGNnBOS1piV1B4c0tpam1hR2FnU05p?oc=5",
     "news_image": "",
     "news_source": "SFGATE",
-    "news_age": "21m ago",
+    "news_age": "23m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
