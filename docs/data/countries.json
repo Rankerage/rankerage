@@ -212,7 +212,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EZHkwaTd5WVBDQ0RuUWRDTzBPb3dUV2dtMy1LWjNvZTRiRFAyT0R6X2lCM0t5VHBvbTdkcFhZNjVDQl9ibjVkUlVPQ01SSUFYNTBqcElPWQ?oc=5",
     "news_image": "",
     "news_source": "UN News",
-    "news_age": "74m ago",
+    "news_age": "76m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -6911,8 +6911,11 @@
     "news_source": "Little League",
     "news_age": "22h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -7271,12 +7274,12 @@
     "refugees_rank": null,
     "union_rate": 59.5,
     "union_rate_rank": null,
-    "news_score": 0.53,
+    "news_score": 0.61,
     "news_title": "Red Sox CEO Announces Upcoming Decision on Chad Tracy’s Future - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUk9LSUpvYkVubDRrcUprUWxBcDhwMXJsdzVzWGNTZmVHUGgzV1NFM2NwTVE1VElUeXAxNE9IdjZ4UkVJaUJQNUxVLWd4NF9NdE5FYzMyWDItVGlGcHlEVnlRMXBIeWFtWVRubkE0NGxLMk1ERTNtT2gtMGdYSFdRVXFsbUI0Zw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "52m ago",
+    "news_age": "54m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -13462,7 +13465,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.23,
+    "news_score": 0.22,
     "news_title": "Side Track with Georgia Hunter Bell - worldathletics.org",
     "news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOF9kMXd2YWdzUU4tMHRLcTFUazhyal9MMEFzWHF6ZXFUY084Q1pFcDA5emdBX0p2ZWdnMlBuU0ZMYnNsMW1iVVZFLTVnbGJpOUxRNThlRnJNSjNQS3dyTmU5X0dmREFRQmxsaW1tampyZUdlQklkWEVndXIyU0dWbnJROWpVVW5YcnJ1eEU3OXN6N3QtNlJGb0IxNmVjakVEeEFsRE45TVFsVDQtTEVadXlJMGpfUHRtejNOOXpWY0pqYWh1cEVaTUk3QQ?oc=5",
     "news_image": "",
@@ -16694,12 +16697,12 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.63,
+    "news_score": 0.66,
     "news_title": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - hollywoodreporter.com",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWng5T2VVRm9ONHpvdmRzWHE2ZVRpSVMtVnhSa0M3LWhxeFRtcjZ6YTFiY09sdWtVVXFSYk5LZ0QyU0tKeW9IdzB5RW9tMExMTEdKM1hzMXp6T2habmFsUUNPUWRxalY4NXl4OXJXb0pMTzBhOGpxYzFvQTBpcGNiRG9TekxSbjRSUFY1cnNaOTVhcWJKYWtFZExLcTI4QWZOdjJ4MTBYb0FvVFNJcWxhQ3dvMHJNSWgxREE?oc=5",
     "news_image": "",
     "news_source": "hollywoodreporter.com",
-    "news_age": "84m ago",
+    "news_age": "86m ago",
     "news_columns": [
       "film_prod",
       "netflix",
@@ -17266,7 +17269,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.05,
+    "news_score": 0.67,
     "news_title": "South Korean airport becomes busiest in world for global traffic amid Iran war - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcVplcGRpeXh1NGVBSm91bXRfbmhuRWhxeWs2WjN4Z19mVlBkZ25FTVRDX3RzWnlzallHRkd4M2JfU19SOUVzWjg4WjFVSE1lU040dzE5TzdFQWN6SXVINXlkVzJQOHBHOXdpT19QQVFkVjBOU3k5R0xsUlFIa25odk1mMmFVMmFIbC1XTk9hUlY4VjhhSkd6NUh3?oc=5",
     "news_image": "",
@@ -18005,11 +18008,8 @@
     "news_source": "The Washington Post",
     "news_age": "3636h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -18441,7 +18441,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.12,
+    "news_score": 1.07,
     "news_title": "Italy's Curtis betters own 50m backstroke world record - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVTBIRm5ybjR2a2pLdjU0aGlxSTBJbzFOTFpFbGw5VmY5U1RodWVVZ2lXU3N0UVEtTjlrVG1YX1VQZjhPUFYtUW9rdUJ4UzktQVZHVGJma2FIUnNUbkRybGVYc0tGR2hSS3JQV0loZDBqTFp2VDR4SUt5NUFiaDFJd205RWhSNTI2VmVqNW9IdEJBekJzTzM5azZQZHQ?oc=5",
     "news_image": "",
@@ -19128,12 +19128,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.92,
+    "news_score": 0.91,
     "news_title": "Key Japan war shrine bans military cosplay ahead of second world war anniversary - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaWJPeFJIRWZVSVIyMElsZTFoYkg1WVI2MnMxd0t0dGhuZkV3WTZ5bHR2a0FpLUU3YnlSOThrT2k4SmdOdDI0cTVhUWJOcXRWVHAwamF5UjhfdjhvZ0doSHdaUHhUb25pWVFGSUhmcktSUk8xRTk4TjhpR2tGQUhrQXl2b0dkdlU4UUkzS1UyQmRkdi12TEoyU2JsQXJfNGZMd1E?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "115m ago",
+    "news_age": "117m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -26103,7 +26103,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EZHkwaTd5WVBDQ0RuUWRDTzBPb3dUV2dtMy1LWjNvZTRiRFAyT0R6X2lCM0t5VHBvbTdkcFhZNjVDQl9ibjVkUlVPQ01SSUFYNTBqcElPWQ?oc=5",
     "news_image": "",
     "news_source": "UN News",
-    "news_age": "74m ago",
+    "news_age": "76m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -28199,7 +28199,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTkpsNk5WZXZVUkViV2JHRi15cHg3b3VGUmJRRUc2c0N5OGIzNUk1Zk9wYmh0VEthUlRKS3I5MC1JbWxOTmFFNmM3eXJDZVBucTNQcEV4Zm5LWFNCNUVGeGFRcjRCSW9IajFzRF8zSWkyRVlzeGs0cTlXM1RTV2VtOGZwNFpiS2pHajZLalBBS1dwVVNOaG5MRVpuYXVQUmhQX1BfeWtkNDg4NUdHRkdyemtfVWV5ZVBwQVQwVmJVMnB6dw?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "32m ago",
+    "news_age": "34m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -32856,19 +32856,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.29,
+    "news_score": 1.3,
     "news_title": "Ukraine ‘offering Russia deal to halt attacks on civilian ships in Black Sea’ - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTUlCZU5INU1ZZWx5YUxEQjZsSzdIbzJuaWFIRmx2RlZfRlprN1pXbS1XLTRiSURHb3lWX2RsSGZwWXU2VGt4THQxU2hTQVhUZE0wSC1qM3BMN0xJa2c2bzFvY0E1b2l1Tm1DbVFoVklDNkMwcjJGTkdGT0FSWnhmd0EydGF5UHZpN1pQUEQtMldOanYwd0lmMGpGRzZLbXNfRVpjc0hBQ3BIY0dza0dyVi1QUHo3ZHRJUkFDVnFNV24yUzRE?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
     "news_age": "2h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "michelin"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -34453,7 +34449,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaGxzdGlaeE5DUTJEdlNRX0lPNEFQczBtV1ZXZEpWQkhscDNnTFpyMnhuVllqRklRVkVvQVBDeTZfUFdLWnBsbGs3YUFOa3NnLUNhVWlIN3hXZl93RUxGNHVWemhVc05qQ0NQSzBGcWtSNFZXZ29KRm5ETndtMS1yWWV1enBvelBEOVpRVkFnZHVSbUtzaGkzbzd3MjdsQThwLVRhZkZQNjVIMmpkTGFrNEs1Zw?oc=5",
     "news_image": "",
     "news_source": "USA Wrestling",
-    "news_age": "72m ago",
+    "news_age": "74m ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -35375,7 +35371,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTkpsNk5WZXZVUkViV2JHRi15cHg3b3VGUmJRRUc2c0N5OGIzNUk1Zk9wYmh0VEthUlRKS3I5MC1JbWxOTmFFNmM3eXJDZVBucTNQcEV4Zm5LWFNCNUVGeGFRcjRCSW9IajFzRF8zSWkyRVlzeGs0cTlXM1RTV2VtOGZwNFpiS2pHajZLalBBS1dwVVNOaG5MRVpuYXVQUmhQX1BfeWtkNDg4NUdHRkdyemtfVWV5ZVBwQVQwVmJVMnB6dw?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "32m ago",
+    "news_age": "34m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -37913,7 +37909,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EZHkwaTd5WVBDQ0RuUWRDTzBPb3dUV2dtMy1LWjNvZTRiRFAyT0R6X2lCM0t5VHBvbTdkcFhZNjVDQl9ibjVkUlVPQ01SSUFYNTBqcElPWQ?oc=5",
     "news_image": "",
     "news_source": "UN News",
-    "news_age": "74m ago",
+    "news_age": "76m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -40945,18 +40941,15 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 1.33,
+    "news_score": 1.34,
     "news_title": "Why Ukraine’s blocked grain could become the world’s problem - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZU54bTV4RGJWYXFWZ1RxT0hHSzJ1azEyMFk4TVkyRVdLekN0TUwyY28xeGhtZmRhLTJTTVRSZG9TTXZiRWFlTmY2QlNYSnNvOHBFWVhRNndRcEEzNThRT0VLMGU0MFNTTnRJd1JLSmNwRDZGQ3d3UUsxZktlakZnRVpiNk95eWhfSzd4M2FabXkxWE5E?oc=5",
     "news_image": "",
     "news_source": "CNN",
     "news_age": "2h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -44568,7 +44561,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 0.84,
+    "news_score": 0.82,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
@@ -44584,7 +44577,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMGRvYklmcXRFRjdLdEc5V3NVdV9lQVRHcm5FcGFwS09LcnhQbEpfNFFZTEZEdFFqMDZNNmdtU0lYMlVVOUptOUZQelpveFZXOVFRM2pVU1V2cTRvT3NVNWx1Y0tsenY5ODVfWWlONTc5MnpGNnBOS1piV1B4c0tpam1hR2FnU05p?oc=5",
     "news_image": "",
     "news_source": "SFGATE",
-    "news_age": "61m ago",
+    "news_age": "63m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
