@@ -232,10 +232,12 @@
 
     function A(title,field,w,v){var col={title:title,field:field,width:w,sorter:S,
       headerTooltip:function(){return descTip(field,title);},
+      tooltip:function(e,c){var d=c.getRow().getData(),r=d[field+'_rank'];return descTip(field,title)+' — '+(r?'#'+r:'순위없음');},
       formatter:function(c){var d=c.getRow().getData(),v=d[field];return numberCell(d[field+'_rank'],!N(v)?fmtNumber(v):'-');}};
       if(v===false)col.visible=false;return col;}
     function H(title,field,w,v){var col={title:title,field:field,width:w,sorter:S,
       headerTooltip:function(){return descTip(field,title);},
+      tooltip:function(e,c){var d=c.getRow().getData(),r=d[field+'_rank'];return descTip(field,title)+' — '+(r?'#'+r:'순위없음');},
       formatter:function(c){var d=c.getRow().getData(),v=d[field];return numberCell(d[field+'_rank'],!N(v)?fmtNumber(v):'-');}};
       if(v===false)col.visible=false;return col;}
     function E(field,w){return{title:t('election'),field:field,width:w,
@@ -1116,8 +1118,11 @@
     window.__showElectionNews = function(country, title, date, name) {
       var modal = document.getElementById('elecNewsModal');
       var cn = (name||country||'').replace(/\*+/g,'');
+      var q = encodeURIComponent(cn + ' election ' + (title||'').replace(/[()]+/g,'') + ' 최신 지지율 여론조사');
+      var link = '<div style="text-align:center;padding:6px 0 2px;border-top:1px solid rgba(224,200,124,0.15);margin-top:8px;">'
+        + '<a href="https://news.google.com/search?q='+q+'" target="_blank" rel="noopener" style="color:#e0c87c;text-decoration:underline;font-size:12px;">📰 Google News에서 '+esc(cn)+' 최신 뉴스 보기</a></div>';
       document.getElementById('elecNewsTitle').textContent = '🗳 '+cn+' — '+date+(title?' ('+title+')':'');
-      document.getElementById('elecNewsBody').innerHTML = '<div style="text-align:center;padding:30px 20px;color:#b0b8d0;">지지율 데이터 준비 중</div>';
+      document.getElementById('elecNewsBody').innerHTML = '<div style="text-align:center;padding:30px 20px;color:#b0b8d0;">🕓 지지율 데이터 수집 중 — 뉴스 요약은 곧 제공됩니다</div>'+link;
       modal.style.display = 'flex';
     };
 
@@ -1330,6 +1335,7 @@
       if (col.field === 'country_code' || col.field === 'country_name_en') return;
       var field = col.field;
       var title = col.title;
+      if (col.field === 'election_days' || col.tooltip) return;
       col.tooltip = function(e, cell) {
         var d = cell.getRow().getData();
         var code = d.country_code;
@@ -1462,14 +1468,6 @@
         callback();
       }).catch(function(){ historyLoading = false; });
     }
-
-    table.on("cellClick", function(e, cell) {
-      var row = cell.getRow();
-      if (row.getPosition() === 0) return; // header click — skip
-      var field = cell.getColumn().getField();
-      if (field === 'country_code') return; // detail panel handled elsewhere
-      if (trendFields[field]) ensureHistory(function() { showTrend(field, row.getData()); });
-    });
 
     // Cell selection
     var isSelecting=false,startCell=null,lastCell=null,lastMouseY=0,SCROLL_SPEED=10,SCROLL_MARGIN=50;
@@ -1621,7 +1619,7 @@
     var col = table.getColumnDefinitions().find(function(c){return c.field===field;});
     var metricName = col ? (col.title||field) : field;
     loadHistory(function(hist){
-      if (!hist[field]) { showToast('📊 '+metricName+' 트렌드 데이터 없음'); return; }
+      if (!hist[field]) { showToast('📊 '+metricName+' — 데이터 수집 중'); return; }
       var countryData = hist[field][code];
       if (!countryData) { showToast('📊 '+name+' 데이터 없음'); return; }
       var years = Object.keys(countryData).sort();
