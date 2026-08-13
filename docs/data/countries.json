@@ -5116,7 +5116,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.01,
+    "news_score": 0.0,
     "news_title": "Business tourism in Brazil will rebound by 13.8% and will boost the economy with 31.024 million. - Demócrata",
     "news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTnNkNzRweTRGZEJyLUlMNjhndUVrd2dqUW10VXBtQjZNU1BBWXREcmtnWnR1V096SE85SUN3MmdiWFM1QmR1ZHNMLUV6RHVaa2hJeC1OaEtSYkJpMGktdWNKNlVLUFIxaU1UOE84MjZRNTZsemtTYmx4ZEV6LUZQLTZWMDhoS3JZd3QzdE80RzZ5aW9DWnBEekcydXktWWVXWkJPbFpuanVpSUQwczQ2ZUs3Ul83T2d5dzJHblVSamhmR0VIaG92S1Z1TdIB0AFBVV95cUxNRHY0QlJRNUVSLWdNOVBpSnNSSGVJbms0YzlNNlhnNXFfTGRhWG5hcmFBOFpNT3dwa2JDSHhPRlpEOTVuemNVVTdfR19IQlQ5aDREaHVLSTZ6NkJyT0JMemlCdnc0Z09NZVdvMFUzaFg3eVdEREQ4MWt0RW5SbVBzaGtLVlRUd0tfdFp1MC1IakxFR3hyeXZTOTl5c3dRVkdPSE1BSDB2VVBDUW9jVUxfamxPSnNHTkxDV3ZyLVo2QjRvdlBXYUlSWTZjVUVKTTNM?oc=5",
     "news_image": "",
@@ -17270,14 +17270,18 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.61,
-    "news_title": "CIA had ‘low confidence’ in Iranian threat before Trump switched planes in Turkey - The Washington Post",
-    "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWng0Yy10eHlZdTNFcVMtZHA3d2pjTUExY0htX3R1eC1OaEdlaTZqdUNpMFpSVDZrZ3ItNVhDMlFPaHRDMHJWdlVOeWJoanZMLXlHdi16RF9mUU9tSkg0Q0MzNzVhQWxxVzd4ZzJrSkRnRXEyR0RQSnZ4ZmRXMGh1WVJHbXVrS3dLWGUyLXJyN29za2t0YWlHQ3hIemFyRi1ZaFRzay1PT19tRlBpNndaM1hpOFVpcHR4MWRWa0N3dGRoVzBvVnZxUHZ6SlVxeWs?oc=5",
+    "news_score": 0.77,
+    "news_title": "August 12, 2026 — Trump insists US controls Hormuz, Iran says it could ‘prolong’ war with US - CNN",
+    "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pbWxQa3BOTklMZFVOT0RGLW5mSmRBRFNKeWV1R2VwUXNJOV9acS1sTzVWMFEteTgyczBlSU1QeU53RFhJVkNyc1FsS2xsVEJvRlYtWnhaXzRGT2pIbkVhVWVmU29UUDNKT0RoazFR?oc=5",
     "news_image": "",
-    "news_source": "The Washington Post",
-    "news_age": "3h ago",
+    "news_source": "CNN",
+    "news_age": "93m ago",
     "news_columns": [
-      "fifa_ranking"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": null
   },
@@ -18001,18 +18005,19 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.44,
-    "news_title": "CIA had ‘low confidence’ in Iranian threat before Trump switched planes in Turkey - The Washington Post",
-    "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWng0Yy10eHlZdTNFcVMtZHA3d2pjTUExY0htX3R1eC1OaEdlaTZqdUNpMFpSVDZrZ3ItNVhDMlFPaHRDMHJWdlVOeWJoanZMLXlHdi16RF9mUU9tSkg0Q0MzNzVhQWxxVzd4ZzJrSkRnRXEyR0RQSnZ4ZmRXMGh1WVJHbXVrS3dLWGUyLXJyN29za2t0YWlHQ3hIemFyRi1ZaFRzay1PT19tRlBpNndaM1hpOFVpcHR4MWRWa0N3dGRoVzBvVnZxUHZ6SlVxeWs?oc=5",
+    "news_score": 0.34,
+    "news_title": "Members of Trump's cabinet remained on decoy plane, after Trump's quiet exit - BBC",
+    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13ZmZ4bDlLLUVlX0xWOV9DYmExMUljdnNhbDRDQWhrUThxTmlhaWVER2V6ZHByaERLeXhZU3RLNFZrdl94SWdNNm5UOGc0Umo4NGI0cFBiQmg4QQ?oc=5",
     "news_image": "",
-    "news_source": "The Washington Post",
-    "news_age": "3h ago",
+    "news_source": "BBC",
+    "news_age": "6h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
       "military_personnel",
       "gpi",
-      "arms_export"
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -18449,7 +18454,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVXduaF83V2ZTamJHc0EzNmI4RFN5eHhZUXM2NEhlOXI0YW9vWlQ1NnJGSjJGaWtpQUQtQlZPN3ZGMndsYjJnRHpPX1hLajFqZ0k3ekJoSm90Mnhla2cxdmpodm82am1MZXJ5NmQ4SVJyWnNVTGp2bjQ5eG9ra0xxRTlhOXhPRGRhdmU0MWFuNkJYaVVoVVVFbm1ORUhTRFpm?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "8h ago",
+    "news_age": "9h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -19137,7 +19142,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaWJPeFJIRWZVSVIyMElsZTFoYkg1WVI2MnMxd0t0dGhuZkV3WTZ5bHR2a0FpLUU3YnlSOThrT2k4SmdOdDI0cTVhUWJOcXRWVHAwamF5UjhfdjhvZ0doSHdaUHhUb25pWVFGSUhmcktSUk8xRTk4TjhpR2tGQUhrQXl2b0dkdlU4UUkzS1UyQmRkdi12TEoyU2JsQXJfNGZMd1E?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "60m ago",
+    "news_age": "62m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -22627,7 +22632,7 @@
     "union_rate": 63.2,
     "union_rate_rank": null,
     "fifa_w_rank": 101,
-    "news_score": 0.16,
+    "news_score": 0.15,
     "news_title": "Malawi FA chief backs Infantino, credits FIFA investment for World Cup breakthrough - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNejR2WHZkaWNtdDFyTnFtTFhtUnE1cEJ5SkhVMlBLNG9rWmd1Sjc0OFlSczVJR24xdVJLUUpQY1VjbW9HeVZaNTY3ZXFhcnlVY3RtUXhCbEJfRnlDYklWM05jbFp6MkxWM1dGUWxTalM4QjF5SVd0aXhncEpBVXoxR3dsSTVPdGlYeTlzcXd5Rl8tSndmNEczNFR5UDR4dGswUWxWck1iVUhfSnBTbzQ5WGxPNm9iMjBzdXdINUl5aUU4OHdZQVA4?oc=5",
     "news_image": "",
@@ -32070,8 +32075,12 @@
     "news_source": "Arab News PK",
     "news_age": "41h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": null
   },
@@ -32866,12 +32875,12 @@
     "news_source": "BBC",
     "news_age": "2h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "michelin"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -39984,18 +39993,19 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.44,
-    "news_title": "CIA had ‘low confidence’ in Iranian threat before Trump switched planes in Turkey - The Washington Post",
-    "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWng0Yy10eHlZdTNFcVMtZHA3d2pjTUExY0htX3R1eC1OaEdlaTZqdUNpMFpSVDZrZ3ItNVhDMlFPaHRDMHJWdlVOeWJoanZMLXlHdi16RF9mUU9tSkg0Q0MzNzVhQWxxVzd4ZzJrSkRnRXEyR0RQSnZ4ZmRXMGh1WVJHbXVrS3dLWGUyLXJyN29za2t0YWlHQ3hIemFyRi1ZaFRzay1PT19tRlBpNndaM1hpOFVpcHR4MWRWa0N3dGRoVzBvVnZxUHZ6SlVxeWs?oc=5",
+    "news_score": 0.34,
+    "news_title": "Members of Trump's cabinet remained on decoy plane, after Trump's quiet exit - BBC",
+    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13ZmZ4bDlLLUVlX0xWOV9DYmExMUljdnNhbDRDQWhrUThxTmlhaWVER2V6ZHByaERLeXhZU3RLNFZrdl94SWdNNm5UOGc0Umo4NGI0cFBiQmg4QQ?oc=5",
     "news_image": "",
-    "news_source": "The Washington Post",
-    "news_age": "3h ago",
+    "news_source": "BBC",
+    "news_age": "6h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
       "military_personnel",
       "gpi",
-      "arms_export"
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -40943,19 +40953,19 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.48,
+    "news_score": 0.47,
     "news_title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMkhxMGxURF9FNDF6a1QtU1hsU01vdWN5bjBZYTFZd1k1SlU4Y2pqdkRMSGtxVF81Nm1naW01WnNlUWJ1WUJfbWgzVnRBZzdoQmN1V3RnNzdsZw?oc=5",
     "news_image": "",
     "news_source": "BBC",
     "news_age": "2h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "michelin"
     ],
     "bottom50_wealth": null
   },
