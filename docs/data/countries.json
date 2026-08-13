@@ -2540,7 +2540,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTAyd3pqTU1uQVFBYy0zTEM5YzBGdUdLYTBudHBKNm1WTVVWWlIwTnVQTThXTjBYSW1LMjgwX2NwdUE1blZVTVBOdW5La2NzamtEdnhKT3lUTW5RQUpkNGxTdTRhVFFpYVdua3E2cU5EeWFWSXZZZXZhZktPSHRUTFNtYmR6YWVFRnJieFcxZFd5VVYxTlVPekJ1SzJ0ZkZhT0RuRmhNSWRZRjlXMVNidVBHelpad0RxRl85VHpxN3pzODNvY2FDVVhIb3JNUXhFU1E?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "8h ago",
+    "news_age": "9h ago",
     "news_columns": [
       "olympic",
       "fifa_ranking",
@@ -6904,7 +6904,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.66,
     "news_title": "Little Mountain Little League Returns as Canada Region Representative for the 2026 Little League Baseball® World Series, Presented by T-Mobile - Little League - Little League",
     "news_url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNNENRcTVkcEFBZTR2SDlCWUlTME1PeFFjczBPcVFzR3JzNnowMzgzWElKQlhKRGlsZzR1VjhWY3MtVXpoQlo0NEd5N1lZWnF4YS0zV1Q1WUl5S3BKNGtoV1J4WjRyNEVhYUJieGNjWGpfeGlsQkNQSFprdnktTGQ1MVlFMkxqMnVaWm5NNFhCX2RraFA4TFhvZHRtY2JDYkViQ2syT3B1WEVCcFc0QzRteXVWS3VKUlBkWTNnVWhzZjFGdTloa21fRGdRSC0ydnJFTDV5bnRUM3JVWFVsSzVOUlFJZ2o4dHAtM3ZvUXg5OE1EVE9YR2k1VkZpREJGaDJHNVVWTWE3amY2cUlkWjNRMW9iX1FWeWFjaDZmaFRCR2R2ZHhYeFE?oc=5",
     "news_image": "",
@@ -8211,7 +8211,7 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.17,
+    "news_score": 0.14,
     "news_title": "Colombia declares three days of mourning after deadly earthquake - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd1hkcHZYLUdQR29qaHlHdmtWTWpNLXBvY3A5M0NSd2hIRXNRbzJQaXkzXzhVSy12UEhWOF95VjZ4S0dNQ2xRcVY5ZC1tcXRsMWw5YzdWVnNTVXNRQ3RZbmRPQzI1dWtOSWluRi05OXpKdjl3YzFUTV9HdENvRmRZSVFDUm1XUFJldTNleGJ4UmQ0aEoxWWRyZUxDeUZBbUdwSDJvZW5VZWfSAa4BQVVfeXFMUG05MmQ0ZnNoTmRHSXVJa2FzWGEyQjRFZ1d0c2R0SFAxcDh5X2E4YnhFc2RibThfUThkd0lJZjIyRUVvZWp5QjEwaC1wUmRDYmRlVkhsMmJuRHI4RzlSYV9EbkVZSWRXZDhyOG5senRScFVqUWZIMjlYdkg2all1OWFCbGpCUWlfT1pvWm5IWGhPVlRjRlprcm1jcmlYd0VsU2tZVTd0SlI2ZHhQcXVn?oc=5",
     "news_image": "",
@@ -17281,12 +17281,9 @@
     "news_source": "The New York Times",
     "news_age": "857h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -18458,7 +18455,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVXduaF83V2ZTamJHc0EzNmI4RFN5eHhZUXM2NEhlOXI0YW9vWlQ1NnJGSjJGaWtpQUQtQlZPN3ZGMndsYjJnRHpPX1hLajFqZ0k3ekJoSm90Mnhla2cxdmpodm82am1MZXJ5NmQ4SVJyWnNVTGp2bjQ5eG9ra0xxRTlhOXhPRGRhdmU0MWFuNkJYaVVoVVVFbm1ORUhTRFpm?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
       "olympic",
       "fifa_w"
@@ -19329,7 +19326,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.38,
+    "news_score": 0.41,
     "news_title": "Packers' Jordan Love Gets Honest About Mentorship From Aaron Rodgers - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN2NZTFA1Yl93UlRpcG9CcWFGV25sSFhraWdZMW54UEhqb3F1UnAwaXJiamZUM1NTcGstcVVyZjVaMEdZOE5QN1ltekN1QUUxN1ZiaTkyR0RlclYtMzAtNWJidkJEZnRSYWJFVVZ6WUxCMEU3WC0zaWtHT0R4Q2pETTVhdXBFR1E?oc=5",
     "news_image": "",
@@ -22643,7 +22640,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNejR2WHZkaWNtdDFyTnFtTFhtUnE1cEJ5SkhVMlBLNG9rWmd1Sjc0OFlSczVJR24xdVJLUUpQY1VjbW9HeVZaNTY3ZXFhcnlVY3RtUXhCbEJfRnlDYklWM05jbFp6MkxWM1dGUWxTalM4QjF5SVd0aXhncEpBVXoxR3dsSTVPdGlYeTlzcXd5Rl8tSndmNEczNFR5UDR4dGswUWxWck1iVUhfSnBTbzQ5WGxPNm9iMjBzdXdINUl5aUU4OHdZQVA4?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "30m ago",
+    "news_age": "32m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -27071,12 +27068,12 @@
     "refugees_rank": null,
     "union_rate": 85.6,
     "union_rate_rank": null,
-    "news_score": 1.37,
+    "news_score": 1.36,
     "news_title": "Xavi named as new Netherlands head coach until 2030 World Cup - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeElXV3Vna19EYlkyWmlvODhEZE5KQndiLXp6UWFSYWZMS0ZuWDRKbWlQeHZlQkRyRjBzOV9DbV9UQW13U3AwcTlVMGRyOHJqOEk1cG13Nm9TRzczeXFydUVIT1JzQU9wNVhwZkwtcV96SlI4Mk9EMGV5ck5SLXZHMFhHUURwbi1fLXc?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "103m ago",
+    "news_age": "105m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -40006,7 +40003,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13ZmZ4bDlLLUVlX0xWOV9DYmExMUljdnNhbDRDQWhrUThxTmlhaWVER2V6ZHByaERLeXhZU3RLNFZrdl94SWdNNm5UOGc0Umo4NGI0cFBiQmg4QQ?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "57m ago",
+    "news_age": "59m ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -44579,7 +44576,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 1.01,
+    "news_score": 1.02,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
