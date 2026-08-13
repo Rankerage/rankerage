@@ -12942,8 +12942,12 @@
     "news_source": "newsonair.gov.in",
     "news_age": "13h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "space_launch"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13459,7 +13463,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.27,
+    "news_score": 0.29,
     "news_title": "Georgia football's most overlooked player entering the 2026 season - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUzl4cVJIczlYVDJqZUJMRURXa3FrZzlSNmNfRWw0Ylo5U0psRjFGbFZRc2V0WDBrVU1za1FnazZKZWdRckhCTjhQdWg0dVF3aGF6V3o0djdjZGltTV9zS0ZWNGxSVjctLVg5R08zdXdvbld5NVliUEl2V0RtVmNyUk1iUXhscGlvSlYxcmRSTTI4cTA?oc=5",
     "news_image": "",
@@ -14157,15 +14161,15 @@
     "union_rate": 60.4,
     "union_rate_rank": null,
     "fifa_w_rank": 50,
-    "news_score": 1.11,
+    "news_score": 1.52,
     "news_title": "Ghana come from behind to beat Ivory Coast and keep FIFA Women's World Cup dream alive - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVlhRFpCck45M1lFQ3J4RFZ0OHlNZDdsNXJSdDQ4YUR2R01DMnQ3TUpSUWt6bUVKQmdVbkFzektRMUtVc2lsVmsyUV81U0xtWVVuR3V1Szc2MkM5Wmh4b2kzY3ZzQXdrOFhGMmNLbFJDS2dzU1hoZWZWa1BkazRUWGgxbzkzSkNwTHd0MWUwLUYtZmlzNmM2TFJ1UzRKaHhQcFhkTDVlajJlT0dwM3pLQTZUaWY?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "86m ago",
+    "news_age": "88m ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -17263,15 +17267,16 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.77,
+    "news_score": 2.03,
     "news_title": "Iran-backed Houthis clash with Yemeni forces and other Mideast developments - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2xURUdxd3E4WWRRZkVmOFBCOWIzaXNSLTJZbTkyRVVHNXlXaEd5Sk4yQ3VHcFBFNjR5YW9wOUZMSkpRYkpJZHQwNzNUQ0dQUjZfS25iUTRFY1FFbHRBQWtZb0pVenFRZC1UNG0wZjR2aUZ5cEwzWGc2SjFJLUh4Ym16eTJhVG5JLU4xNVdhRUc3NnRsWHdjMGgtZ09UaHRLMjMzM2tvTDRzblNZd2c?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "31m ago",
+    "news_age": "33m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "car_density",
+      "gas_price",
+      "co2"
     ],
     "bottom50_wealth": null
   },
@@ -17991,7 +17996,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.12,
+    "news_score": 0.08,
     "news_title": "Iran wages economic war in hopes of outlasting U.S. and Israel - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2ZCVmJ4amt6UTBvQ05kcDBFWnNzb1N6QldHQ3RSWVZ0NUdzemNtaTJGaTlzM1N5dVR0djFiVV9XUGNSc1JCR2RnczNYeTUxMW5WZU5aMmJLMVVqcElmVHpibHdWMm9xOFlLWGlhY2NlQUV5cDVVcTRWZHJaNGxjaXVR?oc=5",
     "news_image": "",
@@ -19127,7 +19132,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVWc4dXFQUi1yckdwVWFsR2ZoaGgxUXp3OWJQQXlxLWttZ3ZyUEtaRER4T0xpNW0wbURXTzdKVzJQX001SmRxVGJST2RvRXRoellaUjRYZ2lUZUtkYnhZSlpXZkpYc3RMOW9MbmZ3UEw5TEE0STA1Q0s4dUQ1MXJzYnFoOWVjZWljTlVRMFFSb2g4c3pLWTdyMFZmYw?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
       "democracy",
       "press",
@@ -25307,7 +25312,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 142,
     "fifa_w_rank": 97,
-    "news_score": 0.0,
+    "news_score": 0.03,
     "news_title": "Will the world’s drying lands get relief from COP17 in Mongolia? - Climate Home News",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRmhVckQxbmNiVXhBNC1uZ0REXzF5Vk9qcllkcjVxZV9NNGhlS0J3WS1URlhITHpCMGx0enRvZzVDRU9tZ2VNVDhWR2g3YWo1ZFg3bjJJX01iZXFjLVZkV295ZmVqY1BVLWl2Nms4UkRPbGdzYW5VaFBVUm1ac1ktRFV0UkFkeXFTNUlWdEkwODlzZHVTN0VJZ2EweXRlZlIxVnJpZ1Ftbk8wN0lH?oc=5",
     "news_image": "",
@@ -32847,7 +32852,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.71,
+    "news_score": 0.7,
     "news_title": "EXCLUSIVE: Ukraine offers Russia truce in Black Sea as food supply fears mount, source says - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVAyN1FTME4xT3BNeld6NHNVMEpaWElYUkJrVjdmZmFVMVBtX0NlZGp3cXk4UUItS1ZDaGhCVE54bkptY0tiSTJDTHF2VU5HSzB3YTRFay1KY09uM1RuNkZJSXFtbVNiNVlzTU1rWEF2TTV4LUZzazNDU2dkdTVsdENPdnFvZDJMWmcxWTdwNE5na2NzeVBwVlVwTnNrQUN5VHV3bEIwaS1vTmZXOVhGeEVnN1FyQ1VxMTQ0T2g4aw?oc=5",
     "news_image": "",
@@ -34439,7 +34444,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 43,
     "fifa_w_rank": 47,
-    "news_score": 0.48,
+    "news_score": 0.47,
     "news_title": "Young Stars Make Up Men’s Freestyle U20 World Team Heading to Slovakia - themat.com",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaGxzdGlaeE5DUTJEdlNRX0lPNEFQczBtV1ZXZEpWQkhscDNnTFpyMnhuVllqRklRVkVvQVBDeTZfUFdLWnBsbGs3YUFOa3NnLUNhVWlIN3hXZl93RUxGNHVWemhVc05qQ0NQSzBGcWtSNFZXZ29KRm5ETndtMS1yWWV1enBvelBEOVpRVkFnZHVSbUtzaGkzbzd3MjdsQThwLVRhZkZQNjVIMmpkTGFrNEs1Zw?oc=5",
     "news_image": "",
@@ -36427,12 +36432,8 @@
     "news_source": "The New York Times",
     "news_age": "32h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "netspeed"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -40935,7 +40936,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.46,
+    "news_score": 0.45,
     "news_title": "EXCLUSIVE: Ukraine offers Russia truce in Black Sea as food supply fears mount, source says - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVAyN1FTME4xT3BNeld6NHNVMEpaWElYUkJrVjdmZmFVMVBtX0NlZGp3cXk4UUItS1ZDaGhCVE54bkptY0tiSTJDTHF2VU5HSzB3YTRFay1KY09uM1RuNkZJSXFtbVNiNVlzTU1rWEF2TTV4LUZzazNDU2dkdTVsdENPdnFvZDJMWmcxWTdwNE5na2NzeVBwVlVwTnNrQUN5VHV3bEIwaS1vTmZXOVhGeEVnN1FyQ1VxMTQ0T2g4aw?oc=5",
     "news_image": "",
@@ -43937,7 +43938,7 @@
     "union_rate": 34.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 123,
-    "news_score": 0.67,
+    "news_score": 0.0,
     "news_title": "Iran-backed Houthis clash with Yemeni forces and other Mideast developments - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2xURUdxd3E4WWRRZkVmOFBCOWIzaXNSLTJZbTkyRVVHNXlXaEd5Sk4yQ3VHcFBFNjR5YW9wOUZMSkpRYkpJZHQwNzNUQ0dQUjZfS25iUTRFY1FFbHRBQWtZb0pVenFRZC1UNG0wZjR2aUZ5cEwzWGc2SjFJLUh4Ym16eTJhVG5JLU4xNVdhRUc3NnRsWHdjMGgtZ09UaHRLMjMzM2tvTDRzblNZd2c?oc=5",
     "news_image": "",
@@ -44514,7 +44515,7 @@
     "country_summary": "288 entities in this category",
     "gdp": 2200000,
     "g7_member": 0,
-    "news_score": 0.52,
+    "news_score": 0.55,
     "rd": 85000,
     "g20_member": 0,
     "independence": 2004,
@@ -44530,14 +44531,13 @@
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQTJGUEp1MFR2bHFHRUlWRnNmY1VibGIyLURKOW9OaXE3dkhZVGlQUzhQRlpiNXZBYXVRWGJHNWY4a1NhVjI4cVdOT3JXaFh4cVdrMGZlQzBKT2dLbERKSUZVblVxcEh3eFBodjRvNUh3TklnR3IxdDhVNnk2VWVxS21UQXY0Wm12bmljc0JvWmlsdXRDdXc?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "109m ago",
+    "news_age": "111m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
       "patents",
       "rd",
-      "startups",
-      "lgbtq_rights"
+      "startups"
     ],
     "bottom50_wealth": null
   },
@@ -44558,7 +44558,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 0.16,
+    "news_score": 0.15,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
