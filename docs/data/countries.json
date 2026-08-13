@@ -6906,7 +6906,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.02,
     "news_title": "Little Mountain Little League Returns as Canada Region Representative for the 2026 Little League Baseball® World Series, Presented by T-Mobile - Little League",
     "news_url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNNENRcTVkcEFBZTR2SDlCWUlTME1PeFFjczBPcVFzR3JzNnowMzgzWElKQlhKRGlsZzR1VjhWY3MtVXpoQlo0NEd5N1lZWnF4YS0zV1Q1WUl5S3BKNGtoV1J4WjRyNEVhYUJieGNjWGpfeGlsQkNQSFprdnktTGQ1MVlFMkxqMnVaWm5NNFhCX2RraFA4TFhvZHRtY2JDYkViQ2syT3B1WEVCcFc0QzRteXVWS3VKUlBkWTNnVWhzZjFGdTloa21fRGdRSC0ydnJFTDV5bnRUM3JVWFVsSzVOUlFJZ2o4dHAtM3ZvUXg5OE1EVE9YR2k1VkZpREJGaDJHNVVWTWE3amY2cUlkWjNRMW9iX1FWeWFjaDZmaFRCR2R2ZHhYeFE?oc=5",
     "news_image": "",
@@ -7970,17 +7970,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.2,
+    "news_score": 0.28,
     "news_title": "US, Japan Plan World's Deepest Undersea Mine to Challenge China - Bloomberg.com",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0xRUWVsZmFoaC1wRnpOYXUwV0tsSEU3UnVHbGllR0NfMmRsTGhZaGNsZXFaOWxOUGczNTJmYlBRbHg4TkxOSzR5Wm1sS0hheTQ5MGowcWVVcmdiNzc0NnZxR3pia3JJWUNNOGxhMzBvLW9vcU9yeEZqMDRUU0p2eGdMcW5NLTlNRkRnMlN6U24wRlhKdnJQdGdKV2hMMF9GZDlHMXhETVRZUHN2c2ZUQ3FYQQ?oc=5",
     "news_image": "",
     "news_source": "Bloomberg.com",
     "news_age": "5h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -8214,19 +8211,14 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.98,
+    "news_score": 1.2,
     "news_title": "'End of the world': Meridian woman stranded in Colombia after 7.4 magnitude earthquake - ktvb.com",
     "news_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNR1NLb2dpLThHMm8zMkJJblVscnQ5NXhfclNjZmowcXZqcXg2V3Rad2U3bGEzX2EyaUVPRXNQVFVfRU9wUjhnVWlfdERYUnNjdlhQVENKdFhoWVlBOHMwYWc2WlM4OHR6aV9LSlVvUmZubk9CWVNQU1pTcDdvZlNDazd5WVdSVmxqcWw3bXc4LW9WWXlVbVpfdWZaazM2SFgtNGhTZ0pYNnFsbjhZM2ZObE1BRk1hU0tUeFltcTNFZFdPZG9xQXYybEhNUGhEVUlRS202b0RRU0d6X3JmUTZHV056eVRvSmRoaU4yVmxsR0ZnSGJQTDJWWWFn?oc=5",
     "news_image": "",
     "news_source": "ktvb.com",
-    "news_age": "90m ago",
+    "news_age": "92m ago",
     "news_columns": [
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -17277,19 +17269,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.03,
+    "news_score": 0.01,
     "news_title": "Global Economy, Hit by Iran War and Inflation, Faces Sharp Slowdown - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMktxdXlJWExWLTFHUkkzY25IRzdfM3ZvNE5XLWlLdzdxMGdZVWRhMUhjaUwzRjdwcGpVMFp6MkZYMGtwTzVSOG00Ml9IVV93QjR4Tm80cG9xdC1LdHFJME9XOG1odnRsQU15bUtqeEFoN1VEeXE4VGlncHlLWkUzR0g5LWFQNkx6VG51MA?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
     "news_age": "859h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -19143,18 +19130,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.96,
+    "news_score": 1.25,
     "news_title": "Are we on the verge of World War III? - The Japan Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMUQ5MjhYaE9PMEd4Y2JKQ1hubDZ0ZWVrakdOQTlSRFk5N1llTERKS1lNbHVSRDdObTBBbUJ5TE5yTGktckxSVkhQR2tjVEFLQklVSDdCUXlZT09HaWQ3cTVwNzVGR2xhS01tazFsc3ZvdjZrNW5oenUwOTc4Tm0wZkx3SDY?oc=5",
     "news_image": "",
     "news_source": "The Japan Times",
-    "news_age": "40m ago",
+    "news_age": "42m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "fifa_ranking",
+      "basket"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -22638,7 +22622,7 @@
     "union_rate": 63.2,
     "union_rate_rank": null,
     "fifa_w_rank": 101,
-    "news_score": 0.47,
+    "news_score": 0.46,
     "news_title": "Malawi FA chief backs Infantino, credits FIFA investment for World Cup breakthrough - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNejR2WHZkaWNtdDFyTnFtTFhtUnE1cEJ5SkhVMlBLNG9rWmd1Sjc0OFlSczVJR24xdVJLUUpQY1VjbW9HeVZaNTY3ZXFhcnlVY3RtUXhCbEJfRnlDYklWM05jbFp6MkxWM1dGUWxTalM4QjF5SVd0aXhncEpBVXoxR3dsSTVPdGlYeTlzcXd5Rl8tSndmNEczNFR5UDR4dGswUWxWck1iVUhfSnBTbzQ5WGxPNm9iMjBzdXdINUl5aUU4OHdZQVA4?oc=5",
     "news_image": "",
@@ -35878,11 +35862,8 @@
     "news_source": "Upgraded Points",
     "news_age": "451h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking",
+      "basket"
     ],
     "bottom50_wealth": 5.1,
     "bottom50_wealth_rank": 8
@@ -40000,12 +39981,12 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.48,
+    "news_score": 0.52,
     "news_title": "CIA had ‘low confidence’ in Iranian threat before Trump switched planes in Turkey - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWng0Yy10eHlZdTNFcVMtZHA3d2pjTUExY0htX3R1eC1OaEdlaTZqdUNpMFpSVDZrZ3ItNVhDMlFPaHRDMHJWdlVOeWJoanZMLXlHdi16RF9mUU9tSkg0Q0MzNzVhQWxxVzd4ZzJrSkRnRXEyR0RQSnZ4ZmRXMGh1WVJHbXVrS3dLWGUyLXJyN29za2t0YWlHQ3hIemFyRi1ZaFRzay1PT19tRlBpNndaM1hpOFVpcHR4MWRWa0N3dGRoVzBvVnZxUHZ6SlVxeWs?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "106m ago",
+    "news_age": "108m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
