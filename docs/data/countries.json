@@ -2535,7 +2535,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.24,
+    "news_score": 0.23,
     "news_title": "Under strain, Australia's world-leading disability support faces major restructure - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80VEpNS2xYaFlIQWoxY3pLUEhfU0dhRDhwQlNweXFMZ19UOVpMZkxJTXVMTHBDTHNDSXlIQUhub1IwTjhPUmZxbGRYeGZuTk9qelR3T2RlQXkxZw?oc=5",
     "news_image": "",
@@ -6906,12 +6906,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.68,
+    "news_score": 0.79,
     "news_title": "Hockey Canada Reinstates Alex Formenton, But Not His 2018 World Junior Teammates - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQnNXbEozNU1UclVZQmQwZDRqd0NxdHprYWhJWWZmckdEYkhNeENKZzVYcEU0NWhFM3k0bml5Qkk0UFQxTDJQRWNiTjNoQkQwV2FmODc3VVdSdHV5V3JEZXQ5TWlQSlRWTFNUNGhfX2ZiNS1OZXNIT1lINF9YRXBUR200cmY0anR1elFWaXV5VQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "29m ago",
+    "news_age": "31m ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -7974,9 +7974,7 @@
     "news_source": "RAND Corporation",
     "news_age": "2394h ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -8215,14 +8213,9 @@
     "news_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNR1NLb2dpLThHMm8zMkJJblVscnQ5NXhfclNjZmowcXZqcXg2V3Rad2U3bGEzX2EyaUVPRXNQVFVfRU9wUjhnVWlfdERYUnNjdlhQVENKdFhoWVlBOHMwYWc2WlM4OHR6aV9LSlVvUmZubk9CWVNQU1pTcDdvZlNDazd5WVdSVmxqcWw3bXc4LW9WWXlVbVpfdWZaazM2SFgtNGhTZ0pYNnFsbjhZM2ZObE1BRk1hU0tUeFltcTNFZFdPZG9xQXYybEhNUGhEVUlRS202b0RRU0d6X3JmUTZHV056eVRvSmRoaU4yVmxsR0ZnSGJQTDJWWWFn?oc=5",
     "news_image": "",
     "news_source": "KTVB",
-    "news_age": "12m ago",
+    "news_age": "14m ago",
     "news_columns": [
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -22636,12 +22629,12 @@
     "union_rate": 63.2,
     "union_rate_rank": null,
     "fifa_w_rank": 101,
-    "news_score": 0.68,
+    "news_score": 0.67,
     "news_title": "Malawi FA chief backs Infantino, credits FIFA investment for World Cup breakthrough - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNejR2WHZkaWNtdDFyTnFtTFhtUnE1cEJ5SkhVMlBLNG9rWmd1Sjc0OFlSczVJR24xdVJLUUpQY1VjbW9HeVZaNTY3ZXFhcnlVY3RtUXhCbEJfRnlDYklWM05jbFp6MkxWM1dGUWxTalM4QjF5SVd0aXhncEpBVXoxR3dsSTVPdGlYeTlzcXd5Rl8tSndmNEczNFR5UDR4dGswUWxWck1iVUhfSnBTbzQ5WGxPNm9iMjBzdXdINUl5aUU4OHdZQVA4?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "92m ago",
+    "news_age": "94m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -27069,7 +27062,7 @@
     "refugees_rank": null,
     "union_rate": 85.6,
     "union_rate_rank": null,
-    "news_score": 1.38,
+    "news_score": 0.94,
     "news_title": "Xavi named as new Netherlands head coach until 2030 World Cup - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeElXV3Vna19EYlkyWmlvODhEZE5KQndiLXp6UWFSYWZMS0ZuWDRKbWlQeHZlQkRyRjBzOV9DbV9UQW13U3AwcTlVMGRyOHJqOEk1cG13Nm9TRzczeXFydUVIT1JzQU9wNVhwZkwtcV96SlI4Mk9EMGV5ck5SLXZHMFhHUURwbi1fLXc?oc=5",
     "news_image": "",
@@ -27078,7 +27071,8 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 25
@@ -31399,7 +31393,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVUYwZDhhbTV0U3VQcy1qVmtwYTA4cy1vdC1SeWM3U0Njbk5GWVV3S1NOM21PNXNmUHNPcUo3c21xTUkzTHNYLUNhZ1JTaTJZTDFHMjktcERGRFJpMDdmVE0wN0pFOGc5aXZ3N29GQXJPSThWZ25QYWUxc0FhUUx4dzVNUUZXVDBxQi1PNzRYWjNXSEpmR2VwTjdvaV84MUZaOXhpM2lRckRoZFBSMGc?oc=5",
     "news_image": "",
     "news_source": "telecompaper.com",
-    "news_age": "10h ago",
+    "news_age": "11h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -40957,7 +40951,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.13,
+    "news_score": 0.12,
     "news_title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMkhxMGxURF9FNDF6a1QtU1hsU01vdWN5bjBZYTFZd1k1SlU4Y2pqdkRMSGtxVF81Nm1naW01WnNlUWJ1WUJfbWgzVnRBZzdoQmN1V3RnNzdsZw?oc=5",
     "news_image": "",
@@ -44543,10 +44537,10 @@
     "eu_member": 0,
     "lat": 62,
     "population": 2100000,
-    "news_title": "Building Science fellowships give UMaine students real-world experience engineering solutions for Maine companies - umaine.edu",
+    "news_title": "Building Science fellowships give UMaine students real-world experience engineering solutions for Maine companies - The University of Maine",
     "news_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdWV4OThMamd3SUotdEdPM3N4TVowNXg4TEVaVklWcVppUlJqbkVycGNHZGVQYm00dUFMakFUa3R0VnlrYTVEYWVNS0VoTHFHek5vNURBTGRXR21WZ0hEalpscVNoYzhQeXFjYWVpZzdVUFVfWEhMUFpoeFcwWjhCckhmQzkySzNEc2QyZmhhRjVuazU4cktidVNVX0UydXNHc1NJNkUtWjlZWWVGV1lVeDVfMmZoc001YTk3LUJnYTBSeDNidVBTTlFhaHVCTFctYTJ6V2tLTVhZa3RIVXMw?oc=5",
     "news_image": "",
-    "news_source": "umaine.edu",
+    "news_source": "The University of Maine",
     "news_age": "6h ago",
     "news_columns": [
       "ai_research",
@@ -44575,7 +44569,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 0.83,
+    "news_score": 0.74,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
@@ -44587,11 +44581,11 @@
     "lat": 64,
     "g7_member": 0,
     "population": 1,
-    "news_title": "Two soldiers are dead after a military helicopter crashes in Texas, sparking a fire - NBC News",
-    "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX3JOUnJfSXVXYWNtSUpYUmFHUjI2NXFtWHoyM0FEa3IwZjhtTnh6bmNHdDU2SXV5dDExTVVqZnJzZVBDZUdrSlRlNHlETThlNHFYUGIteWVlTF8tWDRmOVowS1hQMFRvRXcwVkxJaV9DMm9ha1NCTjZmbEphaXFCX2dXRmEtYjhqVWtlSXRoVnFUTnVkQXdCRjh6dTNFSmludUtZZF8tMjU2Szk3ZF9XS0J3MUVaZw?oc=5",
+    "news_title": "2 soldiers killed as Apache helicopter from Fort Hood crashes in Salado, Texas - CBS News",
+    "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdzlzY2RNcW9SXzNETG5USENmeFMzS0ppYldkc21yWTVJMnhzT3ZvQVVLZnl1QUl6dmxiT3hKdHZ4dW5BcE1NMnRwNnh6cWYyT3lZZlFlV09TZG9DMUhfNGZ4LUFZYThibUxsWW5Sc2htZXRfbmwyLTVxbzQ1cWlTbVlB?oc=5",
     "news_image": "",
-    "news_source": "NBC News",
-    "news_age": "99m ago",
+    "news_source": "CBS News",
+    "news_age": "2h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
