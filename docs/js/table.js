@@ -16,7 +16,7 @@
     fetch('data/descriptions.json').then(function(r){return r.json()}).then(function(d){desc = d;});function descTip(field,title){var d=desc[field]||title;var loc=I18N.getLocale2();if(loc==='ko'||!d)return d;var m=d.match(/^([^—]+?) — ([^(]+)\s*\((.+)\)$/);if(m)return m[1].trim()+' ('+m[3].trim()+')';m=d.match(/^([^—]+?) — (.+)$/);if(m)return m[1].trim();return d;}
 
     var S = function(a,b,aRow,bRow,col,dir){
-      var na=(a==null),nb=(b==null);
+      var na=N(a),nb=N(b);
       if(na&&nb)return 0;
       if(na)return 1;
       if(nb)return -1;
@@ -26,7 +26,6 @@
     function fmtNumber(n) { if (N(n)) return '-'; if (n >= 1e9) return (n / 1e9).toFixed(1)+'B'; if (n >= 1e6) return (n / 1e6).toFixed(1)+'M'; if (n >= 1e3) return (n / 1e3).toFixed(1)+'K'; return I18N.formatNumber(n); }
     function rankBadge(r) { if(!r)return'<span style="display:inline-block;width:26px;"></span>';var n=parseInt(r),c='#8892b0';if(n<=3)c='#f0a04b';else if(n<=10)c='#5b8def';else if(n<=20)c='#3fb68b';return'<span style="color:'+c+';font-weight:700;font-size:11px;">#'+n+'</span>'; }
     function numberCell(r,v) { return'<div style="display:flex;align-items:center;width:100%;"><span style="flex:0 0 26px;text-align:left;">'+(r?rankBadge(r):'')+'</span><span style="flex:1;text-align:right;font-family:\'JetBrains Mono\',Consolas,monospace;font-size:10.5px;white-space:nowrap;">'+v+'</span></div>'; }
-    function suffix(n) { n=parseInt(n);if(!n)return'';return['th','st','nd','rd'][(n%100>10&&n%100<14)?0:(n%10>3?0:n%10)]||'th'; }
 
     var cols = [
       // Flag / Category Icon
@@ -66,7 +65,7 @@
       A(t('military'),"military_pct",78), A(t('nuclear'),"nuclear",72,false), A(t('murder'),"murder",72,false),
       // === TRAVEL ===
       A(t('tourism'),"tourism",82,false),
-      // === SPORTS (headerSort disabled for null-heavy columns) ===
+      // === SPORTS (numeric ranking columns) ===
       A(t('olympic'),"olympic",78), H(t('fifa'),"fifa_ranking",68), H(t('fifaW'),"fifa_w",72,false), H(t('basket'),"basket",72,false), H(t('cricket'),"cricket",72,false), H(t('rugby'),"rugby",72,false),
       // === ACHIEVEMENTS ===
       A(t('nobel'),"nobel",72),      A(t('quakeCnt'),"earthquake_count",72,false),      A(t('tsunami'),"tsunami_risk",72,false),      A(t('cyclone'),"cyclone_freq",72,false),      A(t('flood'),"flood_risk",72,false),      A(t('wildfire'),"wildfire_freq",72,false),      A(t('wcPart'),"worldcup_parts",72,false),      A(t('olyGold'),"olympic_gold",72,false),      A(t('olyCap'),"olympic_per_cap",72,false),      A(t('davis'),"davis_cup",72,false),      A(t('marathon'),"marathon_elite",72,false),      A(t('burglary'),"burglary",72,false),      A(t('drug'),"drug_offense",72,false),      A(t('assault'),"assault",72,false),      A(t('traffick'),"trafficking",72,false),      A(t('gang'),"gang_violence",72,false),      A(t('cancer'),"cancer",72,false),      A(t('diabetes'),"diabetes",72,false),      A(t('hiv'),"hiv_prev",72,false),      A(t('vaccine'),"vaccination",72,false),      A(t('mental'),"mental_health",72,false),      A(t('startup'),"startup_rate",72,false),      A(t('costlive'),"cost_living",72,false),      A(t('house'),"house_price",72,false),      A(t('minwage'),"min_wage",72,false),      A(t('pisaM'),"pisa_math",72,false),      A(t('pisaS'),"pisa_science",72,false),      A(t('pisaR'),"pisa_reading",72,false),      A(t('phd'),"phd_per_cap",72,false),      A(t('pub'),"research_pub",72,false),      A(t('recycle'),"recycling",72,false),      A(t('plastW'),"plastic_waste",72,false),      A(t('parkPct'),"park_area",72,false),      A(t('immig'),"immigration",72,false),      A(t('emig'),"emigration",72,false),      A(t('refugee'),"refugees",72,false),      A(t('genderGap'),"gender_gap",72,false),      A(t('lgbtq'),"lgbtq_rights",72,false),      A(t('g5g'),"g5_coverage",72,false),      A(t('ai'),"ai_research",72,false),      A(t('space'),"space_launch",72,false),      A(t('arms'),"arms_export",72,false),      A(t('peacekeep'),"peacekeeping",72,false),      A(t('intangbl'),"intangible",72,false),      A(t('film'),"film_prod",72,false),      A(t('michelin'),"michelin",72,false),      A(t('game'),"game_market",72,false),      A(t('tea'),"tea_consume",72,false),      A(t('rice'),"rice_consume",72,false),      A(t('waste'),"food_waste",72,false),      A(t('holiday'),"holidays",72,false),      A(t('influ'),"influencers",72,false),      A(t('fest'),"festivals",72,false),      A(t('tan'),"tanning",72,false),      A(t('streetfd'),"street_food",72,false),      A(t('cat'),"cat_own",72,false),      A(t('dog'),"dog_own",72,false),
@@ -235,11 +234,7 @@
       tooltip:function(e,c){var d=c.getRow().getData(),r=d[field+'_rank'];return descTip(field,title)+' — '+(r?'#'+r:'순위없음');},
       formatter:function(c){var d=c.getRow().getData(),v=d[field];return numberCell(d[field+'_rank'],!N(v)?fmtNumber(v):'-');}};
       if(v===false)col.visible=false;return col;}
-    function H(title,field,w,v){var col={title:title,field:field,width:w,sorter:S,
-      headerTooltip:function(){return descTip(field,title);},
-      tooltip:function(e,c){var d=c.getRow().getData(),r=d[field+'_rank'];return descTip(field,title)+' — '+(r?'#'+r:'순위없음');},
-      formatter:function(c){var d=c.getRow().getData(),v=d[field];return numberCell(d[field+'_rank'],!N(v)?fmtNumber(v):'-');}};
-      if(v===false)col.visible=false;return col;}
+    function H(title,field,w,v){return A(title,field,w,v);}
     function E(field,w){return{title:t('election'),field:field,width:w,
       sorter:function(a,b,aRow,bRow,col,dir){var da=aRow.getData().election_days,db=bRow.getData().election_days;var na=N(da),nb=N(db);if(na&&nb)return 0;if(na)return 1;if(nb)return -1;return dir==='desc'?db-da:da-db;},
       headerTooltip:function(){return descTip(field,t('election'));},
@@ -376,11 +371,10 @@
     setTimeout(applyColspans, 200);
     setTimeout(applyColspans, 800);
 
-    // 기존 컬럼 순서 복원 (검색빈도 반영은 applyColumnOrder에서)
+    // 컬럼 순서는 columnMoved에서 저장 (검색빈도는 trackSearchCount에서 반영)
 
     // ── 1행1열(국기헤더): 알파벳 컬럼 정렬 리셋 ──
     // ── 1행2열(국가명헤더): 국가명 A-Z 소팅 토글 ──
-    var countryNameSortDir = "asc";  // A-Z 기본
 
     table.on("headerClick", function(e, column) {
       var field = column.getField();
@@ -443,26 +437,6 @@
         var newOrder = allCols.slice(0, 2).concat(front).concat(rest.filter(function(f) { return allCols.indexOf(f) >= 2; }));
         try { reorderColumns(newOrder); } catch(e) {}
       }
-    }
-
-    // 기존 컬럼 순서 복원 시 검색 빈도 반영
-    function applyColumnOrder() {
-      var savedOrder = localStorage.getItem('rankerage_col_order');
-      var counts = {};
-      try { counts = JSON.parse(localStorage.getItem('rankerage_search_counts') || '{}'); } catch(e) {}
-      var freq = Object.keys(counts).filter(function(f) { return counts[f] >= 3; });
-
-      if (!savedOrder && freq.length === 0) return;
-
-      var allCols = table.getColumns().map(function(c) { return c.getField(); });
-      var order = savedOrder ? JSON.parse(savedOrder) : allCols;
-
-      // flag(0), country(1)는 무조건 앞에
-      var front = freq.filter(function(f) { return f !== 'country_code' && f !== 'country_name_en' && order.indexOf(f) >= 0; });
-      var rest = order.filter(function(f) { return f !== 'country_code' && f !== 'country_name_en' && front.indexOf(f) < 0; });
-      var newOrder = ['country_code', 'country_name_en'].concat(front).concat(rest);
-
-      try { reorderColumns(newOrder); } catch(e) {}
     }
 
     // 컬럼 순서 저장 (프로그램적 재정렬 시 제외)
@@ -635,7 +609,7 @@
       "여행 관광 여권 공항 비자": ["tourism", "airports", "aviation"],
       "노인 연금 은퇴 고령 수명": ["life_expectancy", "median_age", "death_rate"],
       "성관계 섹스 피임 콘돔 데이트": ["teen_pregnancy"],
-      "결혼 이혼 혼인 가족": ["divorce", "child_marriage", "divorce"],
+      "결혼 이혼 혼인 가족": ["divorce", "child_marriage"],
       "노동 임금 실업 근로 파업": ["salary", "workhours", "unemp", "union_rate", "child_labor"],
       "국제기구 OECD EU G20 ASEAN NATO": ["oecd_member_order", "eu_member", "g20_member", "g7_member", "asean_member", "apec_member", "nato_year"],
       "생활 물가 집값 자동차 교통": ["car_density", "gas_price", "line_length", "electricity"],
@@ -1052,19 +1026,6 @@
     document.getElementById('detailPanel').addEventListener('click',function(e){if(e.target===this)closeDetail();});
     document.getElementById('detailClose').addEventListener('click',closeDetail);
     document.addEventListener('keydown',function(e){if(e.key==='Escape'){document.getElementById('anthemModal').style.display='none';closeDetail();}});
-    table.on("cellClick",function(e,cell){
-      var f=cell.getColumn().getField();
-      if(f==='country_code'){
-        var rowPos = cell.getRow().getPosition();
-        if (rowPos === 0) {
-          // Header click already handled by headerClick — skip
-          return;
-        } else {
-          openDetail(cell.getRow().getData());
-        }
-      }
-    });
-
     // ── 국가명 클릭 → 해당 국가의 강한 순위순으로 컬럼 재정렬 ──
     // onclick="window.__countrySort(code)" 로 formatter에서 직접 호출
     window.__countrySort = function(code) {
@@ -1358,13 +1319,9 @@
       });
     });
 
-    // Trend chart for GDP, Population, Life Exp, GDP/cap
-    var trendFields = {"gdp":1,"gdp_per_capita":1,"population":1,"life_expectancy":1,"urban_pop":1,"internet_pct":1,"military_pct":1,"health":1,"fertility":1,"forest":1,"edu":1,"rd":1,"poverty":1,"birth_rate":1,"death_rate":1,"infant_mortality":1,"exports":1};
-    var historyData = null;
+    // Trend chart modal (history.json loaded lazily via loadHistory)
     var chartInstance = null;
     var chartModal = document.getElementById("chartModal");
-    var chartCanvas = document.getElementById("trendChart");
-    var chartTitleEl = document.getElementById("chartTitle");
     var chartClose = document.getElementById("chartClose");
     var chartOverlay = document.getElementById("chartOverlay");
 
@@ -1377,97 +1334,9 @@
       if (chartInstance) { chartInstance.destroy(); chartInstance = null; }
     }
 
-    function showTrend(field, rowData) {
-      if (!historyData || !historyData[field]) return;
-      var code = (rowData.country_code || '').toUpperCase();
-      var hist = historyData[field][code.toLowerCase()];
-      if (!hist) return;
-      var years = Object.keys(hist).sort();
-      var values = years.map(function(y) { return hist[y]; });
-      var name = I18N.countryName(code) || rowData.country_name_en;
-      
-      // Compute rank change from history data
-      var firstYear = years[0], lastYear = years[years.length-1];
-      var allData = historyData[field];
-      var rankFirst = 1, rankLast = 1;
-      try {
-        var sortedFirst = []; var sortedLast = [];
-        for (var cc in allData) {
-          if (allData[cc][firstYear] != null) sortedFirst.push({c:cc, v:allData[cc][firstYear]});
-          if (allData[cc][lastYear] != null) sortedLast.push({c:cc, v:allData[cc][lastYear]});
-        }
-        var desc = (["fifa_ranking","unemp","debt","poverty","obesity","alcohol","pm25","co2","suicide","prison","tz","murder","nuclear","divorce","inflation","gas_price","death_rate","infant_mortality","maternal_mortality","earthquakes","students_per_teacher","workhours"]).indexOf(field) < 0;
-        sortedFirst.sort(function(a,b){return desc ? b.v - a.v : a.v - b.v;});
-        sortedLast.sort(function(a,b){return desc ? b.v - a.v : a.v - b.v;});
-        rankFirst = sortedFirst.findIndex(function(x){return x.c === code.toLowerCase();}) + 1;
-        rankLast = sortedLast.findIndex(function(x){return x.c === code.toLowerCase();}) + 1;
-      } catch(e){ rankFirst = '-'; rankLast = '-'; }
-      
-      var rankChange = '';
-      if (rankFirst && rankLast && typeof rankFirst === 'number') {
-        var diff = rankFirst - rankLast;
-        if (diff > 0) rankChange = ' ↑' + diff + ' (#' + rankFirst + '→#' + rankLast + ')';
-        else if (diff < 0) rankChange = ' ↓' + Math.abs(diff) + ' (#' + rankFirst + '→#' + rankLast + ')';
-        else rankChange = ' = #' + rankFirst;
-      }
-      var title = (colLabels[field] || field) + ': ' + name + ' ' + rankChange;
-      
-      chartTitleEl.textContent = title;
-      chartModal.style.display = 'block';
-      if (chartInstance) chartInstance.destroy();
-      var ctx = chartCanvas.getContext('2d');
-      chartInstance = new Chart(ctx, {
-        type: 'line',
-        data: {
-          labels: years,
-          datasets: [{
-            label: name,
-            data: values,
-            borderColor: '#e0c87c',
-            backgroundColor: 'rgba(224,200,124,0.1)',
-            borderWidth: 2,
-            pointBackgroundColor: '#e0c87c',
-            tension: 0.3,
-            fill: true
-          }]
-        },
-        options: {
-          responsive: true,
-          maintainAspectRatio: true,
-          plugins: { legend: { display: false } },
-          scales: {
-            x: { ticks: { color: '#8892b0', font: { size: 11 } }, grid: { color: 'rgba(255,255,255,0.05)' } },
-            y: { ticks: { color: '#8892b0', font: { size: 11 }, callback: function(v) { return v >= 1e9 ? (v/1e9).toFixed(1)+'B' : v >= 1e6 ? (v/1e6).toFixed(1)+'M' : v >= 1e3 ? (v/1e3).toFixed(0)+'K' : v; } }, grid: { color: 'rgba(255,255,255,0.08)' } }
-          }
-        }
-      });
-    }
-
     // Column labels for chart title
     var colLabels = {};
     cols.forEach(function(c) { colLabels[c.field] = c.title; });
-
-    // Load history data lazily on first trend click
-    var historyData = null;
-    var historyLoading = false;
-    function ensureHistory(callback) {
-      if (historyData) { callback(); return; }
-      if (historyLoading) {
-        // Wait for in-flight fetch — retry up to 50x at 100ms
-        var retries = 0;
-        var check = setInterval(function() {
-          if (historyData) { clearInterval(check); callback(); }
-          if (++retries > 50) { clearInterval(check); }
-        }, 100);
-        return;
-      }
-      historyLoading = true;
-      fetch('data/history.json').then(function(r){return r.json()}).then(function(d){
-        historyData = d;
-        historyLoading = false;
-        callback();
-      }).catch(function(){ historyLoading = false; });
-    }
 
     // Cell selection
     var isSelecting=false,startCell=null,lastCell=null,lastMouseY=0,SCROLL_SPEED=10,SCROLL_MARGIN=50;
@@ -1491,32 +1360,6 @@
         }
       }, { passive: false });
     })();
-
-    // ── Unified column layout: single source of truth for column ordering ──
-    var currentMetric = 'population';
-    var targetKeywords = {"gdp": "finance investing stocks economy business banking", "gdp_per_capita": "wealth income investing luxury", "population": "demographics census data analytics", "life_expectancy": "healthcare health insurance medical", "happiness": "wellness travel lifestyle happiness", "tourism": "travel tours flights hotels vacation", "edu": "education university online courses learning", "internet_pct": "internet broadband technology cloud", "coffee": "coffee cafe specialty coffee beans", "beer": "beer craft beer brewery alcohol", "olympic": "sports olympics fitness training", "fifa_ranking": "soccer football sports betting", "real_estate": "real estate property housing mortgage", "renew": "solar energy renewable green energy", "startup_rate": "startups business entrepreneurship venture capital", "military_pct": "defense military security aerospace", "forest": "environment nature conservation eco tourism"};
-    var defaultKeywords = 'country comparison rankings data statistics world';
-
-    function updateAdTargeting() {
-      var sorter = table.getSorters()[0];
-      var metric = sorter ? sorter.field : 'population';
-      if (metric === currentMetric) return;
-      currentMetric = metric;
-      var keywords = targetKeywords[metric] || defaultKeywords;
-      // 페이지 메타 키워드 업데이트 (AdSense 크롤러용)
-      var metaKw = document.querySelector('meta[name="keywords"]');
-      if (!metaKw) {
-        metaKw = document.createElement('meta');
-        metaKw.name = 'keywords';
-        document.head.appendChild(metaKw);
-      }
-      metaKw.content = keywords;
-      // GPT 패스백 (있는 경우)
-      if (window.googletag) {
-        window.googletag.pubads().setTargeting('metric', [metric]);
-        window.googletag.pubads().setTargeting('keywords', keywords.split(' '));
-      }
-    }
 
   // ── Unified column layout: single source of truth for column ordering ──
   var _reordering = false;
@@ -1543,15 +1386,6 @@
     _reordering = false;
     localStorage.setItem('rankerage_col_order', JSON.stringify(cols.map(function(c){return c.getField();})));
   }
-  function resetLayout() { if (_reordering) return; layoutColumns([]); }
-  // Trigger on sort/load
-  table.on('dataSorted', function() {
-    resetLayout();
-  });
-  table.on('dataLoaded', function() {
-    setTimeout(function(){ layoutColumns([]); }, 600);
-  });
-
   // ── Auto-rotation: table comes alive ──
   var autoRotate = true;
   var rotationInterval = 180000;
@@ -1592,9 +1426,6 @@
 
   function pauseRotation() {
     rotationPaused = true;
-  }
-  function resumeRotation() {
-    rotationPaused = false;
   }
   table.on("headerClick", function(e, column){
     pauseRotation();
