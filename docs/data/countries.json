@@ -2540,9 +2540,7 @@
     "news_source": "BBC",
     "news_age": "12h ago",
     "news_columns": [
-      "olympic",
-      "fifa_w",
-      "fifa_ranking"
+      "olympic"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3302,12 +3300,12 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.69,
+    "news_score": 0.68,
     "news_title": "Bangladesh wants durable economic partnership with US: PM - The Daily Star",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0RobDA2R00tX05jNHMwamZwS2hycTk3WUo1MzJBeXZLYXo1SWRqRVcycjg1Nm8yZmM4dXh6cGNNYkdENk9uYl9BWjN5LURiRTFyWkVGWXJfWGVlOG1kRVV1WTVpek5OUWtrMy1pZVJfUzkwSWxCZ1dUZlFYSlhJa2lFV2JXald3Z1hzZ1J2TXBhbm5xZjV2MkhTZGE1Y3lsVlZNWDdfWGg3LXNrd2Rr?oc=5",
     "news_image": "",
     "news_source": "The Daily Star",
-    "news_age": "89m ago",
+    "news_age": "91m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -6901,12 +6899,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.4,
+    "news_score": 0.48,
     "news_title": "World Cup and June’s hot weather help UK economy withstand Iran war pressures - Yahoo! Finance Canada",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMVZMSTlFZnVKTU9palZvMzlWZno1cUI2UDNfVmdpMzZpTktmYkVKZkl4dUZfWktjVlFSdEhNbW5NWUZDUncxUUZOV1RJdDA4YnQwalZUcFl4Zm53T19JQTM4OWFBWEdRYzFrazJXRC16RlBlQWhVNjVGSnNxSXhUUkVn?oc=5",
     "news_image": "",
     "news_source": "Yahoo! Finance Canada",
-    "news_age": "115m ago",
+    "news_age": "117m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -7966,7 +7964,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.21,
+    "news_score": 0.15,
     "news_title": "US, Japan Plan World's Deepest Undersea Mine to Challenge China - Bloomberg",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0xRUWVsZmFoaC1wRnpOYXUwV0tsSEU3UnVHbGllR0NfMmRsTGhZaGNsZXFaOWxOUGczNTJmYlBRbHg4TkxOSzR5Wm1sS0hheTQ5MGowcWVVcmdiNzc0NnZxR3pia3JJWUNNOGxhMzBvLW9vcU9yeEZqMDRUU0p2eGdMcW5NLTlNRkRnMlN6U24wRlhKdnJQdGdKV2hMMF9GZDlHMXhETVRZUHN2c2ZUQ3FYQQ?oc=5",
     "news_image": "",
@@ -8212,7 +8210,7 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.18,
+    "news_score": 0.17,
     "news_title": "'End of the world': Meridian woman stranded in Colombia after 7.4 magnitude earthquake - KTVB",
     "news_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNR1NLb2dpLThHMm8zMkJJblVscnQ5NXhfclNjZmowcXZqcXg2V3Rad2U3bGEzX2EyaUVPRXNQVFVfRU9wUjhnVWlfdERYUnNjdlhQVENKdFhoWVlBOHMwYWc2WlM4OHR6aV9LSlVvUmZubk9CWVNQU1pTcDdvZlNDazd5WVdSVmxqcWw3bXc4LW9WWXlVbVpfdWZaazM2SFgtNGhTZ0pYNnFsbjhZM2ZObE1BRk1hU0tUeFltcTNFZFdPZG9xQXYybEhNUGhEVUlRS202b0RRU0d6X3JmUTZHV056eVRvSmRoaU4yVmxsR0ZnSGJQTDJWWWFn?oc=5",
     "news_image": "",
@@ -12938,12 +12936,12 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.88,
+    "news_score": 0.9,
     "news_title": "🚨 Zinédine Zidane’s France staff revealed! - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSEQ3N2R2SnNBcHh5UnY2Si02UDNBNUZmVUR1NHdMZ1BGRk14RXZTUjVMUVdVLUdLNWV0Q2NTNkp2SlMzMkVyM1N2MlRicTlVa2JsSE9aZ29UajY0OXlaRDlLb2tfZnR4VlZoYnlONlJ3THl4cU1KWjNMYlNFN1BGWk5DSQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "92m ago",
+    "news_age": "94m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -16702,7 +16700,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeTNFU0IyOGpzRDdCWEZxY1FTUXIzZHlnLS1DT1hiTWZ6SFVhdlBabTYyU1FldzhEMllhWG5TdzEyYklSYW5IZXhWd25rUXQ4UmJnTHZqbWR1S3VWdFU5Xy0yWHNnczR3QkRqbHhYNHhXUHJsdHBpdTNSRkRkVC1JNDFYd0s4dk5LNzVuem1ocGo?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "115m ago",
+    "news_age": "117m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -17272,15 +17270,13 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.82,
+    "news_score": 1.78,
     "news_title": "World Cup and June’s hot weather help UK economy withstand Iran war pressures - Yahoo! Finance Canada",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMVZMSTlFZnVKTU9palZvMzlWZno1cUI2UDNfVmdpMzZpTktmYkVKZkl4dUZfWktjVlFSdEhNbW5NWUZDUncxUUZOV1RJdDA4YnQwalZUcFl4Zm53T19JQTM4OWFBWEdRYzFrazJXRC16RlBlQWhVNjVGSnNxSXhUUkVn?oc=5",
     "news_image": "",
     "news_source": "Yahoo! Finance Canada",
-    "news_age": "115m ago",
+    "news_age": "117m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
       "olympic"
     ],
     "bottom50_wealth": null
@@ -19132,18 +19128,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.92,
+    "news_score": 1.13,
     "news_title": "Key Japan war shrine bans military cosplay ahead of second world war anniversary - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaWJPeFJIRWZVSVIyMElsZTFoYkg1WVI2MnMxd0t0dGhuZkV3WTZ5bHR2a0FpLUU3YnlSOThrT2k4SmdOdDI0cTVhUWJOcXRWVHAwamF5UjhfdjhvZ0doSHdaUHhUb25pWVFGSUhmcktSUk8xRTk4TjhpR2tGQUhrQXl2b0dkdlU4UUkzS1UyQmRkdi12TEoyU2JsQXJfNGZMd1E?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "66m ago",
+    "news_age": "68m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "olympic"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -25702,7 +25694,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN0I4Rl84djB5MTYxcFFjNHoyUlhWbFEzcU13Z2piMlBMREJkeW5WVnhIYlBJUGJGRHl5WV9TbFVQZ2M5RnZsT2ZLT1ZQNFA5SVZLdkFzMkdQU1MyV25kZkRXMklKak5URXJCbzdRN1F6bW5TWVd6aTRUQTdUNHFuMV82clZWUkU2NFl3X295V0ZDVFZmbE5lNUMydjR3SXRzclZtQ2t1aVNPTjR0MnVBTFhSUDk?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "20m ago",
+    "news_age": "22m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -31392,9 +31384,12 @@
     "news_source": "Euronews.com",
     "news_age": "87h ago",
     "news_columns": [
-      "olympic",
-      "fifa_w",
-      "fifa_ranking"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": null
   },
@@ -32057,12 +32052,12 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 1.3,
+    "news_score": 1.32,
     "news_title": "Qatar, Morocco among six Arab federations backing FIFA's Infantino - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN0I4Rl84djB5MTYxcFFjNHoyUlhWbFEzcU13Z2piMlBMREJkeW5WVnhIYlBJUGJGRHl5WV9TbFVQZ2M5RnZsT2ZLT1ZQNFA5SVZLdkFzMkdQU1MyV25kZkRXMklKak5URXJCbzdRN1F6bW5TWVd6aTRUQTdUNHFuMV82clZWUkU2NFl3X295V0ZDVFZmbE5lNUMydjR3SXRzclZtQ2t1aVNPTjR0MnVBTFhSUDk?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "20m ago",
+    "news_age": "22m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -39986,8 +39981,6 @@
     "news_source": "The Washington Post",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
       "olympic"
     ],
     "bottom50_wealth": 5.2,
@@ -42192,7 +42185,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.11,
+    "news_score": 0.18,
     "news_title": "Zambia elections haunted by ghost of incumbent president’s arch-rival - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZkREV1VLVnlYaHdIYnBBcFpxX2RmNHhXMjU1ZWF3c0pDZVBldzAwWExldzJaaE9lamxmdnhnVVpfakRLM3MwZllGOV9ZX0ZZLTVzQkdna1NINFpFc3JMZ2FuMEUwRWV1TlZoSkRFelFWZUFUR1Y3RHlSNjNpZUdQWld1VGxZVWZHOUFlOWcyenlwU2xNTzRhVVl0SENDMW1XRkppbk1CV1ItcE8tRFJqRGlMN1BHamhTQUE5dnFxYl9LbmFkMTZWNGRfd3NsbGJDbnVhbQ?oc=5",
     "news_image": "",
@@ -42201,7 +42194,8 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -44136,7 +44130,7 @@
     "refugees_rank": null,
     "union_rate": 62.2,
     "union_rate_rank": null,
-    "news_score": 0.07,
+    "news_score": 0.12,
     "election_title": "Zambian Presidency",
     "election_url": "https://www.electionguide.org/countries/id/239",
     "bottom50_wealth": null,
@@ -44563,7 +44557,7 @@
     "asean_member": 0,
     "gdp": 342000,
     "film_prod": 5,
-    "news_score": 0.62,
+    "news_score": 0.61,
     "g20_member": 0,
     "independence": 2013,
     "apec_member": 0,
@@ -44579,7 +44573,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVEdLNHEtYXZHUU91a0VHQUhWLVBCLXdDUGdYbnE1N2dCNjB4cWNLSjg1ZHVFUF95anBtQ1RCVHAyaVBGUURjWTBsV1Z3bjV5SG52RGY5VFFDMGQ4NWJId0NneEtaY01tUmJsenBrUkIzVjNncDVTTEwzaU5FS1F6VVBaMUdwNzBrVFc5TmlxUTk1UDV5NWJFd3BLVlZLbUpHaDN6NEVDWG5WbkhVQ1dzYThuYi1FeE5RV3h3b05TbXRnV0JwVzhGNnNIMnV6RzM3?oc=5",
     "news_image": "",
     "news_source": "facebook.com",
-    "news_age": "114m ago",
+    "news_age": "116m ago",
     "news_columns": [
       "car_density",
       "gas_price",
