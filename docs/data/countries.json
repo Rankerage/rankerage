@@ -1129,7 +1129,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObjh2cWluQmlrcnpzMzFqanI4eUJzcUEzVzBfLTFrS3N4REJ4Y21Rd0h0cU52YnVpcWJRc1NwZFdVWmR1aWtxeHoyd01DTW1TMnltbUJMN1V4NHBGZDEyaWk2Z0xtYXJMVkVrRFN1UnZjZnBpNTdPTEJhU2JNQThHT3U3dUtmWVI5bmtDd09SNXQ1WENrMnA1d3ZSRUNDejJpNHVPa214eUp6SEJQZGV6eFBLN25ZcnN4TG1ha3VDWnI2aHBUNzBEWA?oc=5",
     "news_image": "",
     "news_source": "African Development Bank Group",
-    "news_age": "1341h ago",
+    "news_age": "1342h ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -3811,7 +3811,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWHBydndlc2F4c3lMRWFPb0J5VHFoSkFuSER5b21vYmVZbXByWkRVOXRiZWM1S0o2bnBMUWxYbjM0VU5jMEN6bW1vVnlSWGJtckFua3dLV0ZkZFI1d0lGTVlCVTVwb3pkV3lxUHR0Zm5QN215VUN3LWpMYkdwNVRheUJwV2hmQ0xsYnBQUHl6X0I1TFAzNHdXMmhnV3dFdmVQUlRCU1R2all0bl9QSmlMLWdWcU9RWnFEUHlDdEN4UWZUSWZNU21ZRkUzWGwwd0E?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "17h ago",
+    "news_age": "18h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -7968,16 +7968,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.14,
+    "news_score": 0.15,
     "news_title": "US, Japan Plan World's Deepest Undersea Mine to Challenge China - bloomberg.com",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0xRUWVsZmFoaC1wRnpOYXUwV0tsSEU3UnVHbGllR0NfMmRsTGhZaGNsZXFaOWxOUGczNTJmYlBRbHg4TkxOSzR5Wm1sS0hheTQ5MGowcWVVcmdiNzc0NnZxR3pia3JJWUNNOGxhMzBvLW9vcU9yeEZqMDRUU0p2eGdMcW5NLTlNRkRnMlN6U24wRlhKdnJQdGdKV2hMMF9GZDlHMXhETVRZUHN2c2ZUQ3FYQQ?oc=5",
     "news_image": "",
     "news_source": "bloomberg.com",
-    "news_age": "7h ago",
+    "news_age": "8h ago",
     "news_columns": [
-      "oil_prices",
-      "gdp_growth",
-      "inflation_rate"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -8211,19 +8209,14 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.47,
+    "news_score": 0.54,
     "news_title": "'End of the world': Meridian woman stranded in Colombia after 7.4 magnitude earthquake - KTVB",
     "news_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNR1NLb2dpLThHMm8zMkJJblVscnQ5NXhfclNjZmowcXZqcXg2V3Rad2U3bGEzX2EyaUVPRXNQVFVfRU9wUjhnVWlfdERYUnNjdlhQVENKdFhoWVlBOHMwYWc2WlM4OHR6aV9LSlVvUmZubk9CWVNQU1pTcDdvZlNDazd5WVdSVmxqcWw3bXc4LW9WWXlVbVpfdWZaazM2SFgtNGhTZ0pYNnFsbjhZM2ZObE1BRk1hU0tUeFltcTNFZFdPZG9xQXYybEhNUGhEVUlRS202b0RRU0d6X3JmUTZHV056eVRvSmRoaU4yVmxsR0ZnSGJQTDJWWWFn?oc=5",
     "news_image": "",
     "news_source": "KTVB",
     "news_age": "3h ago",
     "news_columns": [
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -12942,7 +12935,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42OVlMNk55UHpxdkFwQWtDMUhCUmFmTEtJVnFfcC13ckl4SnNfdVJ1N1k2QXNnckwxR2hLMy15OGdKV29TUkJkQmZCeW5HODVLeWU0akFlaGRyQWIxYzJmYjgzY3BjY3M2ejBsSC1TZ1M?oc=5",
     "news_image": "",
     "news_source": "mofa.go.jp",
-    "news_age": "3237h ago",
+    "news_age": "3238h ago",
     "news_columns": [
       "fifa_w"
     ],
@@ -16697,14 +16690,15 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.47,
+    "news_score": 0.72,
     "news_title": "India at Women's FIH Hockey World Cup 2026: Schedule, where to watch, opponents, key players and all you need to know - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc2Q3SHpfMmZrcW80V21USl83dE9SRTE2dEJQRUxyZWN4bEJKLVN4SUp1bHNqbEZ1U2YxUlBNVS1sSjhsZUxlUXp0WVczeXB6NkpUWTRiN0o1ZDRaUVc4R2FybGRMY3IyNWdzSmZtT083YUhTNzZ6aVR1VG9fdnhRTDNEUm1XUFZOQzhtNF85N1p5eGRtbEhIcmpZRTZSdFRPZlFKcl9nZ0U1MzFNSlpIUmtfOHBIWHJyeF9QQXRjeVRScUFNOW9fSnlJeXVrOFQtWFJWdmx1QzVZbS1hRFhXNnh3?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "79m ago",
+    "news_age": "81m ago",
     "news_columns": [
-      "fifa_w"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17274,12 +17268,7 @@
     "news_source": "The Economist",
     "news_age": "11h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -18008,7 +17997,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2ZCVmJ4amt6UTBvQ05kcDBFWnNzb1N6QldHQ3RSWVZ0NUdzemNtaTJGaTlzM1N5dVR0djFiVV9XUGNSc1JCR2RnczNYeTUxMW5WZU5aMmJLMVVqcElmVHpibHdWMm9xOFlLWGlhY2NlQUV5cDVVcTRWZHJaNGxjaXVR?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "3621h ago",
+    "news_age": "3622h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -19134,19 +19123,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.0,
+    "news_score": 1.29,
     "news_title": "Japan’s Underground Lab Wants to Solve the World’s Nuclear Waste Problem - The Diplomat – Asia-Pacific Current Affairs Magazine",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnJlYlNUSkxkT1d3RjVsT0oyd3lFNkoxTERIZWZRMy1EcmNObEpJWENpc2MyRm40NFQ1ZEYwRGozWnFKWUpYX1hqNExOa082X0ZZRXp4ZjJFOWIzUVFBRXdwNUpxczlVaXdkbU1WbFU1d1FaR0tzYThPOWhxN19hbjNzM3pEU0h1ZGxfS0p2UmdObmlqeElXYTlfQXpjejR1T21SNk5R?oc=5",
     "news_image": "",
     "news_source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
-    "news_age": "95m ago",
+    "news_age": "97m ago",
     "news_columns": [
-      "cricket",
-      "olympic",
-      "exports",
-      "imports",
-      "gdp",
-      "nuclear"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -19513,7 +19497,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBUXBoR0dvbDVRdDJpcjYzT0FJbm51Ujg1WlRnV1dqRFlzM3pWZVg0YjJqZGR6b1hiRWlFbXVqRmNhZk1Nbk81azhyZ095dHY2dkZRVGZpVWRYMVhHQlppcUV6U0RsanVt?oc=5",
     "news_image": "",
     "news_source": "아시아경제",
-    "news_age": "21h ago",
+    "news_age": "22h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -27063,7 +27047,7 @@
     "refugees_rank": null,
     "union_rate": 85.6,
     "union_rate_rank": null,
-    "news_score": 0.31,
+    "news_score": 0.3,
     "news_title": "Xavi named as new Netherlands head coach until 2030 World Cup - sports.yahoo.com",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeElXV3Vna19EYlkyWmlvODhEZE5KQndiLXp6UWFSYWZMS0ZuWDRKbWlQeHZlQkRyRjBzOV9DbV9UQW13U3AwcTlVMGRyOHJqOEk1cG13Nm9TRzczeXFydUVIT1JzQU9wNVhwZkwtcV96SlI4Mk9EMGV5ck5SLXZHMFhHUURwbi1fLXc?oc=5",
     "news_image": "",
@@ -28203,12 +28187,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.63,
+    "news_score": 0.62,
     "news_title": "Academy, LBS target informal economy with new programme - The Guardian Nigeria News",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQby1qMFBST2F5ekZIX09TUXExMnZXUUVwS2gyOWxBemtFbThpRElWSUJiNW5LekpubFkxZVN1WU12SzVGR2pPTmtJa0dFalB5VFRJZ1ZGcEJuZ0duS1BaQXNlLUIzbXRKbzVTbXNRcVdSWGF6QXkxck9Eb2ZNLWd2NGRHdklaUklxMkdKSXdndno3Zw?oc=5",
     "news_image": "",
     "news_source": "The Guardian Nigeria News",
-    "news_age": "108m ago",
+    "news_age": "110m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -33064,7 +33048,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53anN3Y0FsQkNxd0drdHRCQVU1Mk1Ja09FT0wtdjNJbnNMMTBINUtsZ1N3dVF5a09XMHdvTHRrTmVyaElUbmFpRTV0OTJ6V2dYclljUjlNSXpfRFFDcWdv?oc=5",
     "news_image": "",
     "news_source": "Nature",
-    "news_age": "1053h ago",
+    "news_age": "1054h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -33582,7 +33566,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOGU3ampGbjducVgtbzZRLWl3UWdxUFJkSnEyVlpabXBWZ1ZOTXg2cy1Cb2NJbUs3am9fNDJDcnFiVUo0OWhuMHZmTmRnUTR2T3F2aEtwSUhyajlTcGtlMDRBVkItaU5EUmJWb19BY0ZvUkk1d3BEQVgxWFl3ZjY4bXBtWHF3bmdwbVRxSU51THNOZ1FHT1RWYXoxckQzTGFxSUFHRVJMSnhWZlRsbTh1NDF6NHNBaUJOSTlNM21FXy1FWnRXazhWcmFXRFNVbU1FNGJIQkpfTnI?oc=5",
     "news_image": "",
     "news_source": "UConn Today",
-    "news_age": "3932h ago",
+    "news_age": "3933h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -34046,7 +34030,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT2VkcXliWU1DRE5INTFHWHdpNFE2Z0Y1TlBnTGlPeTRCUGtBWlExZjg4R1NHaGxSZDZENzMzNUxDT0pqb3BwMTdPenJJZWtiU1V5WE11YnQxWnBoQWkwYzZjTlZ6U1k3TDVFaFR5QjVyV1ZqQlBuQ3hZSDN4WmxYU2VXLXhjb2hIWU00RA?oc=5",
     "news_image": "",
     "news_source": "Yahoo Finance Singapore",
-    "news_age": "58m ago",
+    "news_age": "60m ago",
     "news_columns": [
       "gender",
       "gender_gap",
@@ -35871,7 +35855,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOE1LbGtnVjhVTFpzcVpZYWxlSXpVbXJPd0RCeTNGWUxtNHp4V1JJRGNObE5uYVBRQnV3djVsU0VneG9EM3FnaVZLbUJ3YXdIcGVOVUQwckd6eUhOS3hCUTFHNGJMUWwzV2lCLXhCNk92WWpyUndIclp0dm10NnpxekNR?oc=5",
     "news_image": "",
     "news_source": "upgradedpoints.com",
-    "news_age": "453h ago",
+    "news_age": "454h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -39995,12 +39979,12 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.43,
+    "news_score": 0.45,
     "news_title": "CIA had ‘low confidence’ in Iranian threat before Trump switched planes in Turkey - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWng0Yy10eHlZdTNFcVMtZHA3d2pjTUExY0htX3R1eC1OaEdlaTZqdUNpMFpSVDZrZ3ItNVhDMlFPaHRDMHJWdlVOeWJoanZMLXlHdi16RF9mUU9tSkg0Q0MzNzVhQWxxVzd4ZzJrSkRnRXEyR0RQSnZ4ZmRXMGh1WVJHbXVrS3dLWGUyLXJyN29za2t0YWlHQ3hIemFyRi1ZaFRzay1PT19tRlBpNndaM1hpOFVpcHR4MWRWa0N3dGRoVzBvVnZxUHZ6SlVxeWs?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "4h ago",
+    "news_age": "2h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -44588,7 +44572,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbWptQ194dzlhWHlqWFFpVnJDV3NwUmVLbk9DcGY3VnJTNGhHMGJoczJJQzVucHhIX0g1bmFTLUpzeTh6TVVTc1Z0NjlhSlRqSzVqY3RQQXdfel9nRS0yYl9OQnVHaE9WQWotejNkelhnNWdISlA4X0E5R0toWFRrNFFYWkVJM0lTbXh3SkdyZzZIdmNzNllYQ1lzaVhmd1NkRXlwc0MwMVRMNFE?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "11h ago",
+    "news_age": "12h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
