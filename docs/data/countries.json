@@ -2847,7 +2847,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG4zUUhUV3lvcjJybFJHQlI4cjZwUzVMMGpQY3lVNlhSb3NmQ0pSbzRUcDJfczdqUzU5VUhTQmk0VkxROE1OSHg3RWtOQVIxajRBLWREYm84Ujc3TnFKZU16RW4zdUt3eG16SG5STVViQk1UQk1Ed1RWYmtWTUhkeTkyRnFsTlg4V3JzXzE4UlU3NXV4Sk01Vk11NzNvRXJhUnpMNWJXTVhxNmRpdjFUdlVBTQ?oc=5",
     "news_image": "",
     "news_source": "Euronews.com",
-    "news_age": "85h ago",
+    "news_age": "86h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -3807,7 +3807,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG4zUUhUV3lvcjJybFJHQlI4cjZwUzVMMGpQY3lVNlhSb3NmQ0pSbzRUcDJfczdqUzU5VUhTQmk0VkxROE1OSHg3RWtOQVIxajRBLWREYm84Ujc3TnFKZU16RW4zdUt3eG16SG5STVViQk1UQk1Ed1RWYmtWTUhkeTkyRnFsTlg4V3JzXzE4UlU3NXV4Sk01Vk11NzNvRXJhUnpMNWJXTVhxNmRpdjFUdlVBTQ?oc=5",
     "news_image": "",
     "news_source": "Euronews.com",
-    "news_age": "85h ago",
+    "news_age": "86h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -6900,7 +6900,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.2,
+    "news_score": 0.19,
     "news_title": "Hockey Canada Reinstates Alex Formenton, But Not His 2018 World Junior Teammates - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRWI0WFh4NkgwNXY1U0V1VEhfMGc3OWtWNUhMNWpDdmd5aDhOWHdzdjJSbkdFZENyMXBrNDlXNHZnQkJXWWRENkQyTkRNRHNaY3BxanNHcmtkNlEtR2hxRWFudFFHekpVVkFsMmI1dGozWW5tVXFXWVZIaHhSX2pPZ2IzdnRSbmFzazZzamlaaG5fUQ?oc=5",
     "news_image": "",
@@ -8204,7 +8204,7 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.25,
+    "news_score": 0.24,
     "news_title": "'End of the world': Meridian woman stranded in Colombia after 7.4 magnitude earthquake - KTVB",
     "news_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNR1NLb2dpLThHMm8zMkJJblVscnQ5NXhfclNjZmowcXZqcXg2V3Rad2U3bGEzX2EyaUVPRXNQVFVfRU9wUjhnVWlfdERYUnNjdlhQVENKdFhoWVlBOHMwYWc2WlM4OHR6aV9LSlVvUmZubk9CWVNQU1pTcDdvZlNDazd5WVdSVmxqcWw3bXc4LW9WWXlVbVpfdWZaazM2SFgtNGhTZ0pYNnFsbjhZM2ZObE1BRk1hU0tUeFltcTNFZFdPZG9xQXYybEhNUGhEVUlRS202b0RRU0d6X3JmUTZHV056eVRvSmRoaU4yVmxsR0ZnSGJQTDJWWWFn?oc=5",
     "news_image": "",
@@ -12937,12 +12937,7 @@
     "news_source": "News On AIR",
     "news_age": "1849h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "space_launch"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17270,15 +17265,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 2.58,
+    "news_score": 2.46,
     "news_title": "World Cup and June’s hot weather help UK economy withstand Iran war pressures - Yahoo Finance UK",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN2xnSkNzMHJwWXA0MjVOVHhWd0tOSmhHUnQ1Rkkwa3FEeld2aF81ajl4UDNSc0xwMkRWcDE2ejdXYmpuRlRPTWFnMWp2Qm1naEJQT2xQUXNLU190SjRGOVE0T0lyVDlQdVRaeC1kRU1sUTNGeGRNWFl5UktUUGxpOUwxNA?oc=5",
     "news_image": "",
     "news_source": "Yahoo Finance UK",
-    "news_age": "12m ago",
+    "news_age": "14m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket",
+      "gdp",
+      "gdp_per_capita"
     ],
     "bottom50_wealth": null
   },
@@ -19129,7 +19128,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.89,
+    "news_score": 0.84,
     "news_title": "Japan bans military cosplay at key war shrine ahead of second world war anniversary - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaWJPeFJIRWZVSVIyMElsZTFoYkg1WVI2MnMxd0t0dGhuZkV3WTZ5bHR2a0FpLUU3YnlSOThrT2k4SmdOdDI0cTVhUWJOcXRWVHAwamF5UjhfdjhvZ0doSHdaUHhUb25pWVFGSUhmcktSUk8xRTk4TjhpR2tGQUhrQXl2b0dkdlU4UUkzS1UyQmRkdi12TEoyU2JsQXJfNGZMd1E?oc=5",
     "news_image": "",
@@ -27056,7 +27055,7 @@
     "refugees_rank": null,
     "union_rate": 85.6,
     "union_rate_rank": null,
-    "news_score": 0.2,
+    "news_score": 0.14,
     "news_title": "Xavi named as new Netherlands head coach until 2030 World Cup - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeElXV3Vna19EYlkyWmlvODhEZE5KQndiLXp6UWFSYWZMS0ZuWDRKbWlQeHZlQkRyRjBzOV9DbV9UQW13U3AwcTlVMGRyOHJqOEk1cG13Nm9TRzczeXFydUVIT1JzQU9wNVhwZkwtcV96SlI4Mk9EMGV5ck5SLXZHMFhHUURwbi1fLXc?oc=5",
     "news_image": "",
@@ -27065,7 +27064,8 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 25
@@ -28195,7 +28195,7 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.28,
+    "news_score": 0.29,
     "news_title": "Academy, LBS target informal economy with new programme - The Guardian Nigeria News",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQby1qMFBST2F5ekZIX09TUXExMnZXUUVwS2gyOWxBemtFbThpRElWSUJiNW5LekpubFkxZVN1WU12SzVGR2pPTmtJa0dFalB5VFRJZ1ZGcEJuZ0duS1BaQXNlLUIzbXRKbzVTbXNRcVdSWGF6QXkxck9Eb2ZNLWd2NGRHdklaUklxMkdKSXdndno3Zw?oc=5",
     "news_image": "",
@@ -31389,7 +31389,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG4zUUhUV3lvcjJybFJHQlI4cjZwUzVMMGpQY3lVNlhSb3NmQ0pSbzRUcDJfczdqUzU5VUhTQmk0VkxROE1OSHg3RWtOQVIxajRBLWREYm84Ujc3TnFKZU16RW4zdUt3eG16SG5STVViQk1UQk1Ed1RWYmtWTUhkeTkyRnFsTlg4V3JzXzE4UlU3NXV4Sk01Vk11NzNvRXJhUnpMNWJXTVhxNmRpdjFUdlVBTQ?oc=5",
     "news_image": "",
     "news_source": "Euronews.com",
-    "news_age": "85h ago",
+    "news_age": "86h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -32064,14 +32064,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zZk9XazIwT29Pd3VFaDc3bUt0RHZuTDIwZDJvZThuLWdqNkdVd1JaekJrdUdUWTc0MXVIMnVyQ1V1YmFkY3NwQ2QxUEV4UjdaRTBUMGdkcHdOS2VFa09uV3NMWQ?oc=5",
     "news_image": "",
     "news_source": "Arab News PK",
-    "news_age": "42h ago",
+    "news_age": "43h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -32859,7 +32855,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.35,
+    "news_score": 0.34,
     "news_title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMkhxMGxURF9FNDF6a1QtU1hsU01vdWN5bjBZYTFZd1k1SlU4Y2pqdkRMSGtxVF81Nm1naW01WnNlUWJ1WUJfbWgzVnRBZzdoQmN1V3RnNzdsZw?oc=5",
     "news_image": "",
@@ -39989,7 +39985,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWng0Yy10eHlZdTNFcVMtZHA3d2pjTUExY0htX3R1eC1OaEdlaTZqdUNpMFpSVDZrZ3ItNVhDMlFPaHRDMHJWdlVOeWJoanZMLXlHdi16RF9mUU9tSkg0Q0MzNzVhQWxxVzd4ZzJrSkRnRXEyR0RQSnZ4ZmRXMGh1WVJHbXVrS3dLWGUyLXJyN29za2t0YWlHQ3hIemFyRi1ZaFRzay1PT19tRlBpNndaM1hpOFVpcHR4MWRWa0N3dGRoVzBvVnZxUHZ6SlVxeWs?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "62m ago",
+    "news_age": "64m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -40944,7 +40940,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.35,
+    "news_score": 0.34,
     "news_title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMkhxMGxURF9FNDF6a1QtU1hsU01vdWN5bjBZYTFZd1k1SlU4Y2pqdkRMSGtxVF81Nm1naW01WnNlUWJ1WUJfbWgzVnRBZzdoQmN1V3RnNzdsZw?oc=5",
     "news_image": "",
