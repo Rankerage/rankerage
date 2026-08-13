@@ -2540,11 +2540,9 @@
     "news_source": "vietnamnews.vn",
     "news_age": "41h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -16702,15 +16700,16 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.85,
+    "news_score": 0.88,
     "news_title": "India at Women's FIH Hockey World Cup 2026: Schedule, where to watch, opponents, key players and all you need to know - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc2Q3SHpfMmZrcW80V21USl83dE9SRTE2dEJQRUxyZWN4bEJKLVN4SUp1bHNqbEZ1U2YxUlBNVS1sSjhsZUxlUXp0WVczeXB6NkpUWTRiN0o1ZDRaUVc4R2FybGRMY3IyNWdzSmZtT083YUhTNzZ6aVR1VG9fdnhRTDNEUm1XUFZOQzhtNF85N1p5eGRtbEhIcmpZRTZSdFRPZlFKcl9nZ0U1MzFNSlpIUmtfOHBIWHJyeF9QQXRjeVRScUFNOW9fSnlJeXVrOFQtWFJWdmx1QzVZbS1hRFhXNnh3?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "107m ago",
+    "news_age": "109m ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17273,15 +17272,18 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.33,
+    "news_score": 1.48,
     "news_title": "August 12, 2026 — Trump insists US controls Hormuz, Iran says it could ‘prolong’ war with US - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pbWxQa3BOTklMZFVOT0RGLW5mSmRBRFNKeWV1R2VwUXNJOV9acS1sTzVWMFEteTgyczBlSU1QeU53RFhJVkNyc1FsS2xsVEJvRlYtWnhaXzRGT2pIbkVhVWVmU29UUDNKT0RoazFR?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "41m ago",
+    "news_age": "43m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": null
   },
@@ -18005,12 +18007,12 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.4,
+    "news_score": 0.47,
     "news_title": "CIA had ‘low confidence’ in Iranian threat before Trump switched planes in Turkey - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWng0Yy10eHlZdTNFcVMtZHA3d2pjTUExY0htX3R1eC1OaEdlaTZqdUNpMFpSVDZrZ3ItNVhDMlFPaHRDMHJWdlVOeWJoanZMLXlHdi16RF9mUU9tSkg0Q0MzNzVhQWxxVzd4ZzJrSkRnRXEyR0RQSnZ4ZmRXMGh1WVJHbXVrS3dLWGUyLXJyN29za2t0YWlHQ3hIemFyRi1ZaFRzay1PT19tRlBpNndaM1hpOFVpcHR4MWRWa0N3dGRoVzBvVnZxUHZ6SlVxeWs?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "96m ago",
+    "news_age": "98m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -19136,15 +19138,18 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 2.03,
+    "news_score": 2.07,
     "news_title": "Japan bans military cosplay at key war shrine ahead of second world war anniversary - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaWJPeFJIRWZVSVIyMElsZTFoYkg1WVI2MnMxd0t0dGhuZkV3WTZ5bHR2a0FpLUU3YnlSOThrT2k4SmdOdDI0cTVhUWJOcXRWVHAwamF5UjhfdjhvZ0doSHdaUHhUb25pWVFGSUhmcktSUk8xRTk4TjhpR2tGQUhrQXl2b0dkdlU4UUkzS1UyQmRkdi12TEoyU2JsQXJfNGZMd1E?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "10m ago",
+    "news_age": "12m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -27061,10 +27066,10 @@
     "union_rate": 85.6,
     "union_rate_rank": null,
     "news_score": 0.25,
-    "news_title": "Xavi named as new Netherlands head coach until 2030 World Cup - Yahoo Sports",
+    "news_title": "Xavi named as new Netherlands head coach until 2030 World Cup - sports.yahoo.com",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeElXV3Vna19EYlkyWmlvODhEZE5KQndiLXp6UWFSYWZMS0ZuWDRKbWlQeHZlQkRyRjBzOV9DbV9UQW13U3AwcTlVMGRyOHJqOEk1cG13Nm9TRzczeXFydUVIT1JzQU9wNVhwZkwtcV96SlI4Mk9EMGV5ck5SLXZHMFhHUURwbi1fLXc?oc=5",
     "news_image": "",
-    "news_source": "Yahoo Sports",
+    "news_source": "sports.yahoo.com",
     "news_age": "6h ago",
     "news_columns": [
       "fifa_ranking",
@@ -32864,15 +32869,19 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.26,
+    "news_score": 0.43,
     "news_title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMkhxMGxURF9FNDF6a1QtU1hsU01vdWN5bjBZYTFZd1k1SlU4Y2pqdkRMSGtxVF81Nm1naW01WnNlUWJ1WUJfbWgzVnRBZzdoQmN1V3RnNzdsZw?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "118m ago",
+    "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -39986,12 +39995,12 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.41,
+    "news_score": 0.48,
     "news_title": "CIA had ‘low confidence’ in Iranian threat before Trump switched planes in Turkey - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWng0Yy10eHlZdTNFcVMtZHA3d2pjTUExY0htX3R1eC1OaEdlaTZqdUNpMFpSVDZrZ3ItNVhDMlFPaHRDMHJWdlVOeWJoanZMLXlHdi16RF9mUU9tSkg0Q0MzNzVhQWxxVzd4ZzJrSkRnRXEyR0RQSnZ4ZmRXMGh1WVJHbXVrS3dLWGUyLXJyN29za2t0YWlHQ3hIemFyRi1ZaFRzay1PT19tRlBpNndaM1hpOFVpcHR4MWRWa0N3dGRoVzBvVnZxUHZ6SlVxeWs?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "96m ago",
+    "news_age": "98m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -40945,15 +40954,19 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.28,
+    "news_score": 0.45,
     "news_title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMkhxMGxURF9FNDF6a1QtU1hsU01vdWN5bjBZYTFZd1k1SlU4Y2pqdkRMSGtxVF81Nm1naW01WnNlUWJ1WUJfbWgzVnRBZzdoQmN1V3RnNzdsZw?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "118m ago",
+    "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
