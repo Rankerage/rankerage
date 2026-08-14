@@ -207,19 +207,17 @@
     "union_rate": 38.4,
     "union_rate_rank": null,
     "fifa_ranking_rank": 136,
-    "news_score": 0.01,
-    "news_title": "World News in Brief: Afghanistan education, Myanmar flooding, Syria recovery, homecare workers in New York - news.un.org",
-    "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EZHkwaTd5WVBDQ0RuUWRDTzBPb3dUV2dtMy1LWjNvZTRiRFAyT0R6X2lCM0t5VHBvbTdkcFhZNjVDQl9ibjVkUlVPQ01SSUFYNTBqcElPWQ?oc=5",
+    "news_score": 0.28,
+    "news_title": "Afghanistan Cricket Board wants India T20I shifted to festival date - Yahoo Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSzdBak1tMzVuVGx3cFg5Y2hvb2IwUWNINlVFUDFCYVJIdjBJbVY0U29aNnI2M0UtZWNtTVZaRlNEdE03TDc0dXVpMlBnOGNFSGdsME1pdHdMQmtFRGJlRkI2dFUtZzBWTlVyRkRCQndoeGptSG1mazItb1JualZWQkxWaUNWUF9EREkzRnpQSQ?oc=5",
     "news_image": "",
-    "news_source": "news.un.org",
-    "news_age": "14h ago",
+    "news_source": "Yahoo Sports",
+    "news_age": "21m ago",
     "news_columns": [
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "cricket",
+      "olympic",
+      "festivals",
+      "intangible"
     ],
     "bottom50_wealth": null
   },
@@ -7967,19 +7965,19 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.36,
-    "news_title": "Chinese doctor stuns maths world by cracking decades-old problem using ChatGPT - South China Morning Post",
-    "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR1E0MnR2T0MxOU56Vm5KUllNM3J6TnJfQVc3YkhNZHZrOE92RXF3djdGR3hqdnVnOGxnY1gwN1VYRHB2dUNGQnNha2N5RmZlcWJoN3B2RFR5ZTd5X1dLSWlqNEFKNE9ZZUN5Z0VhaDJ0SVltM1Bxd3Jyc2YweDFhdEtTZnNfUWpzdldIX09pNTZhLVZLOHhpSXlhRnJTOU9KNW1aRG4zMGZhRWNpNHFUYTRjYll3T3BnaXJ3NDRfczZndWhnU21iYw?oc=5",
+    "news_score": 0.29,
+    "news_title": "White House accuses over 40 countries of helping China avoid US tariffs - The Hill",
+    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ0ljMi1ieU9ubUJsbWdrSno1WkVYY0hORHRqc2lVWEZlV1NlZGY5cENEbDg0ZVdNU2NCMFNncU5RUmpyeUJCdExZSUhtb2xDcEUxX2s4bEpyV05yRkJGWjBmcWVzcjhKanFXcXZ0elRUNldZdlJMZEcwcGgzSUpKUUNPT1pMZXlYSk5iZjdsS1hwNmNwbDdn0gGcAUFVX3lxTFBoM3JTb2FMcm5GdE8xV2pKSUhmTUlpVkd1cUNvZVIyMmVOVkFVcUVrR3JWLVVtNVRGUEdyVWxWY3lUVzV5WGZ0N2g4SDZGRlVobEdxSUJVOVI5QVJOZFZpR3ZUb1NPd1FtRE9hZDRmNEFaeTJfNkxfa2xEbWtLMnB4ZzJUVjgtaEhMWVZsak55a0Jia2lFSVU0b2dOUw?oc=5",
     "news_image": "",
-    "news_source": "South China Morning Post",
-    "news_age": "6h ago",
+    "news_source": "The Hill",
+    "news_age": "7h ago",
     "news_columns": [
-      "doctors",
-      "beds",
-      "health",
-      "life_expectancy",
-      "ai_research",
-      "internet_pct"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10877,7 +10875,7 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.1,
+    "news_score": 0.0,
     "news_title": "Kushner set to visit Israel, Egypt next week for Gaza talks - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CSUpRb095Ui1xX3pGNFNOTUdhOFY1QUg1bVZxVnFzQnd2dHp5ZWRRMTZXaTJXZnNocDZ5S2lYNEJfTGVKUUhHQlpPbUZDR3J4M1FmVDBPTXpPN1B1TTZIMFpRV280NHcyYnd2Y2RpUQ?oc=5",
     "news_image": "",
@@ -12937,15 +12935,14 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.72,
+    "news_score": 1.07,
     "news_title": "Funny old world: the week's offbeat news - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZUczYmtiRmY1ZVR4SGFpQmg5eW5ueGdaNnhGM3owdm1tcWZRQ0hEajhkRWthVmh2MkxYY2RBM3Z3dmp6dDN4VnRjcEd5dENBX0ZMYTFoZFJ0dHJZQjJ3VXhieFJZanR6dmpEMmgzems1YllWay1kc3dwYjhobEZETWxlRU4yVVJ0NlplYktiaw?oc=5",
     "news_image": "",
     "news_source": "France 24",
-    "news_age": "8m ago",
+    "news_age": "11m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -14159,12 +14156,12 @@
     "union_rate": 60.4,
     "union_rate_rank": null,
     "fifa_w_rank": 50,
-    "news_score": 1.95,
+    "news_score": 1.93,
     "news_title": "Ghana, South Africa end WAFCON with wins to keep Women's World Cup qualification hopes alive - ABC News - Breaking News, Latest News and Videos",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnZ1SkdENVB1bnd5eHdYb0M5Q0tTTEZ0ZzlacmJDZnAza1dYby1GNmlWelY2UjdhYWxldml1Q3RTLWJ5am5iQl8tWGVIVXBRU3RheVNrQ1ZCek1uRzZiTEt4OEtXRDlHMzhCZ1ZQWnJVeEJETzZvVFdsejMzZFJHNkJhX0VHOFdIOHNpaHV4OGdoem1MdXdxbFFB0gGfAUFVX3lxTFBYV294a0dtWUYxLV83bkdKUm1iUnZDSklmSTcxTnhvQ2dLVEs1blJET3gzbWtXbmxiSGFIMVlXbnVGQ1BGUGdmMGpXeEFobmZ3LUJMcy1aY3lXUjlGbkI0VEtlNU4xajJ3T010a1hFWFNxMHYweUJpMUlnMFBiRGZXLXNJM1YwQmt4Z2JNUUZIOExkcC13d1pQRm9ZNFptYw?oc=5",
     "news_image": "",
     "news_source": "ABC News - Breaking News, Latest News and Videos",
-    "news_age": "28m ago",
+    "news_age": "30m ago",
     "news_columns": [
       "fifa_w",
       "olympic"
@@ -16696,19 +16693,17 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 1.08,
-    "news_title": "From Licence Raj to Modern Economy: How India's Economy Transformed Over the Decades Between 1947 and 2026 - News18",
-    "news_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMmxtR2JrZU1wTUhET3JXX1gzeV9LNXJXbXg0UzU4NXNmZmRWSFFFM3ItSkhYTE44Q3NSLXE0SVJTSE1JeVhnWkN4bHZHczhraGpFdUpwSTByUDk4Sld2ZzlyX3lTOVlwcnBwRlJUUG1tMGtud3dxaEdpUS1vdVlzc1dTMjN5ejRtZGk3bDFBNXZTRTRiaWFRdFVXcmIyeXdKbEVncEdFbHNBRFRWdktUaE9jZkViR2otaFJzZXBEV3dUbGdMZXc5c21BUVZ3WkxKRkRPRlRXZkpiSGpmWG1SWm1CTzF1NjRrbFpEbUl0d9IB9AFBVV95cUxPYzN5aGJWVHF6WC1CYmRtYnZtYVRZcldXQkdFVEZzYmk0NXNyQUEyekg5ZklFa2dQRnRvYmVPZ2MwT003ZjZRbGZrcm13d08tODBuSlBVZTNkMU1jUHJuSXJHYlJ4VnNxYWNheWpTbVpnMzVIMGRlcncycDEwcF9IVkZWNDdMeFktamlqc3lfcklDU3Y3MFJvZ1RDYk5ZTHY3UWJMTmlUdlYwRFhPSFJaUldzZlM0UG1uS3Q1dndTMVkxSkdTMy1nRF9MM09EOUJKSE5rOF9hMW85V25NQm5UY3JtbC1yNWVZU20ycHNuVmg2c0c5?oc=5",
+    "news_score": 1.24,
+    "news_title": "Afghanistan Cricket Board wants India T20I shifted to festival date - Yahoo Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSzdBak1tMzVuVGx3cFg5Y2hvb2IwUWNINlVFUDFCYVJIdjBJbVY0U29aNnI2M0UtZWNtTVZaRlNEdE03TDc0dXVpMlBnOGNFSGdsME1pdHdMQmtFRGJlRkI2dFUtZzBWTlVyRkRCQndoeGptSG1mazItb1JualZWQkxWaUNWUF9EREkzRnpQSQ?oc=5",
     "news_image": "",
-    "news_source": "News18",
-    "news_age": "20m ago",
+    "news_source": "Yahoo Sports",
+    "news_age": "21m ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "cricket",
+      "olympic",
+      "festivals",
+      "intangible"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -18003,12 +17998,12 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.15,
-    "news_title": "Kushner set to visit Israel, Egypt next week for Gaza talks - Axios",
-    "news_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CSUpRb095Ui1xX3pGNFNOTUdhOFY1QUg1bVZxVnFzQnd2dHp5ZWRRMTZXaTJXZnNocDZ5S2lYNEJfTGVKUUhHQlpPbUZDR3J4M1FmVDBPTXpPN1B1TTZIMFpRV280NHcyYnd2Y2RpUQ?oc=5",
+    "news_score": 0.1,
+    "news_title": "Iran wages economic war in hopes of outlasting U.S. and Israel - washingtonpost.com",
+    "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2ZCVmJ4amt6UTBvQ05kcDBFWnNzb1N6QldHQ3RSWVZ0NUdzemNtaTJGaTlzM1N5dVR0djFiVV9XUGNSc1JCR2RnczNYeTUxMW5WZU5aMmJLMVVqcElmVHpibHdWMm9xOFlLWGlhY2NlQUV5cDVVcTRWZHJaNGxjaXVR?oc=5",
     "news_image": "",
-    "news_source": "Axios",
-    "news_age": "8h ago",
+    "news_source": "washingtonpost.com",
+    "news_age": "3649h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -19134,17 +19129,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.9,
+    "news_score": 1.08,
     "news_title": "Pan Pacific Championships 2026: Japan's teen sensation Ohashi Shin breaks own junior world record to win silver in men's 100m breaststroke - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTU4zV193a3JJYlJJSDdHY2pMVW1sNlhtRDZoaWdDZGRkVmVmWXBxcEZHdFQwVzk2UGt5ckhUMEZrMmVNNWhydkwzeV8yaWVPeHVFR0NOYWs3a09sTTBLN191d29DVk5zQWhVSXNGVW53WlBEUktDWThnZmtFdUxybWNFUVZjQWNhX29RSnZpNU9ZdDhBcUFYSjl4dm9XTkctNnh2M1liVHNIN3d6X0ZOdDF3MjdzUlUxd2ExVXRUVzByR3V4aGVIQUJR?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic",
-      "olympic_gold",
-      "olympic_per_cap",
-      "fifa_ranking"
+      "olympic"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -28203,12 +28195,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 1.13,
+    "news_score": 1.12,
     "news_title": "South Africa end Nigeria’s Women’s World Cup hope, Ghana beat Ivory Coast - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVEs0V3JkMEtaNEVoRmtaMzlZTG1jc3RjamV5ZEpSYmhQZVBZUGNZNTNtVENKUXFWMm00MzJtQ1pCcURhcFRrTFV2dEItU3llRno4SFA0RTEtS2ZMNlo4S0h3TFkwR2tzM3g1S1EtVGQtbHd4VzUwTlFaN0dyNEtRcmVERl84dUtVT1ZHeEt1eGRNbWFrRnFuTDNpTnlmZzBveHJ3MnZNTzFFMUxWdWxtd1g4VdIBuAFBVV95cUxPLUJmdTBRbDVMTVRsSGdQeWE4Ukt0WU1ydUgwOUY4cmFsQU94R1dxRnFfTFptLWhjY1JvYjhQMVNGRm4zRGlXM2o1aEJ2VER2RXo4UFdVbjFZOTE0b3VBdFVCYlJuS0ZwOHZEQ0Q1YmZDcEdCeElWUm1xdGFyLUx1MHYxWVYtMzdaaVBCUWF1S0JtR0R4S01jS2NNcWk0Sm9obU9mdWd3MkZsaW82dzY2R3FLRHBUMXZr?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "59m ago",
+    "news_age": "61m ago",
     "news_columns": [
       "fifa_w",
       "olympic"
@@ -34037,7 +34029,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 100,
-    "news_score": 0.59,
+    "news_score": 0.51,
     "news_title": "Fulton's India ready to embrace World Cup pressure with defence, set-pieces under the scanner - ESPN Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTnVGMFVqT05vbW1nNWoyS1pOOFlkcTVWUWl4NzZWSjEwMzRjLXp6V2p5RTNLSmRpTXc2Q2JKSWJwd3BCTGRJNXZHWmp6bWRhVlBuTExNYWxXVjRnSGNQcmlfbXl5cVNKd1N2SFdhQmg2enNlN0E1UXJDWjkyX0pKeGlBRlVtVzh6Q3l2MW03Ymh2d0NBdVJzLUhQbG5PSlpFRl9qOXRXdjFmeTZtZHhCc3FPdUNWUnhHMmxSVHlMLVEzNEgtYi1yX0pkOXFWZXBvVVFfbWVhdHNXQQ?oc=5",
     "news_image": "",
@@ -35377,12 +35369,12 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 1.93,
+    "news_score": 1.92,
     "news_title": "Ghana, South Africa end WAFCON with wins to keep Women's World Cup qualification hopes alive - ABC News - Breaking News, Latest News and Videos",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnZ1SkdENVB1bnd5eHdYb0M5Q0tTTEZ0ZzlacmJDZnAza1dYby1GNmlWelY2UjdhYWxldml1Q3RTLWJ5am5iQl8tWGVIVXBRU3RheVNrQ1ZCek1uRzZiTEt4OEtXRDlHMzhCZ1ZQWnJVeEJETzZvVFdsejMzZFJHNkJhX0VHOFdIOHNpaHV4OGdoem1MdXdxbFFB0gGfAUFVX3lxTFBYV294a0dtWUYxLV83bkdKUm1iUnZDSklmSTcxTnhvQ2dLVEs1blJET3gzbWtXbmxiSGFIMVlXbnVGQ1BGUGdmMGpXeEFobmZ3LUJMcy1aY3lXUjlGbkI0VEtlNU4xajJ3T010a1hFWFNxMHYweUJpMUlnMFBiRGZXLXNJM1YwQmt4Z2JNUUZIOExkcC13d1pQRm9ZNFptYw?oc=5",
     "news_image": "",
     "news_source": "ABC News - Breaking News, Latest News and Videos",
-    "news_age": "28m ago",
+    "news_age": "30m ago",
     "news_columns": [
       "fifa_w",
       "olympic"
@@ -36443,8 +36435,7 @@
     "news_source": "Yahoo Sports",
     "news_age": "10h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
