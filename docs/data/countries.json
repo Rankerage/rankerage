@@ -207,7 +207,7 @@
     "union_rate": 38.4,
     "union_rate_rank": null,
     "fifa_ranking_rank": 136,
-    "news_score": 0.11,
+    "news_score": 0.08,
     "news_title": "World News in Brief: Afghanistan education, Myanmar flooding, Syria recovery, homecare workers in New York - UN News",
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EZHkwaTd5WVBDQ0RuUWRDTzBPb3dUV2dtMy1LWjNvZTRiRFAyT0R6X2lCM0t5VHBvbTdkcFhZNjVDQl9ibjVkUlVPQ01SSUFYNTBqcElPWQ?oc=5",
     "news_image": "",
@@ -2541,7 +2541,7 @@
     "news_age": "32h ago",
     "news_columns": [
       "olympic",
-      "basket"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -7960,19 +7960,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.12,
-    "news_title": "White House accuses over 40 countries of helping China avoid US tariffs - The Hill",
-    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ0ljMi1ieU9ubUJsbWdrSno1WkVYY0hORHRqc2lVWEZlV1NlZGY5cENEbDg0ZVdNU2NCMFNncU5RUmpyeUJCdExZSUhtb2xDcEUxX2s4bEpyV05yRkJGWjBmcWVzcjhKanFXcXZ0elRUNldZdlJMZEcwcGgzSUpKUUNPT1pMZXlYSk5iZjdsS1hwNmNwbDdn0gGcAUFVX3lxTFBoM3JTb2FMcm5GdE8xV2pKSUhmTUlpVkd1cUNvZVIyMmVOVkFVcUVrR3JWLVVtNVRGUEdyVWxWY3lUVzV5WGZ0N2g4SDZGRlVobEdxSUJVOVI5QVJOZFZpR3ZUb1NPd1FtRE9hZDRmNEFaeTJfNkxfa2xEbWtLMnB4ZzJUVjgtaEhMWVZsak55a0Jia2lFSVU0b2dOUw?oc=5",
+    "news_score": 0.11,
+    "news_title": "Trump White House says it's losing $19B-$26 billion a year in revenue as countries dodge tariffs - PBS",
+    "news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPek9PNDh3bFZuckhrcm1GVUx6ZWRtVU5rX05zTDhka2Z6YkpWcGxvbnJ3XzkySkk3UlpBcG95QmVhcGpuQ3ROTXY1MjJpVzRreXQ4bUd2MkdqLVR2U0dZY3Bnb3RqbU1MbmRlOWJDN01idHU1Rm5IaUJSSzlkSVNHb21ZTzFROG5xN0R2QURzZTByN0hBMkFad2p2ejZHdy1NQkRVXzlGaGE2clgyaU0zS1JWaUVSMEYzeG1aN21NOWJnUFJSbVBFeU91QdIB0AFBVV95cUxPWm4wdldZN3RMN0RQUnFVNVFaVlRNWmlXM0ltVVhMUTk1WVp6bDNsdlVwdnYtRG9NejBZM25POFdJN0pQbHN6MVQ2b0Y1SE52YnlUaWluemVDWlhXS0VXUDhRZmRTNS1OcUxGZGkwVnJ5aURWQkY4bnR1QmtnODhQTTFydXFFRFZOSWMwWG9ZRl93dFd4ZU5uOUZ3YzF2Y3ZLQm9MU1JfRVlUOGdBZkRZVVhYVF9YVmJvdWNuQjMyaFY0YWt4QXE2XzF2alNsMDFh?oc=5",
     "news_image": "",
-    "news_source": "The Hill",
-    "news_age": "9h ago",
+    "news_source": "PBS",
+    "news_age": "16h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -12930,7 +12925,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.46,
+    "news_score": 0.43,
     "news_title": "Another Day of Extreme Heat Bakes Europe, but Relief Is on the Horizon - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY2h0ekZRS25id1lPRXExRkZNc2hmZnEtdzVwb3BEWkNscy1oLVF5MkhwWG9YYzhrNHVBQjB6YWM4b0c3MUFueV9ON1p1UnBydFhGdkpZVnVkTGVvdkJaY3dQTEhPdE04eU00TVFaa09uNHlQbG0tcmxFS1FlUk90R2sxV1JjVVE?oc=5",
     "news_image": "",
@@ -14156,7 +14151,7 @@
     "union_rate": 60.4,
     "union_rate_rank": null,
     "fifa_w_rank": 50,
-    "news_score": 0.92,
+    "news_score": 0.91,
     "news_title": "Ghana, South Africa end WAFCON with wins to keep Women's World Cup qualification hopes alive - ABC News - Breaking News, Latest News and Videos",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnZ1SkdENVB1bnd5eHdYb0M5Q0tTTEZ0ZzlacmJDZnAza1dYby1GNmlWelY2UjdhYWxldml1Q3RTLWJ5am5iQl8tWGVIVXBRU3RheVNrQ1ZCek1uRzZiTEt4OEtXRDlHMzhCZ1ZQWnJVeEJETzZvVFdsejMzZFJHNkJhX0VHOFdIOHNpaHV4OGdoem1MdXdxbFFB0gGfAUFVX3lxTFBYV294a0dtWUYxLV83bkdKUm1iUnZDSklmSTcxTnhvQ2dLVEs1blJET3gzbWtXbmxiSGFIMVlXbnVGQ1BGUGdmMGpXeEFobmZ3LUJMcy1aY3lXUjlGbkI0VEtlNU4xajJ3T010a1hFWFNxMHYweUJpMUlnMFBiRGZXLXNJM1YwQmt4Z2JNUUZIOExkcC13d1pQRm9ZNFptYw?oc=5",
     "news_image": "",
@@ -16697,15 +16692,15 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 1.74,
+    "news_score": 1.66,
     "news_title": "Hockey World Cup 2026: Know where to watch live streaming and telecast in India - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTzNlVjB6N01YaUF2aUUzTkdHcl9RcVFNUy04TUZnY3gzSEV2MlRsVkw5RGpqZGhsQ2RtaGtwLVQ3SnVpUnFuSG92M0x2RmVDeHM5MDVIS1d3NzFrUEo3LWh3ZUd2REFkZHNTaTdaNHNUbFMzczY5Zm9FU1RYTWFmRDJKMHZVamxWTjFHb1pkWFlLa1RaN0ZPTDRyRnF0Z3phQnc?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "59m ago",
+    "news_age": "61m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17273,7 +17268,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcUJxM0VpYjVHTnVrdDVkRksyM2ROTlZnUVphRUJMVU9SQ2tqNmN3VjZHc1VSNnhOeTVXVFl5MUoyMUI5RWhHQ1gyRjluWTV3blVIZWs0UGNSZFFHM3FGdmxzNDZZWVk2Y05HWFAwcUpSMEJBUE5kYTllM1RzRXhtcmxJV2lfZGZadndDemxaaXMyTnFLZG1PN3VuSDQ3UTdueFFUUGxVTWxoQ3lUeFJnaGlwQWUzNVlMS0xrazZ2b3MxQkR4QXFuUUY4X2lkME1ySmVnZ2VR?oc=5",
     "news_image": "",
     "news_source": "NPR",
-    "news_age": "3h ago",
+    "news_age": "4h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -19130,12 +19125,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.89,
+    "news_score": 0.88,
     "news_title": "The disturbing dream world of ‘Cattle Muti-Leiko’ - The Japan Times",
     "news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fbllrWS1BdzN0QVYxUzRScXEweFYwMnJnV0VZR1lRMFdVUTJTeGh6bGhnNXMtSWxvRElTLVVNNUc4OC1ja1JQcFk2WkxmV25rTDNna2NQMnNScU1hVXFnSTE2REJrQnluVVpqSkxVSF9LSDFSNFRsa2E1WQ?oc=5",
     "news_image": "",
     "news_source": "The Japan Times",
-    "news_age": "90m ago",
+    "news_age": "92m ago",
     "news_columns": [
       "olympic",
       "fifa_w"
@@ -19759,14 +19754,9 @@
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalhtNzZJZlRrMFVhSUVLN0FhUmpjdThMS1RMLThXMnJOOXA0Y1I0X3dPVENlNTZKX2hOSHZ1dmhaQVVFVWlyTjJNbTgzQnhnV0pPNlpsek45aXRsbF9BaXV5NjcyRUFyUHY0UU0wQVJFdFZRbXpJeE9HVU1NSTJ0V2ZQNWkyT0pwa2RfajhGZE9ZaHp3NUdtenJ4amFwdmZUazBaMEVvVVk3S2Q0Rl9QMEZB?oc=5",
     "news_image": "",
     "news_source": "theelephant.info",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -27062,7 +27052,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeTZwa0Q2bXEtUURrUGJfbjMyRlU2azEwUkU5ekx3U0Y0T3U1Q2VQMEd2a0xpOTJzUS0xbk5fRmMtRDJEd1NWTTNjcWZ3eDdCaHRvZkhpb2VBWElrRGFRdHVHbWRhWmhSMlZlME4tVHdWZFZSTl9YUnY0OTJ0MkxYYTc5WW1ZSHowdzBmQjB0RTJ4MVE?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "93m ago",
+    "news_age": "95m ago",
     "news_columns": [
       "olympic",
       "fifa_ranking"
@@ -27236,13 +27226,13 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 127,
     "fifa_w_rank": 74,
-    "news_score": 0.35,
+    "news_score": 0.45,
     "news_title": "New Caledonia announce squad for FIFA U-20 Women’s World Cup 2026™ - oceaniafootball.com",
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON0o5bzl5emtPdlYyMnZXMWtXTGx3ajU2WTJWQkxoT1pTVlU1T1U4U2NZMUFqX1RQQWwwbk04LS1sTDZ1bmhZcDl1dXVYenMzMC1JU09rT21mUFVXTjd5bWM5dzBncWhfaDlNb2ZDbzNPLXVZTU9tbTM2X3cyM0ZOcFRyMkwwa2RHZVpFOVpEN0lXTkVkQVZNaF9nY3hUQQ?oc=5",
     "news_image": "",
     "news_source": "oceaniafootball.com",
     "bottom50_wealth": null,
-    "news_age": "85m ago",
+    "news_age": "87m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -27561,15 +27551,15 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 85,
-    "news_score": 1.12,
+    "news_score": 1.07,
     "news_title": "New Zealand break ranks with Oceania as FIFA’s Infantino divide grows - aljazeera.com",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzVLeU96Ylc3N2ltSnFpbDdsTGhVa2ducWJtcEdxSE9mZkhxNXpiNVF0VGQ5blUxZzRicHI5dEhKOU5CVUFmNHRySm9SX29oYkRSWmxVV2VrYkh0SGhGVVhhVWVUMmNnTGN5V1dMcFk5RnNoMjBJWG5zaGtCUFFMaFlnS0tJekJRSnc3RWhPOVNwbGx1dHBTaUJLcTdaWkJNTUVZSloyWnpSWXY4SjFPNNIBtgFBVV95cUxQQVhfMjBqODZlcTdpY183WmlJOFAwaWRiMVpnTWxRNG55X2pmRUFYc1MyV0cwdkhHSTE2NUhqX0t0ZHJkbXUzUzl6ZV8yZXRHa2FZV1Zfbm9EYkRNY25vdGZvRmhmaWIxTTczTFZBeVVfc29ZeHlSR3BtYW9JeFRwaTFMZVNLZV9VMkRTNldSOGw1VGlJN3FaWmRJcWI5ajVBZkMxd3FrSzNjMVRQLThrcjBvUl9mQQ?oc=5",
     "news_image": "",
     "news_source": "aljazeera.com",
-    "news_age": "47m ago",
+    "news_age": "49m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -31394,7 +31384,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdkQ1ZGJkRVJuUXlkYkp4RURTNWdFRFRfbWM1S0tvbzVld3BQSHEzN1Q4UTd5ODVCSEdlREpPcUh4STF5QkQ1bWwzbkR1WHB0Y2lVM1pZYWdISUhEbjh4RWJKdmJFMVlTY3k3Yll4blpCalJ0VUQ3Q0lrMDZnRFFfaHFXLUpRSXJLV284T25ERTdTVDZpUWlmSHVtM2VqWWdNV3RTZC11cmgtN0NSVjZmRUkxTQ?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "14h ago",
+    "news_age": "15h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
