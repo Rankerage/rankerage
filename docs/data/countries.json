@@ -7961,19 +7961,16 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.02,
-    "news_title": "White House accuses over 40 countries of helping China avoid US tariffs - The Hill",
-    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ0ljMi1ieU9ubUJsbWdrSno1WkVYY0hORHRqc2lVWEZlV1NlZGY5cENEbDg0ZVdNU2NCMFNncU5RUmpyeUJCdExZSUhtb2xDcEUxX2s4bEpyV05yRkJGWjBmcWVzcjhKanFXcXZ0elRUNldZdlJMZEcwcGgzSUpKUUNPT1pMZXlYSk5iZjdsS1hwNmNwbDdn0gGcAUFVX3lxTFBoM3JTb2FMcm5GdE8xV2pKSUhmTUlpVkd1cUNvZVIyMmVOVkFVcUVrR3JWLVVtNVRGUEdyVWxWY3lUVzV5WGZ0N2g4SDZGRlVobEdxSUJVOVI5QVJOZFZpR3ZUb1NPd1FtRE9hZDRmNEFaeTJfNkxfa2xEbWtLMnB4ZzJUVjgtaEhMWVZsak55a0Jia2lFSVU0b2dOUw?oc=5",
+    "news_score": 0.01,
+    "news_title": "China's Science and Technology Strategy in Perspective: Historical Evolution, Political Drivers, and Global Implications - RAND Corporation",
+    "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50MEJKYnVDelp3Mk9NcEVhcFFGMVB2MFJxSGh5d21TQm5vay1TbWJmUE1XR3FBbUNZaS1zLTRfazd3b205Wi1IYTdvR0lwd09RdDdFY292RDBwYVlKRG5mY3kxMFozQXdQ?oc=5",
     "news_image": "",
-    "news_source": "The Hill",
-    "news_age": "10h ago",
+    "news_source": "RAND Corporation",
+    "news_age": "2429h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "car_density",
+      "gas_price",
+      "co2"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -12933,7 +12930,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.37,
+    "news_score": 0.36,
     "news_title": "Funny old world: the week's offbeat news - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZUczYmtiRmY1ZVR4SGFpQmg5eW5ueGdaNnhGM3owdm1tcWZRQ0hEajhkRWthVmh2MkxYY2RBM3Z3dmp6dDN4VnRjcEd5dENBX0ZMYTFoZFJ0dHJZQjJ3VXhieFJZanR6dmpEMmgzems1YllWay1kc3dwYjhobEZETWxlRU4yVVJ0NlplYktiaw?oc=5",
     "news_image": "",
@@ -16696,19 +16693,15 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.82,
+    "news_score": 1.05,
     "news_title": "Hockey World Cup 2026: Know where to watch live streaming and telecast in India - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTzNlVjB6N01YaUF2aUUzTkdHcl9RcVFNUy04TUZnY3gzSEV2MlRsVkw5RGpqZGhsQ2RtaGtwLVQ3SnVpUnFuSG92M0x2RmVDeHM5MDVIS1d3NzFrUEo3LWh3ZUd2REFkZHNTaTdaNHNUbFMzczY5Zm9FU1RYTWFmRDJKMHZVamxWTjFHb1pkWFlLa1RaN0ZPTDRyRnF0Z3phQnc?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
       "olympic",
-      "basket",
-      "olympic_gold",
-      "olympic_per_cap"
+      "basket"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17271,14 +17264,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.89,
+    "news_score": 1.81,
     "news_title": "Live Updates: UAE accuses Iran of attacks in Strait of Hormuz as Vance says cheap oil and gas are \"goal number one\" - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb2FwQzRGRnQwTjFNbTRBTHNFY3JtRTRNZkZ5T1VYbFBlbzVhNnZqTTlrWEZaN3VzTWpySWVhOFdNNmhmTzdpWnZkY1NVNzFOWUxvakM4RkJmU1JMSWlpN3BTNFA3UHdUbXNiSjVDbjJWdjhQa0p3WFUyNGRXNzZzS3k2SnBWNlRsN1hCN0swYVR4MW5GbDFXM3VZSGF0QjlHbXZyMVZibFdyd3c2Q1Bv?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "47m ago",
+    "news_age": "49m ago",
     "news_columns": [
-      "olympic"
+      "gas_price",
+      "energy_per_capita",
+      "co2",
+      "renew",
+      "exports",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -19128,7 +19126,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.17,
+    "news_score": 0.22,
     "news_title": "Pan Pacific Championships 2026: Japan's teen sensation Ohashi Shin breaks own junior world record to win silver in men's 100m breaststroke - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTU4zV193a3JJYlJJSDdHY2pMVW1sNlhtRDZoaWdDZGRkVmVmWXBxcEZHdFQwVzk2UGt5ckhUMEZrMmVNNWhydkwzeV8yaWVPeHVFR0NOYWs3a09sTTBLN191d29DVk5zQWhVSXNGVW53WlBEUktDWThnZmtFdUxybWNFUVZjQWNhX29RSnZpNU9ZdDhBcUFYSjl4dm9XTkctNnh2M1liVHNIN3d6X0ZOdDF3MjdzUlUxd2ExVXRUVzByR3V4aGVIQUJR?oc=5",
     "news_image": "",
@@ -19136,9 +19134,7 @@
     "news_age": "6h ago",
     "news_columns": [
       "olympic",
-      "olympic_gold",
-      "olympic_per_cap",
-      "fifa_ranking"
+      "basket"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -19754,7 +19750,7 @@
     "union_rate": 68.0,
     "union_rate_rank": null,
     "fifa_w_rank": 86,
-    "news_score": 0.37,
+    "news_score": 0.36,
     "news_title": "Ol Kalau and the Business of Blood: Naming Kenya’s Political Economy of Violence - theelephant.info",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalhtNzZJZlRrMFVhSUVLN0FhUmpjdThMS1RMLThXMnJOOXA0Y1I0X3dPVENlNTZKX2hOSHZ1dmhaQVVFVWlyTjJNbTgzQnhnV0pPNlpsek45aXRsbF9BaXV5NjcyRUFyUHY0UU0wQVJFdFZRbXpJeE9HVU1NSTJ0V2ZQNWkyT0pwa2RfajhGZE9ZaHp3NUdtenJ4amFwdmZUazBaMEVvVVk3S2Q0Rl9QMEZB?oc=5",
     "news_image": "",
@@ -20922,7 +20918,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 116,
     "fifa_w_rank": 75,
-    "news_score": 0.86,
+    "news_score": 0.8,
     "election_title": "Latvian Parliament",
     "election_url": "https://www.electionguide.org/countries/id/119",
     "bottom50_wealth": null,
@@ -20930,9 +20926,14 @@
     "news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84QU9BeW56c0tHU29wcWkyVkExdGJZT2wwa294UXVvVU1TSGF4UkdfcHRYNXMyNW1TNWhOV19Hbmd2UDBqZGN1NzV5Z2cwZm83d1JmcFRBREJOLUhfcTNWV3JISXlqZldRazhoUFZlQkk3U0c1UmZpZ1pzOA?oc=5",
     "news_image": "",
     "news_source": "politico.eu",
-    "news_age": "114m ago",
+    "news_age": "116m ago",
     "news_columns": [
-      "olympic"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
+      "military_pct",
+      "nuclear"
     ]
   },
   {
@@ -27571,7 +27572,7 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 85,
-    "news_score": 0.72,
+    "news_score": 0.71,
     "news_title": "New Zealand break ranks with Oceania as FIFA’s Infantino divide grows - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzVLeU96Ylc3N2ltSnFpbDdsTGhVa2ducWJtcEdxSE9mZkhxNXpiNVF0VGQ5blUxZzRicHI5dEhKOU5CVUFmNHRySm9SX29oYkRSWmxVV2VrYkh0SGhGVVhhVWVUMmNnTGN5V1dMcFk5RnNoMjBJWG5zaGtCUFFMaFlnS0tJekJRSnc3RWhPOVNwbGx1dHBTaUJLcTdaWkJNTUVZSloyWnpSWXY4SjFPNNIBtgFBVV95cUxQQVhfMjBqODZlcTdpY183WmlJOFAwaWRiMVpnTWxRNG55X2pmRUFYc1MyV0cwdkhHSTE2NUhqX0t0ZHJkbXUzUzl6ZV8yZXRHa2FZV1Zfbm9EYkRNY25vdGZvRmhmaWIxTTczTFZBeVVfc29ZeHlSR3BtYW9JeFRwaTFMZVNLZV9VMkRTNldSOGw1VGlJN3FaWmRJcWI5ajVBZkMxd3FrSzNjMVRQLThrcjBvUl9mQQ?oc=5",
     "news_image": "",
@@ -31412,11 +31413,11 @@
     "union_rate": 75.0,
     "union_rate_rank": null,
     "news_score": 0.01,
-    "news_title": "Poland is now among the world's 20 largest economies. How did it happen? - NBC News",
-    "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaTBiWGR3alBRako4UzE1dWNzY05XTkJmcFhWT0I0QXRqNVFFbEFqa0FUbEF2amhFVEI1a2N1bTV0ZWhKUWFDQmJ4dlhFRmpFbXJKN2Q1SlFIWjl4cW5NMUdUWWZ2Tk1FY0FtWmk4Y0R0YTJUbjNJQ1pfTy1lcDA0MWdrV1MtWExKOGxoUjJDSFpaejRXTDQ0VURGSEJKUQ?oc=5",
+    "news_title": "Poland now sixth-largest EU economy, ahead of Belgium and Austria - Euronews.com",
+    "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG4zUUhUV3lvcjJybFJHQlI4cjZwUzVMMGpQY3lVNlhSb3NmQ0pSbzRUcDJfczdqUzU5VUhTQmk0VkxROE1OSHg3RWtOQVIxajRBLWREYm84Ujc3TnFKZU16RW4zdUt3eG16SG5STVViQk1UQk1Ed1RWYmtWTUhkeTkyRnFsTlg4V3JzXzE4UlU3NXV4Sk01Vk11NzNvRXJhUnpMNWJXTVhxNmRpdjFUdlVBTQ?oc=5",
     "news_image": "",
-    "news_source": "NBC News",
-    "news_age": "3629h ago",
+    "news_source": "Euronews.com",
+    "news_age": "114h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -35400,7 +35401,7 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.56,
+    "news_score": 0.55,
     "news_title": "Ghana, South Africa end WAFCON with wins to keep Women's World Cup qualification hopes alive - ABC News - Breaking News, Latest News and Videos",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnZ1SkdENVB1bnd5eHdYb0M5Q0tTTEZ0ZzlacmJDZnAza1dYby1GNmlWelY2UjdhYWxldml1Q3RTLWJ5am5iQl8tWGVIVXBRU3RheVNrQ1ZCek1uRzZiTEt4OEtXRDlHMzhCZ1ZQWnJVeEJETzZvVFdsejMzZFJHNkJhX0VHOFdIOHNpaHV4OGdoem1MdXdxbFFB0gGfAUFVX3lxTFBYV294a0dtWUYxLV83bkdKUm1iUnZDSklmSTcxTnhvQ2dLVEs1blJET3gzbWtXbmxiSGFIMVlXbnVGQ1BGUGdmMGpXeEFobmZ3LUJMcy1aY3lXUjlGbkI0VEtlNU4xajJ3T010a1hFWFNxMHYweUJpMUlnMFBiRGZXLXNJM1YwQmt4Z2JNUUZIOExkcC13d1pQRm9ZNFptYw?oc=5",
     "news_image": "",
