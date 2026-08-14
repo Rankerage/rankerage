@@ -207,17 +207,15 @@
     "union_rate": 38.4,
     "union_rate_rank": null,
     "fifa_ranking_rank": 136,
-    "news_score": 0.63,
+    "news_score": 0.95,
     "news_title": "Afghanistan Cricket Board wants India T20I shifted to festival date - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSzdBak1tMzVuVGx3cFg5Y2hvb2IwUWNINlVFUDFCYVJIdjBJbVY0U29aNnI2M0UtZWNtTVZaRlNEdE03TDc0dXVpMlBnOGNFSGdsME1pdHdMQmtFRGJlRkI2dFUtZzBWTlVyRkRCQndoeGptSG1mazItb1JualZWQkxWaUNWUF9EREkzRnpQSQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "109m ago",
+    "news_age": "111m ago",
     "news_columns": [
-      "cricket",
-      "olympic",
-      "festivals",
-      "intangible"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -2847,7 +2845,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG4zUUhUV3lvcjJybFJHQlI4cjZwUzVMMGpQY3lVNlhSb3NmQ0pSbzRUcDJfczdqUzU5VUhTQmk0VkxROE1OSHg3RWtOQVIxajRBLWREYm84Ujc3TnFKZU16RW4zdUt3eG16SG5STVViQk1UQk1Ed1RWYmtWTUhkeTkyRnFsTlg4V3JzXzE4UlU3NXV4Sk01Vk11NzNvRXJhUnpMNWJXTVhxNmRpdjFUdlVBTQ?oc=5",
     "news_image": "",
     "news_source": "Euronews.com",
-    "news_age": "109h ago",
+    "news_age": "112h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -3305,7 +3303,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0RobDA2R00tX05jNHMwamZwS2hycTk3WUo1MzJBeXZLYXo1SWRqRVcycjg1Nm8yZmM4dXh6cGNNYkdENk9uYl9BWjN5LURiRTFyWkVGWXJfWGVlOG1kRVV1WTVpek5OUWtrMy1pZVJfUzkwSWxCZ1dUZlFYSlhJa2lFV2JXald3Z1hzZ1J2TXBhbm5xZjV2MkhTZGE1Y3lsVlZNWDdfWGg3LXNrd2Rr?oc=5",
     "news_image": "",
     "news_source": "The Daily Star",
-    "news_age": "20h ago",
+    "news_age": "21h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -3806,7 +3804,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG4zUUhUV3lvcjJybFJHQlI4cjZwUzVMMGpQY3lVNlhSb3NmQ0pSbzRUcDJfczdqUzU5VUhTQmk0VkxROE1OSHg3RWtOQVIxajRBLWREYm84Ujc3TnFKZU16RW4zdUt3eG16SG5STVViQk1UQk1Ed1RWYmtWTUhkeTkyRnFsTlg4V3JzXzE4UlU3NXV4Sk01Vk11NzNvRXJhUnpMNWJXTVhxNmRpdjFUdlVBTQ?oc=5",
     "news_image": "",
     "news_source": "Euronews.com",
-    "news_age": "109h ago",
+    "news_age": "112h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -12929,12 +12927,12 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.77,
+    "news_score": 0.81,
     "news_title": "Funny old world: the week's offbeat news - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZUczYmtiRmY1ZVR4SGFpQmg5eW5ueGdaNnhGM3owdm1tcWZRQ0hEajhkRWthVmh2MkxYY2RBM3Z3dmp6dDN4VnRjcEd5dENBX0ZMYTFoZFJ0dHJZQjJ3VXhieFJZanR6dmpEMmgzems1YllWay1kc3dwYjhobEZETWxlRU4yVVJ0NlplYktiaw?oc=5",
     "news_image": "",
     "news_source": "France 24",
-    "news_age": "99m ago",
+    "news_age": "101m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -14150,15 +14148,15 @@
     "union_rate": 60.4,
     "union_rate_rank": null,
     "fifa_w_rank": 50,
-    "news_score": 1.37,
+    "news_score": 1.36,
     "news_title": "Ghana, South Africa end WAFCON with wins to keep Women's World Cup qualification hopes alive - ABC News - Breaking News, Latest News and Videos",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnZ1SkdENVB1bnd5eHdYb0M5Q0tTTEZ0ZzlacmJDZnAza1dYby1GNmlWelY2UjdhYWxldml1Q3RTLWJ5am5iQl8tWGVIVXBRU3RheVNrQ1ZCek1uRzZiTEt4OEtXRDlHMzhCZ1ZQWnJVeEJETzZvVFdsejMzZFJHNkJhX0VHOFdIOHNpaHV4OGdoem1MdXdxbFFB0gGfAUFVX3lxTFBYV294a0dtWUYxLV83bkdKUm1iUnZDSklmSTcxTnhvQ2dLVEs1blJET3gzbWtXbmxiSGFIMVlXbnVGQ1BGUGdmMGpXeEFobmZ3LUJMcy1aY3lXUjlGbkI0VEtlNU4xajJ3T010a1hFWFNxMHYweUJpMUlnMFBiRGZXLXNJM1YwQmt4Z2JNUUZIOExkcC13d1pQRm9ZNFptYw?oc=5",
     "news_image": "",
     "news_source": "ABC News - Breaking News, Latest News and Videos",
-    "news_age": "118m ago",
+    "news_age": "2h ago",
     "news_columns": [
-      "fifa_w",
-      "olympic"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -16687,19 +16685,15 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 1.52,
+    "news_score": 1.98,
     "news_title": "Hockey World Cup 2026: Know where to watch live streaming and telecast in India - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTzNlVjB6N01YaUF2aUUzTkdHcl9RcVFNUy04TUZnY3gzSEV2MlRsVkw5RGpqZGhsQ2RtaGtwLVQ3SnVpUnFuSG92M0x2RmVDeHM5MDVIS1d3NzFrUEo3LWh3ZUd2REFkZHNTaTdaNHNUbFMzczY5Zm9FU1RYTWFmRDJKMHZVamxWTjFHb1pkWFlLa1RaN0ZPTDRyRnF0Z3phQnc?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "45m ago",
+    "news_age": "47m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
       "olympic",
-      "basket",
-      "olympic_gold",
-      "olympic_per_cap"
+      "basket"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17262,7 +17256,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.43,
+    "news_score": 0.54,
     "news_title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcUJxM0VpYjVHTnVrdDVkRksyM2ROTlZnUVphRUJMVU9SQ2tqNmN3VjZHc1VSNnhOeTVXVFl5MUoyMUI5RWhHQ1gyRjluWTV3blVIZWs0UGNSZFFHM3FGdmxzNDZZWVk2Y05HWFAwcUpSMEJBUE5kYTllM1RzRXhtcmxJV2lfZGZadndDemxaaXMyTnFLZG1PN3VuSDQ3UTdueFFUUGxVTWxoQ3lUeFJnaGlwQWUzNVlMS0xrazZ2b3MxQkR4QXFuUUY4X2lkME1ySmVnZ2VR?oc=5",
     "news_image": "",
@@ -18444,7 +18438,8 @@
     "news_source": "The New York Times",
     "news_age": "15h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -19124,15 +19119,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.95,
+    "news_score": 1.22,
     "news_title": "The disturbing dream world of ‘Cattle Muti-Leiko’ - The Japan Times",
     "news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fbllrWS1BdzN0QVYxUzRScXEweFYwMnJnV0VZR1lRMFdVUTJTeGh6bGhnNXMtSWxvRElTLVVNNUc4OC1ja1JQcFk2WkxmV25rTDNna2NQMnNScU1hVXFnSTE2REJrQnluVVpqSkxVSF9LSDFSNFRsa2E1WQ?oc=5",
     "news_image": "",
     "news_source": "The Japan Times",
-    "news_age": "76m ago",
+    "news_age": "78m ago",
     "news_columns": [
       "olympic",
-      "fifa_w"
+      "basket"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -19753,7 +19748,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalhtNzZJZlRrMFVhSUVLN0FhUmpjdThMS1RMLThXMnJOOXA0Y1I0X3dPVENlNTZKX2hOSHZ1dmhaQVVFVWlyTjJNbTgzQnhnV0pPNlpsek45aXRsbF9BaXV5NjcyRUFyUHY0UU0wQVJFdFZRbXpJeE9HVU1NSTJ0V2ZQNWkyT0pwa2RfajhGZE9ZaHp3NUdtenJ4amFwdmZUazBaMEVvVVk3S2Q0Rl9QMEZB?oc=5",
     "news_image": "",
     "news_source": "theelephant.info",
-    "news_age": "97m ago",
+    "news_age": "99m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -27051,12 +27046,12 @@
     "refugees_rank": null,
     "union_rate": 85.6,
     "union_rate_rank": null,
-    "news_score": 0.72,
+    "news_score": 0.71,
     "news_title": "Dortmund defender moves to the Netherlands on loan - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeTZwa0Q2bXEtUURrUGJfbjMyRlU2azEwUkU5ekx3U0Y0T3U1Q2VQMEd2a0xpOTJzUS0xbk5fRmMtRDJEd1NWTTNjcWZ3eDdCaHRvZkhpb2VBWElrRGFRdHVHbWRhWmhSMlZlME4tVHdWZFZSTl9YUnY0OTJ0MkxYYTc5WW1ZSHowdzBmQjB0RTJ4MVE?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "79m ago",
+    "news_age": "81m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -27546,15 +27541,17 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 85,
-    "news_score": 1.1,
+    "news_score": 0.87,
     "news_title": "New Zealand break ranks with Oceania as FIFA’s Infantino divide grows - aljazeera.com",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzVLeU96Ylc3N2ltSnFpbDdsTGhVa2ducWJtcEdxSE9mZkhxNXpiNVF0VGQ5blUxZzRicHI5dEhKOU5CVUFmNHRySm9SX29oYkRSWmxVV2VrYkh0SGhGVVhhVWVUMmNnTGN5V1dMcFk5RnNoMjBJWG5zaGtCUFFMaFlnS0tJekJRSnc3RWhPOVNwbGx1dHBTaUJLcTdaWkJNTUVZSloyWnpSWXY4SjFPNNIBtgFBVV95cUxQQVhfMjBqODZlcTdpY183WmlJOFAwaWRiMVpnTWxRNG55X2pmRUFYc1MyV0cwdkhHSTE2NUhqX0t0ZHJkbXUzUzl6ZV8yZXRHa2FZV1Zfbm9EYkRNY25vdGZvRmhmaWIxTTczTFZBeVVfc29ZeHlSR3BtYW9JeFRwaTFMZVNLZV9VMkRTNldSOGw1VGlJN3FaWmRJcWI5ajVBZkMxd3FrSzNjMVRQLThrcjBvUl9mQQ?oc=5",
     "news_image": "",
     "news_source": "aljazeera.com",
-    "news_age": "33m ago",
+    "news_age": "35m ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -28185,15 +28182,15 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.76,
+    "news_score": 0.74,
     "news_title": "South Africa end Nigeria’s Women’s World Cup hope, Ghana beat Ivory Coast - aljazeera.com",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVEs0V3JkMEtaNEVoRmtaMzlZTG1jc3RjamV5ZEpSYmhQZVBZUGNZNTNtVENKUXFWMm00MzJtQ1pCcURhcFRrTFV2dEItU3llRno4SFA0RTEtS2ZMNlo4S0h3TFkwR2tzM3g1S1EtVGQtbHd4VzUwTlFaN0dyNEtRcmVERl84dUtVT1ZHeEt1eGRNbWFrRnFuTDNpTnlmZzBveHJ3MnZNTzFFMUxWdWxtd1g4VdIBuAFBVV95cUxPLUJmdTBRbDVMTVRsSGdQeWE4Ukt0WU1ydUgwOUY4cmFsQU94R1dxRnFfTFptLWhjY1JvYjhQMVNGRm4zRGlXM2o1aEJ2VER2RXo4UFdVbjFZOTE0b3VBdFVCYlJuS0ZwOHZEQ0Q1YmZDcEdCeElWUm1xdGFyLUx1MHYxWVYtMzdaaVBCUWF1S0JtR0R4S01jS2NNcWk0Sm9obU9mdWd3MkZsaW82dzY2R3FLRHBUMXZr?oc=5",
     "news_image": "",
     "news_source": "aljazeera.com",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_w",
-      "olympic"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -31377,12 +31374,12 @@
     "news_source": "The Guardian",
     "news_age": "14h ago",
     "news_columns": [
-      "democracy",
-      "approval",
-      "press",
-      "election_days",
       "military_pct",
-      "nuclear"
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -32845,7 +32842,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.08,
+    "news_score": 0.13,
     "news_title": "Ust-Luga Ablaze Again as 54 Ukrainian Drones Hit Russia’s Key Baltic Oil Port - Kyiv Post",
     "news_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iaUpIN0FudFVIazAwX3h0el9mRXhXOEo4a0FUaHppdFBvVy1HVHllTUgyR2haM1h4YlZUcTNjMjZBbHJJa3Z4dG1Zdw?oc=5",
     "news_image": "",
@@ -35359,15 +35356,15 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 1.36,
+    "news_score": 1.34,
     "news_title": "Ghana, South Africa end WAFCON with wins to keep Women's World Cup qualification hopes alive - ABC News - Breaking News, Latest News and Videos",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnZ1SkdENVB1bnd5eHdYb0M5Q0tTTEZ0ZzlacmJDZnAza1dYby1GNmlWelY2UjdhYWxldml1Q3RTLWJ5am5iQl8tWGVIVXBRU3RheVNrQ1ZCek1uRzZiTEt4OEtXRDlHMzhCZ1ZQWnJVeEJETzZvVFdsejMzZFJHNkJhX0VHOFdIOHNpaHV4OGdoem1MdXdxbFFB0gGfAUFVX3lxTFBYV294a0dtWUYxLV83bkdKUm1iUnZDSklmSTcxTnhvQ2dLVEs1blJET3gzbWtXbmxiSGFIMVlXbnVGQ1BGUGdmMGpXeEFobmZ3LUJMcy1aY3lXUjlGbkI0VEtlNU4xajJ3T010a1hFWFNxMHYweUJpMUlnMFBiRGZXLXNJM1YwQmt4Z2JNUUZIOExkcC13d1pQRm9ZNFptYw?oc=5",
     "news_image": "",
     "news_source": "ABC News - Breaking News, Latest News and Videos",
-    "news_age": "118m ago",
+    "news_age": "2h ago",
     "news_columns": [
-      "fifa_w",
-      "olympic"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 1.2,
     "bottom50_wealth_rank": 29
@@ -38784,10 +38781,10 @@
     "union_rate": 75.8,
     "union_rate_rank": null,
     "news_score": 0.01,
-    "news_title": "GTH-Asia and Thailand's 19 Degrees Resort Sign Strategic Hospitality Partnership to Boost Thailand's Tourism and Economy - The Manila Times",
+    "news_title": "GTH-Asia and Thailand's 19 Degrees Resort Sign Strategic Hospitality Partnership to Boost Thailand's Tourism and Economy - manilatimes.net",
     "news_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNc3BpOGdNX1pqMDlkeDhFeEtVc0c0aEJXTzhRcDE3UzJrNjJua2pQWThxejZ3NF9FMk5yWHY4b1MwR3RoWUd6cUdZTlUyWWIweFh5aUxXQWowbnFrM1M3dVBmNlppRHNQRVFxaFpOUFhNZWV3RXNRR3VhVHFVQ1EzaUxzT1oyRk9lY3AzNG9PRi1xYTRwT0VhYTFXbWJjUnd4NU9JV2tnVkkzbmUwaVJBX081Z2otRTk4V0o4VThTS2RHQkJNTkNhSkpMdHJiMGdwbVJtRFVIUEoySzZTam9qNXBkQnJvVmpyaG1VZm1RaG4xamV1R0lFR1lWSGMyTk9LNkI2M01yWnBfMnFlMlNYc3ZXWlVKbmNu0gGeAkFVX3lxTE9GNHdZSEkyNV9YR1JjbWhuckR3QWV1LUFDTXdpakFRdk5GV2t3c2VnRGFqbnNfXzZPa3V0YXA1U3p0UXRhSGREWldTTm5LUXoxRVl1Mkp2dG55VU9BcUNzbGJseUotU2FsM2lPN3N2ZEpzdVBvaVpwajVkR1NVTEFiWFBWRjF2cDdvWE1iV0dMSFFYVUJGR2RTRVFETWdvd2ZFMW5jY1dwNFliY1FsTUs3UGpwNkVUbF9ISktuQUJ2aUVRUUNGV0xGcWpoaTV4c0tnRm9MS1poWHc1QXlzYmlKcGVjaFphYnEwaEF6Z1VmbzB3RXU5U0g4Y1JLdFpyNXhVdVZhZEhKZkFIQzhhVWdGZ01kdXd3dzdwTnpYWEE?oc=5",
     "news_image": "",
-    "news_source": "The Manila Times",
+    "news_source": "manilatimes.net",
     "news_age": "20h ago",
     "news_columns": [
       "gdp",
