@@ -7965,14 +7965,16 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.13,
+    "news_score": 1.32,
     "news_title": "While the world is distracted, China steps up its strategic game - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONFc0bWlGZ294ZWg0NnB1eGJKN3FROERvclpMS0hIZkVraGEyS0tRZW5kQVdCYXExTEF1ejdTNG9jU3lrbjBSSktNYVlBaWxaLWZnR3o2endjWmRTbHBleVdMT0RPMEdZRTNVM3UyRFk4emRZZFVnM09tdGJyNWR2N29HUFViWVlqRUxVMkVCLUNnMGxBMFhGeWhJNk1hRi0walVqT3p4eW1Gdw?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "70m ago",
+    "news_age": "72m ago",
     "news_columns": [
-      "geopolitics"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -12431,7 +12433,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQVh5RUNRVkp6TkZEMVI0NWNTNTlHVzBLS1RacDFpbG9pRVI1VDdzdFVUOE1ub21pR3B5SVFDQy1mR2ZLZE4zZ1pPMWVPaDRVbUVOZjVPaXdFRVlTNjdDX0dYV1BJYkl1dk9nRUdWWldjZTJYM1RFVExxblBXV3h6aHhKVEVFSVRuYVZDR1FtM0RSOTJyeDRxTXcxSjhHRjZRQ3BoMEVDV0ZKQWIweHE2NWI5bGR6MkN6R3ln?oc=5",
     "news_image": "",
     "news_source": "CNBC",
-    "news_age": "87m ago",
+    "news_age": "89m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -12932,17 +12934,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.78,
+    "news_score": 0.98,
     "news_title": "World in Brief: France blocks social-media ban; Zambia suspends vote count - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ3NPZ01Lb0pBNjFzd24wbkcwdExoOWU4d3FJSEpWdEMyeDdieE1NRWlDMU9OZzg1N3Myc3Ezck4xMnNuVG1IUlg2UjdrMzNteGRXdE4xdUZZTVRUYnVPU1dTbjF6dzRIVXNBeDNqbUNYLTBFRkhiMGtfeFY5M0lyZjNRRjM3V3VnVDBqaFlLN1B3VU1QSzRN?oc=5",
     "news_image": "",
     "news_source": "The Economist",
-    "news_age": "21m ago",
+    "news_age": "23m ago",
     "news_columns": [
-      "democracy",
-      "approval",
-      "press",
-      "election_days"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13458,12 +13458,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.8,
+    "news_score": 0.84,
     "news_title": "Students at the FIFA World Cup - Carmical Sports Media Institute - University of Georgia",
     "news_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9laG1ROUMyNDZldDRsZGJzUTZBSmdjeW9JTlV2dTBIcWZ0VEMtbjJtY3h5NFdIaVRpczZpaFI1YW9mOUtpV1VoanVUMXNLcEhG?oc=5",
     "news_image": "",
     "news_source": "University of Georgia",
-    "news_age": "10m ago",
+    "news_age": "12m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -17271,7 +17271,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.73,
+    "news_score": 0.62,
     "news_title": "US threatens ‘indefinite’ blockade against Iran: How long can it last? - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOEsxSHRoSmJRakx6eFJyeHRhd3R6dDBYTkx5UWFvUExSYmtmMUs0SmZXZVhrOGZ5UGxsZjUzd0FqVmRjV2NDdVZxaDg0QjduZmN2RHd1UFVEcFdKLXN0bDRuZ1RQdENzZTBnQ284V2c3eXNOM1dUalV1Z3lZS0FmQk9QNmVEeWp6b0gyWkd3djh6ZDR6VUJaYmhUTDdwV2dMOG9YaURfUVphaWfSAbABQVVfeXFMUFMxZUlxNVdiQVhkWDVxVTR3N3RCU0JGdGw3NzV6dHlub1pWVEY4WnlrZ3gwNjNRYVVHZ05nRDd6Y1QyZ0lzOGd1Y1VGY3VPXzJ0MmdIQUVYeXhqT2FjaGVtNmRMbzgydU5Td3UyY1lrSi0yZWNEZlRWRUhtU3NWM0o2SlFZbksya1BRVVhuV1BUQVRGZXJGZVYySlNJX2hJR3hNMUVZNHMzRmxKTU1iQW0?oc=5",
     "news_image": "",
@@ -18446,12 +18446,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.06,
+    "news_score": 0.72,
     "news_title": "Coppa Italia: How to watch the First Round fixtures tonight - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV2JfMkdSOWxrRzBQd1NqUWVTcTVZR18wTmFMRnRtam1yU3JqZmdqYjN2V25uWnNubWk3OVRQRkh2UGwyanJESzkxeVdTb0ZLN1NneWpqcmNaRUhCVXBIWEtSbHZ1UFVac2JlZjlOM2U2UkJzaHlfVEJQR0ljazVKc1FObDR3dw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "76m ago",
+    "news_age": "78m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -20937,7 +20937,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40TDM4djU3aHFDbmsyVUdtUVZPOWpTV0lUUW1pZ3dCUXBzbXQ4d3UyNW9hMHFEaEt6YTB5dDVyamN1bEJBRm9mc1dNZnFZSFEwMG01MHV3bmxLNFQ0QnlybmotdTnSAWpBVV95cUxOTDlac0tFMVFiM3V3eElfdVRqSGVxYWQxSzM4TDd2STBsS0RpNVNqUGlKZzkxX0hocjJ6WWJoWG9HRUY2cXM1bFVjMnRqUmxVQ2d1dFRvdkk4dDJLTlRDMFFKaDJOaC05VUx3?oc=5",
     "news_image": "",
     "news_source": "CNBC",
-    "news_age": "3h ago",
+    "news_age": "4h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -24602,7 +24602,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeUN0d3hxcEFoLVVaY1ItRURxWktvTzVsWVpKdTdjZzFldV9OT1VlQ2N4RUF3ZENpdVVMNVpqam9jcDZmMTlZVThMSXR6LUdtVWJkcVhhajA0d1laTW5ydWV2alR4Z3FKUUxFR2cyaEIzWXE1MGRmSjJnUVB5bDVhUU5ORXJ3NU9GWXVqcHl4UHZLMjFOVnZLRTVWeUxUT2s?oc=5",
     "news_image": "",
     "news_source": "Daily Coffee News by Roast Magazine",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -28241,7 +28241,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVEs0V3JkMEtaNEVoRmtaMzlZTG1jc3RjamV5ZEpSYmhQZVBZUGNZNTNtVENKUXFWMm00MzJtQ1pCcURhcFRrTFV2dEItU3llRno4SFA0RTEtS2ZMNlo4S0h3TFkwR2tzM3g1S1EtVGQtbHd4VzUwTlFaN0dyNEtRcmVERl84dUtVT1ZHeEt1eGRNbWFrRnFuTDNpTnlmZzBveHJ3MnZNTzFFMUxWdWxtd1g4VdIBuAFBVV95cUxPLUJmdTBRbDVMTVRsSGdQeWE4Ukt0WU1ydUgwOUY4cmFsQU94R1dxRnFfTFptLWhjY1JvYjhQMVNGRm4zRGlXM2o1aEJ2VER2RXo4UFdVbjFZOTE0b3VBdFVCYlJuS0ZwOHZEQ0Q1YmZDcEdCeElWUm1xdGFyLUx1MHYxWVYtMzdaaVBCUWF1S0JtR0R4S01jS2NNcWk0Sm9obU9mdWd3MkZsaW82dzY2R3FLRHBUMXZr?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "6h ago",
+    "news_age": "7h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -32900,14 +32900,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.13,
+    "news_score": 1.12,
     "news_title": "Russia stance will be defended in court, pledges World Athletics chief Coe - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZnBrMk5iU1dteW43RGlsbDVBbEgzOGZQQXFjYTF5emUtRzJWQVhaNkdab05FZE1tc3FtdnZvak5xc2VkZ2dMWkgxRFpISE0wcDZYUzZxQzloVExuWkpWSkVXRnNwSVBZRkozTkh3T2hsWDl4NDVDRXg0Rl8tb0RlMVQxZmVWd1RHMmJFRzNTWGliV2IxSlU1Qm5PaDJ6YkY3YlpxUnlQMkpNWmRmZlF1cE00MnNLRG_SAbwBQVVfeXFMTjY4YXVFUlJJeHU3N0RQSEJDdVEzb2xNWExZMnBfX3o1c2ZhLVpYZS1TTktvbGstb3ZQajVDZVhUMWxmeXd1OVVmNEZfQmRMX0JqY3dITUc3SGktMmJ3RWx0bEdaMlJVNXktNnNzallLbmtlbUd3RDVmNEV1ckRwLUs3ajZhLUxlbEpPV190QXBsU0dDOUsya1J1UVg1MEtPZDVKUlJrRGJPaGZQVlVSODA3Q3FsbjNiVFhHeUg?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "98m ago",
+    "news_age": "100m ago",
     "news_columns": [
-      "geopolitics"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -37751,12 +37752,12 @@
     "refugees_rank": null,
     "union_rate": 84.0,
     "union_rate_rank": null,
-    "news_score": 0.55,
+    "news_score": 0.58,
     "news_title": "Atlanta United finalizing $18m deal to sign Switzerland forward Breel Embolo from Rennes - nytimes.com",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOalB3S0IzaUkwS3FzdkZTOTNWN3JjTkxIY1dndEp2VXE2dlUyMFViLTlxVTFaU3h1U1ZYbmJvWThJeWY5eU5GZkM0d1U3ZWVZUzc3ZzRvQlAtcl9UbndFTm0tcEhxaGZDVng0S3RHa2MzVHZ0bVlSMVpsODJTbTIwZ2hHYUJpVUdjZ2xFNmpmR1JvQWc?oc=5",
     "news_image": "",
     "news_source": "nytimes.com",
-    "news_age": "96m ago",
+    "news_age": "98m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -40990,7 +40991,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40TDM4djU3aHFDbmsyVUdtUVZPOWpTV0lUUW1pZ3dCUXBzbXQ4d3UyNW9hMHFEaEt6YTB5dDVyamN1bEJBRm9mc1dNZnFZSFEwMG01MHV3bmxLNFQ0QnlybmotdTnSAWpBVV95cUxOTDlac0tFMVFiM3V3eElfdVRqSGVxYWQxSzM4TDd2STBsS0RpNVNqUGlKZzkxX0hocjJ6WWJoWG9HRUY2cXM1bFVjMnRqUmxVQ2d1dFRvdkk4dDJLTlRDMFFKaDJOaC05VUx3?oc=5",
     "news_image": "",
     "news_source": "CNBC",
-    "news_age": "3h ago",
+    "news_age": "4h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -43458,7 +43459,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVWZxSjZkTEtvT0xVclA4TlEyZjBCaTdBSTdHZ3VKWWNhLS02ZXZUZGo5MXZwQTBNazFTRnFoRmZxWVh5QUlXMEl5TmFqUDFjSHp6dXNxNDJWb19WRExhUk5HcVF4QVpHUE9FRlhqQXlNN29OZmN1WDRmR3Zkc1pKYUNaSDVaNDlHUTIyOHBOdGlxU1MyRU85LS1CNXJzRlhBam40eFpheGlTRVE?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "17m ago",
+    "news_age": "19m ago",
     "news_columns": [
       "lgbtq_rights",
       "gay_marriage",
@@ -44183,7 +44184,7 @@
     "refugees_rank": null,
     "union_rate": 62.2,
     "union_rate_rank": null,
-    "news_score": 0.79,
+    "news_score": 0.85,
     "election_title": "Zambian National Assembly",
     "election_url": "https://www.electionguide.org/countries/id/239",
     "bottom50_wealth": null,
@@ -44191,7 +44192,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ3NPZ01Lb0pBNjFzd24wbkcwdExoOWU4d3FJSEpWdEMyeDdieE1NRWlDMU9OZzg1N3Myc3Ezck4xMnNuVG1IUlg2UjdrMzNteGRXdE4xdUZZTVRUYnVPU1dTbjF6dzRIVXNBeDNqbUNYLTBFRkhiMGtfeFY5M0lyZjNRRjM3V3VnVDBqaFlLN1B3VU1QSzRN?oc=5",
     "news_image": "",
     "news_source": "The Economist",
-    "news_age": "21m ago",
+    "news_age": "23m ago",
     "news_columns": [
       "democracy",
       "approval",
