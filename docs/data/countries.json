@@ -207,19 +207,19 @@
     "union_rate": 38.4,
     "union_rate_rank": null,
     "fifa_ranking_rank": 136,
-    "news_score": 0.01,
-    "news_title": "World News in Brief: Afghanistan education, Myanmar flooding, Syria recovery, homecare workers in New York - UN News",
-    "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EZHkwaTd5WVBDQ0RuUWRDTzBPb3dUV2dtMy1LWjNvZTRiRFAyT0R6X2lCM0t5VHBvbTdkcFhZNjVDQl9ibjVkUlVPQ01SSUFYNTBqcElPWQ?oc=5",
+    "news_score": 0.03,
+    "news_title": "Afghan Women Erased From Public Life in Five Years of Taliban Rule - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT0k5eFJpaHhhSnd4UE5rYURhUnFKNGxIaERrTmNYaG9CcWhpbFN2ZFFjc0djRHJnZ1pjM3ZoSHhROGEwbzRndVRCUHVFaU56elVzUjVSLUtWN0VVdDB4LXJ2ZlZQOGp0NWtlc3ZFVG1RV1NkeHotbnRBZHlhRnNvc2tR?oc=5",
     "news_image": "",
-    "news_source": "UN News",
-    "news_age": "18h ago",
+    "news_source": "The New York Times",
+    "news_age": "8h ago",
     "news_columns": [
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "gender"
     ],
     "bottom50_wealth": null
   },
@@ -12941,8 +12941,12 @@
     "news_source": "Newsonair",
     "news_age": "28h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "space_launch"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -14158,7 +14162,7 @@
     "union_rate": 60.4,
     "union_rate_rank": null,
     "fifa_w_rank": 50,
-    "news_score": 0.44,
+    "news_score": 0.43,
     "news_title": "Ghana, South Africa end WAFCON with wins to keep Women's World Cup qualification hopes alive - ABC News - Breaking News, Latest News and Videos",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnZ1SkdENVB1bnd5eHdYb0M5Q0tTTEZ0ZzlacmJDZnAza1dYby1GNmlWelY2UjdhYWxldml1Q3RTLWJ5am5iQl8tWGVIVXBRU3RheVNrQ1ZCek1uRzZiTEt4OEtXRDlHMzhCZ1ZQWnJVeEJETzZvVFdsejMzZFJHNkJhX0VHOFdIOHNpaHV4OGdoem1MdXdxbFFB0gGfAUFVX3lxTFBYV294a0dtWUYxLV83bkdKUm1iUnZDSklmSTcxTnhvQ2dLVEs1blJET3gzbWtXbmxiSGFIMVlXbnVGQ1BGUGdmMGpXeEFobmZ3LUJMcy1aY3lXUjlGbkI0VEtlNU4xajJ3T010a1hFWFNxMHYweUJpMUlnMFBiRGZXLXNJM1YwQmt4Z2JNUUZIOExkcC13d1pQRm9ZNFptYw?oc=5",
     "news_image": "",
@@ -16696,7 +16700,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.65,
+    "news_score": 0.64,
     "news_title": "Hockey World Cup 2026: Know where to watch live streaming and telecast in India - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTzNlVjB6N01YaUF2aUUzTkdHcl9RcVFNUy04TUZnY3gzSEV2MlRsVkw5RGpqZGhsQ2RtaGtwLVQ3SnVpUnFuSG92M0x2RmVDeHM5MDVIS1d3NzFrUEo3LWh3ZUd2REFkZHNTaTdaNHNUbFMzczY5Zm9FU1RYTWFmRDJKMHZVamxWTjFHb1pkWFlLa1RaN0ZPTDRyRnF0Z3phQnc?oc=5",
     "news_image": "",
@@ -17276,10 +17280,14 @@
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb2FwQzRGRnQwTjFNbTRBTHNFY3JtRTRNZkZ5T1VYbFBlbzVhNnZqTTlrWEZaN3VzTWpySWVhOFdNNmhmTzdpWnZkY1NVNzFOWUxvakM4RkJmU1JMSWlpN3BTNFA3UHdUbXNiSjVDbjJWdjhQa0p3WFUyNGRXNzZzS3k2SnBWNlRsN1hCN0swYVR4MW5GbDFXM3VZSGF0QjlHbXZyMVZibFdyd3c2Q1Bv?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "36m ago",
+    "news_age": "38m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "gas_price",
+      "energy_per_capita",
+      "co2",
+      "renew",
+      "exports",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -20923,7 +20931,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 116,
     "fifa_w_rank": 75,
-    "news_score": 0.74,
+    "news_score": 0.73,
     "election_title": "Latvian Parliament",
     "election_url": "https://www.electionguide.org/countries/id/119",
     "bottom50_wealth": null,
@@ -20933,8 +20941,12 @@
     "news_source": "CNBC",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
+      "military_pct",
+      "nuclear"
     ]
   },
   {
@@ -27573,7 +27585,7 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 85,
-    "news_score": 0.41,
+    "news_score": 0.4,
     "news_title": "New Zealand break ranks with Oceania as FIFA’s Infantino divide grows - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzVLeU96Ylc3N2ltSnFpbDdsTGhVa2ducWJtcEdxSE9mZkhxNXpiNVF0VGQ5blUxZzRicHI5dEhKOU5CVUFmNHRySm9SX29oYkRSWmxVV2VrYkh0SGhGVVhhVWVUMmNnTGN5V1dMcFk5RnNoMjBJWG5zaGtCUFFMaFlnS0tJekJRSnc3RWhPOVNwbGx1dHBTaUJLcTdaWkJNTUVZSloyWnpSWXY4SjFPNNIBtgFBVV95cUxQQVhfMjBqODZlcTdpY183WmlJOFAwaWRiMVpnTWxRNG55X2pmRUFYc1MyV0cwdkhHSTE2NUhqX0t0ZHJkbXUzUzl6ZV8yZXRHa2FZV1Zfbm9EYkRNY25vdGZvRmhmaWIxTTczTFZBeVVfc29ZeHlSR3BtYW9JeFRwaTFMZVNLZV9VMkRTNldSOGw1VGlJN3FaWmRJcWI5ajVBZkMxd3FrSzNjMVRQLThrcjBvUl9mQQ?oc=5",
     "news_image": "",
@@ -27950,13 +27962,13 @@
     "refugees_rank": null,
     "union_rate": 80.4,
     "union_rate_rank": null,
-    "news_score": 0.54,
+    "news_score": 0.5,
     "bottom50_wealth": null,
     "news_title": "American Missionary Kidnapped in Niger Soon to Be Reunited With Family - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN1NBSkZvQi1WVm8xcVRjUnVXbk5LaDhVQ2laRm9KN19tellvUTg0RGtIcnJONldjYVhHeEtWYUZvWjdueVVYWU5acDJ3eUhqbm5qUldocVkwcEp5OC1KYVF3eXlKMnVFeW5Ic0VRcnhYckF1QjZkU2JrcjR5WWltVUVmajEwcmVYTzJydFE1U0haWkRaNFY2Vkw5TQ?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -32891,12 +32903,12 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.05,
+    "news_score": 1.26,
     "news_title": "Russia stance will be defended in court, pledges World Athletics chief Coe - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZnBrMk5iU1dteW43RGlsbDVBbEgzOGZQQXFjYTF5emUtRzJWQVhaNkdab05FZE1tc3FtdnZvak5xc2VkZ2dMWkgxRFpISE0wcDZYUzZxQzloVExuWkpWSkVXRnNwSVBZRkozTkh3T2hsWDl4NDVDRXg0Rl8tb0RlMVQxZmVWd1RHMmJFRzNTWGliV2IxSlU1Qm5PaDJ6YkY3YlpxUnlQMkpNWmRmZlF1cE00MnNLRG_SAbwBQVVfeXFMTjY4YXVFUlJJeHU3N0RQSEJDdVEzb2xNWExZMnBfX3o1c2ZhLVpYZS1TTktvbGstb3ZQajVDZVhUMWxmeXd1OVVmNEZfQmRMX0JqY3dITUc3SGktMmJ3RWx0bEdaMlJVNXktNnNzallLbmtlbUd3RDVmNEV1ckRwLUs3ajZhLUxlbEpPV190QXBsU0dDOUsya1J1UVg1MEtPZDVKUlJrRGJPaGZQVlVSODA3Q3FsbjNiVFhHeUg?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "7m ago",
+    "news_age": "9m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -35401,7 +35413,7 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.44,
+    "news_score": 0.43,
     "news_title": "Ghana, South Africa end WAFCON with wins to keep Women's World Cup qualification hopes alive - ABC News - Breaking News, Latest News and Videos",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnZ1SkdENVB1bnd5eHdYb0M5Q0tTTEZ0ZzlacmJDZnAza1dYby1GNmlWelY2UjdhYWxldml1Q3RTLWJ5am5iQl8tWGVIVXBRU3RheVNrQ1ZCek1uRzZiTEt4OEtXRDlHMzhCZ1ZQWnJVeEJETzZvVFdsejMzZFJHNkJhX0VHOFdIOHNpaHV4OGdoem1MdXdxbFFB0gGfAUFVX3lxTFBYV294a0dtWUYxLV83bkdKUm1iUnZDSklmSTcxTnhvQ2dLVEs1blJET3gzbWtXbmxiSGFIMVlXbnVGQ1BGUGdmMGpXeEFobmZ3LUJMcy1aY3lXUjlGbkI0VEtlNU4xajJ3T010a1hFWFNxMHYweUJpMUlnMFBiRGZXLXNJM1YwQmt4Z2JNUUZIOExkcC13d1pQRm9ZNFptYw?oc=5",
     "news_image": "",
@@ -36856,13 +36868,13 @@
     "union_rate": 37.9,
     "union_rate_rank": null,
     "fifa_w_rank": 121,
-    "news_score": 0.0,
+    "news_score": 0.02,
     "bottom50_wealth": null,
     "news_title": "Will Sudan’s El Obeid Become the Next El Fasher? What to Know. - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSXNuWWEyMnhVVlNPX0FMbnVRSEpnOHFBdWVkVDFSU3NybjhpZnBCY3RRdlU1Z3hRNGYzRDVyeXZ6SmFYWGZmdEcyTlJOWF9vOExsU21Eb0pKcE5mbnd4aFgwbHRiY1cyUXJqVm85NV9KV1ZUbEtQcmJUZXdsTXE4UUgtVXgzR3lL?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "8h ago"
+    "news_age": "9h ago"
   },
   {
     "flag": "🇸🇷",
