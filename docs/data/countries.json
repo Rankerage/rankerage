@@ -6903,7 +6903,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.26,
+    "news_score": 0.25,
     "news_title": "Hawaii's Moniz, Canada's Erin Brooks win tube shoot-out in Tahiti - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV0tlZXNhRUtrNXEyRVgtY1RQNmEtYkwzSlp2QVNKTHdlWUtjeVdhdmVYZjd6X1dqUXQyQ1VYYUx2ZzNQR25nZDdYYVZxZ1B5dnl2ZXFuUG9GM09lb1dPSndubkx5ZlBQcm5SWjdGTWFEb2Z1R25oc1JMWDd1Rk04RU1mUUJjM3ZWYWozYTFjeFdtZU1la29jRzFJVGx5UQ?oc=5",
     "news_image": "",
@@ -7967,12 +7967,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.43,
+    "news_score": 0.51,
     "news_title": "China's hottest AI chip stock is now one of the world's most valuable chipmakers — rivaling Intel - Yahoo Finance",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS25NTHY1aWtTMlVYMi1JTThIUE01N21VZkNYbTF1Z1BVTS1GZ0tsLU1mUkVTX1o2UHdPSEx5MndYZG1VOXc3QXJ0dXo1aWtMMmktLUFWYzg3V2VEbmdhRk85N1htRU8xNjl1eE5uMmZZdlhiOUxXVDhDN1dyeF85dnR4NGJPOXE1ckI2VXF1Wlg5VjVSMXNV?oc=5",
     "news_image": "",
     "news_source": "Yahoo Finance",
-    "news_age": "113m ago",
+    "news_age": "115m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -12937,14 +12937,17 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.89,
+    "news_score": 0.91,
     "news_title": "Sports - Spain's World Cup final hero Ferran Torres closes in on PSG transfer - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaWVIcWdoYnFOSVJkNmdmWmNsR3NySDVNenBRMU9vZEdwLVNtbnVUbzg4SnpxWnlHUUI0S1lIMjRhdmh2RkpZZktsOF9uXzZtZExId0JQSy1xTzRVcl9xSUtiamplLWUzMFc1T1RSVWtPcklEeGtiQmVxSFVNbFRVczFMUTJHSy13OVJSa0V0TjVySGM3b2dPd3BDZ2lTVlFxTE02bXY1Uk15M0FUWmg2eXpNanNjSjRjLTlRMVdn?oc=5",
     "news_image": "",
     "news_source": "France 24",
-    "news_age": "98m ago",
+    "news_age": "99m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -16699,7 +16702,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.49,
+    "news_score": 0.48,
     "news_title": "Fulton's India ready to embrace World Cup pressure with defence, set-pieces under the scanner - ESPN Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTnVGMFVqT05vbW1nNWoyS1pOOFlkcTVWUWl4NzZWSjEwMzRjLXp6V2p5RTNLSmRpTXc2Q2JKSWJwd3BCTGRJNXZHWmp6bWRhVlBuTExNYWxXVjRnSGNQcmlfbXl5cVNKd1N2SFdhQmg2enNlN0E1UXJDWjkyX0pKeGlBRlVtVzh6Q3l2MW03Ymh2d0NBdVJzLUhQbG5PSlpFRl9qOXRXdjFmeTZtZHhCc3FPdUNWUnhHMmxSVHlMLVEzNEgtYi1yX0pkOXFWZXBvVVFfbWVhdHNXQQ?oc=5",
     "news_image": "",
@@ -17272,18 +17275,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.2,
-    "news_title": "Democrats seek answers after reports of poor conditions on USS Abraham Lincoln - The Washington Post",
-    "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLThOUTdEamEyRGJLcEthOFQyUm9WdVNnSml1SE9tZzJfbEFxdlpSOENjeFp3ZHpmdzlBWFpPV0hKMWkxdXVhQXNrLWJGLWU1eWdSM2hXSWNxLXlmdzhFOEZPdmhDUUg5M1BsZHZhbGtIcmFoVVY2clFGX2otdWZSZ1l1amZKQ29EV1RUSnpSYkdiaXZCcXFjZUZodThQZktFTXFjWmpZejdOVmNqeVZZNGtHU1ZNc1BVdW9STmZLWUJ3c2d1MmRLc1NCWmJhU28?oc=5",
+    "news_score": 0.15,
+    "news_title": "South Korean airport becomes busiest in world for global traffic amid Iran war - The Guardian",
+    "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcVplcGRpeXh1NGVBSm91bXRfbmhuRWhxeWs2WjN4Z19mVlBkZ25FTVRDX3RzWnlzallHRkd4M2JfU19SOUVzWjg4WjFVSE1lU040dzE5TzdFQWN6SXVINXlkVzJQOHBHOXdpT19QQVFkVjBOU3k5R0xsUlFIa25odk1mMmFVMmFIbC1XTk9hUlY4VjhhSkd6NUh3?oc=5",
     "news_image": "",
-    "news_source": "The Washington Post",
-    "news_age": "5h ago",
+    "news_source": "The Guardian",
+    "news_age": "12h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
       "military_personnel",
       "gpi",
-      "arms_export"
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -19134,14 +19138,17 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.06,
+    "news_score": 1.07,
     "news_title": "Pan Pacific Championships 2026: Japan's teen sensation Ohashi Shin breaks own junior world record to win silver in men's 100m breaststroke - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTU4zV193a3JJYlJJSDdHY2pMVW1sNlhtRDZoaWdDZGRkVmVmWXBxcEZHdFQwVzk2UGt5ckhUMEZrMmVNNWhydkwzeV8yaWVPeHVFR0NOYWs3a09sTTBLN191d29DVk5zQWhVSXNGVW53WlBEUktDWThnZmtFdUxybWNFUVZjQWNhX29RSnZpNU9ZdDhBcUFYSjl4dm9XTkctNnh2M1liVHNIN3d6X0ZOdDF3MjdzUlUxd2ExVXRUVzByR3V4aGVIQUJR?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "100m ago",
+    "news_age": "102m ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_w",
+      "fifa_ranking",
+      "basket"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -32871,12 +32878,10 @@
     "news_source": "Kyiv Post",
     "news_age": "2h ago",
     "news_columns": [
-      "gas_price",
-      "energy_per_capita",
-      "co2",
-      "renew",
-      "exports",
-      "ai_research"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -35378,14 +35383,17 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.07,
+    "news_score": 0.08,
     "news_title": "Nigeria to miss Women's World Cup after South Africa and Ghana win play-offs - bbc.com",
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SbnF4c2N3VzVNWlpSSUJGZXpUS2FDSDB4a3ZtQmplTzdOTTFaZjNMNlNrUWtWRGh1MEpwOVVWYWFpWHF5U2NSVXRldkp3MVU0NEhiT1owcUNvVVppZzhHTTZmX2dKSTQ?oc=5",
     "news_image": "",
     "news_source": "bbc.com",
     "news_age": "9h ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_w",
+      "fifa_ranking",
+      "basket"
     ],
     "bottom50_wealth": 1.2,
     "bottom50_wealth_rank": 29
@@ -36436,14 +36444,17 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.93,
+    "news_score": 0.97,
     "news_title": "Sports - Spain's World Cup final hero Ferran Torres closes in on PSG transfer - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaWVIcWdoYnFOSVJkNmdmWmNsR3NySDVNenBRMU9vZEdwLVNtbnVUbzg4SnpxWnlHUUI0S1lIMjRhdmh2RkpZZktsOF9uXzZtZExId0JQSy1xTzRVcl9xSUtiamplLWUzMFc1T1RSVWtPcklEeGtiQmVxSFVNbFRVczFMUTJHSy13OVJSa0V0TjVySGM3b2dPd3BDZ2lTVlFxTE02bXY1Uk15M0FUWmg2eXpNanNjSjRjLTlRMVdn?oc=5",
     "news_image": "",
     "news_source": "France 24",
-    "news_age": "98m ago",
+    "news_age": "99m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -40954,12 +40965,10 @@
     "news_source": "The Economist",
     "news_age": "12h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
