@@ -7965,14 +7965,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.9,
+    "news_score": 1.12,
     "news_title": "While the world is distracted, China steps up its strategic game - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONFc0bWlGZ294ZWg0NnB1eGJKN3FROERvclpMS0hIZkVraGEyS0tRZW5kQVdCYXExTEF1ejdTNG9jU3lrbjBSSktNYVlBaWxaLWZnR3o2endjWmRTbHBleVdMT0RPMEdZRTNVM3UyRFk4emRZZFVnM09tdGJyNWR2N29HUFViWVlqRUxVMkVCLUNnMGxBMFhGeWhJNk1hRi0walVqT3p4eW1Gdw?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "44m ago",
+    "news_age": "46m ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -12426,19 +12427,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.78,
+    "news_score": 0.96,
     "news_title": "Happiness expert on why Finland has again been named world's happiest country - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQVh5RUNRVkp6TkZEMVI0NWNTNTlHVzBLS1RacDFpbG9pRVI1VDdzdFVUOE1ub21pR3B5SVFDQy1mR2ZLZE4zZ1pPMWVPaDRVbUVOZjVPaXdFRVlTNjdDX0dYV1BJYkl1dk9nRUdWWldjZTJYM1RFVExxblBXV3h6aHhKVEVFSVRuYVZDR1FtM0RSOTJyeDRxTXcxSjhHRjZRQ3BoMEVDV0ZKQWIweHE2NWI5bGR6MkN6R3ln?oc=5",
     "news_image": "",
     "news_source": "CNBC",
-    "news_age": "61m ago",
+    "news_age": "63m ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "happiness"
+      "olympic"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 13
@@ -12932,7 +12928,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.02,
+    "news_score": 0.03,
     "news_title": "Europe’s economy faces a one-two punch from extreme weather and war - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96YnQ3NjNZTWJYLWJWbzJiSFBHN0dOZTI1UlhqdVNUTzRRYVZGbEFJV0UzTG9YVVA5RnIydk1tVlROcFd5a2I0SWxFOXd5bzlicDNOeFM3OEZ2UmRkLWo1d2lTcDdqREtFRlhtdVpoMVBnR0hWRE9J?oc=5",
     "news_image": "",
@@ -17273,14 +17269,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.2,
+    "news_score": 1.43,
     "news_title": "Live Updates: UAE accuses Iran of attacks in Strait of Hormuz as Vance says cheap oil and gas are \"goal number one\" - cbsnews.com",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb2FwQzRGRnQwTjFNbTRBTHNFY3JtRTRNZkZ5T1VYbFBlbzVhNnZqTTlrWEZaN3VzTWpySWVhOFdNNmhmTzdpWnZkY1NVNzFOWUxvakM4RkJmU1JMSWlpN3BTNFA3UHdUbXNiSjVDbjJWdjhQa0p3WFUyNGRXNzZzS3k2SnBWNlRsN1hCN0swYVR4MW5GbDFXM3VZSGF0QjlHbXZyMVZibFdyd3c2Q1Bv?oc=5",
     "news_image": "",
     "news_source": "cbsnews.com",
-    "news_age": "104m ago",
+    "news_age": "106m ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -18443,12 +18440,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.92,
+    "news_score": 1.13,
     "news_title": "Coppa Italia: How to watch the First Round fixtures tonight - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV2JfMkdSOWxrRzBQd1NqUWVTcTVZR18wTmFMRnRtam1yU3JqZmdqYjN2V25uWnNubWk3OVRQRkh2UGwyanJESzkxeVdTb0ZLN1NneWpqcmNaRUhCVXBIWEtSbHZ1UFVac2JlZjlOM2U2UkJzaHlfVEJQR0ljazVKc1FObDR3dw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "50m ago",
+    "news_age": "52m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -24594,12 +24591,12 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.63,
+    "news_score": 0.73,
     "news_title": "The 2026 World AeroPress Championship Heads to Mexico City - Daily Coffee News by Roast Magazine",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeUN0d3hxcEFoLVVaY1ItRURxWktvTzVsWVpKdTdjZzFldV9OT1VlQ2N4RUF3ZENpdVVMNVpqam9jcDZmMTlZVThMSXR6LUdtVWJkcVhhajA0d1laTW5ydWV2alR4Z3FKUUxFR2cyaEIzWXE1MGRmSjJnUVB5bDVhUU5ORXJ3NU9GWXVqcHl4UHZLMjFOVnZLRTVWeUxUT2s?oc=5",
     "news_image": "",
     "news_source": "Daily Coffee News by Roast Magazine",
-    "news_age": "8m ago",
+    "news_age": "10m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -27957,7 +27954,7 @@
     "refugees_rank": null,
     "union_rate": 80.4,
     "union_rate_rank": null,
-    "news_score": 0.11,
+    "news_score": 0.14,
     "bottom50_wealth": null,
     "news_title": "American missionary kidnapped in Niger in October is freed, his organization says - cbsnews.com",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMDdBWFN6aFYxUG05V1dJSXdsbU1KbjJmSDJJSXZtcVZMRDA3MEowUDV0Z0l3NUpfUjN1UnVDdUhfMnVGNGVrMGhlSGlFOURRUER2WUhhRXRSb2Z5ZnFka0FBOXNRTFlENmRTa1B4V1Njak5wVndyUk1HdlhSMWVJTmx2TzlSZHlOY1FJTno3VEVDMnd2N200QkEzM1g?oc=5",
@@ -32902,7 +32899,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZnBrMk5iU1dteW43RGlsbDVBbEgzOGZQQXFjYTF5emUtRzJWQVhaNkdab05FZE1tc3FtdnZvak5xc2VkZ2dMWkgxRFpISE0wcDZYUzZxQzloVExuWkpWSkVXRnNwSVBZRkozTkh3T2hsWDl4NDVDRXg0Rl8tb0RlMVQxZmVWd1RHMmJFRzNTWGliV2IxSlU1Qm5PaDJ6YkY3YlpxUnlQMkpNWmRmZlF1cE00MnNLRG_SAbwBQVVfeXFMTjY4YXVFUlJJeHU3N0RQSEJDdVEzb2xNWExZMnBfX3o1c2ZhLVpYZS1TTktvbGstb3ZQajVDZVhUMWxmeXd1OVVmNEZfQmRMX0JqY3dITUc3SGktMmJ3RWx0bEdaMlJVNXktNnNzallLbmtlbUd3RDVmNEV1ckRwLUs3ajZhLUxlbEpPV190QXBsU0dDOUsya1J1UVg1MEtPZDVKUlJrRGJPaGZQVlVSODA3Q3FsbjNiVFhHeUg?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "72m ago",
+    "news_age": "74m ago",
     "news_columns": [
       "olympic"
     ],
@@ -34071,7 +34068,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUHhLOUE1SWwtaldYN0x6MkNhN3B3ckRCT1RvcGhZb1g1OTNYNlRSeTllU1FhVzRMdHdMZkxvZmloYlhPM3hzX3QzdVpubkY1RTQtQ3JLZUI5VTFBYnM0SEZvbmkyblFEaURFQ2xRcFF5VlZRLU5vZU9WS0NkWGxwdXFuUlFEdHJTX1dNQlhWRQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Finance Singapore",
-    "news_age": "43m ago",
+    "news_age": "45m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -35406,7 +35403,7 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.33,
+    "news_score": 0.32,
     "news_title": "Ghana, South Africa end WAFCON with wins to keep Women's World Cup qualification hopes alive - ABC News - Breaking News, Latest News and Videos",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnZ1SkdENVB1bnd5eHdYb0M5Q0tTTEZ0ZzlacmJDZnAza1dYby1GNmlWelY2UjdhYWxldml1Q3RTLWJ5am5iQl8tWGVIVXBRU3RheVNrQ1ZCek1uRzZiTEt4OEtXRDlHMzhCZ1ZQWnJVeEJETzZvVFdsejMzZFJHNkJhX0VHOFdIOHNpaHV4OGdoem1MdXdxbFFB0gGfAUFVX3lxTFBYV294a0dtWUYxLV83bkdKUm1iUnZDSklmSTcxTnhvQ2dLVEs1blJET3gzbWtXbmxiSGFIMVlXbnVGQ1BGUGdmMGpXeEFobmZ3LUJMcy1aY3lXUjlGbkI0VEtlNU4xajJ3T010a1hFWFNxMHYweUJpMUlnMFBiRGZXLXNJM1YwQmt4Z2JNUUZIOExkcC13d1pQRm9ZNFptYw?oc=5",
     "news_image": "",
@@ -36861,7 +36858,7 @@
     "union_rate": 37.9,
     "union_rate_rank": null,
     "fifa_w_rank": 121,
-    "news_score": 0.03,
+    "news_score": 0.0,
     "bottom50_wealth": null,
     "news_title": "Will Sudan’s El Obeid Become the Next El Fasher? What to Know. - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSXNuWWEyMnhVVlNPX0FMbnVRSEpnOHFBdWVkVDFSU3NybjhpZnBCY3RRdlU1Z3hRNGYzRDVyeXZ6SmFYWGZmdEcyTlJOWF9vOExsU21Eb0pKcE5mbnd4aFgwbHRiY1cyUXJqVm85NV9KV1ZUbEtQcmJUZXdsTXE4UUgtVXgzR3lL?oc=5",
@@ -40981,7 +40978,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.38,
+    "news_score": 0.0,
     "news_title": "NATO aircraft shoot down drone over Latvia, which blames 'Russian electromagnetic warfare' - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40TDM4djU3aHFDbmsyVUdtUVZPOWpTV0lUUW1pZ3dCUXBzbXQ4d3UyNW9hMHFEaEt6YTB5dDVyamN1bEJBRm9mc1dNZnFZSFEwMG01MHV3bmxLNFQ0QnlybmotdTnSAWpBVV95cUxOTDlac0tFMVFiM3V3eElfdVRqSGVxYWQxSzM4TDd2STBsS0RpNVNqUGlKZzkxX0hocjJ6WWJoWG9HRUY2cXM1bFVjMnRqUmxVQ2d1dFRvdkk4dDJLTlRDMFFKaDJOaC05VUx3?oc=5",
     "news_image": "",
