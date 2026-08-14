@@ -7961,19 +7961,16 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.02,
-    "news_title": "White House accuses over 40 countries of helping China avoid US tariffs - The Hill",
-    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ0ljMi1ieU9ubUJsbWdrSno1WkVYY0hORHRqc2lVWEZlV1NlZGY5cENEbDg0ZVdNU2NCMFNncU5RUmpyeUJCdExZSUhtb2xDcEUxX2s4bEpyV05yRkJGWjBmcWVzcjhKanFXcXZ0elRUNldZdlJMZEcwcGgzSUpKUUNPT1pMZXlYSk5iZjdsS1hwNmNwbDdn0gGcAUFVX3lxTFBoM3JTb2FMcm5GdE8xV2pKSUhmTUlpVkd1cUNvZVIyMmVOVkFVcUVrR3JWLVVtNVRGUEdyVWxWY3lUVzV5WGZ0N2g4SDZGRlVobEdxSUJVOVI5QVJOZFZpR3ZUb1NPd1FtRE9hZDRmNEFaeTJfNkxfa2xEbWtLMnB4ZzJUVjgtaEhMWVZsak55a0Jia2lFSVU0b2dOUw?oc=5",
+    "news_score": 0.01,
+    "news_title": "China's Science and Technology Strategy in Perspective: Historical Evolution, Political Drivers, and Global Implications - RAND Corporation",
+    "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50MEJKYnVDelp3Mk9NcEVhcFFGMVB2MFJxSGh5d21TQm5vay1TbWJmUE1XR3FBbUNZaS1zLTRfazd3b205Wi1IYTdvR0lwd09RdDdFY292RDBwYVlKRG5mY3kxMFozQXdQ?oc=5",
     "news_image": "",
-    "news_source": "The Hill",
-    "news_age": "10h ago",
+    "news_source": "RAND Corporation",
+    "news_age": "2429h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "car_density",
+      "gas_price",
+      "co2"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -14158,7 +14155,7 @@
     "union_rate": 60.4,
     "union_rate_rank": null,
     "fifa_w_rank": 50,
-    "news_score": 0.58,
+    "news_score": 0.57,
     "news_title": "Ghana, South Africa end WAFCON with wins to keep Women's World Cup qualification hopes alive - ABC News - Breaking News, Latest News and Videos",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnZ1SkdENVB1bnd5eHdYb0M5Q0tTTEZ0ZzlacmJDZnAza1dYby1GNmlWelY2UjdhYWxldml1Q3RTLWJ5am5iQl8tWGVIVXBRU3RheVNrQ1ZCek1uRzZiTEt4OEtXRDlHMzhCZ1ZQWnJVeEJETzZvVFdsejMzZFJHNkJhX0VHOFdIOHNpaHV4OGdoem1MdXdxbFFB0gGfAUFVX3lxTFBYV294a0dtWUYxLV83bkdKUm1iUnZDSklmSTcxTnhvQ2dLVEs1blJET3gzbWtXbmxiSGFIMVlXbnVGQ1BGUGdmMGpXeEFobmZ3LUJMcy1aY3lXUjlGbkI0VEtlNU4xajJ3T010a1hFWFNxMHYweUJpMUlnMFBiRGZXLXNJM1YwQmt4Z2JNUUZIOExkcC13d1pQRm9ZNFptYw?oc=5",
     "news_image": "",
@@ -16696,7 +16693,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.84,
+    "news_score": 0.83,
     "news_title": "Hockey World Cup 2026: Know where to watch live streaming and telecast in India - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTzNlVjB6N01YaUF2aUUzTkdHcl9RcVFNUy04TUZnY3gzSEV2MlRsVkw5RGpqZGhsQ2RtaGtwLVQ3SnVpUnFuSG92M0x2RmVDeHM5MDVIS1d3NzFrUEo3LWh3ZUd2REFkZHNTaTdaNHNUbFMzczY5Zm9FU1RYTWFmRDJKMHZVamxWTjFHb1pkWFlLa1RaN0ZPTDRyRnF0Z3phQnc?oc=5",
     "news_image": "",
@@ -17271,14 +17268,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.59,
+    "news_score": 1.9,
     "news_title": "Live Updates: UAE accuses Iran of attacks in Strait of Hormuz as Vance says cheap oil and gas are \"goal number one\" - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb2FwQzRGRnQwTjFNbTRBTHNFY3JtRTRNZkZ5T1VYbFBlbzVhNnZqTTlrWEZaN3VzTWpySWVhOFdNNmhmTzdpWnZkY1NVNzFOWUxvakM4RkJmU1JMSWlpN3BTNFA3UHdUbXNiSjVDbjJWdjhQa0p3WFUyNGRXNzZzS3k2SnBWNlRsN1hCN0swYVR4MW5GbDFXM3VZSGF0QjlHbXZyMVZibFdyd3c2Q1Bv?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "41m ago",
+    "news_age": "43m ago",
     "news_columns": [
-      "olympic"
+      "gas_price",
+      "energy_per_capita",
+      "co2",
+      "renew",
+      "exports",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -18442,10 +18444,10 @@
     "refugees": null,
     "refugees_rank": null,
     "news_score": 0.01,
-    "news_title": "Italy’s Sara Curtis sets 50-meter backstroke world record for second time in 2 days - nytimes.com",
+    "news_title": "Italy’s Sara Curtis sets 50-meter backstroke world record for second time in 2 days - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa1B6eFludHV3S05PcjV5dzYySUZmaUZ4ZWZyV1NuY3RFUnctVkI2T1lLWHlWN2NJR2JjNEJ4bmdXVEhYUHVnbUdleXdjWGVXR19RTEdKQ002T0FIUGxwcW1VMDMyRkpIUGNCMjVuSEdWQ2RwMm94NnNRZmFnM2RCNHdpYTdybWJ2dmY3UDFsbFNMdU13Ty1tV2xrcEpGdWhDWk1Zaks4ZXotdw?oc=5",
     "news_image": "",
-    "news_source": "nytimes.com",
+    "news_source": "The New York Times",
     "news_age": "17h ago",
     "news_columns": [
       "fifa_ranking"
@@ -19754,7 +19756,7 @@
     "union_rate": 68.0,
     "union_rate_rank": null,
     "fifa_w_rank": 86,
-    "news_score": 0.38,
+    "news_score": 0.37,
     "news_title": "Ol Kalau and the Business of Blood: Naming Kenya’s Political Economy of Violence - theelephant.info",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalhtNzZJZlRrMFVhSUVLN0FhUmpjdThMS1RMLThXMnJOOXA0Y1I0X3dPVENlNTZKX2hOSHZ1dmhaQVVFVWlyTjJNbTgzQnhnV0pPNlpsek45aXRsbF9BaXV5NjcyRUFyUHY0UU0wQVJFdFZRbXpJeE9HVU1NSTJ0V2ZQNWkyT0pwa2RfajhGZE9ZaHp3NUdtenJ4amFwdmZUazBaMEVvVVk3S2Q0Rl9QMEZB?oc=5",
     "news_image": "",
@@ -20922,7 +20924,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 116,
     "fifa_w_rank": 75,
-    "news_score": 0.76,
+    "news_score": 0.9,
     "election_title": "Latvian Parliament",
     "election_url": "https://www.electionguide.org/countries/id/119",
     "bottom50_wealth": null,
@@ -20930,9 +20932,14 @@
     "news_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40TDM4djU3aHFDbmsyVUdtUVZPOWpTV0lUUW1pZ3dCUXBzbXQ4d3UyNW9hMHFEaEt6YTB5dDVyamN1bEJBRm9mc1dNZnFZSFEwMG01MHV3bmxLNFQ0QnlybmotdTnSAWpBVV95cUxOTDlac0tFMVFiM3V3eElfdVRqSGVxYWQxSzM4TDd2STBsS0RpNVNqUGlKZzkxX0hocjJ6WWJoWG9HRUY2cXM1bFVjMnRqUmxVQ2d1dFRvdkk4dDJLTlRDMFFKaDJOaC05VUx3?oc=5",
     "news_image": "",
     "news_source": "CNBC",
-    "news_age": "87m ago",
+    "news_age": "89m ago",
     "news_columns": [
-      "olympic"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
+      "military_pct",
+      "nuclear"
     ]
   },
   {
@@ -27571,7 +27578,7 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 85,
-    "news_score": 0.51,
+    "news_score": 0.74,
     "news_title": "New Zealand break ranks with Oceania as FIFA’s Infantino divide grows - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzVLeU96Ylc3N2ltSnFpbDdsTGhVa2ducWJtcEdxSE9mZkhxNXpiNVF0VGQ5blUxZzRicHI5dEhKOU5CVUFmNHRySm9SX29oYkRSWmxVV2VrYkh0SGhGVVhhVWVUMmNnTGN5V1dMcFk5RnNoMjBJWG5zaGtCUFFMaFlnS0tJekJRSnc3RWhPOVNwbGx1dHBTaUJLcTdaWkJNTUVZSloyWnpSWXY4SjFPNNIBtgFBVV95cUxQQVhfMjBqODZlcTdpY183WmlJOFAwaWRiMVpnTWxRNG55X2pmRUFYc1MyV0cwdkhHSTE2NUhqX0t0ZHJkbXUzUzl6ZV8yZXRHa2FZV1Zfbm9EYkRNY25vdGZvRmhmaWIxTTczTFZBeVVfc29ZeHlSR3BtYW9JeFRwaTFMZVNLZV9VMkRTNldSOGw1VGlJN3FaWmRJcWI5ajVBZkMxd3FrSzNjMVRQLThrcjBvUl9mQQ?oc=5",
     "news_image": "",
@@ -27579,9 +27586,7 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -27948,7 +27953,7 @@
     "refugees_rank": null,
     "union_rate": 80.4,
     "union_rate_rank": null,
-    "news_score": 0.57,
+    "news_score": 0.56,
     "bottom50_wealth": null,
     "news_title": "American Missionary Kidnapped in Niger Soon to Be Reunited With Family - nytimes.com",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN1NBSkZvQi1WVm8xcVRjUnVXbk5LaDhVQ2laRm9KN19tellvUTg0RGtIcnJONldjYVhHeEtWYUZvWjdueVVYWU5acDJ3eUhqbm5qUldocVkwcEp5OC1KYVF3eXlKMnVFeW5Ic0VRcnhYckF1QjZkU2JrcjR5WWltVUVmajEwcmVYTzJydFE1U0haWkRaNFY2Vkw5TQ?oc=5",
@@ -32888,14 +32893,19 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.76,
+    "news_score": 0.9,
     "news_title": "NATO aircraft shoot down drone over Latvia, which blames 'Russian electromagnetic warfare' - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40TDM4djU3aHFDbmsyVUdtUVZPOWpTV0lUUW1pZ3dCUXBzbXQ4d3UyNW9hMHFEaEt6YTB5dDVyamN1bEJBRm9mc1dNZnFZSFEwMG01MHV3bmxLNFQ0QnlybmotdTnSAWpBVV95cUxOTDlac0tFMVFiM3V3eElfdVRqSGVxYWQxSzM4TDd2STBsS0RpNVNqUGlKZzkxX0hocjJ6WWJoWG9HRUY2cXM1bFVjMnRqUmxVQ2d1dFRvdkk4dDJLTlRDMFFKaDJOaC05VUx3?oc=5",
     "news_image": "",
     "news_source": "CNBC",
-    "news_age": "87m ago",
+    "news_age": "89m ago",
     "news_columns": [
-      "olympic"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
+      "military_pct",
+      "nuclear"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -40977,7 +40987,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40TDM4djU3aHFDbmsyVUdtUVZPOWpTV0lUUW1pZ3dCUXBzbXQ4d3UyNW9hMHFEaEt6YTB5dDVyamN1bEJBRm9mc1dNZnFZSFEwMG01MHV3bmxLNFQ0QnlybmotdTnSAWpBVV95cUxOTDlac0tFMVFiM3V3eElfdVRqSGVxYWQxSzM4TDd2STBsS0RpNVNqUGlKZzkxX0hocjJ6WWJoWG9HRUY2cXM1bFVjMnRqUmxVQ2d1dFRvdkk4dDJLTlRDMFFKaDJOaC05VUx3?oc=5",
     "news_image": "",
     "news_source": "CNBC",
-    "news_age": "87m ago",
+    "news_age": "89m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
