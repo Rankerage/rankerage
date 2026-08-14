@@ -1,1 +1,54 @@
-{"last_updated": "2026-08-13T21:00:56Z", "total_rankings": 136, "total_countries": 200, "version": "1.0", "update_frequency": "weekly", "global_narrative": "Global sports and geopolitical events dominate headlines, with major narratives around the FIFA Women's World Cup, NBA schedules, NFL preseason, and geopolitical tensions in the Middle East and Ukraine.", "trending_stories": [{"topic": "FIFA Women's World Cup Qualifying", "entities": ["GH", "CI"], "columns": ["fifa_ranking", "fifa_w"], "weight": 0.9}, {"topic": "NBA 2026-27 Season Schedule Release", "entities": ["US"], "columns": ["basket"], "weight": 0.8}, {"topic": "NFL Preseason and Team News", "entities": ["US"], "columns": ["nfl"], "weight": 0.7}, {"topic": "Geopolitical Tensions and Military Movements", "entities": ["IR", "UA", "RU", "US"], "columns": [], "weight": 0.6}, {"topic": "World War II Memorial Vandalism", "entities": ["US"], "columns": [], "weight": 0.5}]}
+{
+  "last_updated": "2026-08-14T21:01:20Z",
+  "total_rankings": 136,
+  "total_countries": 197,
+  "version": "1.0",
+  "update_frequency": "weekly",
+  "global_narrative": "Global attention is split between a high-profile vandalism case at a US memorial, major sports events and suspensions, and international political and economic developments.",
+  "trending_stories": [
+    {
+      "topic": "World War II Memorial Vandalism",
+      "entities": [
+        "US"
+      ],
+      "columns": [],
+      "weight": 0.9
+    },
+    {
+      "topic": "NFL Preseason and Suspensions",
+      "entities": [
+        "US"
+      ],
+      "columns": [],
+      "weight": 0.8
+    },
+    {
+      "topic": "International Football Transfers and Matches",
+      "entities": [
+        "BR",
+        "DE",
+        "IT"
+      ],
+      "columns": [],
+      "weight": 0.7
+    },
+    {
+      "topic": "WNBA MVP Race Controversy",
+      "entities": [
+        "US"
+      ],
+      "columns": [],
+      "weight": 0.6
+    },
+    {
+      "topic": "Global Political and Economic News",
+      "entities": [
+        "US",
+        "FR",
+        "CN"
+      ],
+      "columns": [],
+      "weight": 0.5
+    }
+  ]
+}
