@@ -207,19 +207,19 @@
     "union_rate": 38.4,
     "union_rate_rank": null,
     "fifa_ranking_rank": 136,
-    "news_score": 0.02,
-    "news_title": "World News in Brief: Afghanistan education, Myanmar flooding, Syria recovery, homecare workers in New York - news.un.org",
-    "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EZHkwaTd5WVBDQ0RuUWRDTzBPb3dUV2dtMy1LWjNvZTRiRFAyT0R6X2lCM0t5VHBvbTdkcFhZNjVDQl9ibjVkUlVPQ01SSUFYNTBqcElPWQ?oc=5",
+    "news_score": 0.04,
+    "news_title": "Afghan Women Erased From Public Life in Five Years of Taliban Rule - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT0k5eFJpaHhhSnd4UE5rYURhUnFKNGxIaERrTmNYaG9CcWhpbFN2ZFFjc0djRHJnZ1pjM3ZoSHhROGEwbzRndVRCUHVFaU56elVzUjVSLUtWN0VVdDB4LXJ2ZlZQOGp0NWtlc3ZFVG1RV1NkeHotbnRBZHlhRnNvc2tR?oc=5",
     "news_image": "",
-    "news_source": "news.un.org",
-    "news_age": "18h ago",
+    "news_source": "The New York Times",
+    "news_age": "8h ago",
     "news_columns": [
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "cricket",
+      "olympic",
+      "gender",
+      "gender_gap",
+      "women_parl",
+      "edu"
     ],
     "bottom50_wealth": null
   },
@@ -3307,7 +3307,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0RobDA2R00tX05jNHMwamZwS2hycTk3WUo1MzJBeXZLYXo1SWRqRVcycjg1Nm8yZmM4dXh6cGNNYkdENk9uYl9BWjN5LURiRTFyWkVGWXJfWGVlOG1kRVV1WTVpek5OUWtrMy1pZVJfUzkwSWxCZ1dUZlFYSlhJa2lFV2JXald3Z1hzZ1J2TXBhbm5xZjV2MkhTZGE1Y3lsVlZNWDdfWGg3LXNrd2Rr?oc=5",
     "news_image": "",
     "news_source": "The Daily Star",
-    "news_age": "23h ago",
+    "news_age": "24h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -7972,9 +7972,8 @@
     "news_source": "RAND Corporation",
     "news_age": "2430h ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -12941,12 +12940,7 @@
     "news_source": "Newsonair",
     "news_age": "29h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "space_launch"
+      "olympic"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -14167,7 +14161,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnZ1SkdENVB1bnd5eHdYb0M5Q0tTTEZ0ZzlacmJDZnAza1dYby1GNmlWelY2UjdhYWxldml1Q3RTLWJ5am5iQl8tWGVIVXBRU3RheVNrQ1ZCek1uRzZiTEt4OEtXRDlHMzhCZ1ZQWnJVeEJETzZvVFdsejMzZFJHNkJhX0VHOFdIOHNpaHV4OGdoem1MdXdxbFFB0gGfAUFVX3lxTFBYV294a0dtWUYxLV83bkdKUm1iUnZDSklmSTcxTnhvQ2dLVEs1blJET3gzbWtXbmxiSGFIMVlXbnVGQ1BGUGdmMGpXeEFobmZ3LUJMcy1aY3lXUjlGbkI0VEtlNU4xajJ3T010a1hFWFNxMHYweUJpMUlnMFBiRGZXLXNJM1YwQmt4Z2JNUUZIOExkcC13d1pQRm9ZNFptYw?oc=5",
     "news_image": "",
     "news_source": "ABC News - Breaking News, Latest News and Videos",
-    "news_age": "4h ago",
+    "news_age": "5h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -16700,7 +16694,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.64,
+    "news_score": 0.63,
     "news_title": "Hockey World Cup 2026: Know where to watch live streaming and telecast in India - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTzNlVjB6N01YaUF2aUUzTkdHcl9RcVFNUy04TUZnY3gzSEV2MlRsVkw5RGpqZGhsQ2RtaGtwLVQ3SnVpUnFuSG92M0x2RmVDeHM5MDVIS1d3NzFrUEo3LWh3ZUd2REFkZHNTaTdaNHNUbFMzczY5Zm9FU1RYTWFmRDJKMHZVamxWTjFHb1pkWFlLa1RaN0ZPTDRyRnF0Z3phQnc?oc=5",
     "news_image": "",
@@ -17275,19 +17269,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.41,
+    "news_score": 1.86,
     "news_title": "Live Updates: UAE accuses Iran of attacks in Strait of Hormuz as Vance says cheap oil and gas are \"goal number one\" - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb2FwQzRGRnQwTjFNbTRBTHNFY3JtRTRNZkZ5T1VYbFBlbzVhNnZqTTlrWEZaN3VzTWpySWVhOFdNNmhmTzdpWnZkY1NVNzFOWUxvakM4RkJmU1JMSWlpN3BTNFA3UHdUbXNiSjVDbjJWdjhQa0p3WFUyNGRXNzZzS3k2SnBWNlRsN1hCN0swYVR4MW5GbDFXM3VZSGF0QjlHbXZyMVZibFdyd3c2Q1Bv?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "40m ago",
+    "news_age": "42m ago",
     "news_columns": [
-      "gas_price",
-      "energy_per_capita",
-      "co2",
-      "renew",
-      "exports",
-      "ai_research"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -19763,7 +19752,7 @@
     "union_rate": 68.0,
     "union_rate_rank": null,
     "fifa_w_rank": 86,
-    "news_score": 0.28,
+    "news_score": 0.27,
     "news_title": "Ol Kalau and the Business of Blood: Naming Kenya’s Political Economy of Violence - theelephant.info",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalhtNzZJZlRrMFVhSUVLN0FhUmpjdThMS1RMLThXMnJOOXA0Y1I0X3dPVENlNTZKX2hOSHZ1dmhaQVVFVWlyTjJNbTgzQnhnV0pPNlpsek45aXRsbF9BaXV5NjcyRUFyUHY0UU0wQVJFdFZRbXpJeE9HVU1NSTJ0V2ZQNWkyT0pwa2RfajhGZE9ZaHp3NUdtenJ4amFwdmZUazBaMEVvVVk3S2Q0Rl9QMEZB?oc=5",
     "news_image": "",
@@ -20931,7 +20920,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 116,
     "fifa_w_rank": 75,
-    "news_score": 0.58,
+    "news_score": 0.71,
     "election_title": "Latvian Parliament",
     "election_url": "https://www.electionguide.org/countries/id/119",
     "bottom50_wealth": null,
@@ -20941,12 +20930,7 @@
     "news_source": "CNBC",
     "news_age": "2h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
-      "military_pct",
-      "nuclear"
+      "fifa_ranking"
     ]
   },
   {
@@ -27962,7 +27946,7 @@
     "refugees_rank": null,
     "union_rate": 80.4,
     "union_rate_rank": null,
-    "news_score": 0.47,
+    "news_score": 0.45,
     "bottom50_wealth": null,
     "news_title": "American Missionary Kidnapped in Niger Soon to Be Reunited With Family - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN1NBSkZvQi1WVm8xcVRjUnVXbk5LaDhVQ2laRm9KN19tellvUTg0RGtIcnJONldjYVhHeEtWYUZvWjdueVVYWU5acDJ3eUhqbm5qUldocVkwcEp5OC1KYVF3eXlKMnVFeW5Ic0VRcnhYckF1QjZkU2JrcjR5WWltVUVmajEwcmVYTzJydFE1U0haWkRaNFY2Vkw5TQ?oc=5",
@@ -32903,15 +32887,14 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.12,
+    "news_score": 1.5,
     "news_title": "Russia stance will be defended in court, pledges World Athletics chief Coe - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZnBrMk5iU1dteW43RGlsbDVBbEgzOGZQQXFjYTF5emUtRzJWQVhaNkdab05FZE1tc3FtdnZvak5xc2VkZ2dMWkgxRFpISE0wcDZYUzZxQzloVExuWkpWSkVXRnNwSVBZRkozTkh3T2hsWDl4NDVDRXg0Rl8tb0RlMVQxZmVWd1RHMmJFRzNTWGliV2IxSlU1Qm5PaDJ6YkY3YlpxUnlQMkpNWmRmZlF1cE00MnNLRG_SAbwBQVVfeXFMTjY4YXVFUlJJeHU3N0RQSEJDdVEzb2xNWExZMnBfX3o1c2ZhLVpYZS1TTktvbGstb3ZQajVDZVhUMWxmeXd1OVVmNEZfQmRMX0JqY3dITUc3SGktMmJ3RWx0bEdaMlJVNXktNnNzallLbmtlbUd3RDVmNEV1ckRwLUs3ajZhLUxlbEpPV190QXBsU0dDOUsya1J1UVg1MEtPZDVKUlJrRGJPaGZQVlVSODA3Q3FsbjNiVFhHeUg?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "8m ago",
+    "news_age": "10m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -35413,12 +35396,12 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.43,
+    "news_score": 0.42,
     "news_title": "Ghana, South Africa end WAFCON with wins to keep Women's World Cup qualification hopes alive - ABC News - Breaking News, Latest News and Videos",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnZ1SkdENVB1bnd5eHdYb0M5Q0tTTEZ0ZzlacmJDZnAza1dYby1GNmlWelY2UjdhYWxldml1Q3RTLWJ5am5iQl8tWGVIVXBRU3RheVNrQ1ZCek1uRzZiTEt4OEtXRDlHMzhCZ1ZQWnJVeEJETzZvVFdsejMzZFJHNkJhX0VHOFdIOHNpaHV4OGdoem1MdXdxbFFB0gGfAUFVX3lxTFBYV294a0dtWUYxLV83bkdKUm1iUnZDSklmSTcxTnhvQ2dLVEs1blJET3gzbWtXbmxiSGFIMVlXbnVGQ1BGUGdmMGpXeEFobmZ3LUJMcy1aY3lXUjlGbkI0VEtlNU4xajJ3T010a1hFWFNxMHYweUJpMUlnMFBiRGZXLXNJM1YwQmt4Z2JNUUZIOExkcC13d1pQRm9ZNFptYw?oc=5",
     "news_image": "",
     "news_source": "ABC News - Breaking News, Latest News and Videos",
-    "news_age": "4h ago",
+    "news_age": "5h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -36868,7 +36851,7 @@
     "union_rate": 37.9,
     "union_rate_rank": null,
     "fifa_w_rank": 121,
-    "news_score": 0.03,
+    "news_score": 0.04,
     "bottom50_wealth": null,
     "news_title": "Will Sudan’s El Obeid Become the Next El Fasher? What to Know. - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSXNuWWEyMnhVVlNPX0FMbnVRSEpnOHFBdWVkVDFSU3NybjhpZnBCY3RRdlU1Z3hRNGYzRDVyeXZ6SmFYWGZmdEcyTlJOWF9vOExsU21Eb0pKcE5mbnd4aFgwbHRiY1cyUXJqVm85NV9KV1ZUbEtQcmJUZXdsTXE4UUgtVXgzR3lL?oc=5",
@@ -40028,7 +40011,7 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.02,
+    "news_score": 0.0,
     "news_title": "US intel officials assessed threat to Trump was not credible ahead of Air Force One switch: Sources - ABC News - Breaking News, Latest News and Videos",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVzI1NHYwY2xBYUY4NHdTMjVibWNHVU5ueXZLeEtleUZPenlaVWVXcE5qVnFyWE9mTmdRME5TN3VGcVlqb3l1djhaS1dVLXluVkF3SFBGbVIxUFR2TkdrdkNEZk9DQ0FnYVNNZHNUM190bFJ6eV9iR0s4Q3VpSExtMm1QUDQyUkJZZEJpeDY3LWJzbHZxU1BoTi0zYkVVeE5aM1Y1Zmp30gGrAUFVX3lxTE51NU1LYVVrYXNWQ0tLbktURmZfQk1XYWNuLWp0WUxlblM0YndyZkR0b3ZjelpkZmd3cDB2SWlHUG5mbXU2c010STJndjVnR0k4NGZhQmtHa3VWUlJfLVZnckRrOGVTd2E3UGZBYl8xMTc0UU9IT25INnJxejJOTEVlaVlveTJnaXA4azAwWHRvdng0SGxGb0ktMGVleU9EZGtNRVNjc3JUc21XTQ?oc=5",
     "news_image": "",
@@ -40988,7 +40971,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.15,
+    "news_score": 0.26,
     "news_title": "NATO aircraft shoot down drone over Latvia, which blames 'Russian electromagnetic warfare' - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40TDM4djU3aHFDbmsyVUdtUVZPOWpTV0lUUW1pZ3dCUXBzbXQ4d3UyNW9hMHFEaEt6YTB5dDVyamN1bEJBRm9mc1dNZnFZSFEwMG01MHV3bmxLNFQ0QnlybmotdTnSAWpBVV95cUxOTDlac0tFMVFiM3V3eElfdVRqSGVxYWQxSzM4TDd2STBsS0RpNVNqUGlKZzkxX0hocjJ6WWJoWG9HRUY2cXM1bFVjMnRqUmxVQ2d1dFRvdkk4dDJLTlRDMFFKaDJOaC05VUx3?oc=5",
     "news_image": "",
