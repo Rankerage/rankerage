@@ -207,12 +207,12 @@
     "union_rate": 38.4,
     "union_rate_rank": null,
     "fifa_ranking_rank": 136,
-    "news_score": 0.84,
+    "news_score": 0.83,
     "news_title": "Afghanistan Cricket Board wants India T20I shifted to festival date - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSzdBak1tMzVuVGx3cFg5Y2hvb2IwUWNINlVFUDFCYVJIdjBJbVY0U29aNnI2M0UtZWNtTVZaRlNEdE03TDc0dXVpMlBnOGNFSGdsME1pdHdMQmtFRGJlRkI2dFUtZzBWTlVyRkRCQndoeGptSG1mazItb1JualZWQkxWaUNWUF9EREkzRnpQSQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "45m ago",
+    "news_age": "47m ago",
     "news_columns": [
       "cricket",
       "olympic",
@@ -2538,7 +2538,8 @@
     "news_source": "en.baochinhphu.vn",
     "news_age": "31h ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -10870,7 +10871,7 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.13,
+    "news_score": 0.0,
     "news_title": "Kushner set to visit Israel, Egypt next week for Gaza talks - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CSUpRb095Ui1xX3pGNFNOTUdhOFY1QUg1bVZxVnFzQnd2dHp5ZWRRMTZXaTJXZnNocDZ5S2lYNEJfTGVKUUhHQlpPbUZDR3J4M1FmVDBPTXpPN1B1TTZIMFpRV280NHcyYnd2Y2RpUQ?oc=5",
     "news_image": "",
@@ -12930,12 +12931,12 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.64,
-    "news_title": "Another Day of Extreme Heat Bakes Europe, but Relief Is on the Horizon - The New York Times",
-    "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY2h0ekZRS25id1lPRXExRkZNc2hmZnEtdzVwb3BEWkNscy1oLVF5MkhwWG9YYzhrNHVBQjB6YWM4b0c3MUFueV9ON1p1UnBydFhGdkpZVnVkTGVvdkJaY3dQTEhPdE04eU00TVFaa09uNHlQbG0tcmxFS1FlUk90R2sxV1JjVVE?oc=5",
+    "news_score": 0.8,
+    "news_title": "Funny old world: the week's offbeat news - France 24",
+    "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZUczYmtiRmY1ZVR4SGFpQmg5eW5ueGdaNnhGM3owdm1tcWZRQ0hEajhkRWthVmh2MkxYY2RBM3Z3dmp6dDN4VnRjcEd5dENBX0ZMYTFoZFJ0dHJZQjJ3VXhieFJZanR6dmpEMmgzems1YllWay1kc3dwYjhobEZETWxlRU4yVVJ0NlplYktiaw?oc=5",
     "news_image": "",
-    "news_source": "The New York Times",
-    "news_age": "2h ago",
+    "news_source": "France 24",
+    "news_age": "36m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -14156,12 +14157,12 @@
     "union_rate": 60.4,
     "union_rate_rank": null,
     "fifa_w_rank": 50,
-    "news_score": 1.26,
+    "news_score": 1.25,
     "news_title": "Ghana, South Africa end WAFCON with wins to keep Women's World Cup qualification hopes alive - ABC News - Breaking News, Latest News and Videos",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnZ1SkdENVB1bnd5eHdYb0M5Q0tTTEZ0ZzlacmJDZnAza1dYby1GNmlWelY2UjdhYWxldml1Q3RTLWJ5am5iQl8tWGVIVXBRU3RheVNrQ1ZCek1uRzZiTEt4OEtXRDlHMzhCZ1ZQWnJVeEJETzZvVFdsejMzZFJHNkJhX0VHOFdIOHNpaHV4OGdoem1MdXdxbFFB0gGfAUFVX3lxTFBYV294a0dtWUYxLV83bkdKUm1iUnZDSklmSTcxTnhvQ2dLVEs1blJET3gzbWtXbmxiSGFIMVlXbnVGQ1BGUGdmMGpXeEFobmZ3LUJMcy1aY3lXUjlGbkI0VEtlNU4xajJ3T010a1hFWFNxMHYweUJpMUlnMFBiRGZXLXNJM1YwQmt4Z2JNUUZIOExkcC13d1pQRm9ZNFptYw?oc=5",
     "news_image": "",
     "news_source": "ABC News - Breaking News, Latest News and Videos",
-    "news_age": "54m ago",
+    "news_age": "56m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -16697,15 +16698,17 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 2.07,
+    "news_score": 1.84,
     "news_title": "Afghanistan Cricket Board wants India T20I shifted to festival date - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSzdBak1tMzVuVGx3cFg5Y2hvb2IwUWNINlVFUDFCYVJIdjBJbVY0U29aNnI2M0UtZWNtTVZaRlNEdE03TDc0dXVpMlBnOGNFSGdsME1pdHdMQmtFRGJlRkI2dFUtZzBWTlVyRkRCQndoeGptSG1mazItb1JualZWQkxWaUNWUF9EREkzRnpQSQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "45m ago",
+    "news_age": "47m ago",
     "news_columns": [
+      "cricket",
       "olympic",
-      "fifa_w"
+      "festivals",
+      "intangible"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17268,7 +17271,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.52,
+    "news_score": 0.51,
     "news_title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcUJxM0VpYjVHTnVrdDVkRksyM2ROTlZnUVphRUJMVU9SQ2tqNmN3VjZHc1VSNnhOeTVXVFl5MUoyMUI5RWhHQ1gyRjluWTV3blVIZWs0UGNSZFFHM3FGdmxzNDZZWVk2Y05HWFAwcUpSMEJBUE5kYTllM1RzRXhtcmxJV2lfZGZadndDemxaaXMyTnFLZG1PN3VuSDQ3UTdueFFUUGxVTWxoQ3lUeFJnaGlwQWUzNVlMS0xrazZ2b3MxQkR4QXFuUUY4X2lkME1ySmVnZ2VR?oc=5",
     "news_image": "",
@@ -18000,12 +18003,12 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.15,
-    "news_title": "Kushner set to visit Israel, Egypt next week for Gaza talks - Axios",
-    "news_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CSUpRb095Ui1xX3pGNFNOTUdhOFY1QUg1bVZxVnFzQnd2dHp5ZWRRMTZXaTJXZnNocDZ5S2lYNEJfTGVKUUhHQlpPbUZDR3J4M1FmVDBPTXpPN1B1TTZIMFpRV280NHcyYnd2Y2RpUQ?oc=5",
+    "news_score": 0.1,
+    "news_title": "Iran wages economic war in hopes of outlasting U.S. and Israel - The Washington Post",
+    "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2ZCVmJ4amt6UTBvQ05kcDBFWnNzb1N6QldHQ3RSWVZ0NUdzemNtaTJGaTlzM1N5dVR0djFiVV9XUGNSc1JCR2RnczNYeTUxMW5WZU5aMmJLMVVqcElmVHpibHdWMm9xOFlLWGlhY2NlQUV5cDVVcTRWZHJaNGxjaXVR?oc=5",
     "news_image": "",
-    "news_source": "Axios",
-    "news_age": "5h ago",
+    "news_source": "The Washington Post",
+    "news_age": "3650h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -18450,7 +18453,8 @@
     "news_source": "The New York Times",
     "news_age": "14h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -19130,7 +19134,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.01,
+    "news_score": 0.99,
     "news_title": "Pan Pacific Championships 2026: Japan's teen sensation Ohashi Shin breaks own junior world record to win silver in men's 100m breaststroke - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTU4zV193a3JJYlJJSDdHY2pMVW1sNlhtRDZoaWdDZGRkVmVmWXBxcEZHdFQwVzk2UGt5ckhUMEZrMmVNNWhydkwzeV8yaWVPeHVFR0NOYWs3a09sTTBLN191d29DVk5zQWhVSXNGVW53WlBEUktDWThnZmtFdUxybWNFUVZjQWNhX29RSnZpNU9ZdDhBcUFYSjl4dm9XTkctNnh2M1liVHNIN3d6X0ZOdDF3MjdzUlUxd2ExVXRUVzByR3V4aGVIQUJR?oc=5",
     "news_image": "",
@@ -19138,7 +19142,7 @@
     "news_age": "3h ago",
     "news_columns": [
       "olympic",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -27057,12 +27061,12 @@
     "refugees_rank": null,
     "union_rate": 85.6,
     "union_rate_rank": null,
-    "news_score": 0.0,
-    "news_title": "Netherlands hire Xavi as coach through 2030 World Cup - ESPN",
-    "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORlBjTDNNSE82cS1pVUh2VDlpc3VLNFJkNVhaaVRlc0NtYUZOc0xkbnRYSkJ1RlVnX3QtUjFnWjk1N3RVeDgzRjd2RlNrdUFGbmJUeUlNeDVVendtQ1FWd3ExQUtoVnpHTXk5LWdySW1kdE8tM2s1bFZuYnBiMGVrVmtlOE5Bc3pkU1F4ODJtWmtCajdT?oc=5",
+    "news_score": 0.28,
+    "news_title": "Dortmund defender moves to the Netherlands on loan - Yahoo Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeTZwa0Q2bXEtUURrUGJfbjMyRlU2azEwUkU5ekx3U0Y0T3U1Q2VQMEd2a0xpOTJzUS0xbk5fRmMtRDJEd1NWTTNjcWZ3eDdCaHRvZkhpb2VBWElrRGFRdHVHbWRhWmhSMlZlME4tVHdWZFZSTl9YUnY0OTJ0MkxYYTc5WW1ZSHowdzBmQjB0RTJ4MVE?oc=5",
     "news_image": "",
-    "news_source": "ESPN",
-    "news_age": "37h ago",
+    "news_source": "Yahoo Sports",
+    "news_age": "17m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -28197,12 +28201,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.72,
-    "news_title": "South Africa end Nigeria’s Women’s World Cup hope, Ghana beat Ivory Coast - Al Jazeera",
+    "news_score": 0.71,
+    "news_title": "South Africa end Nigeria’s Women’s World Cup hope, Ghana beat Ivory Coast - aljazeera.com",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVEs0V3JkMEtaNEVoRmtaMzlZTG1jc3RjamV5ZEpSYmhQZVBZUGNZNTNtVENKUXFWMm00MzJtQ1pCcURhcFRrTFV2dEItU3llRno4SFA0RTEtS2ZMNlo4S0h3TFkwR2tzM3g1S1EtVGQtbHd4VzUwTlFaN0dyNEtRcmVERl84dUtVT1ZHeEt1eGRNbWFrRnFuTDNpTnlmZzBveHJ3MnZNTzFFMUxWdWxtd1g4VdIBuAFBVV95cUxPLUJmdTBRbDVMTVRsSGdQeWE4Ukt0WU1ydUgwOUY4cmFsQU94R1dxRnFfTFptLWhjY1JvYjhQMVNGRm4zRGlXM2o1aEJ2VER2RXo4UFdVbjFZOTE0b3VBdFVCYlJuS0ZwOHZEQ0Q1YmZDcEdCeElWUm1xdGFyLUx1MHYxWVYtMzdaaVBCUWF1S0JtR0R4S01jS2NNcWk0Sm9obU9mdWd3MkZsaW82dzY2R3FLRHBUMXZr?oc=5",
     "news_image": "",
-    "news_source": "Al Jazeera",
-    "news_age": "85m ago",
+    "news_source": "aljazeera.com",
+    "news_age": "87m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -32861,7 +32865,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.48,
+    "news_score": 0.5,
     "news_title": "Ust-Luga Ablaze Again as 54 Ukrainian Drones Hit Russia’s Key Baltic Oil Port - Kyiv Post",
     "news_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iaUpIN0FudFVIazAwX3h0el9mRXhXOEo4a0FUaHppdFBvVy1HVHllTUgyR2haM1h4YlZUcTNjMjZBbHJJa3Z4dG1Zdw?oc=5",
     "news_image": "",
@@ -35375,15 +35379,19 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 1.75,
+    "news_score": 1.24,
     "news_title": "Ghana, South Africa end WAFCON with wins to keep Women's World Cup qualification hopes alive - ABC News - Breaking News, Latest News and Videos",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnZ1SkdENVB1bnd5eHdYb0M5Q0tTTEZ0ZzlacmJDZnAza1dYby1GNmlWelY2UjdhYWxldml1Q3RTLWJ5am5iQl8tWGVIVXBRU3RheVNrQ1ZCek1uRzZiTEt4OEtXRDlHMzhCZ1ZQWnJVeEJETzZvVFdsejMzZFJHNkJhX0VHOFdIOHNpaHV4OGdoem1MdXdxbFFB0gGfAUFVX3lxTFBYV294a0dtWUYxLV83bkdKUm1iUnZDSklmSTcxTnhvQ2dLVEs1blJET3gzbWtXbmxiSGFIMVlXbnVGQ1BGUGdmMGpXeEFobmZ3LUJMcy1aY3lXUjlGbkI0VEtlNU4xajJ3T010a1hFWFNxMHYweUJpMUlnMFBiRGZXLXNJM1YwQmt4Z2JNUUZIOExkcC13d1pQRm9ZNFptYw?oc=5",
     "news_image": "",
     "news_source": "ABC News - Breaking News, Latest News and Videos",
-    "news_age": "54m ago",
+    "news_age": "56m ago",
     "news_columns": [
+      "fifa_ranking",
+      "fifa_w",
       "olympic",
-      "fifa_w"
+      "basket",
+      "gender",
+      "gender_gap"
     ],
     "bottom50_wealth": 1.2,
     "bottom50_wealth_rank": 29
@@ -36441,7 +36449,8 @@
     "news_source": "Yahoo Sports",
     "news_age": "11h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
