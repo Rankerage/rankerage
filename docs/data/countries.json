@@ -6903,18 +6903,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.67,
+    "news_score": 1.1,
     "news_title": "Canada Beats USA In Shootout To Win Summer Series - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONFZGX2FLT1ZONEg2YzBVSEx1UUNib3dWbkFFMkdvcWxrbWhyOFM1bmhZa2RubEdnSm5UaERjblR2UUVYRkRud2ZOYUlRbUx0cGgyR2N5eXNQc2RqVWVZaUF4ODZXTGp1Z0p5M2lUNDQ2X0Z3Q3FuVVZkamFQVDRBR00zaEw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "104m ago",
+    "news_age": "106m ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -7967,14 +7965,19 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.02,
+    "news_score": 1.09,
     "news_title": "World in Brief: America accuses China of evading tariffs; Israel removes settlers from West Bank - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORVhhbmFSZXp5TDlTWDdCcXJzcFlnaS1YRkgyR0k3bFRKaGJtM0E3clRDdm01YlFZZTBvSGxWSzBubUlrLTFkVG9vQUE2bjNmajNYazRiU004U1pkYTlZdlJYdGNFb29qNzFtOW5fQVU3QkhYdkZYOUFUZzEyM3o4cGtTYXktNWRyQjRFMkliaXdicVhtcVhr?oc=5",
     "news_image": "",
     "news_source": "The Economist",
-    "news_age": "58m ago",
+    "news_age": "60m ago",
     "news_columns": [
-      "none"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -8208,7 +8211,7 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.44,
+    "news_score": 0.43,
     "news_title": "Colombia’s earthquake is déjà vu for Venezuelans. The government response is anything but - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ3R0d0g1dWFGMnlIUVlDSkYyLTBYUzBodG5mTzJrMl9GMW9QWmVGUDIyWUpqOG95QmJNTVE1S0dpY2l3Z1lha09HQ1hxVm1LQXV6cW8wVXBLQkxib1VLdFI0YTZ0bmRBbkhvelEwOXpBdVhUbFhNeG5EN3pPUzhoQjR0Z0JYSmZOdGxXenlsRFE4TXpuYTNHNzRVM0ZyWTBEa09BRjZ0QW5EaTMw?oc=5",
     "news_image": "",
@@ -16704,10 +16707,11 @@
     "news_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTnVGMFVqT05vbW1nNWoyS1pOOFlkcTVWUWl4NzZWSjEwMzRjLXp6V2p5RTNLSmRpTXc2Q2JKSWJwd3BCTGRJNXZHWmp6bWRhVlBuTExNYWxXVjRnSGNQcmlfbXl5cVNKd1N2SFdhQmg2enNlN0E1UXJDWjkyX0pKeGlBRlVtVzh6Q3l2MW03Ymh2d0NBdVJzLUhQbG5PSlpFRl9qOXRXdjFmeTZtZHhCc3FPdUNWUnhHMmxSVHlMLVEzNEgtYi1yX0pkOXFWZXBvVVFfbWVhdHNXQQ?oc=5",
     "news_image": "",
     "news_source": "ESPN Singapore",
-    "news_age": "22m ago",
+    "news_age": "24m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17270,7 +17274,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.07,
+    "news_score": 0.08,
     "news_title": "US could not verify Israeli warnings of Iran plots against Trump, sources say - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSnhVZVpUNm9PZUM5Z3VkNWp1NVJNdmdYcTZDblZhWURVRnhKLWtNTTVUeHpaNE5wN2M0cGU1WFBycHhGT2h4T2taMTR0NUduWkRCczBUMTVwaldHY0lNVzB6QkZMMHg4dUM3ekkwaWJWME9NSHlWSUl6R0pXYk92V3BZM1NNVnRNNVRFR1hhVXU2blhNTEdKeWh6c3pGUVNSS09XTDgwNkxtMmVSU1lnQVZob2FldllGeWVMRUZ1NkRnNEs5WUE?oc=5",
     "news_image": "",
@@ -18002,12 +18006,12 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.83,
+    "news_score": 0.81,
     "news_title": "World in Brief: America accuses China of evading tariffs; Israel removes settlers from West Bank - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORVhhbmFSZXp5TDlTWDdCcXJzcFlnaS1YRkgyR0k3bFRKaGJtM0E3clRDdm01YlFZZTBvSGxWSzBubUlrLTFkVG9vQUE2bjNmajNYazRiU004U1pkYTlZdlJYdGNFb29qNzFtOW5fQVU3QkhYdkZYOUFUZzEyM3o4cGtTYXktNWRyQjRFMkliaXdicVhtcVhr?oc=5",
     "news_image": "",
     "news_source": "The Economist",
-    "news_age": "58m ago",
+    "news_age": "60m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -22869,14 +22873,19 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.9,
+    "news_score": 0.74,
     "news_title": "Malaysia’s economy grows 6% in Q2, beating expectations - The Business Times",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdkJmUVJSRXU4blVaOFN5aVUwOXRzYjU1b0w3TTJzdjlrWUFjLUFzVEhfM0pmcEM0RUplMWJzeHdlUWRDcWFaZkdsbDZ0V3Q4NEN5RS1yY1NfRVNrTWs0R0J2WUsteUhWazNRdDdXZGFlSXlGQlZRRW9tWHBSbDhPOG1ZeEdibTdUUU9DQjFUM0h1ZGg3QzNpbk1NZWZuTnZGWHREbA?oc=5",
     "news_image": "",
     "news_source": "The Business Times",
-    "news_age": "50m ago",
+    "news_age": "52m ago",
     "news_columns": [
-      "none"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": null
   },
@@ -28198,15 +28207,16 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 1.36,
+    "news_score": 1.38,
     "news_title": "Tournament of errors ends with World Cup elimination for Nigeria's Super Falcons - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX29PV1paMDdjUWtFU3FsRFdPQzlqVjlJaW1MNDlLNGRqWnZnUUI3TS0tcll4d1JwNEFFLVZKNFNROFVZRXhxQWxtYVIxNnhiVjRXcHd2by1JNDNZM1FRZm1CZmFPcExuYW1jZndkQUN6RVJ6ZTd4MWROb2FwVm1HUHJIbFNlWDRvZktBU1ZDMENfSWhGUWd6cl90M0Q4SnB6dDNzbG9Ednl4TkpmOFdYazBxTWJXcFpkS1h0ZXhDdmxoWlhVRmpIcXhXSWJmSHhHOEJ0eC1HdzJDQWM?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "16m ago",
+    "news_age": "18m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -34032,12 +34042,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 100,
-    "news_score": 1.19,
+    "news_score": 1.27,
     "news_title": "FIH Men's Hockey World Cup 2026: News, Schedule, Scores, Results, Points table - ESPN Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUWxfNzk5TG9xRV9UaGtKOEdnLXhFUE0yWS1WWllFc1YwZmR0R0hSTDVaeUsza2J1TGhaRkNvTUhBUWFuRWs4cnRRTjA5VkFYMHp2aEhQblRUbWNjNVNsZi1lOE10R0ZhbF8tcmVzR1Q4ckFuTWh4eEhwdk52RzMzVmt5RDhtQ1BNTEVxM3dKcHdka054Qml5eTZUcFV2dHdWbS0xZXJGTnB6RjlGbXdVQXRqOFZCdVRJbTRlblkxaGNUTFJWbVJ5eEtoYXg?oc=5",
     "news_image": "",
     "news_source": "ESPN Singapore",
-    "news_age": "21m ago",
+    "news_age": "23m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
