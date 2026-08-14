@@ -6903,14 +6903,18 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.7,
+    "news_score": 0.54,
     "news_title": "Hawaii's Moniz, Canada's Erin Brooks win tube shoot-out in Tahiti - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV0tlZXNhRUtrNXEyRVgtY1RQNmEtYkwzSlp2QVNKTHdlWUtjeVdhdmVYZjd6X1dqUXQyQ1VYYUx2ZzNQR25nZDdYYVZxZ1B5dnl2ZXFuUG9GM09lb1dPSndubkx5ZlBQcm5SWjdGTWFEb2Z1R25oc1JMWDd1Rk04RU1mUUJjM3ZWYWozYTFjeFdtZU1la29jRzFJVGx5UQ?oc=5",
     "news_image": "",
     "news_source": "Reuters",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -7963,12 +7967,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.06,
+    "news_score": 1.05,
     "news_title": "World in Brief: America accuses China of evading tariffs; Israel removes settlers from West Bank - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORVhhbmFSZXp5TDlTWDdCcXJzcFlnaS1YRkgyR0k3bFRKaGJtM0E3clRDdm01YlFZZTBvSGxWSzBubUlrLTFkVG9vQUE2bjNmajNYazRiU004U1pkYTlZdlJYdGNFb29qNzFtOW5fQVU3QkhYdkZYOUFUZzEyM3o4cGtTYXktNWRyQjRFMkliaXdicVhtcVhr?oc=5",
     "news_image": "",
     "news_source": "The Economist",
-    "news_age": "52m ago",
+    "news_age": "54m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -8214,7 +8218,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ3R0d0g1dWFGMnlIUVlDSkYyLTBYUzBodG5mTzJrMl9GMW9QWmVGUDIyWUpqOG95QmJNTVE1S0dpY2l3Z1lha09HQ1hxVm1LQXV6cW8wVXBLQkxib1VLdFI0YTZ0bmRBbkhvelEwOXpBdVhUbFhNeG5EN3pPUzhoQjR0Z0JYSmZOdGxXenlsRFE4TXpuYTNHNzRVM0ZyWTBEa09BRjZ0QW5EaTMw?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -12938,7 +12942,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTExHRzVKTC11ZHhmMUF6RmZrSWFqMVI0dHhYajQ0U1FTWlEzZ05jTjB2MmlvVEgtUDkzeDJiWG5ENERDTHBPR0g2MXdybUwyWEcyRDFadkp2VjBwRFUzV3kzMENmU3AyVGgwLTBrcDBSY0o4WTZjNmx5bVJyeWRidTcyU243UmdYNHc3WTNEZWNVcTdfOVRwRkhKREQ0dlFlRHFlV0tnSGxSUTRtc211MWlneXo?oc=5",
     "news_image": "",
     "news_source": "Newsonair",
-    "news_age": "20h ago",
+    "news_age": "21h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -16700,14 +16704,15 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 1.13,
+    "news_score": 1.29,
     "news_title": "Fulton's India ready to embrace World Cup pressure with defence, set-pieces under the scanner - ESPN Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTnVGMFVqT05vbW1nNWoyS1pOOFlkcTVWUWl4NzZWSjEwMzRjLXp6V2p5RTNLSmRpTXc2Q2JKSWJwd3BCTGRJNXZHWmp6bWRhVlBuTExNYWxXVjRnSGNQcmlfbXl5cVNKd1N2SFdhQmg2enNlN0E1UXJDWjkyX0pKeGlBRlVtVzh6Q3l2MW03Ymh2d0NBdVJzLUhQbG5PSlpFRl9qOXRXdjFmeTZtZHhCc3FPdUNWUnhHMmxSVHlMLVEzNEgtYi1yX0pkOXFWZXBvVVFfbWVhdHNXQQ?oc=5",
     "news_image": "",
     "news_source": "ESPN Singapore",
-    "news_age": "15m ago",
+    "news_age": "17m ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -18002,12 +18007,12 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.83,
+    "news_score": 1.02,
     "news_title": "World in Brief: America accuses China of evading tariffs; Israel removes settlers from West Bank - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORVhhbmFSZXp5TDlTWDdCcXJzcFlnaS1YRkgyR0k3bFRKaGJtM0E3clRDdm01YlFZZTBvSGxWSzBubUlrLTFkVG9vQUE2bjNmajNYazRiU004U1pkYTlZdlJYdGNFb29qNzFtOW5fQVU3QkhYdkZYOUFUZzEyM3o4cGtTYXktNWRyQjRFMkliaXdicVhtcVhr?oc=5",
     "news_image": "",
     "news_source": "The Economist",
-    "news_age": "52m ago",
+    "news_age": "54m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -19140,7 +19145,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQazRNbV8tNWJtcWd1RDhuNFZCOUczYURoS1J4ZDlLMU12R1l2aHFHVU43bE5tRktlS3c2T3BBd2llZ1d4TEJ0SkF2ZnZRbGVfdVRYbUpCZnkydkdaVnlONl9UNnJybjk3aGxiM2drOEk4SFBaRkY3b25FdGVJYzlHWl9HbTFJM3BI?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "6h ago",
+    "news_age": "7h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -22869,12 +22874,12 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.69,
+    "news_score": 0.63,
     "news_title": "Malaysia’s economy grows 6% in Q2, beating expectations - The Business Times",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdkJmUVJSRXU4blVaOFN5aVUwOXRzYjU1b0w3TTJzdjlrWUFjLUFzVEhfM0pmcEM0RUplMWJzeHdlUWRDcWFaZkdsbDZ0V3Q4NEN5RS1yY1NfRVNrTWs0R0J2WUsteUhWazNRdDdXZGFlSXlGQlZRRW9tWHBSbDhPOG1ZeEdibTdUUU9DQjFUM0h1ZGg3QzNpbk1NZWZuTnZGWHREbA?oc=5",
     "news_image": "",
     "news_source": "The Business Times",
-    "news_age": "44m ago",
+    "news_age": "46m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -28203,17 +28208,15 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.82,
+    "news_score": 1.28,
     "news_title": "Tournament of errors ends with World Cup elimination for Nigeria's Super Falcons - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX29PV1paMDdjUWtFU3FsRFdPQzlqVjlJaW1MNDlLNGRqWnZnUUI3TS0tcll4d1JwNEFFLVZKNFNROFVZRXhxQWxtYVIxNnhiVjRXcHd2by1JNDNZM1FRZm1CZmFPcExuYW1jZndkQUN6RVJ6ZTd4MWROb2FwVm1HUHJIbFNlWDRvZktBU1ZDMENfSWhGUWd6cl90M0Q4SnB6dDNzbG9Ednl4TkpmOFdYazBxTWJXcFpkS1h0ZXhDdmxoWlhVRmpIcXhXSWJmSHhHOEJ0eC1HdzJDQWM?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "10m ago",
+    "news_age": "12m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -34039,12 +34042,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 100,
-    "news_score": 0.87,
+    "news_score": 0.89,
     "news_title": "Fulton's India ready to embrace World Cup pressure with defence, set-pieces under the scanner - ESPN Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTnVGMFVqT05vbW1nNWoyS1pOOFlkcTVWUWl4NzZWSjEwMzRjLXp6V2p5RTNLSmRpTXc2Q2JKSWJwd3BCTGRJNXZHWmp6bWRhVlBuTExNYWxXVjRnSGNQcmlfbXl5cVNKd1N2SFdhQmg2enNlN0E1UXJDWjkyX0pKeGlBRlVtVzh6Q3l2MW03Ymh2d0NBdVJzLUhQbG5PSlpFRl9qOXRXdjFmeTZtZHhCc3FPdUNWUnhHMmxSVHlMLVEzNEgtYi1yX0pkOXFWZXBvVVFfbWVhdHNXQQ?oc=5",
     "news_image": "",
     "news_source": "ESPN Singapore",
-    "news_age": "15m ago",
+    "news_age": "17m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
