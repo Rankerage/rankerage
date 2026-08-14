@@ -207,7 +207,7 @@
     "union_rate": 38.4,
     "union_rate_rank": null,
     "fifa_ranking_rank": 136,
-    "news_score": 0.22,
+    "news_score": 0.16,
     "news_title": "World News in Brief: Afghanistan education, Myanmar flooding, Syria recovery, homecare workers in New York - UN News",
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EZHkwaTd5WVBDQ0RuUWRDTzBPb3dUV2dtMy1LWjNvZTRiRFAyT0R6X2lCM0t5VHBvbTdkcFhZNjVDQl9ibjVkUlVPQ01SSUFYNTBqcElPWQ?oc=5",
     "news_image": "",
@@ -7960,14 +7960,19 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.11,
-    "news_title": "White House exposes ‘Transshipment Scam’ costing US up to $26B, points finger at China - Fox News",
-    "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3FOdUc3b3hILWtfUHotSkN3UWpubWZhdEdGR25RYU90bExSdjFkLUM2dmE3emh5QllFcGxUa0E4dlh6d1dNZzd4MmhDc0VCTVhZTXZTeXFQUWxoZVYyaWhaaE4xU1lsVGNaWERfUi1tQlVVY2tjcmZqYjQ4T0RfR1Rjc1hOcVdUcGVHamxiX2lfa2RvNFRBR2tMcUZmU1R5VzF4WUs0RWRkd9IBrwFBVV95cUxQcHBNaEZmSW54UklpWmFNdUtPZnYwdERXcFNFVnlGdkNralhYelV5QUxQYjB1QWtral8zWkl1TU00a3VEbUFZUlIxam1mWF9zRXl1VHFZWXNWZW9qcGowcGRtejJHQUdGdUJvdHFuOXdmMVJESEdINzVLZkw3RnJGTWpzNTAybXNnS3lhRWc0MDFqR0NtZjdNRlk2eHBMNlViMEw5dmdvZ1VZajEzRlhr?oc=5",
+    "news_score": 0.15,
+    "news_title": "China's hottest AI chip stock is now one of the world's most valuable chipmakers — rivaling Intel - Yahoo Finance",
+    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS25NTHY1aWtTMlVYMi1JTThIUE01N21VZkNYbTF1Z1BVTS1GZ0tsLU1mUkVTX1o2UHdPSEx5MndYZG1VOXc3QXJ0dXo1aWtMMmktLUFWYzg3V2VEbmdhRk85N1htRU8xNjl1eE5uMmZZdlhiOUxXVDhDN1dyeF85dnR4NGJPOXE1ckI2VXF1Wlg5VjVSMXNV?oc=5",
     "news_image": "",
-    "news_source": "Fox News",
-    "news_age": "8h ago",
+    "news_source": "Yahoo Finance",
+    "news_age": "4h ago",
     "news_columns": [
-      "olympic"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -8202,18 +8207,18 @@
     "union_rate": 69.1,
     "union_rate_rank": null,
     "news_score": 0.0,
-    "news_title": "Mexico says Colombia rejected its earthquake rescue team - aljazeera.com",
-    "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdURoYV9vdE9UdmUzRG1vQTRGVFEtbng3QkUySV81cHdIUVNldUJ1R09kOGVfaVp1NEEwbkJScm1SQWRCeUNPelhUR1NLX29MdDU0Y0Vla2NTQi10NzBYaEtVSGlaN0V5N19yaF81eFZpLUZGM0hUYTl0bmRFWkJpRzl4d2d3QzdRUGoydlNpUnBCVXZGR1JFa1BwSmdkUdIBowFBVV95cUxPV25XMUJORDc1QmxjTUt0OXlGeHJJb1V4T1h5ZmR4RWNXTXhNMTFuMXN0NnRyLVYyTEZKbVVOMVlrZGRXX2hPQnoxV0hIU08ySWNvVlRiOU43cGJPSFowQmliT2NFQjdubi1mQlZfMVotSFh1YTR3RHI1c2ZWZUVXTWtLeVZvU201WEotOFlYVUF5ZU9JTUFvSkdyMHR5ZkVMbVNV?oc=5",
+    "news_title": "Deadly earthquakes expose stark divide between Colombia and Venezuela responses - NBC News",
+    "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUVlaOEJmX1BLeW12ZUItR0hiSDc5ZmlFclJTeDI5V0tlQ0FZQzVhaC0tV204dlB1bGU5Znl6LVNUcllrSTh2c3pPa3BmZkh1Z1RoX0xHbU1jM0w4TGRqUjRWXzVpUTJ0ZGNDbmtCTUxtbzBIbGc0Z0Exd200Ql93NW9ENlh2VUZZR3Q1SmtqUlcwUjhPZEpxdlZHYzFNQzVLQlg5MC04SDJ0QmdmWkF5NmVRTXRHZEtIbG1ySlFEMA?oc=5",
     "news_image": "",
-    "news_source": "aljazeera.com",
-    "news_age": "13h ago",
+    "news_source": "NBC News",
+    "news_age": "14h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
       "earthquake_count",
-      "earthquakes"
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ],
     "bottom50_wealth": null
   },
@@ -12925,15 +12930,19 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.78,
+    "news_score": 0.49,
     "news_title": "Another Day of Extreme Heat Bakes Europe, but Relief Is on the Horizon - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY2h0ekZRS25id1lPRXExRkZNc2hmZnEtdzVwb3BEWkNscy1oLVF5MkhwWG9YYzhrNHVBQjB6YWM4b0c3MUFueV9ON1p1UnBydFhGdkpZVnVkTGVvdkJaY3dQTEhPdE04eU00TVFaa09uNHlQbG0tcmxFS1FlUk90R2sxV1JjVVE?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -14147,19 +14156,15 @@
     "union_rate": 60.4,
     "union_rate_rank": null,
     "fifa_w_rank": 50,
-    "news_score": 0.94,
+    "news_score": 1.26,
     "news_title": "Ghana, South Africa end WAFCON with wins to keep Women's World Cup qualification hopes alive - ABC News - Breaking News, Latest News and Videos",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnZ1SkdENVB1bnd5eHdYb0M5Q0tTTEZ0ZzlacmJDZnAza1dYby1GNmlWelY2UjdhYWxldml1Q3RTLWJ5am5iQl8tWGVIVXBRU3RheVNrQ1ZCek1uRzZiTEt4OEtXRDlHMzhCZ1ZQWnJVeEJETzZvVFdsejMzZFJHNkJhX0VHOFdIOHNpaHV4OGdoem1MdXdxbFFB0gGfAUFVX3lxTFBYV294a0dtWUYxLV83bkdKUm1iUnZDSklmSTcxTnhvQ2dLVEs1blJET3gzbWtXbmxiSGFIMVlXbnVGQ1BGUGdmMGpXeEFobmZ3LUJMcy1aY3lXUjlGbkI0VEtlNU4xajJ3T010a1hFWFNxMHYweUJpMUlnMFBiRGZXLXNJM1YwQmt4Z2JNUUZIOExkcC13d1pQRm9ZNFptYw?oc=5",
     "news_image": "",
     "news_source": "ABC News - Breaking News, Latest News and Videos",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
       "olympic",
-      "basket",
-      "gender",
-      "gender_gap"
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -16688,19 +16693,15 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 1.34,
+    "news_score": 1.76,
     "news_title": "Hockey World Cup 2026: Know where to watch live streaming and telecast in India - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTzNlVjB6N01YaUF2aUUzTkdHcl9RcVFNUy04TUZnY3gzSEV2MlRsVkw5RGpqZGhsQ2RtaGtwLVQ3SnVpUnFuSG92M0x2RmVDeHM5MDVIS1d3NzFrUEo3LWh3ZUd2REFkZHNTaTdaNHNUbFMzczY5Zm9FU1RYTWFmRDJKMHZVamxWTjFHb1pkWFlLa1RaN0ZPTDRyRnF0Z3phQnc?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "55m ago",
+    "news_age": "57m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
       "olympic",
-      "basket",
-      "olympic_gold",
-      "olympic_per_cap"
+      "fifa_w"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -18438,15 +18439,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.02,
+    "news_score": 0.03,
     "news_title": "Italy’s Sara Curtis sets 50-meter backstroke world record for second time in 2 days - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa1B6eFludHV3S05PcjV5dzYySUZmaUZ4ZWZyV1NuY3RFUnctVkI2T1lLWHlWN2NJR2JjNEJ4bmdXVEhYUHVnbUdleXdjWGVXR19RTEdKQ002T0FIUGxwcW1VMDMyRkpIUGNCMjVuSEdWQ2RwMm94NnNRZmFnM2RCNHdpYTdybWJ2dmY3UDFsbFNMdU13Ty1tV2xrcEpGdWhDWk1Zaks4ZXotdw?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "15h ago",
+    "news_age": "16h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -19126,15 +19126,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.15,
+    "news_score": 1.22,
     "news_title": "The disturbing dream world of ‘Cattle Muti-Leiko’ - The Japan Times",
     "news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fbllrWS1BdzN0QVYxUzRScXEweFYwMnJnV0VZR1lRMFdVUTJTeGh6bGhnNXMtSWxvRElTLVVNNUc4OC1ja1JQcFk2WkxmV25rTDNna2NQMnNScU1hVXFnSTE2REJrQnluVVpqSkxVSF9LSDFSNFRsa2E1WQ?oc=5",
     "news_image": "",
     "news_source": "The Japan Times",
-    "news_age": "86m ago",
+    "news_age": "88m ago",
     "news_columns": [
       "olympic",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -19755,7 +19755,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalhtNzZJZlRrMFVhSUVLN0FhUmpjdThMS1RMLThXMnJOOXA0Y1I0X3dPVENlNTZKX2hOSHZ1dmhaQVVFVWlyTjJNbTgzQnhnV0pPNlpsek45aXRsbF9BaXV5NjcyRUFyUHY0UU0wQVJFdFZRbXpJeE9HVU1NSTJ0V2ZQNWkyT0pwa2RfajhGZE9ZaHp3NUdtenJ4amFwdmZUazBaMEVvVVk3S2Q0Rl9QMEZB?oc=5",
     "news_image": "",
     "news_source": "theelephant.info",
-    "news_age": "107m ago",
+    "news_age": "109m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -27053,12 +27053,12 @@
     "refugees_rank": null,
     "union_rate": 85.6,
     "union_rate_rank": null,
-    "news_score": 0.69,
+    "news_score": 0.68,
     "news_title": "Dortmund defender moves to the Netherlands on loan - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeTZwa0Q2bXEtUURrUGJfbjMyRlU2azEwUkU5ekx3U0Y0T3U1Q2VQMEd2a0xpOTJzUS0xbk5fRmMtRDJEd1NWTTNjcWZ3eDdCaHRvZkhpb2VBWElrRGFRdHVHbWRhWmhSMlZlME4tVHdWZFZSTl9YUnY0OTJ0MkxYYTc5WW1ZSHowdzBmQjB0RTJ4MVE?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "89m ago",
+    "news_age": "91m ago",
     "news_columns": [
       "olympic",
       "fifa_ranking"
@@ -27232,12 +27232,21 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 127,
     "fifa_w_rank": 74,
-    "news_score": 0.0,
-    "news_title": "CNBC: NC in top 2 states for business for 6th straight year - Carolina Journal",
-    "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaFRYTWY2N0dNeXZTaHpwX004Q0NYQ09yNkRDUlR1UUZlSHBUaFFFd3lLdVZ3NXpldjA5LUV3blVFT3hDeWVOSVBuS01PNW5DejRGVkRoRFpyWHJXdGNUUDBHS1hDUHZ4bklSeVpLQ3oyZkJBMUx6MUJxWDJ5UVJDbUMxWnE1U2JZUHY1U1ZheFF6ZmlZZmc?oc=5",
+    "news_score": 0.21,
+    "news_title": "New Caledonia announce squad for FIFA U-20 Women’s World Cup 2026™ - oceaniafootball.com",
+    "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON0o5bzl5emtPdlYyMnZXMWtXTGx3ajU2WTJWQkxoT1pTVlU1T1U4U2NZMUFqX1RQQWwwbk04LS1sTDZ1bmhZcDl1dXVYenMzMC1JU09rT21mUFVXTjd5bWM5dzBncWhfaDlNb2ZDbzNPLXVZTU9tbTM2X3cyM0ZOcFRyMkwwa2RHZVpFOVpEN0lXTkVkQVZNaF9nY3hUQQ?oc=5",
     "news_image": "",
-    "news_source": "Carolina Journal",
-    "bottom50_wealth": null
+    "news_source": "oceaniafootball.com",
+    "bottom50_wealth": null,
+    "news_age": "83m ago",
+    "news_columns": [
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket",
+      "gender",
+      "gender_gap"
+    ]
   },
   {
     "flag": "🇳🇿",
@@ -27548,14 +27557,15 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 85,
-    "news_score": 1.01,
+    "news_score": 1.12,
     "news_title": "New Zealand break ranks with Oceania as FIFA’s Infantino divide grows - aljazeera.com",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzVLeU96Ylc3N2ltSnFpbDdsTGhVa2ducWJtcEdxSE9mZkhxNXpiNVF0VGQ5blUxZzRicHI5dEhKOU5CVUFmNHRySm9SX29oYkRSWmxVV2VrYkh0SGhGVVhhVWVUMmNnTGN5V1dMcFk5RnNoMjBJWG5zaGtCUFFMaFlnS0tJekJRSnc3RWhPOVNwbGx1dHBTaUJLcTdaWkJNTUVZSloyWnpSWXY4SjFPNNIBtgFBVV95cUxQQVhfMjBqODZlcTdpY183WmlJOFAwaWRiMVpnTWxRNG55X2pmRUFYc1MyV0cwdkhHSTE2NUhqX0t0ZHJkbXUzUzl6ZV8yZXRHa2FZV1Zfbm9EYkRNY25vdGZvRmhmaWIxTTczTFZBeVVfc29ZeHlSR3BtYW9JeFRwaTFMZVNLZV9VMkRTNldSOGw1VGlJN3FaWmRJcWI5ajVBZkMxd3FrSzNjMVRQLThrcjBvUl9mQQ?oc=5",
     "news_image": "",
     "news_source": "aljazeera.com",
-    "news_age": "43m ago",
+    "news_age": "45m ago",
     "news_columns": [
-      "fifa_ranking"
+      "olympic",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -32850,7 +32860,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.22,
+    "news_score": 0.23,
     "news_title": "Ust-Luga Ablaze Again as 54 Ukrainian Drones Hit Russia’s Key Baltic Oil Port - Kyiv Post",
     "news_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iaUpIN0FudFVIazAwX3h0el9mRXhXOEo4a0FUaHppdFBvVy1HVHllTUgyR2haM1h4YlZUcTNjMjZBbHJJa3Z4dG1Zdw?oc=5",
     "news_image": "",
@@ -34024,12 +34034,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 100,
-    "news_score": 0.06,
-    "news_title": "Fulton's India ready to embrace World Cup pressure with defence, set-pieces under the scanner - ESPN Singapore",
-    "news_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTnVGMFVqT05vbW1nNWoyS1pOOFlkcTVWUWl4NzZWSjEwMzRjLXp6V2p5RTNLSmRpTXc2Q2JKSWJwd3BCTGRJNXZHWmp6bWRhVlBuTExNYWxXVjRnSGNQcmlfbXl5cVNKd1N2SFdhQmg2enNlN0E1UXJDWjkyX0pKeGlBRlVtVzh6Q3l2MW03Ymh2d0NBdVJzLUhQbG5PSlpFRl9qOXRXdjFmeTZtZHhCc3FPdUNWUnhHMmxSVHlMLVEzNEgtYi1yX0pkOXFWZXBvVVFfbWVhdHNXQQ?oc=5",
+    "news_score": 0.18,
+    "news_title": "Curex Releases Largest Real-World Study Telemedicine Allergy Drops: High Adherence, Symptom Improvement - Yahoo Finance Singapore",
+    "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3RHQUxCVjhsZC13SFZwSG1qdTM4V1lBZEpzQnA2cmtEVnZTRkJqNUQ2UWVsOTgwMTdZMEZDbV9ycnFUQk4xTmtrMVFCb2x3eDdOZTVpTGI3S25xOHJKWFRVcXFUXzZ6Q1RtZXFtYTB1TWdWQkR1ZFpNcTRlSWQzTkxLQ1duSWlPS0E?oc=5",
     "news_image": "",
-    "news_source": "ESPN Singapore",
-    "news_age": "5h ago",
+    "news_source": "Yahoo Finance Singapore",
+    "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -35364,19 +35374,15 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.93,
+    "news_score": 1.24,
     "news_title": "Ghana, South Africa end WAFCON with wins to keep Women's World Cup qualification hopes alive - ABC News - Breaking News, Latest News and Videos",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnZ1SkdENVB1bnd5eHdYb0M5Q0tTTEZ0ZzlacmJDZnAza1dYby1GNmlWelY2UjdhYWxldml1Q3RTLWJ5am5iQl8tWGVIVXBRU3RheVNrQ1ZCek1uRzZiTEt4OEtXRDlHMzhCZ1ZQWnJVeEJETzZvVFdsejMzZFJHNkJhX0VHOFdIOHNpaHV4OGdoem1MdXdxbFFB0gGfAUFVX3lxTFBYV294a0dtWUYxLV83bkdKUm1iUnZDSklmSTcxTnhvQ2dLVEs1blJET3gzbWtXbmxiSGFIMVlXbnVGQ1BGUGdmMGpXeEFobmZ3LUJMcy1aY3lXUjlGbkI0VEtlNU4xajJ3T010a1hFWFNxMHYweUJpMUlnMFBiRGZXLXNJM1YwQmt4Z2JNUUZIOExkcC13d1pQRm9ZNFptYw?oc=5",
     "news_image": "",
     "news_source": "ABC News - Breaking News, Latest News and Videos",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
       "olympic",
-      "basket",
-      "gender",
-      "gender_gap"
+      "fifa_w"
     ],
     "bottom50_wealth": 1.2,
     "bottom50_wealth_rank": 29
@@ -40944,10 +40950,14 @@
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdUpNTHhqZmRMMEdDZHQ3RkstcjJTZmxSV1hZVW0wS3l5b3hrYk1pT1c0QXdjU3M0ZUwzTmpGU1E0ZmVySHUtdnM5eC04QUN2eklCUXNMbWhOX1pZU3YwSVVpYmpySDN3V1Q3YTI3Nlpfdl9TQUMwa3JQNmpTVGlkWXhBMm1aUWxFa0VYMjlrZ1FwbEZIMDQ0?oc=5",
     "news_image": "",
     "news_source": "The Economist",
-    "news_age": "14h ago",
+    "news_age": "15h ago",
     "news_columns": [
-      "olympic",
-      "basket"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": null
   },
@@ -43117,18 +43127,18 @@
     "union_rate_rank": null,
     "fifa_w_rank": 40,
     "news_score": 0.0,
-    "news_title": "Mexico says Colombia rejected its earthquake rescue team - aljazeera.com",
-    "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdURoYV9vdE9UdmUzRG1vQTRGVFEtbng3QkUySV81cHdIUVNldUJ1R09kOGVfaVp1NEEwbkJScm1SQWRCeUNPelhUR1NLX29MdDU0Y0Vla2NTQi10NzBYaEtVSGlaN0V5N19yaF81eFZpLUZGM0hUYTl0bmRFWkJpRzl4d2d3QzdRUGoydlNpUnBCVXZGR1JFa1BwSmdkUdIBowFBVV95cUxPV25XMUJORDc1QmxjTUt0OXlGeHJJb1V4T1h5ZmR4RWNXTXhNMTFuMXN0NnRyLVYyTEZKbVVOMVlrZGRXX2hPQnoxV0hIU08ySWNvVlRiOU43cGJPSFowQmliT2NFQjdubi1mQlZfMVotSFh1YTR3RHI1c2ZWZUVXTWtLeVZvU201WEotOFlYVUF5ZU9JTUFvSkdyMHR5ZkVMbVNV?oc=5",
+    "news_title": "Deadly earthquakes expose stark divide between Colombia and Venezuela responses - NBC News",
+    "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUVlaOEJmX1BLeW12ZUItR0hiSDc5ZmlFclJTeDI5V0tlQ0FZQzVhaC0tV204dlB1bGU5Znl6LVNUcllrSTh2c3pPa3BmZkh1Z1RoX0xHbU1jM0w4TGRqUjRWXzVpUTJ0ZGNDbmtCTUxtbzBIbGc0Z0Exd200Ql93NW9ENlh2VUZZR3Q1SmtqUlcwUjhPZEpxdlZHYzFNQzVLQlg5MC04SDJ0QmdmWkF5NmVRTXRHZEtIbG1ySlFEMA?oc=5",
     "news_image": "",
-    "news_source": "aljazeera.com",
-    "news_age": "13h ago",
+    "news_source": "NBC News",
+    "news_age": "14h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
       "earthquake_count",
-      "earthquakes"
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ],
     "bottom50_wealth": null
   },
