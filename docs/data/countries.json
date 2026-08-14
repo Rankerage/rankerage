@@ -7967,7 +7967,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.32,
+    "news_score": 0.3,
     "news_title": "Chinese doctor stuns maths world by cracking decades-old problem using ChatGPT - South China Morning Post",
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR1E0MnR2T0MxOU56Vm5KUllNM3J6TnJfQVc3YkhNZHZrOE92RXF3djdGR3hqdnVnOGxnY1gwN1VYRHB2dUNGQnNha2N5RmZlcWJoN3B2RFR5ZTd5X1dLSWlqNEFKNE9ZZUN5Z0VhaDJ0SVltM1Bxd3Jyc2YweDFhdEtTZnNfUWpzdldIX09pNTZhLVZLOHhpSXlhRnJTOU9KNW1aRG4zMGZhRWNpNHFUYTRjYll3T3BnaXJ3NDRfczZndWhnU21iYw?oc=5",
     "news_image": "",
@@ -10877,7 +10877,7 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.12,
+    "news_score": 0.15,
     "news_title": "Kushner set to visit Israel, Egypt next week for Gaza talks - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CSUpRb095Ui1xX3pGNFNOTUdhOFY1QUg1bVZxVnFzQnd2dHp5ZWRRMTZXaTJXZnNocDZ5S2lYNEJfTGVKUUhHQlpPbUZDR3J4M1FmVDBPTXpPN1B1TTZIMFpRV280NHcyYnd2Y2RpUQ?oc=5",
     "news_image": "",
@@ -14164,10 +14164,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnZ1SkdENVB1bnd5eHdYb0M5Q0tTTEZ0ZzlacmJDZnAza1dYby1GNmlWelY2UjdhYWxldml1Q3RTLWJ5am5iQl8tWGVIVXBRU3RheVNrQ1ZCek1uRzZiTEt4OEtXRDlHMzhCZ1ZQWnJVeEJETzZvVFdsejMzZFJHNkJhX0VHOFdIOHNpaHV4OGdoem1MdXdxbFFB0gGfAUFVX3lxTFBYV294a0dtWUYxLV83bkdKUm1iUnZDSklmSTcxTnhvQ2dLVEs1blJET3gzbWtXbmxiSGFIMVlXbnVGQ1BGUGdmMGpXeEFobmZ3LUJMcy1aY3lXUjlGbkI0VEtlNU4xajJ3T010a1hFWFNxMHYweUJpMUlnMFBiRGZXLXNJM1YwQmt4Z2JNUUZIOExkcC13d1pQRm9ZNFptYw?oc=5",
     "news_image": "",
     "news_source": "ABC News - Breaking News, Latest News and Videos",
-    "news_age": "18m ago",
+    "news_age": "20m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -16696,12 +16696,12 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.9,
+    "news_score": 0.97,
     "news_title": "From Licence Raj to Modern Economy: How India's Economy Transformed Over the Decades Between 1947 and 2026 - News18",
     "news_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMmxtR2JrZU1wTUhET3JXX1gzeV9LNXJXbXg0UzU4NXNmZmRWSFFFM3ItSkhYTE44Q3NSLXE0SVJTSE1JeVhnWkN4bHZHczhraGpFdUpwSTByUDk4Sld2ZzlyX3lTOVlwcnBwRlJUUG1tMGtud3dxaEdpUS1vdVlzc1dTMjN5ejRtZGk3bDFBNXZTRTRiaWFRdFVXcmIyeXdKbEVncEdFbHNBRFRWdktUaE9jZkViR2otaFJzZXBEV3dUbGdMZXc5c21BUVZ3WkxKRkRPRlRXZkpiSGpmWG1SWm1CTzF1NjRrbFpEbUl0d9IB9AFBVV95cUxPYzN5aGJWVHF6WC1CYmRtYnZtYVRZcldXQkdFVEZzYmk0NXNyQUEyekg5ZklFa2dQRnRvYmVPZ2MwT003ZjZRbGZrcm13d08tODBuSlBVZTNkMU1jUHJuSXJHYlJ4VnNxYWNheWpTbVpnMzVIMGRlcncycDEwcF9IVkZWNDdMeFktamlqc3lfcklDU3Y3MFJvZ1RDYk5ZTHY3UWJMTmlUdlYwRFhPSFJaUldzZlM0UG1uS3Q1dndTMVkxSkdTMy1nRF9MM09EOUJKSE5rOF9hMW85V25NQm5UY3JtbC1yNWVZU20ycHNuVmg2c0c5?oc=5",
     "news_image": "",
     "news_source": "News18",
-    "news_age": "10m ago",
+    "news_age": "12m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -17271,7 +17271,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.5,
+    "news_score": 0.52,
     "news_title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcUJxM0VpYjVHTnVrdDVkRksyM2ROTlZnUVphRUJMVU9SQ2tqNmN3VjZHc1VSNnhOeTVXVFl5MUoyMUI5RWhHQ1gyRjluWTV3blVIZWs0UGNSZFFHM3FGdmxzNDZZWVk2Y05HWFAwcUpSMEJBUE5kYTllM1RzRXhtcmxJV2lfZGZadndDemxaaXMyTnFLZG1PN3VuSDQ3UTdueFFUUGxVTWxoQ3lUeFJnaGlwQWUzNVlMS0xrazZ2b3MxQkR4QXFuUUY4X2lkME1ySmVnZ2VR?oc=5",
     "news_image": "",
@@ -18003,7 +18003,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.19,
+    "news_score": 0.2,
     "news_title": "Kushner set to visit Israel, Egypt next week for Gaza talks - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CSUpRb095Ui1xX3pGNFNOTUdhOFY1QUg1bVZxVnFzQnd2dHp5ZWRRMTZXaTJXZnNocDZ5S2lYNEJfTGVKUUhHQlpPbUZDR3J4M1FmVDBPTXpPN1B1TTZIMFpRV280NHcyYnd2Y2RpUQ?oc=5",
     "news_image": "",
@@ -19134,15 +19134,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.14,
+    "news_score": 0.94,
     "news_title": "Pan Pacific Championships 2026: Japan's teen sensation Ohashi Shin breaks own junior world record to win silver in men's 100m breaststroke - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTU4zV193a3JJYlJJSDdHY2pMVW1sNlhtRDZoaWdDZGRkVmVmWXBxcEZHdFQwVzk2UGt5ckhUMEZrMmVNNWhydkwzeV8yaWVPeHVFR0NOYWs3a09sTTBLN191d29DVk5zQWhVSXNGVW53WlBEUktDWThnZmtFdUxybWNFUVZjQWNhX29RSnZpNU9ZdDhBcUFYSjl4dm9XTkctNnh2M1liVHNIN3d6X0ZOdDF3MjdzUlUxd2ExVXRUVzByR3V4aGVIQUJR?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "olympic"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -28206,10 +28205,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVEs0V3JkMEtaNEVoRmtaMzlZTG1jc3RjamV5ZEpSYmhQZVBZUGNZNTNtVENKUXFWMm00MzJtQ1pCcURhcFRrTFV2dEItU3llRno4SFA0RTEtS2ZMNlo4S0h3TFkwR2tzM3g1S1EtVGQtbHd4VzUwTlFaN0dyNEtRcmVERl84dUtVT1ZHeEt1eGRNbWFrRnFuTDNpTnlmZzBveHJ3MnZNTzFFMUxWdWxtd1g4VdIBuAFBVV95cUxPLUJmdTBRbDVMTVRsSGdQeWE4Ukt0WU1ydUgwOUY4cmFsQU94R1dxRnFfTFptLWhjY1JvYjhQMVNGRm4zRGlXM2o1aEJ2VER2RXo4UFdVbjFZOTE0b3VBdFVCYlJuS0ZwOHZEQ0Q1YmZDcEdCeElWUm1xdGFyLUx1MHYxWVYtMzdaaVBCUWF1S0JtR0R4S01jS2NNcWk0Sm9obU9mdWd3MkZsaW82dzY2R3FLRHBUMXZr?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "49m ago",
+    "news_age": "51m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -31387,18 +31386,18 @@
     "union_rate": 75.0,
     "union_rate_rank": null,
     "news_score": 0.01,
-    "news_title": "Russian plot to kill American citizen thwarted by Poland, prime minister says: \"First situation of its kind\" - CBS News",
-    "news_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sZUROb285LWxVMHBlLU1LcVJ4cHhJY29FdWFreFhQOEowcDR5YTVIb0tPenNRTXRPLWc0RVhic09TbFhPU0RTT1RNeG15RGRUS200eWI0TFJndlV2Y0dfRVpNWE80V042aW1EQmdfZE0wX0dMT0pISzlqenE?oc=5",
+    "news_title": "Russian plot to kill Ukrainian American thwarted in Warsaw, says Polish PM - The Guardian",
+    "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdkQ1ZGJkRVJuUXlkYkp4RURTNWdFRFRfbWM1S0tvbzVld3BQSHEzN1Q4UTd5ODVCSEdlREpPcUh4STF5QkQ1bWwzbkR1WHB0Y2lVM1pZYWdISUhEbjh4RWJKdmJFMVlTY3k3Yll4blpCalJ0VUQ3Q0lrMDZnRFFfaHFXLUpRSXJLV284T25ERTdTVDZpUWlmSHVtM2VqWWdNV3RTZC11cmgtN0NSVjZmRUkxTQ?oc=5",
     "news_image": "",
-    "news_source": "CBS News",
-    "news_age": "15h ago",
+    "news_source": "The Guardian",
+    "news_age": "13h ago",
     "news_columns": [
-      "democracy",
-      "approval",
-      "press",
-      "election_days",
       "military_pct",
-      "nuclear"
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -32861,7 +32860,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.45,
+    "news_score": 0.59,
     "news_title": "Ust-Luga Ablaze Again as 54 Ukrainian Drones Hit Russia’s Key Baltic Oil Port - kyivpost.com",
     "news_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iaUpIN0FudFVIazAwX3h0el9mRXhXOEo4a0FUaHppdFBvVy1HVHllTUgyR2haM1h4YlZUcTNjMjZBbHJJa3Z4dG1Zdw?oc=5",
     "news_image": "",
@@ -34035,12 +34034,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 100,
-    "news_score": 0.58,
+    "news_score": 0.7,
     "news_title": "Curex Releases Largest Real-World Study Telemedicine Allergy Drops: High Adherence, Symptom Improvement - Yahoo Finance Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3RHQUxCVjhsZC13SFZwSG1qdTM4V1lBZEpzQnA2cmtEVnZTRkJqNUQ2UWVsOTgwMTdZMEZDbV9ycnFUQk4xTmtrMVFCb2x3eDdOZTVpTGI3S25xOHJKWFRVcXFUXzZ6Q1RtZXFtYTB1TWdWQkR1ZFpNcTRlSWQzTkxLQ1duSWlPS0E?oc=5",
     "news_image": "",
     "news_source": "Yahoo Finance Singapore",
-    "news_age": "59m ago",
+    "news_age": "61m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -35380,10 +35379,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnZ1SkdENVB1bnd5eHdYb0M5Q0tTTEZ0ZzlacmJDZnAza1dYby1GNmlWelY2UjdhYWxldml1Q3RTLWJ5am5iQl8tWGVIVXBRU3RheVNrQ1ZCek1uRzZiTEt4OEtXRDlHMzhCZ1ZQWnJVeEJETzZvVFdsejMzZFJHNkJhX0VHOFdIOHNpaHV4OGdoem1MdXdxbFFB0gGfAUFVX3lxTFBYV294a0dtWUYxLV83bkdKUm1iUnZDSklmSTcxTnhvQ2dLVEs1blJET3gzbWtXbmxiSGFIMVlXbnVGQ1BGUGdmMGpXeEFobmZ3LUJMcy1aY3lXUjlGbkI0VEtlNU4xajJ3T010a1hFWFNxMHYweUJpMUlnMFBiRGZXLXNJM1YwQmt4Z2JNUUZIOExkcC13d1pQRm9ZNFptYw?oc=5",
     "news_image": "",
     "news_source": "ABC News - Breaking News, Latest News and Videos",
-    "news_age": "18m ago",
+    "news_age": "20m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 1.2,
     "bottom50_wealth_rank": 29
