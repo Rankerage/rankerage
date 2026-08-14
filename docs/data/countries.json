@@ -5121,7 +5121,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.68,
+    "news_score": 0.46,
     "news_title": "Brazil Under-15s begin Granja Comary camp for Uruguay friendlies - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORHFzdUJtZC1yV08wRmthb05qUGN5TnNXNTJxNDc3ZVVFaXlmRnlOTDVsdHNlSjdTUExCTkFFeHlOLVpjLXJrSXdFU3JNYVozcnVVRUllNW9KUE80YS04eVI0SVVsTkM3WC02RGhQT2ZWWm5zNUVpajBBRl9Hck5HZENFVk0?oc=5",
     "news_image": "",
@@ -7974,7 +7974,9 @@
     "news_source": "RAND Corporation",
     "news_age": "2418h ago",
     "news_columns": [
-      "olympic"
+      "car_density",
+      "gas_price",
+      "co2"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -8208,12 +8210,12 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.0,
-    "news_title": "Rescuers call for silence around earthquake rubble as window for survival narrows in Colombia - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTU5YWFRNaGYycHNJV19yTWhiSHpKQlR5ZnlDdF80Z1F1Y2hKLW44eHlmaWZmODZ1Z3FFeTFBSW56eVZJUTA2WTJwN3NQZjdKWnBJQUIycUJhZjZyZjVKU1NrY00wc3RCeVhELTMyblZzZlg4YnV3REtWM1pxOGFHeG1Da19jQzE2ZzhDcVpMUER4c09KM3lSX09falRkM05q?oc=5",
+    "news_score": 0.16,
+    "news_title": "Hundreds still missing in Colombia as desperation grips earthquake rescue effort - Reuters",
+    "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdTlvYTRPQnZ2b3ZFaHNQeDc1ZWdlaXlmc1AwQTJ4bnFKQ2xHRmpaSGRRa2o0U1ZOR0w3RnhiNDFBMmlicjE1RFpIdXBhUmtqTmhpYzhBUDVjaG5sLVFyZGlpZllnSVpxWlJHRW5GRW5TTjh5YVluangyMGNsR0RJRDNWUmNLazluRUFuUVVIN0JKLTR0NkpvX2pOdkdyOFNEVHA2U2MwVnVoZjhwbTdDcEljd1VTLWllWlh3YUtVX1Z1Mlh5Q1JGZQ?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "3h ago",
+    "news_source": "Reuters",
+    "news_age": "2h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -9026,7 +9028,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM1FFRnlyLVF0RVZCYkx6UVRoVEU0WFd4UHNObDR4aWxoSkhxY3I0U1pmREttZHpDTmRKRjVyU2NiZnp3TXQ0aV8wQ25EcWFScDJPTzhDVEFmZ0t1LXNENEhqMWtQMnM1dGRjNDZZWkoyalEwM2QxVWo4WWZrMHo1YnJRbndBZ0dUQnlUREp4VkU0Zkl6MGtIUXJHT0tWVGNuQnBoOGdWb0h1dDJ2N3JVbVJTbV9Td2JhSTdBQWRrR192bnhzY1RkaQ?oc=5",
     "news_image": "",
     "news_source": "thenationalnews.com",
-    "news_age": "1337h ago",
+    "news_age": "1338h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -12934,15 +12936,19 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.02,
     "news_title": "India,France review expanding canvas of bilateral cooperation in science, technology & space | Akashvani News - News On AIR",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTExHRzVKTC11ZHhmMUF6RmZrSWFqMVI0dHhYajQ0U1FTWlEzZ05jTjB2MmlvVEgtUDkzeDJiWG5ENERDTHBPR0g2MXdybUwyWEcyRDFadkp2VjBwRFUzV3kzMENmU3AyVGgwLTBrcDBSY0o4WTZjNmx5bVJyeWRidTcyU243UmdYNHc3WTNEZWNVcTdfOVRwRkhKREQ0dlFlRHFlV0tnSGxSUTRtc211MWlneXo?oc=5",
     "news_image": "",
     "news_source": "News On AIR",
     "news_age": "16h ago",
     "news_columns": [
-      "fifa_ranking",
-      "basket"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "space_launch"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -14156,7 +14162,7 @@
     "union_rate": 60.4,
     "union_rate_rank": null,
     "fifa_w_rank": 50,
-    "news_score": 0.79,
+    "news_score": 0.78,
     "news_title": "Ghana, South Africa end WAFCON with wins to keep Women's World Cup qualification hopes alive - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRzlEb1lLSnlmUFhzakJQS3lzQXZpZm43QlFEakc1OWFxbGE0S09lLUM0TnNfN2NIMFJBR0N0dnpYX2ZQZ3k4QklkbHpDd3EtN2ozaGxIclF5U3ZSX05LSkNBM0tIeWFDTGcwdVpleHQzRWdwTzg3dUV6MDVzWjZvNkJGaHB1SkFHWTFVaVRWZ0lCREFuZHQ3eTRPYjZpT2VXZXpkeGEzVi1EenJYOXc?oc=5",
     "news_image": "",
@@ -17270,14 +17276,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.9,
+    "news_score": 0.57,
     "news_title": "South Korean airport becomes busiest in world for global traffic amid Iran war - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcVplcGRpeXh1NGVBSm91bXRfbmhuRWhxeWs2WjN4Z19mVlBkZ25FTVRDX3RzWnlzallHRkd4M2JfU19SOUVzWjg4WjFVSE1lU040dzE5TzdFQWN6SXVINXlkVzJQOHBHOXdpT19QQVFkVjBOU3k5R0xsUlFIa25odk1mMmFVMmFIbC1XTk9hUlY4VjhhSkd6NUh3?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
     "news_age": "5h ago",
     "news_columns": [
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -17997,12 +18008,12 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.01,
-    "news_title": "Iran wages economic war in hopes of outlasting U.S. and Israel - The Washington Post",
-    "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2ZCVmJ4amt6UTBvQ05kcDBFWnNzb1N6QldHQ3RSWVZ0NUdzemNtaTJGaTlzM1N5dVR0djFiVV9XUGNSc1JCR2RnczNYeTUxMW5WZU5aMmJLMVVqcElmVHpibHdWMm9xOFlLWGlhY2NlQUV5cDVVcTRWZHJaNGxjaXVR?oc=5",
+    "news_score": 0.05,
+    "news_title": "Israeli settlers’ siege of Palestinian homes draws a sharp US rebuke - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZjg4cjNRa214Zmg2OEk1S1ltSkZnd2RLcmlReHNZaDJZeTlfZVU3VjZtb1o5WjVTVV9WRnNmRTgtRnRvS3I5TWR1bUtjWExlV2t2NllOb1lTUV9kNEJodFdqdDFSOEJxWXVJRHR1SWxzN1UzTVJhTFM5TkE5SUZkdGxZMllaRzkzM2twRjJmTW9BcUVwaWNyV2FVYlFITHZqUjhFRWNGMC16b2g3dlh0ZWN6Q1dVd3FXM01RRA?oc=5",
     "news_image": "",
-    "news_source": "The Washington Post",
-    "news_age": "3641h ago",
+    "news_source": "AP News",
+    "news_age": "6h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -19128,17 +19139,18 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.67,
+    "news_score": 1.43,
     "news_title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMUJSazBHRkwzZmk0aHJzWldhTXpGNThoR0ZCVTlkOTZmNVZaekIyUlIxekxLTFV4QjFfb1NSQmtVeXN6TnRZMDJtZEhXUVJJenFrY1pnLWJ0bFd2TDhyV2R4SU9XbW1oaS1MMHFfYWdLSkZ5QkZqeWJUREVFZ1FpalZqeTh3YWdkUVo4?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -32060,10 +32072,12 @@
     "news_source": "Arab News PK",
     "news_age": "60h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": null
   },
@@ -32851,14 +32865,19 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.28,
-    "news_title": "EXCLUSIVE: Ukraine offers Russia truce in Black Sea as food supply fears mount, source says - Reuters",
-    "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVAyN1FTME4xT3BNeld6NHNVMEpaWElYUkJrVjdmZmFVMVBtX0NlZGp3cXk4UUItS1ZDaGhCVE54bkptY0tiSTJDTHF2VU5HSzB3YTRFay1KY09uM1RuNkZJSXFtbVNiNVlzTU1rWEF2TTV4LUZzazNDU2dkdTVsdENPdnFvZDJMWmcxWTdwNE5na2NzeVBwVlVwTnNrQUN5VHV3bEIwaS1vTmZXOVhGeEVnN1FyQ1VxMTQ0T2g4aw?oc=5",
+    "news_score": 0.22,
+    "news_title": "Russian plot to kill American citizen thwarted by Poland, prime minister says: \"First situation of its kind\" - CBS News",
+    "news_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sZUROb285LWxVMHBlLU1LcVJ4cHhJY29FdWFreFhQOEowcDR5YTVIb0tPenNRTXRPLWc0RVhic09TbFhPU0RTT1RNeG15RGRUS200eWI0TFJndlV2Y0dfRVpNWE80V042aW1EQmdfZE0wX0dMT0pISzlqenE?oc=5",
     "news_image": "",
-    "news_source": "Reuters",
-    "news_age": "6h ago",
+    "news_source": "CBS News",
+    "news_age": "8h ago",
     "news_columns": [
-      "olympic"
+      "democracy",
+      "approval",
+      "press",
+      "election_days",
+      "military_pct",
+      "nuclear"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -35360,7 +35379,7 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.54,
+    "news_score": 0.53,
     "news_title": "Ghana, South Africa end WAFCON with wins to keep Women's World Cup qualification hopes alive - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRzlEb1lLSnlmUFhzakJQS3lzQXZpZm43QlFEakc1OWFxbGE0S09lLUM0TnNfN2NIMFJBR0N0dnpYX2ZQZ3k4QklkbHpDd3EtN2ozaGxIclF5U3ZSX05LSkNBM0tIeWFDTGcwdVpleHQzRWdwTzg3dUV6MDVzWjZvNkJGaHB1SkFHWTFVaVRWZ0lCREFuZHQ3eTRPYjZpT2VXZXpkeGEzVi1EenJYOXc?oc=5",
     "news_image": "",
@@ -35855,10 +35874,11 @@
     "news_source": "BBC",
     "news_age": "19h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 5.1,
     "bottom50_wealth_rank": 8
@@ -36422,7 +36442,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.66,
+    "news_score": 0.47,
     "news_title": "Spain's World Cup hero leaving Barcelona for PSG in $58 million deal - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZlRXWWlReGF5b3BKSDNNUmtLRWVaQU54Vk9ZYTJDUGxvV1lhUjd0OWZISHBBSGFmY0VWbk9RYTNnNU14RjR0V1haVEdiTDMxWXlLNExhWnRuMXduWjh4YTlXWnV3ZWRMRktEVDdmbndBYTJtd0RfLWZodlpSX2lJN3lwb2Q?oc=5",
     "news_image": "",
@@ -36430,7 +36450,11 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "basket"
+      "fifa_w",
+      "olympic",
+      "basket",
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -37369,7 +37393,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjU4NEo0OElfRV95dWtjZ0VGVFZtbmVrbVNneUs2QTNrOXktc0RrLTB1elRKemt5X013MGJscko2b1BTOGhFSmV2dEd5X0Y3NGZGSElfOXZMV0FTektQRWpaY2RqRzBPcTFvVkFndTRDRV80UHkycG5xNEJWdGc5eUR1dXprV2hv?oc=5",
     "news_image": "",
     "news_source": "Business Sweden",
-    "news_age": "3377h ago",
+    "news_age": "3378h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -39974,7 +39998,7 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.23,
+    "news_score": 0.22,
     "news_title": "Why officials decided to smuggle Trump out of Turkey with a catering truck and a secret plane - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGOVNoemlYaXBzTUVMNUxwNnN3VEdWcnVSMVZRRC1oS3NzUkt6Uk1MU0Utb2Y1TnpRNHYtM3FuUWRoS041RDE4UTRNM0VzS01zYktKUzJCRGtmRmpmekVvSTZGSHZ3bGplZm9PN3BKLVlfdw?oc=5",
     "news_image": "",
@@ -40934,19 +40958,18 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.13,
-    "news_title": "EXCLUSIVE: Ukraine offers Russia truce in Black Sea as food supply fears mount, source says - Reuters",
-    "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVAyN1FTME4xT3BNeld6NHNVMEpaWElYUkJrVjdmZmFVMVBtX0NlZGp3cXk4UUItS1ZDaGhCVE54bkptY0tiSTJDTHF2VU5HSzB3YTRFay1KY09uM1RuNkZJSXFtbVNiNVlzTU1rWEF2TTV4LUZzazNDU2dkdTVsdENPdnFvZDJMWmcxWTdwNE5na2NzeVBwVlVwTnNrQUN5VHV3bEIwaS1vTmZXOVhGeEVnN1FyQ1VxMTQ0T2g4aw?oc=5",
+    "news_score": 0.09,
+    "news_title": "Ukraine plans preferential recovery loans for large businesses hit by Russian strikes - The New Voice of Ukraine",
+    "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc0tIdGtsODNfZDZMZ0FEcEdrZTh4NDMzMzBvdVFRWTNzVm82alR4LTU2MGVleFF1d3R6RkpZRThqX1A4eXRVMXZscnpjVmwyVTdoWUU0ck1kREFaeG5LMmEyT2RPdzFFMFAyZUFCRjBSd191aEoyQkZWXzdFT3B1VHR2RXI0Z2JGSW9Jb3g5X0ZBZUVCVElaN2FzVnM1VmQzUnU1anY0ZlI3cUnSAaQBQVVfeXFMT0dVbS1idHBrNFpONHhqcmNVVW1DRDlWN3prbHpKdUc0Q0ZlS3h3clNGUW1NSUNEbkJVVlVHdlpmeFR1WUEwYU15eHlLenFwdzJoMjR1eS1HSFQtTE1jNUpLVm1nTm5aQTllUElnUFRUc0YtdWo1bUp1OGNIZ1F3WVkyWnZrRVRtZG5JRnNETFlFRWFpb3N6YTNXaVgycFBiZFU4U2Q?oc=5",
     "news_image": "",
-    "news_source": "Reuters",
-    "news_age": "6h ago",
+    "news_source": "The New Voice of Ukraine",
+    "news_age": "37h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
       "patents",
       "rd",
-      "startups",
-      "michelin"
+      "startups"
     ],
     "bottom50_wealth": null
   },
@@ -42190,7 +42213,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.0,
+    "news_score": 0.22,
     "news_title": "Exclusive | Trump Orders Navy to Restore Older Tech on Aircraft Carriers, Costing Billions - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaFM0a0xDWnQwSUZYOGhyRWhncDBfUXZQZHZoNmw0Vzl1ZG84dVNGbWwxTnN4b0RuS0hIZ09VYl9LZjI2Z19KSTdCSk1VSTZMTXF0c0JnUm1fSFRBbmZ1ZXRkR2kxVmdjVjRqX21HNXE4YXdzZkVzVms3N0VNalg5T2QxNEh1TWhYcjNCOGV4RklRZWU1QlQ3WHFxbjNwQlhHbmNiM3l6QW1xWE8wRjdJVHdYbU10bVB2cnc?oc=5",
     "news_image": "",
@@ -42198,9 +42221,8 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic",
-      "basket",
-      "baseball"
+      "fifa_w",
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -42398,7 +42420,7 @@
     "refugees_rank": null,
     "union_rate": 77.5,
     "union_rate_rank": null,
-    "news_score": 0.47,
+    "news_score": 0.46,
     "news_title": "Brazil Under-15s begin Granja Comary camp for Uruguay friendlies - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORHFzdUJtZC1yV08wRmthb05qUGN5TnNXNTJxNDc3ZVVFaXlmRnlOTDVsdHNlSjdTUExCTkFFeHlOLVpjLXJrSXdFU3JNYVozcnVVRUllNW9KUE80YS04eVI0SVVsTkM3WC02RGhQT2ZWWm5zNUVpajBBRl9Hck5HZENFVk0?oc=5",
     "news_image": "",
@@ -43408,7 +43430,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMnFhVlhxQlFOdndNNndOblVqZDdySnN6WVU5UEhXcVBLeFVyY0REbk1YM3N1SHk1T0RuOEZlaTNlbVJ4cGQxQnE4ZjJadW50QUktR0dBQURVSS1EbHZTdG1qclI1SDVLR2VsQThXZm9YSXNKeVIzRGVlNEJlNWhxVjNmVTAydTNmUlA4Z3dnUldMeWtTTmFTQ1hIelluZXFQSTBsb18xN21scVlJY2U2OXlNczJmMGF1WjFhUVZhWEtyT295dkV4QnBnT1cyd1FoXzhiRk52X3pwaGlW?oc=5",
     "news_image": "",
     "news_source": "vietnamnews.vn",
-    "news_age": "60h ago",
+    "news_age": "61h ago",
     "news_columns": [
       "cricket",
       "olympic",
