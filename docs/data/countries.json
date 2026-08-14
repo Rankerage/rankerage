@@ -6908,7 +6908,8 @@
     "news_age": "82h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -7961,12 +7962,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.93,
+    "news_score": 0.92,
     "news_title": "Local trampoline talents Kyle Schottgen, Taj Gleitsman to compete in World Age Group Competitions in China | Local Roundup - Santa Cruz Sentinel",
     "news_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSVV5WjRWM3VoQXFjMlRZalV2SlFrT1NzUGZzaUVJZ0txSk56MXh0WTB1MVV5UVhlV1BuUTNlYnA1dDRvZ0lnb0gwMk1qTl9KUUJzaGVGU2p2SGdHZ2lPeVdJbllHV0xGVTJzbkdmcnJPNmN2N3VpdEgzRXp1ZzVBM3NKNzA3Y2ZzWk1OTjlzaXdMSVE1WjlJcUhCTUl4RXdHTGkzY2JVNHVnS3JGUV9meVQtdndLUVFYX21xNkJ1MjJQbVFLTU9iVXRzNkVIRkpLLTBhVlRRUTl5OHVYNFNrUDFoeVdWcV80aUhQZGVBRHoxTWthd2xtWg?oc=5",
     "news_image": "",
     "news_source": "Santa Cruz Sentinel",
-    "news_age": "89m ago",
+    "news_age": "91m ago",
     "news_columns": [
       "olympic",
       "basket"
@@ -12931,8 +12932,12 @@
     "news_source": "News On AIR",
     "news_age": "32h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "space_launch"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13448,7 +13453,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.6,
+    "news_score": 0.59,
     "news_title": "Students at the FIFA World Cup - Carmical Sports Media Institute - University of Georgia",
     "news_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9laG1ROUMyNDZldDRsZGJzUTZBSmdjeW9JTlV2dTBIcWZ0VEMtbjJtY3h5NFdIaVRpczZpaFI1YW9mOUtpV1VoanVUMXNLcEhG?oc=5",
     "news_image": "",
@@ -14153,7 +14158,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SbnF4c2N3VzVNWlpSSUJGZXpUS2FDSDB4a3ZtQmplTzdOTTFaZjNMNlNrUWtWRGh1MEpwOVVWYWFpWHF5U2NSVXRldkp3MVU0NEhiT1owcUNvVVppZzhHTTZmX2dKSTQ?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "18h ago",
+    "news_age": "19h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -17261,19 +17266,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.1,
-    "news_title": "US Energy Secretary: Iran Attempting to Hold World Economy Hostage - IranWire",
-    "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZm5mcl9hOVFOb2FydC1VUThjOHZwRlJGZnA5c1ZOMkU5OEhMdUZrTWxjeV96dWJNNksySjgydEFPVDQ1YTR0ZHJSNi1WMmJWdnhTbXRpZ1lmbk1WVkl2MkZvSXFtT0NFelU3UTQ0VVJVelpGbnZCSFV4dHVIWVBSNEJUaXExSWpSbjhDWFhkVmRYZ1M2TWhNXzI3TlZIdFZqYVFwMA?oc=5",
+    "news_score": 1.53,
+    "news_title": "Live Updates: UAE accuses Iran of attacks in Strait of Hormuz as Vance says cheap oil and gas are \"goal number one\" - CBS News",
+    "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb2FwQzRGRnQwTjFNbTRBTHNFY3JtRTRNZkZ5T1VYbFBlbzVhNnZqTTlrWEZaN3VzTWpySWVhOFdNNmhmTzdpWnZkY1NVNzFOWUxvakM4RkJmU1JMSWlpN3BTNFA3UHdUbXNiSjVDbjJWdjhQa0p3WFUyNGRXNzZzS3k2SnBWNlRsN1hCN0swYVR4MW5GbDFXM3VZSGF0QjlHbXZyMVZibFdyd3c2Q1Bv?oc=5",
     "news_image": "",
-    "news_source": "IranWire",
-    "news_age": "112m ago",
+    "news_source": "CBS News",
+    "news_age": "70m ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -18436,12 +18436,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.99,
+    "news_score": 1.01,
     "news_title": "U.S. Sweeps Italy to Reach 2026 Girls U17 World Championship Semifinals - USA Volleyball",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRmd5dUZvcHpTSDNGOFdiTjU0M2NXdndrVnBnOGpmYzdnS2NOandQelBFczJUQWlZd3hrUzNqVTJCdjdCQ2dNMVRIVnNnMGNxTVBXNzVCU3hDNmVIREZ4MDd4bFRHbHVlWHlzNFBhenN1LTNIbFlRT29MWHQ0RWtreDFBWm1vSGRiMTRMT0I2RkZpT0RYOHBiNTBZRGhmZW5GRHVxb3B3?oc=5",
     "news_image": "",
     "news_source": "USA Volleyball",
-    "news_age": "37m ago",
+    "news_age": "39m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -24587,19 +24587,16 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.45,
+    "news_score": 0.62,
     "news_title": "The 2026 World AeroPress Championship Heads to Mexico City - Daily Coffee News by Roast Magazine",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeUN0d3hxcEFoLVVaY1ItRURxWktvTzVsWVpKdTdjZzFldV9OT1VlQ2N4RUF3ZENpdVVMNVpqam9jcDZmMTlZVThMSXR6LUdtVWJkcVhhajA0d1laTW5ydWV2alR4Z3FKUUxFR2cyaEIzWXE1MGRmSjJnUVB5bDVhUU5ORXJ3NU9GWXVqcHl4UHZLMjFOVnZLRTVWeUxUT2s?oc=5",
     "news_image": "",
     "news_source": "Daily Coffee News by Roast Magazine",
     "news_age": "3h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "coffee"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 22
@@ -27954,7 +27951,7 @@
     "refugees_rank": null,
     "union_rate": 80.4,
     "union_rate_rank": null,
-    "news_score": 0.12,
+    "news_score": 0.15,
     "bottom50_wealth": null,
     "news_title": "U.S. missionary who was kidnapped in Niger is released - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN2VMZXhfbkNSX0JhRGRkX2ZOY3MyNlIxOG15UGJySWQ3UzZLYlE4cGZFanhzQmlyb1JtU09BajRLWHFsM0Q3TjJUMW93bUF4MXlMcm9aNjZJU2hpaVp6T3poVVRGQlJUYXVwdkpfQ09aUy0xakNRNzRfaWxEdnJFQmtPZw?oc=5",
@@ -27962,12 +27959,9 @@
     "news_source": "NPR",
     "news_age": "5h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "car_density"
+      "car_density",
+      "gas_price",
+      "co2"
     ]
   },
   {
@@ -28236,7 +28230,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoYTBZakN4dmYwMzk3NkYtbGxZYUZUdVFkdU9QNEVhNWl4bmdLM2lzUnVXaDJuZHprZXhDN3FCdnFOazc4ajJhNnZtZ1FueThmR3FaZ3FrSHQ4QVZCaXdWWEpTb3R4M3BnejJRNkNDazlOdw?oc=5",
     "news_image": "",
     "news_source": "The Guardian Nigeria News",
-    "news_age": "45m ago",
+    "news_age": "47m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -31420,12 +31414,12 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.71,
+    "news_score": 0.7,
     "news_title": "Rashford returns for Man Utd's Poland trip - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkRUTEQxTlczSXVTWEtHLTc5OHhZMmxnNUgycVNOcklfYlcyNF9LcUNTeU5nS3NkWC0taTVFTTlxV0RCVWRZajhEWUVPN0UwTjB5ZEtWakxRREpOb0diaC1vdi1sTXdQTDltVVBhc1lzbk5hbjdyU241TmVPUGRZX2Y5b2g1TFh6?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "81m ago",
+    "news_age": "83m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -35410,7 +35404,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SbnF4c2N3VzVNWlpSSUJGZXpUS2FDSDB4a3ZtQmplTzdOTTFaZjNMNlNrUWtWRGh1MEpwOVVWYWFpWHF5U2NSVXRldkp3MVU0NEhiT1owcUNvVVppZzhHTTZmX2dKSTQ?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "18h ago",
+    "news_age": "19h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -40021,12 +40015,12 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.76,
+    "news_score": 0.75,
     "news_title": "Pakistani consul general calls for stronger business ties with Türkiye | Daily Sabah - Daily Sabah",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ3ZMXzA2QktKQXRLRjFPVnBhTGNHcWNJYXFubnAyUWFlQlVPbXp0OWtUUHRYNW5hdTc1VDl1N1ZOTkRadTI1QjhaUlFGaC1VV2I2QW9OalpfeG1xRW1qQkNnRWtaYVpwX2NheFp6RXpYMGtReW1uMmltRWMxc0JKdlk0aDZaMDRRRnJ0ZkRwYjhweUtIWHc0RmJLdmloS3JER2FaMm4zVjZLd0YxU3VKRkM3NELSAboBQVVfeXFMUHFBVmlZNEh6WGFObjhxeDdaTE8wZjNNRW1TM0Z6c3Zwcm44SUlhQ0FlaUVJYWI0Rm5USC1VcEpyV1lEUlVqZzhzTndpS05idWZwLW9uNWp5QTVveGpTUHh6ZjRWU0ZIZzAtSHRqejJ3NjVRSkF2YUFGaTdxYkg0Sm1TSjBOTVN1SnpPd2Y4VXpRbjlKQzQ2bU1uSGg1Ri1maUpSOWpuOFZTQm1MQ3JLVVdNY19BSDNyRU9B?oc=5",
     "news_image": "",
     "news_source": "Daily Sabah",
-    "news_age": "67m ago",
+    "news_age": "69m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -43448,7 +43442,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.49,
+    "news_score": 0.48,
     "news_title": "Science, technology, innovation, and digital transformation are driving forces for increased productivity. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVWZxSjZkTEtvT0xVclA4TlEyZjBCaTdBSTdHZ3VKWWNhLS02ZXZUZGo5MXZwQTBNazFTRnFoRmZxWVh5QUlXMEl5TmFqUDFjSHp6dXNxNDJWb19WRExhUk5HcVF4QVpHUE9FRlhqQXlNN29OZmN1WDRmR3Zkc1pKYUNaSDVaNDlHUTIyOHBOdGlxU1MyRU85LS1CNXJzRlhBam40eFpheGlTRVE?oc=5",
     "news_image": "",
