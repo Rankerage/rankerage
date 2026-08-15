@@ -2551,7 +2551,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQN0plX3lKMmtJR0JPMEVvQ0txYW1HYVpvaHFHVXhVc1QwUlUycFhLdi1fT1JDakZPUkhNSzhfR1FZRDMzai1LQ1p1MF8xNUw1NG1oWlc4cjZrM2hFN09LNjd6X3JpQ3MyUkxLZThfQ1ZQai1iajlQV21MWk10Z0h4cEpXUjlaSDRuUlg5TnpVY3BPbWM3ek5adWVTWWZtNmVDNWpRNG9oTEF1S1NrUDZLaXpkUndSV0NyRGNBMkMxWU1XbXpMOXRGNWFVcWVZVklYZzdyLTN0SVF4MTBlaFFOYldIcW9DRHFhdUxueEFXOC0?oc=5",
     "news_image": "",
     "news_source": "en.baochinhphu.vn",
-    "news_age": "66h ago",
+    "news_age": "67h ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -2860,7 +2860,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG4zUUhUV3lvcjJybFJHQlI4cjZwUzVMMGpQY3lVNlhSb3NmQ0pSbzRUcDJfczdqUzU5VUhTQmk0VkxROE1OSHg3RWtOQVIxajRBLWREYm84Ujc3TnFKZU16RW4zdUt3eG16SG5STVViQk1UQk1Ed1RWYmtWTUhkeTkyRnFsTlg4V3JzXzE4UlU3NXV4Sk01Vk11NzNvRXJhUnpMNWJXTVhxNmRpdjFUdlVBTQ?oc=5",
     "news_image": "",
     "news_source": "Euronews.com",
-    "news_age": "144h ago",
+    "news_age": "147h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -3819,7 +3819,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG4zUUhUV3lvcjJybFJHQlI4cjZwUzVMMGpQY3lVNlhSb3NmQ0pSbzRUcDJfczdqUzU5VUhTQmk0VkxROE1OSHg3RWtOQVIxajRBLWREYm84Ujc3TnFKZU16RW4zdUt3eG16SG5STVViQk1UQk1Ed1RWYmtWTUhkeTkyRnFsTlg4V3JzXzE4UlU3NXV4Sk01Vk11NzNvRXJhUnpMNWJXTVhxNmRpdjFUdlVBTQ?oc=5",
     "news_image": "",
     "news_source": "Euronews.com",
-    "news_age": "144h ago",
+    "news_age": "147h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -6913,14 +6913,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.12,
+    "news_score": 0.89,
     "news_title": "2026 IFAF Flag Football World Championships: Canada women secure first Olympic quotas: \"It's a little girl's dream\" - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWhuUl9GWWFDQWtOczl1ZFdHaWp4OC1nS2hNNVBfSlQxOG9ubnk4Qkd4QTczbFlwRUNhTl9SaVJpMndabng2MTY3bHlyTEl3NjY0Ykl3UDl5X1JXS21rYkpnekJ3cXBFalZHZTgwUGhDbFVac0VtSkxPcUZxbk1USHpMczg5bHVUVTR6bUtvYXg4dWh3SEhBdnd2SEw3VWs?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket",
+      "olympic_gold",
+      "olympic_per_cap"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -8216,12 +8221,12 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.37,
+    "news_score": 0.48,
     "news_title": "How to beat an earthquake: The Colombian city where no one died - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbUFzcEpwaWV4WE5pY0JDYldIMFV5QnFjRnFqbF9BaFVUN2VtOU9TOVpiWEhRX3ZEQzVXVWdqenBoS1FibGVLR3FtUlJYdlk0R0FWRkhhbE11cWhGSHY1eEYxcTJSZXFMRUc1OXBMVXVMR1B2RFBLSHAtY0JMRlhpTUJ2OGgtNWNBVWxPa1dfb2dkUjB0bVFxVFZBRHlOUEJtYk5pSjZ5WQ?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "64m ago",
+    "news_age": "66m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -12950,7 +12955,8 @@
     "news_age": "60h ago",
     "news_columns": [
       "olympic",
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13466,12 +13472,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.74,
+    "news_score": 0.73,
     "news_title": "Former Georgia Bulldogs linebacker signs with Los Angeles Rams - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNWhMWkdHZnVfck9HR1FWTWVfWkRJVnJWR2o3WVlzakZOUVJ2ZS1mVU00UWx1T2RUcUhjeE9PV3ZVNU5GSnh4Yk9QamJOZjJJVjJMT3VjalFqWDZtaUpxem11MUxKcWFGOHltQ0RnOFhMMlRDWEVWUFNfN0RzU1BIa2duNjlGbHd0R2I2MU80Ny1RQ1U?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "74m ago",
+    "news_age": "76m ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -13966,14 +13972,16 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.68,
+    "news_score": 0.7,
     "news_title": "Men’s 1,500-meter freestyle world record demolished by Germany’s Johannes Liebmann at Euros - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWUJjOWJQdGxEd0VyaFN5UlZ1MkIxdFJTZ1EzM3I1am1JNnNYLVh3bVdXaHNIRWNERUtyakFaTzBLblpzbHRYenZYWXhFMnJOREZqSUtIM21oN2IwU3NMZEYzb2JLNlpFdkNKQ2lEOUFOcDhneTU1RVVYWVJOaWI0WjBUT2pNTEkxczNpelFNUm5fbGJ3SU82cW9EdG5jWS1fTmF0RmZkWERiYTVSNDNFY0pDY2NHVnpzU29BUFF3?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -14161,19 +14169,19 @@
     "union_rate": 60.4,
     "union_rate_rank": null,
     "fifa_w_rank": 50,
-    "news_score": 0.27,
-    "news_title": "Plans advanced for establishment of University of Science and Technology in Damongo – Haruna Iddrisu - Ghana News Agency",
-    "news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcjhtY3hVSlhLZnJkUTE5dzRUSTBrT2pFdHZtdzJvcmRLdUxHSUpqT0ZQWG1qMHVVdXp0TU1FdDRqZlNrTy1BdEYwSTY4X2IxRHhsQ0h6VWxpVHYzXy0zYUt1WV9lTFZJNUdzeEd0dE1sQWhRNmdiRnlvMS1hX0NxUEFIV3JMd3Y2SldZLURHbG00a1N3UEYwZ0dGQXRMTDR5cUlBeXBVTkh6bzVyUGZDX3NUT29IX2tsNXJhQkQxVmkzMm1L?oc=5",
+    "news_score": 0.19,
+    "news_title": "Rents, Trust, and Survival: Accra Street Journals' Story of Accra's Small Business Economy - Modern Ghana",
+    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU081M0FVNmJ6aHVhSjN6MWVEenZXYm5pZDExV3Q4UVItdEljWTVwTFhMbzV5cXdreWx4eUROTFdpU0JJTVBNMXdjNVBpbXVnNDIyUFRha1lwcDVFTXgtd3BrdWNiYXpaQ0ZMSmFHTmZ6YjF6a2JFQkNOb1BRT0ZndWQwdjN4MmdVdE0tZ1RtQnVPczhpQlVN0gGWAUFVX3lxTE9ENU96bXN5VHpWVXg3YnNaTFZzNFl0dFljQ2FWbVVXa29mUkhEV1pWNVo1Qk5tV1VIc0FuSmt1dHBTcWhDTlR1N0VMUE52dmYxRkpQZVFsVm1mVUxHaU9yM2toMFJoalYwRERoTGJ1RG1TYjhURnpkZXhLLTlIdzlHT1M3VUUzcEhSY0YycHlXb0x4RGNrQQ?oc=5",
     "news_image": "",
-    "news_source": "Ghana News Agency",
-    "news_age": "108m ago",
+    "news_source": "Modern Ghana",
+    "news_age": "253h ago",
     "news_columns": [
-      "edu",
-      "literacy",
-      "pisa_math",
-      "pisa_science",
-      "pisa_reading",
-      "phd_per_cap"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": null
   },
@@ -16703,7 +16711,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.26,
+    "news_score": 0.25,
     "news_title": "TN Science & Technology Centre to hold math, science talent test for school students - The Times of India",
     "news_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRTRFRkhzdThjejhuclNDVlNScTBDM0dvWDI0STMwN19PcTBLVE4yU1VWcXBmXzFVejE4SXF1T0owM05mXzB1UjNPVlhPa0p3UVJUYVNMUG1hYlpYMGktdXBCWEZzYmhaNElXclpFVlJLaXVoZ0g4SlJneGdTYVVNdmN6UmJvVmNOSEdEU0Q2LVNTSllMaTNpR0VrTzlITTlNR1gwd0hKZ2ZNLXplWW9jc0ZxVWxLRm1rZkZvV3RkekdYWGhnWllPbWctYmxrTUdQcXNZSGdUNnFtend3VXItcFVUMzE0ZnVaOEpzMdIB8gFBVV95cUxOdFo1MWhNbFlRR0s0T3lRWGNHZ0dxclFHYUxNb1Q1ajB2eF9HbDJYMjljSzhHYXZGUVpkRE5CX0FkM3drOURhZTlvYTdBYWlHeHBLVTVSTDYzTTFOV1FGeGpVMkgyUHlOYmZLOGpKdUJ1YS1kdGJrU00yejhBb09KMG9Sc2dLVDBtbTVqVm8xSGZXd3VIUWdzS203TS1vV2o0bTRHSm5kYTUzMDFFcUxDLTlXcG8xM0RnbUtvc0hya0VUU09JN3JyVWZZc0JyTGRacU1wVEI5MGtITm9QcjV6ZzI5clVuYXltbHVBT1p1Q0RSUQ?oc=5",
     "news_image": "",
@@ -17013,12 +17021,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 0.32,
+    "news_score": 0.27,
     "news_title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47 and toppling buildings - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "5h ago",
+    "news_age": "6h ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -17279,12 +17287,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.97,
+    "news_score": 2.0,
     "news_title": "Live updates: US-Iran war; Trump says he ‘did the right thing’ and would ‘never apologize’ - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jZlpLZGNVVU9BX2JPcU13ZWt1SXZPLWZmaUdhR05fcWdmUmtZMHRTNFZNdUllN2g3MHU0ejRidWVqSVRtUkRwSnlmOFI0U3BPX1FGaXEyQTl1VjVhNTh4Y1BRbU5kUGhvU2JfN1lR?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "10m ago",
+    "news_age": "12m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -18011,12 +18019,12 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.84,
+    "news_score": 0.87,
     "news_title": "After Trump warning, Tehran says Strait of Hormuz 'will remain Iranian - Euronews.com",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZWRoWDR3V2loWnRHTS1JVkhlNFhrMkk5eDJNZ0xqQkNIRVdMdDAzbW9vX1dIRi1CcHd6RDN5RmFyc3pteVpEaWhfd21pSWRycGZIV2U2V25QRUgzYmVVUHg0SFNpNWZIUVhGSGdJRmtFR05EMkIxQVJPbWQ1Uzd6TEQ5TGFpaWhrdE5jWGF6RUwya1JXUGtLS09pRUE2VkxGSlpIYQ?oc=5",
     "news_image": "",
     "news_source": "Euronews.com",
-    "news_age": "96m ago",
+    "news_age": "98m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -18455,14 +18463,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.56,
+    "news_score": 0.55,
     "news_title": "IFAF World Championship: Men’s Semi Final - Canada vs. Italy IFAF World Flag 2026 - DAZN",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRVdlcEh1U1VmV3BjVmZhdDFrbnRlbUhNZWRJMmlPLU9qbUQ4bzA4dUpaRnUwU3BWTTdzS1dscVEtZXl0SzA2c2Z2MzdPX19seEI3MlVoSTY4WDZyckEyU1lpSTBia1hyaW9QSFpHaWl0TlBTYXV2Z2t0dlF3bkhuQV9DSHpFTWI5djRj?oc=5",
     "news_image": "",
     "news_source": "DAZN",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -21127,12 +21136,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 105,
     "fifa_w_rank": 87,
-    "news_score": 0.84,
+    "news_score": 0.87,
     "news_title": "After Trump warning, Tehran says Strait of Hormuz 'will remain Iranian - Euronews.com",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZWRoWDR3V2loWnRHTS1JVkhlNFhrMkk5eDJNZ0xqQkNIRVdMdDAzbW9vX1dIRi1CcHd6RDN5RmFyc3pteVpEaWhfd21pSWRycGZIV2U2V25QRUgzYmVVUHg0SFNpNWZIUVhGSGdJRmtFR05EMkIxQVJPbWQ1Uzd6TEQ5TGFpaWhrdE5jWGF6RUwya1JXUGtLS09pRUE2VkxGSlpIYQ?oc=5",
     "news_image": "",
     "news_source": "Euronews.com",
-    "news_age": "96m ago",
+    "news_age": "98m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -24622,7 +24631,7 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.66,
+    "news_score": 0.53,
     "news_title": "IFAF World Championship: Men’s Semi Final - USA vs. Mexico IFAF World Flag 2026 - DAZN",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTnlkN0dDemJDakkzeU1wUXhrRFozamhma3F0b0FfU2x3d01uemhXV3FZa09KTWtyWTg4elhST3lDNC1XR2pRMmF4Zi01Nm9kTGlKUk90Sl9ReVNIWHFKcFlyREhoVHRla19Vd2VTTUJTeDBubWFJZGU3eHN2ZUxsbmJwTlBwbk5wRmxheTJB?oc=5",
     "news_image": "",
@@ -31449,11 +31458,11 @@
     "union_rate": 75.0,
     "union_rate_rank": null,
     "news_score": 0.01,
-    "news_title": "Poland is now among the world's 20 largest economies. How did it happen? - NBC News",
-    "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaTBiWGR3alBRako4UzE1dWNzY05XTkJmcFhWT0I0QXRqNVFFbEFqa0FUbEF2amhFVEI1a2N1bTV0ZWhKUWFDQmJ4dlhFRmpFbXJKN2Q1SlFIWjl4cW5NMUdUWWZ2Tk1FY0FtWmk4Y0R0YTJUbjNJQ1pfTy1lcDA0MWdrV1MtWExKOGxoUjJDSFpaejRXTDQ0VURGSEJKUQ?oc=5",
+    "news_title": "Poland now sixth-largest EU economy, ahead of Belgium and Austria - Euronews.com",
+    "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG4zUUhUV3lvcjJybFJHQlI4cjZwUzVMMGpQY3lVNlhSb3NmQ0pSbzRUcDJfczdqUzU5VUhTQmk0VkxROE1OSHg3RWtOQVIxajRBLWREYm84Ujc3TnFKZU16RW4zdUt3eG16SG5STVViQk1UQk1Ed1RWYmtWTUhkeTkyRnFsTlg4V3JzXzE4UlU3NXV4Sk01Vk11NzNvRXJhUnpMNWJXTVhxNmRpdjFUdlVBTQ?oc=5",
     "news_image": "",
-    "news_source": "NBC News",
-    "news_age": "3661h ago",
+    "news_source": "Euronews.com",
+    "news_age": "147h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -34094,7 +34103,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWmM0enFwS1doYlQzYUw0dmhZVnpaU0E2WEVCSkZBeWpkTHBLY3h6QUJJS1VBblgwMm5qUU9DcUFfV1JMQl9MVUh2ZjhQZ3lzUjZyUUF5c203TEYzT0JTREIzUl8xVEt1aGRyNVdUaHpoeDNfN090WnpvZU15cF9SWDd2QjRTbWs?oc=5",
     "news_image": "",
     "news_source": "Yahoo Finance Singapore",
-    "news_age": "101m ago",
+    "news_age": "103m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -36498,7 +36507,8 @@
     "news_source": "Reuters",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -43182,12 +43192,12 @@
     "union_rate": 56.6,
     "union_rate_rank": null,
     "fifa_w_rank": 40,
-    "news_score": 0.37,
+    "news_score": 0.48,
     "news_title": "How to beat an earthquake: The Colombian city where no one died - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbUFzcEpwaWV4WE5pY0JDYldIMFV5QnFjRnFqbF9BaFVUN2VtOU9TOVpiWEhRX3ZEQzVXVWdqenBoS1FibGVLR3FtUlJYdlk0R0FWRkhhbE11cWhGSHY1eEYxcTJSZXFMRUc1OXBMVXVMR1B2RFBLSHAtY0JMRlhpTUJ2OGgtNWNBVWxPa1dfb2dkUjB0bVFxVFZBRHlOUEJtYk5pSjZ5WQ?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "64m ago",
+    "news_age": "66m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
