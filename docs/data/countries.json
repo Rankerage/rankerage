@@ -773,7 +773,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.93,
+    "news_score": 0.64,
     "news_title": "American Samoa's flag football team bows heads in underdog triumph over USA on world debut: “We are a family of brothers” - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOG8xSERPMWRTcEpoZjhGTkxyNUtRSUxjeS1rNWljYS1kenN6SlBkSVpnWVhYaFdEVENWWlA0UkJkRnVRVndhWkVXUDJycTNKTzJudE5hbXg5d2NMcW15N2l4YzY4T0hBbk9sTHBWSmtiWmJ5OU1VbjZZNFlUd211YTRaTjlHd2duTVhvWEdRbkRjSVp1MGZQTDJRbFBQVlh0WFJ6cWIyUGtKaXJxbkNscVZ4elE4bjVWOGVCcXlvM20?oc=5",
     "news_image": "",
@@ -783,7 +783,10 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket",
+      "olympic_gold",
+      "olympic_per_cap"
     ]
   },
   {
@@ -3809,16 +3812,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.1,
+    "news_score": 1.13,
     "news_title": "Youri Tielemans Opens Up on Surprise Manchester United Move and Belgium's World Cup Heartbreak - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMlFid0JER2FXODVCNE16VDk0c0JmZEpwSC0tenB2ZWdBdEVBMWRfdTlqWVkyRmVqY3FrNUVodW1iV2Rxa28tZ2RlLWlLX2JyZzBzcnNib2hFTmVYVEVsMzZ6dldVRjJjQm1hQ0E5WFBsa3ZYcWp4c0o2OVNpbFE2S01iZU11d2t0ZjM5aW5QSHNtOTRx?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": 3.1,
     "bottom50_wealth_rank": 18
@@ -12945,14 +12947,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTExHRzVKTC11ZHhmMUF6RmZrSWFqMVI0dHhYajQ0U1FTWlEzZ05jTjB2MmlvVEgtUDkzeDJiWG5ENERDTHBPR0g2MXdybUwyWEcyRDFadkp2VjBwRFUzV3kzMENmU3AyVGgwLTBrcDBSY0o4WTZjNmx5bVJyeWRidTcyU243UmdYNHc3WTNEZWNVcTdfOVRwRkhKREQ0dlFlRHFlV0tnSGxSUTRtc211MWlneXo?oc=5",
     "news_image": "",
     "news_source": "Newsonair",
-    "news_age": "40h ago",
+    "news_age": "41h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "space_launch"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17021,7 +17019,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51U2tXT01TeEdpZ2g1UEg0MUxjMFhyZTBBRzE2R3BObExUOUhGNUdmNVdjUlVtSTIydmNmSjdzTUdDYllON0FUX1Vtam5HLVFDRG9XV09VeTdFLUZwUVRkUkRwU0ZQQnNkR1JJUHRJdWhYcVJqemRBeXRUZw?oc=5",
     "news_image": "",
     "news_source": "NBC News",
-    "news_age": "78m ago",
+    "news_age": "80m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -17282,16 +17280,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.76,
-    "news_title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war - Al Jazeera",
-    "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN3VTcXZFMVAzTFpCQlBnMkgtUGhUUVZwX1RBc1dWSmE5VjdVMGtaOHRjZ2p1WVVJblBrc1NTS1h4M2NsSlp0S2JFdE0tdG1jclJvaDUyYjItYjRJdG8ydXVxYmNJUTB1Mms2MnBtbUxFX1gxRHpJZk45MjJZcnFzdFpXTVZJUF95aDA1N01iWnAzOVcxaVBaMGw1dnVkNTVS0gGmAUFVX3lxTE5MMUR6ME9RMmxiak9JbXNhYmJGYlo0MmptbVhpa2ZaWERsTWpvczB4dk9YVS1sVTl3RUM2U2J0TE5ua2F5eFREQXEwTVJZTkY2ZkhRVENadUtOMlR6eXNHWUUyalRZVE1oRDlsdTJuZFdEWGQ0b1BrdGdpbWxjWF9kWlpmWjRheHQ1dW8xU3JuMWwxYS1uQ1IwTVlHblZYMTBESncxZEE?oc=5",
+    "news_score": 0.85,
+    "news_title": "Iran targets tankers in ‘unprovoked attacks’ in Strait of Hormuz, UAE says - Fox News",
+    "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWbGN2eXRreVRtbzJ4SnZxOGZzNXkzNy1fMkNuUHFlSkx1RHJpMjFYUEJUVlFpUVRyV2V5Q013cUtaaGg4Y1VrYjZMd181dzF2LXNOX3pnZFNDajNETmJfaWh2cXZpMjdnODNzcExKWGVUSzBRUkI4YUVTOHJIZHM?oc=5",
     "news_image": "",
-    "news_source": "Al Jazeera",
-    "news_age": "3h ago",
+    "news_source": "Fox News",
+    "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "geopolitical"
     ],
     "bottom50_wealth": null
   },
@@ -19149,7 +19145,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTXlXNzlhM3pIMG1qRmZlbjVfc09uYnZmQkRaNzNSbDZSUzRKMGpMX01xdTQwSThteUwzc2NyUGhCSnp4b25Kd2hLWDFhSWV1b3J1RFM5a1hrUWVqZjNqa0lBVHd5TE96ZUZtTVBZWnRkcWhOd3hSWEQ4XzUtTzZYUDl3VDJsblAzdnJ3c1FaSUg4TEJaeVFsWWlSQ0Q3NURJYWfSAaIBQVVfeXFMUEpUT1lPUS1fQWR3VDNzNTJKbEQ5V3l6NjJPNEtIY0hNdmx3R3R0UGkzRURidWVRbXR6QXM0djdncU9WWDRoN1c2RXVrc012dklRVC1uWXFsSTVQU3BMNEhDVEQ3Y0FRSk55TW45N2pOLW1xR3h2dGxmXzZDUEphRUc0WG1RTXZnSmo2YXIzMWp5YThCMUN4N2FLb1ZsWTgzaDZR?oc=5",
     "news_image": "",
     "news_source": "Qazinform",
-    "news_age": "6h ago",
+    "news_age": "7h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -21134,7 +21130,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 105,
     "fifa_w_rank": 87,
-    "news_score": 0.39,
+    "news_score": 0.38,
     "news_title": "Heavy environmental toll of war in southern Lebanon - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOEJ0d29CbE55RjB1OEZ2TE1TcUxLS3VEZmJ0MkUwZzRfbFRZeG5nUGZKMjZ6UVNuNFZDZnRYVUdlaHZLVUU5Q3JUaU9rWC1JTzFTbHdNX2J3ZHRQRmt1WGYyeC1lLXpPeWdZd2M5TUN2VGk1SFgzdmQxMGl5WllPbDlYNHg0b19DRkdaSHlhNFMtOWZjcFZmS0c2QUI?oc=5",
     "news_image": "",
@@ -24617,7 +24613,7 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.27,
+    "news_score": 0.26,
     "news_title": "Paramount-Warner Bros. Merger Gets Mexico’s Approval, Leaving States’ Lawsuit as the Only Barrier Left - Variety",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWU5sN2VFRzhDdDViVlpmV3M2ZlN4Qmx1aUtldVVrVW1YdVJGLU1MQzFjczZLZFU0N0h3VHhZNmlvOUIydUl4ZmRpazRmWkdMLTRPWWVKOVB5V0xjSzFablpyVHlROWNodnphUDNuZWNjcEJuakhHTjR0bGo4a1FzclZUQkl5R2h3T19GRVFDNmpXVHNWbVE?oc=5",
     "news_image": "",
@@ -29475,7 +29471,7 @@
     "refugees_rank": null,
     "union_rate": 70.4,
     "union_rate_rank": null,
-    "news_score": 0.09,
+    "news_score": 0.0,
     "news_title": "Abandoned Russian tanker leaking oil off Oman coast, threatening environmental disaster - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5paFNoT092Q0J3NzZxY2NPZGdVbHl5OV9ZaWZMRXUyc0M1ODVQVXNaT3FmZjZCaUtnVHMwZnd6eUtJMXZFQkptbGwtRUtJbHgwM0NlajN2cW5VMGtyc1QxcFh0RFBJSGs4NDY2ZmptNThLUkZKN05jaFRMaw?oc=5",
     "news_image": "",
@@ -42671,7 +42667,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTXlXNzlhM3pIMG1qRmZlbjVfc09uYnZmQkRaNzNSbDZSUzRKMGpMX01xdTQwSThteUwzc2NyUGhCSnp4b25Kd2hLWDFhSWV1b3J1RFM5a1hrUWVqZjNqa0lBVHd5TE96ZUZtTVBZWnRkcWhOd3hSWEQ4XzUtTzZYUDl3VDJsblAzdnJ3c1FaSUg4TEJaeVFsWWlSQ0Q3NURJYWfSAaIBQVVfeXFMUEpUT1lPUS1fQWR3VDNzNTJKbEQ5V3l6NjJPNEtIY0hNdmx3R3R0UGkzRURidWVRbXR6QXM0djdncU9WWDRoN1c2RXVrc012dklRVC1uWXFsSTVQU3BMNEhDVEQ3Y0FRSk55TW45N2pOLW1xR3h2dGxmXzZDUEphRUc0WG1RTXZnSmo2YXIzMWp5YThCMUN4N2FLb1ZsWTgzaDZR?oc=5",
     "news_image": "",
     "news_source": "Qazinform",
-    "news_age": "6h ago",
+    "news_age": "7h ago",
     "news_columns": [
       "olympic"
     ],
