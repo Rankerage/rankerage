@@ -207,7 +207,7 @@
     "union_rate": 38.4,
     "union_rate_rank": null,
     "fifa_ranking_rank": 136,
-    "news_score": 0.26,
+    "news_score": 0.25,
     "news_title": "Concerns grow over increased global ties with Taliban in Afghanistan - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUcwZmlieHVTblctVUFxREhEWF84RHhHazFkR0hMMFJuaThzTHpKNVprZ1lFUExDSzRQZF8zNXVab1ZfX0w3cGJsZV9oRVE5UzJFQjQ1ckp1czB2X29SNXRMTGtkN3AwUUZLRDZscmkyUnNOM3N2UmtrbDhEczFPV2dldU9UNHV5MDhER1JZbUF0QUc4VWQ4bGV6NWRKUXBlQTluNEJB?oc=5",
     "news_image": "",
@@ -3306,7 +3306,7 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.64,
+    "news_score": 0.63,
     "news_title": "Bangladesh rock Australia as historic Test win in sight - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1JneHVFZFlrR0w2SnJyaFdmTDdPOHI2OFVWaFJnMmZ6V19lZXRXeW5KZFNxa1RSR3lIZnJJNzNQSE5kVFN3TzdGOWRJMXRlV21BSG51X0dZc05WY1pCSTFYR2tGM2RTWm5uWkl5SGV1YlJBVm5EUFJUQldweHM4UXR6MGJnMFdONTBwa0U4dVA4Zw?oc=5",
     "news_image": "",
@@ -12937,7 +12937,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.67,
+    "news_score": 0.61,
     "news_title": "No monkey business: India 'whisperers' guard world championships - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVU96R2ctT0E1YWZZNU1VVlVMLTRYX1RDNnRWZ29CY0s5WXFqOWlxZ3lqZlhsV2JjMldva1dlYk1DRTNrekl6VzB1bk5kdko1VFRYQ2RYdExLRGZwRlFzemNCUjF2bjk5cWZJcTVfRlNVQjJ5RDNjaW9EYi1QRnctYXh1UlRXMmJiZ05DZjJrN1RYeVBodFVFaER3QUlieGVlTjk1Wm9sNkk5RFA2?oc=5",
     "news_image": "",
@@ -12945,7 +12945,8 @@
     "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -16699,7 +16700,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.5,
+    "news_score": 0.49,
     "news_title": "No monkey business: India 'whisperers' guard world championships - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVU96R2ctT0E1YWZZNU1VVlVMLTRYX1RDNnRWZ29CY0s5WXFqOWlxZ3lqZlhsV2JjMldva1dlYk1DRTNrekl6VzB1bk5kdko1VFRYQ2RYdExLRGZwRlFzemNCUjF2bjk5cWZJcTVfRlNVQjJ5RDNjaW9EYi1QRnctYXh1UlRXMmJiZ05DZjJrN1RYeVBodFVFaER3QUlieGVlTjk1Wm9sNkk5RFA2?oc=5",
     "news_image": "",
@@ -17004,14 +17005,16 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 0.68,
+    "news_score": 0.72,
     "news_title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least 20 - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SVU05S3ZQMlFXc01UaHE0SUdFck1PRnRDVWFISUFQNFIxeTIzcHR0WmtEeHpJMjJseUhHWG90bXUyenBISVdqRWtTMm5ISGttVnNnRk9jd2ZYdHVnQlpNSFc3ZE1NX0JSR2xTWXNTTVhLakNk?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "119m ago",
+    "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17270,9 +17273,11 @@
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWbGN2eXRreVRtbzJ4SnZxOGZzNXkzNy1fMkNuUHFlSkx1RHJpMjFYUEJUVlFpUVRyV2V5Q013cUtaaGg4Y1VrYjZMd181dzF2LXNOX3pnZFNDajNETmJfaWh2cXZpMjdnODNzcExKWGVUSzBRUkI4YUVTOHJIZHM?oc=5",
     "news_image": "",
     "news_source": "Fox News",
-    "news_age": "49m ago",
+    "news_age": "51m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -17992,7 +17997,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.11,
+    "news_score": 0.1,
     "news_title": "IDF troops stood by as West Bank settlers besieged Palestinian homes - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVlDSUI1YlhJYlFrUUZ4dWZNclhsLVRfTWdsallwYkpHaTNaME9IemlxbHNhX0tyUmJXQXBOdl84MUtJTVUtQlRSVlBtdEowcGlvcTRiQ3NOcnFLUWJpazRWeEZTZmFmTVV0VWVoNXo0aUdjdTFJcnpnU2MyWmJjNnhJMUNmYnlydmJ1Z2oyOEM1a1NtV1RFaVBGSjlPNS1wazNTQ3JiN0tYbFZyOGpSUTVwU0Y?oc=5",
     "news_image": "",
@@ -19124,14 +19129,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.03,
-    "news_title": "Uzbekistan and Japan discuss cooperation in science and technology - Qazinform",
-    "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTXlXNzlhM3pIMG1qRmZlbjVfc09uYnZmQkRaNzNSbDZSUzRKMGpMX01xdTQwSThteUwzc2NyUGhCSnp4b25Kd2hLWDFhSWV1b3J1RFM5a1hrUWVqZjNqa0lBVHd5TE96ZUZtTVBZWnRkcWhOd3hSWEQ4XzUtTzZYUDl3VDJsblAzdnJ3c1FaSUg4TEJaeVFsWWlSQ0Q3NURJYWfSAaIBQVVfeXFMUEpUT1lPUS1fQWR3VDNzNTJKbEQ5V3l6NjJPNEtIY0hNdmx3R3R0UGkzRURidWVRbXR6QXM0djdncU9WWDRoN1c2RXVrc012dklRVC1uWXFsSTVQU3BMNEhDVEQ3Y0FRSk55TW45N2pOLW1xR3h2dGxmXzZDUEphRUc0WG1RTXZnSmo2YXIzMWp5YThCMUN4N2FLb1ZsWTgzaDZR?oc=5",
+    "news_score": 0.04,
+    "news_title": "Takaichi drops ‘remorse’ in her first war memorial address - japantimes.co.jp",
+    "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQzBFU0xrU3F2bVNmSWgtMllvc1NzRllxcEVuWlZFa19jYThkUlYzLUNmTmxNbFRtcy1hb1AxZXJCSGh4cWowc0NMZ0RIeTBFTEQ3MFJEZ0hSMlc5VFM0cU15VDNUa2VaTDF0SkNqQ0tUSE9ka0ZZM0VKWTI2UmVEOTFvWUNjZWI3el9oYlVfQ2NpOU1T?oc=5",
     "news_image": "",
-    "news_source": "Qazinform",
-    "news_age": "17h ago",
+    "news_source": "japantimes.co.jp",
+    "news_age": "8h ago",
     "news_columns": [
       "fifa_ranking",
+      "fifa_w",
       "olympic"
     ],
     "bottom50_wealth": 5.3,
@@ -40027,12 +40033,12 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.01,
-    "news_title": "Pakistani consul general calls for stronger business ties with Türkiye | Daily Sabah - Daily Sabah",
-    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ3ZMXzA2QktKQXRLRjFPVnBhTGNHcWNJYXFubnAyUWFlQlVPbXp0OWtUUHRYNW5hdTc1VDl1N1ZOTkRadTI1QjhaUlFGaC1VV2I2QW9OalpfeG1xRW1qQkNnRWtaYVpwX2NheFp6RXpYMGtReW1uMmltRWMxc0JKdlk0aDZaMDRRRnJ0ZkRwYjhweUtIWHc0RmJLdmloS3JER2FaMm4zVjZLd0YxU3VKRkM3NELSAboBQVVfeXFMUHFBVmlZNEh6WGFObjhxeDdaTE8wZjNNRW1TM0Z6c3Zwcm44SUlhQ0FlaUVJYWI0Rm5USC1VcEpyV1lEUlVqZzhzTndpS05idWZwLW9uNWp5QTVveGpTUHh6ZjRWU0ZIZzAtSHRqejJ3NjVRSkF2YUFGaTdxYkg0Sm1TSjBOTVN1SnpPd2Y4VXpRbjlKQzQ2bU1uSGg1Ri1maUpSOWpuOFZTQm1MQ3JLVVdNY19BSDNyRU9B?oc=5",
+    "news_score": 0.27,
+    "news_title": "International report - In Turkey, one of the world's longest conflicts reaches a turning point - RFI",
+    "news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeUtzSEY2RDh6Z080LUxZeTNScWdhaW5ZT2FXd1BYRkVWZk0zOTNvTlpXaDA2YlQ4NEVSc0lmQkd2WXNoTEpOSnlzcEZGN2JVWVhJczA4YWI5MXdtS1NtVXlnZThWc0twc3dqRU1tOUFEc1VqLXE3R3VtM054VHRMX211QXRCVmJqdEw3N3p0QS1FcEhDVzJvNm1LYnBPbUppSWk0alJ6X3lEU3FFbVBoaWo3cFh6MHNXZWFsY041eklrS2FDVkRqdGRnMA?oc=5",
     "news_image": "",
-    "news_source": "Daily Sabah",
-    "news_age": "19h ago",
+    "news_source": "RFI",
+    "news_age": "34m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
