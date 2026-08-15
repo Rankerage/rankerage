@@ -207,7 +207,7 @@
     "union_rate": 38.4,
     "union_rate_rank": null,
     "fifa_ranking_rank": 136,
-    "news_score": 0.37,
+    "news_score": 0.33,
     "news_title": "Concerns grow over increased global ties with Taliban in Afghanistan - theguardian.com",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUcwZmlieHVTblctVUFxREhEWF84RHhHazFkR0hMMFJuaThzTHpKNVprZ1lFUExDSzRQZF8zNXVab1ZfX0w3cGJsZV9oRVE5UzJFQjQ1ckp1czB2X29SNXRMTGtkN3AwUUZLRDZscmkyUnNOM3N2UmtrbDhEczFPV2dldU9UNHV5MDhER1JZbUF0QUc4VWQ4bGV6NWRKUXBlQTluNEJB?oc=5",
     "news_image": "",
@@ -2856,7 +2856,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG4zUUhUV3lvcjJybFJHQlI4cjZwUzVMMGpQY3lVNlhSb3NmQ0pSbzRUcDJfczdqUzU5VUhTQmk0VkxROE1OSHg3RWtOQVIxajRBLWREYm84Ujc3TnFKZU16RW4zdUt3eG16SG5STVViQk1UQk1Ed1RWYmtWTUhkeTkyRnFsTlg4V3JzXzE4UlU3NXV4Sk01Vk11NzNvRXJhUnpMNWJXTVhxNmRpdjFUdlVBTQ?oc=5",
     "news_image": "",
     "news_source": "Euronews.com",
-    "news_age": "135h ago",
+    "news_age": "143h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -3309,12 +3309,12 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.71,
+    "news_score": 0.7,
     "news_title": "Bangladesh wants durable economic partnership with US: PM - The Daily Star",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0RobDA2R00tX05jNHMwamZwS2hycTk3WUo1MzJBeXZLYXo1SWRqRVcycjg1Nm8yZmM4dXh6cGNNYkdENk9uYl9BWjN5LURiRTFyWkVGWXJfWGVlOG1kRVV1WTVpek5OUWtrMy1pZVJfUzkwSWxCZ1dUZlFYSlhJa2lFV2JXald3Z1hzZ1J2TXBhbm5xZjV2MkhTZGE1Y3lsVlZNWDdfWGg3LXNrd2Rr?oc=5",
     "news_image": "",
     "news_source": "The Daily Star",
-    "news_age": "88m ago",
+    "news_age": "90m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -3811,14 +3811,18 @@
     "refugees": null,
     "refugees_rank": null,
     "news_score": 0.0,
-    "news_title": "Construction workers find gold stash estimated to be worth $10 million during renovations in Belgium - CBS News",
-    "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xakE5aVlfcnBvNV96RlFlSUg2UE40QUhScU9OdmJnQTVCR0tyOWl0TkxkaHVrbDAyeVgzTkx6enVVSjF5YnFWTXFCZzBvbk9RZ0FJN0padTFSMHl2aWtRUmhvSWhtVV9MbndrdnpuOG02OFlrRzVV?oc=5",
+    "news_title": "Poland now sixth-largest EU economy, ahead of Belgium and Austria - Euronews.com",
+    "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG4zUUhUV3lvcjJybFJHQlI4cjZwUzVMMGpQY3lVNlhSb3NmQ0pSbzRUcDJfczdqUzU5VUhTQmk0VkxROE1OSHg3RWtOQVIxajRBLWREYm84Ujc3TnFKZU16RW4zdUt3eG16SG5STVViQk1UQk1Ed1RWYmtWTUhkeTkyRnFsTlg4V3JzXzE4UlU3NXV4Sk01Vk11NzNvRXJhUnpMNWJXTVhxNmRpdjFUdlVBTQ?oc=5",
     "news_image": "",
-    "news_source": "CBS News",
-    "news_age": "8h ago",
+    "news_source": "Euronews.com",
+    "news_age": "143h ago",
     "news_columns": [
-      "beer",
-      "alcohol"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": 3.1,
     "bottom50_wealth_rank": 18
@@ -6906,7 +6910,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.01,
+    "news_score": 0.0,
     "news_title": "Look West: Jobs and Prosperity for a Stronger BC and Canada - Province of British Columbia - Government of British Columbia",
     "news_url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1sb3l0N0g2Tm15TDdBc1VvMkpkdWl4QjM3ZlRndHFGd0VFXzh1VVdpYU9HdGtWbk9nTFlSWlZKMA?oc=5",
     "news_image": "",
@@ -7969,19 +7973,16 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.1,
-    "news_title": "Xi calls for improving disaster prevention as floods, landslides batter China - Reuters",
-    "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcTdub1VTd3ZJN1RMU04yMzZwQlNSZHJWblg4bElqNGZGVkQ1dTdaYVc1QkdiVlR1dTEtR1NyRHBJV291TlRubE82UEZibjBCVlFGVTdqN3ZvdmVkU0lPU0plWUl4cWptcXpWTUdJVUxrQ1FvUWF1bGxCalNXaG1jQzBkR2xHT0RjbWlBTUlKMjkzbVhWcFZWZFRFSi11MUlITFZDamVrc2x5SnZlOFJMTnRjaUdBMFZq?oc=5",
+    "news_score": 0.07,
+    "news_title": "China's Science and Technology Strategy in Perspective: Historical Evolution, Political Drivers, and Global Implications - RAND Corporation",
+    "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50MEJKYnVDelp3Mk9NcEVhcFFGMVB2MFJxSGh5d21TQm5vay1TbWJmUE1XR3FBbUNZaS1zLTRfazd3b205Wi1IYTdvR0lwd09RdDdFY292RDBwYVlKRG5mY3kxMFozQXdQ?oc=5",
     "news_image": "",
-    "news_source": "Reuters",
-    "news_age": "8h ago",
+    "news_source": "RAND Corporation",
+    "news_age": "2458h ago",
     "news_columns": [
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "car_density",
+      "gas_price",
+      "co2"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -12949,9 +12950,7 @@
     "news_age": "56h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13972,12 +13971,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZGRSbE5wY3Jva0xoZzJPY0NOMjdqZmZiMjN1Z1E4dlVTdnNhVDZBUDcxN1dTT3lvOExSd2hMck5MbmFISmtpNGFia1IxVXJPRVJUVFVrWjV3WVoyb3JMNWVBN3VSdHdHWlJZMlBvNUxqdDNRcFJMWnRRUWFnWU1aZQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "10h ago",
+    "news_age": "11h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -15361,7 +15358,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOejVHcEdCc1l5dnp1T2R4UHgwVGdWcU5Va2VGSUF3OEFjeU5talVaTzJDY3VZVmNQelBaYlBUdUY4Vk5Kd0pMdWVLcjh6V2R6ajc1Q1RScV8tdmhwMmp6YWJ3ZWxBWk54eWpXNFZKWGk2b1RVaUxTMUY5T1h1ZU42TzRHbC1ucmRqR2dMd0FTNE4?oc=5",
     "news_image": "",
     "news_source": "The Haitian Times",
-    "news_age": "114m ago",
+    "news_age": "116m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -17014,7 +17011,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 0.51,
+    "news_score": 0.44,
     "news_title": "At least 38 killed as magnitude 7.7 quake hits Indonesia - aljazeera.com",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXN0amxXeTVhSnZSWUdGc29mcFBDeG41SHNaVW1BSkJlc3JNOW5WRlZmWW1SRFM5V1pybkhwc29CMVFKS2UwQVBMUG5DMUVVSTNNX2Zud3MyU1lwQV9zN0lTdEtyZ285SHFpamdHYU9XbDNKci1MZUUtZ3o4RUk3aFBMYmZDTndLWU5uN3VKYV9rTUlQWTlFYlRnazJtbHPSAaQBQVVfeXFMT2NPVExXcVR1elh1Z29HY0V2SHlzdHRYNVNXVVQ5c3k3STQ4THBrbVprYUtxcTFZSE9ORVRIeVAxZU5VQXFtUjRuR0Zuekg4c1ZveVhaWTY5Z3JpS3JfS2FvclliZ0otNGNNX3ZwZmtxMjRPbTV0X3N6TTZpNDVsMGROZlEwLXcyTmZvYUVLSDgyMk5LSVp0YWVhMzdrM1cxTnNDWEg?oc=5",
     "news_image": "",
@@ -17280,19 +17277,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.82,
-    "news_title": "Live updates: US-Iran war; Trump says he ‘did the right thing’ and would ‘never apologize’ - CNN",
-    "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jZlpLZGNVVU9BX2JPcU13ZWt1SXZPLWZmaUdhR05fcWdmUmtZMHRTNFZNdUllN2g3MHU0ejRidWVqSVRtUkRwSnlmOFI0U3BPX1FGaXEyQTl1VjVhNTh4Y1BRbU5kUGhvU2JfN1lR?oc=5",
+    "news_score": 0.92,
+    "news_title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS1ZVeVR3dkRTVHNDamZQUkxBc0FUS1RVQlh4WnJnM0hESmZYZUhMdkk1a3JaNE9IQUFMT2hGWU1CU1VkYkxCbUVpUGp0YzJNYmU2U05tZ2ViNE5hWVVnZUtyUW0zNjVLMk9IRDBVSzR0cTFlY0dsUDRGUXlEaWlFUFN5Qk5LTnJkQ0R5NDRpSUpiWmFoQVpKQ2VHaHJIY0o5SmN2OUE5Zm1ndw?oc=5",
     "news_image": "",
-    "news_source": "CNN",
-    "news_age": "2h ago",
+    "news_source": "AP News",
+    "news_age": "89m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
       "military_personnel",
       "gpi",
       "arms_export",
-      "car_density"
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -18012,7 +18009,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.58,
+    "news_score": 0.6,
     "news_title": "Crystal Palace sign Israel winger Khalaili - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObExuRjM2MXE2cXZ2aVVUVGdzVlFLcHQ2TmRMYlR1RjNtcXlNV296VGZOUERnZlc0MFYtUVdYMkJjY2NGenZqbzVyUVAwdVU2cTVDMzUxRFZXN1RUMkpEYlVfeXp1LXNoWGtVYmxtSk5NODFubE5kSG1nMVlzZmZmRlZ6RU9UbzJST0E?oc=5",
     "news_image": "",
@@ -18455,12 +18452,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.85,
+    "news_score": 0.84,
     "news_title": "Coppa Italia Live: Follow First Round fixtures and results - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYmRpaTlUb3hjUU05a05xTHFjMWFwSDBwaVRQZlpNdm5TNUtZZ3hIczQ5OHFoVnhFYXdqVmVyZXZ5UnNLV2hiUlBuV0dmbXdjVDVmZW95ellxR0RhY1VDdmh1S2tzOWRPSVAySmY1RkNocF9SQTluVGdJU3FVajFHRkpqMGs?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "41m ago",
+    "news_age": "43m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -21128,19 +21125,19 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 105,
     "fifa_w_rank": 87,
-    "news_score": 0.36,
-    "news_title": "Israeli Strikes in Lebanon Kill 11, Health Officials Say - The New York Times",
-    "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMU5NTUJIV2VJSGxLYVM3T0wydUtvUmhfcG12WlRsSU8tbEFFT0s3ZktZRTJHVkJoNE1GYWtnbUFzMFhKaE1ub1NVaktEOFQzeEsyT1MtZFZZTlRFZ3FiWVhoNjBGRVN1dmExQVNMY2lkOEpqN0FpTWtZbmNtU2Fxams1TjltQnBkR1dTNmxn?oc=5",
+    "news_score": 0.39,
+    "news_title": "Live updates: Iran responds to Trump's Strait of Hormuz comments; Katie Miller's podcast continues to grow - The Hill",
+    "news_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQT3c0cFZ6empRRnNQaGZuTzk0RFM5d3Y5VXFjTUN6aHhCYW9NR3hiWEdScngtX2VYcVhCN0FSd3VtMWs4UEY0NXZqMFVBSjNVNkpKcGN3MDFWZV9sSm1CX3hBMmNGc2t0MGhWMk5udkZoM2xQd2dWWGxlSzdrQnkwbmFPV29VTk9BVmVvUkg3TTZ0dHh3ejBsQ2sxMThkVWFnVXJiYVZVMlJualBnM2RoV0gwdm5NYVpRQnJfNEVXVVo3a3VTT3B4cU5RVjQ4TGtPMWs4WXF3eXN4STc1Tll0YWx0MG5nUUFEWGtF0gHwAUFVX3lxTFBNWnhuYVl5eG9LMlV4a01DOUJlVEROcXFING9WSEktWGRTenY4VkNNRk5ZTFJvNDRiMy1QM0pSU1BLTWJ0RVZnY3hmTDJUMXo3S29kQnUzM0FuN1dpRUE0aWs3ZExxV2N6elp3OUgwUTNhanBFNzMtdWVVbXpDRWFvREVjT1RqUVMwamV5emx6ZHNOaTk2OXZhY3NHZmcyT2JNdlVCUmhuRmRETWRCbWVxck90ZDZhQ3Rsb0Mya3FKTzQzR0VrNHk5bDh6S2RLT3JIazE5TUNQd21heC1IYWtOT04wbzhIbV80V1MtN05Obg?oc=5",
     "news_image": "",
-    "news_source": "The New York Times",
-    "news_age": "6h ago",
+    "news_source": "The Hill",
+    "news_age": "4h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "car_density"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -21861,13 +21858,13 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 148,
     "fifa_w_rank": 119,
-    "news_score": 0.21,
+    "news_score": 0.36,
     "bottom50_wealth": null,
     "news_title": "Liechtenstein changes its rules to allow women to inherit the Alpine principality’s throne - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeks3dFFoNHJwR3dMMmRmUnR3cUZIMm91QktlbXlTQnJsQTNZaDV2U1hHUGYtYmhnRTdpVWNwcUp1MENVa3o0dUh0MW11TWhLUU8zb3JKOUN3S19wdElLakJTVlBXY3dzaU5udTlUUlZxRHNZdVppQjczZWFtUXJvM3JBVzBScWtnZW1LUDJhYS1wOV83S081UmgwOEtDTERKa3FpY0ptQQ?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "76m ago",
+    "news_age": "78m ago",
     "news_columns": [
       "gender",
       "gender_gap",
@@ -27611,7 +27608,7 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 85,
-    "news_score": 0.46,
+    "news_score": 0.45,
     "news_title": "Jonny Clayton claims second PDC World Series of Darts title with New Zealand crown - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc0FOTFJkaW9YQWpVWjFPUUdXZC1TUldtRnRoZDB2OTFlR3dvWmRKYURxNHhhWENhTDN1cEpzcWtnekxhOUU1SlRINVJpVm9GakZ5ZHk2U0dDMGs0a3NwZDNPekhLU3M2UGhYZ0p2LWd3RE90MmhYSVZGWXJvSHZ1b05jOXlfZFk?oc=5",
     "news_image": "",
@@ -31455,11 +31452,11 @@
     "union_rate": 75.0,
     "union_rate_rank": null,
     "news_score": 0.01,
-    "news_title": "Poland is now among the world's 20 largest economies. How did it happen? - NBC News",
-    "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaTBiWGR3alBRako4UzE1dWNzY05XTkJmcFhWT0I0QXRqNVFFbEFqa0FUbEF2amhFVEI1a2N1bTV0ZWhKUWFDQmJ4dlhFRmpFbXJKN2Q1SlFIWjl4cW5NMUdUWWZ2Tk1FY0FtWmk4Y0R0YTJUbjNJQ1pfTy1lcDA0MWdrV1MtWExKOGxoUjJDSFpaejRXTDQ0VURGSEJKUQ?oc=5",
+    "news_title": "Poland now sixth-largest EU economy, ahead of Belgium and Austria - Euronews.com",
+    "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG4zUUhUV3lvcjJybFJHQlI4cjZwUzVMMGpQY3lVNlhSb3NmQ0pSbzRUcDJfczdqUzU5VUhTQmk0VkxROE1OSHg3RWtOQVIxajRBLWREYm84Ujc3TnFKZU16RW4zdUt3eG16SG5STVViQk1UQk1Ed1RWYmtWTUhkeTkyRnFsTlg4V3JzXzE4UlU3NXV4Sk01Vk11NzNvRXJhUnpMNWJXTVhxNmRpdjFUdlVBTQ?oc=5",
     "news_image": "",
-    "news_source": "NBC News",
-    "news_age": "3658h ago",
+    "news_source": "Euronews.com",
+    "news_age": "143h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -36500,7 +36497,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.9,
+    "news_score": 0.87,
     "news_title": "Spain's Perez and Italian Fiorini set women's race walk world records - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRUxRRV9nQ3I2Rk5Sa1dCU2Z5SUNwX3NmOE5LUU9zUC1DZUt1UnUyRVNuamlGTGZVcUV0NnR2OElnWUJETnUwRHhzLTBzYUlVaWdWazJ1alZzRXlWbXg1bUhuYVhVMHItWWJNZG1JVTJ4ck55VjJLYlVxOVFGcGhoelg0WlFHeXBrY3o5SFBSNks0NmlkNFF3RlJVY1RlRm1hcEZrN05vUQ?oc=5",
     "news_image": "",
@@ -36508,9 +36505,7 @@
     "news_age": "4h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -40056,10 +40051,10 @@
     "union_rate_rank": null,
     "fifa_w_rank": 42,
     "news_score": 0.01,
-    "news_title": "Pakistani consul general calls for stronger business ties with Türkiye | Daily Sabah - Daily Sabah",
+    "news_title": "Pakistani consul general calls for stronger business ties with Türkiye | Daily Sabah - dailysabah.com",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ3ZMXzA2QktKQXRLRjFPVnBhTGNHcWNJYXFubnAyUWFlQlVPbXp0OWtUUHRYNW5hdTc1VDl1N1ZOTkRadTI1QjhaUlFGaC1VV2I2QW9OalpfeG1xRW1qQkNnRWtaYVpwX2NheFp6RXpYMGtReW1uMmltRWMxc0JKdlk0aDZaMDRRRnJ0ZkRwYjhweUtIWHc0RmJLdmloS3JER2FaMm4zVjZLd0YxU3VKRkM3NELSAboBQVVfeXFMUHFBVmlZNEh6WGFObjhxeDdaTE8wZjNNRW1TM0Z6c3Zwcm44SUlhQ0FlaUVJYWI0Rm5USC1VcEpyV1lEUlVqZzhzTndpS05idWZwLW9uNWp5QTVveGpTUHh6ZjRWU0ZIZzAtSHRqejJ3NjVRSkF2YUFGaTdxYkg0Sm1TSjBOTVN1SnpPd2Y4VXpRbjlKQzQ2bU1uSGg1Ri1maUpSOWpuOFZTQm1MQ3JLVVdNY19BSDNyRU9B?oc=5",
     "news_image": "",
-    "news_source": "Daily Sabah",
+    "news_source": "dailysabah.com",
     "news_age": "24h ago",
     "news_columns": [
       "ai_research",
@@ -42278,9 +42273,7 @@
     "news_age": "5h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
