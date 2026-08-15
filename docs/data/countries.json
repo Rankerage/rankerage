@@ -771,7 +771,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.51,
+    "news_score": 0.38,
     "news_title": "American Samoa's flag football team bows heads in underdog triumph over USA on world debut: “We are a family of brothers” - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOG8xSERPMWRTcEpoZjhGTkxyNUtRSUxjeS1rNWljYS1kenN6SlBkSVpnWVhYaFdEVENWWlA0UkJkRnVRVndhWkVXUDJycTNKTzJudE5hbXg5d2NMcW15N2l4YzY4T0hBbk9sTHBWSmtiWmJ5OU1VbjZZNFlUd211YTRaTjlHd2duTVhvWEdRbkRjSVp1MGZQTDJRbFBQVlh0WFJ6cWIyUGtKaXJxbkNscVZ4elE4bjVWOGVCcXlvM20?oc=5",
     "news_image": "",
@@ -779,7 +779,12 @@
     "bottom50_wealth": null,
     "news_age": "4h ago",
     "news_columns": [
-      "flag_football"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket",
+      "olympic_gold",
+      "olympic_per_cap"
     ]
   },
   {
@@ -3805,17 +3810,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.25,
-    "news_title": "Youri Tielemans Opens Up on Surprise Manchester United Move and Belgium's World Cup Heartbreak - sports.yahoo.com",
+    "news_score": 0.42,
+    "news_title": "Youri Tielemans Opens Up on Surprise Manchester United Move and Belgium's World Cup Heartbreak - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMlFid0JER2FXODVCNE16VDk0c0JmZEpwSC0tenB2ZWdBdEVBMWRfdTlqWVkyRmVqY3FrNUVodW1iV2Rxa28tZ2RlLWlLX2JyZzBzcnNib2hFTmVYVEVsMzZ6dldVRjJjQm1hQ0E5WFBsa3ZYcWp4c0o2OVNpbFE2S01iZU11d2t0ZjM5aW5QSHNtOTRx?oc=5",
     "news_image": "",
-    "news_source": "sports.yahoo.com",
+    "news_source": "Yahoo Sports",
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 3.1,
     "bottom50_wealth_rank": 18
@@ -5118,7 +5121,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.07,
+    "news_score": 0.06,
     "news_title": "Stellantis expands its circular economy business in Brazil with used parts and online sales - ClubAlfa.it",
     "news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ2hwTGpkaUVfUVFMOTEwSURuWnl1LWFsSmpsYXY1S3BYUkNjczYxOHRDcVBUTmpGRmw5Sm0yQUhIT0ViR05IMlVZNHkydkFTazNlWm94ZWxBRlczWmFvNXMtRDNwb1RQMzd1RTNyaks1YnRvd3lOSENLV3hvcHlYODI2OHRjYW5XVHpUOHF0TE13Q08xaWlLTldiNTlyRjcySTRIalRPUGg1MFZ3UVp1WFd4RkR5TlBvZFBzZWFrbnM5QQ?oc=5",
     "news_image": "",
@@ -6904,10 +6907,10 @@
     "refugees": null,
     "refugees_rank": null,
     "news_score": 0.04,
-    "news_title": "BUSINESS BEAT – More positive news for Canada’s economy - ArmchairMayor.ca",
+    "news_title": "BUSINESS BEAT – More positive news for Canada’s economy - armchairmayor.ca",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONTZpem9QYVFkNHVRR0FtNVBfMmtkcEVPbHpNVW03NUExTkF2dEpGRU9HcHJBaUV4OWIxRW5UT1lqOThYR18zLVhnb1hqaGNWcE5vSXpINHVsNGg5MVJjanZ1T2pDdWR3Yl9vV0F0cllEdm1mOVlqc0VfdVM4WW9XTkNTcDVaNUwtOGxGcHY3UktwTE0?oc=5",
     "news_image": "",
-    "news_source": "ArmchairMayor.ca",
+    "news_source": "armchairmayor.ca",
     "news_age": "11h ago",
     "news_columns": [
       "gdp",
@@ -13468,12 +13471,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.6,
-    "news_title": "Georgia high school football scores as GHSA kicks off - sports.yahoo.com",
+    "news_score": 0.59,
+    "news_title": "Georgia high school football scores as GHSA kicks off - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRFN6dGlYS19PeEhxUU11dDl6TXk4M0NzMnlXR0dFWE16UFRuclFfdDJySnFoOGJXdlFUQktXeGdESGR2QUtnM3RVRW1WSU5UOEhRTEhibkVUcW1sZkh6ZWI2VThvcTdOaWx0emxyWW5vM01QR19CVl8yZVBIMmc2UFZ6ZXFRRjVmdkxzRw?oc=5",
     "news_image": "",
-    "news_source": "sports.yahoo.com",
-    "news_age": "118m ago",
+    "news_source": "Yahoo Sports",
+    "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -13972,14 +13975,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.13,
+    "news_score": 1.12,
     "news_title": "USA Football flag teams aim for flag football glory at World Championships in Germany - WCNC",
     "news_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQbm53UzNhaUxYVUQ3MjR0WlhfX0JwZzF6bkhiSUVFQXBIYTBCQWgwZzNHbXBZUmxWNTVhLS1uMFlTUlNsdE1QREZvQ1JBQ3EtVHF4SXBpbVh2MVV3LWt4d1piWmhxSUVTRFNqLWVjQVkyLU90RUNXYUo4LVpUSmpUaDhPLTMwaHlYaTVRbjlMS2pKNFFHMlMzcE4wcVBRWmZiaXFraDQtckpWU0hhdzVkTDNjeHI0bk42OFJ5ZnJ5Vlg5dVZXNjl2Rm14NWt1d3diNXJlaWpUanFwcFhpbnA0VHU5bVlKcnRVanZKc2I0Z096T1lXTzJhQzFWalY3U1BC?oc=5",
     "news_image": "",
     "news_source": "WCNC",
-    "news_age": "36m ago",
+    "news_age": "38m ago",
     "news_columns": [
-      "flag_football"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16705,7 +16709,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.56,
+    "news_score": 0.39,
     "news_title": "From Licence Raj to Modern Economy: How India's Economy Transformed Over the Decades Between 1947 and 2026 - News18",
     "news_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMmxtR2JrZU1wTUhET3JXX1gzeV9LNXJXbXg0UzU4NXNmZmRWSFFFM3ItSkhYTE44Q3NSLXE0SVJTSE1JeVhnWkN4bHZHczhraGpFdUpwSTByUDk4Sld2ZzlyX3lTOVlwcnBwRlJUUG1tMGtud3dxaEdpUS1vdVlzc1dTMjN5ejRtZGk3bDFBNXZTRTRiaWFRdFVXcmIyeXdKbEVncEdFbHNBRFRWdktUaE9jZkViR2otaFJzZXBEV3dUbGdMZXc5c21BUVZ3WkxKRkRPRlRXZkpiSGpmWG1SWm1CTzF1NjRrbFpEbUl0d9IB9AFBVV95cUxPYzN5aGJWVHF6WC1CYmRtYnZtYVRZcldXQkdFVEZzYmk0NXNyQUEyekg5ZklFa2dQRnRvYmVPZ2MwT003ZjZRbGZrcm13d08tODBuSlBVZTNkMU1jUHJuSXJHYlJ4VnNxYWNheWpTbVpnMzVIMGRlcncycDEwcF9IVkZWNDdMeFktamlqc3lfcklDU3Y3MFJvZ1RDYk5ZTHY3UWJMTmlUdlYwRFhPSFJaUldzZlM0UG1uS3Q1dndTMVkxSkdTMy1nRF9MM09EOUJKSE5rOF9hMW85V25NQm5UY3JtbC1yNWVZU20ycHNuVmg2c0c5?oc=5",
     "news_image": "",
@@ -17015,19 +17019,14 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 0.87,
+    "news_score": 1.04,
     "news_title": "Magnitude 7.7 earthquake strikes off coast of Indonesia and tsunami warning issued - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "64m ago",
+    "news_age": "66m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "earthquake_count"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17281,14 +17280,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.38,
+    "news_score": 1.27,
     "news_title": "Iran targets tankers in ‘unprovoked attacks’ in Strait of Hormuz, UAE says - Fox News",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWbGN2eXRreVRtbzJ4SnZxOGZzNXkzNy1fMkNuUHFlSkx1RHJpMjFYUEJUVlFpUVRyV2V5Q013cUtaaGg4Y1VrYjZMd181dzF2LXNOX3pnZFNDajNETmJfaWh2cXZpMjdnODNzcExKWGVUSzBRUkI4YUVTOHJIZHM?oc=5",
     "news_image": "",
     "news_source": "Fox News",
-    "news_age": "82m ago",
+    "news_age": "84m ago",
     "news_columns": [
-      "none"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -28258,10 +28257,10 @@
     "union_rate": 83.3,
     "union_rate_rank": null,
     "news_score": 0.13,
-    "news_title": "Nigeria misses Women's World Cup for first time ever after playoff loss - sports.yahoo.com",
+    "news_title": "Nigeria misses Women's World Cup for first time ever after playoff loss - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOVcza2E1YnlhTm1mUktkeUFYS3BneG4wS19YeUItdWs3OTRnYjJLZW52Q0NiYzlJSFN2MHFYQ0w2S0xKQnY5ZGcxbjl4QmtOYU5XZG1VR1p4c2Y3cnFoSlZFZWxzUVJDVFpxczY2dWtPYTF5MGFfdktJS3djLVVZSHV3YUhJdkU?oc=5",
     "news_image": "",
-    "news_source": "sports.yahoo.com",
+    "news_source": "Yahoo Sports",
     "news_age": "8h ago",
     "news_columns": [
       "fifa_ranking",
@@ -29287,10 +29286,10 @@
     "refugees": null,
     "refugees_rank": null,
     "news_score": 0.13,
-    "news_title": "Wrexham see ‘incredibly large’ offer for Norway World Cup star rejected as Championship season looms - sports.yahoo.com",
+    "news_title": "Wrexham see ‘incredibly large’ offer for Norway World Cup star rejected as Championship season looms - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTnQ1bi1iSE9iYjJEbFYxSmtRVmZtdkEyTHM3c3pMSkl5WHJKd2xXTmdENGlMWGZXQkxITVI0M1pwNGRaakE0MVNDOExOODZ3N2g4Y3MxTDNuelRuZV9JZlRfanpYaU5xMFZGalpmREJZWkhUVzlqdWQ0REU3QXhGcEl4LU9SOXdMb1E4?oc=5",
     "news_image": "",
-    "news_source": "sports.yahoo.com",
+    "news_source": "Yahoo Sports",
     "news_age": "7h ago",
     "news_columns": [
       "fifa_ranking",
@@ -37447,7 +37446,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjU4NEo0OElfRV95dWtjZ0VGVFZtbmVrbVNneUs2QTNrOXktc0RrLTB1elRKemt5X013MGJscko2b1BTOGhFSmV2dEd5X0Y3NGZGSElfOXZMV0FTektQRWpaY2RqRzBPcTFvVkFndTRDRV80UHkycG5xNEJWdGc5eUR1dXprV2hv?oc=5",
     "news_image": "",
     "news_source": "Business Sweden",
-    "news_age": "3403h ago",
+    "news_age": "3404h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -40050,10 +40049,10 @@
     "union_rate_rank": null,
     "fifa_w_rank": 42,
     "news_score": 0.04,
-    "news_title": "Pakistani consul general calls for stronger business ties with Türkiye | Daily Sabah - Daily Sabah",
+    "news_title": "Pakistani consul general calls for stronger business ties with Türkiye | Daily Sabah - dailysabah.com",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ3ZMXzA2QktKQXRLRjFPVnBhTGNHcWNJYXFubnAyUWFlQlVPbXp0OWtUUHRYNW5hdTc1VDl1N1ZOTkRadTI1QjhaUlFGaC1VV2I2QW9OalpfeG1xRW1qQkNnRWtaYVpwX2NheFp6RXpYMGtReW1uMmltRWMxc0JKdlk0aDZaMDRRRnJ0ZkRwYjhweUtIWHc0RmJLdmloS3JER2FaMm4zVjZLd0YxU3VKRkM3NELSAboBQVVfeXFMUHFBVmlZNEh6WGFObjhxeDdaTE8wZjNNRW1TM0Z6c3Zwcm44SUlhQ0FlaUVJYWI0Rm5USC1VcEpyV1lEUlVqZzhzTndpS05idWZwLW9uNWp5QTVveGpTUHh6ZjRWU0ZIZzAtSHRqejJ3NjVRSkF2YUFGaTdxYkg0Sm1TSjBOTVN1SnpPd2Y4VXpRbjlKQzQ2bU1uSGg1Ri1maUpSOWpuOFZTQm1MQ3JLVVdNY19BSDNyRU9B?oc=5",
     "news_image": "",
-    "news_source": "Daily Sabah",
+    "news_source": "dailysabah.com",
     "news_age": "10h ago",
     "news_columns": [
       "ai_research",
