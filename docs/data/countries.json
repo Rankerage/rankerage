@@ -207,19 +207,15 @@
     "union_rate": 38.4,
     "union_rate_rank": null,
     "fifa_ranking_rank": 136,
-    "news_score": 0.32,
+    "news_score": 0.43,
     "news_title": "Entrenched, Embattled and Defiant, the Taliban Celebrate 5 Years in Power - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY3kwTmNVcnRiRzJMTjBJd2pMblk2RkRGSnNkUmwybzNkUGRLVFZkRFNZcVUtcDEtV3ZSYzlFNmk2ZnlBTG44ZGlpYUNFVDMzN0NYUy1BVlp0bnJXMjdqM01ZS21mTm01V1MySXNDSmxHaGt3Rl9BelFCaUQ5OUc4c0dzOE5nTjFvaWFlRVRrdlpKaTdlNEthTVVmSkZ5OXBfQnBfTVR1Qy0xVWl5MmJpR1d0eS1ZeHNXQjNIb1JmNA?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
     "news_age": "4h ago",
     "news_columns": [
-      "edu",
-      "literacy",
-      "pisa_math",
-      "pisa_science",
-      "pisa_reading",
-      "phd_per_cap"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -1926,18 +1922,16 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.77,
+    "news_score": 1.1,
     "news_title": "🚨 Official: an Argentina stalwart signs for Atlético de Madrid - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTGk2WGRmZWgyRWV4TGhtSmxsbmtidHZRUVpoWmdOaUR0NnIyQk5qZmN3MVRJUVNGcm95RFA0SmduMGhSb2J3LXhMbnJOc1JzLTk2VjJ6QVFySU9HOFJ3TFBGREF3TU40UHp5NjNRYXFNOEoyWDV5aVh4ME5aNGEwVGl5aUdkVEdrNU9SSUJ3WQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "63m ago",
+    "news_age": "65m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -2545,15 +2539,16 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.35,
+    "news_score": 0.49,
     "news_title": "U.S. upends Australia in 4x100m freestyle relay; Kate Douglass nearly breaks world record - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGdXSGRydmEtV0ZIQ3hGcWhyZWRnSm9tMGhOX2xNWV9NWlhKQ1dSckNnUGE3ZkFuNHJKekhuMUlyYU9UOVFHc2p0OTZINHNpV1UzMEFpcGlkcElGQUxCV3lrbno3UkRZQmVBcEFFME9WNDFJcUZQZjF1akloSU55ZDhkYW5PZDFhR2FBMQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "olympic",
+      "fifa_w",
+      "basket"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -7978,7 +7973,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.06,
+    "news_score": 0.04,
     "news_title": "China's Science and Technology Strategy in Perspective: Historical Evolution, Political Drivers, and Global Implications - RAND Corporation",
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50MEJKYnVDelp3Mk9NcEVhcFFGMVB2MFJxSGh5d21TQm5vay1TbWJmUE1XR3FBbUNZaS1zLTRfazd3b205Wi1IYTdvR0lwd09RdDdFY292RDBwYVlKRG5mY3kxMFozQXdQ?oc=5",
     "news_image": "",
@@ -12947,7 +12942,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.07,
+    "news_score": 0.12,
     "news_title": "Iran war: Trump to declare Hormuz US territory 'soon' - DW.com",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV0pNazY0MnZNc3J0Q2JpLW5tRTlQX2hKU09PUklUTmptUWRld2tkS0VIRXZtMkJhMllOMDktYS1zTDFGeGFfc2dyWXBSeVd2dTRlZWlsTUhaOGVEdjhtYzJ5WllzWmlKMmhtTzRBalZ3YlIyY3d0OUxGQ1hVSHJUdF9VbldpOExzcUpsc3g4Z0h2WGNNelQwMjhtSk9GMm1aTFVnYdIBpAFBVV95cUxPS0dmcDNONktlSmNqZHNPTURJdlc2bUpxSHZmRXhtQnRCaVNIaGo5bExPdDFYUjRlMHhYRzRVLW9NVHhqX1UyVGhMUUVSQ0lldG5DeEs3Y2dUa3BsMjJra1ZPeTZUMkFseWdNR19WdS1IZ3ppdW02YndhcU5JbHN5QXlEZWU2b1RuWGsxME5vdnEtV3dVQjQ2cU9LMUt5NWNaZjFqNw?oc=5",
     "news_image": "",
@@ -13979,7 +13974,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.7,
+    "news_score": 1.05,
     "news_title": "Is he Germany's next Urbig? 18-year-old already looks world-class - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZGRSbE5wY3Jva0xoZzJPY0NOMjdqZmZiMjN1Z1E4dlVTdnNhVDZBUDcxN1dTT3lvOExSd2hMck5MbmFISmtpNGFia1IxVXJPRVJUVFVrWjV3WVoyb3JMNWVBN3VSdHdHWlJZMlBvNUxqdDNRcFJMWnRRUWFnWU1aZQ?oc=5",
     "news_image": "",
@@ -13987,7 +13982,9 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -17023,12 +17020,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 1.09,
-    "news_title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least 20 - The Guardian",
-    "news_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SVU05S3ZQMlFXc01UaHE0SUdFck1PRnRDVWFISUFQNFIxeTIzcHR0WmtEeHpJMjJseUhHWG90bXUyenBISVdqRWtTMm5ISGttVnNnRk9jd2ZYdHVnQlpNSFc3ZE1NX0JSR2xTWXNTTVhLakNk?oc=5",
+    "news_score": 0.84,
+    "news_title": "At least two killed as magnitude 7.7 quake hits Indonesia - aljazeera.com",
+    "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXN0amxXeTVhSnZSWUdGc29mcFBDeG41SHNaVW1BSkJlc3JNOW5WRlZmWW1SRFM5V1pybkhwc29CMVFKS2UwQVBMUG5DMUVVSTNNX2Zud3MyU1lwQV9zN0lTdEtyZ285SHFpamdHYU9XbDNKci1MZUUtZ3o4RUk3aFBMYmZDTndLWU5uN3VKYV9rTUlQWTlFYlRnazJtbHPSAaQBQVVfeXFMT2NPVExXcVR1elh1Z29HY0V2SHlzdHRYNVNXVVQ5c3k3STQ4THBrbVprYUtxcTFZSE9ORVRIeVAxZU5VQXFtUjRuR0Zuekg4c1ZveVhaWTY5Z3JpS3JfS2FvclliZ0otNGNNX3ZwZmtxMjRPbTV0X3N6TTZpNDVsMGROZlEwLXcyTmZvYUVLSDgyMk5LSVp0YWVhMzdrM1cxTnNDWEg?oc=5",
     "news_image": "",
-    "news_source": "The Guardian",
-    "news_age": "66m ago",
+    "news_source": "aljazeera.com",
+    "news_age": "22m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -17289,19 +17286,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.37,
+    "news_score": 0.49,
     "news_title": "Iran war: Trump to declare Hormuz US territory 'soon' - DW.com",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV0pNazY0MnZNc3J0Q2JpLW5tRTlQX2hKU09PUklUTmptUWRld2tkS0VIRXZtMkJhMllOMDktYS1zTDFGeGFfc2dyWXBSeVd2dTRlZWlsTUhaOGVEdjhtYzJ5WllzWmlKMmhtTzRBalZ3YlIyY3d0OUxGQ1hVSHJUdF9VbldpOExzcUpsc3g4Z0h2WGNNelQwMjhtSk9GMm1aTFVnYdIBpAFBVV95cUxPS0dmcDNONktlSmNqZHNPTURJdlc2bUpxSHZmRXhtQnRCaVNIaGo5bExPdDFYUjRlMHhYRzRVLW9NVHhqX1UyVGhMUUVSQ0lldG5DeEs3Y2dUa3BsMjJra1ZPeTZUMkFseWdNR19WdS1IZ3ppdW02YndhcU5JbHN5QXlEZWU2b1RuWGsxME5vdnEtV3dVQjQ2cU9LMUt5NWNaZjFqNw?oc=5",
     "news_image": "",
     "news_source": "DW.com",
     "news_age": "5h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -18021,7 +18014,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.09,
+    "news_score": 0.11,
     "news_title": "Iran targets tankers in ‘unprovoked attacks’ in Strait of Hormuz, UAE says - Fox News",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWbGN2eXRreVRtbzJ4SnZxOGZzNXkzNy1fMkNuUHFlSkx1RHJpMjFYUEJUVlFpUVRyV2V5Q013cUtaaGg4Y1VrYjZMd181dzF2LXNOX3pnZFNDajNETmJfaWh2cXZpMjdnODNzcExKWGVUSzBRUkI4YUVTOHJIZHM?oc=5",
     "news_image": "",
@@ -18465,15 +18458,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.51,
+    "news_score": 0.93,
     "news_title": "📺 Saturday's schedule: Brasileirão, Série B, Coppa Italia + 🌏 friendlies - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNG51Y2RiNzVVZmxIejhOb0hlb1hUdE5YVlNoRmlkTzJ5NFBsaW82bmgyRVBybkU2THd5ZHJyZFdHVTV2Z2o1TEFYZFRRR0NtTWozN3dfVy1xbGxqLU53VGUtTzA0bW5Bd2JMMmdZdURDSDBnQ3ZEcm05WmFEbXNITi1pc1AxRWY1YWNv?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "9m ago",
+    "news_age": "11m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -19153,19 +19147,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.81,
     "news_title": "Japan's Takaichi skips controversial Yasukuni Shrine visit on anniversary of World War II surrender - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTS1XUDY1NEp3RlJQdGxCVlRyWFVWckpxZlYtbENGQ0k5UmkzSFJNUTR4eWEtcDRZem5fZVVpNi1rcVRoYV9KZFFyRkg2SXpkVWhPVFIzLXdmN3EyWVJIUF9HQTF5R1FxeVU4aHktZnNEZlI4dkJneVhTYmRiVl9DaTZCN3JaSERHRE85VFBTeEtHT3cyYmd3?oc=5",
     "news_image": "",
     "news_source": "AP News",
     "news_age": "2h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "olympic",
+      "fifa_w",
+      "basket"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -43487,16 +43478,15 @@
     "union_rate": 78.4,
     "union_rate_rank": null,
     "news_score": 0.02,
-    "news_title": "Science, technology, innovation, and digital transformation are driving forces for increased productivity. - Vietnam.vn",
-    "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVWZxSjZkTEtvT0xVclA4TlEyZjBCaTdBSTdHZ3VKWWNhLS02ZXZUZGo5MXZwQTBNazFTRnFoRmZxWVh5QUlXMEl5TmFqUDFjSHp6dXNxNDJWb19WRExhUk5HcVF4QVpHUE9FRlhqQXlNN29OZmN1WDRmR3Zkc1pKYUNaSDVaNDlHUTIyOHBOdGlxU1MyRU85LS1CNXJzRlhBam40eFpheGlTRVE?oc=5",
+    "news_title": "Science and technology: a 'common language' at the high-level foreign policy table in Vietnam. - Vietnam.vn",
+    "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYU5BU2xlOGR5QzdRbDU2VFR6aUF0dXVNQzJJZDRTcWVfaWRNdWtlMnZtcUhMdGttRmV6T1NtTHpCRzdfQ2lzQl9lQ1BQMEMwTHgwVEt2Um5Vd09KbWxreFVwWTM0MF9vbENlOGNVdkxnRkEwVDdaNVEzOTVCZDFQaDE0UTFwbTZ5cThDTGZpNkF0b0Y2TGJTeThvQQ?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "17h ago",
+    "news_age": "11h ago",
     "news_columns": [
-      "lgbtq_rights",
-      "gay_marriage",
-      "gender",
-      "democracy"
+      "car_density",
+      "gas_price",
+      "co2"
     ],
     "bottom50_wealth": null
   },
