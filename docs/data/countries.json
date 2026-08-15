@@ -212,7 +212,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUcwZmlieHVTblctVUFxREhEWF84RHhHazFkR0hMMFJuaThzTHpKNVprZ1lFUExDSzRQZF8zNXVab1ZfX0w3cGJsZV9oRVE5UzJFQjQ1ckp1czB2X29SNXRMTGtkN3AwUUZLRDZscmkyUnNOM3N2UmtrbDhEczFPV2dldU9UNHV5MDhER1JZbUF0QUc4VWQ4bGV6NWRKUXBlQTluNEJB?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "73m ago",
+    "news_age": "75m ago",
     "news_columns": [
       "fifa_w"
     ],
@@ -12938,7 +12938,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.17,
+    "news_score": 0.22,
     "news_title": "No monkey business: India 'whisperers' guard world championships - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVU96R2ctT0E1YWZZNU1VVlVMLTRYX1RDNnRWZ29CY0s5WXFqOWlxZ3lqZlhsV2JjMldva1dlYk1DRTNrekl6VzB1bk5kdko1VFRYQ2RYdExLRGZwRlFzemNCUjF2bjk5cWZJcTVfRlNVQjJ5RDNjaW9EYi1QRnctYXh1UlRXMmJiZ05DZjJrN1RYeVBodFVFaER3QUlieGVlTjk1Wm9sNkk5RFA2?oc=5",
     "news_image": "",
@@ -12946,8 +12946,7 @@
     "news_age": "5h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17007,16 +17006,19 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 0.8,
-    "news_title": "Magnitude-7.7 quake hits off coast of Indonesia, killing at least 38 - NBC News",
-    "news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51U2tXT01TeEdpZ2g1UEg0MUxjMFhyZTBBRzE2R3BObExUOUhGNUdmNVdjUlVtSTIydmNmSjdzTUdDYllON0FUX1Vtam5HLVFDRG9XV09VeTdFLUZwUVRkUkRwU0ZQQnNkR1JJUHRJdWhYcVJqemRBeXRUZw?oc=5",
+    "news_score": 0.5,
+    "news_title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38 - NPR",
+    "news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTMFR6Q3U5c1N5djNCTERscVlDLWl4QWV6RTNoVzRIQkVyemJMQnlIZTYxUHNJcld0VnlMYl9BQWhoSnN6Q2NRZl90anY0X0s5SkJGVlhpN2J4MlctOG0zc3pTQ0JxRzl6TVhrMURmUktSZUE?oc=5",
     "news_image": "",
-    "news_source": "NBC News",
-    "news_age": "67m ago",
+    "news_source": "NPR",
+    "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "earthquake_count",
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17270,16 +17272,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.25,
-    "news_title": "Iran rejects ‘delusions’ after Trump says he wants the Strait of Hormuz to be a U.S. territory - NBC News",
-    "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU2ZvbVItbFVkSEtKRWtqa1h3eUFsWTlscFhLMzJNenJXZTJXX2FINGl4R01BdTdlMWtqWkFFTXNMUE9OZkx2TVMxdER6TnZHLVV4SmhGNU1lNV9Ja1RHZWZWajVXQ3pMWFk3Y1NDNUE0ME01Y1J3M2xyUUI1VkRTY3FoeTBwRXlXejFiZVlUYVAwY1JKaG9fd0dmTzFocHhYX1RZ?oc=5",
+    "news_score": 1.44,
+    "news_title": "Live updates: US-Iran war; Trump says he ‘did the right thing’ and would ‘never apologize’ - CNN",
+    "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jZlpLZGNVVU9BX2JPcU13ZWt1SXZPLWZmaUdhR05fcWdmUmtZMHRTNFZNdUllN2g3MHU0ejRidWVqSVRtUkRwSnlmOFI0U3BPX1FGaXEyQTl1VjVhNTh4Y1BRbU5kUGhvU2JfN1lR?oc=5",
     "news_image": "",
-    "news_source": "NBC News",
-    "news_age": "2h ago",
+    "news_source": "CNN",
+    "news_age": "32m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": null
   },
@@ -19132,12 +19137,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.09,
-    "news_title": "Takaichi drops ‘remorse’ in her first war memorial address - The Japan Times",
-    "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQzBFU0xrU3F2bVNmSWgtMllvc1NzRllxcEVuWlZFa19jYThkUlYzLUNmTmxNbFRtcy1hb1AxZXJCSGh4cWowc0NMZ0RIeTBFTEQ3MFJEZ0hSMlc5VFM0cU15VDNUa2VaTDF0SkNqQ0tUSE9ka0ZZM0VKWTI2UmVEOTFvWUNjZWI3el9oYlVfQ2NpOU1T?oc=5",
+    "news_score": 0.06,
+    "news_title": "Uzbekistan and Japan discuss cooperation in science and technology - Qazinform",
+    "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTXlXNzlhM3pIMG1qRmZlbjVfc09uYnZmQkRaNzNSbDZSUzRKMGpMX01xdTQwSThteUwzc2NyUGhCSnp4b25Kd2hLWDFhSWV1b3J1RFM5a1hrUWVqZjNqa0lBVHd5TE96ZUZtTVBZWnRkcWhOd3hSWEQ4XzUtTzZYUDl3VDJsblAzdnJ3c1FaSUg4TEJaeVFsWWlSQ0Q3NURJYWfSAaIBQVVfeXFMUEpUT1lPUS1fQWR3VDNzNTJKbEQ5V3l6NjJPNEtIY0hNdmx3R3R0UGkzRURidWVRbXR6QXM0djdncU9WWDRoN1c2RXVrc012dklRVC1uWXFsSTVQU3BMNEhDVEQ3Y0FRSk55TW45N2pOLW1xR3h2dGxmXzZDUEphRUc0WG1RTXZnSmo2YXIzMWp5YThCMUN4N2FLb1ZsWTgzaDZR?oc=5",
     "news_image": "",
-    "news_source": "The Japan Times",
-    "news_age": "10h ago",
+    "news_source": "Qazinform",
+    "news_age": "18h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -21122,7 +21127,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 105,
     "fifa_w_rank": 87,
-    "news_score": 0.03,
+    "news_score": 0.02,
     "news_title": "Heavy environmental toll of war in southern Lebanon - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOEJ0d29CbE55RjB1OEZ2TE1TcUxLS3VEZmJ0MkUwZzRfbFRZeG5nUGZKMjZ6UVNuNFZDZnRYVUdlaHZLVUU5Q3JUaU9rWC1JTzFTbHdNX2J3ZHRQRmt1WGYyeC1lLXpPeWdZd2M5TUN2VGk1SFgzdmQxMGl5WllPbDlYNHg0b19DRkdaSHlhNFMtOWZjcFZmS0c2QUI?oc=5",
     "news_image": "",
@@ -36482,7 +36487,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.23,
+    "news_score": 1.22,
     "news_title": "PSG sign Spain forward Torres from Barcelona - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUnBzODktMUh1OHVxX3l5UlFuTnlEdkJVSGFBY3FPb3JHMUQycGxXZ2lyTHZwUllQb1NXX0ZVcUp0RWlTZXl4bGlaQndRU09CZFdDSmxVV1pEYUtLY0RTeklUYi1QTHpNQ1V4RGlqV3NBSUE3b3lsWUVXS3dWYktVUWhWS1pKRkNNT1oyNVFXMHQtWXc?oc=5",
     "news_image": "",
@@ -36490,8 +36495,7 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -40036,7 +40040,7 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.59,
+    "news_score": 0.58,
     "news_title": "International report - In Turkey, one of the world's longest conflicts reaches a turning point - RFI",
     "news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeUtzSEY2RDh6Z080LUxZeTNScWdhaW5ZT2FXd1BYRkVWZk0zOTNvTlpXaDA2YlQ4NEVSc0lmQkd2WXNoTEpOSnlzcEZGN2JVWVhJczA4YWI5MXdtS1NtVXlnZThWc0twc3dqRU1tOUFEc1VqLXE3R3VtM054VHRMX211QXRCVmJqdEw3N3p0QS1FcEhDVzJvNm1LYnBPbUppSWk0alJ6X3lEU3FFbVBoaWo3cFh6MHNXZWFsY041eklrS2FDVkRqdGRnMA?oc=5",
     "news_image": "",
