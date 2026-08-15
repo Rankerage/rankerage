@@ -207,7 +207,7 @@
     "union_rate": 38.4,
     "union_rate_rank": null,
     "fifa_ranking_rank": 136,
-    "news_score": 0.35,
+    "news_score": 0.38,
     "news_title": "Entrenched, Embattled and Defiant, the Taliban Celebrate 5 Years in Power - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY3kwTmNVcnRiRzJMTjBJd2pMblk2RkRGSnNkUmwybzNkUGRLVFZkRFNZcVUtcDEtV3ZSYzlFNmk2ZnlBTG44ZGlpYUNFVDMzN0NYUy1BVlp0bnJXMjdqM01ZS21mTm01V1MySXNDSmxHaGt3Rl9BelFCaUQ5OUc4c0dzOE5nTjFvaWFlRVRrdlpKaTdlNEthTVVmSkZ5OXBfQnBfTVR1Qy0xVWl5MmJpR1d0eS1ZeHNXQjNIb1JmNA?oc=5",
     "news_image": "",
@@ -1927,10 +1927,11 @@
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTGk2WGRmZWgyRWV4TGhtSmxsbmtidHZRUVpoWmdOaUR0NnIyQk5qZmN3MVRJUVNGcm95RFA0SmduMGhSb2J3LXhMbnJOc1JzLTk2VjJ6QVFySU9HOFJ3TFBGREF3TU40UHp5NjNRYXFNOEoyWDV5aVh4ME5aNGEwVGl5aUdkVEdrNU9SSUJ3WQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "87m ago",
+    "news_age": "89m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -2538,7 +2539,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.31,
+    "news_score": 0.43,
     "news_title": "U.S. upends Australia in 4x100m freestyle relay; Kate Douglass nearly breaks world record - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGdXSGRydmEtV0ZIQ3hGcWhyZWRnSm9tMGhOX2xNWV9NWlhKQ1dSckNnUGE3ZkFuNHJKekhuMUlyYU9UOVFHc2p0OTZINHNpV1UzMEFpcGlkcElGQUxCV3lrbno3UkRZQmVBcEFFME9WNDFJcUZQZjF1akloSU55ZDhkYW5PZDFhR2FBMQ?oc=5",
     "news_image": "",
@@ -2546,7 +2547,8 @@
     "news_age": "4h ago",
     "news_columns": [
       "olympic",
-      "fifa_ranking"
+      "fifa_w",
+      "basket"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3306,7 +3308,7 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.46,
+    "news_score": 0.61,
     "news_title": "Govt’s debt outpacing revenue growth: Bangladesh Bank - The Daily Star",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2VJMktNWVhONktXZVFwQUhyVmFIWmRjWnFlZG5iNVEyeFN1ZmtFV1hVRFpkWXp6V1RTOTZXSVg4S2R4dFpuWlNLMFZHay01UWROSmhjOGM5cXVPbnJMeXd3VGlsS2s2SE5XNFVIUHZTUVp1N3plZHpmSnZSMC1ZUVBsV2oxN0c3MExIRVFzaG5EdWZQLS1UaHQ4SG9oNzZXVlZsZXlvVXFzaDFVTTI4?oc=5",
     "news_image": "",
@@ -6904,7 +6906,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.06,
+    "news_score": 0.09,
     "news_title": "Courtney Love Reveals She ‘Almost Died’ in 2019 Amid Mystery Illness - Rolling Stone",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZDh0TTY4cGFHUVRRWTNMaC0xb0Y3dkZ2ZzZlUS1VVy04NmtHejAtSDBZZEZUdFZGdWszRHdweHU0OW5UcmF1V2VpR2c1TTRGVFFqR1dKaTNhcGcwQWh5ZkRLb2lEbWVmZGN6em4xOEtDRjZhLUk5T3pNZzRVYVRWMVlpcjlaS2NOclhEUHlXWFduNXl5d2hwaENR?oc=5",
     "news_image": "",
@@ -7966,7 +7968,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.38,
+    "news_score": 0.39,
     "news_title": "Japan's Takaichi skips controversial Yasukuni Shrine visit on anniversary of World War II surrender - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTS1XUDY1NEp3RlJQdGxCVlRyWFVWckpxZlYtbENGQ0k5UmkzSFJNUTR4eWEtcDRZem5fZVVpNi1rcVRoYV9KZFFyRkg2SXpkVWhPVFIzLXdmN3EyWVJIUF9HQTF5R1FxeVU4aHktZnNEZlI4dkJneVhTYmRiVl9DaTZCN3JaSERHRE85VFBTeEtHT3cyYmd3?oc=5",
     "news_image": "",
@@ -12945,12 +12947,9 @@
     "news_source": "Newsonair",
     "news_age": "48h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "space_launch"
+      "olympic",
+      "fifa_w",
+      "basket"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13466,7 +13465,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.08,
+    "news_score": 0.09,
     "news_title": "Georgia high school football scores as GHSA kicks off - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRFN6dGlYS19PeEhxUU11dDl6TXk4M0NzMnlXR0dFWE16UFRuclFfdDJySnFoOGJXdlFUQktXeGdESGR2QUtnM3RVRW1WSU5UOEhRTEhibkVUcW1sZkh6ZWI2VThvcTdOaWx0emxyWW5vM01QR19CVl8yZVBIMmc2UFZ6ZXFRRjVmdkxzRw?oc=5",
     "news_image": "",
@@ -13970,7 +13969,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.91,
+    "news_score": 0.9,
     "news_title": "Is he Germany's next Urbig? 18-year-old already looks world-class - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZGRSbE5wY3Jva0xoZzJPY0NOMjdqZmZiMjN1Z1E4dlVTdnNhVDZBUDcxN1dTT3lvOExSd2hMck5MbmFISmtpNGFia1IxVXJPRVJUVFVrWjV3WVoyb3JMNWVBN3VSdHdHWlJZMlBvNUxqdDNRcFJMWnRRUWFnWU1aZQ?oc=5",
     "news_image": "",
@@ -13978,7 +13977,8 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16704,7 +16704,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.46,
+    "news_score": 0.45,
     "news_title": "Kingfa Science & Technology (India) standalone net profit rises 101.58% in the June 2026 quarter - Business Standard",
     "news_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSWhBZzJOelQyYW5QamRXMXBrTVFVME9tX2lHTTRCVTdoZHAzSTc4VVhMTGI1NE1FNlhxSFB4NmhiWlVtUmVLa1VVTEhzSlpvbkExSGJNQnVZMHh5dTlWM3F6ZEVkWEZlR2huaktwUUZpNDVWMEw0em1aSUhxYUtMRTF5V3luSEpEb3lKNG5XN3BwS0x3MnNQVlJwLXlqRV9xTlRXaHJUdVVrQW0xeUR2bGI4b1VCTWdpTnNra01URy1WNTFkMzRhM2JxTjIxZzJRU25ucVFwelpQNmlYLXYxbVJGamtnbUdybmNScFg4WDNIZE5kaWZjZFBrSkhhSjMyb01V0gGIAkFVX3lxTE5kUU56RDd5eDR4RUZWdnAyRmhSZGJmWGVMUF9QRTVLV3RGUFlhTERjR0gyRnVuRzMycHhYVTlyajNnRWl5cENzRFZ5SFJyWWVMQ09NRjVQNXJjM2dYbEltYVBjT1g1WHNGLWlXMkdCcEE5VlF1dEI1Q0ZFbjVhR2Jvc2tyME02R1lhd085cURQMjNDM0JQaGNuVmlqQ3NWS29wTmdzWXdrNnM1M011bmxOUkxmVlFGdkQ0c3FHdlp6ZHI5V0NvS2trZFdVSmF4Q0lDalNtN000V3BId1haRDlzdE93dVdjakV0SERWXzN6bzROQVdZTkVJME9ya1pzY2U2amN1VXlaYQ?oc=5",
     "news_image": "",
@@ -17014,12 +17014,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 1.18,
+    "news_score": 0.83,
     "news_title": "At least two killed as magnitude 7.7 quake hits Indonesia - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXN0amxXeTVhSnZSWUdGc29mcFBDeG41SHNaVW1BSkJlc3JNOW5WRlZmWW1SRFM5V1pybkhwc29CMVFKS2UwQVBMUG5DMUVVSTNNX2Zud3MyU1lwQV9zN0lTdEtyZ285SHFpamdHYU9XbDNKci1MZUUtZ3o4RUk3aFBMYmZDTndLWU5uN3VKYV9rTUlQWTlFYlRnazJtbHPSAaQBQVVfeXFMT2NPVExXcVR1elh1Z29HY0V2SHlzdHRYNVNXVVQ5c3k3STQ4THBrbVprYUtxcTFZSE9ORVRIeVAxZU5VQXFtUjRuR0Zuekg4c1ZveVhaWTY5Z3JpS3JfS2FvclliZ0otNGNNX3ZwZmtxMjRPbTV0X3N6TTZpNDVsMGROZlEwLXcyTmZvYUVLSDgyMk5LSVp0YWVhMzdrM1cxTnNDWEg?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "44m ago",
+    "news_age": "46m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -17280,7 +17280,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.22,
+    "news_score": 0.28,
     "news_title": "Iran war: Trump to declare Hormuz US territory 'soon' - DW.com",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV0pNazY0MnZNc3J0Q2JpLW5tRTlQX2hKU09PUklUTmptUWRld2tkS0VIRXZtMkJhMllOMDktYS1zTDFGeGFfc2dyWXBSeVd2dTRlZWlsTUhaOGVEdjhtYzJ5WllzWmlKMmhtTzRBalZ3YlIyY3d0OUxGQ1hVSHJUdF9VbldpOExzcUpsc3g4Z0h2WGNNelQwMjhtSk9GMm1aTFVnYdIBpAFBVV95cUxPS0dmcDNONktlSmNqZHNPTURJdlc2bUpxSHZmRXhtQnRCaVNIaGo5bExPdDFYUjRlMHhYRzRVLW9NVHhqX1UyVGhMUUVSQ0lldG5DeEs3Y2dUa3BsMjJra1ZPeTZUMkFseWdNR19WdS1IZ3ppdW02YndhcU5JbHN5QXlEZWU2b1RuWGsxME5vdnEtV3dVQjQ2cU9LMUt5NWNaZjFqNw?oc=5",
     "news_image": "",
@@ -18455,15 +18455,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.88,
+    "news_score": 1.26,
     "news_title": "📺 Saturday's schedule: Brasileirão, Série B, Coppa Italia + 🌏 friendlies - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNG51Y2RiNzVVZmxIejhOb0hlb1hUdE5YVlNoRmlkTzJ5NFBsaW82bmgyRVBybkU2THd5ZHJyZFdHVTV2Z2o1TEFYZFRRR0NtTWozN3dfVy1xbGxqLU53VGUtTzA0bW5Bd2JMMmdZdURDSDBnQ3ZEcm05WmFEbXNITi1pc1AxRWY1YWNv?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "33m ago",
+    "news_age": "35m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -19143,19 +19144,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.72,
+    "news_score": 1.01,
     "news_title": "Japan's Takaichi skips controversial Yasukuni Shrine visit on anniversary of World War II surrender - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTS1XUDY1NEp3RlJQdGxCVlRyWFVWckpxZlYtbENGQ0k5UmkzSFJNUTR4eWEtcDRZem5fZVVpNi1rcVRoYV9KZFFyRkg2SXpkVWhPVFIzLXdmN3EyWVJIUF9HQTF5R1FxeVU4aHktZnNEZlI4dkJneVhTYmRiVl9DaTZCN3JaSERHRE85VFBTeEtHT3cyYmd3?oc=5",
     "news_image": "",
     "news_source": "AP News",
     "news_age": "3h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "olympic",
+      "fifa_w",
+      "basket"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -19332,7 +19330,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.07,
+    "news_score": 0.06,
     "news_title": "Mahoney, Bolles, Burilovic and Jordan Make An Appearance At Fall Sports Media Day - University of Colorado Athletics - University of Colorado Athletics",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkQtWEtlQllmV0FfM1FyZHRybGd6OXpWQy1JQkIxQjFBSkMwaUprS1dkaU1DQTlfdFU0TjFfTVFHVjlfWHc1OVBLTURJVkgzU3BROW9ycXhMdGxPZy1uWjk5Y3Vod1cxdllLOXNuTXMtVGZaLWtaRzdhZWZBbTNXcGd2dG1XYjhhaENQdlB3X0tPMHFEQ3RwbHRQekFyem0tY0d6UjJTUTFrOVA5UTFvN3pWbmxxQ09YcFg1X3AzdWtuT2M?oc=5",
     "news_image": "",
