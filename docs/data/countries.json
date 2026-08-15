@@ -773,7 +773,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.9,
     "news_title": "American Samoa's flag football team bows heads in underdog triumph over USA on world debut: “We are a family of brothers” - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOG8xSERPMWRTcEpoZjhGTkxyNUtRSUxjeS1rNWljYS1kenN6SlBkSVpnWVhYaFdEVENWWlA0UkJkRnVRVndhWkVXUDJycTNKTzJudE5hbXg5d2NMcW15N2l4YzY4T0hBbk9sTHBWSmtiWmJ5OU1VbjZZNFlUd211YTRaTjlHd2duTVhvWEdRbkRjSVp1MGZQTDJRbFBQVlh0WFJ6cWIyUGtKaXJxbkNscVZ4elE4bjVWOGVCcXlvM20?oc=5",
     "news_image": "",
@@ -783,10 +783,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket",
-      "olympic_gold",
-      "olympic_per_cap"
+      "olympic"
     ]
   },
   {
@@ -3812,15 +3809,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.11,
+    "news_score": 1.15,
     "news_title": "Youri Tielemans Opens Up on Surprise Manchester United Move and Belgium's World Cup Heartbreak - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMlFid0JER2FXODVCNE16VDk0c0JmZEpwSC0tenB2ZWdBdEVBMWRfdTlqWVkyRmVqY3FrNUVodW1iV2Rxa28tZ2RlLWlLX2JyZzBzcnNib2hFTmVYVEVsMzZ6dldVRjJjQm1hQ0E5WFBsa3ZYcWp4c0o2OVNpbFE2S01iZU11d2t0ZjM5aW5QSHNtOTRx?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "54m ago",
+    "news_age": "56m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 3.1,
     "bottom50_wealth_rank": 18
@@ -5123,19 +5121,16 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.1,
+    "news_score": 0.14,
     "news_title": "Stellantis expands its circular economy business in Brazil with used parts and online sales - ClubAlfa.it",
     "news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ2hwTGpkaUVfUVFMOTEwSURuWnl1LWFsSmpsYXY1S3BYUkNjczYxOHRDcVBUTmpGRmw5Sm0yQUhIT0ViR05IMlVZNHkydkFTazNlWm94ZWxBRlczWmFvNXMtRDNwb1RQMzd1RTNyaks1YnRvd3lOSENLV3hvcHlYODI2OHRjYW5XVHpUOHF0TE13Q08xaWlLTldiNTlyRjcySTRIalRPUGg1MFZ3UVp1WFd4RkR5TlBvZFBzZWFrbnM5QQ?oc=5",
     "news_image": "",
     "news_source": "ClubAlfa.it",
     "news_age": "7h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -8219,7 +8214,7 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.22,
+    "news_score": 0.0,
     "news_title": "Race to reach trapped survivors offers hope in Colombia quake zone - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXFkQmRFSExDQ3Q2MVBNQkk0NWVLS1oxUFo0ekNYaGd3U0pEUHR5SXNxdHcydUVraXR5TFNvakZGRE56NWFNZkpJXzNMcFQ4ekNRclZrLTZuRTFZVFlfSDlIZWlCTGNoWmFmVWFsSkJHSnZvX3Fib3RlOE9JQWwwNFFoZFJYVDZPVUo5ZmNQbDd0R2k4VC13RmlIcHN2eTEybHFRT3E2S0F3Q3NkaUhldUdfVVQzLTA?oc=5",
     "news_image": "",
@@ -17021,12 +17016,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 1.25,
+    "news_score": 0.88,
     "news_title": "Magnitude 7.7 earthquake strikes off coast of Indonesia and tsunami warning issued - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SVU05S3ZQMlFXc01UaHE0SUdFck1PRnRDVWFISUFQNFIxeTIzcHR0WmtEeHpJMjJseUhHWG90bXUyenBISVdqRWtTMm5ISGttVnNnRk9jd2ZYdHVnQlpNSFc3ZE1NX0JSR2xTWXNTTVhLakNk?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "16m ago",
+    "news_age": "18m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -17287,19 +17282,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.94,
+    "news_score": 0.99,
     "news_title": "Iran targets tankers in ‘unprovoked attacks’ in Strait of Hormuz, UAE says - Fox News",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWbGN2eXRreVRtbzJ4SnZxOGZzNXkzNy1fMkNuUHFlSkx1RHJpMjFYUEJUVlFpUVRyV2V5Q013cUtaaGg4Y1VrYjZMd181dzF2LXNOX3pnZFNDajNETmJfaWh2cXZpMjdnODNzcExKWGVUSzBRUkI4YUVTOHJIZHM?oc=5",
     "news_image": "",
     "news_source": "Fox News",
     "news_age": "2h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "lgbtq_rights"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -19341,7 +19331,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.55,
+    "news_score": 0.54,
     "news_title": "Mahoney, Bolles, Burilovic and Jordan Make An Appearance At Fall Sports Media Day - University of Colorado Athletics",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkQtWEtlQllmV0FfM1FyZHRybGd6OXpWQy1JQkIxQjFBSkMwaUprS1dkaU1DQTlfdFU0TjFfTVFHVjlfWHc1OVBLTURJVkgzU3BROW9ycXhMdGxPZy1uWjk5Y3Vod1cxdllLOXNuTXMtVGZaLWtaRzdhZWZBbTNXcGd2dG1XYjhhaENQdlB3X0tPMHFEQ3RwbHRQekFyem0tY0d6UjJTUTFrOVA5UTFvN3pWbmxxQ09YcFg1X3AzdWtuT2M?oc=5",
     "news_image": "",
@@ -24625,7 +24615,7 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.26,
+    "news_score": 0.25,
     "news_title": "Paramount-Warner Bros. Merger Gets Mexico’s Approval, Leaving States’ Lawsuit as the Only Barrier Left - variety.com",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWU5sN2VFRzhDdDViVlpmV3M2ZlN4Qmx1aUtldVVrVW1YdVJGLU1MQzFjczZLZFU0N0h3VHhZNmlvOUIydUl4ZmRpazRmWkdMLTRPWWVKOVB5V0xjSzFablpyVHlROWNodnphUDNuZWNjcEJuakhHTjR0bGo4a1FzclZUQkl5R2h3T19GRVFDNmpXVHNWbVE?oc=5",
     "news_image": "",
@@ -43203,7 +43193,7 @@
     "union_rate": 56.6,
     "union_rate_rank": null,
     "fifa_w_rank": 40,
-    "news_score": 0.22,
+    "news_score": 0.0,
     "news_title": "Race to reach trapped survivors offers hope in Colombia quake zone - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXFkQmRFSExDQ3Q2MVBNQkk0NWVLS1oxUFo0ekNYaGd3U0pEUHR5SXNxdHcydUVraXR5TFNvakZGRE56NWFNZkpJXzNMcFQ4ekNRclZrLTZuRTFZVFlfSDlIZWlCTGNoWmFmVWFsSkJHSnZvX3Fib3RlOE9JQWwwNFFoZFJYVDZPVUo5ZmNQbDd0R2k4VC13RmlIcHN2eTEybHFRT3E2S0F3Q3NkaUhldUdfVVQzLTA?oc=5",
     "news_image": "",
