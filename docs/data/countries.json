@@ -214,8 +214,7 @@
     "news_source": "The New York Times",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -1927,11 +1926,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTGk2WGRmZWgyRWV4TGhtSmxsbmtidHZRUVpoWmdOaUR0NnIyQk5qZmN3MVRJUVNGcm95RFA0SmduMGhSb2J3LXhMbnJOc1JzLTk2VjJ6QVFySU9HOFJ3TFBGREF3TU40UHp5NjNRYXFNOEoyWDV5aVh4ME5aNGEwVGl5aUdkVEdrNU9SSUJ3WQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "93m ago",
+    "news_age": "95m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -2539,7 +2537,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.43,
+    "news_score": 0.39,
     "news_title": "U.S. upends Australia in 4x100m freestyle relay; Kate Douglass nearly breaks world record - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGdXSGRydmEtV0ZIQ3hGcWhyZWRnSm9tMGhOX2xNWV9NWlhKQ1dSckNnUGE3ZkFuNHJKekhuMUlyYU9UOVFHc2p0OTZINHNpV1UzMEFpcGlkcElGQUxCV3lrbno3UkRZQmVBcEFFME9WNDFJcUZQZjF1akloSU55ZDhkYW5PZDFhR2FBMQ?oc=5",
     "news_image": "",
@@ -2547,8 +2545,7 @@
     "news_age": "4h ago",
     "news_columns": [
       "olympic",
-      "fifa_w",
-      "fifa_ranking"
+      "fifa_w"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -6906,12 +6903,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.12,
-    "news_title": "Courtney Love Reveals She ‘Almost Died’ in 2019 Amid Mystery Illness - Rolling Stone",
-    "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZDh0TTY4cGFHUVRRWTNMaC0xb0Y3dkZ2ZzZlUS1VVy04NmtHejAtSDBZZEZUdFZGdWszRHdweHU0OW5UcmF1V2VpR2c1TTRGVFFqR1dKaTNhcGcwQWh5ZkRLb2lEbWVmZGN6em4xOEtDRjZhLUk5T3pNZzRVYVRWMVlpcjlaS2NOclhEUHlXWFduNXl5d2hwaENR?oc=5",
+    "news_score": 0.08,
+    "news_title": "Look West: Jobs and Prosperity for a Stronger BC and Canada - Province of British Columbia - Government of British Columbia",
+    "news_url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1sb3l0N0g2Tm15TDdBc1VvMkpkdWl4QjM3ZlRndHFGd0VFXzh1VVdpYU9HdGtWbk9nTFlSWlZKMA?oc=5",
     "news_image": "",
-    "news_source": "Rolling Stone",
-    "news_age": "6h ago",
+    "news_source": "Government of British Columbia",
+    "news_age": "97h ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -7968,19 +7965,19 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.54,
-    "news_title": "Japan's Takaichi skips controversial Yasukuni Shrine visit on anniversary of World War II surrender - AP News",
+    "news_score": 0.63,
+    "news_title": "Japanese leader skips controversial shrine visit, avoids mention of remorse on surrender anniversary - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTS1XUDY1NEp3RlJQdGxCVlRyWFVWckpxZlYtbENGQ0k5UmkzSFJNUTR4eWEtcDRZem5fZVVpNi1rcVRoYV9KZFFyRkg2SXpkVWhPVFIzLXdmN3EyWVJIUF9HQTF5R1FxeVU4aHktZnNEZlI4dkJneVhTYmRiVl9DaTZCN3JaSERHRE85VFBTeEtHT3cyYmd3?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "37m ago",
+    "news_age": "39m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
+      "democracy",
+      "press",
       "gpi",
-      "arms_export",
-      "ai_research"
+      "polit_kill",
+      "military_pct",
+      "nuclear"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13468,7 +13465,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.09,
+    "news_score": 0.0,
     "news_title": "Georgia high school football scores as GHSA kicks off - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRFN6dGlYS19PeEhxUU11dDl6TXk4M0NzMnlXR0dFWE16UFRuclFfdDJySnFoOGJXdlFUQktXeGdESGR2QUtnM3RVRW1WSU5UOEhRTEhibkVUcW1sZkh6ZWI2VThvcTdOaWx0emxyWW5vM01QR19CVl8yZVBIMmc2UFZ6ZXFRRjVmdkxzRw?oc=5",
     "news_image": "",
@@ -13972,14 +13969,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.61,
+    "news_score": 0.88,
     "news_title": "Is he Germany's next Urbig? 18-year-old already looks world-class - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZGRSbE5wY3Jva0xoZzJPY0NOMjdqZmZiMjN1Z1E4dlVTdnNhVDZBUDcxN1dTT3lvOExSd2hMck5MbmFISmtpNGFia1IxVXJPRVJUVFVrWjV3WVoyb3JMNWVBN3VSdHdHWlJZMlBvNUxqdDNRcFJMWnRRUWFnWU1aZQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -17015,19 +17013,14 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 1.02,
+    "news_score": 1.01,
     "news_title": "At least two killed as magnitude 7.7 quake hits Indonesia - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXN0amxXeTVhSnZSWUdGc29mcFBDeG41SHNaVW1BSkJlc3JNOW5WRlZmWW1SRFM5V1pybkhwc29CMVFKS2UwQVBMUG5DMUVVSTNNX2Zud3MyU1lwQV9zN0lTdEtyZ285SHFpamdHYU9XbDNKci1MZUUtZ3o4RUk3aFBMYmZDTndLWU5uN3VKYV9rTUlQWTlFYlRnazJtbHPSAaQBQVVfeXFMT2NPVExXcVR1elh1Z29HY0V2SHlzdHRYNVNXVVQ5c3k3STQ4THBrbVprYUtxcTFZSE9ORVRIeVAxZU5VQXFtUjRuR0Zuekg4c1ZveVhaWTY5Z3JpS3JfS2FvclliZ0otNGNNX3ZwZmtxMjRPbTV0X3N6TTZpNDVsMGROZlEwLXcyTmZvYUVLSDgyMk5LSVp0YWVhMzdrM1cxTnNDWEg?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "50m ago",
+    "news_age": "52m ago",
     "news_columns": [
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17281,18 +17274,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.28,
+    "news_score": 0.29,
     "news_title": "Iran war: Trump to declare Hormuz US territory 'soon' - DW.com",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV0pNazY0MnZNc3J0Q2JpLW5tRTlQX2hKU09PUklUTmptUWRld2tkS0VIRXZtMkJhMllOMDktYS1zTDFGeGFfc2dyWXBSeVd2dTRlZWlsTUhaOGVEdjhtYzJ5WllzWmlKMmhtTzRBalZ3YlIyY3d0OUxGQ1hVSHJUdF9VbldpOExzcUpsc3g4Z0h2WGNNelQwMjhtSk9GMm1aTFVnYdIBpAFBVV95cUxPS0dmcDNONktlSmNqZHNPTURJdlc2bUpxSHZmRXhtQnRCaVNIaGo5bExPdDFYUjRlMHhYRzRVLW9NVHhqX1UyVGhMUUVSQ0lldG5DeEs3Y2dUa3BsMjJra1ZPeTZUMkFseWdNR19WdS1IZ3ppdW02YndhcU5JbHN5QXlEZWU2b1RuWGsxME5vdnEtV3dVQjQ2cU9LMUt5NWNaZjFqNw?oc=5",
     "news_image": "",
     "news_source": "DW.com",
     "news_age": "5h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -18456,12 +18445,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.86,
+    "news_score": 0.85,
     "news_title": "📺 Saturday's schedule: Brasileirão, Série B, Coppa Italia + 🌏 friendlies - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNG51Y2RiNzVVZmxIejhOb0hlb1hUdE5YVlNoRmlkTzJ5NFBsaW82bmgyRVBybkU2THd5ZHJyZFdHVTV2Z2o1TEFYZFRRR0NtTWozN3dfVy1xbGxqLU53VGUtTzA0bW5Bd2JMMmdZdURDSDBnQ3ZEcm05WmFEbXNITi1pc1AxRWY1YWNv?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "39m ago",
+    "news_age": "41m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -19145,16 +19134,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.98,
-    "news_title": "Japan's Takaichi skips controversial Yasukuni Shrine visit on anniversary of World War II surrender - AP News",
+    "news_score": 0.74,
+    "news_title": "Japanese leader skips controversial shrine visit, avoids mention of remorse on surrender anniversary - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTS1XUDY1NEp3RlJQdGxCVlRyWFVWckpxZlYtbENGQ0k5UmkzSFJNUTR4eWEtcDRZem5fZVVpNi1rcVRoYV9KZFFyRkg2SXpkVWhPVFIzLXdmN3EyWVJIUF9HQTF5R1FxeVU4aHktZnNEZlI4dkJneVhTYmRiVl9DaTZCN3JaSERHRE85VFBTeEtHT3cyYmd3?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "37m ago",
+    "news_age": "39m ago",
     "news_columns": [
-      "olympic",
-      "fifa_w",
-      "fifa_ranking"
+      "democracy",
+      "press",
+      "gpi",
+      "polit_kill",
+      "military_pct",
+      "nuclear"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -19778,7 +19770,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalhtNzZJZlRrMFVhSUVLN0FhUmpjdThMS1RMLThXMnJOOXA0Y1I0X3dPVENlNTZKX2hOSHZ1dmhaQVVFVWlyTjJNbTgzQnhnV0pPNlpsek45aXRsbF9BaXV5NjcyRUFyUHY0UU0wQVJFdFZRbXpJeE9HVU1NSTJ0V2ZQNWkyT0pwa2RfajhGZE9ZaHp3NUdtenJ4amFwdmZUazBaMEVvVVk3S2Q0Rl9QMEZB?oc=5",
     "news_image": "",
     "news_source": "theelephant.info",
-    "news_age": "23h ago",
+    "news_age": "24h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -33109,10 +33101,10 @@
     "union_rate_rank": null,
     "fifa_w_rank": 110,
     "news_score": 0.0,
-    "news_title": "Can Rwanda sustain its rise in science and technology? Here’s what can help - Nature",
+    "news_title": "Can Rwanda sustain its rise in science and technology? Here’s what can help - nature.com",
     "news_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53anN3Y0FsQkNxd0drdHRCQVU1Mk1Ja09FT0wtdjNJbnNMMTBINUtsZ1N3dVF5a09XMHdvTHRrTmVyaElUbmFpRTV0OTJ6V2dYclljUjlNSXpfRFFDcWdv?oc=5",
     "news_image": "",
-    "news_source": "Nature",
+    "news_source": "nature.com",
     "news_age": "1105h ago",
     "news_columns": [
       "ai_research",
@@ -34090,7 +34082,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 100,
-    "news_score": 0.4,
+    "news_score": 0.39,
     "news_title": "FIH Women's Hockey World Cup 2026: News, Schedule, Scores, Results, Points table - ESPN Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONFJ4eElaSC1KYm9tWk9faVVpNTFScXJXYzY1Skw4T3A4b3RpN3oyYjVtNUVjZEZTSFg0RGE5bTlCOElzTHE3X3c5T0VUNlY4RnBtVGlRbjM3RlB2dFBmbHpkdkxySnRyaGI4Z2xVdlhyTU0wMUd4WmwzRWVSMkkyWTlHZmFXc1dNdFVyNWp2VDZ4Zzdjb3lZZEVvYTl6LXp5QmJ4eUdhNWtDaVpVSEx2Wkc4TjcyUF9ZS3BhanRoY0hmY1RfZ2htRlZBV2dCN09I?oc=5",
     "news_image": "",
