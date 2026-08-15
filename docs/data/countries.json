@@ -7973,18 +7973,18 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.54,
+    "news_score": 0.53,
     "news_title": "Japan’s defense chief visits shrine neighbors see as symbol of Japanese militarism - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTS1XUDY1NEp3RlJQdGxCVlRyWFVWckpxZlYtbENGQ0k5UmkzSFJNUTR4eWEtcDRZem5fZVVpNi1rcVRoYV9KZFFyRkg2SXpkVWhPVFIzLXdmN3EyWVJIUF9HQTF5R1FxeVU4aHktZnNEZlI4dkJneVhTYmRiVl9DaTZCN3JaSERHRE85VFBTeEtHT3cyYmd3?oc=5",
     "news_image": "",
     "news_source": "AP News",
     "news_age": "2h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13976,19 +13976,14 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.71,
+    "news_score": 0.91,
     "news_title": "USA Football flag teams aim for flag football glory at World Championships in Germany - WCNC",
     "news_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQbm53UzNhaUxYVUQ3MjR0WlhfX0JwZzF6bkhiSUVFQXBIYTBCQWgwZzNHbXBZUmxWNTVhLS1uMFlTUlNsdE1QREZvQ1JBQ3EtVHF4SXBpbVh2MVV3LWt4d1piWmhxSUVTRFNqLWVjQVkyLU90RUNXYUo4LVpUSmpUaDhPLTMwaHlYaTVRbjlMS2pKNFFHMlMzcE4wcVBRWmZiaXFraDQtckpWU0hhdzVkTDNjeHI0bk42OFJ5ZnJ5Vlg5dVZXNjl2Rm14NWt1d3diNXJlaWpUanFwcFhpbnA0VHU5bVlKcnRVanZKc2I0Z096T1lXTzJhQzFWalY3U1BC?oc=5",
     "news_image": "",
     "news_source": "WCNC",
-    "news_age": "82m ago",
+    "news_age": "84m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -14181,7 +14176,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVEs0V3JkMEtaNEVoRmtaMzlZTG1jc3RjamV5ZEpSYmhQZVBZUGNZNTNtVENKUXFWMm00MzJtQ1pCcURhcFRrTFV2dEItU3llRno4SFA0RTEtS2ZMNlo4S0h3TFkwR2tzM3g1S1EtVGQtbHd4VzUwTlFaN0dyNEtRcmVERl84dUtVT1ZHeEt1eGRNbWFrRnFuTDNpTnlmZzBveHJ3MnZNTzFFMUxWdWxtd1g4VdIBuAFBVV95cUxPLUJmdTBRbDVMTVRsSGdQeWE4Ukt0WU1ydUgwOUY4cmFsQU94R1dxRnFfTFptLWhjY1JvYjhQMVNGRm4zRGlXM2o1aEJ2VER2RXo4UFdVbjFZOTE0b3VBdFVCYlJuS0ZwOHZEQ0Q1YmZDcEdCeElWUm1xdGFyLUx1MHYxWVYtMzdaaVBCUWF1S0JtR0R4S01jS2NNcWk0Sm9obU9mdWd3MkZsaW82dzY2R3FLRHBUMXZr?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "19h ago",
+    "news_age": "20h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -17024,19 +17019,14 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 0.96,
-    "news_title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing two - theguardian.com",
+    "news_score": 1.03,
+    "news_title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing two - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SVU05S3ZQMlFXc01UaHE0SUdFck1PRnRDVWFISUFQNFIxeTIzcHR0WmtEeHpJMjJseUhHWG90bXUyenBISVdqRWtTMm5ISGttVnNnRk9jd2ZYdHVnQlpNSFc3ZE1NX0JSR2xTWXNTTVhLakNk?oc=5",
     "news_image": "",
-    "news_source": "theguardian.com",
-    "news_age": "63m ago",
+    "news_source": "The Guardian",
+    "news_age": "65m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "earthquake_count"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17290,7 +17280,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.22,
+    "news_score": 0.21,
     "news_title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN3VTcXZFMVAzTFpCQlBnMkgtUGhUUVZwX1RBc1dWSmE5VjdVMGtaOHRjZ2p1WVVJblBrc1NTS1h4M2NsSlp0S2JFdE0tdG1jclJvaDUyYjItYjRJdG8ydXVxYmNJUTB1Mms2MnBtbUxFX1gxRHpJZk45MjJZcnFzdFpXTVZJUF95aDA1N01iWnAzOVcxaVBaMGw1dnVkNTVS0gGmAUFVX3lxTE5MMUR6ME9RMmxiak9JbXNhYmJGYlo0MmptbVhpa2ZaWERsTWpvczB4dk9YVS1sVTl3RUM2U2J0TE5ua2F5eFREQXEwTVJZTkY2ZkhRVENadUtOMlR6eXNHWUUyalRZVE1oRDlsdTJuZFdEWGQ0b1BrdGdpbWxjWF9kWlpmWjRheHQ1dW8xU3JuMWwxYS1uQ1IwTVlHblZYMTBESncxZEE?oc=5",
     "news_image": "",
@@ -19162,11 +19152,7 @@
     "news_source": "AP News",
     "news_age": "2h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -29299,7 +29285,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.11,
+    "news_score": 0.1,
     "news_title": "Wrexham see ‘incredibly large’ offer for Norway World Cup star rejected as Championship season looms - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTnQ1bi1iSE9iYjJEbFYxSmtRVmZtdkEyTHM3c3pMSkl5WHJKd2xXTmdENGlMWGZXQkxITVI0M1pwNGRaakE0MVNDOExOODZ3N2g4Y3MxTDNuelRuZV9JZlRfanpYaU5xMFZGalpmREJZWkhUVzlqdWQ0REU3QXhGcEl4LU9SOXdMb1E4?oc=5",
     "news_image": "",
@@ -31462,11 +31448,11 @@
     "union_rate": 75.0,
     "union_rate_rank": null,
     "news_score": 0.01,
-    "news_title": "Poland now sixth-largest EU economy, ahead of Belgium and Austria - euronews.com",
-    "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG4zUUhUV3lvcjJybFJHQlI4cjZwUzVMMGpQY3lVNlhSb3NmQ0pSbzRUcDJfczdqUzU5VUhTQmk0VkxROE1OSHg3RWtOQVIxajRBLWREYm84Ujc3TnFKZU16RW4zdUt3eG16SG5STVViQk1UQk1Ed1RWYmtWTUhkeTkyRnFsTlg4V3JzXzE4UlU3NXV4Sk01Vk11NzNvRXJhUnpMNWJXTVhxNmRpdjFUdlVBTQ?oc=5",
+    "news_title": "Poland is now among the world's 20 largest economies. How did it happen? - NBC News",
+    "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaTBiWGR3alBRako4UzE1dWNzY05XTkJmcFhWT0I0QXRqNVFFbEFqa0FUbEF2amhFVEI1a2N1bTV0ZWhKUWFDQmJ4dlhFRmpFbXJKN2Q1SlFIWjl4cW5NMUdUWWZ2Tk1FY0FtWmk4Y0R0YTJUbjNJQ1pfTy1lcDA0MWdrV1MtWExKOGxoUjJDSFpaejRXTDQ0VURGSEJKUQ?oc=5",
     "news_image": "",
-    "news_source": "euronews.com",
-    "news_age": "130h ago",
+    "news_source": "NBC News",
+    "news_age": "3644h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -35450,7 +35436,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVEs0V3JkMEtaNEVoRmtaMzlZTG1jc3RjamV5ZEpSYmhQZVBZUGNZNTNtVENKUXFWMm00MzJtQ1pCcURhcFRrTFV2dEItU3llRno4SFA0RTEtS2ZMNlo4S0h3TFkwR2tzM3g1S1EtVGQtbHd4VzUwTlFaN0dyNEtRcmVERl84dUtVT1ZHeEt1eGRNbWFrRnFuTDNpTnlmZzBveHJ3MnZNTzFFMUxWdWxtd1g4VdIBuAFBVV95cUxPLUJmdTBRbDVMTVRsSGdQeWE4Ukt0WU1ydUgwOUY4cmFsQU94R1dxRnFfTFptLWhjY1JvYjhQMVNGRm4zRGlXM2o1aEJ2VER2RXo4UFdVbjFZOTE0b3VBdFVCYlJuS0ZwOHZEQ0Q1YmZDcEdCeElWUm1xdGFyLUx1MHYxWVYtMzdaaVBCUWF1S0JtR0R4S01jS2NNcWk0Sm9obU9mdWd3MkZsaW82dzY2R3FLRHBUMXZr?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "19h ago",
+    "news_age": "20h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
