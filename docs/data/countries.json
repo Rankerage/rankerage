@@ -775,7 +775,7 @@
     "news_image": "",
     "news_source": "The New York Times",
     "bottom50_wealth": null,
-    "news_age": "16h ago",
+    "news_age": "17h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -2538,12 +2538,12 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.56,
-    "news_title": "Bangladesh rock Australia as historic Test win in sight - Yahoo Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1JneHVFZFlrR0w2SnJyaFdmTDdPOHI2OFVWaFJnMmZ6V19lZXRXeW5KZFNxa1RSR3lIZnJJNzNQSE5kVFN3TzdGOWRJMXRlV21BSG51X0dZc05WY1pCSTFYR2tGM2RTWm5uWkl5SGV1YlJBVm5EUFJUQldweHM4UXR6MGJnMFdONTBwa0U4dVA4Zw?oc=5",
+    "news_score": 0.43,
+    "news_title": "U.S. upends Australia in 4x100m freestyle relay; Kate Douglass nearly breaks world record - Yahoo Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGdXSGRydmEtV0ZIQ3hGcWhyZWRnSm9tMGhOX2xNWV9NWlhKQ1dSckNnUGE3ZkFuNHJKekhuMUlyYU9UOVFHc2p0OTZINHNpV1UzMEFpcGlkcElGQUxCV3lrbno3UkRZQmVBcEFFME9WNDFJcUZQZjF1akloSU55ZDhkYW5PZDFhR2FBMQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "2h ago",
+    "news_age": "7h ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -3306,16 +3306,19 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.6,
-    "news_title": "Bangladesh rock Australia as historic Test win in sight - Yahoo Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1JneHVFZFlrR0w2SnJyaFdmTDdPOHI2OFVWaFJnMmZ6V19lZXRXeW5KZFNxa1RSR3lIZnJJNzNQSE5kVFN3TzdGOWRJMXRlV21BSG51X0dZc05WY1pCSTFYR2tGM2RTWm5uWkl5SGV1YlJBVm5EUFJUQldweHM4UXR6MGJnMFdONTBwa0U4dVA4Zw?oc=5",
+    "news_score": 0.47,
+    "news_title": "Govt’s debt outpacing revenue growth: Bangladesh Bank - The Daily Star",
+    "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2VJMktNWVhONktXZVFwQUhyVmFIWmRjWnFlZG5iNVEyeFN1ZmtFV1hVRFpkWXp6V1RTOTZXSVg4S2R4dFpuWlNLMFZHay01UWROSmhjOGM5cXVPbnJMeXd3VGlsS2s2SE5XNFVIUHZTUVp1N3plZHpmSnZSMC1ZUVBsV2oxN0c3MExIRVFzaG5EdWZQLS1UaHQ4SG9oNzZXVlZsZXlvVXFzaDFVTTI4?oc=5",
     "news_image": "",
-    "news_source": "Yahoo Sports",
-    "news_age": "2h ago",
+    "news_source": "The Daily Star",
+    "news_age": "6h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": null
   },
@@ -12933,15 +12936,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.74,
+    "news_score": 0.9,
     "news_title": "World Cup winner Ferran Torres signs for Paris Saint-Germain - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa19Fajd0U0YySnIzLWpqWmZOdVAwTUgyQ2xkYVZJa1RmRFU4d0NycG0zZkkxQmkxSlc0d3FXUktLQlBlU3ZTWGdQUVE2ek13c0xjcXhGVlBhSnR6d194bE12c0pQRFlFSUZGWTlxMC1GOUE0Y19xVHptMG15UzMwSXN0MHpZZmkyM21Dd2RFZ0VwZzFaRkU2TGlIWVhKSTR2QnExVFFzalZqMWM?oc=5",
     "news_image": "",
     "news_source": "France 24",
-    "news_age": "93m ago",
+    "news_age": "95m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "olympic"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13961,7 +13964,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.26,
+    "news_score": 0.25,
     "news_title": "Is he Germany's next Urbig? 18-year-old already looks world-class - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZGRSbE5wY3Jva0xoZzJPY0NOMjdqZmZiMjN1Z1E4dlVTdnNhVDZBUDcxN1dTT3lvOExSd2hMck5MbmFISmtpNGFia1IxVXJPRVJUVFVrWjV3WVoyb3JMNWVBN3VSdHdHWlJZMlBvNUxqdDNRcFJMWnRRUWFnWU1aZQ?oc=5",
     "news_image": "",
@@ -16700,7 +16703,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVU96R2ctT0E1YWZZNU1VVlVMLTRYX1RDNnRWZ29CY0s5WXFqOWlxZ3lqZlhsV2JjMldva1dlYk1DRTNrekl6VzB1bk5kdko1VFRYQ2RYdExLRGZwRlFzemNCUjF2bjk5cWZJcTVfRlNVQjJ5RDNjaW9EYi1QRnctYXh1UlRXMmJiZ05DZjJrN1RYeVBodFVFaER3QUlieGVlTjk1Wm9sNkk5RFA2?oc=5",
     "news_image": "",
     "news_source": "France 24",
-    "news_age": "3h ago",
+    "news_age": "4h ago",
     "news_columns": [
       "cricket"
     ],
@@ -17000,19 +17003,15 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 0.76,
+    "news_score": 0.7,
     "news_title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least 20 - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SVU05S3ZQMlFXc01UaHE0SUdFck1PRnRDVWFISUFQNFIxeTIzcHR0WmtEeHpJMjJseUhHWG90bXUyenBISVdqRWtTMm5ISGttVnNnRk9jd2ZYdHVnQlpNSFc3ZE1NX0JSR2xTWXNTTVhLakNk?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
     "news_age": "2h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "earthquake_count"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17266,19 +17265,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.16,
+    "news_score": 1.21,
     "news_title": "Iran targets tankers in ‘unprovoked attacks’ in Strait of Hormuz, UAE says - Fox News",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWbGN2eXRreVRtbzJ4SnZxOGZzNXkzNy1fMkNuUHFlSkx1RHJpMjFYUEJUVlFpUVRyV2V5Q013cUtaaGg4Y1VrYjZMd181dzF2LXNOX3pnZFNDajNETmJfaWh2cXZpMjdnODNzcExKWGVUSzBRUkI4YUVTOHJIZHM?oc=5",
     "news_image": "",
     "news_source": "Fox News",
-    "news_age": "61m ago",
+    "news_age": "63m ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -17998,12 +17993,12 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.11,
-    "news_title": "There’s a reason why Israel has done little to rein in settler violence. It’s not just Netanyahu - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRUxIVUtrc0N1WEFfd1YydU9jNjZwMER1UnNxSUlnSGpLOXkxTGVpTmVmWnBMTEQ1UHNERjRvcGQtaXZFcEJqdFVXTWtwWXdBaG1RaTdJOGczZ3dZdXoxOTdqcm9vNFlhWUpJVjZaUVpsOHJ2emJfN0JnVG9SemEtbmlGd1JHS05VUEEwTVBlVmZpaUMtbzFEZmFhaGVQQkotUUo4OG1maXpoZk9uTEVNc3NGT25tQQ?oc=5",
+    "news_score": 0.1,
+    "news_title": "IDF troops stood by as West Bank settlers besieged Palestinian homes - washingtonpost.com",
+    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVlDSUI1YlhJYlFrUUZ4dWZNclhsLVRfTWdsallwYkpHaTNaME9IemlxbHNhX0tyUmJXQXBOdl84MUtJTVUtQlRSVlBtdEowcGlvcTRiQ3NOcnFLUWJpazRWeEZTZmFmTVV0VWVoNXo0aUdjdTFJcnpnU2MyWmJjNnhJMUNmYnlydmJ1Z2oyOEM1a1NtV1RFaVBGSjlPNS1wazNTQ3JiN0tYbFZyOGpSUTVwU0Y?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "5h ago",
+    "news_source": "washingtonpost.com",
+    "news_age": "8h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -19130,19 +19125,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.14,
-    "news_title": "Takaichi drops ‘remorse’ in her first war memorial address - japantimes.co.jp",
-    "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQzBFU0xrU3F2bVNmSWgtMllvc1NzRllxcEVuWlZFa19jYThkUlYzLUNmTmxNbFRtcy1hb1AxZXJCSGh4cWowc0NMZ0RIeTBFTEQ3MFJEZ0hSMlc5VFM0cU15VDNUa2VaTDF0SkNqQ0tUSE9ka0ZZM0VKWTI2UmVEOTFvWUNjZWI3el9oYlVfQ2NpOU1T?oc=5",
+    "news_score": 0.44,
+    "news_title": "Takaichi skips controversial shrine visit on 81st anniversary of country's World War II surrender - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTS1XUDY1NEp3RlJQdGxCVlRyWFVWckpxZlYtbENGQ0k5UmkzSFJNUTR4eWEtcDRZem5fZVVpNi1rcVRoYV9KZFFyRkg2SXpkVWhPVFIzLXdmN3EyWVJIUF9HQTF5R1FxeVU4aHktZnNEZlI4dkJneVhTYmRiVl9DaTZCN3JaSERHRE85VFBTeEtHT3cyYmd3?oc=5",
     "news_image": "",
-    "news_source": "japantimes.co.jp",
-    "news_age": "9h ago",
+    "news_source": "AP News",
+    "news_age": "48m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -35421,11 +35412,11 @@
     "union_rate": 60.6,
     "union_rate_rank": null,
     "news_score": 0.0,
-    "news_title": "South Africa end Nigeria’s Women’s World Cup hope, Ghana beat Ivory Coast - Al Jazeera",
-    "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVEs0V3JkMEtaNEVoRmtaMzlZTG1jc3RjamV5ZEpSYmhQZVBZUGNZNTNtVENKUXFWMm00MzJtQ1pCcURhcFRrTFV2dEItU3llRno4SFA0RTEtS2ZMNlo4S0h3TFkwR2tzM3g1S1EtVGQtbHd4VzUwTlFaN0dyNEtRcmVERl84dUtVT1ZHeEt1eGRNbWFrRnFuTDNpTnlmZzBveHJ3MnZNTzFFMUxWdWxtd1g4VdIBuAFBVV95cUxPLUJmdTBRbDVMTVRsSGdQeWE4Ukt0WU1ydUgwOUY4cmFsQU94R1dxRnFfTFptLWhjY1JvYjhQMVNGRm4zRGlXM2o1aEJ2VER2RXo4UFdVbjFZOTE0b3VBdFVCYlJuS0ZwOHZEQ0Q1YmZDcEdCeElWUm1xdGFyLUx1MHYxWVYtMzdaaVBCUWF1S0JtR0R4S01jS2NNcWk0Sm9obU9mdWd3MkZsaW82dzY2R3FLRHBUMXZr?oc=5",
+    "news_title": "July brings positive news for South Africa's economic activity - IOL",
+    "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeXJrSEo1azZ4YzhJTl9lQmEtOGFmN29YaDI0MWxFNEs3aFRTcjFXSFZwN1dGVDRScmE2ZV9KVHdOR01IaDZXQWdLeXB5eHZRblVPSWpZZ3hEWVc2UXBYOFJReTY2VmpTcmh3M1hFdE9qVGVqUTFfMkFMcW9GZ3E1WUdVc1RhQVdjbkxudjdDX3pLazB3eGRHdnJSdUozN2JNUUt4XzF1aTZwbnY2?oc=5",
     "news_image": "",
-    "news_source": "Al Jazeera",
-    "news_age": "25h ago",
+    "news_source": "IOL",
+    "news_age": "70h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -37437,7 +37428,8 @@
     "news_source": "Business Sweden",
     "news_age": "3412h ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "election_title": "Swedish Parliament",
     "election_url": "https://www.electionguide.org/countries/id/206",
@@ -40036,7 +40028,7 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.2,
+    "news_score": 0.14,
     "news_title": "Pakistani consul general calls for stronger business ties with Türkiye | Daily Sabah - Daily Sabah",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ3ZMXzA2QktKQXRLRjFPVnBhTGNHcWNJYXFubnAyUWFlQlVPbXp0OWtUUHRYNW5hdTc1VDl1N1ZOTkRadTI1QjhaUlFGaC1VV2I2QW9OalpfeG1xRW1qQkNnRWtaYVpwX2NheFp6RXpYMGtReW1uMmltRWMxc0JKdlk0aDZaMDRRRnJ0ZkRwYjhweUtIWHc0RmJLdmloS3JER2FaMm4zVjZLd0YxU3VKRkM3NELSAboBQVVfeXFMUHFBVmlZNEh6WGFObjhxeDdaTE8wZjNNRW1TM0Z6c3Zwcm44SUlhQ0FlaUVJYWI0Rm5USC1VcEpyV1lEUlVqZzhzTndpS05idWZwLW9uNWp5QTVveGpTUHh6ZjRWU0ZIZzAtSHRqejJ3NjVRSkF2YUFGaTdxYkg0Sm1TSjBOTVN1SnpPd2Y4VXpRbjlKQzQ2bU1uSGg1Ri1maUpSOWpuOFZTQm1MQ3JLVVdNY19BSDNyRU9B?oc=5",
     "news_image": "",
