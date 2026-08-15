@@ -214,7 +214,12 @@
     "news_source": "The New York Times",
     "news_age": "5h ago",
     "news_columns": [
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -768,20 +773,20 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.06,
-    "news_title": "American Samoa's flag football team bows heads in underdog triumph over USA on world debut: “We are a family of brothers” - olympics.com",
-    "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOG8xSERPMWRTcEpoZjhGTkxyNUtRSUxjeS1rNWljYS1kenN6SlBkSVpnWVhYaFdEVENWWlA0UkJkRnVRVndhWkVXUDJycTNKTzJudE5hbXg5d2NMcW15N2l4YzY4T0hBbk9sTHBWSmtiWmJ5OU1VbjZZNFlUd211YTRaTjlHd2duTVhvWEdRbkRjSVp1MGZQTDJRbFBQVlh0WFJ6cWIyUGtKaXJxbkNscVZ4elE4bjVWOGVCcXlvM20?oc=5",
+    "news_score": 0.04,
+    "news_title": "American Samoa, led by Taulia Tagovailoa, stuns U.S. at Flag Football World Championships - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNUdaSUtQb1pCczJNTC0yYmVHcjNrRWJ0RS1naVQ2bkJONG40cUtmYzJwZnZuQmtNNGJXQUlfS2ViWmQzR21qRGZucTJlUDlLQzBXLWtfLUhoOFdxRHpXeE54aEtobS10N2taY1oxVTM2MUdFLV9NQloxVGFiT29iZnBFeEV4dVZERlpET1ZxMXR6OGlRdnVDcmJ0ZWR1QkV0Znc2dw?oc=5",
     "news_image": "",
-    "news_source": "olympics.com",
+    "news_source": "The New York Times",
     "bottom50_wealth": null,
-    "news_age": "10h ago",
+    "news_age": "14h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
       "olympic",
       "basket",
-      "olympic_gold",
-      "olympic_per_cap"
+      "ai_research",
+      "internet_pct"
     ]
   },
   {
@@ -1921,12 +1926,12 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 1.07,
+    "news_score": 1.28,
     "news_title": "Atlético Madrid signs Argentina defender Cristian Romero from Tottenham - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT1U2ZTRNYVdBT2Z6RnlXQ0VILW5IZHVoS1lDMURmSVN5Z082SjViMHpTcGpIWTFzcTZiQU5TbXZJR2d5ZlJxcnVleXA5X2RDSVhuS25TYmg5VGs3Vzd0WlRkRWRMLWh6QVlySk1jUXlhRkNraWtLOTlqZE9hb003clg3Skd6emc?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "17m ago",
+    "news_age": "19m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -2537,15 +2542,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 1.3,
+    "news_score": 1.32,
     "news_title": "Bangladesh rock Australia as historic Test win in sight - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1JneHVFZFlrR0w2SnJyaFdmTDdPOHI2OFVWaFJnMmZ6V19lZXRXeW5KZFNxa1RSR3lIZnJJNzNQSE5kVFN3TzdGOWRJMXRlV21BSG51X0dZc05WY1pCSTFYR2tGM2RTWm5uWkl5SGV1YlJBVm5EUFJUQldweHM4UXR6MGJnMFdONTBwa0U4dVA4Zw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "41m ago",
+    "news_age": "43m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "olympic",
+      "fifa_w"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3305,12 +3310,12 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 1.01,
+    "news_score": 1.31,
     "news_title": "Bangladesh rock Australia as historic Test win in sight - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1JneHVFZFlrR0w2SnJyaFdmTDdPOHI2OFVWaFJnMmZ6V19lZXRXeW5KZFNxa1RSR3lIZnJJNzNQSE5kVFN3TzdGOWRJMXRlV21BSG51X0dZc05WY1pCSTFYR2tGM2RTWm5uWkl5SGV1YlJBVm5EUFJUQldweHM4UXR6MGJnMFdONTBwa0U4dVA4Zw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "41m ago",
+    "news_age": "43m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -6902,12 +6907,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.29,
-    "news_title": "Look West: Jobs and Prosperity for a Stronger BC and Canada - Province of British Columbia - Government of British Columbia",
-    "news_url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1sb3l0N0g2Tm15TDdBc1VvMkpkdWl4QjM3ZlRndHFGd0VFXzh1VVdpYU9HdGtWbk9nTFlSWlZKMA?oc=5",
+    "news_score": 0.48,
+    "news_title": "🚨 Official: PSG land a 2026 World Cup winner! - Yahoo Sports Canada",
+    "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWE95MDlYdWNGUU5wTnV6ZDhqNy04VndJRWgzLUJYS3E0VjF0SHVENGxscGRHWEhiM1JBamxHVWpIZmZCOGJhaW95cGI3Zkw0QWxKQlV4Wk9UMDRvd1lyNFJ0S3NMYTVQQ1VVSTB1ZzhvbDU5QjhSaWRQNHRWSVBpLWFR?oc=5",
     "news_image": "",
-    "news_source": "Government of British Columbia",
-    "news_age": "98h ago",
+    "news_source": "Yahoo Sports Canada",
+    "news_age": "22m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -7965,7 +7970,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.1,
+    "news_score": 0.11,
     "news_title": "Japan defence minister visits contentious Yasukuni Shrine to war dead - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2Y1MVdnLWFNQjVJSEhYT3VRT3ZMd2FuanpmUGw1SUNpR3hYWi1oMGtVYTdHTV9rZVVaaTZZWVVKSmRCVU1MR1VBaTBpQTc0Q2FKekhqZG5ZOXVxY2Rpcmt5X3VzdHl0WEJrQWlDSEFGU1hVMUFMdTdMWnFfTUpBVkU5VFYyV0NvcFBzd3BOTDBYLVBoZER4MGNrbzIzeXB5a0xNN2ZnZ0NBRDc2bU05Q3dVVTk?oc=5",
     "news_image": "",
@@ -12937,19 +12942,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.25,
+    "news_score": 0.32,
     "news_title": "Iran war: Trump to declare Hormuz US territory 'soon' - DW.com",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV0pNazY0MnZNc3J0Q2JpLW5tRTlQX2hKU09PUklUTmptUWRld2tkS0VIRXZtMkJhMllOMDktYS1zTDFGeGFfc2dyWXBSeVd2dTRlZWlsTUhaOGVEdjhtYzJ5WllzWmlKMmhtTzRBalZ3YlIyY3d0OUxGQ1hVSHJUdF9VbldpOExzcUpsc3g4Z0h2WGNNelQwMjhtSk9GMm1aTFVnYdIBpAFBVV95cUxPS0dmcDNONktlSmNqZHNPTURJdlc2bUpxSHZmRXhtQnRCaVNIaGo5bExPdDFYUjRlMHhYRzRVLW9NVHhqX1UyVGhMUUVSQ0lldG5DeEs3Y2dUa3BsMjJra1ZPeTZUMkFseWdNR19WdS1IZ3ppdW02YndhcU5JbHN5QXlEZWU2b1RuWGsxME5vdnEtV3dVQjQ2cU9LMUt5NWNaZjFqNw?oc=5",
     "news_image": "",
     "news_source": "DW.com",
-    "news_age": "3h ago",
+    "news_age": "6h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13969,7 +13970,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.47,
+    "news_score": 0.7,
     "news_title": "Is he Germany's next Urbig? 18-year-old already looks world-class - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZGRSbE5wY3Jva0xoZzJPY0NOMjdqZmZiMjN1Z1E4dlVTdnNhVDZBUDcxN1dTT3lvOExSd2hMck5MbmFISmtpNGFia1IxVXJPRVJUVFVrWjV3WVoyb3JMNWVBN3VSdHdHWlJZMlBvNUxqdDNRcFJMWnRRUWFnWU1aZQ?oc=5",
     "news_image": "",
@@ -13977,7 +13978,8 @@
     "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "basket"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16703,7 +16705,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.46,
+    "news_score": 0.45,
     "news_title": "Kingfa Science & Technology (India) standalone net profit rises 101.58% in the June 2026 quarter - Business Standard",
     "news_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSWhBZzJOelQyYW5QamRXMXBrTVFVME9tX2lHTTRCVTdoZHAzSTc4VVhMTGI1NE1FNlhxSFB4NmhiWlVtUmVLa1VVTEhzSlpvbkExSGJNQnVZMHh5dTlWM3F6ZEVkWEZlR2huaktwUUZpNDVWMEw0em1aSUhxYUtMRTF5V3luSEpEb3lKNG5XN3BwS0x3MnNQVlJwLXlqRV9xTlRXaHJUdVVrQW0xeUR2bGI4b1VCTWdpTnNra01URy1WNTFkMzRhM2JxTjIxZzJRU25ucVFwelpQNmlYLXYxbVJGamtnbUdybmNScFg4WDNIZE5kaWZjZFBrSkhhSjMyb01V0gGIAkFVX3lxTE5kUU56RDd5eDR4RUZWdnAyRmhSZGJmWGVMUF9QRTVLV3RGUFlhTERjR0gyRnVuRzMycHhYVTlyajNnRWl5cENzRFZ5SFJyWWVMQ09NRjVQNXJjM2dYbEltYVBjT1g1WHNGLWlXMkdCcEE5VlF1dEI1Q0ZFbjVhR2Jvc2tyME02R1lhd085cURQMjNDM0JQaGNuVmlqQ3NWS29wTmdzWXdrNnM1M011bmxOUkxmVlFGdkQ0c3FHdlp6ZHI5V0NvS2trZFdVSmF4Q0lDalNtN000V3BId1haRDlzdE93dVdjakV0SERWXzN6bzROQVdZTkVJME9ya1pzY2U2amN1VXlaYQ?oc=5",
     "news_image": "",
@@ -17008,7 +17010,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 0.3,
+    "news_score": 0.25,
     "news_title": "Indonesia earthquake: 7.7-magnitude quake strikes off coast of Indonesia, killing at least 5 - ABC7 Los Angeles",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWnBaYTIyNUJGTnVjUmxHclVLYk1UUWZQSjRJTGkwWGc3YnQzQzFHNHVPUG1TbE5lZHE3SDE0cFhDN3Q3UFgwLTJ3VHlIc0tnWXJla0JEM19LV2N5WW1WbEpBcTlTMkZvRFBsS1FXZVRjWTdGODZxMDVzV2d4TnRoNTdlVC1wdUJDRVJMU2ItUkFJTmfSAZgBQVVfeXFMT21KRDR3dTNjbFd4S1RKQkc3TFQ1YVVmNWNiX2tYZGFkZ0pMWVJKa1B4NC1HMkJFYmZCWnhHU2lpWXlibzNyUlFudkVMbENvVjB5Y3E0WFdBZndhVXAxalR4aGlUR1FwSFJvdm1jV1FzSHhteDQtTmFfTlBWbnFLdTlUQzRseEI4VWxsLVBDMlVSMmxpTERMSFg?oc=5",
     "news_image": "",
@@ -17274,14 +17276,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.33,
+    "news_score": 0.24,
     "news_title": "Iran war: Trump to declare Hormuz US territory 'soon' - DW.com",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV0pNazY0MnZNc3J0Q2JpLW5tRTlQX2hKU09PUklUTmptUWRld2tkS0VIRXZtMkJhMllOMDktYS1zTDFGeGFfc2dyWXBSeVd2dTRlZWlsTUhaOGVEdjhtYzJ5WllzWmlKMmhtTzRBalZ3YlIyY3d0OUxGQ1hVSHJUdF9VbldpOExzcUpsc3g4Z0h2WGNNelQwMjhtSk9GMm1aTFVnYdIBpAFBVV95cUxPS0dmcDNONktlSmNqZHNPTURJdlc2bUpxSHZmRXhtQnRCaVNIaGo5bExPdDFYUjRlMHhYRzRVLW9NVHhqX1UyVGhMUUVSQ0lldG5DeEs3Y2dUa3BsMjJra1ZPeTZUMkFseWdNR19WdS1IZ3ppdW02YndhcU5JbHN5QXlEZWU2b1RuWGsxME5vdnEtV3dVQjQ2cU9LMUt5NWNaZjFqNw?oc=5",
     "news_image": "",
     "news_source": "DW.com",
-    "news_age": "3h ago",
+    "news_age": "6h ago",
     "news_columns": [
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -18001,7 +18008,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.02,
+    "news_score": 0.01,
     "news_title": "Iran wages economic war in hopes of outlasting U.S. and Israel - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2ZCVmJ4amt6UTBvQ05kcDBFWnNzb1N6QldHQ3RSWVZ0NUdzemNtaTJGaTlzM1N5dVR0djFiVV9XUGNSc1JCR2RnczNYeTUxMW5WZU5aMmJLMVVqcElmVHpibHdWMm9xOFlLWGlhY2NlQUV5cDVVcTRWZHJaNGxjaXVR?oc=5",
     "news_image": "",
@@ -18444,15 +18451,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.68,
+    "news_score": 0.84,
     "news_title": "📺 Saturday's schedule: Brasileirão, Série B, Coppa Italia + 🌏 friendlies - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNG51Y2RiNzVVZmxIejhOb0hlb1hUdE5YVlNoRmlkTzJ5NFBsaW82bmgyRVBybkU2THd5ZHJyZFdHVTV2Z2o1TEFYZFRRR0NtTWozN3dfVy1xbGxqLU53VGUtTzA0bW5Bd2JMMmdZdURDSDBnQ3ZEcm05WmFEbXNITi1pc1AxRWY1YWNv?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "93m ago",
+    "news_age": "95m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "basket"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -19132,19 +19138,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.24,
+    "news_score": 0.32,
     "news_title": "Japan defence minister visits contentious Yasukuni Shrine to war dead - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2Y1MVdnLWFNQjVJSEhYT3VRT3ZMd2FuanpmUGw1SUNpR3hYWi1oMGtVYTdHTV9rZVVaaTZZWVVKSmRCVU1MR1VBaTBpQTc0Q2FKekhqZG5ZOXVxY2Rpcmt5X3VzdHl0WEJrQWlDSEFGU1hVMUFMdTdMWnFfTUpBVkU5VFYyV0NvcFBzd3BOTDBYLVBoZER4MGNrbzIzeXB5a0xNN2ZnZ0NBRDc2bU05Q3dVVTk?oc=5",
     "news_image": "",
     "news_source": "Reuters",
     "news_age": "6h ago",
     "news_columns": [
-      "democracy",
-      "press",
-      "gpi",
-      "polit_kill",
-      "military_pct",
-      "nuclear"
+      "olympic",
+      "fifa_w"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
