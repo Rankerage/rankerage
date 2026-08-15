@@ -207,7 +207,7 @@
     "union_rate": 38.4,
     "union_rate_rank": null,
     "fifa_ranking_rank": 136,
-    "news_score": 0.25,
+    "news_score": 0.23,
     "news_title": "Concerns grow over increased global ties with Taliban in Afghanistan - theguardian.com",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUcwZmlieHVTblctVUFxREhEWF84RHhHazFkR0hMMFJuaThzTHpKNVprZ1lFUExDSzRQZF8zNXVab1ZfX0w3cGJsZV9oRVE5UzJFQjQ1ckp1czB2X29SNXRMTGtkN3AwUUZLRDZscmkyUnNOM3N2UmtrbDhEczFPV2dldU9UNHV5MDhER1JZbUF0QUc4VWQ4bGV6NWRKUXBlQTluNEJB?oc=5",
     "news_image": "",
@@ -3309,12 +3309,12 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.68,
+    "news_score": 0.67,
     "news_title": "Bangladesh wants durable economic partnership with US: PM - The Daily Star",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0RobDA2R00tX05jNHMwamZwS2hycTk3WUo1MzJBeXZLYXo1SWRqRVcycjg1Nm8yZmM4dXh6cGNNYkdENk9uYl9BWjN5LURiRTFyWkVGWXJfWGVlOG1kRVV1WTVpek5OUWtrMy1pZVJfUzkwSWxCZ1dUZlFYSlhJa2lFV2JXald3Z1hzZ1J2TXBhbm5xZjV2MkhTZGE1Y3lsVlZNWDdfWGg3LXNrd2Rr?oc=5",
     "news_image": "",
     "news_source": "The Daily Star",
-    "news_age": "96m ago",
+    "news_age": "98m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -7973,17 +7973,19 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.05,
-    "news_title": "While the world is distracted, China steps up its strategic game - Reuters",
-    "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONFc0bWlGZ294ZWg0NnB1eGJKN3FROERvclpMS0hIZkVraGEyS0tRZW5kQVdCYXExTEF1ejdTNG9jU3lrbjBSSktNYVlBaWxaLWZnR3o2endjWmRTbHBleVdMT0RPMEdZRTNVM3UyRFk4emRZZFVnM09tdGJyNWR2N29HUFViWVlqRUxVMkVCLUNnMGxBMFhGeWhJNk1hRi0walVqT3p4eW1Gdw?oc=5",
+    "news_score": 0.06,
+    "news_title": "Xi calls for improving disaster prevention as floods, landslides batter China - Reuters",
+    "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcTdub1VTd3ZJN1RMU04yMzZwQlNSZHJWblg4bElqNGZGVkQ1dTdaYVc1QkdiVlR1dTEtR1NyRHBJV291TlRubE82UEZibjBCVlFGVTdqN3ZvdmVkU0lPU0plWUl4cWptcXpWTUdJVUxrQ1FvUWF1bGxCalNXaG1jQzBkR2xHT0RjbWlBTUlKMjkzbVhWcFZWZFRFSi11MUlITFZDamVrc2x5SnZlOFJMTnRjaUdBMFZq?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "27h ago",
+    "news_age": "8h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "earthquake_count",
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -12950,7 +12952,9 @@
     "news_source": "Newsonair",
     "news_age": "56h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13966,7 +13970,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.06,
     "news_title": "Is he Germany's next Urbig? 18-year-old already looks world-class - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZGRSbE5wY3Jva0xoZzJPY0NOMjdqZmZiMjN1Z1E4dlVTdnNhVDZBUDcxN1dTT3lvOExSd2hMck5MbmFISmtpNGFia1IxVXJPRVJUVFVrWjV3WVoyb3JMNWVBN3VSdHdHWlJZMlBvNUxqdDNRcFJMWnRRUWFnWU1aZQ?oc=5",
     "news_image": "",
@@ -13975,8 +13979,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -15355,7 +15358,7 @@
     "refugees_rank": null,
     "union_rate": 65.3,
     "union_rate_rank": null,
-    "news_score": 0.59,
+    "news_score": 0.74,
     "news_title": "Haiti’s Gonaïves keeps World Cup spirit alive with 48th ‘Mundialito’ championship - The Haitian Times",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOejVHcEdCc1l5dnp1T2R4UHgwVGdWcU5Va2VGSUF3OEFjeU5talVaTzJDY3VZVmNQelBaYlBUdUY4Vk5Kd0pMdWVLcjh6V2R6ajc1Q1RScV8tdmhwMmp6YWJ3ZWxBWk54eWpXNFZKWGk2b1RVaUxTMUY5T1h1ZU42TzRHbC1ucmRqR2dMd0FTNE4?oc=5",
     "news_image": "",
@@ -15364,10 +15367,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -16703,7 +16703,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.71,
+    "news_score": 0.7,
     "news_title": "TN Science & Technology Centre to hold math, science talent test for school students - The Times of India",
     "news_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRTRFRkhzdThjejhuclNDVlNScTBDM0dvWDI0STMwN19PcTBLVE4yU1VWcXBmXzFVejE4SXF1T0owM05mXzB1UjNPVlhPa0p3UVJUYVNMUG1hYlpYMGktdXBCWEZzYmhaNElXclpFVlJLaXVoZ0g4SlJneGdTYVVNdmN6UmJvVmNOSEdEU0Q2LVNTSllMaTNpR0VrTzlITTlNR1gwd0hKZ2ZNLXplWW9jc0ZxVWxLRm1rZkZvV3RkekdYWGhnWllPbWctYmxrTUdQcXNZSGdUNnFtend3VXItcFVUMzE0ZnVaOEpzMdIB8gFBVV95cUxOdFo1MWhNbFlRR0s0T3lRWGNHZ0dxclFHYUxNb1Q1ajB2eF9HbDJYMjljSzhHYXZGUVpkRE5CX0FkM3drOURhZTlvYTdBYWlHeHBLVTVSTDYzTTFOV1FGeGpVMkgyUHlOYmZLOGpKdUJ1YS1kdGJrU00yejhBb09KMG9Sc2dLVDBtbTVqVm8xSGZXd3VIUWdzS203TS1vV2o0bTRHSm5kYTUzMDFFcUxDLTlXcG8xM0RnbUtvc0hya0VUU09JN3JyVWZZc0JyTGRacU1wVEI5MGtITm9QcjV6ZzI5clVuYXltbHVBT1p1Q0RSUQ?oc=5",
     "news_image": "",
@@ -17013,14 +17013,19 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 0.47,
-    "news_title": "Magnitude-7.7 quake hits off coast of Indonesia, killing at least 47 - NBC News",
-    "news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51U2tXT01TeEdpZ2g1UEg0MUxjMFhyZTBBRzE2R3BObExUOUhGNUdmNVdjUlVtSTIydmNmSjdzTUdDYllON0FUX1Vtam5HLVFDRG9XV09VeTdFLUZwUVRkUkRwU0ZQQnNkR1JJUHRJdWhYcVJqemRBeXRUZw?oc=5",
+    "news_score": 0.34,
+    "news_title": "At least 38 killed as magnitude 7.7 quake hits Indonesia - aljazeera.com",
+    "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXN0amxXeTVhSnZSWUdGc29mcFBDeG41SHNaVW1BSkJlc3JNOW5WRlZmWW1SRFM5V1pybkhwc29CMVFKS2UwQVBMUG5DMUVVSTNNX2Zud3MyU1lwQV9zN0lTdEtyZ285SHFpamdHYU9XbDNKci1MZUUtZ3o4RUk3aFBMYmZDTndLWU5uN3VKYV9rTUlQWTlFYlRnazJtbHPSAaQBQVVfeXFMT2NPVExXcVR1elh1Z29HY0V2SHlzdHRYNVNXVVQ5c3k3STQ4THBrbVprYUtxcTFZSE9ORVRIeVAxZU5VQXFtUjRuR0Zuekg4c1ZveVhaWTY5Z3JpS3JfS2FvclliZ0otNGNNX3ZwZmtxMjRPbTV0X3N6TTZpNDVsMGROZlEwLXcyTmZvYUVLSDgyMk5LSVp0YWVhMzdrM1cxTnNDWEg?oc=5",
     "news_image": "",
-    "news_source": "NBC News",
-    "news_age": "2h ago",
+    "news_source": "aljazeera.com",
+    "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking"
+      "earthquake_count",
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17274,19 +17279,16 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.86,
-    "news_title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS1ZVeVR3dkRTVHNDamZQUkxBc0FUS1RVQlh4WnJnM0hESmZYZUhMdkk1a3JaNE9IQUFMT2hGWU1CU1VkYkxCbUVpUGp0YzJNYmU2U05tZ2ViNE5hWVVnZUtyUW0zNjVLMk9IRDBVSzR0cTFlY0dsUDRGUXlEaWlFUFN5Qk5LTnJkQ0R5NDRpSUpiWmFoQVpKQ2VHaHJIY0o5SmN2OUE5Zm1ndw?oc=5",
+    "news_score": 1.17,
+    "news_title": "Live updates: US-Iran war; Trump says he ‘did the right thing’ and would ‘never apologize’ - CNN",
+    "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jZlpLZGNVVU9BX2JPcU13ZWt1SXZPLWZmaUdhR05fcWdmUmtZMHRTNFZNdUllN2g3MHU0ejRidWVqSVRtUkRwSnlmOFI0U3BPX1FGaXEyQTl1VjVhNTh4Y1BRbU5kUGhvU2JfN1lR?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "95m ago",
+    "news_source": "CNN",
+    "news_age": "46m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -18006,18 +18008,16 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.81,
-    "news_title": "Israeli strikes kill 11 in south Lebanon after Hezbollah wounds 3 IDF soldiers in attack - The Times of Israel",
-    "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT1ZKX0ZEbHRQMERUcWlMNzZYS2U5NGxFamRaS2dpQUFURk50b1VvN3ZVbm1acjdUYXR6UC03OTJBb0x2VGs1bVN2ZXMwVVVaWTRsb2tYTTZYWFNBbVFLb2FaUlJfUklqNzBwSWNSdVpJeFhoV2ZQTFRnS2tMMEtkenowUFdFMkVwelRiRWpjcGc0Z0pOUGdGT2UtSjQxX0hIVFNlbWJjOGN1MGl6aGJpZW9WOHU5bXlrYXfSAb8BQVVfeXFMT2RwX3hnaDZnanQyWWJlclZ1ZUdTTUJINl9tQnpzR292bDlfMnNlZjZuOVJZRkZJakV1SDg0Nmg4ang4anJlZXVqcVp0eXFrRy1xenJDZjhNall4TXBYTVpycm5FeXNfZzc4T04zMjZYcDV5LWpHb3d3Z3kyZGJReDNBWHZRc0Rsak5PRWlRQUU1TVJYQmZ4SFB6TW44d0dTdG9kZ0Nta2NMLTQxRXhNamNIS1hrWURMRmRaRVBieGc?oc=5",
+    "news_score": 0.77,
+    "news_title": "Iran wages economic war in hopes of outlasting U.S. and Israel - The Washington Post",
+    "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2ZCVmJ4amt6UTBvQ05kcDBFWnNzb1N6QldHQ3RSWVZ0NUdzemNtaTJGaTlzM1N5dVR0djFiVV9XUGNSc1JCR2RnczNYeTUxMW5WZU5aMmJLMVVqcElmVHpibHdWMm9xOFlLWGlhY2NlQUV5cDVVcTRWZHJaNGxjaXVR?oc=5",
     "news_image": "",
-    "news_source": "The Times of Israel",
-    "news_age": "72m ago",
+    "news_source": "The Washington Post",
+    "news_age": "3682h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -18449,12 +18449,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.82,
+    "news_score": 0.81,
     "news_title": "Coppa Italia Live: Follow First Round fixtures and results - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYmRpaTlUb3hjUU05a05xTHFjMWFwSDBwaVRQZlpNdm5TNUtZZ3hIczQ5OHFoVnhFYXdqVmVyZXZ5UnNLV2hiUlBuV0dmbXdjVDVmZW95ellxR0RhY1VDdmh1S2tzOWRPSVAySmY1RkNocF9SQTluVGdJU3FVajFHRkpqMGs?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "49m ago",
+    "news_age": "50m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -19321,12 +19321,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.26,
+    "news_score": 0.44,
     "news_title": "Jordan Seaton opens up about picking LSU, body transformation - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMTJhS2hpU0ZTeDJlZ1BMZHlSVGZkQ2xpR1FIZ1NfcEtTM2pJek5ScnF3cnd1V283cjBid0xpVXdVb19yY3JGMUk0cUJCYWhpZ2lUN09tM2ppQnB2RWd2MHIwVnVxVjlvR29oY2p3dW5TRXlNdGFCUTNMVDlnQVRobW9mdE5hekk?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "30m ago",
+    "news_age": "32m ago",
     "news_columns": [
       "lgbtq_rights",
       "gay_marriage",
@@ -21120,18 +21120,16 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 105,
     "fifa_w_rank": 87,
-    "news_score": 0.65,
-    "news_title": "Israeli strikes kill 11 in south Lebanon after Hezbollah wounds 3 IDF soldiers in attack - The Times of Israel",
-    "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT1ZKX0ZEbHRQMERUcWlMNzZYS2U5NGxFamRaS2dpQUFURk50b1VvN3ZVbm1acjdUYXR6UC03OTJBb0x2VGs1bVN2ZXMwVVVaWTRsb2tYTTZYWFNBbVFLb2FaUlJfUklqNzBwSWNSdVpJeFhoV2ZQTFRnS2tMMEtkenowUFdFMkVwelRiRWpjcGc0Z0pOUGdGT2UtSjQxX0hIVFNlbWJjOGN1MGl6aGJpZW9WOHU5bXlrYXfSAb8BQVVfeXFMT2RwX3hnaDZnanQyWWJlclZ1ZUdTTUJINl9tQnpzR292bDlfMnNlZjZuOVJZRkZJakV1SDg0Nmg4ang4anJlZXVqcVp0eXFrRy1xenJDZjhNall4TXBYTVpycm5FeXNfZzc4T04zMjZYcDV5LWpHb3d3Z3kyZGJReDNBWHZRc0Rsak5PRWlRQUU1TVJYQmZ4SFB6TW44d0dTdG9kZ0Nta2NMLTQxRXhNamNIS1hrWURMRmRaRVBieGc?oc=5",
+    "news_score": 0.93,
+    "news_title": "Israeli Strikes in Lebanon Kill 11, Health Officials Say - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMU5NTUJIV2VJSGxLYVM3T0wydUtvUmhfcG12WlRsSU8tbEFFT0s3ZktZRTJHVkJoNE1GYWtnbUFzMFhKaE1ub1NVaktEOFQzeEsyT1MtZFZZTlRFZ3FiWVhoNjBGRVN1dmExQVNMY2lkOEpqN0FpTWtZbmNtU2Fxams1TjltQnBkR1dTNmxn?oc=5",
     "news_image": "",
-    "news_source": "The Times of Israel",
-    "news_age": "72m ago",
+    "news_source": "The New York Times",
+    "news_age": "61m ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -21852,13 +21850,13 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 148,
     "fifa_w_rank": 119,
-    "news_score": 0.58,
+    "news_score": 0.61,
     "bottom50_wealth": null,
     "news_title": "Liechtenstein changes its rules to allow women to inherit the Alpine principality’s throne - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeks3dFFoNHJwR3dMMmRmUnR3cUZIMm91QktlbXlTQnJsQTNZaDV2U1hHUGYtYmhnRTdpVWNwcUp1MENVa3o0dUh0MW11TWhLUU8zb3JKOUN3S19wdElLakJTVlBXY3dzaU5udTlUUlZxRHNZdVppQjczZWFtUXJvM3JBVzBScWtnZW1LUDJhYS1wOV83S081UmgwOEtDTERKa3FpY0ptQQ?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "84m ago",
+    "news_age": "86m ago",
     "news_columns": [
       "gender",
       "gender_gap",
@@ -36491,14 +36489,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.7,
+    "news_score": 0.74,
     "news_title": "Spain's Perez and Italian Fiorini set women's race walk world records - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRUxRRV9nQ3I2Rk5Sa1dCU2Z5SUNwX3NmOE5LUU9zUC1DZUt1UnUyRVNuamlGTGZVcUV0NnR2OElnWUJETnUwRHhzLTBzYUlVaWdWazJ1alZzRXlWbXg1bUhuYVhVMHItWWJNZG1JVTJ4ck55VjJLYlVxOVFGcGhoelg0WlFHeXBrY3o5SFBSNks0NmlkNFF3RlJVY1RlRm1hcEZrN05vUQ?oc=5",
     "news_image": "",
     "news_source": "Reuters",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -40043,7 +40043,7 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.04,
+    "news_score": 0.03,
     "news_title": "Pakistani consul general calls for stronger business ties with Türkiye | Daily Sabah - dailysabah.com",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ3ZMXzA2QktKQXRLRjFPVnBhTGNHcWNJYXFubnAyUWFlQlVPbXp0OWtUUHRYNW5hdTc1VDl1N1ZOTkRadTI1QjhaUlFGaC1VV2I2QW9OalpfeG1xRW1qQkNnRWtaYVpwX2NheFp6RXpYMGtReW1uMmltRWMxc0JKdlk0aDZaMDRRRnJ0ZkRwYjhweUtIWHc0RmJLdmloS3JER2FaMm4zVjZLd0YxU3VKRkM3NELSAboBQVVfeXFMUHFBVmlZNEh6WGFObjhxeDdaTE8wZjNNRW1TM0Z6c3Zwcm44SUlhQ0FlaUVJYWI0Rm5USC1VcEpyV1lEUlVqZzhzTndpS05idWZwLW9uNWp5QTVveGpTUHh6ZjRWU0ZIZzAtSHRqejJ3NjVRSkF2YUFGaTdxYkg0Sm1TSjBOTVN1SnpPd2Y4VXpRbjlKQzQ2bU1uSGg1Ri1maUpSOWpuOFZTQm1MQ3JLVVdNY19BSDNyRU9B?oc=5",
     "news_image": "",
@@ -42265,7 +42265,10 @@
     "news_source": "USA Today",
     "news_age": "5h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
