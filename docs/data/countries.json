@@ -207,7 +207,7 @@
     "union_rate": 38.4,
     "union_rate_rank": null,
     "fifa_ranking_rank": 136,
-    "news_score": 0.28,
+    "news_score": 0.21,
     "news_title": "Entrenched, Embattled and Defiant, the Taliban Celebrate 5 Years in Power - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY3kwTmNVcnRiRzJMTjBJd2pMblk2RkRGSnNkUmwybzNkUGRLVFZkRFNZcVUtcDEtV3ZSYzlFNmk2ZnlBTG44ZGlpYUNFVDMzN0NYUy1BVlp0bnJXMjdqM01ZS21mTm01V1MySXNDSmxHaGt3Rl9BelFCaUQ5OUc4c0dzOE5nTjFvaWFlRVRrdlpKaTdlNEthTVVmSkZ5OXBfQnBfTVR1Qy0xVWl5MmJpR1d0eS1ZeHNXQjNIb1JmNA?oc=5",
     "news_image": "",
@@ -1923,14 +1923,15 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.78,
+    "news_score": 0.77,
     "news_title": "🚨 Official: an Argentina stalwart signs for Atlético de Madrid - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTGk2WGRmZWgyRWV4TGhtSmxsbmtidHZRUVpoWmdOaUR0NnIyQk5qZmN3MVRJUVNGcm95RFA0SmduMGhSb2J3LXhMbnJOc1JzLTk2VjJ6QVFySU9HOFJ3TFBGREF3TU40UHp5NjNRYXFNOEoyWDV5aVh4ME5aNGEwVGl5aUdkVEdrNU9SSUJ3WQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -2538,14 +2539,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 1.13,
+    "news_score": 1.12,
     "news_title": "Bangladesh rock Australia as historic Test win in sight - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1JneHVFZFlrR0w2SnJyaFdmTDdPOHI2OFVWaFJnMmZ6V19lZXRXeW5KZFNxa1RSR3lIZnJJNzNQSE5kVFN3TzdGOWRJMXRlV21BSG51X0dZc05WY1pCSTFYR2tGM2RTWm5uWkl5SGV1YlJBVm5EUFJUQldweHM4UXR6MGJnMFdONTBwa0U4dVA4Zw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "35m ago",
+    "news_age": "37m ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking",
+      "basket"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3305,16 +3307,15 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.95,
+    "news_score": 1.23,
     "news_title": "Bangladesh rock Australia as historic Test win in sight - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1JneHVFZFlrR0w2SnJyaFdmTDdPOHI2OFVWaFJnMmZ6V19lZXRXeW5KZFNxa1RSR3lIZnJJNzNQSE5kVFN3TzdGOWRJMXRlV21BSG51X0dZc05WY1pCSTFYR2tGM2RTWm5uWkl5SGV1YlJBVm5EUFJUQldweHM4UXR6MGJnMFdONTBwa0U4dVA4Zw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "35m ago",
+    "news_age": "37m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -3809,7 +3810,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMlFid0JER2FXODVCNE16VDk0c0JmZEpwSC0tenB2ZWdBdEVBMWRfdTlqWVkyRmVqY3FrNUVodW1iV2Rxa28tZ2RlLWlLX2JyZzBzcnNib2hFTmVYVEVsMzZ6dldVRjJjQm1hQ0E5WFBsa3ZYcWp4c0o2OVNpbFE2S01iZU11d2t0ZjM5aW5QSHNtOTRx?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "8h ago",
+    "news_age": "9h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -6902,12 +6903,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.39,
-    "news_title": "🚨 Official: PSG land a 2026 World Cup winner! - Yahoo Sports Canada",
-    "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWE95MDlYdWNGUU5wTnV6ZDhqNy04VndJRWgzLUJYS3E0VjF0SHVENGxscGRHWEhiM1JBamxHVWpIZmZCOGJhaW95cGI3Zkw0QWxKQlV4Wk9UMDRvd1lyNFJ0S3NMYTVQQ1VVSTB1ZzhvbDU5QjhSaWRQNHRWSVBpLWFR?oc=5",
+    "news_score": 0.2,
+    "news_title": "Look West: Jobs and Prosperity for a Stronger BC and Canada - Province of British Columbia - Government of British Columbia",
+    "news_url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1sb3l0N0g2Tm15TDdBc1VvMkpkdWl4QjM3ZlRndHFGd0VFXzh1VVdpYU9HdGtWbk9nTFlSWlZKMA?oc=5",
     "news_image": "",
-    "news_source": "Yahoo Sports Canada",
-    "news_age": "14m ago",
+    "news_source": "Government of British Columbia",
+    "news_age": "98h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -7963,16 +7964,19 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.01,
-    "news_title": "China's Science and Technology Strategy in Perspective: Historical Evolution, Political Drivers, and Global Implications - RAND Corporation",
-    "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50MEJKYnVDelp3Mk9NcEVhcFFGMVB2MFJxSGh5d21TQm5vay1TbWJmUE1XR3FBbUNZaS1zLTRfazd3b205Wi1IYTdvR0lwd09RdDdFY292RDBwYVlKRG5mY3kxMFozQXdQ?oc=5",
+    "news_score": 0.05,
+    "news_title": "Japan defence minister visits contentious Yasukuni Shrine to war dead - Reuters",
+    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2Y1MVdnLWFNQjVJSEhYT3VRT3ZMd2FuanpmUGw1SUNpR3hYWi1oMGtVYTdHTV9rZVVaaTZZWVVKSmRCVU1MR1VBaTBpQTc0Q2FKekhqZG5ZOXVxY2Rpcmt5X3VzdHl0WEJrQWlDSEFGU1hVMUFMdTdMWnFfTUpBVkU5VFYyV0NvcFBzd3BOTDBYLVBoZER4MGNrbzIzeXB5a0xNN2ZnZ0NBRDc2bU05Q3dVVTk?oc=5",
     "news_image": "",
-    "news_source": "RAND Corporation",
-    "news_age": "2450h ago",
+    "news_source": "Reuters",
+    "news_age": "6h ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "democracy",
+      "press",
+      "gpi",
+      "polit_kill",
+      "military_pct",
+      "nuclear"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -12932,14 +12936,14 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.36,
-    "news_title": "Indonesia lifts tsunami warning after magnitude 7.7 earthquake - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SYzRXME45czZmbUttdVZXTDVsR0dwSDhXTV9GMlI5LXFVRjJTUnpnUHJqendZLVFDMFhKQjNRc2hmV1pzZUxqb0tLYVNkeGY2aTdkZg?oc=5",
+    "news_score": 0.29,
+    "news_title": "Iran war: Trump to declare Hormuz US territory 'soon' - DW.com",
+    "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV0pNazY0MnZNc3J0Q2JpLW5tRTlQX2hKU09PUklUTmptUWRld2tkS0VIRXZtMkJhMllOMDktYS1zTDFGeGFfc2dyWXBSeVd2dTRlZWlsTUhaOGVEdjhtYzJ5WllzWmlKMmhtTzRBalZ3YlIyY3d0OUxGQ1hVSHJUdF9VbldpOExzcUpsc3g4Z0h2WGNNelQwMjhtSk9GMm1aTFVnYdIBpAFBVV95cUxPS0dmcDNONktlSmNqZHNPTURJdlc2bUpxSHZmRXhtQnRCaVNIaGo5bExPdDFYUjRlMHhYRzRVLW9NVHhqX1UyVGhMUUVSQ0lldG5DeEs3Y2dUa3BsMjJra1ZPeTZUMkFseWdNR19WdS1IZ3ppdW02YndhcU5JbHN5QXlEZWU2b1RuWGsxME5vdnEtV3dVQjQ2cU9LMUt5NWNaZjFqNw?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "5h ago",
+    "news_source": "DW.com",
+    "news_age": "6h ago",
     "news_columns": [
-      "fifa_ranking"
+      "olympic"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13959,7 +13963,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.49,
+    "news_score": 0.7,
     "news_title": "Is he Germany's next Urbig? 18-year-old already looks world-class - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZGRSbE5wY3Jva0xoZzJPY0NOMjdqZmZiMjN1Z1E4dlVTdnNhVDZBUDcxN1dTT3lvOExSd2hMck5MbmFISmtpNGFia1IxVXJPRVJUVFVrWjV3WVoyb3JMNWVBN3VSdHdHWlJZMlBvNUxqdDNRcFJMWnRRUWFnWU1aZQ?oc=5",
     "news_image": "",
@@ -13967,8 +13971,7 @@
     "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16999,19 +17002,19 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 0.3,
-    "news_title": "Indonesia lifts tsunami warning after magnitude 7.7 earthquake - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SYzRXME45czZmbUttdVZXTDVsR0dwSDhXTV9GMlI5LXFVRjJTUnpnUHJqendZLVFDMFhKQjNRc2hmV1pzZUxqb0tLYVNkeGY2aTdkZg?oc=5",
+    "news_score": 0.34,
+    "news_title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 20 and toppling buildings - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "5h ago",
+    "news_source": "AP News",
+    "news_age": "2h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "earthquake_count"
+      "earthquake_count",
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17265,7 +17268,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.25,
+    "news_score": 0.22,
     "news_title": "Iran war: Trump to declare Hormuz US territory 'soon' - DW.com",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV0pNazY0MnZNc3J0Q2JpLW5tRTlQX2hKU09PUklUTmptUWRld2tkS0VIRXZtMkJhMllOMDktYS1zTDFGeGFfc2dyWXBSeVd2dTRlZWlsTUhaOGVEdjhtYzJ5WllzWmlKMmhtTzRBalZ3YlIyY3d0OUxGQ1hVSHJUdF9VbldpOExzcUpsc3g4Z0h2WGNNelQwMjhtSk9GMm1aTFVnYdIBpAFBVV95cUxPS0dmcDNONktlSmNqZHNPTURJdlc2bUpxSHZmRXhtQnRCaVNIaGo5bExPdDFYUjRlMHhYRzRVLW9NVHhqX1UyVGhMUUVSQ0lldG5DeEs3Y2dUa3BsMjJra1ZPeTZUMkFseWdNR19WdS1IZ3ppdW02YndhcU5JbHN5QXlEZWU2b1RuWGsxME5vdnEtV3dVQjQ2cU9LMUt5NWNaZjFqNw?oc=5",
     "news_image": "",
@@ -17997,19 +18000,19 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.05,
-    "news_title": "Iran targets tankers in ‘unprovoked attacks’ in Strait of Hormuz, UAE says - Fox News",
-    "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWbGN2eXRreVRtbzJ4SnZxOGZzNXkzNy1fMkNuUHFlSkx1RHJpMjFYUEJUVlFpUVRyV2V5Q013cUtaaGg4Y1VrYjZMd181dzF2LXNOX3pnZFNDajNETmJfaWh2cXZpMjdnODNzcExKWGVUSzBRUkI4YUVTOHJIZHM?oc=5",
+    "news_score": 0.04,
+    "news_title": "Israel awaits US approval for operation to seize strategic ridge in southern Lebanon - report - The Jerusalem Post",
+    "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGc0dFY1k0dnNZckM4dXdxMU1ibGdrMlk4MkxPbllzX2NDY0NPREt0TlREclRqRWFMWF80YS0yMWg3Uk9BTFg0WnRxa0Q3SHQzajFCN2ZkbTgyMTZPTkhLclo4QVVlZFBmRUxDMlhB?oc=5",
     "news_image": "",
-    "news_source": "Fox News",
-    "news_age": "7h ago",
+    "news_source": "The Jerusalem Post",
+    "news_age": "17h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "lgbtq_rights"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -18441,16 +18444,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.69,
+    "news_score": 1.0,
     "news_title": "📺 Saturday's schedule: Brasileirão, Série B, Coppa Italia + 🌏 friendlies - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNG51Y2RiNzVVZmxIejhOb0hlb1hUdE5YVlNoRmlkTzJ5NFBsaW82bmgyRVBybkU2THd5ZHJyZFdHVTV2Z2o1TEFYZFRRR0NtTWozN3dfVy1xbGxqLU53VGUtTzA0bW5Bd2JMMmdZdURDSDBnQ3ZEcm05WmFEbXNITi1pc1AxRWY1YWNv?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "87m ago",
+    "news_age": "89m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -19130,12 +19132,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.6,
-    "news_title": "Japan's Takaichi skips controversial Yasukuni Shrine visit on anniversary of World War II surrender - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTS1XUDY1NEp3RlJQdGxCVlRyWFVWckpxZlYtbENGQ0k5UmkzSFJNUTR4eWEtcDRZem5fZVVpNi1rcVRoYV9KZFFyRkg2SXpkVWhPVFIzLXdmN3EyWVJIUF9HQTF5R1FxeVU4aHktZnNEZlI4dkJneVhTYmRiVl9DaTZCN3JaSERHRE85VFBTeEtHT3cyYmd3?oc=5",
+    "news_score": 0.43,
+    "news_title": "Japan defence minister visits contentious Yasukuni Shrine to war dead - Reuters",
+    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2Y1MVdnLWFNQjVJSEhYT3VRT3ZMd2FuanpmUGw1SUNpR3hYWi1oMGtVYTdHTV9rZVVaaTZZWVVKSmRCVU1MR1VBaTBpQTc0Q2FKekhqZG5ZOXVxY2Rpcmt5X3VzdHl0WEJrQWlDSEFGU1hVMUFMdTdMWnFfTUpBVkU5VFYyV0NvcFBzd3BOTDBYLVBoZER4MGNrbzIzeXB5a0xNN2ZnZ0NBRDc2bU05Q3dVVTk?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "4h ago",
+    "news_source": "Reuters",
+    "news_age": "6h ago",
     "news_columns": [
       "olympic"
     ],
