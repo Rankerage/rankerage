@@ -214,12 +214,7 @@
     "news_source": "CNN",
     "news_age": "3h ago",
     "news_columns": [
-      "edu",
-      "literacy",
-      "pisa_math",
-      "pisa_science",
-      "pisa_reading",
-      "phd_per_cap"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -773,7 +768,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.1,
+    "news_score": 0.09,
     "news_title": "American Samoa's flag football team bows heads in underdog triumph over USA on world debut: “We are a family of brothers” - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOG8xSERPMWRTcEpoZjhGTkxyNUtRSUxjeS1rNWljYS1kenN6SlBkSVpnWVhYaFdEVENWWlA0UkJkRnVRVndhWkVXUDJycTNKTzJudE5hbXg5d2NMcW15N2l4YzY4T0hBbk9sTHBWSmtiWmJ5OU1VbjZZNFlUd211YTRaTjlHd2duTVhvWEdRbkRjSVp1MGZQTDJRbFBQVlh0WFJ6cWIyUGtKaXJxbkNscVZ4elE4bjVWOGVCcXlvM20?oc=5",
     "news_image": "",
@@ -1931,7 +1926,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTGk2WGRmZWgyRWV4TGhtSmxsbmtidHZRUVpoWmdOaUR0NnIyQk5qZmN3MVRJUVNGcm95RFA0SmduMGhSb2J3LXhMbnJOc1JzLTk2VjJ6QVFySU9HOFJ3TFBGREF3TU40UHp5NjNRYXFNOEoyWDV5aVh4ME5aNGEwVGl5aUdkVEdrNU9SSUJ3WQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "33m ago",
+    "news_age": "35m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -2542,7 +2537,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.57,
+    "news_score": 0.55,
     "news_title": "U.S. upends Australia in 4x100m freestyle relay; Kate Douglass nearly breaks world record - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGdXSGRydmEtV0ZIQ3hGcWhyZWRnSm9tMGhOX2xNWV9NWlhKQ1dSckNnUGE3ZkFuNHJKekhuMUlyYU9UOVFHc2p0OTZINHNpV1UzMEFpcGlkcElGQUxCV3lrbno3UkRZQmVBcEFFME9WNDFJcUZQZjF1akloSU55ZDhkYW5PZDFhR2FBMQ?oc=5",
     "news_image": "",
@@ -2550,8 +2545,7 @@
     "news_age": "3h ago",
     "news_columns": [
       "olympic",
-      "fifa_w",
-      "basket"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3311,7 +3305,7 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.59,
+    "news_score": 0.58,
     "news_title": "Govt’s debt outpacing revenue growth: Bangladesh Bank - The Daily Star",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2VJMktNWVhONktXZVFwQUhyVmFIWmRjWnFlZG5iNVEyeFN1ZmtFV1hVRFpkWXp6V1RTOTZXSVg4S2R4dFpuWlNLMFZHay01UWROSmhjOGM5cXVPbnJMeXd3VGlsS2s2SE5XNFVIUHZTUVp1N3plZHpmSnZSMC1ZUVBsV2oxN0c3MExIRVFzaG5EdWZQLS1UaHQ4SG9oNzZXVlZsZXlvVXFzaDFVTTI4?oc=5",
     "news_image": "",
@@ -7976,12 +7970,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.56,
-    "news_title": "Japan's Takaichi skips controversial Yasukuni Shrine visit on anniversary of World War II surrender - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTS1XUDY1NEp3RlJQdGxCVlRyWFVWckpxZlYtbENGQ0k5UmkzSFJNUTR4eWEtcDRZem5fZVVpNi1rcVRoYV9KZFFyRkg2SXpkVWhPVFIzLXdmN3EyWVJIUF9HQTF5R1FxeVU4aHktZnNEZlI4dkJneVhTYmRiVl9DaTZCN3JaSERHRE85VFBTeEtHT3cyYmd3?oc=5",
+    "news_score": 0.47,
+    "news_title": "Japan defence minister visits contentious Yasukuni Shrine to war dead - Reuters",
+    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2Y1MVdnLWFNQjVJSEhYT3VRT3ZMd2FuanpmUGw1SUNpR3hYWi1oMGtVYTdHTV9rZVVaaTZZWVVKSmRCVU1MR1VBaTBpQTc0Q2FKekhqZG5ZOXVxY2Rpcmt5X3VzdHl0WEJrQWlDSEFGU1hVMUFMdTdMWnFfTUpBVkU5VFYyV0NvcFBzd3BOTDBYLVBoZER4MGNrbzIzeXB5a0xNN2ZnZ0NBRDc2bU05Q3dVVTk?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "2h ago",
+    "news_source": "Reuters",
+    "news_age": "4h ago",
     "news_columns": [
       "democracy",
       "press",
@@ -12955,9 +12949,12 @@
     "news_source": "News On AIR",
     "news_age": "47h ago",
     "news_columns": [
-      "olympic",
-      "fifa_w",
-      "basket"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "space_launch"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13982,12 +13979,11 @@
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZGRSbE5wY3Jva0xoZzJPY0NOMjdqZmZiMjN1Z1E4dlVTdnNhVDZBUDcxN1dTT3lvOExSd2hMck5MbmFISmtpNGFia1IxVXJPRVJUVFVrWjV3WVoyb3JMNWVBN3VSdHdHWlJZMlBvNUxqdDNRcFJMWnRRUWFnWU1aZQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "97m ago",
+    "news_age": "99m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16713,7 +16709,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.59,
+    "news_score": 0.58,
     "news_title": "Kingfa Science & Technology (India) standalone net profit rises 101.58% in the June 2026 quarter - Business Standard",
     "news_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSWhBZzJOelQyYW5QamRXMXBrTVFVME9tX2lHTTRCVTdoZHAzSTc4VVhMTGI1NE1FNlhxSFB4NmhiWlVtUmVLa1VVTEhzSlpvbkExSGJNQnVZMHh5dTlWM3F6ZEVkWEZlR2huaktwUUZpNDVWMEw0em1aSUhxYUtMRTF5V3luSEpEb3lKNG5XN3BwS0x3MnNQVlJwLXlqRV9xTlRXaHJUdVVrQW0xeUR2bGI4b1VCTWdpTnNra01URy1WNTFkMzRhM2JxTjIxZzJRU25ucVFwelpQNmlYLXYxbVJGamtnbUdybmNScFg4WDNIZE5kaWZjZFBrSkhhSjMyb01V0gGIAkFVX3lxTE5kUU56RDd5eDR4RUZWdnAyRmhSZGJmWGVMUF9QRTVLV3RGUFlhTERjR0gyRnVuRzMycHhYVTlyajNnRWl5cENzRFZ5SFJyWWVMQ09NRjVQNXJjM2dYbEltYVBjT1g1WHNGLWlXMkdCcEE5VlF1dEI1Q0ZFbjVhR2Jvc2tyME02R1lhd085cURQMjNDM0JQaGNuVmlqQ3NWS29wTmdzWXdrNnM1M011bmxOUkxmVlFGdkQ0c3FHdlp6ZHI5V0NvS2trZFdVSmF4Q0lDalNtN000V3BId1haRDlzdE93dVdjakV0SERWXzN6bzROQVdZTkVJME9ya1pzY2U2amN1VXlaYQ?oc=5",
     "news_image": "",
@@ -17030,12 +17026,7 @@
     "news_source": "Al Jazeera",
     "news_age": "2h ago",
     "news_columns": [
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "olympic"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17296,12 +17287,7 @@
     "news_source": "DW.com",
     "news_age": "4h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "car_density"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -19153,19 +19139,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.58,
-    "news_title": "Japan's Takaichi skips controversial Yasukuni Shrine visit on anniversary of World War II surrender - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTS1XUDY1NEp3RlJQdGxCVlRyWFVWckpxZlYtbENGQ0k5UmkzSFJNUTR4eWEtcDRZem5fZVVpNi1rcVRoYV9KZFFyRkg2SXpkVWhPVFIzLXdmN3EyWVJIUF9HQTF5R1FxeVU4aHktZnNEZlI4dkJneVhTYmRiVl9DaTZCN3JaSERHRE85VFBTeEtHT3cyYmd3?oc=5",
+    "news_score": 0.82,
+    "news_title": "Japan's Takaichi Skips Controversial Yasukuni Shrine Visit on Anniversary of World War II Surrender - U.S. News & World Report",
+    "news_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNVRMY3llWHNlZEVOUEJkYS03aGp4Y3M4MnpFVTEwdWltaENzaDRtQ2RmWVRVWXhXUWtHWm5qUjktWlAxZ016bG9RTjdIUHVUTVBQYmJHUm9QcmExVTd2ejh1NC1pR016cF94UzFnMmFqNzU4ZXhRWS00NWhEcHFXb2cwdnRzRU5kU0p1aXMxZ2xwTl9HRGpnWFJaMC0wNzBIamt6OW4zaU53SlptNHpMNmpfMkRNSkxWbF8ycWRsLTZ1UVh0cHY2dnNEMXVYT2FjUjV3MWp2enc1T3NCdUdicVFBVlNlbjg?oc=5",
     "news_image": "",
-    "news_source": "AP News",
+    "news_source": "U.S. News & World Report",
     "news_age": "2h ago",
     "news_columns": [
-      "democracy",
-      "press",
-      "gpi",
-      "polit_kill",
-      "military_pct",
-      "nuclear"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -19789,7 +19771,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalhtNzZJZlRrMFVhSUVLN0FhUmpjdThMS1RMLThXMnJOOXA0Y1I0X3dPVENlNTZKX2hOSHZ1dmhaQVVFVWlyTjJNbTgzQnhnV0pPNlpsek45aXRsbF9BaXV5NjcyRUFyUHY0UU0wQVJFdFZRbXpJeE9HVU1NSTJ0V2ZQNWkyT0pwa2RfajhGZE9ZaHp3NUdtenJ4amFwdmZUazBaMEVvVVk3S2Q0Rl9QMEZB?oc=5",
     "news_image": "",
     "news_source": "theelephant.info",
-    "news_age": "22h ago",
+    "news_age": "23h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -34102,7 +34084,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 100,
-    "news_score": 0.46,
+    "news_score": 0.48,
     "news_title": "FIH Women's Hockey World Cup 2026: News, Schedule, Scores, Results, Points table - ESPN Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONFJ4eElaSC1KYm9tWk9faVVpNTFScXJXYzY1Skw4T3A4b3RpN3oyYjVtNUVjZEZTSFg0RGE5bTlCOElzTHE3X3c5T0VUNlY4RnBtVGlRbjM3RlB2dFBmbHpkdkxySnRyaGI4Z2xVdlhyTU0wMUd4WmwzRWVSMkkyWTlHZmFXc1dNdFVyNWp2VDZ4Zzdjb3lZZEVvYTl6LXp5QmJ4eUdhNWtDaVpVSEx2Wkc4TjcyUF9ZS3BhanRoY0hmY1RfZ2htRlZBV2dCN09I?oc=5",
     "news_image": "",
