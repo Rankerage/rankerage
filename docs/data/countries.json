@@ -3805,19 +3805,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.44,
+    "news_score": 0.43,
     "news_title": "Construction workers find gold stash estimated to be worth $10 million during renovations in Belgium - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xakE5aVlfcnBvNV96RlFlSUg2UE40QUhScU9OdmJnQTVCR0tyOWl0TkxkaHVrbDAyeVgzTkx6enVVSjF5YnFWTXFCZzBvbk9RZ0FJN0padTFSMHl2aWtRUmhvSWhtVV9MbndrdnpuOG02OFlrRzVV?oc=5",
     "news_image": "",
     "news_source": "CBS News",
     "news_age": "3h ago",
     "news_columns": [
-      "edu",
-      "literacy",
-      "pisa_math",
-      "pisa_science",
-      "pisa_reading",
-      "phd_per_cap"
+      "beer",
+      "alcohol"
     ],
     "bottom50_wealth": 3.1,
     "bottom50_wealth_rank": 18
@@ -12937,7 +12933,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.54,
+    "news_score": 0.52,
     "news_title": "No monkey business: India 'whisperers' guard world championships - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVU96R2ctT0E1YWZZNU1VVlVMLTRYX1RDNnRWZ29CY0s5WXFqOWlxZ3lqZlhsV2JjMldva1dlYk1DRTNrekl6VzB1bk5kdko1VFRYQ2RYdExLRGZwRlFzemNCUjF2bjk5cWZJcTVfRlNVQjJ5RDNjaW9EYi1QRnctYXh1UlRXMmJiZ05DZjJrN1RYeVBodFVFaER3QUlieGVlTjk1Wm9sNkk5RFA2?oc=5",
     "news_image": "",
@@ -12945,7 +12941,8 @@
     "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -16699,7 +16696,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.49,
+    "news_score": 0.48,
     "news_title": "No monkey business: India 'whisperers' guard world championships - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVU96R2ctT0E1YWZZNU1VVlVMLTRYX1RDNnRWZ29CY0s5WXFqOWlxZ3lqZlhsV2JjMldva1dlYk1DRTNrekl6VzB1bk5kdko1VFRYQ2RYdExLRGZwRlFzemNCUjF2bjk5cWZJcTVfRlNVQjJ5RDNjaW9EYi1QRnctYXh1UlRXMmJiZ05DZjJrN1RYeVBodFVFaER3QUlieGVlTjk1Wm9sNkk5RFA2?oc=5",
     "news_image": "",
@@ -17011,12 +17008,9 @@
     "news_source": "The Guardian",
     "news_age": "2h ago",
     "news_columns": [
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17270,19 +17264,16 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.92,
+    "news_score": 1.16,
     "news_title": "Iran targets tankers in ‘unprovoked attacks’ in Strait of Hormuz, UAE says - Fox News",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWbGN2eXRreVRtbzJ4SnZxOGZzNXkzNy1fMkNuUHFlSkx1RHJpMjFYUEJUVlFpUVRyV2V5Q013cUtaaGg4Y1VrYjZMd181dzF2LXNOX3pnZFNDajNETmJfaWh2cXZpMjdnODNzcExKWGVUSzBRUkI4YUVTOHJIZHM?oc=5",
     "news_image": "",
     "news_source": "Fox News",
-    "news_age": "55m ago",
+    "news_age": "57m ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -19135,18 +19126,15 @@
     "refugees": null,
     "refugees_rank": null,
     "news_score": 0.28,
-    "news_title": "Takaichi skips controversial shrine visit on 81st anniversary of country's World War II surrender - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTS1XUDY1NEp3RlJQdGxCVlRyWFVWckpxZlYtbENGQ0k5UmkzSFJNUTR4eWEtcDRZem5fZVVpNi1rcVRoYV9KZFFyRkg2SXpkVWhPVFIzLXdmN3EyWVJIUF9HQTF5R1FxeVU4aHktZnNEZlI4dkJneVhTYmRiVl9DaTZCN3JaSERHRE85VFBTeEtHT3cyYmd3?oc=5",
+    "news_title": "Takaichi drops ‘remorse’ in her first war memorial address - japantimes.co.jp",
+    "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQzBFU0xrU3F2bVNmSWgtMllvc1NzRllxcEVuWlZFa19jYThkUlYzLUNmTmxNbFRtcy1hb1AxZXJCSGh4cWowc0NMZ0RIeTBFTEQ3MFJEZ0hSMlc5VFM0cU15VDNUa2VaTDF0SkNqQ0tUSE9ka0ZZM0VKWTI2UmVEOTFvWUNjZWI3el9oYlVfQ2NpOU1T?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "40m ago",
+    "news_source": "japantimes.co.jp",
+    "news_age": "9h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -31724,10 +31712,10 @@
     "union_rate": 77.8,
     "union_rate_rank": null,
     "news_score": 0.01,
-    "news_title": "British cyclist Finlay Tarling dies in Tour of Portugal crash aged 19 - Al Jazeera",
+    "news_title": "British cyclist Finlay Tarling dies in Tour of Portugal crash aged 19 - aljazeera.com",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ2c5YlRTWTlGV3JaT2FseEgwQ0hia2hhbDR6ZzhJOXMzQ1FKenZrY2Nla0lab3ZnSl80NlFTMmV5NlJNX2RDNkNtdUUxY2g0NWlFUm9tRkwyOHZKbnZ2ZmpGcDFBZldOZ2hhcEZ5cGJsQWZvREl6TDBYRzc1bVRLVDdFM3BoQ0Q5ZHRUS3lkX3dWT3luWHhpRzdOazdwZEowUlQ4NDNsS1hLYWJCNDBqMGNn0gG3AUFVX3lxTE40cnZGb0VGd0xITWVOalNNcUlOLUJXWVZIYXRkcW1tWnc2Q2dxVEZNWkpiaG83RVFIQkJhV0YzZDhIclJUeHdvclhIU19pc0Y3YktuaU83LWZWbTFGV1JiY21VWjRLcW04M253anNYdEo0dmVEcE0tNUs4U2dxVjFyMVpieng2SjZ2Mml2N1BSTFRYaUl0aDFBcW41MXBvdC04UmloR0phWGVJa1ZfcVNRY1pRYnMtZw?oc=5",
     "news_image": "",
-    "news_source": "Al Jazeera",
+    "news_source": "aljazeera.com",
     "news_age": "17h ago",
     "news_columns": [
       "car_density",
@@ -37442,7 +37430,8 @@
     "news_age": "3412h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "election_title": "Swedish Parliament",
     "election_url": "https://www.electionguide.org/countries/id/206",
@@ -40041,12 +40030,12 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.57,
-    "news_title": "International report - In Turkey, one of the world's longest conflicts reaches a turning point - RFI",
-    "news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeUtzSEY2RDh6Z080LUxZeTNScWdhaW5ZT2FXd1BYRkVWZk0zOTNvTlpXaDA2YlQ4NEVSc0lmQkd2WXNoTEpOSnlzcEZGN2JVWVhJczA4YWI5MXdtS1NtVXlnZThWc0twc3dqRU1tOUFEc1VqLXE3R3VtM054VHRMX211QXRCVmJqdEw3N3p0QS1FcEhDVzJvNm1LYnBPbUppSWk0alJ6X3lEU3FFbVBoaWo3cFh6MHNXZWFsY041eklrS2FDVkRqdGRnMA?oc=5",
+    "news_score": 0.4,
+    "news_title": "Pakistani consul general calls for stronger business ties with Türkiye | Daily Sabah - Daily Sabah",
+    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ3ZMXzA2QktKQXRLRjFPVnBhTGNHcWNJYXFubnAyUWFlQlVPbXp0OWtUUHRYNW5hdTc1VDl1N1ZOTkRadTI1QjhaUlFGaC1VV2I2QW9OalpfeG1xRW1qQkNnRWtaYVpwX2NheFp6RXpYMGtReW1uMmltRWMxc0JKdlk0aDZaMDRRRnJ0ZkRwYjhweUtIWHc0RmJLdmloS3JER2FaMm4zVjZLd0YxU3VKRkM3NELSAboBQVVfeXFMUHFBVmlZNEh6WGFObjhxeDdaTE8wZjNNRW1TM0Z6c3Zwcm44SUlhQ0FlaUVJYWI0Rm5USC1VcEpyV1lEUlVqZzhzTndpS05idWZwLW9uNWp5QTVveGpTUHh6ZjRWU0ZIZzAtSHRqejJ3NjVRSkF2YUFGaTdxYkg0Sm1TSjBOTVN1SnpPd2Y4VXpRbjlKQzQ2bU1uSGg1Ri1maUpSOWpuOFZTQm1MQ3JLVVdNY19BSDNyRU9B?oc=5",
     "news_image": "",
-    "news_source": "RFI",
-    "news_age": "38m ago",
+    "news_source": "Daily Sabah",
+    "news_age": "19h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
