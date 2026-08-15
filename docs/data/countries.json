@@ -768,7 +768,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.14,
+    "news_score": 0.13,
     "news_title": "American Samoa's flag football team bows heads in underdog triumph over USA on world debut: “We are a family of brothers” - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOG8xSERPMWRTcEpoZjhGTkxyNUtRSUxjeS1rNWljYS1kenN6SlBkSVpnWVhYaFdEVENWWlA0UkJkRnVRVndhWkVXUDJycTNKTzJudE5hbXg5d2NMcW15N2l4YzY4T0hBbk9sTHBWSmtiWmJ5OU1VbjZZNFlUd211YTRaTjlHd2duTVhvWEdRbkRjSVp1MGZQTDJRbFBQVlh0WFJ6cWIyUGtKaXJxbkNscVZ4elE4bjVWOGVCcXlvM20?oc=5",
     "news_image": "",
@@ -2537,7 +2537,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.54,
+    "news_score": 0.55,
     "news_title": "U.S. upends Australia in 4x100m freestyle relay; Kate Douglass nearly breaks world record - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGdXSGRydmEtV0ZIQ3hGcWhyZWRnSm9tMGhOX2xNWV9NWlhKQ1dSckNnUGE3ZkFuNHJKekhuMUlyYU9UOVFHc2p0OTZINHNpV1UzMEFpcGlkcElGQUxCV3lrbno3UkRZQmVBcEFFME9WNDFJcUZQZjF1akloSU55ZDhkYW5PZDFhR2FBMQ?oc=5",
     "news_image": "",
@@ -3304,12 +3304,12 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.81,
+    "news_score": 0.8,
     "news_title": "Govt’s debt outpacing revenue growth: Bangladesh Bank - The Daily Star",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2VJMktNWVhONktXZVFwQUhyVmFIWmRjWnFlZG5iNVEyeFN1ZmtFV1hVRFpkWXp6V1RTOTZXSVg4S2R4dFpuWlNLMFZHay01UWROSmhjOGM5cXVPbnJMeXd3VGlsS2s2SE5XNFVIUHZTUVp1N3plZHpmSnZSMC1ZUVBsV2oxN0c3MExIRVFzaG5EdWZQLS1UaHQ4SG9oNzZXVlZsZXlvVXFzaDFVTTI4?oc=5",
     "news_image": "",
     "news_source": "The Daily Star",
-    "news_age": "52m ago",
+    "news_age": "54m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -7974,7 +7974,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTS1XUDY1NEp3RlJQdGxCVlRyWFVWckpxZlYtbENGQ0k5UmkzSFJNUTR4eWEtcDRZem5fZVVpNi1rcVRoYV9KZFFyRkg2SXpkVWhPVFIzLXdmN3EyWVJIUF9HQTF5R1FxeVU4aHktZnNEZlI4dkJneVhTYmRiVl9DaTZCN3JaSERHRE85VFBTeEtHT3cyYmd3?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "63m ago",
+    "news_age": "65m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -12941,14 +12941,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.34,
+    "news_score": 0.26,
     "news_title": "India,France review expanding canvas of bilateral cooperation in science, technology & space | Akashvani News - News On AIR",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTExHRzVKTC11ZHhmMUF6RmZrSWFqMVI0dHhYajQ0U1FTWlEzZ05jTjB2MmlvVEgtUDkzeDJiWG5ENERDTHBPR0g2MXdybUwyWEcyRDFadkp2VjBwRFUzV3kzMENmU3AyVGgwLTBrcDBSY0o4WTZjNmx5bVJyeWRidTcyU243UmdYNHc3WTNEZWNVcTdfOVRwRkhKREQ0dlFlRHFlV0tnSGxSUTRtc211MWlneXo?oc=5",
     "news_image": "",
     "news_source": "News On AIR",
     "news_age": "46h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13464,7 +13465,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.22,
+    "news_score": 0.21,
     "news_title": "Georgia high school football scores as GHSA kicks off - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRFN6dGlYS19PeEhxUU11dDl6TXk4M0NzMnlXR0dFWE16UFRuclFfdDJySnFoOGJXdlFUQktXeGdESGR2QUtnM3RVRW1WSU5UOEhRTEhibkVUcW1sZkh6ZWI2VThvcTdOaWx0emxyWW5vM01QR19CVl8yZVBIMmc2UFZ6ZXFRRjVmdkxzRw?oc=5",
     "news_image": "",
@@ -13968,14 +13969,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.72,
+    "news_score": 1.01,
     "news_title": "Is he Germany's next Urbig? 18-year-old already looks world-class - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZGRSbE5wY3Jva0xoZzJPY0NOMjdqZmZiMjN1Z1E4dlVTdnNhVDZBUDcxN1dTT3lvOExSd2hMck5MbmFISmtpNGFia1IxVXJPRVJUVFVrWjV3WVoyb3JMNWVBN3VSdHdHWlJZMlBvNUxqdDNRcFJMWnRRUWFnWU1aZQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "27m ago",
+    "news_age": "29m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16701,12 +16703,12 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.81,
+    "news_score": 0.8,
     "news_title": "Kingfa Science & Technology (India) standalone net profit rises 101.58% in the June 2026 quarter - Business Standard",
     "news_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSWhBZzJOelQyYW5QamRXMXBrTVFVME9tX2lHTTRCVTdoZHAzSTc4VVhMTGI1NE1FNlhxSFB4NmhiWlVtUmVLa1VVTEhzSlpvbkExSGJNQnVZMHh5dTlWM3F6ZEVkWEZlR2huaktwUUZpNDVWMEw0em1aSUhxYUtMRTF5V3luSEpEb3lKNG5XN3BwS0x3MnNQVlJwLXlqRV9xTlRXaHJUdVVrQW0xeUR2bGI4b1VCTWdpTnNra01URy1WNTFkMzRhM2JxTjIxZzJRU25ucVFwelpQNmlYLXYxbVJGamtnbUdybmNScFg4WDNIZE5kaWZjZFBrSkhhSjMyb01V0gGIAkFVX3lxTE5kUU56RDd5eDR4RUZWdnAyRmhSZGJmWGVMUF9QRTVLV3RGUFlhTERjR0gyRnVuRzMycHhYVTlyajNnRWl5cENzRFZ5SFJyWWVMQ09NRjVQNXJjM2dYbEltYVBjT1g1WHNGLWlXMkdCcEE5VlF1dEI1Q0ZFbjVhR2Jvc2tyME02R1lhd085cURQMjNDM0JQaGNuVmlqQ3NWS29wTmdzWXdrNnM1M011bmxOUkxmVlFGdkQ0c3FHdlp6ZHI5V0NvS2trZFdVSmF4Q0lDalNtN000V3BId1haRDlzdE93dVdjakV0SERWXzN6bzROQVdZTkVJME9ya1pzY2U2amN1VXlaYQ?oc=5",
     "news_image": "",
     "news_source": "Business Standard",
-    "news_age": "52m ago",
+    "news_age": "54m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -17011,14 +17013,19 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 0.72,
+    "news_score": 0.81,
     "news_title": "At least two killed as magnitude 7.7 quake hits Indonesia - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXN0amxXeTVhSnZSWUdGc29mcFBDeG41SHNaVW1BSkJlc3JNOW5WRlZmWW1SRFM5V1pybkhwc29CMVFKS2UwQVBMUG5DMUVVSTNNX2Zud3MyU1lwQV9zN0lTdEtyZ285SHFpamdHYU9XbDNKci1MZUUtZ3o4RUk3aFBMYmZDTndLWU5uN3VKYV9rTUlQWTlFYlRnazJtbHPSAaQBQVVfeXFMT2NPVExXcVR1elh1Z29HY0V2SHlzdHRYNVNXVVQ5c3k3STQ4THBrbVprYUtxcTFZSE9ORVRIeVAxZU5VQXFtUjRuR0Zuekg4c1ZveVhaWTY5Z3JpS3JfS2FvclliZ0otNGNNX3ZwZmtxMjRPbTV0X3N6TTZpNDVsMGROZlEwLXcyTmZvYUVLSDgyMk5LSVp0YWVhMzdrM1cxTnNDWEg?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "100m ago",
+    "news_age": "102m ago",
     "news_columns": [
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "earthquake_count"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17272,7 +17279,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.57,
+    "news_score": 0.66,
     "news_title": "Iran targets tankers in ‘unprovoked attacks’ in Strait of Hormuz, UAE says - Fox News",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWbGN2eXRreVRtbzJ4SnZxOGZzNXkzNy1fMkNuUHFlSkx1RHJpMjFYUEJUVlFpUVRyV2V5Q013cUtaaGg4Y1VrYjZMd181dzF2LXNOX3pnZFNDajNETmJfaWh2cXZpMjdnODNzcExKWGVUSzBRUkI4YUVTOHJIZHM?oc=5",
     "news_image": "",
@@ -18454,7 +18461,8 @@
     "news_source": "USA Volleyball",
     "news_age": "13h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -19134,12 +19142,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.22,
+    "news_score": 1.21,
     "news_title": "Japan's Takaichi skips controversial Yasukuni Shrine visit on anniversary of World War II surrender - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTS1XUDY1NEp3RlJQdGxCVlRyWFVWckpxZlYtbENGQ0k5UmkzSFJNUTR4eWEtcDRZem5fZVVpNi1rcVRoYV9KZFFyRkg2SXpkVWhPVFIzLXdmN3EyWVJIUF9HQTF5R1FxeVU4aHktZnNEZlI4dkJneVhTYmRiVl9DaTZCN3JaSERHRE85VFBTeEtHT3cyYmd3?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "63m ago",
+    "news_age": "65m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -43471,7 +43479,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVWZxSjZkTEtvT0xVclA4TlEyZjBCaTdBSTdHZ3VKWWNhLS02ZXZUZGo5MXZwQTBNazFTRnFoRmZxWVh5QUlXMEl5TmFqUDFjSHp6dXNxNDJWb19WRExhUk5HcVF4QVpHUE9FRlhqQXlNN29OZmN1WDRmR3Zkc1pKYUNaSDVaNDlHUTIyOHBOdGlxU1MyRU85LS1CNXJzRlhBam40eFpheGlTRVE?oc=5",
     "news_image": "",
     "news_source": "vietnam.vn",
-    "news_age": "15h ago",
+    "news_age": "16h ago",
     "news_columns": [
       "lgbtq_rights",
       "gay_marriage",
