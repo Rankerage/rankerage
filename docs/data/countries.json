@@ -207,7 +207,7 @@
     "union_rate": 38.4,
     "union_rate_rank": null,
     "fifa_ranking_rank": 136,
-    "news_score": 0.78,
+    "news_score": 0.62,
     "news_title": "Concerns grow over increased global ties with Taliban in Afghanistan - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUcwZmlieHVTblctVUFxREhEWF84RHhHazFkR0hMMFJuaThzTHpKNVprZ1lFUExDSzRQZF8zNXVab1ZfX0w3cGJsZV9oRVE5UzJFQjQ1ckp1czB2X29SNXRMTGtkN3AwUUZLRDZscmkyUnNOM3N2UmtrbDhEczFPV2dldU9UNHV5MDhER1JZbUF0QUc4VWQ4bGV6NWRKUXBlQTluNEJB?oc=5",
     "news_image": "",
@@ -2541,14 +2541,18 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.44,
     "news_title": "Delivery drivers will get a minimum wage in Australia’s ‘world-first’ deal. But is it fair – and will your Uber Eats cost more? - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUFlHUFlPdGIzdHpLMDhZUklvRzJER0k3S3FaZ21XanZHczJCQzBONHZnbFV5M2QwVG05QWV1MExMR05ISThqaC1Qa0lzb0J2NV9PSkp4WS1YdHV0S3V2dDNuMy1oTE1wLXhQX0NjUjJ2WkhzVjh5Nk5HUEtiX2J3b3lxZlhudjYtZzBIT1o5Y1NKemZwQ1dESGM1bmtFSTNqaTdmRUM0c0JfZTNPbExXWGVtZUZVLTRNRnJzY0NsMW9KWXNUMHBrWlBoYW1pMmNMWXdwNHhwTjZTWGtwTlF6UTZOVzJBTW1RazhaMjlZYzZIYVZlUGxtZWZ5X2ZsUQ?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
     "news_age": "3h ago",
     "news_columns": [
-      "olympic"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -6908,7 +6912,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.32,
+    "news_score": 0.31,
     "news_title": "2026 IFAF Flag Football World Championships: Canada women secure first Olympic quotas: \"It's a little girl's dream\" - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWhuUl9GWWFDQWtOczl1ZFdHaWp4OC1nS2hNNVBfSlQxOG9ubnk4Qkd4QTczbFlwRUNhTl9SaVJpMndabng2MTY3bHlyTEl3NjY0Ykl3UDl5X1JXS21rYkpnekJ3cXBFalZHZTgwUGhDbFVac0VtSkxPcUZxbk1USHpMczg5bHVUVTR6bUtvYXg4dWh3SEhBdnd2SEw3VWs?oc=5",
     "news_image": "",
@@ -8216,14 +8220,19 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.88,
+    "news_score": 0.72,
     "news_title": "How to beat an earthquake: The Colombian city where no one died - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbUFzcEpwaWV4WE5pY0JDYldIMFV5QnFjRnFqbF9BaFVUN2VtOU9TOVpiWEhRX3ZEQzVXVWdqenBoS1FibGVLR3FtUlJYdlk0R0FWRkhhbE11cWhGSHY1eEYxcTJSZXFMRUc1OXBMVXVMR1B2RFBLSHAtY0JMRlhpTUJ2OGgtNWNBVWxPa1dfb2dkUjB0bVFxVFZBRHlOUEJtYk5pSjZ5WQ?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "50m ago",
+    "news_age": "52m ago",
     "news_columns": [
-      "olympic"
+      "earthquake_count",
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ],
     "bottom50_wealth": null
   },
@@ -13970,11 +13979,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMkVpUEJfaGJDY0pDZmp3RlAwV3VLclRPQU1oZEd6amhteHlESnQ2czVuY0ZQQnE4ajllQkdDR3FiYjNIY0hxczVhWXBoY1JtYkt2NG54QlVRWmdRMVBZeHRzekpBZzFxUlRhbFN6N3luWTFmbElsMWg4QU1vMjVqVm54dnRWY2hrUU05cUxUM2c?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "57m ago",
+    "news_age": "59m ago",
     "news_columns": [
       "olympic",
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16704,14 +16712,19 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.16,
+    "news_score": 0.12,
     "news_title": "TN Science & Technology Centre to hold math, science talent test for school students - The Times of India",
     "news_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRTRFRkhzdThjejhuclNDVlNScTBDM0dvWDI0STMwN19PcTBLVE4yU1VWcXBmXzFVejE4SXF1T0owM05mXzB1UjNPVlhPa0p3UVJUYVNMUG1hYlpYMGktdXBCWEZzYmhaNElXclpFVlJLaXVoZ0g4SlJneGdTYVVNdmN6UmJvVmNOSEdEU0Q2LVNTSllMaTNpR0VrTzlITTlNR1gwd0hKZ2ZNLXplWW9jc0ZxVWxLRm1rZkZvV3RkekdYWGhnWllPbWctYmxrTUdQcXNZSGdUNnFtend3VXItcFVUMzE0ZnVaOEpzMdIB8gFBVV95cUxOdFo1MWhNbFlRR0s0T3lRWGNHZ0dxclFHYUxNb1Q1ajB2eF9HbDJYMjljSzhHYXZGUVpkRE5CX0FkM3drOURhZTlvYTdBYWlHeHBLVTVSTDYzTTFOV1FGeGpVMkgyUHlOYmZLOGpKdUJ1YS1kdGJrU00yejhBb09KMG9Sc2dLVDBtbTVqVm8xSGZXd3VIUWdzS203TS1vV2o0bTRHSm5kYTUzMDFFcUxDLTlXcG8xM0RnbUtvc0hya0VUU09JN3JyVWZZc0JyTGRacU1wVEI5MGtITm9QcjV6ZzI5clVuYXltbHVBT1p1Q0RSUQ?oc=5",
     "news_image": "",
     "news_source": "The Times of India",
     "news_age": "8h ago",
     "news_columns": [
-      "olympic"
+      "edu",
+      "literacy",
+      "pisa_math",
+      "pisa_science",
+      "pisa_reading",
+      "phd_per_cap"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17009,12 +17022,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 0.52,
-    "news_title": "Magnitude-7.7 quake hits off coast of Indonesia, killing at least 47 - NBC News",
-    "news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51U2tXT01TeEdpZ2g1UEg0MUxjMFhyZTBBRzE2R3BObExUOUhGNUdmNVdjUlVtSTIydmNmSjdzTUdDYllON0FUX1Vtam5HLVFDRG9XV09VeTdFLUZwUVRkUkRwU0ZQQnNkR1JJUHRJdWhYcVJqemRBeXRUZw?oc=5",
+    "news_score": 0.8,
+    "news_title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47 - NPR",
+    "news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTMFR6Q3U5c1N5djNCTERscVlDLWl4QWV6RTNoVzRIQkVyemJMQnlIZTYxUHNJcld0VnlMYl9BQWhoSnN6Q2NRZl90anY0X0s5SkJGVlhpN2J4MlctOG0zc3pTQ0JxRzl6TVhrMURmUktSZUE?oc=5",
     "news_image": "",
-    "news_source": "NBC News",
-    "news_age": "8h ago",
+    "news_source": "NPR",
+    "news_age": "84m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -17275,19 +17288,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.34,
-    "news_title": "Iran Accuses Trump Of ‘Fanciful Delusions,’ Says Strait Of Hormuz ‘Cannot Be Seized By Tweet’ - Forbes",
-    "news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS0hCWFRwMkxiZ3FBdDlKMW13VW03cUtYV3M3Y3lESVpVX0hMbUJQOFRsTlBSSWFZR1BoV2kySnRGVWdDV1VHRm1kRGVIMHBnUDE0SV9wQlNDN1NtLWNRbFhuVmRoTjU4dWF0UllTdmxwMVhRdl9UY1FpczJlRjFYZ3plU1VTaEUzMDlicHV6aktITEVlZGtTSjM2dWVORXdfcmhMUDRTb29kMFVLSnFVUXNxMzhkb2liS0E2ZHdweFNxOFp6QlBB?oc=5",
+    "news_score": 0.4,
+    "news_title": "Maher on USS Abraham Lincoln conditions: ‘It just makes my blood boil’ - The Hill",
+    "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdEJXOVhuWUtyLUNNYTIyVmJiX2dodFc4TzdkajhxZ0V0bVZyYy14eHNld0k1anFWdE5wWTVQdkNLeWh5OHh1U2JCUk1uT0tLV3EyMEpzdzhRQXluaWJXRTdqaEs1OV9KMWxsQzZmVkMxQ0pxaXZmUTNWeVhOOGFualRIeW5za3ZwZWVFQmtLdXd4X2_SAZgBQVVfeXFMTWRraE4zQ2JnWFhSVWo2N2plaTlCOWp3Qzc4NkhweWRnZGR4MjBkXzl1Njd3TG0tR3l1Z0hCMzhrMVhfbGc4Vk02cFh3TXBOQnA4dnZRYllFd2pTMHlxYmt4MXFIRjNJQlpjMFk3ak1VM3RqQjBqeEZNRjFIRkk0LXNRel9INmV5S3lJTTBVTWl4SDlQdmRTdEc?oc=5",
     "news_image": "",
-    "news_source": "Forbes",
-    "news_age": "5h ago",
+    "news_source": "The Hill",
+    "news_age": "3h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "gas_price",
+      "energy_per_capita",
+      "co2",
+      "renew",
+      "exports",
+      "military_pct"
     ],
     "bottom50_wealth": null
   },
@@ -18007,7 +18020,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.04,
+    "news_score": 0.03,
     "news_title": "Iran wages economic war in hopes of outlasting U.S. and Israel - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2ZCVmJ4amt6UTBvQ05kcDBFWnNzb1N6QldHQ3RSWVZ0NUdzemNtaTJGaTlzM1N5dVR0djFiVV9XUGNSc1JCR2RnczNYeTUxMW5WZU5aMmJLMVVqcElmVHpibHdWMm9xOFlLWGlhY2NlQUV5cDVVcTRWZHJaNGxjaXVR?oc=5",
     "news_image": "",
@@ -27614,7 +27627,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRnlVcm5oU2VzQnNXcUxxaFQ0NnJBLXVldWJNZDlmbWpTbDhxUWVQS1VxUzZSOEZPS3d4Vm5naTRvVU54NURaazNKMWVjSkptVWp2WlFJZ181Q0phbENEYzJrZXlpOTdJck9RN29HREF2d2tSZ2E5VTgyQVlXaG1YcDNtekZOajh5SWgwbWZ6SWNFcFpTTXU0dVFvWEl0a1hXc01hSkhzbWFXNS1KblY3ZVFHSWdHOTZnaHJYLUdod3hDTnNlR2c?oc=5",
     "news_image": "",
     "news_source": "Nhan Dan Online",
-    "news_age": "34h ago",
+    "news_age": "35h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -31455,12 +31468,12 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.73,
+    "news_score": 0.72,
     "news_title": "CX80 World Masters Orienteering Championships celebrate masters’ passion in Poland - International Orienteering Federation",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORndMekk3Q3hZTEs1TmZGV1JvbnFtZWV3NVdZRS1kcXJHdU91SC01d0k4WGNXNUhSZWh3OUgxeWJ5T0QxeGlZUmhkVG5kM29aNjE0STZyUDI1V1ljN2lqYl9hRjZvYmtZTmQxdFFwSVFnZ0pUcVZSU3VnS29FMlBEbk1IVElSNEpWSHRsam02Z1JPWDJUcTRuZmFSbW1BMnZIa0pTOVh6SWV6Q2pmZ3c?oc=5",
     "news_image": "",
     "news_source": "International Orienteering Federation",
-    "news_age": "76m ago",
+    "news_age": "78m ago",
     "news_columns": [
       "olympic",
       "fifa_ranking"
@@ -40054,14 +40067,18 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.07,
+    "news_score": 0.04,
     "news_title": "Pakistani consul general calls for stronger business ties with Türkiye | Daily Sabah - Daily Sabah",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ3ZMXzA2QktKQXRLRjFPVnBhTGNHcWNJYXFubnAyUWFlQlVPbXp0OWtUUHRYNW5hdTc1VDl1N1ZOTkRadTI1QjhaUlFGaC1VV2I2QW9OalpfeG1xRW1qQkNnRWtaYVpwX2NheFp6RXpYMGtReW1uMmltRWMxc0JKdlk0aDZaMDRRRnJ0ZkRwYjhweUtIWHc0RmJLdmloS3JER2FaMm4zVjZLd0YxU3VKRkM3NELSAboBQVVfeXFMUHFBVmlZNEh6WGFObjhxeDdaTE8wZjNNRW1TM0Z6c3Zwcm44SUlhQ0FlaUVJYWI0Rm5USC1VcEpyV1lEUlVqZzhzTndpS05idWZwLW9uNWp5QTVveGpTUHh6ZjRWU0ZIZzAtSHRqejJ3NjVRSkF2YUFGaTdxYkg0Sm1TSjBOTVN1SnpPd2Y4VXpRbjlKQzQ2bU1uSGg1Ri1maUpSOWpuOFZTQm1MQ3JLVVdNY19BSDNyRU9B?oc=5",
     "news_image": "",
     "news_source": "Daily Sabah",
-    "news_age": "30h ago",
+    "news_age": "31h ago",
     "news_columns": [
-      "olympic"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -42272,8 +42289,6 @@
     "news_source": "News of the United States - NOTUS",
     "news_age": "6h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
       "olympic"
     ],
     "bottom50_wealth": 1.5,
