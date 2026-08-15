@@ -207,12 +207,12 @@
     "union_rate": 38.4,
     "union_rate_rank": null,
     "fifa_ranking_rank": 136,
-    "news_score": 0.05,
-    "news_title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DOVdPRG14cUFod0p6dDlwSE85bTFmbDlra04yY0NEYUNUSTdUQWVNVjBCUDQ0VkZBSVJRdkV1NDBWalFqTTViOU9tMGVhakU2TTlkOTFxRlhBUQ?oc=5",
+    "news_score": 0.04,
+    "news_title": "The Taliban has taken a terrible toll on the education of girls — and boys as well - NPR",
+    "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeERScUZJUUJ6UHpNQUVVb0h2bjZCRHk5VzUwZFpUR1FmQS1tMHZKXzV5My1kQlozVGxTdmZIc0p0ODd6akh4a1o4VkRmVkZod1JqeU5SWFc4RGg5SkZSOE90WnFhSko4QmpPczVmbk5WU0NEZklSdkg2azdUZDhsQXZFaVBFM3JBcUdtY2NJeE5vWG1z?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "8h ago",
+    "news_source": "NPR",
+    "news_age": "12h ago",
     "news_columns": [
       "edu",
       "literacy",
@@ -773,7 +773,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.42,
     "news_title": "American Samoa's flag football team bows heads in underdog triumph over USA on world debut: “We are a family of brothers” - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOG8xSERPMWRTcEpoZjhGTkxyNUtRSUxjeS1rNWljYS1kenN6SlBkSVpnWVhYaFdEVENWWlA0UkJkRnVRVndhWkVXUDJycTNKTzJudE5hbXg5d2NMcW15N2l4YzY4T0hBbk9sTHBWSmtiWmJ5OU1VbjZZNFlUd211YTRaTjlHd2duTVhvWEdRbkRjSVp1MGZQTDJRbFBQVlh0WFJ6cWIyUGtKaXJxbkNscVZ4elE4bjVWOGVCcXlvM20?oc=5",
     "news_image": "",
@@ -782,7 +782,11 @@
     "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket",
+      "olympic_gold",
+      "olympic_per_cap"
     ]
   },
   {
@@ -2543,7 +2547,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQN0plX3lKMmtJR0JPMEVvQ0txYW1HYVpvaHFHVXhVc1QwUlUycFhLdi1fT1JDakZPUkhNSzhfR1FZRDMzai1LQ1p1MF8xNUw1NG1oWlc4cjZrM2hFN09LNjd6X3JpQ3MyUkxLZThfQ1ZQai1iajlQV21MWk10Z0h4cEpXUjlaSDRuUlg5TnpVY3BPbWM3ek5adWVTWWZtNmVDNWpRNG9oTEF1S1NrUDZLaXpkUndSV0NyRGNBMkMxWU1XbXpMOXRGNWFVcWVZVklYZzdyLTN0SVF4MTBlaFFOYldIcW9DRHFhdUxueEFXOC0?oc=5",
     "news_image": "",
     "news_source": "en.baochinhphu.vn",
-    "news_age": "48h ago",
+    "news_age": "49h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -13473,12 +13477,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.67,
+    "news_score": 0.66,
     "news_title": "Georgia high school football scores as GHSA kicks off - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRFN6dGlYS19PeEhxUU11dDl6TXk4M0NzMnlXR0dFWE16UFRuclFfdDJySnFoOGJXdlFUQktXeGdESGR2QUtnM3RVRW1WSU5UOEhRTEhibkVUcW1sZkh6ZWI2VThvcTdOaWx0emxyWW5vM01QR19CVl8yZVBIMmc2UFZ6ZXFRRjVmdkxzRw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "98m ago",
+    "news_age": "100m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -13977,15 +13981,16 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.26,
+    "news_score": 1.29,
     "news_title": "USA Football flag teams aim for flag football glory at World Championships in Germany - WCNC",
     "news_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQbm53UzNhaUxYVUQ3MjR0WlhfX0JwZzF6bkhiSUVFQXBIYTBCQWgwZzNHbXBZUmxWNTVhLS1uMFlTUlNsdE1QREZvQ1JBQ3EtVHF4SXBpbVh2MVV3LWt4d1piWmhxSUVTRFNqLWVjQVkyLU90RUNXYUo4LVpUSmpUaDhPLTMwaHlYaTVRbjlMS2pKNFFHMlMzcE4wcVBRWmZiaXFraDQtckpWU0hhdzVkTDNjeHI0bk42OFJ5ZnJ5Vlg5dVZXNjl2Rm14NWt1d3diNXJlaWpUanFwcFhpbnA0VHU5bVlKcnRVanZKc2I0Z096T1lXTzJhQzFWalY3U1BC?oc=5",
     "news_image": "",
     "news_source": "WCNC",
-    "news_age": "16m ago",
+    "news_age": "18m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16711,15 +16716,16 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 1.68,
+    "news_score": 1.71,
     "news_title": "2009 to 2026: BWF World Championships return to an India worlds apart - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLW5ncVhQcUZxaWlBeU13Ukd1NlhFUWg2R1VfbjZUR1VnREhFOU5KU0hRNkVOVGJZYkEtbVRkWHBkNFJmVGNhc25VY3VCWnpsY25rWF9sUXU3R21WQll2TTBJbWlqRFZOUTM5bmRHaHQtMGlES0pDLUJIdkpvSG5hdEdPMkwyVUhhNjgxcDRyanNjd0JQX1R1TmhwOWZZWDNHMXlQb2hTNEE1YlNBMEx5XzlYMWM?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "60m ago",
+    "news_age": "62m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17017,15 +17023,19 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 0.8,
+    "news_score": 0.66,
     "news_title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, triggering tsunami warning - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SVU05S3ZQMlFXc01UaHE0SUdFck1PRnRDVWFISUFQNFIxeTIzcHR0WmtEeHpJMjJseUhHWG90bXUyenBISVdqRWtTMm5ISGttVnNnRk9jd2ZYdHVnQlpNSFc3ZE1NX0JSR2xTWXNTTVhLakNk?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "94m ago",
+    "news_age": "96m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "earthquake_count"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17279,12 +17289,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.93,
+    "news_score": 1.15,
     "news_title": "Iran targets tankers in ‘unprovoked attacks’ in Strait of Hormuz, UAE says - Fox News",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWbGN2eXRreVRtbzJ4SnZxOGZzNXkzNy1fMkNuUHFlSkx1RHJpMjFYUEJUVlFpUVRyV2V5Q013cUtaaGg4Y1VrYjZMd181dzF2LXNOX3pnZFNDajNETmJfaWh2cXZpMjdnODNzcExKWGVUSzBRUkI4YUVTOHJIZHM?oc=5",
     "news_image": "",
     "news_source": "Fox News",
-    "news_age": "62m ago",
+    "news_age": "64m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -19333,7 +19343,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.38,
+    "news_score": 0.37,
     "news_title": "Mahoney, Bolles, Burilovic and Jordan Make An Appearance At Fall Sports Media Day - University of Colorado Athletics",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkQtWEtlQllmV0FfM1FyZHRybGd6OXpWQy1JQkIxQjFBSkMwaUprS1dkaU1DQTlfdFU0TjFfTVFHVjlfWHc1OVBLTURJVkgzU3BROW9ycXhMdGxPZy1uWjk5Y3Vod1cxdllLOXNuTXMtVGZaLWtaRzdhZWZBbTNXcGd2dG1XYjhhaENQdlB3X0tPMHFEQ3RwbHRQekFyem0tY0d6UjJTUTFrOVA5UTFvN3pWbmxxQ09YcFg1X3AzdWtuT2M?oc=5",
     "news_image": "",
@@ -28260,7 +28270,7 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.15,
+    "news_score": 0.14,
     "news_title": "Nigeria misses Women's World Cup for first time ever after playoff loss - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOVcza2E1YnlhTm1mUktkeUFYS3BneG4wS19YeUItdWs3OTRnYjJLZW52Q0NiYzlJSFN2MHFYQ0w2S0xKQnY5ZGcxbjl4QmtOYU5XZG1VR1p4c2Y3cnFoSlZFZWxzUVJDVFpxczY2dWtPYTF5MGFfdktJS3djLVVZSHV3YUhJdkU?oc=5",
     "news_image": "",
