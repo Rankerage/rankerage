@@ -207,7 +207,7 @@
     "union_rate": 38.4,
     "union_rate_rank": null,
     "fifa_ranking_rank": 136,
-    "news_score": 0.08,
+    "news_score": 0.06,
     "news_title": "The Taliban has taken a terrible toll on the education of girls — and boys as well - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeERScUZJUUJ6UHpNQUVVb0h2bjZCRHk5VzUwZFpUR1FmQS1tMHZKXzV5My1kQlozVGxTdmZIc0p0ODd6akh4a1o4VkRmVkZod1JqeU5SWFc4RGg5SkZSOE90WnFhSko4QmpPczVmbk5WU0NEZklSdkg2azdUZDhsQXZFaVBFM3JBcUdtY2NJeE5vWG1z?oc=5",
     "news_image": "",
@@ -773,7 +773,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.69,
+    "news_score": 0.48,
     "news_title": "American Samoa's flag football team bows heads in underdog triumph over USA on world debut: “We are a family of brothers” - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOG8xSERPMWRTcEpoZjhGTkxyNUtRSUxjeS1rNWljYS1kenN6SlBkSVpnWVhYaFdEVENWWlA0UkJkRnVRVndhWkVXUDJycTNKTzJudE5hbXg5d2NMcW15N2l4YzY4T0hBbk9sTHBWSmtiWmJ5OU1VbjZZNFlUd211YTRaTjlHd2duTVhvWEdRbkRjSVp1MGZQTDJRbFBQVlh0WFJ6cWIyUGtKaXJxbkNscVZ4elE4bjVWOGVCcXlvM20?oc=5",
     "news_image": "",
@@ -784,7 +784,9 @@
       "fifa_ranking",
       "fifa_w",
       "olympic",
-      "basket"
+      "basket",
+      "olympic_gold",
+      "olympic_per_cap"
     ]
   },
   {
@@ -5125,17 +5127,19 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.1,
+    "news_score": 0.08,
     "news_title": "Stellantis expands its circular economy business in Brazil with used parts and online sales - ClubAlfa.it",
     "news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ2hwTGpkaUVfUVFMOTEwSURuWnl1LWFsSmpsYXY1S3BYUkNjczYxOHRDcVBUTmpGRmw5Sm0yQUhIT0ViR05IMlVZNHkydkFTazNlWm94ZWxBRlczWmFvNXMtRDNwb1RQMzd1RTNyaks1YnRvd3lOSENLV3hvcHlYODI2OHRjYW5XVHpUOHF0TE13Q08xaWlLTldiNTlyRjcySTRIalRPUGg1MFZ3UVp1WFd4RkR5TlBvZFBzZWFrbnM5QQ?oc=5",
     "news_image": "",
     "news_source": "ClubAlfa.it",
     "news_age": "8h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -12950,12 +12954,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTExHRzVKTC11ZHhmMUF6RmZrSWFqMVI0dHhYajQ0U1FTWlEzZ05jTjB2MmlvVEgtUDkzeDJiWG5ENERDTHBPR0g2MXdybUwyWEcyRDFadkp2VjBwRFUzV3kzMENmU3AyVGgwLTBrcDBSY0o4WTZjNmx5bVJyeWRidTcyU243UmdYNHc3WTNEZWNVcTdfOVRwRkhKREQ0dlFlRHFlV0tnSGxSUTRtc211MWlneXo?oc=5",
     "news_image": "",
     "news_source": "Newsonair",
-    "news_age": "41h ago",
+    "news_age": "42h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13476,7 +13478,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRFN6dGlYS19PeEhxUU11dDl6TXk4M0NzMnlXR0dFWE16UFRuclFfdDJySnFoOGJXdlFUQktXeGdESGR2QUtnM3RVRW1WSU5UOEhRTEhibkVUcW1sZkh6ZWI2VThvcTdOaWx0emxyWW5vM01QR19CVl8yZVBIMmc2UFZ6ZXFRRjVmdkxzRw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "72m ago",
+    "news_age": "74m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -17024,7 +17026,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SVU05S3ZQMlFXc01UaHE0SUdFck1PRnRDVWFISUFQNFIxeTIzcHR0WmtEeHpJMjJseUhHWG90bXUyenBISVdqRWtTMm5ISGttVnNnRk9jd2ZYdHVnQlpNSFc3ZE1NX0JSR2xTWXNTTVhLakNk?oc=5",
     "news_image": "",
     "news_source": "theguardian.com",
-    "news_age": "68m ago",
+    "news_age": "70m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -17285,15 +17287,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.82,
+    "news_score": 0.62,
     "news_title": "Iran targets tankers in ‘unprovoked attacks’ in Strait of Hormuz, UAE says - Fox News",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWbGN2eXRreVRtbzJ4SnZxOGZzNXkzNy1fMkNuUHFlSkx1RHJpMjFYUEJUVlFpUVRyV2V5Q013cUtaaGg4Y1VrYjZMd181dzF2LXNOX3pnZFNDajNETmJfaWh2cXZpMjdnODNzcExKWGVUSzBRUkI4YUVTOHJIZHM?oc=5",
     "news_image": "",
     "news_source": "Fox News",
     "news_age": "3h ago",
     "news_columns": [
-      "olympic",
-      "basket"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "lgbtq_rights"
     ],
     "bottom50_wealth": null
   },
@@ -18013,7 +18019,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.07,
+    "news_score": 0.05,
     "news_title": "Iran wages economic war in hopes of outlasting U.S. and Israel - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2ZCVmJ4amt6UTBvQ05kcDBFWnNzb1N6QldHQ3RSWVZ0NUdzemNtaTJGaTlzM1N5dVR0djFiVV9XUGNSc1JCR2RnczNYeTUxMW5WZU5aMmJLMVVqcElmVHpibHdWMm9xOFlLWGlhY2NlQUV5cDVVcTRWZHJaNGxjaXVR?oc=5",
     "news_image": "",
@@ -19151,7 +19157,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTXlXNzlhM3pIMG1qRmZlbjVfc09uYnZmQkRaNzNSbDZSUzRKMGpMX01xdTQwSThteUwzc2NyUGhCSnp4b25Kd2hLWDFhSWV1b3J1RFM5a1hrUWVqZjNqa0lBVHd5TE96ZUZtTVBZWnRkcWhOd3hSWEQ4XzUtTzZYUDl3VDJsblAzdnJ3c1FaSUg4TEJaeVFsWWlSQ0Q3NURJYWfSAaIBQVVfeXFMUEpUT1lPUS1fQWR3VDNzNTJKbEQ5V3l6NjJPNEtIY0hNdmx3R3R0UGkzRURidWVRbXR6QXM0djdncU9WWDRoN1c2RXVrc012dklRVC1uWXFsSTVQU3BMNEhDVEQ3Y0FRSk55TW45N2pOLW1xR3h2dGxmXzZDUEphRUc0WG1RTXZnSmo2YXIzMWp5YThCMUN4N2FLb1ZsWTgzaDZR?oc=5",
     "news_image": "",
     "news_source": "qazinform.com",
-    "news_age": "7h ago",
+    "news_age": "8h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -19335,7 +19341,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.43,
+    "news_score": 0.42,
     "news_title": "Mahoney, Bolles, Burilovic and Jordan Make An Appearance At Fall Sports Media Day - University of Colorado Athletics",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkQtWEtlQllmV0FfM1FyZHRybGd6OXpWQy1JQkIxQjFBSkMwaUprS1dkaU1DQTlfdFU0TjFfTVFHVjlfWHc1OVBLTURJVkgzU3BROW9ycXhMdGxPZy1uWjk5Y3Vod1cxdllLOXNuTXMtVGZaLWtaRzdhZWZBbTNXcGd2dG1XYjhhaENQdlB3X0tPMHFEQ3RwbHRQekFyem0tY0d6UjJTUTFrOVA5UTFvN3pWbmxxQ09YcFg1X3AzdWtuT2M?oc=5",
     "news_image": "",
@@ -21136,7 +21142,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 105,
     "fifa_w_rank": 87,
-    "news_score": 0.29,
+    "news_score": 0.28,
     "news_title": "Heavy environmental toll of war in southern Lebanon - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOEJ0d29CbE55RjB1OEZ2TE1TcUxLS3VEZmJ0MkUwZzRfbFRZeG5nUGZKMjZ6UVNuNFZDZnRYVUdlaHZLVUU5Q3JUaU9rWC1JTzFTbHdNX2J3ZHRQRmt1WGYyeC1lLXpPeWdZd2M5TUN2VGk1SFgzdmQxMGl5WllPbDlYNHg0b19DRkdaSHlhNFMtOWZjcFZmS0c2QUI?oc=5",
     "news_image": "",
@@ -42673,7 +42679,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTXlXNzlhM3pIMG1qRmZlbjVfc09uYnZmQkRaNzNSbDZSUzRKMGpMX01xdTQwSThteUwzc2NyUGhCSnp4b25Kd2hLWDFhSWV1b3J1RFM5a1hrUWVqZjNqa0lBVHd5TE96ZUZtTVBZWnRkcWhOd3hSWEQ4XzUtTzZYUDl3VDJsblAzdnJ3c1FaSUg4TEJaeVFsWWlSQ0Q3NURJYWfSAaIBQVVfeXFMUEpUT1lPUS1fQWR3VDNzNTJKbEQ5V3l6NjJPNEtIY0hNdmx3R3R0UGkzRURidWVRbXR6QXM0djdncU9WWDRoN1c2RXVrc012dklRVC1uWXFsSTVQU3BMNEhDVEQ3Y0FRSk55TW45N2pOLW1xR3h2dGxmXzZDUEphRUc0WG1RTXZnSmo2YXIzMWp5YThCMUN4N2FLb1ZsWTgzaDZR?oc=5",
     "news_image": "",
     "news_source": "qazinform.com",
-    "news_age": "7h ago",
+    "news_age": "8h ago",
     "news_columns": [
       "olympic"
     ],
