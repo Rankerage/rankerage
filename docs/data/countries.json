@@ -1138,7 +1138,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObjh2cWluQmlrcnpzMzFqanI4eUJzcUEzVzBfLTFrS3N4REJ4Y21Rd0h0cU52YnVpcWJRc1NwZFdVWmR1aWtxeHoyd01DTW1TMnltbUJMN1V4NHBGZDEyaWk2Z0xtYXJMVkVrRFN1UnZjZnBpNTdPTEJhU2JNQThHT3U3dUtmWVI5bmtDd09SNXQ1WENrMnA1d3ZSRUNDejJpNHVPa214eUp6SEJQZGV6eFBLN25ZcnN4TG1ha3VDWnI2aHBUNzBEWA?oc=5",
     "news_image": "",
     "news_source": "African Development Bank Group",
-    "news_age": "1385h ago",
+    "news_age": "1386h ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -5127,19 +5127,17 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.12,
+    "news_score": 0.16,
     "news_title": "Stellantis expands its circular economy business in Brazil with used parts and online sales - ClubAlfa.it",
     "news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ2hwTGpkaUVfUVFMOTEwSURuWnl1LWFsSmpsYXY1S3BYUkNjczYxOHRDcVBUTmpGRmw5Sm0yQUhIT0ViR05IMlVZNHkydkFTazNlWm94ZWxBRlczWmFvNXMtRDNwb1RQMzd1RTNyaks1YnRvd3lOSENLV3hvcHlYODI2OHRjYW5XVHpUOHF0TE13Q08xaWlLTldiNTlyRjcySTRIalRPUGg1MFZ3UVp1WFd4RkR5TlBvZFBzZWFrbnM5QQ?oc=5",
     "news_image": "",
     "news_source": "ClubAlfa.it",
     "news_age": "7h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -8223,14 +8221,17 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.31,
+    "news_score": 0.4,
     "news_title": "Race to reach trapped survivors offers hope in Colombia quake zone - reuters.com",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXFkQmRFSExDQ3Q2MVBNQkk0NWVLS1oxUFo0ekNYaGd3U0pEUHR5SXNxdHcydUVraXR5TFNvakZGRE56NWFNZkpJXzNMcFQ4ekNRclZrLTZuRTFZVFlfSDlIZWlCTGNoWmFmVWFsSkJHSnZvX3Fib3RlOE9JQWwwNFFoZFJYVDZPVUo5ZmNQbDd0R2k4VC13RmlIcHN2eTEybHFRT3E2S0F3Q3NkaUhldUdfVVQzLTA?oc=5",
     "news_image": "",
     "news_source": "reuters.com",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -9038,7 +9039,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM1FFRnlyLVF0RVZCYkx6UVRoVEU0WFd4UHNObDR4aWxoSkhxY3I0U1pmREttZHpDTmRKRjVyU2NiZnp3TXQ0aV8wQ25EcWFScDJPTzhDVEFmZ0t1LXNENEhqMWtQMnM1dGRjNDZZWkoyalEwM2QxVWo4WWZrMHo1YnJRbndBZ0dUQnlUREp4VkU0Zkl6MGtIUXJHT0tWVGNuQnBoOGdWb0h1dDJ2N3JVbVJTbV9Td2JhSTdBQWRrR192bnhzY1RkaQ?oc=5",
     "news_image": "",
     "news_source": "thenationalnews.com",
-    "news_age": "1361h ago",
+    "news_age": "1362h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -12951,12 +12952,10 @@
     "news_source": "Newsonair",
     "news_age": "40h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "space_launch"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13477,7 +13476,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNdnRSeWNTOExiMVdlTU9ab1BicjljYXV1MmJJZVNkUHRLOURtX0Fpd2VEZW03X0dLR29LVDd5U0lBSHhmLTlibDRZbDA2eEQ3dll5QUhObF9icmJ4RUlIWHJXandBNXNrYUhhejFJUTFzRndxZ0d4ZU5rV0pqNFNGM0N4YVVFTDJ3NW9JbEhHUk5GeXZWY1hpZUo1REs4NHh1SjNPTVdUWDJwLWNhWkd4Y3dUX0hDMVh5NUV4UlQxaml1ak1pWjJSVDRPOThYTWNXS3hwbHB2Q095NHQzSkU4TWJTOXVGRGdWZVJDZUZvR3lwYTAwXzVpV3VMSlpLaHVxYTFldDEtUnN3dm14Y2pkR1JTT3YtQ3lNbktjTEt3MHpJc0E?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "10h ago",
+    "news_age": "11h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -17020,14 +17019,19 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 1.01,
+    "news_score": 0.77,
     "news_title": "Magnitude-7.7 quake hits off coast of Indonesia, USGS says - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51U2tXT01TeEdpZ2g1UEg0MUxjMFhyZTBBRzE2R3BObExUOUhGNUdmNVdjUlVtSTIydmNmSjdzTUdDYllON0FUX1Vtam5HLVFDRG9XV09VeTdFLUZwUVRkUkRwU0ZQQnNkR1JJUHRJdWhYcVJqemRBeXRUZw?oc=5",
     "news_image": "",
     "news_source": "NBC News",
-    "news_age": "62m ago",
+    "news_age": "64m ago",
     "news_columns": [
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "earthquake_count"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17281,14 +17285,17 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.72,
+    "news_score": 0.69,
     "news_title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN3VTcXZFMVAzTFpCQlBnMkgtUGhUUVZwX1RBc1dWSmE5VjdVMGtaOHRjZ2p1WVVJblBrc1NTS1h4M2NsSlp0S2JFdE0tdG1jclJvaDUyYjItYjRJdG8ydXVxYmNJUTB1Mms2MnBtbUxFX1gxRHpJZk45MjJZcnFzdFpXTVZJUF95aDA1N01iWnAzOVcxaVBaMGw1dnVkNTVS0gGmAUFVX3lxTE5MMUR6ME9RMmxiak9JbXNhYmJGYlo0MmptbVhpa2ZaWERsTWpvczB4dk9YVS1sVTl3RUM2U2J0TE5ua2F5eFREQXEwTVJZTkY2ZkhRVENadUtOMlR6eXNHWUUyalRZVE1oRDlsdTJuZFdEWGQ0b1BrdGdpbWxjWF9kWlpmWjRheHQ1dW8xU3JuMWwxYS1uQ1IwTVlHblZYMTBESncxZEE?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
     "news_age": "3h ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -18013,7 +18020,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2ZCVmJ4amt6UTBvQ05kcDBFWnNzb1N6QldHQ3RSWVZ0NUdzemNtaTJGaTlzM1N5dVR0djFiVV9XUGNSc1JCR2RnczNYeTUxMW5WZU5aMmJLMVVqcElmVHpibHdWMm9xOFlLWGlhY2NlQUV5cDVVcTRWZHJaNGxjaXVR?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "3665h ago",
+    "news_age": "3666h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -19330,12 +19337,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.62,
+    "news_score": 0.61,
     "news_title": "Mahoney, Bolles, Burilovic and Jordan Make An Appearance At Fall Sports Media Day - University of Colorado Athletics",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkQtWEtlQllmV0FfM1FyZHRybGd6OXpWQy1JQkIxQjFBSkMwaUprS1dkaU1DQTlfdFU0TjFfTVFHVjlfWHc1OVBLTURJVkgzU3BROW9ycXhMdGxPZy1uWjk5Y3Vod1cxdllLOXNuTXMtVGZaLWtaRzdhZWZBbTNXcGd2dG1XYjhhaENQdlB3X0tPMHFEQ3RwbHRQekFyem0tY0d6UjJTUTFrOVA5UTFvN3pWbmxxQ09YcFg1X3AzdWtuT2M?oc=5",
     "news_image": "",
     "news_source": "University of Colorado Athletics",
-    "news_age": "113m ago",
+    "news_age": "115m ago",
     "news_columns": [
       "edu",
       "literacy",
@@ -24615,10 +24622,10 @@
     "union_rate": 66.3,
     "union_rate_rank": null,
     "news_score": 0.29,
-    "news_title": "Paramount-Warner Bros. Merger Gets Mexico’s Approval, Leaving States’ Lawsuit as the Only Barrier Left - variety.com",
+    "news_title": "Paramount-Warner Bros. Merger Gets Mexico’s Approval, Leaving States’ Lawsuit as the Only Barrier Left - Variety",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWU5sN2VFRzhDdDViVlpmV3M2ZlN4Qmx1aUtldVVrVW1YdVJGLU1MQzFjczZLZFU0N0h3VHhZNmlvOUIydUl4ZmRpazRmWkdMLTRPWWVKOVB5V0xjSzFablpyVHlROWNodnphUDNuZWNjcEJuakhHTjR0bGo4a1FzclZUQkl5R2h3T19GRVFDNmpXVHNWbVE?oc=5",
     "news_image": "",
-    "news_source": "variety.com",
+    "news_source": "Variety",
     "news_age": "4h ago",
     "news_columns": [
       "military_pct",
@@ -29291,7 +29298,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTnQ1bi1iSE9iYjJEbFYxSmtRVmZtdkEyTHM3c3pMSkl5WHJKd2xXTmdENGlMWGZXQkxITVI0M1pwNGRaakE0MVNDOExOODZ3N2g4Y3MxTDNuelRuZV9JZlRfanpYaU5xMFZGalpmREJZWkhUVzlqdWQ0REU3QXhGcEl4LU9SOXdMb1E4?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "4h ago",
+    "news_age": "5h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -31166,7 +31173,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOQjdyWHVrQ1hKYlFzVGJrdGlEQ1I5eEpXdTNoQU00a0p1c1NNNFZDNWlKcmdQUTVHVEN6bGpRcHU5cThzQTVCU2RxcHRtTGJFWEJCdVVES3R3Z200SlBNQ21jX0lKMWlnUDQ4RUxGUDRVdmxBSHo3am1RV0VlQWJzQ2RocnEtbTJxS1hWbXVCalp4Y2lIa2l3VGo2VHIxOVo1YWxuQ3JuMi1XVmRYSEo0dTdUXzNZRHdKTjdKTnp5UGtxb2FqOVBNckRabjBya2U1QmF5Z0pObms1Q0VhdnF3TUYydjRXai16enBjVGg1ZS1zRHZxdmhqNUFLUk9kZkFrWlFFbzhhLWkzYlA1?oc=5",
     "news_image": "",
     "news_source": "GovInsider",
-    "news_age": "977h ago",
+    "news_age": "978h ago",
     "news_columns": [
       "edu",
       "literacy",
@@ -31453,7 +31460,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaTBiWGR3alBRako4UzE1dWNzY05XTkJmcFhWT0I0QXRqNVFFbEFqa0FUbEF2amhFVEI1a2N1bTV0ZWhKUWFDQmJ4dlhFRmpFbXJKN2Q1SlFIWjl4cW5NMUdUWWZ2Tk1FY0FtWmk4Y0R0YTJUbjNJQ1pfTy1lcDA0MWdrV1MtWExKOGxoUjJDSFpaejRXTDQ0VURGSEJKUQ?oc=5",
     "news_image": "",
     "news_source": "NBC News",
-    "news_age": "3641h ago",
+    "news_age": "3642h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -33113,7 +33120,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53anN3Y0FsQkNxd0drdHRCQVU1Mk1Ja09FT0wtdjNJbnNMMTBINUtsZ1N3dVF5a09XMHdvTHRrTmVyaElUbmFpRTV0OTJ6V2dYclljUjlNSXpfRFFDcWdv?oc=5",
     "news_image": "",
     "news_source": "Nature",
-    "news_age": "1097h ago",
+    "news_age": "1098h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -33631,7 +33638,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOGU3ampGbjducVgtbzZRLWl3UWdxUFJkSnEyVlpabXBWZ1ZOTXg2cy1Cb2NJbUs3am9fNDJDcnFiVUo0OWhuMHZmTmRnUTR2T3F2aEtwSUhyajlTcGtlMDRBVkItaU5EUmJWb19BY0ZvUkk1d3BEQVgxWFl3ZjY4bXBtWHF3bmdwbVRxSU51THNOZ1FHT1RWYXoxckQzTGFxSUFHRVJMSnhWZlRsbTh1NDF6NHNBaUJOSTlNM21FXy1FWnRXazhWcmFXRFNVbU1FNGJIQkpfTnI?oc=5",
     "news_image": "",
     "news_source": "UConn Today",
-    "news_age": "3976h ago",
+    "news_age": "3977h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -35925,7 +35932,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOE1LbGtnVjhVTFpzcVpZYWxlSXpVbXJPd0RCeTNGWUxtNHp4V1JJRGNObE5uYVBRQnV3djVsU0VneG9EM3FnaVZLbUJ3YXdIcGVOVUQwckd6eUhOS3hCUTFHNGJMUWwzV2lCLXhCNk92WWpyUndIclp0dm10NnpxekNR?oc=5",
     "news_image": "",
     "news_source": "Upgraded Points",
-    "news_age": "497h ago",
+    "news_age": "498h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -37447,7 +37454,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjU4NEo0OElfRV95dWtjZ0VGVFZtbmVrbVNneUs2QTNrOXktc0RrLTB1elRKemt5X013MGJscko2b1BTOGhFSmV2dEd5X0Y3NGZGSElfOXZMV0FTektQRWpaY2RqRzBPcTFvVkFndTRDRV80UHkycG5xNEJWdGc5eUR1dXprV2hv?oc=5",
     "news_image": "",
     "news_source": "Business Sweden",
-    "news_age": "3401h ago",
+    "news_age": "3402h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -40051,7 +40058,7 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.09,
+    "news_score": 0.08,
     "news_title": "Pakistani consul general calls for stronger business ties with Türkiye | Daily Sabah - Daily Sabah",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ3ZMXzA2QktKQXRLRjFPVnBhTGNHcWNJYXFubnAyUWFlQlVPbXp0OWtUUHRYNW5hdTc1VDl1N1ZOTkRadTI1QjhaUlFGaC1VV2I2QW9OalpfeG1xRW1qQkNnRWtaYVpwX2NheFp6RXpYMGtReW1uMmltRWMxc0JKdlk0aDZaMDRRRnJ0ZkRwYjhweUtIWHc0RmJLdmloS3JER2FaMm4zVjZLd0YxU3VKRkM3NELSAboBQVVfeXFMUHFBVmlZNEh6WGFObjhxeDdaTE8wZjNNRW1TM0Z6c3Zwcm44SUlhQ0FlaUVJYWI0Rm5USC1VcEpyV1lEUlVqZzhzTndpS05idWZwLW9uNWp5QTVveGpTUHh6ZjRWU0ZIZzAtSHRqejJ3NjVRSkF2YUFGaTdxYkg0Sm1TSjBOTVN1SnpPd2Y4VXpRbjlKQzQ2bU1uSGg1Ri1maUpSOWpuOFZTQm1MQ3JLVVdNY19BSDNyRU9B?oc=5",
     "news_image": "",
@@ -42663,7 +42670,7 @@
     "union_rate": 62.9,
     "union_rate_rank": null,
     "fifa_w_rank": 45,
-    "news_score": 0.15,
+    "news_score": 0.14,
     "news_title": "Uzbekistan and Japan discuss cooperation in science and technology - Qazinform",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTXlXNzlhM3pIMG1qRmZlbjVfc09uYnZmQkRaNzNSbDZSUzRKMGpMX01xdTQwSThteUwzc2NyUGhCSnp4b25Kd2hLWDFhSWV1b3J1RFM5a1hrUWVqZjNqa0lBVHd5TE96ZUZtTVBZWnRkcWhOd3hSWEQ4XzUtTzZYUDl3VDJsblAzdnJ3c1FaSUg4TEJaeVFsWWlSQ0Q3NURJYWfSAaIBQVVfeXFMUEpUT1lPUS1fQWR3VDNzNTJKbEQ5V3l6NjJPNEtIY0hNdmx3R3R0UGkzRURidWVRbXR6QXM0djdncU9WWDRoN1c2RXVrc012dklRVC1uWXFsSTVQU3BMNEhDVEQ3Y0FRSk55TW45N2pOLW1xR3h2dGxmXzZDUEphRUc0WG1RTXZnSmo2YXIzMWp5YThCMUN4N2FLb1ZsWTgzaDZR?oc=5",
     "news_image": "",
