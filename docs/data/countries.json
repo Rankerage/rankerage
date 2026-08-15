@@ -773,7 +773,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.69,
+    "news_score": 0.99,
     "news_title": "American Samoa's flag football team bows heads in underdog triumph over USA on world debut: “We are a family of brothers” - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOG8xSERPMWRTcEpoZjhGTkxyNUtRSUxjeS1rNWljYS1kenN6SlBkSVpnWVhYaFdEVENWWlA0UkJkRnVRVndhWkVXUDJycTNKTzJudE5hbXg5d2NMcW15N2l4YzY4T0hBbk9sTHBWSmtiWmJ5OU1VbjZZNFlUd211YTRaTjlHd2duTVhvWEdRbkRjSVp1MGZQTDJRbFBQVlh0WFJ6cWIyUGtKaXJxbkNscVZ4elE4bjVWOGVCcXlvM20?oc=5",
     "news_image": "",
@@ -783,10 +783,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket",
-      "olympic_gold",
-      "olympic_per_cap"
+      "olympic"
     ]
   },
   {
@@ -3812,19 +3809,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.0,
-    "news_title": "Poland now sixth-largest EU economy, ahead of Belgium and Austria - Euronews.com",
-    "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG4zUUhUV3lvcjJybFJHQlI4cjZwUzVMMGpQY3lVNlhSb3NmQ0pSbzRUcDJfczdqUzU5VUhTQmk0VkxROE1OSHg3RWtOQVIxajRBLWREYm84Ujc3TnFKZU16RW4zdUt3eG16SG5STVViQk1UQk1Ed1RWYmtWTUhkeTkyRnFsTlg4V3JzXzE4UlU3NXV4Sk01Vk11NzNvRXJhUnpMNWJXTVhxNmRpdjFUdlVBTQ?oc=5",
+    "news_score": 0.38,
+    "news_title": "Youri Tielemans Opens Up on Surprise Manchester United Move and Belgium's World Cup Heartbreak - Yahoo Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMlFid0JER2FXODVCNE16VDk0c0JmZEpwSC0tenB2ZWdBdEVBMWRfdTlqWVkyRmVqY3FrNUVodW1iV2Rxa28tZ2RlLWlLX2JyZzBzcnNib2hFTmVYVEVsMzZ6dldVRjJjQm1hQ0E5WFBsa3ZYcWp4c0o2OVNpbFE2S01iZU11d2t0ZjM5aW5QSHNtOTRx?oc=5",
     "news_image": "",
-    "news_source": "Euronews.com",
-    "news_age": "127h ago",
+    "news_source": "Yahoo Sports",
+    "news_age": "34m ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 3.1,
     "bottom50_wealth_rank": 18
@@ -5127,17 +5121,19 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.16,
+    "news_score": 0.12,
     "news_title": "Stellantis expands its circular economy business in Brazil with used parts and online sales - ClubAlfa.it",
     "news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ2hwTGpkaUVfUVFMOTEwSURuWnl1LWFsSmpsYXY1S3BYUkNjczYxOHRDcVBUTmpGRmw5Sm0yQUhIT0ViR05IMlVZNHkydkFTazNlWm94ZWxBRlczWmFvNXMtRDNwb1RQMzd1RTNyaks1YnRvd3lOSENLV3hvcHlYODI2OHRjYW5XVHpUOHF0TE13Q08xaWlLTldiNTlyRjcySTRIalRPUGg1MFZ3UVp1WFd4RkR5TlBvZFBzZWFrbnM5QQ?oc=5",
     "news_image": "",
     "news_source": "ClubAlfa.it",
     "news_age": "7h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -8221,7 +8217,7 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.4,
+    "news_score": 0.47,
     "news_title": "Race to reach trapped survivors offers hope in Colombia quake zone - reuters.com",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXFkQmRFSExDQ3Q2MVBNQkk0NWVLS1oxUFo0ekNYaGd3U0pEUHR5SXNxdHcydUVraXR5TFNvakZGRE56NWFNZkpJXzNMcFQ4ekNRclZrLTZuRTFZVFlfSDlIZWlCTGNoWmFmVWFsSkJHSnZvX3Fib3RlOE9JQWwwNFFoZFJYVDZPVUo5ZmNQbDd0R2k4VC13RmlIcHN2eTEybHFRT3E2S0F3Q3NkaUhldUdfVVQzLTA?oc=5",
     "news_image": "",
@@ -8230,8 +8226,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -12952,10 +12947,12 @@
     "news_source": "Newsonair",
     "news_age": "40h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "space_launch"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17019,12 +17016,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 0.77,
+    "news_score": 0.76,
     "news_title": "Magnitude-7.7 quake hits off coast of Indonesia, USGS says - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51U2tXT01TeEdpZ2g1UEg0MUxjMFhyZTBBRzE2R3BObExUOUhGNUdmNVdjUlVtSTIydmNmSjdzTUdDYllON0FUX1Vtam5HLVFDRG9XV09VeTdFLUZwUVRkUkRwU0ZQQnNkR1JJUHRJdWhYcVJqemRBeXRUZw?oc=5",
     "news_image": "",
     "news_source": "NBC News",
-    "news_age": "64m ago",
+    "news_age": "66m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -17285,7 +17282,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.69,
+    "news_score": 0.68,
     "news_title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN3VTcXZFMVAzTFpCQlBnMkgtUGhUUVZwX1RBc1dWSmE5VjdVMGtaOHRjZ2p1WVVJblBrc1NTS1h4M2NsSlp0S2JFdE0tdG1jclJvaDUyYjItYjRJdG8ydXVxYmNJUTB1Mms2MnBtbUxFX1gxRHpJZk45MjJZcnFzdFpXTVZJUF95aDA1N01iWnAzOVcxaVBaMGw1dnVkNTVS0gGmAUFVX3lxTE5MMUR6ME9RMmxiak9JbXNhYmJGYlo0MmptbVhpa2ZaWERsTWpvczB4dk9YVS1sVTl3RUM2U2J0TE5ua2F5eFREQXEwTVJZTkY2ZkhRVENadUtOMlR6eXNHWUUyalRZVE1oRDlsdTJuZFdEWGQ0b1BrdGdpbWxjWF9kWlpmWjRheHQ1dW8xU3JuMWwxYS1uQ1IwTVlHblZYMTBESncxZEE?oc=5",
     "news_image": "",
@@ -17294,8 +17291,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -19337,12 +19333,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.61,
+    "news_score": 0.6,
     "news_title": "Mahoney, Bolles, Burilovic and Jordan Make An Appearance At Fall Sports Media Day - University of Colorado Athletics",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkQtWEtlQllmV0FfM1FyZHRybGd6OXpWQy1JQkIxQjFBSkMwaUprS1dkaU1DQTlfdFU0TjFfTVFHVjlfWHc1OVBLTURJVkgzU3BROW9ycXhMdGxPZy1uWjk5Y3Vod1cxdllLOXNuTXMtVGZaLWtaRzdhZWZBbTNXcGd2dG1XYjhhaENQdlB3X0tPMHFEQ3RwbHRQekFyem0tY0d6UjJTUTFrOVA5UTFvN3pWbmxxQ09YcFg1X3AzdWtuT2M?oc=5",
     "news_image": "",
     "news_source": "University of Colorado Athletics",
-    "news_age": "115m ago",
+    "news_age": "117m ago",
     "news_columns": [
       "edu",
       "literacy",
@@ -21138,7 +21134,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 105,
     "fifa_w_rank": 87,
-    "news_score": 0.42,
+    "news_score": 0.41,
     "news_title": "Heavy environmental toll of war in southern Lebanon - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOEJ0d29CbE55RjB1OEZ2TE1TcUxLS3VEZmJ0MkUwZzRfbFRZeG5nUGZKMjZ6UVNuNFZDZnRYVUdlaHZLVUU5Q3JUaU9rWC1JTzFTbHdNX2J3ZHRQRmt1WGYyeC1lLXpPeWdZd2M5TUN2VGk1SFgzdmQxMGl5WllPbDlYNHg0b19DRkdaSHlhNFMtOWZjcFZmS0c2QUI?oc=5",
     "news_image": "",
@@ -24621,7 +24617,7 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.29,
+    "news_score": 0.28,
     "news_title": "Paramount-Warner Bros. Merger Gets Mexico’s Approval, Leaving States’ Lawsuit as the Only Barrier Left - Variety",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWU5sN2VFRzhDdDViVlpmV3M2ZlN4Qmx1aUtldVVrVW1YdVJGLU1MQzFjczZLZFU0N0h3VHhZNmlvOUIydUl4ZmRpazRmWkdMLTRPWWVKOVB5V0xjSzFablpyVHlROWNodnphUDNuZWNjcEJuakhHTjR0bGo4a1FzclZUQkl5R2h3T19GRVFDNmpXVHNWbVE?oc=5",
     "news_image": "",
@@ -28264,7 +28260,7 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.14,
+    "news_score": 0.17,
     "news_title": "Nigeria misses Women's World Cup for first time ever after playoff loss - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOVcza2E1YnlhTm1mUktkeUFYS3BneG4wS19YeUItdWs3OTRnYjJLZW52Q0NiYzlJSFN2MHFYQ0w2S0xKQnY5ZGcxbjl4QmtOYU5XZG1VR1p4c2Y3cnFoSlZFZWxzUVJDVFpxczY2dWtPYTF5MGFfdktJS3djLVVZSHV3YUhJdkU?oc=5",
     "news_image": "",
@@ -31456,11 +31452,11 @@
     "union_rate": 75.0,
     "union_rate_rank": null,
     "news_score": 0.01,
-    "news_title": "Poland is now among the world's 20 largest economies. How did it happen? - NBC News",
-    "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaTBiWGR3alBRako4UzE1dWNzY05XTkJmcFhWT0I0QXRqNVFFbEFqa0FUbEF2amhFVEI1a2N1bTV0ZWhKUWFDQmJ4dlhFRmpFbXJKN2Q1SlFIWjl4cW5NMUdUWWZ2Tk1FY0FtWmk4Y0R0YTJUbjNJQ1pfTy1lcDA0MWdrV1MtWExKOGxoUjJDSFpaejRXTDQ0VURGSEJKUQ?oc=5",
+    "news_title": "Poland now sixth-largest EU economy, ahead of Belgium and Austria - Euronews.com",
+    "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG4zUUhUV3lvcjJybFJHQlI4cjZwUzVMMGpQY3lVNlhSb3NmQ0pSbzRUcDJfczdqUzU5VUhTQmk0VkxROE1OSHg3RWtOQVIxajRBLWREYm84Ujc3TnFKZU16RW4zdUt3eG16SG5STVViQk1UQk1Ed1RWYmtWTUhkeTkyRnFsTlg4V3JzXzE4UlU3NXV4Sk01Vk11NzNvRXJhUnpMNWJXTVhxNmRpdjFUdlVBTQ?oc=5",
     "news_image": "",
-    "news_source": "NBC News",
-    "news_age": "3642h ago",
+    "news_source": "Euronews.com",
+    "news_age": "127h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -40058,7 +40054,7 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.08,
+    "news_score": 0.07,
     "news_title": "Pakistani consul general calls for stronger business ties with Türkiye | Daily Sabah - Daily Sabah",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ3ZMXzA2QktKQXRLRjFPVnBhTGNHcWNJYXFubnAyUWFlQlVPbXp0OWtUUHRYNW5hdTc1VDl1N1ZOTkRadTI1QjhaUlFGaC1VV2I2QW9OalpfeG1xRW1qQkNnRWtaYVpwX2NheFp6RXpYMGtReW1uMmltRWMxc0JKdlk0aDZaMDRRRnJ0ZkRwYjhweUtIWHc0RmJLdmloS3JER2FaMm4zVjZLd0YxU3VKRkM3NELSAboBQVVfeXFMUHFBVmlZNEh6WGFObjhxeDdaTE8wZjNNRW1TM0Z6c3Zwcm44SUlhQ0FlaUVJYWI0Rm5USC1VcEpyV1lEUlVqZzhzTndpS05idWZwLW9uNWp5QTVveGpTUHh6ZjRWU0ZIZzAtSHRqejJ3NjVRSkF2YUFGaTdxYkg0Sm1TSjBOTVN1SnpPd2Y4VXpRbjlKQzQ2bU1uSGg1Ri1maUpSOWpuOFZTQm1MQ3JLVVdNY19BSDNyRU9B?oc=5",
     "news_image": "",
