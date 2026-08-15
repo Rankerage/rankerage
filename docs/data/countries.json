@@ -207,12 +207,12 @@
     "union_rate": 38.4,
     "union_rate_rank": null,
     "fifa_ranking_rank": 136,
-    "news_score": 0.11,
-    "news_title": "The Taliban has taken a terrible toll on the education of girls — and boys as well - NPR",
-    "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeERScUZJUUJ6UHpNQUVVb0h2bjZCRHk5VzUwZFpUR1FmQS1tMHZKXzV5My1kQlozVGxTdmZIc0p0ODd6akh4a1o4VkRmVkZod1JqeU5SWFc4RGg5SkZSOE90WnFhSko4QmpPczVmbk5WU0NEZklSdkg2azdUZDhsQXZFaVBFM3JBcUdtY2NJeE5vWG1z?oc=5",
+    "news_score": 0.13,
+    "news_title": "Afghanistan marks 5 years under the Taliban with safer streets but pleas for jobs and education - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRnpsYnVPYThvem1YRHJaM0ZNZk43OWlhcXZtVlBEOVg3d1VfY012d3V2bVFCRkJ1ajRwNGtCdG9IbW4wSW9uM1RVWDB0RlVCUVMzaEpvRWhXalQ4WnY2bnRrTjdNTmg0ZklfRUVIeTBhS1YtUkF0RWV1R0F3VmtMN0lzd0JpOGJGYmhLU3ZpRlF6YnNGdlpSTml2SWFxdw?oc=5",
     "news_image": "",
-    "news_source": "NPR",
-    "news_age": "11h ago",
+    "news_source": "AP News",
+    "news_age": "6h ago",
     "news_columns": [
       "edu",
       "literacy",
@@ -773,7 +773,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.68,
+    "news_score": 0.5,
     "news_title": "American Samoa's flag football team bows heads in underdog triumph over USA on world debut: “We are a family of brothers” - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOG8xSERPMWRTcEpoZjhGTkxyNUtRSUxjeS1rNWljYS1kenN6SlBkSVpnWVhYaFdEVENWWlA0UkJkRnVRVndhWkVXUDJycTNKTzJudE5hbXg5d2NMcW15N2l4YzY4T0hBbk9sTHBWSmtiWmJ5OU1VbjZZNFlUd211YTRaTjlHd2duTVhvWEdRbkRjSVp1MGZQTDJRbFBQVlh0WFJ6cWIyUGtKaXJxbkNscVZ4elE4bjVWOGVCcXlvM20?oc=5",
     "news_image": "",
@@ -784,7 +784,9 @@
       "fifa_ranking",
       "fifa_w",
       "olympic",
-      "basket"
+      "basket",
+      "olympic_gold",
+      "olympic_per_cap"
     ]
   },
   {
@@ -12954,12 +12956,8 @@
     "news_source": "Newsonair",
     "news_age": "41h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "space_launch"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13475,12 +13473,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.71,
+    "news_score": 0.72,
     "news_title": "Georgia high school football scores as GHSA kicks off - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRFN6dGlYS19PeEhxUU11dDl6TXk4M0NzMnlXR0dFWE16UFRuclFfdDJySnFoOGJXdlFUQktXeGdESGR2QUtnM3RVRW1WSU5UOEhRTEhibkVUcW1sZkh6ZWI2VThvcTdOaWx0emxyWW5vM01QR19CVl8yZVBIMmc2UFZ6ZXFRRjVmdkxzRw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "66m ago",
+    "news_age": "68m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -17023,19 +17021,14 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 0.77,
-    "news_title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, triggering tsunami warning - The Guardian",
+    "news_score": 1.0,
+    "news_title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, triggering tsunami warning - theguardian.com",
     "news_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SVU05S3ZQMlFXc01UaHE0SUdFck1PRnRDVWFISUFQNFIxeTIzcHR0WmtEeHpJMjJseUhHWG90bXUyenBISVdqRWtTMm5ISGttVnNnRk9jd2ZYdHVnQlpNSFc3ZE1NX0JSR2xTWXNTTVhLakNk?oc=5",
     "news_image": "",
-    "news_source": "The Guardian",
-    "news_age": "62m ago",
+    "news_source": "theguardian.com",
+    "news_age": "64m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "earthquake_count"
+      "olympic"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17296,10 +17289,7 @@
     "news_source": "Fox News",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -18019,18 +18009,16 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.08,
-    "news_title": "Iran wages economic war in hopes of outlasting U.S. and Israel - The Washington Post",
-    "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2ZCVmJ4amt6UTBvQ05kcDBFWnNzb1N6QldHQ3RSWVZ0NUdzemNtaTJGaTlzM1N5dVR0djFiVV9XUGNSc1JCR2RnczNYeTUxMW5WZU5aMmJLMVVqcElmVHpibHdWMm9xOFlLWGlhY2NlQUV5cDVVcTRWZHJaNGxjaXVR?oc=5",
+    "news_score": 0.14,
+    "news_title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YcHNzX2xsZTJCeHVDZTFqT0FNSEl0dHZXdGFqUENQVWpCSFg3QldZazBOMWJMS19pc29tSVA1ZEczWGRwTGdqek1sQVllSElWM0JFd1dyMzIxMll3VEF4eXBMa1lSWGQtWTZmMjBQTXZvS3hWWk1RNw?oc=5",
     "news_image": "",
-    "news_source": "The Washington Post",
-    "news_age": "3667h ago",
+    "news_source": "The New York Times",
+    "news_age": "4h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "cpi",
+      "democracy",
+      "press"
     ],
     "bottom50_wealth": null
   },
@@ -19783,7 +19771,7 @@
     "union_rate": 68.0,
     "union_rate_rank": null,
     "fifa_w_rank": 86,
-    "news_score": 0.02,
+    "news_score": 0.01,
     "news_title": "Ol Kalau and the Business of Blood: Naming Kenya’s Political Economy of Violence - theelephant.info",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalhtNzZJZlRrMFVhSUVLN0FhUmpjdThMS1RMLThXMnJOOXA0Y1I0X3dPVENlNTZKX2hOSHZ1dmhaQVVFVWlyTjJNbTgzQnhnV0pPNlpsek45aXRsbF9BaXV5NjcyRUFyUHY0UU0wQVJFdFZRbXpJeE9HVU1NSTJ0V2ZQNWkyT0pwa2RfajhGZE9ZaHp3NUdtenJ4amFwdmZUazBaMEVvVVk3S2Q0Rl9QMEZB?oc=5",
     "news_image": "",
@@ -21142,7 +21130,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 105,
     "fifa_w_rank": 87,
-    "news_score": 0.3,
+    "news_score": 0.29,
     "news_title": "Heavy environmental toll of war in southern Lebanon - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOEJ0d29CbE55RjB1OEZ2TE1TcUxLS3VEZmJ0MkUwZzRfbFRZeG5nUGZKMjZ6UVNuNFZDZnRYVUdlaHZLVUU5Q3JUaU9rWC1JTzFTbHdNX2J3ZHRQRmt1WGYyeC1lLXpPeWdZd2M5TUN2VGk1SFgzdmQxMGl5WllPbDlYNHg0b19DRkdaSHlhNFMtOWZjcFZmS0c2QUI?oc=5",
     "news_image": "",
@@ -40062,7 +40050,7 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.06,
+    "news_score": 0.05,
     "news_title": "Pakistani consul general calls for stronger business ties with Türkiye | Daily Sabah - Daily Sabah",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ3ZMXzA2QktKQXRLRjFPVnBhTGNHcWNJYXFubnAyUWFlQlVPbXp0OWtUUHRYNW5hdTc1VDl1N1ZOTkRadTI1QjhaUlFGaC1VV2I2QW9OalpfeG1xRW1qQkNnRWtaYVpwX2NheFp6RXpYMGtReW1uMmltRWMxc0JKdlk0aDZaMDRRRnJ0ZkRwYjhweUtIWHc0RmJLdmloS3JER2FaMm4zVjZLd0YxU3VKRkM3NELSAboBQVVfeXFMUHFBVmlZNEh6WGFObjhxeDdaTE8wZjNNRW1TM0Z6c3Zwcm44SUlhQ0FlaUVJYWI0Rm5USC1VcEpyV1lEUlVqZzhzTndpS05idWZwLW9uNWp5QTVveGpTUHh6ZjRWU0ZIZzAtSHRqejJ3NjVRSkF2YUFGaTdxYkg0Sm1TSjBOTVN1SnpPd2Y4VXpRbjlKQzQ2bU1uSGg1Ri1maUpSOWpuOFZTQm1MQ3JLVVdNY19BSDNyRU9B?oc=5",
     "news_image": "",
