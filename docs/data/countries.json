@@ -207,7 +207,7 @@
     "union_rate": 38.4,
     "union_rate_rank": null,
     "fifa_ranking_rank": 136,
-    "news_score": 0.32,
+    "news_score": 0.31,
     "news_title": "Concerns grow over increased global ties with Taliban in Afghanistan - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUcwZmlieHVTblctVUFxREhEWF84RHhHazFkR0hMMFJuaThzTHpKNVprZ1lFUExDSzRQZF8zNXVab1ZfX0w3cGJsZV9oRVE5UzJFQjQ1ckp1czB2X29SNXRMTGtkN3AwUUZLRDZscmkyUnNOM3N2UmtrbDhEczFPV2dldU9UNHV5MDhER1JZbUF0QUc4VWQ4bGV6NWRKUXBlQTluNEJB?oc=5",
     "news_image": "",
@@ -1922,16 +1922,15 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.93,
+    "news_score": 1.24,
     "news_title": "Atlético Madrid signs Argentina defender Cristian Romero from Tottenham - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT1U2ZTRNYVdBT2Z6RnlXQ0VILW5IZHVoS1lDMURmSVN5Z082SjViMHpTcGpIWTFzcTZiQU5TbXZJR2d5ZlJxcnVleXA5X2RDSVhuS25TYmg5VGs3Vzd0WlRkRWRMLWh6QVlySk1jUXlhRkNraWtLOTlqZE9hb003clg3Skd6emc?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "87m ago",
+    "news_age": "89m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -2544,7 +2543,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1JneHVFZFlrR0w2SnJyaFdmTDdPOHI2OFVWaFJnMmZ6V19lZXRXeW5KZFNxa1RSR3lIZnJJNzNQSE5kVFN3TzdGOWRJMXRlV21BSG51X0dZc05WY1pCSTFYR2tGM2RTWm5uWkl5SGV1YlJBVm5EUFJUQldweHM4UXR6MGJnMFdONTBwa0U4dVA4Zw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -3312,7 +3311,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1JneHVFZFlrR0w2SnJyaFdmTDdPOHI2OFVWaFJnMmZ6V19lZXRXeW5KZFNxa1RSR3lIZnJJNzNQSE5kVFN3TzdGOWRJMXRlV21BSG51X0dZc05WY1pCSTFYR2tGM2RTWm5uWkl5SGV1YlJBVm5EUFJUQldweHM4UXR6MGJnMFdONTBwa0U4dVA4Zw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -3806,11 +3805,11 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.21,
-    "news_title": "Construction workers uncover $10 million in gold while building sewer under former brewery - foxnews.com",
+    "news_score": 0.17,
+    "news_title": "Construction workers uncover $10 million in gold while building sewer under former brewery - Fox News",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNDJBZ0ZjaFdCcWlJSVJNYmp1R1g4MkZqUUx6dlU0RHNOMjVPd0dnZVUxYkZtRFJsMl9POUtDM04waXRPQl8wbXhiS0N5WUdNaHFDelotUEFNWndibjBoTEFqazYzSWZkQjk2VldMaEIyTENwQUVJS2RQcFgyMVpCYmtRRmFmZkJ0blZuSk5xeEV5U282ek16T0hSUjVUdjBUazh5X3dYTdIBrAFBVV95cUxNSHI1Q1o0dnlzYXlrWURDc0xBMXpJV2haVUJPX1AybnZQbVlQOWNRdFpRQ3ZsY3oybk1tUVZmSzVPU25sSUFGQndUZ1AxNnNCYVpuN3laR3BiT3EzRmFfOGlzbnAyMGV3dkVHRjMwYkpXMlVrTFhjNkROSHgyOUNRNmpXaVgwV2pGbUJ1SUR4NlU2SmE5QkNseDBtSWVZenR1M0s2ak8yZldTbldl?oc=5",
     "news_image": "",
-    "news_source": "foxnews.com",
+    "news_source": "Fox News",
     "news_age": "9h ago",
     "news_columns": [
       "edu",
@@ -12938,15 +12937,16 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.52,
+    "news_score": 0.72,
     "news_title": "World Cup winner Ferran Torres signs for Paris Saint-Germain - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa19Fajd0U0YySnIzLWpqWmZOdVAwTUgyQ2xkYVZJa1RmRFU4d0NycG0zZkkxQmkxSlc0d3FXUktLQlBlU3ZTWGdQUVE2ek13c0xjcXhGVlBhSnR6d194bE12c0pQRFlFSUZGWTlxMC1GOUE0Y19xVHptMG15UzMwSXN0MHpZZmkyM21Dd2RFZ0VwZzFaRkU2TGlIWVhKSTR2QnExVFFzalZqMWM?oc=5",
     "news_image": "",
     "news_source": "France 24",
-    "news_age": "39m ago",
+    "news_age": "41m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13966,7 +13966,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.34,
+    "news_score": 0.33,
     "news_title": "Is he Germany's next Urbig? 18-year-old already looks world-class - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZGRSbE5wY3Jva0xoZzJPY0NOMjdqZmZiMjN1Z1E4dlVTdnNhVDZBUDcxN1dTT3lvOExSd2hMck5MbmFISmtpNGFia1IxVXJPRVJUVFVrWjV3WVoyb3JMNWVBN3VSdHdHWlJZMlBvNUxqdDNRcFJMWnRRUWFnWU1aZQ?oc=5",
     "news_image": "",
@@ -17010,7 +17010,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SVU05S3ZQMlFXc01UaHE0SUdFck1PRnRDVWFISUFQNFIxeTIzcHR0WmtEeHpJMjJseUhHWG90bXUyenBISVdqRWtTMm5ISGttVnNnRk9jd2ZYdHVnQlpNSFc3ZE1NX0JSR2xTWXNTTVhLakNk?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "77m ago",
+    "news_age": "79m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -17271,7 +17271,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.35,
+    "news_score": 0.28,
     "news_title": "Iran war: Trump to declare Hormuz US territory 'soon' - dw.com",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV0pNazY0MnZNc3J0Q2JpLW5tRTlQX2hKU09PUklUTmptUWRld2tkS0VIRXZtMkJhMllOMDktYS1zTDFGeGFfc2dyWXBSeVd2dTRlZWlsTUhaOGVEdjhtYzJ5WllzWmlKMmhtTzRBalZ3YlIyY3d0OUxGQ1hVSHJUdF9VbldpOExzcUpsc3g4Z0h2WGNNelQwMjhtSk9GMm1aTFVnYdIBpAFBVV95cUxPS0dmcDNONktlSmNqZHNPTURJdlc2bUpxSHZmRXhtQnRCaVNIaGo5bExPdDFYUjRlMHhYRzRVLW9NVHhqX1UyVGhMUUVSQ0lldG5DeEs3Y2dUa3BsMjJra1ZPeTZUMkFseWdNR19WdS1IZ3ppdW02YndhcU5JbHN5QXlEZWU2b1RuWGsxME5vdnEtV3dVQjQ2cU9LMUt5NWNaZjFqNw?oc=5",
     "news_image": "",
@@ -36487,15 +36487,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.9,
+    "news_score": 1.01,
     "news_title": "PSG have completed the signing of Spain's World Cup final hero Ferran Torres from Barcelona for £42.7m. - Sky Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObWphTjJ3c3ZIa1NnQ093R0NUVWJ1N0hNRllJQ0NjS1FNRjB2TWdyc2Y3dVVPeXlNZGxIanNXcTcxZ0tBbDdOUWZhVFc3Q1l1eHZ4Zy1vSDB2czJNT1pYcklxd3NKTC1vUXVacGlBT1M0Z3FRVGk1VUE5aUx0V2diM3BCNXJsQUlmSF9PY05hN2ppREJFZFB0a2dtN0hmYmxSYi1NRmFZenJPUWFKWXMwcDBOLWFhak9LQ3I2OXN2cXhHM0k?oc=5",
     "news_image": "",
     "news_source": "Sky Sports",
-    "news_age": "52m ago",
+    "news_age": "54m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
