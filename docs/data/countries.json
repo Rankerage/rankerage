@@ -13472,7 +13472,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.47,
+    "news_score": 0.46,
     "news_title": "Georgia high school football scores as GHSA kicks off - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRFN6dGlYS19PeEhxUU11dDl6TXk4M0NzMnlXR0dFWE16UFRuclFfdDJySnFoOGJXdlFUQktXeGdESGR2QUtnM3RVRW1WSU5UOEhRTEhibkVUcW1sZkh6ZWI2VThvcTdOaWx0emxyWW5vM01QR19CVl8yZVBIMmc2UFZ6ZXFRRjVmdkxzRw?oc=5",
     "news_image": "",
@@ -13976,14 +13976,19 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.86,
+    "news_score": 0.68,
     "news_title": "USA Football flag teams aim for flag football glory at World Championships in Germany - WCNC",
     "news_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQbm53UzNhaUxYVUQ3MjR0WlhfX0JwZzF6bkhiSUVFQXBIYTBCQWgwZzNHbXBZUmxWNTVhLS1uMFlTUlNsdE1QREZvQ1JBQ3EtVHF4SXBpbVh2MVV3LWt4d1piWmhxSUVTRFNqLWVjQVkyLU90RUNXYUo4LVpUSmpUaDhPLTMwaHlYaTVRbjlMS2pKNFFHMlMzcE4wcVBRWmZiaXFraDQtckpWU0hhdzVkTDNjeHI0bk42OFJ5ZnJ5Vlg5dVZXNjl2Rm14NWt1d3diNXJlaWpUanFwcFhpbnA0VHU5bVlKcnRVanZKc2I0Z096T1lXTzJhQzFWalY3U1BC?oc=5",
     "news_image": "",
     "news_source": "WCNC",
-    "news_age": "88m ago",
+    "news_age": "90m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket",
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -17019,12 +17024,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 1.01,
+    "news_score": 0.96,
     "news_title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing two - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SVU05S3ZQMlFXc01UaHE0SUdFck1PRnRDVWFISUFQNFIxeTIzcHR0WmtEeHpJMjJseUhHWG90bXUyenBISVdqRWtTMm5ISGttVnNnRk9jd2ZYdHVnQlpNSFc3ZE1NX0JSR2xTWXNTTVhLakNk?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "69m ago",
+    "news_age": "71m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -17280,14 +17285,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.46,
-    "news_title": "Iran targets tankers in ‘unprovoked attacks’ in Strait of Hormuz, UAE says - foxnews.com",
-    "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWbGN2eXRreVRtbzJ4SnZxOGZzNXkzNy1fMkNuUHFlSkx1RHJpMjFYUEJUVlFpUVRyV2V5Q013cUtaaGg4Y1VrYjZMd181dzF2LXNOX3pnZFNDajNETmJfaWh2cXZpMjdnODNzcExKWGVUSzBRUkI4YUVTOHJIZHM?oc=5",
+    "news_score": 0.29,
+    "news_title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war - Al Jazeera",
+    "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN3VTcXZFMVAzTFpCQlBnMkgtUGhUUVZwX1RBc1dWSmE5VjdVMGtaOHRjZ2p1WVVJblBrc1NTS1h4M2NsSlp0S2JFdE0tdG1jclJvaDUyYjItYjRJdG8ydXVxYmNJUTB1Mms2MnBtbUxFX1gxRHpJZk45MjJZcnFzdFpXTVZJUF95aDA1N01iWnAzOVcxaVBaMGw1dnVkNTVS0gGmAUFVX3lxTE5MMUR6ME9RMmxiak9JbXNhYmJGYlo0MmptbVhpa2ZaWERsTWpvczB4dk9YVS1sVTl3RUM2U2J0TE5ua2F5eFREQXEwTVJZTkY2ZkhRVENadUtOMlR6eXNHWUUyalRZVE1oRDlsdTJuZFdEWGQ0b1BrdGdpbWxjWF9kWlpmWjRheHQ1dW8xU3JuMWwxYS1uQ1IwTVlHblZYMTBESncxZEE?oc=5",
     "news_image": "",
-    "news_source": "foxnews.com",
-    "news_age": "2h ago",
+    "news_source": "Al Jazeera",
+    "news_age": "6h ago",
     "news_columns": [
-      "fifa_ranking"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -19140,14 +19150,18 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.74,
+    "news_score": 0.55,
     "news_title": "Japan’s defense chief visits shrine neighbors see as symbol of Japanese militarism - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTS1XUDY1NEp3RlJQdGxCVlRyWFVWckpxZlYtbENGQ0k5UmkzSFJNUTR4eWEtcDRZem5fZVVpNi1rcVRoYV9KZFFyRkg2SXpkVWhPVFIzLXdmN3EyWVJIUF9HQTF5R1FxeVU4aHktZnNEZlI4dkJneVhTYmRiVl9DaTZCN3JaSERHRE85VFBTeEtHT3cyYmd3?oc=5",
     "news_image": "",
     "news_source": "AP News",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
