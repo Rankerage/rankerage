@@ -2538,7 +2538,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.18,
+    "news_score": 0.16,
     "news_title": "U.S. upends Australia in 4x100m freestyle relay; Kate Douglass nearly breaks world record - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGdXSGRydmEtV0ZIQ3hGcWhyZWRnSm9tMGhOX2xNWV9NWlhKQ1dSckNnUGE3ZkFuNHJKekhuMUlyYU9UOVFHc2p0OTZINHNpV1UzMEFpcGlkcElGQUxCV3lrbno3UkRZQmVBcEFFME9WNDFJcUZQZjF1akloSU55ZDhkYW5PZDFhR2FBMQ?oc=5",
     "news_image": "",
@@ -3306,7 +3306,7 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.24,
+    "news_score": 0.22,
     "news_title": "Govt’s debt outpacing revenue growth: Bangladesh Bank - The Daily Star",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2VJMktNWVhONktXZVFwQUhyVmFIWmRjWnFlZG5iNVEyeFN1ZmtFV1hVRFpkWXp6V1RTOTZXSVg4S2R4dFpuWlNLMFZHay01UWROSmhjOGM5cXVPbnJMeXd3VGlsS2s2SE5XNFVIUHZTUVp1N3plZHpmSnZSMC1ZUVBsV2oxN0c3MExIRVFzaG5EdWZQLS1UaHQ4SG9oNzZXVlZsZXlvVXFzaDFVTTI4?oc=5",
     "news_image": "",
@@ -7967,19 +7967,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.34,
+    "news_score": 0.48,
     "news_title": "Xi calls for improving disaster prevention as floods, landslides batter China - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcTdub1VTd3ZJN1RMU04yMzZwQlNSZHJWblg4bElqNGZGVkQ1dTdaYVc1QkdiVlR1dTEtR1NyRHBJV291TlRubE82UEZibjBCVlFGVTdqN3ZvdmVkU0lPU0plWUl4cWptcXpWTUdJVUxrQ1FvUWF1bGxCalNXaG1jQzBkR2xHT0RjbWlBTUlKMjkzbVhWcFZWZFRFSi11MUlITFZDamVrc2x5SnZlOFJMTnRjaUdBMFZq?oc=5",
     "news_image": "",
     "news_source": "Reuters",
     "news_age": "2h ago",
     "news_columns": [
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -12939,15 +12934,14 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.09,
+    "news_score": 1.12,
     "news_title": "World Cup winner Ferran Torres signs for Paris Saint-Germain - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa19Fajd0U0YySnIzLWpqWmZOdVAwTUgyQ2xkYVZJa1RmRFU4d0NycG0zZkkxQmkxSlc0d3FXUktLQlBlU3ZTWGdQUVE2ek13c0xjcXhGVlBhSnR6d194bE12c0pQRFlFSUZGWTlxMC1GOUE0Y19xVHptMG15UzMwSXN0MHpZZmkyM21Dd2RFZ0VwZzFaRkU2TGlIWVhKSTR2QnExVFFzalZqMWM?oc=5",
     "news_image": "",
     "news_source": "France 24",
-    "news_age": "103m ago",
+    "news_age": "105m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
       "olympic"
     ],
     "bottom50_wealth": 3.8,
@@ -16702,7 +16696,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.39,
+    "news_score": 0.4,
     "news_title": "No monkey business: India 'whisperers' guard world championships - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVU96R2ctT0E1YWZZNU1VVlVMLTRYX1RDNnRWZ29CY0s5WXFqOWlxZ3lqZlhsV2JjMldva1dlYk1DRTNrekl6VzB1bk5kdko1VFRYQ2RYdExLRGZwRlFzemNCUjF2bjk5cWZJcTVfRlNVQjJ5RDNjaW9EYi1QRnctYXh1UlRXMmJiZ05DZjJrN1RYeVBodFVFaER3QUlieGVlTjk1Wm9sNkk5RFA2?oc=5",
     "news_image": "",
@@ -17007,16 +17001,19 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 0.73,
-    "news_title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least 20 - The Guardian",
-    "news_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SVU05S3ZQMlFXc01UaHE0SUdFck1PRnRDVWFISUFQNFIxeTIzcHR0WmtEeHpJMjJseUhHWG90bXUyenBISVdqRWtTMm5ISGttVnNnRk9jd2ZYdHVnQlpNSFc3ZE1NX0JSR2xTWXNTTVhLakNk?oc=5",
+    "news_score": 0.44,
+    "news_title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38 and toppling buildings - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
     "news_image": "",
-    "news_source": "The Guardian",
-    "news_age": "2h ago",
+    "news_source": "AP News",
+    "news_age": "5h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "earthquake_count",
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17270,19 +17267,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.89,
+    "news_score": 1.16,
     "news_title": "Iran targets tankers in ‘unprovoked attacks’ in Strait of Hormuz, UAE says - Fox News",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWbGN2eXRreVRtbzJ4SnZxOGZzNXkzNy1fMkNuUHFlSkx1RHJpMjFYUEJUVlFpUVRyV2V5Q013cUtaaGg4Y1VrYjZMd181dzF2LXNOX3pnZFNDajNETmJfaWh2cXZpMjdnODNzcExKWGVUSzBRUkI4YUVTOHJIZHM?oc=5",
     "news_image": "",
     "news_source": "Fox News",
-    "news_age": "71m ago",
+    "news_age": "73m ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -18002,7 +17994,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.11,
+    "news_score": 0.13,
     "news_title": "There’s a reason why Israel has done little to rein in settler violence. It’s not just Netanyahu - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRUxIVUtrc0N1WEFfd1YydU9jNjZwMER1UnNxSUlnSGpLOXkxTGVpTmVmWnBMTEQ1UHNERjRvcGQtaXZFcEJqdFVXTWtwWXdBaG1RaTdJOGczZ3dZdXoxOTdqcm9vNFlhWUpJVjZaUVpsOHJ2emJfN0JnVG9SemEtbmlGd1JHS05VUEEwTVBlVmZpaUMtbzFEZmFhaGVQQkotUUo4OG1maXpoZk9uTEVNc3NGT25tQQ?oc=5",
     "news_image": "",
@@ -19141,8 +19133,7 @@
     "news_source": "Qazinform",
     "news_age": "17h ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "olympic"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -31720,10 +31711,10 @@
     "union_rate": 77.8,
     "union_rate_rank": null,
     "news_score": 0.01,
-    "news_title": "British cyclist Finlay Tarling dies in Tour of Portugal crash aged 19 - aljazeera.com",
+    "news_title": "British cyclist Finlay Tarling dies in Tour of Portugal crash aged 19 - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ2c5YlRTWTlGV3JaT2FseEgwQ0hia2hhbDR6ZzhJOXMzQ1FKenZrY2Nla0lab3ZnSl80NlFTMmV5NlJNX2RDNkNtdUUxY2g0NWlFUm9tRkwyOHZKbnZ2ZmpGcDFBZldOZ2hhcEZ5cGJsQWZvREl6TDBYRzc1bVRLVDdFM3BoQ0Q5ZHRUS3lkX3dWT3luWHhpRzdOazdwZEowUlQ4NDNsS1hLYWJCNDBqMGNn0gG3AUFVX3lxTE40cnZGb0VGd0xITWVOalNNcUlOLUJXWVZIYXRkcW1tWnc2Q2dxVEZNWkpiaG83RVFIQkJhV0YzZDhIclJUeHdvclhIU19pc0Y3YktuaU83LWZWbTFGV1JiY21VWjRLcW04M253anNYdEo0dmVEcE0tNUs4U2dxVjFyMVpieng2SjZ2Mml2N1BSTFRYaUl0aDFBcW41MXBvdC04UmloR0phWGVJa1ZfcVNRY1pRYnMtZw?oc=5",
     "news_image": "",
-    "news_source": "aljazeera.com",
+    "news_source": "Al Jazeera",
     "news_age": "17h ago",
     "news_columns": [
       "car_density",
@@ -37438,8 +37429,7 @@
     "news_age": "3412h ago",
     "news_columns": [
       "olympic",
-      "fifa_w",
-      "fifa_ranking"
+      "fifa_w"
     ],
     "election_title": "Swedish Parliament",
     "election_url": "https://www.electionguide.org/countries/id/206",
@@ -40038,12 +40028,12 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.36,
+    "news_score": 0.49,
     "news_title": "International report - In Turkey, one of the world's longest conflicts reaches a turning point - rfi.fr",
     "news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeUtzSEY2RDh6Z080LUxZeTNScWdhaW5ZT2FXd1BYRkVWZk0zOTNvTlpXaDA2YlQ4NEVSc0lmQkd2WXNoTEpOSnlzcEZGN2JVWVhJczA4YWI5MXdtS1NtVXlnZThWc0twc3dqRU1tOUFEc1VqLXE3R3VtM054VHRMX211QXRCVmJqdEw3N3p0QS1FcEhDVzJvNm1LYnBPbUppSWk0alJ6X3lEU3FFbVBoaWo3cFh6MHNXZWFsY041eklrS2FDVkRqdGRnMA?oc=5",
     "news_image": "",
     "news_source": "rfi.fr",
-    "news_age": "54m ago",
+    "news_age": "56m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
