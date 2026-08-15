@@ -1,51 +1,57 @@
 {
-  "last_updated": "2026-08-14T21:01:20Z",
+  "last_updated": "2026-08-15T21:00:38Z",
   "total_rankings": 136,
   "total_countries": 197,
   "version": "1.0",
   "update_frequency": "weekly",
-  "global_narrative": "Global attention is split between a high-profile vandalism case at a US memorial, major sports events and suspensions, and international political and economic developments.",
+  "global_narrative": "Global sports and geopolitical tensions dominate headlines, with major events in football, swimming, and international conflicts shaping the news cycle.",
   "trending_stories": [
     {
-      "topic": "World War II Memorial Vandalism",
+      "topic": "US-Iran Tensions",
       "entities": [
-        "US"
+        "US",
+        "IR"
       ],
       "columns": [],
       "weight": 0.9
     },
     {
-      "topic": "NFL Preseason and Suspensions",
+      "topic": "Swimming World Records",
       "entities": [
-        "US"
+        "US",
+        "DE"
       ],
-      "columns": [],
+      "columns": [
+        "olympic"
+      ],
       "weight": 0.8
     },
     {
-      "topic": "International Football Transfers and Matches",
+      "topic": "NFL Preseason and Injuries",
       "entities": [
-        "BR",
-        "DE",
-        "IT"
+        "US"
       ],
       "columns": [],
       "weight": 0.7
     },
     {
-      "topic": "WNBA MVP Race Controversy",
+      "topic": "Football Transfers and Matches",
       "entities": [
-        "US"
+        "FR",
+        "GB",
+        "DE",
+        "IT",
+        "ES"
       ],
-      "columns": [],
+      "columns": [
+        "fifa_ranking"
+      ],
       "weight": 0.6
     },
     {
-      "topic": "Global Political and Economic News",
+      "topic": "Natural Disasters and Weather",
       "entities": [
-        "US",
-        "FR",
-        "CN"
+        "US"
       ],
       "columns": [],
       "weight": 0.5
