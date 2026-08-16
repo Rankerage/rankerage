@@ -2541,12 +2541,12 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 1.38,
+    "news_score": 1.46,
     "news_title": "Lani Pallister Hands Katie Ledecky Her First Ever International Loss In The Women's 800 Free - SwimSwam",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZko5d0NHTTVVQXdxalFMNTVCRXMxY25QbHZvaHZhd3pucVBodERWZkNpdTN1WVJRVjR3Tm9vVXlBUlBkdnlaREpiYWJtNDZuSHpkQjM5VWtHQkRyNVk4M0hfUHNqUVJpMEt4VHdlSHZhS1RsbWF2dEFpTVJnUzVwenJPZHdud2ZIeEdsMnlNaF84VktDdTZtb3A5ZHVoQXBOYlZaMTFlQzdFTkFMcEpMR0Rfbw?oc=5",
     "news_image": "",
     "news_source": "SwimSwam",
-    "news_age": "71m ago",
+    "news_age": "73m ago",
     "news_columns": [
       "gender",
       "gender_gap",
@@ -3318,7 +3318,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa3FqYjZ2UWxzSGxGaWluVGJsTV9aSE9QTXFLaUxoZGN5T0xSaTl2Tl8zZTFhTG9zOHNGckFSdE9SdURqNmZfd1RJTElTZnhDSnFrSFBCZjktNGNOaDlrMGYyVmtCcEdOaHZYVklIYTZ4RGE5aVI2X0ZrdTg3ZEk1cE9uaEpQb28?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "115m ago",
+    "news_age": "117m ago",
     "news_columns": [
       "olympic",
       "fifa_ranking"
@@ -6911,15 +6911,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.5,
+    "news_score": 1.12,
     "news_title": "Canada men and Mexico women earn last two Olympic quotas at 2026 IFAF Flag Football World Championships - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS0hRNFdpY0E0aUp0eGZqNGhDSnYwQzFpcWdUWmlCdVJXcXZJOHhxczVTUXA2UkY4RjZOV29oNHFxTjFudTVjTDdJMnNZdGRXZnlFOVdWQTdYV29oOG9XamVjbWhJOGJqXzAxX2YzN2EyYjZxQUZzZWFQUFhMUkxXbEw4d0NZQVVtOVhpRUQ0Z3FITDFUakNpQVhsaFE2M0VESlBvNTNRUWhlcDM4Z09MZkpJSDV5dEdXXzRVYllpUVB5NGJ1VEt5QW8wb0Q?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "51m ago",
+    "news_age": "53m ago",
     "news_columns": [
+      "fifa_ranking",
+      "fifa_w",
       "olympic",
-      "fifa_ranking"
+      "basket",
+      "olympic_gold",
+      "olympic_per_cap"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -7970,15 +7974,19 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.96,
+    "news_score": 0.7,
     "news_title": "Women’s Hockey World Cup 2026: India hold China to 2-2 draw in opener - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzBjcVZILS1fUDVLNXJCWlFDZjlqeUtkWEFDdG11S2d0OURlMUcyZGxLeWkxaUVoUlozN2dBUHdzR0ZYbjdjQmptTlNseDBicTBlYXoxSmxUaWo1Tmk3ZVpEMTNoTERrVlVVNDlYVXlXbUV0cF9adE1KbWFiQTBRTDVtMkYyWVpyOWtOMzVNcG5xZDZ6eDBvR1NnUjh3VHV2?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "85m ago",
+    "news_age": "87m ago",
     "news_columns": [
+      "fifa_ranking",
+      "fifa_w",
       "olympic",
-      "fifa_ranking"
+      "basket",
+      "olympic_gold",
+      "olympic_per_cap"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -12945,8 +12953,12 @@
     "news_source": "newsonair.gov.in",
     "news_age": "78h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "space_launch"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -16702,15 +16714,19 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 1.27,
+    "news_score": 0.94,
     "news_title": "Women’s Hockey World Cup 2026: India hold China to 2-2 draw in opener - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzBjcVZILS1fUDVLNXJCWlFDZjlqeUtkWEFDdG11S2d0OURlMUcyZGxLeWkxaUVoUlozN2dBUHdzR0ZYbjdjQmptTlNseDBicTBlYXoxSmxUaWo1Tmk3ZVpEMTNoTERrVlVVNDlYVXlXbUV0cF9adE1KbWFiQTBRTDVtMkYyWVpyOWtOMzVNcG5xZDZ6eDBvR1NnUjh3VHV2?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "85m ago",
+    "news_age": "87m ago",
     "news_columns": [
+      "fifa_ranking",
+      "fifa_w",
       "olympic",
-      "fifa_ranking"
+      "basket",
+      "olympic_gold",
+      "olympic_per_cap"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17009,18 +17025,18 @@
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
     "news_score": 0.02,
-    "news_title": "Thousands evacuate after Indonesia quake kills 53, aftershocks hamper rescue efforts - Reuters",
-    "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEJFQktERVZJaDU5NFZfV0ZKZWpwc0FzYzR1SUJYeFF4Z1U5SVQxenBacVFDM1lNdGNRTnhXSVFBQTlFZVpEaGlsX1J0MzY1cHN5bllZQ0hMNVlvcnAtRlFmYWRKYzZORnZibTluNWJkVk5sdExHQWduODdCcEZ1OXVGSXd0ZHFmTS00OWhPeVpxQ2lpYWZheUZKWmZFZWM4N0RGeEhOSlM4WXliOWNfY0NWZ0JuRENL?oc=5",
+    "news_title": "World in Brief: Eastern Indonesia hit by earthquake; South Korea proposes Korean War talks - The Economist",
+    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU0NwY3A5M1ZMb2pYOW8zaElYR3JTMVBYQVE3RzdqclVxNFUzMGF2NDZ3emNMX1A5VlBIRFVIV3F1d0F1b3R0QWlzU3hrSnZiZlNjMkluOVg5bm5YRENIeEZrNmFzbklLRFVGN2p5eEFqTEQyUVJCdXM5S1A3RmdpYUdQU2VWRklBYUs4c3lsSUh5RGFUaXRJ?oc=5",
     "news_image": "",
-    "news_source": "Reuters",
-    "news_age": "11h ago",
+    "news_source": "The Economist",
+    "news_age": "15h ago",
     "news_columns": [
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "earthquake_count"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17274,12 +17290,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.59,
+    "news_score": 1.57,
     "news_title": "Iran economy begins to recover after war as business activity picks up - The Economic Times",
     "news_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMWN3T0tMUC1wOEdNcENUY1JOYk5EdkVGN2taeHJyajRlUGhjYjRtUndzUVBZMno0R0UxamdsUlRKY2hIUEt6SUtGMkkxWU4zeFVyM1BPYzFZX2JTRVRoODhFZTdDZlh5ZkN3a3p5bUNZQlNvV040NmYtNzk1Nm00bzY2YmZPTUZMRjBCanFmSF9ENl9DeHhMTHBkTVZROVhvYXVycUlHZzRqUkU3MFluNklIZGFTMFhZZW1yR01OSnF2T2gxbGdKVHhsTHlWcGJUX3JwVkVwa01ya0pKRkh6cEhNMnlEZlXSAewBQVVfeXFMT2N1YXF4ejl2WHFmeW13SEE1dnJSMkRNaVNpalhtbmVKc0ltbGRXN1l6X2pTQnFpTGJHSUI3X0lxeWdDZlEzZHBha0hLS0tJVVcydnY5cm02cmFZOER3OGFSNF94TlQtLWM5REpfejAtWTRteHZmQVk4TS1EemVXb3IwZUV0bGRkUFdGY0RUSW83V05iMElDWTNxbFZIX01nMF9rRzZWeERoRDhYaEJfd2FZdlZYVW01YTJMdTdmN3Yzc3dKaENkSW90Y0pSN0k3d2JUNk95c3J4SmtnU0l6c3poak12NGplaTY2MWg?oc=5",
     "news_image": "",
     "news_source": "The Economic Times",
-    "news_age": "31m ago",
+    "news_age": "33m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -17751,7 +17767,7 @@
     "refugees_rank": null,
     "union_rate": 77.2,
     "union_rate_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.46,
     "news_title": "Ireland lose to Australia on World Cup return - Yahoo Sports Canada",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdmdkcVRreDJlMWYwZDc2Zmstd1p1RzJUblVOR0djbm81cmptMDJha3g1N1VMcTVRbjZZMlE0WGR2STdwa1h6TDNTYmllOHNQSW9paUg5dElhZmdzNmEzYzB1YVQ1YnBYOHhpbWhibndSdUFCMVNKMEZWVFFuZ3FCblFUU3RSeDg?oc=5",
     "news_image": "",
@@ -18015,11 +18031,11 @@
     "news_source": "Al Jazeera",
     "news_age": "4h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": null
   },
@@ -19144,7 +19160,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTEdDNlFVanJPMVl0SGhYbG9FX1UzMXg4NUpLUmEyc05QSkJEX0FWWnpsTzdmLTNRNkh4WnlBeDh2MWpGNTE3SkJKV0hqeC0wWmp6bnhnSVVIT0FSbXFjNHdnRGNDYXJwV0ZIRHBDZWh2Vm1nbFBMNXFFOXo5YzM2VHBKMW1GWDh4VWtXZl92TlVIa3Z0MzRrZTh2aVZtbDFZczJsVy0tdVhHTWPSAbABQVVfeXFMTmRDUkRVTndjVV9UMEo3SzZqYUo4eTN5NllXeGw2OGs5TjFQVkp5cVVXbDI3eTBGYnNYU2Ric0ZZakNBMkNSYU92VG5xZnVJSTVXb0xZZnMySTJWUy1VMl8wbWw1MGs5dnY2YXZMWDJnMC1JdFQ1V2twYUlrYjZOZEF6LUJTUnRnN3JiRFJ3bXJBcl9NRzZna21OOUVoUDRvaVg3TzVkSjFPMjF4T05wSDk?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "27m ago",
+    "news_age": "29m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -21134,9 +21150,11 @@
     "news_source": "Al Jazeera",
     "news_age": "4h ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": null
   },
@@ -24633,7 +24651,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS0hRNFdpY0E0aUp0eGZqNGhDSnYwQzFpcWdUWmlCdVJXcXZJOHhxczVTUXA2UkY4RjZOV29oNHFxTjFudTVjTDdJMnNZdGRXZnlFOVdWQTdYV29oOG9XamVjbWhJOGJqXzAxX2YzN2EyYjZxQUZzZWFQUFhMUkxXbEw4d0NZQVVtOVhpRUQ0Z3FITDFUakNpQVhsaFE2M0VESlBvNTNRUWhlcDM4Z09MZkpJSDV5dEdXXzRVYllpUVB5NGJ1VEt5QW8wb0Q?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "51m ago",
+    "news_age": "53m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -32928,12 +32946,12 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.59,
+    "news_score": 1.77,
     "news_title": "A Millennial Furniture Designer Is Behind the Drones Battering Russia - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdERLaXctQ1dsajlwNG5vaUtxaWhMQnRxM0lmQUVDNDRRdHNzSDlnU28yYUtYQjNXN2dVYnlGYzVYd25qTV9zY1IzX3MtaUViTm9VWUdNSkY2V1JWbU1YeVdmazNIY2JMS1NBOEJLTy1ocVZYMjg0X2VHVnAwTjBVTnp5dw?oc=5",
     "news_image": "",
     "news_source": "WSJ",
-    "news_age": "63m ago",
+    "news_age": "65m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -41015,7 +41033,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 1.48,
+    "news_score": 1.53,
     "news_title": "‘Massive’ Ukrainian drone attack on Russia kills at least six, says Moscow - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZW93d2d5UGpOUm1INzFUdlpuNF92MkNaTFVDVjRaYWpFel9EQkNhN1N6VmFRV1ZGOWw1SnYydnpPMVVabGhMZ0FZRThrblNKY005RGc5UHNuNFVpUzY1UnRZeFg4VndlVk5QMlZ3NVlHMld6M29tRmx1aEVLdmdxRjBPWkNuS1VaNC1HYkctMFprZjZoVWZHUjU4a0xtcWxkWUZoYWRkanE?oc=5",
     "news_image": "",
