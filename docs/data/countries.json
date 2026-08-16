@@ -207,7 +207,7 @@
     "union_rate": 38.4,
     "union_rate_rank": null,
     "fifa_ranking_rank": 136,
-    "news_score": 0.3,
+    "news_score": 0.29,
     "news_title": "Concerns grow over increased global ties with Taliban in Afghanistan - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUcwZmlieHVTblctVUFxREhEWF84RHhHazFkR0hMMFJuaThzTHpKNVprZ1lFUExDSzRQZF8zNXVab1ZfX0w3cGJsZV9oRVE5UzJFQjQ1ckp1czB2X29SNXRMTGtkN3AwUUZLRDZscmkyUnNOM3N2UmtrbDhEczFPV2dldU9UNHV5MDhER1JZbUF0QUc4VWQ4bGV6NWRKUXBlQTluNEJB?oc=5",
     "news_image": "",
@@ -2546,7 +2546,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQN0plX3lKMmtJR0JPMEVvQ0txYW1HYVpvaHFHVXhVc1QwUlUycFhLdi1fT1JDakZPUkhNSzhfR1FZRDMzai1LQ1p1MF8xNUw1NG1oWlc4cjZrM2hFN09LNjd6X3JpQ3MyUkxLZThfQ1ZQai1iajlQV21MWk10Z0h4cEpXUjlaSDRuUlg5TnpVY3BPbWM3ek5adWVTWWZtNmVDNWpRNG9oTEF1S1NrUDZLaXpkUndSV0NyRGNBMkMxWU1XbXpMOXRGNWFVcWVZVklYZzdyLTN0SVF4MTBlaFFOYldIcW9DRHFhdUxueEFXOC0?oc=5",
     "news_image": "",
     "news_source": "en.baochinhphu.vn",
-    "news_age": "71h ago",
+    "news_age": "72h ago",
     "news_columns": [
       "olympic"
     ],
@@ -8223,12 +8223,12 @@
     "news_source": "The Washington Post",
     "news_age": "3h ago",
     "news_columns": [
+      "cricket",
+      "olympic",
       "earthquake_count",
       "earthquakes",
       "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "cyclone_freq"
     ],
     "bottom50_wealth": null
   },
@@ -12942,12 +12942,12 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.69,
+    "news_score": 0.68,
     "news_title": "Timberwolves’ Rudy Gobert-Led Offseason Workout in France Goes Viral - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMjRyT1J3Mzg3QUhDTm5DUC12RF8tZXR4a2ZEaGhTRmpoUDJjVEM0LU9zRlhCb2RfcnlSRUxvR2dTaG9ONXMtZlBvR0ZNaFY1SzduOU13TXhNTjJjVDV1UGk5TjhSWUxYWG9tZ2pCcGpUWVdtTFRRNzR5ZUFEMjZGdGlfNEZFV1RsWXZaWnp4MGE?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "89m ago",
+    "news_age": "91m ago",
     "news_columns": [
       "olympic",
       "basket"
@@ -13466,7 +13466,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.56,
+    "news_score": 0.55,
     "news_title": "An Early Look at SEC Opponent: Georgia - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc0NwZ1dDLTQyVmt4WkluMmpSWGR2SEUtU1VVNkZpN3NfdDBlTkpidGE0djlnaGJfNncwSk5nNlVQWFBsOWE2ektiaXFxUnZjWTF6RXpFZGFTSV9Hb0Z3WnA0ak5wMXk5WGtPVDNmUVFGU3pfSk5uVEhyeDd1cU9xbUx1UEJEc00?oc=5",
     "news_image": "",
@@ -13966,15 +13966,14 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.47,
+    "news_score": 0.49,
     "news_title": "Germany's Liebmann smashes 1500m world record - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMkVpUEJfaGJDY0pDZmp3RlAwV3VLclRPQU1oZEd6amhteHlESnQ2czVuY0ZQQnE4ajllQkdDR3FiYjNIY0hxczVhWXBoY1JtYkt2NG54QlVRWmdRMVBZeHRzekpBZzFxUlRhbFN6N3luWTFmbElsMWg4QU1vMjVqVm54dnRWY2hrUU05cUxUM2c?oc=5",
     "news_image": "",
     "news_source": "Reuters",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -14162,7 +14161,7 @@
     "union_rate": 60.4,
     "union_rate_rank": null,
     "fifa_w_rank": 50,
-    "news_score": 0.0,
+    "news_score": 0.04,
     "news_title": "Plans advanced for establishment of University of Science and Technology in Damongo – Haruna Iddrisu - Ghana News Agency",
     "news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcjhtY3hVSlhLZnJkUTE5dzRUSTBrT2pFdHZtdzJvcmRLdUxHSUpqT0ZQWG1qMHVVdXp0TU1FdDRqZlNrTy1BdEYwSTY4X2IxRHhsQ0h6VWxpVHYzXy0zYUt1WV9lTFZJNUdzeEd0dE1sQWhRNmdiRnlvMS1hX0NxUEFIV3JMd3Y2SldZLURHbG00a1N3UEYwZ0dGQXRMTDR5cUlBeXBVTkh6bzVyUGZDX3NUT29IX2tsNXJhQkQxVmkzMm1L?oc=5",
     "news_image": "",
@@ -16704,7 +16703,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.61,
     "news_title": "Dad flying business, kid in economy? Why some parents are limiting their children’s privileges - The Times of India",
     "news_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNdFVOT1d1R2FURHRNR3hGcml0YTVIdGZNSmIzanpUUlVCS085WW5odDV0VDV3cXVzNXR5ZDZVeGdKRWFEN2ZJdjVTdzhtcVRIOXM5WjJSbmRoR2kyLUVoTC1sclUzdW1VOHdJZW1qRDBHQVJNX29YR1dMVEg3OXdKdEIyZGVtN3dSeG9FRjdWdWVNd2J6V0VlSzBvcnpYbV9Rd2wyZE9Nd2dUcWpZMHhDNVBoSnJoWFRKb0Z5UkIzTllnUTJYU1BjVTlEbEQ2aTh4cHpkcUI2UFdpeWdscW5odFJZa0J2TzNoQmhEYzliOFZOcWZ1M1dRRkhxSEZ0bTVjQWZlR9IBigJBVV95cUxPUkk2aE5mWUtjRFllYnpoV3dHMmpERTFaSl8zVnJ6TGxXYlZqYmtnZ3lSSUZtZFgtSEhEVXBaWjljZWRjWFVRTTQxNzVaVmdBU2xuei15bnFlcENoOEhsV2hlb01GYV9Rb1NycGFjeE5rNUNVZ0luNmFNalNVdW9kQTIzUnlIaFFYbllHOW5qYkw4cEVESDNjSzY3UnVabGtRREluOV9ZRG9yczJrT3hwWG0zc0s4RVdVSV9PZGtVOWhVZWRzbzJuUWhTcW1uaTlEei1hQy1xZWNGTnhUX096TnZMdVNhNUlVaTBDbklKRkV3cDNpeDhVN042V0FYdXBWNVB5bzlBVWV2Zw?oc=5",
     "news_image": "",
@@ -17280,15 +17279,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.09,
+    "news_score": 0.8,
     "news_title": "Iran War Commander Visits the USS Abraham Lincoln - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejlQWFJQWEM2WlFEVFJvbGQ2N1ppUUVGTXM5ZmFMaGNITzluTTNuQ1QwcUlVQkZvRHRjLUJNbkJxcE4tZTNEVGllUHVhTnVyaDE1d2U3bm5hSnZmVFBFOXIwRk9pSEdwQVpxU2pzdWluOFpnVElvaVEyV3BlTDJ6STl5cnNETmtWcFpnZlVrMmU1QmZ1Z1pTUkRaLVU?oc=5",
     "news_image": "",
     "news_source": "WSJ",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -18008,7 +18011,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.2,
+    "news_score": 0.14,
     "news_title": "Iran wages economic war in hopes of outlasting U.S. and Israel - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2ZCVmJ4amt6UTBvQ05kcDBFWnNzb1N6QldHQ3RSWVZ0NUdzemNtaTJGaTlzM1N5dVR0djFiVV9XUGNSc1JCR2RnczNYeTUxMW5WZU5aMmJLMVVqcElmVHpibHdWMm9xOFlLWGlhY2NlQUV5cDVVcTRWZHJaNGxjaXVR?oc=5",
     "news_image": "",
@@ -18451,19 +18454,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.2,
+    "news_score": 0.25,
     "news_title": "IFAF Flag Football World Championships 2026: Italy \"go to bed with a giant smile\" after securing men's quota to LA28 - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaldyN3pLQnFSWWdtRkNHVUVZWnVyQmtYVXhqd25GajFyeDYxWXJOQVlYZjk5bWZNaldud19kbjluYkYwWFJpSWt1dFRwUWFTLW00X241YVM5ZmNENFVaTWxwLUY1a2liTjhxNjlKSjVsRWNPQnRGNEdZaWNranBUTndKYW9QUXlJbjRMNi1kNUt6MlBtYmZwM1NsVE1IZkZyX2VjcHEtN3NNYXllQmNuUVp3bHY?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
     "news_age": "7h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "olympic_gold",
-      "olympic_per_cap"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -19143,12 +19141,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.66,
+    "news_score": 0.79,
     "news_title": "Takaichi skips controversial shrine on 81st anniversary of Japan's World War II surrender - Politico",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV0NlZGtyellYYXpBR2txcXVLOVNoWGtfbmd1RVRtbXYzU1ZqdUVrNDM2b1JBd01ZWmtnYW9XRFQyNnZyQUpLeDBkUGtIbFRVTXdaZEhtbDNoNzNKY194THdtaEctTDZaZ2dja0F1dWlIQ2VpTHhjSG1TMDVadU0yVXlXNTBrT0oxR0pJY2RNNEE?oc=5",
     "news_image": "",
     "news_source": "Politico",
-    "news_age": "97m ago",
+    "news_age": "99m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -31458,7 +31456,7 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.35,
+    "news_score": 0.34,
     "news_title": "CX80 World Masters Orienteering Championships celebrate masters’ passion in Poland - International Orienteering Federation",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORndMekk3Q3hZTEs1TmZGV1JvbnFtZWV3NVdZRS1kcXJHdU91SC01d0k4WGNXNUhSZWh3OUgxeWJ5T0QxeGlZUmhkVG5kM29aNjE0STZyUDI1V1ljN2lqYl9hRjZvYmtZTmQxdFFwSVFnZ0pUcVZSU3VnS29FMlBEbk1IVElSNEpWSHRsam02Z1JPWDJUcTRuZmFSbW1BMnZIa0pTOVh6SWV6Q2pmZ3c?oc=5",
     "news_image": "",
@@ -43204,12 +43202,12 @@
     "news_source": "The Washington Post",
     "news_age": "3h ago",
     "news_columns": [
+      "cricket",
+      "olympic",
       "earthquake_count",
       "earthquakes",
       "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "cyclone_freq"
     ],
     "bottom50_wealth": null
   },
