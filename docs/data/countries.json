@@ -1926,7 +1926,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS29qb2pWSml4TGZIb0dQelJZSEgwN3Jod3ZrcEhlZjRWcEtNcVlPUFF6aXJ6Y0ItQjdiZzV2T2Z4QVIxLW9tS252YUpwMHJjcFJzdVVRRU8zcVU1dU1pUThINjlrOFZXZ2xSOXVJc05XS29pSHZLMXR4NWtXWWpJM21zOVhhRFFxUERhMDBSSDFfcXBqbjJzY21HM0FOV09GUEpQOWtvdElleEpaamh2MA?oc=5",
     "news_image": "",
     "news_source": "USA Field Hockey",
-    "news_age": "7h ago",
+    "news_age": "8h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -6911,12 +6911,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.23,
-    "news_title": "IFAF Flag Football World Championships 2026: Canada women secure first Olympic quota: \"It's a little girl's dream\" - olympics.com",
-    "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWhuUl9GWWFDQWtOczl1ZFdHaWp4OC1nS2hNNVBfSlQxOG9ubnk4Qkd4QTczbFlwRUNhTl9SaVJpMndabng2MTY3bHlyTEl3NjY0Ykl3UDl5X1JXS21rYkpnekJ3cXBFalZHZTgwUGhDbFVac0VtSkxPcUZxbk1USHpMczg5bHVUVTR6bUtvYXg4dWh3SEhBdnd2SEw3VWs?oc=5",
+    "news_score": 0.19,
+    "news_title": "IFAF World Championship: Men’s Semi Final - Canada vs. Italy IFAF World Flag 2026 - DAZN",
+    "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRVdlcEh1U1VmV3BjVmZhdDFrbnRlbUhNZWRJMmlPLU9qbUQ4bzA4dUpaRnUwU3BWTTdzS1dscVEtZXl0SzA2c2Z2MzdPX19seEI3MlVoSTY4WDZyckEyU1lpSTBia1hyaW9QSFpHaWl0TlBTYXV2Z2t0dlF3bkhuQV9DSHpFTWI5djRj?oc=5",
     "news_image": "",
-    "news_source": "olympics.com",
-    "news_age": "7h ago",
+    "news_source": "DAZN",
+    "news_age": "8h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -8219,19 +8219,15 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.41,
+    "news_score": 0.51,
     "news_title": "How to beat an earthquake: The Colombian city where no one died - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbUFzcEpwaWV4WE5pY0JDYldIMFV5QnFjRnFqbF9BaFVUN2VtOU9TOVpiWEhRX3ZEQzVXVWdqenBoS1FibGVLR3FtUlJYdlk0R0FWRkhhbE11cWhGSHY1eEYxcTJSZXFMRUc1OXBMVXVMR1B2RFBLSHAtY0JMRlhpTUJ2OGgtNWNBVWxPa1dfb2dkUjB0bVFxVFZBRHlOUEJtYk5pSjZ5WQ?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "3h ago",
     "news_columns": [
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -12945,12 +12941,12 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.72,
+    "news_score": 0.71,
     "news_title": "Timberwolves’ Rudy Gobert-Led Offseason Workout in France Goes Viral - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMjRyT1J3Mzg3QUhDTm5DUC12RF8tZXR4a2ZEaGhTRmpoUDJjVEM0LU9zRlhCb2RfcnlSRUxvR2dTaG9ONXMtZlBvR0ZNaFY1SzduOU13TXhNTjJjVDV1UGk5TjhSWUxYWG9tZ2pCcGpUWVdtTFRRNzR5ZUFEMjZGdGlfNEZFV1RsWXZaWnp4MGE?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "79m ago",
+    "news_age": "81m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -13969,7 +13965,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.4,
+    "news_score": 0.54,
     "news_title": "Germany's Liebmann smashes 1500m world record - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMkVpUEJfaGJDY0pDZmp3RlAwV3VLclRPQU1oZEd6amhteHlESnQ2czVuY0ZQQnE4ajllQkdDR3FiYjNIY0hxczVhWXBoY1JtYkt2NG54QlVRWmdRMVBZeHRzekpBZzFxUlRhbFN6N3luWTFmbElsMWg4QU1vMjVqVm54dnRWY2hrUU05cUxUM2c?oc=5",
     "news_image": "",
@@ -13977,7 +13973,7 @@
     "news_age": "3h ago",
     "news_columns": [
       "olympic",
-      "basket"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16712,7 +16708,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNdFVOT1d1R2FURHRNR3hGcml0YTVIdGZNSmIzanpUUlVCS085WW5odDV0VDV3cXVzNXR5ZDZVeGdKRWFEN2ZJdjVTdzhtcVRIOXM5WjJSbmRoR2kyLUVoTC1sclUzdW1VOHdJZW1qRDBHQVJNX29YR1dMVEg3OXdKdEIyZGVtN3dSeG9FRjdWdWVNd2J6V0VlSzBvcnpYbV9Rd2wyZE9Nd2dUcWpZMHhDNVBoSnJoWFRKb0Z5UkIzTllnUTJYU1BjVTlEbEQ2aTh4cHpkcUI2UFdpeWdscW5odFJZa0J2TzNoQmhEYzliOFZOcWZ1M1dRRkhxSEZ0bTVjQWZlR9IBigJBVV95cUxPUkk2aE5mWUtjRFllYnpoV3dHMmpERTFaSl8zVnJ6TGxXYlZqYmtnZ3lSSUZtZFgtSEhEVXBaWjljZWRjWFVRTTQxNzVaVmdBU2xuei15bnFlcENoOEhsV2hlb01GYV9Rb1NycGFjeE5rNUNVZ0luNmFNalNVdW9kQTIzUnlIaFFYbllHOW5qYkw4cEVESDNjSzY3UnVabGtRREluOV9ZRG9yczJrT3hwWG0zc0s4RVdVSV9PZGtVOWhVZWRzbzJuUWhTcW1uaTlEei1hQy1xZWNGTnhUX096TnZMdVNhNUlVaTBDbklKRkV3cDNpeDhVN042V0FYdXBWNVB5bzlBVWV2Zw?oc=5",
     "news_image": "",
     "news_source": "The Times of India",
-    "news_age": "114m ago",
+    "news_age": "116m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -17283,14 +17279,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.13,
+    "news_score": 1.08,
     "news_title": "Iran War Commander Visits the USS Abraham Lincoln - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejlQWFJQWEM2WlFEVFJvbGQ2N1ppUUVGTXM5ZmFMaGNITzluTTNuQ1QwcUlVQkZvRHRjLUJNbkJxcE4tZTNEVGllUHVhTnVyaDE1d2U3bm5hSnZmVFBFOXIwRk9pSEdwQVpxU2pzdWluOFpnVElvaVEyV3BlTDJ6STl5cnNETmtWcFpnZlVrMmU1QmZ1Z1pTUkRaLVU?oc=5",
     "news_image": "",
     "news_source": "WSJ",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -18454,7 +18451,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.21,
+    "news_score": 0.2,
     "news_title": "IFAF Flag Football World Championships 2026: Italy \"go to bed with a giant smile\" after securing men's quota to LA28 - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaldyN3pLQnFSWWdtRkNHVUVZWnVyQmtYVXhqd25GajFyeDYxWXJOQVlYZjk5bWZNaldud19kbjluYkYwWFJpSWt1dFRwUWFTLW00X241YVM5ZmNENFVaTWxwLUY1a2liTjhxNjlKSjVsRWNPQnRGNEdZaWNranBUTndKYW9QUXlJbjRMNi1kNUt6MlBtYmZwM1NsVE1IZkZyX2VjcHEtN3NNYXllQmNuUVp3bHY?oc=5",
     "news_image": "",
@@ -19146,19 +19143,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.69,
+    "news_score": 0.9,
     "news_title": "Takaichi skips controversial shrine on 81st anniversary of Japan's World War II surrender - Politico",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV0NlZGtyellYYXpBR2txcXVLOVNoWGtfbmd1RVRtbXYzU1ZqdUVrNDM2b1JBd01ZWmtnYW9XRFQyNnZyQUpLeDBkUGtIbFRVTXdaZEhtbDNoNzNKY194THdtaEctTDZaZ2dja0F1dWlIQ2VpTHhjSG1TMDVadU0yVXlXNTBrT0oxR0pJY2RNNEE?oc=5",
     "news_image": "",
     "news_source": "Politico",
-    "news_age": "87m ago",
+    "news_age": "89m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -21136,7 +21129,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 105,
     "fifa_w_rank": 87,
-    "news_score": 0.4,
+    "news_score": 0.41,
     "news_title": "Trump says he may declare Strait of Hormuz a US territory ‘after we finish defeating Iran’ - Fox News",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54c0ZsdG9YaHJmMkxlQl9pdW5fR0RnM3BWc0ExaVFBNkxxU2daSGZjRk12QXhaV3ctRDRYRlF3SjMtOE5LelVzMUZ0cFYyNXJKWncySnhBdGpLd0tNY2tTUHYyVEMxdGw2d2RqOFJEeTFMdUVDQjhkZEtjQjdoTlk?oc=5",
     "news_image": "",
@@ -24631,7 +24624,7 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.13,
+    "news_score": 0.12,
     "news_title": "IFAF World Championship: Men’s Semi Final - USA vs. Mexico IFAF World Flag 2026 - DAZN",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTnlkN0dDemJDakkzeU1wUXhrRFozamhma3F0b0FfU2x3d01uemhXV3FZa09KTWtyWTg4elhST3lDNC1XR2pRMmF4Zi01Nm9kTGlKUk90Sl9ReVNIWHFKcFlyREhoVHRla19Vd2VTTUJTeDBubWFJZGU3eHN2ZUxsbmJwTlBwbk5wRmxheTJB?oc=5",
     "news_image": "",
@@ -36500,7 +36493,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.13,
+    "news_score": 0.12,
     "news_title": "Spain's Perez and Italian Fiorini set women's race walk world records - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRUxRRV9nQ3I2Rk5Sa1dCU2Z5SUNwX3NmOE5LUU9zUC1DZUt1UnUyRVNuamlGTGZVcUV0NnR2OElnWUJETnUwRHhzLTBzYUlVaWdWazJ1alZzRXlWbXg1bUhuYVhVMHItWWJNZG1JVTJ4ck55VjJLYlVxOVFGcGhoelg0WlFHeXBrY3o5SFBSNks0NmlkNFF3RlJVY1RlRm1hcEZrN05vUQ?oc=5",
     "news_image": "",
