@@ -212,7 +212,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUcwZmlieHVTblctVUFxREhEWF84RHhHazFkR0hMMFJuaThzTHpKNVprZ1lFUExDSzRQZF8zNXVab1ZfX0w3cGJsZV9oRVE5UzJFQjQ1ckp1czB2X29SNXRMTGtkN3AwUUZLRDZscmkyUnNOM3N2UmtrbDhEczFPV2dldU9UNHV5MDhER1JZbUF0QUc4VWQ4bGV6NWRKUXBlQTluNEJB?oc=5",
     "news_image": "",
     "news_source": "theguardian.com",
-    "news_age": "6h ago",
+    "news_age": "7h ago",
     "news_columns": [
       "olympic"
     ],
@@ -6908,7 +6908,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.11,
+    "news_score": 0.08,
     "news_title": "IFAF Flag Football World Championships 2026: Canada women secure first Olympic quota: \"It's a little girl's dream\" - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWhuUl9GWWFDQWtOczl1ZFdHaWp4OC1nS2hNNVBfSlQxOG9ubnk4Qkd4QTczbFlwRUNhTl9SaVJpMndabng2MTY3bHlyTEl3NjY0Ykl3UDl5X1JXS21rYkpnekJ3cXBFalZHZTgwUGhDbFVac0VtSkxPcUZxbk1USHpMczg5bHVUVTR6bUtvYXg4dWh3SEhBdnd2SEw3VWs?oc=5",
     "news_image": "",
@@ -6916,7 +6916,11 @@
     "news_age": "9h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket",
+      "olympic_gold",
+      "olympic_per_cap"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -7967,19 +7971,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.21,
+    "news_score": 1.38,
     "news_title": "India face China in Women's Hockey World Cup; East Bengal in Durand Cup quarterfinal: Indian Sports LIVE, August 16 - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQejBFYnVfeWNrcU93SkEyRFNMODhTeWlHcG9qR0tyN2NHSXZJVUwtbnhkbGZ3Uy1GUVBSckExV2M4WVRkdF90SW1uOTV2RU9DSXRrMVdidXBCNkdrbnVEZHUwTGVLaHZ5VUNxLW9Xb1N4ZTJxSkt6WGJXVzN4SHRMby1VTWsxaFZwUUl0Ti0xZEU4bU5XTUNJMDBVWVNaMFlNVkxnMU51V19wZlZ6aXVxUjUyb20xUEFERmdtdkpTUFkxemdkYnlKeG9yMFVUVjZMeFRwUFJmYTF4UG5TRnlqdFJTRUs?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "gender",
-      "gender_gap"
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -8214,10 +8213,10 @@
     "union_rate": 69.1,
     "union_rate_rank": null,
     "news_score": 0.11,
-    "news_title": "Hopes fade in Colombia as more bodies recovered days after powerful quake - reuters.com",
+    "news_title": "Hopes fade in Colombia as more bodies recovered days after powerful quake - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTVVtWHRQWDU1UXU5RHBDM2hOaG1YcVdpMHIyTGtFbnJtQi13c09KUnFlUlRzaDZLSldMZF91NnhFTmhjTERDaXduYktlSTZ0V0h2N2R0M0VoSzBfNjdGcmJCUkhLX01aRkUyRDA5dFZVZWkxazhMT3dNTUs2T1JLX3dCY25KdVlJRjFQTThiV0JNR2VXVEZ5VFh3cGloSnI0SlpEZXVFWXFtblRaXy1CZ18tanp0akpGNGRLQXZ4a09DUQ?oc=5",
     "news_image": "",
-    "news_source": "reuters.com",
+    "news_source": "Reuters",
     "news_age": "7h ago",
     "news_columns": [
       "earthquake_count",
@@ -12939,7 +12938,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.37,
+    "news_score": 0.36,
     "news_title": "Timberwolves’ Rudy Gobert-Led Offseason Workout in France Goes Viral - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMjRyT1J3Mzg3QUhDTm5DUC12RF8tZXR4a2ZEaGhTRmpoUDJjVEM0LU9zRlhCb2RfcnlSRUxvR2dTaG9ONXMtZlBvR0ZNaFY1SzduOU13TXhNTjJjVDV1UGk5TjhSWUxYWG9tZ2pCcGpUWVdtTFRRNzR5ZUFEMjZGdGlfNEZFV1RsWXZaWnp4MGE?oc=5",
     "news_image": "",
@@ -16703,15 +16702,14 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 1.55,
+    "news_score": 1.82,
     "news_title": "Tough run for Sindhu, world champion opener for Ayush: A look at India's prospects at the BWF World Championships 2026 - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeU1OMm1Ra011dTBkcUY3dzhiODVLNXNsRnp1cTVZa1l0TzlPYjY0ZjlfQmlCRENiNmtfVFlXSHNZX3lLMHJ2bHhaQnBYemRfVkowR2FYcE9rZXZFVHRBcnRzd1RDRjRidndSN1JwSWhUWGttWXpsd0xPankzZHBhMUxwUXlmT0pYN3UwSVo3LXBMQk92UUxrSmlNaXBzVWNFRXcxeFB6UUpHWGp5VWZhdmV2SmxMWnVfRjJUXzJCdU5HMjVGRHpsUjhxbGs3Ym1VX3ZhbUUyYzdrUkRnZ0lzSFJaalQzZTVocXlydGJYQQ?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "81m ago",
+    "news_age": "83m ago",
     "news_columns": [
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17275,7 +17273,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.55,
+    "news_score": 0.43,
     "news_title": "Iran War Commander Visits the USS Abraham Lincoln - wsj.com",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejlQWFJQWEM2WlFEVFJvbGQ2N1ppUUVGTXM5ZmFMaGNITzluTTNuQ1QwcUlVQkZvRHRjLUJNbkJxcE4tZTNEVGllUHVhTnVyaDE1d2U3bm5hSnZmVFBFOXIwRk9pSEdwQVpxU2pzdWluOFpnVElvaVEyV3BlTDJ6STl5cnNETmtWcFpnZlVrMmU1QmZ1Z1pTUkRaLVU?oc=5",
     "news_image": "",
@@ -18454,7 +18452,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaldyN3pLQnFSWWdtRkNHVUVZWnVyQmtYVXhqd25GajFyeDYxWXJOQVlYZjk5bWZNaldud19kbjluYkYwWFJpSWt1dFRwUWFTLW00X241YVM5ZmNENFVaTWxwLUY1a2liTjhxNjlKSjVsRWNPQnRGNEdZaWNranBUTndKYW9QUXlJbjRMNi1kNUt6MlBtYmZwM1NsVE1IZkZyX2VjcHEtN3NNYXllQmNuUVp3bHY?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "4h ago",
+    "news_age": "5h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -32922,12 +32920,12 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.02,
+    "news_score": 0.77,
     "news_title": "Fired Ukrainian defense minister says Ukraine is in a \"technological war\" with Russia - Yahoo",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXp2RTBLei1vdXdKOHI1aGVPUHZlNDZrWm9PVkNSdWpBSF9hdVhlRTZCTktMVFdlYm1DNGFtNHFURkZleEZ1UE85eVJDekhScUlaTE1tcU1TTzVVbWk2WDlUN0pUa01TTnBjTFY3NUtYRmxhM0owZHpfdEJFVVdPMDdlV2hxazh6OTJfdTU0VVJELWczRE5JX0VB?oc=5",
     "news_image": "",
     "news_source": "Yahoo",
-    "news_age": "93m ago",
+    "news_age": "95m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -38876,7 +38874,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNc3BpOGdNX1pqMDlkeDhFeEtVc0c0aEJXTzhRcDE3UzJrNjJua2pQWThxejZ3NF9FMk5yWHY4b1MwR3RoWUd6cUdZTlUyWWIweFh5aUxXQWowbnFrM1M3dVBmNlppRHNQRVFxaFpOUFhNZWV3RXNRR3VhVHFVQ1EzaUxzT1oyRk9lY3AzNG9PRi1xYTRwT0VhYTFXbWJjUnd4NU9JV2tnVkkzbmUwaVJBX081Z2otRTk4V0o4VThTS2RHQkJNTkNhSkpMdHJiMGdwbVJtRFVIUEoySzZTam9qNXBkQnJvVmpyaG1VZm1RaG4xamV1R0lFR1lWSGMyTk9LNkI2M01yWnBfMnFlMlNYc3ZXWlVKbmNu0gGeAkFVX3lxTE9GNHdZSEkyNV9YR1JjbWhuckR3QWV1LUFDTXdpakFRdk5GV2t3c2VnRGFqbnNfXzZPa3V0YXA1U3p0UXRhSGREWldTTm5LUXoxRVl1Mkp2dG55VU9BcUNzbGJseUotU2FsM2lPN3N2ZEpzdVBvaVpwajVkR1NVTEFiWFBWRjF2cDdvWE1iV0dMSFFYVUJGR2RTRVFETWdvd2ZFMW5jY1dwNFliY1FsTUs3UGpwNkVUbF9ISktuQUJ2aUVRUUNGV0xGcWpoaTV4c0tnRm9MS1poWHc1QXlzYmlKcGVjaFphYnEwaEF6Z1VmbzB3RXU5U0g4Y1JLdFpyNXhVdVZhZEhKZkFIQzhhVWdGZ01kdXd3dzdwTnpYWEE?oc=5",
     "news_image": "",
     "news_source": "The Manila Times",
-    "news_age": "61h ago",
+    "news_age": "62h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -41017,12 +41015,12 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.88,
+    "news_score": 0.7,
     "news_title": "Fired Ukrainian defense minister says Ukraine is in a \"technological war\" with Russia - Yahoo",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXp2RTBLei1vdXdKOHI1aGVPUHZlNDZrWm9PVkNSdWpBSF9hdVhlRTZCTktMVFdlYm1DNGFtNHFURkZleEZ1UE85eVJDekhScUlaTE1tcU1TTzVVbWk2WDlUN0pUa01TTnBjTFY3NUtYRmxhM0owZHpfdEJFVVdPMDdlV2hxazh6OTJfdTU0VVJELWczRE5JX0VB?oc=5",
     "news_image": "",
     "news_source": "Yahoo",
-    "news_age": "93m ago",
+    "news_age": "95m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
