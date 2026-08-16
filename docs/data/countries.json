@@ -2541,7 +2541,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 1.04,
+    "news_score": 1.06,
     "news_title": "Bangladesh thrash Australia for historic win - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMDQ2ZlZnSG9jU3kxMmZZanUxU0EzMVoyUVVjY1VBb2dHd1E4N1RLUzBDMGlmYmJ4d251d3VybkZVclJrdDlFcXRuRUxPWjRUSGVmbDBNWkFuZ0R2SkdzVTNZaVM4dHFRLWFkNExSMUhqbE1jTmVUZ1d5WHVEQzh1SmJZSzBkVW83NEVHXzVIZlc4QlE?oc=5",
     "news_image": "",
@@ -3308,7 +3308,7 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.59,
+    "news_score": 0.58,
     "news_title": "Bangladesh thrash Australia for historic win - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMDQ2ZlZnSG9jU3kxMmZZanUxU0EzMVoyUVVjY1VBb2dHd1E4N1RLUzBDMGlmYmJ4d251d3VybkZVclJrdDlFcXRuRUxPWjRUSGVmbDBNWkFuZ0R2SkdzVTNZaVM4dHFRLWFkNExSMUhqbE1jTmVUZ1d5WHVEQzh1SmJZSzBkVW83NEVHXzVIZlc4QlE?oc=5",
     "news_image": "",
@@ -16048,7 +16048,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObk0xUTlnazNlTHZpUDhoYTJhZ2FUdXdiVG5nX2ZXd091WXIzMkNrM2JpYUJtZW5lS1Y0SnFNZ2VLM3JZYlRVTm9hRG55bmdNV0w1VmdEZ0RUM3hMRjk1V2pEVUpMOGxfaEZXZk9TU0tMcVFuM3pRV2REamJKT2E1WnM3a2J0eGNoMFNNbjhNSEY4QndKZHR1dy1SQ2M4elFRMktBcTcwVXZHZGN4QkNWTWdnR0hVTWh5dnNpVVFybnNGQ1d6elR6cjBB?oc=5",
     "news_image": "",
     "news_source": "KTVN",
-    "news_age": "110m ago",
+    "news_age": "112m ago",
     "news_columns": [
       "disaster"
     ],
@@ -17019,7 +17019,12 @@
     "news_source": "BBC",
     "news_age": "4h ago",
     "news_columns": [
-      "disaster"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "earthquake_count"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17273,7 +17278,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.37,
+    "news_score": 0.51,
     "news_title": "JD Vance and the Trump team keep moving the goalposts on Iran - Yahoo News Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ickpLdjhvTVpVZGFSYl83bFFlb2traEtha0VUcndYdzB2ZVBNQ0hMRGNmWmxJWkNoTmVacDk3VW5VWHQ1OG4xS2JVejRDM05tVGJsY0tRNkJ1bURZNExuVGZqMno2SW45QVMxRDcwVklBdkU?oc=5",
     "news_image": "",
@@ -19138,7 +19143,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV0NlZGtyellYYXpBR2txcXVLOVNoWGtfbmd1RVRtbXYzU1ZqdUVrNDM2b1JBd01ZWmtnYW9XRFQyNnZyQUpLeDBkUGtIbFRVTXdaZEhtbDNoNzNKY194THdtaEctTDZaZ2dja0F1dWlIQ2VpTHhjSG1TMDVadU0yVXlXNTBrT0oxR0pJY2RNNEE?oc=5",
     "news_image": "",
     "news_source": "Politico",
-    "news_age": "8h ago",
+    "news_age": "9h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -24618,7 +24623,7 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.32,
+    "news_score": 0.31,
     "news_title": "🚨 Jenni Hermoso bids farewell to Mexico - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLVg4LVQ0Q0tTNVI5MVFTMlNyTzhBbWRhMF9FRHp3VW9SX3RacUhSaVpKMlpnRHNRVHgxSDFKOVVxeFFtYm5MZXZTOXhrN05WaXJFekdCdWxjOC11QlFmek1vcjJ0WXNjRUl3VF9qZ3hWZURQTFhtZWhqcmQtWkM4dXpwMXM1bnBDd1JB?oc=5",
     "news_image": "",
@@ -24977,14 +24982,18 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 129,
     "fifa_w_rank": 83,
-    "news_score": 0.96,
+    "news_score": 0.95,
     "news_title": "Russia Campaigned to Derail Moldova’s Pro-Western Government - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1taWlOeVZORmJIXzg0cVlwQTVUTDQ2ZWpvQzd3WURRb2k0VFVFRHYwcERTT25oVjcxaURDMTVldzlETGd2NXJmS1VkeVA4VGI2VDY5eWdMNm5WMFNMOURPY0hWX3dtTzR6cjhXT3RMTXdiVEtCa0VjVV9IYzZCQQ?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "73m ago",
+    "news_age": "75m ago",
     "news_columns": [
-      "politics"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": null
   },
@@ -32912,15 +32921,18 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.33,
+    "news_score": 1.29,
     "news_title": "Russia Campaigned to Derail Moldova’s Pro-Western Government - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1taWlOeVZORmJIXzg0cVlwQTVUTDQ2ZWpvQzd3WURRb2k0VFVFRHYwcERTT25oVjcxaURDMTVldzlETGd2NXJmS1VkeVA4VGI2VDY5eWdMNm5WMFNMOURPY0hWX3dtTzR6cjhXT3RMTXdiVEtCa0VjVV9IYzZCQQ?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "73m ago",
+    "news_age": "75m ago",
     "news_columns": [
-      "ufc",
-      "politics"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -34082,7 +34094,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 100,
-    "news_score": 0.12,
+    "news_score": 0.15,
     "news_title": "JD Vance and the Trump team keep moving the goalposts on Iran - Yahoo News Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ickpLdjhvTVpVZGFSYl83bFFlb2traEtha0VUcndYdzB2ZVBNQ0hMRGNmWmxJWkNoTmVacDk3VW5VWHQ1OG4xS2JVejRDM05tVGJsY0tRNkJ1bURZNExuVGZqMno2SW45QVMxRDcwVklBdkU?oc=5",
     "news_image": "",
@@ -41003,7 +41015,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.12,
+    "news_score": 0.09,
     "news_title": "Did life emerge on Earth twice? Scientists find surprising evidence - RBC-Ukraine",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWGFyQjA1MGl2eHZ6aUdCLVVkMTRpVmlUR2I0ZmFkZU0yUzhyT2tyd3kwU3c5UnNmQUN4Rno2am83ZkVZdXFvUWZRNzUtSzJwVHBfbjJoTWg4WWktVWV6NUVzV2l4eWEtN0JQcFlLTHRiQzA3MHNiVkphSzkwWV80UzRnSnU5eXVibHZUX1EyZklnbjA?oc=5",
     "news_image": "",
@@ -43475,15 +43487,16 @@
     "union_rate": 78.4,
     "union_rate_rank": null,
     "news_score": 0.01,
-    "news_title": "Science and technology: a 'common language' at the high-level foreign policy table in Vietnam. - Vietnam.vn",
-    "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYU5BU2xlOGR5QzdRbDU2VFR6aUF0dXVNQzJJZDRTcWVfaWRNdWtlMnZtcUhMdGttRmV6T1NtTHpCRzdfQ2lzQl9lQ1BQMEMwTHgwVEt2Um5Vd09KbWxreFVwWTM0MF9vbENlOGNVdkxnRkEwVDdaNVEzOTVCZDFQaDE0UTFwbTZ5cThDTGZpNkF0b0Y2TGJTeThvQQ?oc=5",
+    "news_title": "Science, technology, innovation, and digital transformation are driving forces for increased productivity. - Vietnam.vn",
+    "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVWZxSjZkTEtvT0xVclA4TlEyZjBCaTdBSTdHZ3VKWWNhLS02ZXZUZGo5MXZwQTBNazFTRnFoRmZxWVh5QUlXMEl5TmFqUDFjSHp6dXNxNDJWb19WRExhUk5HcVF4QVpHUE9FRlhqQXlNN29OZmN1WDRmR3Zkc1pKYUNaSDVaNDlHUTIyOHBOdGlxU1MyRU85LS1CNXJzRlhBam40eFpheGlTRVE?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "35h ago",
+    "news_age": "42h ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "lgbtq_rights",
+      "gay_marriage",
+      "gender",
+      "democracy"
     ],
     "bottom50_wealth": null
   },
