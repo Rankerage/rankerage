@@ -2541,14 +2541,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 1.18,
+    "news_score": 1.6,
     "news_title": "'Biggest upset’: Mark Waugh reacts to Australia’s historic Bangladesh defeat - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa3FqYjZ2UWxzSGxGaWluVGJsTV9aSE9QTXFLaUxoZGN5T0xSaTl2Tl8zZTFhTG9zOHNGckFSdE9SdURqNmZfd1RJTElTZnhDSnFrSFBCZjktNGNOaDlrMGYyVmtCcEdOaHZYVklIYTZ4RGE5aVI2X0ZrdTg3ZEk1cE9uaEpQb28?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "105m ago",
+    "news_age": "107m ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3308,12 +3309,12 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.77,
+    "news_score": 0.76,
     "news_title": "'Biggest upset’: Mark Waugh reacts to Australia’s historic Bangladesh defeat - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa3FqYjZ2UWxzSGxGaWluVGJsTV9aSE9QTXFLaUxoZGN5T0xSaTl2Tl8zZTFhTG9zOHNGckFSdE9SdURqNmZfd1RJTElTZnhDSnFrSFBCZjktNGNOaDlrMGYyVmtCcEdOaHZYVklIYTZ4RGE5aVI2X0ZrdTg3ZEk1cE9uaEpQb28?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "105m ago",
+    "news_age": "107m ago",
     "news_columns": [
       "olympic",
       "fifa_ranking"
@@ -6911,9 +6912,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS0hRNFdpY0E0aUp0eGZqNGhDSnYwQzFpcWdUWmlCdVJXcXZJOHhxczVTUXA2UkY4RjZOV29oNHFxTjFudTVjTDdJMnNZdGRXZnlFOVdWQTdYV29oOG9XamVjbWhJOGJqXzAxX2YzN2EyYjZxQUZzZWFQUFhMUkxXbEw4d0NZQVVtOVhpRUQ0Z3FITDFUakNpQVhsaFE2M0VESlBvNTNRUWhlcDM4Z09MZkpJSDV5dEdXXzRVYllpUVB5NGJ1VEt5QW8wb0Q?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "41m ago",
+    "news_age": "43m ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -7964,12 +7966,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.74,
+    "news_score": 0.73,
     "news_title": "Women’s Hockey World Cup 2026: India hold China to 2-2 draw in opener - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzBjcVZILS1fUDVLNXJCWlFDZjlqeUtkWEFDdG11S2d0OURlMUcyZGxLeWkxaUVoUlozN2dBUHdzR0ZYbjdjQmptTlNseDBicTBlYXoxSmxUaWo1Tmk3ZVpEMTNoTERrVlVVNDlYVXlXbUV0cF9adE1KbWFiQTBRTDVtMkYyWVpyOWtOMzVNcG5xZDZ6eDBvR1NnUjh3VHV2?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "75m ago",
+    "news_age": "77m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -13461,7 +13463,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.56,
+    "news_score": 0.55,
     "news_title": "Georgia. “I’m really happy,” he stated in a recent … - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObVREdmUzS1JnQlp1ZXEwUm1aRGF3aDEwODBjeHlXTXBMbDVadkxDN01HZUUyMmxoVWp1a1Qta3NqOUZJWnY5cExUTHVGRl9ENF9QVlpRMl84TVJaSV94bUNPejBZWjNzTGgyYkYwMjBhenZIQzMtdzl1MVNiVEZJMUpRak4?oc=5",
     "news_image": "",
@@ -15766,7 +15768,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORk1xOXhXdG54UHZna2lJVl9uOE1xTlJiVE8wNl8zVnN2SEdXajlyRnVUejdqRkJiTkNES2VXOVpUYW0zS3gtN1ZSTmR3VUd5aV9FV0ZoM0NsSGFDczdrYXRpRmJtZUVaTzBGc2lhb0tneVJMRlJqcGZBRlA1aUxJUDRKdVdTa0VnMHQwSkFLY2h1amZKNmtobk56cklWbTB6T3EzQ0todjA4WVQ2c1RUSE1RV3JiLThtNnQ5Z0g2Rmc4ZDNIaThkNzNIczlPZ3YwRHg4SkNKcjVZV0HSAdsBQVVfeXFMTm5DV3FJNkNDSDRKNjBNVTUzWjFrSDBqeUV5OFF6cXFYQ0dQbjQwZkRqU3cxTGxxRVdMSFB0em9qbUNmYlE3UEM5R05iLWlmNGVUNWh5MW1odzE5Vk9FT0VHZTdmSXYwaHRRaU9RZVFoZnFXaHlUOTZOZjdjUWpyVm5QSzlhM0F5U2Y4bXR4RFY1V3I1dTRSNTdQUUpQMUtyN0Z1LXRSWWg2WWhtOEF5c2t2eVlmeFRFb0tLYndNNlJYUTlTTGNKWmlabGRSbG40a2xzSHJkZnNGQVVR?oc=5",
     "news_image": "",
     "news_source": "South China Morning Post",
-    "news_age": "27h ago",
+    "news_age": "28h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -16701,14 +16703,19 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 1.34,
+    "news_score": 0.98,
     "news_title": "Women’s Hockey World Cup 2026: India hold China to 2-2 draw in opener - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzBjcVZILS1fUDVLNXJCWlFDZjlqeUtkWEFDdG11S2d0OURlMUcyZGxLeWkxaUVoUlozN2dBUHdzR0ZYbjdjQmptTlNseDBicTBlYXoxSmxUaWo1Tmk3ZVpEMTNoTERrVlVVNDlYVXlXbUV0cF9adE1KbWFiQTBRTDVtMkYyWVpyOWtOMzVNcG5xZDZ6eDBvR1NnUjh3VHV2?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "75m ago",
+    "news_age": "77m ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket",
+      "olympic_gold",
+      "olympic_per_cap"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17007,18 +17014,18 @@
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
     "news_score": 0.02,
-    "news_title": "World in Brief: Eastern Indonesia hit by earthquake; South Korea proposes Korean War talks - The Economist",
-    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU0NwY3A5M1ZMb2pYOW8zaElYR3JTMVBYQVE3RzdqclVxNFUzMGF2NDZ3emNMX1A5VlBIRFVIV3F1d0F1b3R0QWlzU3hrSnZiZlNjMkluOVg5bm5YRENIeEZrNmFzbklLRFVGN2p5eEFqTEQyUVJCdXM5S1A3RmdpYUdQU2VWRklBYUs4c3lsSUh5RGFUaXRJ?oc=5",
+    "news_title": "Thousands evacuate after Indonesia quake kills 53, aftershocks hamper rescue efforts - Reuters",
+    "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEJFQktERVZJaDU5NFZfV0ZKZWpwc0FzYzR1SUJYeFF4Z1U5SVQxenBacVFDM1lNdGNRTnhXSVFBQTlFZVpEaGlsX1J0MzY1cHN5bllZQ0hMNVlvcnAtRlFmYWRKYzZORnZibTluNWJkVk5sdExHQWduODdCcEZ1OXVGSXd0ZHFmTS00OWhPeVpxQ2lpYWZheUZKWmZFZWM4N0RGeEhOSlM4WXliOWNfY0NWZ0JuRENL?oc=5",
     "news_image": "",
-    "news_source": "The Economist",
-    "news_age": "14h ago",
+    "news_source": "Reuters",
+    "news_age": "11h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "earthquake_count"
+      "earthquake_count",
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17272,12 +17279,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.99,
+    "news_score": 1.52,
     "news_title": "Iran economy begins to recover after war as business activity picks up - The Economic Times",
     "news_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMWN3T0tMUC1wOEdNcENUY1JOYk5EdkVGN2taeHJyajRlUGhjYjRtUndzUVBZMno0R0UxamdsUlRKY2hIUEt6SUtGMkkxWU4zeFVyM1BPYzFZX2JTRVRoODhFZTdDZlh5ZkN3a3p5bUNZQlNvV040NmYtNzk1Nm00bzY2YmZPTUZMRjBCanFmSF9ENl9DeHhMTHBkTVZROVhvYXVycUlHZzRqUkU3MFluNklIZGFTMFhZZW1yR01OSnF2T2gxbGdKVHhsTHlWcGJUX3JwVkVwa01ya0pKRkh6cEhNMnlEZlXSAewBQVVfeXFMT2N1YXF4ejl2WHFmeW13SEE1dnJSMkRNaVNpalhtbmVKc0ltbGRXN1l6X2pTQnFpTGJHSUI3X0lxeWdDZlEzZHBha0hLS0tJVVcydnY5cm02cmFZOER3OGFSNF94TlQtLWM5REpfejAtWTRteHZmQVk4TS1EemVXb3IwZUV0bGRkUFdGY0RUSW83V05iMElDWTNxbFZIX01nMF9rRzZWeERoRDhYaEJfd2FZdlZYVW01YTJMdTdmN3Yzc3dKaENkSW90Y0pSN0k3d2JUNk95c3J4SmtnU0l6c3poak12NGplaTY2MWg?oc=5",
     "news_image": "",
     "news_source": "The Economic Times",
-    "news_age": "21m ago",
+    "news_age": "23m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -18456,7 +18463,8 @@
     "news_source": "USA Volleyball",
     "news_age": "46h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -19136,12 +19144,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.9,
+    "news_score": 0.91,
     "news_title": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities? - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTEdDNlFVanJPMVl0SGhYbG9FX1UzMXg4NUpLUmEyc05QSkJEX0FWWnpsTzdmLTNRNkh4WnlBeDh2MWpGNTE3SkJKV0hqeC0wWmp6bnhnSVVIT0FSbXFjNHdnRGNDYXJwV0ZIRHBDZWh2Vm1nbFBMNXFFOXo5YzM2VHBKMW1GWDh4VWtXZl92TlVIa3Z0MzRrZTh2aVZtbDFZczJsVy0tdVhHTWPSAbABQVVfeXFMTmRDUkRVTndjVV9UMEo3SzZqYUo4eTN5NllXeGw2OGs5TjFQVkp5cVVXbDI3eTBGYnNYU2Ric0ZZakNBMkNSYU92VG5xZnVJSTVXb0xZZnMySTJWUy1VMl8wbWw1MGs5dnY2YXZMWDJnMC1JdFQ1V2twYUlrYjZOZEF6LUJTUnRnN3JiRFJ3bXJBcl9NRzZna21OOUVoUDRvaVg3TzVkSjFPMjF4T05wSDk?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "17m ago",
+    "news_age": "19m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -22089,7 +22097,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 125,
     "fifa_w_rank": 68,
-    "news_score": 0.46,
+    "news_score": 0.45,
     "bottom50_wealth": null,
     "news_title": "Arizona men’s basketball begins upcoming season’s journey in Lithuania - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYUFIR2U0cHY3Q1JEZDlyVkk0WnMzQUQ2SjB6V3h3c2E0N1dicEEtRFhzbUtlWFRzdTdZaV9oSEo2UmNtLU84SkFfd2F1QW9YRTlrVXoyRnR4c3QxU2RYN09iNGQ0RmIzY2dFVzlyUk1HLWN1RzUyaDNTUjhWZ2IwYUg3NmdNa2piUWs4TEMxOEc?oc=5",
@@ -24625,14 +24633,15 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 1.15,
+    "news_score": 1.18,
     "news_title": "Canada men and Mexico women earn last two Olympic quotas at 2026 IFAF Flag Football World Championships - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS0hRNFdpY0E0aUp0eGZqNGhDSnYwQzFpcWdUWmlCdVJXcXZJOHhxczVTUXA2UkY4RjZOV29oNHFxTjFudTVjTDdJMnNZdGRXZnlFOVdWQTdYV29oOG9XamVjbWhJOGJqXzAxX2YzN2EyYjZxQUZzZWFQUFhMUkxXbEw4d0NZQVVtOVhpRUQ0Z3FITDFUakNpQVhsaFE2M0VESlBvNTNRUWhlcDM4Z09MZkpJSDV5dEdXXzRVYllpUVB5NGJ1VEt5QW8wb0Q?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "41m ago",
+    "news_age": "43m ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 22
@@ -32920,7 +32929,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.35,
+    "news_score": 1.34,
     "news_title": "‘Massive’ Ukrainian drone attack on Russia kills at least six, says Moscow - theguardian.com",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZW93d2d5UGpOUm1INzFUdlpuNF92MkNaTFVDVjRaYWpFel9EQkNhN1N6VmFRV1ZGOWw1SnYydnpPMVVabGhMZ0FZRThrblNKY005RGc5UHNuNFVpUzY1UnRZeFg4VndlVk5QMlZ3NVlHMld6M29tRmx1aEVLdmdxRjBPWkNuS1VaNC1HYkctMFprZjZoVWZHUjU4a0xtcWxkWUZoYWRkanE?oc=5",
     "news_image": "",
@@ -34094,12 +34103,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 100,
-    "news_score": 0.7,
+    "news_score": 0.71,
     "news_title": "Maker of ice cream sold at grocery stores nationwide files for bankruptcy as it appeals $23.8M judgment - Fox Business",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTVl3VmJaLXY1OERkNDBiRjZ0MlFtblRhMnhnc01oQ2lOM25mZVlzd2RVU0Vlc2VaalZESjBFT214QWFyZUVHUEhMUDBqbWZVQngtRXpKMWpVd0NkT1J3d3R5eGQ3Zk9WWFdXNl9uVmtaVHZYbFk1bTl1Um1wMUhqbWFWTVhoX2hIbi11SHdRZlpQUU5TVXpRc2xua1pqWlFjMmJoR1gxMGV2ZUdRYXczU0FBZ05OeFk?oc=5",
     "news_image": "",
     "news_source": "Fox Business",
-    "news_age": "64m ago",
+    "news_age": "66m ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -41011,7 +41020,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 1.46,
+    "news_score": 1.53,
     "news_title": "‘Massive’ Ukrainian drone attack on Russia kills at least six, says Moscow - theguardian.com",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZW93d2d5UGpOUm1INzFUdlpuNF92MkNaTFVDVjRaYWpFel9EQkNhN1N6VmFRV1ZGOWw1SnYydnpPMVVabGhMZ0FZRThrblNKY005RGc5UHNuNFVpUzY1UnRZeFg4VndlVk5QMlZ3NVlHMld6M29tRmx1aEVLdmdxRjBPWkNuS1VaNC1HYkctMFprZjZoVWZHUjU4a0xtcWxkWUZoYWRkanE?oc=5",
     "news_image": "",
