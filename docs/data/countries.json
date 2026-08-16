@@ -2541,15 +2541,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 2.16,
+    "news_score": 2.2,
     "news_title": "'Biggest upset’: Mark Waugh reacts to Australia’s historic Bangladesh defeat - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa3FqYjZ2UWxzSGxGaWluVGJsTV9aSE9QTXFLaUxoZGN5T0xSaTl2Tl8zZTFhTG9zOHNGckFSdE9SdURqNmZfd1RJTElTZnhDSnFrSFBCZjktNGNOaDlrMGYyVmtCcEdOaHZYVklIYTZ4RGE5aVI2X0ZrdTg3ZEk1cE9uaEpQb28?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "33m ago",
+    "news_age": "35m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3309,12 +3309,12 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.75,
+    "news_score": 0.67,
     "news_title": "'Biggest upset’: Mark Waugh reacts to Australia’s historic Bangladesh defeat - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa3FqYjZ2UWxzSGxGaWluVGJsTV9aSE9QTXFLaUxoZGN5T0xSaTl2Tl8zZTFhTG9zOHNGckFSdE9SdURqNmZfd1RJTElTZnhDSnFrSFBCZjktNGNOaDlrMGYyVmtCcEdOaHZYVklIYTZ4RGE5aVI2X0ZrdTg3ZEk1cE9uaEpQb28?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "33m ago",
+    "news_age": "35m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -6912,7 +6912,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdmdkcVRreDJlMWYwZDc2Zmstd1p1RzJUblVOR0djbm81cmptMDJha3g1N1VMcTVRbjZZMlE0WGR2STdwa1h6TDNTYmllOHNQSW9paUg5dElhZmdzNmEzYzB1YVQ1YnBYOHhpbWhibndSdUFCMVNKMEZWVFFuZ3FCblFUU3RSeDg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports Canada",
-    "news_age": "50m ago",
+    "news_age": "52m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -13473,7 +13473,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObVREdmUzS1JnQlp1ZXEwUm1aRGF3aDEwODBjeHlXTXBMbDVadkxDN01HZUUyMmxoVWp1a1Qta3NqOUZJWnY5cExUTHVGRl9ENF9QVlpRMl84TVJaSV94bUNPejBZWjNzTGgyYkYwMjBhenZIQzMtdzl1MVNiVEZJMUpRak4?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "62m ago",
+    "news_age": "64m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -16708,7 +16708,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.39,
+    "news_score": 0.44,
     "news_title": "Indian Men’s Team set for high-intensity England clash in second pool game of FIH Hockey World Cup 2026 - Hockey India",
     "news_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZVY0WW94ZFNSbDVMQzBfb3lld1BydmdnYU9MN3ZzaXY5TmdDTkgyTmdCb3lVQ3ppSDJHb2ZIVEhyVkU0WEdDWm8wVElhTFNKaVNlYWlKcTRsU0RDelpnU1VZQ2hXZmJ4eHdEaVNVcDBCT3RwRmE1ZnEwX0sySTBpUmNELTEtbzJrTkNGQkEwaUtwMEtUczRpN256SHdnMXM5eHllNzNLQzktMGVta2dxenFNMzc2b3RtMnpHRi1UczdtYmFTaFdlNTdLcnR4d3B5?oc=5",
     "news_image": "",
@@ -17284,7 +17284,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.4,
+    "news_score": 1.3,
     "news_title": "Iran Says Pilots Missing After a Brazen Bombing Run Are Prisoners in Qatar - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNGhfVll2bXdiSkpCbEhfN0Fwb0hSV3IycHN5Qk9nVzVqSjVNLWpFNFdqeUVsbDVfQ3BHN09GbFdFWGJ6bGpjMUxJSEtLTE1GTkNGaW1EeXU5Q2dSY1A5TFlmZmJqcGtLelpBTF9tbzB6NkNaOVdFZ2lWeGFDcVJMZnh6TXhOSGp2WXFpbFBvcWNBZFNTU0JSaDdLZFRER29Mb0dOMjNVUTNRaFVfYmc?oc=5",
     "news_image": "",
@@ -17760,15 +17760,15 @@
     "refugees_rank": null,
     "union_rate": 77.2,
     "union_rate_rank": null,
-    "news_score": 1.15,
+    "news_score": 1.11,
     "news_title": "Ireland lose to Australia on World Cup return - Yahoo Sports Canada",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdmdkcVRreDJlMWYwZDc2Zmstd1p1RzJUblVOR0djbm81cmptMDJha3g1N1VMcTVRbjZZMlE0WGR2STdwa1h6TDNTYmllOHNQSW9paUg5dElhZmdzNmEzYzB1YVQ1YnBYOHhpbWhibndSdUFCMVNKMEZWVFFuZ3FCblFUU3RSeDg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports Canada",
-    "news_age": "50m ago",
+    "news_age": "52m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 2.7,
     "bottom50_wealth_rank": 20
@@ -18458,7 +18458,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.13,
+    "news_score": 0.09,
     "news_title": "IFAF Flag Football World Championships 2026: Italy \"go to bed with a giant smile\" after securing men's quota to LA28 - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaldyN3pLQnFSWWdtRkNHVUVZWnVyQmtYVXhqd25GajFyeDYxWXJOQVlYZjk5bWZNaldud19kbjluYkYwWFJpSWt1dFRwUWFTLW00X241YVM5ZmNENFVaTWxwLUY1a2liTjhxNjlKSjVsRWNPQnRGNEdZaWNranBUTndKYW9QUXlJbjRMNi1kNUt6MlBtYmZwM1NsVE1IZkZyX2VjcHEtN3NNYXllQmNuUVp3bHY?oc=5",
     "news_image": "",
@@ -20342,7 +20342,7 @@
     "refugees_rank": null,
     "union_rate": 75.1,
     "union_rate_rank": null,
-    "news_score": 0.49,
+    "news_score": 0.48,
     "news_title": "Iran Says Pilots Missing After a Brazen Bombing Run Are Prisoners in Qatar - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNGhfVll2bXdiSkpCbEhfN0Fwb0hSV3IycHN5Qk9nVzVqSjVNLWpFNFdqeUVsbDVfQ3BHN09GbFdFWGJ6bGpjMUxJSEtLTE1GTkNGaW1EeXU5Q2dSY1A5TFlmZmJqcGtLelpBTF9tbzB6NkNaOVdFZ2lWeGFDcVJMZnh6TXhOSGp2WXFpbFBvcWNBZFNTU0JSaDdLZFRER29Mb0dOMjNVUTNRaFVfYmc?oc=5",
     "news_image": "",
@@ -22109,7 +22109,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYUFIR2U0cHY3Q1JEZDlyVkk0WnMzQUQ2SjB6V3h3c2E0N1dicEEtRFhzbUtlWFRzdTdZaV9oSEo2UmNtLU84SkFfd2F1QW9YRTlrVXoyRnR4c3QxU2RYN09iNGQ0RmIzY2dFVzlyUk1HLWN1RzUyaDNTUjhWZ2IwYUg3NmdNa2piUWs4TEMxOEc?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "103m ago",
+    "news_age": "105m ago",
     "news_columns": [
       "basket",
       "olympic"
@@ -32136,7 +32136,7 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.64,
+    "news_score": 0.62,
     "news_title": "Iran Says Pilots Missing After a Brazen Bombing Run Are Prisoners in Qatar - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNGhfVll2bXdiSkpCbEhfN0Fwb0hSV3IycHN5Qk9nVzVqSjVNLWpFNFdqeUVsbDVfQ3BHN09GbFdFWGJ6bGpjMUxJSEtLTE1GTkNGaW1EeXU5Q2dSY1A5TFlmZmJqcGtLelpBTF9tbzB6NkNaOVdFZ2lWeGFDcVJMZnh6TXhOSGp2WXFpbFBvcWNBZFNTU0JSaDdLZFRER29Mb0dOMjNVUTNRaFVfYmc?oc=5",
     "news_image": "",
@@ -32930,12 +32930,12 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.12,
+    "news_score": 1.07,
     "news_title": "‘Massive’ Ukrainian drone attack on Russia kills at least six, says Moscow - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZW93d2d5UGpOUm1INzFUdlpuNF92MkNaTFVDVjRaYWpFel9EQkNhN1N6VmFRV1ZGOWw1SnYydnpPMVVabGhMZ0FZRThrblNKY005RGc5UHNuNFVpUzY1UnRZeFg4VndlVk5QMlZ3NVlHMld6M29tRmx1aEVLdmdxRjBPWkNuS1VaNC1HYkctMFprZjZoVWZHUjU4a0xtcWxkWUZoYWRkanE?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "71m ago",
+    "news_age": "73m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -36513,7 +36513,8 @@
     "news_source": "Reuters",
     "news_age": "19h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -41020,12 +41021,12 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 1.03,
+    "news_score": 1.0,
     "news_title": "‘Massive’ Ukrainian drone attack on Russia kills at least six, says Moscow - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZW93d2d5UGpOUm1INzFUdlpuNF92MkNaTFVDVjRaYWpFel9EQkNhN1N6VmFRV1ZGOWw1SnYydnpPMVVabGhMZ0FZRThrblNKY005RGc5UHNuNFVpUzY1UnRZeFg4VndlVk5QMlZ3NVlHMld6M29tRmx1aEVLdmdxRjBPWkNuS1VaNC1HYkctMFprZjZoVWZHUjU4a0xtcWxkWUZoYWRkanE?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "71m ago",
+    "news_age": "73m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
