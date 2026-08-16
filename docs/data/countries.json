@@ -2548,7 +2548,8 @@
     "news_source": "en.baochinhphu.vn",
     "news_age": "75h ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_w"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -6913,7 +6914,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWhuUl9GWWFDQWtOczl1ZFdHaWp4OC1nS2hNNVBfSlQxOG9ubnk4Qkd4QTczbFlwRUNhTl9SaVJpMndabng2MTY3bHlyTEl3NjY0Ykl3UDl5X1JXS21rYkpnekJ3cXBFalZHZTgwUGhDbFVac0VtSkxPcUZxbk1USHpMczg5bHVUVTR6bUtvYXg4dWh3SEhBdnd2SEw3VWs?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "10h ago",
+    "news_age": "11h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -7971,7 +7972,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.4,
+    "news_score": 0.39,
     "news_title": "India face China in Women's Hockey World Cup; East Bengal in Durand Cup quarterfinal: Indian Sports LIVE, August 16 - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQejBFYnVfeWNrcU93SkEyRFNMODhTeWlHcG9qR0tyN2NHSXZJVUwtbnhkbGZ3Uy1GUVBSckExV2M4WVRkdF90SW1uOTV2RU9DSXRrMVdidXBCNkdrbnVEZHUwTGVLaHZ5VUNxLW9Xb1N4ZTJxSkt6WGJXVzN4SHRMby1VTWsxaFZwUUl0Ti0xZEU4bU5XTUNJMDBVWVNaMFlNVkxnMU51V19wZlZ6aXVxUjUyb20xUEFERmdtdkpTUFkxemdkYnlKeG9yMFVUVjZMeFRwUFJmYTF4UG5TRnlqdFJTRUs?oc=5",
     "news_image": "",
@@ -12943,14 +12944,16 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.36,
-    "news_title": "Timberwolves’ Rudy Gobert-Led Offseason Workout in France Goes Viral - Yahoo Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMjRyT1J3Mzg3QUhDTm5DUC12RF8tZXR4a2ZEaGhTRmpoUDJjVEM0LU9zRlhCb2RfcnlSRUxvR2dTaG9ONXMtZlBvR0ZNaFY1SzduOU13TXhNTjJjVDV1UGk5TjhSWUxYWG9tZ2pCcGpUWVdtTFRRNzR5ZUFEMjZGdGlfNEZFV1RsWXZaWnp4MGE?oc=5",
+    "news_score": 0.28,
+    "news_title": "American Kate Douglass reclaims 50m freestyle world record - France 24",
+    "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbFZhTGZ6aUh0WkZjY0dnb3pXQVNHUGtyR0ZDc09GcXRHazFIMGVpbGhOeVZMeDU5RVlXZ2VWdkVZZklNTEJvdnkzVi1ZbUV2MzRGbTR5OWN6a2wxbVczVlN4UUI0SnNUVFlPOEtlX2J1WjhtdDlaVHhXaVNKVVlzeUhZdUx2Z1p2dTc2ZXRvZHBBRl96X2ZzSWtnbWpZcGpxYTdNaVR0WVY?oc=5",
     "news_image": "",
-    "news_source": "Yahoo Sports",
-    "news_age": "5h ago",
+    "news_source": "France 24",
+    "news_age": "10h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -16704,7 +16707,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.88,
+    "news_score": 0.87,
     "news_title": "Tough run for Sindhu, world champion opener for Ayush: A look at India's prospects at the BWF World Championships 2026 - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeU1OMm1Ra011dTBkcUY3dzhiODVLNXNsRnp1cTVZa1l0TzlPYjY0ZjlfQmlCRENiNmtfVFlXSHNZX3lLMHJ2bHhaQnBYemRfVkowR2FYcE9rZXZFVHRBcnRzd1RDRjRidndSN1JwSWhUWGttWXpsd0xPankzZHBhMUxwUXlmT0pYN3UwSVo3LXBMQk92UUxrSmlNaXBzVWNFRXcxeFB6UUpHWGp5VWZhdmV2SmxMWnVfRjJUXzJCdU5HMjVGRHpsUjhxbGs3Ym1VX3ZhbUUyYzdrUkRnZ0lzSFJaalQzZTVocXlydGJYQQ?oc=5",
     "news_image": "",
@@ -17276,19 +17279,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.61,
+    "news_score": 0.59,
     "news_title": "Iran responds after Trump teases Strait of Hormuz becoming US territory - Fox News",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54c0ZsdG9YaHJmMkxlQl9pdW5fR0RnM3BWc0ExaVFBNkxxU2daSGZjRk12QXhaV3ctRDRYRlF3SjMtOE5LelVzMUZ0cFYyNXJKWncySnhBdGpLd0tNY2tTUHYyVEMxdGw2d2RqOFJEeTFMdUVDQjhkZEtjQjdoTlk?oc=5",
     "news_image": "",
     "news_source": "Fox News",
     "news_age": "4h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "coffee"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -19143,19 +19141,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.22,
+    "news_score": 0.3,
     "news_title": "Takaichi skips controversial shrine on 81st anniversary of Japan's World War II surrender - Politico",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV0NlZGtyellYYXpBR2txcXVLOVNoWGtfbmd1RVRtbXYzU1ZqdUVrNDM2b1JBd01ZWmtnYW9XRFQyNnZyQUpLeDBkUGtIbFRVTXdaZEhtbDNoNzNKY194THdtaEctTDZaZ2dja0F1dWlIQ2VpTHhjSG1TMDVadU0yVXlXNTBrT0oxR0pJY2RNNEE?oc=5",
     "news_image": "",
     "news_source": "Politico",
     "news_age": "5h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "olympic"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -24628,17 +24621,16 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.83,
+    "news_score": 1.22,
     "news_title": "🚨 Jenni Hermoso bids farewell to Mexico - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLVg4LVQ0Q0tTNVI5MVFTMlNyTzhBbWRhMF9FRHp3VW9SX3RacUhSaVpKMlpnRHNRVHgxSDFKOVVxeFFtYm5MZXZTOXhrN05WaXJFekdCdWxjOC11QlFmek1vcjJ0WXNjRUl3VF9qZ3hWZURQTFhtZWhqcmQtWkM4dXpwMXM1bnBDd1JB?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "35m ago",
+    "news_age": "37m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 22
@@ -28630,16 +28622,14 @@
     "union_rate": 89.3,
     "union_rate_rank": null,
     "fifa_ranking_rank": 108,
-    "news_score": 0.53,
+    "news_score": 0.55,
     "news_title": "North Korea's Kim, Russia's Putin reaffirm ties on Korean Liberation Day - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN2p1U3RrcWFybldKeEVnT0l6SjJKWlpCUGlNVXlCd0RseFdVR2g2VVc4emNtTGdfU1Jub1kxQTZpaVZRN3duQUhVYldjaUhVLWhJS2RqcnR5akVlUDF1TlFERHlGUTVvMWxzQWNkQzNDY05vdjBxLThaSmlTX2dzdlVpdkJ6dUlnOVRPZUxOM29Oc0MtWmVHQzE2NzNNdUlnalFDcXhvRURNRFliUWd1RUwzRkw?oc=5",
     "news_image": "",
     "news_source": "Reuters",
     "news_age": "3h ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -32926,16 +32916,14 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.6,
+    "news_score": 0.59,
     "news_title": "North Korea's Kim, Russia's Putin reaffirm ties on Korean Liberation Day - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN2p1U3RrcWFybldKeEVnT0l6SjJKWlpCUGlNVXlCd0RseFdVR2g2VVc4emNtTGdfU1Jub1kxQTZpaVZRN3duQUhVYldjaUhVLWhJS2RqcnR5akVlUDF1TlFERHlGUTVvMWxzQWNkQzNDY05vdjBxLThaSmlTX2dzdlVpdkJ6dUlnOVRPZUxOM29Oc0MtWmVHQzE2NzNNdUlnalFDcXhvRURNRFliUWd1RUwzRkw?oc=5",
     "news_image": "",
     "news_source": "Reuters",
     "news_age": "3h ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "olympic"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -36507,7 +36495,9 @@
     "news_source": "Reuters",
     "news_age": "11h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -38586,12 +38576,12 @@
     "refugees_rank": null,
     "union_rate": 85.0,
     "union_rate_rank": null,
-    "news_score": 0.25,
+    "news_score": 0.42,
     "news_title": "Nebraska Volleyball Sophomores Ogbechie, Adriano Give Back During Service Trip to Tanzania - Hurrdat Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE96OV9qVGNGNzgyT3VnSlBRM29CMTh6bXpOdjV2b3RtbTJvOUM1OEhMNnB0eDA2eDdyN2w3Sm1hSThZZ2tqbEswMl9qVQ?oc=5",
     "news_image": "",
     "news_source": "Hurrdat Sports",
-    "news_age": "41m ago",
+    "news_age": "43m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -41014,7 +41004,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.09,
+    "news_score": 0.07,
     "news_title": "Did life emerge on Earth twice? Scientists find surprising evidence - RBC-Ukraine",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWGFyQjA1MGl2eHZ6aUdCLVVkMTRpVmlUR2I0ZmFkZU0yUzhyT2tyd3kwU3c5UnNmQUN4Rno2am83ZkVZdXFvUWZRNzUtSzJwVHBfbjJoTWg4WWktVWV6NUVzV2l4eWEtN0JQcFlLTHRiQzA3MHNiVkphSzkwWV80UzRnSnU5eXVibHZUX1EyZklnbjA?oc=5",
     "news_image": "",
