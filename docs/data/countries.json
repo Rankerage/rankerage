@@ -2548,7 +2548,8 @@
     "news_source": "en.baochinhphu.vn",
     "news_age": "74h ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_w"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -7971,13 +7972,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.25,
+    "news_score": 1.38,
     "news_title": "India vs China in FIH Women's Hockey World Cup: Live scores, updates, commentary, news - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaEptand2dEoxYUNQNzl1TExkczl0NGlRMUJtV3FvbkFvUlpRWHBEY0V4Z2NNSXBNNlVyNjg1TkQ4UVl2Z1VqOEZ0cy1FQ1dtU3ktS2JyY3pRSnBPV2loc1BEZHlNYzV2Z0VZRjY0ZVJYWEhDX1hjeE8wMHlTeWdEZmFJb3pTNGVyMHVDdlpmdnFYOU1YTkp2VjBLZnhiekJzLWlrSU9RdkdadkNfMVVVWnRuNzh5dlFTRGFXUmFqQlBnZVFnYk9rWldtQnVDYnktX1lyS2tDOHNPRnFVQzJfYw?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "75m ago",
+    "news_age": "77m ago",
     "news_columns": [
+      "olympic",
       "fifa_w"
     ],
     "bottom50_wealth": 6.4,
@@ -12938,11 +12940,11 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.12,
-    "news_title": "Timberwolves’ Rudy Gobert-Led Offseason Workout in France Goes Viral - sports.yahoo.com",
+    "news_score": 0.19,
+    "news_title": "Timberwolves’ Rudy Gobert-Led Offseason Workout in France Goes Viral - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMjRyT1J3Mzg3QUhDTm5DUC12RF8tZXR4a2ZEaGhTRmpoUDJjVEM0LU9zRlhCb2RfcnlSRUxvR2dTaG9ONXMtZlBvR0ZNaFY1SzduOU13TXhNTjJjVDV1UGk5TjhSWUxYWG9tZ2pCcGpUWVdtTFRRNzR5ZUFEMjZGdGlfNEZFV1RsWXZaWnp4MGE?oc=5",
     "news_image": "",
-    "news_source": "sports.yahoo.com",
+    "news_source": "Yahoo Sports",
     "news_age": "4h ago",
     "news_columns": [
       "ai_research",
@@ -16705,13 +16707,14 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 1.76,
+    "news_score": 1.94,
     "news_title": "India vs China in FIH Women's Hockey World Cup: Live scores, updates, commentary, news - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaEptand2dEoxYUNQNzl1TExkczl0NGlRMUJtV3FvbkFvUlpRWHBEY0V4Z2NNSXBNNlVyNjg1TkQ4UVl2Z1VqOEZ0cy1FQ1dtU3ktS2JyY3pRSnBPV2loc1BEZHlNYzV2Z0VZRjY0ZVJYWEhDX1hjeE8wMHlTeWdEZmFJb3pTNGVyMHVDdlpmdnFYOU1YTkp2VjBLZnhiekJzLWlrSU9RdkdadkNfMVVVWnRuNzh5dlFTRGFXUmFqQlBnZVFnYk9rWldtQnVDYnktX1lyS2tDOHNPRnFVQzJfYw?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "75m ago",
+    "news_age": "77m ago",
     "news_columns": [
+      "olympic",
       "fifa_w"
     ],
     "bottom50_wealth": 4.8,
@@ -17276,19 +17279,18 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.83,
-    "news_title": "Iran responds after Trump teases Strait of Hormuz becoming US territory - Fox News",
-    "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54c0ZsdG9YaHJmMkxlQl9pdW5fR0RnM3BWc0ExaVFBNkxxU2daSGZjRk12QXhaV3ctRDRYRlF3SjMtOE5LelVzMUZ0cFYyNXJKWncySnhBdGpLd0tNY2tTUHYyVEMxdGw2d2RqOFJEeTFMdUVDQjhkZEtjQjdoTlk?oc=5",
+    "news_score": 0.52,
+    "news_title": "Iran War Commander Visits the USS Abraham Lincoln - WSJ",
+    "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejlQWFJQWEM2WlFEVFJvbGQ2N1ppUUVGTXM5ZmFMaGNITzluTTNuQ1QwcUlVQkZvRHRjLUJNbkJxcE4tZTNEVGllUHVhTnVyaDE1d2U3bm5hSnZmVFBFOXIwRk9pSEdwQVpxU2pzdWluOFpnVElvaVEyV3BlTDJ6STl5cnNETmtWcFpnZlVrMmU1QmZ1Z1pTUkRaLVU?oc=5",
     "news_image": "",
-    "news_source": "Fox News",
-    "news_age": "3h ago",
+    "news_source": "WSJ",
+    "news_age": "5h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "coffee"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": null
   },
@@ -32924,19 +32926,14 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.6,
+    "news_score": 0.75,
     "news_title": "Fired Ukrainian defense minister says Ukraine is in a \"technological war\" with Russia - Yahoo",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXp2RTBLei1vdXdKOHI1aGVPUHZlNDZrWm9PVkNSdWpBSF9hdVhlRTZCTktMVFdlYm1DNGFtNHFURkZleEZ1UE85eVJDekhScUlaTE1tcU1TTzVVbWk2WDlUN0pUa01TTnBjTFY3NUtYRmxhM0owZHpfdEJFVVdPMDdlV2hxazh6OTJfdTU0VVJELWczRE5JX0VB?oc=5",
     "news_image": "",
     "news_source": "Yahoo",
-    "news_age": "117m ago",
+    "news_age": "119m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "olympic"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -41019,19 +41016,14 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.63,
+    "news_score": 0.78,
     "news_title": "Fired Ukrainian defense minister says Ukraine is in a \"technological war\" with Russia - Yahoo",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXp2RTBLei1vdXdKOHI1aGVPUHZlNDZrWm9PVkNSdWpBSF9hdVhlRTZCTktMVFdlYm1DNGFtNHFURkZleEZ1UE85eVJDekhScUlaTE1tcU1TTzVVbWk2WDlUN0pUa01TTnBjTFY3NUtYRmxhM0owZHpfdEJFVVdPMDdlV2hxazh6OTJfdTU0VVJELWczRE5JX0VB?oc=5",
     "news_image": "",
     "news_source": "Yahoo",
-    "news_age": "117m ago",
+    "news_age": "119m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -42679,7 +42671,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTXlXNzlhM3pIMG1qRmZlbjVfc09uYnZmQkRaNzNSbDZSUzRKMGpMX01xdTQwSThteUwzc2NyUGhCSnp4b25Kd2hLWDFhSWV1b3J1RFM5a1hrUWVqZjNqa0lBVHd5TE96ZUZtTVBZWnRkcWhOd3hSWEQ4XzUtTzZYUDl3VDJsblAzdnJ3c1FaSUg4TEJaeVFsWWlSQ0Q3NURJYWfSAaIBQVVfeXFMUEpUT1lPUS1fQWR3VDNzNTJKbEQ5V3l6NjJPNEtIY0hNdmx3R3R0UGkzRURidWVRbXR6QXM0djdncU9WWDRoN1c2RXVrc012dklRVC1uWXFsSTVQU3BMNEhDVEQ3Y0FRSk55TW45N2pOLW1xR3h2dGxmXzZDUEphRUc0WG1RTXZnSmo2YXIzMWp5YThCMUN4N2FLb1ZsWTgzaDZR?oc=5",
     "news_image": "",
     "news_source": "Qazinform",
-    "news_age": "33h ago",
+    "news_age": "34h ago",
     "news_columns": [
       "olympic"
     ],
