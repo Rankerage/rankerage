@@ -207,7 +207,7 @@
     "union_rate": 38.4,
     "union_rate_rank": null,
     "fifa_ranking_rank": 136,
-    "news_score": 0.53,
+    "news_score": 0.38,
     "news_title": "Concerns grow over increased global ties with Taliban in Afghanistan - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUcwZmlieHVTblctVUFxREhEWF84RHhHazFkR0hMMFJuaThzTHpKNVprZ1lFUExDSzRQZF8zNXVab1ZfX0w3cGJsZV9oRVE5UzJFQjQ1ckp1czB2X29SNXRMTGtkN3AwUUZLRDZscmkyUnNOM3N2UmtrbDhEczFPV2dldU9UNHV5MDhER1JZbUF0QUc4VWQ4bGV6NWRKUXBlQTluNEJB?oc=5",
     "news_image": "",
@@ -2549,7 +2549,7 @@
     "news_age": "71h ago",
     "news_columns": [
       "olympic",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -6909,14 +6909,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.34,
+    "news_score": 0.26,
     "news_title": "IFAF Flag Football World Championships 2026: Canada women secure first Olympic quota: \"It's a little girl's dream\" - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWhuUl9GWWFDQWtOczl1ZFdHaWp4OC1nS2hNNVBfSlQxOG9ubnk4Qkd4QTczbFlwRUNhTl9SaVJpMndabng2MTY3bHlyTEl3NjY0Ykl3UDl5X1JXS21rYkpnekJ3cXBFalZHZTgwUGhDbFVac0VtSkxPcUZxbk1USHpMczg5bHVUVTR6bUtvYXg4dWh3SEhBdnd2SEw3VWs?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
     "news_age": "6h ago",
     "news_columns": [
-      "basket"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket",
+      "olympic_gold",
+      "olympic_per_cap"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -12938,12 +12943,12 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.01,
-    "news_title": "India,France review expanding canvas of bilateral cooperation in science, technology & space | Akashvani News - Newsonair",
-    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTExHRzVKTC11ZHhmMUF6RmZrSWFqMVI0dHhYajQ0U1FTWlEzZ05jTjB2MmlvVEgtUDkzeDJiWG5ENERDTHBPR0g2MXdybUwyWEcyRDFadkp2VjBwRFUzV3kzMENmU3AyVGgwLTBrcDBSY0o4WTZjNmx5bVJyeWRidTcyU243UmdYNHc3WTNEZWNVcTdfOVRwRkhKREQ0dlFlRHFlV0tnSGxSUTRtc211MWlneXo?oc=5",
+    "news_score": 0.26,
+    "news_title": "Timberwolves’ Rudy Gobert-Led Offseason Workout in France Goes Viral - sports.yahoo.com",
+    "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMjRyT1J3Mzg3QUhDTm5DUC12RF8tZXR4a2ZEaGhTRmpoUDJjVEM0LU9zRlhCb2RfcnlSRUxvR2dTaG9ONXMtZlBvR0ZNaFY1SzduOU13TXhNTjJjVDV1UGk5TjhSWUxYWG9tZ2pCcGpUWVdtTFRRNzR5ZUFEMjZGdGlfNEZFV1RsWXZaWnp4MGE?oc=5",
     "news_image": "",
-    "news_source": "Newsonair",
-    "news_age": "64h ago",
+    "news_source": "sports.yahoo.com",
+    "news_age": "41m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -13462,12 +13467,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.7,
+    "news_score": 0.69,
     "news_title": "An Early Look at SEC Opponent: Georgia - sports.yahoo.com",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc0NwZ1dDLTQyVmt4WkluMmpSWGR2SEUtU1VVNkZpN3NfdDBlTkpidGE0djlnaGJfNncwSk5nNlVQWFBsOWE2ektiaXFxUnZjWTF6RXpFZGFTSV9Hb0Z3WnA0ak5wMXk5WGtPVDNmUVFGU3pfSk5uVEhyeDd1cU9xbUx1UEJEc00?oc=5",
     "news_image": "",
     "news_source": "sports.yahoo.com",
-    "news_age": "84m ago",
+    "news_age": "86m ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -13962,15 +13967,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.66,
+    "news_score": 0.72,
     "news_title": "Germany's Liebmann smashes 1500m world record - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMkVpUEJfaGJDY0pDZmp3RlAwV3VLclRPQU1oZEd6amhteHlESnQ2czVuY0ZQQnE4ajllQkdDR3FiYjNIY0hxczVhWXBoY1JtYkt2NG54QlVRWmdRMVBZeHRzekpBZzFxUlRhbFN6N3luWTFmbElsMWg4QU1vMjVqVm54dnRWY2hrUU05cUxUM2c?oc=5",
     "news_image": "",
     "news_source": "Reuters",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -14158,12 +14163,12 @@
     "union_rate": 60.4,
     "union_rate_rank": null,
     "fifa_w_rank": 50,
-    "news_score": 0.09,
+    "news_score": 0.11,
     "news_title": "Plans advanced for establishment of University of Science and Technology in Damongo – Haruna Iddrisu - Ghana News Agency",
     "news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcjhtY3hVSlhLZnJkUTE5dzRUSTBrT2pFdHZtdzJvcmRLdUxHSUpqT0ZQWG1qMHVVdXp0TU1FdDRqZlNrTy1BdEYwSTY4X2IxRHhsQ0h6VWxpVHYzXy0zYUt1WV9lTFZJNUdzeEd0dE1sQWhRNmdiRnlvMS1hX0NxUEFIV3JMd3Y2SldZLURHbG00a1N3UEYwZ0dGQXRMTDR5cUlBeXBVTkh6bzVyUGZDX3NUT29IX2tsNXJhQkQxVmkzMm1L?oc=5",
     "news_image": "",
     "news_source": "Ghana News Agency",
-    "news_age": "5h ago",
+    "news_age": "6h ago",
     "news_columns": [
       "edu",
       "literacy",
@@ -16700,7 +16705,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.05,
+    "news_score": 0.04,
     "news_title": "Hockey World Cup 2026: India beat Wales 3-1 in Pool D opener - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWjZyTGhFS1kzT0RvQnRKX1p3TUJiSENCTTdld3B2dGZ6WXF6VE1sUXJTNnBIVEtfMV9iT0JpR1Q1RWpKYnd4dWdaSDFESzB6Z2lBN3lzSkpsNEhGRjQ0UHBzYmxVc2VOLVJnUUt3YTlRWkNGQlVSMUs3bU5OT2tOellLWVVoWjd2MUNMc1dHc1pNQk12anZaZFYwNG5oQQ?oc=5",
     "news_image": "",
@@ -17010,12 +17015,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 0.64,
+    "news_score": 0.62,
     "news_title": "Rescuers search for survivors of powerful Indonesia earthquake - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yd09DeUZVMlpkZlF6bFQ5N3NNVDNaUWVFTURSN1RKZFlyM1U4cTRGalhYWGplN1d4b21mZkNoeHVwYUp3cGRTdXdvSnhqNUVUakZIcGdKYmVQdw?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -17276,12 +17281,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.05,
+    "news_score": 1.11,
     "news_title": "Iran War Commander Visits the USS Abraham Lincoln - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejlQWFJQWEM2WlFEVFJvbGQ2N1ppUUVGTXM5ZmFMaGNITzluTTNuQ1QwcUlVQkZvRHRjLUJNbkJxcE4tZTNEVGllUHVhTnVyaDE1d2U3bm5hSnZmVFBFOXIwRk9pSEdwQVpxU2pzdWluOFpnVElvaVEyV3BlTDJ6STl5cnNETmtWcFpnZlVrMmU1QmZ1Z1pTUkRaLVU?oc=5",
     "news_image": "",
     "news_source": "WSJ",
-    "news_age": "107m ago",
+    "news_age": "109m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -18452,7 +18457,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.34,
+    "news_score": 0.33,
     "news_title": "IFAF Flag Football World Championships 2026: Italy \"go to bed with a giant smile\" after securing men's quota to LA28 - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaldyN3pLQnFSWWdtRkNHVUVZWnVyQmtYVXhqd25GajFyeDYxWXJOQVlYZjk5bWZNaldud19kbjluYkYwWFJpSWt1dFRwUWFTLW00X241YVM5ZmNENFVaTWxwLUY1a2liTjhxNjlKSjVsRWNPQnRGNEdZaWNranBUTndKYW9QUXlJbjRMNi1kNUt6MlBtYmZwM1NsVE1IZkZyX2VjcHEtN3NNYXllQmNuUVp3bHY?oc=5",
     "news_image": "",
@@ -18460,7 +18465,11 @@
     "news_age": "6h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket",
+      "olympic_gold",
+      "olympic_per_cap"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -19140,12 +19149,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.83,
+    "news_score": 1.11,
     "news_title": "Takaichi skips controversial shrine on 81st anniversary of Japan's World War II surrender - Politico",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV0NlZGtyellYYXpBR2txcXVLOVNoWGtfbmd1RVRtbXYzU1ZqdUVrNDM2b1JBd01ZWmtnYW9XRFQyNnZyQUpLeDBkUGtIbFRVTXdaZEhtbDNoNzNKY194THdtaEctTDZaZ2dja0F1dWlIQ2VpTHhjSG1TMDVadU0yVXlXNTBrT0oxR0pJY2RNNEE?oc=5",
     "news_image": "",
     "news_source": "Politico",
-    "news_age": "47m ago",
+    "news_age": "49m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -27610,10 +27619,10 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 85,
     "news_score": 0.01,
-    "news_title": "Viet Nam, New Zealand can lift sci-tech, workforce training cooperation to new level: expert - Nhan Dan Online",
+    "news_title": "Viet Nam, New Zealand can lift sci-tech, workforce training cooperation to new level: expert - en.nhandan.vn",
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRnlVcm5oU2VzQnNXcUxxaFQ0NnJBLXVldWJNZDlmbWpTbDhxUWVQS1VxUzZSOEZPS3d4Vm5naTRvVU54NURaazNKMWVjSkptVWp2WlFJZ181Q0phbENEYzJrZXlpOTdJck9RN29HREF2d2tSZ2E5VTgyQVlXaG1YcDNtekZOajh5SWgwbWZ6SWNFcFpTTXU0dVFvWEl0a1hXc01hSkhzbWFXNS1KblY3ZVFHSWdHOTZnaHJYLUdod3hDTnNlR2c?oc=5",
     "news_image": "",
-    "news_source": "Nhan Dan Online",
+    "news_source": "en.nhandan.vn",
     "news_age": "36h ago",
     "news_columns": [
       "ai_research",
@@ -36494,15 +36503,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.22,
+    "news_score": 0.16,
     "news_title": "Spain's Perez and Italian Fiorini set women's race walk world records - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRUxRRV9nQ3I2Rk5Sa1dCU2Z5SUNwX3NmOE5LUU9zUC1DZUt1UnUyRVNuamlGTGZVcUV0NnR2OElnWUJETnUwRHhzLTBzYUlVaWdWazJ1alZzRXlWbXg1bUhuYVhVMHItWWJNZG1JVTJ4ck55VjJLYlVxOVFGcGhoelg0WlFHeXBrY3o5SFBSNks0NmlkNFF3RlJVY1RlRm1hcEZrN05vUQ?oc=5",
     "news_image": "",
     "news_source": "Reuters",
     "news_age": "6h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "gender"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -41015,7 +41028,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWGFyQjA1MGl2eHZ6aUdCLVVkMTRpVmlUR2I0ZmFkZU0yUzhyT2tyd3kwU3c5UnNmQUN4Rno2am83ZkVZdXFvUWZRNzUtSzJwVHBfbjJoTWg4WWktVWV6NUVzV2l4eWEtN0JQcFlLTHRiQzA3MHNiVkphSzkwWV80UzRnSnU5eXVibHZUX1EyZklnbjA?oc=5",
     "news_image": "",
     "news_source": "RBC-Ukraine",
-    "news_age": "6h ago",
+    "news_age": "7h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
