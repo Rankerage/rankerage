@@ -2549,7 +2549,7 @@
     "news_age": "4h ago",
     "news_columns": [
       "olympic",
-      "fifa_ranking"
+      "fifa_w"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -5131,14 +5131,9 @@
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeEl6U1RsX2F2XzJtaFd2cHMyWDhqMzhBdnI1QTJnTnNmV3BST19jNlRHTTNOejFuVTdlRTNzOGdFTG1MRTF1VE1hSnR2eGZOQnhoQWIzOG1DcWxpbkZXTkhSbDQwMmV1OGh5ay0tclhVcnBUUVh4cG1jZk1VeDV6eTgxdjdxMnFnelY1cEZSQVNTOE9nVE1HR2FSM1NvSzE2aVVPYWhzVmlSNlF4OGNBWEEtd0NYWXpBZm9weFl5U1RuaWhCelE?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "57m ago",
+    "news_age": "59m ago",
     "news_columns": [
-      "democracy",
-      "approval",
-      "press",
-      "election_days",
-      "ai_research",
-      "internet_pct"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -6911,7 +6906,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.61,
+    "news_score": 0.59,
     "news_title": "Canada men and Mexico women earn last two Olympic quotas at 2026 IFAF Flag Football World Championships - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS0hRNFdpY0E0aUp0eGZqNGhDSnYwQzFpcWdUWmlCdVJXcXZJOHhxczVTUXA2UkY4RjZOV29oNHFxTjFudTVjTDdJMnNZdGRXZnlFOVdWQTdYV29oOG9XamVjbWhJOGJqXzAxX2YzN2EyYjZxQUZzZWFQUFhMUkxXbEw4d0NZQVVtOVhpRUQ0Z3FITDFUakNpQVhsaFE2M0VESlBvNTNRUWhlcDM4Z09MZkpJSDV5dEdXXzRVYllpUVB5NGJ1VEt5QW8wb0Q?oc=5",
     "news_image": "",
@@ -6919,7 +6914,7 @@
     "news_age": "3h ago",
     "news_columns": [
       "olympic",
-      "fifa_ranking"
+      "fifa_w"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -12949,7 +12944,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTExHRzVKTC11ZHhmMUF6RmZrSWFqMVI0dHhYajQ0U1FTWlEzZ05jTjB2MmlvVEgtUDkzeDJiWG5ENERDTHBPR0g2MXdybUwyWEcyRDFadkp2VjBwRFUzV3kzMENmU3AyVGgwLTBrcDBSY0o4WTZjNmx5bVJyeWRidTcyU243UmdYNHc3WTNEZWNVcTdfOVRwRkhKREQ0dlFlRHFlV0tnSGxSUTRtc211MWlneXo?oc=5",
     "news_image": "",
     "news_source": "News On AIR",
-    "news_age": "80h ago",
+    "news_age": "81h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -17283,19 +17278,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.77,
+    "news_score": 1.08,
     "news_title": "Former Joint Chiefs chair: Truth about issues on USS Abraham Lincoln ‘somewhere in the middle’ - The Hill",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ3RaQ3hQYTZhbU5sRkJDRGQ4OEpvY1hrNHVXb2VFS196OFBHd1pIN3p0N1dMa3FFZUNtc1pUeHJ0dkZvNXVjd0t3ZWllR3RFcE9wRUl5aE5NLVF1dVVWVkRwMjhTZjB0NmhaVF9Kc3R6RE8tMkpaWjJLVXBCZ3NCclNoT3FhVk16Q0ZPctIBkgFBVV95cUxPa2ZLaGpJRUJ6WkZydGp0dUFNaUZFTUlXWjFob1FSdnJIWUdRRXloMm5scFFORlZMa1hhQUZtNDdjNGdtN1Nwb0trWnNPbzF2WlZMNUptbFpfQXpHdnNOTF9kcTNoNkRCTmZoREZtdG42NWdfNm01N25WWFJMQ0JfYk1LNVRnZDRjVTJuTE4teFVRQQ?oc=5",
     "news_image": "",
     "news_source": "The Hill",
     "news_age": "2h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -18017,7 +18007,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.08,
+    "news_score": 0.06,
     "news_title": "Iran wages economic war in hopes of outlasting U.S. and Israel - washingtonpost.com",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2ZCVmJ4amt6UTBvQ05kcDBFWnNzb1N6QldHQ3RSWVZ0NUdzemNtaTJGaTlzM1N5dVR0djFiVV9XUGNSc1JCR2RnczNYeTUxMW5WZU5aMmJLMVVqcElmVHpibHdWMm9xOFlLWGlhY2NlQUV5cDVVcTRWZHJaNGxjaXVR?oc=5",
     "news_image": "",
@@ -18460,12 +18450,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.87,
+    "news_score": 0.88,
     "news_title": "Coppa Italia Live: Follow Sunday’s First Round fixtures and results - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbHBfQ0R2Z2dURlR0OFp4a2h5cEpxMkkzQ0VjOURjS0RrYlBBTmxTNm9KN3hrd0ZTRjFIRkoyekl5cTdfeDQ4dEdUNkdTRXpLUmpLNVdkMFgxcHZJaEc1VmYweTZPNkVIMmFnT1MzQlE1bWpySGhpaUJSZWJXUWNHRGdNYVFJZw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "100m ago",
+    "news_age": "102m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -19148,18 +19138,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.5,
+    "news_score": 0.65,
     "news_title": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities? - aljazeera.com",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTEdDNlFVanJPMVl0SGhYbG9FX1UzMXg4NUpLUmEyc05QSkJEX0FWWnpsTzdmLTNRNkh4WnlBeDh2MWpGNTE3SkJKV0hqeC0wWmp6bnhnSVVIT0FSbXFjNHdnRGNDYXJwV0ZIRHBDZWh2Vm1nbFBMNXFFOXo5YzM2VHBKMW1GWDh4VWtXZl92TlVIa3Z0MzRrZTh2aVZtbDFZczJsVy0tdVhHTWPSAbABQVVfeXFMTmRDUkRVTndjVV9UMEo3SzZqYUo4eTN5NllXeGw2OGs5TjFQVkp5cVVXbDI3eTBGYnNYU2Ric0ZZakNBMkNSYU92VG5xZnVJSTVXb0xZZnMySTJWUy1VMl8wbWw1MGs5dnY2YXZMWDJnMC1JdFQ1V2twYUlrYjZOZEF6LUJTUnRnN3JiRFJ3bXJBcl9NRzZna21OOUVoUDRvaVg3TzVkSjFPMjF4T05wSDk?oc=5",
     "news_image": "",
     "news_source": "aljazeera.com",
     "news_age": "2h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -24639,15 +24625,19 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.61,
+    "news_score": 0.44,
     "news_title": "Canada men and Mexico women earn last two Olympic quotas at 2026 IFAF Flag Football World Championships - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS0hRNFdpY0E0aUp0eGZqNGhDSnYwQzFpcWdUWmlCdVJXcXZJOHhxczVTUXA2UkY4RjZOV29oNHFxTjFudTVjTDdJMnNZdGRXZnlFOVdWQTdYV29oOG9XamVjbWhJOGJqXzAxX2YzN2EyYjZxQUZzZWFQUFhMUkxXbEw4d0NZQVVtOVhpRUQ0Z3FITDFUakNpQVhsaFE2M0VESlBvNTNRUWhlcDM4Z09MZkpJSDV5dEdXXzRVYllpUVB5NGJ1VEt5QW8wb0Q?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
     "news_age": "3h ago",
     "news_columns": [
+      "fifa_ranking",
+      "fifa_w",
       "olympic",
-      "fifa_ranking"
+      "basket",
+      "olympic_gold",
+      "olympic_per_cap"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 22
@@ -31744,12 +31734,12 @@
     "refugees_rank": null,
     "union_rate": 77.8,
     "union_rate_rank": null,
-    "news_score": 0.2,
+    "news_score": 0.34,
     "news_title": "Cristiano Ronaldo: Legendary Portugal forward suggests he will retire at the end of the season - Sky Sports",
     "news_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaUJjaE91RFpSNEpkTEFySm1mU0hSU3V4SFFYUVFYTjlmYm5LQ1JUem1QaldZVzFtUE1lcG91NXZJUEZFUWZuNDFfUUFzck12bWZzX3BuN2s0alFBRG9VWmt3d2M2ZWdPZ0JHY2piZ2VTb3VVVTFnWUQ2dElDRG0tOERXWGZ1S3pVZ0ZGTmE4UVJsZjRkdkUwT1ZoMzZwNWt3RmQ2ZDFVYmw5UGVpTGQxTkt2TW1aTXJ5UjMyaDFmSV9VUlllbGxGTXJrdWYyNGtodEkwd0RuSThIYkNyV2p1ajN3?oc=5",
     "news_image": "",
     "news_source": "Sky Sports",
-    "news_age": "88m ago",
+    "news_age": "90m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -32935,7 +32925,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.88,
+    "news_score": 0.7,
     "news_title": "British drones used in Ukrainian attacks deep inside Russia for first time, says report - The Independent",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRmZZdTZyQU9NWW9qaE1YMTJFUmxzZkYzWDlFRl9qbjlsaDJyODMxMnRsaDFkRzl3S2JPcGtEcnlBXzFsVVR2SW40R0Z2amZNS2VPZHg1VFZyZ0FaV05Yd1JXYVVFVXVDYlBQc25KUXphQ2V4MkVmYS03S05GTWJoSFFvTXdUX2VNZzI4MF82eVh5eFp0cXpyZEhrUEdiem8?oc=5",
     "news_image": "",
@@ -34108,7 +34098,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 100,
-    "news_score": 0.4,
+    "news_score": 0.39,
     "news_title": "Maker of ice cream sold at grocery stores nationwide files for bankruptcy as it appeals $23.8M judgment - Fox Business",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTVl3VmJaLXY1OERkNDBiRjZ0MlFtblRhMnhnc01oQ2lOM25mZVlzd2RVU0Vlc2VaalZESjBFT214QWFyZUVHUEhMUDBqbWZVQngtRXpKMWpVd0NkT1J3d3R5eGQ3Zk9WWFdXNl9uVmtaVHZYbFk1bTl1Um1wMUhqbWFWTVhoX2hIbi11SHdRZlpQUU5TVXpRc2xua1pqWlFjMmJoR1gxMGV2ZUdRYXczU0FBZ05OeFnSAbwBQVVfeXFMTWpEbmI4dnRFdTdFWV8zRWVCNXRaWUNKVTU4RTAyVFRUVjFyNmcwcFJPV01xaVdEQ25EU01pSUlCM0xfMDBBVVcyMS1HYXhYbXIxaU5SalZGaHd4enJjamRRSW0weFNrVW9fcDZYUmUtRkdkSFFyZ2tfMjd3eE1wbC0zUmxWaE5qSHdzRUY0ZFJfM0NLY05sNDFDLUxMMU5YZVg3SXZEclNnNllqcWprLUx0cmtwY2psZHBqU2o?oc=5",
     "news_image": "",
@@ -34773,12 +34763,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 51,
     "fifa_w_rank": 36,
-    "news_score": 0.62,
+    "news_score": 0.65,
     "news_title": "‘Slovenia Ruined Their Bond’ – NBA World Reacts to LeBron James, Austin Reaves Linkup Ahead of New Season - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPODVNbm9LcVAySVBPZ3N0TE1lWDRYWmlkd2JZbDdVczV2d0FiSEd6VndpTHVpVlpyck52dS1wdDltZDhrUGF6Z0lZS3NmbW9rSUVKQUdOUFo0LU5YLVFRMEQzZ0toMnZpZ1NqYzFHOWNwaTBRSlZ5RlFTMjlTM2YwVW5xcnJFQQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "71m ago",
+    "news_age": "73m ago",
     "news_columns": [
       "basket",
       "olympic"
@@ -41027,7 +41017,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.76,
+    "news_score": 0.63,
     "news_title": "British drones used in Ukrainian attacks deep inside Russia for first time, says report - The Independent",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRmZZdTZyQU9NWW9qaE1YMTJFUmxzZkYzWDlFRl9qbjlsaDJyODMxMnRsaDFkRzl3S2JPcGtEcnlBXzFsVVR2SW40R0Z2amZNS2VPZHg1VFZyZ0FaV05Yd1JXYVVFVXVDYlBQc25KUXphQ2V4MkVmYS03S05GTWJoSFFvTXdUX2VNZzI4MF82eVh5eFp0cXpyZEhrUEdiem8?oc=5",
     "news_image": "",
