@@ -5128,7 +5128,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.65,
+    "news_score": 0.73,
     "news_title": "Rhythmic Gymnastics 2026 World Championships in Frankfurt: Brazil make history as Darja Varfolomeev shines in apparatus finals - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd1NUWk9iSzVaSVJueVQ1OXdVRVp0THZsVnIwNjBfejkzMFV5SUZJZFk3UnBmY0VESlBtUng5dDNFcW9NS2VRLUZPRGY0QXBNcEphVnJSMXhITDJTTDFBcW5Nc3dodXpvbzRnYmVWQ3dDc05MMjlIVGl6R0plS1drRF9tSWFlT2oxbDRUZmh6czRadmlpeEtVazBGY0hydm8zNlpEMkZ3TTE4M2EtNHVVM2J5cklkSVQ0bHNSQkhNdnd1Tk9QUkE?oc=5",
     "news_image": "",
@@ -6913,15 +6913,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 2.15,
+    "news_score": 2.1,
     "news_title": "Canada men and Mexico women earn last two Olympic quotas at 2026 IFAF Flag Football World Championships: \"This is something I never imagined when I was young\" - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS0hRNFdpY0E0aUp0eGZqNGhDSnYwQzFpcWdUWmlCdVJXcXZJOHhxczVTUXA2UkY4RjZOV29oNHFxTjFudTVjTDdJMnNZdGRXZnlFOVdWQTdYV29oOG9XamVjbWhJOGJqXzAxX2YzN2EyYjZxQUZzZWFQUFhMUkxXbEw4d0NZQVVtOVhpRUQ0Z3FITDFUakNpQVhsaFE2M0VESlBvNTNRUWhlcDM4Z09MZkpJSDV5dEdXXzRVYllpUVB5NGJ1VEt5QW8wb0Q?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "olympic"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -10884,12 +10883,12 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.92,
+    "news_score": 0.93,
     "news_title": "Egypt implements 508 private-sector reforms in 2025: IDSC - Economy - Business - Ahram Online",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYlplVU41WVg2RF9vTmxiQ2pXV1BFSkNMQnlQVXNPbGlhMGtoTXhxVG5aV2RhbGlGVnlra0hDTW9qTW1YTnNBZkwxaWIzUWYtbUJSUXp1RnBNUGNuNmlQY1llOGZCeFZRMHhDY1pjMEMyb1BXcXNReTlYaFhmaUVZSHdYZ090TDVoNHlwNTljVkRGQUEyLWtOeFdhRXRidTVRNzVKVHk3eVVmdmV2aWpaM01oUQ?oc=5",
     "news_image": "",
     "news_source": "Ahram Online",
-    "news_age": "83m ago",
+    "news_age": "85m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -13985,8 +13984,7 @@
     "news_age": "20h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16715,15 +16713,19 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.39,
+    "news_score": 0.29,
     "news_title": "Women’s Hockey World Cup 2026: India hold China to 2-2 draw in opener - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzBjcVZILS1fUDVLNXJCWlFDZjlqeUtkWEFDdG11S2d0OURlMUcyZGxLeWkxaUVoUlozN2dBUHdzR0ZYbjdjQmptTlNseDBicTBlYXoxSmxUaWo1Tmk3ZVpEMTNoTERrVlVVNDlYVXlXbUV0cF9adE1KbWFiQTBRTDVtMkYyWVpyOWtOMzVNcG5xZDZ6eDBvR1NnUjh3VHV2?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
     "news_age": "5h ago",
     "news_columns": [
+      "fifa_ranking",
+      "fifa_w",
       "olympic",
-      "fifa_ranking"
+      "basket",
+      "olympic_gold",
+      "olympic_per_cap"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -18461,7 +18463,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.0,
+    "news_score": 0.17,
     "news_title": "Coppa Italia Live: Follow Sunday’s First Round fixtures and results - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbHBfQ0R2Z2dURlR0OFp4a2h5cEpxMkkzQ0VjOURjS0RrYlBBTmxTNm9KN3hrd0ZTRjFIRkoyekl5cTdfeDQ4dEdUNkdTRXpLUmpLNVdkMFgxcHZJaEc1VmYweTZPNkVIMmFnT1MzQlE1bWpySGhpaUJSZWJXUWNHRGdNYVFJZw?oc=5",
     "news_image": "",
@@ -24640,15 +24642,14 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.88,
+    "news_score": 0.91,
     "news_title": "Canada men and Mexico women earn last two Olympic quotas at 2026 IFAF Flag Football World Championships: \"This is something I never imagined when I was young\" - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS0hRNFdpY0E0aUp0eGZqNGhDSnYwQzFpcWdUWmlCdVJXcXZJOHhxczVTUXA2UkY4RjZOV29oNHFxTjFudTVjTDdJMnNZdGRXZnlFOVdWQTdYV29oOG9XamVjbWhJOGJqXzAxX2YzN2EyYjZxQUZzZWFQUFhMUkxXbEw4d0NZQVVtOVhpRUQ0Z3FITDFUakNpQVhsaFE2M0VESlBvNTNRUWhlcDM4Z09MZkpJSDV5dEdXXzRVYllpUVB5NGJ1VEt5QW8wb0Q?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "olympic"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 22
@@ -32936,19 +32937,18 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.11,
-    "news_title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW9mTFNZNmhNT3Rucy1OdzIyUzZxYlZVMk1oY2liVkNobXMtYXJPTUI2MFZfYWt3QkJwTVhaNnlEbzY2M0I4NWZtVFRyLVpwX3JQdUZXOVlkZVZXNThuQmRXMjFsOFN2QWRnX3ZCNk1DRlUyQWZIdUNrM0IwWGFRdHhIWHQ?oc=5",
+    "news_score": 0.1,
+    "news_title": "Ukrainian drone attack on Russia kills at least six, says Moscow - The Guardian",
+    "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZW93d2d5UGpOUm1INzFUdlpuNF92MkNaTFVDVjRaYWpFel9EQkNhN1N6VmFRV1ZGOWw1SnYydnpPMVVabGhMZ0FZRThrblNKY005RGc5UHNuNFVpUzY1UnRZeFg4VndlVk5QMlZ3NVlHMld6M29tRmx1aEVLdmdxRjBPWkNuS1VaNC1HYkctMFprZjZoVWZHUjU4a0xtcWxkWUZoYWRkanE?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "6h ago",
+    "news_source": "The Guardian",
+    "news_age": "7h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -36510,7 +36510,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.57,
+    "news_score": 0.56,
     "news_title": "What really happened in Ceuta? Why we may never find out - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qdHJVQ1F0S0hLN2hUTUdXdXdoUUxHdmVIOEVfUHB2VE1jMElCTzhxWGRDZElKM0l4LXFOV0R6eVJad1ZvUzdoMUtnT2RwdG1rS0hyNmdxbUZPb21VbzFDU2w3UkVsTVdtRmltNWxQNWxxOXNJWXc?oc=5",
     "news_image": "",
@@ -41025,19 +41025,19 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.05,
-    "news_title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW9mTFNZNmhNT3Rucy1OdzIyUzZxYlZVMk1oY2liVkNobXMtYXJPTUI2MFZfYWt3QkJwTVhaNnlEbzY2M0I4NWZtVFRyLVpwX3JQdUZXOVlkZVZXNThuQmRXMjFsOFN2QWRnX3ZCNk1DRlUyQWZIdUNrM0IwWGFRdHhIWHQ?oc=5",
+    "news_score": 0.04,
+    "news_title": "Did life emerge on Earth twice? Scientists find surprising evidence - RBC-Ukraine",
+    "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWGFyQjA1MGl2eHZ6aUdCLVVkMTRpVmlUR2I0ZmFkZU0yUzhyT2tyd3kwU3c5UnNmQUN4Rno2am83ZkVZdXFvUWZRNzUtSzJwVHBfbjJoTWg4WWktVWV6NUVzV2l4eWEtN0JQcFlLTHRiQzA3MHNiVkphSzkwWV80UzRnSnU5eXVibHZUX1EyZklnbjA?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "6h ago",
+    "news_source": "RBC-Ukraine",
+    "news_age": "25h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "car_density"
     ],
     "bottom50_wealth": null
   },
