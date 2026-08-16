@@ -1,47 +1,52 @@
 {
-  "last_updated": "2026-08-15T21:00:38Z",
+  "last_updated": "2026-08-16T21:00:52Z",
   "total_rankings": 136,
   "total_countries": 197,
   "version": "1.0",
   "update_frequency": "weekly",
-  "global_narrative": "Global sports and geopolitical tensions dominate headlines, with major events in football, swimming, and international conflicts shaping the news cycle.",
+  "global_narrative": "Global sports headlines are dominated by major championship events, transfer news, and Olympic qualification, with flag football making its Olympic debut and several world championships taking place.",
   "trending_stories": [
     {
-      "topic": "US-Iran Tensions",
+      "topic": "Flag Football Olympic Qualification",
       "entities": [
         "US",
-        "IR"
-      ],
-      "columns": [],
-      "weight": 0.9
-    },
-    {
-      "topic": "Swimming World Records",
-      "entities": [
-        "US",
-        "DE"
+        "CA",
+        "MX"
       ],
       "columns": [
         "olympic"
       ],
+      "weight": 0.9
+    },
+    {
+      "topic": "Rodri Transfer to Barcelona",
+      "entities": [
+        "ES",
+        "GB",
+        "BR"
+      ],
+      "columns": [
+        "fifa_ranking"
+      ],
       "weight": 0.8
     },
     {
-      "topic": "NFL Preseason and Injuries",
+      "topic": "World Championships in Various Sports",
       "entities": [
+        "DE",
+        "SE",
         "US"
       ],
-      "columns": [],
+      "columns": [
+        "olympic",
+        "fifa_ranking"
+      ],
       "weight": 0.7
     },
     {
-      "topic": "Football Transfers and Matches",
+      "topic": "Cristiano Ronaldo Retirement Hint",
       "entities": [
-        "FR",
-        "GB",
-        "DE",
-        "IT",
-        "ES"
+        "PT"
       ],
       "columns": [
         "fifa_ranking"
@@ -49,11 +54,13 @@
       "weight": 0.6
     },
     {
-      "topic": "Natural Disasters and Weather",
+      "topic": "NFL Preseason and Injuries",
       "entities": [
         "US"
       ],
-      "columns": [],
+      "columns": [
+        "fifa_ranking"
+      ],
       "weight": 0.5
     }
   ]
