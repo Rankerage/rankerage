@@ -2541,14 +2541,17 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.09,
-    "news_title": "Pallister hands Ledecky her first international 800 free loss - ESPN",
-    "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYXdtTzhvalVDb3lwS3FpOVlRcHFlaW50Z0FCWmI0TUFVVWtrMEJqQm51RDdHOGlmQlM4aTcxWGJoQnZ6cE1UU3FfVkdNSldzRkdJYTNwMEN3VE44RDF0aVhkSjZMdE5OVGR3WmFMMlNFdDlEWHdlX05aRkhZUlQySUwtbHMxd0g5cXlja2d0c2xNVllrWlR2ak9xa1lQUGpTa21RTEl2X2kzV3BMM2RFTnFpQkZNSWM?oc=5",
+    "news_score": 0.36,
+    "news_title": "Ireland lose to Australia on World Cup return - Yahoo Sports Canada",
+    "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdmdkcVRreDJlMWYwZDc2Zmstd1p1RzJUblVOR0djbm81cmptMDJha3g1N1VMcTVRbjZZMlE0WGR2STdwa1h6TDNTYmllOHNQSW9paUg5dElhZmdzNmEzYzB1YVQ1YnBYOHhpbWhibndSdUFCMVNKMEZWVFFuZ3FCblFUU3RSeDg?oc=5",
     "news_image": "",
-    "news_source": "ESPN",
-    "news_age": "8h ago",
+    "news_source": "Yahoo Sports Canada",
+    "news_age": "10m ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3308,11 +3311,11 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.37,
-    "news_title": "Govt’s debt outpacing revenue growth: Bangladesh Bank - The Daily Star",
+    "news_score": 0.36,
+    "news_title": "Govt’s debt outpacing revenue growth: Bangladesh Bank - thedailystar.net",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2VJMktNWVhONktXZVFwQUhyVmFIWmRjWnFlZG5iNVEyeFN1ZmtFV1hVRFpkWXp6V1RTOTZXSVg4S2R4dFpuWlNLMFZHay01UWROSmhjOGM5cXVPbnJMeXd3VGlsS2s2SE5XNFVIUHZTUVp1N3plZHpmSnZSMC1ZUVBsV2oxN0c3MExIRVFzaG5EdWZQLS1UaHQ4SG9oNzZXVlZsZXlvVXFzaDFVTTI4?oc=5",
     "news_image": "",
-    "news_source": "The Daily Star",
+    "news_source": "thedailystar.net",
     "news_age": "3h ago",
     "news_columns": [
       "gdp",
@@ -6910,14 +6913,17 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.0,
-    "news_title": "Look West: Jobs and Prosperity for a Stronger BC and Canada - Province of British Columbia - gov.bc.ca",
-    "news_url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1sb3l0N0g2Tm15TDdBc1VvMkpkdWl4QjM3ZlRndHFGd0VFXzh1VVdpYU9HdGtWbk9nTFlSWlZKMA?oc=5",
+    "news_score": 0.29,
+    "news_title": "Ireland lose to Australia on World Cup return - Yahoo Sports Canada",
+    "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdmdkcVRreDJlMWYwZDc2Zmstd1p1RzJUblVOR0djbm81cmptMDJha3g1N1VMcTVRbjZZMlE0WGR2STdwa1h6TDNTYmllOHNQSW9paUg5dElhZmdzNmEzYzB1YVQ1YnBYOHhpbWhibndSdUFCMVNKMEZWVFFuZ3FCblFUU3RSeDg?oc=5",
     "news_image": "",
-    "news_source": "gov.bc.ca",
-    "news_age": "125h ago",
+    "news_source": "Yahoo Sports Canada",
+    "news_age": "10m ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -12947,12 +12953,7 @@
     "news_source": "News On AIR",
     "news_age": "76h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "space_launch"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13468,12 +13469,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.71,
-    "news_title": "Georgia. “I’m really happy,” he stated in a recent … - sports.yahoo.com",
+    "news_score": 0.78,
+    "news_title": "Georgia. “I’m really happy,” he stated in a recent … - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObVREdmUzS1JnQlp1ZXEwUm1aRGF3aDEwODBjeHlXTXBMbDVadkxDN01HZUUyMmxoVWp1a1Qta3NqOUZJWnY5cExUTHVGRl9ENF9QVlpRMl84TVJaSV94bUNPejBZWjNzTGgyYkYwMjBhenZIQzMtdzl1MVNiVEZJMUpRak4?oc=5",
     "news_image": "",
-    "news_source": "sports.yahoo.com",
-    "news_age": "20m ago",
+    "news_source": "Yahoo Sports",
+    "news_age": "22m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -17017,19 +17018,19 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 0.07,
-    "news_title": "Thousands evacuate after Indonesia quake kills 51, cuts roads - Reuters",
-    "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEJFQktERVZJaDU5NFZfV0ZKZWpwc0FzYzR1SUJYeFF4Z1U5SVQxenBacVFDM1lNdGNRTnhXSVFBQTlFZVpEaGlsX1J0MzY1cHN5bllZQ0hMNVlvcnAtRlFmYWRKYzZORnZibTluNWJkVk5sdExHQWduODdCcEZ1OXVGSXd0ZHFmTS00OWhPeVpxQ2lpYWZheUZKWmZFZWM4N0RGeEhOSlM4WXliOWNfY0NWZ0JuRENL?oc=5",
+    "news_score": 0.05,
+    "news_title": "World in Brief: Eastern Indonesia hit by earthquake; South Korea proposes Korean War talks - The Economist",
+    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU0NwY3A5M1ZMb2pYOW8zaElYR3JTMVBYQVE3RzdqclVxNFUzMGF2NDZ3emNMX1A5VlBIRFVIV3F1d0F1b3R0QWlzU3hrSnZiZlNjMkluOVg5bm5YRENIeEZrNmFzbklLRFVGN2p5eEFqTEQyUVJCdXM5S1A3RmdpYUdQU2VWRklBYUs4c3lsSUh5RGFUaXRJ?oc=5",
     "news_image": "",
-    "news_source": "Reuters",
-    "news_age": "9h ago",
+    "news_source": "The Economist",
+    "news_age": "13h ago",
     "news_columns": [
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "earthquake_count"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17283,19 +17284,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.45,
+    "news_score": 1.94,
     "news_title": "US top Middle East commander visits deployed aircraft carrier, and other Mideast news - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWnFRcW9HbzBnVEVnSk92am10b0F0NGx4RTJlcjRTY28xQVdwWWxkdGd5eXNMdmxWeEFRQ3BFZEN6bUF1WDVCQkUtTjlrTGdtenNWclIteG9CRTVZdzVNaUJ4Z2FPVE0zaTBEX0RIdlRWMG1ieHRYcWt0dXpWYllGTjRnT2cxVDZwS0FCNEFEZnpJa0c1VXpaTGw0eFJxc251RUVvUmJPVmltWWlJbHBaLUJwd1I?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "16m ago",
+    "news_age": "18m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -17760,15 +17756,17 @@
     "refugees_rank": null,
     "union_rate": 77.2,
     "union_rate_rank": null,
-    "news_score": 0.0,
-    "news_title": "Photos show rare solar eclipse in Yorkshire - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxRExHQVJkUF9yd0J6WlVpWWgxcGEtdm0tNG8wcWxta3NVUXFpdUp0R2dwdXdlQjVXYVVmRDkxNGNXOHRTS1AxLVRKcy1JbmM3eUhEa214cEpxdw?oc=5",
+    "news_score": 0.29,
+    "news_title": "Ireland lose to Australia on World Cup return - Yahoo Sports Canada",
+    "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdmdkcVRreDJlMWYwZDc2Zmstd1p1RzJUblVOR0djbm81cmptMDJha3g1N1VMcTVRbjZZMlE0WGR2STdwa1h6TDNTYmllOHNQSW9paUg5dElhZmdzNmEzYzB1YVQ1YnBYOHhpbWhibndSdUFCMVNKMEZWVFFuZ3FCblFUU3RSeDg?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "9h ago",
+    "news_source": "Yahoo Sports Canada",
+    "news_age": "10m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 2.7,
     "bottom50_wealth_rank": 20
@@ -19155,9 +19153,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbmlXUk5rUGxFR3UyeDg3UUtXY3ZiWklHN29kMDk4akxGRHpaTHRtcUdNSVNVbl9rVVJhNGY1cURNNVNIME5CUHNrSVlWSkoxa3p4MGtLbkJfM1VLMGNaUFlVdVlkNUdYSzFhVDFHbmE2WGUyX3ppdFRLQ18xVF9NRmd1VGdweENBS0V2WjVOc2dpVW8?oc=5",
     "news_image": "",
     "news_source": "The Japan Times",
-    "news_age": "4h ago",
+    "news_age": "5h ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -20338,7 +20337,7 @@
     "refugees_rank": null,
     "union_rate": 75.1,
     "union_rate_rank": null,
-    "news_score": 0.48,
+    "news_score": 0.51,
     "news_title": "Iran Says Pilots Missing After a Brazen Bombing Run Are Prisoners in Qatar - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNGhfVll2bXdiSkpCbEhfN0Fwb0hSV3IycHN5Qk9nVzVqSjVNLWpFNFdqeUVsbDVfQ3BHN09GbFdFWGJ6bGpjMUxJSEtLTE1GTkNGaW1EeXU5Q2dSY1A5TFlmZmJqcGtLelpBTF9tbzB6NkNaOVdFZ2lWeGFDcVJMZnh6TXhOSGp2WXFpbFBvcWNBZFNTU0JSaDdLZFRER29Mb0dOMjNVUTNRaFVfYmc?oc=5",
     "news_image": "",
@@ -21135,10 +21134,10 @@
     "fifa_ranking_rank": 105,
     "fifa_w_rank": 87,
     "news_score": 0.3,
-    "news_title": "Lebanon senior Kinley Young previews 2026 season - sports.yahoo.com",
+    "news_title": "Lebanon senior Kinley Young previews 2026 season - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMzB2OUI5YXNJcmdxVjJ2emRJa0V0QmtrRERaeVRqckRPa21XVXM5MTdRZTJTWEZTcXV3MzgtVEFLYWpSQWR2NXduMUdvSElnOF9yb05TSjBhbWp1YWIzamhpS3VkOFRHS2FDZnZoSmxQZjN1RnljZmdPWC1BNzRhSXBFeHRoUnJmdW1iX0hB?oc=5",
     "news_image": "",
-    "news_source": "sports.yahoo.com",
+    "news_source": "Yahoo Sports",
     "news_age": "4h ago",
     "news_columns": [
       "car_density",
@@ -22099,13 +22098,13 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 125,
     "fifa_w_rank": 68,
-    "news_score": 0.78,
+    "news_score": 0.77,
     "bottom50_wealth": null,
-    "news_title": "Arizona men’s basketball begins upcoming season’s journey in Lithuania - sports.yahoo.com",
+    "news_title": "Arizona men’s basketball begins upcoming season’s journey in Lithuania - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYUFIR2U0cHY3Q1JEZDlyVkk0WnMzQUQ2SjB6V3h3c2E0N1dicEEtRFhzbUtlWFRzdTdZaV9oSEo2UmNtLU84SkFfd2F1QW9YRTlrVXoyRnR4c3QxU2RYN09iNGQ0RmIzY2dFVzlyUk1HLWN1RzUyaDNTUjhWZ2IwYUg3NmdNa2piUWs4TEMxOEc?oc=5",
     "news_image": "",
-    "news_source": "sports.yahoo.com",
-    "news_age": "61m ago",
+    "news_source": "Yahoo Sports",
+    "news_age": "63m ago",
     "news_columns": [
       "basket",
       "olympic"
@@ -27617,7 +27616,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRnlVcm5oU2VzQnNXcUxxaFQ0NnJBLXVldWJNZDlmbWpTbDhxUWVQS1VxUzZSOEZPS3d4Vm5naTRvVU54NURaazNKMWVjSkptVWp2WlFJZ181Q0phbENEYzJrZXlpOTdJck9RN29HREF2d2tSZ2E5VTgyQVlXaG1YcDNtekZOajh5SWgwbWZ6SWNFcFpTTXU0dVFvWEl0a1hXc01hSkhzbWFXNS1KblY3ZVFHSWdHOTZnaHJYLUdod3hDTnNlR2c?oc=5",
     "news_image": "",
     "news_source": "Nhan Dan Online",
-    "news_age": "48h ago",
+    "news_age": "49h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -32132,18 +32131,14 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.49,
+    "news_score": 0.68,
     "news_title": "Iran Says Pilots Missing After a Brazen Bombing Run Are Prisoners in Qatar - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNGhfVll2bXdiSkpCbEhfN0Fwb0hSV3IycHN5Qk9nVzVqSjVNLWpFNFdqeUVsbDVfQ3BHN09GbFdFWGJ6bGpjMUxJSEtLTE1GTkNGaW1EeXU5Q2dSY1A5TFlmZmJqcGtLelpBTF9tbzB6NkNaOVdFZ2lWeGFDcVJMZnh6TXhOSGp2WXFpbFBvcWNBZFNTU0JSaDdLZFRER29Mb0dOMjNVUTNRaFVfYmc?oc=5",
     "news_image": "",
     "news_source": "WSJ",
     "news_age": "2h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -32931,18 +32926,14 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.86,
+    "news_score": 1.7,
     "news_title": "‘Massive’ Ukrainian drone attack on Russia kills at least six, says Moscow - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZW93d2d5UGpOUm1INzFUdlpuNF92MkNaTFVDVjRaYWpFel9EQkNhN1N6VmFRV1ZGOWw1SnYydnpPMVVabGhMZ0FZRThrblNKY005RGc5UHNuNFVpUzY1UnRZeFg4VndlVk5QMlZ3NVlHMld6M29tRmx1aEVLdmdxRjBPWkNuS1VaNC1HYkctMFprZjZoVWZHUjU4a0xtcWxkWUZoYWRkanE?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "29m ago",
+    "news_age": "31m ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -34104,12 +34095,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 100,
-    "news_score": 0.0,
+    "news_score": 0.02,
     "news_title": "JD Vance and the Trump team keep moving the goalposts on Iran - Yahoo News Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ickpLdjhvTVpVZGFSYl83bFFlb2traEtha0VUcndYdzB2ZVBNQ0hMRGNmWmxJWkNoTmVacDk3VW5VWHQ1OG4xS2JVejRDM05tVGJsY0tRNkJ1bURZNExuVGZqMno2SW45QVMxRDcwVklBdkU?oc=5",
     "news_image": "",
     "news_source": "Yahoo News Singapore",
-    "news_age": "8h ago",
+    "news_age": "9h ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -36513,12 +36504,7 @@
     "news_source": "Reuters",
     "news_age": "19h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "gender"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -41025,18 +41011,14 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.94,
+    "news_score": 0.84,
     "news_title": "Ukraine presses drone attacks on Moscow and Russian logistics - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMjAxQzVIak1JTWlZdVdja2plRmd0MzczR1EzRGd4QnlQdUhpcHBwU2c2b2lvTjh0aGJPajUzYVVMaC1WR2dYV21ONzdHbkgydWREb1RBclFhV0ZvMDdjLXdCOXRzbjN6UGMweWxpOFpxS1ExSmd2ZHdoLTZnVGJTVWV1MVE?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
     "news_age": "2h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
