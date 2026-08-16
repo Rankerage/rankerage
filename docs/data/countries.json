@@ -5128,7 +5128,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.56,
+    "news_score": 0.55,
     "news_title": "Brazil's Lula launches reelection bid, aims to win back workers to his Workers Party - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeEl6U1RsX2F2XzJtaFd2cHMyWDhqMzhBdnI1QTJnTnNmV3BST19jNlRHTTNOejFuVTdlRTNzOGdFTG1MRTF1VE1hSnR2eGZOQnhoQWIzOG1DcWxpbkZXTkhSbDQwMmV1OGh5ay0tclhVcnBUUVh4cG1jZk1VeDV6eTgxdjdxMnFnelY1cEZSQVNTOE9nVE1HR2FSM1NvSzE2aVVPYWhzVmlSNlF4OGNBWEEtd0NYWXpBZm9weFl5U1RuaWhCelE?oc=5",
     "news_image": "",
@@ -6913,15 +6913,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.97,
+    "news_score": 1.95,
     "news_title": "Flag football: Los Angeles 2028 Olympics spots decided as USA and Canada claim men's and women's world titles - Sky Sports",
     "news_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTHgtWnAyREdzeS0yQjdORGRpcGRGaFJOQ1V1N1NxelBSYlVBTHY3a19pUWhTTklPOEdnYjBhdE1HX0FmUHMwM1JRTzJsTmdoVnFKQ3E0S19DSHB3UmZHMDZuRGlGSkc3NHFWdHFZMnNEc0xpR1ItUGxGUW5pWC1xckZyRUdlYTVwSS1Vekc3d3ZOQlJQeHF0NVhoSHJJeklSQ3p1WWk1dGpnbkpMVEZrWlhEYzA3R2ptRnQ1WU52V203ZEhrSEh4RDZIeXFHU1JGbWR1U2ZreW94VUUxY3hRa192VWFBbENKc3pYXw?oc=5",
     "news_image": "",
     "news_source": "Sky Sports",
-    "news_age": "116m ago",
+    "news_age": "118m ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "olympic"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -7972,19 +7971,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.65,
+    "news_score": 0.91,
     "news_title": "USA Youth Women Open Play At U18 World Championships With 14-2 Victory Against China - USA Water Polo",
     "news_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTEs1eXRYcDR5LXNVTFVtM18tNHlhSUotdHhEWEoyVjF5em9pYzZoc0lGRFNqay0wOFZtc1owd3dwOTZqUGU4T3JJSE8zZnRSdG5CMTlkU1pYRWNVWEttdE84Z3FmRFd4VU5zSWVkRUlLenhSN0FNX01ycnJNODA1RFpMaTREUXlRRUxJTjdvaWNnNEVFVjBiWVF4amNoeUdnM3dYMDVXT09XbEJ0c0xJZjZrM01tdzc1XzBTaDBNZFJrUmlvVXF2QzhmY3ZZdG5xQXRCM1hrdGY5SjJ5dmZKUk9BUDV2UUp1bkRNSw?oc=5",
     "news_image": "",
     "news_source": "USA Water Polo",
     "news_age": "2h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "gender"
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10884,7 +10878,7 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.59,
+    "news_score": 0.52,
     "news_title": "Egypt implements 508 private-sector reforms in 2025: IDSC - Economy - Business - Ahram Online",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYlplVU41WVg2RF9vTmxiQ2pXV1BFSkNMQnlQVXNPbGlhMGtoTXhxVG5aV2RhbGlGVnlra0hDTW9qTW1YTnNBZkwxaWIzUWYtbUJSUXp1RnBNUGNuNmlQY1llOGZCeFZRMHhDY1pjMEMyb1BXcXNReTlYaFhmaUVZSHdYZ090TDVoNHlwNTljVkRGQUEyLWtOeFdhRXRidTVRNzVKVHk3eVVmdmV2aWpaM01oUQ?oc=5",
     "news_image": "",
@@ -12953,8 +12947,12 @@
     "news_source": "News On AIR",
     "news_age": "85h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "space_launch"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13980,7 +13978,6 @@
     "news_source": "USA Gymnastics",
     "news_age": "3h ago",
     "news_columns": [
-      "olympic",
       "fifa_ranking"
     ],
     "bottom50_wealth": 2.5,
@@ -16710,7 +16707,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.18,
+    "news_score": 0.14,
     "news_title": "Women’s Hockey World Cup 2026: India hold China to 2-2 draw in opener - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzBjcVZILS1fUDVLNXJCWlFDZjlqeUtkWEFDdG11S2d0OURlMUcyZGxLeWkxaUVoUlozN2dBUHdzR0ZYbjdjQmptTlNseDBicTBlYXoxSmxUaWo1Tmk3ZVpEMTNoTERrVlVVNDlYVXlXbUV0cF9adE1KbWFiQTBRTDVtMkYyWVpyOWtOMzVNcG5xZDZ6eDBvR1NnUjh3VHV2?oc=5",
     "news_image": "",
@@ -17286,19 +17283,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.54,
+    "news_score": 0.65,
     "news_title": "Top Admiral Praises Sailors but Concedes Hardships After Visit to U.S.S. Lincoln - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR0tOV2pQTFhJRmJNekpVdmxYOEdRYVd2bDBWM2dDVktacHNJQ2h6cENVWS1XNVZIaHRoeXZGc242cXQyNjZiNmFoNFBSX3dRZkZGMkF5TUhYNm5OS3Zyb042dWlsb2JOdnByb3lRQThCUkFoWjlyX0NxYXB3aEJwRkFR?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "38m ago",
+    "news_age": "40m ago",
     "news_columns": [
-      "suicide",
-      "happiness",
-      "mental_health",
-      "health",
-      "ai_research",
-      "internet_pct"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "suicide"
     ],
     "bottom50_wealth": null
   },
@@ -18020,12 +18017,12 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.73,
+    "news_score": 0.6,
     "news_title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6blA1SkQxWFV2b2ZxTDlMRkNyWWFTUnpRZnpIbE1WUUJwUV84bjYwUWkyWHJMOXFub3BCQ3ZmalE0dHlUd21xMXRSRUpwZUdqZkh3ZDVQa3lSZw?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "79m ago",
+    "news_age": "81m ago",
     "news_columns": [
       "cricket",
       "olympic",
@@ -32945,19 +32942,14 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.59,
+    "news_score": 0.55,
     "news_title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW9mTFNZNmhNT3Rucy1OdzIyUzZxYlZVMk1oY2liVkNobXMtYXJPTUI2MFZfYWt3QkJwTVhaNnlEbzY2M0I4NWZtVFRyLVpwX3JQdUZXOVlkZVZXNThuQmRXMjFsOFN2QWRnX3ZCNk1DRlUyQWZIdUNrM0IwWGFRdHhIWHQ?oc=5",
     "news_image": "",
     "news_source": "AP News",
     "news_age": "3h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "olympic"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -36518,15 +36510,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.59,
+    "news_score": 0.8,
     "news_title": "Man City accept Barcelona bid for Spain midfielder Rodri, say reports - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1NhU0kyRXpreVQzZWs0VjRqWVh3NFRkT0ZQVnEzaXVqQ3BCZGRqNkFoR2kyNjdadWFSREktZjFPNDlFR0VJeFM3NUlSTVhMZloweTJJNVpYOWJ4eXB0UEJKaGFvRlI0elBCWVI0SjFGTjdZMkhKZGFYWks1dFhDaTJCRU54VGl3SDB6dTFIT19Qd1ZjOWl6SlJYV3Ywdmx6MUotLXNWU2dOV2J6cmVuMVdBcHg?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "55m ago",
+    "news_age": "57m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -41033,18 +41024,14 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 1.38,
+    "news_score": 1.3,
     "news_title": "Could millions of planets form around black holes? Scientists have an answer - RBC-Ukraine",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2RrX1Nfbjh5VjMxVDYxbmhiQXFQWkVhS1VLemFzYm00RWNKbExQdUZpM2l2dlI0VlRoeHBZbkswWmd0M3AtaWFyOEtSYlJFbWdJLVk5allkSXFzWTdRYU5oZG5SenczOVdJWVM1RlBRMV9TUzBMa2RsZ1ZoR0U2ZVQxUXE4cmFyMDJwUTNudUNzN0ZVOEE?oc=5",
     "news_image": "",
     "news_source": "RBC-Ukraine",
-    "news_age": "62m ago",
+    "news_age": "64m ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -42288,17 +42275,16 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.29,
+    "news_score": 1.32,
     "news_title": "U.S. Clinches Bronze and Coleman Individual Fourth at FEI World Eventing Championship - United States Eventing Association (USEA)",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb3k0VHdJaFV6Qmx4bzYtQVAteHJxZnhzUUNzaDZKT2RzV2M0ZHlMbm9nc2VzRllfcnZtamFyckJoSXdjNnBhVHFwb3hEbXctQ0xSQVItdkZGc2I1SFJwSDBReWZlR1FSNnhFZWJDR2dTMDFOUXZJOWNmX3Ywa1RyOEwyOWZkUjh4U0JtQTEwQkhtMmw1SUVVY19YUl9aSXdvVnUzdmhfNnFxdFBrMVg3OW5mOGV2LW5tdTF5aUFTYVM?oc=5",
     "news_image": "",
     "news_source": "United States Eventing Association (USEA)",
-    "news_age": "17m ago",
+    "news_age": "19m ago",
     "news_columns": [
       "olympic",
-      "fifa_ranking",
       "basket",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
