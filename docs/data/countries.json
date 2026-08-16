@@ -2546,7 +2546,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.05,
+    "news_score": 0.04,
     "news_title": "JOINT STATEMENT ON STRENGTHENING SCIENCE, TECHNOLOGY AND INNOVATION CONNECTIVITY BETWEEN VIET NAM AND AUSTRALIA - en.baochinhphu.vn",
     "news_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQN0plX3lKMmtJR0JPMEVvQ0txYW1HYVpvaHFHVXhVc1QwUlUycFhLdi1fT1JDakZPUkhNSzhfR1FZRDMzai1LQ1p1MF8xNUw1NG1oWlc4cjZrM2hFN09LNjd6X3JpQ3MyUkxLZThfQ1ZQai1iajlQV21MWk10Z0h4cEpXUjlaSDRuUlg5TnpVY3BPbWM3ek5adWVTWWZtNmVDNWpRNG9oTEF1S1NrUDZLaXpkUndSV0NyRGNBMkMxWU1XbXpMOXRGNWFVcWVZVklYZzdyLTN0SVF4MTBlaFFOYldIcW9DRHFhdUxueEFXOC0?oc=5",
     "news_image": "",
@@ -3056,7 +3056,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY2VzSDU4Sk1mdHU5dWh4LU9FZUNQSjNwcDQ3VGdsYjRtSmw2MGtNakd0Sm95SDNOdFhtMW1UTVV3YUN5SHJSMERGQjZRbnA1LVJZNGZrdkNzM25lRndmcV9POGx0aV9JSVJlYl9nZXB1YVVGODcxRVNtcE5tS2F4OVRONjczTndKTHdEZC1RT29Yc2kwU3RfRkRNakhyazdsM1N5dDZmVVRtWHJWOUQ4N0hn?oc=5",
     "news_image": "",
     "news_source": "Gulf Daily News (Bahrain)",
-    "news_age": "75m ago",
+    "news_age": "77m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -5555,12 +5555,12 @@
     "refugees_rank": null,
     "union_rate": 73.2,
     "union_rate_rank": null,
-    "news_score": 0.76,
+    "news_score": 0.75,
     "news_title": "Former Toronto Raptors Center Ventures Overseas to Bulgaria - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORlk0U25KbXhzSDVfcXlQMnlWUUcyNkhqYlNlQXJCSTNjbjVtMjF0QUxFNEJrUXhUWnV6eTVQZ0tpS3hXc1lIVUl6OWRJbHNBRlN3TGZVTklNWTFUSTM1akRPRlA3N0RCdEdlcmEyMC1nYU1qUzM0QzZhNEdfTU8yS2lHaFdCTzg4UFh4THUxUkg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "66m ago",
+    "news_age": "68m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -6918,15 +6918,17 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.91,
+    "news_score": 1.03,
     "news_title": "Canada men and Mexico women earn last two Olympic quotas at 2026 IFAF Flag Football World Championships: \"This is something I never imagined when I was young\" - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS0hRNFdpY0E0aUp0eGZqNGhDSnYwQzFpcWdUWmlCdVJXcXZJOHhxczVTUXA2UkY4RjZOV29oNHFxTjFudTVjTDdJMnNZdGRXZnlFOVdWQTdYV29oOG9XamVjbWhJOGJqXzAxX2YzN2EyYjZxQUZzZWFQUFhMUkxXbEw4d0NZQVVtOVhpRUQ0Z3FITDFUakNpQVhsaFE2M0VESlBvNTNRUWhlcDM4Z09MZkpJSDV5dEdXXzRVYllpUVB5NGJ1VEt5QW8wb0Q?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
     "news_age": "5h ago",
     "news_columns": [
+      "basket",
+      "fifa_ranking",
       "olympic",
-      "fifa_ranking"
+      "fifa_w"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -12956,7 +12958,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTExHRzVKTC11ZHhmMUF6RmZrSWFqMVI0dHhYajQ0U1FTWlEzZ05jTjB2MmlvVEgtUDkzeDJiWG5ENERDTHBPR0g2MXdybUwyWEcyRDFadkp2VjBwRFUzV3kzMENmU3AyVGgwLTBrcDBSY0o4WTZjNmx5bVJyeWRidTcyU243UmdYNHc3WTNEZWNVcTdfOVRwRkhKREQ0dlFlRHFlV0tnSGxSUTRtc211MWlneXo?oc=5",
     "news_image": "",
     "news_source": "News On AIR",
-    "news_age": "86h ago",
+    "news_age": "87h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -13978,16 +13980,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.3,
+    "news_score": 0.25,
     "news_title": "Chu, Keys strong in finals to conclude Rhythmic Worlds in Germany - USA Gymnastics",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ0p5ZTN4ZU9FOFN0MU5weW9obGI0S2hlc1ctZmwzSk9peENmVTZzTG44a3BNeHhYZmw0MDFFYmFWRy1FU2RHVmprWmZZQ1VwZ24zcVpnVHhJRmdVcUhsMy1pLU8zemNsSk1Lek5LdkI4WmJGekxyVkZON1ZVM2p3bW1IQ3ZtXzdXRHpqUw?oc=5",
     "news_image": "",
     "news_source": "USA Gymnastics",
     "news_age": "5h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "olympic",
+      "fifa_w"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -17026,7 +17027,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 0.39,
+    "news_score": 0.4,
     "news_title": "Rescuers in Indonesia recover 6 more bodies in earthquake aftermath, raising death toll to 53 - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekM5VXhLY1NEVEZnWUFWdzdpd3VnekF5UUkzdzQxSDFLWnJpbHlzN2ZQU2hwTDRVcWthLTJMWmNWUjVQdXRyejZwNllFMm1TNHFSZ05DQjBVQXc3Z01Tc3BiX29TVHVwNlhfakI5eHl5UTZmUm82VGtaR3o2eF9UODl3RHZQTHFwQ2RxdjJqLTJoaHVJSUFSdTBQV3VIdw?oc=5",
     "news_image": "",
@@ -17292,12 +17293,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.97,
+    "news_score": 1.99,
     "news_title": "Trump orders Pentagon to scale back joint exercises with South Korea - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb3RPcGlIdXQ3RU5USnlMN0tyQUxyT2c4NW1zekhhV0xubm9tTmhHLWE0c2RxTFdNWXJueVF4TXA5ODJDNFRhQTdCQllnaU51cTlCc0pqaHZNbmxIbnhxR01MNVZEOWdtaU90cWZjUU9RYlBITDBhMWdiNllIcGFoMHJXQWdlN0lQdWZ5dVVNT00wR0px?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "37m ago",
+    "news_age": "39m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -17773,7 +17774,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUlhwSmtWeDBMOF9LcW5VUng5TDg3aXFMYnRTOHR4TzNSczVzNXM4di0wV1h6YS1YMWpfekJqOF9OSGpNWUwwbEt2U1ZtZUZ4TnJlNkZkVXVtNWFwNnlRMGFwVmxWSU0wOTZqVm5LT1hwTThBZVYzNTRJelg4N0tsMkdB?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "71m ago",
+    "news_age": "73m ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -18023,7 +18024,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.5,
+    "news_score": 0.35,
     "news_title": "Iran wages economic war in hopes of outlasting U.S. and Israel - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2ZCVmJ4amt6UTBvQ05kcDBFWnNzb1N6QldHQ3RSWVZ0NUdzemNtaTJGaTlzM1N5dVR0djFiVV9XUGNSc1JCR2RnczNYeTUxMW5WZU5aMmJLMVVqcElmVHpibHdWMm9xOFlLWGlhY2NlQUV5cDVVcTRWZHJaNGxjaXVR?oc=5",
     "news_image": "",
@@ -34786,7 +34787,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 51,
     "fifa_w_rank": 36,
-    "news_score": 0.13,
+    "news_score": 0.12,
     "news_title": "‘Slovenia Ruined Their Bond’ – NBA World Reacts to LeBron James, Austin Reaves Linkup Ahead of New Season - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPODVNbm9LcVAySVBPZ3N0TE1lWDRYWmlkd2JZbDdVczV2d0FiSEd6VndpTHVpVlpyck52dS1wdDltZDhrUGF6Z0lZS3NmbW9rSUVKQUdOUFo0LU5YLVFRMEQzZ0toMnZpZ1NqYzFHOWNwaTBRSlZ5RlFTMjlTM2YwVW5xcnJFQQ?oc=5",
     "news_image": "",
@@ -35945,12 +35946,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.86,
+    "news_score": 1.2,
     "news_title": "Trump orders Pentagon to scale back joint exercises with South Korea - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb3RPcGlIdXQ3RU5USnlMN0tyQUxyT2c4NW1zekhhV0xubm9tTmhHLWE0c2RxTFdNWXJueVF4TXA5ODJDNFRhQTdCQllnaU51cTlCc0pqaHZNbmxIbnhxR01MNVZEOWdtaU90cWZjUU9RYlBITDBhMWdiNllIcGFoMHJXQWdlN0lQdWZ5dVVNT00wR0px?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "37m ago",
+    "news_age": "39m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -36520,12 +36521,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.39,
+    "news_score": 1.38,
     "news_title": "Spain beat Ireland in five-goal thriller at World Cup - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa01FZHR5bk43bXFZeXRvTUNYN19MSHRWWGM4SzRrVUNSX1c4VWtBX2dfZWtfVUhOS0s3bDVGMjZkbGlKMkZtN25ZSlRoZ2dDdll0ZnNXRm5uRlZwakpJOGN3RnkwOUVYQlVsc2FtN2RBRVNmbkxzdFNRbC1oYmFqNHZ6Yw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "99m ago",
+    "news_age": "101m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -41035,7 +41036,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.5,
+    "news_score": 0.42,
     "news_title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW9mTFNZNmhNT3Rucy1OdzIyUzZxYlZVMk1oY2liVkNobXMtYXJPTUI2MFZfYWt3QkJwTVhaNnlEbzY2M0I4NWZtVFRyLVpwX3JQdUZXOVlkZVZXNThuQmRXMjFsOFN2QWRnX3ZCNk1DRlUyQWZIdUNrM0IwWGFRdHhIWHQ?oc=5",
     "news_image": "",
@@ -42298,8 +42299,10 @@
     "news_source": "United States Eventing Association (USEA)",
     "news_age": "2h ago",
     "news_columns": [
+      "basket",
+      "fifa_ranking",
       "olympic",
-      "fifa_ranking"
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
