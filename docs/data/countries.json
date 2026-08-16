@@ -207,7 +207,7 @@
     "union_rate": 38.4,
     "union_rate_rank": null,
     "fifa_ranking_rank": 136,
-    "news_score": 0.37,
+    "news_score": 0.36,
     "news_title": "Concerns grow over increased global ties with Taliban in Afghanistan - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUcwZmlieHVTblctVUFxREhEWF84RHhHazFkR0hMMFJuaThzTHpKNVprZ1lFUExDSzRQZF8zNXVab1ZfX0w3cGJsZV9oRVE5UzJFQjQ1ckp1czB2X29SNXRMTGtkN3AwUUZLRDZscmkyUnNOM3N2UmtrbDhEczFPV2dldU9UNHV5MDhER1JZbUF0QUc4VWQ4bGV6NWRKUXBlQTluNEJB?oc=5",
     "news_image": "",
@@ -2549,7 +2549,8 @@
     "news_age": "71h ago",
     "news_columns": [
       "olympic",
-      "basket"
+      "fifa_w",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -7977,7 +7978,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORk1xOXhXdG54UHZna2lJVl9uOE1xTlJiVE8wNl8zVnN2SEdXajlyRnVUejdqRkJiTkNES2VXOVpUYW0zS3gtN1ZSTmR3VUd5aV9FV0ZoM0NsSGFDczdrYXRpRmJtZUVaTzBGc2lhb0tneVJMRlJqcGZBRlA1aUxJUDRKdVdTa0VnMHQwSkFLY2h1amZKNmtobk56cklWbTB6T3EzQ0todjA4WVQ2c1RUSE1RV3JiLThtNnQ5Z0g2Rmc4ZDNIaThkNzNIczlPZ3YwRHg4SkNKcjVZV0HSAdsBQVVfeXFMTm5DV3FJNkNDSDRKNjBNVTUzWjFrSDBqeUV5OFF6cXFYQ0dQbjQwZkRqU3cxTGxxRVdMSFB0em9qbUNmYlE3UEM5R05iLWlmNGVUNWh5MW1odzE5Vk9FT0VHZTdmSXYwaHRRaU9RZVFoZnFXaHlUOTZOZjdjUWpyVm5QSzlhM0F5U2Y4bXR4RFY1V3I1dTRSNTdQUUpQMUtyN0Z1LXRSWWg2WWhtOEF5c2t2eVlmeFRFb0tLYndNNlJYUTlTTGNKWmlabGRSbG40a2xzSHJkZnNGQVVR?oc=5",
     "news_image": "",
     "news_source": "South China Morning Post",
-    "news_age": "13h ago",
+    "news_age": "14h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -12943,12 +12944,12 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.63,
+    "news_score": 0.68,
     "news_title": "Timberwolves’ Rudy Gobert-Led Offseason Workout in France Goes Viral - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMjRyT1J3Mzg3QUhDTm5DUC12RF8tZXR4a2ZEaGhTRmpoUDJjVEM0LU9zRlhCb2RfcnlSRUxvR2dTaG9ONXMtZlBvR0ZNaFY1SzduOU13TXhNTjJjVDV1UGk5TjhSWUxYWG9tZ2pCcGpUWVdtTFRRNzR5ZUFEMjZGdGlfNEZFV1RsWXZaWnp4MGE?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "47m ago",
+    "news_age": "49m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -13467,12 +13468,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.68,
+    "news_score": 0.67,
     "news_title": "An Early Look at SEC Opponent: Georgia - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc0NwZ1dDLTQyVmt4WkluMmpSWGR2SEUtU1VVNkZpN3NfdDBlTkpidGE0djlnaGJfNncwSk5nNlVQWFBsOWE2ektiaXFxUnZjWTF6RXpFZGFTSV9Hb0Z3WnA0ak5wMXk5WGtPVDNmUVFGU3pfSk5uVEhyeDd1cU9xbUx1UEJEc00?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "92m ago",
+    "news_age": "94m ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -13967,7 +13968,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.63,
+    "news_score": 0.62,
     "news_title": "Germany's Liebmann smashes 1500m world record - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMkVpUEJfaGJDY0pDZmp3RlAwV3VLclRPQU1oZEd6amhteHlESnQ2czVuY0ZQQnE4ajllQkdDR3FiYjNIY0hxczVhWXBoY1JtYkt2NG54QlVRWmdRMVBZeHRzekpBZzFxUlRhbFN6N3luWTFmbElsMWg4QU1vMjVqVm54dnRWY2hrUU05cUxUM2c?oc=5",
     "news_image": "",
@@ -13975,7 +13976,8 @@
     "news_age": "2h ago",
     "news_columns": [
       "olympic",
-      "fifa_w"
+      "fifa_w",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -15769,7 +15771,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORk1xOXhXdG54UHZna2lJVl9uOE1xTlJiVE8wNl8zVnN2SEdXajlyRnVUejdqRkJiTkNES2VXOVpUYW0zS3gtN1ZSTmR3VUd5aV9FV0ZoM0NsSGFDczdrYXRpRmJtZUVaTzBGc2lhb0tneVJMRlJqcGZBRlA1aUxJUDRKdVdTa0VnMHQwSkFLY2h1amZKNmtobk56cklWbTB6T3EzQ0todjA4WVQ2c1RUSE1RV3JiLThtNnQ5Z0g2Rmc4ZDNIaThkNzNIczlPZ3YwRHg4SkNKcjVZV0HSAdsBQVVfeXFMTm5DV3FJNkNDSDRKNjBNVTUzWjFrSDBqeUV5OFF6cXFYQ0dQbjQwZkRqU3cxTGxxRVdMSFB0em9qbUNmYlE3UEM5R05iLWlmNGVUNWh5MW1odzE5Vk9FT0VHZTdmSXYwaHRRaU9RZVFoZnFXaHlUOTZOZjdjUWpyVm5QSzlhM0F5U2Y4bXR4RFY1V3I1dTRSNTdQUUpQMUtyN0Z1LXRSWWg2WWhtOEF5c2t2eVlmeFRFb0tLYndNNlJYUTlTTGNKWmlabGRSbG40a2xzSHJkZnNGQVVR?oc=5",
     "news_image": "",
     "news_source": "South China Morning Post",
-    "news_age": "13h ago",
+    "news_age": "14h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -17015,19 +17017,14 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 0.64,
+    "news_score": 0.69,
     "news_title": "Rescuers search for survivors of powerful Indonesia earthquake - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yd09DeUZVMlpkZlF6bFQ5N3NNVDNaUWVFTURSN1RKZFlyM1U4cTRGalhYWGplN1d4b21mZkNoeHVwYUp3cGRTdXdvSnhqNUVUakZIcGdKYmVQdw?oc=5",
     "news_image": "",
     "news_source": "BBC",
     "news_age": "3h ago",
     "news_columns": [
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "olympic"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17281,19 +17278,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.14,
+    "news_score": 1.29,
     "news_title": "Iran War Commander Visits the USS Abraham Lincoln - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejlQWFJQWEM2WlFEVFJvbGQ2N1ppUUVGTXM5ZmFMaGNITzluTTNuQ1QwcUlVQkZvRHRjLUJNbkJxcE4tZTNEVGllUHVhTnVyaDE1d2U3bm5hSnZmVFBFOXIwRk9pSEdwQVpxU2pzdWluOFpnVElvaVEyV3BlTDJ6STl5cnNETmtWcFpnZlVrMmU1QmZ1Z1pTUkRaLVU?oc=5",
     "news_image": "",
     "news_source": "WSJ",
-    "news_age": "115m ago",
+    "news_age": "117m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "olympic",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -18013,7 +18006,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.52,
+    "news_score": 0.51,
     "news_title": "Trump says he may declare Strait of Hormuz a US territory ‘after we finish defeating Iran’ - Fox News",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54c0ZsdG9YaHJmMkxlQl9pdW5fR0RnM3BWc0ExaVFBNkxxU2daSGZjRk12QXhaV3ctRDRYRlF3SjMtOE5LelVzMUZ0cFYyNXJKWncySnhBdGpLd0tNY2tTUHYyVEMxdGw2d2RqOFJEeTFMdUVDQjhkZEtjQjdoTlk?oc=5",
     "news_image": "",
@@ -19149,12 +19142,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.08,
+    "news_score": 1.11,
     "news_title": "Takaichi skips controversial shrine on 81st anniversary of Japan's World War II surrender - Politico",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV0NlZGtyellYYXpBR2txcXVLOVNoWGtfbmd1RVRtbXYzU1ZqdUVrNDM2b1JBd01ZWmtnYW9XRFQyNnZyQUpLeDBkUGtIbFRVTXdaZEhtbDNoNzNKY194THdtaEctTDZaZ2dja0F1dWlIQ2VpTHhjSG1TMDVadU0yVXlXNTBrT0oxR0pJY2RNNEE?oc=5",
     "news_image": "",
     "news_source": "Politico",
-    "news_age": "55m ago",
+    "news_age": "57m ago",
     "news_columns": [
       "olympic",
       "fifa_w"
@@ -21135,7 +21128,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 105,
     "fifa_w_rank": 87,
-    "news_score": 0.52,
+    "news_score": 0.51,
     "news_title": "Trump says he may declare Strait of Hormuz a US territory ‘after we finish defeating Iran’ - Fox News",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54c0ZsdG9YaHJmMkxlQl9pdW5fR0RnM3BWc0ExaVFBNkxxU2daSGZjRk12QXhaV3ctRDRYRlF3SjMtOE5LelVzMUZ0cFYyNXJKWncySnhBdGpLd0tNY2tTUHYyVEMxdGw2d2RqOFJEeTFMdUVDQjhkZEtjQjdoTlk?oc=5",
     "news_image": "",
@@ -31460,7 +31453,7 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.43,
+    "news_score": 0.42,
     "news_title": "CX80 World Masters Orienteering Championships celebrate masters’ passion in Poland - International Orienteering Federation",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORndMekk3Q3hZTEs1TmZGV1JvbnFtZWV3NVdZRS1kcXJHdU91SC01d0k4WGNXNUhSZWh3OUgxeWJ5T0QxeGlZUmhkVG5kM29aNjE0STZyUDI1V1ljN2lqYl9hRjZvYmtZTmQxdFFwSVFnZ0pUcVZSU3VnS29FMlBEbk1IVElSNEpWSHRsam02Z1JPWDJUcTRuZmFSbW1BMnZIa0pTOVh6SWV6Q2pmZ3c?oc=5",
     "news_image": "",
