@@ -3313,7 +3313,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0RobDA2R00tX05jNHMwamZwS2hycTk3WUo1MzJBeXZLYXo1SWRqRVcycjg1Nm8yZmM4dXh6cGNNYkdENk9uYl9BWjN5LURiRTFyWkVGWXJfWGVlOG1kRVV1WTVpek5OUWtrMy1pZVJfUzkwSWxCZ1dUZlFYSlhJa2lFV2JXald3Z1hzZ1J2TXBhbm5xZjV2MkhTZGE1Y3lsVlZNWDdfWGg3LXNrd2Rr?oc=5",
     "news_image": "",
     "news_source": "The Daily Star",
-    "news_age": "10h ago",
+    "news_age": "11h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -6908,7 +6908,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.15,
+    "news_score": 0.14,
     "news_title": "IFAF Flag Football World Championships 2026: Canada women secure first Olympic quota: \"It's a little girl's dream\" - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWhuUl9GWWFDQWtOczl1ZFdHaWp4OC1nS2hNNVBfSlQxOG9ubnk4Qkd4QTczbFlwRUNhTl9SaVJpMndabng2MTY3bHlyTEl3NjY0Ykl3UDl5X1JXS21rYkpnekJ3cXBFalZHZTgwUGhDbFVac0VtSkxPcUZxbk1USHpMczg5bHVUVTR6bUtvYXg4dWh3SEhBdnd2SEw3VWs?oc=5",
     "news_image": "",
@@ -8216,19 +8216,15 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.3,
+    "news_score": 0.36,
     "news_title": "How to beat an earthquake: The Colombian city where no one died - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbUFzcEpwaWV4WE5pY0JDYldIMFV5QnFjRnFqbF9BaFVUN2VtOU9TOVpiWEhRX3ZEQzVXVWdqenBoS1FibGVLR3FtUlJYdlk0R0FWRkhhbE11cWhGSHY1eEYxcTJSZXFMRUc1OXBMVXVMR1B2RFBLSHAtY0JMRlhpTUJ2OGgtNWNBVWxPa1dfb2dkUjB0bVFxVFZBRHlOUEJtYk5pSjZ5WQ?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "4h ago",
     "news_columns": [
-      "cricket",
-      "olympic",
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -12942,14 +12938,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.54,
+    "news_score": 0.64,
     "news_title": "Timberwolves’ Rudy Gobert-Led Offseason Workout in France Goes Viral - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMjRyT1J3Mzg3QUhDTm5DUC12RF8tZXR4a2ZEaGhTRmpoUDJjVEM0LU9zRlhCb2RfcnlSRUxvR2dTaG9ONXMtZlBvR0ZNaFY1SzduOU13TXhNTjJjVDV1UGk5TjhSWUxYWG9tZ2pCcGpUWVdtTFRRNzR5ZUFEMjZGdGlfNEZFV1RsWXZaWnp4MGE?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
     "news_age": "2h ago",
     "news_columns": [
-      "basket"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13965,14 +13962,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.3,
+    "news_score": 0.35,
     "news_title": "Germany's Liebmann smashes 1500m world record - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMkVpUEJfaGJDY0pDZmp3RlAwV3VLclRPQU1oZEd6amhteHlESnQ2czVuY0ZQQnE4ajllQkdDR3FiYjNIY0hxczVhWXBoY1JtYkt2NG54QlVRWmdRMVBZeHRzekpBZzFxUlRhbFN6N3luWTFmbElsMWg4QU1vMjVqVm54dnRWY2hrUU05cUxUM2c?oc=5",
     "news_image": "",
     "news_source": "Reuters",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -17013,10 +17011,10 @@
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
     "news_score": 0.34,
-    "news_title": "Rescuers search for survivors of powerful Indonesia earthquake - bbc.com",
+    "news_title": "Rescuers search for survivors of powerful Indonesia earthquake - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yd09DeUZVMlpkZlF6bFQ5N3NNVDNaUWVFTURSN1RKZFlyM1U4cTRGalhYWGplN1d4b21mZkNoeHVwYUp3cGRTdXdvSnhqNUVUakZIcGdKYmVQdw?oc=5",
     "news_image": "",
-    "news_source": "bbc.com",
+    "news_source": "BBC",
     "news_age": "4h ago",
     "news_columns": [
       "earthquake_count",
@@ -17278,14 +17276,18 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.7,
+    "news_score": 0.85,
     "news_title": "Iran War Commander Visits the USS Abraham Lincoln - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejlQWFJQWEM2WlFEVFJvbGQ2N1ppUUVGTXM5ZmFMaGNITzluTTNuQ1QwcUlVQkZvRHRjLUJNbkJxcE4tZTNEVGllUHVhTnVyaDE1d2U3bm5hSnZmVFBFOXIwRk9pSEdwQVpxU2pzdWluOFpnVElvaVEyV3BlTDJ6STl5cnNETmtWcFpnZlVrMmU1QmZ1Z1pTUkRaLVU?oc=5",
     "news_image": "",
     "news_source": "WSJ",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": null
   },
@@ -28627,12 +28629,12 @@
     "union_rate": 89.3,
     "union_rate_rank": null,
     "fifa_ranking_rank": 108,
-    "news_score": 0.98,
+    "news_score": 1.2,
     "news_title": "North Korea's Kim, Russia's Putin reaffirm ties on Korean Liberation Day - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN2p1U3RrcWFybldKeEVnT0l6SjJKWlpCUGlNVXlCd0RseFdVR2g2VVc4emNtTGdfU1Jub1kxQTZpaVZRN3duQUhVYldjaUhVLWhJS2RqcnR5akVlUDF1TlFERHlGUTVvMWxzQWNkQzNDY05vdjBxLThaSmlTX2dzdlVpdkJ6dUlnOVRPZUxOM29Oc0MtWmVHQzE2NzNNdUlnalFDcXhvRURNRFliUWd1RUwzRkw?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "23m ago",
+    "news_age": "25m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -31453,7 +31455,7 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.27,
+    "news_score": 0.26,
     "news_title": "CX80 World Masters Orienteering Championships celebrate masters’ passion in Poland - International Orienteering Federation",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORndMekk3Q3hZTEs1TmZGV1JvbnFtZWV3NVdZRS1kcXJHdU91SC01d0k4WGNXNUhSZWh3OUgxeWJ5T0QxeGlZUmhkVG5kM29aNjE0STZyUDI1V1ljN2lqYl9hRjZvYmtZTmQxdFFwSVFnZ0pUcVZSU3VnS29FMlBEbk1IVElSNEpWSHRsam02Z1JPWDJUcTRuZmFSbW1BMnZIa0pTOVh6SWV6Q2pmZ3c?oc=5",
     "news_image": "",
@@ -32921,12 +32923,12 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.98,
+    "news_score": 1.2,
     "news_title": "North Korea's Kim, Russia's Putin reaffirm ties on Korean Liberation Day - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN2p1U3RrcWFybldKeEVnT0l6SjJKWlpCUGlNVXlCd0RseFdVR2g2VVc4emNtTGdfU1Jub1kxQTZpaVZRN3duQUhVYldjaUhVLWhJS2RqcnR5akVlUDF1TlFERHlGUTVvMWxzQWNkQzNDY05vdjBxLThaSmlTX2dzdlVpdkJ6dUlnOVRPZUxOM29Oc0MtWmVHQzE2NzNNdUlnalFDcXhvRURNRFliUWd1RUwzRkw?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "23m ago",
+    "news_age": "25m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -42267,7 +42269,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.15,
+    "news_score": 0.2,
     "news_title": "Coleman Sixth and U.S. Team in Fifth After Cross-Country at FEI World Eventing Championship - United States Eventing Association (USEA)",
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdUZJZThiaTUxSXZQRUd3QVB0QktPT1hZZzhoM2FNTmNsT0dKaTJBbktUY29EZ2Y3MjJQMWNSYUtOYXVmNFBRd05MOG9HaWljTFQydkdVQll2bTNiTVhYNzNCZlltVEcxb1k3c2NSY2Zxbm5UQ0x6N3NGMTBLTkNLYTJYZTdmNjd3c3JDdE1ibWhNM3kzSF9GalJYVEMyanJaZlFqU0w3ZFNLbVgtSnBlNk1fTkRKMU5WRnk0Mkx6RmpXM0ZPcUJ4aw?oc=5",
     "news_image": "",
