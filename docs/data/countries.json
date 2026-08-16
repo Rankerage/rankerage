@@ -2541,7 +2541,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.14,
+    "news_score": 0.18,
     "news_title": "Pallister hands Ledecky her first international 800 free loss - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYXdtTzhvalVDb3lwS3FpOVlRcHFlaW50Z0FCWmI0TUFVVWtrMEJqQm51RDdHOGlmQlM4aTcxWGJoQnZ6cE1UU3FfVkdNSldzRkdJYTNwMEN3VE44RDF0aVhkSjZMdE5OVGR3WmFMMlNFdDlEWHdlX05aRkhZUlQySUwtbHMxd0g5cXlja2d0c2xNVllrWlR2ak9xa1lQUGpTa21RTEl2X2kzV3BMM2RFTnFpQkZNSWM?oc=5",
     "news_image": "",
@@ -13979,8 +13979,7 @@
     "news_source": "Reuters",
     "news_age": "13h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16707,7 +16706,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.1,
+    "news_score": 0.09,
     "news_title": "India face China in Women's Hockey World Cup; East Bengal in Durand Cup quarterfinal: Indian Sports LIVE, August 16 - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQejBFYnVfeWNrcU93SkEyRFNMODhTeWlHcG9qR0tyN2NHSXZJVUwtbnhkbGZ3Uy1GUVBSckExV2M4WVRkdF90SW1uOTV2RU9DSXRrMVdidXBCNkdrbnVEZHUwTGVLaHZ5VUNxLW9Xb1N4ZTJxSkt6WGJXVzN4SHRMby1VTWsxaFZwUUl0Ti0xZEU4bU5XTUNJMDBVWVNaMFlNVkxnMU51V19wZlZ6aXVxUjUyb20xUEFERmdtdkpTUFkxemdkYnlKeG9yMFVUVjZMeFRwUFJmYTF4UG5TRnlqdFJTRUs?oc=5",
     "news_image": "",
@@ -17024,12 +17023,12 @@
     "news_source": "bbc.com",
     "news_age": "7h ago",
     "news_columns": [
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "earthquake_count"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17283,15 +17282,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.02,
+    "news_score": 1.22,
     "news_title": "Iran-US war latest: Qatar denies detaining Iranian fighter pilots after downing jets - The Independent",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3lWQ2k3NWxXV1ZXWG5hUjhON0FzV0xGWmxmRC1YTEtFM0htWGZ3M3l4eDRGa244aTA2TGdrTmt5WDVtcFhQQ2pVZkNoNjU0eGZsQzlHOF92VmZoeTZ1dGk0NUdiazJJVTV5akNDbkRmRXZMOUs5NkJOaUk5ZDQ0VW1WNnUxRlZKZ3duRnFkbHlzZFZfcy1BdDFBeDZ4UlcxTmxEcWluWUJQWVA3aTQ5eGdYYzV1NlU?oc=5",
     "news_image": "",
     "news_source": "The Independent",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -32126,15 +32124,14 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.71,
+    "news_score": 0.86,
     "news_title": "Iran-US war latest: Qatar denies detaining Iranian fighter pilots after downing jets - The Independent",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3lWQ2k3NWxXV1ZXWG5hUjhON0FzV0xGWmxmRC1YTEtFM0htWGZ3M3l4eDRGa244aTA2TGdrTmt5WDVtcFhQQ2pVZkNoNjU0eGZsQzlHOF92VmZoeTZ1dGk0NUdiazJJVTV5akNDbkRmRXZMOUs5NkJOaUk5ZDQ0VW1WNnUxRlZKZ3duRnFkbHlzZFZfcy1BdDFBeDZ4UlcxTmxEcWluWUJQWVA3aTQ5eGdYYzV1NlU?oc=5",
     "news_image": "",
     "news_source": "The Independent",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -32570,7 +32567,7 @@
     "union_rate": 66.9,
     "union_rate_rank": null,
     "fifa_ranking_rank": 49,
-    "news_score": 0.12,
+    "news_score": 0.11,
     "news_title": "NATO fighter jet shoots down drone breaching Romania’s airspace - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JLUlfczhlN0l3WHFLYVJaZEZ5ZkY0VWl6T3ZycUpXYWxQdllxeEZtVzVWaFhDMEdnV2lHRlUwS0l2SFkxWVY3MXlfQWE4RWdzUV85WV8yajRrdHU1Y0l2clRmWklDTlp1SE9VeUwxbWFXcUVjWWdPUzBWWEZlY2s?oc=5",
     "news_image": "",
@@ -32922,19 +32919,14 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.23,
-    "news_title": "Ukraine attacks Russia with hundreds of drones in one of Kyiv’s largest aerial assaults of the conflict - CNN",
-    "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRmdSWEZ5NElROFpKM0FTcGFmQWhhTGluZmQxbkRpc1B4NmxsaUdkV2Z5a1BsejRueTlTRWxJZUhUWklTQkxWdy1WZnpJSzMtVmxLeDNSaXR3SXo4WkxRWWpfTXoxT0J4a09RSW1hNDIyblRJN19QRFRFSE1KRUdMMw?oc=5",
+    "news_score": 0.51,
+    "news_title": "Ukrainian drones strike Moscow region, killing one - Reuters",
+    "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUVQMGdnUEljNGo4eDhSbHFoSUtDZ2FVLU5hTHNmZXUwMFVDTTdneTR3S2owc1pSZjBtcHNtVkZKU25oLXlNbWxENHVhM2F1ZUtnUVVicEMzai1MMVgyZk5JLVJPRjRDUklLc21zcjJycVM5endpS2plUjRHS3FhMmFIa29MUlRjRzRpNDlTdnRLS0JuTUE?oc=5",
     "news_image": "",
-    "news_source": "CNN",
-    "news_age": "7h ago",
+    "news_source": "Reuters",
+    "news_age": "74m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "fifa_ranking"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -36505,8 +36497,7 @@
     "news_source": "Reuters",
     "news_age": "17h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -40061,8 +40052,7 @@
     "news_source": "Daily Sabah",
     "news_age": "43h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -41010,19 +41000,14 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.28,
-    "news_title": "Ukraine attacks Russia with hundreds of drones in one of Kyiv’s largest aerial assaults of the conflict - CNN",
-    "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRmdSWEZ5NElROFpKM0FTcGFmQWhhTGluZmQxbkRpc1B4NmxsaUdkV2Z5a1BsejRueTlTRWxJZUhUWklTQkxWdy1WZnpJSzMtVmxLeDNSaXR3SXo4WkxRWWpfTXoxT0J4a09RSW1hNDIyblRJN19QRFRFSE1KRUdMMw?oc=5",
+    "news_score": 0.55,
+    "news_title": "Ukrainian drones strike Moscow region, killing one - Reuters",
+    "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUVQMGdnUEljNGo4eDhSbHFoSUtDZ2FVLU5hTHNmZXUwMFVDTTdneTR3S2owc1pSZjBtcHNtVkZKU25oLXlNbWxENHVhM2F1ZUtnUVVicEMzai1MMVgyZk5JLVJPRjRDUklLc21zcjJycVM5endpS2plUjRHS3FhMmFIa29MUlRjRzRpNDlTdnRLS0JuTUE?oc=5",
     "news_image": "",
-    "news_source": "CNN",
-    "news_age": "7h ago",
+    "news_source": "Reuters",
+    "news_age": "74m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
