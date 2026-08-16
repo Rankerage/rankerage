@@ -2548,7 +2548,8 @@
     "news_source": "en.baochinhphu.vn",
     "news_age": "74h ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "world_championships"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -7971,19 +7972,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.89,
+    "news_score": 1.07,
     "news_title": "India face China in Women's Hockey World Cup; East Bengal in Durand Cup quarterfinal: Indian Sports LIVE, August 16 - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQejBFYnVfeWNrcU93SkEyRFNMODhTeWlHcG9qR0tyN2NHSXZJVUwtbnhkbGZ3Uy1GUVBSckExV2M4WVRkdF90SW1uOTV2RU9DSXRrMVdidXBCNkdrbnVEZHUwTGVLaHZ5VUNxLW9Xb1N4ZTJxSkt6WGJXVzN4SHRMby1VTWsxaFZwUUl0Ti0xZEU4bU5XTUNJMDBVWVNaMFlNVkxnMU51V19wZlZ6aXVxUjUyb20xUEFERmdtdkpTUFkxemdkYnlKeG9yMFVUVjZMeFRwUFJmYTF4UG5TRnlqdFJTRUs?oc=5",
     "news_image": "",
     "news_source": "ESPN",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
       "olympic",
-      "basket",
-      "gender",
-      "gender_gap"
+      "world_championships"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -8217,7 +8214,7 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.11,
+    "news_score": 0.1,
     "news_title": "Hopes fade in Colombia as more bodies recovered days after powerful quake - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTVVtWHRQWDU1UXU5RHBDM2hOaG1YcVdpMHIyTGtFbnJtQi13c09KUnFlUlRzaDZLSldMZF91NnhFTmhjTERDaXduYktlSTZ0V0h2N2R0M0VoSzBfNjdGcmJCUkhLX01aRkUyRDA5dFZVZWkxazhMT3dNTUs2T1JLX3dCY25KdVlJRjFQTThiV0JNR2VXVEZ5VFh3cGloSnI0SlpEZXVFWXFtblRaXy1CZ18tanp0akpGNGRLQXZ4a09DUQ?oc=5",
     "news_image": "",
@@ -12943,14 +12940,19 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.35,
-    "news_title": "Timberwolves’ Rudy Gobert-Led Offseason Workout in France Goes Viral - Yahoo Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMjRyT1J3Mzg3QUhDTm5DUC12RF8tZXR4a2ZEaGhTRmpoUDJjVEM0LU9zRlhCb2RfcnlSRUxvR2dTaG9ONXMtZlBvR0ZNaFY1SzduOU13TXhNTjJjVDV1UGk5TjhSWUxYWG9tZ2pCcGpUWVdtTFRRNzR5ZUFEMjZGdGlfNEZFV1RsWXZaWnp4MGE?oc=5",
+    "news_score": 0.25,
+    "news_title": "India,France review expanding canvas of bilateral cooperation in science, technology & space | Akashvani News - Newsonair",
+    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTExHRzVKTC11ZHhmMUF6RmZrSWFqMVI0dHhYajQ0U1FTWlEzZ05jTjB2MmlvVEgtUDkzeDJiWG5ENERDTHBPR0g2MXdybUwyWEcyRDFadkp2VjBwRFUzV3kzMENmU3AyVGgwLTBrcDBSY0o4WTZjNmx5bVJyeWRidTcyU243UmdYNHc3WTNEZWNVcTdfOVRwRkhKREQ0dlFlRHFlV0tnSGxSUTRtc211MWlneXo?oc=5",
     "news_image": "",
-    "news_source": "Yahoo Sports",
-    "news_age": "3h ago",
+    "news_source": "Newsonair",
+    "news_age": "67h ago",
     "news_columns": [
-      "basket"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "space_launch"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13966,14 +13968,16 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.27,
+    "news_score": 0.26,
     "news_title": "Germany's Liebmann smashes 1500m world record - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMkVpUEJfaGJDY0pDZmp3RlAwV3VLclRPQU1oZEd6amhteHlESnQ2czVuY0ZQQnE4ajllQkdDR3FiYjNIY0hxczVhWXBoY1JtYkt2NG54QlVRWmdRMVBZeHRzekpBZzFxUlRhbFN6N3luWTFmbElsMWg4QU1vMjVqVm54dnRWY2hrUU05cUxUM2c?oc=5",
     "news_image": "",
     "news_source": "Reuters",
     "news_age": "5h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16703,14 +16707,15 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 1.27,
+    "news_score": 1.56,
     "news_title": "Tough run for Sindhu, world champion opener for Ayush: A look at India's prospects at the BWF World Championships 2026 - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeU1OMm1Ra011dTBkcUY3dzhiODVLNXNsRnp1cTVZa1l0TzlPYjY0ZjlfQmlCRENiNmtfVFlXSHNZX3lLMHJ2bHhaQnBYemRfVkowR2FYcE9rZXZFVHRBcnRzd1RDRjRidndSN1JwSWhUWGttWXpsd0xPankzZHBhMUxwUXlmT0pYN3UwSVo3LXBMQk92UUxrSmlNaXBzVWNFRXcxeFB6UUpHWGp5VWZhdmV2SmxMWnVfRjJUXzJCdU5HMjVGRHpsUjhxbGs3Ym1VX3ZhbUUyYzdrUkRnZ0lzSFJaalQzZTVocXlydGJYQQ?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "91m ago",
+    "news_age": "93m ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "world_championships"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17274,12 +17279,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.49,
+    "news_score": 0.46,
     "news_title": "Iran War Commander Visits the USS Abraham Lincoln - wsj.com",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejlQWFJQWEM2WlFEVFJvbGQ2N1ppUUVGTXM5ZmFMaGNITzluTTNuQ1QwcUlVQkZvRHRjLUJNbkJxcE4tZTNEVGllUHVhTnVyaDE1d2U3bm5hSnZmVFBFOXIwRk9pSEdwQVpxU2pzdWluOFpnVElvaVEyV3BlTDJ6STl5cnNETmtWcFpnZlVrMmU1QmZ1Z1pTUkRaLVU?oc=5",
     "news_image": "",
     "news_source": "wsj.com",
-    "news_age": "4h ago",
+    "news_age": "5h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -18448,14 +18453,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.34,
+    "news_score": 0.33,
     "news_title": "IFAF Flag Football World Championships 2026: Italy \"go to bed with a giant smile\" after securing men's quota to LA28 - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaldyN3pLQnFSWWdtRkNHVUVZWnVyQmtYVXhqd25GajFyeDYxWXJOQVlYZjk5bWZNaldud19kbjluYkYwWFJpSWt1dFRwUWFTLW00X241YVM5ZmNENFVaTWxwLUY1a2liTjhxNjlKSjVsRWNPQnRGNEdZaWNranBUTndKYW9QUXlJbjRMNi1kNUt6MlBtYmZwM1NsVE1IZkZyX2VjcHEtN3NNYXllQmNuUVp3bHY?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
     "news_age": "5h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -19135,19 +19142,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.33,
+    "news_score": 0.43,
     "news_title": "Takaichi skips controversial shrine on 81st anniversary of Japan's World War II surrender - Politico",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV0NlZGtyellYYXpBR2txcXVLOVNoWGtfbmd1RVRtbXYzU1ZqdUVrNDM2b1JBd01ZWmtnYW9XRFQyNnZyQUpLeDBkUGtIbFRVTXdaZEhtbDNoNzNKY194THdtaEctTDZaZ2dja0F1dWlIQ2VpTHhjSG1TMDVadU0yVXlXNTBrT0oxR0pJY2RNNEE?oc=5",
     "news_image": "",
     "news_source": "Politico",
-    "news_age": "3h ago",
+    "news_age": "4h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "mlb_ranking",
+      "mlb_w"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -24621,10 +24624,10 @@
     "union_rate": 66.3,
     "union_rate_rank": null,
     "news_score": 0.03,
-    "news_title": "IFAF World Championship: Men’s Semi Final - USA vs. Mexico IFAF World Flag 2026 - DAZN",
+    "news_title": "IFAF World Championship: Men’s Semi Final - USA vs. Mexico IFAF World Flag 2026 - dazn.com",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTnlkN0dDemJDakkzeU1wUXhrRFozamhma3F0b0FfU2x3d01uemhXV3FZa09KTWtyWTg4elhST3lDNC1XR2pRMmF4Zi01Nm9kTGlKUk90Sl9ReVNIWHFKcFlyREhoVHRla19Vd2VTTUJTeDBubWFJZGU3eHN2ZUxsbmJwTlBwbk5wRmxheTJB?oc=5",
     "news_image": "",
-    "news_source": "DAZN",
+    "news_source": "dazn.com",
     "news_age": "10h ago",
     "news_columns": [
       "fifa_ranking",
@@ -32916,12 +32919,12 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.67,
+    "news_score": 0.66,
     "news_title": "Fired Ukrainian defense minister says Ukraine is in a \"technological war\" with Russia - Yahoo",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXp2RTBLei1vdXdKOHI1aGVPUHZlNDZrWm9PVkNSdWpBSF9hdVhlRTZCTktMVFdlYm1DNGFtNHFURkZleEZ1UE85eVJDekhScUlaTE1tcU1TTzVVbWk2WDlUN0pUa01TTnBjTFY3NUtYRmxhM0owZHpfdEJFVVdPMDdlV2hxazh6OTJfdTU0VVJELWczRE5JX0VB?oc=5",
     "news_image": "",
     "news_source": "Yahoo",
-    "news_age": "103m ago",
+    "news_age": "105m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -41016,7 +41019,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXp2RTBLei1vdXdKOHI1aGVPUHZlNDZrWm9PVkNSdWpBSF9hdVhlRTZCTktMVFdlYm1DNGFtNHFURkZleEZ1UE85eVJDekhScUlaTE1tcU1TTzVVbWk2WDlUN0pUa01TTnBjTFY3NUtYRmxhM0owZHpfdEJFVVdPMDdlV2hxazh6OTJfdTU0VVJELWczRE5JX0VB?oc=5",
     "news_image": "",
     "news_source": "Yahoo",
-    "news_age": "103m ago",
+    "news_age": "105m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
