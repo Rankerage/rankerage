@@ -1921,7 +1921,7 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.08,
+    "news_score": 0.1,
     "news_title": "USWNT Starts 2026 FIH Hockey World Cup with Hard-Fought Draw Against Argentina - USA Field Hockey",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS29qb2pWSml4TGZIb0dQelJZSEgwN3Jod3ZrcEhlZjRWcEtNcVlPUFF6aXJ6Y0ItQjdiZzV2T2Z4QVIxLW9tS252YUpwMHJjcFJzdVVRRU8zcVU1dU1pUThINjlrOFZXZ2xSOXVJc05XS29pSHZLMXR4NWtXWWpJM21zOVhhRFFxUERhMDBSSDFfcXBqbjJzY21HM0FOV09GUEpQOWtvdElleEpaamh2MA?oc=5",
     "news_image": "",
@@ -1930,10 +1930,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "fifa_l"
     ],
     "bottom50_wealth": null
   },
@@ -8216,17 +8213,19 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.32,
     "news_title": "How to beat an earthquake: The Colombian city where no one died - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbUFzcEpwaWV4WE5pY0JDYldIMFV5QnFjRnFqbF9BaFVUN2VtOU9TOVpiWEhRX3ZEQzVXVWdqenBoS1FibGVLR3FtUlJYdlk0R0FWRkhhbE11cWhGSHY1eEYxcTJSZXFMRUc1OXBMVXVMR1B2RFBLSHAtY0JMRlhpTUJ2OGgtNWNBVWxPa1dfb2dkUjB0bVFxVFZBRHlOUEJtYk5pSjZ5WQ?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
+      "cricket",
       "olympic",
-      "basket"
+      "earthquake_count",
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq"
     ],
     "bottom50_wealth": null
   },
@@ -12940,17 +12939,16 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.57,
+    "news_score": 0.71,
     "news_title": "Timberwolves’ Rudy Gobert-Led Offseason Workout in France Goes Viral - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMjRyT1J3Mzg3QUhDTm5DUC12RF8tZXR4a2ZEaGhTRmpoUDJjVEM0LU9zRlhCb2RfcnlSRUxvR2dTaG9ONXMtZlBvR0ZNaFY1SzduOU13TXhNTjJjVDV1UGk5TjhSWUxYWG9tZ2pCcGpUWVdtTFRRNzR5ZUFEMjZGdGlfNEZFV1RsWXZaWnp4MGE?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "nba_standings",
+      "nba_wins",
+      "nba_losses"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13975,8 +13973,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket"
+      "fifa_l"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -17282,17 +17279,18 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.9,
+    "news_score": 0.97,
     "news_title": "Iran War Commander Visits the USS Abraham Lincoln - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejlQWFJQWEM2WlFEVFJvbGQ2N1ppUUVGTXM5ZmFMaGNITzluTTNuQ1QwcUlVQkZvRHRjLUJNbkJxcE4tZTNEVGllUHVhTnVyaDE1d2U3bm5hSnZmVFBFOXIwRk9pSEdwQVpxU2pzdWluOFpnVElvaVEyV3BlTDJ6STl5cnNETmtWcFpnZlVrMmU1QmZ1Z1pTUkRaLVU?oc=5",
     "news_image": "",
     "news_source": "WSJ",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": null
   },
@@ -18455,7 +18453,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.16,
+    "news_score": 0.21,
     "news_title": "IFAF Flag Football World Championships 2026: Italy \"go to bed with a giant smile\" after securing men's quota to LA28 - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaldyN3pLQnFSWWdtRkNHVUVZWnVyQmtYVXhqd25GajFyeDYxWXJOQVlYZjk5bWZNaldud19kbjluYkYwWFJpSWt1dFRwUWFTLW00X241YVM5ZmNENFVaTWxwLUY1a2liTjhxNjlKSjVsRWNPQnRGNEdZaWNranBUTndKYW9QUXlJbjRMNi1kNUt6MlBtYmZwM1NsVE1IZkZyX2VjcHEtN3NNYXllQmNuUVp3bHY?oc=5",
     "news_image": "",
@@ -18464,10 +18462,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket",
-      "olympic_gold",
-      "olympic_per_cap"
+      "fifa_l"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -28634,12 +28629,12 @@
     "union_rate": 89.3,
     "union_rate_rank": null,
     "fifa_ranking_rank": 108,
-    "news_score": 0.85,
+    "news_score": 1.04,
     "news_title": "North Korea's Kim, Russia's Putin reaffirm ties on Korean Liberation Day - reuters.com",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN2p1U3RrcWFybldKeEVnT0l6SjJKWlpCUGlNVXlCd0RseFdVR2g2VVc4emNtTGdfU1Jub1kxQTZpaVZRN3duQUhVYldjaUhVLWhJS2RqcnR5akVlUDF1TlFERHlGUTVvMWxzQWNkQzNDY05vdjBxLThaSmlTX2dzdlVpdkJ6dUlnOVRPZUxOM29Oc0MtWmVHQzE2NzNNdUlnalFDcXhvRURNRFliUWd1RUwzRkw?oc=5",
     "news_image": "",
     "news_source": "reuters.com",
-    "news_age": "11m ago",
+    "news_age": "13m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -32931,12 +32926,12 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.85,
+    "news_score": 1.04,
     "news_title": "North Korea's Kim, Russia's Putin reaffirm ties on Korean Liberation Day - reuters.com",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN2p1U3RrcWFybldKeEVnT0l6SjJKWlpCUGlNVXlCd0RseFdVR2g2VVc4emNtTGdfU1Jub1kxQTZpaVZRN3duQUhVYldjaUhVLWhJS2RqcnR5akVlUDF1TlFERHlGUTVvMWxzQWNkQzNDY05vdjBxLThaSmlTX2dzdlVpdkJ6dUlnOVRPZUxOM29Oc0MtWmVHQzE2NzNNdUlnalFDcXhvRURNRFliUWd1RUwzRkw?oc=5",
     "news_image": "",
     "news_source": "reuters.com",
-    "news_age": "11m ago",
+    "news_age": "13m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
