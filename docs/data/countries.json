@@ -2541,17 +2541,14 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.3,
+    "news_score": 0.41,
     "news_title": "Men's Hockey World Cup: Ireland lose opener to Australia as fightback falls short - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MWHpEMHVDNE5KYUxic2lqRjJMRzQ0S1FjMHphd29XYTVNNk41VS1KYkU1eHhzMzhmTDN3M28yUUJZdjM0dDNKZnpXWjMyRDhvX2kwcnNIaEZqSjZXU0pfZEdJakItUVU?oc=5",
     "news_image": "",
     "news_source": "BBC",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -5128,12 +5125,12 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.0,
+    "news_score": 1.01,
     "news_title": "Brazil's Lula launches reelection bid, aims to win back workers to his Workers Party - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeEl6U1RsX2F2XzJtaFd2cHMyWDhqMzhBdnI1QTJnTnNmV3BST19jNlRHTTNOejFuVTdlRTNzOGdFTG1MRTF1VE1hSnR2eGZOQnhoQWIzOG1DcWxpbkZXTkhSbDQwMmV1OGh5ay0tclhVcnBUUVh4cG1jZk1VeDV6eTgxdjdxMnFnelY1cEZSQVNTOE9nVE1HR2FSM1NvSzE2aVVPYWhzVmlSNlF4OGNBWEEtd0NYWXpBZm9weFl5U1RuaWhCelE?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "51m ago",
+    "news_age": "53m ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -6913,7 +6910,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.61,
     "news_title": "Canada men and Mexico women earn last two Olympic quotas at 2026 IFAF Flag Football World Championships - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS0hRNFdpY0E0aUp0eGZqNGhDSnYwQzFpcWdUWmlCdVJXcXZJOHhxczVTUXA2UkY4RjZOV29oNHFxTjFudTVjTDdJMnNZdGRXZnlFOVdWQTdYV29oOG9XamVjbWhJOGJqXzAxX2YzN2EyYjZxQUZzZWFQUFhMUkxXbEw4d0NZQVVtOVhpRUQ0Z3FITDFUakNpQVhsaFE2M0VESlBvNTNRUWhlcDM4Z09MZkpJSDV5dEdXXzRVYllpUVB5NGJ1VEt5QW8wb0Q?oc=5",
     "news_image": "",
@@ -12952,12 +12949,7 @@
     "news_source": "News On AIR",
     "news_age": "80h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "space_launch"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -16712,14 +16704,19 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.79,
+    "news_score": 0.62,
     "news_title": "Women’s Hockey World Cup 2026: India hold China to 2-2 draw in opener - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzBjcVZILS1fUDVLNXJCWlFDZjlqeUtkWEFDdG11S2d0OURlMUcyZGxLeWkxaUVoUlozN2dBUHdzR0ZYbjdjQmptTlNseDBicTBlYXoxSmxUaWo1Tmk3ZVpEMTNoTERrVlVVNDlYVXlXbUV0cF9adE1KbWFiQTBRTDVtMkYyWVpyOWtOMzVNcG5xZDZ6eDBvR1NnUjh3VHV2?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket",
+      "olympic_gold",
+      "olympic_per_cap"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17283,7 +17280,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.07,
+    "news_score": 0.95,
     "news_title": "Iran economy begins to recover after war as business activity picks up - The Economic Times",
     "news_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMWN3T0tMUC1wOEdNcENUY1JOYk5EdkVGN2taeHJyajRlUGhjYjRtUndzUVBZMno0R0UxamdsUlRKY2hIUEt6SUtGMkkxWU4zeFVyM1BPYzFZX2JTRVRoODhFZTdDZlh5ZkN3a3p5bUNZQlNvV040NmYtNzk1Nm00bzY2YmZPTUZMRjBCanFmSF9ENl9DeHhMTHBkTVZROVhvYXVycUlHZzRqUkU3MFluNklIZGFTMFhZZW1yR01OSnF2T2gxbGdKVHhsTHlWcGJUX3JwVkVwa01ya0pKRkh6cEhNMnlEZlXSAewBQVVfeXFMT2N1YXF4ejl2WHFmeW13SEE1dnJSMkRNaVNpalhtbmVKc0ltbGRXN1l6X2pTQnFpTGJHSUI3X0lxeWdDZlEzZHBha0hLS0tJVVcydnY5cm02cmFZOER3OGFSNF94TlQtLWM5REpfejAtWTRteHZmQVk4TS1EemVXb3IwZUV0bGRkUFdGY0RUSW83V05iMElDWTNxbFZIX01nMF9rRzZWeERoRDhYaEJfd2FZdlZYVW01YTJMdTdmN3Yzc3dKaENkSW90Y0pSN0k3d2JUNk95c3J4SmtnU0l6c3poak12NGplaTY2MWg?oc=5",
     "news_image": "",
@@ -18460,12 +18457,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.74,
+    "news_score": 0.8,
     "news_title": "Coppa Italia Live: Follow Sunday’s First Round fixtures and results - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbHBfQ0R2Z2dURlR0OFp4a2h5cEpxMkkzQ0VjOURjS0RrYlBBTmxTNm9KN3hrd0ZTRjFIRkoyekl5cTdfeDQ4dEdUNkdTRXpLUmpLNVdkMFgxcHZJaEc1VmYweTZPNkVIMmFnT1MzQlE1bWpySGhpaUJSZWJXUWNHRGdNYVFJZw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "94m ago",
+    "news_age": "96m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -19147,7 +19144,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.52,
+    "news_score": 0.51,
     "news_title": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities? - aljazeera.com",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTEdDNlFVanJPMVl0SGhYbG9FX1UzMXg4NUpLUmEyc05QSkJEX0FWWnpsTzdmLTNRNkh4WnlBeDh2MWpGNTE3SkJKV0hqeC0wWmp6bnhnSVVIT0FSbXFjNHdnRGNDYXJwV0ZIRHBDZWh2Vm1nbFBMNXFFOXo5YzM2VHBKMW1GWDh4VWtXZl92TlVIa3Z0MzRrZTh2aVZtbDFZczJsVy0tdVhHTWPSAbABQVVfeXFMTmRDUkRVTndjVV9UMEo3SzZqYUo4eTN5NllXeGw2OGs5TjFQVkp5cVVXbDI3eTBGYnNYU2Ric0ZZakNBMkNSYU92VG5xZnVJSTVXb0xZZnMySTJWUy1VMl8wbWw1MGs5dnY2YXZMWDJnMC1JdFQ1V2twYUlrYjZOZEF6LUJTUnRnN3JiRFJ3bXJBcl9NRzZna21OOUVoUDRvaVg3TzVkSjFPMjF4T05wSDk?oc=5",
     "news_image": "",
@@ -24638,14 +24635,19 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.45,
     "news_title": "Canada men and Mexico women earn last two Olympic quotas at 2026 IFAF Flag Football World Championships - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS0hRNFdpY0E0aUp0eGZqNGhDSnYwQzFpcWdUWmlCdVJXcXZJOHhxczVTUXA2UkY4RjZOV29oNHFxTjFudTVjTDdJMnNZdGRXZnlFOVdWQTdYV29oOG9XamVjbWhJOGJqXzAxX2YzN2EyYjZxQUZzZWFQUFhMUkxXbEw4d0NZQVVtOVhpRUQ0Z3FITDFUakNpQVhsaFE2M0VESlBvNTNRUWhlcDM4Z09MZkpJSDV5dEdXXzRVYllpUVB5NGJ1VEt5QW8wb0Q?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket",
+      "olympic_gold",
+      "olympic_per_cap"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 22
@@ -32933,7 +32935,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.67,
+    "news_score": 0.76,
     "news_title": "A Millennial Furniture Designer Is Behind the Drones Battering Russia - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdERLaXctQ1dsajlwNG5vaUtxaWhMQnRxM0lmQUVDNDRRdHNzSDlnU28yYUtYQjNXN2dVYnlGYzVYd25qTV9zY1IzX3MtaUViTm9VWUdNSkY2V1JWbU1YeVdmazNIY2JMS1NBOEJLTy1ocVZYMjg0X2VHVnAwTjBVTnp5dw?oc=5",
     "news_image": "",
@@ -34772,12 +34774,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 51,
     "fifa_w_rank": 36,
-    "news_score": 0.39,
+    "news_score": 0.5,
     "news_title": "‘Slovenia Ruined Their Bond’ – NBA World Reacts to LeBron James, Austin Reaves Linkup Ahead of New Season - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPODVNbm9LcVAySVBPZ3N0TE1lWDRYWmlkd2JZbDdVczV2d0FiSEd6VndpTHVpVlpyck52dS1wdDltZDhrUGF6Z0lZS3NmbW9rSUVKQUdOUFo0LU5YLVFRMEQzZ0toMnZpZ1NqYzFHOWNwaTBRSlZ5RlFTMjlTM2YwVW5xcnJFQQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "65m ago",
+    "news_age": "67m ago",
     "news_columns": [
       "basket",
       "olympic"
@@ -41026,7 +41028,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.51,
+    "news_score": 0.57,
     "news_title": "British drones used in Ukrainian attacks deep inside Russia for first time, says report - The Independent",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRmZZdTZyQU9NWW9qaE1YMTJFUmxzZkYzWDlFRl9qbjlsaDJyODMxMnRsaDFkRzl3S2JPcGtEcnlBXzFsVVR2SW40R0Z2amZNS2VPZHg1VFZyZ0FaV05Yd1JXYVVFVXVDYlBQc25KUXphQ2V4MkVmYS03S05GTWJoSFFvTXdUX2VNZzI4MF82eVh5eFp0cXpyZEhrUEdiem8?oc=5",
     "news_image": "",
