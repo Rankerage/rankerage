@@ -2541,14 +2541,16 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.18,
+    "news_score": 0.19,
     "news_title": "Pallister hands Ledecky her first international 800 free loss - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYXdtTzhvalVDb3lwS3FpOVlRcHFlaW50Z0FCWmI0TUFVVWtrMEJqQm51RDdHOGlmQlM4aTcxWGJoQnZ6cE1UU3FfVkdNSldzRkdJYTNwMEN3VE44RDF0aVhkSjZMdE5OVGR3WmFMMlNFdDlEWHdlX05aRkhZUlQySUwtbHMxd0g5cXlja2d0c2xNVllrWlR2ak9xa1lQUGpTa21RTEl2X2kzV3BMM2RFTnFpQkZNSWM?oc=5",
     "news_image": "",
     "news_source": "ESPN",
     "news_age": "6h ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3308,7 +3310,7 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.58,
+    "news_score": 0.71,
     "news_title": "Govt’s debt outpacing revenue growth: Bangladesh Bank - The Daily Star",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2VJMktNWVhONktXZVFwQUhyVmFIWmRjWnFlZG5iNVEyeFN1ZmtFV1hVRFpkWXp6V1RTOTZXSVg4S2R4dFpuWlNLMFZHay01UWROSmhjOGM5cXVPbnJMeXd3VGlsS2s2SE5XNFVIUHZTUVp1N3plZHpmSnZSMC1ZUVBsV2oxN0c3MExIRVFzaG5EdWZQLS1UaHQ4SG9oNzZXVlZsZXlvVXFzaDFVTTI4?oc=5",
     "news_image": "",
@@ -6917,11 +6919,8 @@
     "news_age": "124h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
       "olympic",
-      "basket",
-      "olympic_gold",
-      "olympic_per_cap"
+      "basket"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -13972,7 +13971,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.03,
     "news_title": "Germany's Liebmann smashes 1500m world record - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMkVpUEJfaGJDY0pDZmp3RlAwV3VLclRPQU1oZEd6amhteHlESnQ2czVuY0ZQQnE4ajllQkdDR3FiYjNIY0hxczVhWXBoY1JtYkt2NG54QlVRWmdRMVBZeHRzekpBZzFxUlRhbFN6N3luWTFmbElsMWg4QU1vMjVqVm54dnRWY2hrUU05cUxUM2c?oc=5",
     "news_image": "",
@@ -17023,12 +17022,12 @@
     "news_source": "bbc.com",
     "news_age": "7h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "earthquake_count"
+      "earthquake_count",
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17282,14 +17281,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.22,
-    "news_title": "Iran-US war latest: Qatar denies detaining Iranian fighter pilots after downing jets - The Independent",
-    "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3lWQ2k3NWxXV1ZXWG5hUjhON0FzV0xGWmxmRC1YTEtFM0htWGZ3M3l4eDRGa244aTA2TGdrTmt5WDVtcFhQQ2pVZkNoNjU0eGZsQzlHOF92VmZoeTZ1dGk0NUdiazJJVTV5akNDbkRmRXZMOUs5NkJOaUk5ZDQ0VW1WNnUxRlZKZ3duRnFkbHlzZFZfcy1BdDFBeDZ4UlcxTmxEcWluWUJQWVA3aTQ5eGdYYzV1NlU?oc=5",
+    "news_score": 1.04,
+    "news_title": "US top Middle East commander visits deployed aircraft carrier, and other Mideast news - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWnFRcW9HbzBnVEVnSk92am10b0F0NGx4RTJlcjRTY28xQVdwWWxkdGd5eXNMdmxWeEFRQ3BFZEN6bUF1WDVCQkUtTjlrTGdtenNWclIteG9CRTVZdzVNaUJ4Z2FPVE0zaTBEX0RIdlRWMG1ieHRYcWt0dXpWYllGTjRnT2cxVDZwS0FCNEFEZnpJa0c1VXpaTGw0eFJxc251RUVvUmJPVmltWWlJbHBaLUJwd1I?oc=5",
     "news_image": "",
-    "news_source": "The Independent",
-    "news_age": "48m ago",
+    "news_source": "AP News",
+    "news_age": "30m ago",
     "news_columns": [
-      "fifa_ranking"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -19144,18 +19148,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.55,
     "news_title": "Lakers sale highlights sports gold rush among billionaires in North America - The Japan Times",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbmlXUk5rUGxFR3UyeDg3UUtXY3ZiWklHN29kMDk4akxGRHpaTHRtcUdNSVNVbl9rVVJhNGY1cURNNVNIME5CUHNrSVlWSkoxa3p4MGtLbkJfM1VLMGNaUFlVdVlkNUdYSzFhVDFHbmE2WGUyX3ppdFRLQ18xVF9NRmd1VGdweENBS0V2WjVOc2dpVW8?oc=5",
     "news_image": "",
     "news_source": "The Japan Times",
     "news_age": "3h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -21133,7 +21135,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 105,
     "fifa_w_rank": 87,
-    "news_score": 0.48,
+    "news_score": 0.47,
     "news_title": "Lebanon senior Kinley Young previews 2026 season - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMzB2OUI5YXNJcmdxVjJ2emRJa0V0QmtrRERaeVRqckRPa21XVXM5MTdRZTJTWEZTcXV3MzgtVEFLYWpSQWR2NXduMUdvSElnOF9yb05TSjBhbWp1YWIzamhpS3VkOFRHS2FDZnZoSmxQZjN1RnljZmdPWC1BNzRhSXBFeHRoUnJmdW1iX0hB?oc=5",
     "news_image": "",
@@ -32124,14 +32126,19 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.86,
+    "news_score": 0.69,
     "news_title": "Iran-US war latest: Qatar denies detaining Iranian fighter pilots after downing jets - The Independent",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3lWQ2k3NWxXV1ZXWG5hUjhON0FzV0xGWmxmRC1YTEtFM0htWGZ3M3l4eDRGa244aTA2TGdrTmt5WDVtcFhQQ2pVZkNoNjU0eGZsQzlHOF92VmZoeTZ1dGk0NUdiazJJVTV5akNDbkRmRXZMOUs5NkJOaUk5ZDQ0VW1WNnUxRlZKZ3duRnFkbHlzZFZfcy1BdDFBeDZ4UlcxTmxEcWluWUJQWVA3aTQ5eGdYYzV1NlU?oc=5",
     "news_image": "",
     "news_source": "The Independent",
-    "news_age": "48m ago",
+    "news_age": "50m ago",
     "news_columns": [
-      "fifa_ranking"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
+      "military_pct",
+      "nuclear"
     ],
     "bottom50_wealth": null
   },
@@ -32919,14 +32926,18 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.51,
-    "news_title": "Ukrainian drones strike Moscow region, killing one - Reuters",
-    "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUVQMGdnUEljNGo4eDhSbHFoSUtDZ2FVLU5hTHNmZXUwMFVDTTdneTR3S2owc1pSZjBtcHNtVkZKU25oLXlNbWxENHVhM2F1ZUtnUVVicEMzai1MMVgyZk5JLVJPRjRDUklLc21zcjJycVM5endpS2plUjRHS3FhMmFIa29MUlRjRzRpNDlTdnRLS0JuTUE?oc=5",
+    "news_score": 0.8,
+    "news_title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv - Al Jazeera",
+    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2hEQ3RLck5hS0ppd1g4SW9mZDgzY3FwM0VOU2ctOVpqZXBPOF9sVjc4SW1aaXFVZmpXWHFqQlhnSVNWdUEzaUR3N3QtUlVQOWEwZTdTRVZEcW0xMmdhSWctLVFacGU0RU5ZYU0zNFRQNVRjTHRseVFuQ0pjek0xVklPcDlXVUVzZmp6aWNZeFpqOEhab2NZeXlWWTFoZ1hoWXktQjIxQ1NJVVVVbm1WdTY4NnLSAboBQVVfeXFMTldXcXBScHdFb0xMM3VWZE5VZ0lad012blFBNzhhY25zUmJOTHBXZVdIdHR0LU15TUgwc1BVY2RQNnhQaHFpc08xT2RaYkRkdmI3NUtnVEtLT0VFVHNLaThfOVJzRk0zRldwdDBkOVVYYXdCaGwzVTFMdW5lMmdtaHlwRTU3TGNoOGRjQXBtODBfMndabmJ3U1NxWjl6RF96VHlOOUFlNk1aemVXQVZJZFZTaWNxcnY4b0tn?oc=5",
     "news_image": "",
-    "news_source": "Reuters",
-    "news_age": "74m ago",
+    "news_source": "Al Jazeera",
+    "news_age": "14m ago",
     "news_columns": [
-      "fifa_ranking"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -36497,7 +36508,12 @@
     "news_source": "Reuters",
     "news_age": "17h ago",
     "news_columns": [
-      "fifa_ranking"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "gender"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -40052,7 +40068,11 @@
     "news_source": "Daily Sabah",
     "news_age": "43h ago",
     "news_columns": [
-      "fifa_ranking"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -41000,14 +41020,18 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.55,
-    "news_title": "Ukrainian drones strike Moscow region, killing one - Reuters",
-    "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUVQMGdnUEljNGo4eDhSbHFoSUtDZ2FVLU5hTHNmZXUwMFVDTTdneTR3S2owc1pSZjBtcHNtVkZKU25oLXlNbWxENHVhM2F1ZUtnUVVicEMzai1MMVgyZk5JLVJPRjRDUklLc21zcjJycVM5endpS2plUjRHS3FhMmFIa29MUlRjRzRpNDlTdnRLS0JuTUE?oc=5",
+    "news_score": 0.83,
+    "news_title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv - Al Jazeera",
+    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2hEQ3RLck5hS0ppd1g4SW9mZDgzY3FwM0VOU2ctOVpqZXBPOF9sVjc4SW1aaXFVZmpXWHFqQlhnSVNWdUEzaUR3N3QtUlVQOWEwZTdTRVZEcW0xMmdhSWctLVFacGU0RU5ZYU0zNFRQNVRjTHRseVFuQ0pjek0xVklPcDlXVUVzZmp6aWNZeFpqOEhab2NZeXlWWTFoZ1hoWXktQjIxQ1NJVVVVbm1WdTY4NnLSAboBQVVfeXFMTldXcXBScHdFb0xMM3VWZE5VZ0lad012blFBNzhhY25zUmJOTHBXZVdIdHR0LU15TUgwc1BVY2RQNnhQaHFpc08xT2RaYkRkdmI3NUtnVEtLT0VFVHNLaThfOVJzRk0zRldwdDBkOVVYYXdCaGwzVTFMdW5lMmdtaHlwRTU3TGNoOGRjQXBtODBfMndabmJ3U1NxWjl6RF96VHlOOUFlNk1aemVXQVZJZFZTaWNxcnY4b0tn?oc=5",
     "news_image": "",
-    "news_source": "Reuters",
-    "news_age": "74m ago",
+    "news_source": "Al Jazeera",
+    "news_age": "14m ago",
     "news_columns": [
-      "fifa_ranking"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": null
   },
@@ -43471,7 +43495,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVWZxSjZkTEtvT0xVclA4TlEyZjBCaTdBSTdHZ3VKWWNhLS02ZXZUZGo5MXZwQTBNazFTRnFoRmZxWVh5QUlXMEl5TmFqUDFjSHp6dXNxNDJWb19WRExhUk5HcVF4QVpHUE9FRlhqQXlNN29OZmN1WDRmR3Zkc1pKYUNaSDVaNDlHUTIyOHBOdGlxU1MyRU85LS1CNXJzRlhBam40eFpheGlTRVE?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "44h ago",
+    "news_age": "45h ago",
     "news_columns": [
       "lgbtq_rights",
       "gay_marriage",
