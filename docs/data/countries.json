@@ -2548,9 +2548,7 @@
     "news_source": "en.baochinhphu.vn",
     "news_age": "74h ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking",
-      "fifa_w"
+      "olympic"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -7973,15 +7971,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.9,
+    "news_score": 1.84,
     "news_title": "India vs China in FIH Women's Hockey World Cup: Live scores, updates, commentary, news - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaEptand2dEoxYUNQNzl1TExkczl0NGlRMUJtV3FvbkFvUlpRWHBEY0V4Z2NNSXBNNlVyNjg1TkQ4UVl2Z1VqOEZ0cy1FQ1dtU3ktS2JyY3pRSnBPV2loc1BEZHlNYzV2Z0VZRjY0ZVJYWEhDX1hjeE8wMHlTeWdEZmFJb3pTNGVyMHVDdlpmdnFYOU1YTkp2VjBLZnhiekJzLWlrSU9RdkdadkNfMVVVWnRuNzh5dlFTRGFXUmFqQlBnZVFnYk9rWldtQnVDYnktX1lyS2tDOHNPRnFVQzJfYw?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "47m ago",
+    "news_age": "49m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -16705,15 +16703,15 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 2.35,
+    "news_score": 2.25,
     "news_title": "India vs China in FIH Women's Hockey World Cup: Live scores, updates, commentary, news - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaEptand2dEoxYUNQNzl1TExkczl0NGlRMUJtV3FvbkFvUlpRWHBEY0V4Z2NNSXBNNlVyNjg1TkQ4UVl2Z1VqOEZ0cy1FQ1dtU3ktS2JyY3pRSnBPV2loc1BEZHlNYzV2Z0VZRjY0ZVJYWEhDX1hjeE8wMHlTeWdEZmFJb3pTNGVyMHVDdlpmdnFYOU1YTkp2VjBLZnhiekJzLWlrSU9RdkdadkNfMVVVWnRuNzh5dlFTRGFXUmFqQlBnZVFnYk9rWldtQnVDYnktX1lyS2tDOHNPRnFVQzJfYw?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "47m ago",
+    "news_age": "49m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17016,7 +17014,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yd09DeUZVMlpkZlF6bFQ5N3NNVDNaUWVFTURSN1RKZFlyM1U4cTRGalhYWGplN1d4b21mZkNoeHVwYUp3cGRTdXdvSnhqNUVUakZIcGdKYmVQdw?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "5h ago",
+    "news_age": "6h ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -17278,10 +17276,10 @@
     "union_rate_rank": null,
     "fifa_w_rank": 55,
     "news_score": 0.55,
-    "news_title": "Iran War Commander Visits the USS Abraham Lincoln - WSJ",
+    "news_title": "Iran War Commander Visits the USS Abraham Lincoln - wsj.com",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejlQWFJQWEM2WlFEVFJvbGQ2N1ppUUVGTXM5ZmFMaGNITzluTTNuQ1QwcUlVQkZvRHRjLUJNbkJxcE4tZTNEVGllUHVhTnVyaDE1d2U3bm5hSnZmVFBFOXIwRk9pSEdwQVpxU2pzdWluOFpnVElvaVEyV3BlTDJ6STl5cnNETmtWcFpnZlVrMmU1QmZ1Z1pTUkRaLVU?oc=5",
     "news_image": "",
-    "news_source": "WSJ",
+    "news_source": "wsj.com",
     "news_age": "4h ago",
     "news_columns": [
       "military_pct",
@@ -32924,12 +32922,12 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.24,
+    "news_score": 0.89,
     "news_title": "Fired Ukrainian defense minister says Ukraine is in a \"technological war\" with Russia - Yahoo",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXp2RTBLei1vdXdKOHI1aGVPUHZlNDZrWm9PVkNSdWpBSF9hdVhlRTZCTktMVFdlYm1DNGFtNHFURkZleEZ1UE85eVJDekhScUlaTE1tcU1TTzVVbWk2WDlUN0pUa01TTnBjTFY3NUtYRmxhM0owZHpfdEJFVVdPMDdlV2hxazh6OTJfdTU0VVJELWczRE5JX0VB?oc=5",
     "news_image": "",
     "news_source": "Yahoo",
-    "news_age": "89m ago",
+    "news_age": "91m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -41019,12 +41017,12 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.9,
+    "news_score": 0.71,
     "news_title": "Fired Ukrainian defense minister says Ukraine is in a \"technological war\" with Russia - Yahoo",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXp2RTBLei1vdXdKOHI1aGVPUHZlNDZrWm9PVkNSdWpBSF9hdVhlRTZCTktMVFdlYm1DNGFtNHFURkZleEZ1UE85eVJDekhScUlaTE1tcU1TTzVVbWk2WDlUN0pUa01TTnBjTFY3NUtYRmxhM0owZHpfdEJFVVdPMDdlV2hxazh6OTJfdTU0VVJELWczRE5JX0VB?oc=5",
     "news_image": "",
     "news_source": "Yahoo",
-    "news_age": "89m ago",
+    "news_age": "91m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
