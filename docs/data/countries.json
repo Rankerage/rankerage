@@ -2541,7 +2541,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.13,
+    "news_score": 0.09,
     "news_title": "JOINT STATEMENT ON STRENGTHENING SCIENCE, TECHNOLOGY AND INNOVATION CONNECTIVITY BETWEEN VIET NAM AND AUSTRALIA - en.baochinhphu.vn",
     "news_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQN0plX3lKMmtJR0JPMEVvQ0txYW1HYVpvaHFHVXhVc1QwUlUycFhLdi1fT1JDakZPUkhNSzhfR1FZRDMzai1LQ1p1MF8xNUw1NG1oWlc4cjZrM2hFN09LNjd6X3JpQ3MyUkxLZThfQ1ZQai1iajlQV21MWk10Z0h4cEpXUjlaSDRuUlg5TnpVY3BPbWM3ek5adWVTWWZtNmVDNWpRNG9oTEF1S1NrUDZLaXpkUndSV0NyRGNBMkMxWU1XbXpMOXRGNWFVcWVZVklYZzdyLTN0SVF4MTBlaFFOYldIcW9DRHFhdUxueEFXOC0?oc=5",
     "news_image": "",
@@ -5125,14 +5125,19 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.31,
+    "news_score": 0.26,
     "news_title": "Brazil's Lula launches reelection bid, aims to win back workers to his Workers Party - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeEl6U1RsX2F2XzJtaFd2cHMyWDhqMzhBdnI1QTJnTnNmV3BST19jNlRHTTNOejFuVTdlRTNzOGdFTG1MRTF1VE1hSnR2eGZOQnhoQWIzOG1DcWxpbkZXTkhSbDQwMmV1OGh5ay0tclhVcnBUUVh4cG1jZk1VeDV6eTgxdjdxMnFnelY1cEZSQVNTOE9nVE1HR2FSM1NvSzE2aVVPYWhzVmlSNlF4OGNBWEEtd0NYWXpBZm9weFl5U1RuaWhCelE?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "42m ago",
+    "news_age": "4h ago",
     "news_columns": [
-      "olympic"
+      "democracy",
+      "approval",
+      "press",
+      "election_days",
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -6905,15 +6910,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.95,
-    "news_title": "Cristiano Ronaldo Hints at Retirement After His Final World Cup, Says Soccer Has Been ‘a Lot of Sacrifice’ - Yahoo Sports Canada",
-    "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSmRGNmxIUktuNEFmak5Ib2pkN3ZJV01peTdudDJUcXI2VzFlSWRTVFRDN3pkTGdiamJoOEc3VjFmV2hrZHFMeHNQMzNlNW10Q1YwZ2NVZWVIX2tNMHk1TkJReS1uQXpBTXIwWHVlWFRtbU1hYWkxeHlWbFV3SUFOd3RkbnlPUkVKdUlxM0xqOEJ1Zw?oc=5",
+    "news_score": 1.85,
+    "news_title": "US men and Canada women win flag football world titles as spots earned for the Los Angeles Olympics - WRAL",
+    "news_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONUFqR1AxTmNTQmlqQnJIYVluLTh4WDdxWjMwVXBFbXJPMG5teDNHYUNGWlJQOERfWUZTSXJHUjBsa2lZUXdySlJheE5TZl8xT0Zmc1dXTE9kTktNYzQ3RXE5NmJnWm9WclVkX3d0eV9Zd1ZLamZzODBIekdKR0hDa09KcnVOY3hMVXNUVkZnU0p1VG50VC0tUTdSeC1xaUppSTJzUmVyZUUzOTgtTEU4bDctc3ZlZzRqNGdzeVdRNXlJNVVJVVhlSDh5RkdEOGwz?oc=5",
     "news_image": "",
-    "news_source": "Yahoo Sports Canada",
-    "news_age": "6m ago",
+    "news_source": "WRAL",
+    "news_age": "9m ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "olympic"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -13976,8 +13980,7 @@
     "news_source": "Reuters",
     "news_age": "19h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -15767,10 +15770,10 @@
     "fifa_ranking_rank": 128,
     "fifa_w_rank": 62,
     "news_score": 0.01,
-    "news_title": "Northern Metropolis and AI vital to Hong Kong’s 5-year plan: business chambers - scmp.com",
+    "news_title": "Northern Metropolis and AI vital to Hong Kong’s 5-year plan: business chambers - South China Morning Post",
     "news_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORk1xOXhXdG54UHZna2lJVl9uOE1xTlJiVE8wNl8zVnN2SEdXajlyRnVUejdqRkJiTkNES2VXOVpUYW0zS3gtN1ZSTmR3VUd5aV9FV0ZoM0NsSGFDczdrYXRpRmJtZUVaTzBGc2lhb0tneVJMRlJqcGZBRlA1aUxJUDRKdVdTa0VnMHQwSkFLY2h1amZKNmtobk56cklWbTB6T3EzQ0todjA4WVQ2c1RUSE1RV3JiLThtNnQ5Z0g2Rmc4ZDNIaThkNzNIczlPZ3YwRHg4SkNKcjVZV0HSAdsBQVVfeXFMTm5DV3FJNkNDSDRKNjBNVTUzWjFrSDBqeUV5OFF6cXFYQ0dQbjQwZkRqU3cxTGxxRVdMSFB0em9qbUNmYlE3UEM5R05iLWlmNGVUNWh5MW1odzE5Vk9FT0VHZTdmSXYwaHRRaU9RZVFoZnFXaHlUOTZOZjdjUWpyVm5QSzlhM0F5U2Y4bXR4RFY1V3I1dTRSNTdQUUpQMUtyN0Z1LXRSWWg2WWhtOEF5c2t2eVlmeFRFb0tLYndNNlJYUTlTTGNKWmlabGRSbG40a2xzSHJkZnNGQVVR?oc=5",
     "news_image": "",
-    "news_source": "scmp.com",
+    "news_source": "South China Morning Post",
     "news_age": "30h ago",
     "news_columns": [
       "ai_research",
@@ -16706,7 +16709,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.41,
     "news_title": "Women’s Hockey World Cup 2026: India hold China to 2-2 draw in opener - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzBjcVZILS1fUDVLNXJCWlFDZjlqeUtkWEFDdG11S2d0OURlMUcyZGxLeWkxaUVoUlozN2dBUHdzR0ZYbjdjQmptTlNseDBicTBlYXoxSmxUaWo1Tmk3ZVpEMTNoTERrVlVVNDlYVXlXbUV0cF9adE1KbWFiQTBRTDVtMkYyWVpyOWtOMzVNcG5xZDZ6eDBvR1NnUjh3VHV2?oc=5",
     "news_image": "",
@@ -17282,14 +17285,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.89,
+    "news_score": 0.76,
     "news_title": "Former Joint Chiefs chair: Truth about issues on USS Abraham Lincoln ‘somewhere in the middle’ - The Hill",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ3RaQ3hQYTZhbU5sRkJDRGQ4OEpvY1hrNHVXb2VFS196OFBHd1pIN3p0N1dMa3FFZUNtc1pUeHJ0dkZvNXVjd0t3ZWllR3RFcE9wRUl5aE5NLVF1dVVWVkRwMjhTZjB0NmhaVF9Kc3R6RE8tMkpaWjJLVXBCZ3NCclNoT3FhVk16Q0ZPctIBkgFBVV95cUxPa2ZLaGpJRUJ6WkZydGp0dUFNaUZFTUlXWjFob1FSdnJIWUdRRXloMm5scFFORlZMa1hhQUZtNDdjNGdtN1Nwb0trWnNPbzF2WlZMNUptbFpfQXpHdnNOTF9kcTNoNkRCTmZoREZtdG42NWdfNm01N25WWFJMQ0JfYk1LNVRnZDRjVTJuTE4teFVRQQ?oc=5",
     "news_image": "",
     "news_source": "The Hill",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -18011,18 +18019,16 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.01,
-    "news_title": "Iran wages economic war in hopes of outlasting U.S. and Israel - The Washington Post",
-    "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2ZCVmJ4amt6UTBvQ05kcDBFWnNzb1N6QldHQ3RSWVZ0NUdzemNtaTJGaTlzM1N5dVR0djFiVV9XUGNSc1JCR2RnczNYeTUxMW5WZU5aMmJLMVVqcElmVHpibHdWMm9xOFlLWGlhY2NlQUV5cDVVcTRWZHJaNGxjaXVR?oc=5",
+    "news_score": 0.03,
+    "news_title": "Scoop: Inside Trump's secret backchannel to Iran's Revolutionary Guard - axios.com",
+    "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNmlGYThLTGZyUDE3b3o2RU9HWU5iRlBFRnRNb1NXU2prci1YYVlKRGdjVi1NbTJwZEtsWEhuMHdUTkVtaTJVWTlxSWgwNTMtcHB1NGdIcElvUmVnUWNoTmJQTnNNUDl5NjJxVHRTdmF1d0J1Ni1MWUZaUnA5bFpnUg?oc=5",
     "news_image": "",
-    "news_source": "The Washington Post",
-    "news_age": "3706h ago",
+    "news_source": "axios.com",
+    "news_age": "8h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "car_density",
+      "gas_price",
+      "co2"
     ],
     "bottom50_wealth": null
   },
@@ -18454,12 +18460,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.2,
-    "news_title": "Coppa Italia Live: Follow Sunday’s First Round fixtures and results - Yahoo Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbHBfQ0R2Z2dURlR0OFp4a2h5cEpxMkkzQ0VjOURjS0RrYlBBTmxTNm9KN3hrd0ZTRjFIRkoyekl5cTdfeDQ4dEdUNkdTRXpLUmpLNVdkMFgxcHZJaEc1VmYweTZPNkVIMmFnT1MzQlE1bWpySGhpaUJSZWJXUWNHRGdNYVFJZw?oc=5",
+    "news_score": 0.14,
+    "news_title": "U.S. Sweeps Italy to Reach 2026 Girls U17 World Championship Semifinals - USA Volleyball",
+    "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRmd5dUZvcHpTSDNGOFdiTjU0M2NXdndrVnBnOGpmYzdnS2NOandQelBFczJUQWlZd3hrUzNqVTJCdjdCQ2dNMVRIVnNnMGNxTVBXNzVCU3hDNmVIREZ4MDd4bFRHbHVlWHlzNFBhenN1LTNIbFlRT29MWHQ0RWtreDFBWm1vSGRiMTRMT0I2RkZpT0RYOHBiNTBZRGhmZW5GRHVxb3B3?oc=5",
     "news_image": "",
-    "news_source": "Yahoo Sports",
-    "news_age": "2h ago",
+    "news_source": "USA Volleyball",
+    "news_age": "49h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -19142,14 +19148,18 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.53,
+    "news_score": 0.42,
     "news_title": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities? - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTEdDNlFVanJPMVl0SGhYbG9FX1UzMXg4NUpLUmEyc05QSkJEX0FWWnpsTzdmLTNRNkh4WnlBeDh2MWpGNTE3SkJKV0hqeC0wWmp6bnhnSVVIT0FSbXFjNHdnRGNDYXJwV0ZIRHBDZWh2Vm1nbFBMNXFFOXo5YzM2VHBKMW1GWDh4VWtXZl92TlVIa3Z0MzRrZTh2aVZtbDFZczJsVy0tdVhHTWPSAbABQVVfeXFMTmRDUkRVTndjVV9UMEo3SzZqYUo4eTN5NllXeGw2OGs5TjFQVkp5cVVXbDI3eTBGYnNYU2Ric0ZZakNBMkNSYU92VG5xZnVJSTVXb0xZZnMySTJWUy1VMl8wbWw1MGs5dnY2YXZMWDJnMC1JdFQ1V2twYUlrYjZOZEF6LUJTUnRnN3JiRFJ3bXJBcl9NRzZna21OOUVoUDRvaVg3TzVkSjFPMjF4T05wSDk?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
     "news_age": "3h ago",
     "news_columns": [
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -32929,19 +32939,19 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.35,
-    "news_title": "Ukrainian drone attack on Russia kills at least six, says Moscow - The Guardian",
-    "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZW93d2d5UGpOUm1INzFUdlpuNF92MkNaTFVDVjRaYWpFel9EQkNhN1N6VmFRV1ZGOWw1SnYydnpPMVVabGhMZ0FZRThrblNKY005RGc5UHNuNFVpUzY1UnRZeFg4VndlVk5QMlZ3NVlHMld6M29tRmx1aEVLdmdxRjBPWkNuS1VaNC1HYkctMFprZjZoVWZHUjU4a0xtcWxkWUZoYWRkanE?oc=5",
+    "news_score": 0.34,
+    "news_title": "BBC visits smouldering Kyiv market after Russian strikes - BBC",
+    "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80Tkk5UzVvRHNZWXB1eWpWMzBhR0hsX0VZQlA5c2NPV3NkVU9oZjZhbE55ZGZzb2J6SDlBdTBYb0xGX19uQ2NEYmZkaFRnakZhNXo0d0NzWQ?oc=5",
     "news_image": "",
-    "news_source": "The Guardian",
-    "news_age": "6h ago",
+    "news_source": "BBC",
+    "news_age": "5h ago",
     "news_columns": [
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
       "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "nuclear"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -34773,7 +34783,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPODVNbm9LcVAySVBPZ3N0TE1lWDRYWmlkd2JZbDdVczV2d0FiSEd6VndpTHVpVlpyck52dS1wdDltZDhrUGF6Z0lZS3NmbW9rSUVKQUdOUFo0LU5YLVFRMEQzZ0toMnZpZ1NqYzFHOWNwaTBRSlZ5RlFTMjlTM2YwVW5xcnJFQQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "107m ago",
+    "news_age": "109m ago",
     "news_columns": [
       "basket",
       "olympic"
@@ -36503,15 +36513,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.5,
+    "news_score": 0.57,
     "news_title": "What really happened in Ceuta? Why we may never find out - npr.org",
     "news_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qdHJVQ1F0S0hLN2hUTUdXdXdoUUxHdmVIOEVfUHB2VE1jMElCTzhxWGRDZElKM0l4LXFOV0R6eVJad1ZvUzdoMUtnT2RwdG1rS0hyNmdxbUZPb21VbzFDU2w3UkVsTVdtRmltNWxQNWxxOXNJWXc?oc=5",
     "news_image": "",
     "news_source": "npr.org",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -41019,18 +41028,18 @@
     "union_rate_rank": null,
     "fifa_w_rank": 32,
     "news_score": 0.32,
-    "news_title": "Ukrainian drone attack on Russia kills at least six, says Moscow - The Guardian",
-    "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZW93d2d5UGpOUm1INzFUdlpuNF92MkNaTFVDVjRaYWpFel9EQkNhN1N6VmFRV1ZGOWw1SnYydnpPMVVabGhMZ0FZRThrblNKY005RGc5UHNuNFVpUzY1UnRZeFg4VndlVk5QMlZ3NVlHMld6M29tRmx1aEVLdmdxRjBPWkNuS1VaNC1HYkctMFprZjZoVWZHUjU4a0xtcWxkWUZoYWRkanE?oc=5",
+    "news_title": "BBC visits smouldering Kyiv market after Russian strikes - BBC",
+    "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80Tkk5UzVvRHNZWXB1eWpWMzBhR0hsX0VZQlA5c2NPV3NkVU9oZjZhbE55ZGZzb2J6SDlBdTBYb0xGX19uQ2NEYmZkaFRnakZhNXo0d0NzWQ?oc=5",
     "news_image": "",
-    "news_source": "The Guardian",
-    "news_age": "6h ago",
+    "news_source": "BBC",
+    "news_age": "5h ago",
     "news_columns": [
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
       "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "nuclear"
     ],
     "bottom50_wealth": null
   },
