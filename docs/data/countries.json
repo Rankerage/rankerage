@@ -2548,10 +2548,8 @@
     "news_source": "en.baochinhphu.vn",
     "news_age": "71h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
       "olympic",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3316,7 +3314,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0RobDA2R00tX05jNHMwamZwS2hycTk3WUo1MzJBeXZLYXo1SWRqRVcycjg1Nm8yZmM4dXh6cGNNYkdENk9uYl9BWjN5LURiRTFyWkVGWXJfWGVlOG1kRVV1WTVpek5OUWtrMy1pZVJfUzkwSWxCZ1dUZlFYSlhJa2lFV2JXald3Z1hzZ1J2TXBhbm5xZjV2MkhTZGE1Y3lsVlZNWDdfWGg3LXNrd2Rr?oc=5",
     "news_image": "",
     "news_source": "The Daily Star",
-    "news_age": "9h ago",
+    "news_age": "10h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -6911,12 +6909,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.19,
-    "news_title": "IFAF World Championship: Men’s Semi Final - Canada vs. Italy IFAF World Flag 2026 - DAZN",
-    "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRVdlcEh1U1VmV3BjVmZhdDFrbnRlbUhNZWRJMmlPLU9qbUQ4bzA4dUpaRnUwU3BWTTdzS1dscVEtZXl0SzA2c2Z2MzdPX19seEI3MlVoSTY4WDZyckEyU1lpSTBia1hyaW9QSFpHaWl0TlBTYXV2Z2t0dlF3bkhuQV9DSHpFTWI5djRj?oc=5",
+    "news_score": 0.2,
+    "news_title": "IFAF Flag Football World Championships 2026: Canada women secure first Olympic quota: \"It's a little girl's dream\" - olympics.com",
+    "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWhuUl9GWWFDQWtOczl1ZFdHaWp4OC1nS2hNNVBfSlQxOG9ubnk4Qkd4QTczbFlwRUNhTl9SaVJpMndabng2MTY3bHlyTEl3NjY0Ykl3UDl5X1JXS21rYkpnekJ3cXBFalZHZTgwUGhDbFVac0VtSkxPcUZxbk1USHpMczg5bHVUVTR6bUtvYXg4dWh3SEhBdnd2SEw3VWs?oc=5",
     "news_image": "",
-    "news_source": "DAZN",
-    "news_age": "8h ago",
+    "news_source": "olympics.com",
+    "news_age": "7h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -8219,15 +8217,19 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.51,
+    "news_score": 0.41,
     "news_title": "How to beat an earthquake: The Colombian city where no one died - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbUFzcEpwaWV4WE5pY0JDYldIMFV5QnFjRnFqbF9BaFVUN2VtOU9TOVpiWEhRX3ZEQzVXVWdqenBoS1FibGVLR3FtUlJYdlk0R0FWRkhhbE11cWhGSHY1eEYxcTJSZXFMRUc1OXBMVXVMR1B2RFBLSHAtY0JMRlhpTUJ2OGgtNWNBVWxPa1dfb2dkUjB0bVFxVFZBRHlOUEJtYk5pSjZ5WQ?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "earthquake_count",
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ],
     "bottom50_wealth": null
   },
@@ -12946,7 +12948,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMjRyT1J3Mzg3QUhDTm5DUC12RF8tZXR4a2ZEaGhTRmpoUDJjVEM0LU9zRlhCb2RfcnlSRUxvR2dTaG9ONXMtZlBvR0ZNaFY1SzduOU13TXhNTjJjVDV1UGk5TjhSWUxYWG9tZ2pCcGpUWVdtTFRRNzR5ZUFEMjZGdGlfNEZFV1RsWXZaWnp4MGE?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "81m ago",
+    "news_age": "83m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -13465,7 +13467,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.58,
+    "news_score": 0.57,
     "news_title": "An Early Look at SEC Opponent: Georgia - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc0NwZ1dDLTQyVmt4WkluMmpSWGR2SEUtU1VVNkZpN3NfdDBlTkpidGE0djlnaGJfNncwSk5nNlVQWFBsOWE2ektiaXFxUnZjWTF6RXpFZGFTSV9Hb0Z3WnA0ak5wMXk5WGtPVDNmUVFGU3pfSk5uVEhyeDd1cU9xbUx1UEJEc00?oc=5",
     "news_image": "",
@@ -13965,7 +13967,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.54,
+    "news_score": 0.53,
     "news_title": "Germany's Liebmann smashes 1500m world record - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMkVpUEJfaGJDY0pDZmp3RlAwV3VLclRPQU1oZEd6amhteHlESnQ2czVuY0ZQQnE4ajllQkdDR3FiYjNIY0hxczVhWXBoY1JtYkt2NG54QlVRWmdRMVBZeHRzekpBZzFxUlRhbFN6N3luWTFmbElsMWg4QU1vMjVqVm54dnRWY2hrUU05cUxUM2c?oc=5",
     "news_image": "",
@@ -13973,7 +13975,7 @@
     "news_age": "3h ago",
     "news_columns": [
       "olympic",
-      "fifa_ranking"
+      "fifa_w"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -14161,7 +14163,7 @@
     "union_rate": 60.4,
     "union_rate_rank": null,
     "fifa_w_rank": 50,
-    "news_score": 0.0,
+    "news_score": 0.04,
     "news_title": "Plans advanced for establishment of University of Science and Technology in Damongo – Haruna Iddrisu - Ghana News Agency",
     "news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcjhtY3hVSlhLZnJkUTE5dzRUSTBrT2pFdHZtdzJvcmRLdUxHSUpqT0ZQWG1qMHVVdXp0TU1FdDRqZlNrTy1BdEYwSTY4X2IxRHhsQ0h6VWxpVHYzXy0zYUt1WV9lTFZJNUdzeEd0dE1sQWhRNmdiRnlvMS1hX0NxUEFIV3JMd3Y2SldZLURHbG00a1N3UEYwZ0dGQXRMTDR5cUlBeXBVTkh6bzVyUGZDX3NUT29IX2tsNXJhQkQxVmkzMm1L?oc=5",
     "news_image": "",
@@ -16708,7 +16710,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNdFVOT1d1R2FURHRNR3hGcml0YTVIdGZNSmIzanpUUlVCS085WW5odDV0VDV3cXVzNXR5ZDZVeGdKRWFEN2ZJdjVTdzhtcVRIOXM5WjJSbmRoR2kyLUVoTC1sclUzdW1VOHdJZW1qRDBHQVJNX29YR1dMVEg3OXdKdEIyZGVtN3dSeG9FRjdWdWVNd2J6V0VlSzBvcnpYbV9Rd2wyZE9Nd2dUcWpZMHhDNVBoSnJoWFRKb0Z5UkIzTllnUTJYU1BjVTlEbEQ2aTh4cHpkcUI2UFdpeWdscW5odFJZa0J2TzNoQmhEYzliOFZOcWZ1M1dRRkhxSEZ0bTVjQWZlR9IBigJBVV95cUxPUkk2aE5mWUtjRFllYnpoV3dHMmpERTFaSl8zVnJ6TGxXYlZqYmtnZ3lSSUZtZFgtSEhEVXBaWjljZWRjWFVRTTQxNzVaVmdBU2xuei15bnFlcENoOEhsV2hlb01GYV9Rb1NycGFjeE5rNUNVZ0luNmFNalNVdW9kQTIzUnlIaFFYbllHOW5qYkw4cEVESDNjSzY3UnVabGtRREluOV9ZRG9yczJrT3hwWG0zc0s4RVdVSV9PZGtVOWhVZWRzbzJuUWhTcW1uaTlEei1hQy1xZWNGTnhUX096TnZMdVNhNUlVaTBDbklKRkV3cDNpeDhVN042V0FYdXBWNVB5bzlBVWV2Zw?oc=5",
     "news_image": "",
     "news_source": "The Times of India",
-    "news_age": "116m ago",
+    "news_age": "118m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -17286,8 +17288,7 @@
     "news_source": "WSJ",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -19143,15 +19144,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.9,
+    "news_score": 0.68,
     "news_title": "Takaichi skips controversial shrine on 81st anniversary of Japan's World War II surrender - Politico",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV0NlZGtyellYYXpBR2txcXVLOVNoWGtfbmd1RVRtbXYzU1ZqdUVrNDM2b1JBd01ZWmtnYW9XRFQyNnZyQUpLeDBkUGtIbFRVTXdaZEhtbDNoNzNKY194THdtaEctTDZaZ2dja0F1dWlIQ2VpTHhjSG1TMDVadU0yVXlXNTBrT0oxR0pJY2RNNEE?oc=5",
     "news_image": "",
     "news_source": "Politico",
-    "news_age": "89m ago",
+    "news_age": "91m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -41012,7 +41017,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.11,
+    "news_score": 0.0,
     "news_title": "Did life emerge on Earth twice? Scientists find surprising evidence - RBC-Ukraine",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWGFyQjA1MGl2eHZ6aUdCLVVkMTRpVmlUR2I0ZmFkZU0yUzhyT2tyd3kwU3c5UnNmQUN4Rno2am83ZkVZdXFvUWZRNzUtSzJwVHBfbjJoTWg4WWktVWV6NUVzV2l4eWEtN0JQcFlLTHRiQzA3MHNiVkphSzkwWV80UzRnSnU5eXVibHZUX1EyZklnbjA?oc=5",
     "news_image": "",
