@@ -3309,7 +3309,7 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.55,
+    "news_score": 0.54,
     "news_title": "Govt’s debt outpacing revenue growth: Bangladesh Bank - The Daily Star",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2VJMktNWVhONktXZVFwQUhyVmFIWmRjWnFlZG5iNVEyeFN1ZmtFV1hVRFpkWXp6V1RTOTZXSVg4S2R4dFpuWlNLMFZHay01UWROSmhjOGM5cXVPbnJMeXd3VGlsS2s2SE5XNFVIUHZTUVp1N3plZHpmSnZSMC1ZUVBsV2oxN0c3MExIRVFzaG5EdWZQLS1UaHQ4SG9oNzZXVlZsZXlvVXFzaDFVTTI4?oc=5",
     "news_image": "",
@@ -17015,7 +17015,7 @@
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
     "news_score": 0.14,
-    "news_title": "Rescuers search for survivors of powerful Indonesia earthquake - bbc.com",
+    "news_title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue - bbc.com",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yd09DeUZVMlpkZlF6bFQ5N3NNVDNaUWVFTURSN1RKZFlyM1U4cTRGalhYWGplN1d4b21mZkNoeHVwYUp3cGRTdXdvSnhqNUVUakZIcGdKYmVQdw?oc=5",
     "news_image": "",
     "news_source": "bbc.com",
@@ -17280,15 +17280,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.62,
+    "news_score": 1.32,
     "news_title": "US top Middle East commander visits deployed aircraft carrier, and other Mideast news - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWnFRcW9HbzBnVEVnSk92am10b0F0NGx4RTJlcjRTY28xQVdwWWxkdGd5eXNMdmxWeEFRQ3BFZEN6bUF1WDVCQkUtTjlrTGdtenNWclIteG9CRTVZdzVNaUJ4Z2FPVE0zaTBEX0RIdlRWMG1ieHRYcWt0dXpWYllGTjRnT2cxVDZwS0FCNEFEZnpJa0c1VXpaTGw0eFJxc251RUVvUmJPVmltWWlJbHBaLUJwd1I?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "38m ago",
+    "news_age": "40m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -18451,7 +18455,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.03,
     "news_title": "IFAF Flag Football World Championships 2026: Italy \"go to bed with a giant smile\" after securing men's quota to LA28 - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaldyN3pLQnFSWWdtRkNHVUVZWnVyQmtYVXhqd25GajFyeDYxWXJOQVlYZjk5bWZNaldud19kbjluYkYwWFJpSWt1dFRwUWFTLW00X241YVM5ZmNENFVaTWxwLUY1a2liTjhxNjlKSjVsRWNPQnRGNEdZaWNranBUTndKYW9QUXlJbjRMNi1kNUt6MlBtYmZwM1NsVE1IZkZyX2VjcHEtN3NNYXllQmNuUVp3bHY?oc=5",
     "news_image": "",
@@ -18459,7 +18463,11 @@
     "news_age": "12h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket",
+      "olympic_gold",
+      "olympic_per_cap"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -19139,15 +19147,18 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.52,
+    "news_score": 0.39,
     "news_title": "Lakers sale highlights sports gold rush among billionaires in North America - The Japan Times",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbmlXUk5rUGxFR3UyeDg3UUtXY3ZiWklHN29kMDk4akxGRHpaTHRtcUdNSVNVbl9rVVJhNGY1cURNNVNIME5CUHNrSVlWSkoxa3p4MGtLbkJfM1VLMGNaUFlVdVlkNUdYSzFhVDFHbmE2WGUyX3ppdFRLQ18xVF9NRmd1VGdweENBS0V2WjVOc2dpVW8?oc=5",
     "news_image": "",
     "news_source": "The Japan Times",
     "news_age": "3h ago",
     "news_columns": [
-      "olympic",
-      "basket"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -19771,7 +19782,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalhtNzZJZlRrMFVhSUVLN0FhUmpjdThMS1RMLThXMnJOOXA0Y1I0X3dPVENlNTZKX2hOSHZ1dmhaQVVFVWlyTjJNbTgzQnhnV0pPNlpsek45aXRsbF9BaXV5NjcyRUFyUHY0UU0wQVJFdFZRbXpJeE9HVU1NSTJ0V2ZQNWkyT0pwa2RfajhGZE9ZaHp3NUdtenJ4amFwdmZUazBaMEVvVVk3S2Q0Rl9QMEZB?oc=5",
     "news_image": "",
     "news_source": "theelephant.info",
-    "news_age": "50h ago",
+    "news_age": "51h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -21125,7 +21136,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 105,
     "fifa_w_rank": 87,
-    "news_score": 0.46,
+    "news_score": 0.45,
     "news_title": "Lebanon senior Kinley Young previews 2026 season - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMzB2OUI5YXNJcmdxVjJ2emRJa0V0QmtrRERaeVRqckRPa21XVXM5MTdRZTJTWEZTcXV3MzgtVEFLYWpSQWR2NXduMUdvSElnOF9yb05TSjBhbWp1YWIzamhpS3VkOFRHS2FDZnZoSmxQZjN1RnljZmdPWC1BNzRhSXBFeHRoUnJmdW1iX0hB?oc=5",
     "news_image": "",
@@ -32121,7 +32132,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3lWQ2k3NWxXV1ZXWG5hUjhON0FzV0xGWmxmRC1YTEtFM0htWGZ3M3l4eDRGa244aTA2TGdrTmt5WDVtcFhQQ2pVZkNoNjU0eGZsQzlHOF92VmZoeTZ1dGk0NUdiazJJVTV5akNDbkRmRXZMOUs5NkJOaUk5ZDQ0VW1WNnUxRlZKZ3duRnFkbHlzZFZfcy1BdDFBeDZ4UlcxTmxEcWluWUJQWVA3aTQ5eGdYYzV1NlU?oc=5",
     "news_image": "",
     "news_source": "independent.co.uk",
-    "news_age": "58m ago",
+    "news_age": "60m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -32565,10 +32576,10 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 49,
     "news_score": 0.1,
-    "news_title": "NATO fighter jet shoots down drone breaching Romania’s airspace - CNN",
-    "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JLUlfczhlN0l3WHFLYVJaZEZ5ZkY0VWl6T3ZycUpXYWxQdllxeEZtVzVWaFhDMEdnV2lHRlUwS0l2SFkxWVY3MXlfQWE4RWdzUV85WV8yajRrdHU1Y0l2clRmWklDTlp1SE9VeUwxbWFXcUVjWWdPUzBWWEZlY2s?oc=5",
+    "news_title": "Suspected Russian drone shot down in Romanian airspace - Reuters",
+    "news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEYyM3ZsTmtyUnloWUNXS0V4aUx6elJfWmp5UGlZRjJId3N2bkVSYzBZUHdpRXZudEc3aGJoemhNTGdoQUJ5al95MG9EMFA0OW1FVWlGRHBUeVdiRnBQZ1RsY1JZQ1FBQVAxNHNYRDN3REktaXpWOEFWM2RKQ09NNE4xYVpqc0czcE5jcXpLT0ZRLXM4UFFtSDlfREpxQnAwd3liT1IwaG50bmk1X2VRajRMb1FkbDhabTctR25CM0lBd3d2aHZ3?oc=5",
     "news_image": "",
-    "news_source": "CNN",
+    "news_source": "Reuters",
     "news_age": "7h ago",
     "news_columns": [
       "gdp",
@@ -32916,15 +32927,18 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.04,
+    "news_score": 1.25,
     "news_title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2hEQ3RLck5hS0ppd1g4SW9mZDgzY3FwM0VOU2ctOVpqZXBPOF9sVjc4SW1aaXFVZmpXWHFqQlhnSVNWdUEzaUR3N3QtUlVQOWEwZTdTRVZEcW0xMmdhSWctLVFacGU0RU5ZYU0zNFRQNVRjTHRseVFuQ0pjek0xVklPcDlXVUVzZmp6aWNZeFpqOEhab2NZeXlWWTFoZ1hoWXktQjIxQ1NJVVVVbm1WdTY4NnLSAboBQVVfeXFMTldXcXBScHdFb0xMM3VWZE5VZ0lad012blFBNzhhY25zUmJOTHBXZVdIdHR0LU15TUgwc1BVY2RQNnhQaHFpc08xT2RaYkRkdmI3NUtnVEtLT0VFVHNLaThfOVJzRk0zRldwdDBkOVVYYXdCaGwzVTFMdW5lMmdtaHlwRTU3TGNoOGRjQXBtODBfMndabmJ3U1NxWjl6RF96VHlOOUFlNk1aemVXQVZJZFZTaWNxcnY4b0tn?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "22m ago",
+    "news_age": "24m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -34086,7 +34100,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 100,
-    "news_score": 0.06,
+    "news_score": 0.07,
     "news_title": "JD Vance and the Trump team keep moving the goalposts on Iran - Yahoo News Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ickpLdjhvTVpVZGFSYl83bFFlb2traEtha0VUcndYdzB2ZVBNQ0hMRGNmWmxJWkNoTmVacDk3VW5VWHQ1OG4xS2JVejRDM05tVGJsY0tRNkJ1bURZNExuVGZqMno2SW45QVMxRDcwVklBdkU?oc=5",
     "news_image": "",
@@ -36495,8 +36509,12 @@
     "news_source": "Reuters",
     "news_age": "17h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "gender"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -41003,15 +41021,18 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 1.04,
+    "news_score": 1.25,
     "news_title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2hEQ3RLck5hS0ppd1g4SW9mZDgzY3FwM0VOU2ctOVpqZXBPOF9sVjc4SW1aaXFVZmpXWHFqQlhnSVNWdUEzaUR3N3QtUlVQOWEwZTdTRVZEcW0xMmdhSWctLVFacGU0RU5ZYU0zNFRQNVRjTHRseVFuQ0pjek0xVklPcDlXVUVzZmp6aWNZeFpqOEhab2NZeXlWWTFoZ1hoWXktQjIxQ1NJVVVVbm1WdTY4NnLSAboBQVVfeXFMTldXcXBScHdFb0xMM3VWZE5VZ0lad012blFBNzhhY25zUmJOTHBXZVdIdHR0LU15TUgwc1BVY2RQNnhQaHFpc08xT2RaYkRkdmI3NUtnVEtLT0VFVHNLaThfOVJzRk0zRldwdDBkOVVYYXdCaGwzVTFMdW5lMmdtaHlwRTU3TGNoOGRjQXBtODBfMndabmJ3U1NxWjl6RF96VHlOOUFlNk1aemVXQVZJZFZTaWNxcnY4b0tn?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "22m ago",
+    "news_age": "24m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": null
   },
