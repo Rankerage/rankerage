@@ -2541,14 +2541,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.67,
+    "news_score": 0.68,
     "news_title": "Bangladesh thrash Australia for historic win - sports.yahoo.com",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMDQ2ZlZnSG9jU3kxMmZZanUxU0EzMVoyUVVjY1VBb2dHd1E4N1RLUzBDMGlmYmJ4d251d3VybkZVclJrdDlFcXRuRUxPWjRUSGVmbDBNWkFuZ0R2SkdzVTNZaVM4dHFRLWFkNExSMUhqbE1jTmVUZ1d5WHVEQzh1SmJZSzBkVW83NEVHXzVIZlc4QlE?oc=5",
     "news_image": "",
     "news_source": "sports.yahoo.com",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3308,15 +3309,15 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.45,
+    "news_score": 0.65,
     "news_title": "Bangladesh thrash Australia for historic win - sports.yahoo.com",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMDQ2ZlZnSG9jU3kxMmZZanUxU0EzMVoyUVVjY1VBb2dHd1E4N1RLUzBDMGlmYmJ4d251d3VybkZVclJrdDlFcXRuRUxPWjRUSGVmbDBNWkFuZ0R2SkdzVTNZaVM4dHFRLWFkNExSMUhqbE1jTmVUZ1d5WHVEQzh1SmJZSzBkVW83NEVHXzVIZlc4QlE?oc=5",
     "news_image": "",
     "news_source": "sports.yahoo.com",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -7973,7 +7974,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORk1xOXhXdG54UHZna2lJVl9uOE1xTlJiVE8wNl8zVnN2SEdXajlyRnVUejdqRkJiTkNES2VXOVpUYW0zS3gtN1ZSTmR3VUd5aV9FV0ZoM0NsSGFDczdrYXRpRmJtZUVaTzBGc2lhb0tneVJMRlJqcGZBRlA1aUxJUDRKdVdTa0VnMHQwSkFLY2h1amZKNmtobk56cklWbTB6T3EzQ0todjA4WVQ2c1RUSE1RV3JiLThtNnQ5Z0g2Rmc4ZDNIaThkNzNIczlPZ3YwRHg4SkNKcjVZV0HSAdsBQVVfeXFMTm5DV3FJNkNDSDRKNjBNVTUzWjFrSDBqeUV5OFF6cXFYQ0dQbjQwZkRqU3cxTGxxRVdMSFB0em9qbUNmYlE3UEM5R05iLWlmNGVUNWh5MW1odzE5Vk9FT0VHZTdmSXYwaHRRaU9RZVFoZnFXaHlUOTZOZjdjUWpyVm5QSzlhM0F5U2Y4bXR4RFY1V3I1dTRSNTdQUUpQMUtyN0Z1LXRSWWg2WWhtOEF5c2t2eVlmeFRFb0tLYndNNlJYUTlTTGNKWmlabGRSbG40a2xzSHJkZnNGQVVR?oc=5",
     "news_image": "",
     "news_source": "South China Morning Post",
-    "news_age": "22h ago",
+    "news_age": "23h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -13974,8 +13975,7 @@
     "news_source": "Reuters",
     "news_age": "11h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -15769,7 +15769,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORk1xOXhXdG54UHZna2lJVl9uOE1xTlJiVE8wNl8zVnN2SEdXajlyRnVUejdqRkJiTkNES2VXOVpUYW0zS3gtN1ZSTmR3VUd5aV9FV0ZoM0NsSGFDczdrYXRpRmJtZUVaTzBGc2lhb0tneVJMRlJqcGZBRlA1aUxJUDRKdVdTa0VnMHQwSkFLY2h1amZKNmtobk56cklWbTB6T3EzQ0todjA4WVQ2c1RUSE1RV3JiLThtNnQ5Z0g2Rmc4ZDNIaThkNzNIczlPZ3YwRHg4SkNKcjVZV0HSAdsBQVVfeXFMTm5DV3FJNkNDSDRKNjBNVTUzWjFrSDBqeUV5OFF6cXFYQ0dQbjQwZkRqU3cxTGxxRVdMSFB0em9qbUNmYlE3UEM5R05iLWlmNGVUNWh5MW1odzE5Vk9FT0VHZTdmSXYwaHRRaU9RZVFoZnFXaHlUOTZOZjdjUWpyVm5QSzlhM0F5U2Y4bXR4RFY1V3I1dTRSNTdQUUpQMUtyN0Z1LXRSWWg2WWhtOEF5c2t2eVlmeFRFb0tLYndNNlJYUTlTTGNKWmlabGRSbG40a2xzSHJkZnNGQVVR?oc=5",
     "news_image": "",
     "news_source": "South China Morning Post",
-    "news_age": "22h ago",
+    "news_age": "23h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -16042,7 +16042,7 @@
     "refugees_rank": null,
     "union_rate": 78.3,
     "union_rate_rank": null,
-    "news_score": 0.31,
+    "news_score": 0.36,
     "news_title": "A bus crash in Hungary kills 12 people, police say | World News | 2news.com - KTVN",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObk0xUTlnazNlTHZpUDhoYTJhZ2FUdXdiVG5nX2ZXd091WXIzMkNrM2JpYUJtZW5lS1Y0SnFNZ2VLM3JZYlRVTm9hRG55bmdNV0w1VmdEZ0RUM3hMRjk1V2pEVUpMOGxfaEZXZk9TU0tMcVFuM3pRV2REamJKT2E1WnM3a2J0eGNoMFNNbjhNSEY4QndKZHR1dy1SQ2M4elFRMktBcTcwVXZHZGN4QkNWTWdnR0hVTWh5dnNpVVFybnNGQ1d6elR6cjBB?oc=5",
     "news_image": "",
@@ -17012,12 +17012,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 0.62,
-    "news_title": "Rescuers search for survivors of powerful Indonesia earthquake - bbc.com",
+    "news_score": 0.73,
+    "news_title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue - bbc.com",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yd09DeUZVMlpkZlF6bFQ5N3NNVDNaUWVFTURSN1RKZFlyM1U4cTRGalhYWGplN1d4b21mZkNoeHVwYUp3cGRTdXdvSnhqNUVUakZIcGdKYmVQdw?oc=5",
     "news_image": "",
     "news_source": "bbc.com",
-    "news_age": "91m ago",
+    "news_age": "93m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -18007,10 +18007,10 @@
     "union_rate_rank": null,
     "fifa_w_rank": 53,
     "news_score": 0.01,
-    "news_title": "Iran wages economic war in hopes of outlasting U.S. and Israel - washingtonpost.com",
+    "news_title": "Iran wages economic war in hopes of outlasting U.S. and Israel - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2ZCVmJ4amt6UTBvQ05kcDBFWnNzb1N6QldHQ3RSWVZ0NUdzemNtaTJGaTlzM1N5dVR0djFiVV9XUGNSc1JCR2RnczNYeTUxMW5WZU5aMmJLMVVqcElmVHpibHdWMm9xOFlLWGlhY2NlQUV5cDVVcTRWZHJaNGxjaXVR?oc=5",
     "news_image": "",
-    "news_source": "washingtonpost.com",
+    "news_source": "The Washington Post",
     "news_age": "3698h ago",
     "news_columns": [
       "military_pct",
@@ -24982,14 +24982,18 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 129,
     "fifa_w_rank": 83,
-    "news_score": 1.35,
+    "news_score": 1.32,
     "news_title": "Russia Campaigned to Derail Moldova’s Pro-Western Government - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1taWlOeVZORmJIXzg0cVlwQTVUTDQ2ZWpvQzd3WURRb2k0VFVFRHYwcERTT25oVjcxaURDMTVldzlETGd2NXJmS1VkeVA4VGI2VDY5eWdMNm5WMFNMOURPY0hWX3dtTzR6cjhXT3RMTXdiVEtCa0VjVV9IYzZCQQ?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "4m ago",
+    "news_age": "6m ago",
     "news_columns": [
-      "fifa_ranking"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": null
   },
@@ -32570,7 +32574,7 @@
     "union_rate": 66.9,
     "union_rate_rank": null,
     "fifa_ranking_rank": 49,
-    "news_score": 0.0,
+    "news_score": 0.05,
     "news_title": "NATO fighter jet shoots down drone breaching Romania’s airspace - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JLUlfczhlN0l3WHFLYVJaZEZ5ZkY0VWl6T3ZycUpXYWxQdllxeEZtVzVWaFhDMEdnV2lHRlUwS0l2SFkxWVY3MXlfQWE4RWdzUV85WV8yajRrdHU1Y0l2clRmWklDTlp1SE9VeUwxbWFXcUVjWWdPUzBWWEZlY2s?oc=5",
     "news_image": "",
@@ -32922,14 +32926,18 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.86,
+    "news_score": 1.75,
     "news_title": "Russia Campaigned to Derail Moldova’s Pro-Western Government - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1taWlOeVZORmJIXzg0cVlwQTVUTDQ2ZWpvQzd3WURRb2k0VFVFRHYwcERTT25oVjcxaURDMTVldzlETGd2NXJmS1VkeVA4VGI2VDY5eWdMNm5WMFNMOURPY0hWX3dtTzR6cjhXT3RMTXdiVEtCa0VjVV9IYzZCQQ?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "4m ago",
+    "news_age": "6m ago",
     "news_columns": [
-      "fifa_ranking"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -36500,8 +36508,7 @@
     "news_source": "Reuters",
     "news_age": "16h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -41008,14 +41015,19 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.84,
+    "news_score": 0.8,
     "news_title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2hEQ3RLck5hS0ppd1g4SW9mZDgzY3FwM0VOU2ctOVpqZXBPOF9sVjc4SW1aaXFVZmpXWHFqQlhnSVNWdUEzaUR3N3QtUlVQOWEwZTdTRVZEcW0xMmdhSWctLVFacGU0RU5ZYU0zNFRQNVRjTHRseVFuQ0pjek0xVklPcDlXVUVzZmp6aWNZeFpqOEhab2NZeXlWWTFoZ1hoWXktQjIxQ1NJVVVVbm1WdTY4NnLSAboBQVVfeXFMTldXcXBScHdFb0xMM3VWZE5VZ0lad012blFBNzhhY25zUmJOTHBXZVdIdHR0LU15TUgwc1BVY2RQNnhQaHFpc08xT2RaYkRkdmI3NUtnVEtLT0VFVHNLaThfOVJzRk0zRldwdDBkOVVYYXdCaGwzVTFMdW5lMmdtaHlwRTU3TGNoOGRjQXBtODBfMndabmJ3U1NxWjl6RF96VHlOOUFlNk1aemVXQVZJZFZTaWNxcnY4b0tn?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
