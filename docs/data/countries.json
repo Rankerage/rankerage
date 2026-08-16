@@ -212,7 +212,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUcwZmlieHVTblctVUFxREhEWF84RHhHazFkR0hMMFJuaThzTHpKNVprZ1lFUExDSzRQZF8zNXVab1ZfX0w3cGJsZV9oRVE5UzJFQjQ1ckp1czB2X29SNXRMTGtkN3AwUUZLRDZscmkyUnNOM3N2UmtrbDhEczFPV2dldU9UNHV5MDhER1JZbUF0QUc4VWQ4bGV6NWRKUXBlQTluNEJB?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "12h ago",
+    "news_age": "13h ago",
     "news_columns": [
       "olympic"
     ],
@@ -2541,13 +2541,14 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.69,
+    "news_score": 0.66,
     "news_title": "Bangladesh thrash Australia for historic win - sports.yahoo.com",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMDQ2ZlZnSG9jU3kxMmZZanUxU0EzMVoyUVVjY1VBb2dHd1E4N1RLUzBDMGlmYmJ4d251d3VybkZVclJrdDlFcXRuRUxPWjRUSGVmbDBNWkFuZ0R2SkdzVTNZaVM4dHFRLWFkNExSMUhqbE1jTmVUZ1d5WHVEQzh1SmJZSzBkVW83NEVHXzVIZlc4QlE?oc=5",
     "news_image": "",
     "news_source": "sports.yahoo.com",
     "news_age": "2h ago",
     "news_columns": [
+      "fifa_ranking",
       "olympic"
     ],
     "bottom50_wealth": 5.0,
@@ -3308,7 +3309,7 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.46,
+    "news_score": 0.62,
     "news_title": "Bangladesh thrash Australia for historic win - sports.yahoo.com",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMDQ2ZlZnSG9jU3kxMmZZanUxU0EzMVoyUVVjY1VBb2dHd1E4N1RLUzBDMGlmYmJ4d251d3VybkZVclJrdDlFcXRuRUxPWjRUSGVmbDBNWkFuZ0R2SkdzVTNZaVM4dHFRLWFkNExSMUhqbE1jTmVUZ1d5WHVEQzh1SmJZSzBkVW83NEVHXzVIZlc4QlE?oc=5",
     "news_image": "",
@@ -13974,8 +13975,7 @@
     "news_source": "Reuters",
     "news_age": "11h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16042,7 +16042,7 @@
     "refugees_rank": null,
     "union_rate": 78.3,
     "union_rate_rank": null,
-    "news_score": 0.14,
+    "news_score": 0.24,
     "news_title": "A bus crash in Hungary kills 12 people, police say | World News | 2news.com - KTVN",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObk0xUTlnazNlTHZpUDhoYTJhZ2FUdXdiVG5nX2ZXd091WXIzMkNrM2JpYUJtZW5lS1Y0SnFNZ2VLM3JZYlRVTm9hRG55bmdNV0w1VmdEZ0RUM3hMRjk1V2pEVUpMOGxfaEZXZk9TU0tMcVFuM3pRV2REamJKT2E1WnM3a2J0eGNoMFNNbjhNSEY4QndKZHR1dy1SQ2M4elFRMktBcTcwVXZHZGN4QkNWTWdnR0hVTWh5dnNpVVFybnNGQ1d6elR6cjBB?oc=5",
     "news_image": "",
@@ -16702,7 +16702,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.06,
+    "news_score": 0.05,
     "news_title": "Dad flying business, kid in economy? Why some parents are limiting their children’s privileges - The Times of India",
     "news_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNdFVOT1d1R2FURHRNR3hGcml0YTVIdGZNSmIzanpUUlVCS085WW5odDV0VDV3cXVzNXR5ZDZVeGdKRWFEN2ZJdjVTdzhtcVRIOXM5WjJSbmRoR2kyLUVoTC1sclUzdW1VOHdJZW1qRDBHQVJNX29YR1dMVEg3OXdKdEIyZGVtN3dSeG9FRjdWdWVNd2J6V0VlSzBvcnpYbV9Rd2wyZE9Nd2dUcWpZMHhDNVBoSnJoWFRKb0Z5UkIzTllnUTJYU1BjVTlEbEQ2aTh4cHpkcUI2UFdpeWdscW5odFJZa0J2TzNoQmhEYzliOFZOcWZ1M1dRRkhxSEZ0bTVjQWZlR9IBigJBVV95cUxPUkk2aE5mWUtjRFllYnpoV3dHMmpERTFaSl8zVnJ6TGxXYlZqYmtnZ3lSSUZtZFgtSEhEVXBaWjljZWRjWFVRTTQxNzVaVmdBU2xuei15bnFlcENoOEhsV2hlb01GYV9Rb1NycGFjeE5rNUNVZ0luNmFNalNVdW9kQTIzUnlIaFFYbllHOW5qYkw4cEVESDNjSzY3UnVabGtRREluOV9ZRG9yczJrT3hwWG0zc0s4RVdVSV9PZGtVOWhVZWRzbzJuUWhTcW1uaTlEei1hQy1xZWNGTnhUX096TnZMdVNhNUlVaTBDbklKRkV3cDNpeDhVN042V0FYdXBWNVB5bzlBVWV2Zw?oc=5",
     "news_image": "",
@@ -17012,12 +17012,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 107,
     "fifa_w_rank": 77,
-    "news_score": 0.3,
+    "news_score": 0.53,
     "news_title": "Rescuers search for survivors of powerful Indonesia earthquake - bbc.com",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yd09DeUZVMlpkZlF6bFQ5N3NNVDNaUWVFTURSN1RKZFlyM1U4cTRGalhYWGplN1d4b21mZkNoeHVwYUp3cGRTdXdvSnhqNUVUakZIcGdKYmVQdw?oc=5",
     "news_image": "",
     "news_source": "bbc.com",
-    "news_age": "5h ago",
+    "news_age": "89m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -24982,12 +24982,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 129,
     "fifa_w_rank": 83,
-    "news_score": 1.26,
+    "news_score": 1.32,
     "news_title": "Russia Campaigned to Derail Moldova’s Pro-Western Government - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1taWlOeVZORmJIXzg0cVlwQTVUTDQ2ZWpvQzd3WURRb2k0VFVFRHYwcERTT25oVjcxaURDMTVldzlETGd2NXJmS1VkeVA4VGI2VDY5eWdMNm5WMFNMOURPY0hWX3dtTzR6cjhXT3RMTXdiVEtCa0VjVV9IYzZCQQ?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "0m ago",
+    "news_age": "2m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -32574,7 +32574,7 @@
     "union_rate": 66.9,
     "union_rate_rank": null,
     "fifa_ranking_rank": 49,
-    "news_score": 0.09,
+    "news_score": 0.11,
     "news_title": "NATO fighter jet shoots down drone breaching Romania’s airspace - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JLUlfczhlN0l3WHFLYVJaZEZ5ZkY0VWl6T3ZycUpXYWxQdllxeEZtVzVWaFhDMEdnV2lHRlUwS0l2SFkxWVY3MXlfQWE4RWdzUV85WV8yajRrdHU1Y0l2clRmWklDTlp1SE9VeUwxbWFXcUVjWWdPUzBWWEZlY2s?oc=5",
     "news_image": "",
@@ -32931,7 +32931,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1taWlOeVZORmJIXzg0cVlwQTVUTDQ2ZWpvQzd3WURRb2k0VFVFRHYwcERTT25oVjcxaURDMTVldzlETGd2NXJmS1VkeVA4VGI2VDY5eWdMNm5WMFNMOURPY0hWX3dtTzR6cjhXT3RMTXdiVEtCa0VjVV9IYzZCQQ?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "0m ago",
+    "news_age": "2m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -36508,8 +36508,7 @@
     "news_source": "Reuters",
     "news_age": "15h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
