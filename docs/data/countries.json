@@ -6908,7 +6908,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.07,
+    "news_score": 0.06,
     "news_title": "IFAF Flag Football World Championships 2026: Canada women secure first Olympic quota: \"It's a little girl's dream\" - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWhuUl9GWWFDQWtOczl1ZFdHaWp4OC1nS2hNNVBfSlQxOG9ubnk4Qkd4QTczbFlwRUNhTl9SaVJpMndabng2MTY3bHlyTEl3NjY0Ykl3UDl5X1JXS21rYkpnekJ3cXBFalZHZTgwUGhDbFVac0VtSkxPcUZxbk1USHpMczg5bHVUVTR6bUtvYXg4dWh3SEhBdnd2SEw3VWs?oc=5",
     "news_image": "",
@@ -6916,7 +6916,11 @@
     "news_age": "9h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket",
+      "olympic_gold",
+      "olympic_per_cap"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -7967,7 +7971,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.82,
+    "news_score": 0.74,
     "news_title": "India face China in Women's Hockey World Cup; East Bengal in Durand Cup quarterfinal: Indian Sports LIVE, August 16 - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQejBFYnVfeWNrcU93SkEyRFNMODhTeWlHcG9qR0tyN2NHSXZJVUwtbnhkbGZ3Uy1GUVBSckExV2M4WVRkdF90SW1uOTV2RU9DSXRrMVdidXBCNkdrbnVEZHUwTGVLaHZ5VUNxLW9Xb1N4ZTJxSkt6WGJXVzN4SHRMby1VTWsxaFZwUUl0Ti0xZEU4bU5XTUNJMDBVWVNaMFlNVkxnMU51V19wZlZ6aXVxUjUyb20xUEFERmdtdkpTUFkxemdkYnlKeG9yMFVUVjZMeFRwUFJmYTF4UG5TRnlqdFJTRUs?oc=5",
     "news_image": "",
@@ -10429,7 +10433,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaWg0S1lQSHdVTVgydXdxUnlfN0NLV2QtVDFyTWpWY3hUTWVNelpPZkVlTEowbUt6N0hQdmJnV2V2WlNpRG10TFNjQnVJMmFqQkd1WTNSQWhWSFZmcWtMWkxSM1YwQXAteWZJQ21EdHNDVHU0d1ZnZWtJY0FXa3IwVFR6RkQwU2t0ZjNOSExSR1ZYYndGMmxkZ2pZd2tSVnNHMkpPNEYtTW43eENKMVR6dlVld2hvNzlX0gG-AUFVX3lxTE9QNEJRTC1MNl9LcEVHQ2k0SkdIT2JYLXpzNjFCYUVGNndCMGt5TFU1enlhY2VINkwydDNfSW9Mc3lfdzFJTTVWcElVU3pBSTA3bk1lQ3JUYjRpaTZWc0ViSjhiU3ZhSThuV2VqMTRNWWhSTmh4M0U4MjdGSU90VVZ1TW13X1ZfT1RqalRYUXVBbnJuM25CdzluVFZnZURqQWx5UHFwWFdPdWg1UXItc0E4LXFsMUNmaGU1RFJaSVE?oc=5",
     "news_image": "",
     "news_source": "fundsforngos.org",
-    "news_age": "1459h ago",
+    "news_age": "1460h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -12939,7 +12943,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.13,
+    "news_score": 0.09,
     "news_title": "India,France review expanding canvas of bilateral cooperation in science, technology & space | Akashvani News - Newsonair",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTExHRzVKTC11ZHhmMUF6RmZrSWFqMVI0dHhYajQ0U1FTWlEzZ05jTjB2MmlvVEgtUDkzeDJiWG5ENERDTHBPR0g2MXdybUwyWEcyRDFadkp2VjBwRFUzV3kzMENmU3AyVGgwLTBrcDBSY0o4WTZjNmx5bVJyeWRidTcyU243UmdYNHc3WTNEZWNVcTdfOVRwRkhKREQ0dlFlRHFlV0tnSGxSUTRtc211MWlneXo?oc=5",
     "news_image": "",
@@ -16706,12 +16710,12 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 1.21,
+    "news_score": 1.2,
     "news_title": "Tough run for Sindhu, world champion opener for Ayush: A look at India's prospects at the BWF World Championships 2026 - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeU1OMm1Ra011dTBkcUY3dzhiODVLNXNsRnp1cTVZa1l0TzlPYjY0ZjlfQmlCRENiNmtfVFlXSHNZX3lLMHJ2bHhaQnBYemRfVkowR2FYcE9rZXZFVHRBcnRzd1RDRjRidndSN1JwSWhUWGttWXpsd0xPankzZHBhMUxwUXlmT0pYN3UwSVo3LXBMQk92UUxrSmlNaXBzVWNFRXcxeFB6UUpHWGp5VWZhdmV2SmxMWnVfRjJUXzJCdU5HMjVGRHpsUjhxbGs3Ym1VX3ZhbUUyYzdrUkRnZ0lzSFJaalQzZTVocXlydGJYQQ?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "97m ago",
+    "news_age": "99m ago",
     "news_columns": [
       "olympic",
       "world_championships"
@@ -17278,19 +17282,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.58,
+    "news_score": 0.73,
     "news_title": "Iran responds after Trump teases Strait of Hormuz becoming US territory - Fox News",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54c0ZsdG9YaHJmMkxlQl9pdW5fR0RnM3BWc0ExaVFBNkxxU2daSGZjRk12QXhaV3ctRDRYRlF3SjMtOE5LelVzMUZ0cFYyNXJKWncySnhBdGpLd0tNY2tTUHYyVEMxdGw2d2RqOFJEeTFMdUVDQjhkZEtjQjdoTlk?oc=5",
     "news_image": "",
     "news_source": "Fox News",
     "news_age": "2h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "coffee"
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -19145,7 +19144,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.33,
+    "news_score": 0.32,
     "news_title": "Takaichi skips controversial shrine on 81st anniversary of Japan's World War II surrender - Politico",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV0NlZGtyellYYXpBR2txcXVLOVNoWGtfbmd1RVRtbXYzU1ZqdUVrNDM2b1JBd01ZWmtnYW9XRFQyNnZyQUpLeDBkUGtIbFRVTXdaZEhtbDNoNzNKY194THdtaEctTDZaZ2dja0F1dWlIQ2VpTHhjSG1TMDVadU0yVXlXNTBrT0oxR0pJY2RNNEE?oc=5",
     "news_image": "",
@@ -32926,12 +32925,12 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.64,
+    "news_score": 0.63,
     "news_title": "Fired Ukrainian defense minister says Ukraine is in a \"technological war\" with Russia - Yahoo",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXp2RTBLei1vdXdKOHI1aGVPUHZlNDZrWm9PVkNSdWpBSF9hdVhlRTZCTktMVFdlYm1DNGFtNHFURkZleEZ1UE85eVJDekhScUlaTE1tcU1TTzVVbWk2WDlUN0pUa01TTnBjTFY3NUtYRmxhM0owZHpfdEJFVVdPMDdlV2hxazh6OTJfdTU0VVJELWczRE5JX0VB?oc=5",
     "news_image": "",
     "news_source": "Yahoo",
-    "news_age": "109m ago",
+    "news_age": "111m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -41026,7 +41025,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXp2RTBLei1vdXdKOHI1aGVPUHZlNDZrWm9PVkNSdWpBSF9hdVhlRTZCTktMVFdlYm1DNGFtNHFURkZleEZ1UE85eVJDekhScUlaTE1tcU1TTzVVbWk2WDlUN0pUa01TTnBjTFY3NUtYRmxhM0owZHpfdEJFVVdPMDdlV2hxazh6OTJfdTU0VVJELWczRE5JX0VB?oc=5",
     "news_image": "",
     "news_source": "Yahoo",
-    "news_age": "109m ago",
+    "news_age": "111m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -43497,7 +43496,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYU5BU2xlOGR5QzdRbDU2VFR6aUF0dXVNQzJJZDRTcWVfaWRNdWtlMnZtcUhMdGttRmV6T1NtTHpCRzdfQ2lzQl9lQ1BQMEMwTHgwVEt2Um5Vd09KbWxreFVwWTM0MF9vbENlOGNVdkxnRkEwVDdaNVEzOTVCZDFQaDE0UTFwbTZ5cThDTGZpNkF0b0Y2TGJTeThvQQ?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "30h ago",
+    "news_age": "31h ago",
     "news_columns": [
       "car_density",
       "gas_price",
