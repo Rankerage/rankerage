@@ -3318,14 +3318,19 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.55,
+    "news_score": 0.41,
     "news_title": "Fuel Crisis Weighs on Bangladesh Economy as Remittances Provide a Lifeline - businesstimes-bd.com",
     "news_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RT1hhcHRBVGpNVWdqRkRKczM4aVdDLWFxYWZvcTEtemgwT3NaLTF4am4xaUdqU3paNjRjMGpDR2J2TWJZRG1OZXFHaFh5QnVxTTFMSWFFTUF1cUxWbXZLeUVNWi1pdw?oc=5",
     "news_image": "",
     "news_source": "businesstimes-bd.com",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": null
   },
@@ -7973,7 +7978,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.87,
+    "news_score": 0.78,
     "news_title": "China’s Bid for an AI World Order: What’s Behind WAICO - The Astana Times",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWEpuTThUdlMyMVY3c2VBY1ByQWNrbHNhVkg2Ykc2YTFSSi1yNWZrRmIwbF9qOVl3aEdoWjcxOWpKNnBPb3Rvckw2Vjhzb2s5UElsZlVibF9ib0xUbms5X2pzMndSN3J0U1NhVGt3MFFjRUllNC04TS0tWjY2c3FWNVZ5cUhfTFZVak5tWQ?oc=5",
     "news_image": "",
@@ -8214,14 +8219,16 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 1.36,
+    "news_score": 1.31,
     "news_title": "Colombia defender Jhon Lucumí moves to Juventus after impressing at World Cup - Newsday",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUjNzTE5Ud1Vhb3o4YnhkWm9Ta0ZWbGEzUGFHREkwMHZXODh1NFhSN251N2Zxb2phODRlT2pqVGVQZUh0bkJ4SlZwS2NvYkswN3dmU1RPcXA3QnNJUGZKdG9UZ2lSa2N6amMzbUdkMG5pNXNrVWE4cl92RngzXzh5OWhB?oc=5",
     "news_image": "",
     "news_source": "Newsday",
-    "news_age": "11m ago",
+    "news_age": "13m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -16710,7 +16717,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.38,
+    "news_score": 0.37,
     "news_title": "Vice President C. P. Radhakrishnan graces 22nd Convocation of SRM Institute of Science and Technology, Chennai - India Education Diary",
     "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYTYxOGFEVVZTUVZELXBVODNwZlRZdjJEaUxuWDJHal9PUXF5NTREM3hacXdDSGRMMk9nVVc0ZHFuNjJ1eWRTMjhobTd1ek51S1NUWTdydnhRbWVkWWxabWhvRW1CQUNCM0s0MEItb1FuZXp3UGo1NVhzcEYyMndySXlINExIQTVDeWNMTncyZzdrVzVPdGpfUFBMMDg0aEdBcDZxRmhTX1JtX1BFaHNZUXE2b3ZTSlptb2hqNWN3dlQwRS1PZUZZZmxYazFBbkxaRkl4V1Bn?oc=5",
     "news_image": "",
@@ -17286,7 +17293,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.3,
+    "news_score": 0.28,
     "news_title": "U.S. and Iran Blow Through Deadline to Agree to a Broad Deal to End War - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Hb3RNTTBQcDhMM3VPRGVZYUNZVktEVXdib1dqVGFaN05PemFhelg1US1SM3VXWXdfeS1JYWtyUlVGOXktVndIS1hSbHA0TEl3Z3d5Z1dQWklHVGNVMEhkQnNnVXdMd1ZCc3ZyTmtJYVM2ZTdZWGMxT19ZeG5Pbzg?oc=5",
     "news_image": "",
@@ -19152,7 +19159,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.1,
+    "news_score": 1.05,
     "news_title": "Japan’s economy slows, missing growth forecasts - aljazeera.com",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbGotS25VbnJlUWRWOVhnZWhwd0pjTmN0d1FrLUtPenRUNUNQcFpFZWh2dS15ajNaVEdIcTVDZ2NCMUJYMHYxN0ZIbDJCX0hMdUtQQlpfdENCa0dBZWZNX2ZKUW5jZGVhaF85aVpXVkZnZWExNzBXQjlnS2VCNU9DSGIzNjR6dHlVWUhkUlJBZ3llTTDSAZgBQVVfeXFMT1h5clZHOW1ERGdENkZ1UlBiYzBkemxuTDdrUEVxZzRUYlBsQzN0N0ZqRXRjNVotUTBTWm1qQnliSjNvZ2V6dEY0bE5QRlVMdUFYczVOVFVRQzVqRzdKb3VDR2Izb1E3TWpKUzNHdzRwcFAtYnp3N01tZU42cXZ2QXYyZGVNUkp4OVVkdG1PNG5rd3RkQjE2b1Y?oc=5",
     "news_image": "",
@@ -34110,14 +34117,15 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 120,
     "fifa_w_rank": 100,
-    "news_score": 1.96,
+    "news_score": 1.95,
     "news_title": "Disney+ Celebrates World Princess Week 2026 | Explore Disney+ Singapore - Disney Plus",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rdWg4cThDNDk4ZGxZU2d4WEtPanhkT1NaU05LN1lVRlQ2RnpVbkZyY2NVb0tWeGN6MmNvRmUtMkV4VGVOZGhycTNlbC1IeEVYeUxUU2JJNFpPMmNEZlozUlZLNnVlUk40bWdzTmV1YTlkVFZpRTUzYjVoYkFZb0U?oc=5",
     "news_image": "",
     "news_source": "Disney Plus",
-    "news_age": "52m ago",
+    "news_age": "54m ago",
     "news_columns": [
       "fifa_ranking",
+      "fifa_w",
       "olympic"
     ],
     "bottom50_wealth": null
@@ -35934,12 +35942,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.13,
+    "news_score": 1.09,
     "news_title": "Trump orders military to ‘substantially reduce’ joint exercises with South Korea - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd21KS2xQcXVlUjVJbkpxeFRiVlVXU1Jxd3FxekNfV1Vab01xd2luRHR3M0ZGd1UzMFNza2NpaElXRWt5NnJWX3J5YkpWMVZQZ2M3a1VxUzFnZEdKdVIyd0Y0Y0ZtMk53eklZRlRqMmpTN3hsSzRKZmR4U25xVWp5UjhCRE9DYU5velo0RkVmN3VuczUzMnM3Y25wcG5HYU5jbDdHX0Y5aF9lbUJ6ZG01amVoazcyUlhkeEtaV1g4UTZkbzIwYktqNThZVGZTM0pS?oc=5",
     "news_image": "",
     "news_source": "NBC News",
-    "news_age": "63m ago",
+    "news_age": "65m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -36513,11 +36521,7 @@
     "news_age": "11h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "fifa_w"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -43491,7 +43495,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.34,
+    "news_score": 0.33,
     "news_title": "Monash University and Vietnam’s Becamex Group sign MoU to advance science, technology and innovation - The National Tribune",
     "news_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZzBEU1JLVFZfYUdMQzNTX0JpbUZUbmh6MnNuTzViVmg1R1dKZC1HMmRGcExFZHpjUGlEOEZUV01JWklYVUdPN05TWlpzbVhidkZ5bWRDRGNfN194dm1xQ3dkcF9pbzh1Z05pZExtNUI5b1FpdGZMcy1sSVY2UWpaNS1SWEpoT0RHTXMwdFZnVkhkWmdKeEpXUk5JejRfMWt2YTRmcTZRMG9xV0t6YklyeVdGMjAwdUdhUXZiOV9laXVZalpzOUFaMUg1TGVkaFFw?oc=5",
     "news_image": "",
