@@ -3051,7 +3051,7 @@
     "union_rate": 72.9,
     "union_rate_rank": null,
     "fifa_w_rank": 80,
-    "news_score": 0.47,
+    "news_score": 0.46,
     "news_title": "International Business: Europe’s economy faces one-two punch from successive heatwaves - Gulf Daily News (Bahrain)",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY2VzSDU4Sk1mdHU5dWh4LU9FZUNQSjNwcDQ3VGdsYjRtSmw2MGtNakd0Sm95SDNOdFhtMW1UTVV3YUN5SHJSMERGQjZRbnA1LVJZNGZrdkNzM25lRndmcV9POGx0aV9JSVJlYl9nZXB1YVVGODcxRVNtcE5tS2F4OVRONjczTndKTHdEZC1RT29Yc2kwU3RfRkRNakhyazdsM1N5dDZmVVRtWHJWOUQ4N0hn?oc=5",
     "news_image": "",
@@ -5133,7 +5133,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.39,
+    "news_score": 0.45,
     "news_title": "Rhythmic Gymnastics 2026 World Championships in Frankfurt: Brazil make history as Darja Varfolomeev shines in apparatus finals - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd1NUWk9iSzVaSVJueVQ1OXdVRVp0THZsVnIwNjBfejkzMFV5SUZJZFk3UnBmY0VESlBtUng5dDNFcW9NS2VRLUZPRGY0QXBNcEphVnJSMXhITDJTTDFBcW5Nc3dodXpvbzRnYmVWQ3dDc05MMjlIVGl6R0plS1drRF9tSWFlT2oxbDRUZmh6czRadmlpeEtVazBGY0hydm8zNlpEMkZ3TTE4M2EtNHVVM2J5cklkSVQ0bHNSQkhNdnd1Tk9QUkE?oc=5",
     "news_image": "",
@@ -5141,7 +5141,8 @@
     "news_age": "5h ago",
     "news_columns": [
       "fifa_ranking",
-      "basket"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -5551,7 +5552,7 @@
     "refugees_rank": null,
     "union_rate": 73.2,
     "union_rate_rank": null,
-    "news_score": 0.49,
+    "news_score": 0.48,
     "news_title": "Former Toronto Raptors Center Ventures Overseas to Bulgaria - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORlk0U25KbXhzSDVfcXlQMnlWUUcyNkhqYlNlQXJCSTNjbjVtMjF0QUxFNEJrUXhUWnV6eTVQZ0tpS3hXc1lIVUl6OWRJbHNBRlN3TGZVTklNWTFUSTM1akRPRlA3N0RCdEdlcmEyMC1nYU1qUzM0QzZhNEdfTU8yS2lHaFdCTzg4UFh4THUxUkg?oc=5",
     "news_image": "",
@@ -6909,7 +6910,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.49,
+    "news_score": 0.35,
     "news_title": "Canada men and Mexico women earn last two Olympic quotas at 2026 IFAF Flag Football World Championships: \"This is something I never imagined when I was young\" - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS0hRNFdpY0E0aUp0eGZqNGhDSnYwQzFpcWdUWmlCdVJXcXZJOHhxczVTUXA2UkY4RjZOV29oNHFxTjFudTVjTDdJMnNZdGRXZnlFOVdWQTdYV29oOG9XamVjbWhJOGJqXzAxX2YzN2EyYjZxQUZzZWFQUFhMUkxXbEw4d0NZQVVtOVhpRUQ0Z3FITDFUakNpQVhsaFE2M0VESlBvNTNRUWhlcDM4Z09MZkpJSDV5dEdXXzRVYllpUVB5NGJ1VEt5QW8wb0Q?oc=5",
     "news_image": "",
@@ -6917,7 +6918,11 @@
     "news_age": "6h ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic"
+      "fifa_w",
+      "olympic",
+      "basket",
+      "olympic_gold",
+      "olympic_per_cap"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -12949,12 +12954,9 @@
     "news_source": "Newsonair",
     "news_age": "88h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "space_launch"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13973,16 +13975,16 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.42,
+    "news_score": 1.36,
     "news_title": "Germany Flag Football Worlds - columbiamissourian.com",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOFZwUk1SQUlKaHlmaGNhSTBJWm8tWUh6NUNGdExRdl81YlNvRXFkTjM3akQ3UlNVN2pzdG9MRFowbkJrUzRFbHBEeVQ3YjBqdW5qRFpnSVJ5VXFZdDNuSC1qRlZVem9VSTQyUTU2WUNmZGgydDl2NTdwNFY3QjBVYko2QVo4UXBHZ0NNdUhCVmp0Skw3TDBzeE5FTDVvbnhUQWpYbndYT3FfZDFrNUpWaA?oc=5",
     "news_image": "",
     "news_source": "columbiamissourian.com",
-    "news_age": "30m ago",
+    "news_age": "32m ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic",
-      "basket"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16716,7 +16718,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94c25md3lPLTZKMFo2cVdreHRRZXJVWFphaE9oRVc5elZPZnlKeTZyVUxGV0I1QnRFTnZ4WHFfbXlJc0luYnpEZ2tYRGFhMkVpZ1FLTXh4VDJJQQ?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "85m ago",
+    "news_age": "87m ago",
     "news_columns": [
       "olympic",
       "fifa_ranking"
@@ -17017,12 +17019,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 103,
     "fifa_w_rank": 77,
-    "news_score": 1.67,
-    "news_title": "2 powerful earthquakes hit Indonesia in one day, killing at least 47 - CBS News",
+    "news_score": 1.54,
+    "news_title": "Nearly 1,000 aftershocks followed Indonesia earthquake that killed at least 53, officials say - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83T1pObWFEcjlUbml5M01PQTU1SGRNOWlBc2tvcmtrQVFqTXdMcFEwZE00THltVGdrZVRJNHcwdFJ3MHFWdHVucGNXdjFHTEh6RTY1Vi1KMVBsaUxMRjQ2Qk5YVks4NFNmMkZJOFhtS1Z1Vmhl?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "57m ago",
+    "news_age": "59m ago",
     "news_columns": [
       "democracy",
       "press",
@@ -17283,18 +17285,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.62,
-    "news_title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZjhLYWc5Uld6bFdvNHRRU3dsVTB6N3FBUVo0SFIwZ0xpTjlfQ0s0QmJhWEpsdUVsTXlrOWlZRnlXZzJqUVBOa3FjS1RZNGxJTjRXRUN2SWhLUQ?oc=5",
+    "news_score": 1.08,
+    "news_title": "Centcom commander addresses mental health concerns for troops on USS Abraham Lincoln - The Hill",
+    "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONWcwLVRpOGozZy03czk4c0I1N2RSY1RmZWJXQmY0dzJUS3dzM1E3WHVTYkpHODN4TkdPOFowXzhQaDZrQ3FNLWMwZTJnLW9YZzh5VGJhNnlzU0FCZUVGUzZWdnlhdGxYNGJOOTNWRlczNGQzVmJvWVZoOHRfT004eGlMdnFJUdIBiwFBVV95cUxPRTVFNURYZFJKRWR0XzZOMnJmSThnLUJ1MzB2VVlHdURnWkY3MVJWbEljZm5Jd3hmX3pPMU45Q1JIemQ5enlRM1N0blNYcEpUTl9Fc3g4VzgzbS1nTnlUa0ZQak40VDk5MldkUGx1YUxaSk9qcW9CWXJVSzY5U1lrQjVtU3pTcGFoNU1R?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "45m ago",
+    "news_source": "The Hill",
+    "news_age": "2h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
       "military_personnel",
       "gpi",
-      "arms_export"
+      "arms_export",
+      "suicide"
     ],
     "bottom50_wealth": null
   },
@@ -17759,7 +17762,7 @@
     "refugees_rank": null,
     "union_rate": 77.2,
     "union_rate_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.59,
     "news_title": "Spain beat Ireland in five-goal thriller at World Cup - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa01FZHR5bk43bXFZeXRvTUNYN19MSHRWWGM4SzRrVUNSX1c4VWtBX2dfZWtfVUhOS0s3bDVGMjZkbGlKMkZtN25ZSlRoZ2dDdll0ZnNXRm5uRlZwakpJOGN3RnkwOUVYQlVsc2FtN2RBRVNmbkxzdFNRbC1oYmFqNHZ6Yw?oc=5",
     "news_image": "",
@@ -17768,10 +17771,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "olympic"
     ],
     "bottom50_wealth": 2.7,
     "bottom50_wealth_rank": 20
@@ -18018,7 +18018,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.08,
+    "news_score": 0.04,
     "news_title": "Iran wages economic war in hopes of outlasting U.S. and Israel - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2ZCVmJ4amt6UTBvQ05kcDBFWnNzb1N6QldHQ3RSWVZ0NUdzemNtaTJGaTlzM1N5dVR0djFiVV9XUGNSc1JCR2RnczNYeTUxMW5WZU5aMmJLMVVqcElmVHpibHdWMm9xOFlLWGlhY2NlQUV5cDVVcTRWZHJaNGxjaXVR?oc=5",
     "news_image": "",
@@ -28640,12 +28640,12 @@
     "union_rate": 89.3,
     "union_rate_rank": null,
     "fifa_ranking_rank": 104,
-    "news_score": 0.0,
-    "news_title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZjhLYWc5Uld6bFdvNHRRU3dsVTB6N3FBUVo0SFIwZ0xpTjlfQ0s0QmJhWEpsdUVsTXlrOWlZRnlXZzJqUVBOa3FjS1RZNGxJTjRXRUN2SWhLUQ?oc=5",
+    "news_score": 0.24,
+    "news_title": "Trump orders Pentagon to scale back joint exercises with South Korea - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb3RPcGlIdXQ3RU5USnlMN0tyQUxyT2c4NW1zekhhV0xubm9tTmhHLWE0c2RxTFdNWXJueVF4TXA5ODJDNFRhQTdCQllnaU51cTlCc0pqaHZNbmxIbnhxR01MNVZEOWdtaU90cWZjUU9RYlBITDBhMWdiNllIcGFoMHJXQWdlN0lQdWZ5dVVNT00wR0px?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "43m ago",
+    "news_source": "AP News",
+    "news_age": "47m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -35941,12 +35941,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.81,
-    "news_title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZjhLYWc5Uld6bFdvNHRRU3dsVTB6N3FBUVo0SFIwZ0xpTjlfQ0s0QmJhWEpsdUVsTXlrOWlZRnlXZzJqUVBOa3FjS1RZNGxJTjRXRUN2SWhLUQ?oc=5",
+    "news_score": 1.05,
+    "news_title": "Trump orders Pentagon to scale back joint exercises with South Korea - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb3RPcGlIdXQ3RU5USnlMN0tyQUxyT2c4NW1zekhhV0xubm9tTmhHLWE0c2RxTFdNWXJueVF4TXA5ODJDNFRhQTdCQllnaU51cTlCc0pqaHZNbmxIbnhxR01MNVZEOWdtaU90cWZjUU9RYlBITDBhMWdiNllIcGFoMHJXQWdlN0lQdWZ5dVVNT00wR0px?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "45m ago",
+    "news_source": "AP News",
+    "news_age": "47m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -36516,7 +36516,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.79,
+    "news_score": 0.9,
     "news_title": "Spain beat Ireland in five-goal thriller at World Cup - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa01FZHR5bk43bXFZeXRvTUNYN19MSHRWWGM4SzRrVUNSX1c4VWtBX2dfZWtfVUhOS0s3bDVGMjZkbGlKMkZtN25ZSlRoZ2dDdll0ZnNXRm5uRlZwakpJOGN3RnkwOUVYQlVsc2FtN2RBRVNmbkxzdFNRbC1oYmFqNHZ6Yw?oc=5",
     "news_image": "",
@@ -36524,7 +36524,8 @@
     "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
-      "basket"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -42286,16 +42287,15 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.52,
+    "news_score": 0.51,
     "news_title": "U.S. Clinches Bronze and Coleman Individual Fourth at FEI World Eventing Championship - United States Eventing Association",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb3k0VHdJaFV6Qmx4bzYtQVAteHJxZnhzUUNzaDZKT2RzV2M0ZHlMbm9nc2VzRllfcnZtamFyckJoSXdjNnBhVHFwb3hEbXctQ0xSQVItdkZGc2I1SFJwSDBReWZlR1FSNnhFZWJDR2dTMDFOUXZJOWNmX3Ywa1RyOEwyOWZkUjh4U0JtQTEwQkhtMmw1SUVVY19YUl9aSXdvVnUzdmhfNnFxdFBrMVg3OW5mOGV2LW5tdTF5aUFTYVM?oc=5",
     "news_image": "",
     "news_source": "United States Eventing Association",
     "news_age": "3h ago",
     "news_columns": [
-      "baseball",
-      "fifa_ranking",
-      "olympic"
+      "nfl",
+      "mlb"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
