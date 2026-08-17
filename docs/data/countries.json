@@ -7980,7 +7980,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTjEzTERIVGFzeXN5N3hoNWVKcDltUUNvNGNEUTdLX2FEQXlxbngxMVVoaFFSckFaZzBqNTIyQjNsRGN4anJtd1JtOUlWekI3WWhZS3FBYzhQYTI4UXlOT2IyeldxYk9MRUFpQWtQNFV2dkpVaG0yck9wd0g0ckFSbXp4YUhDcEFacFlfSVRUTlNZZG52a1NDUlRmSDhpWUZaYV9GbFlZMTJaNmtJUHdsbURnTTRicjg?oc=5",
     "news_image": "",
     "news_source": "WSJ",
-    "news_age": "110m ago",
+    "news_age": "112m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -10883,19 +10883,19 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.17,
-    "news_title": "Centcom commander addresses mental health concerns for troops on USS Abraham Lincoln - thehill.com",
-    "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONWcwLVRpOGozZy03czk4c0I1N2RSY1RmZWJXQmY0dzJUS3dzM1E3WHVTYkpHODN4TkdPOFowXzhQaDZrQ3FNLWMwZTJnLW9YZzh5VGJhNnlzU0FCZUVGUzZWdnlhdGxYNGJOOTNWRlczNGQzVmJvWVZoOHRfT004eGlMdnFJUdIBiwFBVV95cUxPRTVFNURYZFJKRWR0XzZOMnJmSThnLUJ1MzB2VVlHdURnWkY3MVJWbEljZm5Jd3hmX3pPMU45Q1JIemQ5enlRM1N0blNYcEpUTl9Fc3g4VzgzbS1nTnlUa0ZQak40VDk5MldkUGx1YUxaSk9qcW9CWXJVSzY5U1lrQjVtU3pTcGFoNU1R?oc=5",
+    "news_score": 0.13,
+    "news_title": "Egypt implements 508 private-sector reforms in 2025: IDSC - Economy - Business - Ahram Online",
+    "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYlplVU41WVg2RF9vTmxiQ2pXV1BFSkNMQnlQVXNPbGlhMGtoTXhxVG5aV2RhbGlGVnlra0hDTW9qTW1YTnNBZkwxaWIzUWYtbUJSUXp1RnBNUGNuNmlQY1llOGZCeFZRMHhDY1pjMEMyb1BXcXNReTlYaFhmaUVZSHdYZ090TDVoNHlwNTljVkRGQUEyLWtOeFdhRXRidTVRNzVKVHk3eVVmdmV2aWpaM01oUQ?oc=5",
     "news_image": "",
-    "news_source": "thehill.com",
-    "news_age": "5h ago",
+    "news_source": "Ahram Online",
+    "news_age": "10h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "suicide"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": null
   },
@@ -16713,7 +16713,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.4,
+    "news_score": 0.38,
     "news_title": "India built the world's biggest digital payments miracle. Now comes the bill - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94c25md3lPLTZKMFo2cVdreHRRZXJVWFphaE9oRVc5elZPZnlKeTZyVUxGV0I1QnRFTnZ4WHFfbXlJc0luYnpEZ2tYRGFhMkVpZ1FLTXh4VDJJQQ?oc=5",
     "news_image": "",
@@ -17022,17 +17022,19 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 103,
     "fifa_w_rank": 77,
-    "news_score": 0.79,
+    "news_score": 0.71,
     "news_title": "Nearly 1,000 aftershocks followed Indonesia earthquake that killed at least 53, officials say - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83T1pObWFEcjlUbml5M01PQTU1SGRNOWlBc2tvcmtrQVFqTXdMcFEwZE00THltVGdrZVRJNHcwdFJ3MHFWdHVucGNXdjFHTEh6RTY1Vi1KMVBsaUxMRjQ2Qk5YVks4NFNmMkZJOFhtS1Z1Vmhl?oc=5",
     "news_image": "",
     "news_source": "CBS News",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "earthquake_count",
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17286,17 +17288,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.27,
-    "news_title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZjhLYWc5Uld6bFdvNHRRU3dsVTB6N3FBUVo0SFIwZ0xpTjlfQ0s0QmJhWEpsdUVsTXlrOWlZRnlXZzJqUVBOa3FjS1RZNGxJTjRXRUN2SWhLUQ?oc=5",
+    "news_score": 1.12,
+    "news_title": "Oil hangs onto gains as US-Iran peace talks stall, Hormuz shipping slows - reuters.com",
+    "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "40m ago",
+    "news_source": "reuters.com",
+    "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
+      "gas_price",
+      "energy_per_capita"
     ],
     "bottom50_wealth": null
   },
@@ -17761,7 +17765,7 @@
     "refugees_rank": null,
     "union_rate": 77.2,
     "union_rate_rank": null,
-    "news_score": 0.37,
+    "news_score": 0.36,
     "news_title": "U.S. Walker Cup team finalized for September matches in Ireland - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUlhwSmtWeDBMOF9LcW5VUng5TDg3aXFMYnRTOHR4TzNSczVzNXM4di0wV1h6YS1YMWpfekJqOF9OSGpNWUwwbEt2U1ZtZUZ4TnJlNkZkVXVtNWFwNnlRMGFwVmxWSU0wOTZqVm5LT1hwTThBZVYzNTRJelg4N0tsMkdB?oc=5",
     "news_image": "",
@@ -19147,17 +19151,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 2.2,
+    "news_score": 2.05,
     "news_title": "Japan's economy manages 1.1% growth rate despite headwinds - Ottumwa Courier",
     "news_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaFQzeEExdGpUck16YWlaN29WNDlWY2tyZnFFeVlYMDJ2Unc4alA4RlpaaVM5SXRGVDk2Rjh1azNWOUZlZXJIdngtZDltaG1RbGVPSzhuMi1CYmhZUkVpN1pNNlI2UWlsa0NCamVGdjVlaFRja04zeWpDZzhtQmhaZHloYnFCVE0zb0M1YzcwM2ptM19YMDlfRHFrdERaemNIQUJJOTVLSkp5d0NwVmtUTENtbHNXdFN4MExlSlhzaFF2SHFDQldGUC1Jak1uTDF3eVQ2MjFVWG1vN1FGOHRrZFd6M1F1UQ?oc=5",
     "news_image": "",
     "news_source": "Ottumwa Courier",
-    "news_age": "38m ago",
+    "news_age": "40m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -35938,17 +35944,18 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.77,
-    "news_title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZjhLYWc5Uld6bFdvNHRRU3dsVTB6N3FBUVo0SFIwZ0xpTjlfQ0s0QmJhWEpsdUVsTXlrOWlZRnlXZzJqUVBOa3FjS1RZNGxJTjRXRUN2SWhLUQ?oc=5",
+    "news_score": 0.53,
+    "news_title": "Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience - The Guardian",
+    "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZVlaa1lVSUduRVQzZ29UdnNWWFZUd3Zra2tVRU9qRURhMER0dFR6UjFmVElkQ1BMVDZrM1NkMVdkS1FpblItUmVsaUZ0YTAwblc2cDE5VVA3QjU3YmpsUlJFSERJQnZndnc5dHB3aHQweGRJUGZQcmhQY3g2amlubmtjamJpZEp6bnRfUlN6Y3h2MFdwNnFBUm40ekdfazR3bWd2MkdnZzJPYXNLYVRwU2N0OFhtb0E4OGpkcEhPMVc?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "40m ago",
+    "news_source": "The Guardian",
+    "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": 5.1,
     "bottom50_wealth_rank": 8
@@ -42295,8 +42302,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
