@@ -2546,7 +2546,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.14,
+    "news_score": 0.13,
     "news_title": "Dolphins on opposite sides of Australia, thousands of kilometres apart, appear to have independently learned to chase fish into empty seashells and tip the trapped meal into their mouths — two populations, one remarkably similar invention. - Space Daily",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ2VVU3lmdXVoVGVuTFRCRVN4ckU0REFTb0ItbjRsb2xtaVNSaXJEd3dFcS1tN1NZN1B2dGI1bThQYnF3WW5HLWowb3ltMk04RXQ0SGFmZkdLLWVCQnVYQllHMlYwaC1IcDVtVm1rMEdoX3pRdWdFNll0Z0EwMnhkXw?oc=5",
     "news_image": "",
@@ -3325,9 +3325,12 @@
     "news_source": "businesstimes-bd.com",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": null
   },
@@ -7975,16 +7978,18 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.98,
+    "news_score": 0.92,
     "news_title": "China’s Bid for an AI World Order: What’s Behind WAICO - The Astana Times",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWEpuTThUdlMyMVY3c2VBY1ByQWNrbHNhVkg2Ykc2YTFSSi1yNWZrRmIwbF9qOVl3aEdoWjcxOWpKNnBPb3Rvckw2Vjhzb2s5UElsZlVibF9ib0xUbms5X2pzMndSN3J0U1NhVGt3MFFjRUllNC04TS0tWjY2c3FWNVZ5cUhfTFZVak5tWQ?oc=5",
     "news_image": "",
     "news_source": "The Astana Times",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -8218,16 +8223,17 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 1.18,
+    "news_score": 0.92,
     "news_title": "Colombia defender Jhon Lucumí moves to Juventus after impressing at World Cup - Newsday",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUjNzTE5Ud1Vhb3o4YnhkWm9Ta0ZWbGEzUGFHREkwMHZXODh1NFhSN251N2Zxb2phODRlT2pqVGVQZUh0bkJ4SlZwS2NvYkswN3dmU1RPcXA3QnNJUGZKdG9UZ2lSa2N6amMzbUdkMG5pNXNrVWE4cl92RngzXzh5OWhB?oc=5",
     "news_image": "",
     "news_source": "Newsday",
-    "news_age": "7m ago",
+    "news_age": "9m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -12950,9 +12956,12 @@
     "news_source": "News On AIR",
     "news_age": "97h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "space_launch"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -16713,16 +16722,19 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.47,
+    "news_score": 0.49,
     "news_title": "Vice President C. P. Radhakrishnan graces 22nd Convocation of SRM Institute of Science and Technology, Chennai - India Education Diary",
     "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYTYxOGFEVVZTUVZELXBVODNwZlRZdjJEaUxuWDJHal9PUXF5NTREM3hacXdDSGRMMk9nVVc0ZHFuNjJ1eWRTMjhobTd1ek51S1NUWTdydnhRbWVkWWxabWhvRW1CQUNCM0s0MEItb1FuZXp3UGo1NVhzcEYyMndySXlINExIQTVDeWNMTncyZzdrVzVPdGpfUFBMMDg0aEdBcDZxRmhTX1JtX1BFaHNZUXE2b3ZTSlptb2hqNWN3dlQwRS1PZUZZZmxYazFBbkxaRkl4V1Bn?oc=5",
     "news_image": "",
     "news_source": "India Education Diary",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "democracy",
+      "approval",
+      "press",
+      "election_days",
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17020,7 +17032,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 103,
     "fifa_w_rank": 77,
-    "news_score": 0.1,
+    "news_score": 0.11,
     "news_title": "Search for Indonesia earthquake victims underway on Independence Day - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNHlLQWJfa29kZW9fQTNoR2tYUGVUY2NmZVoyQVJzTHJTdG5PSnZDTzEtZGRiM1lST3NzcTZ1ZVcyU2tOY0tzTW41QjhLRXF3dkRrOXhScXlmbXozS29rd3ZjQk5CMVZ1OTQya3YtMFdTQmJqVDNOdC1fTldUMlNhNUFYME1DblFLMDNTc2daREdNZ3NtT1Z4ZTZSUGMwRU1lbnJuNUNVRTJQa1JPOUpSNmgzOA?oc=5",
     "news_image": "",
@@ -17286,7 +17298,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.37,
+    "news_score": 0.33,
     "news_title": "U.S. and Iran Blow Through Deadline to Agree to a Broad Deal to End War - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Hb3RNTTBQcDhMM3VPRGVZYUNZVktEVXdib1dqVGFaN05PemFhelg1US1SM3VXWXdfeS1JYWtyUlVGOXktVndIS1hSbHA0TEl3Z3d5Z1dQWklHVGNVMEhkQnNnVXdMd1ZCc3ZyTmtJYVM2ZTdZWGMxT19ZeG5Pbzg?oc=5",
     "news_image": "",
@@ -18021,7 +18033,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.18,
+    "news_score": 0.17,
     "news_title": "Inside Kushner's Hamas meeting: What comes next in Gaza - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZUJUUXNZOERVdVVpWENGOE94TkdCQU1mdmItQmt5cFRZWEFCcklSYlhtSnE0bzU1NVVYNXV0QlZMTnRRNmhMM0JLa1RnZ3VHNzRIT0F3ckVhdUwyS0pCMU14aFRNVVdERVJCSDRMaXZtanozMWtuNEJnckdlVWprVmVR?oc=5",
     "news_image": "",
@@ -19152,16 +19164,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.13,
+    "news_score": 1.16,
     "news_title": "Japan’s economy slows, missing growth forecasts - aljazeera.com",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbGotS25VbnJlUWRWOVhnZWhwd0pjTmN0d1FrLUtPenRUNUNQcFpFZWh2dS15ajNaVEdIcTVDZ2NCMUJYMHYxN0ZIbDJCX0hMdUtQQlpfdENCa0dBZWZNX2ZKUW5jZGVhaF85aVpXVkZnZWExNzBXQjlnS2VCNU9DSGIzNjR6dHlVWUhkUlJBZ3llTTDSAZgBQVVfeXFMT1h5clZHOW1ERGdENkZ1UlBiYzBkemxuTDdrUEVxZzRUYlBsQzN0N0ZqRXRjNVotUTBTWm1qQnliSjNvZ2V6dEY0bE5QRlVMdUFYczVOVFVRQzVqRzdKb3VDR2Izb1E3TWpKUzNHdzRwcFAtYnp3N01tZU42cXZ2QXYyZGVNUkp4OVVkdG1PNG5rd3RkQjE2b1Y?oc=5",
     "news_image": "",
     "news_source": "aljazeera.com",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -24639,7 +24654,7 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.33,
+    "news_score": 0.32,
     "news_title": "Real-World Clinical Outcomes of Lebrikizumab in Moderate-to-Severe Atopic Dermatitis: A Report of Two Cases From Mexico - Cureus",
     "news_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOam5NR201YWRDR3JYMEZ1bzVYX09iU1gyWUE3SmN2alZ2THdoSFp1ZWR3NDZIcTM2aFh3ZjFwOGc4RWM4X3JYY2xyNHNxQWtscm9QUktzTlJ0OE8wV0VwcEpMMWJSajhLTkwtclZqY2FpckFvd3hQeHF1b2otaEpqNjNsY1B5NkNtOHhFZG9fUnROeVFlcXdvSnRTNFh4VHBBN3JUbWc3Tlg2Wng3Qld6SEFYcHVuZjNvQm5xeEpRSTAtNzNMRC0tY3RTX25wT1JNc0pYNzNMNWh5N1Q0OFBZWF9OS3prNGxTb1p6ZWxLSXZUUHZ1a0hpV3RKRHRRQmZSbTZsTUVDTQ?oc=5",
     "news_image": "",
@@ -32939,10 +32954,10 @@
     "union_rate": 76.1,
     "union_rate_rank": null,
     "news_score": 0.22,
-    "news_title": "Ukraine takes aim at Russia’s economy and morale by attacking online retailer - Audacy",
-    "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZnFSMUh0VjkwQ09MVFJCVUhlc0xXdFVzQ05pMXpBa3hIR2N5bzVMb0xsdnBTMHA2M0c3MWpLVFd6U2FiRE5DSWk2Z09jYjkxVmpNbGpxbHBvUzNiRGo5ODIyUkhmY05rOHBkRnJBYy1KczlCZjBLMXdGMFA1dnhxeURaZWRFX2ZONnZDMDlMRnV5M010Vy1mZ3Vla0VRNk1EWE5tMEJiN29xUnYwQ3FITjlTams4RU0?oc=5",
+    "news_title": "Ukraine takes aim at Russia’s economy and morale by attacking online retailer - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRTR4NXhsSDAyenpnMTBiRHA5bHNVUnk2TThUeE0yNU91bGpHWThfdER3MkJQVmlHcWhqR0FvUXE2anlaNkZjLWl4OU1uOS1SVzRaVGJGanN5SjAtYlRZMzhwUDFKZTJycUtHOU1lQ0xCZjhsdDRYaWRhVGtYRHptYkhHR1FmZWlXVkRMX2UxeUhzdXdiVk1mNmcwMVpfYzg5NHc?oc=5",
     "news_image": "",
-    "news_source": "Audacy",
+    "news_source": "AP News",
     "news_age": "5h ago",
     "news_columns": [
       "gdp",
@@ -34112,12 +34127,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 120,
     "fifa_w_rank": 100,
-    "news_score": 1.53,
+    "news_score": 2.05,
     "news_title": "Disney+ Celebrates World Princess Week 2026 | Explore Disney+ Singapore - Disney Plus",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rdWg4cThDNDk4ZGxZU2d4WEtPanhkT1NaU05LN1lVRlQ2RnpVbkZyY2NVb0tWeGN6MmNvRmUtMkV4VGVOZGhycTNlbC1IeEVYeUxUU2JJNFpPMmNEZlozUlZLNnVlUk40bWdzTmV1YTlkVFZpRTUzYjVoYkFZb0U?oc=5",
     "news_image": "",
     "news_source": "Disney Plus",
-    "news_age": "48m ago",
+    "news_age": "50m ago",
     "news_columns": [
       "olympic",
       "fifa_w"
@@ -35936,16 +35951,18 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.23,
-    "news_title": "Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience - The Guardian",
-    "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZVlaa1lVSUduRVQzZ29UdnNWWFZUd3Zra2tVRU9qRURhMER0dFR6UjFmVElkQ1BMVDZrM1NkMVdkS1FpblItUmVsaUZ0YTAwblc2cDE5VVA3QjU3YmpsUlJFSERJQnZndnc5dHB3aHQweGRJUGZQcmhQY3g2amlubmtjamJpZEp6bnRfUlN6Y3h2MFdwNnFBUm40ekdfazR3bWd2MkdnZzJPYXNLYVRwU2N0OFhtb0E4OGpkcEhPMVc?oc=5",
+    "news_score": 0.87,
+    "news_title": "Trump orders military to ‘substantially reduce’ joint exercises with South Korea - NBC News",
+    "news_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd21KS2xQcXVlUjVJbkpxeFRiVlVXU1Jxd3FxekNfV1Vab01xd2luRHR3M0ZGd1UzMFNza2NpaElXRWt5NnJWX3J5YkpWMVZQZ2M3a1VxUzFnZEdKdVIyd0Y0Y0ZtMk53eklZRlRqMmpTN3hsSzRKZmR4U25xVWp5UjhCRE9DYU5velo0RkVmN3VuczUzMnM3Y25wcG5HYU5jbDdHX0Y5aF9lbUJ6ZG01amVoazcyUlhkeEtaV1g4UTZkbzIwYktqNThZVGZTM0pS?oc=5",
     "news_image": "",
-    "news_source": "The Guardian",
-    "news_age": "17m ago",
+    "news_source": "NBC News",
+    "news_age": "61m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": 5.1,
     "bottom50_wealth_rank": 8
@@ -36516,9 +36533,7 @@
     "news_source": "Yahoo Sports",
     "news_age": "11h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -41025,10 +41040,10 @@
     "union_rate_rank": null,
     "fifa_w_rank": 32,
     "news_score": 0.23,
-    "news_title": "Ukraine takes aim at Russia’s economy and morale by attacking online retailer - Audacy",
-    "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZnFSMUh0VjkwQ09MVFJCVUhlc0xXdFVzQ05pMXpBa3hIR2N5bzVMb0xsdnBTMHA2M0c3MWpLVFd6U2FiRE5DSWk2Z09jYjkxVmpNbGpxbHBvUzNiRGo5ODIyUkhmY05rOHBkRnJBYy1KczlCZjBLMXdGMFA1dnhxeURaZWRFX2ZONnZDMDlMRnV5M010Vy1mZ3Vla0VRNk1EWE5tMEJiN29xUnYwQ3FITjlTams4RU0?oc=5",
+    "news_title": "Ukraine takes aim at Russia’s economy and morale by attacking online retailer - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRTR4NXhsSDAyenpnMTBiRHA5bHNVUnk2TThUeE0yNU91bGpHWThfdER3MkJQVmlHcWhqR0FvUXE2anlaNkZjLWl4OU1uOS1SVzRaVGJGanN5SjAtYlRZMzhwUDFKZTJycUtHOU1lQ0xCZjhsdDRYaWRhVGtYRHptYkhHR1FmZWlXVkRMX2UxeUhzdXdiVk1mNmcwMVpfYzg5NHc?oc=5",
     "news_image": "",
-    "news_source": "Audacy",
+    "news_source": "AP News",
     "news_age": "5h ago",
     "news_columns": [
       "gdp",
