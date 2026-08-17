@@ -3050,7 +3050,7 @@
     "union_rate": 72.9,
     "union_rate_rank": null,
     "fifa_w_rank": 80,
-    "news_score": 0.18,
+    "news_score": 0.0,
     "news_title": "International Business: Europe’s economy faces one-two punch from successive heatwaves - Gulf Daily News (Bahrain)",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY2VzSDU4Sk1mdHU5dWh4LU9FZUNQSjNwcDQ3VGdsYjRtSmw2MGtNakd0Sm95SDNOdFhtMW1UTVV3YUN5SHJSMERGQjZRbnA1LVJZNGZrdkNzM25lRndmcV9POGx0aV9JSVJlYl9nZXB1YVVGODcxRVNtcE5tS2F4OVRONjczTndKTHdEZC1RT29Yc2kwU3RfRkRNakhyazdsM1N5dDZmVVRtWHJWOUQ4N0hn?oc=5",
     "news_image": "",
@@ -7975,16 +7975,17 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.2,
+    "news_score": 1.19,
     "news_title": "China Wants to Shape What the World’s A.I. Knows - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHYlo3WmVNbm9LY1dPZnpZMWdGRFF2N29BaDEzM2VCbFcxLVlqVjZoWk1LM3plTDh0YUJTSDBQcnROWThTSjJPSExaSzNmWE9uZHlfLUJNN1hXOEVhNWM1ODFseGZpam5PSURobThLLThZTVc2YWFxSUl1Y1pSdw?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "4m ago",
+    "news_age": "6m ago",
     "news_columns": [
-      "olympic",
+      "fifa_ranking",
       "fifa_w",
-      "fifa_ranking"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10884,7 +10885,7 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.11,
+    "news_score": 0.09,
     "news_title": "Egypt implements 508 private-sector reforms in 2025: IDSC - Economy - Business - Ahram Online",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYlplVU41WVg2RF9vTmxiQ2pXV1BFSkNMQnlQVXNPbGlhMGtoTXhxVG5aV2RhbGlGVnlra0hDTW9qTW1YTnNBZkwxaWIzUWYtbUJSUXp1RnBNUGNuNmlQY1llOGZCeFZRMHhDY1pjMEMyb1BXcXNReTlYaFhmaUVZSHdYZ090TDVoNHlwNTljVkRGQUEyLWtOeFdhRXRidTVRNzVKVHk3eVVmdmV2aWpaM01oUQ?oc=5",
     "news_image": "",
@@ -16714,7 +16715,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.28,
+    "news_score": 0.27,
     "news_title": "India built the world's biggest digital payments miracle. Now comes the bill - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94c25md3lPLTZKMFo2cVdreHRRZXJVWFphaE9oRVc5elZPZnlKeTZyVUxGV0I1QnRFTnZ4WHFfbXlJc0luYnpEZ2tYRGFhMkVpZ1FLTXh4VDJJQQ?oc=5",
     "news_image": "",
@@ -17290,19 +17291,17 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.08,
+    "news_score": 1.4,
     "news_title": "Trump says US scaling back joint military operations with South Korea - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZjhLYWc5Uld6bFdvNHRRU3dsVTB6N3FBUVo0SFIwZ0xpTjlfQ0s0QmJhWEpsdUVsTXlrOWlZRnlXZzJqUVBOa3FjS1RZNGxJTjRXRUN2SWhLUQ?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "74m ago",
+    "news_age": "76m ago",
     "news_columns": [
-      "democracy",
-      "approval",
-      "press",
-      "election_days",
-      "military_pct",
-      "nuclear"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -17767,7 +17766,7 @@
     "refugees_rank": null,
     "union_rate": 77.2,
     "union_rate_rank": null,
-    "news_score": 0.2,
+    "news_score": 0.18,
     "news_title": "Spain beat Ireland in five-goal thriller at World Cup - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa01FZHR5bk43bXFZeXRvTUNYN19MSHRWWGM4SzRrVUNSX1c4VWtBX2dfZWtfVUhOS0s3bDVGMjZkbGlKMkZtN25ZSlRoZ2dDdll0ZnNXRm5uRlZwakpJOGN3RnkwOUVYQlVsc2FtN2RBRVNmbkxzdFNRbC1oYmFqNHZ6Yw?oc=5",
     "news_image": "",
@@ -19157,16 +19156,17 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 2.28,
+    "news_score": 2.04,
     "news_title": "Japan's economy manages 1.1% growth rate despite headwinds - Ottumwa Courier",
     "news_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaFQzeEExdGpUck16YWlaN29WNDlWY2tyZnFFeVlYMDJ2Unc4alA4RlpaaVM5SXRGVDk2Rjh1azNWOUZlZXJIdngtZDltaG1RbGVPSzhuMi1CYmhZUkVpN1pNNlI2UWlsa0NCamVGdjVlaFRja04zeWpDZzhtQmhaZHloYnFCVE0zb0M1YzcwM2ptM19YMDlfRHFrdERaemNIQUJJOTVLSkp5d0NwVmtUTENtbHNXdFN4MExlSlhzaFF2SHFDQldGUC1Jak1uTDF3eVQ2MjFVWG1vN1FGOHRrZFd6M1F1UQ?oc=5",
     "news_image": "",
     "news_source": "Ottumwa Courier",
-    "news_age": "72m ago",
+    "news_age": "74m ago",
     "news_columns": [
-      "olympic",
+      "fifa_ranking",
       "fifa_w",
-      "fifa_ranking"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -21143,7 +21143,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 101,
     "fifa_w_rank": 87,
-    "news_score": 0.0,
+    "news_score": 0.11,
     "news_title": "Oil rises as US-Iran peace talks stall, Hormuz shipping slows - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5",
     "news_image": "",
@@ -32597,7 +32597,7 @@
     "union_rate": 66.9,
     "union_rate_rank": null,
     "fifa_ranking_rank": 45,
-    "news_score": 0.06,
+    "news_score": 0.07,
     "news_title": "Ukraine attacks Wildberries, Russia's biggest online market - dw.com",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaWx5VUFJbnV2NUdqdkctVFdrSU5lWEdlalVLTDZGTXk2MnhmNlEtamdVM0x1R1dMRG9DRlpLYnZEeFFvc1VLV3FBdTJlc1ZzMHRLSFRXdjJZYldoM1Q5ai1DNU0yemdzVENSbnl1S0hnX05wVUlhb0F4WWFUUldHTUk3NThPcEFqd1BhVlNCbUtVbnc40gGUAUFVX3lxTFBYUTNuLW4yZVRybjJTYXhjTjQyQnROVkx0VE1BeXZOeW56TjdRVmI0dTltUUZza0ZtUjhBRzQxdk5udzdYeDBOOUkyN1RXN3pJVDhPc2xCcUZCVUZNaUV1ZGRxbmtXYWpzODY4RjlxUENHekxrQW5MZ0FEX3FNZlBNVmRzTlQ0ak5tenJuU18zZXllVjg?oc=5",
     "news_image": "",
@@ -35947,14 +35947,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.91,
+    "news_score": 0.73,
     "news_title": "Trump says US scaling back joint military operations with South Korea - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZjhLYWc5Uld6bFdvNHRRU3dsVTB6N3FBUVo0SFIwZ0xpTjlfQ0s0QmJhWEpsdUVsTXlrOWlZRnlXZzJqUVBOa3FjS1RZNGxJTjRXRUN2SWhLUQ?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "74m ago",
+    "news_age": "76m ago",
     "news_columns": [
-      "fifa_ranking"
+      "democracy",
+      "approval",
+      "press",
+      "election_days",
+      "military_pct",
+      "nuclear"
     ],
     "bottom50_wealth": 5.1,
     "bottom50_wealth_rank": 8
@@ -42300,8 +42305,9 @@
     "news_age": "7h ago",
     "news_columns": [
       "fifa_ranking",
+      "fifa_w",
       "olympic",
-      "fifa_w"
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
