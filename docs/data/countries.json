@@ -3321,7 +3321,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82MGtKVmJacDY1Qkd3aUZ5UzhzVVRLeXZWRnVLY0lmd01nTkhKR0JESDROeW9KVlpPNm1sUVNyMl9jaWZGMVR6WWdDOA?oc=5",
     "news_image": "",
     "news_source": "Bangladesh Sangbad Sangstha (BSS)",
-    "news_age": "7h ago",
+    "news_age": "8h ago",
     "news_columns": [
       "nuclear",
       "nuclear_power",
@@ -5133,7 +5133,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.39,
     "news_title": "Rhythmic Gymnastics 2026 World Championships in Frankfurt: Brazil make history as Darja Varfolomeev shines in apparatus finals - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd1NUWk9iSzVaSVJueVQ1OXdVRVp0THZsVnIwNjBfejkzMFV5SUZJZFk3UnBmY0VESlBtUng5dDNFcW9NS2VRLUZPRGY0QXBNcEphVnJSMXhITDJTTDFBcW5Nc3dodXpvbzRnYmVWQ3dDc05MMjlIVGl6R0plS1drRF9tSWFlT2oxbDRUZmh6czRadmlpeEtVazBGY0hydm8zNlpEMkZ3TTE4M2EtNHVVM2J5cklkSVQ0bHNSQkhNdnd1Tk9QUkE?oc=5",
     "news_image": "",
@@ -5141,7 +5141,7 @@
     "news_age": "5h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "basket"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -6916,6 +6916,7 @@
     "news_source": "olympics.com",
     "news_age": "6h ago",
     "news_columns": [
+      "fifa_ranking",
       "olympic"
     ],
     "bottom50_wealth": 4.2,
@@ -12948,8 +12949,12 @@
     "news_source": "Newsonair",
     "news_age": "88h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "space_launch"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13968,14 +13973,16 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.34,
+    "news_score": 1.42,
     "news_title": "Germany Flag Football Worlds - columbiamissourian.com",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOFZwUk1SQUlKaHlmaGNhSTBJWm8tWUh6NUNGdExRdl81YlNvRXFkTjM3akQ3UlNVN2pzdG9MRFowbkJrUzRFbHBEeVQ3YjBqdW5qRFpnSVJ5VXFZdDNuSC1qRlZVem9VSTQyUTU2WUNmZGgydDl2NTdwNFY3QjBVYko2QVo4UXBHZ0NNdUhCVmp0Skw3TDBzeE5FTDVvbnhUQWpYbndYT3FfZDFrNUpWaA?oc=5",
     "news_image": "",
     "news_source": "columbiamissourian.com",
-    "news_age": "28m ago",
+    "news_age": "30m ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16704,12 +16711,12 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.73,
+    "news_score": 0.72,
     "news_title": "India built the world's biggest digital payments miracle. Now comes the bill - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94c25md3lPLTZKMFo2cVdreHRRZXJVWFphaE9oRVc5elZPZnlKeTZyVUxGV0I1QnRFTnZ4WHFfbXlJc0luYnpEZ2tYRGFhMkVpZ1FLTXh4VDJJQQ?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "83m ago",
+    "news_age": "85m ago",
     "news_columns": [
       "olympic",
       "fifa_ranking"
@@ -17010,12 +17017,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 103,
     "fifa_w_rank": 77,
-    "news_score": 1.62,
-    "news_title": "Nearly 1,000 aftershocks followed Indonesia earthquake that killed at least 53, officials say - CBS News",
+    "news_score": 1.67,
+    "news_title": "2 powerful earthquakes hit Indonesia in one day, killing at least 47 - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83T1pObWFEcjlUbml5M01PQTU1SGRNOWlBc2tvcmtrQVFqTXdMcFEwZE00THltVGdrZVRJNHcwdFJ3MHFWdHVucGNXdjFHTEh6RTY1Vi1KMVBsaUxMRjQ2Qk5YVks4NFNmMkZJOFhtS1Z1Vmhl?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "55m ago",
+    "news_age": "57m ago",
     "news_columns": [
       "democracy",
       "press",
@@ -17276,12 +17283,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.24,
+    "news_score": 1.62,
     "news_title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZjhLYWc5Uld6bFdvNHRRU3dsVTB6N3FBUVo0SFIwZ0xpTjlfQ0s0QmJhWEpsdUVsTXlrOWlZRnlXZzJqUVBOa3FjS1RZNGxJTjRXRUN2SWhLUQ?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "43m ago",
+    "news_age": "45m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -28633,7 +28640,7 @@
     "union_rate": 89.3,
     "union_rate_rank": null,
     "fifa_ranking_rank": 104,
-    "news_score": 0.78,
+    "news_score": 0.0,
     "news_title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZjhLYWc5Uld6bFdvNHRRU3dsVTB6N3FBUVo0SFIwZ0xpTjlfQ0s0QmJhWEpsdUVsTXlrOWlZRnlXZzJqUVBOa3FjS1RZNGxJTjRXRUN2SWhLUQ?oc=5",
     "news_image": "",
@@ -35939,7 +35946,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZjhLYWc5Uld6bFdvNHRRU3dsVTB6N3FBUVo0SFIwZ0xpTjlfQ0s0QmJhWEpsdUVsTXlrOWlZRnlXZzJqUVBOa3FjS1RZNGxJTjRXRUN2SWhLUQ?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "43m ago",
+    "news_age": "45m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -36509,7 +36516,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.85,
+    "news_score": 0.79,
     "news_title": "Spain beat Ireland in five-goal thriller at World Cup - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa01FZHR5bk43bXFZeXRvTUNYN19MSHRWWGM4SzRrVUNSX1c4VWtBX2dfZWtfVUhOS0s3bDVGMjZkbGlKMkZtN25ZSlRoZ2dDdll0ZnNXRm5uRlZwakpJOGN3RnkwOUVYQlVsc2FtN2RBRVNmbkxzdFNRbC1oYmFqNHZ6Yw?oc=5",
     "news_image": "",
@@ -36517,7 +36524,7 @@
     "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "basket"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -42286,6 +42293,7 @@
     "news_source": "United States Eventing Association",
     "news_age": "3h ago",
     "news_columns": [
+      "baseball",
       "fifa_ranking",
       "olympic"
     ],
