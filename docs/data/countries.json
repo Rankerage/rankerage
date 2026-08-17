@@ -3316,7 +3316,7 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.13,
+    "news_score": 0.12,
     "news_title": "Nuclear science, technology must be made one of key foundations of development: Faqir Mahbub - Bangladesh Sangbad Sangstha (BSS)",
     "news_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82MGtKVmJacDY1Qkd3aUZ5UzhzVVRLeXZWRnVLY0lmd01nTkhKR0JESDROeW9KVlpPNm1sUVNyMl9jaWZGMVR6WWdDOA?oc=5",
     "news_image": "",
@@ -5133,7 +5133,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.46,
+    "news_score": 0.44,
     "news_title": "Rhythmic Gymnastics 2026 World Championships in Frankfurt: Brazil make history as Darja Varfolomeev shines in apparatus finals - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd1NUWk9iSzVaSVJueVQ1OXdVRVp0THZsVnIwNjBfejkzMFV5SUZJZFk3UnBmY0VESlBtUng5dDNFcW9NS2VRLUZPRGY0QXBNcEphVnJSMXhITDJTTDFBcW5Nc3dodXpvbzRnYmVWQ3dDc05MMjlIVGl6R0plS1drRF9tSWFlT2oxbDRUZmh6czRadmlpeEtVazBGY0hydm8zNlpEMkZ3TTE4M2EtNHVVM2J5cklkSVQ0bHNSQkhNdnd1Tk9QUkE?oc=5",
     "news_image": "",
@@ -5555,12 +5555,12 @@
     "refugees_rank": null,
     "union_rate": 73.2,
     "union_rate_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.61,
     "news_title": "Former Toronto Raptors Center Ventures Overseas to Bulgaria - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORlk0U25KbXhzSDVfcXlQMnlWUUcyNkhqYlNlQXJCSTNjbjVtMjF0QUxFNEJrUXhUWnV6eTVQZ0tpS3hXc1lIVUl6OWRJbHNBRlN3TGZVTklNWTFUSTM1akRPRlA3N0RCdEdlcmEyMC1nYU1qUzM0QzZhNEdfTU8yS2lHaFdCTzg4UFh4THUxUkg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "112m ago",
+    "news_age": "114m ago",
     "news_columns": [
       "olympic"
     ],
@@ -6913,7 +6913,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.76,
+    "news_score": 0.51,
     "news_title": "Canada men and Mexico women earn last two Olympic quotas at 2026 IFAF Flag Football World Championships: \"This is something I never imagined when I was young\" - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS0hRNFdpY0E0aUp0eGZqNGhDSnYwQzFpcWdUWmlCdVJXcXZJOHhxczVTUXA2UkY4RjZOV29oNHFxTjFudTVjTDdJMnNZdGRXZnlFOVdWQTdYV29oOG9XamVjbWhJOGJqXzAxX2YzN2EyYjZxQUZzZWFQUFhMUkxXbEw4d0NZQVVtOVhpRUQ0Z3FITDFUakNpQVhsaFE2M0VESlBvNTNRUWhlcDM4Z09MZkpJSDV5dEdXXzRVYllpUVB5NGJ1VEt5QW8wb0Q?oc=5",
     "news_image": "",
@@ -6921,7 +6921,11 @@
     "news_age": "5h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket",
+      "olympic_gold",
+      "olympic_per_cap"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -12953,12 +12957,8 @@
     "news_source": "News On AIR",
     "news_age": "87h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "space_launch"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -16714,7 +16714,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.18,
+    "news_score": 0.11,
     "news_title": "Women’s Hockey World Cup 2026: India hold China to 2-2 draw in opener - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzBjcVZILS1fUDVLNXJCWlFDZjlqeUtkWEFDdG11S2d0OURlMUcyZGxLeWkxaUVoUlozN2dBUHdzR0ZYbjdjQmptTlNseDBicTBlYXoxSmxUaWo1Tmk3ZVpEMTNoTERrVlVVNDlYVXlXbUV0cF9adE1KbWFiQTBRTDVtMkYyWVpyOWtOMzVNcG5xZDZ6eDBvR1NnUjh3VHV2?oc=5",
     "news_image": "",
@@ -17290,7 +17290,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.57,
+    "news_score": 1.07,
     "news_title": "Centcom commander addresses mental health concerns for troops on USS Abraham Lincoln - The Hill",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONWcwLVRpOGozZy03czk4c0I1N2RSY1RmZWJXQmY0dzJUS3dzM1E3WHVTYkpHODN4TkdPOFowXzhQaDZrQ3FNLWMwZTJnLW9YZzh5VGJhNnlzU0FCZUVGUzZWdnlhdGxYNGJOOTNWRlczNGQzVmJvWVZoOHRfT004eGlMdnFJUdIBiwFBVV95cUxPRTVFNURYZFJKRWR0XzZOMnJmSThnLUJ1MzB2VVlHdURnWkY3MVJWbEljZm5Jd3hmX3pPMU45Q1JIemQ5enlRM1N0blNYcEpUTl9Fc3g4VzgzbS1nTnlUa0ZQak40VDk5MldkUGx1YUxaSk9qcW9CWXJVSzY5U1lrQjVtU3pTcGFoNU1R?oc=5",
     "news_image": "",
@@ -17767,7 +17767,7 @@
     "refugees_rank": null,
     "union_rate": 77.2,
     "union_rate_rank": null,
-    "news_score": 0.54,
+    "news_score": 0.74,
     "news_title": "Spain beat Ireland in five-goal thriller at World Cup - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa01FZHR5bk43bXFZeXRvTUNYN19MSHRWWGM4SzRrVUNSX1c4VWtBX2dfZWtfVUhOS0s3bDVGMjZkbGlKMkZtN25ZSlRoZ2dDdll0ZnNXRm5uRlZwakpJOGN3RnkwOUVYQlVsc2FtN2RBRVNmbkxzdFNRbC1oYmFqNHZ6Yw?oc=5",
     "news_image": "",
@@ -17775,11 +17775,7 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "fifa_w"
     ],
     "bottom50_wealth": 2.7,
     "bottom50_wealth_rank": 20
@@ -21145,7 +21141,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 105,
     "fifa_w_rank": 87,
-    "news_score": 0.01,
+    "news_score": 0.0,
     "news_title": "Most Gulf bourses gain despite stalled Iran talks, Hormuz disruption - reuters.com",
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYi10SGhJbU9xNklLZmFwR2ZoNkJtTW85b0hhbW05T3FMUzdiVDR1cXNqZ1l0VlBNeUVOb1RjZzhKWGtEWFd2WnpXbTQxS2tNczg1eGlWUlR4Uy1VNmVtNFpoTkdTZ1JiQTVYby1mU0NMZE1hV2Nid21nR2x0VjRjY3ZFNHRSZnlDRlJxZEVYMFFpZ0pOMGh1NG52RFpWTGsyZEd1VXVyczFkT1cwSkFZb0FTdV92dWt1R19V?oc=5",
     "news_image": "",
@@ -24649,7 +24645,7 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.36,
+    "news_score": 0.26,
     "news_title": "Canada men and Mexico women earn last two Olympic quotas at 2026 IFAF Flag Football World Championships: \"This is something I never imagined when I was young\" - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS0hRNFdpY0E0aUp0eGZqNGhDSnYwQzFpcWdUWmlCdVJXcXZJOHhxczVTUXA2UkY4RjZOV29oNHFxTjFudTVjTDdJMnNZdGRXZnlFOVdWQTdYV29oOG9XamVjbWhJOGJqXzAxX2YzN2EyYjZxQUZzZWFQUFhMUkxXbEw4d0NZQVVtOVhpRUQ0Z3FITDFUakNpQVhsaFE2M0VESlBvNTNRUWhlcDM4Z09MZkpJSDV5dEdXXzRVYllpUVB5NGJ1VEt5QW8wb0Q?oc=5",
     "news_image": "",
@@ -24657,7 +24653,11 @@
     "news_age": "5h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket",
+      "olympic_gold",
+      "olympic_per_cap"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 22
@@ -27633,7 +27633,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRnlVcm5oU2VzQnNXcUxxaFQ0NnJBLXVldWJNZDlmbWpTbDhxUWVQS1VxUzZSOEZPS3d4Vm5naTRvVU54NURaazNKMWVjSkptVWp2WlFJZ181Q0phbENEYzJrZXlpOTdJck9RN29HREF2d2tSZ2E5VTgyQVlXaG1YcDNtekZOajh5SWgwbWZ6SWNFcFpTTXU0dVFvWEl0a1hXc01hSkhzbWFXNS1KblY3ZVFHSWdHOTZnaHJYLUdod3hDTnNlR2c?oc=5",
     "news_image": "",
     "news_source": "Nhan Dan Online",
-    "news_age": "59h ago",
+    "news_age": "60h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -32947,7 +32947,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.08,
+    "news_score": 0.07,
     "news_title": "Kyiv launches large attack on Russian military and energy facilities - Euronews.com",
     "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ2hhaUsxR3BDcm92cTJiclVLLVNIQ1kxZktzajNHSkRNN0t5LTdKVGVDS05XaTZZTldZOUdZWDR1dHFiWGZrYjV6di1qMmZydW5tbGd5eEFQLTA5THRuV1k4MGN4cUxjY3BXTTkxOVFyaUNBNUNqQnFHZzBYOWdqQlRBZTA0UWh1NTNXcW5XaXliSXM0UlFMX3E1dkp1aGFkajdrb09DY2FJSHoydm1ESjRDdEJMSVh1YVBiM3FrTEc1LXhram56WmpkcmJxVlk?oc=5",
     "news_image": "",
@@ -34791,7 +34791,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPODVNbm9LcVAySVBPZ3N0TE1lWDRYWmlkd2JZbDdVczV2d0FiSEd6VndpTHVpVlpyck52dS1wdDltZDhrUGF6Z0lZS3NmbW9rSUVKQUdOUFo0LU5YLVFRMEQzZ0toMnZpZ1NqYzFHOWNwaTBRSlZ5RlFTMjlTM2YwVW5xcnJFQQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "7h ago",
+    "news_age": "8h ago",
     "news_columns": [
       "basket",
       "olympic"
@@ -35945,12 +35945,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.94,
+    "news_score": 0.7,
     "news_title": "Trump orders Pentagon to scale back joint exercises with South Korea - apnews.com",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb3RPcGlIdXQ3RU5USnlMN0tyQUxyT2c4NW1zekhhV0xubm9tTmhHLWE0c2RxTFdNWXJueVF4TXA5ODJDNFRhQTdCQllnaU51cTlCc0pqaHZNbmxIbnhxR01MNVZEOWdtaU90cWZjUU9RYlBITDBhMWdiNllIcGFoMHJXQWdlN0lQdWZ5dVVNT00wR0px?oc=5",
     "news_image": "",
     "news_source": "apnews.com",
-    "news_age": "83m ago",
+    "news_age": "85m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -36520,14 +36520,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.15,
+    "news_score": 1.17,
     "news_title": "Spain beat Ireland in five-goal thriller at World Cup - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa01FZHR5bk43bXFZeXRvTUNYN19MSHRWWGM4SzRrVUNSX1c4VWtBX2dfZWtfVUhOS0s3bDVGMjZkbGlKMkZtN25ZSlRoZ2dDdll0ZnNXRm5uRlZwakpJOGN3RnkwOUVYQlVsc2FtN2RBRVNmbkxzdFNRbC1oYmFqNHZ6Yw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -41034,7 +41035,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.18,
+    "news_score": 0.24,
     "news_title": "Could millions of planets form around black holes? Scientists have an answer - RBC-Ukraine",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2RrX1Nfbjh5VjMxVDYxbmhiQXFQWkVhS1VLemFzYm00RWNKbExQdUZpM2l2dlI0VlRoeHBZbkswWmd0M3AtaWFyOEtSYlJFbWdJLVk5allkSXFzWTdRYU5oZG5SenczOVdJWVM1RlBRMV9TUzBMa2RsZ1ZoR0U2ZVQxUXE4cmFyMDJwUTNudUNzN0ZVOEE?oc=5",
     "news_image": "",
@@ -42296,8 +42297,7 @@
     "news_source": "United States Eventing Association",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
