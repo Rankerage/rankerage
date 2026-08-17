@@ -2546,7 +2546,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.03,
     "news_title": "Dolphins use tools to obtain fish in rare activity caught on camera - KTLA",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdWhtNmpnMkxmb1E0Q1lhR1Vfel96NGFUTWV2SjdueUdVM2FHbTk2Vmc0QUg5aXc3enM5bWVmWEFpSEpUWldzSEFkaFBDWmd0Z2ppYUtZN2k4S0o4X1BwUGotNkpKRmVMbjBmeWJxUU03enVWTU1SbXcwZ1diMnpKZ0V0Ung0XzhEYzJ5b3dDbzZ5TDBr0gGaAUFVX3lxTE94ekxPTmRTUy1fX054azdvLTBEMFJrQmZwWUo5ZEdNY3o4RVhLQ21xcGwwVXNkNE5uc3Q4V0hKSVBRXzUxckFmVWVDd2NIRjhsdDBZWlo3VGE5dkJRTmJ2b1FEVnQ2QXo3TUZmMEVhTWdGWFJHVUdWdlVNc01QQ2ZONkMxd1FBYUhsZW93REc4ZTNzZUJNSVRsRHc?oc=5",
     "news_image": "",
@@ -6914,14 +6914,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.9,
+    "news_score": 1.37,
     "news_title": "US men and Canada women win flag football world titles as spots earned for the Los Angeles Olympics - Anchorage Daily News",
     "news_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSkFLeDRMVlY2TXpyRmxNYlhJNFJVMUhOaGtrbmtITFlRM0ltTE45QWE1cXpiemF0MDgxendla0RKMTFDc2lyUUx0ajUzd0VKRExpZ0UtUXphUmVydUtoNXdpWW4tajh1X1dJN3RzbzZ5LWFNdjY5QjdSaDlSNDdSWHRlelBtcm44TVNYVzc0OEVvNDFqZFN0aEoybzRhNjFqWDhNZnllSTY3cTNLN0pFempGV1BKdDdISFVIb3NFSmM4bnZMTUpkUURhS010VVVyU0JRaEVPVnN3RUg1VzctRXMzM3hzV0s4SWc?oc=5",
     "news_image": "",
     "news_source": "Anchorage Daily News",
-    "news_age": "30m ago",
+    "news_age": "32m ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket",
+      "olympic_gold",
+      "olympic_per_cap"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -7972,14 +7977,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 2.16,
-    "news_title": "Young Scholars from China Shine on the World Stage - 中国科技网",
-    "news_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jdktjLWxqeDBrNG82NVVTTDR5dWhxdkVKQW1wQ0VIS3hMSkRYU0dvTTNOeUxRZGYxa0p1WVRkcllscko1V0xOSUF0TXVZNXZ5RXlDYUhXNGVSajZia1dmNjYxajlXc1g0cE9ldkdEMFVUdE5O?oc=5",
+    "news_score": 2.69,
+    "news_title": "China Wants Its Data to Power the World’s A.I. - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHYlo3WmVNbm9LY1dPZnpZMWdGRFF2N29BaDEzM2VCbFcxLVlqVjZoWk1LM3plTDh0YUJTSDBQcnROWThTSjJPSExaSzNmWE9uZHlfLUJNN1hXOEVhNWM1ODFseGZpam5PSURobThLLThZTVc2YWFxSUl1Y1pSdw?oc=5",
     "news_image": "",
-    "news_source": "中国科技网",
-    "news_age": "66m ago",
+    "news_source": "The New York Times",
+    "news_age": "27m ago",
     "news_columns": [
-      "fifa_ranking"
+      "tech",
+      "politics"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13471,7 +13477,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU1I2YUt2ZjNYTW1WR1Y1MFFTa3pyMEczdmlRcnFTendjQWt5Mk1rS0ktY3RHSEItOWNlQVVCYllLdGM4OHVuUFRTaUU0OW81THpEdmRoZzMyNXlfU0J1UWhBcGhFdERWS2RFVm9xUXduXzF2Z0VNQkZzMnZaNkFyWHhKd2o?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "84m ago",
+    "news_age": "86m ago",
     "news_columns": [
       "edu",
       "literacy",
@@ -16717,7 +16723,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYTYxOGFEVVZTUVZELXBVODNwZlRZdjJEaUxuWDJHal9PUXF5NTREM3hacXdDSGRMMk9nVVc0ZHFuNjJ1eWRTMjhobTd1ek51S1NUWTdydnhRbWVkWWxabWhvRW1CQUNCM0s0MEItb1FuZXp3UGo1NVhzcEYyMndySXlINExIQTVDeWNMTncyZzdrVzVPdGpfUFBMMDg0aEdBcDZxRmhTX1JtX1BFaHNZUXE2b3ZTSlptb2hqNWN3dlQwRS1PZUZZZmxYazFBbkxaRkl4V1Bn?oc=5",
     "news_image": "",
     "news_source": "India Education Diary",
-    "news_age": "5h ago",
+    "news_age": "6h ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -17022,19 +17028,14 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 103,
     "fifa_w_rank": 77,
-    "news_score": 0.99,
+    "news_score": 0.94,
     "news_title": "Thousands in Indonesia await aid after quake kills 55, overshadowing Independence Day - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc2s5YWF6T2ViWDVUSTFEMmlmWC1tUnJiRHdPamRJLW1XLXJ0ang0QS15SllOOThiM1RScFRyOGp6OXZ2WjVacmFWUng2ZkxGdDFhWW90Nkh0dk5nVW1VQ3pUZ2JkU3pMNEtVS21wbmhNNzMzY3M1STVINkw0TkZsbjFqUUJHZi1razhoTy1BOWw1czBkeEFtM3RxaEZNZw?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "67m ago",
+    "news_age": "69m ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
-      "earthquake_count",
-      "earthquakes"
+      "climate"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17288,18 +17289,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.12,
+    "news_score": 1.17,
     "news_title": "Live Updates: U.S. and Iran locked in a stalemate as 60-day negotiation period ends - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSjB6cEFBa2hwQ1ZKNUFmMmxtSEJhNnpITnQ0LTNzdUNoWUZvMy1tV3FxVkR3UlJ2VHpFQ1JVQlNiN2FhNVpvam1pZkNrY0pvajRCandGNjVYUG9QSUxyd3o4U1gzYWtHOE5xSmltVlVwY2lfcVlVVU0xaUwzdFZROURnTERwQQ?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "41m ago",
+    "news_age": "43m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "politics"
     ],
     "bottom50_wealth": null
   },
@@ -18023,18 +18020,14 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.53,
+    "news_score": 0.66,
     "news_title": "Live updates: Kushner meets Netanyahu after talks with Hamas on stalled Gaza peace plan - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HMS1FenJqYXZEVWlWMHdLX0lUSzdnMmdNVG9rakl3ck5wVGNCVEJHZWc0TlM3dnpvS2lxYldUR1lBek1WUWhOc2ZpbTFZM0w1M1pPOER6czIyWUhTdkl3SmpSMlptTnZUZWU1aXNB?oc=5",
     "news_image": "",
     "news_source": "CNN",
     "news_age": "2h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "politics"
     ],
     "bottom50_wealth": null
   },
@@ -18471,9 +18464,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRHE1ZE9QVkhZZ0ZmWXJ2RmJsYm9YUmJxeEhKUnVNbENoZUxQdy1fQ25LUEFzQkVoMGt0b01xVnA4cVBKN0VVNFVXZWJScTlQc3NxbGRZUVQyTkZRNDZ0YlZOM3Z6U211TTZHZHNrTVdudUUzNzFVOUNZbHg4aV9YcUs4WHFjOFlpVXc1VTdXcHNIdDlPNkZHbzk5aHRzNW9yMHhRUWFid2QzRGd0OXVQY2RDVW5iTUVuZFdaUHFwNno0WjRnbG1kbHJ2c1o?oc=5",
     "news_image": "",
     "news_source": "DAZN",
-    "news_age": "71m ago",
+    "news_age": "73m ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -19153,12 +19147,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.0,
+    "news_score": 0.8,
     "news_title": "Japan’s economy slows, missing growth forecasts - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbGotS25VbnJlUWRWOVhnZWhwd0pjTmN0d1FrLUtPenRUNUNQcFpFZWh2dS15ajNaVEdIcTVDZ2NCMUJYMHYxN0ZIbDJCX0hMdUtQQlpfdENCa0dBZWZNX2ZKUW5jZGVhaF85aVpXVkZnZWExNzBXQjlnS2VCNU9DSGIzNjR6dHlVWUhkUlJBZ3llTTDSAZgBQVVfeXFMT1h5clZHOW1ERGdENkZ1UlBiYzBkemxuTDdrUEVxZzRUYlBsQzN0N0ZqRXRjNVotUTBTWm1qQnliSjNvZ2V6dEY0bE5QRlVMdUFYczVOVFVRQzVqRzdKb3VDR2Izb1E3TWpKUzNHdzRwcFAtYnp3N01tZU42cXZ2QXYyZGVNUkp4OVVkdG1PNG5rd3RkQjE2b1Y?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "112m ago",
+    "news_age": "114m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -24640,12 +24634,12 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.87,
+    "news_score": 0.86,
     "news_title": "Real-World Clinical Outcomes of Lebrikizumab in Moderate-to-Severe Atopic Dermatitis: A Report of Two Cases From Mexico - Cureus",
     "news_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQVJZdldEM1FscTk2b1BmN0hESUZjX3g2aUxxZjNpNTYzVFdscVRpQ1U3enVLaWRiUEE2WjdQVktjdDdUc3lRQXZtcnViWHFUT0NCR1ZjSFo0Ni1LZm51SUdnUWRZWVc0RFVVTTJYWHlPNzJSMk5Xa3c0ak1aN09sZlVINWtqU0RZNWRJdUhMMVQ1SzdWVzVMQ1UyVkNtODAwZEFTSVMwQXNickZleVNySEtwcGQxS3gyV1lzUy1tSWlNSzlRYkh3XzE4ZWk4dDBMUHRtNTY5VGJQTUVJdkxUMVoxOWNUemwzWEg5NC1n?oc=5",
     "news_image": "",
     "news_source": "Cureus",
-    "news_age": "87m ago",
+    "news_age": "89m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -25370,14 +25364,14 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 138,
     "fifa_w_rank": 97,
-    "news_score": 0.61,
+    "news_score": 0.76,
     "news_title": "Desertification: World leaders gather in Mongolia to restore land and build drought resilience - unric",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUldaNGJvRXNfTzdKcks1NXVMRkhBQ1ZmcWhtSV9IV1Y0ZE84dk5vLWY5TVBSdmg1STkzUFlnY3MzelRDWFdUbXZKbVFrVTlVMS1KZm95cWFvYXlqeERHbTVlU2x1WV9QNlNBQzljbWJqTkhBNzBWSjlUWWxhUFZ3NGQyaXJBVkZmamU2ZmRMalo3ZkY0R1YyVnRMaURJY0lQa1NtdDV3blJoeUhkdWUyQ25QTVNzdw?oc=5",
     "news_image": "",
     "news_source": "unric",
-    "news_age": "113m ago",
+    "news_age": "115m ago",
     "news_columns": [
-      "olympic"
+      "climate"
     ],
     "bottom50_wealth": null
   },
@@ -28633,7 +28627,7 @@
     "union_rate": 89.3,
     "union_rate_rank": null,
     "fifa_ranking_rank": 104,
-    "news_score": 0.28,
+    "news_score": 0.0,
     "news_title": "Trump orders military to ‘substantially reduce’ joint exercises with South Korea - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd21KS2xQcXVlUjVJbkpxeFRiVlVXU1Jxd3FxekNfV1Vab01xd2luRHR3M0ZGd1UzMFNza2NpaElXRWt5NnJWX3J5YkpWMVZQZ2M3a1VxUzFnZEdKdVIyd0Y0Y0ZtMk53eklZRlRqMmpTN3hsSzRKZmR4U25xVWp5UjhCRE9DYU5velo0RkVmN3VuczUzMnM3Y25wcG5HYU5jbDdHX0Y5aF9lbUJ6ZG01amVoazcyUlhkeEtaV1g4UTZkbzIwYktqNThZVGZTM0pS?oc=5",
     "news_image": "",
@@ -31176,12 +31170,12 @@
     "refugees_rank": null,
     "union_rate": 63.7,
     "union_rate_rank": null,
-    "news_score": 0.74,
+    "news_score": 0.73,
     "news_title": "Even Des Ellis is confused by the World Cup qualifiers, so how does it work? - ESPN Philippines",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTENXSFN2Q3dnUGlZT1pTcHRBVnowT3hqZGVIVm5FS1RTcDNlQmNPRWRRWGJNR0pkZkUyMFFWVkdTVk5YZElCcTVJdldSRkJmaXpWX2RSdG93UmJiSU1WcUt2cVFBS085c3VhdHBmOHZ5dHhQU0gxNnlFakFrTThEckJyQ05CSGxmSTRyUG9zd1BEelBaNTk4X0g1dnI0Y1dyeWtnc1N3?oc=5",
     "news_image": "",
     "news_source": "ESPN Philippines",
-    "news_age": "72m ago",
+    "news_age": "74m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -32142,7 +32136,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBELWlEcVd0QVBpcHo1dDVaeVl5UElJVnFETFo1RndnbjV5TnJMQ3BIU1BqN2pndEFRS09FR1RsNXVMMHVWdWRZUjRDNkhGTHVnWGlsYjF2LUdGT2F0VUhiNlBNSQ?oc=5",
     "news_image": "",
     "news_source": "Arab News PK",
-    "news_age": "22m ago",
+    "news_age": "24m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -34110,7 +34104,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 120,
     "fifa_w_rank": 100,
-    "news_score": 0.92,
+    "news_score": 0.91,
     "news_title": "Disney+ Celebrates World Princess Week 2026 | Explore Disney+ Singapore - Disney Plus",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rdWg4cThDNDk4ZGxZU2d4WEtPanhkT1NaU05LN1lVRlQ2RnpVbkZyY2NVb0tWeGN6MmNvRmUtMkV4VGVOZGhycTNlbC1IeEVYeUxUU2JJNFpPMmNEZlozUlZLNnVlUk40bWdzTmV1YTlkVFZpRTUzYjVoYkFZb0U?oc=5",
     "news_image": "",
@@ -35934,7 +35928,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.5,
+    "news_score": 0.47,
     "news_title": "Trump orders military to ‘substantially reduce’ joint exercises with South Korea - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd21KS2xQcXVlUjVJbkpxeFRiVlVXU1Jxd3FxekNfV1Vab01xd2luRHR3M0ZGd1UzMFNza2NpaElXRWt5NnJWX3J5YkpWMVZQZ2M3a1VxUzFnZEdKdVIyd0Y0Y0ZtMk53eklZRlRqMmpTN3hsSzRKZmR4U25xVWp5UjhCRE9DYU5velo0RkVmN3VuczUzMnM3Y25wcG5HYU5jbDdHX0Y5aF9lbUJ6ZG01amVoazcyUlhkeEtaV1g4UTZkbzIwYktqNThZVGZTM0pS?oc=5",
     "news_image": "",
