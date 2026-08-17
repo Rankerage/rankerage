@@ -3817,16 +3817,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.15,
+    "news_score": 0.78,
     "news_title": "Garcia blames Belgium’s doctors for World Cup struggles - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmFJb0JOMWROdnNjQTl2TDFwOFB1QzN6S1d6ZTUydVZQYzVfVVc5OEpQaUEtVjVnQlNLWmVyaW9RWGh3dVU2ZFJyd1l0WVVIVVNzVHh3cldzaXVBU0VISDBDU1FxdE9xTHY2WHJJdGt2dFAyZllncmM5S0lpN256YWVKck4zdzJUVm0wR3RhWkR4cUttanpma0N0aFBiYzAya2c?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "58m ago",
+    "news_age": "60m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket",
+      "doctors",
+      "beds"
     ],
     "bottom50_wealth": 3.1,
     "bottom50_wealth_rank": 18
@@ -7973,7 +7976,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.83,
+    "news_score": 0.76,
     "news_title": "China’s economy showing signs that slowdown may be extending - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmdlcXN2cGVYYmM1UXVjSUFOTE1WZjRCODdqYl9oNlF2SGdvSnRueTlKWVlBQkVScE13SFBoWXF5YmpJQ0h5d2NlVjBfcTZZS1F1YkxsTTJHY2syMXZqRVFoMkFHTTI5aWl1QXlxemNtN25GMDFQNF9fcjBkaWltbXFXUzRnZ09FaC1VY2VhY2w?oc=5",
     "news_image": "",
@@ -13975,7 +13978,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.61,
+    "news_score": 0.66,
     "news_title": "Pavlov takes world title as Germany triumphs on home soil in Magdeburg – International Chess Federation - FIDE",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcnNhcGwtaDNUQ3dFUS1pcHY5SHRVczlZdWFCX0FIWFkxWDNOYkJvak5IemtfY1pPbFg3bGV6ZXlJX0FsN1N0TTZmMWk4Q2JkQ19sR3VHc3NOSUhIdDlBYkN4NmhSSEdDZXNsUkx4Z0ZWd0NTWkt3WGNRalNfTDBPOFdYN1VXNHlPY3owRXNGNzlTSEZZVUo4?oc=5",
     "news_image": "",
@@ -13983,7 +13986,6 @@
     "news_age": "2h ago",
     "news_columns": [
       "olympic",
-      "fifa_w",
       "basket"
     ],
     "bottom50_wealth": 2.5,
@@ -17026,7 +17028,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 103,
     "fifa_w_rank": 77,
-    "news_score": 0.01,
+    "news_score": 0.0,
     "news_title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake - bbc.com",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yS2M2THctdTJaNHY4Um05N1dCZFhCU3RGR25IZ0tmbGVRVjFZUUc4cThTRWNpbTNvbUsya2ZVTmVvYnRxb3BJZWVqRHhlVUVaek9uTVNBZHdlZw?oc=5",
     "news_image": "",
@@ -17292,12 +17294,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 2.23,
+    "news_score": 2.34,
     "news_title": "Live updates: Trump threatens to bomb US ally Oman as Iran agreement expires - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HMS1FenJqYXZEVWlWMHdLX0lUSzdnMmdNVG9rakl3ck5wVGNCVEJHZWc0TlM3dnpvS2lxYldUR1lBek1WUWhOc2ZpbTFZM0w1M1pPOER6czIyWUhTdkl3SmpSMlptTnZUZWU1aXNB?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "59m ago",
+    "news_age": "61m ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -18027,12 +18029,12 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 1.09,
+    "news_score": 1.04,
     "news_title": "Kushner urges Netanyahu to test Hamas disarmament in Gaza - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LSXVMOU1pN3BJWmVGZHN1OWVYMmpFeDZWLWMyaHNwVXZnbU9FZ1hCOHFTRmMzaHJWbmN5eWEtdnBrZ3BfWnlVWGxWVXJhVHpTWlFZT0RaaTJWTnh5SGlBR0lpM0diY1h4TDltbjVR?oc=5",
     "news_image": "",
     "news_source": "Axios",
-    "news_age": "108m ago",
+    "news_age": "110m ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -22939,7 +22941,7 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.0,
+    "news_score": 0.02,
     "news_title": "BLACKPINK’s Jennie Posts Emotional Apology Amid Recent Controversy - Koreaboo",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JSlQydjI4MVRtbUJVNnlZWmE2U051T3NyUXcxYTUzamM3Z2NLa0RKeVVGUmZyVDNIclk1Unk3OF9qdzFUd01qV0dPM3JPbkZzbFRTNEt5UGVNaFMyZDBMSllQNnJUNUJYd3RyeW5lSUVLUXl1WE9mbVJlNlZvNjA?oc=5",
     "news_image": "",
@@ -26366,7 +26368,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZnl3Vk1rSUxQWHIxcy16ODNDOGU2OVFoT0xITE93Nm5qWnZGUlJZa3M0M2p4TnRGcmpEQ0Znallob3VjT0tJQTR4dEpwbG1JakxXWS1tMXZtc1BoRDdJOE1XdTJsX1ZvQkNQaHpCb3RRM3V1R1dfeEVYNHJNQnlLVjFaTF94emVILTJSRkZMaGQzT3FqMEROTW9zRVB0NzYyWHA4Vlc5c1ZlU1FEWlpKUnFGeHNWbDJZbHlUNlFn?oc=5",
     "news_image": "",
     "news_source": "baylorbears.com",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
       "fifa_w"
     ],
@@ -27632,11 +27634,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX1dBY0EyRHQ1YS1ZM1VMTDBrUDdkNjNMbFBzaWxnSXI2UDF5TXVwS0NsVlhOZURCWEc5ZkpibVhiTUhKYUk5RVczX25sd2JtWXkzOVhQOWlWLU9hNHJBT1RwbWI4bGNiYkxVaDN6dmNVS3F6Wms0eW10X3V2NWtBSmZ5T0FVUXhPb0k5ZE96ZzNrUGFKcUlOLU8yeWgzY1BwNmdFT3RxbDZRSTg?oc=5",
     "news_image": "",
     "news_source": "Colorado State Athletics",
-    "news_age": "25m ago",
+    "news_age": "27m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -28279,16 +28280,15 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 1.22,
+    "news_score": 1.2,
     "news_title": "Nigeria sack Madugu after WAFCON exit, World Cup miss - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcll5Y3NBaVBsNlJGNjJIcEs2X2dKaDRVMFp3emtzSjBENnNlUjBmVzFFbGFXZ19iS2xxRkdsZmdJWHpjLVhWbkxRV1JTWGJnX3pYcE0tb1pzMThjcUZ4ZGVNNVdPWUZWSjFINV9QVHhuNUR5d016T1RKYVV0ay1YM0FDQ3lrM1lITnY2MEV4NTNaX2IwaDZwUmpR?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "45m ago",
+    "news_age": "47m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -29492,12 +29492,12 @@
     "refugees_rank": null,
     "union_rate": 70.4,
     "union_rate_rank": null,
-    "news_score": 0.79,
+    "news_score": 0.78,
     "news_title": "Live updates: Trump threatens to bomb US ally Oman as Iran agreement expires - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HMS1FenJqYXZEVWlWMHdLX0lUSzdnMmdNVG9rakl3ck5wVGNCVEJHZWc0TlM3dnpvS2lxYldUR1lBek1WUWhOc2ZpbTFZM0w1M1pPOER6czIyWUhTdkl3SmpSMlptTnZUZWU1aXNB?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "59m ago",
+    "news_age": "61m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -36507,16 +36507,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.22,
+    "news_score": 1.26,
     "news_title": "USA Youth Women Lose To Spain 16-11 At U18 World Championships - USA Water Polo",
     "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWGYxUXR4Y1ZPeFZ3d1ZfS2txRWw1UUlOSE9HVUJGN3hrQkhNTWhueHViVHBDSXZvXzZERkJ3STFvUE0tR1NodGt3Q18tS0JUWDFVOS1JNXlZNVlDNEc5UXlLSTB6NDN6a1I3dzVHSnZ4dTY0aEZLZ2h1SWxrbXpYaGRRcnpvRm5CSzF0UnNtQ2Yya195bVhjbW1rWmRWZUlqMThhMThnRG1lNXc3WklwLWt1WUxCVHNhZGFHcm9ETTQ2cXhjd3JSWDgtRnJYSWc?oc=5",
     "news_image": "",
     "news_source": "USA Water Polo",
-    "news_age": "13m ago",
+    "news_age": "15m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -43495,7 +43494,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZzBEU1JLVFZfYUdMQzNTX0JpbUZUbmh6MnNuTzViVmg1R1dKZC1HMmRGcExFZHpjUGlEOEZUV01JWklYVUdPN05TWlpzbVhidkZ5bWRDRGNfN194dm1xQ3dkcF9pbzh1Z05pZExtNUI5b1FpdGZMcy1sSVY2UWpaNS1SWEpoT0RHTXMwdFZnVkhkWmdKeEpXUk5JejRfMWt2YTRmcTZRMG9xV0t6YklyeVdGMjAwdUdhUXZiOV9laXVZalpzOUFaMUg1TGVkaFFw?oc=5",
     "news_image": "",
     "news_source": "The National Tribune",
-    "news_age": "14h ago",
+    "news_age": "15h ago",
     "news_columns": [
       "edu",
       "literacy",
