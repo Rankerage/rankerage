@@ -5133,7 +5133,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.26,
+    "news_score": 0.23,
     "news_title": "Rhythmic Gymnastics 2026 World Championships in Frankfurt: Brazil make history as Darja Varfolomeev shines in apparatus finals - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd1NUWk9iSzVaSVJueVQ1OXdVRVp0THZsVnIwNjBfejkzMFV5SUZJZFk3UnBmY0VESlBtUng5dDNFcW9NS2VRLUZPRGY0QXBNcEphVnJSMXhITDJTTDFBcW5Nc3dodXpvbzRnYmVWQ3dDc05MMjlIVGl6R0plS1drRF9tSWFlT2oxbDRUZmh6czRadmlpeEtVazBGY0hydm8zNlpEMkZ3TTE4M2EtNHVVM2J5cklkSVQ0bHNSQkhNdnd1Tk9QUkE?oc=5",
     "news_image": "",
@@ -5141,6 +5141,7 @@
     "news_age": "6h ago",
     "news_columns": [
       "fifa_ranking",
+      "fifa_w",
       "olympic",
       "basket"
     ],
@@ -5552,7 +5553,7 @@
     "refugees_rank": null,
     "union_rate": 73.2,
     "union_rate_rank": null,
-    "news_score": 0.35,
+    "news_score": 0.34,
     "news_title": "Former Toronto Raptors Center Ventures Overseas to Bulgaria - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORlk0U25KbXhzSDVfcXlQMnlWUUcyNkhqYlNlQXJCSTNjbjVtMjF0QUxFNEJrUXhUWnV6eTVQZ0tpS3hXc1lIVUl6OWRJbHNBRlN3TGZVTklNWTFUSTM1akRPRlA3N0RCdEdlcmEyMC1nYU1qUzM0QzZhNEdfTU8yS2lHaFdCTzg4UFh4THUxUkg?oc=5",
     "news_image": "",
@@ -6910,7 +6911,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.25,
+    "news_score": 0.26,
     "news_title": "Canada men and Mexico women earn last two Olympic quotas at 2026 IFAF Flag Football World Championships: \"This is something I never imagined when I was young\" - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS0hRNFdpY0E0aUp0eGZqNGhDSnYwQzFpcWdUWmlCdVJXcXZJOHhxczVTUXA2UkY4RjZOV29oNHFxTjFudTVjTDdJMnNZdGRXZnlFOVdWQTdYV29oOG9XamVjbWhJOGJqXzAxX2YzN2EyYjZxQUZzZWFQUFhMUkxXbEw4d0NZQVVtOVhpRUQ0Z3FITDFUakNpQVhsaFE2M0VESlBvNTNRUWhlcDM4Z09MZkpJSDV5dEdXXzRVYllpUVB5NGJ1VEt5QW8wb0Q?oc=5",
     "news_image": "",
@@ -6920,9 +6921,7 @@
       "fifa_ranking",
       "fifa_w",
       "olympic",
-      "basket",
-      "olympic_gold",
-      "olympic_per_cap"
+      "basket"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -7973,7 +7972,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.27,
+    "news_score": 0.23,
     "news_title": "USA Youth Women Open Play At U18 World Championships With 14-2 Victory Against China - USA Water Polo",
     "news_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTEs1eXRYcDR5LXNVTFVtM18tNHlhSUotdHhEWEoyVjF5em9pYzZoc0lGRFNqay0wOFZtc1owd3dwOTZqUGU4T3JJSE8zZnRSdG5CMTlkU1pYRWNVWEttdE84Z3FmRFd4VU5zSWVkRUlLenhSN0FNX01ycnJNODA1RFpMaTREUXlRRUxJTjdvaWNnNEVFVjBiWVF4amNoeUdnM3dYMDVXT09XbEJ0c0xJZjZrM01tdzc1XzBTaDBNZFJrUmlvVXF2QzhmY3ZZdG5xQXRCM1hrdGY5SjJ5dmZKUk9BUDV2UUp1bkRNSw?oc=5",
     "news_image": "",
@@ -10885,12 +10884,12 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.48,
-    "news_title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan - Al Jazeera",
-    "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNmpRRVBLRXhGNDJhZkRHSlhWbWcyemJTNXp4akxyVUpSV0xwTEx5UG9ZdUY3V3U5TkdHd3VuSXhHd0NZVzV2eVM3d3g0ajNZR0tyZzRoZ1cwVjlrTVFVZGNJM2JuWjdOYlBLbVBLWnQwV0dpRFZaT2VNVjFTR3NrTE96M3V4ZGlfbEJtcHZabjlpMHY0TnJFNGVn0gGfAUFVX3lxTE9Cek5VQUEwRmxxbGdtX1RLYlNiZUZqRFlqbkdSQ2RSelVoTi1kdDdwYXV5bl9tTEY5MWdnT2tLMXlHWXJXNTF0SFZRUnVUZEFVMm9wYVEwT3UteWUtdUp6SkVVa1hraXJpVXVmdXVDWlp5SXdrTXg2OTU3bnZ2emhxYUIzcHEwQmh3OWdybFZ5ZUhiNnVlVDY4bGxmV2VxQQ?oc=5",
+    "news_score": 0.26,
+    "news_title": "Egypt implements 508 private-sector reforms in 2025: IDSC - Economy - Business - Ahram Online",
+    "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYlplVU41WVg2RF9vTmxiQ2pXV1BFSkNMQnlQVXNPbGlhMGtoTXhxVG5aV2RhbGlGVnlra0hDTW9qTW1YTnNBZkwxaWIzUWYtbUJSUXp1RnBNUGNuNmlQY1llOGZCeFZRMHhDY1pjMEMyb1BXcXNReTlYaFhmaUVZSHdYZ090TDVoNHlwNTljVkRGQUEyLWtOeFdhRXRidTVRNzVKVHk3eVVmdmV2aWpaM01oUQ?oc=5",
     "news_image": "",
-    "news_source": "Al Jazeera",
-    "news_age": "31m ago",
+    "news_source": "Ahram Online",
+    "news_age": "8h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -13978,7 +13977,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.12,
+    "news_score": 0.1,
     "news_title": "Chu, Keys strong in finals to conclude Rhythmic Worlds in Germany - USA Gymnastics",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ0p5ZTN4ZU9FOFN0MU5weW9obGI0S2hlc1ctZmwzSk9peENmVTZzTG44a3BNeHhYZmw0MDFFYmFWRy1FU2RHVmprWmZZQ1VwZ24zcVpnVHhJRmdVcUhsMy1pLU8zemNsSk1Lek5LdkI4WmJGekxyVkZON1ZVM2p3bW1IQ3ZtXzdXRHpqUw?oc=5",
     "news_image": "",
@@ -13986,6 +13985,7 @@
     "news_age": "8h ago",
     "news_columns": [
       "fifa_ranking",
+      "fifa_w",
       "olympic",
       "basket"
     ],
@@ -17026,19 +17026,17 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 103,
     "fifa_w_rank": 77,
-    "news_score": 1.26,
+    "news_score": 1.0,
     "news_title": "Nearly 1,000 aftershocks followed Indonesia earthquake that killed at least 53, officials say - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83T1pObWFEcjlUbml5M01PQTU1SGRNOWlBc2tvcmtrQVFqTXdMcFEwZE00THltVGdrZVRJNHcwdFJ3MHFWdHVucGNXdjFHTEh6RTY1Vi1KMVBsaUxMRjQ2Qk5YVks4NFNmMkZJOFhtS1Z1Vmhl?oc=5",
     "news_image": "",
     "news_source": "CBS News",
     "news_age": "2h ago",
     "news_columns": [
-      "democracy",
-      "press",
-      "gpi",
-      "polit_kill",
-      "earthquake_count",
-      "earthquakes"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17292,19 +17290,18 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.77,
+    "news_score": 0.82,
     "news_title": "Trump orders Pentagon to scale back joint exercises with South Korea - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb3RPcGlIdXQ3RU5USnlMN0tyQUxyT2c4NW1zekhhV0xubm9tTmhHLWE0c2RxTFdNWXJueVF4TXA5ODJDNFRhQTdCQllnaU51cTlCc0pqaHZNbmxIbnhxR01MNVZEOWdtaU90cWZjUU9RYlBITDBhMWdiNllIcGFoMHJXQWdlN0lQdWZ5dVVNT00wR0px?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "115m ago",
+    "news_age": "117m ago",
     "news_columns": [
-      "democracy",
-      "approval",
-      "press",
-      "election_days",
       "military_pct",
-      "nuclear"
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": null
   },
@@ -19166,11 +19163,10 @@
     "news_source": "Qazinform",
     "news_age": "55h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -27634,12 +27630,12 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 0.13,
+    "news_score": 0.09,
     "news_title": "Viet Nam, New Zealand can lift sci-tech, workforce training cooperation to new level: expert - Nhan Dan Online",
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRnlVcm5oU2VzQnNXcUxxaFQ0NnJBLXVldWJNZDlmbWpTbDhxUWVQS1VxUzZSOEZPS3d4Vm5naTRvVU54NURaazNKMWVjSkptVWp2WlFJZ181Q0phbENEYzJrZXlpOTdJck9RN29HREF2d2tSZ2E5VTgyQVlXaG1YcDNtekZOajh5SWgwbWZ6SWNFcFpTTXU0dVFvWEl0a1hXc01hSkhzbWFXNS1KblY3ZVFHSWdHOTZnaHJYLUdod3hDTnNlR2c?oc=5",
     "news_image": "",
     "news_source": "Nhan Dan Online",
-    "news_age": "61h ago",
+    "news_age": "62h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -34797,7 +34793,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPODVNbm9LcVAySVBPZ3N0TE1lWDRYWmlkd2JZbDdVczV2d0FiSEd6VndpTHVpVlpyck52dS1wdDltZDhrUGF6Z0lZS3NmbW9rSUVKQUdOUFo0LU5YLVFRMEQzZ0toMnZpZ1NqYzFHOWNwaTBRSlZ5RlFTMjlTM2YwVW5xcnJFQQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "9h ago",
+    "news_age": "10h ago",
     "news_columns": [
       "basket",
       "olympic"
@@ -35951,12 +35947,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.74,
+    "news_score": 1.18,
     "news_title": "Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZVlaa1lVSUduRVQzZ29UdnNWWFZUd3Zra2tVRU9qRURhMER0dFR6UjFmVElkQ1BMVDZrM1NkMVdkS1FpblItUmVsaUZ0YTAwblc2cDE5VVA3QjU3YmpsUlJFSERJQnZndnc5dHB3aHQweGRJUGZQcmhQY3g2amlubmtjamJpZEp6bnRfUlN6Y3h2MFdwNnFBUm40ekdfazR3bWd2MkdnZzJPYXNLYVRwU2N0OFhtb0E4OGpkcEhPMVc?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "102m ago",
+    "news_age": "104m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
