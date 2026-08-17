@@ -5133,7 +5133,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.24,
+    "news_score": 0.19,
     "news_title": "Rhythmic Gymnastics 2026 World Championships in Frankfurt: Brazil make history as Darja Varfolomeev shines in apparatus finals - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd1NUWk9iSzVaSVJueVQ1OXdVRVp0THZsVnIwNjBfejkzMFV5SUZJZFk3UnBmY0VESlBtUng5dDNFcW9NS2VRLUZPRGY0QXBNcEphVnJSMXhITDJTTDFBcW5Nc3dodXpvbzRnYmVWQ3dDc05MMjlIVGl6R0plS1drRF9tSWFlT2oxbDRUZmh6czRadmlpeEtVazBGY0hydm8zNlpEMkZ3TTE4M2EtNHVVM2J5cklkSVQ0bHNSQkhNdnd1Tk9QUkE?oc=5",
     "news_image": "",
@@ -5141,7 +5141,11 @@
     "news_age": "6h ago",
     "news_columns": [
       "olympic",
-      "fifa_w"
+      "olympic_gold",
+      "olympic_per_cap",
+      "fifa_ranking",
+      "car_density",
+      "gas_price"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -6909,15 +6913,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.31,
-    "news_title": "Canada men and Mexico women earn last two Olympic quotas at 2026 IFAF Flag Football World Championships: \"This is something I never imagined when I was young\" - olympics.com",
-    "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS0hRNFdpY0E0aUp0eGZqNGhDSnYwQzFpcWdUWmlCdVJXcXZJOHhxczVTUXA2UkY4RjZOV29oNHFxTjFudTVjTDdJMnNZdGRXZnlFOVdWQTdYV29oOG9XamVjbWhJOGJqXzAxX2YzN2EyYjZxQUZzZWFQUFhMUkxXbEw4d0NZQVVtOVhpRUQ0Z3FITDFUakNpQVhsaFE2M0VESlBvNTNRUWhlcDM4Z09MZkpJSDV5dEdXXzRVYllpUVB5NGJ1VEt5QW8wb0Q?oc=5",
+    "news_score": 0.33,
+    "news_title": "Flag football: Los Angeles 2028 Olympics spots decided as USA and Canada claim men's and women's world titles - Sky Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTHgtWnAyREdzeS0yQjdORGRpcGRGaFJOQ1V1N1NxelBSYlVBTHY3a19pUWhTTklPOEdnYjBhdE1HX0FmUHMwM1JRTzJsTmdoVnFKQ3E0S19DSHB3UmZHMDZuRGlGSkc3NHFWdHFZMnNEc0xpR1ItUGxGUW5pWC1xckZyRUdlYTVwSS1Vekc3d3ZOQlJQeHF0NVhoSHJJeklSQ3p1WWk1dGpnbkpMVEZrWlhEYzA3R2ptRnQ1WU52V203ZEhrSEh4RDZIeXFHU1JGbWR1U2ZreW94VUUxY3hRa192VWFBbENKc3pYXw?oc=5",
     "news_image": "",
-    "news_source": "olympics.com",
-    "news_age": "8h ago",
+    "news_source": "Sky Sports",
+    "news_age": "6h ago",
     "news_columns": [
-      "olympic",
-      "fifa_w"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -10880,12 +10885,12 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.77,
+    "news_score": 0.8,
     "news_title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNmpRRVBLRXhGNDJhZkRHSlhWbWcyemJTNXp4akxyVUpSV0xwTEx5UG9ZdUY3V3U5TkdHd3VuSXhHd0NZVzV2eVM3d3g0ajNZR0tyZzRoZ1cwVjlrTVFVZGNJM2JuWjdOYlBLbVBLWnQwV0dpRFZaT2VNVjFTR3NrTE96M3V4ZGlfbEJtcHZabjlpMHY0TnJFNGVn0gGfAUFVX3lxTE9Cek5VQUEwRmxxbGdtX1RLYlNiZUZqRFlqbkdSQ2RSelVoTi1kdDdwYXV5bl9tTEY5MWdnT2tLMXlHWXJXNTF0SFZRUnVUZEFVMm9wYVEwT3UteWUtdUp6SkVVa1hraXJpVXVmdXVDWlp5SXdrTXg2OTU3bnZ2emhxYUIzcHEwQmh3OWdybFZ5ZUhiNnVlVDY4bGxmV2VxQQ?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "43m ago",
+    "news_age": "45m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -12945,8 +12950,12 @@
     "news_source": "News On AIR",
     "news_age": "89h ago",
     "news_columns": [
-      "olympic",
-      "fifa_w"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "space_launch"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17012,19 +17021,16 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 103,
     "fifa_w_rank": 77,
-    "news_score": 1.16,
+    "news_score": 1.14,
     "news_title": "Nearly 1,000 aftershocks followed Indonesia earthquake that killed at least 53, officials say - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83T1pObWFEcjlUbml5M01PQTU1SGRNOWlBc2tvcmtrQVFqTXdMcFEwZE00THltVGdrZVRJNHcwdFJ3MHFWdHVucGNXdjFHTEh6RTY1Vi1KMVBsaUxMRjQ2Qk5YVks4NFNmMkZJOFhtS1Z1Vmhl?oc=5",
     "news_image": "",
     "news_source": "CBS News",
     "news_age": "2h ago",
     "news_columns": [
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17285,12 +17291,11 @@
     "news_source": "apnews.com",
     "news_age": "2h ago",
     "news_columns": [
-      "democracy",
-      "approval",
-      "press",
-      "election_days",
       "military_pct",
-      "nuclear"
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": null
   },
@@ -17755,7 +17760,7 @@
     "refugees_rank": null,
     "union_rate": 77.2,
     "union_rate_rank": null,
-    "news_score": 0.28,
+    "news_score": 0.27,
     "news_title": "Spain beat Ireland in five-goal thriller at World Cup - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa01FZHR5bk43bXFZeXRvTUNYN19MSHRWWGM4SzRrVUNSX1c4VWtBX2dfZWtfVUhOS0s3bDVGMjZkbGlKMkZtN25ZSlRoZ2dDdll0ZnNXRm5uRlZwakpJOGN3RnkwOUVYQlVsc2FtN2RBRVNmbkxzdFNRbC1oYmFqNHZ6Yw?oc=5",
     "news_image": "",
@@ -19150,7 +19155,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTXlXNzlhM3pIMG1qRmZlbjVfc09uYnZmQkRaNzNSbDZSUzRKMGpMX01xdTQwSThteUwzc2NyUGhCSnp4b25Kd2hLWDFhSWV1b3J1RFM5a1hrUWVqZjNqa0lBVHd5TE96ZUZtTVBZWnRkcWhOd3hSWEQ4XzUtTzZYUDl3VDJsblAzdnJ3c1FaSUg4TEJaeVFsWWlSQ0Q3NURJYWfSAaIBQVVfeXFMUEpUT1lPUS1fQWR3VDNzNTJKbEQ5V3l6NjJPNEtIY0hNdmx3R3R0UGkzRURidWVRbXR6QXM0djdncU9WWDRoN1c2RXVrc012dklRVC1uWXFsSTVQU3BMNEhDVEQ3Y0FRSk55TW45N2pOLW1xR3h2dGxmXzZDUEphRUc0WG1RTXZnSmo2YXIzMWp5YThCMUN4N2FLb1ZsWTgzaDZR?oc=5",
     "news_image": "",
     "news_source": "Qazinform",
-    "news_age": "55h ago",
+    "news_age": "56h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -22101,7 +22106,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 121,
     "fifa_w_rank": 68,
-    "news_score": 0.1,
+    "news_score": 0.0,
     "bottom50_wealth": null,
     "news_title": "How to watch Arizona Wildcats men's basketball in Lithuania - Arizona Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU1dhZ0p4YnE2ZlFZSGxFdWJFSVI2cDRVaUJiU0ZOVkUwQUI3dTdIeGsydVhaT3k0Z3lKY29BZG9MeWF5LTFXcHNzYjhURUNucGxnVlpWR1R2dURJMDBTLUpMbEhkZE42dUV4cjVXRTkta0dNYUEzZTZkQWxrTnlMTw?oc=5",
@@ -35937,18 +35942,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.03,
+    "news_score": 1.38,
     "news_title": "Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZVlaa1lVSUduRVQzZ29UdnNWWFZUd3Zra2tVRU9qRURhMER0dFR6UjFmVElkQ1BMVDZrM1NkMVdkS1FpblItUmVsaUZ0YTAwblc2cDE5VVA3QjU3YmpsUlJFSERJQnZndnc5dHB3aHQweGRJUGZQcmhQY3g2amlubmtjamJpZEp6bnRfUlN6Y3h2MFdwNnFBUm40ekdfazR3bWd2MkdnZzJPYXNLYVRwU2N0OFhtb0E4OGpkcEhPMVc?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "114m ago",
+    "news_age": "116m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 5.1,
     "bottom50_wealth_rank": 8
@@ -36512,7 +36515,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.43,
+    "news_score": 0.42,
     "news_title": "Spain beat Ireland in five-goal thriller at World Cup - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa01FZHR5bk43bXFZeXRvTUNYN19MSHRWWGM4SzRrVUNSX1c4VWtBX2dfZWtfVUhOS0s3bDVGMjZkbGlKMkZtN25ZSlRoZ2dDdll0ZnNXRm5uRlZwakpJOGN3RnkwOUVYQlVsc2FtN2RBRVNmbkxzdFNRbC1oYmFqNHZ6Yw?oc=5",
     "news_image": "",
@@ -37472,8 +37475,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "election_title": "Swedish Parliament",
     "election_url": "https://www.electionguide.org/countries/id/206",
@@ -41031,19 +41033,18 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.04,
-    "news_title": "Kyiv launches large attack on Russian military and energy facilities - Euronews.com",
-    "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ2hhaUsxR3BDcm92cTJiclVLLVNIQ1kxZktzajNHSkRNN0t5LTdKVGVDS05XaTZZTldZOUdZWDR1dHFiWGZrYjV6di1qMmZydW5tbGd5eEFQLTA5THRuV1k4MGN4cUxjY3BXTTkxOVFyaUNBNUNqQnFHZzBYOWdqQlRBZTA0UWh1NTNXcW5XaXliSXM0UlFMX3E1dkp1aGFkajdrb09DY2FJSHoydm1ESjRDdEJMSVh1YVBiM3FrTEc1LXhram56WmpkcmJxVlk?oc=5",
+    "news_score": 0.09,
+    "news_title": "Could millions of planets form around black holes? Scientists have an answer - RBC-Ukraine",
+    "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2RrX1Nfbjh5VjMxVDYxbmhiQXFQWkVhS1VLemFzYm00RWNKbExQdUZpM2l2dlI0VlRoeHBZbkswWmd0M3AtaWFyOEtSYlJFbWdJLVk5allkSXFzWTdRYU5oZG5SenczOVdJWVM1RlBRMV9TUzBMa2RsZ1ZoR0U2ZVQxUXE4cmFyMDJwUTNudUNzN0ZVOEE?oc=5",
     "news_image": "",
-    "news_source": "Euronews.com",
-    "news_age": "11h ago",
+    "news_source": "RBC-Ukraine",
+    "news_age": "6h ago",
     "news_columns": [
-      "gas_price",
-      "energy_per_capita",
-      "co2",
-      "renew",
-      "exports",
-      "military_pct"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": null
   },
@@ -42689,7 +42690,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTXlXNzlhM3pIMG1qRmZlbjVfc09uYnZmQkRaNzNSbDZSUzRKMGpMX01xdTQwSThteUwzc2NyUGhCSnp4b25Kd2hLWDFhSWV1b3J1RFM5a1hrUWVqZjNqa0lBVHd5TE96ZUZtTVBZWnRkcWhOd3hSWEQ4XzUtTzZYUDl3VDJsblAzdnJ3c1FaSUg4TEJaeVFsWWlSQ0Q3NURJYWfSAaIBQVVfeXFMUEpUT1lPUS1fQWR3VDNzNTJKbEQ5V3l6NjJPNEtIY0hNdmx3R3R0UGkzRURidWVRbXR6QXM0djdncU9WWDRoN1c2RXVrc012dklRVC1uWXFsSTVQU3BMNEhDVEQ3Y0FRSk55TW45N2pOLW1xR3h2dGxmXzZDUEphRUc0WG1RTXZnSmo2YXIzMWp5YThCMUN4N2FLb1ZsWTgzaDZR?oc=5",
     "news_image": "",
     "news_source": "Qazinform",
-    "news_age": "55h ago",
+    "news_age": "56h ago",
     "news_columns": [
       "olympic"
     ],
