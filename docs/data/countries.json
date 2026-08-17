@@ -1926,7 +1926,7 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.22,
+    "news_score": 0.14,
     "news_title": "FIH Hockey Men's World Cup 2026, Game 8: Argentina vs Japan | #HWC2026 - Fédération Internationale de Hockey",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPemxPRGpWbkxJdVhFZk1wSndMRHZMQWFKZEgwRll2Y0lGU1JETDJXTlV4SlE0eDVPVl90NUZnMzh5Z3RlSmJ1T3JSNFJXSlpweFhQOUF3M0dfSUY4UnVlQmhDdy1iSGpjTktlNzlIQVhOTmRYRVlBNTU0QXZ1aERkdlh4V3BCdURVaUFKQmxHRWhSNE41UUNhWkx3?oc=5",
     "news_image": "",
@@ -1935,7 +1935,8 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -6911,19 +6912,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.33,
-    "news_title": "IFAF Flag Football World Championship 2026 results: Canada stun USA to win women's title - DAZN",
-    "news_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcENuSk9VVDE3M3lnRkRaaEYzeU5fd0tTTjNYSXIzV0JYanpTYVdva0hwM01rcG8tM3lTMGtVb29HQ3VXbl8yQm9ILWloLU1OTHVyY0h6bDZMdTBoWnZjNUlyVk4zQ3ZaYnNZZFljOG1Ha0hlTnZqNmlTYnR4NjUwTnNFMTFRT1pKT3ZxNUFtSm85dUFiaDBZamZucWNoZ1h4R29WWHB4YlJGOFp1N0N4WTVfNEhTbF9UeFB5RGZzLW9xOFVoX3RxMzJFZHVpZy1rSG9FamFxQ3NfRkRHQXF2ejNn?oc=5",
+    "news_score": 0.38,
+    "news_title": "“DWTS” Pro Witney Carson Is Pregnant, Expecting Baby No. 3 with Husband Carson McAllister (Exclusive) - Yahoo News Canada",
+    "news_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IT2xQbFVBeUdGUTRuZ2Q2eExsQ2V6eUNnNk9TazRfOHJmR2l6anU2WXdoeVh2bjNtRU16ZV8yZU1rZDMxVGhJWWhtNnMwaWJIbV9JS0dQdUVvQW01QUYxS0JobjM2VExqWWc5Z0UxSjh4Q1hOci1Ba0ZtcHA?oc=5",
     "news_image": "",
-    "news_source": "DAZN",
-    "news_age": "5h ago",
+    "news_source": "Yahoo News Canada",
+    "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "gender",
-      "gender_gap"
+      "car_density",
+      "gas_price",
+      "co2"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -7975,14 +7973,13 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.41,
-    "news_title": "Young Scholars from China Shine on the World Stage - 中国科技网",
-    "news_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jdktjLWxqeDBrNG82NVVTTDR5dWhxdkVKQW1wQ0VIS3hMSkRYU0dvTTNOeUxRZGYxa0p1WVRkcllscko1V0xOSUF0TXVZNXZ5RXlDYUhXNGVSajZia1dmNjYxajlXc1g0cE9ldkdEMFVUdE5O?oc=5",
+    "news_score": 0.54,
+    "news_title": "China Wants Its Data to Power the World’s A.I. - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHYlo3WmVNbm9LY1dPZnpZMWdGRFF2N29BaDEzM2VCbFcxLVlqVjZoWk1LM3plTDh0YUJTSDBQcnROWThTSjJPSExaSzNmWE9uZHlfLUJNN1hXOEVhNWM1ODFseGZpam5PSURobThLLThZTVc2YWFxSUl1Y1pSdw?oc=5",
     "news_image": "",
-    "news_source": "中国科技网",
+    "news_source": "The New York Times",
     "news_age": "5h ago",
     "news_columns": [
-      "olympic",
       "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
@@ -8217,7 +8214,7 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.26,
+    "news_score": 0.25,
     "news_title": "Colombia defender Jhon Lucumí moves to Juventus after impressing at World Cup - newsday.com",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUjNzTE5Ud1Vhb3o4YnhkWm9Ta0ZWbGEzUGFHREkwMHZXODh1NFhSN251N2Zxb2phODRlT2pqVGVQZUh0bkJ4SlZwS2NvYkswN3dmU1RPcXA3QnNJUGZKdG9UZ2lSa2N6amMzbUdkMG5pNXNrVWE4cl92RngzXzh5OWhB?oc=5",
     "news_image": "",
@@ -16059,7 +16056,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQelhadWhHY24zalpKVzJVRlJPTm9Wa1hqcGVfWGJKaXhMNThaUXFaZGN5NXZZSUt2X2Q1VmRPSDNPelR3dXZjUV9HWXpmY09GX0pLa3M5YWRXTFNzNnBoSTNLOEhLLUlGeXpSZThtX01kTDgwbzBBNGVRT3NhSmFJT3d5WERsUTFMb0Q1d2wxWHlZLUhKWVR6cWhpRDFReVdlbXM2XzBrV1Vjc3dMdkxtSWNJWQ?oc=5",
     "news_image": "",
     "news_source": "Daily News Hungary",
-    "news_age": "97m ago",
+    "news_age": "99m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -16718,12 +16715,12 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 1.77,
+    "news_score": 1.83,
     "news_title": "Hockey World Cup 2026: India’s 32-year wait for win over England extended - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUWhxM1drbjVwOHZ0SmZLZFRWZ0dGUjhDUTdZVWFlLS1nbGVFTEdIU29qV1hyZEotV1VRVHF3V3ZhdGx0R1E1Q1IxMF9nWGx5N3RUOTVna3Y2X19nN3VXX0NDRkNNelRqMEMyTTVqTENReU5adDNzeHpIZ3NmNkNtOTFzN3ZoaW5zcXZPcDQwRmVZQmRVQlFRQ3k4VWJiVkJR?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "21m ago",
+    "news_age": "23m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -17024,19 +17021,19 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 103,
     "fifa_w_rank": 77,
-    "news_score": 0.29,
-    "news_title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yS2M2THctdTJaNHY4Um05N1dCZFhCU3RGR25IZ0tmbGVRVjFZUUc4cThTRWNpbTNvbUsya2ZVTmVvYnRxb3BJZWVqRHhlVUVaek9uTVNBZHdlZw?oc=5",
+    "news_score": 0.45,
+    "news_title": "Thousands in Indonesia await aid after quake kills 68, overshadowing Independence Day - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc2s5YWF6T2ViWDVUSTFEMmlmWC1tUnJiRHdPamRJLW1XLXJ0ang0QS15SllOOThiM1RScFRyOGp6OXZ2WjVacmFWUng2ZkxGdDFhWW90Nkh0dk5nVW1VQ3pUZ2JkU3pMNEtVS21wbmhNNzMzY3M1STVINkw0TkZsbjFqUUJHZi1razhoTy1BOWw1czBkeEFtM3RxaEZNZw?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "5h ago",
+    "news_source": "AP News",
+    "news_age": "43m ago",
     "news_columns": [
-      "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17290,18 +17287,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.55,
+    "news_score": 1.47,
     "news_title": "Trump threatens to bomb Oman if it ‘gets in the way’ of Iran deal as Kushner meets Netanyahu – Middle East crisis live - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeXZQRUE5VG8wZXBPV1ZMektxcF9sLUh6TUlJWHJPNG4tUzBCR3FFa1BVRHJCckc1TUtnWVJsb1hpMXJwTnZpTlREbEVYUXlTUHA1MEtVTnY3d29lbGdMdTJiSWhhQ3NxRHhqNXRMYjJpRFgzNmJzc1FPXy1ReUM5d2Fsa0gxTHl3eDF0YXBvSkpDclVLM2ZMSURaenhsUzJGMUQtSmptWk41ZnpVMjJNeXNNbFVxdzg4Uk9WSUI0UHdQSlNhTkhGQkVJVVFQUGlxMDBF?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "35m ago",
+    "news_age": "37m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -19157,15 +19150,17 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.41,
+    "news_score": 0.32,
     "news_title": "FIH Hockey Men's World Cup 2026, Game 8: Argentina vs Japan | #HWC2026 - Fédération Internationale de Hockey",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPemxPRGpWbkxJdVhFZk1wSndMRHZMQWFKZEgwRll2Y0lGU1JETDJXTlV4SlE0eDVPVl90NUZnMzh5Z3RlSmJ1T3JSNFJXSlpweFhQOUF3M0dfSUY4UnVlQmhDdy1iSGpjTktlNzlIQVhOTmRYRVlBNTU0QXZ1aERkdlh4V3BCdURVaUFKQmxHRWhSNE41UUNhWkx3?oc=5",
     "news_image": "",
     "news_source": "Fédération Internationale de Hockey",
     "news_age": "6h ago",
     "news_columns": [
+      "fifa_ranking",
+      "fifa_w",
       "olympic",
-      "fifa_w"
+      "basket"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -24643,15 +24638,15 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.93,
+    "news_score": 1.01,
     "news_title": "World Series 2026: Salinas Rojas, Gutierrez Bermudez lead Mexico’s medal rush - Paralympic.org.",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcE9FRV83ajc3X0NnRUViNGlRZlU1ZFZVbDBRekxfQmUzYXJlSm14RnJKTE41cXQxVy16N0xqUnMwRkV3cFU3YUh0dG1lVTVOQWQtSmdWNTBHU2w3elFPRjVoTW5pUk1zUWU2UzN4TkFmSFRxZkpvSGRvaG9VSWJBWVBUNVNMZWtvNzNPNGFxRXEteDBWQ1E1dE91LTRWZUo3TVBBOWJRZjRtTGs?oc=5",
     "news_image": "",
     "news_source": "Paralympic.org.",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic",
-      "fifa_w"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 22
@@ -25372,7 +25367,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 138,
     "fifa_w_rank": 97,
-    "news_score": 0.15,
+    "news_score": 0.14,
     "news_title": "Desertification: World leaders gather in Mongolia to restore land and build drought resilience - unric",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUldaNGJvRXNfTzdKcks1NXVMRkhBQ1ZmcWhtSV9IV1Y0ZE84dk5vLWY5TVBSdmg1STkzUFlnY3MzelRDWFdUbXZKbVFrVTlVMS1KZm95cWFvYXlqeERHbTVlU2x1WV9QNlNBQzljbWJqTkhBNzBWSjlUWWxhUFZ3NGQyaXJBVkZmamU2ZmRMalo3ZkY0R1YyVnRMaURJY0lQa1NtdDV3blJoeUhkdWUyQ25QTVNzdw?oc=5",
     "news_image": "",
@@ -27113,15 +27108,19 @@
     "refugees_rank": null,
     "union_rate": 85.6,
     "union_rate_rank": null,
-    "news_score": 0.39,
+    "news_score": 0.29,
     "news_title": "Bangladesh, Netherlands embark on new journey in circular economy - The Business Standard",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd3h5Z0tBc1dHS3QtVWJqQ08wNGdQT3VCQUZUMnNxcGtOV29MQkdMa0hZQ0VtODdUbmk1VENmUkozNFAyTnl2Z1h3Rzgyc1Z3Wk1Gdnoxdnl5b0VQZ1Azb2hrWE94RThNcUpfVUl0V1RIWE9QZkhCMlN0SFJOdEhfNU1Hbmx0ZzllQ3luWEhCN3ZHc0NrdWxhZXhHQnJ5Q3YzWnZhT2dYTFTSAa4BQVVfeXFMUGQzMXZuZm9tNzY2SXZoOGp5WEhRdFRNYlFSWWh3Y2lpRzBjd2l2Uks0dUFRQ2dJdXFjOTdtNkEwWWR0TXdFdlAwN3I0bnZkaEVmbVJnVW1TWGZtYWtoSGpGT200U0dDRG92LVZ5OE1EeUlfOVdUUVl4bHZySVlzWmo2SGJZUkVmeXFFc0lBUWNNaUhsT1lBVVM1eWhJRDNtLTYyYlRFTmtJUF9pOE13?oc=5",
     "news_image": "",
     "news_source": "The Business Standard",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 25
@@ -29488,12 +29487,12 @@
     "refugees_rank": null,
     "union_rate": 70.4,
     "union_rate_rank": null,
-    "news_score": 1.2,
+    "news_score": 0.86,
     "news_title": "Trump threatens to bomb Oman if it ‘gets in the way’ of Iran deal as Kushner meets Netanyahu – Middle East crisis live - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeXZQRUE5VG8wZXBPV1ZMektxcF9sLUh6TUlJWHJPNG4tUzBCR3FFa1BVRHJCckc1TUtnWVJsb1hpMXJwTnZpTlREbEVYUXlTUHA1MEtVTnY3d29lbGdMdTJiSWhhQ3NxRHhqNXRMYjJpRFgzNmJzc1FPXy1ReUM5d2Fsa0gxTHl3eDF0YXBvSkpDclVLM2ZMSURaenhsUzJGMUQtSmptWk41ZnpVMjJNeXNNbFVxdzg4Uk9WSUI0UHdQSlNhTkhGQkVJVVFQUGlxMDBF?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "35m ago",
+    "news_age": "37m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -30682,12 +30681,12 @@
     "refugees_rank": null,
     "union_rate": 73.9,
     "union_rate_rank": null,
-    "news_score": 0.66,
+    "news_score": 0.65,
     "news_title": "Ipswich sign Paraguay playmaker Enciso from Strasbourg - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMDJiUHFSbWl0RFNBX05jU1dPVFdqcFhqN3UtQXlYTFJOd18xYW5aSFJJbEZWY3l3QXRjUlZaUDZ4cDdhQUdNdkM0Z3RaRVRIUDhWMnQ2TFdhdGViNzctMXRHZWdiVHVwOU9iMU9JRGJZb25saGlYdW9aS0lqblJPUGpTS0R5NXVSb3RwMTltWmZTVUptTjZzOThneERHMXd3?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "98m ago",
+    "news_age": "100m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -32929,12 +32928,12 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.01,
+    "news_score": 1.36,
     "news_title": "Inside Russia’s Giant Push to Upend a Tiny Country - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1taWlOeVZORmJIXzg0cVlwQTVUTDQ2ZWpvQzd3WURRb2k0VFVFRHYwcERTT25oVjcxaURDMTVldzlETGd2NXJmS1VkeVA4VGI2VDY5eWdMNm5WMFNMOURPY0hWX3dtTzR6cjhXT3RMTXdiVEtCa0VjVV9IYzZCQQ?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "23m ago",
+    "news_age": "25m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -35922,19 +35921,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.19,
-    "news_title": "Trump scales down war games with South Korea: Why it matters - Al Jazeera",
-    "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc1d5WUlsYzBweFB4UThaNWtVNTRzcTRRalN2VGxWZ2dCTVNXZGtFd0pHSkIwUUdmQ2JXRVBhREpsbnVHSGlrRlpfd1hFdXNuWHRoYkktNmlzV0J6SE9zY1pUdkNHaHpuSTU5V0xHUTBtQV9xdVdST3JrVzRqZTFSYlgxOExfcXRwRWt2VEVVRFE0bVBuV2FWd3BaX1JpTDk1anfSAacBQVVfeXFMT3loTmV3UjlDTGtFT0VMWEhxWDZHajJIR3lQYlRwTE9QSHZiZGNsc1RXb2ZuLWNFN0JmRVZkdHloZjZhVFpNMktyVnJyb19tLUU5Y1YwTGk5SEpCSG03MmhDcmZYSEpVeFdkSjMxYks4Z0VTbTBKUW9vWlpxTHpqZmdwZ2FJMWhlX3ZkakNFejh2ZnVtc3cwYXhaZWRHRHZXaWRRcndkWWs?oc=5",
+    "news_score": 0.17,
+    "news_title": "Trump’s Overture to Kim Jong-un Strains Alliance With South Korea - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ3c5Uk9veW92ekgtY2dkZnhHaU1rMkZWZUVWSkVoVV9ScERFcE12b0h3WHNvdXlYaW1MNG9IQjlsNnplYnVMZXlGbC1YbFVOcDZlamQzZHBQOGZXcUgzdjV2VER3OEZnQ0pCTDIwNHNpemJsR0d6LVg4WnpwLS1TZEhZX2FvemhaM2NR?oc=5",
     "news_image": "",
-    "news_source": "Al Jazeera",
-    "news_age": "4h ago",
+    "news_source": "The New York Times",
+    "news_age": "7h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
+      "nato",
       "military_pct",
-      "nuclear"
+      "gdp",
+      "ai_research",
+      "internet_pct",
+      "patents"
     ],
     "bottom50_wealth": 5.1,
     "bottom50_wealth_rank": 8
@@ -36506,8 +36505,7 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -41014,18 +41012,18 @@
     "union_rate_rank": null,
     "fifa_w_rank": 32,
     "news_score": 0.19,
-    "news_title": "Ukraine takes aim at Russia’s economy and morale by attacking online retailer - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRTR4NXhsSDAyenpnMTBiRHA5bHNVUnk2TThUeE0yNU91bGpHWThfdER3MkJQVmlHcWhqR0FvUXE2anlaNkZjLWl4OU1uOS1SVzRaVGJGanN5SjAtYlRZMzhwUDFKZTJycUtHOU1lQ0xCZjhsdDRYaWRhVGtYRHptYkhHR1FmZWlXVkRMX2UxeUhzdXdiVk1mNmcwMVpfYzg5NHc?oc=5",
+    "news_title": "How Satellite Advances Are Changing the Game for Ukraine - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWNHZFA3LWpoWUp1NHhsSndKeUhxYUI1bGVFTVRKdy1YLVUzVE9PYlJZa3BtVlNqY2dEbWhmX3VldV9vYVdTTmwxbGhRZXhlTk9GWkljMFFGOGJqTEd4WTNUVXZsZWNBbEEzVFNTTVViektDZHR4b0xFYWEyZTR2TmVDbmlMZzhlT2NtbA?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "3h ago",
+    "news_source": "The New York Times",
+    "news_age": "7h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
