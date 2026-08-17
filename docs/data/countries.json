@@ -2551,7 +2551,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQN0plX3lKMmtJR0JPMEVvQ0txYW1HYVpvaHFHVXhVc1QwUlUycFhLdi1fT1JDakZPUkhNSzhfR1FZRDMzai1LQ1p1MF8xNUw1NG1oWlc4cjZrM2hFN09LNjd6X3JpQ3MyUkxLZThfQ1ZQai1iajlQV21MWk10Z0h4cEpXUjlaSDRuUlg5TnpVY3BPbWM3ek5adWVTWWZtNmVDNWpRNG9oTEF1S1NrUDZLaXpkUndSV0NyRGNBMkMxWU1XbXpMOXRGNWFVcWVZVklYZzdyLTN0SVF4MTBlaFFOYldIcW9DRHFhdUxueEFXOC0?oc=5",
     "news_image": "",
     "news_source": "en.baochinhphu.vn",
-    "news_age": "98h ago",
+    "news_age": "99h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -3817,19 +3817,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.14,
-    "news_title": "Firefighters battle wildfires in Belgium and Greece as 2 die on an island near Athens - AP News",
+    "news_score": 0.23,
+    "news_title": "Firefighters battle massive wildfires in Belgium and Greece as 2 die on an island near Athens - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYktmWUtyRG1meHR2M1NtVDdScldwOVk4enpGWC1RUUJKUG5lUlNmekFhZGhpeElsaWgyUEQ3VnlTdldXX1A1enJHUXluZDRseHFfMG1VU0l3RHQ3LWhGS1dlTGx3aS1ORFhjYXEwTXRSVTZUYTlreFdkV2kxQ0tjQ1JONENqelJvSFp6NQ?oc=5",
     "news_image": "",
     "news_source": "AP News",
     "news_age": "3h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "earthquake_count"
+      "earthquake_count",
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ],
     "bottom50_wealth": 3.1,
     "bottom50_wealth_rank": 18
@@ -7975,15 +7975,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.48,
+    "news_score": 1.42,
     "news_title": "China Wants to Shape What the World’s A.I. Knows - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHYlo3WmVNbm9LY1dPZnpZMWdGRFF2N29BaDEzM2VCbFcxLVlqVjZoWk1LM3plTDh0YUJTSDBQcnROWThTSjJPSExaSzNmWE9uZHlfLUJNN1hXOEVhNWM1ODFseGZpam5PSURobThLLThZTVc2YWFxSUl1Y1pSdw?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "38m ago",
+    "news_age": "40m ago",
     "news_columns": [
-      "badminton",
-      "tech"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13971,12 +13970,12 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.18,
-    "news_title": "Firefighters battle wildfires in Belgium and Greece as 2 die on an island near Athens - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYktmWUtyRG1meHR2M1NtVDdScldwOVk4enpGWC1RUUJKUG5lUlNmekFhZGhpeElsaWgyUEQ3VnlTdldXX1A1enJHUXluZDRseHFfMG1VU0l3RHQ3LWhGS1dlTGx3aS1ORFhjYXEwTXRSVTZUYTlreFdkV2kxQ0tjQ1JONENqelJvSFp6NQ?oc=5",
+    "news_score": 0.14,
+    "news_title": "Chu, Keys strong in finals to conclude Rhythmic Worlds in Germany - USA Gymnastics",
+    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ0p5ZTN4ZU9FOFN0MU5weW9obGI0S2hlc1ctZmwzSk9peENmVTZzTG44a3BNeHhYZmw0MDFFYmFWRy1FU2RHVmprWmZZQ1VwZ24zcVpnVHhJRmdVcUhsMy1pLU8zemNsSk1Lek5LdkI4WmJGekxyVkZON1ZVM2p3bW1IQ3ZtXzdXRHpqUw?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "3h ago",
+    "news_source": "USA Gymnastics",
+    "news_age": "11h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -14441,19 +14440,19 @@
     "refugees_rank": null,
     "union_rate": 70.0,
     "union_rate_rank": null,
-    "news_score": 0.14,
-    "news_title": "Firefighters battle wildfires in Belgium and Greece as 2 die on an island near Athens - AP News",
+    "news_score": 0.23,
+    "news_title": "Firefighters battle massive wildfires in Belgium and Greece as 2 die on an island near Athens - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYktmWUtyRG1meHR2M1NtVDdScldwOVk4enpGWC1RUUJKUG5lUlNmekFhZGhpeElsaWgyUEQ3VnlTdldXX1A1enJHUXluZDRseHFfMG1VU0l3RHQ3LWhGS1dlTGx3aS1ORFhjYXEwTXRSVTZUYTlreFdkV2kxQ0tjQ1JONENqelJvSFp6NQ?oc=5",
     "news_image": "",
     "news_source": "AP News",
     "news_age": "3h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "earthquake_count"
+      "earthquake_count",
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ],
     "bottom50_wealth": 6.8,
     "bottom50_wealth_rank": 1
@@ -16719,7 +16718,6 @@
     "news_source": "BBC",
     "news_age": "5h ago",
     "news_columns": [
-      "olympic",
       "fifa_ranking"
     ],
     "bottom50_wealth": 4.8,
@@ -17018,19 +17016,14 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 103,
     "fifa_w_rank": 77,
-    "news_score": 0.94,
+    "news_score": 0.91,
     "news_title": "Rescuers in Indonesia recover 6 more bodies in earthquake aftermath, raising death toll to 53 - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekM5VXhLY1NEVEZnWUFWdzdpd3VnekF5UUkzdzQxSDFLWnJpbHlzN2ZQU2hwTDRVcWthLTJMWmNWUjVQdXRyejZwNllFMm1TNHFSZ05DQjBVQXc3Z01Tc3BiX29TVHVwNlhfakI5eHl5UTZmUm82VGtaR3o2eF9UODl3RHZQTHFwQ2RxdjJqLTJoaHVJSUFSdTBQV3VIdw?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "96m ago",
+    "news_age": "98m ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
-      "earthquake_count",
-      "earthquakes"
+      "olympic"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17284,7 +17277,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.58,
+    "news_score": 0.55,
     "news_title": "Oil rises as US-Iran peace talks stall, Hormuz shipping slows - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5",
     "news_image": "",
@@ -19151,19 +19144,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.35,
+    "news_score": 1.68,
     "news_title": "Japan's economy manages 1.1% growth rate despite headwinds - Ottumwa Courier",
     "news_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaFQzeEExdGpUck16YWlaN29WNDlWY2tyZnFFeVlYMDJ2Unc4alA4RlpaaVM5SXRGVDk2Rjh1azNWOUZlZXJIdngtZDltaG1RbGVPSzhuMi1CYmhZUkVpN1pNNlI2UWlsa0NCamVGdjVlaFRja04zeWpDZzhtQmhaZHloYnFCVE0zb0M1YzcwM2ptM19YMDlfRHFrdERaemNIQUJJOTVLSkp5d0NwVmtUTENtbHNXdFN4MExlSlhzaFF2SHFDQldGUC1Jak1uTDF3eVQ2MjFVWG1vN1FGOHRrZFd6M1F1UQ?oc=5",
     "news_image": "",
     "news_source": "Ottumwa Courier",
-    "news_age": "106m ago",
+    "news_age": "108m ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -32946,12 +32934,12 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.88,
+    "news_score": 0.87,
     "news_title": "Ukraine takes aim at Russia’s economy and morale by attacking online retailer - Audacy",
-    "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV2kwQzg5ODd4bklDSjgtNl9KLVV1eHFiUy1OQmpBcTNDYVlqNE1nTEE1ZFN3akNmNW9LVmtvTDg3Tzd6eFRzT25MNjFKb1FaN0RnbDhzTWRSTTBjd2xYYm5nc1YwNndkTEZRN0dlTko4Ykx2S2c0a2h1SjdISV8tb2RhUHpnN3lfS0pWdTRBbGxTWDV3Y3pPSVg4ckM3anlOMldwNERSVGVjZ2ozYzNJUVg5dzhrZ1RTbmc?oc=5",
+    "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZnFSMUh0VjkwQ09MVFJCVUhlc0xXdFVzQ05pMXpBa3hIR2N5bzVMb0xsdnBTMHA2M0c3MWpLVFd6U2FiRE5DSWk2Z09jYjkxVmpNbGpxbHBvUzNiRGo5ODIyUkhmY05rOHBkRnJBYy1KczlCZjBLMXdGMFA1dnhxeURaZWRFX2ZONnZDMDlMRnV5M010Vy1mZ3Vla0VRNk1EWE5tMEJiN29xUnYwQ3FITjlTams4RU0?oc=5",
     "news_image": "",
     "news_source": "Audacy",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -35944,12 +35932,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.63,
+    "news_score": 0.62,
     "news_title": "Trump says US scaling back joint military operations with South Korea - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZjhLYWc5Uld6bFdvNHRRU3dsVTB6N3FBUVo0SFIwZ0xpTjlfQ0s0QmJhWEpsdUVsTXlrOWlZRnlXZzJqUVBOa3FjS1RZNGxJTjRXRUN2SWhLUQ?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "108m ago",
+    "news_age": "110m ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -41038,12 +41026,12 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.92,
+    "news_score": 0.91,
     "news_title": "Ukraine takes aim at Russia’s economy and morale by attacking online retailer - Audacy",
-    "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV2kwQzg5ODd4bklDSjgtNl9KLVV1eHFiUy1OQmpBcTNDYVlqNE1nTEE1ZFN3akNmNW9LVmtvTDg3Tzd6eFRzT25MNjFKb1FaN0RnbDhzTWRSTTBjd2xYYm5nc1YwNndkTEZRN0dlTko4Ykx2S2c0a2h1SjdISV8tb2RhUHpnN3lfS0pWdTRBbGxTWDV3Y3pPSVg4ckM3anlOMldwNERSVGVjZ2ozYzNJUVg5dzhrZ1RTbmc?oc=5",
+    "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZnFSMUh0VjkwQ09MVFJCVUhlc0xXdFVzQ05pMXpBa3hIR2N5bzVMb0xsdnBTMHA2M0c3MWpLVFd6U2FiRE5DSWk2Z09jYjkxVmpNbGpxbHBvUzNiRGo5ODIyUkhmY05rOHBkRnJBYy1KczlCZjBLMXdGMFA1dnhxeURaZWRFX2ZONnZDMDlMRnV5M010Vy1mZ3Vla0VRNk1EWE5tMEJiN29xUnYwQ3FITjlTams4RU0?oc=5",
     "news_image": "",
     "news_source": "Audacy",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -42301,7 +42289,8 @@
     "news_source": "United States Eventing Association",
     "news_age": "7h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
