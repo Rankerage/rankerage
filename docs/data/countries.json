@@ -5141,7 +5141,8 @@
     "news_age": "5h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -5551,7 +5552,7 @@
     "refugees_rank": null,
     "union_rate": 73.2,
     "union_rate_rank": null,
-    "news_score": 0.55,
+    "news_score": 0.54,
     "news_title": "Former Toronto Raptors Center Ventures Overseas to Bulgaria - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORlk0U25KbXhzSDVfcXlQMnlWUUcyNkhqYlNlQXJCSTNjbjVtMjF0QUxFNEJrUXhUWnV6eTVQZ0tpS3hXc1lIVUl6OWRJbHNBRlN3TGZVTklNWTFUSTM1akRPRlA3N0RCdEdlcmEyMC1nYU1qUzM0QzZhNEdfTU8yS2lHaFdCTzg4UFh4THUxUkg?oc=5",
     "news_image": "",
@@ -6909,7 +6910,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.51,
+    "news_score": 0.49,
     "news_title": "Canada men and Mexico women earn last two Olympic quotas at 2026 IFAF Flag Football World Championships: \"This is something I never imagined when I was young\" - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS0hRNFdpY0E0aUp0eGZqNGhDSnYwQzFpcWdUWmlCdVJXcXZJOHhxczVTUXA2UkY4RjZOV29oNHFxTjFudTVjTDdJMnNZdGRXZnlFOVdWQTdYV29oOG9XamVjbWhJOGJqXzAxX2YzN2EyYjZxQUZzZWFQUFhMUkxXbEw4d0NZQVVtOVhpRUQ0Z3FITDFUakNpQVhsaFE2M0VESlBvNTNRUWhlcDM4Z09MZkpJSDV5dEdXXzRVYllpUVB5NGJ1VEt5QW8wb0Q?oc=5",
     "news_image": "",
@@ -6917,8 +6918,7 @@
     "news_age": "6h ago",
     "news_columns": [
       "olympic",
-      "fifa_w",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -7969,7 +7969,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.26,
+    "news_score": 0.25,
     "news_title": "USA Youth Women Open Play At U18 World Championships With 14-2 Victory Against China - usawaterpolo.org",
     "news_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTEs1eXRYcDR5LXNVTFVtM18tNHlhSUotdHhEWEoyVjF5em9pYzZoc0lGRFNqay0wOFZtc1owd3dwOTZqUGU4T3JJSE8zZnRSdG5CMTlkU1pYRWNVWEttdE84Z3FmRFd4VU5zSWVkRUlLenhSN0FNX01ycnJNODA1RFpMaTREUXlRRUxJTjdvaWNnNEVFVjBiWVF4amNoeUdnM3dYMDVXT09XbEJ0c0xJZjZrM01tdzc1XzBTaDBNZFJrUmlvVXF2QzhmY3ZZdG5xQXRCM1hrdGY5SjJ5dmZKUk9BUDV2UUp1bkRNSw?oc=5",
     "news_image": "",
@@ -12951,7 +12951,8 @@
     "news_age": "88h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13970,17 +13971,16 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.22,
+    "news_score": 1.26,
     "news_title": "Germany Flag Football Worlds - columbiamissourian.com",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOFZwUk1SQUlKaHlmaGNhSTBJWm8tWUh6NUNGdExRdl81YlNvRXFkTjM3akQ3UlNVN2pzdG9MRFowbkJrUzRFbHBEeVQ3YjBqdW5qRFpnSVJ5VXFZdDNuSC1qRlZVem9VSTQyUTU2WUNmZGgydDl2NTdwNFY3QjBVYko2QVo4UXBHZ0NNdUhCVmp0Skw3TDBzeE5FTDVvbnhUQWpYbndYT3FfZDFrNUpWaA?oc=5",
     "news_image": "",
     "news_source": "columbiamissourian.com",
-    "news_age": "12m ago",
+    "news_age": "14m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16709,12 +16709,12 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 1.09,
+    "news_score": 0.78,
     "news_title": "India built the world's biggest digital payments miracle. Now comes the bill - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94c25md3lPLTZKMFo2cVdreHRRZXJVWFphaE9oRVc5elZPZnlKeTZyVUxGV0I1QnRFTnZ4WHFfbXlJc0luYnpEZ2tYRGFhMkVpZ1FLTXh4VDJJQQ?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "61m ago",
+    "news_age": "63m ago",
     "news_columns": [
       "olympic",
       "fifa_ranking"
@@ -17015,19 +17015,19 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 103,
     "fifa_w_rank": 77,
-    "news_score": 1.51,
+    "news_score": 1.62,
     "news_title": "2 powerful earthquakes hit Indonesia in one day, killing at least 47 - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83T1pObWFEcjlUbml5M01PQTU1SGRNOWlBc2tvcmtrQVFqTXdMcFEwZE00THltVGdrZVRJNHcwdFJ3MHFWdHVucGNXdjFHTEh6RTY1Vi1KMVBsaUxMRjQ2Qk5YVks4NFNmMkZJOFhtS1Z1Vmhl?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "33m ago",
+    "news_age": "35m ago",
     "news_columns": [
+      "democracy",
+      "press",
+      "gpi",
+      "polit_kill",
       "earthquake_count",
-      "earthquakes",
-      "tsunami_risk",
-      "cyclone_freq",
-      "flood_risk",
-      "wildfire_freq"
+      "earthquakes"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17286,7 +17286,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb3RPcGlIdXQ3RU5USnlMN0tyQUxyT2c4NW1zekhhV0xubm9tTmhHLWE0c2RxTFdNWXJueVF4TXA5ODJDNFRhQTdCQllnaU51cTlCc0pqaHZNbmxIbnhxR01MNVZEOWdtaU90cWZjUU9RYlBITDBhMWdiNllIcGFoMHJXQWdlN0lQdWZ5dVVNT00wR0px?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "109m ago",
+    "news_age": "111m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -17757,7 +17757,7 @@
     "refugees_rank": null,
     "union_rate": 77.2,
     "union_rate_rank": null,
-    "news_score": 0.47,
+    "news_score": 0.46,
     "news_title": "Spain beat Ireland in five-goal thriller at World Cup - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa01FZHR5bk43bXFZeXRvTUNYN19MSHRWWGM4SzRrVUNSX1c4VWtBX2dfZWtfVUhOS0s3bDVGMjZkbGlKMkZtN25ZSlRoZ2dDdll0ZnNXRm5uRlZwakpJOGN3RnkwOUVYQlVsc2FtN2RBRVNmbkxzdFNRbC1oYmFqNHZ6Yw?oc=5",
     "news_image": "",
@@ -21869,7 +21869,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 144,
     "fifa_w_rank": 119,
-    "news_score": 0.27,
+    "news_score": 0.35,
     "bottom50_wealth": null,
     "news_title": "Liechtenstein Changes Its Law to Allow Women to Ascend the Throne - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY0RSRS1tZU5uYzk4U0lVZVYxOVR5M0RVZWlGVHUwNGFBU0xhWHY1QlRhMFVPNGpsMld3QTBKSEhMMGhic3d0ZU1yY2xTcTI5X2pqOWwxUmpKYzlWTHIyTENmaHhOZFFXSFFLa0RSaTVwemRpdXJLRWlXLTJlQUotSTNEd1RoUmE3blZRT28zMWMyaE0?oc=5",
@@ -22104,7 +22104,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 121,
     "fifa_w_rank": 68,
-    "news_score": 0.08,
+    "news_score": 0.11,
     "bottom50_wealth": null,
     "news_title": "How to watch Arizona Wildcats men's basketball in Lithuania - Arizona Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU1dhZ0p4YnE2ZlFZSGxFdWJFSVI2cDRVaUJiU0ZOVkUwQUI3dTdIeGsydVhaT3k0Z3lKY29BZG9MeWF5LTFXcHNzYjhURUNucGxnVlpWR1R2dURJMDBTLUpMbEhkZE42dUV4cjVXRTkta0dNYUEzZTZkQWxrTnlMTw?oc=5",
@@ -28639,7 +28639,7 @@
     "union_rate": 89.3,
     "union_rate_rank": null,
     "fifa_ranking_rank": 104,
-    "news_score": 0.47,
+    "news_score": 0.0,
     "news_title": "Trump orders Pentagon to scale back joint exercises with South Korea - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb3RPcGlIdXQ3RU5USnlMN0tyQUxyT2c4NW1zekhhV0xubm9tTmhHLWE0c2RxTFdNWXJueVF4TXA5ODJDNFRhQTdCQllnaU51cTlCc0pqaHZNbmxIbnhxR01MNVZEOWdtaU90cWZjUU9RYlBITDBhMWdiNllIcGFoMHJXQWdlN0lQdWZ5dVVNT00wR0px?oc=5",
     "news_image": "",
@@ -35940,12 +35940,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.85,
+    "news_score": 0.84,
     "news_title": "Trump orders Pentagon to scale back joint exercises with South Korea - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb3RPcGlIdXQ3RU5USnlMN0tyQUxyT2c4NW1zekhhV0xubm9tTmhHLWE0c2RxTFdNWXJueVF4TXA5ODJDNFRhQTdCQllnaU51cTlCc0pqaHZNbmxIbnhxR01MNVZEOWdtaU90cWZjUU9RYlBITDBhMWdiNllIcGFoMHJXQWdlN0lQdWZ5dVVNT00wR0px?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "109m ago",
+    "news_age": "111m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -36523,7 +36523,8 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -42292,9 +42293,9 @@
     "news_source": "United States Eventing Association",
     "news_age": "3h ago",
     "news_columns": [
-      "olympic",
+      "fifa_ranking",
       "fifa_w",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43503,7 +43504,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVWZxSjZkTEtvT0xVclA4TlEyZjBCaTdBSTdHZ3VKWWNhLS02ZXZUZGo5MXZwQTBNazFTRnFoRmZxWVh5QUlXMEl5TmFqUDFjSHp6dXNxNDJWb19WRExhUk5HcVF4QVpHUE9FRlhqQXlNN29OZmN1WDRmR3Zkc1pKYUNaSDVaNDlHUTIyOHBOdGlxU1MyRU85LS1CNXJzRlhBam40eFpheGlTRVE?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "57h ago",
+    "news_age": "58h ago",
     "news_columns": [
       "lgbtq_rights",
       "gay_marriage",
