@@ -3318,15 +3318,19 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.53,
+    "news_score": 0.39,
     "news_title": "Fuel Crisis Weighs on Bangladesh Economy as Remittances Provide a Lifeline - businesstimes-bd.com",
     "news_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RT1hhcHRBVGpNVWdqRkRKczM4aVdDLWFxYWZvcTEtemgwT3NaLTF4am4xaUdqU3paNjRjMGpDR2J2TWJZRG1OZXFHaFh5QnVxTTFMSWFFTUF1cUxWbXZLeUVNWi1pdw?oc=5",
     "news_image": "",
     "news_source": "businesstimes-bd.com",
     "news_age": "3h ago",
     "news_columns": [
-      "olympic",
-      "basket"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": null
   },
@@ -6911,7 +6915,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.02,
+    "news_score": 0.03,
     "news_title": "IFAF Flag Football World Championships 2026: Canada women shock USA to end 12-year golden drought, while USA men secure seventh world title - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWJ1cjJPbThGMlZqcFBDdlVMYmJ5dUJvYVMzVlZnSXpMaUppMmM5VFplUUlUN0xESXZ3R3JXaDlDV0dhd2htVjFQYVd5Tjk0ckJvem5IWXpPVmY2SEQ5eXlnYlljN3hWckNsV01uOGFxX3dRSUczMXBnZ0YyZkJpM1NsMUwyQm45emtQMUlmSVZIeko4LV9iZkdkQjV3MW4zV2NJWGJNVVJEdE1GSHdmM0NOcVk5OVdDclZN?oc=5",
     "news_image": "",
@@ -6919,11 +6923,7 @@
     "news_age": "16h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "olympic_gold",
-      "olympic_per_cap"
+      "fifa_w"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -7974,15 +7974,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.09,
-    "news_title": "Watch Alibaba Reports World-Beating 3 Billion Downloads for Qwen | The China Show | 8/17/2026 - bloomberg.com",
-    "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY0FIamJYclFaRDI3LUlIY1htZDk0QXQ1REd4NkxNWXExeVNlMjdlbklCMW8xS1hKN2ZKc1Z2VG1JZk90clotb19IZ0piY0I4aWE4blc5SWUxUy02cnJBLTVEZngzQmhXQWRESFJEZ3VRVDZoRVNvYS1WcnhQbEZZRHZkZ3pfQQ?oc=5",
+    "news_score": 1.26,
+    "news_title": "PRESS RELEASE: World Uyghur Congress Condemns China’s Harassment and Repression of Uyghur - Australians - World Uyghur Congress",
+    "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZjMzckJtSVkyaHJKOEFsZkM1SWJtOGVGbHMwS3ROaHhhOUJXNjZIOWVJSGVDeXJJbmZoeS1jak9oLTFUajVYbExMMVE4a3haNzU3UnI3M2VGTWFCdzZIaGNHVHc2OHJXbzFEUS0zOW1FV2NnRFFzTWhLZmhwNy1TOFFETG1Uam5FVjNKWWU0TjRMS3NzVkRGckxJNUc0OHdLbTZBZEkxdmNRaFhqcGx6dzVJeFJJTmprcVpUVFp4eFhFYjRLUFZxSFhzUFZ4SE0?oc=5",
     "news_image": "",
-    "news_source": "bloomberg.com",
-    "news_age": "3h ago",
+    "news_source": "World Uyghur Congress",
+    "news_age": "5m ago",
     "news_columns": [
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -8216,12 +8215,12 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 1.36,
+    "news_score": 1.35,
     "news_title": "Colombia defender Jhon Lucumí moves to Juventus after impressing at World Cup - Newsday",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUjNzTE5Ud1Vhb3o4YnhkWm9Ta0ZWbGEzUGFHREkwMHZXODh1NFhSN251N2Zxb2phODRlT2pqVGVQZUh0bkJ4SlZwS2NvYkswN3dmU1RPcXA3QnNJUGZKdG9UZ2lSa2N6amMzbUdkMG5pNXNrVWE4cl92RngzXzh5OWhB?oc=5",
     "news_image": "",
     "news_source": "Newsday",
-    "news_age": "51m ago",
+    "news_age": "53m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -10878,7 +10877,7 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.04,
     "news_title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNmpRRVBLRXhGNDJhZkRHSlhWbWcyemJTNXp4akxyVUpSV0xwTEx5UG9ZdUY3V3U5TkdHd3VuSXhHd0NZVzV2eVM3d3g0ajNZR0tyZzRoZ1cwVjlrTVFVZGNJM2JuWjdOYlBLbVBLWnQwV0dpRFZaT2VNVjFTR3NrTE96M3V4ZGlfbEJtcHZabjlpMHY0TnJFNGVn0gGfAUFVX3lxTE9Cek5VQUEwRmxxbGdtX1RLYlNiZUZqRFlqbkdSQ2RSelVoTi1kdDdwYXV5bl9tTEY5MWdnT2tLMXlHWXJXNTF0SFZRUnVUZEFVMm9wYVEwT3UteWUtdUp6SkVVa1hraXJpVXVmdXVDWlp5SXdrTXg2OTU3bnZ2emhxYUIzcHEwQmh3OWdybFZ5ZUhiNnVlVDY4bGxmV2VxQQ?oc=5",
     "news_image": "",
@@ -12946,9 +12945,12 @@
     "news_source": "News On AIR",
     "news_age": "97h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "space_launch"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17019,7 +17021,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 103,
     "fifa_w_rank": 77,
-    "news_score": 0.23,
+    "news_score": 0.19,
     "news_title": "Search for Indonesia earthquake victims underway on Independence Day - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNHlLQWJfa29kZW9fQTNoR2tYUGVUY2NmZVoyQVJzTHJTdG5PSnZDTzEtZGRiM1lST3NzcTZ1ZVcyU2tOY0tzTW41QjhLRXF3dkRrOXhScXlmbXozS29rd3ZjQk5CMVZ1OTQya3YtMFdTQmJqVDNOdC1fTldUMlNhNUFYME1DblFLMDNTc2daREdNZ3NtT1Z4ZTZSUGMwRU1lbnJuNUNVRTJQa1JPOUpSNmgzOA?oc=5",
     "news_image": "",
@@ -17285,12 +17287,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.82,
+    "news_score": 0.85,
     "news_title": "Live Updates: U.S.-Iran memorandum of understanding deadline about to expire without a deal, amid stalemate - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSjB6cEFBa2hwQ1ZKNUFmMmxtSEJhNnpITnQ0LTNzdUNoWUZvMy1tV3FxVkR3UlJ2VHpFQ1JVQlNiN2FhNVpvam1pZkNrY0pvajRCandGNjVYUG9QSUxyd3o4U1gzYWtHOE5xSmltVlVwY2lfcVlVVU0xaUwzdFZROURnTERwQQ?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "75m ago",
+    "news_age": "77m ago",
     "news_columns": [
       "olympic"
     ],
@@ -18016,7 +18018,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.13,
+    "news_score": 0.11,
     "news_title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNmpRRVBLRXhGNDJhZkRHSlhWbWcyemJTNXp4akxyVUpSV0xwTEx5UG9ZdUY3V3U5TkdHd3VuSXhHd0NZVzV2eVM3d3g0ajNZR0tyZzRoZ1cwVjlrTVFVZGNJM2JuWjdOYlBLbVBLWnQwV0dpRFZaT2VNVjFTR3NrTE96M3V4ZGlfbEJtcHZabjlpMHY0TnJFNGVn0gGfAUFVX3lxTE9Cek5VQUEwRmxxbGdtX1RLYlNiZUZqRFlqbkdSQ2RSelVoTi1kdDdwYXV5bl9tTEY5MWdnT2tLMXlHWXJXNTF0SFZRUnVUZEFVMm9wYVEwT3UteWUtdUp6SkVVa1hraXJpVXVmdXVDWlp5SXdrTXg2OTU3bnZ2emhxYUIzcHEwQmh3OWdybFZ5ZUhiNnVlVDY4bGxmV2VxQQ?oc=5",
     "news_image": "",
@@ -19147,12 +19149,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.98,
+    "news_score": 1.01,
     "news_title": "Japan’s economy slows, missing growth forecasts - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbGotS25VbnJlUWRWOVhnZWhwd0pjTmN0d1FrLUtPenRUNUNQcFpFZWh2dS15ajNaVEdIcTVDZ2NCMUJYMHYxN0ZIbDJCX0hMdUtQQlpfdENCa0dBZWZNX2ZKUW5jZGVhaF85aVpXVkZnZWExNzBXQjlnS2VCNU9DSGIzNjR6dHlVWUhkUlJBZ3llTTDSAZgBQVVfeXFMT1h5clZHOW1ERGdENkZ1UlBiYzBkemxuTDdrUEVxZzRUYlBsQzN0N0ZqRXRjNVotUTBTWm1qQnliSjNvZ2V6dEY0bE5QRlVMdUFYczVOVFVRQzVqRzdKb3VDR2Izb1E3TWpKUzNHdzRwcFAtYnp3N01tZU42cXZ2QXYyZGVNUkp4OVVkdG1PNG5rd3RkQjE2b1Y?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "28m ago",
+    "news_age": "30m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -24637,16 +24639,15 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.26,
+    "news_score": 0.36,
     "news_title": "Real-World Clinical Outcomes of Lebrikizumab in Moderate-to-Severe Atopic Dermatitis: A Report of Two Cases From Mexico - Cureus",
     "news_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQVJZdldEM1FscTk2b1BmN0hESUZjX3g2aUxxZjNpNTYzVFdscVRpQ1U3enVLaWRiUEE2WjdQVktjdDdUc3lRQXZtcnViWHFUT0NCR1ZjSFo0Ni1LZm51SUdnUWRZWVc0RFVVTTJYWHlPNzJSMk5Xa3c0ak1aN09sZlVINWtqU0RZNWRJdUhMMVQ1SzdWVzVMQ1UyVkNtODAwZEFTSVMwQXNickZleVNySEtwcGQxS3gyV1lzUy1tSWlNSzlRYkh3XzE4ZWk4dDBMUHRtNTY5VGJQTUVJdkxUMVoxOWNUemwzWEg5NC1n?oc=5",
     "news_image": "",
     "news_source": "Cureus",
     "news_age": "4h ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 22
@@ -25367,14 +25368,13 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 138,
     "fifa_w_rank": 97,
-    "news_score": 0.89,
+    "news_score": 1.11,
     "news_title": "Desertification: World leaders gather in Mongolia to restore land and build drought resilience - unric",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUldaNGJvRXNfTzdKcks1NXVMRkhBQ1ZmcWhtSV9IV1Y0ZE84dk5vLWY5TVBSdmg1STkzUFlnY3MzelRDWFdUbXZKbVFrVTlVMS1KZm95cWFvYXlqeERHbTVlU2x1WV9QNlNBQzljbWJqTkhBNzBWSjlUWWxhUFZ3NGQyaXJBVkZmamU2ZmRMalo3ZkY0R1YyVnRMaURJY0lQa1NtdDV3blJoeUhkdWUyQ25QTVNzdw?oc=5",
     "news_image": "",
     "news_source": "unric",
-    "news_age": "29m ago",
+    "news_age": "31m ago",
     "news_columns": [
-      "fifa_ranking",
       "olympic"
     ],
     "bottom50_wealth": null
@@ -32934,11 +32934,11 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.18,
-    "news_title": "Ukraine takes aim at Russia’s economy and morale by attacking online retailer - Audacy",
-    "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZnFSMUh0VjkwQ09MVFJCVUhlc0xXdFVzQ05pMXpBa3hIR2N5bzVMb0xsdnBTMHA2M0c3MWpLVFd6U2FiRE5DSWk2Z09jYjkxVmpNbGpxbHBvUzNiRGo5ODIyUkhmY05rOHBkRnJBYy1KczlCZjBLMXdGMFA1dnhxeURaZWRFX2ZONnZDMDlMRnV5M010Vy1mZ3Vla0VRNk1EWE5tMEJiN29xUnYwQ3FITjlTams4RU0?oc=5",
+    "news_score": 0.17,
+    "news_title": "Ukraine takes aim at Russia’s economy and morale by attacking online retailer - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRTR4NXhsSDAyenpnMTBiRHA5bHNVUnk2TThUeE0yNU91bGpHWThfdER3MkJQVmlHcWhqR0FvUXE2anlaNkZjLWl4OU1uOS1SVzRaVGJGanN5SjAtYlRZMzhwUDFKZTJycUtHOU1lQ0xCZjhsdDRYaWRhVGtYRHptYkhHR1FmZWlXVkRMX2UxeUhzdXdiVk1mNmcwMVpfYzg5NHc?oc=5",
     "news_image": "",
-    "news_source": "Audacy",
+    "news_source": "AP News",
     "news_age": "6h ago",
     "news_columns": [
       "gdp",
@@ -34108,12 +34108,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 120,
     "fifa_w_rank": 100,
-    "news_score": 1.09,
+    "news_score": 1.05,
     "news_title": "Disney+ Celebrates World Princess Week 2026 | Explore Disney+ Singapore - Disney Plus",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rdWg4cThDNDk4ZGxZU2d4WEtPanhkT1NaU05LN1lVRlQ2RnpVbkZyY2NVb0tWeGN6MmNvRmUtMkV4VGVOZGhycTNlbC1IeEVYeUxUU2JJNFpPMmNEZlozUlZLNnVlUk40bWdzTmV1YTlkVFZpRTUzYjVoYkFZb0U?oc=5",
     "news_image": "",
     "news_source": "Disney Plus",
-    "news_age": "92m ago",
+    "news_age": "94m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -35932,14 +35932,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.96,
+    "news_score": 0.71,
     "news_title": "Trump orders military to ‘substantially reduce’ joint exercises with South Korea - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd21KS2xQcXVlUjVJbkpxeFRiVlVXU1Jxd3FxekNfV1Vab01xd2luRHR3M0ZGd1UzMFNza2NpaElXRWt5NnJWX3J5YkpWMVZQZ2M3a1VxUzFnZEdKdVIyd0Y0Y0ZtMk53eklZRlRqMmpTN3hsSzRKZmR4U25xVWp5UjhCRE9DYU5velo0RkVmN3VuczUzMnM3Y25wcG5HYU5jbDdHX0Y5aF9lbUJ6ZG01amVoazcyUlhkeEtaV1g4UTZkbzIwYktqNThZVGZTM0pS?oc=5",
     "news_image": "",
     "news_source": "NBC News",
-    "news_age": "103m ago",
+    "news_age": "105m ago",
     "news_columns": [
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "nato"
     ],
     "bottom50_wealth": 5.1,
     "bottom50_wealth_rank": 8
@@ -41017,11 +41022,11 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.19,
-    "news_title": "Ukraine takes aim at Russia’s economy and morale by attacking online retailer - Audacy",
-    "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZnFSMUh0VjkwQ09MVFJCVUhlc0xXdFVzQ05pMXpBa3hIR2N5bzVMb0xsdnBTMHA2M0c3MWpLVFd6U2FiRE5DSWk2Z09jYjkxVmpNbGpxbHBvUzNiRGo5ODIyUkhmY05rOHBkRnJBYy1KczlCZjBLMXdGMFA1dnhxeURaZWRFX2ZONnZDMDlMRnV5M010Vy1mZ3Vla0VRNk1EWE5tMEJiN29xUnYwQ3FITjlTams4RU0?oc=5",
+    "news_score": 0.18,
+    "news_title": "Ukraine takes aim at Russia’s economy and morale by attacking online retailer - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRTR4NXhsSDAyenpnMTBiRHA5bHNVUnk2TThUeE0yNU91bGpHWThfdER3MkJQVmlHcWhqR0FvUXE2anlaNkZjLWl4OU1uOS1SVzRaVGJGanN5SjAtYlRZMzhwUDFKZTJycUtHOU1lQ0xCZjhsdDRYaWRhVGtYRHptYkhHR1FmZWlXVkRMX2UxeUhzdXdiVk1mNmcwMVpfYzg5NHc?oc=5",
     "news_image": "",
-    "news_source": "Audacy",
+    "news_source": "AP News",
     "news_age": "6h ago",
     "news_columns": [
       "gdp",
@@ -43485,7 +43490,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.28,
+    "news_score": 0.27,
     "news_title": "Monash University and Vietnam’s Becamex Group sign MoU to advance science, technology and innovation - The National Tribune",
     "news_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZzBEU1JLVFZfYUdMQzNTX0JpbUZUbmh6MnNuTzViVmg1R1dKZC1HMmRGcExFZHpjUGlEOEZUV01JWklYVUdPN05TWlpzbVhidkZ5bWRDRGNfN194dm1xQ3dkcF9pbzh1Z05pZExtNUI5b1FpdGZMcy1sSVY2UWpaNS1SWEpoT0RHTXMwdFZnVkhkWmdKeEpXUk5JejRfMWt2YTRmcTZRMG9xV0t6YklyeVdGMjAwdUdhUXZiOV9laXVZalpzOUFaMUg1TGVkaFFw?oc=5",
     "news_image": "",
