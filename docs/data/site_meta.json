@@ -1,66 +1,70 @@
 {
-  "last_updated": "2026-08-16T21:00:52Z",
+  "last_updated": "2026-08-17T21:01:09Z",
   "total_rankings": 136,
   "total_countries": 197,
   "version": "1.0",
   "update_frequency": "weekly",
-  "global_narrative": "Global sports headlines are dominated by major championship events, transfer news, and Olympic qualification, with flag football making its Olympic debut and several world championships taking place.",
+  "global_narrative": "Global sports and political landscapes are shifting with major leadership changes, geopolitical tensions, and record-breaking athletic achievements.",
   "trending_stories": [
     {
-      "topic": "Flag Football Olympic Qualification",
+      "topic": "FIFA leadership crisis and World Cup controversies",
       "entities": [
-        "US",
-        "CA",
-        "MX"
+        "FIFA",
+        "Infantino",
+        "Nigeria",
+        "Belgium"
       ],
       "columns": [
-        "olympic"
+        "fifa_ranking",
+        "fifa_w"
       ],
       "weight": 0.9
     },
     {
-      "topic": "Rodri Transfer to Barcelona",
+      "topic": "US political tensions and international threats",
       "entities": [
-        "ES",
-        "GB",
-        "BR"
+        "US",
+        "Iran",
+        "Oman",
+        "Trump"
       ],
-      "columns": [
-        "fifa_ranking"
-      ],
+      "columns": [],
       "weight": 0.8
     },
     {
-      "topic": "World Championships in Various Sports",
+      "topic": "NFL team news and player movements",
       "entities": [
-        "DE",
-        "SE",
-        "US"
+        "49ers",
+        "Steelers",
+        "Bears",
+        "Packers"
       ],
-      "columns": [
-        "olympic",
-        "fifa_ranking"
-      ],
+      "columns": [],
       "weight": 0.7
     },
     {
-      "topic": "Cristiano Ronaldo Retirement Hint",
+      "topic": "Women's sports gaining prominence",
       "entities": [
-        "PT"
+        "USA",
+        "Spain",
+        "Australia",
+        "New Zealand"
       ],
       "columns": [
-        "fifa_ranking"
+        "olympic",
+        "fifa_w"
       ],
       "weight": 0.6
     },
     {
-      "topic": "NFL Preseason and Injuries",
+      "topic": "MLB season updates and team performances",
       "entities": [
-        "US"
+        "White Sox",
+        "Cubs",
+        "Dodgers",
+        "Pirates"
       ],
-      "columns": [
-        "fifa_ranking"
-      ],
+      "columns": [],
       "weight": 0.5
     }
   ]
