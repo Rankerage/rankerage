@@ -2544,19 +2544,16 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.49,
+    "news_score": 0.62,
     "news_title": "Australia's Monash University and Vietnam’s Becamex Group sign MoU to advance science, technology - BioSpectrum Asia",
     "news_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQM0dRdmhEN19WVnd2RDNOWjlPZ2xEM0JnNHZyLUNqWXlaZjVvVElzTFVQdnhzTzhkdUZBeXhRNHRqZVI3SVhKM21uSUFyZmo3MWJBcVNWVHlESFRfd2pfRUlCRjNnNU03am4zTENsbGk2RVM4cDBianNDYWVIdUtQVF9LbGo5VTlfTXc0b1U5cVdsN2NWbGZxQW04aEpGeWgySGdLMVctTENIZXczNDk4WGE5Qi00eFdxUW9EdDhiN3hralZ0S0dwc2JVRW14SlJtRVl4Z1FRNm5RUDdacHc?oc=5",
     "news_image": "",
     "news_source": "BioSpectrum Asia",
     "news_age": "2h ago",
     "news_columns": [
-      "edu",
-      "literacy",
-      "pisa_math",
-      "pisa_science",
-      "pisa_reading",
-      "phd_per_cap"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3323,12 +3320,9 @@
     "news_source": "Bangladesh Sangbad Sangstha (BSS)",
     "news_age": "41h ago",
     "news_columns": [
-      "nuclear",
-      "nuclear_power",
-      "military_pct",
-      "car_density",
-      "gas_price",
-      "co2"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -7977,15 +7971,16 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.33,
+    "news_score": 1.35,
     "news_title": "Beyond marathons and backflips, China's robots face a commercial test - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdHAyQ2ZVdVl6c0hsZDNmd2hCREZLMmZXekw5Vy1hLUFSRGluV1ZsR3h4MG5ueDZBZkdnMm5hT2F1RmhuaDgzNENLQVBoME5SX1FmMzdyUW1FRHdBWWttWnZ4R0dIejJkblhjZFFmWld5UTFYZkNTcjU4T3k0ZFR4clFWTzZ0OUI0NGVpbU00TW9nTlAxcm1CSlI2UEoydnlvNHZRU0tlZk91bFg1c2FnbURVV2RiVm8?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "13m ago",
+    "news_age": "15m ago",
     "news_columns": [
-      "olympic",
-      "basket"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13467,19 +13462,17 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.95,
-    "news_title": "Inside Ossoff’s meticulously viral campaign - Politico",
-    "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVkQ1cS1nWFM4b2ZPTk1zVkdxMHFoWS1NdjhMd0hrb3ZQOVEtVkVxSnNDd1FWTmVlV2JMQURha2gxbFR6czllVV9EejNvM2dwT2Z5ZEp2cW9xRUczczlocEg4U05wMHJQWlpXUzlIN3Jycm8zckRpcnNUOVo2Y1UtMXJqWjFlaVdXUEJ1M0JhVHNONGxBNU9DWmJn?oc=5",
+    "news_score": 0.81,
+    "news_title": "'Soccer in Sanford' set between Georgia, James Madison - Yahoo Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUHd6eFVuNHpWeU15XzNkNWpSWUFlM3ZtNVpfMUtNLTZlY1dIV0Z4cXljdWVCWUZtY2VkcEpYSHM3MlQ2OVVfSjVwMVluUG1ETmFGMHdCclNQLVJwWWVCaTNrb0cyTVpGM1VJTS1tQW0yeHljTlU0TmdDb0ZVVEZrcEZJejBnV1VQOG9R?oc=5",
     "news_image": "",
-    "news_source": "Politico",
-    "news_age": "115m ago",
+    "news_source": "Yahoo Sports",
+    "news_age": "2h ago",
     "news_columns": [
-      "marathon_elite",
+      "fifa_ranking",
+      "fifa_w",
       "olympic",
-      "nato",
-      "military_pct",
-      "gdp",
-      "ai_research"
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -13971,7 +13964,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.33,
+    "news_score": 1.38,
     "news_title": "Manuel Neuer hails Jonas Urbig as Germany’s future #1 goalkeeper - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNakFrOG1OWWtaT1h0QWY5Y0RIeDVMakk5ZjdKdzBYYUFzRnFsSHhieHU1R2JsRDFNUXQxdUQ3UVE3aGh3RkVvTHlSS3ZTdW0wMnU3TkphY01meS1TSy10LUNHYm9RbmotXzFuWFNreUNrQXNqUXNzM2p5MmtvempscGwtSEFWUQ?oc=5",
     "news_image": "",
@@ -13979,7 +13972,8 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16047,7 +16041,7 @@
     "refugees_rank": null,
     "union_rate": 78.3,
     "union_rate_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.02,
     "news_title": "Corvin Technology & Science Park: a modern business hub driving innovation in Budapest - Daily News Hungary",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQelhadWhHY24zalpKVzJVRlJPTm9Wa1hqcGVfWGJKaXhMNThaUXFaZGN5NXZZSUt2X2Q1VmRPSDNPelR3dXZjUV9HWXpmY09GX0pLa3M5YWRXTFNzNnBoSTNLOEhLLUlGeXpSZThtX01kTDgwbzBBNGVRT3NhSmFJT3d5WERsUTFMb0Q1d2wxWHlZLUhKWVR6cWhpRDFReVdlbXM2XzBrV1Vjc3dMdkxtSWNJWQ?oc=5",
     "news_image": "",
@@ -16711,16 +16705,17 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 1.48,
+    "news_score": 1.13,
     "news_title": "India vs Pakistan in FIH World Cup 2026: How to watch in India, kick-off time, live stream, key players, Pool D standings - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTnZkZEZ2aHF5OGJsdG1sNEhjUEUtRHhBUzdqc0pjdmZMZWlRVEtnZ0dwbGpZQzhKUF9YcGNqenFfTl9CWkpWUVlZMEdsckUwM3NoWHg5MjlVbU4tTzFCbTZOVms4VkhNQmRidERPN0RYWU42MThPQ1haWUQ4NEFTZnVyZmFFM3NieDZDeVlyYTFrSE1nMjdLOWdXNUdLR2JvNkQ3WDBJZlZQVmZnRTFYZlp6SElTRkVTaTdFd29sOE9PQnNuRmpnVHB1dl9zMkZkQ2hxTk11a3RQVnp3cFN0WW5XU242bWNwWXc?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "85m ago",
+    "news_age": "87m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17284,12 +17279,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.34,
+    "news_score": 1.3,
     "news_title": "Stock Market Today: Global Bond Rout Deepens, Nasdaq Futures Slide - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdFM0dVhmTXVxX3VFRjlPeW5RSUJRa3NNbUVzNTl0LWtHeTd1TW9ZLXNOM0lPVS01aU9wZVl3RHhZWFJmVlpaSVZMR1J4WTF0ckVZU0lQaXoyZXpLMmF6alNsN01FNUpzbGNoeHZyNVBjLVJSUHR6SzdlcWo4UHBRNnV3VVUyZmc?oc=5",
     "news_image": "",
     "news_source": "WSJ",
-    "news_age": "66m ago",
+    "news_age": "68m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -18017,7 +18012,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.33,
+    "news_score": 0.24,
     "news_title": "‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUmgyejFsV0U5RU5jOUxLNUNsX2tPLUxTbk8zeFZ1VUxxYjZCdy1kdm5mdURoVkJFY1NLVXFVMU8zZXpoaDgtdlBxQV9JNGxBM0Q4YWhtZEV3dlZSNjhOWnkyQjZpdHJtZ1VPc3FVU3p1VnljVEhBdm9HbnJIQTRKcG1mQTFaUy13WUQySEZ2R3pLMlZuZTFlYktLcHRTdEJfU3F5aEdORWNkWDg0UlRV0gG0AUFVX3lxTFBYQnN0THV1R0ZKNWc1TjVsTG1BYmpTOUZfOTJXeVoxUlh2cTczd2I0dnJfUHgtM2x3S1M1bXRpXzl3bFVEYzFJYjRueFNpbThVN1dHNXcwRE1UOG14dERTcGtLTUs5c2xDdFBEa3dyU3VmZmJVcmV5MlphZEh2d0MwMDMwOEhDdHFqQnQwOHVfMU9ONTNvb2xpZmwxUEZ4M3R3UDcyOW9vRDVUUnpnX1JDSW5FTQ?oc=5",
     "news_image": "",
@@ -26354,7 +26349,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZnl3Vk1rSUxQWHIxcy16ODNDOGU2OVFoT0xITE93Nm5qWnZGUlJZa3M0M2p4TnRGcmpEQ0Znallob3VjT0tJQTR4dEpwbG1JakxXWS1tMXZtc1BoRDdJOE1XdTJsX1ZvQkNQaHpCb3RRM3V1R1dfeEVYNHJNQnlLVjFaTF94emVILTJSRkZMaGQzT3FqMEROTW9zRVB0NzYyWHA4Vlc5c1ZlU1FEWlpKUnFGeHNWbDJZbHlUNlFn?oc=5",
     "news_image": "",
     "news_source": "baylorbears.com",
-    "news_age": "15h ago",
+    "news_age": "16h ago",
     "news_columns": [
       "fifa_w"
     ],
@@ -27620,7 +27615,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX1dBY0EyRHQ1YS1ZM1VMTDBrUDdkNjNMbFBzaWxnSXI2UDF5TXVwS0NsVlhOZURCWEc5ZkpibVhiTUhKYUk5RVczX25sd2JtWXkzOVhQOWlWLU9hNHJBT1RwbWI4bGNiYkxVaDN6dmNVS3F6Wms0eW10X3V2NWtBSmZ5T0FVUXhPb0k5ZE96ZzNrUGFKcUlOLU8yeWgzY1BwNmdFT3RxbDZRSTg?oc=5",
     "news_image": "",
     "news_source": "Colorado State Athletics",
-    "news_age": "12h ago",
+    "news_age": "13h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -28627,14 +28622,16 @@
     "union_rate": 89.3,
     "union_rate_rank": null,
     "fifa_ranking_rank": 104,
-    "news_score": 1.36,
+    "news_score": 1.43,
     "news_title": "Lavrov says Russia, North Korea fighting for 'new, righteous' world order - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTl80VzVqWWhtWWUyN2FiTTF6SE1DNGVSSUk2N2QyU2RJUmFEaEJ2UFQ3WDJGeF9DLWJBenhrMk9jTUZYcV9EQURmSU9ZMV9VbFoyY2E1U2xhWktPXzZFX195ekpRQlFxRkdsTXlfREw2N2pDN1VpVjUtOTc2SUFybVRjcGtqUTE5WjZ1dy1CaGtyQ1M2RFgtRTVIUXdQZExmM3BDTElUMHhIdWM5YURKUUJOc3ZySTBQZnpUMQ?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "22m ago",
+    "news_age": "24m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -29477,7 +29474,7 @@
     "refugees_rank": null,
     "union_rate": 70.4,
     "union_rate_rank": null,
-    "news_score": 0.38,
+    "news_score": 0.37,
     "news_title": "Dems plan Oman war powers push after Trump threatens bombing - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXRMeFNsX0l3YTRZQ2hTZkpGWTdZWkMteXF5MEdaTHpSVHNxdHlCQ1NJdDV6OVlUYlFRY3daZENKSHFIUU1PcGRFbU84dU9WMTJzX3NfSUczYzlwUDEwSEJYZUZmaDBoLTZzMmdCcUREekRFb0M2bUM0cXEzRExkdVhCY3g?oc=5",
     "news_image": "",
@@ -29747,16 +29744,17 @@
     "union_rate": 54.7,
     "union_rate_rank": null,
     "fifa_w_rank": 102,
-    "news_score": 1.04,
+    "news_score": 0.79,
     "news_title": "India vs Pakistan in FIH World Cup 2026: How to watch in India, kick-off time, live stream, key players, Pool D standings - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTnZkZEZ2aHF5OGJsdG1sNEhjUEUtRHhBUzdqc0pjdmZMZWlRVEtnZ0dwbGpZQzhKUF9YcGNqenFfTl9CWkpWUVlZMEdsckUwM3NoWHg5MjlVbU4tTzFCbTZOVms4VkhNQmRidERPN0RYWU42MThPQ1haWUQ4NEFTZnVyZmFFM3NieDZDeVlyYTFrSE1nMjdLOWdXNUdLR2JvNkQ3WDBJZlZQVmZnRTFYZlp6SElTRkVTaTdFd29sOE9PQnNuRmpnVHB1dl9zMkZkQ2hxTk11a3RQVnp3cFN0WW5XU242bWNwWXc?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "85m ago",
+    "news_age": "87m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -32919,14 +32917,16 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.69,
+    "news_score": 1.75,
     "news_title": "Lavrov says Russia, North Korea fighting for 'new, righteous' world order - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTl80VzVqWWhtWWUyN2FiTTF6SE1DNGVSSUk2N2QyU2RJUmFEaEJ2UFQ3WDJGeF9DLWJBenhrMk9jTUZYcV9EQURmSU9ZMV9VbFoyY2E1U2xhWktPXzZFX195ekpRQlFxRkdsTXlfREw2N2pDN1VpVjUtOTc2SUFybVRjcGtqUTE5WjZ1dy1CaGtyQ1M2RFgtRTVIUXdQZExmM3BDTElUMHhIdWM5YURKUUJOc3ZySTBQZnpUMQ?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "22m ago",
+    "news_age": "24m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -35909,7 +35909,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.54,
+    "news_score": 0.55,
     "news_title": "Dems plan Oman war powers push after Trump threatens bombing - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXRMeFNsX0l3YTRZQ2hTZkpGWTdZWkMteXF5MEdaTHpSVHNxdHlCQ1NJdDV6OVlUYlFRY3daZENKSHFIUU1PcGRFbU84dU9WMTJzX3NfSUczYzlwUDEwSEJYZUZmaDBoLTZzMmdCcUREekRFb0M2bUM0cXEzRExkdVhCY3g?oc=5",
     "news_image": "",
@@ -36493,7 +36493,8 @@
     "news_age": "9h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -40999,19 +41000,16 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.63,
+    "news_score": 0.93,
     "news_title": "Russia warns Britain of 'consequences' for supplying drones to Ukraine - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZUVfTGNVRktRc2R4dkg0YXI4SndIblJaQngxMHlLNFZ5Z285ZzF3UHBIMTl2VGVUanpfRmhSR1BXcDJoNTNPNV9GUFZDSTcyMGFSQU4wblUtWm9zOWZ0cFU3eEdxc0dtNDdsS2tBUWRlX3hTOGtzemJiSi1nek1QWm9lb3c3NC1ZYllvb3RiTS1yX1ZrdHNrbzFJZi1uNHVzTGJfUHFB?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "112m ago",
+    "news_age": "114m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -43468,7 +43466,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.65,
+    "news_score": 0.64,
     "news_title": "Australia's Monash University and Vietnam’s Becamex Group sign MoU to advance science, technology - BioSpectrum Asia",
     "news_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQM0dRdmhEN19WVnd2RDNOWjlPZ2xEM0JnNHZyLUNqWXlaZjVvVElzTFVQdnhzTzhkdUZBeXhRNHRqZVI3SVhKM21uSUFyZmo3MWJBcVNWVHlESFRfd2pfRUlCRjNnNU03am4zTENsbGk2RVM4cDBianNDYWVIdUtQVF9LbGo5VTlfTXc0b1U5cVdsN2NWbGZxQW04aEpGeWgySGdLMVctTENIZXczNDk4WGE5Qi00eFdxUW9EdDhiN3hralZ0S0dwc2JVRW14SlJtRVl4Z1FRNm5RUDdacHc?oc=5",
     "news_image": "",
@@ -44200,7 +44198,7 @@
     "refugees_rank": null,
     "union_rate": 62.2,
     "union_rate_rank": null,
-    "news_score": 0.69,
+    "news_score": 0.7,
     "election_title": "Zambian National Assembly",
     "election_url": "https://www.electionguide.org/countries/id/239",
     "bottom50_wealth": null,
@@ -44208,7 +44206,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaGFVbnhoc0ZvMDFZM3R1al93YzQzeXl1b09OSEJYYThVTlpGcnBZNDQwMFZfdGVMWjVQZ216YjRtLTh0RXA1Ri1UYVlDYS1mUWlHVmo3VjlnNVdnVU5rdUtpTWR5bWZNdGVGeEs5Z3pRcmFMelBlV290b0VnbUR3cDdha0hXdV9zellObTVWd2t2aFVqWGtjb3Q0Q01DSXhFdlhrcXBEX1Vnb3RnS1VLZlJ3bWx2MkFCTlRvbDlqTURNZjA?oc=5",
     "news_image": "",
     "news_source": "News24",
-    "news_age": "113m ago",
+    "news_age": "115m ago",
     "news_columns": [
       "democracy",
       "approval",
