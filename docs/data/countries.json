@@ -7531,12 +7531,12 @@
     "refugees_rank": null,
     "union_rate": 70.9,
     "union_rate_rank": null,
-    "news_score": 0.47,
+    "news_score": 0.6,
     "news_title": "🤝Franco Calderón leaves Universidad de Chile and joins Independiente - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSndqS19kcDRyNXFHM0tkU1ZRR0M3QkNzZVZoUUtfbzhEVEZ3ZnA5QUxKanFCRXZBSG5MSHVwQ2Z2T2RVY0xRbEtyYWl2R3ViWWVzWVpkdGhxdTlMRXdlQzgzazRvM3lhRHY1U0E1MW92RUlhbWE4cE54VVpMS1NoQ1ktdGFIYTFEUFpj?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "19m ago",
+    "news_age": "21m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -7980,10 +7980,11 @@
     "news_source": "washingtonpost.com",
     "news_age": "10h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -12937,17 +12938,19 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.06,
+    "news_score": 0.04,
     "news_title": "India,France review expanding canvas of bilateral cooperation in science, technology & space | Akashvani News - News On AIR",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTExHRzVKTC11ZHhmMUF6RmZrSWFqMVI0dHhYajQ0U1FTWlEzZ05jTjB2MmlvVEgtUDkzeDJiWG5ENERDTHBPR0g2MXdybUwyWEcyRDFadkp2VjBwRFUzV3kzMENmU3AyVGgwLTBrcDBSY0o4WTZjNmx5bVJyeWRidTcyU243UmdYNHc3WTNEZWNVcTdfOVRwRkhKREQ0dlFlRHFlV0tnSGxSUTRtc211MWlneXo?oc=5",
     "news_image": "",
     "news_source": "News On AIR",
     "news_age": "30h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "space_launch"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13463,12 +13466,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 1.07,
+    "news_score": 1.1,
     "news_title": "Georgia football getting this new corporate logo at Sanford Stadium - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM0FReXlEYTdOQXJVMzJfb182MU1Od2N5Y0NNMXdvS1JnbFNkTlFRVUFSQ2F1Zk9mLVpCQlZqTHg3cDFQYTJKVnlPcWw1MlZrSDZWaHZNS2VuTzhtMFdoZkFfWktKcFlxWEFwcDdaWENBUU5WOVNETHBrVGlIR21LZkx2dTBOLTdLcWQtcU9OZS1PZw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "30m ago",
+    "news_age": "32m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -13965,7 +13968,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.2,
+    "news_score": 0.0,
     "news_title": "An 81-year-old admits to 1994 killing of American tourist as trial opens in Germany - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR3J5eFB5N09OU1BVYmhPaWlKRGhrUVJjU3NIZjJ4ck80enNYVUdDUWJTZ0FULTllQWZvbnhobDZnS3lfU3JES2JmeHdFRDgwNEtURXVpalVmN3ljbFRycmVSdk9JVDFEM1VuX1JDM2xUQWI5aUdjaGxoVUNFdVBZcl9uY1JrOG83NFk3Sm16cjNXdkU?oc=5",
     "news_image": "",
@@ -16707,7 +16710,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.57,
+    "news_score": 0.78,
     "news_title": "India vs Pakistan, Hockey World Cup 2026: Know semi-final qualification scenarios and where to watch IND vs PAK live - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPXzFEcktVS2g0R3QybkFwNFNONW40em9XSHdnZGZVQTB0NU56aUpzbElvbTIwSldHQkNRRW9IeFJIMG1nd2U3SVZZMXE3ei1MeW4wemlLQVV3TnlyclowT0FlUlVjQXdWeWJmcVhZeTVSNEVld0YtTHZqcDJnRTNIbWVyLVhjU1BoaUJUekNjT21tRnpkaFc2X0ZfQl9rNzFFY3g3M1h1MVZkQQ?oc=5",
     "news_image": "",
@@ -16715,11 +16718,8 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
       "olympic",
-      "basket",
-      "olympic_gold",
-      "olympic_per_cap"
+      "basket"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17283,17 +17283,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 2.15,
+    "news_score": 2.32,
     "news_title": "U.S.-Iran Updates: Trump says no talks with Iran taking place as standoff over Strait of Hormuz continues - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96dTlXTXdLdkJfWHpuYUtTRlp1dDh5SEd2a2F6ZUxwcTJCa3kxRXhqaUE1aHhmWTFxOG9Zd21SQzBsalAyRjN1czlieHlXT1lIT1MtcnFDM0tTX1dCeDJqRHdJTXZZYjVHLXRndEJlZ1N6akkyMWRmR2Z5TQ?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "28m ago",
+    "news_age": "30m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "gas_price",
+      "energy_per_capita",
+      "co2",
+      "renew",
+      "exports",
+      "military_pct"
     ],
     "bottom50_wealth": null
   },
@@ -28266,7 +28268,7 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.24,
+    "news_score": 0.25,
     "news_title": "Beyond the Screen: How Sports and Entertainment Keep Nigeria’s Economy & - Business Post Nigeria",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3Vob0QzTTFiYUFtVDJ3cVdxM2UyZlJGdmU1RzZIMzdzSFVqdkE4cHFtMW1ObDJGYXNjZjkzWXY1YUZucjZJY09vMFl1TWk1aVlrbEF6ZlFUVV9RVWFEQUEzX2djaFFSVFQ3d2laU29XVnFuZ0d6Y204TEZtZ1ZUV1JUVUloSjMzblNqaGRaTmpXdk1Db2ExajlFRmR1WmNHV3R5QWI0eUM2X0NDWTd3ODh3?oc=5",
     "news_image": "",
@@ -28627,12 +28629,12 @@
     "union_rate": 89.3,
     "union_rate_rank": null,
     "fifa_ranking_rank": 104,
-    "news_score": 0.75,
+    "news_score": 0.74,
     "news_title": "South Korea president calls for military independence in wake of Trump call to cut joint drills - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQU9PcnNSS2ZQQmxoOFNldmdkQ0RWTmwtVEFQdGl5bkJTcnBoUWR6TUJjS0lnSXFTeG5qU1JZRFNiS2tnTGw0R040YkVYUHFDZHkzdzFmMnpEUmFpanRPR045cmNlYXhPbEZnN0JvZ0pRaHhvY2JHQWJiNHRtNlBIbWVKRnFCaDlnSmc1T3VaRExIVEFsRGw5QWJzMjZzZ2RxZzRWQ3JLTlcwRFpCQXdqeFh6eThGZw?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "117m ago",
+    "news_age": "119m ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -29752,7 +29754,7 @@
     "union_rate": 54.7,
     "union_rate_rank": null,
     "fifa_w_rank": 102,
-    "news_score": 0.89,
+    "news_score": 1.25,
     "news_title": "India vs Pakistan, Hockey World Cup 2026: Know semi-final qualification scenarios and where to watch IND vs PAK live - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPXzFEcktVS2g0R3QybkFwNFNONW40em9XSHdnZGZVQTB0NU56aUpzbElvbTIwSldHQkNRRW9IeFJIMG1nd2U3SVZZMXE3ei1MeW4wemlLQVV3TnlyclowT0FlUlVjQXdWeWJmcVhZeTVSNEVld0YtTHZqcDJnRTNIbWVyLVhjU1BoaUJUekNjT21tRnpkaFc2X0ZfQl9rNzFFY3g3M1h1MVZkQQ?oc=5",
     "news_image": "",
@@ -29760,11 +29762,8 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
       "olympic",
-      "basket",
-      "olympic_gold",
-      "olympic_per_cap"
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -32925,7 +32924,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.3,
+    "news_score": 0.32,
     "news_title": "Lavrov says Russia, North Korea fighting for 'new, righteous' world order - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTl80VzVqWWhtWWUyN2FiTTF6SE1DNGVSSUk2N2QyU2RJUmFEaEJ2UFQ3WDJGeF9DLWJBenhrMk9jTUZYcV9EQURmSU9ZMV9VbFoyY2E1U2xhWktPXzZFX195ekpRQlFxRkdsTXlfREw2N2pDN1VpVjUtOTc2SUFybVRjcGtqUTE5WjZ1dy1CaGtyQ1M2RFgtRTVIUXdQZExmM3BDTElUMHhIdWM5YURKUUJOc3ZySTBQZnpUMQ?oc=5",
     "news_image": "",
@@ -35923,7 +35922,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQU9PcnNSS2ZQQmxoOFNldmdkQ0RWTmwtVEFQdGl5bkJTcnBoUWR6TUJjS0lnSXFTeG5qU1JZRFNiS2tnTGw0R040YkVYUHFDZHkzdzFmMnpEUmFpanRPR045cmNlYXhPbEZnN0JvZ0pRaHhvY2JHQWJiNHRtNlBIbWVKRnFCaDlnSmc1T3VaRExIVEFsRGw5QWJzMjZzZ2RxZzRWQ3JLTlcwRFpCQXdqeFh6eThGZw?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "117m ago",
+    "news_age": "119m ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -41011,17 +41010,19 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 1.15,
+    "news_score": 1.23,
     "news_title": "The Moscow region is hit by a drone blitz as Russian missiles kill 10 in a Ukrainian village - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWNZbnhPNkw5SFowb3FVbzZYN2VIbThFU0ZnckM0eHdHSmdwanEwbHM4eGxLN1Z4bnBoeFZhS2dBNGNWTHFZNjBVWTN6ZGRuRm4yZ3VwalBPTFJ3dUhiQnd2TE5BZkhLMW9vd2pWam5DcmdVOUpCR3JObnN1YV9nMUJBcngya1RvQkRVRXRYUjdqLWFaYllkSTFHbDQwUTA?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "33m ago",
+    "news_age": "35m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
