@@ -7978,7 +7978,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0U2OVlyZEFWVkZ4WGFMTHhDZzV3bzA2WFRzaWtYZl9paUdPNFB5bDl5aFM4Slllc2lKTU0xdjVIUTA1V3Ewc2FRTS05NVlSRGtZWXBBcVI0SWhrTUs1VTloQnhwbC1aZ25PekVkVGQ5ejQ3R3lOb1Q0Si1VX1ZkaE0yUTlJTGpoN0dHcDZmSXBtWGxEZGRlOHhZWlo2OEpJWHpkcUdwbUZtQQ?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "112m ago",
+    "news_age": "114m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -10434,7 +10434,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaWg0S1lQSHdVTVgydXdxUnlfN0NLV2QtVDFyTWpWY3hUTWVNelpPZkVlTEowbUt6N0hQdmJnV2V2WlNpRG10TFNjQnVJMmFqQkd1WTNSQWhWSFZmcWtMWkxSM1YwQXAteWZJQ21EdHNDVHU0d1ZnZWtJY0FXa3IwVFR6RkQwU2t0ZjNOSExSR1ZYYndGMmxkZ2pZd2tSVnNHMkpPNEYtTW43eENKMVR6dlVld2hvNzlX0gG-AUFVX3lxTE9QNEJRTC1MNl9LcEVHQ2k0SkdIT2JYLXpzNjFCYUVGNndCMGt5TFU1enlhY2VINkwydDNfSW9Mc3lfdzFJTTVWcElVU3pBSTA3bk1lQ3JUYjRpaTZWc0ViSjhiU3ZhSThuV2VqMTRNWWhSTmh4M0U4MjdGSU90VVZ1TW13X1ZfT1RqalRYUXVBbnJuM25CdzluVFZnZURqQWx5UHFwWFdPdWg1UXItc0E4LXFsMUNmaGU1RFJaSVE?oc=5",
     "news_image": "",
     "news_source": "fundsforNGOs",
-    "news_age": "1521h ago",
+    "news_age": "1522h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -12938,7 +12938,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.03,
     "news_title": "India,France review expanding canvas of bilateral cooperation in science, technology & space | Akashvani News - News On AIR",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTExHRzVKTC11ZHhmMUF6RmZrSWFqMVI0dHhYajQ0U1FTWlEzZ05jTjB2MmlvVEgtUDkzeDJiWG5ENERDTHBPR0g2MXdybUwyWEcyRDFadkp2VjBwRFUzV3kzMENmU3AyVGgwLTBrcDBSY0o4WTZjNmx5bVJyeWRidTcyU243UmdYNHc3WTNEZWNVcTdfOVRwRkhKREQ0dlFlRHFlV0tnSGxSUTRtc211MWlneXo?oc=5",
     "news_image": "",
@@ -13466,7 +13466,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.58,
+    "news_score": 0.54,
     "news_title": "Georgia football getting this new corporate logo at Sanford Stadium - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM0FReXlEYTdOQXJVMzJfb182MU1Od2N5Y0NNMXdvS1JnbFNkTlFRVUFSQ2F1Zk9mLVpCQlZqTHg3cDFQYTJKVnlPcWw1MlZrSDZWaHZNS2VuTzhtMFdoZkFfWktKcFlxWEFwcDdaWENBUU5WOVNETHBrVGlIR21LZkx2dTBOLTdLcWQtcU9OZS1PZw?oc=5",
     "news_image": "",
@@ -17284,19 +17284,16 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.8,
+    "news_score": 2.24,
     "news_title": "Trump says US has no talks planned with Iran and other news from the Middle East - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGE0ZXdacDJQQU1FSTNKRzRoV21MR3h5R1FIekhsU054VE9WSzdUdThYNmY3emZwQWpXUFczUklKU2MzZVdUeV9ZaWtoaF9IUXRaT24xS0Y2MmdlbnlxT1JicndhbWpfb1N4Z09GeDV4UGMyQUdLb3Utb3pqNTNDQTR2amh2cTVGZTJ5S3FVVzlWZmoyNHNLUy12WnM3YUtiMW01Vnp5TmRQWjdQS3c?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "33m ago",
+    "news_age": "35m ago",
     "news_columns": [
-      "gas_price",
-      "energy_per_capita",
-      "co2",
-      "renew",
-      "exports",
-      "coffee"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -19157,12 +19154,9 @@
     "news_source": "Al Jazeera",
     "news_age": "32h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -19344,7 +19338,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQXBQMUlGM05GQks3UW5WSXRRR1JkTWdFYnA1aGhkYnA1cGVWTDBHYldEcko3bnl4TExvLUlVanlWNDV1aHotc1BnNzFwZlBqZUZQa1FOYzlmQWNPak9SZ3dBcHRHUzkySDNXck9FODhhdlJSRmxBTlNUcUFkRE5WbUtpcXpHV2tKTTFRa3BkdE9BUQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "31m ago",
+    "news_age": "33m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -28630,7 +28624,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQU9PcnNSS2ZQQmxoOFNldmdkQ0RWTmwtVEFQdGl5bkJTcnBoUWR6TUJjS0lnSXFTeG5qU1JZRFNiS2tnTGw0R040YkVYUHFDZHkzdzFmMnpEUmFpanRPR045cmNlYXhPbEZnN0JvZ0pRaHhvY2JHQWJiNHRtNlBIbWVKRnFCaDlnSmc1T3VaRExIVEFsRGw5QWJzMjZzZ2RxZzRWQ3JLTlcwRFpCQXdqeFh6eThGZw?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -32922,7 +32916,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.2,
+    "news_score": 0.17,
     "news_title": "Lavrov says Russia, North Korea fighting for 'new, righteous' world order - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTl80VzVqWWhtWWUyN2FiTTF6SE1DNGVSSUk2N2QyU2RJUmFEaEJ2UFQ3WDJGeF9DLWJBenhrMk9jTUZYcV9EQURmSU9ZMV9VbFoyY2E1U2xhWktPXzZFX195ekpRQlFxRkdsTXlfREw2N2pDN1VpVjUtOTc2SUFybVRjcGtqUTE5WjZ1dy1CaGtyQ1M2RFgtRTVIUXdQZExmM3BDTElUMHhIdWM5YURKUUJOc3ZySTBQZnpUMQ?oc=5",
     "news_image": "",
@@ -35916,12 +35910,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.05,
+    "news_score": 1.04,
     "news_title": "South Korea president calls for military independence in wake of Trump call to cut joint drills - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQU9PcnNSS2ZQQmxoOFNldmdkQ0RWTmwtVEFQdGl5bkJTcnBoUWR6TUJjS0lnSXFTeG5qU1JZRFNiS2tnTGw0R040YkVYUHFDZHkzdzFmMnpEUmFpanRPR045cmNlYXhPbEZnN0JvZ0pRaHhvY2JHQWJiNHRtNlBIbWVKRnFCaDlnSmc1T3VaRExIVEFsRGw5QWJzMjZzZ2RxZzRWQ3JLTlcwRFpCQXdqeFh6eThGZw?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -36492,15 +36486,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.83,
+    "news_score": 1.81,
     "news_title": "Barcelona confirms signing of Spain captain Rodri from Manchester City - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdTFKa0Rlb2lNYU1Cc1VlZENnTVFXZkphMV9WdzVkX0hTQjdSb3lhb1U3OThVeXFqVFNGUEMzUTB1ZnpXZEpBQTdkaldFS2tHU2VqZkJiN1FsSElyMHJVX3gtMXNoZ3J6VUdGM2UzYUZkNjZUQ3FWZXV5V0pNb2ZWNWhqdzA2UUc5RGNMcEhLaG1aenFJNU5SZEItdVdJcmtDYlZlU1JON2E2bTVKQnZ2MWFn?oc=5",
     "news_image": "",
     "news_source": "FOX Sports",
-    "news_age": "65m ago",
+    "news_age": "67m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
