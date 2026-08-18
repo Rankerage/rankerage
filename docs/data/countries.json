@@ -6921,7 +6921,7 @@
     "news_age": "175h ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -7973,15 +7973,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.84,
+    "news_score": 1.09,
     "news_title": "Beyond marathons and backflips, China's robots face a commercial test - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdHAyQ2ZVdVl6c0hsZDNmd2hCREZLMmZXekw5Vy1hLUFSRGluV1ZsR3h4MG5ueDZBZkdnMm5hT2F1RmhuaDgzNENLQVBoME5SX1FmMzdyUW1FRHdBWWttWnZ4R0dIejJkblhjZFFmWld5UTFYZkNTcjU4T3k0ZFR4clFWTzZ0OUI0NGVpbU00TW9nTlAxcm1CSlI2UEoydnlvNHZRU0tlZk91bFg1c2FnbURVV2RiVm8?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "62m ago",
+    "news_age": "64m ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "marathon_elite",
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -12942,8 +12942,12 @@
     "news_source": "News On AIR",
     "news_age": "29h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "space_launch"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13459,7 +13463,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.55,
+    "news_score": 0.54,
     "news_title": "What we’re watching: Dems bank on Ossoff’s message discipline - Politico",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX2w3NnJBaXZONk1yNW1MamRwT0JtbHJvQW81b2pHd19aZThrRngxM3dpOXZHMEhvS21nTUFramE3azB5UTNZNGpKblJUS3F3aHp0Q2Y3SU90a2tfWHZvalNKdHZjRjNtLWxJaUo1aEdkak5ZUnVzN3d0VXYwRnJwSFUtWUpHZnZXQmxFeWx3?oc=5",
     "news_image": "",
@@ -13963,15 +13967,16 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.3,
+    "news_score": 0.49,
     "news_title": "An 81-year-old admits to 1994 killing of American tourist as trial opens in Germany - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR3J5eFB5N09OU1BVYmhPaWlKRGhrUVJjU3NIZjJ4ck80enNYVUdDUWJTZ0FULTllQWZvbnhobDZnS3lfU3JES2JmeHdFRDgwNEtURXVpalVmN3ljbFRycmVSdk9JVDFEM1VuX1JDM2xUQWI5aUdjaGxoVUNFdVBZcl9uY1JrOG83NFk3Sm16cjNXdkU?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "96m ago",
+    "news_age": "98m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16703,12 +16708,12 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.67,
+    "news_score": 0.71,
     "news_title": "India vs Pakistan, Hockey World Cup 2026: Know semi-final qualification scenarios and where to watch IND vs PAK live - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPXzFEcktVS2g0R3QybkFwNFNONW40em9XSHdnZGZVQTB0NU56aUpzbElvbTIwSldHQkNRRW9IeFJIMG1nd2U3SVZZMXE3ei1MeW4wemlLQVV3TnlyclowT0FlUlVjQXdWeWJmcVhZeTVSNEVld0YtTHZqcDJnRTNIbWVyLVhjU1BoaUJUekNjT21tRnpkaFc2X0ZfQl9rNzFFY3g3M1h1MVZkQQ?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "53m ago",
+    "news_age": "55m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -17279,12 +17284,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.61,
+    "news_score": 1.56,
     "news_title": "Trump Approval Rating Reaches Second-Term Low In Latest Poll—As 80% Think Iran War Will Drag On - Forbes",
     "news_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWUFWeWppQ1NrZF8teDd1LUk0RjlLM2JPZmVJb1MtM1UwX3ZKWU1ya3pvQzd3THFWVGg1OTdBZFd5bjVodElmMFMwMC1Cb1RaeGp1OU4tZm12Tl9sYXJfYzFPQXJJMWs0XzgyYjM4bVltdFZvcnQwc3J6V1hlcnNIcEo0clJSc0d5aVhjZXJDaHBNR2VhcEg3V2c4OVhhb3I4aGgxSW9IT1Y1SjdrcWRLYjdNUTdfTHFHb05HdGxUZUo0SVZvcmhRemcwRjludWR2UEIzVTRLalkzeWth?oc=5",
     "news_image": "",
     "news_source": "Forbes",
-    "news_age": "84m ago",
+    "news_age": "86m ago",
     "news_columns": [
       "olympic"
     ],
@@ -17756,7 +17761,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSndIb0dhUS1DZ3lnZ2NGUEVVM0NfMWpSME82T2Zfck1ZOW4yMF9lQWxfdm04TEVESHFOaEdmYTBDbU5EVzF0U3FOSzk1Sl9YVUlseU01cGJhdzhBckV5ZThmUUFHdWptZ2tOR0l4WWlYY1g5cThCYzBSZGp1S3dsQmMwTmpwZw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "96m ago",
+    "news_age": "98m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -19139,14 +19144,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.22,
     "news_title": "Japan’s economy slows, missing growth forecasts - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbGotS25VbnJlUWRWOVhnZWhwd0pjTmN0d1FrLUtPenRUNUNQcFpFZWh2dS15ajNaVEdIcTVDZ2NCMUJYMHYxN0ZIbDJCX0hMdUtQQlpfdENCa0dBZWZNX2ZKUW5jZGVhaF85aVpXVkZnZWExNzBXQjlnS2VCNU9DSGIzNjR6dHlVWUhkUlJBZ3llTTDSAZgBQVVfeXFMT1h5clZHOW1ERGdENkZ1UlBiYzBkemxuTDdrUEVxZzRUYlBsQzN0N0ZqRXRjNVotUTBTWm1qQnliSjNvZ2V6dEY0bE5QRlVMdUFYczVOVFVRQzVqRzdKb3VDR2Izb1E3TWpKUzNHdzRwcFAtYnp3N01tZU42cXZ2QXYyZGVNUkp4OVVkdG1PNG5rd3RkQjE2b1Y?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
     "news_age": "28h ago",
     "news_columns": [
-      "fifa_ranking"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -28610,12 +28620,12 @@
     "union_rate": 89.3,
     "union_rate_rank": null,
     "fifa_ranking_rank": 104,
-    "news_score": 0.9,
+    "news_score": 0.89,
     "news_title": "South Korea president calls for military independence in wake of Trump call to cut joint drills - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQU9PcnNSS2ZQQmxoOFNldmdkQ0RWTmwtVEFQdGl5bkJTcnBoUWR6TUJjS0lnSXFTeG5qU1JZRFNiS2tnTGw0R040YkVYUHFDZHkzdzFmMnpEUmFpanRPR045cmNlYXhPbEZnN0JvZ0pRaHhvY2JHQWJiNHRtNlBIbWVKRnFCaDlnSmc1T3VaRExIVEFsRGw5QWJzMjZzZ2RxZzRWQ3JLTlcwRFpCQXdqeFh6eThGZw?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "90m ago",
+    "news_age": "92m ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -29734,12 +29744,12 @@
     "union_rate": 54.7,
     "union_rate_rank": null,
     "fifa_w_rank": 102,
-    "news_score": 0.99,
+    "news_score": 1.01,
     "news_title": "India vs Pakistan, Hockey World Cup 2026: Know semi-final qualification scenarios and where to watch IND vs PAK live - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPXzFEcktVS2g0R3QybkFwNFNONW40em9XSHdnZGZVQTB0NU56aUpzbElvbTIwSldHQkNRRW9IeFJIMG1nd2U3SVZZMXE3ei1MeW4wemlLQVV3TnlyclowT0FlUlVjQXdWeWJmcVhZeTVSNEVld0YtTHZqcDJnRTNIbWVyLVhjU1BoaUJUekNjT21tRnpkaFc2X0ZfQl9rNzFFY3g3M1h1MVZkQQ?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "53m ago",
+    "news_age": "55m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -32907,7 +32917,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.09,
+    "news_score": 1.04,
     "news_title": "UK will support Ukraine \"100%\" despite Russian warning, PM Burnham says - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZUVfTGNVRktRc2R4dkg0YXI4SndIblJaQngxMHlLNFZ5Z285ZzF3UHBIMTl2VGVUanpfRmhSR1BXcDJoNTNPNV9GUFZDSTcyMGFSQU4wblUtWm9zOWZ0cFU3eEdxc0dtNDdsS2tBUWRlX3hTOGtzemJiSi1nek1QWm9lb3c3NC1ZYllvb3RiTS1yX1ZrdHNrbzFJZi1uNHVzTGJfUHFB?oc=5",
     "news_image": "",
@@ -35897,12 +35907,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.75,
+    "news_score": 0.72,
     "news_title": "South Korea president calls for military independence in wake of Trump call to cut joint drills - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQU9PcnNSS2ZQQmxoOFNldmdkQ0RWTmwtVEFQdGl5bkJTcnBoUWR6TUJjS0lnSXFTeG5qU1JZRFNiS2tnTGw0R040YkVYUHFDZHkzdzFmMnpEUmFpanRPR045cmNlYXhPbEZnN0JvZ0pRaHhvY2JHQWJiNHRtNlBIbWVKRnFCaDlnSmc1T3VaRExIVEFsRGw5QWJzMjZzZ2RxZzRWQ3JLTlcwRFpCQXdqeFh6eThGZw?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "90m ago",
+    "news_age": "92m ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -38846,7 +38856,7 @@
     "refugees_rank": null,
     "union_rate": 75.8,
     "union_rate_rank": null,
-    "news_score": 0.41,
+    "news_score": 0.43,
     "news_title": "World Gym Launches Presales for Its First Thailand Club - Yahoo Finance",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcWdfTTM0RkNRcGZWVkxvaTlKTWYwSGRBMERNY2tyLUI5al9tTzczaFhDd2x2TzNDTHpEeXd6OFZsWk84cFRSczhSaGw1R1VTN3dORGV0MEItOEFYc3lCNkpiQ3kxclM1eUdZRC1ZWWtleHl0WjFMWnkySm9Za0F6VjlfX3Z1dF9aQ0xVZGNjU0duUU1nMy1MbmlvV1BVSWM?oc=5",
     "news_image": "",
@@ -40991,19 +41001,14 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.58,
+    "news_score": 0.75,
     "news_title": "UK will support Ukraine \"100%\" despite Russian warning, PM Burnham says - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZUVfTGNVRktRc2R4dkg0YXI4SndIblJaQngxMHlLNFZ5Z285ZzF3UHBIMTl2VGVUanpfRmhSR1BXcDJoNTNPNV9GUFZDSTcyMGFSQU4wblUtWm9zOWZ0cFU3eEdxc0dtNDdsS2tBUWRlX3hTOGtzemJiSi1nek1QWm9lb3c3NC1ZYllvb3RiTS1yX1ZrdHNrbzFJZi1uNHVzTGJfUHFB?oc=5",
     "news_image": "",
     "news_source": "Reuters",
     "news_age": "2h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -44192,7 +44197,7 @@
     "refugees_rank": null,
     "union_rate": 62.2,
     "union_rate_rank": null,
-    "news_score": 0.21,
+    "news_score": 0.2,
     "election_title": "Zambian National Assembly",
     "election_url": "https://www.electionguide.org/countries/id/239",
     "bottom50_wealth": null,
@@ -44200,7 +44205,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaGFVbnhoc0ZvMDFZM3R1al93YzQzeXl1b09OSEJYYThVTlpGcnBZNDQwMFZfdGVMWjVQZ216YjRtLTh0RXA1Ri1UYVlDYS1mUWlHVmo3VjlnNVdnVU5rdUtpTWR5bWZNdGVGeEs5Z3pRcmFMelBlV290b0VnbUR3cDdha0hXdV9zellObTVWd2t2aFVqWGtjb3Q0Q01DSXhFdlhrcXBEX1Vnb3RnS1VLZlJ3bWx2MkFCTlRvbDlqTURNZjA?oc=5",
     "news_image": "",
     "news_source": "News24",
-    "news_age": "5h ago",
+    "news_age": "6h ago",
     "news_columns": [
       "democracy",
       "approval",
