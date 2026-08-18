@@ -7976,7 +7976,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.12,
+    "news_score": 0.1,
     "news_title": "China’s economy showing signs that slowdown may be extending - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmdlcXN2cGVYYmM1UXVjSUFOTE1WZjRCODdqYl9oNlF2SGdvSnRueTlKWVlBQkVScE13SFBoWXF5YmpJQ0h5d2NlVjBfcTZZS1F1YkxsTTJHY2syMXZqRVFoMkFHTTI5aWl1QXlxemNtN25GMDFQNF9fcjBkaWltbXFXUzRnZ09FaC1VY2VhY2w?oc=5",
     "news_image": "",
@@ -16722,18 +16722,19 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.39,
-    "news_title": "Indian handle quoted by Netanyahu & US: How a false claim fooled the world - The Times of India",
-    "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQl9GNGpQOWc0Zm54Q3hheHBzVkF0QjNRaW5hT3pVWGRsS3k5Wm9FSk1fU2E3TDNmZU52bzc1X1F5TFZUQUV1cVFsRG40V0lZWlVTUlUySVdXNlNtMm1kVFM5cXZJU3BkbE9pUG93cTR3SWw1dFBNYWJTU1I4QThSM3F1Vms1S1VfaGpnUldKLThvTW1SSklkUjU1TTBaRTVUbktYQmVjLVNmMFpvY1dtVnZKU3ZBVWt0eFBkVWF4cnREUjVidXpneUx6ZmJTM2Q2U1F5dWpR0gHbAUFVX3lxTE5DeXZ2bUpVMXMtQ09XVEQ1SEJjdnBPRzdrTXhzMjVDRkFlWVpCRVRBbzJfU3lPZmJEWndLd0JGc1ZlQXFZSmFvd3hOOEFDZGZHYVNLN2M1cE1aSWd2am1IR1B3ZmNfdUJMcDhySGNTOHVhUHVVSG5CeXNxTVJ3YWZYajlCWlZBQXUwQ285OGs0ZTN2cnBqa0hvcWRJckp5UWU0MUd4bkd2YkdzTEpSNmpZNy1IdjhLU3NOc2lhaExjSTVock9GbzJac1RQVG83Y3FEN0s5c3BVZUQxVQ?oc=5",
+    "news_score": 0.28,
+    "news_title": "Hockey World Cup 2026: India’s 32-year wait for win over England extended - olympics.com",
+    "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUWhxM1drbjVwOHZ0SmZLZFRWZ0dGUjhDUTdZVWFlLS1nbGVFTEdIU29qV1hyZEotV1VRVHF3V3ZhdGx0R1E1Q1IxMF9nWGx5N3RUOTVna3Y2X19nN3VXX0NDRkNNelRqMEMyTTVqTENReU5adDNzeHpIZ3NmNkNtOTFzN3ZoaW5zcXZPcDQwRmVZQmRVQlFRQ3k4VWJiVkJR?oc=5",
     "news_image": "",
-    "news_source": "The Times of India",
-    "news_age": "3h ago",
+    "news_source": "olympics.com",
+    "news_age": "11h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket",
+      "olympic_gold",
+      "olympic_per_cap"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17297,14 +17298,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.78,
+    "news_score": 1.7,
     "news_title": "Dollar feeble as rate hike bets dwindle, Iran war worries grow - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclBwalB5bkFIQVRLaXc3bHdrSFEteXF1NllCaTVjU08zRnlNckhhSzlvT3lOQ1FpNTZhQzh1VFVBVjJzaVc3Wkd4WXhVcURZV1BtUGttNEdRUS1RNkxQYU1jNHptUGgtMEhaVGNQdkRLTVl4bnNTeDJHMG9pYkV0dld0OXVDT0ZERHV1eGM0WGw1VVlEeFVIWElYNFlCRUtBd1ItU2tCcXNheWs?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "81m ago",
+    "news_age": "83m ago",
     "news_columns": [
-      "geopolitical_tension"
+      "diplomacy_index"
     ],
     "bottom50_wealth": null
   },
@@ -19158,15 +19159,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.51,
-    "news_title": "Yoshida Wins First-Ever Greco-Roman U20 World Title for Japan - United World Wrestling",
-    "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb3dRVzlRMGtoUmpQY1lPN3NPYjgyY2cyMk1qMzZLeDRKM3VkUy1TWTRJN1E2OFZVbFUwMVdvZzlmQWU4Y21iU0tyTWcxa1ZpLVVSOFZMTEF3SDFzejR6cUo2WWUycXRzR3F0cHZoeEZoMDlYNEt5WkFyTm1VOUFpYTRfNnd3Qldj?oc=5",
+    "news_score": 0.27,
+    "news_title": "Japan’s economy slows, missing growth forecasts - Al Jazeera",
+    "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbGotS25VbnJlUWRWOVhnZWhwd0pjTmN0d1FrLUtPenRUNUNQcFpFZWh2dS15ajNaVEdIcTVDZ2NCMUJYMHYxN0ZIbDJCX0hMdUtQQlpfdENCa0dBZWZNX2ZKUW5jZGVhaF85aVpXVkZnZWExNzBXQjlnS2VCNU9DSGIzNjR6dHlVWUhkUlJBZ3llTTDSAZgBQVVfeXFMT1h5clZHOW1ERGdENkZ1UlBiYzBkemxuTDdrUEVxZzRUYlBsQzN0N0ZqRXRjNVotUTBTWm1qQnliSjNvZ2V6dEY0bE5QRlVMdUFYczVOVFVRQzVqRzdKb3VDR2Izb1E3TWpKUzNHdzRwcFAtYnp3N01tZU42cXZ2QXYyZGVNUkp4OVVkdG1PNG5rd3RkQjE2b1Y?oc=5",
     "news_image": "",
-    "news_source": "United World Wrestling",
-    "news_age": "3h ago",
+    "news_source": "Al Jazeera",
+    "news_age": "17h ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -26353,7 +26358,7 @@
     "union_rate": 60.1,
     "union_rate_rank": null,
     "fifa_w_rank": 85,
-    "news_score": 0.09,
+    "news_score": 0.08,
     "news_title": "MT’s Van Schalkwyk Leads Namibia to Davis Cup World Group II Qualifiers - baylorbears.com",
     "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZnl3Vk1rSUxQWHIxcy16ODNDOGU2OVFoT0xITE93Nm5qWnZGUlJZa3M0M2p4TnRGcmpEQ0Znallob3VjT0tJQTR4dEpwbG1JakxXWS1tMXZtc1BoRDdJOE1XdTJsX1ZvQkNQaHpCb3RRM3V1R1dfeEVYNHJNQnlLVjFaTF94emVILTJSRkZMaGQzT3FqMEROTW9zRVB0NzYyWHA4Vlc5c1ZlU1FEWlpKUnFGeHNWbDJZbHlUNlFn?oc=5",
     "news_image": "",
@@ -27619,7 +27624,7 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 0.63,
+    "news_score": 0.79,
     "news_title": "New Zealand announce squad for FIFA U-20 Women’s World Cup 2026™ - oceaniafootball.com",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLWdhQ0RhOWc4NW1SMFJlRThjeXRSZ01YMENhUHRkWnRTNHp3dllfUWozVmNGME00eE5JSWtLenlOZ19fZTlYdzNiN3o0RGtmVEp6S1NWdEIzbl9MQktGRC1lR2hLSWdWNVpsb2pQdkVJQVhGS0xYTXVlZEg1dWhYcklZemwwQWdNbk1wcmQyeG9QQzJoaTBWWTJkdw?oc=5",
     "news_image": "",
@@ -27627,11 +27632,7 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "gender",
-      "gender_gap"
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -28633,14 +28634,19 @@
     "union_rate": 89.3,
     "union_rate_rank": null,
     "fifa_ranking_rank": 104,
-    "news_score": 0.42,
-    "news_title": "Facing Quagmire in Iran, Trump Turns to a Familiar Face: North Korea’s Kim Jong-un - The New York Times",
-    "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMG1fMlJhVHBiT1FxMWZnVWdDaXQxZjZORnE1Tl80dDNLX1ZnWDV5bnNRTHU3Rk9GLTFwZFVXNmJwWkYyRmphZkZYeHQ0OC1sVGFJc0ZQZ1NNUGU5alhXOWFUUWFkS0hFN1FnV0I1S0xPTUZ6VFN4Q3VsSjkxbFpWRFM5UGk0NFFSNFJJbVYwRQ?oc=5",
+    "news_score": 0.3,
+    "news_title": "Trump lashes out at South Korea over its refusal to join Iran war - PBS",
+    "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMzdqMkJnQ0pQYVJQZzJoTmlNakFNekJtZTJtY0R0Z2ZhNGQ1bW9nUzF6OElWZ0hFaUM2YzB3X0Y4Wjc0TGliNndLNk5vQ1pncVcxOE1EaEN3RUZ5aHpIVkZHOTM4c0J4QWFpMldtUnJBbERQc0liQlRuRjdTWWZlNmZHM0RyaGpYRzRZamxDMkpWTU9Ed1FuUTBxVGMyWDRH?oc=5",
     "news_image": "",
-    "news_source": "The New York Times",
-    "news_age": "3h ago",
+    "news_source": "PBS",
+    "news_age": "4h ago",
     "news_columns": [
-      "geopolitical_tension"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "car_density"
     ],
     "bottom50_wealth": null
   },
@@ -29483,18 +29489,14 @@
     "refugees_rank": null,
     "union_rate": 70.4,
     "union_rate_rank": null,
-    "news_score": 0.6,
+    "news_score": 0.8,
     "news_title": "Live Updates: Trump threatens to bomb Oman with Iran war stuck in stalemate as 60-day negotiation period ends - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSjB6cEFBa2hwQ1ZKNUFmMmxtSEJhNnpITnQ0LTNzdUNoWUZvMy1tV3FxVkR3UlJ2VHpFQ1JVQlNiN2FhNVpvam1pZkNrY0pvajRCandGNjVYUG9QSUxyd3o4U1gzYWtHOE5xSmltVlVwY2lfcVlVVU0xaUwzdFZROURnTERwQQ?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "118m ago",
+    "news_age": "2h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "diplomacy_index"
     ],
     "bottom50_wealth": null
   },
@@ -32134,7 +32136,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBELWlEcVd0QVBpcHo1dDVaeVl5UElJVnFETFo1RndnbjV5TnJMQ3BIU1BqN2pndEFRS09FR1RsNXVMMHVWdWRZUjRDNkhGTHVnWGlsYjF2LUdGT2F0VUhiNlBNSQ?oc=5",
     "news_image": "",
     "news_source": "Arab News PK",
-    "news_age": "15h ago",
+    "news_age": "16h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -34099,12 +34101,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 120,
     "fifa_w_rank": 100,
-    "news_score": 0.88,
+    "news_score": 0.89,
     "news_title": "MLB playoffs 2026: Full schedule from wild-card round to World Series - ESPN Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ3Rrbi1Tb0l4SzFqa25kS1BuNndCVERjdjdhNHo0RmRRd3ZwcUo4ajd6SFlTNy1PWVU1WUpHQ2diSjVBOWRsNEpMWThVMHhpMjg2eWdGd1UtTjBqV1hlZHRGTGxWUGlXYXIyTDR0c1FhandyWEVLaGJOOUxDbGZzU3dzdFJnbW9pb3dJeEVqVFhxdVg2QTRUeTNNNTh6Ykk?oc=5",
     "news_image": "",
     "news_source": "ESPN Singapore",
-    "news_age": "23m ago",
+    "news_age": "25m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -35924,7 +35926,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.83,
+    "news_score": 0.81,
     "news_title": "Watch: BBC breaks down Trump's latest shift on North and South Korea - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fWE5mRGY2dDIwdlFrNFNWVXBLWXdjLTJpXzl4ZTkwTnJkQUM4SW1HLXhLd1hkbDVrUGZkdlRJZlVubnJqNmRVeDRsZ2tjS0VqNnB5MXZ2MA?oc=5",
     "news_image": "",
@@ -36498,15 +36500,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.87,
+    "news_score": 0.84,
     "news_title": "USA Youth Women Lose To Spain 16-11 At U18 World Championships - USA Water Polo",
     "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWGYxUXR4Y1ZPeFZ3d1ZfS2txRWw1UUlOSE9HVUJGN3hrQkhNTWhueHViVHBDSXZvXzZERkJ3STFvUE0tR1NodGt3Q18tS0JUWDFVOS1JNXlZNVlDNEc5UXlLSTB6NDN6a1I3dzVHSnZ4dTY0aEZLZ2h1SWxrbXpYaGRRcnpvRm5CSzF0UnNtQ2Yya195bVhjbW1rWmRWZUlqMThhMThnRG1lNXc3WklwLWt1WUxCVHNhZGFHcm9ETTQ2cXhjd3JSWDgtRnJYSWc?oc=5",
     "news_image": "",
     "news_source": "USA Water Polo",
-    "news_age": "93m ago",
+    "news_age": "95m ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -42275,12 +42277,13 @@
     "news_source": "USTA Florida",
     "news_age": "6h ago",
     "news_columns": [
-      "mlb_rankings",
-      "nfl_rankings",
-      "geopolitical_tension",
-      "public_health",
-      "olympic",
-      "fifa_ranking"
+      "mlb_w",
+      "mlb_rank",
+      "nfl_w",
+      "nfl_rank",
+      "diplomacy_index",
+      "health_index",
+      "env_index"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
