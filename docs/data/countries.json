@@ -3818,10 +3818,10 @@
     "refugees": null,
     "refugees_rank": null,
     "news_score": 0.05,
-    "news_title": "Garcia blames Belgium’s doctors for World Cup struggles - reuters.com",
+    "news_title": "Garcia blames Belgium’s doctors for World Cup struggles - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmFJb0JOMWROdnNjQTl2TDFwOFB1QzN6S1d6ZTUydVZQYzVfVVc5OEpQaUEtVjVnQlNLWmVyaW9RWGh3dVU2ZFJyd1l0WVVIVVNzVHh3cldzaXVBU0VISDBDU1FxdE9xTHY2WHJJdGt2dFAyZllncmM5S0lpN256YWVKck4zdzJUVm0wR3RhWkR4cUttanpma0N0aFBiYzAya2c?oc=5",
     "news_image": "",
-    "news_source": "reuters.com",
+    "news_source": "Reuters",
     "news_age": "10h ago",
     "news_columns": [
       "fifa_ranking",
@@ -11080,14 +11080,15 @@
     "union_rate": 66.2,
     "union_rate_rank": null,
     "fifa_w_rank": 61,
-    "news_score": 0.44,
+    "news_score": 0.55,
     "news_title": "Uriel Canjura's rise from El Salvador to the global stage captures the spirit of the BWF World Championships - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX0lZT0RaUWs1VUpfTFRjSG5FcWcyUUlNRWZLakR3RnhtWVM5YTVKcWxKUHBSaE5Gc25tUDBxRENiNERuNGx4Zk9CUHU3YjFjb21nY2VoX2xyQS0tdVF0VXBTdVVocDE4WnNqSHpNVGhIVWRSN3UxaV94UGtzTmJLUW80cXpocU9oSlZCeVVyRHpBd2FJUzRVMDVkd0s3OHY1UmJGQWs3dnFtVklFeEdYeVp3NTdGTG53RjNySGcwUm1ybVVXUjlOVEE0TjF4WnM?oc=5",
     "news_image": "",
     "news_source": "ESPN",
     "news_age": "3h ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -12940,12 +12941,12 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.65,
+    "news_score": 0.66,
     "news_title": "Dems plan Oman war powers push after Trump threatens bombing - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXRMeFNsX0l3YTRZQ2hTZkpGWTdZWkMteXF5MEdaTHpSVHNxdHlCQ1NJdDV6OVlUYlFRY3daZENKSHFIUU1PcGRFbU84dU9WMTJzX3NfSUczYzlwUDEwSEJYZUZmaDBoLTZzMmdCcUREekRFb0M2bUM0cXEzRExkdVhCY3g?oc=5",
     "news_image": "",
     "news_source": "Axios",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -16716,10 +16717,10 @@
     "union_rate": 59.1,
     "union_rate_rank": null,
     "news_score": 0.02,
-    "news_title": "India's Shetty stuns world number one Shi at World Championships - reuters.com",
+    "news_title": "India's Shetty stuns world number one Shi at World Championships - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkZGSldCMHdlRVlrc0pyLThCa0Q1eEM2THJSSllzb1AtMkk0OXRCajNKbm5zSkxad3ZYRTdNcVBjZTJzc282TzZyVmdVby1ZQmtoRDc4SmtVNFRWZnhYc3JWSTRBLXAwVThpbm5HQzJ5TEVYSUlMT1RtOVVNMXkwU0lPbEZ4dGVRRlQzcVBuS29ZUEFpaGI0UzhpQjFwdUxxTWFNc3Vn?oc=5",
     "news_image": "",
-    "news_source": "reuters.com",
+    "news_source": "Reuters",
     "news_age": "15h ago",
     "news_columns": [
       "edu",
@@ -17291,18 +17292,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.65,
-    "news_title": "Dems plan Oman war powers push after Trump threatens bombing - Axios",
-    "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXRMeFNsX0l3YTRZQ2hTZkpGWTdZWkMteXF5MEdaTHpSVHNxdHlCQ1NJdDV6OVlUYlFRY3daZENKSHFIUU1PcGRFbU84dU9WMTJzX3NfSUczYzlwUDEwSEJYZUZmaDBoLTZzMmdCcUREekRFb0M2bUM0cXEzRExkdVhCY3g?oc=5",
+    "news_score": 1.6,
+    "news_title": "60 days after signing Iran deal, Trump stuck in quagmire as war drags on - The Washington Post",
+    "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVW11cldIazMtZ3FxdFMxclNuV2E0bkxXS1NQTW5fdlVtTmk4WWgyemVPSEJvOE5VWk5RRS1PckxxOWtqdURsOTJ0YTcxZERta1lkSm1UbkQ5TXpMRGh2UEw4NzIwa3kxZ2R2MkgtSk1EbTRsaGplZnpLdGJWcmM1ci1FTXJlM2tkZk1rcmxGbS0xS2J5UWJpQm9RbFdYVjViOWdGbWNLb2NzdTNmaUtLeTFjZG1PVUN4S1JlZEhOOA?oc=5",
     "news_image": "",
-    "news_source": "Axios",
-    "news_age": "111m ago",
+    "news_source": "The Washington Post",
+    "news_age": "95m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "geopolitical"
     ],
     "bottom50_wealth": null
   },
@@ -19345,7 +19342,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.0,
+    "news_score": 0.16,
     "news_title": "Former Texas guard Jordan Pope transfers to Texas A&M - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaWYyekJfQmllLWpyZ3AybThSNXJxNy10V3l3YXFfelFhRlR4RnlScjl2NURnVDhnT1ItbTVGdDlFSExLU0ZNcFJGMGVrdW1MMzFoaGlRaGk2bS11dW9wQkdRa0Utc3VYaW5taS1DWHVfMHptNlBOcmxaMW1lTnBxeHVxTFA0dw?oc=5",
     "news_image": "",
@@ -29491,7 +29488,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXRMeFNsX0l3YTRZQ2hTZkpGWTdZWkMteXF5MEdaTHpSVHNxdHlCQ1NJdDV6OVlUYlFRY3daZENKSHFIUU1PcGRFbU84dU9WMTJzX3NfSUczYzlwUDEwSEJYZUZmaDBoLTZzMmdCcUREekRFb0M2bUM0cXEzRExkdVhCY3g?oc=5",
     "news_image": "",
     "news_source": "Axios",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -29760,7 +29757,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNTYwRmxWOUVOUm5vRE0tZUFBZHVaSHJaNzFFQkF5X1BqSHpGRXZ3ZWx6cXNrVE81aG5WY002TzJiOFRWNHlqdDh1Ti1OTm1fLVgwODlsZTZ5aFN5S0FkRXJoUDdyV2pRWWstZ3U0LTdkOF9HT0twYUExLUNfczVVZ2lJejdQZDBxMVJRU2VhZUNrMlVKYWRtandmZ011XzA?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "84m ago",
+    "news_age": "86m ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -32138,7 +32135,8 @@
     "news_age": "18h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -34100,7 +34098,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 120,
     "fifa_w_rank": 100,
-    "news_score": 0.44,
+    "news_score": 0.43,
     "news_title": "MLB playoffs 2026: Full schedule from wild-card round to World Series - ESPN Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ3Rrbi1Tb0l4SzFqa25kS1BuNndCVERjdjdhNHo0RmRRd3ZwcUo4ajd6SFlTNy1PWVU1WUpHQ2diSjVBOWRsNEpMWThVMHhpMjg2eWdGd1UtTjBqV1hlZHRGTGxWUGlXYXIyTDR0c1FhandyWEVLaGJOOUxDbGZzU3dzdFJnbW9pb3dJeEVqVFhxdVg2QTRUeTNNNTh6Ykk?oc=5",
     "news_image": "",
@@ -35925,7 +35923,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.36,
+    "news_score": 0.33,
     "news_title": "Watch: BBC breaks down Trump's latest shift on North and South Korea - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fWE5mRGY2dDIwdlFrNFNWVXBLWXdjLTJpXzl4ZTkwTnJkQUM4SW1HLXhLd1hkbDVrUGZkdlRJZlVubnJqNmRVeDRsZ2tjS0VqNnB5MXZ2MA?oc=5",
     "news_image": "",
@@ -36506,7 +36504,8 @@
     "news_source": "USA Water Polo",
     "news_age": "4h ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_w"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -42277,8 +42276,10 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
+      "olympic",
       "nfl",
-      "olympic"
+      "mlb",
+      "geopolitical"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
