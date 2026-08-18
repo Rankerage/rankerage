@@ -6912,12 +6912,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.04,
-    "news_title": "Nvidia to back OpenAI data center with upwards of $105 billion - Yahoo! Finance Canada",
-    "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUU9rLWg2bExwWTlnOFZnSnFLNnotQmNZR0cwbDRjY2x6SkFRQ2tQZjVMc0xSVEZKZm1MYVZ3c1ItOU11MDdoTkNld2w5QW1PRjd4OTdxOUtNVjZLVHR0NjVpSmlLRlh1cE83T3VIWXA4TDBhSjNuZFZaRzlHcTlKQTYtX1ByMFNLZVVVZEFuWXZEeThTYVQtNE1IeW9mRUxYaGc?oc=5",
+    "news_score": 0.03,
+    "news_title": "Look West: Jobs and Prosperity for a Stronger BC and Canada - Province of British Columbia - gov.bc.ca",
+    "news_url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1sb3l0N0g2Tm15TDdBc1VvMkpkdWl4QjM3ZlRndHFGd0VFXzh1VVdpYU9HdGtWbk9nTFlSWlZKMA?oc=5",
     "news_image": "",
-    "news_source": "Yahoo! Finance Canada",
-    "news_age": "7h ago",
+    "news_source": "gov.bc.ca",
+    "news_age": "163h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -7976,7 +7976,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.35,
+    "news_score": 0.27,
     "news_title": "China’s economy showing signs that slowdown may be extending - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmdlcXN2cGVYYmM1UXVjSUFOTE1WZjRCODdqYl9oNlF2SGdvSnRueTlKWVlBQkVScE13SFBoWXF5YmpJQ0h5d2NlVjBfcTZZS1F1YkxsTTJHY2syMXZqRVFoMkFHTTI5aWl1QXlxemNtN25GMDFQNF9fcjBkaWltbXFXUzRnZ09FaC1VY2VhY2w?oc=5",
     "news_image": "",
@@ -12953,12 +12953,8 @@
     "news_source": "News On AIR",
     "news_age": "17h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "space_launch"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17032,7 +17028,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 103,
     "fifa_w_rank": 77,
-    "news_score": 0.1,
+    "news_score": 0.11,
     "news_title": "Thousands in Indonesia await aid after quake kills 68, overshadowing Independence Day - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc2s5YWF6T2ViWDVUSTFEMmlmWC1tUnJiRHdPamRJLW1XLXJ0ang0QS15SllOOThiM1RScFRyOGp6OXZ2WjVacmFWUng2ZkxGdDFhWW90Nkh0dk5nVW1VQ3pUZ2JkU3pMNEtVS21wbmhNNzMzY3M1STVINkw0TkZsbjFqUUJHZi1razhoTy1BOWw1czBkeEFtM3RxaEZNZw?oc=5",
     "news_image": "",
@@ -17298,7 +17294,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.46,
+    "news_score": 1.39,
     "news_title": "Live updates: Trump threatens to bomb US ally Oman as Iran agreement expires - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HMS1FenJqYXZEVWlWMHdLX0lUSzdnMmdNVG9rakl3ck5wVGNCVEJHZWc0TlM3dnpvS2lxYldUR1lBek1WUWhOc2ZpbTFZM0w1M1pPOER6czIyWUhTdkl3SmpSMlptTnZUZWU1aXNB?oc=5",
     "news_image": "",
@@ -18033,12 +18029,12 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 1.35,
+    "news_score": 0.93,
     "news_title": "Kushner, Netanyahu make little progress on advancing Gaza deal after meeting - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd3lGVlRVWXZIQms1SjhydXhxTmNiX1drNURRNjR1WHg1ek1nSktCc1B5YkRQN0dDaXB4ZWVJWUU2V0hIOEhERXVBSXZ6SFcwdzljeFk2NllrSjV6YnNYZFV0MUNVYXlLZG15aE1BcW0zYXNaZW9vVzNzZkY0bjk5dDF4U2lQa0V1TW95M2FmY1NFOURBa0EtWVducWozSXo3YksycUk3UkJpNUE?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "19m ago",
+    "news_age": "21m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -26364,7 +26360,7 @@
     "union_rate": 60.1,
     "union_rate_rank": null,
     "fifa_w_rank": 85,
-    "news_score": 0.11,
+    "news_score": 0.1,
     "news_title": "MT’s Van Schalkwyk Leads Namibia to Davis Cup World Group II Qualifiers - baylorbears.com",
     "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZnl3Vk1rSUxQWHIxcy16ODNDOGU2OVFoT0xITE93Nm5qWnZGUlJZa3M0M2p4TnRGcmpEQ0Znallob3VjT0tJQTR4dEpwbG1JakxXWS1tMXZtc1BoRDdJOE1XdTJsX1ZvQkNQaHpCb3RRM3V1R1dfeEVYNHJNQnlLVjFaTF94emVILTJSRkZMaGQzT3FqMEROTW9zRVB0NzYyWHA4Vlc5c1ZlU1FEWlpKUnFGeHNWbDJZbHlUNlFn?oc=5",
     "news_image": "",
@@ -27630,15 +27626,19 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 1.0,
+    "news_score": 0.76,
     "news_title": "New Zealand announce squad for FIFA U-20 Women’s World Cup 2026™ - oceaniafootball.com",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLWdhQ0RhOWc4NW1SMFJlRThjeXRSZ01YMENhUHRkWnRTNHp3dllfUWozVmNGME00eE5JSWtLenlOZ19fZTlYdzNiN3o0RGtmVEp6S1NWdEIzbl9MQktGRC1lR2hLSWdWNVpsb2pQdkVJQVhGS0xYTXVlZEg1dWhYcklZemwwQWdNbk1wcmQyeG9QQzJoaTBWWTJkdw?oc=5",
     "news_image": "",
     "news_source": "oceaniafootball.com",
-    "news_age": "119m ago",
+    "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket",
+      "gender",
+      "gender_gap"
     ],
     "bottom50_wealth": null
   },
@@ -29495,7 +29495,7 @@
     "refugees_rank": null,
     "union_rate": 70.4,
     "union_rate_rank": null,
-    "news_score": 0.81,
+    "news_score": 0.56,
     "news_title": "Live updates: Trump threatens to bomb US ally Oman as Iran agreement expires - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HMS1FenJqYXZEVWlWMHdLX0lUSzdnMmdNVG9rakl3ck5wVGNCVEJHZWc0TlM3dnpvS2lxYldUR1lBek1WUWhOc2ZpbTFZM0w1M1pPOER6czIyWUhTdkl3SmpSMlptTnZUZWU1aXNB?oc=5",
     "news_image": "",
@@ -36510,15 +36510,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.77,
+    "news_score": 0.65,
     "news_title": "USA Youth Women Lose To Spain 16-11 At U18 World Championships - USA Water Polo",
     "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWGYxUXR4Y1ZPeFZ3d1ZfS2txRWw1UUlOSE9HVUJGN3hrQkhNTWhueHViVHBDSXZvXzZERkJ3STFvUE0tR1NodGt3Q18tS0JUWDFVOS1JNXlZNVlDNEc5UXlLSTB6NDN6a1I3dzVHSnZ4dTY0aEZLZ2h1SWxrbXpYaGRRcnpvRm5CSzF0UnNtQ2Yya195bVhjbW1rWmRWZUlqMThhMThnRG1lNXc3WklwLWt1WUxCVHNhZGFHcm9ETTQ2cXhjd3JSWDgtRnJYSWc?oc=5",
     "news_image": "",
     "news_source": "USA Water Polo",
-    "news_age": "49m ago",
+    "news_age": "51m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "gender"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -42288,7 +42292,7 @@
     "news_age": "5h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
