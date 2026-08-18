@@ -11077,7 +11077,7 @@
     "union_rate": 66.2,
     "union_rate_rank": null,
     "fifa_w_rank": 61,
-    "news_score": 0.38,
+    "news_score": 0.47,
     "news_title": "Uriel Canjura's rise from El Salvador to the global stage captures the spirit of the BWF World Championships - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX0lZT0RaUWs1VUpfTFRjSG5FcWcyUUlNRWZLakR3RnhtWVM5YTVKcWxKUHBSaE5Gc25tUDBxRENiNERuNGx4Zk9CUHU3YjFjb21nY2VoX2xyQS0tdVF0VXBTdVVocDE4WnNqSHpNVGhIVWRSN3UxaV94UGtzTmJLUW80cXpocU9oSlZCeVVyRHpBd2FJUzRVMDVkd0s3OHY1UmJGQWs3dnFtVklFeEdYeVp3NTdGTG53RjNySGcwUm1ybVVXUjlOVEE0TjF4WnM?oc=5",
     "news_image": "",
@@ -11085,7 +11085,7 @@
     "news_age": "3h ago",
     "news_columns": [
       "olympic",
-      "basket"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -17289,18 +17289,16 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.53,
+    "news_score": 1.62,
     "news_title": "Dems plan Oman war powers push after Trump threatens bombing - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXRMeFNsX0l3YTRZQ2hTZkpGWTdZWkMteXF5MEdaTHpSVHNxdHlCQ1NJdDV6OVlUYlFRY3daZENKSHFIUU1PcGRFbU84dU9WMTJzX3NfSUczYzlwUDEwSEJYZUZmaDBoLTZzMmdCcUREekRFb0M2bUM0cXEzRExkdVhCY3g?oc=5",
     "news_image": "",
     "news_source": "Axios",
     "news_age": "2h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -18023,7 +18021,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.15,
+    "news_score": 0.14,
     "news_title": "‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUmgyejFsV0U5RU5jOUxLNUNsX2tPLUxTbk8zeFZ1VUxxYjZCdy1kdm5mdURoVkJFY1NLVXFVMU8zZXpoaDgtdlBxQV9JNGxBM0Q4YWhtZEV3dlZSNjhOWnkyQjZpdHJtZ1VPc3FVU3p1VnljVEhBdm9HbnJIQTRKcG1mQTFaUy13WUQySEZ2R3pLMlZuZTFlYktLcHRTdEJfU3F5aEdORWNkWDg0UlRV0gG0AUFVX3lxTFBYQnN0THV1R0ZKNWc1TjVsTG1BYmpTOUZfOTJXeVoxUlh2cTczd2I0dnJfUHgtM2x3S1M1bXRpXzl3bFVEYzFJYjRueFNpbThVN1dHNXcwRE1UOG14dERTcGtLTUs5c2xDdFBEa3dyU3VmZmJVcmV5MlphZEh2d0MwMDMwOEhDdHFqQnQwOHVfMU9ONTNvb2xpZmwxUEZ4M3R3UDcyOW9vRDVUUnpnX1JDSW5FTQ?oc=5",
     "news_image": "",
@@ -29484,18 +29482,16 @@
     "refugees_rank": null,
     "union_rate": 70.4,
     "union_rate_rank": null,
-    "news_score": 1.23,
+    "news_score": 1.41,
     "news_title": "World in Brief: Trump threatens to bomb Oman; Jared Kushner meets Netanyahu - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjZtdkxuQVJkUGlEcHJySHo4eEREV2gydFVKc0JSVGI5d3RCanpad3BpRWZFMlFsaGNLTXRYRjRNb2F5QU05eWRjQ1dveUhCblFOR1lhaFowalNyZWIwYTFvQU81VU1KdEJKRmVRLU9kVXVqWGFpYW1xRzd5MmxWSnVUR1dxMjdmdFFHb3Q1VFZUeEtRMHM0?oc=5",
     "news_image": "",
     "news_source": "The Economist",
-    "news_age": "84m ago",
+    "news_age": "86m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -29758,7 +29754,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNTYwRmxWOUVOUm5vRE0tZUFBZHVaSHJaNzFFQkF5X1BqSHpGRXZ3ZWx6cXNrVE81aG5WY002TzJiOFRWNHlqdDh1Ti1OTm1fLVgwODlsZTZ5aFN5S0FkRXJoUDdyV2pRWWstZ3U0LTdkOF9HT0twYUExLUNfczVVZ2lJejdQZDBxMVJRU2VhZUNrMlVKYWRtandmZ011XzA?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "114m ago",
+    "news_age": "116m ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -34098,7 +34094,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 120,
     "fifa_w_rank": 100,
-    "news_score": 0.38,
+    "news_score": 0.37,
     "news_title": "MLB playoffs 2026: Full schedule from wild-card round to World Series - ESPN Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ3Rrbi1Tb0l4SzFqa25kS1BuNndCVERjdjdhNHo0RmRRd3ZwcUo4ajd6SFlTNy1PWVU1WUpHQ2diSjVBOWRsNEpMWThVMHhpMjg2eWdGd1UtTjBqV1hlZHRGTGxWUGlXYXIyTDR0c1FhandyWEVLaGJOOUxDbGZzU3dzdFJnbW9pb3dJeEVqVFhxdVg2QTRUeTNNNTh6Ykk?oc=5",
     "news_image": "",
@@ -35923,7 +35919,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.41,
+    "news_score": 0.38,
     "news_title": "Watch: BBC breaks down Trump's latest shift on North and South Korea - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fWE5mRGY2dDIwdlFrNFNWVXBLWXdjLTJpXzl4ZTkwTnJkQUM4SW1HLXhLd1hkbDVrUGZkdlRJZlVubnJqNmRVeDRsZ2tjS0VqNnB5MXZ2MA?oc=5",
     "news_image": "",
@@ -36497,14 +36493,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.34,
+    "news_score": 0.33,
     "news_title": "USA Youth Women Lose To Spain 16-11 At U18 World Championships - USA Water Polo",
     "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWGYxUXR4Y1ZPeFZ3d1ZfS2txRWw1UUlOSE9HVUJGN3hrQkhNTWhueHViVHBDSXZvXzZERkJ3STFvUE0tR1NodGt3Q18tS0JUWDFVOS1JNXlZNVlDNEc5UXlLSTB6NDN6a1I3dzVHSnZ4dTY0aEZLZ2h1SWxrbXpYaGRRcnpvRm5CSzF0UnNtQ2Yya195bVhjbW1rWmRWZUlqMThhMThnRG1lNXc3WklwLWt1WUxCVHNhZGFHcm9ETTQ2cXhjd3JSWDgtRnJYSWc?oc=5",
     "news_image": "",
     "news_source": "USA Water Polo",
     "news_age": "4h ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
