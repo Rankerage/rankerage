@@ -6919,8 +6919,8 @@
     "news_source": "gov.bc.ca",
     "news_age": "167h ago",
     "news_columns": [
-      "basket",
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -17289,7 +17289,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.44,
+    "news_score": 1.54,
     "news_title": "Dems plan Oman war powers push after Trump threatens bombing - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXRMeFNsX0l3YTRZQ2hTZkpGWTdZWkMteXF5MEdaTHpSVHNxdHlCQ1NJdDV6OVlUYlFRY3daZENKSHFIUU1PcGRFbU84dU9WMTJzX3NfSUczYzlwUDEwSEJYZUZmaDBoLTZzMmdCcUREekRFb0M2bUM0cXEzRExkdVhCY3g?oc=5",
     "news_image": "",
@@ -28629,11 +28629,11 @@
     "union_rate": 89.3,
     "union_rate_rank": null,
     "fifa_ranking_rank": 104,
-    "news_score": 0.11,
-    "news_title": "Trump says North Korea's Kim has responded to his overtures - Reuters",
-    "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTUJXMVdaUWl3aDB1SXIwbmVGSi1jbXJFblJHRkN3QTlaZ29LNEd2bktlYTF0d29GOE40TVVHQk1acVY4Z3hIM1RWNlJTb19udG1KM3hVV05xZWNhUGMteEh0bE9jaDNBci1DZ0U0NURkQU1zYXNYRmFLV3B1cmY4dTIzTWdmS3BhMEM3U2pMZzA4SEVoOFVZUm9hM1MzeVlfdGYwM05n?oc=5",
+    "news_score": 0.1,
+    "news_title": "Trump explains reduced joint drills with South Korea - The Hill",
+    "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT3VDLU5tVGs3OEpGVm10ZFRZMnkwQVhQSFNrTnJYS3hGT294RGtVQ0JFM2dMX2JCTHJ1OElpMk9ib09jWWNuakQyR1Z4S3RyRERmSExfYXpfbjdESm93My1zdXV5ODJHNy0tX1ZRZzl5UXJJb0pHZmZBQW5TYTFtS3JOQUZIdlFjenlTTlZyaE1rYXU4NjRmazl0TzFmX3F6azJoTXFLaHcyNHVVZ0Rnb2VnbzMwTy1mUWdV0gHAAUFVX3lxTE1wT3VGdm9uR0NHWjBYVk9oREktSlhEaHhrT2l3WGFwejBkTHhId05zaThKR3pwbEFKOVY2NkNXZVBlVDFTeDQ0aGJ3amdfbTgxZ3ZwdlVPeTRNT0xGNngtaGdrMXhuUDJUYi1kNmx2ZjZPWkgwdDcyN181a0hfLUpteDhiSmJkc203ZjBzNjZadzM4X0h5Q1pZN19LMm90Z1M5SEZyR1FVa3ZPTGdPSXptWk8ya3MxZ21vYVVrSHBqWA?oc=5",
     "news_image": "",
-    "news_source": "Reuters",
+    "news_source": "The Hill",
     "news_age": "7h ago",
     "news_columns": [
       "democracy",
@@ -29484,12 +29484,12 @@
     "refugees_rank": null,
     "union_rate": 70.4,
     "union_rate_rank": null,
-    "news_score": 0.86,
-    "news_title": "Dems plan Oman war powers push after Trump threatens bombing - Axios",
-    "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXRMeFNsX0l3YTRZQ2hTZkpGWTdZWkMteXF5MEdaTHpSVHNxdHlCQ1NJdDV6OVlUYlFRY3daZENKSHFIUU1PcGRFbU84dU9WMTJzX3NfSUczYzlwUDEwSEJYZUZmaDBoLTZzMmdCcUREekRFb0M2bUM0cXEzRExkdVhCY3g?oc=5",
+    "news_score": 1.09,
+    "news_title": "World in Brief: Trump threatens to bomb Oman; Jared Kushner meets Netanyahu - The Economist",
+    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjZtdkxuQVJkUGlEcHJySHo4eEREV2gydFVKc0JSVGI5d3RCanpad3BpRWZFMlFsaGNLTXRYRjRNb2F5QU05eWRjQ1dveUhCblFOR1lhaFowalNyZWIwYTFvQU81VU1KdEJKRmVRLU9kVXVqWGFpYW1xRzd5MmxWSnVUR1dxMjdmdFFHb3Q1VFZUeEtRMHM0?oc=5",
     "news_image": "",
-    "news_source": "Axios",
-    "news_age": "2h ago",
+    "news_source": "The Economist",
+    "news_age": "82m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -29758,7 +29758,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNTYwRmxWOUVOUm5vRE0tZUFBZHVaSHJaNzFFQkF5X1BqSHpGRXZ3ZWx6cXNrVE81aG5WY002TzJiOFRWNHlqdDh1Ti1OTm1fLVgwODlsZTZ5aFN5S0FkRXJoUDdyV2pRWWstZ3U0LTdkOF9HT0twYUExLUNfczVVZ2lJejdQZDBxMVJRU2VhZUNrMlVKYWRtandmZ011XzA?oc=5",
     "news_image": "",
     "news_source": "nytimes.com",
-    "news_age": "110m ago",
+    "news_age": "112m ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -35923,17 +35923,18 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.33,
-    "news_title": "Watch: BBC breaks down Trump's latest shift on North and South Korea - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fWE5mRGY2dDIwdlFrNFNWVXBLWXdjLTJpXzl4ZTkwTnJkQUM4SW1HLXhLd1hkbDVrUGZkdlRJZlVubnJqNmRVeDRsZ2tjS0VqNnB5MXZ2MA?oc=5",
+    "news_score": 0.45,
+    "news_title": "Dems plan Oman war powers push after Trump threatens bombing - Axios",
+    "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXRMeFNsX0l3YTRZQ2hTZkpGWTdZWkMteXF5MEdaTHpSVHNxdHlCQ1NJdDV6OVlUYlFRY3daZENKSHFIUU1PcGRFbU84dU9WMTJzX3NfSUczYzlwUDEwSEJYZUZmaDBoLTZzMmdCcUREekRFb0M2bUM0cXEzRExkdVhCY3g?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "6h ago",
+    "news_source": "Axios",
+    "news_age": "2h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": 5.1,
     "bottom50_wealth_rank": 8
@@ -36497,14 +36498,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.34,
+    "news_score": 0.27,
     "news_title": "USA Youth Women Lose To Spain 16-11 At U18 World Championships - USA Water Polo",
     "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWGYxUXR4Y1ZPeFZ3d1ZfS2txRWw1UUlOSE9HVUJGN3hrQkhNTWhueHViVHBDSXZvXzZERkJ3STFvUE0tR1NodGt3Q18tS0JUWDFVOS1JNXlZNVlDNEc5UXlLSTB6NDN6a1I3dzVHSnZ4dTY0aEZLZ2h1SWxrbXpYaGRRcnpvRm5CSzF0UnNtQ2Yya195bVhjbW1rWmRWZUlqMThhMThnRG1lNXc3WklwLWt1WUxCVHNhZGFHcm9ETTQ2cXhjd3JSWDgtRnJYSWc?oc=5",
     "news_image": "",
     "news_source": "USA Water Polo",
     "news_age": "4h ago",
     "news_columns": [
-      "olympic"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "gender"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -41017,12 +41023,7 @@
     "news_source": "The Washington Post",
     "news_age": "25h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
