@@ -7976,12 +7976,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.37,
+    "news_score": 0.46,
     "news_title": "After Hormuz, China looks to the promise – and peril – of the Arctic’s ‘ice silk road’ - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVml2MlRHc0YxZHM5Y2wxOWNqRXBGdk9Jc3oxc09OQmJfUksyNW5Qc0dNZVQwNnpMY2VGTGtaNFREaWZrWkpfWmRlZFZ2cG5iZ0JNYTUwZlVNekRUb2FyaWFTMmFnUE9LRF9veS1CV1BhLTNkWUgxc1JjVTdhSnFvRldnZW51SEZpSE9xVTh1QXhhS1ZkdzFBRElaSVk3TkdkQjM0cEhsWExZcjExYmQ3ZU1seUp6TDNZdGVwSg?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "104m ago",
+    "news_age": "106m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -17032,19 +17032,19 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 103,
     "fifa_w_rank": 77,
-    "news_score": 0.12,
-    "news_title": "Thousands in Indonesia await aid after quake kills 68, overshadowing Independence Day - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc2s5YWF6T2ViWDVUSTFEMmlmWC1tUnJiRHdPamRJLW1XLXJ0ang0QS15SllOOThiM1RScFRyOGp6OXZ2WjVacmFWUng2ZkxGdDFhWW90Nkh0dk5nVW1VQ3pUZ2JkU3pMNEtVS21wbmhNNzMzY3M1STVINkw0TkZsbjFqUUJHZi1razhoTy1BOWw1czBkeEFtM3RxaEZNZw?oc=5",
+    "news_score": 0.09,
+    "news_title": "Thousands await aid after deadly Indonesia quake as rescue work under way - Al Jazeera",
+    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaDRPUWs1ZS1KUnNranE5V3VfQlI5azRXR3RnSkRyQ044ZWdWVW9sTWpiajgtUV9uT191Y0RqdXdzQUlvY1ZtTGZ3NndKOURUUVMtQ21yUy1CcmliYjVkYlhEUExKQzFwTl9wdWxOSHhpeTNOU2dWSWVma3cwZkVoSVNFQU1CVjVER1E3T2gtZHNDeVRETDE5YkRKcllWMmZxanJnb3lFVzRNVkZsVF9kRmJKWlnSAboBQVVfeXFMTXFjbV9RUWROMUZINUZTMFBpYS1BWFR3WDNoZkl4ZkZmQnJaalRvVzdZdFFtWnRhbk50YUU1WUxyWUxTTEpWT0o0TUpDQ25fQ2hUaTY5MjY2U1NVZ2NnaFF6WFFPdTBuMFhwZS1WcFJ1Qi1iLXhpa0EydkJqdjVvdWpQREhxWUdZN0NiUHJwV3BXem5BZWNtR1pQSUFEZjBfcXRQMnRucUFvdDNqLWlONE4zZ0o5dzZNYnNR?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "6h ago",
+    "news_source": "Al Jazeera",
+    "news_age": "12h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
       "earthquake_count",
-      "earthquakes"
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17298,7 +17298,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.39,
+    "news_score": 1.35,
     "news_title": "Live updates: Trump threatens to bomb US ally Oman as Iran agreement expires - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HMS1FenJqYXZEVWlWMHdLX0lUSzdnMmdNVG9rakl3ck5wVGNCVEJHZWc0TlM3dnpvS2lxYldUR1lBek1WUWhOc2ZpbTFZM0w1M1pPOER6czIyWUhTdkl3SmpSMlptTnZUZWU1aXNB?oc=5",
     "news_image": "",
@@ -18038,7 +18038,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd3lGVlRVWXZIQms1SjhydXhxTmNiX1drNURRNjR1WHg1ek1nSktCc1B5YkRQN0dDaXB4ZWVJWUU2V0hIOEhERXVBSXZ6SFcwdzljeFk2NllrSjV6YnNYZFV0MUNVYXlLZG15aE1BcW0zYXNaZW9vVzNzZkY0bjk5dDF4U2lQa0V1TW95M2FmY1NFOURBa0EtWVducWozSXo3YksycUk3UkJpNUE?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "15m ago",
+    "news_age": "17m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -19168,14 +19168,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.56,
+    "news_score": 0.46,
     "news_title": "Yoshida Wins First-Ever Greco-Roman U20 World Title for Japan - United World Wrestling",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb3dRVzlRMGtoUmpQY1lPN3NPYjgyY2cyMk1qMzZLeDRKM3VkUy1TWTRJN1E2OFZVbFUwMVdvZzlmQWU4Y21iU0tyTWcxa1ZpLVVSOFZMTEF3SDFzejR6cUo2WWUycXRzR3F0cHZoeEZoMDlYNEt5WkFyTm1VOUFpYTRfNnd3Qldj?oc=5",
     "news_image": "",
     "news_source": "United World Wrestling",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic"
+      "car_density",
+      "gas_price",
+      "co2"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -27628,14 +27630,15 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 0.96,
+    "news_score": 1.0,
     "news_title": "New Zealand announce squad for FIFA U-20 Women’s World Cup 2026™ - oceaniafootball.com",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLWdhQ0RhOWc4NW1SMFJlRThjeXRSZ01YMENhUHRkWnRTNHp3dllfUWozVmNGME00eE5JSWtLenlOZ19fZTlYdzNiN3o0RGtmVEp6S1NWdEIzbl9MQktGRC1lR2hLSWdWNVpsb2pQdkVJQVhGS0xYTXVlZEg1dWhYcklZemwwQWdNbk1wcmQyeG9QQzJoaTBWWTJkdw?oc=5",
     "news_image": "",
     "news_source": "oceaniafootball.com",
-    "news_age": "115m ago",
+    "news_age": "117m ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -28637,12 +28640,12 @@
     "union_rate": 89.3,
     "union_rate_rank": null,
     "fifa_ranking_rank": 104,
-    "news_score": 0.57,
+    "news_score": 0.58,
     "news_title": "Facing Quagmire in Iran, Trump Turns to a Familiar Face: North Korea’s Kim Jong-un - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMG1fMlJhVHBiT1FxMWZnVWdDaXQxZjZORnE1Tl80dDNLX1ZnWDV5bnNRTHU3Rk9GLTFwZFVXNmJwWkYyRmphZkZYeHQ0OC1sVGFJc0ZQZ1NNUGU5alhXOWFUUWFkS0hFN1FnV0I1S0xPTUZ6VFN4Q3VsSjkxbFpWRFM5UGk0NFFSNFJJbVYwRQ?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
       "nato",
       "military_pct",
@@ -35933,7 +35936,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.02,
+    "news_score": 1.01,
     "news_title": "Watch: BBC breaks down Trump's latest shift on North and South Korea - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fWE5mRGY2dDIwdlFrNFNWVXBLWXdjLTJpXzl4ZTkwTnJkQUM4SW1HLXhLd1hkbDVrUGZkdlRJZlVubnJqNmRVeDRsZ2tjS0VqNnB5MXZ2MA?oc=5",
     "news_image": "",
@@ -36507,19 +36510,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.37,
+    "news_score": 0.65,
     "news_title": "USA Youth Women Lose To Spain 16-11 At U18 World Championships - USA Water Polo",
     "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWGYxUXR4Y1ZPeFZ3d1ZfS2txRWw1UUlOSE9HVUJGN3hrQkhNTWhueHViVHBDSXZvXzZERkJ3STFvUE0tR1NodGt3Q18tS0JUWDFVOS1JNXlZNVlDNEc5UXlLSTB6NDN6a1I3dzVHSnZ4dTY0aEZLZ2h1SWxrbXpYaGRRcnpvRm5CSzF0UnNtQ2Yya195bVhjbW1rWmRWZUlqMThhMThnRG1lNXc3WklwLWt1WUxCVHNhZGFHcm9ETTQ2cXhjd3JSWDgtRnJYSWc?oc=5",
     "news_image": "",
     "news_source": "USA Water Polo",
-    "news_age": "45m ago",
+    "news_age": "47m ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "gender"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -42288,7 +42287,7 @@
     "news_source": "USTA Florida",
     "news_age": "5h ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
