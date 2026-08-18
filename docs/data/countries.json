@@ -7977,14 +7977,13 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.23,
+    "news_score": 1.01,
     "news_title": "Beyond marathons and backflips, China's robots face a commercial test - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdHAyQ2ZVdVl6c0hsZDNmd2hCREZLMmZXekw5Vy1hLUFSRGluV1ZsR3h4MG5ueDZBZkdnMm5hT2F1RmhuaDgzNENLQVBoME5SX1FmMzdyUW1FRHdBWWttWnZ4R0dIejJkblhjZFFmWld5UTFYZkNTcjU4T3k0ZFR4clFWTzZ0OUI0NGVpbU00TW9nTlAxcm1CSlI2UEoydnlvNHZRU0tlZk91bFg1c2FnbURVV2RiVm8?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "53m ago",
+    "news_age": "55m ago",
     "news_columns": [
-      "marathon_elite",
       "olympic"
     ],
     "bottom50_wealth": 6.4,
@@ -13467,7 +13466,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.46,
+    "news_score": 0.45,
     "news_title": "Inside Ossoff’s meticulously viral campaign - Politico",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVkQ1cS1nWFM4b2ZPTk1zVkdxMHFoWS1NdjhMd0hrb3ZQOVEtVkVxSnNDd1FWTmVlV2JMQURha2gxbFR6czllVV9EejNvM2dwT2Z5ZEp2cW9xRUczczlocEg4U05wMHJQWlpXUzlIN3Jycm8zckRpcnNUOVo2Y1UtMXJqWjFlaVdXUEJ1M0JhVHNONGxBNU9DWmJn?oc=5",
     "news_image": "",
@@ -16711,7 +16710,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 1.25,
+    "news_score": 0.88,
     "news_title": "India vs Pakistan in FIH World Cup 2026: How to watch in India, kick-off time, live stream, key players, Pool D standings - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTnZkZEZ2aHF5OGJsdG1sNEhjUEUtRHhBUzdqc0pjdmZMZWlRVEtnZ0dwbGpZQzhKUF9YcGNqenFfTl9CWkpWUVlZMEdsckUwM3NoWHg5MjlVbU4tTzFCbTZOVms4VkhNQmRidERPN0RYWU42MThPQ1haWUQ4NEFTZnVyZmFFM3NieDZDeVlyYTFrSE1nMjdLOWdXNUdLR2JvNkQ3WDBJZlZQVmZnRTFYZlp6SElTRkVTaTdFd29sOE9PQnNuRmpnVHB1dl9zMkZkQ2hxTk11a3RQVnp3cFN0WW5XU242bWNwWXc?oc=5",
     "news_image": "",
@@ -16720,7 +16719,8 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17284,12 +17284,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.98,
+    "news_score": 0.99,
     "news_title": "South Korea president calls for military independence in wake of Trump call to cut joint drills - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQU9PcnNSS2ZQQmxoOFNldmdkQ0RWTmwtVEFQdGl5bkJTcnBoUWR6TUJjS0lnSXFTeG5qU1JZRFNiS2tnTGw0R040YkVYUHFDZHkzdzFmMnpEUmFpanRPR045cmNlYXhPbEZnN0JvZ0pRaHhvY2JHQWJiNHRtNlBIbWVKRnFCaDlnSmc1T3VaRExIVEFsRGw5QWJzMjZzZ2RxZzRWQ3JLTlcwRFpCQXdqeFh6eThGZw?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "47m ago",
+    "news_age": "49m ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -19154,12 +19154,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.93,
+    "news_score": 0.96,
     "news_title": "Yoshida Wins First-Ever Greco-Roman U20 World Title for Japan - United World Wrestling",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb3dRVzlRMGtoUmpQY1lPN3NPYjgyY2cyMk1qMzZLeDRKM3VkUy1TWTRJN1E2OFZVbFUwMVdvZzlmQWU4Y21iU0tyTWcxa1ZpLVVSOFZMTEF3SDFzejR6cUo2WWUycXRzR3F0cHZoeEZoMDlYNEt5WkFyTm1VOUFpYTRfNnd3Qldj?oc=5",
     "news_image": "",
     "news_source": "United World Wrestling",
-    "news_age": "42m ago",
+    "news_age": "44m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -26353,7 +26353,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZnl3Vk1rSUxQWHIxcy16ODNDOGU2OVFoT0xITE93Nm5qWnZGUlJZa3M0M2p4TnRGcmpEQ0Znallob3VjT0tJQTR4dEpwbG1JakxXWS1tMXZtc1BoRDdJOE1XdTJsX1ZvQkNQaHpCb3RRM3V1R1dfeEVYNHJNQnlLVjFaTF94emVILTJSRkZMaGQzT3FqMEROTW9zRVB0NzYyWHA4Vlc5c1ZlU1FEWlpKUnFGeHNWbDJZbHlUNlFn?oc=5",
     "news_image": "",
     "news_source": "baylorbears.com",
-    "news_age": "16h ago",
+    "news_age": "17h ago",
     "news_columns": [
       "fifa_w"
     ],
@@ -27619,7 +27619,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX1dBY0EyRHQ1YS1ZM1VMTDBrUDdkNjNMbFBzaWxnSXI2UDF5TXVwS0NsVlhOZURCWEc5ZkpibVhiTUhKYUk5RVczX25sd2JtWXkzOVhQOWlWLU9hNHJBT1RwbWI4bGNiYkxVaDN6dmNVS3F6Wms0eW10X3V2NWtBSmZ5T0FVUXhPb0k5ZE96ZzNrUGFKcUlOLU8yeWgzY1BwNmdFT3RxbDZRSTg?oc=5",
     "news_image": "",
     "news_source": "Colorado State Athletics",
-    "news_age": "13h ago",
+    "news_age": "14h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -28267,12 +28267,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.84,
+    "news_score": 0.83,
     "news_title": "Beyond the Screen: How Sports and Entertainment Keep Nigeria’s Economy & - Business Post Nigeria",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3Vob0QzTTFiYUFtVDJ3cVdxM2UyZlJGdmU1RzZIMzdzSFVqdkE4cHFtMW1ObDJGYXNjZjkzWXY1YUZucjZJY09vMFl1TWk1aVlrbEF6ZlFUVV9RVWFEQUEzX2djaFFSVFQ3d2laU29XVnFuZ0d6Y204TEZtZ1ZUV1JUVUloSjMzblNqaGRaTmpXdk1Db2ExajlFRmR1WmNHV3R5QWI0eUM2X0NDWTd3ODh3?oc=5",
     "news_image": "",
     "news_source": "Business Post Nigeria",
-    "news_age": "44m ago",
+    "news_age": "46m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -28628,19 +28628,14 @@
     "union_rate": 89.3,
     "union_rate_rank": null,
     "fifa_ranking_rank": 104,
-    "news_score": 1.62,
+    "news_score": 1.63,
     "news_title": "South Korea president calls for military independence in wake of Trump call to cut joint drills - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQU9PcnNSS2ZQQmxoOFNldmdkQ0RWTmwtVEFQdGl5bkJTcnBoUWR6TUJjS0lnSXFTeG5qU1JZRFNiS2tnTGw0R040YkVYUHFDZHkzdzFmMnpEUmFpanRPR045cmNlYXhPbEZnN0JvZ0pRaHhvY2JHQWJiNHRtNlBIbWVKRnFCaDlnSmc1T3VaRExIVEFsRGw5QWJzMjZzZ2RxZzRWQ3JLTlcwRFpCQXdqeFh6eThGZw?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "47m ago",
+    "news_age": "49m ago",
     "news_columns": [
-      "democracy",
-      "approval",
-      "press",
-      "election_days",
-      "military_pct",
-      "nuclear"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -29483,7 +29478,7 @@
     "refugees_rank": null,
     "union_rate": 70.4,
     "union_rate_rank": null,
-    "news_score": 0.06,
+    "news_score": 0.07,
     "news_title": "Trump's Oman bomb threat an attempt to get their 'attention,' says former ambassador - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMmNIbjN3eXVyMkpCaFZaMHg0NHNPQUhEQjM2QmNTTllUdFhENXNabXp0SGl6LUtodTE3WGFmN2FhaHVsbndwUTVIWXlVMjA3NTJ3MklSa1BPUS1mTFR5VjUyUzdfenpfWXNZZlM0S05SekstNlA2RDFoYjFjN1d2QkhhWFUtTFlYMDdLZEFjaWlhNWwzMTFTX2MtOWzSAaIBQVVfeXFMUHRPcHFyUW0ya1NIS241cXhCaXdmRl9QZ2JSWEJwUWYycXBXU0tpb2tFdFM3LXRBUXVIdkJJNUl6VmlDYVhNQjZxX2dOdWdYYXU0akx1QUlZY0JkVW1HeUc2c2tFZjN4bzZIUG55WlpXOERpOU0tbHVFWU9mNFJfcHpqZkRpWGU3QVVVVTFUZ1hkTmZNS3RyZ3dGNm04Wk55SWFB?oc=5",
     "news_image": "",
@@ -31460,7 +31455,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVEF0Tzd6c09kZzFuVmlCNUlsd3M0NEtVOFdHU0pYRk9aa0d2ODJpOGl0RFdoVi1wRHd3bFVBS3lGMml0NVN2UWp6N3VRcTFHeXVnbDBkWDN6dFR3NHBwQ3RXLVRYOHpmUXczeEtvX2tNVFd6aHBidnl2ZGxHdXFkQkhwckRROFRnZ0Qtc0hhWVZSamRwWTA2c2thNlluT2h0Rm1kMUtDOWZ2REVpN2V4Sm1GRWRtSlQ4cWxqTDdHRHcwN3Vta0RxMWJBYWdrT2E4UXpibUpnOTQ4Z1k5NXc?oc=5",
     "news_image": "",
     "news_source": "facebook.com",
-    "news_age": "48m ago",
+    "news_age": "50m ago",
     "news_columns": [
       "tourism",
       "passport",
@@ -32135,8 +32130,7 @@
     "news_age": "24h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -32924,14 +32918,14 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.36,
+    "news_score": 1.35,
     "news_title": "Lavrov says Russia, North Korea fighting for 'new, righteous' world order - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTl80VzVqWWhtWWUyN2FiTTF6SE1DNGVSSUk2N2QyU2RJUmFEaEJ2UFQ3WDJGeF9DLWJBenhrMk9jTUZYcV9EQURmSU9ZMV9VbFoyY2E1U2xhWktPXzZFX195ekpRQlFxRkdsTXlfREw2N2pDN1VpVjUtOTc2SUFybVRjcGtqUTE5WjZ1dy1CaGtyQ1M2RFgtRTVIUXdQZExmM3BDTElUMHhIdWM5YURKUUJOc3ZySTBQZnpUMQ?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "82m ago",
+    "news_age": "84m ago",
     "news_columns": [
-      "fifa_ranking"
+      "olympic"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -35914,12 +35908,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.0,
+    "news_score": 0.76,
     "news_title": "South Korea president calls for military independence in wake of Trump call to cut joint drills - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQU9PcnNSS2ZQQmxoOFNldmdkQ0RWTmwtVEFQdGl5bkJTcnBoUWR6TUJjS0lnSXFTeG5qU1JZRFNiS2tnTGw0R040YkVYUHFDZHkzdzFmMnpEUmFpanRPR045cmNlYXhPbEZnN0JvZ0pRaHhvY2JHQWJiNHRtNlBIbWVKRnFCaDlnSmc1T3VaRExIVEFsRGw5QWJzMjZzZ2RxZzRWQ3JLTlcwRFpCQXdqeFh6eThGZw?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "47m ago",
+    "news_age": "49m ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -36490,19 +36484,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.06,
+    "news_score": 0.09,
     "news_title": "USA Youth Women Lose To Spain 16-11 At U18 World Championships - USA Water Polo",
     "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWGYxUXR4Y1ZPeFZ3d1ZfS2txRWw1UUlOSE9HVUJGN3hrQkhNTWhueHViVHBDSXZvXzZERkJ3STFvUE0tR1NodGt3Q18tS0JUWDFVOS1JNXlZNVlDNEc5UXlLSTB6NDN6a1I3dzVHSnZ4dTY0aEZLZ2h1SWxrbXpYaGRRcnpvRm5CSzF0UnNtQ2Yya195bVhjbW1rWmRWZUlqMThhMThnRG1lNXc3WklwLWt1WUxCVHNhZGFHcm9ETTQ2cXhjd3JSWDgtRnJYSWc?oc=5",
     "news_image": "",
     "news_source": "USA Water Polo",
     "news_age": "10h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "gender"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -38862,12 +38852,12 @@
     "refugees_rank": null,
     "union_rate": 75.8,
     "union_rate_rank": null,
-    "news_score": 0.49,
+    "news_score": 0.63,
     "news_title": "World Gym Launches Presales for Its First Thailand Club - Yahoo Finance",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVUY4b19aWkRfaFdQSi1GcUxpRjAwOTBhaU1TYXdQeVFTdzhST1Y0QW9qdzd6S1BtZUFFcjVJNVo4ODR5NTMxUHJJbC10RzFhNXJjRFdvc25tWHpiZlhMOVB0enFMTWJKRG5GMmZaNU9BdnphenJOLWFSQ2RONks4QTAzYnJualhKRVZEQ1Qyb0I0ejhtYmNLRTd6MmpTNDA?oc=5",
     "news_image": "",
     "news_source": "Yahoo Finance",
-    "news_age": "10m ago",
+    "news_age": "12m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -41007,7 +40997,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.47,
+    "news_score": 0.46,
     "news_title": "Russia warns Britain of 'consequences' for supplying drones to Ukraine - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZUVfTGNVRktRc2R4dkg0YXI4SndIblJaQngxMHlLNFZ5Z285ZzF3UHBIMTl2VGVUanpfRmhSR1BXcDJoNTNPNV9GUFZDSTcyMGFSQU4wblUtWm9zOWZ0cFU3eEdxc0dtNDdsS2tBUWRlX3hTOGtzemJiSi1nek1QWm9lb3c3NC1ZYllvb3RiTS1yX1ZrdHNrbzFJZi1uNHVzTGJfUHFB?oc=5",
     "news_image": "",
