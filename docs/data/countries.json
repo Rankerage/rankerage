@@ -11077,7 +11077,7 @@
     "union_rate": 66.2,
     "union_rate_rank": null,
     "fifa_w_rank": 61,
-    "news_score": 0.4,
+    "news_score": 0.39,
     "news_title": "Uriel Canjura's rise from El Salvador to the global stage captures the spirit of the BWF World Championships - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX0lZT0RaUWs1VUpfTFRjSG5FcWcyUUlNRWZLakR3RnhtWVM5YTVKcWxKUHBSaE5Gc25tUDBxRENiNERuNGx4Zk9CUHU3YjFjb21nY2VoX2xyQS0tdVF0VXBTdVVocDE4WnNqSHpNVGhIVWRSN3UxaV94UGtzTmJLUW80cXpocU9oSlZCeVVyRHpBd2FJUzRVMDVkd0s3OHY1UmJGQWs3dnFtVklFeEdYeVp3NTdGTG53RjNySGcwUm1ybVVXUjlOVEE0TjF4WnM?oc=5",
     "news_image": "",
@@ -12939,10 +12939,10 @@
     "child_marriage": null,
     "child_marriage_rank": null,
     "news_score": 0.56,
-    "news_title": "Dems plan Oman war powers push after Trump threatens bombing - axios.com",
+    "news_title": "Dems plan Oman war powers push after Trump threatens bombing - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXRMeFNsX0l3YTRZQ2hTZkpGWTdZWkMteXF5MEdaTHpSVHNxdHlCQ1NJdDV6OVlUYlFRY3daZENKSHFIUU1PcGRFbU84dU9WMTJzX3NfSUczYzlwUDEwSEJYZUZmaDBoLTZzMmdCcUREekRFb0M2bUM0cXEzRExkdVhCY3g?oc=5",
     "news_image": "",
-    "news_source": "axios.com",
+    "news_source": "Axios",
     "news_age": "2h ago",
     "news_columns": [
       "military_pct",
@@ -17289,14 +17289,16 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.55,
-    "news_title": "60 days after signing Iran deal, Trump stuck in quagmire as war drags on - The Washington Post",
-    "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVW11cldIazMtZ3FxdFMxclNuV2E0bkxXS1NQTW5fdlVtTmk4WWgyemVPSEJvOE5VWk5RRS1PckxxOWtqdURsOTJ0YTcxZERta1lkSm1UbkQ5TXpMRGh2UEw4NzIwa3kxZ2R2MkgtSk1EbTRsaGplZnpLdGJWcmM1ci1FTXJlM2tkZk1rcmxGbS0xS2J5UWJpQm9RbFdYVjViOWdGbWNLb2NzdTNmaUtLeTFjZG1PVUN4S1JlZEhOOA?oc=5",
+    "news_score": 1.69,
+    "news_title": "Dems plan Oman war powers push after Trump threatens bombing - Axios",
+    "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXRMeFNsX0l3YTRZQ2hTZkpGWTdZWkMteXF5MEdaTHpSVHNxdHlCQ1NJdDV6OVlUYlFRY3daZENKSHFIUU1PcGRFbU84dU9WMTJzX3NfSUczYzlwUDEwSEJYZUZmaDBoLTZzMmdCcUREekRFb0M2bUM0cXEzRExkdVhCY3g?oc=5",
     "news_image": "",
-    "news_source": "The Washington Post",
-    "news_age": "115m ago",
+    "news_source": "Axios",
+    "news_age": "2h ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking",
+      "fifa_w",
+      "geopolitical_tension"
     ],
     "bottom50_wealth": null
   },
@@ -29480,14 +29482,18 @@
     "refugees_rank": null,
     "union_rate": 70.4,
     "union_rate_rank": null,
-    "news_score": 0.9,
-    "news_title": "Dems plan Oman war powers push after Trump threatens bombing - axios.com",
+    "news_score": 0.66,
+    "news_title": "Dems plan Oman war powers push after Trump threatens bombing - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXRMeFNsX0l3YTRZQ2hTZkpGWTdZWkMteXF5MEdaTHpSVHNxdHlCQ1NJdDV6OVlUYlFRY3daZENKSHFIUU1PcGRFbU84dU9WMTJzX3NfSUczYzlwUDEwSEJYZUZmaDBoLTZzMmdCcUREekRFb0M2bUM0cXEzRExkdVhCY3g?oc=5",
     "news_image": "",
-    "news_source": "axios.com",
+    "news_source": "Axios",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": null
   },
@@ -29745,12 +29751,12 @@
     "union_rate": 54.7,
     "union_rate_rank": null,
     "fifa_w_rank": 102,
-    "news_score": 0.64,
+    "news_score": 0.63,
     "news_title": "Pakistan were ranked the No 1 Test team in the world a decade ago. What went wrong? - nytimes.com",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNTYwRmxWOUVOUm5vRE0tZUFBZHVaSHJaNzFFQkF5X1BqSHpGRXZ3ZWx6cXNrVE81aG5WY002TzJiOFRWNHlqdDh1Ti1OTm1fLVgwODlsZTZ5aFN5S0FkRXJoUDdyV2pRWWstZ3U0LTdkOF9HT0twYUExLUNfczVVZ2lJejdQZDBxMVJRU2VhZUNrMlVKYWRtandmZ011XzA?oc=5",
     "news_image": "",
     "news_source": "nytimes.com",
-    "news_age": "106m ago",
+    "news_age": "108m ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -36490,16 +36496,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.27,
     "news_title": "USA Youth Women Lose To Spain 16-11 At U18 World Championships - USA Water Polo",
     "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWGYxUXR4Y1ZPeFZ3d1ZfS2txRWw1UUlOSE9HVUJGN3hrQkhNTWhueHViVHBDSXZvXzZERkJ3STFvUE0tR1NodGt3Q18tS0JUWDFVOS1JNXlZNVlDNEc5UXlLSTB6NDN6a1I3dzVHSnZ4dTY0aEZLZ2h1SWxrbXpYaGRRcnpvRm5CSzF0UnNtQ2Yya195bVhjbW1rWmRWZUlqMThhMThnRG1lNXc3WklwLWt1WUxCVHNhZGFHcm9ETTQ2cXhjd3JSWDgtRnJYSWc?oc=5",
     "news_image": "",
     "news_source": "USA Water Polo",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "gender"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
