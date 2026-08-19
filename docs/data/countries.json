@@ -6908,15 +6908,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.23,
+    "news_score": 1.16,
     "news_title": "Trump pauses 50% tariffs on Canadian goods for 3 days - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rQzZ1LUNhUTFPZVA4U2lJSXVPUFhrZGdOdVZaVS1keFZWaGxUc1JxWWNJRjhKNGF2QVFLd2RlRHZxTHFOTzBxOFlvME5MaXhHaERYdlZxbzlOckZoNndmbTU2cDFwQ0pwbjItMFI3OHVtMUFzUnI0VFJ3dTZEN0E?oc=5",
     "news_image": "",
     "news_source": "Axios",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -7968,12 +7972,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.42,
+    "news_score": 1.22,
     "news_title": "China robot makers flock to Beijing show, seek path to mass adoption - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSmdkcXpfS1k2UmVHdmxLOFQ2UWF1LXROM2d3Zk0wbVUtSC1YbkxaNEZHNl9adVEwakVNN1Z1dVotcVc2YjZhOHh3cDBJZllMX1FPTTd4d1FLbTRSQjNOdzViZHNaQ200Tmt1UUo4bjZYYWVaTFlxaTZTcHRjNzRQX1JnMVBiVmQ3YUQyQzJaZk82aGFMUzczNDdYQTg0OGdxcFNMSnd4SnB6MVlfWXZYQkJnN0tBZlU?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "24m ago",
+    "news_age": "26m ago",
     "news_columns": [
       "olympic",
       "fifa_ranking"
@@ -12936,8 +12940,7 @@
     "news_age": "10h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13962,11 +13965,12 @@
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYVo3OUdJQjJvdTUzdkhaem5sRTgycExUVE11R090S0tfR2gxUUx1bkI5U3d0SlBnNlI3OTZacW9vbGVSYy1XQ0t6TzlqeC1lNDJiQjNuZTkxMlJJQ044R3NfZXhNbzVrWVJtSy1yVVcyX0R6ekhydGdvbDBlN2FUeXppUUZIQUN0c1JGbHJHQQ?oc=5",
     "news_image": "",
     "news_source": "National Geographic",
-    "news_age": "22m ago",
+    "news_age": "24m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16705,9 +16709,8 @@
     "news_source": "Tuoi Tre News | The News Gateway to Vietnam",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17271,15 +17274,18 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.85,
+    "news_score": 0.63,
     "news_title": "World in Brief: Governments’ borrowing costs jump; Iran fires missiles at the UAE - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTWIzR3d1ZWRjdVFDdUFiRmpjcENqcVJuNGN0N0FlUENibVJ2S3FUaGJURmNlV2RWdUlScFQxb0dDUmpPY1pVRTNkQ002T0FJdDZvYXlWT0dEZjktdDJMQ2ZOZUhfR091aUZrTTAxRmlhYm9CTERPNlI5UXk0dUlGQXA5b1BHVEJfRC1NdmRnSk5OTFdQeUp3?oc=5",
     "news_image": "",
     "news_source": "The Economist",
     "news_age": "3h ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": null
   },
@@ -18003,15 +18009,19 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.65,
+    "news_score": 0.47,
     "news_title": "Israel defends strike on Syria as U.S. frustration with Bibi grows - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYm9BMmh3VTlYTDhPWlY1b0JPYWZITWtQZFh4dVRDdFU0QzdlaWRIcWNOdk04NVZ3a1lXelNIdktFcGFidmxuRG12UXcxd1dWNV9qXzN2OEdMeHZDSF9lT3lrOUVGbVMxT0NZZkJkdXpmRUhsQXRFTjhkUUxETWVDeTF3?oc=5",
     "news_image": "",
     "news_source": "Axios",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -19133,15 +19143,17 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.38,
+    "news_score": 1.06,
     "news_title": "Aston Villa’s Zion Suzuki: The U.S.-born Japan goalkeeper who turned down Man United - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdkV4WkJjaEs3Wk1FTkE5eF9pb3lNUEZPbDdyd044dWJJRWkwemJCV3RzMm5mWWFFRnoxTXFhSEpxc1VjeDVfUjlKU0g1a3dOUnVXeF9XT012b3FMX25NNGU5dUt4enRtTDVibDhIWDFBSHRRS1o5aVhUakVGWFVrUDdiMVBlVVdDMXZrZzZaRDlMMk1MbTdJaUU0VEtlczJMd1JN?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "23m ago",
+    "news_age": "25m ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -25162,12 +25174,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.47,
-    "news_title": "🚨 Official: Paul Pogba and AS Monaco, it's over! - Yahoo Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV2ZkZ0JDNFVBODVOd0tGWUhkS2xERVQ0SHpocDg4S3VYRVFTSndnQU8xcEJvZW4yMzZRN1NudnRjR0h4RjZIdUlWWXI0R0g4d3JxY0ZneWk0Z0U2d1ZjNE12ZFhKSU8zNWRpQV9uZk1rcVZ0dnVQbVlrNXlJOG9CYkdpYlQyYms?oc=5",
+    "news_score": 0.78,
+    "news_title": "Paul Pogba to be released by Monaco: club - Yahoo Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdmRyRWRweVdXM1JOaVNpR1ctYmltY1NwY3JQc0ZuUnY0ckItMEkwZFc3b2VQWk9Lc3VMNnpEUzJuRGwwSzYtc3NfbDJBNlRFSjRPQ1VTdDdCQUh5X3YwUjBVaEg2MzZkWl9aSVdodVlCZVYxOHE1OUtESVFDUkFCTTZsQURnQ28?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "22m ago",
+    "news_age": "8m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -28247,7 +28259,7 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.17,
+    "news_score": 0.18,
     "news_title": "Enugu, Kebbi increase state varsities’ subvention to avert lecturers’ strike - The Guardian Nigeria News",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdy1uOWE5ZzZkLWlNOEhtQTRmUlFPRmZmczcyb2l3LUJpMFE4NHRISWdITXZHaVZnRkNfNGt1aEJKYW44MWliMjVWdG9KeF9OTmxxU1hHRy1oa21wY0VhN3FxY0RkU0VUQkJuVmY4RnI4UXA0VEUyUnZYZEt6MUFybmo2Q2stVlQyWm1Ka01JX2thTTJoZ2hhenBzU1EwNEo5?oc=5",
     "news_image": "",
@@ -29730,16 +29742,15 @@
     "union_rate": 54.7,
     "union_rate_rank": null,
     "fifa_w_rank": 102,
-    "news_score": 0.5,
+    "news_score": 0.49,
     "news_title": "India vs Pakistan in FIH World Cup 2026: How to watch in India, kick-off time, live stream, key players, Pool D standings - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd0N6aURiUGdwR3NLUno2UWN0eUktWHpzU2pzSVBUWnNHWUJRQ1RSWlZlUGRuZko2dGJOZkp4UDFlUUg2ZGtIWjNjNnBfeEwyN3Q2c0lSVlJrMjIyVUtOQXFwZ3gxSy1weGpQbThmcjFOSFNfUTRFU0g1R2xONlZOWGRBaC1pbUFlcV94TGY0MFRiNlROMzlHUjJySzQ5UjdRQnVRcWJTTklKaXFBdDM1T2Nfbmdnb1FaMEF2R0FscFR1b1FDUjd1WTBGMmFqZE9aLVFYSW5ZN0FGUThWVTYyQ3htQllrTklwUzNB?oc=5",
     "news_image": "",
     "news_source": "ESPN",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -32907,7 +32918,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.3,
+    "news_score": 0.29,
     "news_title": "A warehouse burns near Moscow. In Ukraine, drone crews prepare to strike again - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmpoWmRzcDBhN3VqXzZfdWxvTDMyczhVOFJ4WTFzdzZBcGprR0k5VzFDb0lKbG5TMjZHR0I0VWlKd3NiSXg1VTdsZ253LTZMRFlJaWlKOGdVRm41S2QxSkNpX2NJc3RxMTY4UWRLVVI5T1NSQ1plNEJWc2xBbVJrUkI4eFNxOVloY1pDeXl2MTg1YnhDd2ZF?oc=5",
     "news_image": "",
@@ -35915,8 +35926,11 @@
     "news_source": "NBC News",
     "news_age": "6h ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": 5.1,
     "bottom50_wealth_rank": 8
@@ -37960,15 +37974,19 @@
     "union_rate": 38.9,
     "union_rate_rank": null,
     "fifa_w_rank": 105,
-    "news_score": 0.67,
+    "news_score": 0.66,
     "news_title": "Israel defends strike on Syria as U.S. frustration with Bibi grows - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYm9BMmh3VTlYTDhPWlY1b0JPYWZITWtQZFh4dVRDdFU0QzdlaWRIcWNOdk04NVZ3a1lXelNIdktFcGFidmxuRG12UXcxd1dWNV9qXzN2OEdMeHZDSF9lT3lrOUVGbVMxT0NZZkJkdXpmRUhsQXRFTjhkUUxETWVDeTF3?oc=5",
     "news_image": "",
     "news_source": "Axios",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -40990,15 +41008,19 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 1.18,
+    "news_score": 0.83,
     "news_title": "Zelenskyy faces challenge to his wartime rule as former defense chief calls for election - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORnc0QkQ2WDdWdkdsRVMzNnVfRHpMUzlxZlk3RnZrbnNscnIteVozWkVKUWN5alg0Tm9HZUpSblFPYlE1V3N3V2V2d242T2d5Z1ZtNUlMUEl4X0xoajFkOWR2bHVjeHRGUFhnLS1LSXRUTFRxZGVZMjJMa1VXVTROM9IBhgFBVV95cUxNbFlob0N1cGJFWTVyZFFqVWNTbGFlTW5YXzhqdFptdGgyZVN3QWdyNDlMNjg1RU9ZcmRhV3ZzckY5WFpCcW5nOF81Mm81YnQyZHFmblNXUlozYjRxOXFfNEliOVptdEpHTV9mSEhoLS0zbnlUNXlfc0NzU1A0d05UNFNWQVJEdw?oc=5",
     "news_image": "",
     "news_source": "CNBC",
-    "news_age": "100m ago",
+    "news_age": "102m ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "democracy",
+      "approval",
+      "press",
+      "election_days",
+      "military_pct",
+      "nuclear"
     ],
     "bottom50_wealth": null
   },
@@ -42251,8 +42273,7 @@
     "news_age": "4h ago",
     "news_columns": [
       "olympic",
-      "fifa_ranking",
-      "fifa_w"
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43990,19 +44011,16 @@
     "union_rate": 34.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 119,
-    "news_score": 0.0,
-    "news_title": "Iran-backed Houthis clash with Yemeni forces and other Mideast developments - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2xURUdxd3E4WWRRZkVmOFBCOWIzaXNSLTJZbTkyRVVHNXlXaEd5Sk4yQ3VHcFBFNjR5YW9wOUZMSkpRYkpJZHQwNzNUQ0dQUjZfS25iUTRFY1FFbHRBQWtZb0pVenFRZC1UNG0wZjR2aUZ5cEwzWGc2SjFJLUh4Ym16eTJhVG5JLU4xNVdhRUc3NnRsWHdjMGgtZ09UaHRLMjMzM2tvTDRzblNZd2c?oc=5",
+    "news_score": 0.41,
+    "news_title": "Statement by the Humanitarian Coordinator for Yemen on World Humanitarian Day [EN/AR] - reliefweb.int",
+    "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZEZqaUVxczBkWGFFTEhSODZmY2FWeXZ0WG1nQUM3cEt5NjY3Z1o5dV9KbHRvazJkMllZS2RBdVV1TTd2Q1RqaDJMQ3djbENXOE9xVU14eXZXcVBsTVVqY2tqWWRScmhKV2M0SmxNZ2l4SmJ1MHFxUlNaNW9MdHhtZUhOTmJyM1p3Yk94bHlhdHpjWG82WEF0cktyUzNsWWNlLVBBRHln?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "3h ago",
+    "news_source": "reliefweb.int",
+    "news_age": "10m ago",
     "news_columns": [
+      "nato",
       "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "gdp"
     ],
     "bottom50_wealth": null
   },
