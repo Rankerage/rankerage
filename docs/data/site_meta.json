@@ -1,71 +1,65 @@
 {
-  "last_updated": "2026-08-17T21:01:09Z",
+  "last_updated": "2026-08-19T21:01:17Z",
   "total_rankings": 136,
   "total_countries": 197,
   "version": "1.0",
   "update_frequency": "weekly",
-  "global_narrative": "Global sports and political landscapes are shifting with major leadership changes, geopolitical tensions, and record-breaking athletic achievements.",
+  "global_narrative": "Global sports, particularly football and baseball, dominate headlines with major tournaments, player transfers, and controversies, while economic and political issues like U.S. debt and geopolitical tensions also feature prominently.",
   "trending_stories": [
     {
-      "topic": "FIFA leadership crisis and World Cup controversies",
+      "topic": "U-20 Women's World Cup",
       "entities": [
-        "FIFA",
-        "Infantino",
-        "Nigeria",
-        "Belgium"
+        "US",
+        "BR",
+        "DE"
+      ],
+      "columns": [
+        "fifa_ranking",
+        "fifa_w",
+        "olympic"
+      ],
+      "weight": 0.9
+    },
+    {
+      "topic": "Little League Baseball World Series",
+      "entities": [
+        "US"
+      ],
+      "columns": [
+        "basket"
+      ],
+      "weight": 0.7
+    },
+    {
+      "topic": "U.S. Debt and Economy",
+      "entities": [
+        "US"
+      ],
+      "columns": [],
+      "weight": 0.6
+    },
+    {
+      "topic": "Geopolitical Tensions (Israel, North Korea, South Korea)",
+      "entities": [
+        "IL",
+        "KP",
+        "KR"
+      ],
+      "columns": [],
+      "weight": 0.5
+    },
+    {
+      "topic": "Football Transfers and Club News",
+      "entities": [
+        "GB",
+        "DE",
+        "FR"
       ],
       "columns": [
         "fifa_ranking",
         "fifa_w"
       ],
-      "weight": 0.9
-    },
-    {
-      "topic": "US political tensions and international threats",
-      "entities": [
-        "US",
-        "Iran",
-        "Oman",
-        "Trump"
-      ],
-      "columns": [],
       "weight": 0.8
-    },
-    {
-      "topic": "NFL team news and player movements",
-      "entities": [
-        "49ers",
-        "Steelers",
-        "Bears",
-        "Packers"
-      ],
-      "columns": [],
-      "weight": 0.7
-    },
-    {
-      "topic": "Women's sports gaining prominence",
-      "entities": [
-        "USA",
-        "Spain",
-        "Australia",
-        "New Zealand"
-      ],
-      "columns": [
-        "olympic",
-        "fifa_w"
-      ],
-      "weight": 0.6
-    },
-    {
-      "topic": "MLB season updates and team performances",
-      "entities": [
-        "White Sox",
-        "Cubs",
-        "Dodgers",
-        "Pirates"
-      ],
-      "columns": [],
-      "weight": 0.5
     }
   ]
 }
