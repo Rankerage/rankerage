@@ -3311,19 +3311,14 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.54,
+    "news_score": 0.68,
     "news_title": "Bangladesh 24th largest agricultural economy in the world - The Business Standard",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmhQYXVFMW43a1M1WWcxZXFUNUdoY05MMlMwdTJvNVYtM1hmYTZZejhnX3hxOTlLNUt3QkJLN09PMnVYYnVlbVdkQTR2aFRNMVFzQW13aklzUmRUSUppeDcxV1pnN2podDNHandJQjhlaS1iNjNMR0gtWWFXbnNfU0pfay1RWVNYcTFoLXpqcXVpM2pidm9XUGNkb2lQTE9hckHSAacBQVVfeXFMUE1NRE0xUktzeW9lTkNnXzc1ME1aRkxObi01YjMzeVJzclE1WlRmTnAyY3MtZ24tX0E2U2VacWhla0pHMTZleDRTSFNYcHNJQ1VsRzNQdW9Ka2pXZ3RGa1dpNUc2bDVJbUdaZVVqZzRzS1dOcDBGMGFpdl94NDZISWFiVllocXlIcFpXRkhDTVhwVzBWSFhPYVphdnJTSTl6ZnJnald5cUU?oc=5",
     "news_image": "",
     "news_source": "The Business Standard",
     "news_age": "2h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -7968,15 +7963,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.07,
+    "news_score": 1.06,
     "news_title": "China robot makers flock to Beijing show, seek path to mass adoption - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSmdkcXpfS1k2UmVHdmxLOFQ2UWF1LXROM2d3Zk0wbVUtSC1YbkxaNEZHNl9adVEwakVNN1Z1dVotcVc2YjZhOHh3cDBJZllMX1FPTTd4d1FLbTRSQjNOdzViZHNaQ200Tmt1UUo4bjZYYWVaTFlxaTZTcHRjNzRQX1JnMVBiVmQ3YUQyQzJaZk82aGFMUzczNDdYQTg0OGdxcFNMSnd4SnB6MVlfWXZYQkJnN0tBZlU?oc=5",
     "news_image": "",
     "news_source": "Reuters",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic",
-      "fifa_w"
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -12928,14 +12922,19 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.09,
+    "news_score": 0.05,
     "news_title": "India,France review expanding canvas of bilateral cooperation in science, technology & space | Akashvani News - News On AIR",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTExHRzVKTC11ZHhmMUF6RmZrSWFqMVI0dHhYajQ0U1FTWlEzZ05jTjB2MmlvVEgtUDkzeDJiWG5ENERDTHBPR0g2MXdybUwyWEcyRDFadkp2VjBwRFUzV3kzMENmU3AyVGgwLTBrcDBSY0o4WTZjNmx5bVJyeWRidTcyU243UmdYNHc3WTNEZWNVcTdfOVRwRkhKREQ0dlFlRHFlV0tnSGxSUTRtc211MWlneXo?oc=5",
     "news_image": "",
     "news_source": "News On AIR",
     "news_age": "13h ago",
     "news_columns": [
-      "fifa_ranking"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "space_launch"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13962,7 +13961,8 @@
     "news_source": "National Geographic",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -15751,7 +15751,7 @@
     "fifa_w": 81,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 62,
-    "news_score": 0.22,
+    "news_score": 0.21,
     "news_title": "Vietnam-Hong Kong education cooperation offers pathway to high-quality tech talent - Vietnam+ (VietnamPlus)",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdkg2Zlc5WkhBWmtqM2lnR09NUjNWQ0FiR1F2STE2M3NxNWhiXzVrdFVFeTg0ZFdVRmtLdXI3a3NQOFBjeThKbVh3eUQ4NVpJbVV6MEZxa0JvcGVtRDRheG1WX2VCRkVDTG9LNGd5LXM0UE1XNldRWk4xUm94WGZYZVlVQkY1Wlp4a01XNjZZQnJQclpzUUl2MGpjcnZHWERQS3psdzRPSUEzc2RBQ2ZZa2p3QmsxdXVpb2FheDB2ZVc?oc=5",
     "news_image": "",
@@ -16694,7 +16694,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.66,
+    "news_score": 0.65,
     "news_title": "India gold market update: Recovery taking shape | Post by Kavita Chacko | Insights - World Gold Council",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTTZseVh5OW40Vmc1WW5yeUQ4UUxiblVTSDluWUZZSXc1Zldtd2NSRnRoeml3SXcxdndqZVlyMjFFS0dBZ1JZSGhoMWVFa0plUFJGa2F2VUVySEtpV2JtcjBDc2pYRkJ4ZFJwM2d6OE0xWjZKdDNSYmplRkt0MGZkT0x4eG1BNFFhekM2ejExMzR0OVF4bnYwend3?oc=5",
     "news_image": "",
@@ -17268,19 +17268,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.55,
-    "news_title": "Trump says Iran blockade remains in effect as Pentagon addresses stockpile concerns - Fox News",
-    "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYjNDZy10ODNkRFhWRkNqbmw0eVpKQk9WMWh1WnpLU2pZdEt6alA4cjc5ZTI3dndOd1ptQVFPQ2Z3OGQydExST2dwclB4SV9nRkJhQ29GczU2TDYyMzNHcXhacnV1SzVsLTJTa2Z5d0cxdWxmMHluZHNHUjZjM0NPQ25nUQ?oc=5",
+    "news_score": 1.4,
+    "news_title": "U.A.E. Halts Trade Ties With Iran and Says It Was Targeted With Missiles - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNmtXS01YWG5DUVk4eTdlaEktZE0zYmNOSG1wMVZORUduSWc2NnVZaG9tUjY1d3RNWU9QWDEwTTZiWDlzWmJVcGdqUVFWZThrMVFncGVROV9OM2FYQ21rYXo2RVpUdUpDVEhaMkdpc18wYUYwTDRVMXBnYzFaTzhjZVVuRUpNTjhQOExnR0xnUWhjQlhz?oc=5",
     "news_image": "",
-    "news_source": "Fox News",
-    "news_age": "57m ago",
+    "news_source": "The New York Times",
+    "news_age": "38m ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
-      "military_pct",
-      "nuclear"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -18004,7 +17999,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.27,
+    "news_score": 0.28,
     "news_title": "Israel strikes an air base in Syria to prevent Turkish troops from deploying - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rcmhrNHBxb2tUdXZTR1dSbzFTR0hmQWE5NDY0Q1dsTXJ6eElvOEhaRlYyX1l6Mk10TW1FUmFiU1YtYTJzT05hZE1VblVfRWtHeFExWUpGX2tjUmdWSWRjS2IxNFpROXdwWXJiUzNEa0NPS2c?oc=5",
     "news_image": "",
@@ -19136,7 +19131,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.36,
+    "news_score": 0.37,
     "news_title": "Aston Villa’s Zion Suzuki: The U.S.-born Japan goalkeeper who turned down Man United - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdkV4WkJjaEs3Wk1FTkE5eF9pb3lNUEZPbDdyd044dWJJRWkwemJCV3RzMm5mWWFFRnoxTXFhSEpxc1VjeDVfUjlKU0g1a3dOUnVXeF9XT012b3FMX25NNGU5dUt4enRtTDVibDhIWDFBSHRRS1o5aVhUakVGWFVrUDdiMVBlVVdDMXZrZzZaRDlMMk1MbTdJaUU0VEtlczJMd1JN?oc=5",
     "news_image": "",
@@ -25172,7 +25167,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdmRyRWRweVdXM1JOaVNpR1ctYmltY1NwY3JQc0ZuUnY0ckItMEkwZFc3b2VQWk9Lc3VMNnpEUzJuRGwwSzYtc3NfbDJBNlRFSjRPQ1VTdDdCQUh5X3YwUjBVaEg2MzZkWl9aSVdodVlCZVYxOHE1OUtESVFDUkFCTTZsQURnQ28?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "47m ago",
+    "news_age": "49m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -27602,7 +27597,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYXNJQXpDZjM2cEUyTnVFcFdzbG5qS2EwZVFuYlgwWWp6SnJEX2lTeU1FWHA1WlppU2VBd214TWdHR1AzTkJqVklwRFVMZ0ZWbXhxV3lwM0c3Q3RQOHpaTmlNamI2TUNtVHRUYnR3anBZRmhRSHpYTzVlbllETk9DWTRfTi1wT2psVUFYVmIxdFRvdUxBQUJLd0o4cERfZUlWcHZfRlpHOGE5dw?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "87m ago",
+    "news_age": "89m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -27786,14 +27781,16 @@
     "refugees_rank": null,
     "union_rate": 69.0,
     "union_rate_rank": null,
-    "news_score": 0.83,
+    "news_score": 0.74,
     "news_title": "2 Nicaragua Little League World Series Players Denied Entry to U.S. - Sportico.com",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRjFVUVBvODQ2RGllcDM4dldLMnZGbTgyeG9xdFZzaXVpZE9GR2RZcmY3UGU4R2dFc2NKMVJ5VnRpU2ppamJVbkltZk5lNDh2N2dBRFVLQmdZOThreFNvcTBtcmgxMDVDeXNZc1NKbGd2aDNoLXlUWUV5NjRNSEFrM3VhZkUyM2pSV3hCeDRrcld6dTYxcWM1bTBNSmJ1MDU1bDdmLWxjY0dvVkNhX2ZVT0xfMUUtWTQ?oc=5",
     "news_image": "",
     "news_source": "Sportico.com",
-    "news_age": "8m ago",
+    "news_age": "9m ago",
     "news_columns": [
-      "basket"
+      "car_density",
+      "gas_price",
+      "co2"
     ],
     "bottom50_wealth": null
   },
@@ -29730,7 +29727,7 @@
     "union_rate": 54.7,
     "union_rate_rank": null,
     "fifa_w_rank": 102,
-    "news_score": 0.62,
+    "news_score": 0.61,
     "news_title": "England to bowl against Pakistan in first Test at Headingley - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOXE0MzdpOG1RdUh0QzdLNm5PVHFOY3VYaHJUeVpmQjRCTVdFYVBNc0hsWnNJOHpDeXpFMzJqamFnZlZyeDBrY1dBUV9CMEQ0WVlKQzZLdEt3QXhrcU05Y0gzcFpYSDNHbnUwZENuRmpDbGdhQWh4eHo2VTJlS3lVZ3pELWZVV0dwT2JscA?oc=5",
     "news_image": "",
@@ -34084,7 +34081,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 120,
     "fifa_w_rank": 100,
-    "news_score": 0.55,
+    "news_score": 0.54,
     "news_title": "Miss World 2026 at Dragon Ocean Do Son: Elevating Vietnam's destination profile on the global stage - Yahoo Finance Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU1I1Q3BadWpuY2RlQ0x0TlQxV2p1QkdWWVotYTVQbDhJX1Zzb09GRzJQTk41bWYtNi1FU3RaUGptd09CV3VGYTN5eHZITFdac0RLN3ZLZTdlWnBVVk1NaVkzcDQzSTBQWlZjdEZUdURqSVN3bFJEY3ZabGc1Q21pWk55TQ?oc=5",
     "news_image": "",
@@ -35909,7 +35906,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.59,
+    "news_score": 0.75,
     "news_title": "South Korean and US militaries shorten drills by about half after Trump ordered a reduction - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUx1WkNNOFA1UXFocXB1OXFnbFc4dFJNMXdjTkExUmt4MFEtb1dta003UmoyX3VtUExaVlZ5cWJmb0tDS0U0Ym9LNE5EQ1Z4Q2tKaGNJUEh2X2toZ0ZKbGNFc0ZEbnQ2SXo0eGVhRE9lZHJZWlI5cU5uQUFSbHdJOXVEZUh1QlRhWjBmZQ?oc=5",
     "news_image": "",
@@ -37960,7 +37957,7 @@
     "union_rate": 38.9,
     "union_rate_rank": null,
     "fifa_w_rank": 105,
-    "news_score": 0.16,
+    "news_score": 0.2,
     "news_title": "Israel strikes an air base in Syria to prevent Turkish troops from deploying - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rcmhrNHBxb2tUdXZTR1dSbzFTR0hmQWE5NDY0Q1dsTXJ6eElvOEhaRlYyX1l6Mk10TW1FUmFiU1YtYTJzT05hZE1VblVfRWtHeFExWUpGX2tjUmdWSWRjS2IxNFpROXdwWXJiUzNEa0NPS2c?oc=5",
     "news_image": "",
@@ -40995,7 +40992,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.41,
+    "news_score": 0.4,
     "news_title": "Act for Humanity: Stand with Aid Workers on World Humanitarian Day and Beyond - United Nations in Ukraine",
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1M0RmNlb3J0dVVvTnhDQ2c5ZXFFQW1xb2h0VXZ1WVRua1NPTTIzMnZuNzVEUFNWTm1vN3hRWHRwNDV0YklITkRHLUJaZjQ4OVJvZmFDS2VzUjVkcG9zS0lrVUZqM2xqdmRheHVlOWNCZUt6NGNZVXVQR0xaaGhISFc3amZLODlhalFiSlVYYlFWWElQcTlyU2pDT0lUQQ?oc=5",
     "news_image": "",
@@ -44006,7 +44003,7 @@
     "union_rate": 34.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 119,
-    "news_score": 0.37,
+    "news_score": 0.36,
     "news_title": "Statement by the Humanitarian Coordinator for Yemen on World Humanitarian Day [EN/AR] - ReliefWeb",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZEZqaUVxczBkWGFFTEhSODZmY2FWeXZ0WG1nQUM3cEt5NjY3Z1o5dV9KbHRvazJkMllZS2RBdVV1TTd2Q1RqaDJMQ3djbENXOE9xVU14eXZXcVBsTVVqY2tqWWRScmhKV2M0SmxNZ2l4SmJ1MHFxUlNaNW9MdHhtZUhOTmJyM1p3Yk94bHlhdHpjWG82WEF0cktyUzNsWWNlLVBBRHln?oc=5",
     "news_image": "",
