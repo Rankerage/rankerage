@@ -2544,12 +2544,12 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 1.38,
+    "news_score": 1.05,
     "news_title": "'Catastrophic' hotel blunder caused unfair trial, mushroom murderer's lawyers tell court - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43UzlnemlmZUZnNkV0LXREWnNZYjVIWGx1MG5mT1Q5d3hiVDVrSFBmcmlHNFlTMDZzNExMUXloRUxvVjdLVmVnVHNNUklJVUNsMnM2dk5R?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "70m ago",
+    "news_age": "72m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -5133,12 +5133,12 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.67,
+    "news_score": 0.66,
     "news_title": "Secretary-General of ASEAN meets with Minister of Sports of Brazil - ASEAN Main Portal",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRFM5dFoyNUdRRlJUOC1EV2FESEFfMjZfLWcxQm5KbWotaEkxc1ZDVjNXNnhjZTdWcERoRUF0RGVOcXo5endlZ291Q0hrU1hRZXNtRk9FbXlEaFVUNmpJOGI3YWpnZU9tUWQ0QU5FMVZVTzdVcXFHTXpRbEwwNDg3NVlURnRiWTlsTDdLaHRB?oc=5",
     "news_image": "",
     "news_source": "ASEAN Main Portal",
-    "news_age": "96m ago",
+    "news_age": "98m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -6912,19 +6912,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.88,
+    "news_score": 0.86,
     "news_title": "Trump pauses 50% tariffs on Canada for 3 days - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ0JmNE9BTlRBeUhlOURZanBDcTVvb1Z0VEc1elUtblkwMU9PS0JqREVqb2xNRnVGOThwUlZ4VGRtRV9PcURZSjZxZlJ6UU5zakJHa1A0OWU0WGVQMzQ4OW9raHBXcnlsV01ldGFRaEtJaWx4TFV0NF8xcEZHXy1fV1dEWmk5dw?oc=5",
     "news_image": "",
     "news_source": "NBC News",
-    "news_age": "116m ago",
+    "news_age": "118m ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -7976,19 +7971,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.98,
+    "news_score": 1.03,
     "news_title": "China’s backflipping robot maker Unitree pops 542% in Shanghai debut - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUkwtX3hYUHVJcU5sNkpFd01YM1JBSnlVRDVBYzZMLXlteVFzZVlJTTRFWXFpSkF5U09aUFpyVUpDOFo5MWRxSTROYzlaV0doMGR0SVFwcjlKS3FaWEI1aHdJa1JiZy01UkQ5ejA0Z1dFY0JVMjNOUUFaNnlqTDR2eERWdG82M20xQ1RUNDlhUnljNHNPUGFYbUln0gGfAUFVX3lxTE8wUFNpYWZ4N0tBX1RXNWFWZUVhRlpTRGZUUHV2RVp4emxfbUlOam0tTHhEOUlfN3gwR0V0UVJlMWtBOFd6Vl9rYWFsWm1WbzJMSm1jYlZrMlhLZ3BNM3NZajBndXlNSUlpaTV2ZTVQSWZSeUZxZUh5M0ZrbFFUdEUxMjEwLWlCTlN2MG1sRkFKeXkzUURPb21pcEJma3NqUQ?oc=5",
     "news_image": "",
     "news_source": "CNBC",
     "news_age": "2h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
-      "ai_research",
-      "internet_pct"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -16712,17 +16702,14 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 1.43,
+    "news_score": 1.47,
     "news_title": "India's Top 50 Listed New-Age Companies Hit $165 Billion Market Cap - News18",
     "news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVmlsem80QTVveHE5UEI1eFczcWZnT094N2xLQUdhTmlabXdzSVoyd3dydm1xQlhLcWF6anpFd3Z1MlJTNlVKUGdjQzlQZlJ1RlNWRW95OThDVUpYQ09ibGV5dVB0a0laNms1Rm5LRTRSbXk5SlNDZEVBak5iYkNYSnNMNnhJcTUwLTM4djNjSDRpc2ZKQW9UdmR5NlQ4cFEyU3ZzVXExN1IzUG90dEFua1I4ZnRyeDhVa2pmUDIzX2pRa0w3Mzhz0gHHAUFVX3lxTE5WaWx6bzRBNW94cTlQQjV4VzNxZmdPT3g3bEtBR2FOaVptd3NJWjJ3d3J2bXFCWEtxYXpqekV3dnUyUlM2VUpQZ2NDOVBmUnVGU1ZFb3k5OENVSlhDT2JsZXl1UHRrSVo2azVGbktFNFJteTlKU0NkRUFqTmJiQ1hKc0w2eElxNTAtMzh2M2NINGlzZkpBb1R2ZHk2VDhwUTJTdnNVcTE3UjNQb3R0QW5rUjhmdHJ4OFVramZQMjNfalFrTDczOHM?oc=5",
     "news_image": "",
     "news_source": "News18",
-    "news_age": "28m ago",
+    "news_age": "30m ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -18022,7 +18009,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.11,
+    "news_score": 0.08,
     "news_title": "Israel's deep-tech boom reshapes how founders are trained - The Jerusalem Post",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLS05VHNiWVhHSVdsbklyQmxQOF9KSFV4Y0NPUHoxZGw4cmJpNXNMUzJaRk5qT2l2N3I2UTQyaEQ4d3gwT2dCTWJPR0xIZ3E4TnNsTTViMFZxb19WZmU4bm5fOGE2YnRpc21tNWlBTUxyd3hXbFVFZFhTTTdrV0ZfUXladGY1Zw?oc=5",
     "news_image": "",
@@ -28280,7 +28267,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdy1uOWE5ZzZkLWlNOEhtQTRmUlFPRmZmczcyb2l3LUJpMFE4NHRISWdITXZHaVZnRkNfNGt1aEJKYW44MWliMjVWdG9KeF9OTmxxU1hHRy1oa21wY0VhN3FxY0RkU0VUQkJuVmY4RnI4UXA0VEUyUnZYZEt6MUFybmo2Q2stVlQyWm1Ka01JX2thTTJoZ2hhenBzU1EwNEo5?oc=5",
     "news_image": "",
     "news_source": "The Guardian Nigeria News",
-    "news_age": "60m ago",
+    "news_age": "62m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -35942,12 +35929,7 @@
     "news_source": "The Guardian",
     "news_age": "2h ago",
     "news_columns": [
-      "democracy",
-      "approval",
-      "press",
-      "election_days",
-      "military_pct",
-      "nuclear"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.1,
     "bottom50_wealth_rank": 8
@@ -42280,12 +42262,12 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.58,
-    "news_title": "Trump to tap White House aide as FDA commissioner - Axios",
+    "news_score": 0.77,
+    "news_title": "Trump to tap Heidi Overton as FDA commissioner - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMVlFZWTdKS3dmWjBXcjNGcEkxLXhyZnUyYUx4VjN4UlUwUUlucUc4T05Qa2xnc1Z2LUFHU2pvOGxPNHc0VV9yVlBleEs1Q0hIWVdVNEVaSTRqcnFJRURRQ3BrakNkcEtZbV9xVWt6U2ZWUkw2QnUzNA?oc=5",
     "news_image": "",
     "news_source": "Axios",
-    "news_age": "3h ago",
+    "news_age": "50m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
