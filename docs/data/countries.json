@@ -2546,12 +2546,8 @@
     "news_source": "BioSpectrum Asia",
     "news_age": "25h ago",
     "news_columns": [
-      "edu",
-      "literacy",
-      "pisa_math",
-      "pisa_science",
-      "pisa_reading",
-      "phd_per_cap"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -6904,12 +6900,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.6,
-    "news_title": "Trump’s Tariffs on Hold as President Claims Deal With Canada Is Near - The New York Times",
-    "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRDQ4MzBmeUdBV0VLNnNTVXFKU3NkUVowYXZxVE5nNTJiYU9YT1dWOWRhdEg3ZG5NelNqSW55clZsb0lXbVdvOFQyVDdodGEzandYQ1BDUGZTbmc1eUU4c3pNUGlMUFc1b2Z1d0xQdGpEVHhzQnhNa1ZUdGNJZFREdVpyZmpkUQ?oc=5",
+    "news_score": 0.45,
+    "news_title": "Trump pauses 50% tariffs on Canadian goods for 3 days - Axios",
+    "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rQzZ1LUNhUTFPZVA4U2lJSXVPUFhrZGdOdVZaVS1keFZWaGxUc1JxWWNJRjhKNGF2QVFLd2RlRHZxTHFOTzBxOFlvME5MaXhHaERYdlZxbzlOckZoNndmbTU2cDFwQ0pwbjItMFI3OHVtMUFzUnI0VFJ3dTZEN0E?oc=5",
     "news_image": "",
-    "news_source": "The New York Times",
-    "news_age": "2h ago",
+    "news_source": "Axios",
+    "news_age": "4h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -7968,12 +7964,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 2.29,
+    "news_score": 2.2,
     "news_title": "China robot makers flock to Beijing show, seek path to mass adoption - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSmdkcXpfS1k2UmVHdmxLOFQ2UWF1LXROM2d3Zk0wbVUtSC1YbkxaNEZHNl9adVEwakVNN1Z1dVotcVc2YjZhOHh3cDBJZllMX1FPTTd4d1FLbTRSQjNOdzViZHNaQ200Tmt1UUo4bjZYYWVaTFlxaTZTcHRjNzRQX1JnMVBiVmQ3YUQyQzJaZk82aGFMUzczNDdYQTg0OGdxcFNMSnd4SnB6MVlfWXZYQkJnN0tBZlU?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "23m ago",
+    "news_age": "25m ago",
     "news_columns": [
       "olympic"
     ],
@@ -13959,15 +13955,16 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.96,
+    "news_score": 0.99,
     "news_title": "Inside the World's Largest Model Railway in Germany - National Geographic",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYVo3OUdJQjJvdTUzdkhaem5sRTgycExUVE11R090S0tfR2gxUUx1bkI5U3d0SlBnNlI3OTZacW9vbGVSYy1XQ0t6TzlqeC1lNDJiQjNuZTkxMlJJQ044R3NfZXhNbzVrWVJtSy1yVVcyX0R6ekhydGdvbDBlN2FUeXppUUZIQUN0c1JGbHJHQQ?oc=5",
     "news_image": "",
     "news_source": "National Geographic",
-    "news_age": "96m ago",
+    "news_age": "98m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -19144,7 +19141,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdkV4WkJjaEs3Wk1FTkE5eF9pb3lNUEZPbDdyd044dWJJRWkwemJCV3RzMm5mWWFFRnoxTXFhSEpxc1VjeDVfUjlKU0g1a3dOUnVXeF9XT012b3FMX25NNGU5dUt4enRtTDVibDhIWDFBSHRRS1o5aVhUakVGWFVrUDdiMVBlVVdDMXZrZzZaRDlMMk1MbTdJaUU0VEtlczJMd1JN?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "97m ago",
+    "news_age": "99m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -25170,12 +25167,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 1.62,
+    "news_score": 1.61,
     "news_title": "Pogba leaves Monaco after contract termination - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa3NOTWdCcUNHZ2RzbkU2cGZKSHdiMFJPR3BBeHV4YTFpWkVqb05ZdUkxak03azUzNlpZdGxsX21GNjNBVk1zbHdWUWlPNWJMRThBa2ZiLU1XdGNUaG11SjBsRmRRcVozVGZKTnlMUTJJbFc1dWJ5Q2lvS3BYZGo5TjJyVHUybWZfZnNWcW1iRURoM28?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "29m ago",
+    "news_age": "31m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -35430,12 +35427,12 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.87,
+    "news_score": 0.86,
     "news_title": "CFAs: Science and Technology Accelerator – Systems Programme (South Africa) - fundsforNGOs",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUXpJX1dEMHNmZUF4ZmFIQ3lPcWFfM0F5QTNPUnJIMmc1RnNiQ3YwQW0xQlp3YlNYNkNEeXItZjZpaW9wOG5JcF9OX3JNZlFkdEdFMnFHeEhRcUFGYTMzeXZwaGFZZWJFcGRRZ1hUUjd3S2lQQzBVdGJpNHRSY3hkd19XLVhkX193X0Z1VVNsRWhXbHZiWUs0ZUVxMWVvMjlIczlQWE9jcHVnR3N6R3VackF30gG3AUFVX3lxTE1KSEZoREwtYnRXdUx6WkNud0x6UTlfWlJpUXBXSWdfWEU0VHRtdVhldVpGd01UN1VZT1VfSUIzUmpmbG1EbHI4bm1qbGg2VWdvY3ZxZDE4Yll0YWZib0JLTUhmTUxyai1sRC1ibEozaURWLW11VEFOUFVxX05PTU83ZHhDUG56R2IwXzJNaTBJclFRYXpUYXNqS3JzbnZGaTlpb29uci1seUxURHZGRTRfMDU3N3lSSQ?oc=5",
     "news_image": "",
     "news_source": "fundsforNGOs",
-    "news_age": "36m ago",
+    "news_age": "38m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -41007,18 +41004,15 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 1.54,
+    "news_score": 1.65,
     "news_title": "Act for Humanity: Stand with Aid Workers on World Humanitarian Day and Beyond - United Nations in Ukraine",
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1M0RmNlb3J0dVVvTnhDQ2c5ZXFFQW1xb2h0VXZ1WVRua1NPTTIzMnZuNzVEUFNWTm1vN3hRWHRwNDV0YklITkRHLUJaZjQ4OVJvZmFDS2VzUjVkcG9zS0lrVUZqM2xqdmRheHVlOWNCZUt6NGNZVXVQR0xaaGhISFc3amZLODlhalFiSlVYYlFWWElQcTlyU2pDT0lUQQ?oc=5",
     "news_image": "",
     "news_source": "United Nations in Ukraine",
-    "news_age": "70m ago",
+    "news_age": "72m ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -43475,7 +43469,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.46,
+    "news_score": 0.45,
     "news_title": "Vietnam-Hong Kong education cooperation offers pathway to high-quality tech talent - en.vietnamplus.vn",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdkg2Zlc5WkhBWmtqM2lnR09NUjNWQ0FiR1F2STE2M3NxNWhiXzVrdFVFeTg0ZFdVRmtLdXI3a3NQOFBjeThKbVh3eUQ4NVpJbVV6MEZxa0JvcGVtRDRheG1WX2VCRkVDTG9LNGd5LXM0UE1XNldRWk4xUm94WGZYZVlVQkY1Wlp4a01XNjZZQnJQclpzUUl2MGpjcnZHWERQS3psdzRPSUEzc2RBQ2ZZa2p3QmsxdXVpb2FheDB2ZVc?oc=5",
     "news_image": "",
@@ -44009,12 +44003,12 @@
     "union_rate": 34.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 119,
-    "news_score": 0.99,
+    "news_score": 0.98,
     "news_title": "Statement by the Humanitarian Coordinator for Yemen on World Humanitarian Day [EN/AR] - ReliefWeb",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZEZqaUVxczBkWGFFTEhSODZmY2FWeXZ0WG1nQUM3cEt5NjY3Z1o5dV9KbHRvazJkMllZS2RBdVV1TTd2Q1RqaDJMQ3djbENXOE9xVU14eXZXcVBsTVVqY2tqWWRScmhKV2M0SmxNZ2l4SmJ1MHFxUlNaNW9MdHhtZUhOTmJyM1p3Yk94bHlhdHpjWG82WEF0cktyUzNsWWNlLVBBRHln?oc=5",
     "news_image": "",
     "news_source": "ReliefWeb",
-    "news_age": "82m ago",
+    "news_age": "84m ago",
     "news_columns": [
       "nato",
       "military_pct",
