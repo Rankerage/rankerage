@@ -7968,12 +7968,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 2.03,
+    "news_score": 2.35,
     "news_title": "From robot dogs to helpers, China puts robotics ambitions on display at world conference - WRAL",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMG9wNTNGSDdMMjRYTnlCY3ExUWpyYThiaDllRjY3aHZVWUtUWHpFby0xQTQxcnk2RXFTUkxHTlgyajRtR0d5YUFmcmpZSXVRSkdVdzRXRVJ2ZGhCMGdldDRlU1Itc29HQWtRN05LNURyV2VNeWRFMVhrMjcxX0p6bGp2alh5ZW5iY0VESHNMNVRDQWcxYUVCTU5fZ183bExWaVZkaGM5NFBjQi1jTWVjU0wzZ0I4X2J6cE9nc1BodEw?oc=5",
     "news_image": "",
     "news_source": "WRAL",
-    "news_age": "16m ago",
+    "news_age": "18m ago",
     "news_columns": [
       "olympic"
     ],
@@ -12935,8 +12935,7 @@
     "news_age": "14h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13964,8 +13963,7 @@
     "news_age": "4h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -15754,7 +15752,7 @@
     "fifa_w": 81,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 62,
-    "news_score": 0.2,
+    "news_score": 0.19,
     "news_title": "Vietnam-Hong Kong education cooperation offers pathway to high-quality tech talent - Vietnam+ (VietnamPlus)",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdkg2Zlc5WkhBWmtqM2lnR09NUjNWQ0FiR1F2STE2M3NxNWhiXzVrdFVFeTg0ZFdVRmtLdXI3a3NQOFBjeThKbVh3eUQ4NVpJbVV6MEZxa0JvcGVtRDRheG1WX2VCRkVDTG9LNGd5LXM0UE1XNldRWk4xUm94WGZYZVlVQkY1Wlp4a01XNjZZQnJQclpzUUl2MGpjcnZHWERQS3psdzRPSUEzc2RBQ2ZZa2p3QmsxdXVpb2FheDB2ZVc?oc=5",
     "news_image": "",
@@ -16697,7 +16695,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.27,
+    "news_score": 0.26,
     "news_title": "Ho Chi Minh City-India: Science, technology lay groundwork for shared future - Tuoi Tre News | The News Gateway to Vietnam",
     "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUEdhLXFSZndPTzl5Y2xfUlhIVFRrRFQteEE2b2FOR2UwRkZLLUc1alI3dEZjajF2RlZJcEYyODRuSnd6MUR5NGt1b0ZZMjlndktPSkFFQVVleWFkbGI0MUR6dlFOU0FWMkRfUi1YRTNmV2JtLWJ2WDdxbmE3TUctUlJBOHFqNGR4V29Nb1IyTE9pTFNwa1dJSkdtc21oMXJtRzNNZjQzRmE2THlyQ3FINVRNVWxZMzFhREcwS1hB?oc=5",
     "news_image": "",
@@ -17271,14 +17269,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.11,
+    "news_score": 1.17,
     "news_title": "U.A.E. Halts Trade Ties With Iran and Says It Was Targeted With Missiles - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNmtXS01YWG5DUVk4eTdlaEktZE0zYmNOSG1wMVZORUduSWc2NnVZaG9tUjY1d3RNWU9QWDEwTTZiWDlzWmJVcGdqUVFWZThrMVFncGVROV9OM2FYQ21rYXo2RVpUdUpDVEhaMkdpc18wYUYwTDRVMXBnYzFaTzhjZVVuRUpNTjhQOExnR0xnUWhjQlhz?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "56m ago",
+    "news_age": "58m ago",
     "news_columns": [
-      "olympic"
+      "exports",
+      "imports",
+      "gdp",
+      "military_pct",
+      "nuclear",
+      "military_personnel"
     ],
     "bottom50_wealth": null
   },
@@ -19133,7 +19136,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.38,
+    "news_score": 0.37,
     "news_title": "Aston Villa’s Zion Suzuki: The U.S.-born Japan goalkeeper who turned down Man United - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdkV4WkJjaEs3Wk1FTkE5eF9pb3lNUEZPbDdyd044dWJJRWkwemJCV3RzMm5mWWFFRnoxTXFhSEpxc1VjeDVfUjlKU0g1a3dOUnVXeF9XT012b3FMX25NNGU5dUt4enRtTDVibDhIWDFBSHRRS1o5aVhUakVGWFVrUDdiMVBlVVdDMXZrZzZaRDlMMk1MbTdJaUU0VEtlczJMd1JN?oc=5",
     "news_image": "",
@@ -25164,12 +25167,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 1.05,
+    "news_score": 1.04,
     "news_title": "Injury-plagued Pogba released by Monaco - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdmRyRWRweVdXM1JOaVNpR1ctYmltY1NwY3JQc0ZuUnY0ckItMEkwZFc3b2VQWk9Lc3VMNnpEUzJuRGwwSzYtc3NfbDJBNlRFSjRPQ1VTdDdCQUh5X3YwUjBVaEg2MzZkWl9aSVdodVlCZVYxOHE1OUtESVFDUkFCTTZsQURnQ28?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "67m ago",
+    "news_age": "69m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -27599,7 +27602,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYXNJQXpDZjM2cEUyTnVFcFdzbG5qS2EwZVFuYlgwWWp6SnJEX2lTeU1FWHA1WlppU2VBd214TWdHR1AzTkJqVklwRFVMZ0ZWbXhxV3lwM0c3Q3RQOHpaTmlNamI2TUNtVHRUYnR3anBZRmhRSHpYTzVlbllETk9DWTRfTi1wT2psVUFYVmIxdFRvdUxBQUJLd0o4cERfZUlWcHZfRlpHOGE5dw?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "107m ago",
+    "news_age": "109m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -27783,12 +27786,12 @@
     "refugees_rank": null,
     "union_rate": 69.0,
     "union_rate_rank": null,
-    "news_score": 0.9,
+    "news_score": 0.89,
     "news_title": "2 Nicaragua Little League World Series Players Denied Entry to U.S. - Sportico.com",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRjFVUVBvODQ2RGllcDM4dldLMnZGbTgyeG9xdFZzaXVpZE9GR2RZcmY3UGU4R2dFc2NKMVJ5VnRpU2ppamJVbkltZk5lNDh2N2dBRFVLQmdZOThreFNvcTBtcmgxMDVDeXNZc1NKbGd2aDNoLXlUWUV5NjRNSEFrM3VhZkUyM2pSV3hCeDRrcld6dTYxcWM1bTBNSmJ1MDU1bDdmLWxjY0dvVkNhX2ZVT0xfMUUtWTQ?oc=5",
     "news_image": "",
     "news_source": "Sportico.com",
-    "news_age": "28m ago",
+    "news_age": "30m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -29729,7 +29732,7 @@
     "union_rate": 54.7,
     "union_rate_rank": null,
     "fifa_w_rank": 102,
-    "news_score": 0.49,
+    "news_score": 0.48,
     "news_title": "England to bowl against Pakistan in first Test at Headingley - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOXE0MzdpOG1RdUh0QzdLNm5PVHFOY3VYaHJUeVpmQjRCTVdFYVBNc0hsWnNJOHpDeXpFMzJqamFnZlZyeDBrY1dBUV9CMEQ0WVlKQzZLdEt3QXhrcU05Y0gzcFpYSDNHbnUwZENuRmpDbGdhQWh4eHo2VTJlS3lVZ3pELWZVV0dwT2JscA?oc=5",
     "news_image": "",
@@ -34083,7 +34086,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 120,
     "fifa_w_rank": 100,
-    "news_score": 0.41,
+    "news_score": 0.43,
     "news_title": "Miss World 2026 at Dragon Ocean Do Son: Elevating Vietnam's destination profile on the global stage - Yahoo Finance Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU1I1Q3BadWpuY2RlQ0x0TlQxV2p1QkdWWVotYTVQbDhJX1Zzb09GRzJQTk41bWYtNi1FU3RaUGptd09CV3VGYTN5eHZITFdac0RLN3ZLZTdlWnBVVk1NaVkzcDQzSTBQWlZjdEZUdURqSVN3bFJEY3ZabGc1Q21pWk55TQ?oc=5",
     "news_image": "",
@@ -35420,7 +35423,7 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.41,
     "news_title": "CFAs: Science and Technology Accelerator – Systems Programme (South Africa) - fundsforNGOs",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUXpJX1dEMHNmZUF4ZmFIQ3lPcWFfM0F5QTNPUnJIMmc1RnNiQ3YwQW0xQlp3YlNYNkNEeXItZjZpaW9wOG5JcF9OX3JNZlFkdEdFMnFHeEhRcUFGYTMzeXZwaGFZZWJFcGRRZ1hUUjd3S2lQQzBVdGJpNHRSY3hkd19XLVhkX193X0Z1VVNsRWhXbHZiWUs0ZUVxMWVvMjlIczlQWE9jcHVnR3N6R3VackF30gG3AUFVX3lxTE1KSEZoREwtYnRXdUx6WkNud0x6UTlfWlJpUXBXSWdfWEU0VHRtdVhldVpGd01UN1VZT1VfSUIzUmpmbG1EbHI4bm1qbGg2VWdvY3ZxZDE4Yll0YWZib0JLTUhmTUxyai1sRC1ibEozaURWLW11VEFOUFVxX05PTU83ZHhDUG56R2IwXzJNaTBJclFRYXpUYXNqS3JzbnZGaTlpb29uci1seUxURHZGRTRfMDU3N3lSSQ?oc=5",
     "news_image": "",
@@ -35908,7 +35911,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.68,
+    "news_score": 0.53,
     "news_title": "South Korean and US militaries shorten drills by about half after Trump ordered a reduction - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUx1WkNNOFA1UXFocXB1OXFnbFc4dFJNMXdjTkExUmt4MFEtb1dta003UmoyX3VtUExaVlZ5cWJmb0tDS0U0Ym9LNE5EQ1Z4Q2tKaGNJUEh2X2toZ0ZKbGNFc0ZEbnQ2SXo0eGVhRE9lZHJZWlI5cU5uQUFSbHdJOXVEZUh1QlRhWjBmZQ?oc=5",
     "news_image": "",
