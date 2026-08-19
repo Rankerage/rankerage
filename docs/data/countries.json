@@ -2539,13 +2539,14 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.43,
+    "news_score": 0.49,
     "news_title": "Erin Patterson appeals 3 murder convictions in Australia over death cap mushroom lunch - ABC News - Breaking News, Latest News and Videos",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM3R3bnZFNEozakZGVmUzTVdoUTNLZWRESjdjNUU3WFFYaXI5MjJRd0R6RXFoVGtTVzBkSWxITHBONUpBOFJFcktNd3JsSXFuYk82d0NuVVFYOG9xSXZKRV9Ha2tmMmZQZS1MLVZYNkxiR0t3enFnZjkwNDRDTVN1T2Nmbk1EUHlFTVZLUnNmQnFfTkg3VG44dFA3bHFGMXRkM0J1MkZtTXpGdUxTZS16elFZa9IBuAFBVV95cUxNN0FnSVBhd3dqclYxT2p6Q3A3TkRKaTRBc1ZtRHZzaDlVeEdaQ2lUekxEbXJ4bjRIVWNnaUx2cGxPSWt2d2VBQjZuTmpuYlhSbzNhX2oxUXJwZmtBcWFFTWZBNElMUU9CaW9ocWhEUm8tTnZsNjVsOWFaMUNJVThqWG1hcUJkTTE2TWljdWY4VG9GcHcyRjNUckdEVTI0Z2xlVHltdFlKYzEtQjBHOXlFOEtESFdGVTh5?oc=5",
     "news_image": "",
     "news_source": "ABC News - Breaking News, Latest News and Videos",
     "news_age": "3h ago",
     "news_columns": [
+      "fifa_ranking",
       "olympic"
     ],
     "bottom50_wealth": 5.0,
@@ -3306,19 +3307,19 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 1.23,
-    "news_title": "Thakurgaon’s Eco University of Science and Technology gets govt nod - Bangladesh Sangbad Sangstha (BSS)",
-    "news_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KQTV5SWdVelVsT2E2cXU0QW1raGs1Tlc5OGtJNVBSd0tnUjQ2RkdiTWtWMVFSbjJ3bkNIbVZFQjBDdWFKZGg0STR2SQ?oc=5",
+    "news_score": 1.05,
+    "news_title": "Bangladesh 24th largest agricultural economy in the world - The Business Standard",
+    "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmhQYXVFMW43a1M1WWcxZXFUNUdoY05MMlMwdTJvNVYtM1hmYTZZejhnX3hxOTlLNUt3QkJLN09PMnVYYnVlbVdkQTR2aFRNMVFzQW13aklzUmRUSUppeDcxV1pnN2podDNHandJQjhlaS1iNjNMR0gtWWFXbnNfU0pfay1RWVNYcTFoLXpqcXVpM2pidm9XUGNkb2lQTE9hckHSAacBQVVfeXFMUE1NRE0xUktzeW9lTkNnXzc1ME1aRkxObi01YjMzeVJzclE1WlRmTnAyY3MtZ24tX0E2U2VacWhla0pHMTZleDRTSFNYcHNJQ1VsRzNQdW9Ka2pXZ3RGa1dpNUc2bDVJbUdaZVVqZzRzS1dOcDBGMGFpdl94NDZISWFiVllocXlIcFpXRkhDTVhwVzBWSFhPYVphdnJTSTl6ZnJnald5cUU?oc=5",
     "news_image": "",
-    "news_source": "Bangladesh Sangbad Sangstha (BSS)",
-    "news_age": "47m ago",
+    "news_source": "The Business Standard",
+    "news_age": "101m ago",
     "news_columns": [
-      "edu",
-      "literacy",
-      "pisa_math",
-      "pisa_science",
-      "pisa_reading",
-      "phd_per_cap"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": null
   },
@@ -7963,14 +7964,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.47,
+    "news_score": 1.25,
     "news_title": "China robot makers flock to Beijing show, seek path to mass adoption - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSmdkcXpfS1k2UmVHdmxLOFQ2UWF1LXROM2d3Zk0wbVUtSC1YbkxaNEZHNl9adVEwakVNN1Z1dVotcVc2YjZhOHh3cDBJZllMX1FPTTd4d1FLbTRSQjNOdzViZHNaQ200Tmt1UUo4bjZYYWVaTFlxaTZTcHRjNzRQX1JnMVBiVmQ3YUQyQzJaZk82aGFMUzczNDdYQTg0OGdxcFNMSnd4SnB6MVlfWXZYQkJnN0tBZlU?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "115m ago",
+    "news_age": "117m ago",
     "news_columns": [
-      "fifa_ranking"
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -16690,17 +16691,15 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.76,
+    "news_score": 0.94,
     "news_title": "India gold market update: Recovery taking shape | Post by Kavita Chacko | Insights - World Gold Council",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTTZseVh5OW40Vmc1WW5yeUQ4UUxiblVTSDluWUZZSXc1Zldtd2NSRnRoeml3SXcxdndqZVlyMjFFS0dBZ1JZSGhoMWVFa0plUFJGa2F2VUVySEtpV2JtcjBDc2pYRkJ4ZFJwM2d6OE0xWjZKdDNSYmplRkt0MGZkT0x4eG1BNFFhekM2ejExMzR0OVF4bnYwend3?oc=5",
     "news_image": "",
     "news_source": "World Gold Council",
     "news_age": "3h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17269,13 +17268,9 @@
     "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBISmhtaW9HT3BxYllQQmZvYjhwTHBKRG5LSFlBSFFLajl4QTBZVTlheU9uM244UVZ6UDVsTUxSbVdMNmgwSlN1T192UDFhTURxV2Z5ZWhqX1lTSnpuaV96US1IUjdkLUd0TlBNMHdn?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "38m ago",
+    "news_age": "40m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -17999,7 +17994,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.04,
+    "news_score": 0.03,
     "news_title": "Israel's deep-tech boom reshapes how founders are trained - The Jerusalem Post",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLS05VHNiWVhHSVdsbklyQmxQOF9KSFV4Y0NPUHoxZGw4cmJpNXNMUzJaRk5qT2l2N3I2UTQyaEQ4d3gwT2dCTWJPR0xIZ3E4TnNsTTViMFZxb19WZmU4bm5fOGE2YnRpc21tNWlBTUxyd3hXbFVFZFhTTTdrV0ZfUXladGY1Zw?oc=5",
     "news_image": "",
@@ -25161,12 +25156,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 1.33,
+    "news_score": 1.37,
     "news_title": "Pogba parts ways with Monaco after six appearances - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTmVkOGVOZVNiMzVuRW5nUjM3a1g2RFQwY2oxQ3cyZzEtTzdvSkh5R3FBYmJyemg5ekdBR1dsQmJualdEaE16NXk5bExsT3NaOTROaUhtT2JvYlhjczJTTm04ODFBSm1VV3VBUEhCYTRnZk55MHZHbndVRTFoNWJ1a3d3?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "30m ago",
+    "news_age": "32m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -29728,12 +29723,12 @@
     "union_rate": 54.7,
     "union_rate_rank": null,
     "fifa_w_rank": 102,
-    "news_score": 0.75,
+    "news_score": 0.74,
     "news_title": "England to bowl against Pakistan in first Test at Headingley - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOXE0MzdpOG1RdUh0QzdLNm5PVHFOY3VYaHJUeVpmQjRCTVdFYVBNc0hsWnNJOHpDeXpFMzJqamFnZlZyeDBrY1dBUV9CMEQ0WVlKQzZLdEt3QXhrcU05Y0gzcFpYSDNHbnUwZENuRmpDbGdhQWh4eHo2VTJlS3lVZ3pELWZVV0dwT2JscA?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "103m ago",
+    "news_age": "105m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -34082,12 +34077,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 120,
     "fifa_w_rank": 100,
-    "news_score": 0.67,
+    "news_score": 0.66,
     "news_title": "Miss World 2026 at Dragon Ocean Do Son: Elevating Vietnam's destination profile on the global stage - Yahoo Finance Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU1I1Q3BadWpuY2RlQ0x0TlQxV2p1QkdWWVotYTVQbDhJX1Zzb09GRzJQTk41bWYtNi1FU3RaUGptd09CV3VGYTN5eHZITFdac0RLN3ZLZTdlWnBVVk1NaVkzcDQzSTBQWlZjdEZUdURqSVN3bFJEY3ZabGc1Q21pWk55TQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Finance Singapore",
-    "news_age": "96m ago",
+    "news_age": "98m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -35907,18 +35902,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.44,
-    "news_title": "U.S. Cuts Back Military Drills With South Korea, as Trump Woos Kim Jong-un - The New York Times",
-    "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNVJCU2R6cEp4R0Y5cFJzdTl0NWRua2pIRW1iMi1RR0RpOE04SjdENzhndENNMjczRlFZMXNBYl9LeWZvNUFhcmFhUzUtNi1NWndPVnN0Z2tieGpuNkNodVpQN1pxWTlFdklSVTFWb3hmbFNjT1FNNTJhRS1VNk9HUXkwX0I2dFFUTzF4RWpYcWJKcFdkaXc?oc=5",
+    "news_score": 0.5,
+    "news_title": "Inside the tension that drove Trump’s South Korea alliance from ‘historic new era’ to military pullback - Fox News",
+    "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNFd1YWFvN0ZtZjB3TkJOcUhpOEtzZWs1MG9zbzNmNmdkOVljWWpYaE9FR1B2c1hSeUN1Wlc1d3V6SlNNQzdXeXhlc3JFMHFVWEN4Z20tSnVHajAtdzNZT0Q3eGFtRVlRdFhwejRTdnJfblgzOG52NktBc3NJeko0UVJQRGFJR0dyVHc2RldRRHJ4YVlRekZSeEJrQWFHNlVhY21TeVpveV9EWjhBNHfSAbMBQVVfeXFMTWFDY2dXWF9fVVp6eUR3Q24zb2hKV25TMmZJVGxSTVNnYmRJSjhOWGh6UHNZZWhaR2QtczJFUTFTUE1VRksyczFDSUxpQVE0TF94QlJ2Z0laTWFkWE92NHFMSHdOTWxXdTRIYkVVaHJJcUdNbVNreWh3eXlYR1NmcW42eDFMbW90RDh2clBPdEltckxsQ21QZE5LSlBOdk5tQUc0WU03MlUtWHJQTnlhOTJUaWc?oc=5",
     "news_image": "",
-    "news_source": "The New York Times",
-    "news_age": "4h ago",
+    "news_source": "Fox News",
+    "news_age": "2h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
       "military_personnel",
       "gpi",
-      "arms_export"
+      "arms_export",
+      "nato"
     ],
     "bottom50_wealth": 5.1,
     "bottom50_wealth_rank": 8
@@ -40995,18 +40991,14 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.64,
+    "news_score": 0.7,
     "news_title": "Act for Humanity: Stand with Aid Workers on World Humanitarian Day and Beyond - United Nations in Ukraine",
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1M0RmNlb3J0dVVvTnhDQ2c5ZXFFQW1xb2h0VXZ1WVRua1NPTTIzMnZuNzVEUFNWTm1vN3hRWHRwNDV0YklITkRHLUJaZjQ4OVJvZmFDS2VzUjVkcG9zS0lrVUZqM2xqdmRheHVlOWNCZUt6NGNZVXVQR0xaaGhISFc3amZLODlhalFiSlVYYlFWWElQcTlyU2pDT0lUQQ?oc=5",
     "news_image": "",
     "news_source": "United Nations in Ukraine",
     "news_age": "2h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -41218,19 +41210,15 @@
     "refugees_rank": null,
     "union_rate": 79.6,
     "union_rate_rank": null,
-    "news_score": 0.78,
+    "news_score": 0.9,
     "bottom50_wealth": null,
     "news_title": "Live updates: UAE halts trade with Iran after accusing Tehran of firing ballistic missiles - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBISmhtaW9HT3BxYllQQmZvYjhwTHBKRG5LSFlBSFFLajl4QTBZVTlheU9uM244UVZ6UDVsTUxSbVdMNmgwSlN1T192UDFhTURxV2Z5ZWhqX1lTSnpuaV96US1IUjdkLUd0TlBNMHdn?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "38m ago",
+    "news_age": "40m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "olympic"
     ]
   },
   {
@@ -43480,7 +43468,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU1I1Q3BadWpuY2RlQ0x0TlQxV2p1QkdWWVotYTVQbDhJX1Zzb09GRzJQTk41bWYtNi1FU3RaUGptd09CV3VGYTN5eHZITFdac0RLN3ZLZTdlWnBVVk1NaVkzcDQzSTBQWlZjdEZUdURqSVN3bFJEY3ZabGc1Q21pWk55TQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Finance Singapore",
-    "news_age": "96m ago",
+    "news_age": "98m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -44006,16 +43994,14 @@
     "union_rate": 34.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 119,
-    "news_score": 0.56,
+    "news_score": 0.63,
     "news_title": "Statement by the Humanitarian Coordinator for Yemen on World Humanitarian Day [EN/AR] - consultaelectoral.onpe.gob.pe",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZEZqaUVxczBkWGFFTEhSODZmY2FWeXZ0WG1nQUM3cEt5NjY3Z1o5dV9KbHRvazJkMllZS2RBdVV1TTd2Q1RqaDJMQ3djbENXOE9xVU14eXZXcVBsTVVqY2tqWWRScmhKV2M0SmxNZ2l4SmJ1MHFxUlNaNW9MdHhtZUhOTmJyM1p3Yk94bHlhdHpjWG82WEF0cktyUzNsWWNlLVBBRHln?oc=5",
     "news_image": "",
     "news_source": "consultaelectoral.onpe.gob.pe",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
-      "nato",
-      "military_pct",
-      "gdp"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
