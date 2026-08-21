@@ -1921,12 +1921,12 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 4.34,
+    "news_score": 4.28,
     "news_title": "Paredes banned for 10 games after World Cup final fracas, Argentina fined - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWlBpR2t3SUZ6Q25IYUd6ZWNVc2xtOW9EN2lrTEM5VGhlcGlIZWtyNHpfN0FxcE9kdU1ES2tfaG5KVk9Hejc2MzBTdUltRFgyTFJ2QVJKcEtIdmc5dDJSd0hSREVRblF4T3dHMUh5NEtHcEp5RDJaNDhEMllDOHM1NUpOTDZUXzdRSS12VFpIX0NuWUJsbTQ4d0tkUjVRMUNYQzZHVkkzZWprY1VYTUVzQ3JQZF9QNUY4UGc?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "76m ago",
+    "news_age": "78m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -6901,15 +6901,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.12,
+    "news_score": 0.79,
     "news_title": "Henning Named to Canada U20 Team for FIFA World Cup - Michigan State University Athletics",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSmliQmhWRlMyQ1F2V0owdHBybVRQYlVucVpxM0l5Znp5WXhCQk1XNUdwTXB4VmpUeXRtLWhkWjh2R3BnLVZMMzB2aEdlOVhOdzVHZ0pwcUVUb0lyT1ExZk5UdzhTd3lXcTFYY1ZqbWNEeXQ1cWNhQmRaUE5IR3JXWkN1VGJxdjVDRnV5MFF4RHhlZGw3Z292ckw1TzM1eHowb053Q09sMA?oc=5",
     "news_image": "",
     "news_source": "Michigan State University Athletics",
     "news_age": "2h ago",
     "news_columns": [
+      "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket",
+      "edu",
+      "literacy"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -7961,12 +7965,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.7,
+    "news_score": 1.3,
     "news_title": "Live updates: Key Iranian trading partner China rejects Trump’s ‘economic D-Day’ threat - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NQkZSTmhtZGZDNVQ0bTh4WHI2WUdEOTVSTVh3N2tkcl9YSHRtdW5wN0JlSzV2SnpJMWJ5eGlDTDZpVzQ5ZG9OTEN6VmEwUW9QRjAtNGc3b1ozMW4wd3l1OXhrZkZrOEJMMGU0UUJR?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "40m ago",
+    "news_age": "42m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -9021,7 +9025,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM1FFRnlyLVF0RVZCYkx6UVRoVEU0WFd4UHNObDR4aWxoSkhxY3I0U1pmREttZHpDTmRKRjVyU2NiZnp3TXQ0aV8wQ25EcWFScDJPTzhDVEFmZ0t1LXNENEhqMWtQMnM1dGRjNDZZWkoyalEwM2QxVWo4WWZrMHo1YnJRbndBZ0dUQnlUREp4VkU0Zkl6MGtIUXJHT0tWVGNuQnBoOGdWb0h1dDJ2N3JVbVJTbV9Td2JhSTdBQWRrR192bnhzY1RkaQ?oc=5",
     "news_image": "",
     "news_source": "thenationalnews.com",
-    "news_age": "1522h ago",
+    "news_age": "1523h ago",
     "news_columns": [
       "exports",
       "imports",
@@ -12921,7 +12925,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.36,
+    "news_score": 0.54,
     "news_title": "FIFA suspends Argentina's Paredes for 10 games over World Cup final clashes - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT3RvTUthaGIxRllCMURwQWNLLVY0NHoybVZBa2dVSGJXSzVFUWZrZlJBYjJtWnhwVlFNU2EydDJCS1JybFBNVHhlS2ZOZTBHTmtHMmhrNWFxdTdhTk1pMjdiVzZTZUxVSHJMQmN6ZkRCUFhpNzhLU0hFenlpdTJwdk9SRXA1UmFaRDM4MXVQdHBoOHpXZll1RVBBTHpRNEdXbDB6UkJ1TkJyVGZoSzFYdUpWUmpZVXhpZUE?oc=5",
     "news_image": "",
@@ -12929,9 +12933,7 @@
     "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -18443,7 +18445,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.32,
+    "news_score": 0.31,
     "news_title": "What Washington’s new Science & Technology strategy asks of Italy - Decode39",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTWpCNkk0MjJnWngzMk5hM0VrUlR6bmRCVC1KeUYyd3czSWhzNzRJRlIwWVdxQ2sxRkNIcmpvRDFraHE4MERNV1hyVzdQR1hYdVlhSUpCQkZXV3lWTVF2Nzg0NzkxaUVIbFlWaWYwd09HSkNiekhvaFZpOEM0UWVLLTVTVm9sT3doN2JabXhnRzZiN0Vv?oc=5",
     "news_image": "",
@@ -19130,12 +19132,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.85,
+    "news_score": 0.84,
     "news_title": "Mai Yamamoto Named to Japan’s FIBA World Cup Roster - Just Women's Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT21QUlc0RnNoUnNZeHgwT0ZOaFI3d0dieHBFa3VhYnppcjFUQWN0Y2dmNkFoSnhUb19tamhMc3RkbnJuRnFNTFZadEctRVpwb3lYNlBFeTNlMWlOVDBUeFQwR0tPZGpONHZpZkl3bEZNbEdDLTY5RGc1aDlYVGVtVXZ5Tl9rcXZLOTRN?oc=5",
     "news_image": "",
     "news_source": "Just Women's Sports",
-    "news_age": "41m ago",
+    "news_age": "43m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -22909,12 +22911,12 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.96,
+    "news_score": 0.95,
     "news_title": "Malaysia's JDT claim unbeaten run world record - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSFJwOUtsdmUxVDZSSW13ZkRkUjI2dW0wRnZIYVBvZjNaaUZCYjlmMFZ3djhVUFF1Zmg2NTdDWUVuZG1Nc2NhQlRrbGpRTUlqbkhNc00yWG1CT254ODBZRFdMR1VtOG9weVRWQUVBcTI1dlE4anQ4dTNvOTFxX0wtaW5CVC1rVXNUQ3c?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "100m ago",
+    "news_age": "102m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -31432,16 +31434,19 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.12,
-    "news_title": "Every ADCC World Trial Result: Here's Who Is Going To Poland - FloGrappling",
-    "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcmt2WU92Vm1yY2hGcnNPT2FzSTFnUkRfYWYyU1B4R256Vm41WG41ZkZsMUJtVktTTnFvekdNSVluNXI4akJ0ZEZXcjRTRzUwWllPOHJNQWRkVXBCRjYyaC1lU3RLRDhVVGhNSjVIWEZxamdzcTBicm1sbThiOUpCT2Zma1MtVlBkeU1xNXhwTFpSb3N2RDBzYWpVX2FpVjZxSVUzMDBvTGI?oc=5",
+    "news_score": 0.08,
+    "news_title": "Poland now sixth-largest EU economy, ahead of Belgium and Austria - Euronews.com",
+    "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG4zUUhUV3lvcjJybFJHQlI4cjZwUzVMMGpQY3lVNlhSb3NmQ0pSbzRUcDJfczdqUzU5VUhTQmk0VkxROE1OSHg3RWtOQVIxajRBLWREYm84Ujc3TnFKZU16RW4zdUt3eG16SG5STVViQk1UQk1Ed1RWYmtWTUhkeTkyRnFsTlg4V3JzXzE4UlU3NXV4Sk01Vk11NzNvRXJhUnpMNWJXTVhxNmRpdjFUdlVBTQ?oc=5",
     "news_image": "",
-    "news_source": "FloGrappling",
-    "news_age": "3h ago",
+    "news_source": "Euronews.com",
+    "news_age": "299h ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": null
   },
@@ -36475,7 +36480,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.48,
+    "news_score": 1.94,
     "news_title": "FIFA bans Argentina's Paredes 10 games over World Cup final melee with Spain - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNl9NOXpaQUZpZWZvb29fQm5Pd1M5bUVJTndOWXRhR3dmOGt4c05TZzdQUk1NNk1jODl4WlFMMnMxQ0ROUkhMYmphUmh5b0JGRHBOMFhBNXE3X0hFY3BrU3gxMzU2TzNCYnRuUG4wMFNyTTl5ZEE4Sktuc3N1bXpVU3haTThkN1k?oc=5",
     "news_image": "",
@@ -36483,11 +36488,7 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "fifa_w"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -40037,7 +40038,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNndTaVpOME5EN2xQbUEybmpjZGxhemNzaEY0VDcxT1RxX1JHREpmZkw4eUhNSUY1MEh5MDFpWE44VkJOSHBNR2RhOHZ1ZVJEX3Y3em9sSzhLLXFGVm9yeHpxRk5aeTY1VXA5LVVRZV9iUll0T1FwV1ZLZlIxejc0YXNac05hdTh6S3BTcFlETVRCd0hZcnNfRGxTc2VMblRCMm5XUzhKdXZrTXhTYTlNQk8xZXljaVFrVjNyVHRzc2N4eU41WlVzR2pRUHhEdw?oc=5",
     "news_image": "",
     "news_source": "Anadolu Ajansı",
-    "news_age": "26h ago",
+    "news_age": "27h ago",
     "news_columns": [
       "democracy",
       "approval",
