@@ -1,61 +1,59 @@
 {
-  "last_updated": "2026-08-21T16:31:37Z",
+  "last_updated": "2026-08-21T21:00:48Z",
   "total_rankings": 136,
   "total_countries": 197,
   "version": "1.0",
   "update_frequency": "weekly",
-  "global_narrative": "Global sports and political events dominate headlines, with FIFA sanctions, World Cup preparations, and geopolitical tensions shaping the news cycle.",
+  "global_narrative": "Global sports and geopolitical events dominate headlines, with major narratives around football transfers, World Cup sanctions, Little League World Series, and economic tensions involving the US and China.",
   "trending_stories": [
     {
-      "topic": "FIFA sanctions after World Cup final brawl",
+      "topic": "Klay Thompson's move to Miami Heat",
+      "entities": [
+        "US",
+        "MIA",
+        "DAL"
+      ],
+      "columns": [
+        "basket"
+      ],
+      "weight": 0.9
+    },
+    {
+      "topic": "FIFA sanctions on Argentina after World Cup brawl",
       "entities": [
         "AR",
-        "ES",
         "FIFA"
       ],
       "columns": [
         "fifa_ranking",
         "fifa_w"
       ],
-      "weight": 0.9
+      "weight": 0.8
     },
     {
-      "topic": "US Open and tennis injuries",
+      "topic": "Little League World Series ongoing",
       "entities": [
-        "IT",
         "US"
       ],
-      "columns": [
-        "olympic"
-      ],
+      "columns": [],
       "weight": 0.7
     },
     {
-      "topic": "US politics and trade policies",
+      "topic": "US-China economic tensions and tariffs",
       "entities": [
         "US",
         "CN"
       ],
       "columns": [],
-      "weight": 0.8
+      "weight": 0.6
     },
     {
-      "topic": "Little League World Series and youth sports",
-      "entities": [
-        "US",
-        "NI",
-        "PA"
-      ],
-      "columns": [],
-      "weight": 0.5
-    },
-    {
-      "topic": "AI advancements and real-world applications",
+      "topic": "NFL preseason and contract news",
       "entities": [
         "US"
       ],
       "columns": [],
-      "weight": 0.6
+      "weight": 0.5
     }
   ]
 }
