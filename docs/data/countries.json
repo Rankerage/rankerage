@@ -2544,7 +2544,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IN3NuVVJxTTVyX1N0OVRnZmJXUnI2b1RuSzRqQ212OTNyeFEtakxJOUtYcE1WdE5ONF8td1ItODEzVmxtZXJvcWJUN1FKdEhVQ3dYQ3NDcXprUQ?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "12h ago",
+    "news_age": "13h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -6910,12 +6910,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.46,
+    "news_score": 1.16,
     "news_title": "Canada-U.S. Trade Talks Collapse; Washington Imposes New Tariffs - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXJicWNvNlVhUFZsYjd3QXBXbnQ1MzRGYXNCM2tkUnhLWFVaNnVxYjR4dThzMEpyUVQ3SjJOcUNKYm8xR0NGMG80d3gzdW95OUxSb3dZXzI2NWpoZEpYamxIQ2dQajFvMi1udTNjYmpVQVIxWkhGazRrYy1tTTQ1c3hmVDBoVHNmbXd3QmZ0TXpIeEZ6dUpjZm1n?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "56m ago",
+    "news_age": "58m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -7985,19 +7985,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.1,
+    "news_score": 0.42,
     "news_title": "Live updates: Key Iranian trading partner China rejects Trump’s ‘economic D-Day’ threat - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NQkZSTmhtZGZDNVQ0bTh4WHI2WUdEOTVSTVh3N2tkcl9YSHRtdW5wN0JlSzV2SnpJMWJ5eGlDTDZpVzQ5ZG9OTEN6VmEwUW9QRjAtNGc3b1ozMW4wd3l1OXhrZkZrOEJMMGU0UUJR?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "8h ago",
+    "news_age": "46m ago",
     "news_columns": [
-      "exports",
-      "imports",
-      "gdp",
-      "military_pct",
-      "nuclear",
-      "military_personnel"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -9049,7 +9045,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOekdDMV9GR2o4OVliVWNMSnpSOUNFamRxeWxzbnZraElYVmpYdUhNMzdLUHdmbi1FcGplUmQxOG95dkczVEJiNWtYX3R4cnl6SGJONVJoODVacGFVczRra3g4aUlXN0l0R1dTUldsWEhRRWRmcUdrNEpvSkQ5dXhYZHZMSmw0aGlp?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "80m ago",
+    "news_age": "82m ago",
     "news_columns": [
       "immigration",
       "emigration",
@@ -12958,9 +12954,7 @@
     "news_age": "14h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13476,7 +13470,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.34,
+    "news_score": 0.37,
     "news_title": "Former Browns, Texans RB Nick Chubb announces retirement - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR0YzaXZPVFRSX1lCMGhPT1VDaGVmd0pVb1dBdkQ4S0xYaFhReW1yRUlLdHhIcjVjamNnZFVWM0F4dWxhdnp3NlFzZVlPeEowN0pNTXVIbjR3N09pb0M3UmxPd1ZnbXJ2TWwyNmpMdUJ4MkZXNkN6QnNlTGJQNl9udkRHUUxRRWp4REdOdWdGU3oxbUUySHRfZA?oc=5",
     "news_image": "",
@@ -13978,7 +13972,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.5,
+    "news_score": 0.47,
     "news_title": "Germany secures team jumping gold at FEI World Championships - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSnhoOXM3eTVTTVRaTmRVcTl3NzREb2lrR3pnMkFTbnhnMElESmtWYVlNTXdmTlU4cTVPRDk4WEwzdjVMWFlsT0lhMjdManJyUzN0Mk05YlNJaWVhQnJwajhXOFlYMlNkNW0xMXZ5OG5iR2hiYUZ3bXlBQU1MNmd5SGpiRXA4Njcxc1Q5SkNwbnR6RHF2b2UxaVU1YWh4R2dTTS16YkNjU0hNaHd1MjVBSTgxMA?oc=5",
     "news_image": "",
@@ -13986,9 +13980,7 @@
     "news_age": "4h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -17295,12 +17287,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.05,
+    "news_score": 0.28,
     "news_title": "Live updates: Key Iranian trading partner China rejects Trump’s ‘economic D-Day’ threat - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NQkZSTmhtZGZDNVQ0bTh4WHI2WUdEOTVSTVh3N2tkcl9YSHRtdW5wN0JlSzV2SnpJMWJ5eGlDTDZpVzQ5ZG9OTEN6VmEwUW9QRjAtNGc3b1ozMW4wd3l1OXhrZkZrOEJMMGU0UUJR?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "8h ago",
+    "news_age": "46m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -18031,13 +18023,14 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.81,
+    "news_score": 1.0,
     "news_title": "Israel probes killing of Hind Rajab, Gaza child who called for help - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORHpTWWJ2UHU5bnZNVGFERVR6ZTVPR01TMU4ydXpCaTFxNTlYdG1ORXV5MEhMVUl4NDY4MnFHRDZJTk5iUlhubjNTTXhUMC1BNElnNS1CQlNad3RLUmtrRTYxUTVFem5PSUpJdWc3QTBjZXMyLU9GanlieWwzU2g3SDFQTEpOTXRVdm1mY0V3bVhpM1VvOTdEMUtkbjJfQThwRzhvYW1wVFRRbXFL?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "71m ago",
+    "news_age": "73m ago",
     "news_columns": [
+      "fifa_ranking",
       "olympic"
     ],
     "bottom50_wealth": null
@@ -19347,7 +19340,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.39,
+    "news_score": 0.4,
     "news_title": "Jordan Love plays one series, throws TD pass - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZjJ6dmhMMVh5THNKY2otUDY2WG54dzNESTVWVEZtMjl5dDFiZmJRb09RX19tQ1cyNGpxYUxMbnFMZ2l1SDgtWW1QVFMtc0V2UHBrWlVEb2JQUWo4YW4taFhRTEpuUWRpUTJvSm1wYll1SXJzcHV0NlJ0bmJLc1pzSWlna1kyYUZHVWRJWFZwVnA?oc=5",
     "news_image": "",
@@ -41016,18 +41009,15 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.8,
+    "news_score": 0.68,
     "news_title": "Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT0pmdWd4SEpWUTcwZUhOTE1oSlBNQ05DNXBBeV81Rm9JRzdNdUppODJCT0M1QXF6NzUzUTd6UVowazJaNE5kX2N3d2hwbHRybXNFSlFhcVpXY3Y4dDA5YTZWamlKQkVLY1FILTcwYjlMY2hKUVRRY0ZJUmVsZlU0LWVici1IR1RRaEQ1NWpqbVFaLUhsUFdVREpzOTNOS0R5TkNjcGc1bEhGZFhCaTVoUy1lVU1QLS1ReWJSYmNsRVVRZjNfOHQtZmpR?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
     "news_age": "3h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
