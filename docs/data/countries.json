@@ -1926,7 +1926,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNkpQWlktdVo2TVdWSGZWNDEtWTJsVk1LZVRETzN5MlpZTDRMNUZIbHNydkw5Wm1paWRiblVrb29kT3FvYnFTY0h0bzJFc1lJbkdheGtiNmJhV054WVdFU29xdG0wM3pmNHZLWng1clRUeERBSlRKTkhtbnRKSFFCSkQ3MzhmUF9KQnc?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "78m ago",
+    "news_age": "80m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -6908,7 +6908,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.91,
+    "news_score": 0.9,
     "news_title": "Canada-U.S. Trade War Escalates as Talks Collapse - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXJicWNvNlVhUFZsYjd3QXBXbnQ1MzRGYXNCM2tkUnhLWFVaNnVxYjR4dThzMEpyUVQ3SjJOcUNKYm8xR0NGMG80d3gzdW95OUxSb3dZXzI2NWpoZEpYamxIQ2dQajFvMi1udTNjYmpVQVIxWkhGazRrYy1tTTQ1c3hmVDBoVHNmbXd3QmZ0TXpIeEZ6dUpjZm1n?oc=5",
     "news_image": "",
@@ -7988,7 +7988,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSGNTV1daV0JEc3lIaVhNSHpBeXA4U0ZHTU5PS252cmNCUkd0WkhTZmY0cFh6N0ViLUFHaGZVaXFaWkR1cmNVQmc1ZDdZbzhaWl9MRy0zN3FnZTNlMEppaU9Ud3FYRzZmWHR0cnF1MFpYZlY3Zng4aUs3Q1NhcHF5VlZHX2hDb3FnYnczcmJKby1FSVJneG8zdTk1enVmRU9qdzYzNjg4QVlQbWJFNTliSjhlR1J2LTMzbnd3Qlg1RUxSdkdSQWxuWHVRMlJhcXFQYlRvQUpWWDJUTktkbkVr0gHmAUFVX3lxTE4zdnZNRU54Q1hRbWhFb3lKazRLTXdGX1o4d0syUElYTkEtemlRaFpBa1BZZGJKdGMzcTV6ekJTaE5LODlSZEJKU0Zkc2ljLWVrUlNPM1pSeVYzMHppcHcwNGVPaGs2bmJHMnkySE9ZbFloZkVmbWdmUWU2RC1xQ2l2bmE2UFI2cG8zb2swSGJxdjREOUhGeVFxeWJUUXduaF8yQVBRQXpHX1hGdHBEOEllY2U2Uk5jTnpHUnlVcnJWZ09KeFFwUlFsZTVreWtmZGFaRndobnJpNF9LcEotVm0xeHBQajV3?oc=5",
     "news_image": "",
     "news_source": "The Indian Express",
-    "news_age": "36m ago",
+    "news_age": "38m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -13473,7 +13473,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.74,
+    "news_score": 0.73,
     "news_title": "News 3 PrepZone Week 1: Georgia high school football highlights - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oNmhRNjF3aDREQmtkRUt5RXpocWJZRUtSU2dwc2U5Sm1KZldOQkJ1VTFGWU9SWXpxcW40YkpEUk42NzdocGxIWlY3OFo0dUFSQld5OVdjRjgydGEyQy1yblU3WUl0VUxIanlfemVPY0VXVk9OYkVZRE8tVQ?oc=5",
     "news_image": "",
@@ -13977,15 +13977,14 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.18,
+    "news_score": 0.24,
     "news_title": "Germany secures team jumping gold at FEI World Championships - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSnhoOXM3eTVTTVRaTmRVcTl3NzREb2lrR3pnMkFTbnhnMElESmtWYVlNTXdmTlU4cTVPRDk4WEwzdjVMWFlsT0lhMjdManJyUzN0Mk05YlNJaWVhQnJwajhXOFlYMlNkNW0xMXZ5OG5iR2hiYUZ3bXlBQU1MNmd5SGpiRXA4Njcxc1Q5SkNwbnR6RHF2b2UxaVU1YWh4R2dTTS16YkNjU0hNaHd1MjVBSTgxMA?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
     "news_age": "7h ago",
     "news_columns": [
-      "coffee",
-      "tea_consume"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16716,7 +16715,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.61,
+    "news_score": 0.6,
     "news_title": "India, Finland explore deeper business and tech ties at circular economy forum - The New Indian Express",
     "news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOUlRU0VCZDNkNFE0OS00TXNEYkNqaVpNWFBNd3N6aU85YVRiZ3dBTktqbmw5QWRtemIyNnZKdHp4d01yNFlONWVMT2h4LXg1X0V0N2tzVkd2Q0JZZDY1UlpJSmYycmZXQ054X2Y2Q3B4Vl9JanhTQVNQNjRrS0cyemx1ZS1fX0FneHVaczZUM0F1MGFHeFpocTl4SVJ6YVZ3ekdLUTJNdXZiNGZrdHBMRkRpWTV2dGNCWHNlcWh4U0lJSmdyVEhB0gHUAUFVX3lxTE0xR3JtWXc4SGR0aTFmVnRlaHoxbGExSHZRSXllZ243ekhzSkYxbWlCLUVVb24xRkJpYnc4SDJWNnN6dERuOTduZlllSU1VTVdJYkxWdE1zTVlJZ2xTZmx3Rk1mTXVhaGUyaGRSbUIwWUpWR24wNGpjV0pRWUNUaFQ5QlV6Mll1b3J4WWxvMXhQYjh5U1lndjQ3SG05NV9UWndKYUZUemdKcGFmbDNPN2NqcWRoU29DRXJ6LTZxYkYtT1o2SWxJcmRRaUEySzRSRjQ0WUlB?oc=5",
     "news_image": "",
@@ -17292,12 +17291,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.73,
+    "news_score": 1.77,
     "news_title": "Iran-US war live: Trump says Tehran not ready to make ‘right deal’ - The Independent",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbmx2LWh6MEF3ZEd0emlGZ2JVUW9PS09wWVdIVUlvakl5eEEtdHpKazhBcm1IZXJsRUNaVTh2c0JoMS1XQlNXMmNlWVNWa2tXNnNPV1R1YnJ4bUZGY0REZWxHVHc2NkF3TXM4NS1qczUxM29jMGRvbDh5QnZMZ3RIeFk4TVRGQzE5MHVXNW91UmdUMlZWTmNvNGhfLW51eFEtMFNudjdRZ3hYaEgtVjA4dWNtRjVIOW5rYlpyZg?oc=5",
     "news_image": "",
     "news_source": "The Independent",
-    "news_age": "12m ago",
+    "news_age": "14m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -32932,7 +32931,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.09,
+    "news_score": 0.08,
     "news_title": "Explosions rock Kyiv as Russia launches ballistic missiles at Ukraine's capital - The Kyiv Independent",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObFpZWmxlLW5tSGRlS2UwX2RrUkd2SGlicHFjWnFCR3diUXhZTDMyakFZSXFiS3ZtWnNPbzIwN19yeEVWYjhUUW50U3haWEU0d1NhUi01ai04MWstU0NzLWxualhMR3d5MlAwS2lMV0JPTHo0c2FWZ0lRazlQM1lINWtmQXozNWl4Q3otQThZdXlkY0V4clZ6dWV2WUQ5RnNQZ3ZFNmZTZWp3LVFxbFE?oc=5",
     "news_image": "",
@@ -35442,12 +35441,12 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.85,
+    "news_score": 0.86,
     "news_title": "Former world champion boxer Zolani Tete killed in South Africa - KVUE",
     "news_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTl84LVFwV2lDRG1tc3habW8wTWx3YVRYdEtlc1lFOVAzTFZIRzZNYlQycTdtY3JNU2xSYTdmQXBDRVdDcS1adFh6NDZleDFMZGNqOXBqbXpCSTYybTdEMm9uSWVSZUl5ak8zRzczVVhXbE1vV3JoNHVub0ZaZ3M0TmhyTE9HYnRhdG40cEJaRzk3aWhoSlo1Y2FJSi1lTklOYzNoR2tXWTY3WEdXM0dJdEpCZE5qVTFzNE8yWXV4a0RnblNzbUdZVXppcE9sX2VRRlhEcWZxdC1JQWlZQTU4NnM4YXpUQ19vcVE1c0Etc3BDUQ?oc=5",
     "news_image": "",
     "news_source": "KVUE",
-    "news_age": "38m ago",
+    "news_age": "40m ago",
     "news_columns": [
       "olympic"
     ],
@@ -36500,19 +36499,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.05,
     "news_title": "Argentina-Spain brawl at World Cup final results in 22 games banned, $270,000 in fines - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc0hlWVhEN1BMMVFDX09zbF90UXN0S2ZSdWJnT0JzUWJIcGRZRW4xNmVtWFpIVG5PQXVOUlNCcWVYdzRFdEhUaTlmWE83djBzSThIM0g4U29ESlRNckFGVjNROG1JWVFzR3pTVFl1RVBSVWlMT3IxY2ZtVjAtY0RNZ2JFZzJ6cFU?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
     "news_age": "14h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
