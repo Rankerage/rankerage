@@ -1921,7 +1921,7 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.93,
+    "news_score": 0.91,
     "news_title": "🗞️ Front pages: Mourinho returns, Julián flares up, Argentina punished - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNkpQWlktdVo2TVdWSGZWNDEtWTJsVk1LZVRETzN5MlpZTDRMNUZIbHNydkw5Wm1paWRiblVrb29kT3FvYnFTY0h0bzJFc1lJbkdheGtiNmJhV054WVdFU29xdG0wM3pmNHZLWng1clRUeERBSlRKTkhtbnRKSFFCSkQ3MzhmUF9KQnc?oc=5",
     "news_image": "",
@@ -1929,8 +1929,7 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -6909,16 +6908,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.98,
+    "news_score": 0.95,
     "news_title": "Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2RBa0xGOG9rdlNQbG53UEhIMXVBb2lhVllhVmRqUzU2bFZpX1RtV3ZMMXZkbXpFMEFpMV9oT0M3aEpMbzdzcWw1SFlaVWNqWGJZYzJ2bml0djNLSG5jQk41WjNVV1FBR3RUdm1PQ1AtanRLcmxYcXctdVBqVU92Q0lydWdrdw?oc=5",
     "news_image": "",
     "news_source": "NBC News",
-    "news_age": "79m ago",
+    "news_age": "81m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -7099,7 +7101,7 @@
     "refugees_rank": null,
     "union_rate": 73.6,
     "union_rate_rank": null,
-    "news_score": 0.18,
+    "news_score": 0.17,
     "bottom50_wealth": null,
     "news_title": "Men from Cuba and other countries describe being deported by the U.S. to a dangerous African nation: \"We cannot leave\" - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOekdDMV9GR2o4OVliVWNMSnpSOUNFamRxeWxzbnZraElYVmpYdUhNMzdLUHdmbi1FcGplUmQxOG95dkczVEJiNWtYX3R4cnl6SGJONVJoODVacGFVczRra3g4aUlXN0l0R1dTUldsWEhRRWRmcUdrNEpvSkQ5dXhYZHZMSmw0aGlp?oc=5",
@@ -7981,16 +7983,18 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.38,
+    "news_score": 1.06,
     "news_title": "From science fair to strategic showcase: A decade of China’s robot games - The Indian Express",
     "news_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSGNTV1daV0JEc3lIaVhNSHpBeXA4U0ZHTU5PS252cmNCUkd0WkhTZmY0cFh6N0ViLUFHaGZVaXFaWkR1cmNVQmc1ZDdZbzhaWl9MRy0zN3FnZTNlMEppaU9Ud3FYRzZmWHR0cnF1MFpYZlY3Zng4aUs3Q1NhcHF5VlZHX2hDb3FnYnczcmJKby1FSVJneG8zdTk1enVmRU9qdzYzNjg4QVlQbWJFNTliSjhlR1J2LTMzbnd3Qlg1RUxSdkdSQWxuWHVRMlJhcXFQYlRvQUpWWDJUTktkbkVr0gHmAUFVX3lxTE4zdnZNRU54Q1hRbWhFb3lKazRLTXdGX1o4d0syUElYTkEtemlRaFpBa1BZZGJKdGMzcTV6ekJTaE5LODlSZEJKU0Zkc2ljLWVrUlNPM1pSeVYzMHppcHcwNGVPaGs2bmJHMnkySE9ZbFloZkVmbWdmUWU2RC1xQ2l2bmE2UFI2cG8zb2swSGJxdjREOUhGeVFxeWJUUXduaF8yQVBRQXpHX1hGdHBEOEllY2U2Uk5jTnpHUnlVcnJWZ09KeFFwUlFsZTVreWtmZGFaRndobnJpNF9LcEotVm0xeHBQajV3?oc=5",
     "news_image": "",
     "news_source": "The Indian Express",
-    "news_age": "88m ago",
+    "news_age": "90m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -9037,7 +9041,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 128,
     "fifa_w_rank": 69,
-    "news_score": 0.18,
+    "news_score": 0.17,
     "news_title": "Men from Cuba and other countries describe being deported by the U.S. to a dangerous African nation: \"We cannot leave\" - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOekdDMV9GR2o4OVliVWNMSnpSOUNFamRxeWxzbnZraElYVmpYdUhNMzdLUHdmbi1FcGplUmQxOG95dkczVEJiNWtYX3R4cnl6SGJONVJoODVacGFVczRra3g4aUlXN0l0R1dTUldsWEhRRWRmcUdrNEpvSkQ5dXhYZHZMSmw0aGlp?oc=5",
     "news_image": "",
@@ -13973,16 +13977,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.2,
+    "news_score": 0.14,
     "news_title": "Germany secures team jumping gold at FEI World Championships - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSnhoOXM3eTVTTVRaTmRVcTl3NzREb2lrR3pnMkFTbnhnMElESmtWYVlNTXdmTlU4cTVPRDk4WEwzdjVMWFlsT0lhMjdManJyUzN0Mk05YlNJaWVhQnJwajhXOFlYMlNkNW0xMXZ5OG5iR2hiYUZ3bXlBQU1MNmd5SGpiRXA4Njcxc1Q5SkNwbnR6RHF2b2UxaVU1YWh4R2dTTS16YkNjU0hNaHd1MjVBSTgxMA?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
     "news_age": "8h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "coffee",
+      "tea_consume"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16713,7 +16716,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.48,
+    "news_score": 0.47,
     "news_title": "India, Finland explore deeper business and tech ties at circular economy forum - The New Indian Express",
     "news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOUlRU0VCZDNkNFE0OS00TXNEYkNqaVpNWFBNd3N6aU85YVRiZ3dBTktqbmw5QWRtemIyNnZKdHp4d01yNFlONWVMT2h4LXg1X0V0N2tzVkd2Q0JZZDY1UlpJSmYycmZXQ054X2Y2Q3B4Vl9JanhTQVNQNjRrS0cyemx1ZS1fX0FneHVaczZUM0F1MGFHeFpocTl4SVJ6YVZ3ekdLUTJNdXZiNGZrdHBMRkRpWTV2dGNCWHNlcWh4U0lJSmdyVEhB0gHUAUFVX3lxTE0xR3JtWXc4SGR0aTFmVnRlaHoxbGExSHZRSXllZ243ekhzSkYxbWlCLUVVb24xRkJpYnc4SDJWNnN6dERuOTduZlllSU1VTVdJYkxWdE1zTVlJZ2xTZmx3Rk1mTXVhaGUyaGRSbUIwWUpWR24wNGpjV0pRWUNUaFQ5QlV6Mll1b3J4WWxvMXhQYjh5U1lndjQ3SG05NV9UWndKYUZUemdKcGFmbDNPN2NqcWRoU29DRXJ6LTZxYkYtT1o2SWxJcmRRaUEySzRSRjQ0WUlB?oc=5",
     "news_image": "",
@@ -17289,16 +17292,18 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.3,
+    "news_score": 1.32,
     "news_title": "Iran-US war live: Trump says Tehran not ready to make ‘right deal’ - The Independent",
-    "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFFvMGs0Z1NSXzJITXp6YnBBUUJIMEtvLWpTSGhMdFFZakxRWHJoZzJxOWRkUUw4WXFIVDVuVTlUR004THZoRUlDOEVMeURPb3R6RXdQcHlDdkhxa2w5QXVVWENkd1UwUUpZOWhwY2ctR3NaangwN2FkcllZQzUwUWhCX081S2J1eUVadkJRaVgtbmdCNTEyUklmZFFGYU9RTFlTWjMzQ1pVUFU4TjFDTUhEM2hfZw?oc=5",
+    "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbmx2LWh6MEF3ZEd0emlGZ2JVUW9PS09wWVdIVUlvakl5eEEtdHpKazhBcm1IZXJsRUNaVTh2c0JoMS1XQlNXMmNlWVNWa2tXNnNPV1R1YnJ4bUZGY0REZWxHVHc2NkF3TXM4NS1qczUxM29jMGRvbDh5QnZMZ3RIeFk4TVRGQzE5MHVXNW91UmdUMlZWTmNvNGhfLW51eFEtMFNudjdRZ3hYaEgtVjA4dWNtRjVIOW5rYlpyZg?oc=5",
     "news_image": "",
     "news_source": "The Independent",
-    "news_age": "2h ago",
+    "news_age": "66m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": null
   },
@@ -18022,7 +18027,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.47,
+    "news_score": 0.49,
     "news_title": "Gianni Infantino proposed 211-nation Under-15 World Cup featuring Disneyland ceremonies and Israel-Palestine opener - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQUNBQzhIclJWNV84WExEclo4NU5ybGpPVE1CZEtxaldPQnREeVhxbFNRWjRhN2FTaG5OUnV1SEZWSmJ6Qm14RWM0S0R2T0VyWmpoVkZDc1NGcHJLU2t5TFFCeE5GTHVLUHVGd2xoUHEyVTgtUVhpYlRBOXNCcFlCYjZ4Tm0xR3Rwdk1Gb0V3?oc=5",
     "news_image": "",
@@ -21131,16 +21136,19 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 101,
     "fifa_w_rank": 87,
-    "news_score": 1.12,
+    "news_score": 0.83,
     "news_title": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRXhtX1FMSzdCTWNPbjFaZVR1VjczVFVLRDZwTHgxUTR5N2NQakVGa2dmQVYyYllsQnVub3BzejhPSThZTUNOcVZac2dMeUR0SmV2QjZINmFTRHBaRW10Y1lZQlZpdXJTX3k3ak1sejRGbnZzOEZ4TVBuLTROTmVvOFJjX2EyMkJ1MFAxcE8wY0U2SlVqQVpZSk9OVzd5c2pBNjR3ZDlKQnFFTURhT29nLWNn0gG3AUFVX3lxTE5KX1Q5MWNGdTBzbXdqb01NRUtmb2NfZDR3a0NIN0tkT3FXeGRfOTRhYmtmS0RwaGtfR2QtM3p1ekt6MVdKcHMydmVrdllQd2IycjJQa2hMZDJseDFOclhyZG90Rk5NV3dtbkpEY09OUUthcVgyaXQzel9uTnowMGZSVTJOczFDeV93YmZpSVpvSTh6TzNjaFhtUkVnbnFVN1FoTFRsMWpxb2tibDVoUklFSFpRclg3QQ?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "45m ago",
+    "news_age": "47m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": null
   },
@@ -30096,7 +30104,7 @@
     "refugees_rank": null,
     "union_rate": 47.3,
     "union_rate_rank": null,
-    "news_score": 0.34,
+    "news_score": 0.39,
     "news_title": "Gianni Infantino proposed 211-nation Under-15 World Cup featuring Disneyland ceremonies and Israel-Palestine opener - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQUNBQzhIclJWNV84WExEclo4NU5ybGpPVE1CZEtxaldPQnREeVhxbFNRWjRhN2FTaG5OUnV1SEZWSmJ6Qm14RWM0S0R2T0VyWmpoVkZDc1NGcHJLU2t5TFFCeE5GTHVLUHVGd2xoUHEyVTgtUVhpYlRBOXNCcFlCYjZ4Tm0xR3Rwdk1Gb0V3?oc=5",
     "news_image": "",
@@ -30290,7 +30298,7 @@
     "union_rate": 71.9,
     "union_rate_rank": null,
     "fifa_w_rank": 48,
-    "news_score": 0.43,
+    "news_score": 0.42,
     "news_title": "Extra Point, Week Zero: Dothan Hosts Bay Panama City - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLWhFOGdnOVY3ZjZCV2JxdmVFVXNzcTNDcUV5ZzRTMzFNa3RFUTVHcWVCdkc4a1plUmJVUEtsSHlSRFQ0WjFtZjVsWlBnSjFrSV9VOWxrQ1dHQ0NOWVd4ZjlKTktjSzVyVWRhM3BJUnV3Z2M0YVBnRjFuM1U2dHFNNE45NA?oc=5",
     "news_image": "",
@@ -35432,12 +35440,12 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 1.16,
+    "news_score": 1.15,
     "news_title": "Former world champion boxer Zolani Tete killed in South Africa - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1NwUVVCVi1FcTd3S1Z5WXdWZzBSQWxxNjc1T09qaHJlT3BsN2JmVEdzaHE5emNrUFVaQm5yVHZHMS1aVXRWbDFyTHpiMWI1RVpuMGxBaHRidFVXdmw0NUpEMXZDbTZ6TjBiN1RWc1VmMGdEV1c3YnRhSkwtVGl0RWJ2TVlqelJvbGVIUkVZaXN3UG1NOGl3VkpKVHh4UDVTR0JidEc4cw?oc=5",
     "news_image": "",
     "news_source": "FOX Sports",
-    "news_age": "90m ago",
+    "news_age": "92m ago",
     "news_columns": [
       "olympic"
     ],
@@ -36498,8 +36506,7 @@
     "news_age": "15h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -40049,7 +40056,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNndTaVpOME5EN2xQbUEybmpjZGxhemNzaEY0VDcxT1RxX1JHREpmZkw4eUhNSUY1MEh5MDFpWE44VkJOSHBNR2RhOHZ1ZVJEX3Y3em9sSzhLLXFGVm9yeHpxRk5aeTY1VXA5LVVRZV9iUll0T1FwV1ZLZlIxejc0YXNac05hdTh6S3BTcFlETVRCd0hZcnNfRGxTc2VMblRCMm5XUzhKdXZrTXhTYTlNQk8xZXljaVFrVjNyVHRzc2N4eU41WlVzR2pRUHhEdw?oc=5",
     "news_image": "",
     "news_source": "Anadolu Ajansı",
-    "news_age": "40h ago",
+    "news_age": "41h ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -41002,7 +41009,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.22,
+    "news_score": 0.21,
     "news_title": "Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT0pmdWd4SEpWUTcwZUhOTE1oSlBNQ05DNXBBeV81Rm9JRzdNdUppODJCT0M1QXF6NzUzUTd6UVowazJaNE5kX2N3d2hwbHRybXNFSlFhcVpXY3Y4dDA5YTZWamlKQkVLY1FILTcwYjlMY2hKUVRRY0ZJUmVsZlU0LWVici1IR1RRaEQ1NWpqbVFaLUhsUFdVREpzOTNOS0R5TkNjcGc1bEhGZFhCaTVoUy1lVU1QLS1ReWJSYmNsRVVRZjNfOHQtZmpR?oc=5",
     "news_image": "",
