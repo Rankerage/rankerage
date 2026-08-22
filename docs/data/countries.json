@@ -6913,19 +6913,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.84,
+    "news_score": 1.04,
     "news_title": "Canada-U.S. Tariff Talks Continue as Trump’s Midnight Deadline Looms - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNVB1MHNtMHFtTEZCeUp5Q3kyTDh2U25JOHNvOW43NlFUTVRvaGhzRkxuUnB0UUMyUnk1MG1xeWhpSElUTmVGUjNMOWJ1Vml4RjJWZzVpQnhlaXhxc1p4NHQzdWY2UXMtUGRaYy1pYVVWY2k5ZTJmQjVuMUpxeTFXSDlOeFN6RE0wX3FtZA?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
     "news_age": "3h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -7112,7 +7108,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOekdDMV9GR2o4OVliVWNMSnpSOUNFamRxeWxzbnZraElYVmpYdUhNMzdLUHdmbi1FcGplUmQxOG95dkczVEJiNWtYX3R4cnl6SGJONVJoODVacGFVczRra3g4aUlXN0l0R1dTUldsWEhRRWRmcUdrNEpvSkQ5dXhYZHZMSmw0aGlp?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "85m ago",
+    "news_age": "87m ago",
     "news_columns": [
       "immigration",
       "emigration",
@@ -9052,7 +9048,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOekdDMV9GR2o4OVliVWNMSnpSOUNFamRxeWxzbnZraElYVmpYdUhNMzdLUHdmbi1FcGplUmQxOG95dkczVEJiNWtYX3R4cnl6SGJONVJoODVacGFVczRra3g4aUlXN0l0R1dTUldsWEhRRWRmcUdrNEpvSkQ5dXhYZHZMSmw0aGlp?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "85m ago",
+    "news_age": "87m ago",
     "news_columns": [
       "immigration",
       "emigration",
@@ -13484,7 +13480,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOekdDMV9GR2o4OVliVWNMSnpSOUNFamRxeWxzbnZraElYVmpYdUhNMzdLUHdmbi1FcGplUmQxOG95dkczVEJiNWtYX3R4cnl6SGJONVJoODVacGFVczRra3g4aUlXN0l0R1dTUldsWEhRRWRmcUdrNEpvSkQ5dXhYZHZMSmw0aGlp?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "85m ago",
+    "news_age": "87m ago",
     "news_columns": [
       "immigration",
       "emigration",
@@ -13981,15 +13977,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.56,
+    "news_score": 0.7,
     "news_title": "Germany secures team jumping gold at FEI World Championships - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSnhoOXM3eTVTTVRaTmRVcTl3NzREb2lrR3pnMkFTbnhnMElESmtWYVlNTXdmTlU4cTVPRDk4WEwzdjVMWFlsT0lhMjdManJyUzN0Mk05YlNJaWVhQnJwajhXOFlYMlNkNW0xMXZ5OG5iR2hiYUZ3bXlBQU1MNmd5SGpiRXA4Njcxc1Q5SkNwbnR6RHF2b2UxaVU1YWh4R2dTTS16YkNjU0hNaHd1MjVBSTgxMA?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
     "news_age": "3h ago",
     "news_columns": [
-      "coffee",
-      "tea_consume"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -17296,7 +17292,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.04,
+    "news_score": 0.03,
     "news_title": "Trump vows tougher economic measures on Iran and supporting countries - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10NXpxUDd6UnRUMjB4X2k3SnljQ0VYNjJCb1VUaUpJTmV3SlFPdWszMDZVWWdzUkduVEpBWk9zSGNseW56M2JWOXEtRjV6WVlxMlVTc0N4bVRKdw?oc=5",
     "news_image": "",
@@ -18032,7 +18028,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.22,
+    "news_score": 0.21,
     "news_title": "Western allies slam Israel for ending World Central Kitchen strike probe - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmQtdEZQZFdleDdFQ1h3cktaeEpHb29tMUVCZmo2bzZpWEdfOFVlZ3ZQd1NvUmQ4a2pPaHRISzZIRndjLTF4dmNRcWp1ay0wSjNYeXBnUnJfbzMxSVhYWmRyN2xDdXFzS2JlakVDYmo5akJaOHlRQjV3eF9NVHB3R0R4UHJOYlBrZl82Z1Z0WldxYmdkcEhvQmNQbmFKMVZic3h1c0dtak5vbXV3MDNJcG1rMNIBuAFBVV95cUxNU0R4Sl9ZY0ZJWDVQMGM5bEhuNkp5bXVjWXVNTmowYXR3V0VPZnd4UVNGTGFaZU9vX2gycjJnSnB5TkQ0ZHI2MHRXTFRQZTFXUmNKTWJ6RjVBdi1wUTBKdnZhR0lDSU5pczJtbk1qQndSZTVoem9KQXJyYV9hWWdVRFE4WTVBNmlNcXJIYVYwU3FQRXdYNVNVZ1V0RlduYTVTQjNQaHh5VjRQa25keVhwSXJHLU1YWlh3?oc=5",
     "news_image": "",
@@ -19160,17 +19156,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.64,
+    "news_score": 0.8,
     "news_title": "Mao Itamura Selected for Japan U20 World Cup Squad - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRW1jSkYwY2R6WHlzbTdvdWhORVU4YlFYYXRXekpGYTlTSURmVzFreW9wYmo0SzhlTjNqQThidVdUbWkzZjhvR25LUWw5V2lXczF6b2ZxNEt6X092Um8xYy1fQmxZeFF6VE4tV3dWVi0tVG5jZ0tWUEhhOS1CLXNZdUgzX0QxUQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "103m ago",
+    "news_age": "105m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -19347,12 +19341,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.72,
+    "news_score": 0.68,
     "news_title": "Jordan Love plays one series, throws TD pass - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZjJ6dmhMMVh5THNKY2otUDY2WG54dzNESTVWVEZtMjl5dDFiZmJRb09RX19tQ1cyNGpxYUxMbnFMZ2l1SDgtWW1QVFMtc0V2UHBrWlVEb2JQUWo4YW4taFhRTEpuUWRpUTJvSm1wYll1SXJzcHV0NlJ0bmJLc1pzSWlna1kyYUZHVWRJWFZwVnA?oc=5",
     "news_image": "",
     "news_source": "NBC News",
-    "news_age": "113m ago",
+    "news_age": "115m ago",
     "news_columns": [
       "lgbtq_rights",
       "gay_marriage",
@@ -32938,7 +32932,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.18,
+    "news_score": 0.17,
     "news_title": "Russian drone attack on busy shopping centre kills 15 in Ukraine - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY1FwdzZuQzZkMG80NnNsa3ZvN3dUdnFDLXJCaVljTW9NbkNjeV8tYmQyaGI0Q2Z6TU1scVhpcFNhTGt4ZkJIOXE2RU9aNXpqSlkyMGdxbkYwN19uRVpqdzVzTThTQnIyS0V1MUxPRkJma0cxMl9DZHdzVWxxenZfLWN4UHRUU21fcVR5UkZGUlNDa2d3VlJPaVltT0trV2JjZ1FmZHd2YkPSAa4BQVVfeXFMTldlWUNfcHpockNTTG1IbTNhY3FrYzUzcWhjODlRNmVXU2lQNWZFU2ZFOHpfdnp5VW5wVDdVLTBtLUFJQkxaVTlxd1ByNVZ1RE5JdnhYaE5YVFhiQzNQRHdfY2E2OXRwRm1wY1g4dmNqakQ4TDIxaXV2bEUtcUJKNndqVTRZbnE5T29OSnFIWVVLYTU4ZVJzdnctcjA4Z3MzNlFjQmNwSVAxalVjM2l3?oc=5",
     "news_image": "",
@@ -38877,7 +38871,7 @@
     "refugees_rank": null,
     "union_rate": 75.8,
     "union_rate_rank": null,
-    "news_score": 0.38,
+    "news_score": 0.37,
     "news_title": "Thailand’s population may have already peaked - Our World in Data",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb2x0OXVkVUszMEhTUXhzTE9UdFF2TVJGeE83cUxnWDlfaGpvUGFaMVZERHFiWWV3MzhRaTdnajc3YUJlSWsxRjVQcHp0aWRsUXhIZVctcVVJd28wcU8wMXBXMUNROThsZGdqY3oxOS01a2swYWVVZUJwcmVFU0ZvSFVrbjdOUk52cUdZWFpB?oc=5",
     "news_image": "",
@@ -41021,14 +41015,18 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.72,
+    "news_score": 0.63,
     "news_title": "Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT0pmdWd4SEpWUTcwZUhOTE1oSlBNQ05DNXBBeV81Rm9JRzdNdUppODJCT0M1QXF6NzUzUTd6UVowazJaNE5kX2N3d2hwbHRybXNFSlFhcVpXY3Y4dDA5YTZWamlKQkVLY1FILTcwYjlMY2hKUVRRY0ZJUmVsZlU0LWVici1IR1RRaEQ1NWpqbVFaLUhsUFdVREpzOTNOS0R5TkNjcGc1bEhGZFhCaTVoUy1lVU1QLS1ReWJSYmNsRVVRZjNfOHQtZmpR?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": null
   },
