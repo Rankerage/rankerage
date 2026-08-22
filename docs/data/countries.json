@@ -1924,7 +1924,7 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.79,
+    "news_score": 0.63,
     "news_title": "Argentina star hit with one of the biggest bans in World Cup history - ABC News & Headlines – Australian Broadcasting Corporation",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObHA0Qm1HbVRiMDFYRTkyamMtVnVtQ0NhTDdocmh4MFltOGhELXRoSi1TSThtcHFsVWNGczlPWVp3UTBtMWM3Vmk4MUJpTjBFTjlWR241c01Zc0Nlb0JCR2U4V1I0bWVOVjY4Sko5OTZCUHNCaDdXNHlsM3VDVjdENDJxd2paYzFVazVwanpTUnV4akEzOV9QWmFnd0NQa2NUOHk5Yg?oc=5",
     "news_image": "",
@@ -1932,7 +1932,9 @@
     "news_age": "5h ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -6918,7 +6920,9 @@
     "news_source": "The State News",
     "news_age": "3h ago",
     "news_columns": [
-      "little_league"
+      "baseball",
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -9025,15 +9029,18 @@
     "fifa_ranking_rank": 128,
     "fifa_w_rank": 69,
     "news_score": 0.0,
-    "news_title": "Cuba signs deals attracting global business but Washington holds key - thenationalnews.com",
-    "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM1FFRnlyLVF0RVZCYkx6UVRoVEU0WFd4UHNObDR4aWxoSkhxY3I0U1pmREttZHpDTmRKRjVyU2NiZnp3TXQ0aV8wQ25EcWFScDJPTzhDVEFmZ0t1LXNENEhqMWtQMnM1dGRjNDZZWkoyalEwM2QxVWo4WWZrMHo1YnJRbndBZ0dUQnlUREp4VkU0Zkl6MGtIUXJHT0tWVGNuQnBoOGdWb0h1dDJ2N3JVbVJTbV9Td2JhSTdBQWRrR192bnhzY1RkaQ?oc=5",
+    "news_title": "Cuba’s Communist Party approves opening economy in unprecedented move - Al Jazeera",
+    "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPekQ2TFhra1dlOUx1X2tLNnRIRGdGdzJiUGdHMF9LTGtFQ19fYWIxNzNiOWtwdHNtRWhaNnRXOEhQampmcHN6aVIxOWlpUDROa3F6VFdTbzU1OFB5aG9NbXFMb1E4MUdFbjZoLU5jU1VWRGtDWGpVSWs4M3hVeHBLRi1PeldfZnpHU3dLbFItTEZfMHVSNDc5aDdNdGgxLTh2OEdyUHR5V3FRZkN4dUHSAbMBQVVfeXFMTWNmWHRlRHVYR3ZiY2VQNlJFUUNMcjBEVmZzcDlNWVZXWUJlVVI3WDRvTG1qblpkUWktcGxCcGU3V2VtUDUwZk45VFU4MWZESDRuVHNNZFREVnZpckFZQ0lyNHdYck5fNFgxeENMTEdKT0g4MTZ3SjZUUUpLUGNiSndSZl8zQkRPNjAtb19JSVhtS2hJbVJVSW14N0hrWEhGNnQ3Rkh4el9fXzI2b0Q0WkRrZ3M?oc=5",
     "news_image": "",
-    "news_source": "thenationalnews.com",
-    "news_age": "1525h ago",
+    "news_source": "Al Jazeera",
+    "news_age": "1556h ago",
     "news_columns": [
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
       "exports",
-      "imports",
-      "gdp"
+      "imports"
     ],
     "bottom50_wealth": null
   },
@@ -13959,7 +13966,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.84,
+    "news_score": 0.9,
     "news_title": "Germany secures team jumping gold at FEI World Championships - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSnhoOXM3eTVTTVRaTmRVcTl3NzREb2lrR3pnMkFTbnhnMElESmtWYVlNTXdmTlU4cTVPRDk4WEwzdjVMWFlsT0lhMjdManJyUzN0Mk05YlNJaWVhQnJwajhXOFlYMlNkNW0xMXZ5OG5iR2hiYUZ3bXlBQU1MNmd5SGpiRXA4Njcxc1Q5SkNwbnR6RHF2b2UxaVU1YWh4R2dTTS16YkNjU0hNaHd1MjVBSTgxMA?oc=5",
     "news_image": "",
@@ -13967,7 +13974,7 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -17752,11 +17759,11 @@
     "union_rate": 77.2,
     "union_rate_rank": null,
     "news_score": 0.01,
-    "news_title": "Poor productivity in Ireland’s domestic business threatens to hold economy back - The Irish Times",
-    "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORkc0cTNFZ0VJMHRuY1J6eENLSHB5S2g0SFVHamljX3lZS2wzVnR4WWVQbkxBY2M5VDYyNWRPQ2ZFeWdTTmJJN0ZtVjd6WFNWeWVmdFFSbW1nODkyUVl4dUZMSEZxOHZ2Q3hQOHE4WGQxVEtfWGVyZWF4dndndXlBU05wSTljUXVXdW5CZDJValFNazZEOEh2SnNfdkF1QWdYajlUdndsYkpHRTVMQUhjTjFmTC1JSDhGSlZjZS1XQkhWcWpXRUZTTVpGUkJpOUk?oc=5",
+    "news_title": "Ireland's Project Economy 2026 - Trinity College Dublin",
+    "news_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtRDJrMW9qMWVMWDAyVWtuNjk3eDFMMW9UaWpRU2JOWjJaWXptZmhfWmc4S2h4ZExVS2s0VWRkMkE3d1NJVmQyel9aTXRfT1VRcjZoSTF2R3pWUENUOXc1Z21iWW5pVkxfUkxYdm1sbw?oc=5",
     "news_image": "",
-    "news_source": "The Irish Times",
-    "news_age": "428h ago",
+    "news_source": "Trinity College Dublin",
+    "news_age": "3452h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -18015,7 +18022,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmQtdEZQZFdleDdFQ1h3cktaeEpHb29tMUVCZmo2bzZpWEdfOFVlZ3ZQd1NvUmQ4a2pPaHRISzZIRndjLTF4dmNRcWp1ay0wSjNYeXBnUnJfbzMxSVhYWmRyN2xDdXFzS2JlakVDYmo5akJaOHlRQjV3eF9NVHB3R0R4UHJOYlBrZl82Z1Z0WldxYmdkcEhvQmNQbmFKMVZic3h1c0dtak5vbXV3MDNJcG1rMNIBuAFBVV95cUxNU0R4Sl9ZY0ZJWDVQMGM5bEhuNkp5bXVjWXVNTmowYXR3V0VPZnd4UVNGTGFaZU9vX2gycjJnSnB5TkQ0ZHI2MHRXTFRQZTFXUmNKTWJ6RjVBdi1wUTBKdnZhR0lDSU5pczJtbk1qQndSZTVoem9KQXJyYV9hWWdVRFE4WTVBNmlNcXJIYVYwU3FQRXdYNVNVZ1V0RlduYTVTQjNQaHh5VjRQa25keVhwSXJHLU1YWlh3?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "6h ago",
+    "news_age": "7h ago",
     "news_columns": [
       "olympic",
       "basket"
@@ -19138,17 +19145,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.76,
+    "news_score": 1.03,
     "news_title": "Mao Itamura Selected for Japan U20 World Cup Squad - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRW1jSkYwY2R6WHlzbTdvdWhORVU4YlFYYXRXekpGYTlTSURmVzFreW9wYmo0SzhlTjNqQThidVdUbWkzZjhvR25LUWw5V2lXczF6b2ZxNEt6X092Um8xYy1fQmxZeFF6VE4tV3dWVi0tVG5jZ0tWUEhhOS1CLXNZdUgzX0QxUQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "65m ago",
+    "news_age": "67m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -19325,12 +19330,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.84,
+    "news_score": 0.8,
     "news_title": "Jordan Love plays one series, throws TD pass - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZjJ6dmhMMVh5THNKY2otUDY2WG54dzNESTVWVEZtMjl5dDFiZmJRb09RX19tQ1cyNGpxYUxMbnFMZ2l1SDgtWW1QVFMtc0V2UHBrWlVEb2JQUWo4YW4taFhRTEpuUWRpUTJvSm1wYll1SXJzcHV0NlJ0bmJLc1pzSWlna1kyYUZHVWRJWFZwVnA?oc=5",
     "news_image": "",
     "news_source": "NBC News",
-    "news_age": "75m ago",
+    "news_age": "77m ago",
     "news_columns": [
       "lgbtq_rights",
       "gay_marriage",
@@ -27091,7 +27096,7 @@
     "refugees_rank": null,
     "union_rate": 85.6,
     "union_rate_rank": null,
-    "news_score": 0.15,
+    "news_score": 0.14,
     "news_title": "Women’s Hockey World Cup 2026: India go down fighting 2-0 against defending champions Netherlands - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSEljSW5BcWU4WGZUREtIVTNvUzY3V0FlR3VVS0d3aFVnODVqTk5GVWRGWHlqckJuU2RUamRpS0lxOHc1bGhCSG51WDA0MGxIWi1oY19Ka2hmYVpzWHBfRFk5RjBXRE5mVVpPUW9FdlY3WHU5dTZ3dnNabTFJcVdOdnFoeU03bWNWbnNDUHM3N0ZCU3dMMTIwYnNEaGtXQnIwNU9MOGFmMkg?oc=5",
     "news_image": "",
@@ -35909,7 +35914,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.01,
+    "news_score": 0.0,
     "news_title": "How To Fly from The U.S. on Korean Air to Seoul in South Korea [Plane Types & Seat Options] - Upgraded Points",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOE1LbGtnVjhVTFpzcVpZYWxlSXpVbXJPd0RCeTNGWUxtNHp4V1JJRGNObE5uYVBRQnV3djVsU0VneG9EM3FnaVZLbUJ3YXdIcGVOVUQwckd6eUhOS3hCUTFHNGJMUWwzV2lCLXhCNk92WWpyUndIclp0dm10NnpxekNR?oc=5",
     "news_image": "",
@@ -38855,7 +38860,7 @@
     "refugees_rank": null,
     "union_rate": 75.8,
     "union_rate_rank": null,
-    "news_score": 0.46,
+    "news_score": 0.45,
     "news_title": "Thailand’s population may have already peaked - Our World in Data",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb2x0OXVkVUszMEhTUXhzTE9UdFF2TVJGeE83cUxnWDlfaGpvUGFaMVZERHFiWWV3MzhRaTdnajc3YUJlSWsxRjVQcHp0aWRsUXhIZVctcVVJd28wcU8wMXBXMUNROThsZGdqY3oxOS01a2swYWVVZUJwcmVFU0ZvSFVrbjdOUk52cUdZWFpB?oc=5",
     "news_image": "",
@@ -40999,12 +41004,12 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 1.19,
+    "news_score": 1.14,
     "news_title": "Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT0pmdWd4SEpWUTcwZUhOTE1oSlBNQ05DNXBBeV81Rm9JRzdNdUppODJCT0M1QXF6NzUzUTd6UVowazJaNE5kX2N3d2hwbHRybXNFSlFhcVpXY3Y4dDA5YTZWamlKQkVLY1FILTcwYjlMY2hKUVRRY0ZJUmVsZlU0LWVici1IR1RRaEQ1NWpqbVFaLUhsUFdVREpzOTNOS0R5TkNjcGc1bEhGZFhCaTVoUy1lVU1QLS1ReWJSYmNsRVVRZjNfOHQtZmpR?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "113m ago",
+    "news_age": "115m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -42267,14 +42272,15 @@
     "refugees": null,
     "refugees_rank": null,
     "news_score": 0.0,
-    "news_title": "China is about to launch an ambitious moon mission to hunt for ice in one of the solar system’s coldest places - NBC News",
-    "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFlJeFNsLVRiNW1zZG0tLU9tMUN2U0loVnJxd0NOUmhneWJuanpCN1c4T1lraldYQms5ZkI2RHhwdklYQnM3ZFZ1Vjh0QkZXVDNCaGJzUzZuZzNuempUenJnRGx1aXlDV2dnTXBuZUU5UHhndUc0bGJnTzJjV0M3YkRBZUY?oc=5",
+    "news_title": "New County Business Patterns Visualization Shows Where Most Business Activity Occurs in the United States and U.S. Island Areas - Census.gov",
+    "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMlIzT1Y5OS1kVUhDMC1NSXl4ZTkwZjFPWnlqRV9oWmsxTUd4bHB3eGdGSXRZeVVUSGxaOEZLWUZXRkFhZjlaYXZqbEtvNEV2b2IwOHEzVUVvLWl3VTNCbDdmYmRkN2JkODFLRFhYazEzV192X19Cb3RzY0ptTVdXZThR?oc=5",
     "news_image": "",
-    "news_source": "NBC News",
-    "news_age": "3h ago",
+    "news_source": "Census.gov",
+    "news_age": "15860h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "baseball",
+      "nfl",
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
