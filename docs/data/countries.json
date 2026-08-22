@@ -1921,12 +1921,12 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 1.29,
+    "news_score": 0.88,
     "news_title": "🗞️ Front pages: Mourinho returns, Julián flares up, Argentina punished - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNkpQWlktdVo2TVdWSGZWNDEtWTJsVk1LZVRETzN5MlpZTDRMNUZIbHNydkw5Wm1paWRiblVrb29kT3FvYnFTY0h0bzJFc1lJbkdheGtiNmJhV054WVdFU29xdG0wM3pmNHZLWng1clRUeERBSlRKTkhtbnRKSFFCSkQ3MzhmUF9KQnc?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "58m ago",
+    "news_age": "60m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -6908,14 +6908,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.06,
+    "news_score": 1.01,
     "news_title": "Canada-U.S. Trade War Escalates as Talks Collapse - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXJicWNvNlVhUFZsYjd3QXBXbnQ1MzRGYXNCM2tkUnhLWFVaNnVxYjR4dThzMEpyUVQ3SjJOcUNKYm8xR0NGMG80d3gzdW95OUxSb3dZXzI2NWpoZEpYamxIQ2dQajFvMi1udTNjYmpVQVIxWkhGazRrYy1tTTQ1c3hmVDBoVHNmbXd3QmZ0TXpIeEZ6dUpjZm1n?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "118m ago",
+    "news_age": "2h ago",
     "news_columns": [
-      "olympic"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -7978,18 +7983,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.84,
+    "news_score": 1.14,
     "news_title": "From science fair to strategic showcase: A decade of China’s robot games - The Indian Express",
     "news_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSGNTV1daV0JEc3lIaVhNSHpBeXA4U0ZHTU5PS252cmNCUkd0WkhTZmY0cFh6N0ViLUFHaGZVaXFaWkR1cmNVQmc1ZDdZbzhaWl9MRy0zN3FnZTNlMEppaU9Ud3FYRzZmWHR0cnF1MFpYZlY3Zng4aUs3Q1NhcHF5VlZHX2hDb3FnYnczcmJKby1FSVJneG8zdTk1enVmRU9qdzYzNjg4QVlQbWJFNTliSjhlR1J2LTMzbnd3Qlg1RUxSdkdSQWxuWHVRMlJhcXFQYlRvQUpWWDJUTktkbkVr0gHmAUFVX3lxTE4zdnZNRU54Q1hRbWhFb3lKazRLTXdGX1o4d0syUElYTkEtemlRaFpBa1BZZGJKdGMzcTV6ekJTaE5LODlSZEJKU0Zkc2ljLWVrUlNPM1pSeVYzMHppcHcwNGVPaGs2bmJHMnkySE9ZbFloZkVmbWdmUWU2RC1xQ2l2bmE2UFI2cG8zb2swSGJxdjREOUhGeVFxeWJUUXduaF8yQVBRQXpHX1hGdHBEOEllY2U2Uk5jTnpHUnlVcnJWZ09KeFFwUlFsZTVreWtmZGFaRndobnJpNF9LcEotVm0xeHBQajV3?oc=5",
     "news_image": "",
     "news_source": "The Indian Express",
-    "news_age": "16m ago",
+    "news_age": "18m ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -12436,12 +12438,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.65,
+    "news_score": 0.64,
     "news_title": "India, Finland explore deeper business and tech ties at circular economy forum - The New Indian Express",
     "news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOUlRU0VCZDNkNFE0OS00TXNEYkNqaVpNWFBNd3N6aU85YVRiZ3dBTktqbmw5QWRtemIyNnZKdHp4d01yNFlONWVMT2h4LXg1X0V0N2tzVkd2Q0JZZDY1UlpJSmYycmZXQ054X2Y2Q3B4Vl9JanhTQVNQNjRrS0cyemx1ZS1fX0FneHVaczZUM0F1MGFHeFpocTl4SVJ6YVZ3ekdLUTJNdXZiNGZrdHBMRkRpWTV2dGNCWHNlcWh4U0lJSmdyVEhB0gHUAUFVX3lxTE0xR3JtWXc4SGR0aTFmVnRlaHoxbGExSHZRSXllZ243ekhzSkYxbWlCLUVVb24xRkJpYnc4SDJWNnN6dERuOTduZlllSU1VTVdJYkxWdE1zTVlJZ2xTZmx3Rk1mTXVhaGUyaGRSbUIwWUpWR24wNGpjV0pRWUNUaFQ5QlV6Mll1b3J4WWxvMXhQYjh5U1lndjQ3SG05NV9UWndKYUZUemdKcGFmbDNPN2NqcWRoU29DRXJ6LTZxYkYtT1o2SWxJcmRRaUEySzRSRjQ0WUlB?oc=5",
     "news_image": "",
     "news_source": "The New Indian Express",
-    "news_age": "102m ago",
+    "news_age": "104m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -13468,12 +13470,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.67,
+    "news_score": 0.71,
     "news_title": "News 3 PrepZone Week 1: Georgia high school football highlights - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oNmhRNjF3aDREQmtkRUt5RXpocWJZRUtSU2dwc2U5Sm1KZldOQkJ1VTFGWU9SWXpxcW40YkpEUk42NzdocGxIWlY3OFo0dUFSQld5OVdjRjgydGEyQy1yblU3WUl0VUxIanlfemVPY0VXVk9OYkVZRE8tVQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "103m ago",
+    "news_age": "105m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -13972,7 +13974,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.3,
+    "news_score": 0.25,
     "news_title": "Germany secures team jumping gold at FEI World Championships - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSnhoOXM3eTVTTVRaTmRVcTl3NzREb2lrR3pnMkFTbnhnMElESmtWYVlNTXdmTlU4cTVPRDk4WEwzdjVMWFlsT0lhMjdManJyUzN0Mk05YlNJaWVhQnJwajhXOFlYMlNkNW0xMXZ5OG5iR2hiYUZ3bXlBQU1MNmd5SGpiRXA4Njcxc1Q5SkNwbnR6RHF2b2UxaVU1YWh4R2dTTS16YkNjU0hNaHd1MjVBSTgxMA?oc=5",
     "news_image": "",
@@ -13980,7 +13982,6 @@
     "news_age": "6h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
       "olympic"
     ],
     "bottom50_wealth": 2.5,
@@ -16712,12 +16713,12 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.67,
+    "news_score": 0.66,
     "news_title": "India, Finland explore deeper business and tech ties at circular economy forum - The New Indian Express",
     "news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOUlRU0VCZDNkNFE0OS00TXNEYkNqaVpNWFBNd3N6aU85YVRiZ3dBTktqbmw5QWRtemIyNnZKdHp4d01yNFlONWVMT2h4LXg1X0V0N2tzVkd2Q0JZZDY1UlpJSmYycmZXQ054X2Y2Q3B4Vl9JanhTQVNQNjRrS0cyemx1ZS1fX0FneHVaczZUM0F1MGFHeFpocTl4SVJ6YVZ3ekdLUTJNdXZiNGZrdHBMRkRpWTV2dGNCWHNlcWh4U0lJSmdyVEhB0gHUAUFVX3lxTE0xR3JtWXc4SGR0aTFmVnRlaHoxbGExSHZRSXllZ243ekhzSkYxbWlCLUVVb24xRkJpYnc4SDJWNnN6dERuOTduZlllSU1VTVdJYkxWdE1zTVlJZ2xTZmx3Rk1mTXVhaGUyaGRSbUIwWUpWR24wNGpjV0pRWUNUaFQ5QlV6Mll1b3J4WWxvMXhQYjh5U1lndjQ3SG05NV9UWndKYUZUemdKcGFmbDNPN2NqcWRoU29DRXJ6LTZxYkYtT1o2SWxJcmRRaUEySzRSRjQ0WUlB?oc=5",
     "news_image": "",
     "news_source": "The New Indian Express",
-    "news_age": "102m ago",
+    "news_age": "104m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -17288,7 +17289,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.72,
+    "news_score": 0.7,
     "news_title": "World in Brief: America’s tariff on Canadian goods; Iran’s “position of power” - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd3ZWMDZiNkpTQXBpLVlIQU0yMVdtdGZJMlhrWElaaHpTdG9jQVpHRlFyZkhIMWpob05GdTAydGFFbXJsbzF1QXI4SExLNl9vUnMxMkpPdFFqeUdzQWdTNHZPZ3V6bjZvX2V6b0xlMy05Q3FtUm5tRkZYeXF6MElOdHdWZG1GRHA2ckZBTU4xUWhZS0tWamdZ?oc=5",
     "news_image": "",
@@ -18667,6 +18668,7 @@
     "news_source": "World Lacrosse",
     "news_age": "5h ago",
     "news_columns": [
+      "fifa_ranking",
       "olympic"
     ],
     "bottom50_wealth": null
@@ -36493,7 +36495,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.06,
+    "news_score": 0.04,
     "news_title": "Argentina-Spain brawl at World Cup final results in 22 games banned, $270,000 in fines - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc0hlWVhEN1BMMVFDX09zbF90UXN0S2ZSdWJnT0JzUWJIcGRZRW4xNmVtWFpIVG5PQXVOUlNCcWVYdzRFdEhUaTlmWE83djBzSThIM0g4U29ESlRNckFGVjNROG1JWVFzR3pTVFl1RVBSVWlMT3IxY2ZtVjAtY0RNZ2JFZzJ6cFU?oc=5",
     "news_image": "",
@@ -36501,7 +36503,11 @@
     "news_age": "13h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket",
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -37441,10 +37447,10 @@
     "refugees": null,
     "refugees_rank": null,
     "news_score": 0.05,
-    "news_title": "Swedish police say 1 dead, 2 injured after school sword attack - CBS News",
-    "news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5a2dGT09fR25UcnpVMkg1SG0xb3pPRTNPNW81UmlNMjBCVnBEbzFnbjUyblBNWmUyVzVZd3gzdlA0cU1yc25xTG41WkM2Z0ZxVl9PM2JPSVZfWTlyZnhURFdGUEZtSWE0bm1zbGZWX0V1Z1k?oc=5",
+    "news_title": "An 18-year-old with a sword attacks a school in Sweden, leaving 1 dead and 2 injured - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTWZmYVFVT1p2Y2pPYld6RGxCaS1ReDB1M2ZQemNnQlVHbkQ3U2tOelBPQ3FSbjJjWUc3bzJ5TFhuNGc2dDZxaUF3cEVaSkxpeVdTNGh0S1BRVjZvTC1KeURZZ2NSbEFvenNNdWdrN2xmbkV5RnFuRWtlU05kUF9OWFlodWtjUGd4TTVTOUItMA?oc=5",
     "news_image": "",
-    "news_source": "CBS News",
+    "news_source": "AP News",
     "news_age": "9h ago",
     "news_columns": [
       "edu",
@@ -41009,7 +41015,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT0pmdWd4SEpWUTcwZUhOTE1oSlBNQ05DNXBBeV81Rm9JRzdNdUppODJCT0M1QXF6NzUzUTd6UVowazJaNE5kX2N3d2hwbHRybXNFSlFhcVpXY3Y4dDA5YTZWamlKQkVLY1FILTcwYjlMY2hKUVRRY0ZJUmVsZlU0LWVici1IR1RRaEQ1NWpqbVFaLUhsUFdVREpzOTNOS0R5TkNjcGc1bEhGZFhCaTVoUy1lVU1QLS1ReWJSYmNsRVVRZjNfOHQtZmpR?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "5h ago",
+    "news_age": "6h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
