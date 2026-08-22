@@ -1924,7 +1924,7 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.5,
+    "news_score": 0.49,
     "news_title": "Argentina star hit with one of the biggest bans in World Cup history - ABC News & Headlines – Australian Broadcasting Corporation",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObHA0Qm1HbVRiMDFYRTkyamMtVnVtQ0NhTDdocmh4MFltOGhELXRoSi1TSThtcHFsVWNGczlPWVp3UTBtMWM3Vmk4MUJpTjBFTjlWR241c01Zc0Nlb0JCR2U4V1I0bWVOVjY4Sko5OTZCUHNCaDdXNHlsM3VDVjdENDJxd2paYzFVazVwanpTUnV4akEzOV9QWmFnd0NQa2NUOHk5Yg?oc=5",
     "news_image": "",
@@ -6913,7 +6913,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.04,
+    "news_score": 1.07,
     "news_title": "Canada-U.S. Tariff Talks Continue as Trump’s Midnight Deadline Looms - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNVB1MHNtMHFtTEZCeUp5Q3kyTDh2U25JOHNvOW43NlFUTVRvaGhzRkxuUnB0UUMyUnk1MG1xeWhpSElUTmVGUjNMOWJ1Vml4RjJWZzVpQnhlaXhxc1p4NHQzdWY2UXMtUGRaYy1pYVVWY2k5ZTJmQjVuMUpxeTFXSDlOeFN6RE0wX3FtZA?oc=5",
     "news_image": "",
@@ -6921,7 +6921,9 @@
     "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -7108,7 +7110,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOekdDMV9GR2o4OVliVWNMSnpSOUNFamRxeWxzbnZraElYVmpYdUhNMzdLUHdmbi1FcGplUmQxOG95dkczVEJiNWtYX3R4cnl6SGJONVJoODVacGFVczRra3g4aUlXN0l0R1dTUldsWEhRRWRmcUdrNEpvSkQ5dXhYZHZMSmw0aGlp?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "87m ago",
+    "news_age": "89m ago",
     "news_columns": [
       "immigration",
       "emigration",
@@ -9048,7 +9050,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOekdDMV9GR2o4OVliVWNMSnpSOUNFamRxeWxzbnZraElYVmpYdUhNMzdLUHdmbi1FcGplUmQxOG95dkczVEJiNWtYX3R4cnl6SGJONVJoODVacGFVczRra3g4aUlXN0l0R1dTUldsWEhRRWRmcUdrNEpvSkQ5dXhYZHZMSmw0aGlp?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "87m ago",
+    "news_age": "89m ago",
     "news_columns": [
       "immigration",
       "emigration",
@@ -13480,7 +13482,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOekdDMV9GR2o4OVliVWNMSnpSOUNFamRxeWxzbnZraElYVmpYdUhNMzdLUHdmbi1FcGplUmQxOG95dkczVEJiNWtYX3R4cnl6SGJONVJoODVacGFVczRra3g4aUlXN0l0R1dTUldsWEhRRWRmcUdrNEpvSkQ5dXhYZHZMSmw0aGlp?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "87m ago",
+    "news_age": "89m ago",
     "news_columns": [
       "immigration",
       "emigration",
@@ -13977,7 +13979,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.7,
+    "news_score": 0.74,
     "news_title": "Germany secures team jumping gold at FEI World Championships - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSnhoOXM3eTVTTVRaTmRVcTl3NzREb2lrR3pnMkFTbnhnMElESmtWYVlNTXdmTlU4cTVPRDk4WEwzdjVMWFlsT0lhMjdManJyUzN0Mk05YlNJaWVhQnJwajhXOFlYMlNkNW0xMXZ5OG5iR2hiYUZ3bXlBQU1MNmd5SGpiRXA4Njcxc1Q5SkNwbnR6RHF2b2UxaVU1YWh4R2dTTS16YkNjU0hNaHd1MjVBSTgxMA?oc=5",
     "news_image": "",
@@ -13985,7 +13987,9 @@
     "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -17292,19 +17296,18 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.03,
-    "news_title": "Trump vows tougher economic measures on Iran and supporting countries - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10NXpxUDd6UnRUMjB4X2k3SnljQ0VYNjJCb1VUaUpJTmV3SlFPdWszMDZVWWdzUkduVEpBWk9zSGNseW56M2JWOXEtRjV6WVlxMlVTc0N4bVRKdw?oc=5",
+    "news_score": 0.02,
+    "news_title": "Trump talks up White House ballroom and says he views strait of Hormuz as ‘American territory’ – as it happened - The Guardian",
+    "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT2hPbTVwYlZka056UDU2dWFROHNDa1BDZjFOT3RtUzg0anBWQjZPakY5R3dnRkF3a1NPVElnVnI2U3hoaFMxVEVsaE1kRW5jS3FfeVZHcGlNdHhHWVFVVHJvMjB2ZHc4NWk2d0Y2Q01tVGUzZ1cxYy1WdVlwR0gzdTI1WE9MSG54aUFlRVBCNUVlSHBKVDhkelhXZnVBQQ?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "29h ago",
+    "news_source": "The Guardian",
+    "news_age": "16h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": null
   },
@@ -18028,7 +18031,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.21,
+    "news_score": 0.2,
     "news_title": "Western allies slam Israel for ending World Central Kitchen strike probe - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmQtdEZQZFdleDdFQ1h3cktaeEpHb29tMUVCZmo2bzZpWEdfOFVlZ3ZQd1NvUmQ4a2pPaHRISzZIRndjLTF4dmNRcWp1ay0wSjNYeXBnUnJfbzMxSVhYWmRyN2xDdXFzS2JlakVDYmo5akJaOHlRQjV3eF9NVHB3R0R4UHJOYlBrZl82Z1Z0WldxYmdkcEhvQmNQbmFKMVZic3h1c0dtak5vbXV3MDNJcG1rMNIBuAFBVV95cUxNU0R4Sl9ZY0ZJWDVQMGM5bEhuNkp5bXVjWXVNTmowYXR3V0VPZnd4UVNGTGFaZU9vX2gycjJnSnB5TkQ0ZHI2MHRXTFRQZTFXUmNKTWJ6RjVBdi1wUTBKdnZhR0lDSU5pczJtbk1qQndSZTVoem9KQXJyYV9hWWdVRFE4WTVBNmlNcXJIYVYwU3FQRXdYNVNVZ1V0RlduYTVTQjNQaHh5VjRQa25keVhwSXJHLU1YWlh3?oc=5",
     "news_image": "",
@@ -18473,7 +18476,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTWpCNkk0MjJnWngzMk5hM0VrUlR6bmRCVC1KeUYyd3czSWhzNzRJRlIwWVdxQ2sxRkNIcmpvRDFraHE4MERNV1hyVzdQR1hYdVlhSUpCQkZXV3lWTVF2Nzg0NzkxaUVIbFlWaWYwd09HSkNiekhvaFZpOEM0UWVLLTVTVm9sT3doN2JabXhnRzZiN0Vv?oc=5",
     "news_image": "",
     "news_source": "Decode39",
-    "news_age": "13h ago",
+    "news_age": "14h ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -19156,15 +19159,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.8,
-    "news_title": "Mao Itamura Selected for Japan U20 World Cup Squad - Yahoo Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRW1jSkYwY2R6WHlzbTdvdWhORVU4YlFYYXRXekpGYTlTSURmVzFreW9wYmo0SzhlTjNqQThidVdUbWkzZjhvR25LUWw5V2lXczF6b2ZxNEt6X092Um8xYy1fQmxZeFF6VE4tV3dWVi0tVG5jZ0tWUEhhOS1CLXNZdUgzX0QxUQ?oc=5",
+    "news_score": 0.45,
+    "news_title": "Low inflation may not be enough to prevent further tightening of monetary policy in Japan - Deloitte",
+    "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMVhrajlySXBWeW1JRVl1T3N1cVFDRUxYZjNzLTVmdXppNGw4cXg2MDhYcEk5NG9fN1lYRjNISDRVNUtVcllzRi1Tc0ZzaHptV1l3TVBHWUtJTzN3eDM2d1dLWWpPU0dBZUpoczJBOVJ0akZ3MWVBc1BVR3RlSHlReXlaeWRwa1gtUlE4REg2SV82UTIyNFplN3BTbw?oc=5",
     "news_image": "",
-    "news_source": "Yahoo Sports",
-    "news_age": "105m ago",
+    "news_source": "Deloitte",
+    "news_age": "212h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -19341,12 +19348,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.68,
+    "news_score": 0.65,
     "news_title": "Jordan Love plays one series, throws TD pass - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZjJ6dmhMMVh5THNKY2otUDY2WG54dzNESTVWVEZtMjl5dDFiZmJRb09RX19tQ1cyNGpxYUxMbnFMZ2l1SDgtWW1QVFMtc0V2UHBrWlVEb2JQUWo4YW4taFhRTEpuUWRpUTJvSm1wYll1SXJzcHV0NlJ0bmJLc1pzSWlna1kyYUZHVWRJWFZwVnA?oc=5",
     "news_image": "",
     "news_source": "NBC News",
-    "news_age": "115m ago",
+    "news_age": "117m ago",
     "news_columns": [
       "lgbtq_rights",
       "gay_marriage",
@@ -32932,7 +32939,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.17,
+    "news_score": 0.16,
     "news_title": "Russian drone attack on busy shopping centre kills 15 in Ukraine - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY1FwdzZuQzZkMG80NnNsa3ZvN3dUdnFDLXJCaVljTW9NbkNjeV8tYmQyaGI0Q2Z6TU1scVhpcFNhTGt4ZkJIOXE2RU9aNXpqSlkyMGdxbkYwN19uRVpqdzVzTThTQnIyS0V1MUxPRkJma0cxMl9DZHdzVWxxenZfLWN4UHRUU21fcVR5UkZGUlNDa2d3VlJPaVltT0trV2JjZ1FmZHd2YkPSAa4BQVVfeXFMTldlWUNfcHpockNTTG1IbTNhY3FrYzUzcWhjODlRNmVXU2lQNWZFU2ZFOHpfdnp5VW5wVDdVLTBtLUFJQkxaVTlxd1ByNVZ1RE5JdnhYaE5YVFhiQzNQRHdfY2E2OXRwRm1wY1g4dmNqakQ4TDIxaXV2bEUtcUJKNndqVTRZbnE5T29OSnFIWVVLYTU4ZVJzdnctcjA4Z3MzNlFjQmNwSVAxalVjM2l3?oc=5",
     "news_image": "",
@@ -35442,12 +35449,12 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.25,
+    "news_score": 0.24,
     "news_title": "CFAs: Science and Technology Accelerator – Systems Programme (South Africa) - fundsforNGOs",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUXpJX1dEMHNmZUF4ZmFIQ3lPcWFfM0F5QTNPUnJIMmc1RnNiQ3YwQW0xQlp3YlNYNkNEeXItZjZpaW9wOG5JcF9OX3JNZlFkdEdFMnFHeEhRcUFGYTMzeXZwaGFZZWJFcGRRZ1hUUjd3S2lQQzBVdGJpNHRSY3hkd19XLVhkX193X0Z1VVNsRWhXbHZiWUs0ZUVxMWVvMjlIczlQWE9jcHVnR3N6R3VackF30gG3AUFVX3lxTE1KSEZoREwtYnRXdUx6WkNud0x6UTlfWlJpUXBXSWdfWEU0VHRtdVhldVpGd01UN1VZT1VfSUIzUmpmbG1EbHI4bm1qbGg2VWdvY3ZxZDE4Yll0YWZib0JLTUhmTUxyai1sRC1ibEozaURWLW11VEFOUFVxX05PTU83ZHhDUG56R2IwXzJNaTBJclFRYXpUYXNqS3JzbnZGaTlpb29uci1seUxURHZGRTRfMDU3N3lSSQ?oc=5",
     "news_image": "",
     "news_source": "fundsforNGOs",
-    "news_age": "4h ago",
+    "news_age": "5h ago",
     "news_columns": [
       "olympic"
     ],
@@ -37452,10 +37459,10 @@
     "refugees": null,
     "refugees_rank": null,
     "news_score": 0.15,
-    "news_title": "One killed in sword attack at Swedish school - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QMG1ILU85bTVlS1FGMWZ2NHg5cXg5eEMyQ0JmYVN0bFgyZ19lS3BlRmpUY0w4ckwxcVpHSktaT2pqUzI3bUZ3SXhocmhES0FTTG5ZYjhSOGVlZw?oc=5",
+    "news_title": "Swedish police say 1 dead, 2 injured after school sword attack - CBS News",
+    "news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5a2dGT09fR25UcnpVMkg1SG0xb3pPRTNPNW81UmlNMjBCVnBEbzFnbjUyblBNWmUyVzVZd3gzdlA0cU1yc25xTG41WkM2Z0ZxVl9PM2JPSVZfWTlyZnhURFdGUEZtSWE0bm1zbGZWX0V1Z1k?oc=5",
     "news_image": "",
-    "news_source": "BBC",
+    "news_source": "CBS News",
     "news_age": "6h ago",
     "news_columns": [
       "edu",
@@ -41015,18 +41022,17 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.63,
+    "news_score": 0.81,
     "news_title": "Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT0pmdWd4SEpWUTcwZUhOTE1oSlBNQ05DNXBBeV81Rm9JRzdNdUppODJCT0M1QXF6NzUzUTd6UVowazJaNE5kX2N3d2hwbHRybXNFSlFhcVpXY3Y4dDA5YTZWamlKQkVLY1FILTcwYjlMY2hKUVRRY0ZJUmVsZlU0LWVici1IR1RRaEQ1NWpqbVFaLUhsUFdVREpzOTNOS0R5TkNjcGc1bEhGZFhCaTVoUy1lVU1QLS1ReWJSYmNsRVVRZjNfOHQtZmpR?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
     "news_age": "2h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
