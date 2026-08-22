@@ -1921,7 +1921,7 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.02,
     "news_title": "Paredes banned for 10 games after World Cup final fracas, Argentina fined - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWlBpR2t3SUZ6Q25IYUd6ZWNVc2xtOW9EN2lrTEM5VGhlcGlIZWtyNHpfN0FxcE9kdU1ES2tfaG5KVk9Hejc2MzBTdUltRFgyTFJ2QVJKcEtIdmc5dDJSd0hSREVRblF4T3dHMUh5NEtHcEp5RDJaNDhEMllDOHM1NUpOTDZUXzdRSS12VFpIX0NuWUJsbTQ4d0tkUjVRMUNYQzZHVkkzZWprY1VYTUVzQ3JQZF9QNUY4UGc?oc=5",
     "news_image": "",
@@ -1929,7 +1929,9 @@
     "news_age": "18h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -2537,12 +2539,12 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 1.08,
+    "news_score": 0.84,
     "news_title": "Canada vs Australia Live Stream: How to Watch 2026 Little League Baseball World Series - Fubo",
     "news_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdjhHVHcxQXh1bXdqUVhSMXdFcGNqdndQVzY5Z2s2Rk53cWxFYmIxSDZGTGxYN1lZM0FZUWRWdEkySktabmNxMy04WGw0ajhUNmlXRU44bDNtTHVSbm56YS1nODZiU2VKc0cwa28tZTAxZUdDdmhfcjg5VHg0OWpoZC1BWUp0LUpvbF9VZkZQWkVEOVdlWjA1ZlUwcFNnNmlfakVNWnJ0aFZMMDJBbURSMHpNZ1RiSVY3bE9CdWxWSjFiLXl4ZWhzUnlBWjhuTFBnYlhCN3RBcjJBamJuR08tN1N0VWU2MWM?oc=5",
     "news_image": "",
     "news_source": "Fubo",
-    "news_age": "11m ago",
+    "news_age": "13m ago",
     "news_columns": [
       "basket"
     ],
@@ -5128,8 +5130,11 @@
     "news_source": "ASEAN Main Portal",
     "news_age": "47h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -6901,12 +6906,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.8,
+    "news_score": 1.19,
     "news_title": "Canada vs Australia Live Stream: How to Watch 2026 Little League Baseball World Series - Fubo",
     "news_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdjhHVHcxQXh1bXdqUVhSMXdFcGNqdndQVzY5Z2s2Rk53cWxFYmIxSDZGTGxYN1lZM0FZUWRWdEkySktabmNxMy04WGw0ajhUNmlXRU44bDNtTHVSbm56YS1nODZiU2VKc0cwa28tZTAxZUdDdmhfcjg5VHg0OWpoZC1BWUp0LUpvbF9VZkZQWkVEOVdlWjA1ZlUwcFNnNmlfakVNWnJ0aFZMMDJBbURSMHpNZ1RiSVY3bE9CdWxWSjFiLXl4ZWhzUnlBWjhuTFBnYlhCN3RBcjJBamJuR08tN1N0VWU2MWM?oc=5",
     "news_image": "",
     "news_source": "Fubo",
-    "news_age": "11m ago",
+    "news_age": "13m ago",
     "news_columns": [
       "basket"
     ],
@@ -12931,7 +12936,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.33,
+    "news_score": 0.23,
     "news_title": "FIH Hockey Men's World Cup 2026, Game 25: France vs South Africa | #HWC2026 - Fédération Internationale de Hockey",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVE50ZG92a3RBcjVKNlRLR3hEUmYwb3FTN3ZJZDRzY2lWQ1l0Njc5YmN0NjBmVEhNbG5SRl9tc05XX0RscFNyUmtMSElES1V3UHhRVkNfNDZoQ2tFeHJpTE1wcHhKMlBiLVJOQUZZX0I0UXAtVjBhSVI4SGczT3JHNUhPQUtsVnVSbmV2QzFSdmJ0NUVCU1RoV2tfMk5KWGVW?oc=5",
     "news_image": "",
@@ -12939,7 +12944,9 @@
     "news_age": "5h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -16697,7 +16704,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.63,
+    "news_score": 0.68,
     "news_title": "How India can qualify for Women’s Hockey World Cup 2026 semi-finals - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVnNtSkNnY3lzbmRCSDJwbzgyNUFGSFBRSW5VSlBibWpidUFhYzRqX2JPWENOSFpCTUZKU2M3ZkxxdDdBRjNMbURhVC1fNlhiTEx4elU2TGhmNkl5RV9JS3J2bEpKdmo3TFRTajExSFdkS196YkllS1JnOGJxR1Q1N2tYTmo1SXJycUhrUC1GWUVKaVNKT1JSWi1tSmRmQUdDZGc?oc=5",
     "news_image": "",
@@ -17273,12 +17280,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 2.47,
+    "news_score": 2.41,
     "news_title": "Iran says the world has accepted it has defeated the US, and other Middle East developments - The Boston Globe",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUDIwc2JRc3ZLcVYwWEtOUzNxa0J3d0dYbWFpM0JLRmlpMDZYSTNvbTB4ZzZfTFhhQkJnQTI2TEVGV2hHTnNTNHoyZzBhb2JFaW9PdEN6Vjg2T0dYejBwT3ZldnZRUzRwa2E3RXg0T3JGOVlpQ1UzQUticDZidWNQdWJrS2ZyaVRkS3hQdkF5UG9UaGs?oc=5",
     "news_image": "",
     "news_source": "The Boston Globe",
-    "news_age": "61m ago",
+    "news_age": "63m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -17747,12 +17754,12 @@
     "refugees_rank": null,
     "union_rate": 77.2,
     "union_rate_rank": null,
-    "news_score": 0.79,
+    "news_score": 0.78,
     "news_title": "'Tired' start costs Ireland in World Cup defeat by Scots - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTUJJM1lQeDFwVHdvYUdSWGZ6YXFycDhRaVFJRmhhWDdpVmljYjFxRkxhZ3JiSkZxRmRYUWxpcmZDQVFSd29YdmtZMWs3bml6c1FkMzg0VXpNQ2t2RFFmM3pUVkRudjVpaFdtRS01RnlBT0J2cHYtcnUyNEZvUlRfdlR4UGUwN1E?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "58m ago",
+    "news_age": "60m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -18455,8 +18462,7 @@
     "news_source": "Decode39",
     "news_age": "23h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -19137,12 +19143,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.16,
-    "news_title": "Cities Compete in Dizzying ‘Gold Rush’ to Be Japan’s Backup Capital - The New York Times",
-    "news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KV2dpMlNhd3RVT3pEQ0ZBN2gxOEtTMk95Wllsdjliajl6ckRaYkVMWk50TlBXcjJMeGxNX3JLZzJNTXpTeHdIaFhaYUZyNjNJRlRSQUNGU2xIQmM0eVhhbDNVREhWQXA5aVdxM2o2RUVtUXM3YTh3ak1n?oc=5",
+    "news_score": 0.36,
+    "news_title": "Man leaves young son on Mount Fuji before ascending Japan’s highest peak - The Guardian",
+    "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX1RDNENQRk9PcDctU1djZkUxVTdfdUZzM19oTEdldGliaVBMRkpLMWx6UXBaelVZbXcxYnUtUlBJOGtEdndUd2Fqb2VqUjhEMmNHZTBGWU9lblRDZGJqMzhzZEF6c0IzLUNBMkVFd1A2cVJBREZSTTE0eVlhd21pY2lpbE43a1dXUk1j?oc=5",
     "news_image": "",
-    "news_source": "The New York Times",
-    "news_age": "9h ago",
+    "news_source": "The Guardian",
+    "news_age": "59m ago",
     "news_columns": [
       "olympic",
       "basket"
@@ -27088,7 +27094,7 @@
     "refugees_rank": null,
     "union_rate": 85.6,
     "union_rate_rank": null,
-    "news_score": 0.02,
+    "news_score": 0.01,
     "news_title": "FIH Women's World Cup: Netherlands too good for India in 2-0 win - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSFlXZjc4eTBVZ3MzX1A5MWZrVkhjSDNzMzY2ZTMtdnRwbVJXZlM1U0RQQUZaNDhtd1M5ZE4zUFo5NmRCdG5tOTVLTElmNjBtMVVUZS1USExLVmhnVE9BUW93a0hKNXBSSThrMkhWd0Z0c2hOSXN1RVFKR3dWNnFpQXlwTkxBMEljYjEtVFhEd1RYU1B2b09UQ3JFdlVZcmk3MXJDNm1Za3QxcGFodTBxWU12dHVmNV80MEZUV0hKUHlrMF90cFhhd0hfTUxtSHJoUWpWQ2ItYTUxMExpSVFGR0l3?oc=5",
     "news_image": "",
@@ -35431,7 +35437,7 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 1.33,
+    "news_score": 1.32,
     "news_title": "Former world boxing champion, 38, shot dead outside home in South Africa - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTDUxZHc5NW41dTZ6WnFqSzJBUmRwSnd5VjF5QlJPQ1R2NVZxTVBqd0h2cXpvTjBQLTY1c0dsczZ6bDRiTUs5TXpFWmhEQm5NdV95c1NIZHFDaUlXVFVLVDJVeTZoRWZVMDZjVkhrZElFQU0ydl9xcEJIQkJIYklneW1YdkF0MWVkODBhQnZEeUR0d0RDNk1BREtjRXNZZktmdkJVemF2Vi1OYzlhVTdrb0JR?oc=5",
     "news_image": "",
@@ -35914,7 +35920,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.0,
     "news_title": "South Korea ship to test Arctic commercial route amid Western concerns - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY3h3N3U3TVFHR3drWTl1RDEzQlhJOFR5dVpfQjFGcGNLZjJuNTl6SjQ5V3BYUTRvYWhWZk5YandYWnp0RUUxX2Z4V21zbmxadWFWQWd1R1Vqa3BzdmRocFMzTnRJMFBaZWt6Y2JJS0l1OHE1V3Y3TDV6N2F6d25paERCQnJOZkRQNzVTU3VMY2ZKdmNTMlNEeFZHb05rVnFDMWlkMWQwUDhPZXdqRUNyNW5PUUp0Zw?oc=5",
     "news_image": "",
@@ -36496,8 +36502,7 @@
     "news_source": "Al Jazeera",
     "news_age": "21h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -37436,19 +37441,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.83,
+    "news_score": 1.04,
     "news_title": "Swedish police say 1 dead, 2 injured after school sword attack - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5a2dGT09fR25UcnpVMkg1SG0xb3pPRTNPNW81UmlNMjBCVnBEbzFnbjUyblBNWmUyVzVZd3gzdlA0cU1yc25xTG41WkM2Z0ZxVl9PM2JPSVZfWTlyZnhURFdGUEZtSWE0bm1zbGZWX0V1Z1k?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "42m ago",
+    "news_age": "44m ago",
     "news_columns": [
-      "edu",
-      "literacy",
-      "pisa_math",
-      "pisa_science",
-      "pisa_reading",
-      "phd_per_cap"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "edu"
     ],
     "election_title": "Swedish Parliament",
     "election_url": "https://www.electionguide.org/countries/id/206",
@@ -40048,7 +40053,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZUMzQUN1UVgtR3l1b2d1LXV6d0J2QlcwY2l0TXhvMXpkYTZuRjZiNlBISm9SQUJoS283dmRTU1dIZ1JwSUFSM0FfVFZzVTVqS3lxNTlVSzg4dGNBczZzQWFOUTB2N0duUXY4Nk15MmVCaWlmNWR2NXoycnlndTgtVXVhR1RYOENkWTkzd05R?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "92m ago",
+    "news_age": "94m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
