@@ -1921,7 +1921,7 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.02,
     "news_title": "Paredes banned for 10 games after World Cup final fracas, Argentina fined - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWlBpR2t3SUZ6Q25IYUd6ZWNVc2xtOW9EN2lrTEM5VGhlcGlIZWtyNHpfN0FxcE9kdU1ES2tfaG5KVk9Hejc2MzBTdUltRFgyTFJ2QVJKcEtIdmc5dDJSd0hSREVRblF4T3dHMUh5NEtHcEp5RDJaNDhEMllDOHM1NUpOTDZUXzdRSS12VFpIX0NuWUJsbTQ4d0tkUjVRMUNYQzZHVkkzZWprY1VYTUVzQ3JQZF9QNUY4UGc?oc=5",
     "news_image": "",
@@ -1930,7 +1930,8 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -5133,9 +5134,11 @@
     "news_source": "ASEAN Main Portal",
     "news_age": "46h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -6907,12 +6910,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.91,
+    "news_score": 0.88,
     "news_title": "No deal reached in U.S.-Canada trade talks as 50 percent tariffs take effect - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUUpHSzVFU2ZTNXZoRGw0MVZQVnRLR2lDdU9UeUdveVBZTzhzSm04UHdBUGZ1SUJsczZ6UGlESGpsZW1lZ1ZUV0ktWDU0RHkzVVBfOHk0dnJTV2lXeGpEQlFKYzZIdVBaeFlocm16NDdtaEdxd05ROGtlM2RCOV92U0NyUGUzVFZ2MFp0b0J3ZkRNM3VEMlRCRWdFV0dRck1IREFsa1dRMXYxdUFIU1NMM2F3NTg3MjdZdEVELXUydm1hRS1xbDZ6Rg?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "101m ago",
+    "news_age": "2h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -7982,18 +7985,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.13,
+    "news_score": 1.2,
     "news_title": "Ramstad: The pendulum is swinging back toward doing business with China - Star Tribune",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVk5qeXhxYl9jQk1IdjA2VUhLYjJGYmxhTmZBdmc3MDB5aVN0c0tCbVdnclF1N1prLVJTRElKRWd1WE95eG9IcWN1MnpqMGpvVVhfd29FaHlOUTBCSUR5T25lQTJZamJQY0lxQTlGMzRxcnIwYVFnR1hjMi1lOUNDM0NOZ3JncjZQOFBIMmo3TGxQQTdQNEU3dlQ4ZWh6NnhOMUp4eVRZWVZuSlc1?oc=5",
     "news_image": "",
     "news_source": "Star Tribune",
-    "news_age": "69m ago",
+    "news_age": "71m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -12946,7 +12945,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.6,
+    "news_score": 0.48,
     "news_title": "FIH Hockey Men's World Cup 2026, Game 25: France vs South Africa | #HWC2026 - Fédération Internationale de Hockey",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVE50ZG92a3RBcjVKNlRLR3hEUmYwb3FTN3ZJZDRzY2lWQ1l0Njc5YmN0NjBmVEhNbG5SRl9tc05XX0RscFNyUmtMSElES1V3UHhRVkNfNDZoQ2tFeHJpTE1wcHhKMlBiLVJOQUZZX0I0UXAtVjBhSVI4SGczT3JHNUhPQUtsVnVSbmV2QzFSdmJ0NUVCU1RoV2tfMk5KWGVW?oc=5",
     "news_image": "",
@@ -12955,7 +12954,8 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -16713,12 +16713,12 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 1.11,
+    "news_score": 1.1,
     "news_title": "How India can qualify for Women’s Hockey World Cup 2026 semi-finals - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVnNtSkNnY3lzbmRCSDJwbzgyNUFGSFBRSW5VSlBibWpidUFhYzRqX2JPWENOSFpCTUZKU2M3ZkxxdDdBRjNMbURhVC1fNlhiTEx4elU2TGhmNkl5RV9JS3J2bEpKdmo3TFRTajExSFdkS196YkllS1JnOGJxR1Q1N2tYTmo1SXJycUhrUC1GWUVKaVNKT1JSWi1tSmRmQUdDZGc?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -17289,12 +17289,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 2.36,
+    "news_score": 2.37,
     "news_title": "Iran says the world has accepted it has defeated the US - Boston.com",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaVg5N2trNGcxQVd6U3RzUlh6eEVkTFdFcEY4OHB5R0xWUnlHTTdvcjNCUkVBYmoxRlRMTWZWZk5xRms3UzBRaVNzOUtjcC1vSEh5bC1ZeThiQ0U4b1JfUy1hM1JxeDAxQTBwVmFYMzYxOVhnWk9laHdTdGJyWXBHRlpaQU9pVTFMeUVsUEhJSmpzYVRWaUVzTU5VMVJyT2R0eWNaamdVV2VYQQ?oc=5",
     "news_image": "",
     "news_source": "Boston.com",
-    "news_age": "18m ago",
+    "news_age": "20m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -18022,7 +18022,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.55,
+    "news_score": 0.54,
     "news_title": "How the US and Middle East allies flipped the oil script on Iran - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YTC0xeHFnRksyMW1Za2NzTTNEdGNRTkpfRXIxNkppdklHTEpDUUd2QXdZd3EzbXB3SVpuVkFsVkUwNHMweVNnNkYwVHZfM3pyM3BnLXp2eTRjeFFPbXVTTmxjY0ZqdlgwSWRlUm9taTdoUFU?oc=5",
     "news_image": "",
@@ -19339,7 +19339,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.01,
+    "news_score": 0.02,
     "news_title": "Jordan Love plays one series, throws TD pass - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNckpSaEVyZ1pWTUpzckpuTV9lcGFrNVl5REEwVmFHQ2MzYjBtWkY1VHc4SjI1WjRqU2Q1Z2hIY1NBb0dLeXR0Sy1lX1R3d0JUSGtIa2FhelpEU0tramJRcGN3ZzVsY1FZNzRqbGtfb2ZwMFprSmMxTFBkUDFKMFZvUGk0TQ?oc=5",
     "news_image": "",
@@ -33833,7 +33833,7 @@
     "union_rate": null,
     "union_rate_rank": null,
     "fifa_ranking_rank": 146,
-    "news_score": 0.37,
+    "news_score": 0.36,
     "bottom50_wealth": null,
     "election_date": "2026-03-16",
     "election_days": 159,
@@ -35448,12 +35448,12 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 2.25,
+    "news_score": 2.32,
     "news_title": "Former world boxing champion, 38, shot dead outside home in South Africa - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTDUxZHc5NW41dTZ6WnFqSzJBUmRwSnd5VjF5QlJPQ1R2NVZxTVBqd0h2cXpvTjBQLTY1c0dsczZ6bDRiTUs5TXpFWmhEQm5NdV95c1NIZHFDaUlXVFVLVDJVeTZoRWZVMDZjVkhrZElFQU0ydl9xcEJIQkJIYklneW1YdkF0MWVkODBhQnZEeUR0d0RDNk1BREtjRXNZZktmdkJVemF2Vi1OYzlhVTdrb0JR?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "81m ago",
+    "news_age": "83m ago",
     "news_columns": [
       "olympic"
     ],
@@ -40064,7 +40064,7 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.43,
+    "news_score": 0.42,
     "news_title": "How the US and Middle East allies flipped the oil script on Iran - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YTC0xeHFnRksyMW1Za2NzTTNEdGNRTkpfRXIxNkppdklHTEpDUUd2QXdZd3EzbXB3SVpuVkFsVkUwNHMweVNnNkYwVHZfM3pyM3BnLXp2eTRjeFFPbXVTTmxjY0ZqdlgwSWRlUm9taTdoUFU?oc=5",
     "news_image": "",
