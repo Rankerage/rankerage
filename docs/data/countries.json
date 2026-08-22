@@ -6910,12 +6910,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.28,
+    "news_score": 1.3,
     "news_title": "Canada-U.S. Trade Talks Collapse; Washington Imposes New Tariffs - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXJicWNvNlVhUFZsYjd3QXBXbnQ1MzRGYXNCM2tkUnhLWFVaNnVxYjR4dThzMEpyUVQ3SjJOcUNKYm8xR0NGMG80d3gzdW95OUxSb3dZXzI2NWpoZEpYamxIQ2dQajFvMi1udTNjYmpVQVIxWkhGazRrYy1tTTQ1c3hmVDBoVHNmbXd3QmZ0TXpIeEZ6dUpjZm1n?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "36m ago",
+    "news_age": "38m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -9044,12 +9044,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 128,
     "fifa_w_rank": 69,
-    "news_score": 0.79,
+    "news_score": 0.78,
     "news_title": "Men from Cuba and other countries describe being deported by the U.S. to a dangerous African nation: \"We cannot leave\" - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOekdDMV9GR2o4OVliVWNMSnpSOUNFamRxeWxzbnZraElYVmpYdUhNMzdLUHdmbi1FcGplUmQxOG95dkczVEJiNWtYX3R4cnl6SGJONVJoODVacGFVczRra3g4aUlXN0l0R1dTUldsWEhRRWRmcUdrNEpvSkQ5dXhYZHZMSmw0aGlp?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "58m ago",
+    "news_age": "60m ago",
     "news_columns": [
       "immigration",
       "emigration",
@@ -13978,15 +13978,16 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.44,
+    "news_score": 0.55,
     "news_title": "Germany secures team jumping gold at FEI World Championships - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSnhoOXM3eTVTTVRaTmRVcTl3NzREb2lrR3pnMkFTbnhnMElESmtWYVlNTXdmTlU4cTVPRDk4WEwzdjVMWFlsT0lhMjdManJyUzN0Mk05YlNJaWVhQnJwajhXOFlYMlNkNW0xMXZ5OG5iR2hiYUZ3bXlBQU1MNmd5SGpiRXA4Njcxc1Q5SkNwbnR6RHF2b2UxaVU1YWh4R2dTTS16YkNjU0hNaHd1MjVBSTgxMA?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
     "news_age": "4h ago",
     "news_columns": [
-      "coffee",
-      "tea_consume"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -18029,12 +18030,12 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.82,
+    "news_score": 0.83,
     "news_title": "Israel probes killing of Hind Rajab, Gaza child who called for help - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORHpTWWJ2UHU5bnZNVGFERVR6ZTVPR01TMU4ydXpCaTFxNTlYdG1ORXV5MEhMVUl4NDY4MnFHRDZJTk5iUlhubjNTTXhUMC1BNElnNS1CQlNad3RLUmtrRTYxUTVFem5PSUpJdWc3QTBjZXMyLU9GanlieWwzU2g3SDFQTEpOTXRVdm1mY0V3bVhpM1VvOTdEMUtkbjJfQThwRzhvYW1wVFRRbXFL?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "49m ago",
+    "news_age": "51m ago",
     "news_columns": [
       "olympic",
       "basket"
@@ -18663,7 +18664,7 @@
     "union_rate": 74.0,
     "union_rate_rank": null,
     "fifa_w_rank": 39,
-    "news_score": 0.34,
+    "news_score": 0.27,
     "news_title": "Applications Open for 2026 National Science, Technology and Innovation Awards - Jamaica Information Service (JIS)",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObWNEOW81U3o5OV9OV3JvNjVaM3B1a0FCZjV0LUdvWmZ1azBPa3ZOd19tcWwtX1pITnlwMEJHbTBEbXp3djVQMUNJQUVBelExM2N6eU9pOXZhMi1HVU9pbXp1azZMUUxGX3ZZVHhhazRjMGdRbUkyTlRFT296ZTh3YURiSXBOX3J4UjQ1U0VSdkZCNXZsSGxDdUptTWM?oc=5",
     "news_image": "",
@@ -19157,7 +19158,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.25,
+    "news_score": 0.17,
     "news_title": "Low inflation may not be enough to prevent further tightening of monetary policy in Japan - Deloitte",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMVhrajlySXBWeW1JRVl1T3N1cVFDRUxYZjNzLTVmdXppNGw4cXg2MDhYcEk5NG9fN1lYRjNISDRVNUtVcllzRi1Tc0ZzaHptV1l3TVBHWUtJTzN3eDM2d1dLWWpPU0dBZUpoczJBOVJ0akZ3MWVBc1BVR3RlSHlReXlaeWRwa1gtUlE4REg2SV82UTIyNFplN3BTbw?oc=5",
     "news_image": "",
@@ -32937,7 +32938,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.38,
+    "news_score": 0.36,
     "news_title": "Russian 'double-tap' strike on shopping centre in Ukraine kills 16 and wounds 130 - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOME1nc2ZfV3l1LXlTQ29EZlNTd3drS1ZwNHBnbTdKd3VmVG5ZYkVpWngxV1BNQWFWY3VEMk8tVUVSX215cEgwV0ZRejFmR05LalNab3dkLXNwMTVkSmxDd3hlYjRGMkVZRHBlS1lQbU15R0hCQ3lvWHNpSW5QbUNvSmRVWnZhSVlYYW5IWUJCZGFTckZTdlVDNE9Wb3JsWkFvTHRkNmVscnNFUQ?oc=5",
     "news_image": "",
@@ -32946,8 +32947,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -41027,8 +41027,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
