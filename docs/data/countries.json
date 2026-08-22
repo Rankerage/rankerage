@@ -1921,7 +1921,7 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.02,
     "news_title": "Paredes banned for 10 games after World Cup final fracas, Argentina fined - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWlBpR2t3SUZ6Q25IYUd6ZWNVc2xtOW9EN2lrTEM5VGhlcGlIZWtyNHpfN0FxcE9kdU1ES2tfaG5KVk9Hejc2MzBTdUltRFgyTFJ2QVJKcEtIdmc5dDJSd0hSREVRblF4T3dHMUh5NEtHcEp5RDJaNDhEMllDOHM1NUpOTDZUXzdRSS12VFpIX0NuWUJsbTQ4d0tkUjVRMUNYQzZHVkkzZWprY1VYTUVzQ3JQZF9QNUY4UGc?oc=5",
     "news_image": "",
@@ -1929,7 +1929,9 @@
     "news_age": "17h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -6908,7 +6910,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.71,
+    "news_score": 0.7,
     "news_title": "No deal reached in U.S.-Canada trade talks as 50 percent tariffs take effect - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUUpHSzVFU2ZTNXZoRGw0MVZQVnRLR2lDdU9UeUdveVBZTzhzSm04UHdBUGZ1SUJsczZ6UGlESGpsZW1lZ1ZUV0ktWDU0RHkzVVBfOHk0dnJTV2lXeGpEQlFKYzZIdVBaeFlocm16NDdtaEdxd05ROGtlM2RCOV92U0NyUGUzVFZ2MFp0b0J3ZkRNM3VEMlRCRWdFV0dRck1IREFsa1dRMXYxdUFIU1NMM2F3NTg3MjdZdEVELXUydm1hRS1xbDZ6Rg?oc=5",
     "news_image": "",
@@ -7983,18 +7985,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.16,
+    "news_score": 1.14,
     "news_title": "Ramstad: The pendulum is swinging back toward doing business with China - Star Tribune",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVk5qeXhxYl9jQk1IdjA2VUhLYjJGYmxhTmZBdmc3MDB5aVN0c0tCbVdnclF1N1prLVJTRElKRWd1WE95eG9IcWN1MnpqMGpvVVhfd29FaHlOUTBCSUR5T25lQTJZamJQY0lxQTlGMzRxcnIwYVFnR1hjMi1lOUNDM0NOZ3JncjZQOFBIMmo3TGxQQTdQNEU3dlQ4ZWh6NnhOMUp4eVRZWVZuSlc1?oc=5",
     "news_image": "",
     "news_source": "Star Tribune",
-    "news_age": "89m ago",
+    "news_age": "91m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -12947,7 +12945,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.44,
+    "news_score": 0.43,
     "news_title": "FIH Hockey Men's World Cup 2026, Game 25: France vs South Africa | #HWC2026 - Fédération Internationale de Hockey",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVE50ZG92a3RBcjVKNlRLR3hEUmYwb3FTN3ZJZDRzY2lWQ1l0Njc5YmN0NjBmVEhNbG5SRl9tc05XX0RscFNyUmtMSElES1V3UHhRVkNfNDZoQ2tFeHJpTE1wcHhKMlBiLVJOQUZZX0I0UXAtVjBhSVI4SGczT3JHNUhPQUtsVnVSbmV2QzFSdmJ0NUVCU1RoV2tfMk5KWGVW?oc=5",
     "news_image": "",
@@ -16715,12 +16713,12 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 1.03,
+    "news_score": 1.02,
     "news_title": "How India can qualify for Women’s Hockey World Cup 2026 semi-finals - olympics.com",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVnNtSkNnY3lzbmRCSDJwbzgyNUFGSFBRSW5VSlBibWpidUFhYzRqX2JPWENOSFpCTUZKU2M3ZkxxdDdBRjNMbURhVC1fNlhiTEx4elU2TGhmNkl5RV9JS3J2bEpKdmo3TFRTajExSFdkS196YkllS1JnOGJxR1Q1N2tYTmo1SXJycUhrUC1GWUVKaVNKT1JSWi1tSmRmQUdDZGc?oc=5",
     "news_image": "",
     "news_source": "olympics.com",
-    "news_age": "66m ago",
+    "news_age": "68m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -17291,12 +17289,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.78,
+    "news_score": 2.29,
     "news_title": "Iran says the world has accepted it has defeated the US - Boston.com",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaVg5N2trNGcxQVd6U3RzUlh6eEVkTFdFcEY4OHB5R0xWUnlHTTdvcjNCUkVBYmoxRlRMTWZWZk5xRms3UzBRaVNzOUtjcC1vSEh5bC1ZeThiQ0U4b1JfUy1hM1JxeDAxQTBwVmFYMzYxOVhnWk9laHdTdGJyWXBHRlpaQU9pVTFMeUVsUEhJSmpzYVRWaUVzTU5VMVJyT2R0eWNaamdVV2VYQQ?oc=5",
     "news_image": "",
     "news_source": "Boston.com",
-    "news_age": "38m ago",
+    "news_age": "40m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -18022,12 +18020,12 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.76,
+    "news_score": 0.83,
     "news_title": "Former British and French diplomats urge action over Israel’s ‘erasure’ of Palestine - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSjZrSmFUMjJxZkh6QVRzSWhUenZ0cXVKaF9wQVU0UmxKNGJLUGx0Z0doR2ltRjhFZGZUcjFwcjNuRHdLdDFoUDVmS0VIX0NfakUtbk1peVptZnJSZjUtMTd0aEZlVkU1QklUTUFnbTlxTFoyOUlwUlZ5V3pRc2ZYN3pCZnRmNWRhRlE?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "88m ago",
+    "news_age": "90m ago",
     "news_columns": [
       "cricket",
       "olympic",
@@ -18472,8 +18470,7 @@
     "news_source": "Decode39",
     "news_age": "22h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -30101,12 +30098,12 @@
     "refugees_rank": null,
     "union_rate": 47.3,
     "union_rate_rank": null,
-    "news_score": 0.47,
+    "news_score": 0.56,
     "news_title": "Former British and French diplomats urge action over Israel’s ‘erasure’ of Palestine - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSjZrSmFUMjJxZkh6QVRzSWhUenZ0cXVKaF9wQVU0UmxKNGJLUGx0Z0doR2ltRjhFZGZUcjFwcjNuRHdLdDFoUDVmS0VIX0NfakUtbk1peVptZnJSZjUtMTd0aEZlVkU1QklUTUFnbTlxTFoyOUlwUlZ5V3pRc2ZYN3pCZnRmNWRhRlE?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "88m ago",
+    "news_age": "90m ago",
     "news_columns": [
       "cricket",
       "olympic",
@@ -35448,12 +35445,12 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 2.19,
+    "news_score": 1.61,
     "news_title": "Former world boxing champion, 38, shot dead outside home in South Africa - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTDUxZHc5NW41dTZ6WnFqSzJBUmRwSnd5VjF5QlJPQ1R2NVZxTVBqd0h2cXpvTjBQLTY1c0dsczZ6bDRiTUs5TXpFWmhEQm5NdV95c1NIZHFDaUlXVFVLVDJVeTZoRWZVMDZjVkhrZElFQU0ydl9xcEJIQkJIYklneW1YdkF0MWVkODBhQnZEeUR0d0RDNk1BREtjRXNZZktmdkJVemF2Vi1OYzlhVTdrb0JR?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "101m ago",
+    "news_age": "103m ago",
     "news_columns": [
       "olympic"
     ],
@@ -36513,8 +36510,7 @@
     "news_source": "Al Jazeera",
     "news_age": "20h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5
@@ -37453,12 +37449,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.65,
+    "news_score": 0.66,
     "news_title": "Swedish police probe online networks after teenage girl killed in school sword attack - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZVV3NExuQmFxMzNiVU9iZnhweFRMb2tvQmlqVmhNbXJia0YtcXFMalNXanhOS2gxYy12MHFZT0VoRENBOWFLMklzdWVaV3pZMVFmSmI0VEJENUxSTU5nbUJZdnpWa3lIR1IydEFSb3JIY0pjQ0RRdjh5aGhqdy1DYlVLdksyc1psREx4Q1NXUDVOTk45WndFU1RaWE5RMmdTZFZ2SnAxVFltWDhhYTJ2WlQxNS1lNU9rX29nVXVRMmEwdw?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "89m ago",
+    "news_age": "91m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -40060,7 +40056,7 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.56,
+    "news_score": 0.5,
     "news_title": "How the US and Middle East allies flipped the oil script on Iran - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YTC0xeHFnRksyMW1Za2NzTTNEdGNRTkpfRXIxNkppdklHTEpDUUd2QXdZd3EzbXB3SVpuVkFsVkUwNHMweVNnNkYwVHZfM3pyM3BnLXp2eTRjeFFPbXVTTmxjY0ZqdlgwSWRlUm9taTdoUFU?oc=5",
     "news_image": "",
