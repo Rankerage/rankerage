@@ -6914,12 +6914,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.87,
+    "news_score": 0.86,
     "news_title": "Canada eliminated from Little League World Series after loss to Japan - Sportsnet.ca",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWG93WG5ueTU5ZFY0dU1vVnhvQjBULVBqQXFTMHR4MXZMWWRlVUNmcWx4NjhTMUZqRjFJaVI2RVBaVWRZNUVOZFJ6SE1FTXlVUHlqcmsyWkY3Q2tkMDdKZFZ3cU80RGZReU51dEZIUVRpQjFmX19lSnBPb05yUnVhY20yQVJlS0V1RktfMGVPUXExdmRDLU1tTXpmcXRIM05ha2RwQm5zRDZScnh6YUlHMmJR?oc=5",
     "news_image": "",
     "news_source": "Sportsnet.ca",
-    "news_age": "89m ago",
+    "news_age": "91m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -7546,7 +7546,7 @@
     "refugees_rank": null,
     "union_rate": 70.9,
     "union_rate_rank": null,
-    "news_score": 0.61,
+    "news_score": 0.6,
     "news_title": "World Cup star Vozinha makes first appearance with new team in Chile - NBC 7 San Diego",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdDJHajJZTVVlbDZJS0pnYy1MWG41T1FoNzJ2VjMwZTk3REdEaE5yWEVKdzJJTDZzTUxDUzFJc09YWXZ6RVdiZXlDaWowajlHWkhFd09fekNZMUpkT1A2SmRtclMxVDl4X254TmxTZmxrWFhsbW54aG5CVjZhVElSdldGUHBQYTlkNW5XTy1GVzR1SDZFYzNVRHYzVjfSAaQBQVVfeXFMTlhHUWl6dmlHQnZWVmx3VjdMdTIwdHNaYktRLWczb29OZXg1dzlEb0ZSTndkM3c5dkVzdHBGMTAyTE80bjFVVEo3RHludEN4UUc4aVpETjNCNFJ0bHJQU2VGeEp2ZUJCam5CdGdXMFJENzN5WHdrLV93bUd0XzZpeG12WHVNN1pYYmhQRWZUWGRQdzVPemUxd2NBcjZXNzJkb1MtdDI?oc=5",
     "news_image": "",
@@ -7990,12 +7990,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.33,
+    "news_score": 1.29,
     "news_title": "Nepal flash flood live updates: search on for hundreds missing near Tibet border as officials warn death toll could rise higher - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYzgzdDVxeTZHZHJETVFQbHRQaVNRa2VqSF9EV1drSjlnZWdzN2RieWxSYmg3clV1U0g5MTAwWlQyb1h2a1lPNThLODVGd1ZGQ0xUM01tb1FyRGk1U3dveUFvZlp4QUs3MktFRUNOZ2xxcEx4MEdpV25zMkF1R0NBRWZHUF9CMmRBeWZJZEY4c192bjJMWS0zQ3RtNWZEbXFFQWtnb09KWUNyWUQyR1JOZWh1Y01tS3ctSGpmQXdpelR0d09NR2ZrSXIyZlZmR2lwd095ckh5eWtfRnU5dTlUTE40OXRBUQ?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "88m ago",
+    "news_age": "90m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -17321,12 +17321,11 @@
     "news_source": "Reuters",
     "news_age": "4h ago",
     "news_columns": [
-      "democracy",
-      "approval",
-      "press",
-      "election_days",
       "military_pct",
-      "nuclear"
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": null
   },
@@ -18056,12 +18055,11 @@
     "news_source": "Reuters",
     "news_age": "4h ago",
     "news_columns": [
-      "democracy",
-      "approval",
-      "press",
-      "election_days",
       "military_pct",
-      "nuclear"
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": null
   },
@@ -19189,7 +19187,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWG93WG5ueTU5ZFY0dU1vVnhvQjBULVBqQXFTMHR4MXZMWWRlVUNmcWx4NjhTMUZqRjFJaVI2RVBaVWRZNUVOZFJ6SE1FTXlVUHlqcmsyWkY3Q2tkMDdKZFZ3cU80RGZReU51dEZIUVRpQjFmX19lSnBPb05yUnVhY20yQVJlS0V1RktfMGVPUXExdmRDLU1tTXpmcXRIM05ha2RwQm5zRDZScnh6YUlHMmJR?oc=5",
     "news_image": "",
     "news_source": "Sportsnet.ca",
-    "news_age": "89m ago",
+    "news_age": "91m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -26769,12 +26767,12 @@
     "refugees_rank": null,
     "union_rate": 41.9,
     "union_rate_rank": null,
-    "news_score": 1.0,
+    "news_score": 0.95,
     "news_title": "Nepal flash flood live updates: search on for hundreds missing near Tibet border as officials warn death toll could rise higher - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYzgzdDVxeTZHZHJETVFQbHRQaVNRa2VqSF9EV1drSjlnZWdzN2RieWxSYmg3clV1U0g5MTAwWlQyb1h2a1lPNThLODVGd1ZGQ0xUM01tb1FyRGk1U3dveUFvZlp4QUs3MktFRUNOZ2xxcEx4MEdpV25zMkF1R0NBRWZHUF9CMmRBeWZJZEY4c192bjJMWS0zQ3RtNWZEbXFFQWtnb09KWUNyWUQyR1JOZWh1Y01tS3ctSGpmQXdpelR0d09NR2ZrSXIyZlZmR2lwd095ckh5eWtfRnU5dTlUTE40OXRBUQ?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "88m ago",
+    "news_age": "90m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -28317,7 +28315,7 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.02,
     "news_title": "COP17: Africa must connect science to action to tackle land degradation — Expert - Premium Times Nigeria",
     "news_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSXh0WWVsYWZSV2dkSmdUV21TYmZ4RlhCczlDRkNEM1h4elY0ZmNUZGRocjBLQlZldEtyaEFHWjAydmNWWEFVMXZUYm9IRjF4RFZTd1l4ZS1aVjdmRUpyMUxxOWpOTFU0aGZCcHJSeFhYZWx4V1JTV1l6dXhHekNIQ19SbWt2OTk1UFVZN1BVaHJWMWU1RmxfRkhFcEtITGFhN3dkYjdfZGN0UEw0blpuckVsdFB1WUtaQXZvQ1RaNUxRMnhRSFJKUk5ISmxPTDcwcXJzVnhiTTMxa3c?oc=5",
     "news_image": "",
@@ -32194,12 +32192,11 @@
     "news_source": "Reuters",
     "news_age": "4h ago",
     "news_columns": [
-      "democracy",
-      "approval",
-      "press",
-      "election_days",
       "military_pct",
-      "nuclear"
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": null
   },
