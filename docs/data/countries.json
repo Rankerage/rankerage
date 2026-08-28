@@ -5136,7 +5136,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVGVVbXZxTjhwSmhJc0RWQUJ6WDFDN1Nsc1Y4alNXU0JLeDlWaGRTNnpmMzNwTEE1Z3ZlazJIbjJBSUtHbWl1Z1l2eDQ3QjlJNzJvUzduYW9CQXlBbVh4bWxZb1otRVd6d0N4aTh0am16QzhsVHEyS096emZIc3hpXzZxUXZYLWkwMTAxWm9obGJ5RDZ4aWhGRTVnYl82ZEt4NVU4aG5Wc0FiOHpnVTFr?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "11h ago",
+    "news_age": "12h ago",
     "news_columns": [
       "basket",
       "olympic",
@@ -6915,19 +6915,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.07,
-    "news_title": "Trump signs order to rename Lake Ontario as Lake America - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSOUxpMzlxYUxvejZqaGJHX2xMVkQ1UVE1WTNHMFh4Nl8zWW9fdEVPLUdtY3Zsc3k3VUdNUTRIY2FndU1IUlp0S2RlaDhfdW9SLXJ3TEhhMmF6UQ?oc=5",
+    "news_score": 0.06,
+    "news_title": "Auburn soccer's Chloe Taylor plays for Canada in U-20 Women's World Cup - Auburn Tigers - Official Athletics Website",
+    "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUEItMXhoYlFPTmVmb0Rsa0VuVERYTE5fN3g3MFVCYmwwdzZlcWpkVHZrNG1TSTU2eXpzcDdWaEJPQS1qWURNZm1QTnFSb2dwdkNmX2dXVFdLVGtIdlZKOW1KVUZ2ekJVV0NwMFhPM3UwMW9EWV9qRFRMS2FkU1BMNDBNeVpRZDBwV2xqLWNIQ1ZYOWNMU1kxOFQzejE1a2w5WWFRcHRVMXotUjV0M1k0?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "9h ago",
+    "news_source": "Auburn Tigers - Official Athletics Website",
+    "news_age": "11h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket",
+      "gender",
+      "gender_gap"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -17323,19 +17323,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.06,
-    "news_title": "Iran links Hormuz reopening to ending regional wars as Trump reportedly rejects return to June deal - CNBC",
-    "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjb1Blb0pDQ21Hak55TWQtNTVnaDJIU2U3WTNRa0hZRmI0dnRkbTU4MF9PRUNIVW5UN0p5akxDdlk1TXF1R1FSbXpzVTRMdUVQaVdTNTU2NlJPVGNPMGJabVdUWi14aC1UVWQwemlxa25FdlNFVk5iOU1hSUlSMmfSAYQBQVVfeXFMUE5hclAtQVRhVktqVHlCdmgyMktYZFFBM3dEdjBhaXd0VzIyZjRPaV9nYWJCOUdBUmhYcUhybGtWVElnS1Rwa19SNjljNThKNWJodEVFYl9fdHhGU0pQUS1iY1JGNFlaSllFXzloXzNaRGpTb3F4dThTdGljeWMzSkp5eXd3?oc=5",
+    "news_score": 0.05,
+    "news_title": "The Iran War at Six Months: A Region—and Its Relationship With the U.S.—Transformed - Council on Foreign Relations",
+    "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVmV2aGlOQU5JRVc4N3lMVUxqa1l3empTb0dTRUJ4bEV4QXRJTTRSOHNfNGkxSG9lbWZKcGlkUHBWbjlHMzRWamRoYjdFaE5rVk5xcnRnRkxrb0RQTTFBN2xjdGl0MXVFSF9FSTd3YlVNMzVub3hTODJrQk01V2NEdjVHNUNkdUppUnVTaTdnUGREWFdlaDlYTFc1cGVTMmJpdHE1ZVpWdmFtZmZXYThz?oc=5",
     "news_image": "",
-    "news_source": "CNBC",
-    "news_age": "6h ago",
+    "news_source": "Council on Foreign Relations",
+    "news_age": "12h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
       "military_personnel",
       "gpi",
       "arms_export",
-      "ai_research"
+      "lgbtq_rights"
     ],
     "bottom50_wealth": null
   },
@@ -29362,12 +29362,10 @@
     "news_source": "The New York Times",
     "news_age": "2h ago",
     "news_columns": [
-      "co2",
-      "renew",
-      "forest",
-      "pm25",
-      "ai_research",
-      "internet_pct"
+      "lgbtq_rights",
+      "gay_marriage",
+      "gender",
+      "democracy"
     ],
     "bottom50_wealth": 2.8,
     "bottom50_wealth_rank": 19
@@ -29543,7 +29541,7 @@
     "refugees_rank": null,
     "union_rate": 70.4,
     "union_rate_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.0,
     "news_title": "Iran links Hormuz reopening to ending regional wars as Trump reportedly rejects return to June deal - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjb1Blb0pDQ21Hak55TWQtNTVnaDJIU2U3WTNRa0hZRmI0dnRkbTU4MF9PRUNIVW5UN0p5akxDdlk1TXF1R1FSbXpzVTRMdUVQaVdTNTU2NlJPVGNPMGJabVdUWi14aC1UVWQwemlxa25FdlNFVk5iOU1hSUlSMmfSAYQBQVVfeXFMUE5hclAtQVRhVktqVHlCdmgyMktYZFFBM3dEdjBhaXd0VzIyZjRPaV9nYWJCOUdBUmhYcUhybGtWVElnS1Rwa19SNjljNThKNWJodEVFYl9fdHhGU0pQUS1iY1JGNFlaSllFXzloXzNaRGpTb3F4dThTdGljeWMzSkp5eXd3?oc=5",
     "news_image": "",
