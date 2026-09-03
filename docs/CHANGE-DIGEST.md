@@ -1,0 +1,66 @@
+# 주간 변경 요약 (CHANGE DIGEST)
+
+_생성: 2026-09-03 19:24 UTC · 모델: qwen3:4b (실패 — 원문 폴백) (ARM 로컬 ollama)_
+
+이번 주 변경 원문 목록:
+
+- 09-03 19:02 election_days / zw: 1095 -> 1107
+- 09-03 19:02 election_days / sb: 857 -> 869
+- 09-03 19:02 election_rank / ps: 28 -> 21
+- 09-03 19:02 election_days / pa: 839 -> 851
+- 09-03 19:02 election_days / pg: 1510 -> 1522
+- 09-03 19:02 election_days / py: 1210 -> 1222
+- 09-03 19:02 election_days / pe: 132 -> 144
+- 09-03 19:02 election_rank / pe: 36 -> 37
+- 09-03 19:02 election_days / ph: 467 -> 479
+- 09-03 19:02 election_rank / ph: 97 -> 98
+- 09-03 19:02 election_days / pl: 446 -> 434
+- 09-03 19:02 election_rank / pl: 94 -> 92
+- 09-03 19:02 election_days / pt: 216 -> 228
+- 09-03 19:02 election_rank / pt: 59 -> 62
+- 09-03 19:02 election_days / pr: 655 -> 667
+- 09-03 19:02 election_days / qa: 1785 -> 1797
+- 09-03 19:02 election_days / cg: 160 -> 172
+- 09-03 19:02 election_rank / cg: 48 -> 51
+- 09-03 19:02 election_days / ro: 475 -> 487
+- 09-03 19:02 election_rank / ro: 100 -> 101
+- 09-03 19:02 election_days / ru: 27 -> 15
+- 09-03 19:02 election_rank / ru: 9 -> 5
+- 09-03 19:02 election_days / rw: 768 -> 780
+- 09-03 19:02 election_rank / rw: 134 -> 135
+- 09-03 19:02 election_days / kn: 1478 -> 1490
+- 09-03 19:02 election_days / lc: 264 -> 276
+- 09-03 19:02 election_rank / lc: 66 -> 67
+- 09-03 19:02 election_days / sm: 159 -> 171
+- 09-03 19:02 election_rank / sm: 46 -> 49
+- 09-03 19:02 election_days / sg: 476 -> 488
+- 09-03 19:02 election_rank / sg: 102 -> 103
+- 09-03 19:02 election_days / sk: 402 -> 390
+- 09-03 19:02 election_rank / sk: 92 -> 91
+- 09-03 19:02 election_days / si: 153 -> 165
+- 09-03 19:02 election_rank / si: 44 -> 47
+- 09-03 19:02 election_days / ps: 98 -> 86
+- 09-03 19:02 election_days / so: 1560 -> 1572
+- 09-03 19:02 election_days / za: 815 -> 827
+- 09-03 19:02 election_days / kr: 445 -> 457
+- 09-03 19:02 election_days / ss: 122 -> 110
+- 09-03 19:02 election_rank / ss: 34 -> 32
+- 09-03 19:02 election_days / es: 365 -> 353
+- 09-03 19:02 election_rank / es: 89 -> 85
+- 09-03 19:02 election_days / lk: 646 -> 658
+- 09-03 19:02 election_days / sd: 4149 -> 4161
+- 09-03 19:02 election_days / sr: 454 -> 466
+- 09-03 19:02 election_days / se: 22 -> 10
+- 09-03 19:02 election_rank / se: 8 -> 2
+- 09-03 19:02 election_days / ch: 36 -> 24
+- 09-03 19:02 election_rank / ch: 11 -> 9
+- 09-03 19:02 election_days / sy: 321 -> 333
+- 09-03 19:02 election_rank / sy: 79 -> 80
+- 09-03 19:02 election_days / tw: 511 -> 499
+- 09-03 19:02 election_rank / tw: 108 -> 107
+- 09-03 19:02 election_days / tj: 538 -> 550
+- 09-03 19:02 election_days / tz: 297 -> 309
+- 09-03 19:02 election_rank / tz: 73 -> 75
+- 09-03 19:02 election_days / th: 195 -> 207
+- 09-03 19:02 election_rank / th: 57 -> 58
+- 09-03 19:02 election_days / tl: 1189 -> 1201
