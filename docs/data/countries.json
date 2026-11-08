@@ -1925,15 +1925,15 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 1.08,
+    "news_score": 1.49,
     "news_title": "Apostolic Journey to Argentina: Meeting with the world of work - The Holy See",
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYk1TNVdwdjMwLVJjWjdVLWFKVEhsTFdCcXhyWldndWowQ3lsM2J4SThybzV1WU1RNzQxYjNkUktqWndqalVwN29FTkVobS1PZUFRaTdCOXV0ZWZIcWFJUFp0TEpKaHlqdmFFQ190b2FNdkdIVmlfeWlUXzhaVUx1eWRySkZPUXZ1d0NYbUpXT05xME5yMkpsMVpTeVN5SFZwUTN1RmI2N2ZCcTdrQWc1Q3FSc1hyeEpFWXBoQlRaQ1hhTXNQeTRqWA?oc=5",
     "news_image": "",
     "news_source": "The Holy See",
-    "news_age": "3m ago",
+    "news_age": "5m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "politics",
+      "religion"
     ],
     "bottom50_wealth": null
   },
@@ -2550,7 +2550,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.09,
+    "news_score": 0.08,
     "news_title": "Defending champion Australia beats Samoa to reach Rugby League World Cup final against New Zealand - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN3Bua0R3b1IxajZNbzItajJkUDR3VUFTNUtiTkJTV0F3V2lhRG5DTm5mX3BoWDBYeUViQlkwNXpDM001NDJWVi1UbHR5N2gxTnNMNmIxelV0UFBfenA2bEZlWTZJN216RDlDZ3E0SnBzXzl1R1Y1VWFvWHpnQ01Qa3pLN2NjR1Z5RW94d1BPLWFUaEU?oc=5",
     "news_image": "",
@@ -2869,7 +2869,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ1plUGNnQVZidE5wNTdScTkxZnRaNE5JMTZhTXRYZ1FMWlhadGNiMU5sWFZHTU45b3Q1cWEzZWtuVFRyQk9aWTV0SUlvZzFVUnQ4SmczTndTNnRKRzRnTnVJaE8xNkpmd2NNZ2dRMnJLal8tVUp0S0EzcHpJeUVsSER2MlJ5Rk9KX0R4eg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "8h ago",
+    "news_age": "9h ago",
     "news_columns": [
       "gender",
       "gender_gap",
@@ -5159,15 +5159,15 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.29,
+    "news_score": 1.38,
     "news_title": "2026 São Paulo Grand Prix - Race Report: Team Crowned World Champions in Brazil - Mercedes-AMG PETRONAS F1 Team",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWFGelhGazVhZnk3YnFsRTlXc1k3cDhXS0NwTlRjUUllMGdJbjVOenpkNDBuLVlzSFRKMTJHTHlYay11VlJqenZlb0QwUVZrTjJwM3RhT3JDTjZiMzNQQTkzZkhnUXRiRWxaWTFPZVRMUzBqcWFzSGRpUHo5Q2llbHVhX1FhZEttU3NkYWJkcGZBQQ?oc=5",
     "news_image": "",
     "news_source": "Mercedes-AMG PETRONAS F1 Team",
-    "news_age": "67m ago",
+    "news_age": "69m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "f1",
+      "nascar"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -8006,14 +8006,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.25,
+    "news_score": 0.19,
     "news_title": "China Set to Lead World in Energy Investment in 2026, CCTV Says - Bloomberg",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVNBelR6QURBUWMxQVp4SHlEUW9Nc1lhQVluWjgwSFh4cUlqdWxPeE96dXFvcUVmV3BrTFYtVXF6XzNEZU5Mc1k4dUxsa2hWamNRUkhsdGtfQjFCd1JfSkpJRnc1VDFGdU1GT29XSFllQ0hOTExvaEFtc1I5cHM2ZGl1aTFNQ1NMYnhoa084a2doRlQ2aVl2VnpzbzJqVWJkZ2pNdGNVeVJ6Zk5oU1NmTmk5Yw?oc=5",
     "news_image": "",
     "news_source": "Bloomberg",
     "news_age": "19h ago",
     "news_columns": [
-      "fifa_ranking"
+      "tech",
+      "politics"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10938,7 +10939,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1pDemVhQ0RJdmhpWXA2akRYZHFLSkpCaXlHdUIwRmZab2JCcHdDMEU0VU5QajU2ODBvc21yUm5TLW9oUlRhWVI0Z2FUX2cta21RZFhYSEJIa3R4TjhDQkpnTWlBS0VvZDRhSnowTGlwdThyODM2UlEwTHlHQnM3N0E5LTR5dWlXZEZDZS02T3NlbnBmQ1ZaSXdhV21nbVJWRmZuTWF6Q3g5MDQ?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -13028,7 +13029,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ1plUGNnQVZidE5wNTdScTkxZnRaNE5JMTZhTXRYZ1FMWlhadGNiMU5sWFZHTU45b3Q1cWEzZWtuVFRyQk9aWTV0SUlvZzFVUnQ4SmczTndTNnRKRzRnTnVJaE8xNkpmd2NNZ2dRMnJLal8tVUp0S0EzcHpJeUVsSER2MlJ5Rk9KX0R4eg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "8h ago",
+    "news_age": "9h ago",
     "news_columns": [
       "gender",
       "gender_gap",
@@ -13555,7 +13556,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.75,
+    "news_score": 0.74,
     "news_title": "AP Top 25: Georgia Reclaims No. 1 Ranking; Ohio State Slides To No. 21 - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM3F4bTYwbzZIeXNFb0RPbWdoSUQ0MFBvaGp4Q0tuNUZHRUhqVGp5eVZOX1JGVHR3TXBOWDhHWWJyTGd1NmpxTU9ndmdjNVBtQVQxMXZSamNfbVh0NWFSSEYyT1dEd1h2UWZEOXFubjk5ZE81SS1OdnFHck9iLUNmc092TnoxOXV3RWpPQm0zdXVZZ2RGQ2d2ZHByYnlHNmg5SFNsT1ZwMm1xYUx6VHfSAa4BQVVfeXFMTm8xTWhFM3I2X1k0dkJDTVdFQk0tUDBINWJ1c20xTUxOZG8xTDlGbmV6YzItQkh1N3Z5N05yVWhTRFk3c1liSlZhMF9BZEdYN3loczBEdWFNOXpzY0szWjB1cTRYcWdQVlltX2V0WXJxbngwZHM4M0czUUNkVk4wN0tXb3lKdHBHZWQ2MVJXd2xTQjNrVlBWRXJ4RXBmeGc3dWZMNUhPTGFENWJsWVNB?oc=5",
     "news_image": "",
@@ -14058,7 +14059,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.31,
+    "news_score": 0.29,
     "news_title": "Peschel scores on debut as USA rout Germany 5-0 at women’s hockey worlds - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV0JVN3RMRFhmN01rYXRSbmFla3VKc2VWMjU5MlJHZGRqMWdKZ2ZUSVctVWctcjU5OEFzUjM5RzJGbjRQaGFqaGptUGVlNGRmaTRrUkdWTkN5OGFHYTVRenhpcldjZDFpbkVMUDMzQ01WSUNrQTRqRk1CWnhwc2tTT0E5WU1tT3BwcGNHRFYxb0FtazRxdWNJQmltSVk1TXZHU1lVeUZpN0RFOTA?oc=5",
     "news_image": "",
@@ -15873,7 +15874,7 @@
     "fifa_w": 81,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 62,
-    "news_score": 0.14,
+    "news_score": 0.1,
     "news_title": "Hong Kong Hosts 2026 Future Science Prize Week, Promoting Innovation and International Collaboration in Technology. - 巴士的報",
     "news_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZVVDMFNRNExId0JPb3Rod1NNcDhwOGtWSm85RXhablpSa0VTNEhNbUFLa0xpQXl6VkZfZUdOQUpHVVhDd1lLdzZWXzhPT1NfTlZOeXJOTkpmeTMydmtjMXpObnVtR0lHVWdJZDYtRmpkdGlVeWV4RTFUR29kSllnYmlMOE43SjJwQ2h2Y0NHMGtvdnhuREpDWk1EbXNSNlFEODZ1Nzk5VmVoWkNFd1lBbXFiLUZmYWdWYTF4akNmdVVPMzBFRzNpb0hINVcyTDhfUHJfcm95QnNHVzB3a1A2ZF8zbzBWNmJoRU1kZ1dpTVp0ZlNJSERrbg?oc=5",
     "news_image": "",
@@ -18124,11 +18125,11 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.45,
-    "news_title": "Potential Vance challengers smell blood in the water after brutal GOP losses - The Washington Post",
-    "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNUZIQUxDUjgyWTJFcnptb2FZY3phcHBBaVlxQkcyMTVxd25vcDZDNGhGbjE3bEkzbXNxbjZLRk9nX29qRmR2SUpXdGc2UFZMWHVFVWx5aEV2R09KTHppUXYzdDlOdTVZbFN3ekNoZmVLMXowR3QyUFJrNVNKYTh2T2xxSVQ4NjBYbUh6dWVpUDRRM25HSlY1NmFiUTU4dWVyUF8wRWpLaTU3UjEyRVA2UlZ6LWtjU1BQa3I3bGVR?oc=5",
+    "news_score": 0.47,
+    "news_title": "Eisenkot open to Netanyahu joining Israel’s next government - Al Jazeera",
+    "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWJndTBjVU90M3NvOURyOEE4V2NBeW5qbi1ONnF1S2ZpWjE1dE9QTEtnc2lfZmxCX0phZC1aWkw4WXhpNV95d0otelVhTkIxcEtQYTFleTVCaWkxWVNFWXZpU0p0cTdUZ0hMSGIzUHlIVGh6cjI2cnVncEMxM0xTTW5NY05ISndQNjYwR2VlOVJxWVlJWUsyaUxvQVl6WUVMSFU2aktoRzQ1QdIBrwFBVV95cUxQem95MVBFMy1naHV2QVZDMWJmZ25pZ0FVMTljSzFSaTlxN2F2RWJZcWFBMnozWXdLLTZIdzVHV05FaDN5T1B3djdRNElIQTVOYWFYanpPcmZzYVpuZkQzVlpZNV9MNi1EcFZTQ1VEQzMzVm9VRUdaNlZPbkRVbElGZTlVczJHdFMxNkNSekdnNENCQWJoNzVKdFlxQ0Rhank3X21jTVhSX245WTJYZjJz?oc=5",
     "news_image": "",
-    "news_source": "The Washington Post",
+    "news_source": "Al Jazeera",
     "news_age": "5h ago",
     "news_columns": [
       "democracy",
@@ -18571,7 +18572,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX19PVFU5dnNMeXRrckFLcUFNTHNKLXF0OHdmZHdHMnlGcXdCT1N2NkllbGxDb2hmaW5sSnpkN2pUSGVIaVFwZ3dwbjlfbDBRdnA2UWtqdVFRQ19IeXZfS09hckRtNWFhVzhnR3phVEluMHcyLWw4NnMzazNMZ3dKS0hhVWd6cDRnT3pMRQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "65m ago",
+    "news_age": "67m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -31657,12 +31658,12 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.55,
+    "news_score": 0.73,
     "news_title": "Top House Democrat Hakeem Jeffries 'a hard yes' on impeaching Pete Hegseth - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRQmRlVU1CeEg3c09yaDNzWC1JbVJ6bTFzUnhNcE5nTjd4bmQ2V09VNWJUT3hoZ3lsWG5teVBpeDRndk03VGFSZjFXaDl5VFkwRk5PdEp2Z3AtY00?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "23m ago",
+    "news_age": "25m ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -36141,7 +36142,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNXzZCQk4xSlo5WEhfalFMalhGaWVkc1psdzZvczQwTjNmLW94WmlvNnBoYWhIWElkZmZXQXdlYUlfZnNTRGo5QTZNUDh3WDc5ajh0R3AzM0pBeFdYbkV3cmVCa0dfeFBJeDZsLWtJbVkwYnNicWtndGs1U2duam50MEljVG1XYXVHU2pFOFh1N0IyYU9LZ081RFdYU1FpdlN3U3RxeGV0TFFrTXdpSFQyQmVEZWNNSnZyZkE?oc=5",
     "news_image": "",
     "news_source": "SGGP English Edition",
-    "news_age": "11h ago",
+    "news_age": "12h ago",
     "news_columns": [
       "nato",
       "military_pct",
@@ -42535,9 +42536,12 @@
     "news_source": "The Washington Post",
     "news_age": "5h ago",
     "news_columns": [
-      "basket",
-      "fifa_ranking",
-      "olympic"
+      "nfl",
+      "football",
+      "f1",
+      "nascar",
+      "tech",
+      "politics"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43747,7 +43751,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNXzZCQk4xSlo5WEhfalFMalhGaWVkc1psdzZvczQwTjNmLW94WmlvNnBoYWhIWElkZmZXQXdlYUlfZnNTRGo5QTZNUDh3WDc5ajh0R3AzM0pBeFdYbkV3cmVCa0dfeFBJeDZsLWtJbVkwYnNicWtndGs1U2duam50MEljVG1XYXVHU2pFOFh1N0IyYU9LZ081RFdYU1FpdlN3U3RxeGV0TFFrTXdpSFQyQmVEZWNNSnZyZkE?oc=5",
     "news_image": "",
     "news_source": "SGGP English Edition",
-    "news_age": "11h ago",
+    "news_age": "12h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
