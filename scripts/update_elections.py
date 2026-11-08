@@ -74,7 +74,12 @@ def parse_wikipedia():
     current_country = None
     
     for line in text.split('\n'):
-        fm = re.match(r'\|\{\{Flag\|([^}|]+)', line)
+        # 이탤릭/굵게 마크업(''', ''')으로 감싼 행도 인식
+        fm = re.match(r"\|\s*'{2,4}\s*\{\{Flag\|([^}|]+)", line)
+        if not fm:
+            fm = re.match(r'\|\{\{Flag\|([^}|]+)', line)
+        if not fm:
+            fm = re.match(r"\|\s*'{2,4}\s*\{\{[Ff]lagicon\|[^}]+\}\}\s*\[\[([^\]]+)\]\]", line)
         if not fm:
             fm = re.match(r'\|\{\{[Ff]lagicon\|[^}]+\}\}\s*\[\[([^\]]+)\]\]', line)
         if fm:
@@ -205,7 +210,7 @@ def main():
         countries[idx]['election_rank'] = rank
     
     with open(DATA_FILE, 'w') as f:
-        json.dump(countries, f, ensure_ascii=False, indent=2)
+        json.dump(countries, f, ensure_ascii=False)
     
     print(f"\n총 {len(ranked)}개국 선거 데이터 (Wikipedia + IFES)")
 
