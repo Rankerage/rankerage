@@ -1925,14 +1925,15 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 1.31,
+    "news_score": 1.68,
     "news_title": "Apostolic Journey to Argentina: Meeting with the world of work - The Holy See",
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYk1TNVdwdjMwLVJjWjdVLWFKVEhsTFdCcXhyWldndWowQ3lsM2J4SThybzV1WU1RNzQxYjNkUktqWndqalVwN29FTkVobS1PZUFRaTdCOXV0ZWZIcWFJUFp0TEpKaHlqdmFFQ190b2FNdkdIVmlfeWlUXzhaVUx1eWRySkZPUXZ1d0NYbUpXT05xME5yMkpsMVpTeVN5SFZwUTN1RmI2N2ZCcTdrQWc1Q3FSc1hyeEpFWXBoQlRaQ1hhTXNQeTRqWA?oc=5",
     "news_image": "",
     "news_source": "The Holy See",
-    "news_age": "13m ago",
+    "news_age": "15m ago",
     "news_columns": [
-      "fifa_ranking"
+      "health",
+      "politics"
     ],
     "bottom50_wealth": null
   },
@@ -5158,15 +5159,16 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.24,
+    "news_score": 1.38,
     "news_title": "2026 São Paulo Grand Prix - Race Report: Team Crowned World Champions in Brazil - Mercedes-AMG PETRONAS F1 Team",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWFGelhGazVhZnk3YnFsRTlXc1k3cDhXS0NwTlRjUUllMGdJbjVOenpkNDBuLVlzSFRKMTJHTHlYay11VlJqenZlb0QwUVZrTjJwM3RhT3JDTjZiMzNQQTkzZkhnUXRiRWxaWTFPZVRMUzBqcWFzSGRpUHo5Q2llbHVhX1FhZEttU3NkYWJkcGZBQQ?oc=5",
     "news_image": "",
     "news_source": "Mercedes-AMG PETRONAS F1 Team",
-    "news_age": "77m ago",
+    "news_age": "79m ago",
     "news_columns": [
+      "nascar",
       "f1",
-      "nascar"
+      "racing"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -8005,15 +8007,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.45,
+    "news_score": 0.68,
     "news_title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHdZZkpucG9aOVF5R2JPeHljWV85XzlhbUxnbUREYWlKQzBiR1UzeWxwaF9EMnpDajI1aXlmMlo0aENzeGdyRzJDSEtJR0xVanhFSkN3bXE0R1FYV2VWZHdIV1A1MmFlczN4VnRZcVZ5QV9xdUlxZXVlZVl3eHRqVWxsVmE1dktHZzdnelB0ZjUwejJj?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "7m ago",
+    "news_age": "9m ago",
     "news_columns": [
       "tech",
-      "geopolitics"
+      "markets"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10933,19 +10935,15 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.43,
+    "news_score": 0.54,
     "news_title": "Collision between 2 trains in Egypt kills 7 and injures at least 125 - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1pDemVhQ0RJdmhpWXA2akRYZHFLSkpCaXlHdUIwRmZab2JCcHdDMEU0VU5QajU2ODBvc21yUm5TLW9oUlRhWVI0Z2FUX2cta21RZFhYSEJIa3R4TjhDQkpnTWlBS0VvZDRhSnowTGlwdThyODM2UlEwTHlHQnM3N0E5LTR5dWlXZEZDZS02T3NlbnBmQ1ZaSXdhV21nbVJWRmZuTWF6Q3g5MDQ?oc=5",
     "news_image": "",
     "news_source": "AP News",
     "news_age": "3h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "car_density"
+      "health",
+      "politics"
     ],
     "bottom50_wealth": null
   },
@@ -15873,7 +15871,7 @@
     "fifa_w": 81,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 62,
-    "news_score": 0.03,
+    "news_score": 0.02,
     "news_title": "Hong Kong Hosts 2026 Future Science Prize Week, Promoting Innovation and International Collaboration in Technology. - 巴士的報",
     "news_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZVVDMFNRNExId0JPb3Rod1NNcDhwOGtWSm85RXhablpSa0VTNEhNbUFLa0xpQXl6VkZfZUdOQUpHVVhDd1lLdzZWXzhPT1NfTlZOeXJOTkpmeTMydmtjMXpObnVtR0lHVWdJZDYtRmpkdGlVeWV4RTFUR29kSllnYmlMOE43SjJwQ2h2Y0NHMGtvdnhuREpDWk1EbXNSNlFEODZ1Nzk5VmVoWkNFd1lBbXFiLUZmYWdWYTF4akNmdVVPMzBFRzNpb0hINVcyTDhfUHJfcm95QnNHVzB3a1A2ZF8zbzBWNmJoRU1kZ1dpTVp0ZlNJSERrbg?oc=5",
     "news_image": "",
@@ -18571,7 +18569,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX19PVFU5dnNMeXRrckFLcUFNTHNKLXF0OHdmZHdHMnlGcXdCT1N2NkllbGxDb2hmaW5sSnpkN2pUSGVIaVFwZ3dwbjlfbDBRdnA2UWtqdVFRQ19IeXZfS09hckRtNWFhVzhnR3phVEluMHcyLWw4NnMzazNMZ3dKS0hhVWd6cDRnT3pMRQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "75m ago",
+    "news_age": "77m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -19444,12 +19442,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.24,
+    "news_score": 0.41,
     "news_title": "Arkansas basketball notebook: Jordan Smith goes back to Washington - Whole Hog Sports",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYmlOd0szZkRZMGpPam1qb0x0RXdWNmRoSkU2a0huLVFhaEsxWkh5U2lDck1OLWRKbng0TU1vLVoyM2tQRlAwWDdreTV0dGp2NnFIdW1nc2Z5N2lnTm81d1ROMWtzQ2ZIMEptZ0RMU19lbE1oOFRnY1VIekNiRUdEbFU0bXhRamhKUF9OZXNuaU5fdktfeEVVb3hick9nZWdCVDl1MjZZVDNQX0VIbU1BQnJzQUk?oc=5",
     "news_image": "",
     "news_source": "Whole Hog Sports",
-    "news_age": "49m ago",
+    "news_age": "51m ago",
     "news_columns": [
       "basket",
       "olympic"
@@ -29498,7 +29496,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.44,
+    "news_score": 0.43,
     "news_title": "Norway says it has been bumped by the IIHF to allow Russia to compete at world juniors in Canada - CBC",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPME5uUi1kVUYzS0drcmlvZ2pXRzZUNlpGWFJtUmU5SFVuS2JNb3dIUy1NZXFXaGVlajNhMFNYSWhWNjRRdkZuTzd6dmd0b2tkbTVjSnRBR0tjcC1qZjVPV1htelBxeWZHTHF6bzlJSm5ZUTZFVlVvYXYzdUFiUi1rTUVXa0hKSEgzU0VFTEZfUGt3bTVjY1RtZ0FxN3BfMnF0d01hMGFwSl9xWVE?oc=5",
     "news_image": "",
@@ -31653,12 +31651,12 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 1.05,
+    "news_score": 1.06,
     "news_title": "Top House Democrat Hakeem Jeffries 'a hard yes' on impeaching Pete Hegseth - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRQmRlVU1CeEg3c09yaDNzWC1JbVJ6bTFzUnhNcE5nTjd4bmQ2V09VNWJUT3hoZ3lsWG5teVBpeDRndk03VGFSZjFXaDl5VFkwRk5PdEp2Z3AtY00?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "33m ago",
+    "news_age": "35m ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -33123,7 +33121,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.44,
+    "news_score": 0.43,
     "news_title": "Norway says it has been bumped by the IIHF to allow Russia to compete at world juniors in Canada - CBC",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPME5uUi1kVUYzS0drcmlvZ2pXRzZUNlpGWFJtUmU5SFVuS2JNb3dIUy1NZXFXaGVlajNhMFNYSWhWNjRRdkZuTzd6dmd0b2tkbTVjSnRBR0tjcC1qZjVPV1htelBxeWZHTHF6bzlJSm5ZUTZFVlVvYXYzdUFiUi1rTUVXa0hKSEgzU0VFTEZfUGt3bTVjY1RtZ0FxN3BfMnF0d01hMGFwSl9xWVE?oc=5",
     "news_image": "",
@@ -42533,12 +42531,12 @@
     "news_columns": [
       "nfl",
       "football",
-      "tech",
-      "geopolitics",
-      "politics",
-      "golf",
+      "nascar",
       "f1",
-      "nascar"
+      "racing",
+      "ncaaf",
+      "tech",
+      "markets"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
