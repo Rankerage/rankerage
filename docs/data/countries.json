@@ -2552,16 +2552,18 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.51,
+    "news_score": 0.39,
     "news_title": "Reece Walsh hat-trick drives Australia past Samoa and into Rugby League World Cup final - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUDV0U1RISk1FazJzcTNzbGFHZFBZRnRZeDJodlFuVVhaZTk2YnVYaE9fRkNVQ0FScUh6Y21JR0N4dVBocm9XMERDNFk0emxJYktsc3FnZkdrVlZGLTE4TUs4eFRvU1Nhek1zRkt6NF9RVVVxcllLazZaRkp4QkRWbWRKN05KYXdUZkhfS09ERW5iSEw5Ykp2d2g0aXlMLW5WdmJZZ0QwYXNFUXV6emFzNlZFcVhGUS1ySVlPVk9uWXo?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
     "news_age": "3h ago",
     "news_columns": [
-      "boxing",
-      "rugby",
-      "world_championship"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket",
+      "rugby"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -8009,16 +8011,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.39,
+    "news_score": 0.45,
     "news_title": "China Producer Inflation Accelerates to Over Four-Year High - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcm1tR2Voci0zUnpsNlVhbzdXQ19DNDB3anhvdU9HZGRtYjE0akY0b0VHZi0xUndnYTkxOExkOHUyTmxHNnJMZzFldjRDRXFxNDE1S2ZZX014aWhxdFFqR1ExbGFEV0FDNHBuMElPOVNwZjYwY20ydlJna2hoN3N5OTJEbGRJbmxwOXZFZWdzMjd6UklTZTRabVBiNkE?oc=5",
     "news_image": "",
     "news_source": "WSJ",
     "news_age": "4h ago",
     "news_columns": [
-      "cpi",
-      "ppi",
-      "markets"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10939,16 +10940,19 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.71,
+    "news_score": 0.48,
     "news_title": "Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmtvRmxJVkRJR3Jfa3lIdUhONjVGYlIxN1pjeXRHcWZ4ZG9OR1RuaGE5UFBmNWpuUldOVkZMWTVRcDQ4bjh5R0d2X1VUNGtZb3EzWWVzdjNhVi0xcFJlZDhscWQ0YlhWRWstbjdFZEpnOVJab1FjWWlzVnNpQ1A4Q1VXZ1RUR1pzWmNuekJHamJaUkNIbkc4V2JrbVRXaHptQU1iN3NtWjZxMUdqb1VXZUJYb2xjZkk?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "2h ago",
     "news_columns": [
-      "temperature",
-      "emissions",
-      "climate_index"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "car_density"
     ],
     "bottom50_wealth": null
   },
@@ -13026,7 +13030,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.03,
+    "news_score": 1.0,
     "news_title": "EXCLUSIVE: Covert Russian network exploited French riots on social media, EU report says - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0hpUFBLeDI4ZDJzc25aU0VuT0FKVkNBSHhEMHgyVUlXc0NGcXVyYjJZcDl3Vy1kN3NRX2wtSUVFZ1ctajJhMHQ3UC1PeEJYczNZZ0dZVEVIeEoySnN0X0lMQTlCd3F5OWVSUHlQNkZTdEZKRUZiX0NjOVNNaVhaek4yNVVkdXFzaURTdXJCVVk4QTN1NFdjcDYwZFdGal9KNVBaRWQwaDRTaEFYZ0x2WkZTVUZITHlUVHZqbDFRZw?oc=5",
     "news_image": "",
@@ -14063,16 +14067,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.26,
+    "news_score": 0.38,
     "news_title": "Vietnamese intellectuals in Germany join forces to develop science and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGJjSE1fYXRsNUt4UGNmWGVjTVI2N1JHclNNMTdXR2NxLVl1aDE3VkRRQjVQaU1rTmVEWVV1V20zeUdvWGE2QzE2RDJVbkplaDFiZUY5dmpMSXh1eUM5RzVzTUxnTFF3SEMwT1Jqa050a0V0eXhCcVdmcTVVSTZyS3ppdnlpenhxUmRGRXhHYjM?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
     "news_age": "4h ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16826,12 +16829,8 @@
     "news_source": "Lokmat Times",
     "news_age": "55h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "gender"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -18133,7 +18132,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOODl0WmdLRE5KNGRfdndoYkdtejhkaWd5OW5CV2Q4TzVrY2FxS2h0QUJXTlhPb2l6bndpbTNfOUlHeEFFRFlXcDhqRi15UzNqMElqSmIxNFpDU21YSWxsc0xfY1ZMQlFRejNDQXZ5TTAtV2R3SDdGNmU0aldsbDhNVGJCTEx5QnhSbDQ4Mnc4LTBLbDZMUERGb3daaDlxaVpUaGJ6Y1g5aUJ5RDl4a0xrc0NLQVZpYWc5aU1XTUJ3UFpVSmxYWThtSXZBaXpEXzNaRjlkZzR1UGNfQWY1dWtzT1EwTjcwMU1qOWNJT3BXSnZvNWk2eHFPWXNB?oc=5",
     "news_image": "",
     "news_source": "World Jewish Congress",
-    "news_age": "9h ago",
+    "news_age": "10h ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -18577,9 +18576,8 @@
     "news_source": "Federation Internationale de l'Automobile",
     "news_age": "12h ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -19447,7 +19445,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.63,
+    "news_score": 0.62,
     "news_title": "Jordan Love totals four touchdowns in Week 9 - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnF4cmYtU0NNV3FGMXI3M2dCdlNYcnVKOXkzakE3LWJsTF9QUVRtdFRITE0yS04ySDVMQnAyZDN6SjZFQzhfdTJPUVMtWmIzUXdiSlprem9ESkhGV3BjelktNmczcWRjNkdWcHRfaklvWF9SN0MycHpKa1lOZEJnMW1wRlVpaDVHNldR?oc=5",
     "news_image": "",
@@ -28471,16 +28469,14 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.4,
+    "news_score": 0.65,
     "news_title": "Naira rises: CBN releases price to buy and sell dollar in Nigeria - Legit News",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYUdkX25Obld6TW1TY2NXU1hVLWhkSFdpZU5DZmFyMWVEbGJLa1dpLVRGSlpYMFFKZFdFcHFCblBpT1lWclAtM3lGUUVQY0xZYlppRFMweVVJT2lXZUhBREI3dlc3VjM0ZXk4Q1dnVnc3b1laNTRJMTZmRTNGNVhOcnZQeS1FZ3d6dnlNX2R1eGZUZWh2QndsdVhneG40ZEFPR2dHSk1QeURUaGQyenF5eXdURUtVSUU?oc=5",
     "news_image": "",
     "news_source": "Legit News",
-    "news_age": "2m ago",
+    "news_age": "4m ago",
     "news_columns": [
-      "fx_rate",
-      "fuel_price",
-      "inflation"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -30879,12 +30875,12 @@
     "refugees_rank": null,
     "union_rate": 73.9,
     "union_rate_rank": null,
-    "news_score": 0.72,
+    "news_score": 0.71,
     "news_title": "Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap - Bloomberg.com",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR1JWME4tcFN3Vlh6UlhVeEN3c2FlRUFkUWRrczJ6OUZ1QWRkRndtMy1nZFhBaU5Lc0dzaXU2ZjJnNUtwN2RSa3dyLXlwUV9QanZmaC1Wb2xhbUVZekZhaXdXZkpSazFDVnJqZWIweWtvdGczQi0xTnB1aEhiSy00aVFsMWdYaE1sRkN3NlU2YmVJdzhv?oc=5",
     "news_image": "",
     "news_source": "Bloomberg.com",
-    "news_age": "79m ago",
+    "news_age": "81m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -32331,16 +32327,15 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.84,
+    "news_score": 1.11,
     "news_title": "MotoGP: Bezzecchi denies Marquez world title as motorsport returns to Qatar - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM01PN0JGSjZnMXhvaFpzNURtMVFZNjdHYTZ1Y3dleVBrTVhobVU5M29oUXpMb0xQbmJkSnp3QVBXQUYyZktka01OTTdpV3UtT1poMGFmQURUNFpwR1JIVGNyZFFmYmtJREtZT2o5WTRHS3pndFhYN29jV0tCQ0hjNE5MeUJVMDhLSU5vVmE5TnZDSUw0TEJuM3hWNGZiTWFFVmFtTEZZMjkwdzdRMXJMMlBicnNjUXdo0gG-AUFVX3lxTE1jS1kwejhnNThmdXZyZVNEV2kzRHZyWmJyWFV1cXRHX0hDSjlxSG1rRWoydnl0R2NSdnFiZ1RlUlIyX2dlTXZVQXZYRVhBbzhlbTJBcUxtQ1ZPVUVWR1cxRzY4SExxa3BJd01wZmtsSVlFMXloYU1ROEFGRmZtUVV3TEdRMFYwSklqVmNQdlVQaThmOG1velRoSVhMUHlsSUczOV9oYXNfUHdMVWE5X0NHb3V6aXlFTXFqT2lsWXc?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "14m ago",
+    "news_age": "16m ago",
     "news_columns": [
-      "boxing",
-      "motogp",
-      "rugby"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -34307,7 +34302,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 120,
     "fifa_w_rank": 100,
-    "news_score": 0.29,
+    "news_score": 0.35,
     "news_title": "Chungnam Partners with Digital Travel Platform Agoda to Welcome World Youth Day Visitors - Yahoo Finance Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjFhR2Z5b3d0Ry1fdnlZNEhBeXhpWEtuWFowdi1kbEx5WDVMcm40Wjg4ZUIxTk5QUm9PU2RjVDhBY0lOaktnbjBYWDhIb25MY3FKQXcyQ2xobThJdUZ2NGo0cFVIYlZTX29HVlFoUWJFQXg4WDh1c0Vpd1diUGx4MjNMRTRUb3B3RlYwYkVBaWUzcmo4?oc=5",
     "news_image": "",
@@ -42532,14 +42527,9 @@
     "news_source": "City of Toronto",
     "news_age": "14918h ago",
     "news_columns": [
-      "temperature",
-      "emissions",
-      "climate_index",
-      "nfl",
-      "football",
-      "standings",
-      "cpi",
-      "ppi"
+      "olympic",
+      "fifa_ranking",
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
