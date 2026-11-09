@@ -2552,7 +2552,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.41,
+    "news_score": 0.53,
     "news_title": "Reece Walsh hat-trick drives Australia past Samoa and into Rugby League World Cup final - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUDV0U1RISk1FazJzcTNzbGFHZFBZRnRZeDJodlFuVVhaZTk2YnVYaE9fRkNVQ0FScUh6Y21JR0N4dVBocm9XMERDNFk0emxJYktsc3FnZkdrVlZGLTE4TUs4eFRvU1Nhek1zRkt6NF9RVVVxcllLazZaRkp4QkRWbWRKN05KYXdUZkhfS09ERW5iSEw5Ykp2d2g0aXlMLW5WdmJZZ0QwYXNFUXV6emFzNlZFcVhGUS1ySVlPVk9uWXo?oc=5",
     "news_image": "",
@@ -2560,10 +2560,7 @@
     "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "rugby"
+      "olympic"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -8011,21 +8008,16 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.48,
+    "news_score": 0.46,
     "news_title": "China Producer Inflation Accelerates to Over Four-Year High - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcm1tR2Voci0zUnpsNlVhbzdXQ19DNDB3anhvdU9HZGRtYjE0akY0b0VHZi0xUndnYTkxOExkOHUyTmxHNnJMZzFldjRDRXFxNDE1S2ZZX014aWhxdFFqR1ExbGFEV0FDNHBuMElPOVNwZjYwY20ydlJna2hoN3N5OTJEbGRJbmxwOXZFZWdzMjd6UklTZTRabVBiNkE?oc=5",
     "news_image": "",
     "news_source": "WSJ",
     "news_age": "4h ago",
     "news_columns": [
-      "climate",
-      "temperature",
-      "emissions",
-      "markets",
-      "ai",
-      "stocks",
-      "inflation",
-      "oil"
+      "olympic",
+      "fifa_ranking",
+      "basket"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -9273,7 +9265,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0hpUFBLeDI4ZDJzc25aU0VuT0FKVkNBSHhEMHgyVUlXc0NGcXVyYjJZcDl3Vy1kN3NRX2wtSUVFZ1ctajJhMHQ3UC1PeEJYczNZZ0dZVEVIeEoySnN0X0lMQTlCd3F5OWVSUHlQNkZTdEZKRUZiX0NjOVNNaVhaek4yNVVkdXFzaURTdXJCVVk4QTN1NFdjcDYwZFdGal9KNVBaRWQwaDRTaEFYZ0x2WkZTVUZITHlUVHZqbDFRZw?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "119m ago",
+    "news_age": "2h ago",
     "news_columns": [
       "democracy",
       "press",
@@ -10946,19 +10938,15 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.49,
+    "news_score": 0.61,
     "news_title": "Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmtvRmxJVkRJR3Jfa3lIdUhONjVGYlIxN1pjeXRHcWZ4ZG9OR1RuaGE5UFBmNWpuUldOVkZMWTVRcDQ4bjh5R0d2X1VUNGtZb3EzWWVzdjNhVi0xcFJlZDhscWQ0YlhWRWstbjdFZEpnOVJab1FjWWlzVnNpQ1A4Q1VXZ1RUR1pzWmNuekJHamJaUkNIbkc4V2JrbVRXaHptQU1iN3NtWjZxMUdqb1VXZUJYb2xjZkk?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "2h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "car_density"
+      "olympic",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -13036,16 +13024,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.5,
+    "news_score": 1.31,
     "news_title": "EXCLUSIVE: Covert Russian network exploited French riots on social media, EU report says - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0hpUFBLeDI4ZDJzc25aU0VuT0FKVkNBSHhEMHgyVUlXc0NGcXVyYjJZcDl3Vy1kN3NRX2wtSUVFZ1ctajJhMHQ3UC1PeEJYczNZZ0dZVEVIeEoySnN0X0lMQTlCd3F5OWVSUHlQNkZTdEZKRUZiX0NjOVNNaVhaek4yNVVkdXFzaURTdXJCVVk4QTN1NFdjcDYwZFdGal9KNVBaRWQwaDRTaEFYZ0x2WkZTVUZITHlUVHZqbDFRZw?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "119m ago",
+    "news_age": "2h ago",
     "news_columns": [
-      "climate",
-      "temperature",
-      "emissions"
+      "olympic",
+      "fifa_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13567,7 +13554,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.0,
+    "news_score": 0.01,
     "news_title": "AP Top 25: Georgia moves to No. 1 after Notre Dame's win over Miami, Ohio State drops out of top 20 - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTHlYNS1MZmotcXN1djZkWXFHd19QUHhkeVJNYWRJUXdvTkhNQTVaMWR5VkE0VmdvMmt1S00yY1hqNGNYYTNoVFUtb3Y5N3dMd2VFRnB6WW5wNUVKMVJyV3lsb3RwZnlGT3hQWmZUTlhoNVlkNThIakFxYmhJcHhiaTJhckl6TDVZOE5BS25NV0QyOGUwelFLSkI3aFJ0MjZoQU43MFZWcFFfVUdjRWFBMFZSOWtDNENsUVd5Q1FYSDZTZ0JucTdPOVBLRjh6R3RiRmZmUTIwODdWQWItMlJlbFpxZzJIR05JUHk2OEVIYVUxbWFXN0R1SHJpSXl6ZDBfZXVNag?oc=5",
     "news_image": "",
@@ -14070,16 +14057,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.4,
+    "news_score": 0.39,
     "news_title": "Vietnamese intellectuals in Germany join forces to develop science and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGJjSE1fYXRsNUt4UGNmWGVjTVI2N1JHclNNMTdXR2NxLVl1aDE3VkRRQjVQaU1rTmVEWVV1V20zeUdvWGE2QzE2RDJVbkplaDFiZUY5dmpMSXh1eUM5RzVzTUxnTFF3SEMwT1Jqa050a0V0eXhCcVdmcTVVSTZyS3ppdnlpenhxUmRGRXhHYjM?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
     "news_age": "4h ago",
     "news_columns": [
-      "climate",
-      "temperature",
-      "emissions"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -17401,16 +17387,18 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.38,
+    "news_score": 0.3,
     "news_title": "Crude Oil Price Falls As Trump Says New Iran Attacks 'Unlikely' - News18",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONi1jVzg2a2FyWG9GQ3pPYWlYOVhDcFlrNEpOVm1CMGJSNk9ZSHp6VThTNndLTW5GaXhTc01MX21oLW5aMlNLS18yT3NhZ2FkRGkyNkF3ZVItb004UzRfcV9aYkNkMjhEc19OQ0NOaUdRU0FSdVlMUXlLTXZlVkw2R2VWVnZlN0UtOU00SkI1TGVCQ21reW1jbnNsZGtVWEktUXpyaGNYTGhDSl9xQ2g3endONlVQcll4YnpEQtIBwgFBVV95cUxNVWNGRl9YQ25Ma05qUDdhTXpreGFaZ3lFZ2NpbUF0S0NHVzBJaWhvbEZuVXJWc1JsVjZKWU5lTTJaWU5OdnNRSzdwbnNpejRXWUhWdVFKU2tub2dHQXYwd0ktaVUwbVJLUmJ5S0RmdjhyYnVGdUM2UnhjTE1YWnV4TlV4T1dsMUluSzJNZFppUEJ0ZnV5X2cxb3BkUjdfcFRJNFBvdEs1VTZMbmZFWlZsMHVyWjNDZVZuYmRWYWFiSmlYZw?oc=5",
     "news_image": "",
     "news_source": "News18",
     "news_age": "5h ago",
     "news_columns": [
-      "inflation",
-      "oil",
-      "ppi"
+      "gas_price",
+      "energy_per_capita",
+      "co2",
+      "renew",
+      "exports"
     ],
     "bottom50_wealth": null
   },
@@ -18582,9 +18570,8 @@
     "news_source": "Federation Internationale de l'Automobile",
     "news_age": "12h ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -19452,7 +19439,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.65,
+    "news_score": 0.64,
     "news_title": "Jordan Love totals four touchdowns in Week 9 - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnF4cmYtU0NNV3FGMXI3M2dCdlNYcnVKOXkzakE3LWJsTF9QUVRtdFRITE0yS04ySDVMQnAyZDN6SjZFQzhfdTJPUVMtWmIzUXdiSlprem9ESkhGV3BjelktNmczcWRjNkdWcHRfaklvWF9SN0MycHpKa1lOZEJnMW1wRlVpaDVHNldR?oc=5",
     "news_image": "",
@@ -30887,12 +30874,12 @@
     "refugees_rank": null,
     "union_rate": 73.9,
     "union_rate_rank": null,
-    "news_score": 0.75,
+    "news_score": 0.74,
     "news_title": "Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap - Bloomberg.com",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR1JWME4tcFN3Vlh6UlhVeEN3c2FlRUFkUWRrczJ6OUZ1QWRkRndtMy1nZFhBaU5Lc0dzaXU2ZjJnNUtwN2RSa3dyLXlwUV9QanZmaC1Wb2xhbUVZekZhaXdXZkpSazFDVnJqZWIweWtvdGczQi0xTnB1aEhiSy00aVFsMWdYaE1sRkN3NlU2YmVJdzhv?oc=5",
     "news_image": "",
     "news_source": "Bloomberg.com",
-    "news_age": "73m ago",
+    "news_age": "75m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -31667,19 +31654,15 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.46,
+    "news_score": 0.62,
     "news_title": "Gunman who killed 6 in Kraków mass shooting has died in hospital - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLWVuS3h1QWktTjNabklZclpub2h0Q3RjM0NGSmJZeXVHQ1hwejFwcS15NEpBVW1JS1lGZjlvNzF3REp1ZTVUd3N6NnROZDRCWWRGOUNpRzlMb1Ntbl9QRkM5RFgyTE5iekdDZkNyTEVQbmRyb0FyOGJnLV83NHByTUhzMW9OaDVM?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "117m ago",
+    "news_age": "119m ago",
     "news_columns": [
-      "doctors",
-      "beds",
-      "health",
-      "life_expectancy",
-      "ai_research",
-      "internet_pct"
+      "olympic",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -32342,16 +32325,15 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.63,
+    "news_score": 0.95,
     "news_title": "MotoGP: Bezzecchi denies Marquez world title as motorsport returns to Qatar - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM01PN0JGSjZnMXhvaFpzNURtMVFZNjdHYTZ1Y3dleVBrTVhobVU5M29oUXpMb0xQbmJkSnp3QVBXQUYyZktka01OTTdpV3UtT1poMGFmQURUNFpwR1JIVGNyZFFmYmtJREtZT2o5WTRHS3pndFhYN29jV0tCQ0hjNE5MeUJVMDhLSU5vVmE5TnZDSUw0TEJuM3hWNGZiTWFFVmFtTEZZMjkwdzdRMXJMMlBicnNjUXdo0gG-AUFVX3lxTE1jS1kwejhnNThmdXZyZVNEV2kzRHZyWmJyWFV1cXRHX0hDSjlxSG1rRWoydnl0R2NSdnFiZ1RlUlIyX2dlTXZVQXZYRVhBbzhlbTJBcUxtQ1ZPVUVWR1cxRzY4SExxa3BJd01wZmtsSVlFMXloYU1ROEFGRmZtUVV3TEdRMFYwSklqVmNQdlVQaThmOG1velRoSVhMUHlsSUczOV9oYXNfUHdMVWE5X0NHb3V6aXlFTXFqT2lsWXc?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "8m ago",
+    "news_age": "10m ago",
     "news_columns": [
-      "olympic",
       "fifa_ranking",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -33137,14 +33119,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.05,
+    "news_score": 0.06,
     "news_title": "Norway says it has been bumped by the IIHF to allow Russia to compete at world juniors in Canada - CBC",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPME5uUi1kVUYzS0drcmlvZ2pXRzZUNlpGWFJtUmU5SFVuS2JNb3dIUy1NZXFXaGVlajNhMFNYSWhWNjRRdkZuTzd6dmd0b2tkbTVjSnRBR0tjcC1qZjVPV1htelBxeWZHTHF6bzlJSm5ZUTZFVlVvYXYzdUFiUi1rTUVXa0hKSEgzU0VFTEZfUGt3bTVjY1RtZ0FxN3BfMnF0d01hMGFwSl9xWVE?oc=5",
     "news_image": "",
     "news_source": "CBC",
     "news_age": "12h ago",
     "news_columns": [
-      "fifa_ranking"
+      "olympic",
+      "fifa_w"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -34316,12 +34299,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 120,
     "fifa_w_rank": 100,
-    "news_score": 0.19,
-    "news_title": "Defence Engineers and Scientists Honoured for Excellence and Innovation in Defence Technology - MINDEF Singapore",
-    "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44SFlPRmZCdFpSZ252TEs2b1pZOEJ6bmJWdGZocEpwUHU0RHUzR3pJZFFFRFVCSVdmM0doUE1Gdy1vVXgybmRGUHJSSnkwSlhCRUp6TzJGTUd5MHZIcUZnSllUWmJGN19DMVRaRHd3Si1INUFmWDhv?oc=5",
+    "news_score": 0.29,
+    "news_title": "Chungnam Partners with Digital Travel Platform Agoda to Welcome World Youth Day Visitors - Yahoo Finance Singapore",
+    "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjFhR2Z5b3d0Ry1fdnlZNEhBeXhpWEtuWFowdi1kbEx5WDVMcm40Wjg4ZUIxTk5QUm9PU2RjVDhBY0lOaktnbjBYWDhIb25MY3FKQXcyQ2xobThJdUZ2NGo0cFVIYlZTX29HVlFoUWJFQXg4WDh1c0Vpd1diUGx4MjNMRTRUb3B3RlYwYkVBaWUzcmo4?oc=5",
     "news_image": "",
-    "news_source": "MINDEF Singapore",
-    "news_age": "69h ago",
+    "news_source": "Yahoo Finance Singapore",
+    "news_age": "2h ago",
     "news_columns": [
       "tourism",
       "passport",
@@ -42541,14 +42524,10 @@
     "news_source": "City of Toronto",
     "news_age": "14918h ago",
     "news_columns": [
-      "climate",
-      "temperature",
-      "emissions",
-      "nfl",
-      "football",
-      "week9",
-      "boxing",
-      "title"
+      "olympic",
+      "fifa_ranking",
+      "fifa_w",
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43465,7 +43444,7 @@
     "union_rate": 56.6,
     "union_rate_rank": null,
     "fifa_w_rank": 40,
-    "news_score": 0.11,
+    "news_score": 0.1,
     "news_title": "Korea@Venezuela - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRzZSVEFNeE00SFVHLTFmZ0RoS1F4eGlzakhULUpRWXRzNDhZUE9ldlVjN3Y5Y1VqVzYtTVZKOWgwSGItNTZzU0JHcjNrNFNNUm52YjdLMFhLMnYxaGw1Njl2UHF2YUFZN2Z3SGZCem5Dd0hwelRRdHEyNFFvT0V2ZVVQVjQ3dXJmMW1GZzNRZHMwU2FyejlVRFFkbndjMjNVNzAxWg?oc=5",
     "news_image": "",
