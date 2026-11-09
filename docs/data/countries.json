@@ -8007,15 +8007,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.24,
+    "news_score": 1.15,
     "news_title": "EXPLAINER - Why is the world’s top chipmaker caught in a US-China spy row? - Anadolu Ajansı",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZndJdVhlS3lfM2puRl9HTVQzbVJ5WVY3cFltRktuRW01V050Z0VfeHZoaVhmalk3b2JPNThKSXJCMUJlM1RycDI0eW1PWjZhS18zTGduQm1TMGVDWV9sMDMwdkFicVdCdzZzd2swX3hhbU9xNUxnMVdkVmM5c29CclMtam9KNF9xTHIycmFoUllEbFJEdnROWDBVSS1BQWhiUmNtTUxnQnVtZ2hTVmJDM2V2ejIyTzJ6Q09IYXptWk0?oc=5",
     "news_image": "",
     "news_source": "Anadolu Ajansı",
-    "news_age": "64m ago",
+    "news_age": "66m ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13556,12 +13556,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.81,
-    "news_title": "Georgia State visits Fresno State after Jones' 22-point showing - Yahoo Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOamU2V01jNHM1UEtmUDhzUDhRVjhHR28xN2ZtMkVNU3hFLXNRMnRFdy1vakx6RkU3cy1zeVRtU2ZoczFwczJoNmVPM0tiQjFlTGZKXzdYbjY2VUFhbHA3THo1Ym8tQ1ZlSUdXUXZxbE1nSHdnLTM1QS12aG1BaThaaEIzemwxUlJpWEE?oc=5",
+    "news_score": 0.88,
+    "news_title": "FGCU visits Georgia following Cain's 20-point game - Yahoo Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbzZ5eDktNGNMOFJ4d1JTTUpFZldDV2JLM01QTmVXUENqY3h6VXVWcTM5TUNjLWNvNWpUTmNuX0RRVVViZ3d2NXNpSDV3WDlqQnp2WDFiRVdneURmZXozdW5Ia3dyWGd6MGxVcHBZZ1VQWG1uSjBZRXZEb3BFMVpCLWxtSkxLNUVuT3gtRQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "104m ago",
+    "news_age": "106m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -14059,15 +14059,16 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.14,
+    "news_score": 0.1,
     "news_title": "Vietnamese intellectuals in Germany join forces to develop science and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGJjSE1fYXRsNUt4UGNmWGVjTVI2N1JHclNNMTdXR2NxLVl1aDE3VkRRQjVQaU1rTmVEWVV1V20zeUdvWGE2QzE2RDJVbkplaDFiZUY5dmpMSXh1eUM5RzVzTUxnTFF3SEMwT1Jqa050a0V0eXhCcVdmcTVVSTZyS3ppdnlpenhxUmRGRXhHYjM?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
     "news_age": "8h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "car_density",
+      "gas_price",
+      "co2"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -18126,12 +18127,12 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.01,
-    "news_title": "World in Brief: Israel’s Eisenkot gets first crack at forming government; gunman kills six in Krakow - The Economist",
-    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR0lOTUhjMFh2OGZscUFFYnRpNlYxSGVvcERWTzlmTG5hTnUwQ0E3VG1vX0x4bjdja2hvSlZjTk1lLWNfNjRRYUFyZk45SjF2UmQzd2Y4LXdUdFpGNDU0ZjBkbWx6NFNnSDFqVXY1YjdJbnJwaVp0UlFaQ0xDWHNtalBFa2UxRDFZcmR5ZW1IOFdGVWJvbE5B?oc=5",
+    "news_score": 0.03,
+    "news_title": "Diners Support Jewish-Owned Eateries in Philadelphia After Boycott Call - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM3VlRVJYTUh0V1BJejhUVWhlNmlEZ1lUS0RmQ3FRMm5OTGlpNGFTWmlfWEZiQXhCR0duQks1M242UEpaZEVLb01tMS1nYl9nVmxySUczbDhEOGRua3Z4MXV3aU1aYWRqdUZRMkFwQTBGYzRLMHdFVW51VEw4N19Kb2hkS0oydk9FUTl0N2xjdHF1UFZpTTFN?oc=5",
     "news_image": "",
-    "news_source": "The Economist",
-    "news_age": "18h ago",
+    "news_source": "The New York Times",
+    "news_age": "8h ago",
     "news_columns": [
       "democracy",
       "press",
@@ -18577,8 +18578,9 @@
     "news_source": "Federation Internationale de l'Automobile",
     "news_age": "15h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "car_density",
+      "gas_price",
+      "co2"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -28468,15 +28470,19 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 1.69,
+    "news_score": 1.24,
     "news_title": "What does Nigeria's U17 Women's World Cup win mean for the Super Falcons? - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFYtZl84QjR5c2lCbkQzQVhfN3pHd3BGNnh6ZDZLcXNncXdXWk45NEhBWU83OS1aZnY3N1JOcXZoMkd3MWJtTTVYU3k5THZjdGdGeTRGMWJuTGJUd0Zyckt5SW5iZG9PMHNCQ1k0MzRnbUJ3cXVfVkEyS1ZvcndzaUJlOHJkVGF4ZXpURmNVYTVOLXJBZ2RTWkN2T2ZDRkJTb3UzMjBndVQ1YWVFcWc?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "76m ago",
+    "news_age": "78m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket",
+      "gender",
+      "gender_gap"
     ],
     "bottom50_wealth": null
   },
@@ -30880,7 +30886,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNE9EVXV1Z3hpVDYxaXlnZ0FVNGFDNXFBNUU4cmlCY1JaUS1NdXM5LW5lejVnQUJNOUtQX2lDLVJCM095Q29fcng0RjdTMUxfQVltLTJvSFh0aTZTVE5qYWVRMW5LTllpWDRRdzV1eXlkUDk4NnRUVVBHSm9jR0gwMDBqVHM0MzRHcEdWcVZQZ3gzLXFFckdKR1l4UXBiMWRDRkgwZEFaVVZVMFYwcjVVak9TQdIBuAFBVV95cUxPbExhNnVIcTMzS1RqaEg3VjVYc05PZkVyUlVHWXNMOUh0emZOVnhGYXFRaFBOUm5XaTNUdjhwNWxGOVhNQ3lEbUlpX1lFcGRIZUZUeFI0NFA2Q19aVWpvYnRBazhTQW5QQ29ndEwtd3lIbVVmeFBIZHBIZk0teHEwZnh1R0tfMFRFU0lWX1ZLQUVuREMyZENMVkhCTjREczZsY29TLTRFd25CWk1iQS1aYkhhU0stVm14?oc=5",
     "news_image": "",
     "news_source": "The Times of Israel",
-    "news_age": "31h ago",
+    "news_age": "32h ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -32328,7 +32334,7 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.81,
+    "news_score": 0.8,
     "news_title": "Carlos Ezpeleta: Qatar GP “noise” left MotoGP unnecessarily exposed - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRFRiUlE0eFNuZEEtWWItTVd1NDFPTmswV2Z0ZVV6TVExSnNrcFBNSWhwVW9oYnVXbmFDT3I1QS1EdnduUkdBVlhBbUNJaTZSbzBXUVBVY3BSTVZoR05YWjA4WnpkRDFaTkNscE9TMXNmMDJZQXpZc2RIQ1VDZ1FaYVlnREtQdw?oc=5",
     "news_image": "",
@@ -33123,7 +33129,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.38,
+    "news_score": 0.43,
     "news_title": "US-led peace talks for Russia and Ukraine will look at security guarantees for both sides - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOVRvYUFQbS0za2RfNkk2T0xkYnVrcFVoNXZ3SzgwN2RpcTlMWDBha3lINTR1X0JSM0JkaldZMjB2SHFVYzJ2Mi1vcV9vamlQd1pOaWNtLV9aYjFlY1prMFh0ME1tZzdFa194dTJVSG1aU0c5bmZnU1BGWHdvbGhIakk1ekxVcjluRTZtQzJIQ19vSF91bHJsbVV4T1dWa1U?oc=5",
     "news_image": "",
@@ -36135,12 +36141,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.75,
+    "news_score": 0.74,
     "news_title": "Asian stock markets climb after earlier tech rout - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOExPbUF0LU5VaFFCYVpvLVFpaFdIclBKUXJtYk9LQXM2ODZyUmMzU1QwNE10MHA3bU5uSTJSQ2VDQ1E0MEo2SmJxd0hJcjFseHRmYWdTbjhkMnU2OTVneHlpbExSbjgyR2F6MDJ4WTNxUWpjZW9OU1l4UWlOYmFrUk5wRTZVMlEwMG9zS1p4UGdPYjJZV09pSNIBngFBVV95cUxORlBpVTZtXzJuQXB2UlpsSlhNbEJlLXF1TjFxbVJlVl9KbUhpN0JCS0JvWTN0bkJsb2lVVGtiMjgzNkZQaW1sOFYxamN3NXFDZHFVQXgxdGZXdUhid2p0elBlcldGNko5ejluSU1DWFZpWEUxREozTUVsdS0xZGdkY3FpUVNIWWVXbkE2NkFqS01VSnFYQzhhM3ZtNzE3Zw?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "70m ago",
+    "news_age": "72m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -38423,14 +38429,15 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 1.05,
+    "news_score": 1.04,
     "news_title": "Asian stock markets climb after earlier tech rout - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOExPbUF0LU5VaFFCYVpvLVFpaFdIclBKUXJtYk9LQXM2ODZyUmMzU1QwNE10MHA3bU5uSTJSQ2VDQ1E0MEo2SmJxd0hJcjFseHRmYWdTbjhkMnU2OTVneHlpbExSbjgyR2F6MDJ4WTNxUWpjZW9OU1l4UWlOYmFrUk5wRTZVMlEwMG9zS1p4UGdPYjJZV09pSNIBngFBVV95cUxORlBpVTZtXzJuQXB2UlpsSlhNbEJlLXF1TjFxbVJlVl9KbUhpN0JCS0JvWTN0bkJsb2lVVGtiMjgzNkZQaW1sOFYxamN3NXFDZHFVQXgxdGZXdUhid2p0elBlcldGNko5ejluSU1DWFZpWEUxREozTUVsdS0xZGdkY3FpUVNIWWVXbkE2NkFqS01VSnFYQzhhM3ZtNzE3Zw?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "70m ago",
+    "news_age": "72m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -39096,7 +39103,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVMFFIaldlQndON2RUYjgyUG4xS01EVGV6c1FKLU1rSHdYSnJ6ZktkSlJoZ2tZTUhlR216YmgyUEhSUnY3V0gtd0JIdzY5bVhNTUVWVmF1MlhUSjEwenVzbXVRQkpWY3M?oc=5",
     "news_image": "",
     "news_source": "Nation Thailand",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -41248,7 +41255,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.37,
+    "news_score": 0.42,
     "news_title": "US-led peace talks for Russia and Ukraine will look at security guarantees for both sides - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOVRvYUFQbS0za2RfNkk2T0xkYnVrcFVoNXZ3SzgwN2RpcTlMWDBha3lINTR1X0JSM0JkaldZMjB2SHFVYzJ2Mi1vcV9vamlQd1pOaWNtLV9aYjFlY1prMFh0ME1tZzdFa194dTJVSG1aU0c5bmZnU1BGWHdvbGhIakk1ekxVcjluRTZtQzJIQ19vSF91bHJsbVV4T1dWa1U?oc=5",
     "news_image": "",
@@ -42528,10 +42535,10 @@
     "news_source": "City of Toronto",
     "news_age": "14921h ago",
     "news_columns": [
-      "olympic",
       "fifa_ranking",
-      "fifa_w",
-      "basket"
+      "basket",
+      "olympic",
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
