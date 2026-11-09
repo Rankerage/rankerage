@@ -6943,7 +6943,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPME5uUi1kVUYzS0drcmlvZ2pXRzZUNlpGWFJtUmU5SFVuS2JNb3dIUy1NZXFXaGVlajNhMFNYSWhWNjRRdkZuTzd6dmd0b2tkbTVjSnRBR0tjcC1qZjVPV1htelBxeWZHTHF6bzlJSm5ZUTZFVlVvYXYzdUFiUi1rTUVXa0hKSEgzU0VFTEZfUGt3bTVjY1RtZ0FxN3BfMnF0d01hMGFwSl9xWVE?oc=5",
     "news_image": "",
     "news_source": "CBC",
-    "news_age": "14h ago",
+    "news_age": "15h ago",
     "news_columns": [
       "gender",
       "gender_gap",
@@ -8016,10 +8016,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZndJdVhlS3lfM2puRl9HTVQzbVJ5WVY3cFltRktuRW01V050Z0VfeHZoaVhmalk3b2JPNThKSXJCMUJlM1RycDI0eW1PWjZhS18zTGduQm1TMGVDWV9sMDMwdkFicVdCdzZzd2swX3hhbU9xNUxnMVdkVmM5c29CclMtam9KNF9xTHIycmFoUllEbFJEdnROWDBVSS1BQWhiUmNtTUxnQnVtZ2hTVmJDM2V2ejIyTzJ6Q09IYXptWk0?oc=5",
     "news_image": "",
     "news_source": "Anadolu Ajansı",
-    "news_age": "32m ago",
+    "news_age": "34m ago",
     "news_columns": [
       "fifa_ranking",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13566,7 +13566,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbzZ5eDktNGNMOFJ4d1JTTUpFZldDV2JLM01QTmVXUENqY3h6VXVWcTM5TUNjLWNvNWpUTmNuX0RRVVViZ3d2NXNpSDV3WDlqQnp2WDFiRVdneURmZXozdW5Ia3dyWGd6MGxVcHBZZ1VQWG1uSjBZRXZEb3BFMVpCLWxtSkxLNUVuT3gtRQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "72m ago",
+    "news_age": "74m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -15878,7 +15878,7 @@
     "fifa_w": 81,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 62,
-    "news_score": 0.6,
+    "news_score": 0.59,
     "news_title": "Hong Kong University of Science and Technology team achieves 300x spin lifetime boost in perovskites - Quantum Zeitgeist",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10Z1VRYnpIenhtdlE0eVB2NFpFU1pILXhTbXRJcTExRm5oSWpiZjNuZzdYNkdvMFdEOWJjM3J3TWxwTThiRzI1WXg4TVFDNXd3a3FhcmFsaE9YRDdLSm9ULUlrTjgxY3A0UVQ4RFFxY0xpZ2JDT1hoWnFQVGtmTlk?oc=5",
     "news_image": "",
@@ -17398,7 +17398,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.13,
+    "news_score": 0.11,
     "news_title": "Crude Oil Price Falls As Trump Says New Iran Attacks 'Unlikely' - News18",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONi1jVzg2a2FyWG9GQ3pPYWlYOVhDcFlrNEpOVm1CMGJSNk9ZSHp6VThTNndLTW5GaXhTc01MX21oLW5aMlNLS18yT3NhZ2FkRGkyNkF3ZVItb004UzRfcV9aYkNkMjhEc19OQ0NOaUdRU0FSdVlMUXlLTXZlVkw2R2VWVnZlN0UtOU00SkI1TGVCQ21reW1jbnNsZGtVWEktUXpyaGNYTGhDSl9xQ2g3endONlVQcll4YnpEQtIBwgFBVV95cUxNVWNGRl9YQ25Ma05qUDdhTXpreGFaZ3lFZ2NpbUF0S0NHVzBJaWhvbEZuVXJWc1JsVjZKWU5lTTJaWU5OdnNRSzdwbnNpejRXWUhWdVFKU2tub2dHQXYwd0ktaVUwbVJLUmJ5S0RmdjhyYnVGdUM2UnhjTE1YWnV4TlV4T1dsMUluSzJNZFppUEJ0ZnV5X2cxb3BkUjdfcFRJNFBvdEs1VTZMbmZFWlZsMHVyWjNDZVZuYmRWYWFiSmlYZw?oc=5",
     "news_image": "",
@@ -18583,6 +18583,7 @@
     "news_source": "Federation Internationale de l'Automobile",
     "news_age": "15h ago",
     "news_columns": [
+      "fifa_ranking",
       "fifa_w",
       "olympic"
     ],
@@ -19265,12 +19266,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.61,
     "news_title": "‘Burning’: life under the world’s dirtiest skies - The Japan Times",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWjhla09odWR6RU9nM0hycjBzN3ktazhBdVZvYUlhOU10M1JoQ3FVS0FPWmxvUEtoTXdQSENFY0tWZm9wTnA5UndHRGJ1R1pIN1ZmSEhsRWw2UVlxa0xCeVlzc1lGb1JJQW9fX0FxeDZDemYxTUh2Ty01eGhiU1ZlaGdDR0VpQmh3ZEdvLVVuUGNsMC0ydW1IaFp5ZkpWSGs4VGJtWm1PTzFkNUVW?oc=5",
     "news_image": "",
     "news_source": "The Japan Times",
-    "news_age": "113m ago",
+    "news_age": "115m ago",
     "news_columns": [
       "fifa_ranking",
       "basket"
@@ -28474,19 +28475,15 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 1.41,
+    "news_score": 1.78,
     "news_title": "What does Nigeria's U17 Women's World Cup win mean for the Super Falcons? - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFYtZl84QjR5c2lCbkQzQVhfN3pHd3BGNnh6ZDZLcXNncXdXWk45NEhBWU83OS1aZnY3N1JOcXZoMkd3MWJtTTVYU3k5THZjdGdGeTRGMWJuTGJUd0Zyckt5SW5iZG9PMHNCQ1k0MzRnbUJ3cXVfVkEyS1ZvcndzaUJlOHJkVGF4ZXpURmNVYTVOLXJBZ2RTWkN2T2ZDRkJTb3UzMjBndVQ1YWVFcWc?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "44m ago",
+    "news_age": "46m ago",
     "news_columns": [
-      "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket",
-      "gender",
-      "gender_gap"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -29514,7 +29511,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPME5uUi1kVUYzS0drcmlvZ2pXRzZUNlpGWFJtUmU5SFVuS2JNb3dIUy1NZXFXaGVlajNhMFNYSWhWNjRRdkZuTzd6dmd0b2tkbTVjSnRBR0tjcC1qZjVPV1htelBxeWZHTHF6bzlJSm5ZUTZFVlVvYXYzdUFiUi1rTUVXa0hKSEgzU0VFTEZfUGt3bTVjY1RtZ0FxN3BfMnF0d01hMGFwSl9xWVE?oc=5",
     "news_image": "",
     "news_source": "CBC",
-    "news_age": "14h ago",
+    "news_age": "15h ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -31663,12 +31660,12 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.59,
-    "news_title": "Gunman who carried out Poland mass shooting has died, police say - CBS News",
-    "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRFlEVHJNZ2F1WUk1dlB6MGxoWm1kRjBmaWdDV2VzaUY2TWg3bFhtcVhGNGswQllzd0lXdkh1aW14ZFBJS3lVWldKTl9HTXBiM3FOY1h1U3NKZ0JEdFJGTDB0ZFhVcDhiSzRMd0NJajFUUzFBMWJ3YmRyYjdZOTAtV25RWjlJS3h5LU9jMHlzSVRzQQ?oc=5",
+    "news_score": 0.56,
+    "news_title": "Man accused of killing 6 in far-right shooting rampage dies in hospital, Polish police say - NBC News",
+    "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlNIYWhOQzdvWjlnaU53QlVSZEhEMnYzZU5Zd2Z0TlFJVVQyeW5RSnRXN3ZhUDdFTE01Ym1jWEdEZ2szYVBmdk5YNWZaQl9lLVBEUkw5SWtLc1ZQMWRPekJqeFdJbGVJX2IybnljdThJQVFqYWluNll4WVBEOUtqVlYzQWNTVi1CYUdobE9WcUdBc1dGMFlqLU1ON0lzbzA?oc=5",
     "news_image": "",
-    "news_source": "CBS News",
-    "news_age": "117m ago",
+    "news_source": "NBC News",
+    "news_age": "2h ago",
     "news_columns": [
       "doctors",
       "beds",
@@ -32338,7 +32335,7 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.57,
     "news_title": "MotoGP: Bezzecchi denies Marquez world title as motorsport returns to Qatar - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM01PN0JGSjZnMXhvaFpzNURtMVFZNjdHYTZ1Y3dleVBrTVhobVU5M29oUXpMb0xQbmJkSnp3QVBXQUYyZktka01OTTdpV3UtT1poMGFmQURUNFpwR1JIVGNyZFFmYmtJREtZT2o5WTRHS3pndFhYN29jV0tCQ0hjNE5MeUJVMDhLSU5vVmE5TnZDSUw0TEJuM3hWNGZiTWFFVmFtTEZZMjkwdzdRMXJMMlBicnNjUXdo0gG-AUFVX3lxTE1jS1kwejhnNThmdXZyZVNEV2kzRHZyWmJyWFV1cXRHX0hDSjlxSG1rRWoydnl0R2NSdnFiZ1RlUlIyX2dlTXZVQXZYRVhBbzhlbTJBcUxtQ1ZPVUVWR1cxRzY4SExxa3BJd01wZmtsSVlFMXloYU1ROEFGRmZtUVV3TEdRMFYwSklqVmNQdlVQaThmOG1velRoSVhMUHlsSUczOV9oYXNfUHdMVWE5X0NHb3V6aXlFTXFqT2lsWXc?oc=5",
     "news_image": "",
@@ -33138,7 +33135,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPME5uUi1kVUYzS0drcmlvZ2pXRzZUNlpGWFJtUmU5SFVuS2JNb3dIUy1NZXFXaGVlajNhMFNYSWhWNjRRdkZuTzd6dmd0b2tkbTVjSnRBR0tjcC1qZjVPV1htelBxeWZHTHF6bzlJSm5ZUTZFVlVvYXYzdUFiUi1rTUVXa0hKSEgzU0VFTEZfUGt3bTVjY1RtZ0FxN3BfMnF0d01hMGFwSl9xWVE?oc=5",
     "news_image": "",
     "news_source": "CBC",
-    "news_age": "14h ago",
+    "news_age": "15h ago",
     "news_columns": [
       "democracy",
       "press",
@@ -36145,12 +36142,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.44,
-    "news_title": "Asian stock markets climb after earlier tech rout - Al Jazeera",
-    "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOExPbUF0LU5VaFFCYVpvLVFpaFdIclBKUXJtYk9LQXM2ODZyUmMzU1QwNE10MHA3bU5uSTJSQ2VDQ1E0MEo2SmJxd0hJcjFseHRmYWdTbjhkMnU2OTVneHlpbExSbjgyR2F6MDJ4WTNxUWpjZW9OU1l4UWlOYmFrUk5wRTZVMlEwMG9zS1p4UGdPYjJZV09pSNIBngFBVV95cUxORlBpVTZtXzJuQXB2UlpsSlhNbEJlLXF1TjFxbVJlVl9KbUhpN0JCS0JvWTN0bkJsb2lVVGtiMjgzNkZQaW1sOFYxamN3NXFDZHFVQXgxdGZXdUhid2p0elBlcldGNko5ejluSU1DWFZpWEUxREozTUVsdS0xZGdkY3FpUVNIWWVXbkE2NkFqS01VSnFYQzhhM3ZtNzE3Zw?oc=5",
+    "news_score": 0.31,
+    "news_title": "South Korea to fund Smart Factory project in Vietnam through non-refundable ODA - SGGP English Edition",
+    "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNXzZCQk4xSlo5WEhfalFMalhGaWVkc1psdzZvczQwTjNmLW94WmlvNnBoYWhIWElkZmZXQXdlYUlfZnNTRGo5QTZNUDh3WDc5ajh0R3AzM0pBeFdYbkV3cmVCa0dfeFBJeDZsLWtJbVkwYnNicWtndGs1U2duam50MEljVG1XYXVHU2pFOFh1N0IyYU9LZ081RFdYU1FpdlN3U3RxeGV0TFFrTXdpSFQyQmVEZWNNSnZyZkE?oc=5",
     "news_image": "",
-    "news_source": "Al Jazeera",
-    "news_age": "38m ago",
+    "news_source": "SGGP English Edition",
+    "news_age": "23h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -38433,7 +38430,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.63,
+    "news_score": 0.0,
     "news_title": "Asian stock markets climb after earlier tech rout - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOExPbUF0LU5VaFFCYVpvLVFpaFdIclBKUXJtYk9LQXM2ODZyUmMzU1QwNE10MHA3bU5uSTJSQ2VDQ1E0MEo2SmJxd0hJcjFseHRmYWdTbjhkMnU2OTVneHlpbExSbjgyR2F6MDJ4WTNxUWpjZW9OU1l4UWlOYmFrUk5wRTZVMlEwMG9zS1p4UGdPYjJZV09pSNIBngFBVV95cUxORlBpVTZtXzJuQXB2UlpsSlhNbEJlLXF1TjFxbVJlVl9KbUhpN0JCS0JvWTN0bkJsb2lVVGtiMjgzNkZQaW1sOFYxamN3NXFDZHFVQXgxdGZXdUhid2p0elBlcldGNko5ejluSU1DWFZpWEUxREozTUVsdS0xZGdkY3FpUVNIWWVXbkE2NkFqS01VSnFYQzhhM3ZtNzE3Zw?oc=5",
     "news_image": "",
@@ -39102,12 +39099,12 @@
     "refugees_rank": null,
     "union_rate": 75.8,
     "union_rate_rank": null,
-    "news_score": 0.72,
+    "news_score": 0.71,
     "news_title": "Commerce Ministry asks firms to hold prices as four economic strategies advance - Nation Thailand",
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVMFFIaldlQndON2RUYjgyUG4xS01EVGV6c1FKLU1rSHdYSnJ6ZktkSlJoZ2tZTUhlR216YmgyUEhSUnY3V0gtd0JIdzY5bVhNTUVWVmF1MlhUSjEwenVzbXVRQkpWY3M?oc=5",
     "news_image": "",
     "news_source": "Nation Thailand",
-    "news_age": "79m ago",
+    "news_age": "81m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -42539,9 +42536,8 @@
     "news_source": "City of Toronto",
     "news_age": "14920h ago",
     "news_columns": [
-      "fifa_ranking",
-      "basket",
       "olympic",
+      "fifa_ranking",
       "fifa_w"
     ],
     "bottom50_wealth": 1.5,
