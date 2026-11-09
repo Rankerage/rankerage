@@ -1925,7 +1925,7 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.84,
+    "news_score": 0.83,
     "news_title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYWZxS3E1dS1jTHZLaUFGay1COFZDZkpUMjhmQ2NoOFhSS1R3b1VCc2EzdFFINEM2VWJJT3VtNkRfYTRWRkYyTXRmVW1RcE56dndKVUZvaGxwdmF3UEItamlLY21lc1pkbHRUeUFqelQxeVZseE1IUlRtdXFDWnROWF8zZG8yVWdYU2stbGVscTRuQXJUMG9hNXBhV0VFbGQ3UXc?oc=5",
     "news_image": "",
@@ -1933,7 +1933,7 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -2550,12 +2550,12 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.84,
+    "news_score": 0.83,
     "news_title": "Emotion gets better of Samoa as Australia begin to resemble their old selves | Angus Fontaine - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdzBiSExwX19fUFpQS2ZyZGRRM09yUElTazZraVNMVEJVOXo5RVpZYTJSaU5kY3NycTNDR0pSNmM2OE9TY0RWckdnTXFBZ204Z2VicURXS0U0NlR3bDZjcGVHekRlQ2JrbEhGNHQ4MWRycGtPT3gxQlc2QkhqbVdDaE5fR1VWNHNITWh6dDNNUklpTnB2a1A3WjFUbUw5Vl9INTQtMXJyd2RYY2lYcUE?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "45m ago",
+    "news_age": "47m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -10940,15 +10940,15 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.97,
+    "news_score": 0.98,
     "news_title": "Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmtvRmxJVkRJR3Jfa3lIdUhONjVGYlIxN1pjeXRHcWZ4ZG9OR1RuaGE5UFBmNWpuUldOVkZMWTVRcDQ4bjh5R0d2X1VUNGtZb3EzWWVzdjNhVi0xcFJlZDhscWQ0YlhWRWstbjdFZEpnOVJab1FjWWlzVnNpQ1A4Q1VXZ1RUR1pzWmNuekJHamJaUkNIbkc4V2JrbVRXaHptQU1iN3NtWjZxMUdqb1VXZUJYb2xjZkk?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "66m ago",
+    "news_age": "68m ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -13026,7 +13026,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.3,
+    "news_score": 0.29,
     "news_title": "Pacific-USA to host 2030 Rugby League World Cup - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTU1HTXFMM0prdngwMkFlM2VKc0J5b05Ba2JucC1aM1JwNG5tdzFvTEN4ZmFlQUpleEVzQzFLTks0V1U4bzRwaFR0MDlOdGZZY296ejlzUUtSNkxwSzVKejE5ZkJMcThHV3pFcEJLMnpnZTRub3pSVWo0YjZpNmgzOERKd1ltczJnWE80RlJZZlRXWWQteTBzSU13?oc=5",
     "news_image": "",
@@ -14062,12 +14062,12 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.77,
+    "news_score": 0.76,
     "news_title": "Vietnamese intellectuals in Germany join forces to develop science and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGJjSE1fYXRsNUt4UGNmWGVjTVI2N1JHclNNMTdXR2NxLVl1aDE3VkRRQjVQaU1rTmVEWVV1V20zeUdvWGE2QzE2RDJVbkplaDFiZUY5dmpMSXh1eUM5RzVzTUxnTFF3SEMwT1Jqa050a0V0eXhCcVdmcTVVSTZyS3ppdnlpenhxUmRGRXhHYjM?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "72m ago",
+    "news_age": "74m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -41256,19 +41256,18 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.03,
-    "news_title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections - NPR",
-    "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdXFMOFVmY0FXcE1RbnBtWUFlOG5SbkhCNHBGU2pDcEFTbTJqWHVYSVFCYk9QcmNvTXhQQjdHc1E1alJQR3pFRlpJLVVSa0hfX2tEZVdncE53ZWllUHJBUGt1bEpCV3lHMG8wd2lXLUlPb3U5bEg5TUtXMDRMV3ctQWcwZzBMVnZGa0lQZVA3cVUxdkZGTW92SzIzUFFDUmlo?oc=5",
+    "news_score": 0.02,
+    "news_title": "Europe will be represented in Abu Dhabi talks on Ukraine, French foreign minister says - POLITICO.eu",
+    "news_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUDdWejBEMHl5NXlnaGxydmFWeVkxb0hTTHRWWjBYLXBqdmtoMGtxOXJzUGtVYld2TUZWZ1NEOGJGM2lVbDhpS3o5YVVobFQxNjNVR2dqU3dSZWlpS2FVampFdl9FSjRwVWkyZ2lSanZ1WHU0OWdacUo2SVNBbHpGdjJpNHQ0bG9qZ1h1YV9Pb285eTFzN0dtamdTR3hQYmMxanJ4RkhoREFWLVRqcFJ3Q1Rkd3QwVndvaUEyY2RESVZSMllvNzlzQVQ0dHFocTZP?oc=5",
     "news_image": "",
-    "news_source": "NPR",
-    "news_age": "9h ago",
+    "news_source": "POLITICO.eu",
+    "news_age": "14h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": null
   },
@@ -42537,10 +42536,7 @@
     "news_age": "10h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "basket",
-      "golf",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43457,7 +43453,7 @@
     "union_rate": 56.6,
     "union_rate_rank": null,
     "fifa_w_rank": 40,
-    "news_score": 0.31,
+    "news_score": 0.3,
     "news_title": "Korea@Venezuela - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRzZSVEFNeE00SFVHLTFmZ0RoS1F4eGlzakhULUpRWXRzNDhZUE9ldlVjN3Y5Y1VqVzYtTVZKOWgwSGItNTZzU0JHcjNrNFNNUm52YjdLMFhLMnYxaGw1Njl2UHF2YUFZN2Z3SGZCem5Dd0hwelRRdHEyNFFvT0V2ZVVQVjQ3dXJmMW1GZzNRZHMwU2FyejlVRFFkbndjMjNVNzAxWg?oc=5",
     "news_image": "",
@@ -43747,7 +43743,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGJjSE1fYXRsNUt4UGNmWGVjTVI2N1JHclNNMTdXR2NxLVl1aDE3VkRRQjVQaU1rTmVEWVV1V20zeUdvWGE2QzE2RDJVbkplaDFiZUY5dmpMSXh1eUM5RzVzTUxnTFF3SEMwT1Jqa050a0V0eXhCcVdmcTVVSTZyS3ppdnlpenhxUmRGRXhHYjM?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "72m ago",
+    "news_age": "74m ago",
     "news_columns": [
       "car_density",
       "gas_price",
