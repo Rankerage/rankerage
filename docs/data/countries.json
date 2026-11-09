@@ -1932,8 +1932,8 @@
     "news_source": "The Guardian",
     "news_age": "2h ago",
     "news_columns": [
-      "politics",
-      "religion"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -2550,18 +2550,18 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.36,
-    "news_title": "Reece Walsh hat-trick drives Australia past Samoa and into Rugby League World Cup final - The Guardian",
-    "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUDV0U1RISk1FazJzcTNzbGFHZFBZRnRZeDJodlFuVVhaZTk2YnVYaE9fRkNVQ0FScUh6Y21JR0N4dVBocm9XMERDNFk0emxJYktsc3FnZkdrVlZGLTE4TUs4eFRvU1Nhek1zRkt6NF9RVVVxcllLazZaRkp4QkRWbWRKN05KYXdUZkhfS09ERW5iSEw5Ykp2d2g0aXlMLW5WdmJZZ0QwYXNFUXV6emFzNlZFcVhGUS1ySVlPVk9uWXo?oc=5",
+    "news_score": 0.48,
+    "news_title": "Emotion gets better of Samoa as Australia begin to resemble their old selves | Angus Fontaine - The Guardian",
+    "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdzBiSExwX19fUFpQS2ZyZGRRM09yUElTazZraVNMVEJVOXo5RVpZYTJSaU5kY3NycTNDR0pSNmM2OE9TY0RWckdnTXFBZ204Z2VicURXS0U0NlR3bDZjcGVHekRlQ2JrbEhGNHQ4MWRycGtPT3gxQlc2QkhqbVdDaE5fR1VWNHNITWh6dDNNUklpTnB2a1A3WjFUbUw5Vl9INTQtMXJyd2RYY2lYcUE?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "17h ago",
+    "news_age": "69m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "rugby"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -5158,7 +5158,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.39,
+    "news_score": 0.38,
     "news_title": "2026 São Paulo Grand Prix - Race Report: Team Crowned World Champions in Brazil - Mercedes-AMG PETRONAS F1 Team",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWFGelhGazVhZnk3YnFsRTlXc1k3cDhXS0NwTlRjUUllMGdJbjVOenpkNDBuLVlzSFRKMTJHTHlYay11VlJqenZlb0QwUVZrTjJwM3RhT3JDTjZiMzNQQTkzZkhnUXRiRWxaWTFPZVRMUzBqcWFzSGRpUHo5Q2llbHVhX1FhZEttU3NkYWJkcGZBQQ?oc=5",
     "news_image": "",
@@ -8254,7 +8254,7 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.05,
+    "news_score": 0.09,
     "news_title": "Targeted by U.S., Armed Group Strikes Back in Colombia - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOWNEdXlRQ2U1M3Z2aVgzLXk0S1ZPLWRrUi1qVkVEdUhZel9XamI2ZEg1X2VOZ3ZOMTRQYkw3ZW9nWGYzd3IzVlg2U01vblFSVTFOMnpCRk9UN2FfUGgwRjlaam95YWNIeWtsNTk0cVBfLWxtTmFXUlMwUHc5aVpYcTBaemZmaG8?oc=5",
     "news_image": "",
@@ -10940,15 +10940,18 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.91,
+    "news_score": 0.68,
     "news_title": "Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmtvRmxJVkRJR3Jfa3lIdUhONjVGYlIxN1pjeXRHcWZ4ZG9OR1RuaGE5UFBmNWpuUldOVkZMWTVRcDQ4bjh5R0d2X1VUNGtZb3EzWWVzdjNhVi0xcFJlZDhscWQ0YlhWRWstbjdFZEpnOVJab1FjWWlzVnNpQ1A4Q1VXZ1RUR1pzWmNuekJHamJaUkNIbkc4V2JrbVRXaHptQU1iN3NtWjZxMUdqb1VXZUJYb2xjZkk?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "88m ago",
+    "news_age": "90m ago",
     "news_columns": [
-      "disaster",
-      "transport"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": null
   },
@@ -14062,12 +14065,12 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.7,
+    "news_score": 0.69,
     "news_title": "Vietnamese intellectuals in Germany join forces to develop science and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGJjSE1fYXRsNUt4UGNmWGVjTVI2N1JHclNNMTdXR2NxLVl1aDE3VkRRQjVQaU1rTmVEWVV1V20zeUdvWGE2QzE2RDJVbkplaDFiZUY5dmpMSXh1eUM5RzVzTUxnTFF3SEMwT1Jqa050a0V0eXhCcVdmcTVVSTZyS3ppdnlpenhxUmRGRXhHYjM?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "94m ago",
+    "news_age": "96m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -17393,18 +17396,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.52,
+    "news_score": 0.69,
     "news_title": "Crude Oil Price Falls As Trump Says New Iran Attacks 'Unlikely' - News18",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONi1jVzg2a2FyWG9GQ3pPYWlYOVhDcFlrNEpOVm1CMGJSNk9ZSHp6VThTNndLTW5GaXhTc01MX21oLW5aMlNLS18yT3NhZ2FkRGkyNkF3ZVItb004UzRfcV9aYkNkMjhEc19OQ0NOaUdRU0FSdVlMUXlLTXZlVkw2R2VWVnZlN0UtOU00SkI1TGVCQ21reW1jbnNsZGtVWEktUXpyaGNYTGhDSl9xQ2g3endONlVQcll4YnpEQtIBwgFBVV95cUxNVWNGRl9YQ25Ma05qUDdhTXpreGFaZ3lFZ2NpbUF0S0NHVzBJaWhvbEZuVXJWc1JsVjZKWU5lTTJaWU5OdnNRSzdwbnNpejRXWUhWdVFKU2tub2dHQXYwd0ktaVUwbVJLUmJ5S0RmdjhyYnVGdUM2UnhjTE1YWnV4TlV4T1dsMUluSzJNZFppUEJ0ZnV5X2cxb3BkUjdfcFRJNFBvdEs1VTZMbmZFWlZsMHVyWjNDZVZuYmRWYWFiSmlYZw?oc=5",
     "news_image": "",
     "news_source": "News18",
     "news_age": "2h ago",
     "news_columns": [
-      "gas_price",
-      "energy_per_capita",
-      "co2",
-      "renew",
-      "exports"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -28005,7 +28005,7 @@
     "refugees_rank": null,
     "union_rate": 69.0,
     "union_rate_rank": null,
-    "news_score": 0.29,
+    "news_score": 0.28,
     "news_title": "Puerto Rico@Nicaragua - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSl93WHJScElBMW1yeFZIcWdQQTJvVUJJLS1RVUJTWUROY1BkMFRnaFhXUXlLdVdvdnVJRWdEOGRuWXNUa0VPVUE0SWRDUE5LZHlzM2xMWG9iVlM3Y0NMcTU4ek1kYmVEU3pjOE5fVzZDN2R0TGxkVXN5RWN6SzFKWnl3LWlHLVRYcFhDLVZhbERtZVEwNFNEZHVEY1lSRHdYLXlMY2tqWVc?oc=5",
     "news_image": "",
@@ -29694,7 +29694,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeGlxNG9McmNSdU5KVXNtU2RoMl9POHNNaUJaUXk2SDNFWkFZd0pMbXNYTDhNSkV6aXpFdHh0aDZ0UTJwc3lncF9nWmlJcE1RM3loZFktbldVVHBIV1NYalVEU2tzU210SmlURFF1R3VFeUc1ZTRQNVdGRkQyLVJoRzZkNVc0RlFsLV82dkxGdDhGV0RRdi1pcDQzSVlqX3V3QU5NSDdDSdIBWkFVX3lxTE1QTmUwUkNGLWZFNmJudjk2NmFxWm9ueTk3eDNRUThfNkI2Vl91SzNWaDJJQkF6M2k4bWh5NDlRSl9QYnpyeVQtam16NU01VTZYdUFBSTdNSWM5UQ?oc=5",
     "news_image": "",
     "news_source": "Oman Observer",
-    "news_age": "83h ago",
+    "news_age": "84h ago",
     "news_columns": [
       "festivals",
       "intangible"
@@ -32125,7 +32125,7 @@
     "refugees_rank": null,
     "union_rate": 56.8,
     "union_rate_rank": null,
-    "news_score": 0.29,
+    "news_score": 0.28,
     "news_title": "Puerto Rico@Nicaragua - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSl93WHJScElBMW1yeFZIcWdQQTJvVUJJLS1RVUJTWUROY1BkMFRnaFhXUXlLdVdvdnVJRWdEOGRuWXNUa0VPVUE0SWRDUE5LZHlzM2xMWG9iVlM3Y0NMcTU4ek1kYmVEU3pjOE5fVzZDN2R0TGxkVXN5RWN6SzFKWnl3LWlHLVRYcFhDLVZhbERtZVEwNFNEZHVEY1lSRHdYLXlMY2tqWVc?oc=5",
     "news_image": "",
@@ -35653,7 +35653,7 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.24,
+    "news_score": 0.23,
     "news_title": "South Africa@Great Britain - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdFp4ZUd2X0stOVYxblF3NTBnZDgyR3BpOGVUZTlfNEY0MVhpbFI2QWQyUE4tUTlYYjVPOVpNckZ0RU9zZUR3Skg1ZWdhZl9UczhjN2FobXVsSWd1ZXY1UHcxOVUxN0I1ZU1JVzluOVlfakFHU0IzdUZ1ZFFZWW1LRThsaW5LSm5HZk51NU9wWTZVWTJSTUNMSzUtaFp1cE5PUUZHYg?oc=5",
     "news_image": "",
@@ -42534,11 +42534,10 @@
     "news_source": "The Washington Post",
     "news_age": "11h ago",
     "news_columns": [
+      "fifa_ranking",
+      "fifa_w",
       "golf",
-      "pga",
-      "nfl",
-      "football",
-      "politics"
+      "baseball"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43745,7 +43744,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGJjSE1fYXRsNUt4UGNmWGVjTVI2N1JHclNNMTdXR2NxLVl1aDE3VkRRQjVQaU1rTmVEWVV1V20zeUdvWGE2QzE2RDJVbkplaDFiZUY5dmpMSXh1eUM5RzVzTUxnTFF3SEMwT1Jqa050a0V0eXhCcVdmcTVVSTZyS3ppdnlpenhxUmRGRXhHYjM?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "94m ago",
+    "news_age": "96m ago",
     "news_columns": [
       "car_density",
       "gas_price",
