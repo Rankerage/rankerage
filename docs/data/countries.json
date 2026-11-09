@@ -1925,15 +1925,17 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.69,
+    "news_score": 0.52,
     "news_title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYWZxS3E1dS1jTHZLaUFGay1COFZDZkpUMjhmQ2NoOFhSS1R3b1VCc2EzdFFINEM2VWJJT3VtNkRfYTRWRkYyTXRmVW1RcE56dndKVUZvaGxwdmF3UEItamlLY21lc1pkbHRUeUFqelQxeVZseE1IUlRtdXFDWnROWF8zZG8yVWdYU2stbGVscTRuQXJUMG9hNXBhV0VFbGQ3UXc?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
     "news_age": "3h ago",
     "news_columns": [
-      "politics",
-      "election"
+      "democracy",
+      "approval",
+      "press",
+      "election_days"
     ],
     "bottom50_wealth": null
   },
@@ -2550,15 +2552,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 1.11,
+    "news_score": 1.13,
     "news_title": "Reece Walsh hat-trick drives Australia past Samoa and into Rugby League World Cup final - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUDV0U1RISk1FazJzcTNzbGFHZFBZRnRZeDJodlFuVVhaZTk2YnVYaE9fRkNVQ0FScUh6Y21JR0N4dVBocm9XMERDNFk0emxJYktsc3FnZkdrVlZGLTE4TUs4eFRvU1Nhek1zRkt6NF9RVVVxcllLazZaRkp4QkRWbWRKN05KYXdUZkhfS09ERW5iSEw5Ykp2d2g0aXlMLW5WdmJZZ0QwYXNFUXV6emFzNlZFcVhGUS1ySVlPVk9uWXo?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "42m ago",
+    "news_age": "44m ago",
     "news_columns": [
-      "rugby",
-      "world_cup"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -7318,7 +7320,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZl9hM0JsNFF1SkVvdzBZTDhHTWlEUkxDU2Z3U2xfMzR2Nk9Nd01yeE4zWFhReWNVRGN6MExoTGNjZk11R2RYeGFkenQxRUxzUzllXzVnUHl6T253anplYUpvQl9XVFh2QWJ3ZWNIMGVoOXRhVFlOQzMwUXRCcU80YkFrLXZ0a2pQLU9PZHdzbWhHdEVKOWNSYVZGLWRXaUtJSmJfLTd4blVyMU5HN0t5MmpWV3VkbE5PNlpBaHprLXk?oc=5",
     "news_image": "",
     "news_source": "NPR",
-    "news_age": "15h ago",
+    "news_age": "16h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -8013,9 +8015,7 @@
     "news_source": "China Daily",
     "news_age": "69h ago",
     "news_columns": [
-      "market",
-      "oil",
-      "finance"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10936,12 +10936,12 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.89,
+    "news_score": 0.88,
     "news_title": "Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmtvRmxJVkRJR3Jfa3lIdUhONjVGYlIxN1pjeXRHcWZ4ZG9OR1RuaGE5UFBmNWpuUldOVkZMWTVRcDQ4bjh5R0d2X1VUNGtZb3EzWWVzdjNhVi0xcFJlZDhscWQ0YlhWRWstbjdFZEpnOVJab1FjWWlzVnNpQ1A4Q1VXZ1RUR1pzWmNuekJHamJaUkNIbkc4V2JrbVRXaHptQU1iN3NtWjZxMUdqb1VXZUJYb2xjZkk?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "30m ago",
+    "news_age": "32m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -14062,7 +14062,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.6,
+    "news_score": 0.59,
     "news_title": "Vietnamese intellectuals in Germany join forces to develop science and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGJjSE1fYXRsNUt4UGNmWGVjTVI2N1JHclNNMTdXR2NxLVl1aDE3VkRRQjVQaU1rTmVEWVV1V20zeUdvWGE2QzE2RDJVbkplaDFiZUY5dmpMSXh1eUM5RzVzTUxnTFF3SEMwT1Jqa050a0V0eXhCcVdmcTVVSTZyS3ppdnlpenhxUmRGRXhHYjM?oc=5",
     "news_image": "",
@@ -17393,16 +17393,18 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.69,
+    "news_score": 0.48,
     "news_title": "Crude Oil Price Falls As Trump Says New Iran Attacks 'Unlikely' - News18",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONi1jVzg2a2FyWG9GQ3pPYWlYOVhDcFlrNEpOVm1CMGJSNk9ZSHp6VThTNndLTW5GaXhTc01MX21oLW5aMlNLS18yT3NhZ2FkRGkyNkF3ZVItb004UzRfcV9aYkNkMjhEc19OQ0NOaUdRU0FSdVlMUXlLTXZlVkw2R2VWVnZlN0UtOU00SkI1TGVCQ21reW1jbnNsZGtVWEktUXpyaGNYTGhDSl9xQ2g3endONlVQcll4YnpEQtIBwgFBVV95cUxNVWNGRl9YQ25Ma05qUDdhTXpreGFaZ3lFZ2NpbUF0S0NHVzBJaWhvbEZuVXJWc1JsVjZKWU5lTTJaWU5OdnNRSzdwbnNpejRXWUhWdVFKU2tub2dHQXYwd0ktaVUwbVJLUmJ5S0RmdjhyYnVGdUM2UnhjTE1YWnV4TlV4T1dsMUluSzJNZFppUEJ0ZnV5X2cxb3BkUjdfcFRJNFBvdEs1VTZMbmZFWlZsMHVyWjNDZVZuYmRWYWFiSmlYZw?oc=5",
     "news_image": "",
     "news_source": "News18",
     "news_age": "3h ago",
     "news_columns": [
-      "market",
-      "oil",
-      "finance"
+      "gas_price",
+      "energy_per_capita",
+      "co2",
+      "renew",
+      "exports"
     ],
     "bottom50_wealth": null
   },
@@ -19445,12 +19447,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 1.18,
+    "news_score": 1.19,
     "news_title": "Jordan Love totals four touchdowns in Week 9 - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnF4cmYtU0NNV3FGMXI3M2dCdlNYcnVKOXkzakE3LWJsTF9QUVRtdFRITE0yS04ySDVMQnAyZDN6SjZFQzhfdTJPUVMtWmIzUXdiSlprem9ESkhGV3BjelktNmczcWRjNkdWcHRfaklvWF9SN0MycHpKa1lOZEJnMW1wRlVpaDVHNldR?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "42m ago",
+    "news_age": "44m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -34310,12 +34312,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 120,
     "fifa_w_rank": 100,
-    "news_score": 0.27,
+    "news_score": 0.46,
     "news_title": "Mitsubishi Electric Achieves World’s First Demonstration of Suppression of Frequency Dispersion in GaN Transistors Using GaN Substrates - Yahoo Finance Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ3J1MmJER2hPQW50TGV6dHIwcHRqZC1tSVBybktUNW5JX0xkdFlHbXdhMlNjR2h6OGRaSzZmQ2c0cHZmN3RkQ19Zei16VXhWRTBGOTdBM2ZFelVxVjRDYlhqNFIzWUkwVEQ0OGJEdER0aWM3aGV6RVRqNDZVX1NsYTROaS03a1V1YVNRamdCazliTDg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Finance Singapore",
-    "news_age": "21m ago",
+    "news_age": "23m ago",
     "news_columns": [
       "lgbtq_rights",
       "gay_marriage",
@@ -35652,7 +35654,7 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.2,
+    "news_score": 0.26,
     "news_title": "South Africa@Great Britain - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdFp4ZUd2X0stOVYxblF3NTBnZDgyR3BpOGVUZTlfNEY0MVhpbFI2QWQyUE4tUTlYYjVPOVpNckZ0RU9zZUR3Skg1ZWdhZl9UczhjN2FobXVsSWd1ZXY1UHcxOVUxN0I1ZU1JVzluOVlfakFHU0IzdUZ1ZFFZWW1LRThsaW5LSm5HZk51NU9wWTZVWTJSTUNMSzUtaFp1cE5PUUZHYg?oc=5",
     "news_image": "",
@@ -35660,11 +35662,7 @@
     "news_age": "5h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "olympic"
     ],
     "bottom50_wealth": 1.2,
     "bottom50_wealth_rank": 29
@@ -41254,7 +41252,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.01,
+    "news_score": 0.02,
     "news_title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdXFMOFVmY0FXcE1RbnBtWUFlOG5SbkhCNHBGU2pDcEFTbTJqWHVYSVFCYk9QcmNvTXhQQjdHc1E1alJQR3pFRlpJLVVSa0hfX2tEZVdncE53ZWllUHJBUGt1bEpCV3lHMG8wd2lXLUlPb3U5bEg5TUtXMDRMV3ctQWcwZzBMVnZGa0lQZVA3cVUxdkZGTW92SzIzUFFDUmlo?oc=5",
     "news_image": "",
@@ -42534,14 +42532,9 @@
     "news_source": "The Washington Post",
     "news_age": "11h ago",
     "news_columns": [
-      "nfl",
-      "football",
-      "golf",
-      "pga",
-      "market",
-      "oil",
-      "finance",
-      "politics"
+      "basket",
+      "fifa_ranking",
+      "golf"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
