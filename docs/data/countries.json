@@ -2552,15 +2552,18 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.33,
+    "news_score": 0.23,
     "news_title": "Reece Walsh hat-trick drives Australia past Samoa and into Rugby League World Cup final - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUDV0U1RISk1FazJzcTNzbGFHZFBZRnRZeDJodlFuVVhaZTk2YnVYaE9fRkNVQ0FScUh6Y21JR0N4dVBocm9XMERDNFk0emxJYktsc3FnZkdrVlZGLTE4TUs4eFRvU1Nhek1zRkt6NF9RVVVxcllLazZaRkp4QkRWbWRKN05KYXdUZkhfS09ERW5iSEw5Ykp2d2g0aXlMLW5WdmJZZ0QwYXNFUXV6emFzNlZFcVhGUS1ySVlPVk9uWXo?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
     "news_age": "5h ago",
     "news_columns": [
+      "fifa_ranking",
+      "fifa_w",
       "olympic",
-      "fifa_ranking"
+      "basket",
+      "rugby"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -8008,15 +8011,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.54,
+    "news_score": 0.73,
     "news_title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcndzRG1jRHQ5c25nX1RuQVVNeXJUXzNnemotNFRpWGhwUGNCN3hmV2VkMndSVkl4V1hIMmhUMDhjWTJFa1BYckVYM1BkX0ZMMEQ2WmFxRGRhYXFtNzVJQUEtNW9PaUhfekFYM1RWeG0xbldSZlcwVldGZXVXVjNvcDdNN2dReWFqM3c?oc=5",
     "news_image": "",
     "news_source": "CNBC",
-    "news_age": "57m ago",
+    "news_age": "59m ago",
     "news_columns": [
-      "fifa_ranking",
-      "basket"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13027,7 +13029,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.31,
     "news_title": "'Burning': life under the world's dirtiest skies - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHZKVHFIcWdwRVNYZXJtTnF4c3lVTkFkdjZvLTZZdVlHcUN4NjUtVWg4RkIyODhfdnR3WnRLX2x4MTZkTWF0RlAxbm9ENWp5NFVDWURPZzh6aXYzc1pUcVVXWFdYM2lSejdndjc1REhZclBGTjRWa0wzSU5fVEpXVVlSU2tjWnR2RnhBeXNfVWZKVEFMNDdV?oc=5",
     "news_image": "",
@@ -13559,7 +13561,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.22,
+    "news_score": 0.25,
     "news_title": "Horoscope for Monday, 11/09/26 by Christopher Renstrom - SFGATE",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV0s1WktlQlhMWFMybzdhbjdrZHNFd2YwM0ZOZGRsVUF0MC1XcHdwdTV1SGZDOTZpVGt1UHU2a1NKWmprbm5DOUJJc0o1MC1HZWcyYjN5Uk42NTI4VEVtLXhVWjdpSEVpekNRMnlJd21pcUNtTDNLYTFvTndKTDhTR0tnajdvUHhWemg1TUhocVV5Umd6eEQ1dHUyd2ZfYjlWTnc?oc=5",
     "news_image": "",
@@ -15876,12 +15878,12 @@
     "fifa_w": 81,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 62,
-    "news_score": 0.76,
+    "news_score": 0.75,
     "news_title": "Hong Kong University of Science and Technology team achieves 300x spin lifetime boost in perovskites - Quantum Zeitgeist",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10Z1VRYnpIenhtdlE0eVB2NFpFU1pILXhTbXRJcTExRm5oSWpiZjNuZzdYNkdvMFdEOWJjM3J3TWxwTThiRzI1WXg4TVFDNXd3a3FhcmFsaE9YRDdLSm9ULUlrTjgxY3A0UVQ4RFFxY0xpZ2JDT1hoWnFQVGtmTlk?oc=5",
     "news_image": "",
     "news_source": "Quantum Zeitgeist",
-    "news_age": "68m ago",
+    "news_age": "70m ago",
     "news_columns": [
       "edu",
       "literacy",
@@ -17396,7 +17398,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.15,
+    "news_score": 0.13,
     "news_title": "Crude Oil Price Falls As Trump Says New Iran Attacks 'Unlikely' - News18",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONi1jVzg2a2FyWG9GQ3pPYWlYOVhDcFlrNEpOVm1CMGJSNk9ZSHp6VThTNndLTW5GaXhTc01MX21oLW5aMlNLS18yT3NhZ2FkRGkyNkF3ZVItb004UzRfcV9aYkNkMjhEc19OQ0NOaUdRU0FSdVlMUXlLTXZlVkw2R2VWVnZlN0UtOU00SkI1TGVCQ21reW1jbnNsZGtVWEktUXpyaGNYTGhDSl9xQ2g3endONlVQcll4YnpEQtIBwgFBVV95cUxNVWNGRl9YQ25Ma05qUDdhTXpreGFaZ3lFZ2NpbUF0S0NHVzBJaWhvbEZuVXJWc1JsVjZKWU5lTTJaWU5OdnNRSzdwbnNpejRXWUhWdVFKU2tub2dHQXYwd0ktaVUwbVJLUmJ5S0RmdjhyYnVGdUM2UnhjTE1YWnV4TlV4T1dsMUluSzJNZFppUEJ0ZnV5X2cxb3BkUjdfcFRJNFBvdEs1VTZMbmZFWlZsMHVyWjNDZVZuYmRWYWFiSmlYZw?oc=5",
     "news_image": "",
@@ -18579,10 +18581,9 @@
     "news_source": "Federation Internationale de l'Automobile",
     "news_age": "14h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "basket",
-      "olympic"
+      "car_density",
+      "gas_price",
+      "co2"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -19268,7 +19269,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWjhla09odWR6RU9nM0hycjBzN3ktazhBdVZvYUlhOU10M1JoQ3FVS0FPWmxvUEtoTXdQSENFY0tWZm9wTnA5UndHRGJ1R1pIN1ZmSEhsRWw2UVlxa0xCeVlzc1lGb1JJQW9fX0FxeDZDemYxTUh2Ty01eGhiU1ZlaGdDR0VpQmh3ZEdvLVVuUGNsMC0ydW1IaFp5ZkpWSGs4VGJtWm1PTzFkNUVW?oc=5",
     "news_image": "",
     "news_source": "The Japan Times",
-    "news_age": "61m ago",
+    "news_age": "63m ago",
     "news_columns": [
       "fifa_ranking",
       "basket"
@@ -28472,12 +28473,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 1.37,
+    "news_score": 1.39,
     "news_title": "OPay Opens New Kano Office, Strengthens Commitment to Nigeria’s Financial Inclusion - Legit News",
     "news_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRjhUV2Zwa1NkdGZfOFE3TzdLcmRaUTVadFN2QVpkdXZ5RVgzVTF4RVpreWJ3aHhJb3hNbXJ6eWlDZEE2YXQ0d0xlb0tzaXVRR1dCcWQ2UFBxUkxxaUxGczR1dHNYNzJvV3VuQWliV0pxbjF3X3FfMkYyU2VvN1UyOE1xdF95T05OajlCSGRlYkJIeFRjRWlqaWNsNXZEUXBEZ1hiRVpTMTZmUE1UY2Nvdjh4dk1ySEFlaWVTWWl1WTJHZGQtS2syekpORkhxQVUt?oc=5",
     "news_image": "",
     "news_source": "Legit News",
-    "news_age": "80m ago",
+    "news_age": "82m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -31656,14 +31657,19 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.68,
+    "news_score": 0.6,
     "news_title": "Man accused of killing 6 in far-right shooting rampage dies in hospital, Polish police say - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlNIYWhOQzdvWjlnaU53QlVSZEhEMnYzZU5Zd2Z0TlFJVVQyeW5RSnRXN3ZhUDdFTE01Ym1jWEdEZ2szYVBmdk5YNWZaQl9lLVBEUkw5SWtLc1ZQMWRPekJqeFdJbGVJX2IybnljdThJQVFqYWluNll4WVBEOUtqVlYzQWNTVi1CYUdobE9WcUdBc1dGMFlqLU1ON0lzbzA?oc=5",
     "news_image": "",
     "news_source": "NBC News",
-    "news_age": "98m ago",
+    "news_age": "100m ago",
     "news_columns": [
-      "fifa_ranking"
+      "doctors",
+      "beds",
+      "health",
+      "life_expectancy",
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": null
   },
@@ -32326,7 +32332,7 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.8,
+    "news_score": 0.58,
     "news_title": "MotoGP: Bezzecchi denies Marquez world title as motorsport returns to Qatar - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM01PN0JGSjZnMXhvaFpzNURtMVFZNjdHYTZ1Y3dleVBrTVhobVU5M29oUXpMb0xQbmJkSnp3QVBXQUYyZktka01OTTdpV3UtT1poMGFmQURUNFpwR1JIVGNyZFFmYmtJREtZT2o5WTRHS3pndFhYN29jV0tCQ0hjNE5MeUJVMDhLSU5vVmE5TnZDSUw0TEJuM3hWNGZiTWFFVmFtTEZZMjkwdzdRMXJMMlBicnNjUXdo0gG-AUFVX3lxTE1jS1kwejhnNThmdXZyZVNEV2kzRHZyWmJyWFV1cXRHX0hDSjlxSG1rRWoydnl0R2NSdnFiZ1RlUlIyX2dlTXZVQXZYRVhBbzhlbTJBcUxtQ1ZPVUVWR1cxRzY4SExxa3BJd01wZmtsSVlFMXloYU1ROEFGRmZtUVV3TEdRMFYwSklqVmNQdlVQaThmOG1velRoSVhMUHlsSUczOV9oYXNfUHdMVWE5X0NHb3V6aXlFTXFqT2lsWXc?oc=5",
     "news_image": "",
@@ -34303,7 +34309,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 120,
     "fifa_w_rank": 100,
-    "news_score": 0.31,
+    "news_score": 0.3,
     "news_title": "Chungnam Partners with Digital Travel Platform Agoda to Welcome World Youth Day Visitors - Yahoo Finance Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjFhR2Z5b3d0Ry1fdnlZNEhBeXhpWEtuWFowdi1kbEx5WDVMcm40Wjg4ZUIxTk5QUm9PU2RjVDhBY0lOaktnbjBYWDhIb25MY3FKQXcyQ2xobThJdUZ2NGo0cFVIYlZTX29HVlFoUWJFQXg4WDh1c0Vpd1diUGx4MjNMRTRUb3B3RlYwYkVBaWUzcmo4?oc=5",
     "news_image": "",
@@ -39090,12 +39096,12 @@
     "refugees_rank": null,
     "union_rate": 75.8,
     "union_rate_rank": null,
-    "news_score": 0.59,
+    "news_score": 0.68,
     "news_title": "Commerce Ministry asks firms to hold prices as four economic strategies advance - Nation Thailand",
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVMFFIaldlQndON2RUYjgyUG4xS01EVGV6c1FKLU1rSHdYSnJ6ZktkSlJoZ2tZTUhlR216YmgyUEhSUnY3V0gtd0JIdzY5bVhNTUVWVmF1MlhUSjEwenVzbXVRQkpWY3M?oc=5",
     "news_image": "",
     "news_source": "Nation Thailand",
-    "news_age": "27m ago",
+    "news_age": "29m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -42525,12 +42531,12 @@
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONWM2aXc1OGtEUmRhQXAxWkF6OVlvaTNpVzRuUjNOeXVMQmoxN2EyRVZld1ljSkVYRVFNTWJ6NVlKUVdlbC1nTE81THNUUjdNZU1EblFWOGtfR3ZFQ3psc205eEFacXI5c05FN2Y3c0hrUVhSNDJZV2VQemg0YkM5UVdtSE5Ob0l1dllwZ08tNWNhVEcxSkg1d2NSRi0tYTZIVUkwX0V4c3BRNklvZnVNb1poMW1pQU1wb2FpOHpsdGgzQUJiV2c?oc=5",
     "news_image": "",
     "news_source": "City of Toronto",
-    "news_age": "14919h ago",
+    "news_age": "14920h ago",
     "news_columns": [
-      "olympic",
       "fifa_ranking",
       "basket",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
