@@ -1925,12 +1925,12 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.07,
-    "news_title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit - The Guardian",
-    "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYWZxS3E1dS1jTHZLaUFGay1COFZDZkpUMjhmQ2NoOFhSS1R3b1VCc2EzdFFINEM2VWJJT3VtNkRfYTRWRkYyTXRmVW1RcE56dndKVUZvaGxwdmF3UEItamlLY21lc1pkbHRUeUFqelQxeVZseE1IUlRtdXFDWnROWF8zZG8yVWdYU2stbGVscTRuQXJUMG9hNXBhV0VFbGQ3UXc?oc=5",
+    "news_score": 0.08,
+    "news_title": "Pope Leo and Javier Milei offer duelling visions for Argentina - Financial Times",
+    "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaWloNnJoR1lNb3Z0U0NIUlNkOVpZdDhxWlVpZU1DSEVKZ0J5ckVQelJTUUxhQ1VfcU01R2FTQjZRdnFwaFRiYjJSSUVBZURYYnhkY2M0NFVvSjRTNS01cFpDM2ZvN3QzQkQ2RHpYLUF6ZTU1TnZMaURUUlZ4S3c2UElUcDA?oc=5",
     "news_image": "",
-    "news_source": "The Guardian",
-    "news_age": "9h ago",
+    "news_source": "Financial Times",
+    "news_age": "8h ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -2552,15 +2552,19 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.45,
+    "news_score": 0.68,
     "news_title": "Marnus Labuschagne dropped! Australia chief selector makes big announcement - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ09mQXE3WS1EaEtRZmZDeVEyaTFhenFaNmdhcG5CaGlmNHVVRnd4RHJSYmx2amxSbkNvRGdsSGtlX3M5TUZHWnhpS1dQMDlHVW5VRjhTR1dBRmlYc09JMGdkOEZYUk12VVljcUVWeTR3eXdjc05lRnMteEYxTmNhd1A2cklVUGdEYjFxRVJ6SVVwX1pUdFE?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_w",
-      "olympic"
+      "climate_index",
+      "temperature_anomaly",
+      "emissions_ranking",
+      "atp_ranking",
+      "wta_ranking",
+      "motogp_standings"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -6943,7 +6947,8 @@
     "news_age": "15h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "world_cup_host"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -8011,10 +8016,14 @@
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZndJdVhlS3lfM2puRl9HTVQzbVJ5WVY3cFltRktuRW01V050Z0VfeHZoaVhmalk3b2JPNThKSXJCMUJlM1RycDI0eW1PWjZhS18zTGduQm1TMGVDWV9sMDMwdkFicVdCdzZzd2swX3hhbU9xNUxnMVdkVmM5c29CclMtam9KNF9xTHIycmFoUllEbFJEdnROWDBVSS1BQWhiUmNtTUxnQnVtZ2hTVmJDM2V2ejIyTzJ6Q09IYXptWk0?oc=5",
     "news_image": "",
     "news_source": "Anadolu Ajansı",
-    "news_age": "60m ago",
+    "news_age": "62m ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "climate_index",
+      "temperature_anomaly",
+      "emissions_ranking",
+      "tech_index",
+      "market_cap",
+      "export_controls"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13025,12 +13034,12 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.26,
+    "news_score": 0.18,
     "news_title": "'Burning': life under the world's dirtiest skies - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHZKVHFIcWdwRVNYZXJtTnF4c3lVTkFkdjZvLTZZdVlHcUN4NjUtVWg4RkIyODhfdnR3WnRLX2x4MTZkTWF0RlAxbm9ENWp5NFVDWURPZzh6aXYzc1pUcVVXWFdYM2lSejdndjc1REhZclBGTjRWa0wzSU5fVEpXVVlSU2tjWnR2RnhBeXNfVWZKVEFMNDdV?oc=5",
     "news_image": "",
     "news_source": "France 24",
-    "news_age": "5h ago",
+    "news_age": "6h ago",
     "news_columns": [
       "olympic",
       "fifa_ranking"
@@ -13555,12 +13564,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.98,
+    "news_score": 0.88,
     "news_title": "Georgia State visits Fresno State after Jones' 22-point showing - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOamU2V01jNHM1UEtmUDhzUDhRVjhHR28xN2ZtMkVNU3hFLXNRMnRFdy1vakx6RkU3cy1zeVRtU2ZoczFwczJoNmVPM0tiQjFlTGZKXzdYbjY2VUFhbHA3THo1Ym8tQ1ZlSUdXUXZxbE1nSHdnLTM1QS12aG1BaThaaEIzemwxUlJpWEE?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "100m ago",
+    "news_age": "102m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -14058,15 +14067,16 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.14,
+    "news_score": 0.1,
     "news_title": "Vietnamese intellectuals in Germany join forces to develop science and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGJjSE1fYXRsNUt4UGNmWGVjTVI2N1JHclNNMTdXR2NxLVl1aDE3VkRRQjVQaU1rTmVEWVV1V20zeUdvWGE2QzE2RDJVbkplaDFiZUY5dmpMSXh1eUM5RzVzTUxnTFF3SEMwT1Jqa050a0V0eXhCcVdmcTVVSTZyS3ppdnlpenhxUmRGRXhHYjM?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
     "news_age": "7h ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "car_density",
+      "gas_price",
+      "co2"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -17391,7 +17401,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.08,
+    "news_score": 0.09,
     "news_title": "Crude Oil Price Falls As Trump Says New Iran Attacks 'Unlikely' - News18",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONi1jVzg2a2FyWG9GQ3pPYWlYOVhDcFlrNEpOVm1CMGJSNk9ZSHp6VThTNndLTW5GaXhTc01MX21oLW5aMlNLS18yT3NhZ2FkRGkyNkF3ZVItb004UzRfcV9aYkNkMjhEc19OQ0NOaUdRU0FSdVlMUXlLTXZlVkw2R2VWVnZlN0UtOU00SkI1TGVCQ21reW1jbnNsZGtVWEktUXpyaGNYTGhDSl9xQ2g3endONlVQcll4YnpEQtIBwgFBVV95cUxNVWNGRl9YQ25Ma05qUDdhTXpreGFaZ3lFZ2NpbUF0S0NHVzBJaWhvbEZuVXJWc1JsVjZKWU5lTTJaWU5OdnNRSzdwbnNpejRXWUhWdVFKU2tub2dHQXYwd0ktaVUwbVJLUmJ5S0RmdjhyYnVGdUM2UnhjTE1YWnV4TlV4T1dsMUluSzJNZFppUEJ0ZnV5X2cxb3BkUjdfcFRJNFBvdEs1VTZMbmZFWlZsMHVyWjNDZVZuYmRWYWFiSmlYZw?oc=5",
     "news_image": "",
@@ -18576,9 +18586,9 @@
     "news_source": "Federation Internationale de l'Automobile",
     "news_age": "15h ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "atp_ranking",
+      "wta_ranking",
+      "motogp_standings"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -19444,7 +19454,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.24,
+    "news_score": 0.23,
     "news_title": "Jordan Love totals four touchdowns in Week 9 - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnF4cmYtU0NNV3FGMXI3M2dCdlNYcnVKOXkzakE3LWJsTF9QUVRtdFRITE0yS04ySDVMQnAyZDN6SjZFQzhfdTJPUVMtWmIzUXdiSlprem9ESkhGV3BjelktNmczcWRjNkdWcHRfaklvWF9SN0MycHpKa1lOZEJnMW1wRlVpaDVHNldR?oc=5",
     "news_image": "",
@@ -28468,12 +28478,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 1.27,
+    "news_score": 1.26,
     "news_title": "What does Nigeria's U17 Women's World Cup win mean for the Super Falcons? - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFYtZl84QjR5c2lCbkQzQVhfN3pHd3BGNnh6ZDZLcXNncXdXWk45NEhBWU83OS1aZnY3N1JOcXZoMkd3MWJtTTVYU3k5THZjdGdGeTRGMWJuTGJUd0Zyckt5SW5iZG9PMHNCQ1k0MzRnbUJ3cXVfVkEyS1ZvcndzaUJlOHJkVGF4ZXpURmNVYTVOLXJBZ2RTWkN2T2ZDRkJTb3UzMjBndVQ1YWVFcWc?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "72m ago",
+    "news_age": "74m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -31657,7 +31667,7 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.0,
+    "news_score": 0.15,
     "news_title": "Gunman behind mass shooting in Krakow, Poland, dies in hospital, police say - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRFlEVHJNZ2F1WUk1dlB6MGxoWm1kRjBmaWdDV2VzaUY2TWg3bFhtcVhGNGswQllzd0lXdkh1aW14ZFBJS3lVWldKTl9HTXBiM3FOY1h1U3NKZ0JEdFJGTDB0ZFhVcDhiSzRMd0NJajFUUzFBMWJ3YmRyYjdZOTAtV25RWjlJS3h5LU9jMHlzSVRzQQ?oc=5",
     "news_image": "",
@@ -32332,16 +32342,16 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.82,
+    "news_score": 1.09,
     "news_title": "Carlos Ezpeleta: Qatar GP “noise” left MotoGP unnecessarily exposed - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRFRiUlE0eFNuZEEtWWItTVd1NDFPTmswV2Z0ZVV6TVExSnNrcFBNSWhwVW9oYnVXbmFDT3I1QS1EdnduUkdBVlhBbUNJaTZSbzBXUVBVY3BSTVZoR05YWjA4WnpkRDFaTkNscE9TMXNmMDJZQXpZc2RIQ1VDZ1FaYVlnREtQdw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
     "news_age": "2h ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "atp_ranking",
+      "wta_ranking",
+      "motogp_standings"
     ],
     "bottom50_wealth": null
   },
@@ -33127,12 +33137,12 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.18,
-    "news_title": "Europeans join Abu Dhabi talks in bid to thwart Russian security demands - Financial Times",
-    "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUVnaVMxYXoyeHNoQ3pDcWVYbjZpUDBjMERYMFIyVk1Zb3lFSnBucmx6ckpvMEhaSnhjUU9MYTdNaEpMTjUwZk8yeFc5WXBPaDd2V196b1NtVkNxM3dHNzVTTUREYjhYNE9OeFNBSXd2VTZHVGx1WG9yQXBQUDRmeFNZei0?oc=5",
+    "news_score": 0.3,
+    "news_title": "US-led peace talks for Russia and Ukraine will look at security guarantees for both sides - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOVRvYUFQbS0za2RfNkk2T0xkYnVrcFVoNXZ3SzgwN2RpcTlMWDBha3lINTR1X0JSM0JkaldZMjB2SHFVYzJ2Mi1vcV9vamlQd1pOaWNtLV9aYjFlY1prMFh0ME1tZzdFa194dTJVSG1aU0c5bmZnU1BGWHdvbGhIakk1ekxVcjluRTZtQzJIQ19vSF91bHJsbVV4T1dWa1U?oc=5",
     "news_image": "",
-    "news_source": "Financial Times",
-    "news_age": "5h ago",
+    "news_source": "AP News",
+    "news_age": "2h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -36144,7 +36154,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOExPbUF0LU5VaFFCYVpvLVFpaFdIclBKUXJtYk9LQXM2ODZyUmMzU1QwNE10MHA3bU5uSTJSQ2VDQ1E0MEo2SmJxd0hJcjFseHRmYWdTbjhkMnU2OTVneHlpbExSbjgyR2F6MDJ4WTNxUWpjZW9OU1l4UWlOYmFrUk5wRTZVMlEwMG9zS1p4UGdPYjJZV09pSNIBngFBVV95cUxORlBpVTZtXzJuQXB2UlpsSlhNbEJlLXF1TjFxbVJlVl9KbUhpN0JCS0JvWTN0bkJsb2lVVGtiMjgzNkZQaW1sOFYxamN3NXFDZHFVQXgxdGZXdUhid2p0elBlcldGNko5ejluSU1DWFZpWEUxREozTUVsdS0xZGdkY3FpUVNIWWVXbkE2NkFqS01VSnFYQzhhM3ZtNzE3Zw?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "66m ago",
+    "news_age": "68m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -38432,9 +38442,11 @@
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOExPbUF0LU5VaFFCYVpvLVFpaFdIclBKUXJtYk9LQXM2ODZyUmMzU1QwNE10MHA3bU5uSTJSQ2VDQ1E0MEo2SmJxd0hJcjFseHRmYWdTbjhkMnU2OTVneHlpbExSbjgyR2F6MDJ4WTNxUWpjZW9OU1l4UWlOYmFrUk5wRTZVMlEwMG9zS1p4UGdPYjJZV09pSNIBngFBVV95cUxORlBpVTZtXzJuQXB2UlpsSlhNbEJlLXF1TjFxbVJlVl9KbUhpN0JCS0JvWTN0bkJsb2lVVGtiMjgzNkZQaW1sOFYxamN3NXFDZHFVQXgxdGZXdUhid2p0elBlcldGNko5ejluSU1DWFZpWEUxREozTUVsdS0xZGdkY3FpUVNIWWVXbkE2NkFqS01VSnFYQzhhM3ZtNzE3Zw?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "66m ago",
+    "news_age": "68m ago",
     "news_columns": [
-      "fifa_ranking"
+      "tech_index",
+      "market_cap",
+      "export_controls"
     ],
     "bottom50_wealth": null
   },
@@ -39100,7 +39112,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVMFFIaldlQndON2RUYjgyUG4xS01EVGV6c1FKLU1rSHdYSnJ6ZktkSlJoZ2tZTUhlR216YmgyUEhSUnY3V0gtd0JIdzY5bVhNTUVWVmF1MlhUSjEwenVzbXVRQkpWY3M?oc=5",
     "news_image": "",
     "news_source": "Nation Thailand",
-    "news_age": "107m ago",
+    "news_age": "109m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -41252,12 +41264,12 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.18,
-    "news_title": "Europeans join Abu Dhabi talks in bid to thwart Russian security demands - Financial Times",
-    "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUVnaVMxYXoyeHNoQ3pDcWVYbjZpUDBjMERYMFIyVk1Zb3lFSnBucmx6ckpvMEhaSnhjUU9MYTdNaEpMTjUwZk8yeFc5WXBPaDd2V196b1NtVkNxM3dHNzVTTUREYjhYNE9OeFNBSXd2VTZHVGx1WG9yQXBQUDRmeFNZei0?oc=5",
+    "news_score": 0.29,
+    "news_title": "US-led peace talks for Russia and Ukraine will look at security guarantees for both sides - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOVRvYUFQbS0za2RfNkk2T0xkYnVrcFVoNXZ3SzgwN2RpcTlMWDBha3lINTR1X0JSM0JkaldZMjB2SHFVYzJ2Mi1vcV9vamlQd1pOaWNtLV9aYjFlY1prMFh0ME1tZzdFa194dTJVSG1aU0c5bmZnU1BGWHdvbGhIakk1ekxVcjluRTZtQzJIQ19vSF91bHJsbVV4T1dWa1U?oc=5",
     "news_image": "",
-    "news_source": "Financial Times",
-    "news_age": "5h ago",
+    "news_source": "AP News",
+    "news_age": "2h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -42532,7 +42544,12 @@
     "news_source": "City of Toronto",
     "news_age": "14921h ago",
     "news_columns": [
-      "olympic",
+      "climate_index",
+      "temperature_anomaly",
+      "emissions_ranking",
+      "tech_index",
+      "market_cap",
+      "export_controls",
       "fifa_ranking",
       "fifa_w"
     ],
