@@ -1925,15 +1925,15 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 1.48,
+    "news_score": 1.47,
     "news_title": "Apostolic Journey to Argentina: Meeting with the world of work - The Holy See",
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYk1TNVdwdjMwLVJjWjdVLWFKVEhsTFdCcXhyWldndWowQ3lsM2J4SThybzV1WU1RNzQxYjNkUktqWndqalVwN29FTkVobS1PZUFRaTdCOXV0ZWZIcWFJUFp0TEpKaHlqdmFFQ190b2FNdkdIVmlfeWlUXzhaVUx1eWRySkZPUXZ1d0NYbUpXT05xME5yMkpsMVpTeVN5SFZwUTN1RmI2N2ZCcTdrQWc1Q3FSc1hyeEpFWXBoQlRaQ1hhTXNQeTRqWA?oc=5",
     "news_image": "",
     "news_source": "The Holy See",
-    "news_age": "65m ago",
+    "news_age": "67m ago",
     "news_columns": [
-      "religion",
-      "politics"
+      "politics",
+      "religion"
     ],
     "bottom50_wealth": null
   },
@@ -5166,8 +5166,8 @@
     "news_source": "Mercedes-AMG PETRONAS F1 Team",
     "news_age": "2h ago",
     "news_columns": [
-      "nascar",
-      "f1"
+      "f1",
+      "nascar"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -6937,12 +6937,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.76,
+    "news_score": 0.82,
     "news_title": "Norway say they've been pulled for Russia at World Juniors, but Canada still saying 'no way' - The Province",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXhOSXdvUWlHSHJJS3A5TzB1SUFGYVRPeGRfeFdJWVJ0V1FkNjNicG1MUG1IYzVTM0VrWF92VmdCZkx2bVN4dmxuejhiNFROdC15N0RCajduQkFjQU1nMEVpeXZzamZqakR4d094bHFTb3dFV01vTExjTHFvRmwxdVNtUFlrN0lJQkZBNDl5VGZ4U2kyODA2VHAwTndSSThUdzd1U3J3?oc=5",
     "news_image": "",
     "news_source": "The Province",
-    "news_age": "28m ago",
+    "news_age": "30m ago",
     "news_columns": [
       "hockey",
       "iihf"
@@ -8008,15 +8008,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.67,
+    "news_score": 0.69,
     "news_title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRlJEVDBTejg0VUNTOGFiekp4MFdyWVkxaWg3OFpBR0Q1QW1FTTNkU2t6YzllLTlhM0hxbFUzS3VuUzhOdi1vNURJOXBzZHI4eHZ0WURLcmljcTQ3ZEM4b2c1YVRPd3hoS3phLVVtbE5YcHA5MXExajJCQUl5R2VnOFZlSGNfbUxKNjlF?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
     "news_age": "2h ago",
     "news_columns": [
-      "tech",
-      "geopolitics"
+      "politics",
+      "tech"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10936,19 +10936,14 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.57,
+    "news_score": 0.74,
     "news_title": "Train crash kills seven, injures dozens near Egypt’s Cairo city - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVDQyempZTmxsVW9MZ1FJX1VfWFQ5TkNXZTJOVXFZRkd4Q0JXR1VZWWZwa1VtWGh4SkRReURQQ1B6NGZjNUVUTWh2eEV6S0pJc3lCZ2x0R2xUZVpJb1BFWmcxcG05eFJTeGppUXk4VjhVZzNzQ0RNWkN4NVhJbWxmSXU0VXE3UmtWR2RrTklUcVR4OHhZckxXWjJVb29pM25udFNZ0gGoAUFVX3lxTFBCOGI1QVAzX0hnWDR5MzdBbEJVRUZYQ29qQXRncjlWZXByWXhiaGtYclQxaFEzSTJHbEVBQklsQ1lnempNYTBodkh1M05JOF9CVEhFNVdsWjhqdTFtY2d4WEpMRGczaElNQkZIZElIdXJ2YlNDQ0s4RTJzTXZFRXcxTGFYYkVlZ3I5dU9JdVJUemVOSkR6UmhjUkFHajhYeUlVdDItRkU4aQ?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "103m ago",
+    "news_age": "105m ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "car_density"
+      "politics"
     ],
     "bottom50_wealth": null
   },
@@ -18127,7 +18122,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.41,
+    "news_score": 0.36,
     "news_title": "Eisenkot open to Netanyahu joining Israel’s next government - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWJndTBjVU90M3NvOURyOEE4V2NBeW5qbi1ONnF1S2ZpWjE1dE9QTEtnc2lfZmxCX0phZC1aWkw4WXhpNV95d0otelVhTkIxcEtQYTFleTVCaWkxWVNFWXZpU0p0cTdUZ0hMSGIzUHlIVGh6cjI2cnVncEMxM0xTTW5NY05ISndQNjYwR2VlOVJxWVlJWUsyaUxvQVl6WUVMSFU2aktoRzQ1QdIBrwFBVV95cUxQem95MVBFMy1naHV2QVZDMWJmZ25pZ0FVMTljSzFSaTlxN2F2RWJZcWFBMnozWXdLLTZIdzVHV05FaDN5T1B3djdRNElIQTVOYWFYanpPcmZzYVpuZkQzVlpZNV9MNi1EcFZTQ1VEQzMzVm9VRUdaNlZPbkRVbElGZTlVczJHdFMxNkNSekdnNENCQWJoNzVKdFlxQ0Rhank3X21jTVhSX245WTJYZjJz?oc=5",
     "news_image": "",
@@ -18569,7 +18564,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.58,
+    "news_score": 0.57,
     "news_title": "Juventus defender Gatti added to Italy squad for Nations League - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX19PVFU5dnNMeXRrckFLcUFNTHNKLXF0OHdmZHdHMnlGcXdCT1N2NkllbGxDb2hmaW5sSnpkN2pUSGVIaVFwZ3dwbjlfbDBRdnA2UWtqdVFRQ19IeXZfS09hckRtNWFhVzhnR3phVEluMHcyLWw4NnMzazNMZ3dKS0hhVWd6cDRnT3pMRQ?oc=5",
     "news_image": "",
@@ -19260,7 +19255,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.3,
+    "news_score": 0.39,
     "news_title": "Canada moves to 2-0 at women's hockey worlds with 9-0 win over Japan - CBC",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMjFKRm56dmVaaW43TVJmTTFCcm9Qd1Fxc3RscUZaX0F5ZGRYYzUxdDF3a1JXVzZsMkxKMEkwTld2WEZRemx3b2poQkZFcUVILVRFbkJmWE1xaEgyZzFzR2pFLTVFeVNoVVdPQlhSOTFYWFZFR01DVjA1TFpmbjdsaHZ3R2ZfZU1TNTJCR2ktVDY?oc=5",
     "news_image": "",
@@ -19447,12 +19442,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.65,
+    "news_score": 0.64,
     "news_title": "Arkansas basketball notebook: Jordan Smith goes back to Washington - Whole Hog Sports",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYmlOd0szZkRZMGpPam1qb0x0RXdWNmRoSkU2a0huLVFhaEsxWkh5U2lDck1OLWRKbng0TU1vLVoyM2tQRlAwWDdreTV0dGp2NnFIdW1nc2Z5N2lnTm81d1ROMWtzQ2ZIMEptZ0RMU19lbE1oOFRnY1VIekNiRUdEbFU0bXhRamhKUF9OZXNuaU5fdktfeEVVb3hick9nZWdCVDl1MjZZVDNQX0VIbU1BQnJzQUk?oc=5",
     "news_image": "",
     "news_source": "Whole Hog Sports",
-    "news_age": "101m ago",
+    "news_age": "103m ago",
     "news_columns": [
       "basket",
       "olympic"
@@ -29503,12 +29498,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.7,
+    "news_score": 0.71,
     "news_title": "Norway say they've been pulled for Russia at World Juniors, but Canada still saying 'no way' - The Province",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXhOSXdvUWlHSHJJS3A5TzB1SUFGYVRPeGRfeFdJWVJ0V1FkNjNicG1MUG1IYzVTM0VrWF92VmdCZkx2bVN4dmxuejhiNFROdC15N0RCajduQkFjQU1nMEVpeXZzamZqakR4d094bHFTb3dFV01vTExjTHFvRmwxdVNtUFlrN0lJQkZBNDl5VGZ4U2kyODA2VHAwTndSSThUdzd1U3J3?oc=5",
     "news_image": "",
     "news_source": "The Province",
-    "news_age": "28m ago",
+    "news_age": "30m ago",
     "news_columns": [
       "hockey",
       "iihf"
@@ -33129,12 +33124,12 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.7,
+    "news_score": 0.71,
     "news_title": "Norway say they've been pulled for Russia at World Juniors, but Canada still saying 'no way' - The Province",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXhOSXdvUWlHSHJJS3A5TzB1SUFGYVRPeGRfeFdJWVJ0V1FkNjNicG1MUG1IYzVTM0VrWF92VmdCZkx2bVN4dmxuejhiNFROdC15N0RCajduQkFjQU1nMEVpeXZzamZqakR4d094bHFTb3dFV01vTExjTHFvRmwxdVNtUFlrN0lJQkZBNDl5VGZ4U2kyODA2VHAwTndSSThUdzd1U3J3?oc=5",
     "news_image": "",
     "news_source": "The Province",
-    "news_age": "28m ago",
+    "news_age": "30m ago",
     "news_columns": [
       "hockey",
       "iihf"
@@ -35656,7 +35651,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdFp4ZUd2X0stOVYxblF3NTBnZDgyR3BpOGVUZTlfNEY0MVhpbFI2QWQyUE4tUTlYYjVPOVpNckZ0RU9zZUR3Skg1ZWdhZl9UczhjN2FobXVsSWd1ZXY1UHcxOVUxN0I1ZU1JVzluOVlfakFHU0IzdUZ1ZFFZWW1LRThsaW5LSm5HZk51NU9wWTZVWTJSTUNMSzUtaFp1cE5PUUZHYg?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "22m ago",
+    "news_age": "24m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -42541,10 +42536,10 @@
     "news_columns": [
       "nfl",
       "football",
+      "politics",
       "tech",
-      "geopolitics",
-      "nascar",
-      "f1"
+      "f1",
+      "nascar"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -42747,10 +42742,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZXBvT0ZhMHZPdk1rbTJiZ1FtQlJJWEZMZE1CU2h6dlNBNTRZa2hsWFIzMG1mMU9qYTNIV1lTUnh0Ni03c2lOVDg1dDhleUliSmpzcnZmdlhaZ0dfWTlyYlRtOFo0dVYwdVpWV2NnMGxLZWZpMlJGOXJLMHF2SjNRVFoxZ1JlRjBtWEliSTBBcVVKeTU1dW9NbWFFUHdrMDhxNXc5NENMdzl5Q0l3RDNxNGJ5Q0JzbUdKWWc?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "107m ago",
+    "news_age": "109m ago",
     "news_columns": [
-      "religion",
-      "politics"
+      "politics",
+      "religion"
     ],
     "bottom50_wealth": null
   },
