@@ -1925,16 +1925,19 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 1.95,
+    "news_score": 1.39,
     "news_title": "FIP World Cup 2026 recap: Spain double up to beat Argentina to both titles - Red Bull",
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50aW9WbTNCcDBOandlZ2ZHczNxWkk1cFc4bkMxSHh1ZkNteWxOWUNwa3FCT3gxRURLRVJjcjVDQm45NlJsM0RraThKYlp3cnZ5S1VzS3VMNVV3c1YyUDZkSlpnWlFlMy1H?oc=5",
     "news_image": "",
     "news_source": "Red Bull",
-    "news_age": "22m ago",
+    "news_age": "24m ago",
     "news_columns": [
-      "fifa_w",
       "fifa_ranking",
-      "olympic"
+      "fifa_w",
+      "olympic",
+      "basket",
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": null
   },
@@ -2551,7 +2554,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.23,
+    "news_score": 0.22,
     "news_title": "Marnus Labuschagne dropped! Australia chief selector makes big announcement - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ09mQXE3WS1EaEtRZmZDeVEyaTFhenFaNmdhcG5CaGlmNHVVRnd4RHJSYmx2amxSbkNvRGdsSGtlX3M5TUZHWnhpS1dQMDlHVW5VRjhTR1dBRmlYc09JMGdkOEZYUk12VVljcUVWeTR3eXdjc05lRnMteEYxTmNhd1A2cklVUGdEYjFxRVJ6SVVwX1pUdFE?oc=5",
     "news_image": "",
@@ -8007,14 +8010,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.87,
+    "news_score": 0.86,
     "news_title": "EXPLAINER - Why is the world’s top chipmaker caught in a US-China spy row? - Anadolu Ajansı",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZndJdVhlS3lfM2puRl9HTVQzbVJ5WVY3cFltRktuRW01V050Z0VfeHZoaVhmalk3b2JPNThKSXJCMUJlM1RycDI0eW1PWjZhS18zTGduQm1TMGVDWV9sMDMwdkFicVdCdzZzd2swX3hhbU9xNUxnMVdkVmM5c29CclMtam9KNF9xTHIycmFoUllEbFJEdnROWDBVSS1BQWhiUmNtTUxnQnVtZ2hTVmJDM2V2ejIyTzJ6Q09IYXptWk0?oc=5",
     "news_image": "",
     "news_source": "Anadolu Ajansı",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "basket"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10935,7 +10939,7 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.59,
+    "news_score": 0.58,
     "news_title": "Egypt annual core inflation falls to 13.1% in October: CBE - Economy - Business - Ahram Online",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaHhrYnE5MExPNW0zVGUtRlhPMktnQXRVdmV0WTFWdFk0S05PNU9VYXNXWE9FeDVDazZZRE40dHVZbnJPa3BmWGV1a1Y2SHN1WTFObGE1M0VIeTUzbHpBTXc1X0lXOW5ISG5FVThVV3dMVXVJelM0d2xDdk5kcXR1MjI5blBMQ0xQTXJiNkpDS3ZfWFBEcy1neDl5cjJNTWZfTjdIYnRPSG1wcWtLT2REQkEweGlWSVJ4WFhkMG12TjJuQjQ?oc=5",
     "news_image": "",
@@ -13025,12 +13029,12 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.58,
+    "news_score": 0.59,
     "news_title": "Phillies news: Dave Dombrowski, Kyle Schwarber, Ty France - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQallhcWNtdFRSNXJXVU90a0F2WlB3Nll6YWw2NzJYdkJ4X2YxcDU0eFFORVpFRXVVOG5FNnlDejZvazNQY3duRWhkX08wVVAyUTczLVdUTnlFcUJfbjhLTWFYU0FhSWJPcTFFaXlBXzRfYkpmUnlpMlVQTDRuak5POVZkWGk4ai1SMGN3?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -14069,8 +14073,8 @@
     "news_source": "Vietnam.vn",
     "news_age": "10h ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -14528,7 +14532,7 @@
     "refugees_rank": null,
     "union_rate": 70.0,
     "union_rate_rank": null,
-    "news_score": 0.36,
+    "news_score": 0.0,
     "news_title": "Death toll from migrant boat found with bodies on board south of Greece increases to 14 - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQjh1WlI3MUtnZGRPaXRiM2dFcXhfcllPbmNXRGhVOE5VZnh5YmZnY1V3YnpuTXlqZXhaaVQxUFlDcmdXZC0tWmw4dG1NVW50V3VuVGp4bGpETF9EWXVGTEJ5bUlVZUFPOFZGN2hLbWl1MFJuY0lRT0VDU3F1MGdWblB2NUFiMHlW?oc=5",
     "news_image": "",
@@ -17393,14 +17397,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.27,
+    "news_score": 1.18,
     "news_title": "Live Updates: Trump says he sees no reason to escalate war with Iran, touts his long-term goals in the conflict - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zN0FDMkRwcDVyZGFpV0dvRnhidUVyU1hrc2pKQzJZMmlLZDF1bHZ0dzBtMDJLOXc5T0xNYmRuS2Q4eU1QQmFqaHJ1cVg0VGkxcWN3dEZLVlo1UlQ0ckZCaW52b0lHQzVZN2N6UElySjhIWDdXWVh5T24xcmh4Zw?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "36m ago",
+    "news_age": "38m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -18128,7 +18133,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2VhQmpKRndHUnhIQVFZUXJWakczOGpMeUU1Qi1YczlCeGRGVjF4UWs2eUNtWFMwM1hLcDlvX3RiVHNlMjlWaGJYMmhLQU9JVTFVZzc0TWl4MXJSMTJwblZuZ195VXlIUDFmMldfMlN1dm9BaWl3UTQydldQTE9Ld2hWbVpHaURDQ29fdG1vSldrSGdYb09xNWEteWNIOU9SeGc?oc=5",
     "news_image": "",
     "news_source": "Middle East Eye",
-    "news_age": "30m ago",
+    "news_age": "32m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -18562,7 +18567,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.57,
+    "news_score": 0.59,
     "news_title": "ESLC: Italy earns last qualification spot for 2027 Sixes Championships - World Lacrosse",
     "news_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FdU5LcWZSWGR4X21VbU5EY0FXckhPMkxBTnJHdHk0azBNQzdZc3RLbmN3Nlp5OFc1WHpoaE5WM1hUOERIS3JiWEU4VDQ4VmY1eWxkUm5pdWg?oc=5",
     "news_image": "",
@@ -19435,7 +19440,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.1,
+    "news_score": 0.09,
     "news_title": "Jordan Love totals four touchdowns in Week 9 - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnF4cmYtU0NNV3FGMXI3M2dCdlNYcnVKOXkzakE3LWJsTF9QUVRtdFRITE0yS04ySDVMQnAyZDN6SjZFQzhfdTJPUVMtWmIzUXdiSlprem9ESkhGV3BjelktNmczcWRjNkdWcHRfaklvWF9SN0MycHpKa1lOZEJnMW1wRlVpaDVHNldR?oc=5",
     "news_image": "",
@@ -28458,12 +28463,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 1.62,
+    "news_score": 1.61,
     "news_title": "FG Secures $200M Loan From World Bank To Boost Fish Production in Nigeria - Legit.ng",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRjRFTHpIQnFVUmo5TnZ5MHd2ZU05TS0xNTFka2pOZU9mUzRZUnhPcU4ySVlLSkI1dklDOXo3YVAzaXR2dWlLNlIwVkUwMU9RNlBodzFPUHVDaEdtdW1yX0tVMzFTa1VPN0xBWnV1SHlsWEJEME53aWRtZW9RSTBJdWZvU0tJRzlxSG51WUF5WnVObG1sUnFjcF8yRzhHOG55NGUxdGVpYWxuUE1XbEtlMmtoLUhMZ3dI?oc=5",
     "news_image": "",
     "news_source": "Legit.ng",
-    "news_age": "37m ago",
+    "news_age": "39m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -29677,7 +29682,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONXVUVWNpeHA2TUZTVERhTVhyc0M3X3puaEZfc2tLajJfYUp5dVowZDNudEtWRGNvWVJKZFBvZDJDblFOeS1VRWpvVjlYYkFuMVFpNXU5Szc1VVJsdEN3MGh3Snlwbk53SkVaWVNRdldLeTlEdkcyZmE1U0I1djVBRGJ3?oc=5",
     "news_image": "",
     "news_source": "Arabian Business",
-    "news_age": "62m ago",
+    "news_age": "64m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -33119,7 +33124,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.39,
+    "news_score": 0.37,
     "news_title": "Ukraine Peace Talks Resume This Week in Abu Dhabi - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOE9NUS1DRlJBNF9FaU1BcU5LNjFfX2I2eHRaRkYwOXdLWmdyLU5aUjdLeVJ1WV9nTUQtYVhXNkFfTjQ5dk5hdzJneTJxS0FmNHZKODR0cHpiUTVBanU5S0JGbk5ZTXBjaWNXWGFXN2hRRy13UGZEUWZkUGR4SEl6ODduQXNjQQ?oc=5",
     "news_image": "",
@@ -36713,16 +36718,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.92,
+    "news_score": 1.37,
     "news_title": "FIP World Cup 2026 recap: Spain double up to beat Argentina to both titles - Red Bull",
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50aW9WbTNCcDBOandlZ2ZHczNxWkk1cFc4bkMxSHh1ZkNteWxOWUNwa3FCT3gxRURLRVJjcjVDQm45NlJsM0RraThKYlp3cnZ5S1VzS3VMNVV3c1YyUDZkSlpnWlFlMy1H?oc=5",
     "news_image": "",
     "news_source": "Red Bull",
-    "news_age": "22m ago",
+    "news_age": "24m ago",
     "news_columns": [
-      "fifa_w",
       "fifa_ranking",
-      "olympic"
+      "fifa_w",
+      "olympic",
+      "basket",
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5,
@@ -41246,7 +41254,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.39,
+    "news_score": 0.37,
     "news_title": "Ukraine Peace Talks Resume This Week in Abu Dhabi - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOE9NUS1DRlJBNF9FaU1BcU5LNjFfX2I2eHRaRkYwOXdLWmdyLU5aUjdLeVJ1WV9nTUQtYVhXNkFfTjQ5dk5hdzJneTJxS0FmNHZKODR0cHpiUTVBanU5S0JGbk5ZTXBjaWNXWGFXN2hRRy13UGZEUWZkUGR4SEl6ODduQXNjQQ?oc=5",
     "news_image": "",
@@ -42526,9 +42534,10 @@
     "news_source": "City of Toronto",
     "news_age": "14923h ago",
     "news_columns": [
-      "olympic",
       "fifa_ranking",
-      "basket"
+      "fifa_w",
+      "basket",
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
