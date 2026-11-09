@@ -1925,19 +1925,17 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.85,
-    "news_title": "Pope Leo delivers veiled rebuke of austerity measures in predecessor’s homeland - The Washington Post",
-    "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObGZQb2t3dmtrRk9rN2l1TWhaV1E0NWdsUFJNbzRCb3RPSWsxRnN5T0V5X2FCM0ZpWEtvd1NhcTVmTVYtWmZvQlNBbFpmMWV1VHR0STRzcHBEeHRlVkRQOEJIc0h6QmZWSndTLVh0M0hWYmFiOF9jYkpQNWVuS194S0tOQUNNR2s5VS00dUsydFh3amF2MHg1MEpURFdLWHNoNE1XejlYZUtXNnNxYUE?oc=5",
+    "news_score": 0.71,
+    "news_title": "Roma will not release Molina for Argentina duty despite World Cup ban being reduced - Yahoo Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa19fMHdMOGNrRjBvaTVpQjFtWVk2dG5xRVNxQjZQVkRtajhjN010X0w1RkNfNjlJa09WZDJIT0FCMTBZcTRDQmMxMkdBN2pGWWRfNkMxUGNUamdzX1VqZGhjUlRNbXZOemNRdHZodkx5OXE2MjBabE81d3VkcnBqaDNpRndNTExWRmc?oc=5",
     "news_image": "",
-    "news_source": "The Washington Post",
-    "news_age": "85m ago",
+    "news_source": "Yahoo Sports",
+    "news_age": "3h ago",
     "news_columns": [
-      "democracy",
-      "approval",
-      "press",
-      "election_days",
-      "car_density",
-      "gas_price"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -5165,17 +5163,16 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.79,
     "news_title": "Richard Wendel celebrates call-up, unity key for Brazil at U17 World Cup - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcGRob2N4OVY1X1VsWmxuZHlHR0VYZkJsMV92UkJGRkFCeEEzeldRYWtLajJ3c2JIRV93MEZ2aWtKVUN2amkxVUZub05KS0s4ekRpQTBERDhBclhiQzZ0OXZURktfR05fNWtPOS1uQjI4UEs1TTdpc2NacXdmd1hkeHkwUmRHUGdqSUNJdXln?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "112m ago",
+    "news_age": "114m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -6945,12 +6942,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.94,
+    "news_score": 0.93,
     "news_title": "Tighter monetary policy now among top risks to Canada’s economy, say business leaders - Financial Post",
     "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIR1o5VjVhSThZNGE2MklXZmxCVXN5cWxtTHRjb3VSUzV6bHhuMEI2TU94ZE9qTUw0WVZBSEtjbjZHYmIyZVJUY01PYjdzRE1IX2JxYUdnNzlOTmZSVm1Hbnh3V3pBY2ZXb2VsTTFnbnNGOGg4amhEXw?oc=5",
     "news_image": "",
     "news_source": "Financial Post",
-    "news_age": "45m ago",
+    "news_age": "47m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -8027,7 +8024,8 @@
     "news_source": "The Economist",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -9079,11 +9077,11 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 128,
     "fifa_w_rank": 69,
-    "news_score": 0.4,
-    "news_title": "Cuba Highlights Scope of the New Science Law - teleSUR English",
-    "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOWVLRVRleHotdF90SGoxako0Qk1mclllU3pDV0tCcXpURGNVNDR1OW5OTl9nWWVVblc1cmhSd1h2XzRhTTZfbVdSc0xvWTBEQTJJLVpITlA0ZDZ4SDBCVURpUVFuSVhpUEhDcW5KLXRnMGhoSjBmQnNyaF9YMWxucFJR?oc=5",
+    "news_score": 0.5,
+    "news_title": "Cuba@Venezuela - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
+    "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGlTeFAyeHZiXzRrbEgwY0N4VmhUb3dfUnRmeEhGSWhnbXBVTDc1VVBLdnhEREd0em5yTkYzTWs3Z05LWWJ4Qkw5eXl5RVJVS2R3QWRkcHh0UUVPMU1VM1M5cHBhRXVxWmNBWlgzbDNlSG9DbVg5TDlMOVJUN3RUVkFNVy1ES2NWNnVXU3JCR0FJaVpwMm9BZnZKaml3dXdjY3ZXM2FGbEY?oc=5",
     "news_image": "",
-    "news_source": "teleSUR English",
+    "news_source": "World Baseball Softball Confederation (WBSC)",
     "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
@@ -9563,7 +9561,7 @@
     "refugees_rank": null,
     "union_rate": 77.5,
     "union_rate_rank": null,
-    "news_score": 0.56,
+    "news_score": 0.72,
     "news_title": "Bubenik Represents Czech Republic At U23 Baseball World Cup - UNC Wilmington Athletics",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUQyRFhnUWtGLU5zaHlTS2lOMFJNSVFxRXJPck0tdUxlMUNfcGlfcVBOU2tIdnd3YTdPQXQxZE5NRW5UVlhfTHlDY2paSUlWeWNmdUVaTGtmTWY1WjhmNlhWVTZnVk5hSUNfeVJpZVNRblRpak1BZFpISlowMGxncEdRZTVGOGlQTms4TTk1ZlNlWW1MbGF3dWU5NF9QdE00cVoyZA?oc=5",
     "news_image": "",
@@ -9573,8 +9571,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "election_title": "Czech Senate"
   },
@@ -13036,14 +13033,17 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.01,
+    "news_score": 0.75,
     "news_title": "France, U.S. Suspect Iran Was Behind Cyberattack on European Fridges - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZU5pb3psb2FBQVpFOHg3c2xOb25DQzBmMGpmb2ZxMHBpRUF5MXhQZ2Y1Tmw4UXhxLVNxTnBmc05TelMxUURxUlNSZjFib2pHTGZydk9RSzdtZ18tdi1MaGJneWRRUFY5YTc0WlZuSjBnWHBmM084Q3hmZndYclVqSnd6U2ZEbnpPcWVscmNLMnpIa3BRc2xfX1pvVkhxb1l2NnpxZWx0X3hOMEFJ?oc=5",
     "news_image": "",
     "news_source": "WSJ",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13565,19 +13565,19 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.38,
-    "news_title": "College Football Power Rankings: Notre Dame climbs to No. 2 amid shakeup after wild Week 10 - CBS Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbE1TSGdWUDRjc2l5VWlCRWs5S050d25CUGRUT0lZVW9BU2lOckl3bDMzVlVBdXVhTmZyYkRTc05jUWxCUDFXVnduV1hyLUg3QzFNb3BmZ0M1Nm83eHF4RjVqd0hsRk5MNndQa3hjYTByWE5BUGNHbjBXLVFyeTFyZTZEQS01TmI4M1RTMk5JelNVTVNoV3ZfcFdiUlNEeHFvYnJMRXpzSU5adw?oc=5",
+    "news_score": 0.32,
+    "news_title": "2026 College Football Rankings: Georgia Reclaims No. 1 As Notre Dame Beats Miami - FOX Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONjlCM1JtMXB1WjgzaEN2ZDBKTE83Smhrd1d6aDhfcHlHekdhaklkRjZXbFc1OXBTTFlfZkw5N1ZIR3hPUkUyZlR2c2xzMEdQdWpkVHJNNWRPRmQ1SUNUWTVJR1F4WDViaTRUWHN5eE9SZTA4TTNuR1gwYUNQYUowS19LWnp5YnhDM1ZFdEtVYzNaWjFlUS14VEtXREZxV0JRYm1IaXZ6Z3hrSlp6dlpGWXNEQ0vSAbQBQVVfeXFMTnRyVXk5THAwa2dkZEVQbzNqcFZZRjhUbkdfWm1uS0ZRWXlYcG41RFJmSkxwQ1NfWUxQMG9sSXZpLTFDemdQYWpubGJCRHJsamFFbDFXRTNMZ3h6dnNaV2FocmsyeUFyVXVSS1NicVVqT054Z3Awa0R3XzBaRDJxYjV0dmwtWkI3bXRrV1VveGpFSTJEZUpmSlVXUmJaVTNpcUlDZEFDc1h0UWs4bGM1YU11YTBt?oc=5",
     "news_image": "",
-    "news_source": "CBS Sports",
-    "news_age": "3h ago",
+    "news_source": "FOX Sports",
+    "news_age": "6h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
       "olympic",
       "basket",
-      "car_density",
-      "gas_price"
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": null
   },
@@ -15886,7 +15886,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10Z1VRYnpIenhtdlE0eVB2NFpFU1pILXhTbXRJcTExRm5oSWpiZjNuZzdYNkdvMFdEOWJjM3J3TWxwTThiRzI1WXg4TVFDNXd3a3FhcmFsaE9YRDdLSm9ULUlrTjgxY3A0UVQ4RFFxY0xpZ2JDT1hoWnFQVGtmTlk?oc=5",
     "news_image": "",
     "news_source": "Quantum Zeitgeist",
-    "news_age": "11h ago",
+    "news_age": "12h ago",
     "news_columns": [
       "edu",
       "literacy",
@@ -16826,14 +16826,19 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.0,
-    "news_title": "EU Ambassador Paquet: India-EU FTA 'Around the Corner', Focus on Trade, Tech & Science - Lokmat Times",
-    "news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQTFhRjVrQmwycmhUZDV5b29CYzZWYlEzWXItUDRnMUpFNVFwcUpFNmhhU0ZtX1BIMDE3ZG5Kam5pa1dnZDc3Z0FENV9tQ3BIanRlYW1zN0dvZnJfQzF4a1ljclNYQ3dFclJ4YkVhdU9FNzRnUzhyMGhrSUJ5MFVXY1BadklwRzcwQWtkNFJLRENuU1hJcUJTZkFKeGFhZm1VX3BKU1M5bkpXVWpFR3VfQkI4RlkwVzRib1h1azg4cDhweFFpcmNOR3dpVdIB0AFBVV95cUxQYTloWWM0SmhtcjlQQnBHcjZ4YTJjOHctY05DcFJrc1h2NXptWmttaWtzNlVwM2Nlc3l0Rkt5c3Zab3g2VkhpYWh0TDJRdktuWmU3Q1dTUnZTU0ZqR016ZTF1YURRSU5ieThadzhXRkw3dUgyazQtY1h5VGRjQ2FJdVgxN0hNajI3QXZCRV9KeEVPQ1JnUkxSejloRERUa0RUQ2wtcVl5akRsTDJzaDk4SWZ1TmZ3REFkYlBHRDZxRTItQkpWNEI2Z21MSGlnWlNX?oc=5",
+    "news_score": 0.06,
+    "news_title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution - NPR",
+    "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUWVQaDJQN0FIZ3p5TUwzM0lmTS15bVUtaTBqOGlDenBqMlpqbFhuYXlpVENTc1QxbHZxUVlOZktFcW91Y3lXc3VyRFFLSl8wV21oa2xyN1dmV19DcEl4N29Id1E3YVlTRTJkTkVmTEI0TkcxSHlZRGZRQ0dfZmdWVGhrTkUyWjczZ0VOdTcxbnAwWTNLM0VBb3NEbWRveXJxTjR0azdFOTAzS1dVRWh3QUxqMWNFR3NFMHJmZEFORDE?oc=5",
     "news_image": "",
-    "news_source": "Lokmat Times",
-    "news_age": "67h ago",
+    "news_source": "NPR",
+    "news_age": "5h ago",
     "news_columns": [
-      "olympic"
+      "pm25",
+      "co2",
+      "health",
+      "life_expectancy",
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17396,14 +17401,17 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.15,
+    "news_score": 0.82,
     "news_title": "France, U.S. Suspect Iran Was Behind Cyberattack on European Fridges - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZU5pb3psb2FBQVpFOHg3c2xOb25DQzBmMGpmb2ZxMHBpRUF5MXhQZ2Y1Tmw4UXhxLVNxTnBmc05TelMxUURxUlNSZjFib2pHTGZydk9RSzdtZ18tdi1MaGJneWRRUFY5YTc0WlZuSjBnWHBmM084Q3hmZndYclVqSnd6U2ZEbnpPcWVscmNLMnpIa3BRc2xfX1pvVkhxb1l2NnpxZWx0X3hOMEFJ?oc=5",
     "news_image": "",
     "news_source": "WSJ",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves"
     ],
     "bottom50_wealth": null
   },
@@ -19259,7 +19267,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.38,
     "news_title": "Vietnam and Japan strengthen economic ties and cooperation in science and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcEFucnZ3RUVCOFRydGFqTWdGdTZxdGh3ZkNyVmdKRzRTRXFIbU9oTnFQcF9qSVlnMklpSXZ2RndWZVZTUUxPOGxXakViTHFGSkkzWDlxS0pRTjR3SmJZRi1IRGRpRGtLNGNmUWVJU1dmMzUyNlk3ZC1tczJVLXU1X01qQkxMLVJvRXMwX0NhUGFyUHdCSklQZkxfVkRNMTQ?oc=5",
     "news_image": "",
@@ -19448,7 +19456,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.46,
+    "news_score": 0.44,
     "news_title": "Jordan Love's MVP case surges - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQalBySmpodUd4c3NhSVE3ZjhWT0FUVk9VbThFVDVXWjByLTJJSDhPcmVNdG4yWDgwR09ubHpTNHhKSWxXczIzLXhDTmtUXzRndGh2eGZtUk5INTBjR25FakNnYnNGTHVlRnBUemtQRGFMSXVVSUhtZHZObnd4bllJakhEZw?oc=5",
     "news_image": "",
@@ -33143,14 +33151,19 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.98,
+    "news_score": 0.74,
     "news_title": "EA on TVP World: Trump Sells Out Kyiv on Eve of Ukraine-Russia Talks - EA WorldView",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYlFHZzc5dXFJMkx1SEZld0IwaWZwYy10UjVncnR3RzluX0xWaWF1T3FGUmRuT01kNzVLTjBhUFlYS2E1YnJqX2ZYQW1zUmRvSm5QSEVXUlUwZ2JUUU90Vk1ueXZlNUxNTVFxV2FDVVI3dldHcGFsQlVpNWlNcmVRSVFzX09GVVZxeTUxYg?oc=5",
     "news_image": "",
     "news_source": "EA WorldView",
-    "news_age": "71m ago",
+    "news_age": "73m ago",
     "news_columns": [
-      "fifa_ranking"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "car_density"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -39107,19 +39120,16 @@
     "refugees_rank": null,
     "union_rate": 75.8,
     "union_rate_rank": null,
-    "news_score": 0.51,
+    "news_score": 0.66,
     "news_title": "Three LSU Women's Golfers Competing In World University Championships In Thailand - LSUsports.net",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGVtZ3doQjU2ZVhQX1A0OExXTHpXb3lDbDdaZXNTdWVvRl9fTUlCcEZnUm1DVUNkRXljVFZra0NfcEhpbmhmc2VIWmZEUzdMLWs5RWdkNHF1cEpEV1BxTzVNTEJTdklCQkxqY3AtLXJ3VHpEQWRvempHNURZSC03VWpkajF1NE00ME9CclhmQnhVR3NGTzM5Q3dxSXo1cURiRjNVZVUxZHdaOE9hLUx3cGdNVWUxT2tk?oc=5",
     "news_image": "",
     "news_source": "LSUsports.net",
     "news_age": "2h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "edu"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -41266,14 +41276,19 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.98,
+    "news_score": 0.74,
     "news_title": "EA on TVP World: Trump Sells Out Kyiv on Eve of Ukraine-Russia Talks - EA WorldView",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYlFHZzc5dXFJMkx1SEZld0IwaWZwYy10UjVncnR3RzluX0xWaWF1T3FGUmRuT01kNzVLTjBhUFlYS2E1YnJqX2ZYQW1zUmRvSm5QSEVXUlUwZ2JUUU90Vk1ueXZlNUxNTVFxV2FDVVI3dldHcGFsQlVpNWlNcmVRSVFzX09GVVZxeTUxYg?oc=5",
     "news_image": "",
     "news_source": "EA WorldView",
-    "news_age": "71m ago",
+    "news_age": "73m ago",
     "news_columns": [
-      "fifa_ranking"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "car_density"
     ],
     "bottom50_wealth": null
   },
@@ -42542,9 +42557,8 @@
     "news_age": "14930h ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic",
       "fifa_w",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43460,12 +43474,12 @@
     "union_rate": 56.6,
     "union_rate_rank": null,
     "fifa_w_rank": 40,
-    "news_score": 0.0,
+    "news_score": 0.13,
     "news_title": "Cuba@Venezuela - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGlTeFAyeHZiXzRrbEgwY0N4VmhUb3dfUnRmeEhGSWhnbXBVTDc1VVBLdnhEREd0em5yTkYzTWs3Z05LWWJ4Qkw5eXl5RVJVS2R3QWRkcHh0UUVPMU1VM1M5cHBhRXVxWmNBWlgzbDNlSG9DbVg5TDlMOVJUN3RUVkFNVy1ES2NWNnVXU3JCR0FJaVpwMm9BZnZKaml3dXdjY3ZXM2FGbEY?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "100m ago",
+    "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
