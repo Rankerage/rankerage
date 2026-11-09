@@ -2552,19 +2552,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.36,
+    "news_score": 0.35,
     "news_title": "Reece Walsh hat-trick drives Australia past Samoa and into Rugby League World Cup final - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUDV0U1RISk1FazJzcTNzbGFHZFBZRnRZeDJodlFuVVhaZTk2YnVYaE9fRkNVQ0FScUh6Y21JR0N4dVBocm9XMERDNFk0emxJYktsc3FnZkdrVlZGLTE4TUs4eFRvU1Nhek1zRkt6NF9RVVVxcllLazZaRkp4QkRWbWRKN05KYXdUZkhfS09ERW5iSEw5Ykp2d2g0aXlMLW5WdmJZZ0QwYXNFUXV6emFzNlZFcVhGUS1ySVlPVk9uWXo?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
     "news_age": "5h ago",
     "news_columns": [
-      "climate_index",
-      "temp_anomaly",
-      "co2_ppm",
-      "fifa_ranking",
-      "nfl_standings",
-      "premier_league"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -6944,7 +6940,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPME5uUi1kVUYzS0drcmlvZ2pXRzZUNlpGWFJtUmU5SFVuS2JNb3dIUy1NZXFXaGVlajNhMFNYSWhWNjRRdkZuTzd6dmd0b2tkbTVjSnRBR0tjcC1qZjVPV1htelBxeWZHTHF6bzlJSm5ZUTZFVlVvYXYzdUFiUi1rTUVXa0hKSEgzU0VFTEZfUGt3bTVjY1RtZ0FxN3BfMnF0d01hMGFwSl9xWVE?oc=5",
     "news_image": "",
     "news_source": "CBC",
-    "news_age": "13h ago",
+    "news_age": "14h ago",
     "news_columns": [
       "gender",
       "gender_gap",
@@ -8012,16 +8008,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.3,
+    "news_score": 0.28,
     "news_title": "China Producer Inflation Accelerates to Over Four-Year High - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcm1tR2Voci0zUnpsNlVhbzdXQ19DNDB3anhvdU9HZGRtYjE0akY0b0VHZi0xUndnYTkxOExkOHUyTmxHNnJMZzFldjRDRXFxNDE1S2ZZX014aWhxdFFqR1ExbGFEV0FDNHBuMElPOVNwZjYwY20ydlJna2hoN3N5OTJEbGRJbmxwOXZFZWdzMjd6UklTZTRabVBiNkE?oc=5",
     "news_image": "",
     "news_source": "WSJ",
     "news_age": "5h ago",
     "news_columns": [
-      "market_index",
-      "tech_sector",
-      "volatility"
+      "fifa_ranking",
+      "basket"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13032,7 +13027,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.46,
+    "news_score": 0.32,
     "news_title": "'Burning': life under the world's dirtiest skies - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHZKVHFIcWdwRVNYZXJtTnF4c3lVTkFkdjZvLTZZdVlHcUN4NjUtVWg4RkIyODhfdnR3WnRLX2x4MTZkTWF0RlAxbm9ENWp5NFVDWURPZzh6aXYzc1pUcVVXWFdYM2lSejdndjc1REhZclBGTjRWa0wzSU5fVEpXVVlSU2tjWnR2RnhBeXNfVWZKVEFMNDdV?oc=5",
     "news_image": "",
@@ -15885,7 +15880,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10Z1VRYnpIenhtdlE0eVB2NFpFU1pILXhTbXRJcTExRm5oSWpiZjNuZzdYNkdvMFdEOWJjM3J3TWxwTThiRzI1WXg4TVFDNXd3a3FhcmFsaE9YRDdLSm9ULUlrTjgxY3A0UVQ4RFFxY0xpZ2JDT1hoWnFQVGtmTlk?oc=5",
     "news_image": "",
     "news_source": "Quantum Zeitgeist",
-    "news_age": "60m ago",
+    "news_age": "62m ago",
     "news_columns": [
       "edu",
       "literacy",
@@ -17400,7 +17395,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.19,
+    "news_score": 0.18,
     "news_title": "Crude Oil Price Falls As Trump Says New Iran Attacks 'Unlikely' - News18",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONi1jVzg2a2FyWG9GQ3pPYWlYOVhDcFlrNEpOVm1CMGJSNk9ZSHp6VThTNndLTW5GaXhTc01MX21oLW5aMlNLS18yT3NhZ2FkRGkyNkF3ZVItb004UzRfcV9aYkNkMjhEc19OQ0NOaUdRU0FSdVlMUXlLTXZlVkw2R2VWVnZlN0UtOU00SkI1TGVCQ21reW1jbnNsZGtVWEktUXpyaGNYTGhDSl9xQ2g3endONlVQcll4YnpEQtIBwgFBVV95cUxNVWNGRl9YQ25Ma05qUDdhTXpreGFaZ3lFZ2NpbUF0S0NHVzBJaWhvbEZuVXJWc1JsVjZKWU5lTTJaWU5OdnNRSzdwbnNpejRXWUhWdVFKU2tub2dHQXYwd0ktaVUwbVJLUmJ5S0RmdjhyYnVGdUM2UnhjTE1YWnV4TlV4T1dsMUluSzJNZFppUEJ0ZnV5X2cxb3BkUjdfcFRJNFBvdEs1VTZMbmZFWlZsMHVyWjNDZVZuYmRWYWFiSmlYZw?oc=5",
     "news_image": "",
@@ -18584,8 +18579,7 @@
     "news_age": "14h ago",
     "news_columns": [
       "fifa_ranking",
-      "nfl_standings",
-      "premier_league"
+      "olympic"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -19266,14 +19260,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.81,
+    "news_score": 1.12,
     "news_title": "‘Burning’: life under the world’s dirtiest skies - The Japan Times",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWjhla09odWR6RU9nM0hycjBzN3ktazhBdVZvYUlhOU10M1JoQ3FVS0FPWmxvUEtoTXdQSENFY0tWZm9wTnA5UndHRGJ1R1pIN1ZmSEhsRWw2UVlxa0xCeVlzc1lGb1JJQW9fX0FxeDZDemYxTUh2Ty01eGhiU1ZlaGdDR0VpQmh3ZEdvLVVuUGNsMC0ydW1IaFp5ZkpWSGs4VGJtWm1PTzFkNUVW?oc=5",
     "news_image": "",
     "news_source": "The Japan Times",
-    "news_age": "53m ago",
+    "news_age": "55m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "basket"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -19450,7 +19445,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.37,
+    "news_score": 0.36,
     "news_title": "Jordan Love totals four touchdowns in Week 9 - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnF4cmYtU0NNV3FGMXI3M2dCdlNYcnVKOXkzakE3LWJsTF9QUVRtdFRITE0yS04ySDVMQnAyZDN6SjZFQzhfdTJPUVMtWmIzUXdiSlprem9ESkhGV3BjelktNmczcWRjNkdWcHRfaklvWF9SN0MycHpKa1lOZEJnMW1wRlVpaDVHNldR?oc=5",
     "news_image": "",
@@ -28474,16 +28469,15 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 1.51,
+    "news_score": 1.47,
     "news_title": "OPay Opens New Kano Office, Strengthens Commitment to Nigeria’s Financial Inclusion - Legit News",
     "news_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRjhUV2Zwa1NkdGZfOFE3TzdLcmRaUTVadFN2QVpkdXZ5RVgzVTF4RVpreWJ3aHhJb3hNbXJ6eWlDZEE2YXQ0d0xlb0tzaXVRR1dCcWQ2UFBxUkxxaUxGczR1dHNYNzJvV3VuQWliV0pxbjF3X3FfMkYyU2VvN1UyOE1xdF95T05OajlCSGRlYkJIeFRjRWlqaWNsNXZEUXBEZ1hiRVpTMTZmUE1UY2Nvdjh4dk1ySEFlaWVTWWl1WTJHZGQtS2syekpORkhxQVUt?oc=5",
     "news_image": "",
     "news_source": "Legit News",
-    "news_age": "72m ago",
+    "news_age": "74m ago",
     "news_columns": [
-      "fx_rate",
-      "inflation",
-      "fuel_price"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -29511,7 +29505,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPME5uUi1kVUYzS0drcmlvZ2pXRzZUNlpGWFJtUmU5SFVuS2JNb3dIUy1NZXFXaGVlajNhMFNYSWhWNjRRdkZuTzd6dmd0b2tkbTVjSnRBR0tjcC1qZjVPV1htelBxeWZHTHF6bzlJSm5ZUTZFVlVvYXYzdUFiUi1rTUVXa0hKSEgzU0VFTEZfUGt3bTVjY1RtZ0FxN3BfMnF0d01hMGFwSl9xWVE?oc=5",
     "news_image": "",
     "news_source": "CBC",
-    "news_age": "13h ago",
+    "news_age": "14h ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -30882,7 +30876,7 @@
     "refugees_rank": null,
     "union_rate": 73.9,
     "union_rate_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.0,
     "news_title": "Paraguay’s ex-president taken into custody over alleged bank crisis role - The Times of Israel",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNE9EVXV1Z3hpVDYxaXlnZ0FVNGFDNXFBNUU4cmlCY1JaUS1NdXM5LW5lejVnQUJNOUtQX2lDLVJCM095Q29fcng0RjdTMUxfQVltLTJvSFh0aTZTVE5qYWVRMW5LTllpWDRRdzV1eXlkUDk4NnRUVVBHSm9jR0gwMDBqVHM0MzRHcEdWcVZQZ3gzLXFFckdKR1l4UXBiMWRDRkgwZEFaVVZVMFYwcjVVak9TQdIBuAFBVV95cUxPbExhNnVIcTMzS1RqaEg3VjVYc05PZkVyUlVHWXNMOUh0emZOVnhGYXFRaFBOUm5XaTNUdjhwNWxGOVhNQ3lEbUlpX1lFcGRIZUZUeFI0NFA2Q19aVWpvYnRBazhTQW5QQ29ndEwtd3lIbVVmeFBIZHBIZk0teHEwZnh1R0tfMFRFU0lWX1ZLQUVuREMyZENMVkhCTjREczZsY29TLTRFd25CWk1iQS1aYkhhU0stVm14?oc=5",
     "news_image": "",
@@ -31660,7 +31654,7 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.52,
+    "news_score": 0.51,
     "news_title": "Gunman who carried out Poland mass shooting has died, police say - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRFlEVHJNZ2F1WUk1dlB6MGxoWm1kRjBmaWdDV2VzaUY2TWg3bFhtcVhGNGswQllzd0lXdkh1aW14ZFBJS3lVWldKTl9HTXBiM3FOY1h1U3NKZ0JEdFJGTDB0ZFhVcDhiSzRMd0NJajFUUzFBMWJ3YmRyYjdZOTAtV25RWjlJS3h5LU9jMHlzSVRzQQ?oc=5",
     "news_image": "",
@@ -32340,7 +32334,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM01PN0JGSjZnMXhvaFpzNURtMVFZNjdHYTZ1Y3dleVBrTVhobVU5M29oUXpMb0xQbmJkSnp3QVBXQUYyZktka01OTTdpV3UtT1poMGFmQURUNFpwR1JIVGNyZFFmYmtJREtZT2o5WTRHS3pndFhYN29jV0tCQ0hjNE5MeUJVMDhLSU5vVmE5TnZDSUw0TEJuM3hWNGZiTWFFVmFtTEZZMjkwdzdRMXJMMlBicnNjUXdo0gG-AUFVX3lxTE1jS1kwejhnNThmdXZyZVNEV2kzRHZyWmJyWFV1cXRHX0hDSjlxSG1rRWoydnl0R2NSdnFiZ1RlUlIyX2dlTXZVQXZYRVhBbzhlbTJBcUxtQ1ZPVUVWR1cxRzY4SExxa3BJd01wZmtsSVlFMXloYU1ROEFGRmZtUVV3TEdRMFYwSklqVmNQdlVQaThmOG1velRoSVhMUHlsSUczOV9oYXNfUHdMVWE5X0NHb3V6aXlFTXFqT2lsWXc?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "114m ago",
+    "news_age": "116m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -33136,7 +33130,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPME5uUi1kVUYzS0drcmlvZ2pXRzZUNlpGWFJtUmU5SFVuS2JNb3dIUy1NZXFXaGVlajNhMFNYSWhWNjRRdkZuTzd6dmd0b2tkbTVjSnRBR0tjcC1qZjVPV1htelBxeWZHTHF6bzlJSm5ZUTZFVlVvYXYzdUFiUi1rTUVXa0hKSEgzU0VFTEZfUGt3bTVjY1RtZ0FxN3BfMnF0d01hMGFwSl9xWVE?oc=5",
     "news_image": "",
     "news_source": "CBC",
-    "news_age": "13h ago",
+    "news_age": "14h ago",
     "news_columns": [
       "security",
       "disinformation",
@@ -35652,7 +35646,7 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.06,
+    "news_score": 0.05,
     "news_title": "South Africa@Great Britain - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMzUtampLeU53YTYxalMzcV9tN3BpamRxMHBlVHJKRlBUaWt4U1JvX1lLd2JhSng1QTdZOGVqYTY1VURDUzZHQ3ZEVFViSjlMenp5T1dUWDFFYlc0RFRpTkNRMVZhQTdSaTNaOF90Q2FvdHRSS3U1TVZLVVhhSUkwN2c1N0ZNS1dfa3hSaWdLX3czQnFodEVTRFRfa1ZFYTRwZUZHbWlKUzM?oc=5",
     "news_image": "",
@@ -42537,14 +42531,9 @@
     "news_source": "City of Toronto",
     "news_age": "14919h ago",
     "news_columns": [
-      "market_index",
-      "tech_sector",
-      "volatility",
+      "olympic",
       "fifa_ranking",
-      "nfl_standings",
-      "premier_league",
-      "atp_ranking",
-      "wta_ranking"
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
