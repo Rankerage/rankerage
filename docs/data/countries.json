@@ -1925,14 +1925,15 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 1.09,
+    "news_score": 1.2,
     "news_title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYWZxS3E1dS1jTHZLaUFGay1COFZDZkpUMjhmQ2NoOFhSS1R3b1VCc2EzdFFINEM2VWJJT3VtNkRfYTRWRkYyTXRmVW1RcE56dndKVUZvaGxwdmF3UEItamlLY21lc1pkbHRUeUFqelQxeVZseE1IUlRtdXFDWnROWF8zZG8yVWdYU2stbGVscTRuQXJUMG9hNXBhV0VFbGQ3UXc?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -5157,12 +5158,12 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.69,
+    "news_score": 0.68,
     "news_title": "2026 São Paulo Grand Prix - Race Report: Team Crowned World Champions in Brazil - Mercedes-AMG PETRONAS F1 Team",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWFGelhGazVhZnk3YnFsRTlXc1k3cDhXS0NwTlRjUUllMGdJbjVOenpkNDBuLVlzSFRKMTJHTHlYay11VlJqenZlb0QwUVZrTjJwM3RhT3JDTjZiMzNQQTkzZkhnUXRiRWxaWTFPZVRMUzBqcWFzSGRpUHo5Q2llbHVhX1FhZEttU3NkYWJkcGZBQQ?oc=5",
     "news_image": "",
     "news_source": "Mercedes-AMG PETRONAS F1 Team",
-    "news_age": "88m ago",
+    "news_age": "90m ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -7571,7 +7572,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NSnV3QXdFdF9JVEt4Um1IUXI1LWdka2JpWERYeXdpczFnLUFBMmxBcmQ0Z0J2bWlfZS1kaXo4endjeUMwT2tiYjdxMDZtVUF4NHVuNXltUklDN3pWUFVWYWNFTUM5SGZFcG1LRzhQVWdJQjg?oc=5",
     "news_image": "",
     "news_source": "NPR",
-    "news_age": "15h ago",
+    "news_age": "16h ago",
     "news_columns": [
       "nascar",
       "f1",
@@ -8015,11 +8016,8 @@
     "news_source": "China Daily Global Edition",
     "news_age": "67h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10944,7 +10942,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmtvRmxJVkRJR3Jfa3lIdUhONjVGYlIxN1pjeXRHcWZ4ZG9OR1RuaGE5UFBmNWpuUldOVkZMWTVRcDQ4bjh5R0d2X1VUNGtZb3EzWWVzdjNhVi0xcFJlZDhscWQ0YlhWRWstbjdFZEpnOVJab1FjWWlzVnNpQ1A4Q1VXZ1RUR1pzWmNuekJHamJaUkNIbkc4V2JrbVRXaHptQU1iN3NtWjZxMUdqb1VXZUJYb2xjZkk?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "26m ago",
+    "news_age": "28m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -17395,14 +17393,18 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.15,
+    "news_score": 0.89,
     "news_title": "Crude Oil Price Falls As Trump Says New Iran Attacks 'Unlikely' - News18",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONi1jVzg2a2FyWG9GQ3pPYWlYOVhDcFlrNEpOVm1CMGJSNk9ZSHp6VThTNndLTW5GaXhTc01MX21oLW5aMlNLS18yT3NhZ2FkRGkyNkF3ZVItb004UzRfcV9aYkNkMjhEc19OQ0NOaUdRU0FSdVlMUXlLTXZlVkw2R2VWVnZlN0UtOU00SkI1TGVCQ21reW1jbnNsZGtVWEktUXpyaGNYTGhDSl9xQ2g3endONlVQcll4YnpEQtIBwgFBVV95cUxNVWNGRl9YQ25Ma05qUDdhTXpreGFaZ3lFZ2NpbUF0S0NHVzBJaWhvbEZuVXJWc1JsVjZKWU5lTTJaWU5OdnNRSzdwbnNpejRXWUhWdVFKU2tub2dHQXYwd0ktaVUwbVJLUmJ5S0RmdjhyYnVGdUM2UnhjTE1YWnV4TlV4T1dsMUluSzJNZFppUEJ0ZnV5X2cxb3BkUjdfcFRJNFBvdEs1VTZMbmZFWlZsMHVyWjNDZVZuYmRWYWFiSmlYZw?oc=5",
     "news_image": "",
     "news_source": "News18",
-    "news_age": "41m ago",
+    "news_age": "43m ago",
     "news_columns": [
-      "fifa_ranking"
+      "gas_price",
+      "energy_per_capita",
+      "co2",
+      "renew",
+      "exports"
     ],
     "bottom50_wealth": null
   },
@@ -19259,7 +19261,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.08,
+    "news_score": 0.07,
     "news_title": "Japan@Cuba - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQREd2d1gtbGo5ajhiWDYtbHFuNGRic3ZEenllcXFYWXVFN1BBLVBrR0RUcXkyYWpHZHlWWl9JbnhyUVY4SlFfbDFNR1VHck5xU1d5d0cyQl9NZG9zdS1Ka2RPSGEyRy04c2VLSXctUUVnVDIwNHR4MkxQOWVlNWpWdkY3clg1eVo2QnJDUEZ4cjVrZG05SnpBT0t6VG8xSHRteFJQQnpJeGk?oc=5",
     "news_image": "",
@@ -19446,12 +19448,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 1.28,
+    "news_score": 1.27,
     "news_title": "Jordan Love, Packers offense give Patriots' $135 million cornerback nightmares - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVzZyU2pPNTN4c0s3SVR6RFFQOW5SYTZydFRMLXlXVGNnODN4V3E2aGx5RzBIc2JyX0FkTkR2bTlBRnVPSl9tTEVIVnQyYzc1ZlFJbGhLeUY1QjhmVG9McnVZY2dVRVNmVkZpQlNXVmZFeHYyZDI3YVZEYWtaS2FaWTlkT3BQdmxtek1TLVNB?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "53m ago",
+    "news_age": "55m ago",
     "news_columns": [
       "democracy",
       "press",
@@ -28002,7 +28004,7 @@
     "refugees_rank": null,
     "union_rate": 69.0,
     "union_rate_rank": null,
-    "news_score": 0.52,
+    "news_score": 0.53,
     "news_title": "Puerto Rico@Nicaragua - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSl93WHJScElBMW1yeFZIcWdQQTJvVUJJLS1RVUJTWUROY1BkMFRnaFhXUXlLdVdvdnVJRWdEOGRuWXNUa0VPVUE0SWRDUE5LZHlzM2xMWG9iVlM3Y0NMcTU4ek1kYmVEU3pjOE5fVzZDN2R0TGxkVXN5RWN6SzFKWnl3LWlHLVRYcFhDLVZhbERtZVEwNFNEZHVEY1lSRHdYLXlMY2tqWVc?oc=5",
     "news_image": "",
@@ -32122,7 +32124,7 @@
     "refugees_rank": null,
     "union_rate": 56.8,
     "union_rate_rank": null,
-    "news_score": 0.52,
+    "news_score": 0.53,
     "news_title": "Puerto Rico@Nicaragua - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSl93WHJScElBMW1yeFZIcWdQQTJvVUJJLS1RVUJTWUROY1BkMFRnaFhXUXlLdVdvdnVJRWdEOGRuWXNUa0VPVUE0SWRDUE5LZHlzM2xMWG9iVlM3Y0NMcTU4ek1kYmVEU3pjOE5fVzZDN2R0TGxkVXN5RWN6SzFKWnl3LWlHLVRYcFhDLVZhbERtZVEwNFNEZHVEY1lSRHdYLXlMY2tqWVc?oc=5",
     "news_image": "",
@@ -34308,11 +34310,11 @@
     "fifa_ranking_rank": 120,
     "fifa_w_rank": 100,
     "news_score": 0.0,
-    "news_title": "Singapore Airlines Introduces New First, Business, Premium Economy, & Economy Cabins - LoyaltyLobby",
-    "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM0xuZ1I5bHZrdWpmajhrNlJlWkRSTmZWOFVWRHJMOV9NUnBOVnJwSWNDcnpVeVZPbFgtR2U0alNkWnpOTGxyYWtiQjZIRXFfalRsQ0VkZGdXc3EyaWhCcG5UOTFkUVBWeVNqUU5RenpRVWE3NlBzeUNIY2lUWU9mNXVEU0g0cm9aV2xsZVpjMmhZMTFiem1sMVE4ZlRqbzRjTmxDbzhBa2dlcTNSc0dDbGQzWU9UZ0E?oc=5",
+    "news_title": "Defence Engineers and Scientists Honoured for Excellence and Innovation in Defence Technology - MINDEF Singapore",
+    "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44SFlPRmZCdFpSZ252TEs2b1pZOEJ6bmJWdGZocEpwUHU0RHUzR3pJZFFFRFVCSVdmM0doUE1Gdy1vVXgybmRGUHJSSnkwSlhCRUp6TzJGTUd5MHZIcUZnSllUWmJGN19DMVRaRHd3Si1INUFmWDhv?oc=5",
     "news_image": "",
-    "news_source": "LoyaltyLobby",
-    "news_age": "61h ago",
+    "news_source": "MINDEF Singapore",
+    "news_age": "63h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -35649,7 +35651,7 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.46,
+    "news_score": 0.45,
     "news_title": "South Africa@Great Britain - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdFp4ZUd2X0stOVYxblF3NTBnZDgyR3BpOGVUZTlfNEY0MVhpbFI2QWQyUE4tUTlYYjVPOVpNckZ0RU9zZUR3Skg1ZWdhZl9UczhjN2FobXVsSWd1ZXY1UHcxOVUxN0I1ZU1JVzluOVlfakFHU0IzdUZ1ZFFZWW1LRThsaW5LSm5HZk51NU9wWTZVWTJSTUNMSzUtaFp1cE5PUUZHYg?oc=5",
     "news_image": "",
@@ -42534,12 +42536,14 @@
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVFNFYTVxSnVQN2ZJejVJeWVfWm50NUtqZmtYdU43T1o5X3VKdW44QVJQRElWYlFUd0hZZFk4ZXE3cWhlbU9lWnlOY3JORUhOWlp0VVVXZjRBQmpJclNpcWQ0cGFMSHUyZ18yTzc1V09iYU9PelpWcU5WblZOdnpnMElCclNDMU5fWVhRNU5KVmhSOVpuQ2lfSVA4OWtfWW9abFkwMDEtQTVNZDJPdi1CVW1BRUJhOGVGUEVzbA?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "8h ago",
+    "news_age": "9h ago",
     "news_columns": [
       "golf",
       "fifa_ranking",
       "nfl",
-      "basket"
+      "basket",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
