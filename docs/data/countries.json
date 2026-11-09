@@ -1925,7 +1925,7 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.92,
+    "news_score": 0.91,
     "news_title": "Pope Leo delivers veiled rebuke of austerity measures in predecessor’s homeland - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObGZQb2t3dmtrRk9rN2l1TWhaV1E0NWdsUFJNbzRCb3RPSWsxRnN5T0V5X2FCM0ZpWEtvd1NhcTVmTVYtWmZvQlNBbFpmMWV1VHR0STRzcHBEeHRlVkRQOEJIc0h6QmZWSndTLVh0M0hWYmFiOF9jYkpQNWVuS194S0tOQUNNR2s5VS00dUsydFh3amF2MHg1MEpURFdLWHNoNE1XejlYZUtXNnNxYUE?oc=5",
     "news_image": "",
@@ -5170,7 +5170,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcGRob2N4OVY1X1VsWmxuZHlHR0VYZkJsMV92UkJGRkFCeEEzeldRYWtLajJ3c2JIRV93MEZ2aWtKVUN2amkxVUZub05KS0s4ekRpQTBERDhBclhiQzZ0OXZURktfR05fNWtPOS1uQjI4UEs1TTdpc2NacXdmd1hkeHkwUmRHUGdqSUNJdXln?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "72m ago",
+    "news_age": "74m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -8020,14 +8020,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.73,
+    "news_score": 0.7,
     "news_title": "Xi Jinping’s plan for a China-centric world order - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0h5Rk8wZGVqdVJvd2RhYlZpWVpIYTVuWi1CcHduNGdDdmhKZlN6TkllYk9fN2pNT2lDR09xd3FLWEtDVVcyX01ZaThJanFqelQ2ZnN6RXRKQmQ2MzEyejF4SFYyWEs1ZFF5NGZfcWl0NVlDTU1XNVFJWDJ5a093ZUlQdE0wOFRNNnZhMl9PVUJMTlFkR2c?oc=5",
     "news_image": "",
     "news_source": "The Economist",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "tech",
+      "markets"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -9568,7 +9569,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUQyRFhnUWtGLU5zaHlTS2lOMFJNSVFxRXJPck0tdUxlMUNfcGlfcVBOU2tIdnd3YTdPQXQxZE5NRW5UVlhfTHlDY2paSUlWeWNmdUVaTGtmTWY1WjhmNlhWVTZnVk5hSUNfeVJpZVNRblRpak1BZFpISlowMGxncEdRZTVGOGlQTms4TTk1ZlNlWW1MbGF3dWU5NF9QdE00cVoyZA?oc=5",
     "news_image": "",
     "news_source": "UNC Wilmington Athletics",
-    "news_age": "93m ago",
+    "news_age": "95m ago",
     "bottom50_wealth": null,
     "news_columns": [
       "fifa_ranking",
@@ -13036,14 +13037,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.27,
+    "news_score": 1.26,
     "news_title": "France, U.S. Suspect Iran Was Behind Cyberattack on European Fridges - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZU5pb3psb2FBQVpFOHg3c2xOb25DQzBmMGpmb2ZxMHBpRUF5MXhQZ2Y1Tmw4UXhxLVNxTnBmc05TelMxUURxUlNSZjFib2pHTGZydk9RSzdtZ18tdi1MaGJneWRRUFY5YTc0WlZuSjBnWHBmM084Q3hmZndYclVqSnd6U2ZEbnpPcWVscmNLMnpIa3BRc2xfX1pvVkhxb1l2NnpxZWx0X3hOMEFJ?oc=5",
     "news_image": "",
     "news_source": "WSJ",
-    "news_age": "83m ago",
+    "news_age": "85m ago",
     "news_columns": [
-      "olympic"
+      "climate",
+      "geopolitics"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13565,7 +13567,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.25,
+    "news_score": 0.24,
     "news_title": "2026 College Football Rankings: Georgia Reclaims No. 1 As Notre Dame Beats Miami - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONjlCM1JtMXB1WjgzaEN2ZDBKTE83Smhrd1d6aDhfcHlHekdhaklkRjZXbFc1OXBTTFlfZkw5N1ZIR3hPUkUyZlR2c2xzMEdQdWpkVHJNNWRPRmQ1SUNUWTVJR1F4WDViaTRUWHN5eE9SZTA4TTNuR1gwYUNQYUowS19LWnp5YnhDM1ZFdEtVYzNaWjFlUS14VEtXREZxV0JRYm1IaXZ6Z3hrSlp6dlpGWXNEQ0vSAbQBQVVfeXFMTnRyVXk5THAwa2dkZEVQbzNqcFZZRjhUbkdfWm1uS0ZRWXlYcG41RFJmSkxwQ1NfWUxQMG9sSXZpLTFDemdQYWpubGJCRHJsamFFbDFXRTNMZ3h6dnNaV2FocmsyeUFyVXVSS1NicVVqT054Z3Awa0R3XzBaRDJxYjV0dmwtWkI3bXRrV1VveGpFSTJEZUpmSlVXUmJaVTNpcUlDZEFDc1h0UWs4bGM1YU11YTBt?oc=5",
     "news_image": "",
@@ -17396,14 +17398,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.52,
+    "news_score": 1.48,
     "news_title": "France, U.S. Suspect Iran Was Behind Cyberattack on European Fridges - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZU5pb3psb2FBQVpFOHg3c2xOb25DQzBmMGpmb2ZxMHBpRUF5MXhQZ2Y1Tmw4UXhxLVNxTnBmc05TelMxUURxUlNSZjFib2pHTGZydk9RSzdtZ18tdi1MaGJneWRRUFY5YTc0WlZuSjBnWHBmM084Q3hmZndYclVqSnd6U2ZEbnpPcWVscmNLMnpIa3BRc2xfX1pvVkhxb1l2NnpxZWx0X3hOMEFJ?oc=5",
     "news_image": "",
     "news_source": "WSJ",
-    "news_age": "83m ago",
+    "news_age": "85m ago",
     "news_columns": [
-      "olympic"
+      "climate",
+      "geopolitics"
     ],
     "bottom50_wealth": null
   },
@@ -18126,12 +18129,12 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.2,
+    "news_score": 0.33,
     "news_title": "Trump Veers Back Into Claims of Rigged Election, Questioning Midterm Results - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTzhkZC1lQXN1VGt3RjlJRmV1RGNrVGw0andnVWxpS0lPV3otWmJra0ptNXZRMENfaS1SMEZCc0FiekVrUDNHclhub1U5R29uWklBd2p5ZHJRY1o3Y3JuUVptRHZFVlRfTFl0RWJPUkFuQW9MSVZrLXdTcFJaREJsWlRmTTBrdG1pamczNjgtelNrWjg?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "96m ago",
+    "news_age": "98m ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -19259,12 +19262,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.49,
-    "news_title": "Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage - The Verge",
-    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT0VyLXlUbnJTWnNwUjN0SzRzVklkRDZJZTRGU3drSzNxUTRnNDdSR3h0MjV3OUZVeDYtNU5FaVJrNHVOdnpPT0xNQlZXUmkyWTBHb0xKZmVhbW12eTIzaDJYUVFuaS1pem5PTURNay03RWpTNDZqSWdtZEVrTkQwSVpEZk5HUVBUTkVCd1c1Uk5fa3dZd21Z?oc=5",
+    "news_score": 0.41,
+    "news_title": "Vietnam and Japan strengthen economic ties and cooperation in science and technology. - Vietnam.vn",
+    "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcEFucnZ3RUVCOFRydGFqTWdGdTZxdGh3ZkNyVmdKRzRTRXFIbU9oTnFQcF9qSVlnMklpSXZ2RndWZVZTUUxPOGxXakViTHFGSkkzWDlxS0pRTjR3SmJZRi1IRGRpRGtLNGNmUWVJU1dmMzUyNlk3ZC1tczJVLXU1X01qQkxMLVJvRXMwX0NhUGFyUHdCSklQZkxfVkRNMTQ?oc=5",
     "news_image": "",
-    "news_source": "The Verge",
-    "news_age": "3h ago",
+    "news_source": "Vietnam.vn",
+    "news_age": "5h ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -19448,17 +19451,19 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.5,
-    "news_title": "Jordan Love's MVP case surges - Yahoo Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQalBySmpodUd4c3NhSVE3ZjhWT0FUVk9VbThFVDVXWjByLTJJSDhPcmVNdG4yWDgwR09ubHpTNHhKSWxXczIzLXhDTmtUXzRndGh2eGZtUk5INTBjR25FakNnYnNGTHVlRnBUemtQRGFMSXVVSUhtZHZObnd4bllJakhEZw?oc=5",
+    "news_score": 0.65,
+    "news_title": "Your Mike Vrabel Monday rundown: Coach talks Christian Gonzalez, Drake Maye, locker room worries, and more - The Boston Globe",
+    "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcm9vWjIxUE9lUk1sckh6UnlIU19ZYXJBLVc1VlBLcFVMem5LWmhid201M1U1dnYtQjRxY0Z3WXh1VUc0cmZSLW1wUnRUZElkNjdNYTJHQUFhQXV1a3NSWlVnWnFUcHlRNG5rRklYeHFWX1oyVFJoMjVCYUktQU9EZnpxTDRsZ1pVYXc?oc=5",
     "news_image": "",
-    "news_source": "Yahoo Sports",
-    "news_age": "4h ago",
+    "news_source": "The Boston Globe",
+    "news_age": "81m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
       "stock_market",
-      "reserves"
+      "reserves",
+      "democracy",
+      "press"
     ],
     "bottom50_wealth": null
   },
@@ -28476,7 +28481,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZF9hYl84RHVKUk1PNjVjZk9UbE44WGF3TFVkcW1BVUM4R0hMMmlXN0hDTGF1NUhuQ1hqSGFzajBEU09XVE5kZWZtN0VMdmcwc3VrN0JfN3NsdWpmZGFKVzM0Yi04cDNlXy1PMzl5cHJycUhMNkhEeFN3VlNaekxtTVE4LVlZNk9IYy05aHRSMjNRQkhfTi1TQXdMMjZDVzlMNmg4R3NjN0ctUQ?oc=5",
     "news_image": "",
     "news_source": "Legit.ng",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -33141,14 +33146,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.18,
+    "news_score": 1.17,
     "news_title": "EA on TVP World: Trump Sells Out Kyiv on Eve of Ukraine-Russia Talks - EA WorldView",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYlFHZzc5dXFJMkx1SEZld0IwaWZwYy10UjVncnR3RzluX0xWaWF1T3FGUmRuT01kNzVLTjBhUFlYS2E1YnJqX2ZYQW1zUmRvSm5QSEVXUlUwZ2JUUU90Vk1ueXZlNUxNTVFxV2FDVVI3dldHcGFsQlVpNWlNcmVRSVFzX09GVVZxeTUxYg?oc=5",
     "news_image": "",
     "news_source": "EA WorldView",
-    "news_age": "31m ago",
+    "news_age": "33m ago",
     "news_columns": [
-      "olympic"
+      "climate",
+      "geopolitics"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -36154,7 +36160,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNXzZCQk4xSlo5WEhfalFMalhGaWVkc1psdzZvczQwTjNmLW94WmlvNnBoYWhIWElkZmZXQXdlYUlfZnNTRGo5QTZNUDh3WDc5ajh0R3AzM0pBeFdYbkV3cmVCa0dfeFBJeDZsLWtJbVkwYnNicWtndGs1U2duam50MEljVG1XYXVHU2pFOFh1N0IyYU9LZ081RFdYU1FpdlN3U3RxeGV0TFFrTXdpSFQyQmVEZWNNSnZyZkE?oc=5",
     "news_image": "",
     "news_source": "SGGP English Edition",
-    "news_age": "32h ago",
+    "news_age": "33h ago",
     "news_columns": [
       "basket"
     ],
@@ -39105,7 +39111,7 @@
     "refugees_rank": null,
     "union_rate": 75.8,
     "union_rate_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.61,
     "news_title": "Three LSU Women's Golfers Competing In World University Championships In Thailand - LSUsports.net",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGVtZ3doQjU2ZVhQX1A0OExXTHpXb3lDbDdaZXNTdWVvRl9fTUlCcEZnUm1DVUNkRXljVFZra0NfcEhpbmhmc2VIWmZEUzdMLWs5RWdkNHF1cEpEV1BxTzVNTEJTdklCQkxqY3AtLXJ3VHpEQWRvempHNURZSC03VWpkajF1NE00ME9CclhmQnhVR3NGTzM5Q3dxSXo1cURiRjNVZVUxZHdaOE9hLUx3cGdNVWUxT2tk?oc=5",
     "news_image": "",
@@ -40308,9 +40314,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSnc0M1B4cVA2aDBNUU1tbXJ2bjRRcFRQSlU0c09KLXhoc0JZV05EYUEyUzk2QkdKMHM1MHQxdGlJTnZKaWEzM2VNVk9ZUmtUenJESEVjS19fM0ZPellhRklCNDRwams5R09tWldGZ09wWUwwY3g2b2lmSmY2azdMY1RBVFFRZmFUZVlJNWFrR1ZaNkZDanMwV2NlWjFuOUtvTnNsZWt6SFN0NnRqX0RtVWxQZEZWRWFZeVdybDU5ZXRXczd2Qlh2VnRVdm9Eclh6Vk9CcXZwc29yYVl2Z2JwdU16cEZfT1JKN3ZR?oc=5",
     "news_image": "",
     "news_source": "kens5.com",
-    "news_age": "93m ago",
+    "news_age": "95m ago",
     "news_columns": [
-      "olympic"
+      "climate",
+      "geopolitics"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -41262,14 +41269,15 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 1.18,
+    "news_score": 1.17,
     "news_title": "EA on TVP World: Trump Sells Out Kyiv on Eve of Ukraine-Russia Talks - EA WorldView",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYlFHZzc5dXFJMkx1SEZld0IwaWZwYy10UjVncnR3RzluX0xWaWF1T3FGUmRuT01kNzVLTjBhUFlYS2E1YnJqX2ZYQW1zUmRvSm5QSEVXUlUwZ2JUUU90Vk1ueXZlNUxNTVFxV2FDVVI3dldHcGFsQlVpNWlNcmVRSVFzX09GVVZxeTUxYg?oc=5",
     "news_image": "",
     "news_source": "EA WorldView",
-    "news_age": "31m ago",
+    "news_age": "33m ago",
     "news_columns": [
-      "olympic"
+      "climate",
+      "geopolitics"
     ],
     "bottom50_wealth": null
   },
@@ -42537,10 +42545,14 @@
     "news_source": "City of Toronto",
     "news_age": "14930h ago",
     "news_columns": [
-      "basket",
+      "nfl",
+      "fantasy_football",
+      "cfp",
+      "ncaa_football",
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "tech",
+      "markets",
+      "politics"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43741,7 +43753,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.44,
+    "news_score": 0.43,
     "news_title": "Nearly two years of implementing Resolution No. 57-NQ/TW: A historic boost for national science, technology, and digital transformation. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNnJnVU50TUVwb1pzanJNSlhDeFltYWVnR3k5aFFsU2kxQ1hibF8yNjFZN19rYm9zSHdjbVBoemo4cG9QdUVYd0xGYUpocFFTSjRBRWxleExrM2ZtM20zR0FuUGNiYktuaGpBVV9pd2VkY3RJdmU2akF2ald5NkFueXBRc1c4Q0l0OURqaXcweVAxUHFGT2NFWW9kM0VKcS1tak13ZkNYbDBfRFdxSG02MFM2eU9EMjF1YVpteUxYZGIxQnZjQUJ1RTJHVFN5YTFxUV90NkszbTE?oc=5",
     "news_image": "",
