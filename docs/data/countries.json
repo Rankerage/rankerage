@@ -8010,7 +8010,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.35,
+    "news_score": 0.36,
     "news_title": "China Producer Inflation Accelerates to Over Four-Year High - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcm1tR2Voci0zUnpsNlVhbzdXQ19DNDB3anhvdU9HZGRtYjE0akY0b0VHZi0xUndnYTkxOExkOHUyTmxHNnJMZzFldjRDRXFxNDE1S2ZZX014aWhxdFFqR1ExbGFEV0FDNHBuMElPOVNwZjYwY20ydlJna2hoN3N5OTJEbGRJbmxwOXZFZWdzMjd6UklTZTRabVBiNkE?oc=5",
     "news_image": "",
@@ -8018,8 +8018,7 @@
     "news_age": "4h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "basket"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -9262,7 +9261,7 @@
     "union_rate": 79.3,
     "union_rate_rank": null,
     "fifa_w_rank": 89,
-    "news_score": 0.11,
+    "news_score": 0.19,
     "news_title": "EXCLUSIVE: Covert Russian network exploited French riots on social media, EU report says - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0hpUFBLeDI4ZDJzc25aU0VuT0FKVkNBSHhEMHgyVUlXc0NGcXVyYjJZcDl3Vy1kN3NRX2wtSUVFZ1ctajJhMHQ3UC1PeEJYczNZZ0dZVEVIeEoySnN0X0lMQTlCd3F5OWVSUHlQNkZTdEZKRUZiX0NjOVNNaVhaek4yNVVkdXFzaURTdXJCVVk4QTN1NFdjcDYwZFdGal9KNVBaRWQwaDRTaEFYZ0x2WkZTVUZITHlUVHZqbDFRZw?oc=5",
     "news_image": "",
@@ -13030,17 +13029,19 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.63,
+    "news_score": 0.52,
     "news_title": "EXCLUSIVE: Covert Russian network exploited French riots on social media, EU report says - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0hpUFBLeDI4ZDJzc25aU0VuT0FKVkNBSHhEMHgyVUlXc0NGcXVyYjJZcDl3Vy1kN3NRX2wtSUVFZ1ctajJhMHQ3UC1PeEJYczNZZ0dZVEVIeEoySnN0X0lMQTlCd3F5OWVSUHlQNkZTdEZKRUZiX0NjOVNNaVhaek4yNVVkdXFzaURTdXJCVVk4QTN1NFdjcDYwZFdGal9KNVBaRWQwaDRTaEFYZ0x2WkZTVUZITHlUVHZqbDFRZw?oc=5",
     "news_image": "",
     "news_source": "Reuters",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "democracy",
+      "press",
+      "gpi",
+      "polit_kill",
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -15879,12 +15880,12 @@
     "fifa_w": 81,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 62,
-    "news_score": 0.85,
+    "news_score": 0.84,
     "news_title": "Hong Kong University of Science and Technology team achieves 300x spin lifetime boost in perovskites - Quantum Zeitgeist",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10Z1VRYnpIenhtdlE0eVB2NFpFU1pILXhTbXRJcTExRm5oSWpiZjNuZzdYNkdvMFdEOWJjM3J3TWxwTThiRzI1WXg4TVFDNXd3a3FhcmFsaE9YRDdLSm9ULUlrTjgxY3A0UVQ4RFFxY0xpZ2JDT1hoWnFQVGtmTlk?oc=5",
     "news_image": "",
     "news_source": "Quantum Zeitgeist",
-    "news_age": "42m ago",
+    "news_age": "44m ago",
     "news_columns": [
       "edu",
       "literacy",
@@ -19266,12 +19267,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.88,
+    "news_score": 0.87,
     "news_title": "‘Burning’: life under the world’s dirtiest skies - The Japan Times",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWjhla09odWR6RU9nM0hycjBzN3ktazhBdVZvYUlhOU10M1JoQ3FVS0FPWmxvUEtoTXdQSENFY0tWZm9wTnA5UndHRGJ1R1pIN1ZmSEhsRWw2UVlxa0xCeVlzc1lGb1JJQW9fX0FxeDZDemYxTUh2Ty01eGhiU1ZlaGdDR0VpQmh3ZEdvLVVuUGNsMC0ydW1IaFp5ZkpWSGs4VGJtWm1PTzFkNUVW?oc=5",
     "news_image": "",
     "news_source": "The Japan Times",
-    "news_age": "35m ago",
+    "news_age": "37m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -28474,12 +28475,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 1.58,
+    "news_score": 1.6,
     "news_title": "OPay Opens New Kano Office, Strengthens Commitment to Nigeria’s Financial Inclusion - Legit News",
     "news_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRjhUV2Zwa1NkdGZfOFE3TzdLcmRaUTVadFN2QVpkdXZ5RVgzVTF4RVpreWJ3aHhJb3hNbXJ6eWlDZEE2YXQ0d0xlb0tzaXVRR1dCcWQ2UFBxUkxxaUxGczR1dHNYNzJvV3VuQWliV0pxbjF3X3FfMkYyU2VvN1UyOE1xdF95T05OajlCSGRlYkJIeFRjRWlqaWNsNXZEUXBEZ1hiRVpTMTZmUE1UY2Nvdjh4dk1ySEFlaWVTWWl1WTJHZGQtS2syekpORkhxQVUt?oc=5",
     "news_image": "",
     "news_source": "Legit News",
-    "news_age": "54m ago",
+    "news_age": "56m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -30880,12 +30881,12 @@
     "refugees_rank": null,
     "union_rate": 73.9,
     "union_rate_rank": null,
-    "news_score": 0.66,
+    "news_score": 0.74,
     "news_title": "Global stocks steady after AI rout - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWHEzQjNVM0hCVHUxV3NxbWpTSDFrQzZ2MkwwWW13Q0Vubm82dW1IU0wyT2xfMWpCa1VpcFNKQ3lGS3FnYjZmMHcyZG1kQjQtaDczbVZCSGItak53QklrVVZqOEVfQzRMY1Y2ak0tQnFOcW15dGgxdlZaR1R4UXdocl9nbWE?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
-    "news_age": "14m ago",
+    "news_age": "16m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -31660,19 +31661,19 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.34,
+    "news_score": 0.49,
     "news_title": "Gunman who carried out Poland mass shooting has died, police say - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRFlEVHJNZ2F1WUk1dlB6MGxoWm1kRjBmaWdDV2VzaUY2TWg3bFhtcVhGNGswQllzd0lXdkh1aW14ZFBJS3lVWldKTl9HTXBiM3FOY1h1U3NKZ0JEdFJGTDB0ZFhVcDhiSzRMd0NJajFUUzFBMWJ3YmRyYjdZOTAtV25RWjlJS3h5LU9jMHlzSVRzQQ?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "39m ago",
+    "news_age": "41m ago",
     "news_columns": [
       "doctors",
       "beds",
       "health",
       "life_expectancy",
-      "murder",
-      "prison"
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": null
   },
@@ -32335,12 +32336,12 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.89,
+    "news_score": 0.66,
     "news_title": "MotoGP: Bezzecchi denies Marquez world title as motorsport returns to Qatar - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM01PN0JGSjZnMXhvaFpzNURtMVFZNjdHYTZ1Y3dleVBrTVhobVU5M29oUXpMb0xQbmJkSnp3QVBXQUYyZktka01OTTdpV3UtT1poMGFmQURUNFpwR1JIVGNyZFFmYmtJREtZT2o5WTRHS3pndFhYN29jV0tCQ0hjNE5MeUJVMDhLSU5vVmE5TnZDSUw0TEJuM3hWNGZiTWFFVmFtTEZZMjkwdzdRMXJMMlBicnNjUXdo0gG-AUFVX3lxTE1jS1kwejhnNThmdXZyZVNEV2kzRHZyWmJyWFV1cXRHX0hDSjlxSG1rRWoydnl0R2NSdnFiZ1RlUlIyX2dlTXZVQXZYRVhBbzhlbTJBcUxtQ1ZPVUVWR1cxRzY4SExxa3BJd01wZmtsSVlFMXloYU1ROEFGRmZtUVV3TEdRMFYwSklqVmNQdlVQaThmOG1velRoSVhMUHlsSUczOV9oYXNfUHdMVWE5X0NHb3V6aXlFTXFqT2lsWXc?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "96m ago",
+    "news_age": "98m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -42538,8 +42539,8 @@
     "news_columns": [
       "olympic",
       "fifa_ranking",
-      "fifa_w",
-      "basket"
+      "basket",
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
