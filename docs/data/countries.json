@@ -1925,15 +1925,16 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 1.4,
+    "news_score": 1.5,
     "news_title": "Pope Leo delivers veiled rebuke of austerity measures in predecessor’s homeland - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObGZQb2t3dmtrRk9rN2l1TWhaV1E0NWdsUFJNbzRCb3RPSWsxRnN5T0V5X2FCM0ZpWEtvd1NhcTVmTVYtWmZvQlNBbFpmMWV1VHR0STRzcHBEeHRlVkRQOEJIc0h6QmZWSndTLVh0M0hWYmFiOF9jYkpQNWVuS194S0tOQUNNR2s5VS00dUsydFh3amF2MHg1MEpURFdLWHNoNE1XejlYZUtXNnNxYUE?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "74m ago",
+    "news_age": "76m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "ballon_dor"
     ],
     "bottom50_wealth": null
   },
@@ -5156,15 +5157,17 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.91,
+    "news_score": 0.76,
     "news_title": "Richard Wendel celebrates call-up, unity key for Brazil at U17 World Cup - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcGRob2N4OVY1X1VsWmxuZHlHR0VYZkJsMV92UkJGRkFCeEEzeldRYWtLajJ3c2JIRV93MEZ2aWtKVUN2amkxVUZub05KS0s4ekRpQTBERDhBclhiQzZ0OXZURktfR05fNWtPOS1uQjI4UEs1TTdpc2NacXdmd1hkeHkwUmRHUGdqSUNJdXln?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "22m ago",
+    "news_age": "24m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -6939,7 +6942,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIR1o5VjVhSThZNGE2MklXZmxCVXN5cWxtTHRjb3VSUzV6bHhuMEI2TU94ZE9qTUw0WVZBSEtjbjZHYmIyZVJUY01PYjdzRE1IX2JxYUdnNzlOTmZSVm1Hbnh3V3pBY2ZXb2VsTTFnbnNGOGg4amhEXw?oc=5",
     "news_image": "",
     "news_source": "Financial Post",
-    "news_age": "117m ago",
+    "news_age": "119m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -8014,10 +8017,11 @@
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0h5Rk8wZGVqdVJvd2RhYlZpWVpIYTVuWi1CcHduNGdDdmhKZlN6TkllYk9fN2pNT2lDR09xd3FLWEtDVVcyX01ZaThJanFqelQ2ZnN6RXRKQmQ2MzEyejF4SFYyWEs1ZFF5NGZfcWl0NVlDTU1XNVFJWDJ5a093ZUlQdE0wOFRNNnZhMl9PVUJMTlFkR2c?oc=5",
     "news_image": "",
     "news_source": "The Economist",
-    "news_age": "110m ago",
+    "news_age": "112m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "stock_index",
+      "market_cap",
+      "tech_sector"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -9074,7 +9078,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGlTeFAyeHZiXzRrbEgwY0N4VmhUb3dfUnRmeEhGSWhnbXBVTDc1VVBLdnhEREd0em5yTkYzTWs3Z05LWWJ4Qkw5eXl5RVJVS2R3QWRkcHh0UUVPMU1VM1M5cHBhRXVxWmNBWlgzbDNlSG9DbVg5TDlMOVJUN3RUVkFNVy1ES2NWNnVXU3JCR0FJaVpwMm9BZnZKaml3dXdjY3ZXM2FGbEY?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "70m ago",
+    "news_age": "72m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -9553,12 +9557,12 @@
     "refugees_rank": null,
     "union_rate": 77.5,
     "union_rate_rank": null,
-    "news_score": 0.84,
+    "news_score": 0.83,
     "news_title": "Bubenik Represents Czech Republic At U23 Baseball World Cup - UNC Wilmington Athletics",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUQyRFhnUWtGLU5zaHlTS2lOMFJNSVFxRXJPck0tdUxlMUNfcGlfcVBOU2tIdnd3YTdPQXQxZE5NRW5UVlhfTHlDY2paSUlWeWNmdUVaTGtmTWY1WjhmNlhWVTZnVk5hSUNfeVJpZVNRblRpak1BZFpISlowMGxncEdRZTVGOGlQTms4TTk1ZlNlWW1MbGF3dWU5NF9QdE00cVoyZA?oc=5",
     "news_image": "",
     "news_source": "UNC Wilmington Athletics",
-    "news_age": "43m ago",
+    "news_age": "45m ago",
     "bottom50_wealth": null,
     "news_columns": [
       "fifa_ranking",
@@ -13026,7 +13030,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.39,
+    "news_score": 1.46,
     "news_title": "France accuses Iran of supermarket fridge hacking - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzeFI0SDNQMm9ieHFIWGNtSFV6cEliY0dwOUhXNE9NODFkSTZKUktramxLV0ZHS1BaN3RZX1pTWEtsNmZxSVlBQTNfN2I0Rlk4NTlCdnRnUElYbUE?oc=5",
     "news_image": "",
@@ -13034,7 +13038,8 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "ballon_dor"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13561,7 +13566,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONjlCM1JtMXB1WjgzaEN2ZDBKTE83Smhrd1d6aDhfcHlHekdhaklkRjZXbFc1OXBTTFlfZkw5N1ZIR3hPUkUyZlR2c2xzMEdQdWpkVHJNNWRPRmQ1SUNUWTVJR1F4WDViaTRUWHN5eE9SZTA4TTNuR1gwYUNQYUowS19LWnp5YnhDM1ZFdEtVYzNaWjFlUS14VEtXREZxV0JRYm1IaXZ6Z3hrSlp6dlpGWXNEQ0vSAbQBQVVfeXFMTnRyVXk5THAwa2dkZEVQbzNqcFZZRjhUbkdfWm1uS0ZRWXlYcG41RFJmSkxwQ1NfWUxQMG9sSXZpLTFDemdQYWpubGJCRHJsamFFbDFXRTNMZ3h6dnNaV2FocmsyeUFyVXVSS1NicVVqT054Z3Awa0R3XzBaRDJxYjV0dmwtWkI3bXRrV1VveGpFSTJEZUpmSlVXUmJaVTNpcUlDZEFDc1h0UWs4bGM1YU11YTBt?oc=5",
     "news_image": "",
     "news_source": "FOX Sports",
-    "news_age": "4h ago",
+    "news_age": "5h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -19253,12 +19258,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.88,
+    "news_score": 0.85,
     "news_title": "Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage - The Verge",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT0VyLXlUbnJTWnNwUjN0SzRzVklkRDZJZTRGU3drSzNxUTRnNDdSR3h0MjV3OUZVeDYtNU5FaVJrNHVOdnpPT0xNQlZXUmkyWTBHb0xKZmVhbW12eTIzaDJYUVFuaS1pem5PTURNay03RWpTNDZqSWdtZEVrTkQwSVpEZk5HUVBUTkVCd1c1Uk5fa3dZd21Z?oc=5",
     "news_image": "",
     "news_source": "The Verge",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -19442,7 +19447,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.63,
+    "news_score": 0.62,
     "news_title": "Jordan Love's MVP case surges - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQalBySmpodUd4c3NhSVE3ZjhWT0FUVk9VbThFVDVXWjByLTJJSDhPcmVNdG4yWDgwR09ubHpTNHhKSWxXczIzLXhDTmtUXzRndGh2eGZtUk5INTBjR25FakNnYnNGTHVlRnBUemtQRGFMSXVVSUhtZHZObnd4bllJakhEZw?oc=5",
     "news_image": "",
@@ -31662,7 +31667,7 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.18,
+    "news_score": 0.17,
     "news_title": "Gunman with far-right views who killed 6 in Poland shooting rampage dies in hospital, police say - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlNIYWhOQzdvWjlnaU53QlVSZEhEMnYzZU5Zd2Z0TlFJVVQyeW5RSnRXN3ZhUDdFTE01Ym1jWEdEZ2szYVBmdk5YNWZaQl9lLVBEUkw5SWtLc1ZQMWRPekJqeFdJbGVJX2IybnljdThJQVFqYWluNll4WVBEOUtqVlYzQWNTVi1CYUdobE9WcUdBc1dGMFlqLU1ON0lzbzA?oc=5",
     "news_image": "",
@@ -34314,12 +34319,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 120,
     "fifa_w_rank": 100,
-    "news_score": 0.35,
+    "news_score": 0.44,
     "news_title": "DC Studios Shocker: James Gunn, Peter Safran Stepping Down with Marvel Alum Jeremy Latcham to Take Over - The Hollywood Reporter",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcGJfVUxQQmtvNVhXRlRSelRfR2NYUjdLR3dORk5OT2sycG1jUXBDbzFmNHlfbDFjWVFXUUg0b3h5RGhZa2tabTAwY2I1T0xUa01LYTNHX1JNSU5sdzZyX1FYaDgyU3JoUkJ6bURNRDdQQXU5XzhiU3FOakhiMXgyRUhkQXFOTExaVmU1M2ZkVVBPNG5NaVpEYk10X3BlTEVOU3lrc1daUFFiUVZVc1oyemVyb0VKQQ?oc=5",
     "news_image": "",
     "news_source": "The Hollywood Reporter",
-    "news_age": "91m ago",
+    "news_age": "93m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -36721,7 +36726,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.58,
     "news_title": "Spain, England each has 5 on women's soccer World XI team voted by players. US misses out again - KVUE",
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPbWd3WHRNaE1WYTNsQzFCLUFlbkFGaWt4TU9PRE91Y3JBcGdzdjJHMTJoQndKc0xLMEUzVEtvQmJXM05RT0JFeEFXRHBrR0F2VTBiMGxyUW12dHZfLTZqNlM2aWhOamxCUi1McnlpNlZWZWlTSzltQXJnS2tpY01yWXhtWWJWd3NPclViR0thbUlKRmJtWWFybHM0Ukh6Q1p5MFRBMFhBY0JJZFVlOUdJWEcxSkcyc1hDMGhVYmtnUklITmp1aC1HT2Z6MS0td1BVWWZBcGExaDNZakZ5alRTTnBkNGlKYWcwOW84QW9xc2ZLNWtIN2J0X2JTYTMyUmRKeF9wR3BwN2pXWXVmZVI4Z1NIOEhfaEFYblE?oc=5",
     "news_image": "",
@@ -36730,10 +36735,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket",
-      "democracy",
-      "approval"
+      "ballon_dor"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5,
@@ -39105,7 +39107,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGVtZ3doQjU2ZVhQX1A0OExXTHpXb3lDbDdaZXNTdWVvRl9fTUlCcEZnUm1DVUNkRXljVFZra0NfcEhpbmhmc2VIWmZEUzdMLWs5RWdkNHF1cEpEV1BxTzVNTEJTdklCQkxqY3AtLXJ3VHpEQWRvempHNURZSC03VWpkajF1NE00ME9CclhmQnhVR3NGTzM5Q3dxSXo1cURiRjNVZVUxZHdaOE9hLUx3cGdNVWUxT2tk?oc=5",
     "news_image": "",
     "news_source": "LSUsports.net",
-    "news_age": "71m ago",
+    "news_age": "73m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -40298,14 +40300,16 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 1.11,
+    "news_score": 1.2,
     "news_title": "World leaders face pressure to act on climate change at COP31 summit in Turkey - kens5.com",
     "news_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSnc0M1B4cVA2aDBNUU1tbXJ2bjRRcFRQSlU0c09KLXhoc0JZV05EYUEyUzk2QkdKMHM1MHQxdGlJTnZKaWEzM2VNVk9ZUmtUenJESEVjS19fM0ZPellhRklCNDRwams5R09tWldGZ09wWUwwY3g2b2lmSmY2azdMY1RBVFFRZmFUZVlJNWFrR1ZaNkZDanMwV2NlWjFuOUtvTnNsZWt6SFN0NnRqX0RtVWxQZEZWRWFZeVdybDU5ZXRXczd2Qlh2VnRVdm9Eclh6Vk9CcXZwc29yYVl2Z2JwdU16cEZfT1JKN3ZR?oc=5",
     "news_image": "",
     "news_source": "kens5.com",
-    "news_age": "43m ago",
+    "news_age": "45m ago",
     "news_columns": [
-      "olympic"
+      "climate_index",
+      "emissions",
+      "temperature_anomaly"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -42532,9 +42536,14 @@
     "news_source": "City of Toronto",
     "news_age": "14929h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "stock_index",
+      "market_cap",
+      "tech_sector",
+      "climate_index",
+      "emissions",
+      "temperature_anomaly",
+      "cfp_ranking",
+      "conference_championship"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43455,7 +43464,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGlTeFAyeHZiXzRrbEgwY0N4VmhUb3dfUnRmeEhGSWhnbXBVTDc1VVBLdnhEREd0em5yTkYzTWs3Z05LWWJ4Qkw5eXl5RVJVS2R3QWRkcHh0UUVPMU1VM1M5cHBhRXVxWmNBWlgzbDNlSG9DbVg5TDlMOVJUN3RUVkFNVy1ES2NWNnVXU3JCR0FJaVpwMm9BZnZKaml3dXdjY3ZXM2FGbEY?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "70m ago",
+    "news_age": "72m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -43735,7 +43744,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.56,
+    "news_score": 0.55,
     "news_title": "Nearly two years of implementing Resolution No. 57-NQ/TW: A historic boost for national science, technology, and digital transformation. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNnJnVU50TUVwb1pzanJNSlhDeFltYWVnR3k5aFFsU2kxQ1hibF8yNjFZN19rYm9zSHdjbVBoemo4cG9QdUVYd0xGYUpocFFTSjRBRWxleExrM2ZtM20zR0FuUGNiYktuaGpBVV9pd2VkY3RJdmU2akF2ald5NkFueXBRc1c4Q0l0OURqaXcweVAxUHFGT2NFWW9kM0VKcS1tak13ZkNYbDBfRFdxSG02MFM2eU9EMjF1YVpteUxYZGIxQnZjQUJ1RTJHVFN5YTFxUV90NkszbTE?oc=5",
     "news_image": "",
