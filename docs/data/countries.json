@@ -1925,15 +1925,17 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 1.4,
+    "news_score": 1.37,
     "news_title": "Pope Leo delivers veiled rebuke of austerity measures in predecessor’s homeland - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObGZQb2t3dmtrRk9rN2l1TWhaV1E0NWdsUFJNbzRCb3RPSWsxRnN5T0V5X2FCM0ZpWEtvd1NhcTVmTVYtWmZvQlNBbFpmMWV1VHR0STRzcHBEeHRlVkRQOEJIc0h6QmZWSndTLVh0M0hWYmFiOF9jYkpQNWVuS194S0tOQUNNR2s5VS00dUsydFh3amF2MHg1MEpURFdLWHNoNE1XejlYZUtXNnNxYUE?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "108m ago",
+    "news_age": "110m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -2864,7 +2866,7 @@
     "refugees_rank": null,
     "union_rate": 77.9,
     "union_rate_rank": null,
-    "news_score": 0.01,
+    "news_score": 0.02,
     "news_title": "GAME DAY: The U.S. Set For First-Ever Meeting Against Austria At Women’s Worlds - Team USA Hockey",
     "news_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YbkRhNy1iZE8zZUlsd2F4ZTUzbk8xeks5cldtMkhyQjdTUmItbF9ta2tqSUZDUTFyTEJLM3VNenMzWWxzNHFMTk1TTzA5NDA1eUxpcGZ3Q1Y5MEZoM0NVTnBhRmtPZw?oc=5",
     "news_image": "",
@@ -5161,15 +5163,17 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.14,
+    "news_score": 1.11,
     "news_title": "Richard Wendel celebrates call-up, unity key for Brazil at U17 World Cup - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcGRob2N4OVY1X1VsWmxuZHlHR0VYZkJsMV92UkJGRkFCeEEzeldRYWtLajJ3c2JIRV93MEZ2aWtKVUN2amkxVUZub05KS0s4ekRpQTBERDhBclhiQzZ0OXZURktfR05fNWtPOS1uQjI4UEs1TTdpc2NacXdmd1hkeHkwUmRHUGdqSUNJdXln?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "56m ago",
+    "news_age": "58m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -6939,7 +6943,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.65,
+    "news_score": 0.66,
     "news_title": "Tighter monetary policy now among top risks to Canada’s economy, say business leaders - Financial Post",
     "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIR1o5VjVhSThZNGE2MklXZmxCVXN5cWxtTHRjb3VSUzV6bHhuMEI2TU94ZE9qTUw0WVZBSEtjbjZHYmIyZVJUY01PYjdzRE1IX2JxYUdnNzlOTmZSVm1Hbnh3V3pBY2ZXb2VsTTFnbnNGOGg4amhEXw?oc=5",
     "news_image": "",
@@ -9562,7 +9566,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUQyRFhnUWtGLU5zaHlTS2lOMFJNSVFxRXJPck0tdUxlMUNfcGlfcVBOU2tIdnd3YTdPQXQxZE5NRW5UVlhfTHlDY2paSUlWeWNmdUVaTGtmTWY1WjhmNlhWVTZnVk5hSUNfeVJpZVNRblRpak1BZFpISlowMGxncEdRZTVGOGlQTms4TTk1ZlNlWW1MbGF3dWU5NF9QdE00cVoyZA?oc=5",
     "news_image": "",
     "news_source": "UNC Wilmington Athletics",
-    "news_age": "77m ago",
+    "news_age": "79m ago",
     "bottom50_wealth": null,
     "news_columns": [
       "fifa_ranking",
@@ -13030,17 +13034,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.09,
+    "news_score": 1.43,
     "news_title": "France, U.S. Suspect Iran Was Behind Cyberattack on European Fridges - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZU5pb3psb2FBQVpFOHg3c2xOb25DQzBmMGpmb2ZxMHBpRUF5MXhQZ2Y1Tmw4UXhxLVNxTnBmc05TelMxUURxUlNSZjFib2pHTGZydk9RSzdtZ18tdi1MaGJneWRRUFY5YTc0WlZuSjBnWHBmM084Q3hmZndYclVqSnd6U2ZEbnpPcWVscmNLMnpIa3BRc2xfX1pvVkhxb1l2NnpxZWx0X3hOMEFJ?oc=5",
     "news_image": "",
     "news_source": "WSJ",
-    "news_age": "67m ago",
+    "news_age": "69m ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13562,7 +13564,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.27,
+    "news_score": 0.26,
     "news_title": "2026 College Football Rankings: Georgia Reclaims No. 1 As Notre Dame Beats Miami - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONjlCM1JtMXB1WjgzaEN2ZDBKTE83Smhrd1d6aDhfcHlHekdhaklkRjZXbFc1OXBTTFlfZkw5N1ZIR3hPUkUyZlR2c2xzMEdQdWpkVHJNNWRPRmQ1SUNUWTVJR1F4WDViaTRUWHN5eE9SZTA4TTNuR1gwYUNQYUowS19LWnp5YnhDM1ZFdEtVYzNaWjFlUS14VEtXREZxV0JRYm1IaXZ6Z3hrSlp6dlpGWXNEQ0vSAbQBQVVfeXFMTnRyVXk5THAwa2dkZEVQbzNqcFZZRjhUbkdfWm1uS0ZRWXlYcG41RFJmSkxwQ1NfWUxQMG9sSXZpLTFDemdQYWpubGJCRHJsamFFbDFXRTNMZ3h6dnNaV2FocmsyeUFyVXVSS1NicVVqT054Z3Awa0R3XzBaRDJxYjV0dmwtWkI3bXRrV1VveGpFSTJEZUpmSlVXUmJaVTNpcUlDZEFDc1h0UWs4bGM1YU11YTBt?oc=5",
     "news_image": "",
@@ -17393,17 +17395,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.55,
+    "news_score": 2.05,
     "news_title": "France, U.S. Suspect Iran Was Behind Cyberattack on European Fridges - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZU5pb3psb2FBQVpFOHg3c2xOb25DQzBmMGpmb2ZxMHBpRUF5MXhQZ2Y1Tmw4UXhxLVNxTnBmc05TelMxUURxUlNSZjFib2pHTGZydk9RSzdtZ18tdi1MaGJneWRRUFY5YTc0WlZuSjBnWHBmM084Q3hmZndYclVqSnd6U2ZEbnpPcWVscmNLMnpIa3BRc2xfX1pvVkhxb1l2NnpxZWx0X3hOMEFJ?oc=5",
     "news_image": "",
     "news_source": "WSJ",
-    "news_age": "67m ago",
+    "news_age": "69m ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -19443,7 +19443,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.55,
+    "news_score": 0.54,
     "news_title": "Jordan Love's MVP case surges - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQalBySmpodUd4c3NhSVE3ZjhWT0FUVk9VbThFVDVXWjByLTJJSDhPcmVNdG4yWDgwR09ubHpTNHhKSWxXczIzLXhDTmtUXzRndGh2eGZtUk5INTBjR25FakNnYnNGTHVlRnBUemtQRGFMSXVVSUhtZHZObnd4bllJakhEZw?oc=5",
     "news_image": "",
@@ -28466,7 +28466,7 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.49,
+    "news_score": 0.48,
     "news_title": "Nigeria takes major step towards cheaper transport with 106 CNG stations - Legit.ng",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZF9hYl84RHVKUk1PNjVjZk9UbE44WGF3TFVkcW1BVUM4R0hMMmlXN0hDTGF1NUhuQ1hqSGFzajBEU09XVE5kZWZtN0VMdmcwc3VrN0JfN3NsdWpmZGFKVzM0Yi04cDNlXy1PMzl5cHJycUhMNkhEeFN3VlNaekxtTVE4LVlZNk9IYy05aHRSMjNRQkhfTi1TQXdMMjZDVzlMNmg4R3NjN0ctUQ?oc=5",
     "news_image": "",
@@ -31663,7 +31663,7 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.14,
+    "news_score": 0.13,
     "news_title": "Gunman with far-right views who killed 6 in Poland shooting rampage dies in hospital, police say - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlNIYWhOQzdvWjlnaU53QlVSZEhEMnYzZU5Zd2Z0TlFJVVQyeW5RSnRXN3ZhUDdFTE01Ym1jWEdEZ2szYVBmdk5YNWZaQl9lLVBEUkw5SWtLc1ZQMWRPekJqeFdJbGVJX2IybnljdThJQVFqYWluNll4WVBEOUtqVlYzQWNTVi1CYUdobE9WcUdBc1dGMFlqLU1ON0lzbzA?oc=5",
     "news_image": "",
@@ -33136,15 +33136,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.26,
+    "news_score": 1.33,
     "news_title": "EA on TVP World: Trump Sells Out Kyiv on Eve of Ukraine-Russia Talks - EA WorldView",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYlFHZzc5dXFJMkx1SEZld0IwaWZwYy10UjVncnR3RzluX0xWaWF1T3FGUmRuT01kNzVLTjBhUFlYS2E1YnJqX2ZYQW1zUmRvSm5QSEVXUlUwZ2JUUU90Vk1ueXZlNUxNTVFxV2FDVVI3dldHcGFsQlVpNWlNcmVRSVFzX09GVVZxeTUxYg?oc=5",
     "news_image": "",
     "news_source": "EA WorldView",
-    "news_age": "15m ago",
+    "news_age": "17m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "olympic"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -36722,15 +36722,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.68,
+    "news_score": 0.49,
     "news_title": "Messi voted to World XI by players again as Spain dominates men's and women's lineups - Newsday",
     "news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xc09ub0JWb202T1Zrd1ItcFpqbWQ4bWl1RlhET09vTk53NnJsWmk0Y0xwbEsyWm9keTVsUElNRVZmeWtxQmozWDlJX0pmS1huWjg5Y1M2amxKYzVDVEpnOGpzWUViblJ0Smw2SVhQRkRCVzg?oc=5",
     "news_image": "",
     "news_source": "Newsday",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "democracy",
+      "approval",
+      "press",
+      "election_days",
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5,
@@ -39102,7 +39106,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGVtZ3doQjU2ZVhQX1A0OExXTHpXb3lDbDdaZXNTdWVvRl9fTUlCcEZnUm1DVUNkRXljVFZra0NfcEhpbmhmc2VIWmZEUzdMLWs5RWdkNHF1cEpEV1BxTzVNTEJTdklCQkxqY3AtLXJ3VHpEQWRvempHNURZSC03VWpkajF1NE00ME9CclhmQnhVR3NGTzM5Q3dxSXo1cURiRjNVZVUxZHdaOE9hLUx3cGdNVWUxT2tk?oc=5",
     "news_image": "",
     "news_source": "LSUsports.net",
-    "news_age": "105m ago",
+    "news_age": "107m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -40295,14 +40299,15 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 1.0,
+    "news_score": 0.99,
     "news_title": "World leaders face pressure to act on climate change at COP31 summit in Turkey - kens5.com",
     "news_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSnc0M1B4cVA2aDBNUU1tbXJ2bjRRcFRQSlU0c09KLXhoc0JZV05EYUEyUzk2QkdKMHM1MHQxdGlJTnZKaWEzM2VNVk9ZUmtUenJESEVjS19fM0ZPellhRklCNDRwams5R09tWldGZ09wWUwwY3g2b2lmSmY2azdMY1RBVFFRZmFUZVlJNWFrR1ZaNkZDanMwV2NlWjFuOUtvTnNsZWt6SFN0NnRqX0RtVWxQZEZWRWFZeVdybDU5ZXRXczd2Qlh2VnRVdm9Eclh6Vk9CcXZwc29yYVl2Z2JwdU16cEZfT1JKN3ZR?oc=5",
     "news_image": "",
     "news_source": "kens5.com",
-    "news_age": "77m ago",
+    "news_age": "79m ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -41254,15 +41259,15 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 1.26,
+    "news_score": 1.33,
     "news_title": "EA on TVP World: Trump Sells Out Kyiv on Eve of Ukraine-Russia Talks - EA WorldView",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYlFHZzc5dXFJMkx1SEZld0IwaWZwYy10UjVncnR3RzluX0xWaWF1T3FGUmRuT01kNzVLTjBhUFlYS2E1YnJqX2ZYQW1zUmRvSm5QSEVXUlUwZ2JUUU90Vk1ueXZlNUxNTVFxV2FDVVI3dldHcGFsQlVpNWlNcmVRSVFzX09GVVZxeTUxYg?oc=5",
     "news_image": "",
     "news_source": "EA WorldView",
-    "news_age": "15m ago",
+    "news_age": "17m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -42531,6 +42536,7 @@
     "news_age": "14929h ago",
     "news_columns": [
       "fifa_ranking",
+      "olympic",
       "fifa_w",
       "basket"
     ],
