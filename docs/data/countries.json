@@ -1925,7 +1925,7 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.72,
+    "news_score": 0.93,
     "news_title": "FIP World Cup 2026 recap: Spain double up to beat Argentina to both titles - Red Bull",
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50aW9WbTNCcDBOandlZ2ZHczNxWkk1cFc4bkMxSHh1ZkNteWxOWUNwa3FCT3gxRURLRVJjcjVDQm45NlJsM0RraThKYlp3cnZ5S1VzS3VMNVV3c1YyUDZkSlpnWlFlMy1H?oc=5",
     "news_image": "",
@@ -1933,11 +1933,7 @@
     "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -2554,7 +2550,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.09,
+    "news_score": 0.06,
     "news_title": "Marnus Labuschagne dropped! Australia chief selector makes big announcement - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ09mQXE3WS1EaEtRZmZDeVEyaTFhenFaNmdhcG5CaGlmNHVVRnd4RHJSYmx2amxSbkNvRGdsSGtlX3M5TUZHWnhpS1dQMDlHVW5VRjhTR1dBRmlYc09JMGdkOEZYUk12VVljcUVWeTR3eXdjc05lRnMteEYxTmNhd1A2cklVUGdEYjFxRVJ6SVVwX1pUdFE?oc=5",
     "news_image": "",
@@ -5160,14 +5156,15 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.02,
     "news_title": "2026 São Paulo Grand Prix - Race Report: Team Crowned World Champions in Brazil - Mercedes-AMG PETRONAS F1 Team",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWFGelhGazVhZnk3YnFsRTlXc1k3cDhXS0NwTlRjUUllMGdJbjVOenpkNDBuLVlzSFRKMTJHTHlYay11VlJqenZlb0QwUVZrTjJwM3RhT3JDTjZiMzNQQTkzZkhnUXRiRWxaWTFPZVRMUzBqcWFzSGRpUHo5Q2llbHVhX1FhZEttU3NkYWJkcGZBQQ?oc=5",
     "news_image": "",
     "news_source": "Mercedes-AMG PETRONAS F1 Team",
     "news_age": "15h ago",
     "news_columns": [
-      "olympic"
+      "coffee",
+      "tea_consume"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -6937,7 +6934,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.21,
+    "news_score": 0.2,
     "news_title": "Longevity Innovation Canada: 3 Ageing Population Solutions - World Economic Forum",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbU9kenhCc0tUZVRFdUVYQ1ZfUlZORlRhRUZBbmVKX2NVMGF0SDVIRHZzQi1rRkNJSDBFd21XUm1hbFVwTzJNbm9IV3ljMGlVSkhRRUxzMXhKMlZlUlNXSFZrck9CSUxXc0ZFb1N5VGM2V3JOQ0JWZXhYWG9xOFU4QUZ0SDRIX2dMOE5kNmQyNTZ4QUtJOEZJODRPZzNJcDlhc285NnRJRklxdw?oc=5",
     "news_image": "",
@@ -8009,14 +8006,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.66,
+    "news_score": 0.61,
     "news_title": "The world's 2nd-largest economy extends rare earth relief, while the US continues to insist on backing African projects as it seeks an escape from China’s dominance - Business Insider Africa",
     "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOEo4T3NwdXlfdkgxQkx5Q3dndllFb1VwSXAwUFcydW1GWk5UXzZtdzg4U3ZGRWVfVEhOZ1lNR2t0b1llcW5Gc0EzOWpkaVYwelI2c3pCZU9ZdThYOFJvQU54b2xtZ2lDNTAyZ2t5d2RBZERWR2M5Qm9DQlZwaFdkLWdlc0N0UWFnY0Z4dXFOY2RiVng0Mm1CRHZDeFJOX0oyOGgwZWU3Y3dfcWVQT0ViVG15dUx0cUFKdGhBLXlaSGxTRHZtWmlyNjNDd09uWGJEY01pRVpR?oc=5",
     "news_image": "",
     "news_source": "Business Insider Africa",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic"
+      "basket"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10937,7 +10934,7 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.23,
+    "news_score": 0.22,
     "news_title": "Egypt annual core inflation falls to 13.1% in October: CBE - Economy - Business - Ahram Online",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaHhrYnE5MExPNW0zVGUtRlhPMktnQXRVdmV0WTFWdFk0S05PNU9VYXNXWE9FeDVDazZZRE40dHVZbnJPa3BmWGV1a1Y2SHN1WTFObGE1M0VIeTUzbHpBTXc1X0lXOW5ISG5FVThVV3dMVXVJelM0d2xDdk5kcXR1MjI5blBMQ0xQTXJiNkpDS3ZfWFBEcy1neDl5cjJNTWZfTjdIYnRPSG1wcWtLT2REQkEweGlWSVJ4WFhkMG12TjJuQjQ?oc=5",
     "news_image": "",
@@ -11994,7 +11991,12 @@
     "news_age": "74h ago",
     "bottom50_wealth": null,
     "news_columns": [
-      "olympic"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ]
   },
   {
@@ -13027,11 +13029,11 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaXBxWGkweFBjR2RHeVc1cVg5enA0a2NwRExIZjROaHpmMnFreEtHS1UwUGpOV0R3VjlnNmw3REVSUXhQc1V5ZEpDblpYX19rM1c0ZjN4N2Rqd1ZLVXN5aF9GNllPVFJBSk9lOThEOFYzcm0wbm43UURsZXVJMHdyajlBSmUzSTBWNW9FM1NsVUpZdVhMcWhhYVdqdlpMZFN6dVZkaUdCM3lRX00?oc=5",
     "news_image": "",
     "news_source": "France 24",
-    "news_age": "64m ago",
+    "news_age": "66m ago",
     "news_columns": [
-      "olympic",
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13553,7 +13555,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.58,
+    "news_score": 0.57,
     "news_title": "2026 College Football Rankings: Georgia Reclaims No. 1 As Notre Dame Beats Miami - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONjlCM1JtMXB1WjgzaEN2ZDBKTE83Smhrd1d6aDhfcHlHekdhaklkRjZXbFc1OXBTTFlfZkw5N1ZIR3hPUkUyZlR2c2xzMEdQdWpkVHJNNWRPRmQ1SUNUWTVJR1F4WDViaTRUWHN5eE9SZTA4TTNuR1gwYUNQYUowS19LWnp5YnhDM1ZFdEtVYzNaWjFlUS14VEtXREZxV0JRYm1IaXZ6Z3hrSlp6dlpGWXNEQ0vSAbQBQVVfeXFMTnRyVXk5THAwa2dkZEVQbzNqcFZZRjhUbkdfWm1uS0ZRWXlYcG41RFJmSkxwQ1NfWUxQMG9sSXZpLTFDemdQYWpubGJCRHJsamFFbDFXRTNMZ3h6dnNaV2FocmsyeUFyVXVSS1NicVVqT054Z3Awa0R3XzBaRDJxYjV0dmwtWkI3bXRrV1VveGpFSTJEZUpmSlVXUmJaVTNpcUlDZEFDc1h0UWs4bGM1YU11YTBt?oc=5",
     "news_image": "",
@@ -14057,14 +14059,16 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.02,
     "news_title": "Vietnamese intellectuals in Germany join forces to develop science and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGJjSE1fYXRsNUt4UGNmWGVjTVI2N1JHclNNMTdXR2NxLVl1aDE3VkRRQjVQaU1rTmVEWVV1V20zeUdvWGE2QzE2RDJVbkplaDFiZUY5dmpMSXh1eUM5RzVzTUxnTFF3SEMwT1Jqa050a0V0eXhCcVdmcTVVSTZyS3ppdnlpenhxUmRGRXhHYjM?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
     "news_age": "13h ago",
     "news_columns": [
-      "olympic"
+      "car_density",
+      "gas_price",
+      "co2"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -19251,7 +19255,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zLVBraUlGeU1DU0NjZmU0NmcxLVhkdW9CaWR6aTlyekVLeDU2eGRQMmY2S1N1TndvaXdtdFJrdlY0R2U1bGRNSVFIcVpHNlVmSV9mallIbk91dUFCZHQxSnoyQVFiNGJGc0R6NHJZdw?oc=5",
     "news_image": "",
     "news_source": "Gizmodo",
-    "news_age": "105m ago",
+    "news_age": "107m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -19440,7 +19444,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQalBySmpodUd4c3NhSVE3ZjhWT0FUVk9VbThFVDVXWjByLTJJSDhPcmVNdG4yWDgwR09ubHpTNHhKSWxXczIzLXhDTmtUXzRndGh2eGZtUk5INTBjR25FakNnYnNGTHVlRnBUemtQRGFMSXVVSUhtZHZObnd4bllJakhEZw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "61m ago",
+    "news_age": "64m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -28458,7 +28462,7 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.6,
     "news_title": "FG Secures $200M Loan From World Bank To Boost Fish Production in Nigeria - Legit.ng",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRjRFTHpIQnFVUmo5TnZ5MHd2ZU05TS0xNTFka2pOZU9mUzRZUnhPcU4ySVlLSkI1dklDOXo3YVAzaXR2dWlLNlIwVkUwMU9RNlBodzFPUHVDaEdtdW1yX0tVMzFTa1VPN0xBWnV1SHlsWEJEME53aWRtZW9RSTBJdWZvU0tJRzlxSG51WUF5WnVObG1sUnFjcF8yRzhHOG55NGUxdGVpYWxuUE1XbEtlMmtoLUhMZ3dI?oc=5",
     "news_image": "",
@@ -29675,7 +29679,7 @@
     "refugees_rank": null,
     "union_rate": 70.4,
     "union_rate_rank": null,
-    "news_score": 0.31,
+    "news_score": 0.3,
     "news_title": "Oman’s economy bucks regional turmoil with 4.5% growth forecast - Arabian Business",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONXVUVWNpeHA2TUZTVERhTVhyc0M3X3puaEZfc2tLajJfYUp5dVowZDNudEtWRGNvWVJKZFBvZDJDblFOeS1VRWpvVjlYYkFuMVFpNXU5Szc1VVJsdEN3MGh3Snlwbk53SkVaWVNRdldLeTlEdkcyZmE1U0I1djVBRGJ3?oc=5",
     "news_image": "",
@@ -32329,7 +32333,7 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.0,
     "news_title": "MotoGP: Bezzecchi denies Marquez world title as motorsport returns to Qatar - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM01PN0JGSjZnMXhvaFpzNURtMVFZNjdHYTZ1Y3dleVBrTVhobVU5M29oUXpMb0xQbmJkSnp3QVBXQUYyZktka01OTTdpV3UtT1poMGFmQURUNFpwR1JIVGNyZFFmYmtJREtZT2o5WTRHS3pndFhYN29jV0tCQ0hjNE5MeUJVMDhLSU5vVmE5TnZDSUw0TEJuM3hWNGZiTWFFVmFtTEZZMjkwdzdRMXJMMlBicnNjUXdo0gG-AUFVX3lxTE1jS1kwejhnNThmdXZyZVNEV2kzRHZyWmJyWFV1cXRHX0hDSjlxSG1rRWoydnl0R2NSdnFiZ1RlUlIyX2dlTXZVQXZYRVhBbzhlbTJBcUxtQ1ZPVUVWR1cxRzY4SExxa3BJd01wZmtsSVlFMXloYU1ROEFGRmZtUVV3TEdRMFYwSklqVmNQdlVQaThmOG1velRoSVhMUHlsSUczOV9oYXNfUHdMVWE5X0NHb3V6aXlFTXFqT2lsWXc?oc=5",
     "news_image": "",
@@ -34308,11 +34312,11 @@
     "fifa_ranking_rank": 120,
     "fifa_w_rank": 100,
     "news_score": 0.01,
-    "news_title": "Defence Engineers and Scientists Honoured for Excellence and Innovation in Defence Technology - MINDEF Singapore",
-    "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44SFlPRmZCdFpSZ252TEs2b1pZOEJ6bmJWdGZocEpwUHU0RHUzR3pJZFFFRFVCSVdmM0doUE1Gdy1vVXgybmRGUHJSSnkwSlhCRUp6TzJGTUd5MHZIcUZnSllUWmJGN19DMVRaRHd3Si1INUFmWDhv?oc=5",
+    "news_title": "Singapore Airlines introduces new first and business long-haul cabin products - AeroTime",
+    "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX0lLMzdJSFgyQzZieG0zVzNoV0Y5TlpsX0wyZ2p0ZDF3WEVMbUVFNUFGRXdUZFVaUnFQblpoa0RyTlZBVERGejIzeUhwazBvcDE2NV9wQkZkQjJUN0NyNmZkV3d0UDl4ZFJWMHJSeDBXb2l2eHRUSEFrbTVtcXVENWhfWTdQQkszVTZVQmhibmtveVMtU1NVdFZpTUd0UdIBowFBVV95cUxPb1JkdmZkV25XQTRTaktaZjVKeHJUYXNHX2t0U0g5b0ZXOS1FT3R1SEtMTTZuTkItNDJPTGJtRGZYbnZnTzEwT1A4Z19zOHNOYXVTMzd5SFlxLVJDbzlqemhQVkZzYXpjSmJWLWU5aHp0aVVTMHhOanl3TGp6eW1kejRXYmVvdUZSWmgxaDJsMFFFZXhfT3dHYW5SMnBzMnNRbnJJ?oc=5",
     "news_image": "",
-    "news_source": "MINDEF Singapore",
-    "news_age": "77h ago",
+    "news_source": "AeroTime",
+    "news_age": "76h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -36718,12 +36722,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.48,
-    "news_title": "Spain, England each has 5 on women's soccer World XI team voted by players. US misses out again - KVUE",
-    "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPbWd3WHRNaE1WYTNsQzFCLUFlbkFGaWt4TU9PRE91Y3JBcGdzdjJHMTJoQndKc0xLMEUzVEtvQmJXM05RT0JFeEFXRHBrR0F2VTBiMGxyUW12dHZfLTZqNlM2aWhOamxCUi1McnlpNlZWZWlTSzltQXJnS2tpY01yWXhtWWJWd3NPclViR0thbUlKRmJtWWFybHM0Ukh6Q1p5MFRBMFhBY0JJZFVlOUdJWEcxSkcyc1hDMGhVYmtnUklITmp1aC1HT2Z6MS0td1BVWWZBcGExaDNZakZ5alRTTnBkNGlKYWcwOW84QW9xc2ZLNWtIN2J0X2JTYTMyUmRKeF9wR3BwN2pXWXVmZVI4Z1NIOEhfaEFYblE?oc=5",
+    "news_score": 1.44,
+    "news_title": "Spain, England each has 5 on women's soccer World XI team voted by players. US misses out again - Newsday",
+    "news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xc09ub0JWb202T1Zrd1ItcFpqbWQ4bWl1RlhET09vTk53NnJsWmk0Y0xwbEsyWm9keTVsUElNRVZmeWtxQmozWDlJX0pmS1huWjg5Y1M2amxKYzVDVEpnOGpzWUViblJ0Smw2SVhQRkRCVzg?oc=5",
     "news_image": "",
-    "news_source": "KVUE",
-    "news_age": "55m ago",
+    "news_source": "Newsday",
+    "news_age": "83m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -39093,7 +39097,7 @@
     "refugees_rank": null,
     "union_rate": 75.8,
     "union_rate_rank": null,
-    "news_score": 0.12,
+    "news_score": 0.11,
     "news_title": "Commerce Ministry asks firms to hold prices as four economic strategies advance - Nation Thailand",
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVMFFIaldlQndON2RUYjgyUG4xS01EVGV6c1FKLU1rSHdYSnJ6ZktkSlJoZ2tZTUhlR216YmgyUEhSUnY3V0gtd0JIdzY5bVhNTUVWVmF1MlhUSjEwenVzbXVRQkpWY3M?oc=5",
     "news_image": "",
@@ -42531,7 +42535,8 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43732,12 +43737,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 1.03,
+    "news_score": 1.02,
     "news_title": "Nearly two years of implementing Resolution No. 57-NQ/TW: A historic boost for national science, technology, and digital transformation. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNnJnVU50TUVwb1pzanJNSlhDeFltYWVnR3k5aFFsU2kxQ1hibF8yNjFZN19rYm9zSHdjbVBoemo4cG9QdUVYd0xGYUpocFFTSjRBRWxleExrM2ZtM20zR0FuUGNiYktuaGpBVV9pd2VkY3RJdmU2akF2ald5NkFueXBRc1c4Q0l0OURqaXcweVAxUHFGT2NFWW9kM0VKcS1tak13ZkNYbDBfRFdxSG02MFM2eU9EMjF1YVpteUxYZGIxQnZjQUJ1RTJHVFN5YTFxUV90NkszbTE?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "116m ago",
+    "news_age": "118m ago",
     "news_columns": [
       "lgbtq_rights",
       "gay_marriage",
