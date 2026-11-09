@@ -1925,12 +1925,12 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.85,
+    "news_score": 0.86,
     "news_title": "Pope Leo delivers veiled rebuke of austerity measures in predecessor’s homeland - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObGZQb2t3dmtrRk9rN2l1TWhaV1E0NWdsUFJNbzRCb3RPSWsxRnN5T0V5X2FCM0ZpWEtvd1NhcTVmTVYtWmZvQlNBbFpmMWV1VHR0STRzcHBEeHRlVkRQOEJIc0h6QmZWSndTLVh0M0hWYmFiOF9jYkpQNWVuS194S0tOQUNNR2s5VS00dUsydFh3amF2MHg1MEpURFdLWHNoNE1XejlYZUtXNnNxYUE?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "29m ago",
+    "news_age": "31m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -2553,15 +2553,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.25,
+    "news_score": 0.34,
     "news_title": "Marnus Labuschagne dropped! Australia chief selector makes big announcement - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ09mQXE3WS1EaEtRZmZDeVEyaTFhenFaNmdhcG5CaGlmNHVVRnd4RHJSYmx2amxSbkNvRGdsSGtlX3M5TUZHWnhpS1dQMDlHVW5VRjhTR1dBRmlYc09JMGdkOEZYUk12VVljcUVWeTR3eXdjc05lRnMteEYxTmNhd1A2cklVUGdEYjFxRVJ6SVVwX1pUdFE?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
     "news_age": "5h ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "climate",
+      "environment"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -5165,7 +5165,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWFGelhGazVhZnk3YnFsRTlXc1k3cDhXS0NwTlRjUUllMGdJbjVOenpkNDBuLVlzSFRKMTJHTHlYay11VlJqenZlb0QwUVZrTjJwM3RhT3JDTjZiMzNQQTkzZkhnUXRiRWxaWTFPZVRMUzBqcWFzSGRpUHo5Q2llbHVhX1FhZEttU3NkYWJkcGZBQQ?oc=5",
     "news_image": "",
     "news_source": "Mercedes-AMG PETRONAS F1 Team",
-    "news_age": "11h ago",
+    "news_age": "12h ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -6938,12 +6938,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.6,
+    "news_score": 0.59,
     "news_title": "Longevity Innovation Canada: 3 Ageing Population Solutions - World Economic Forum",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbU9kenhCc0tUZVRFdUVYQ1ZfUlZORlRhRUZBbmVKX2NVMGF0SDVIRHZzQi1rRkNJSDBFd21XUm1hbFVwTzJNbm9IV3ljMGlVSkhRRUxzMXhKMlZlUlNXSFZrck9CSUxXc0ZFb1N5VGM2V3JOQ0JWZXhYWG9xOFU4QUZ0SDRIX2dMOE5kNmQyNTZ4QUtJOEZJODRPZzNJcDlhc285NnRJRklxdw?oc=5",
     "news_image": "",
     "news_source": "World Economic Forum",
-    "news_age": "119m ago",
+    "news_age": "2h ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -8010,7 +8010,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.76,
+    "news_score": 0.74,
     "news_title": "EXPLAINER - Why is the world’s top chipmaker caught in a US-China spy row? - Anadolu Ajansı",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZndJdVhlS3lfM2puRl9HTVQzbVJ5WVY3cFltRktuRW01V050Z0VfeHZoaVhmalk3b2JPNThKSXJCMUJlM1RycDI0eW1PWjZhS18zTGduQm1TMGVDWV9sMDMwdkFicVdCdzZzd2swX3hhbU9xNUxnMVdkVmM5c29CclMtam9KNF9xTHIycmFoUllEbFJEdnROWDBVSS1BQWhiUmNtTUxnQnVtZ2hTVmJDM2V2ejIyTzJ6Q09IYXptWk0?oc=5",
     "news_image": "",
@@ -10942,15 +10942,19 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.85,
+    "news_score": 0.64,
     "news_title": "Egypt annual core inflation falls to 13.1% in October: CBE - Economy - Business - Ahram Online",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaHhrYnE5MExPNW0zVGUtRlhPMktnQXRVdmV0WTFWdFk0S05PNU9VYXNXWE9FeDVDazZZRE40dHVZbnJPa3BmWGV1a1Y2SHN1WTFObGE1M0VIeTUzbHpBTXc1X0lXOW5ISG5FVThVV3dMVXVJelM0d2xDdk5kcXR1MjI5blBMQ0xQTXJiNkpDS3ZfWFBEcy1neDl5cjJNTWZfTjdIYnRPSG1wcWtLT2REQkEweGlWSVJ4WFhkMG12TjJuQjQ?oc=5",
     "news_image": "",
     "news_source": "Ahram Online",
-    "news_age": "101m ago",
+    "news_age": "103m ago",
     "news_columns": [
-      "fifa_ranking",
-      "basket"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": null
   },
@@ -11992,7 +11996,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXFldWc2dDBOQVpuLUNHYkEwOW5RaGxxLTBJZkhoUE5jUndzVXFSX3JkUWdUQWwyb2p4d2tUclBXZ3RGcVhIRzJpS2V0TTh6bF9VUUF6eERBOXBXT0NFUnNMS0F1bFZvTjdKSWprdmtQXzJTSHR3V21LeU9XblliMll0aW8zREo4ekJUQ051bzJkRDBxUTdtMERmZTJuNS1jUmY5SlVJVQ?oc=5",
     "news_image": "",
     "news_source": "The Africa Report",
-    "news_age": "70h ago",
+    "news_age": "71h ago",
     "bottom50_wealth": null,
     "news_columns": [
       "gdp",
@@ -13558,7 +13562,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.4,
+    "news_score": 0.39,
     "news_title": "Re-ranking 138 college football teams after Week 10: Is Georgia’s title run inevitable? - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMTUwaWh3Q1Y3VC1Fb1U3c3V6a2Zlc3RERnNndEZ6M01IVFdNZElGbWxyTU5jRlp2Y291Q001dzljTlZVTWN1bDZiS3NjV2ZrdWpNYjg0Z29hSVdEZmdEZFVlbk5MTk1VVjFMTGlBY3ZyWHhNV1kzOXJwb3lsM0Qtb2RIYTg4M3lLMEQ4WTZ1UnJ6RzJhNC1j?oc=5",
     "news_image": "",
@@ -14062,16 +14066,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.06,
+    "news_score": 0.08,
     "news_title": "Vietnamese intellectuals in Germany join forces to develop science and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGJjSE1fYXRsNUt4UGNmWGVjTVI2N1JHclNNMTdXR2NxLVl1aDE3VkRRQjVQaU1rTmVEWVV1V20zeUdvWGE2QzE2RDJVbkplaDFiZUY5dmpMSXh1eUM5RzVzTUxnTFF3SEMwT1Jqa050a0V0eXhCcVdmcTVVSTZyS3ppdnlpenhxUmRGRXhHYjM?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
     "news_age": "10h ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "climate",
+      "environment"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -17394,15 +17397,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.3,
+    "news_score": 1.29,
     "news_title": "Live Updates: Trump says he sees no reason to escalate war with Iran, touts his long-term goals in the conflict - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zN0FDMkRwcDVyZGFpV0dvRnhidUVyU1hrc2pKQzJZMmlLZDF1bHZ0dzBtMDJLOXc5T0xNYmRuS2Q4eU1QQmFqaHJ1cVg0VGkxcWN3dEZLVlo1UlQ0ckZCaW52b0lHQzVZN2N6UElySjhIWDdXWVh5T24xcmh4Zw?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "14m ago",
+    "news_age": "16m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "geopolitics",
+      "conflict"
     ],
     "bottom50_wealth": null
   },
@@ -18125,12 +18128,12 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.29,
+    "news_score": 0.49,
     "news_title": "Nearly 80 percent of Britons see Israel as a threat to world peace - Middle East Eye",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2VhQmpKRndHUnhIQVFZUXJWakczOGpMeUU1Qi1YczlCeGRGVjF4UWs2eUNtWFMwM1hLcDlvX3RiVHNlMjlWaGJYMmhLQU9JVTFVZzc0TWl4MXJSMTJwblZuZ195VXlIUDFmMldfMlN1dm9BaWl3UTQydldQTE9Ld2hWbVpHaURDQ29fdG1vSldrSGdYb09xNWEteWNIOU9SeGc?oc=5",
     "news_image": "",
     "news_source": "Middle East Eye",
-    "news_age": "8m ago",
+    "news_age": "10m ago",
     "news_columns": [
       "democracy",
       "press",
@@ -18569,7 +18572,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.59,
+    "news_score": 0.58,
     "news_title": "ESLC: Italy earns last qualification spot for 2027 Sixes Championships - World Lacrosse",
     "news_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FdU5LcWZSWGR4X21VbU5EY0FXckhPMkxBTnJHdHk0azBNQzdZc3RLbmN3Nlp5OFc1WHpoaE5WM1hUOERIS3JiWEU4VDQ4VmY1eWxkUm5pdWg?oc=5",
     "news_image": "",
@@ -28467,15 +28470,15 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 2.09,
+    "news_score": 2.04,
     "news_title": "FG Secures $200M Loan From World Bank To Boost Fish Production in Nigeria - Legit.ng",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRjRFTHpIQnFVUmo5TnZ5MHd2ZU05TS0xNTFka2pOZU9mUzRZUnhPcU4ySVlLSkI1dklDOXo3YVAzaXR2dWlLNlIwVkUwMU9RNlBodzFPUHVDaEdtdW1yX0tVMzFTa1VPN0xBWnV1SHlsWEJEME53aWRtZW9RSTBJdWZvU0tJRzlxSG51WUF5WnVObG1sUnFjcF8yRzhHOG55NGUxdGVpYWxuUE1XbEtlMmtoLUhMZ3dI?oc=5",
     "news_image": "",
     "news_source": "Legit.ng",
-    "news_age": "15m ago",
+    "news_age": "17m ago",
     "news_columns": [
-      "fifa_ranking",
-      "basket"
+      "economy",
+      "finance"
     ],
     "bottom50_wealth": null
   },
@@ -29682,12 +29685,12 @@
     "refugees_rank": null,
     "union_rate": 70.4,
     "union_rate_rank": null,
-    "news_score": 0.85,
+    "news_score": 0.84,
     "news_title": "Oman’s economy bucks regional turmoil with 4.5% growth forecast - Arabian Business",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONXVUVWNpeHA2TUZTVERhTVhyc0M3X3puaEZfc2tLajJfYUp5dVowZDNudEtWRGNvWVJKZFBvZDJDblFOeS1VRWpvVjlYYkFuMVFpNXU5Szc1VVJsdEN3MGh3Snlwbk53SkVaWVNRdldLeTlEdkcyZmE1U0I1djVBRGJ3?oc=5",
     "news_image": "",
     "news_source": "Arabian Business",
-    "news_age": "40m ago",
+    "news_age": "42m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -32334,7 +32337,7 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.26,
+    "news_score": 0.25,
     "news_title": "MotoGP: Bezzecchi denies Marquez world title as motorsport returns to Qatar - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM01PN0JGSjZnMXhvaFpzNURtMVFZNjdHYTZ1Y3dleVBrTVhobVU5M29oUXpMb0xQbmJkSnp3QVBXQUYyZktka01OTTdpV3UtT1poMGFmQURUNFpwR1JIVGNyZFFmYmtJREtZT2o5WTRHS3pndFhYN29jV0tCQ0hjNE5MeUJVMDhLSU5vVmE5TnZDSUw0TEJuM3hWNGZiTWFFVmFtTEZZMjkwdzdRMXJMMlBicnNjUXdo0gG-AUFVX3lxTE1jS1kwejhnNThmdXZyZVNEV2kzRHZyWmJyWFV1cXRHX0hDSjlxSG1rRWoydnl0R2NSdnFiZ1RlUlIyX2dlTXZVQXZYRVhBbzhlbTJBcUxtQ1ZPVUVWR1cxRzY4SExxa3BJd01wZmtsSVlFMXloYU1ROEFGRmZtUVV3TEdRMFYwSklqVmNQdlVQaThmOG1velRoSVhMUHlsSUczOV9oYXNfUHdMVWE5X0NHb3V6aXlFTXFqT2lsWXc?oc=5",
     "news_image": "",
@@ -33129,15 +33132,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.72,
+    "news_score": 0.78,
     "news_title": "US-led peace talks for Russia and Ukraine will look at security guarantees for both sides - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOVRvYUFQbS0za2RfNkk2T0xkYnVrcFVoNXZ3SzgwN2RpcTlMWDBha3lINTR1X0JSM0JkaldZMjB2SHFVYzJ2Mi1vcV9vamlQd1pOaWNtLV9aYjFlY1prMFh0ME1tZzdFa194dTJVSG1aU0c5bmZnU1BGWHdvbGhIakk1ekxVcjluRTZtQzJIQ19vSF91bHJsbVV4T1dWa1U?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "70m ago",
+    "news_age": "72m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "geopolitics",
+      "conflict"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -36719,12 +36722,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.86,
+    "news_score": 0.85,
     "news_title": "Víctor Muñoz joins up with the Spain squad - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wUHUxaWhjMlVib1N0V1hjTndiUDBJenF1UEVfZUhXWDNMSjZ6WmZZOHZlcTlKN1NhUEkwaGk3UHVUZXZmSDc3Q2dWdjA1dUpoc2hzTno0bVI5Rm9oWFVPaWlnNlZNa09TN1lFcjFOQTBDQkhMcFE?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "38m ago",
+    "news_age": "40m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -41254,15 +41257,15 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.66,
+    "news_score": 0.74,
     "news_title": "US-led peace talks for Russia and Ukraine will look at security guarantees for both sides - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOVRvYUFQbS0za2RfNkk2T0xkYnVrcFVoNXZ3SzgwN2RpcTlMWDBha3lINTR1X0JSM0JkaldZMjB2SHFVYzJ2Mi1vcV9vamlQd1pOaWNtLV9aYjFlY1prMFh0ME1tZzdFa194dTJVSG1aU0c5bmZnU1BGWHdvbGhIakk1ekxVcjluRTZtQzJIQ19vSF91bHJsbVV4T1dWa1U?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "70m ago",
+    "news_age": "72m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "geopolitics",
+      "conflict"
     ],
     "bottom50_wealth": null
   },
@@ -42530,12 +42533,14 @@
     "news_source": "City of Toronto",
     "news_age": "14923h ago",
     "news_columns": [
+      "nfl",
+      "football",
+      "climate",
+      "environment",
       "fifa_ranking",
       "fifa_w",
-      "nfl",
-      "basket",
-      "climate",
-      "olympic"
+      "geopolitics",
+      "conflict"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
