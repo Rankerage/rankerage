@@ -1,59 +1,67 @@
 {
-  "last_updated": "2026-11-08T21:03:34Z",
+  "last_updated": "2026-11-09T21:00:31Z",
   "total_rankings": 136,
   "total_countries": 197,
   "version": "1.0",
   "update_frequency": "weekly",
-  "global_narrative": "Global sports and geopolitical events dominate headlines, with major narratives around football transfers, World Cup sanctions, Little League World Series, and economic tensions involving the US and China.",
+  "global_narrative": "A heavy sports-and-entertainment news cycle dominated by NFL trade deadline maneuvering, college football's CFP expansion debate, and a cluster of tech/AI and political stories, with legal betting, AI governance, and Trump-era political turbulence as recurring undercurrents.",
   "trending_stories": [
     {
-      "topic": "Klay Thompson's move to Miami Heat",
+      "topic": "NFL trade deadline and Week 10 injury/roster moves",
       "entities": [
-        "US",
-        "MIA",
-        "DAL"
+        "US"
       ],
       "columns": [
-        "basket"
+        "nfl",
+        "football"
       ],
       "weight": 0.9
     },
     {
-      "topic": "FIFA sanctions on Argentina after World Cup brawl",
+      "topic": "College football CFP expansion and conference championship fallout",
       "entities": [
-        "AR",
-        "FIFA"
+        "US"
       ],
       "columns": [
-        "fifa_ranking",
-        "fifa_w"
+        "ncaaf",
+        "football"
       ],
       "weight": 0.8
     },
     {
-      "topic": "Little League World Series ongoing",
-      "entities": [
-        "US"
-      ],
-      "columns": [],
-      "weight": 0.7
-    },
-    {
-      "topic": "US-China economic tensions and tariffs",
+      "topic": "AI industry developments: Anthropic frontier models, Nvidia CEO scandal, AI backlash",
       "entities": [
         "US",
         "CN"
       ],
-      "columns": [],
-      "weight": 0.6
+      "columns": [
+        "tech",
+        "ai"
+      ],
+      "weight": 0.75
     },
     {
-      "topic": "NFL preseason and contract news",
+      "topic": "Trump political turbulence: border wall ruling, midterm rigging claims, Hegseth impeachment",
       "entities": [
         "US"
       ],
-      "columns": [],
-      "weight": 0.5
+      "columns": [
+        "politics",
+        "election"
+      ],
+      "weight": 0.7
+    },
+    {
+      "topic": "Legal sports betting risks and media/betting crossover",
+      "entities": [
+        "US"
+      ],
+      "columns": [
+        "betting",
+        "nfl",
+        "ncaa"
+      ],
+      "weight": 0.55
     }
   ]
 }
