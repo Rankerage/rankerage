@@ -1925,12 +1925,12 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 1.33,
+    "news_score": 1.32,
     "news_title": "Pope Leo delivers veiled rebuke of austerity measures in predecessor’s homeland - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObGZQb2t3dmtrRk9rN2l1TWhaV1E0NWdsUFJNbzRCb3RPSWsxRnN5T0V5X2FCM0ZpWEtvd1NhcTVmTVYtWmZvQlNBbFpmMWV1VHR0STRzcHBEeHRlVkRQOEJIc0h6QmZWSndTLVh0M0hWYmFiOF9jYkpQNWVuS194S0tOQUNNR2s5VS00dUsydFh3amF2MHg1MEpURFdLWHNoNE1XejlYZUtXNnNxYUE?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "23m ago",
+    "news_age": "25m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -8014,7 +8014,8 @@
     "news_source": "Anadolu Ajansı",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking"
+      "ai",
+      "tech"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10935,7 +10936,7 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.44,
+    "news_score": 0.43,
     "news_title": "Egypt annual core inflation falls to 13.1% in October: CBE - Economy - Business - Ahram Online",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaHhrYnE5MExPNW0zVGUtRlhPMktnQXRVdmV0WTFWdFk0S05PNU9VYXNXWE9FeDVDazZZRE40dHVZbnJPa3BmWGV1a1Y2SHN1WTFObGE1M0VIeTUzbHpBTXc1X0lXOW5ISG5FVThVV3dMVXVJelM0d2xDdk5kcXR1MjI5blBMQ0xQTXJiNkpDS3ZfWFBEcy1neDl5cjJNTWZfTjdIYnRPSG1wcWtLT2REQkEweGlWSVJ4WFhkMG12TjJuQjQ?oc=5",
     "news_image": "",
@@ -14062,15 +14063,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.05,
+    "news_score": 0.06,
     "news_title": "Vietnamese intellectuals in Germany join forces to develop science and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGJjSE1fYXRsNUt4UGNmWGVjTVI2N1JHclNNMTdXR2NxLVl1aDE3VkRRQjVQaU1rTmVEWVV1V20zeUdvWGE2QzE2RDJVbkplaDFiZUY5dmpMSXh1eUM5RzVzTUxnTFF3SEMwT1Jqa050a0V0eXhCcVdmcTVVSTZyS3ppdnlpenhxUmRGRXhHYjM?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
     "news_age": "11h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "climate",
+      "cop"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -15450,12 +15451,12 @@
     "refugees_rank": null,
     "union_rate": 65.3,
     "union_rate_rank": null,
-    "news_score": 0.28,
+    "news_score": 0.47,
     "news_title": "Haiti-born soccer prodigy Kiki Ramos joins Grenadiers ahead of youth World Cup - The Haitian Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM1JwaVRCLXhuZVVWNGZOWTlLbHFIREtTUE12U1p3emNCaFZEMzgtYkUzVHNTYkJqVnJuV0xpbHMyT3Rjb0ZpYjQ4ZmxBa2J4SFRqcTByMU5BSE90TmFyYmRrUTdEajBhdFV4NXFyYVJaMlpQTnQ3aXE4R3VOSHJpRWNrMnE?oc=5",
     "news_image": "",
     "news_source": "The Haitian Times",
-    "news_age": "16m ago",
+    "news_age": "18m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -15878,7 +15879,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10Z1VRYnpIenhtdlE0eVB2NFpFU1pILXhTbXRJcTExRm5oSWpiZjNuZzdYNkdvMFdEOWJjM3J3TWxwTThiRzI1WXg4TVFDNXd3a3FhcmFsaE9YRDdLSm9ULUlrTjgxY3A0UVQ4RFFxY0xpZ2JDT1hoWnFQVGtmTlk?oc=5",
     "news_image": "",
     "news_source": "Quantum Zeitgeist",
-    "news_age": "5h ago",
+    "news_age": "6h ago",
     "news_columns": [
       "edu",
       "literacy",
@@ -17391,12 +17392,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.94,
+    "news_score": 0.93,
     "news_title": "Live Updates: Trump says he sees no reason to escalate war with Iran, touts his long-term goals in the conflict - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zN0FDMkRwcDVyZGFpV0dvRnhidUVyU1hrc2pKQzJZMmlLZDF1bHZ0dzBtMDJLOXc5T0xNYmRuS2Q4eU1QQmFqaHJ1cVg0VGkxcWN3dEZLVlo1UlQ0ckZCaW52b0lHQzVZN2N6UElySjhIWDdXWVh5T24xcmh4Zw?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "27m ago",
+    "news_age": "29m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -18566,7 +18567,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.44,
+    "news_score": 0.42,
     "news_title": "ESLC: Italy earns last qualification spot for 2027 Sixes Championships - World Lacrosse",
     "news_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FdU5LcWZSWGR4X21VbU5EY0FXckhPMkxBTnJHdHk0azBNQzdZc3RLbmN3Nlp5OFc1WHpoaE5WM1hUOERIS3JiWEU4VDQ4VmY1eWxkUm5pdWg?oc=5",
     "news_image": "",
@@ -19254,12 +19255,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.79,
+    "news_score": 0.78,
     "news_title": "The rise of the global oligarchic world order - The Japan Times",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0FjaFFfNVA3MjkxWGxVanRONFl5R1Zib19uS2NIX29JOE1FTXZEV3Fob1QtcWZ2bW1wYWZFa3A3UUZ5SVdYN051TTlGbjdQUXdMaXJMSmtNYThxd182b0ZZVDZFMnI1QVViOV9lLWR0VGNoZWotdGdyMU1DSGY5Ql9zVzNMZDg?oc=5",
     "news_image": "",
     "news_source": "The Japan Times",
-    "news_age": "93m ago",
+    "news_age": "95m ago",
     "news_columns": [
       "olympic"
     ],
@@ -28466,7 +28467,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRjRFTHpIQnFVUmo5TnZ5MHd2ZU05TS0xNTFka2pOZU9mUzRZUnhPcU4ySVlLSkI1dklDOXo3YVAzaXR2dWlLNlIwVkUwMU9RNlBodzFPUHVDaEdtdW1yX0tVMzFTa1VPN0xBWnV1SHlsWEJEME53aWRtZW9RSTBJdWZvU0tJRzlxSG51WUF5WnVObG1sUnFjcF8yRzhHOG55NGUxdGVpYWxuUE1XbEtlMmtoLUhMZ3dI?oc=5",
     "news_image": "",
     "news_source": "Legit.ng",
-    "news_age": "99m ago",
+    "news_age": "101m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -31649,12 +31650,12 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.61,
     "news_title": "Gunman with far-right views who killed 6 in Poland shooting rampage dies in hospital, police say - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlNIYWhOQzdvWjlnaU53QlVSZEhEMnYzZU5Zd2Z0TlFJVVQyeW5RSnRXN3ZhUDdFTE01Ym1jWEdEZ2szYVBmdk5YNWZaQl9lLVBEUkw5SWtLc1ZQMWRPekJqeFdJbGVJX2IybnljdThJQVFqYWluNll4WVBEOUtqVlYzQWNTVi1CYUdobE9WcUdBc1dGMFlqLU1ON0lzbzA?oc=5",
     "news_image": "",
     "news_source": "NBC News",
-    "news_age": "113m ago",
+    "news_age": "115m ago",
     "news_columns": [
       "doctors",
       "beds",
@@ -33122,7 +33123,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.25,
+    "news_score": 0.24,
     "news_title": "Ukraine Peace Talks Are Restarting After 9 Months. Here’s What to Expect. - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOE9NUS1DRlJBNF9FaU1BcU5LNjFfX2I2eHRaRkYwOXdLWmdyLU5aUjdLeVJ1WV9nTUQtYVhXNkFfTjQ5dk5hdzJneTJxS0FmNHZKODR0cHpiUTVBanU5S0JGbk5ZTXBjaWNXWGFXN2hRRy13UGZEUWZkUGR4SEl6ODduQXNjQQ?oc=5",
     "news_image": "",
@@ -36721,7 +36722,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50aW9WbTNCcDBOandlZ2ZHczNxWkk1cFc4bkMxSHh1ZkNteWxOWUNwa3FCT3gxRURLRVJjcjVDQm45NlJsM0RraThKYlp3cnZ5S1VzS3VMNVV3c1YyUDZkSlpnWlFlMy1H?oc=5",
     "news_image": "",
     "news_source": "Red Bull",
-    "news_age": "84m ago",
+    "news_age": "86m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -39095,7 +39096,7 @@
     "refugees_rank": null,
     "union_rate": 75.8,
     "union_rate_rank": null,
-    "news_score": 0.23,
+    "news_score": 0.22,
     "news_title": "Commerce Ministry asks firms to hold prices as four economic strategies advance - Nation Thailand",
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVMFFIaldlQndON2RUYjgyUG4xS01EVGV6c1FKLU1rSHdYSnJ6ZktkSlJoZ2tZTUhlR216YmgyUEhSUnY3V0gtd0JIdzY5bVhNTUVWVmF1MlhUSjEwenVzbXVRQkpWY3M?oc=5",
     "news_image": "",
@@ -41252,7 +41253,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.23,
+    "news_score": 0.22,
     "news_title": "Ukraine Peace Talks Are Restarting After 9 Months. Here’s What to Expect. - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOE9NUS1DRlJBNF9FaU1BcU5LNjFfX2I2eHRaRkYwOXdLWmdyLU5aUjdLeVJ1WV9nTUQtYVhXNkFfTjQ5dk5hdzJneTJxS0FmNHZKODR0cHpiUTVBanU5S0JGbk5ZTXBjaWNXWGFXN2hRRy13UGZEUWZkUGR4SEl6ODduQXNjQQ?oc=5",
     "news_image": "",
@@ -42532,10 +42533,12 @@
     "news_source": "City of Toronto",
     "news_age": "14924h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic",
-      "basket",
-      "fifa_w"
+      "nfl",
+      "fantasy_football",
+      "ncaa_football",
+      "cfp",
+      "ai",
+      "tech"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
