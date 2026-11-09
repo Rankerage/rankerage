@@ -1925,7 +1925,7 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.63,
+    "news_score": 0.8,
     "news_title": "Apostolic Journey to Argentina: Meeting with the world of work - The Holy See",
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYk1TNVdwdjMwLVJjWjdVLWFKVEhsTFdCcXhyWldndWowQ3lsM2J4SThybzV1WU1RNzQxYjNkUktqWndqalVwN29FTkVobS1PZUFRaTdCOXV0ZWZIcWFJUFp0TEpKaHlqdmFFQ190b2FNdkdIVmlfeWlUXzhaVUx1eWRySkZPUXZ1d0NYbUpXT05xME5yMkpsMVpTeVN5SFZwUTN1RmI2N2ZCcTdrQWc1Q3FSc1hyeEpFWXBoQlRaQ1hhTXNQeTRqWA?oc=5",
     "news_image": "",
@@ -5165,7 +5165,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWFGelhGazVhZnk3YnFsRTlXc1k3cDhXS0NwTlRjUUllMGdJbjVOenpkNDBuLVlzSFRKMTJHTHlYay11VlJqenZlb0QwUVZrTjJwM3RhT3JDTjZiMzNQQTkzZkhnUXRiRWxaWTFPZVRMUzBqcWFzSGRpUHo5Q2llbHVhX1FhZEttU3NkYWJkcGZBQQ?oc=5",
     "news_image": "",
     "news_source": "Mercedes-AMG PETRONAS F1 Team",
-    "news_age": "66m ago",
+    "news_age": "68m ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -6938,7 +6938,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.18,
+    "news_score": 0.17,
     "news_title": "Norway says it has been bumped by the IIHF to allow Russia to compete at world juniors in Canada - CBC",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPME5uUi1kVUYzS0drcmlvZ2pXRzZUNlpGWFJtUmU5SFVuS2JNb3dIUy1NZXFXaGVlajNhMFNYSWhWNjRRdkZuTzd6dmd0b2tkbTVjSnRBR0tjcC1qZjVPV1htelBxeWZHTHF6bzlJSm5ZUTZFVlVvYXYzdUFiUi1rTUVXa0hKSEgzU0VFTEZfUGt3bTVjY1RtZ0FxN3BfMnF0d01hMGFwSl9xWVE?oc=5",
     "news_image": "",
@@ -8018,7 +8018,10 @@
     "news_source": "International Weightlifting Federation |",
     "news_age": "10h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10938,12 +10941,12 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.5,
+    "news_score": 0.64,
     "news_title": "Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmtvRmxJVkRJR3Jfa3lIdUhONjVGYlIxN1pjeXRHcWZ4ZG9OR1RuaGE5UFBmNWpuUldOVkZMWTVRcDQ4bjh5R0d2X1VUNGtZb3EzWWVzdjNhVi0xcFJlZDhscWQ0YlhWRWstbjdFZEpnOVJab1FjWWlzVnNpQ1A4Q1VXZ1RUR1pzWmNuekJHamJaUkNIbkc4V2JrbVRXaHptQU1iN3NtWjZxMUdqb1VXZUJYb2xjZkk?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "3h ago",
+    "news_age": "6m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -13034,7 +13037,10 @@
     "news_source": "Yahoo Sports",
     "news_age": "12h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17391,14 +17397,18 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.18,
+    "news_score": 0.88,
     "news_title": "Crude Oil Price Falls As Trump Says New Iran Attacks 'Unlikely' - News18",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONi1jVzg2a2FyWG9GQ3pPYWlYOVhDcFlrNEpOVm1CMGJSNk9ZSHp6VThTNndLTW5GaXhTc01MX21oLW5aMlNLS18yT3NhZ2FkRGkyNkF3ZVItb004UzRfcV9aYkNkMjhEc19OQ0NOaUdRU0FSdVlMUXlLTXZlVkw2R2VWVnZlN0UtOU00SkI1TGVCQ21reW1jbnNsZGtVWEktUXpyaGNYTGhDSl9xQ2g3endONlVQcll4YnpEQtIBwgFBVV95cUxNVWNGRl9YQ25Ma05qUDdhTXpreGFaZ3lFZ2NpbUF0S0NHVzBJaWhvbEZuVXJWc1JsVjZKWU5lTTJaWU5OdnNRSzdwbnNpejRXWUhWdVFKU2tub2dHQXYwd0ktaVUwbVJLUmJ5S0RmdjhyYnVGdUM2UnhjTE1YWnV4TlV4T1dsMUluSzJNZFppUEJ0ZnV5X2cxb3BkUjdfcFRJNFBvdEs1VTZMbmZFWlZsMHVyWjNDZVZuYmRWYWFiSmlYZw?oc=5",
     "news_image": "",
     "news_source": "News18",
-    "news_age": "19m ago",
+    "news_age": "21m ago",
     "news_columns": [
-      "fifa_ranking"
+      "gas_price",
+      "energy_per_capita",
+      "co2",
+      "renew",
+      "exports"
     ],
     "bottom50_wealth": null
   },
@@ -19442,12 +19452,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 1.05,
+    "news_score": 1.14,
     "news_title": "Jordan Love, Packers offense give Patriots' $135 million cornerback nightmares - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVzZyU2pPNTN4c0s3SVR6RFFQOW5SYTZydFRMLXlXVGNnODN4V3E2aGx5RzBIc2JyX0FkTkR2bTlBRnVPSl9tTEVIVnQyYzc1ZlFJbGhLeUY1QjhmVG9McnVZY2dVRVNmVkZpQlNXVmZFeHYyZDI3YVZEYWtaS2FaWTlkT3BQdmxtek1TLVNB?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "31m ago",
+    "news_age": "33m ago",
     "news_columns": [
       "democracy",
       "press",
@@ -27998,7 +28008,7 @@
     "refugees_rank": null,
     "union_rate": 69.0,
     "union_rate_rank": null,
-    "news_score": 0.36,
+    "news_score": 0.41,
     "news_title": "Puerto Rico@Nicaragua - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSl93WHJScElBMW1yeFZIcWdQQTJvVUJJLS1RVUJTWUROY1BkMFRnaFhXUXlLdVdvdnVJRWdEOGRuWXNUa0VPVUE0SWRDUE5LZHlzM2xMWG9iVlM3Y0NMcTU4ek1kYmVEU3pjOE5fVzZDN2R0TGxkVXN5RWN6SzFKWnl3LWlHLVRYcFhDLVZhbERtZVEwNFNEZHVEY1lSRHdYLXlMY2tqWVc?oc=5",
     "news_image": "",
@@ -29498,7 +29508,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.2,
+    "news_score": 0.19,
     "news_title": "Norway says it has been bumped by the IIHF to allow Russia to compete at world juniors in Canada - CBC",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPME5uUi1kVUYzS0drcmlvZ2pXRzZUNlpGWFJtUmU5SFVuS2JNb3dIUy1NZXFXaGVlajNhMFNYSWhWNjRRdkZuTzd6dmd0b2tkbTVjSnRBR0tjcC1qZjVPV1htelBxeWZHTHF6bzlJSm5ZUTZFVlVvYXYzdUFiUi1rTUVXa0hKSEgzU0VFTEZfUGt3bTVjY1RtZ0FxN3BfMnF0d01hMGFwSl9xWVE?oc=5",
     "news_image": "",
@@ -32118,7 +32128,7 @@
     "refugees_rank": null,
     "union_rate": 56.8,
     "union_rate_rank": null,
-    "news_score": 0.36,
+    "news_score": 0.41,
     "news_title": "Puerto Rico@Nicaragua - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSl93WHJScElBMW1yeFZIcWdQQTJvVUJJLS1RVUJTWUROY1BkMFRnaFhXUXlLdVdvdnVJRWdEOGRuWXNUa0VPVUE0SWRDUE5LZHlzM2xMWG9iVlM3Y0NMcTU4ek1kYmVEU3pjOE5fVzZDN2R0TGxkVXN5RWN6SzFKWnl3LWlHLVRYcFhDLVZhbERtZVEwNFNEZHVEY1lSRHdYLXlMY2tqWVc?oc=5",
     "news_image": "",
@@ -33124,7 +33134,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.27,
+    "news_score": 0.19,
     "news_title": "Norway says it has been bumped by the IIHF to allow Russia to compete at world juniors in Canada - CBC",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPME5uUi1kVUYzS0drcmlvZ2pXRzZUNlpGWFJtUmU5SFVuS2JNb3dIUy1NZXFXaGVlajNhMFNYSWhWNjRRdkZuTzd6dmd0b2tkbTVjSnRBR0tjcC1qZjVPV1htelBxeWZHTHF6bzlJSm5ZUTZFVlVvYXYzdUFiUi1rTUVXa0hKSEgzU0VFTEZfUGt3bTVjY1RtZ0FxN3BfMnF0d01hMGFwSl9xWVE?oc=5",
     "news_image": "",
@@ -41252,14 +41262,19 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.39,
+    "news_score": 0.31,
     "news_title": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR?oc=5",
     "news_image": "",
     "news_source": "Reuters",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -42527,9 +42542,9 @@
     "news_source": "The Washington Post",
     "news_age": "8h ago",
     "news_columns": [
-      "golf",
       "fifa_ranking",
-      "nfl",
+      "fifa_w",
+      "olympic",
       "basket"
     ],
     "bottom50_wealth": 1.5,
@@ -43447,7 +43462,7 @@
     "union_rate": 56.6,
     "union_rate_rank": null,
     "fifa_w_rank": 40,
-    "news_score": 0.56,
+    "news_score": 0.55,
     "news_title": "Korea@Venezuela - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObE14amJrTE1zcEhMSnBZSnhrNXJ2eXVlVVZZYVpRZFpla2V1eE1JZlZ5cVhsb0lzaG1DTUlJS3NZck04MWJkUDVWZmNUMHE0bWc2aGUwQUo4N1Bnd29YeW9mSDBUWnladkV4TjlFV3RDU2MzUDdrNjJXSDlLS1pXM3Q5NW5TYW1CdHVneE1ET3BCb0tIeVV0akxQN0V5SlVIVVRyZkwwczA?oc=5",
     "news_image": "",
