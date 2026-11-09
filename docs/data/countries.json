@@ -1925,17 +1925,17 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.61,
-    "news_title": "Pope Leo delivers veiled rebuke of austerity measures in predecessor’s homeland - The Washington Post",
-    "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObGZQb2t3dmtrRk9rN2l1TWhaV1E0NWdsUFJNbzRCb3RPSWsxRnN5T0V5X2FCM0ZpWEtvd1NhcTVmTVYtWmZvQlNBbFpmMWV1VHR0STRzcHBEeHRlVkRQOEJIc0h6QmZWSndTLVh0M0hWYmFiOF9jYkpQNWVuS194S0tOQUNNR2s5VS00dUsydFh3amF2MHg1MEpURFdLWHNoNE1XejlYZUtXNnNxYUE?oc=5",
+    "news_score": 0.52,
+    "news_title": "Roma will not release Molina for Argentina duty despite World Cup ban being reduced - Yahoo Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa19fMHdMOGNrRjBvaTVpQjFtWVk2dG5xRVNxQjZQVkRtajhjN010X0w1RkNfNjlJa09WZDJIT0FCMTBZcTRDQmMxMkdBN2pGWWRfNkMxUGNUamdzX1VqZGhjUlRNbXZOemNRdHZodkx5OXE2MjBabE81d3VkcnBqaDNpRndNTExWRmc?oc=5",
     "news_image": "",
-    "news_source": "The Washington Post",
-    "news_age": "2h ago",
+    "news_source": "Yahoo Sports",
+    "news_age": "4h ago",
     "news_columns": [
-      "democracy",
-      "approval",
-      "press",
-      "election_days"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -5162,17 +5162,17 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.68,
+    "news_score": 0.5,
     "news_title": "Richard Wendel celebrates call-up, unity key for Brazil at U17 World Cup - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcGRob2N4OVY1X1VsWmxuZHlHR0VYZkJsMV92UkJGRkFCeEEzeldRYWtLajJ3c2JIRV93MEZ2aWtKVUN2amkxVUZub05KS0s4ekRpQTBERDhBclhiQzZ0OXZURktfR05fNWtPOS1uQjI4UEs1TTdpc2NacXdmd1hkeHkwUmRHUGdqSUNJdXln?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_w",
       "fifa_ranking",
+      "fifa_w",
       "olympic",
-      "golf"
+      "basket"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -6947,7 +6947,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIR1o5VjVhSThZNGE2MklXZmxCVXN5cWxtTHRjb3VSUzV6bHhuMEI2TU94ZE9qTUw0WVZBSEtjbjZHYmIyZVJUY01PYjdzRE1IX2JxYUdnNzlOTmZSVm1Hbnh3V3pBY2ZXb2VsTTFnbnNGOGg4amhEXw?oc=5",
     "news_image": "",
     "news_source": "Financial Post",
-    "news_age": "87m ago",
+    "news_age": "89m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -8017,15 +8017,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.4,
+    "news_score": 1.32,
     "news_title": "Exclusive | U.S. Balks at China’s Demand for Tightly Scripted Trump-Xi-Putin Summit - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObnAzVTNhOC15X1poVDJLYlpWdnNSOU9oemg4ajhpeHJjbDhrdkFoYUZTWVYzbFQ4N3J5YmxESUxDeTF6TkNiUVZqSVNCUWd1Y1F4Vl9rV0NwQnNNWEZDT3NxODBuRG1CNUdGdU1RcDNIcjhDSDA5U1dzbHp3YnUtRHRyT2N6ZHhjRVVOdWc3OWNvbWs1YkJkcVVhNzV0WlJBV01LdGR4S28zYzU2SHhz?oc=5",
     "news_image": "",
     "news_source": "WSJ",
-    "news_age": "58m ago",
+    "news_age": "60m ago",
     "news_columns": [
-      "politics",
-      "geopolitics"
+      "geopolitics",
+      "diplomacy"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -9077,7 +9077,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 128,
     "fifa_w_rank": 69,
-    "news_score": 0.33,
+    "news_score": 0.32,
     "news_title": "Cuba Highlights Scope of the New Science Law - teleSUR English",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOWVLRVRleHotdF90SGoxako0Qk1mclllU3pDV0tCcXpURGNVNDR1OW5OTl9nWWVVblc1cmhSd1h2XzRhTTZfbVdSc0xvWTBEQTJJLVpITlA0ZDZ4SDBCVURpUVFuSVhpUEhDcW5KLXRnMGhoSjBmQnNyaF9YMWxucFJR?oc=5",
     "news_image": "",
@@ -9561,7 +9561,7 @@
     "refugees_rank": null,
     "union_rate": 77.5,
     "union_rate_rank": null,
-    "news_score": 0.61,
+    "news_score": 0.45,
     "news_title": "Bubenik Represents Czech Republic At U23 Baseball World Cup - UNC Wilmington Athletics",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUQyRFhnUWtGLU5zaHlTS2lOMFJNSVFxRXJPck0tdUxlMUNfcGlfcVBOU2tIdnd3YTdPQXQxZE5NRW5UVlhfTHlDY2paSUlWeWNmdUVaTGtmTWY1WjhmNlhWVTZnVk5hSUNfeVJpZVNRblRpak1BZFpISlowMGxncEdRZTVGOGlQTms4TTk1ZlNlWW1MbGF3dWU5NF9QdE00cVoyZA?oc=5",
     "news_image": "",
@@ -9569,10 +9569,10 @@
     "news_age": "2h ago",
     "bottom50_wealth": null,
     "news_columns": [
-      "fifa_w",
       "fifa_ranking",
+      "fifa_w",
       "olympic",
-      "golf"
+      "basket"
     ],
     "election_title": "Czech Senate"
   },
@@ -13035,16 +13035,18 @@
     "child_marriage": null,
     "child_marriage_rank": null,
     "news_score": 0.43,
-    "news_title": "Iran was behind cyber-attack on French supermarket freezers, Paris says - The Guardian",
-    "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVWlQTHZobVhFeEl5THdwQ2FRUV9fTGl3LVlqWjl1emJ1TkdIbm5hMmN6NVpOZmN0Nld5OUd5dGNDSThvYkx4V2NhMC1mTTdwb3FNR2piSGlNMkp2VzBqaUFZNU1FN3pkYlUyRjk3SGwzekRYYmgxRDZpZV9OR2lsNG9zb3Z1WG5oV0xPN1FfLVRRQl9qX3BNNXVrUDZIemtfOEFnaXZpUkY5NDlGMUR0S3JvUEtRQi1UUkVUU1dFMnFUVnVKZFE?oc=5",
+    "news_title": "France accuses Iran of supermarket fridge hacking - BBC",
+    "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzeFI0SDNQMm9ieHFIWGNtSFV6cEliY0dwOUhXNE9NODFkSTZKUktramxLV0ZHS1BaN3RZX1pTWEtsNmZxSVlBQTNfN2I0Rlk4NTlCdnRnUElYbUE?oc=5",
     "news_image": "",
-    "news_source": "The Guardian",
+    "news_source": "BBC",
     "news_age": "4h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
       "stock_market",
-      "reserves"
+      "reserves",
+      "internet_pct",
+      "netspeed"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13566,19 +13568,17 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.15,
-    "news_title": "2026 College Football Rankings: Georgia Reclaims No. 1 As Notre Dame Beats Miami - FOX Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONjlCM1JtMXB1WjgzaEN2ZDBKTE83Smhrd1d6aDhfcHlHekdhaklkRjZXbFc1OXBTTFlfZkw5N1ZIR3hPUkUyZlR2c2xzMEdQdWpkVHJNNWRPRmQ1SUNUWTVJR1F4WDViaTRUWHN5eE9SZTA4TTNuR1gwYUNQYUowS19LWnp5YnhDM1ZFdEtVYzNaWjFlUS14VEtXREZxV0JRYm1IaXZ6Z3hrSlp6dlpGWXNEQ0vSAbQBQVVfeXFMTnRyVXk5THAwa2dkZEVQbzNqcFZZRjhUbkdfWm1uS0ZRWXlYcG41RFJmSkxwQ1NfWUxQMG9sSXZpLTFDemdQYWpubGJCRHJsamFFbDFXRTNMZ3h6dnNaV2FocmsyeUFyVXVSS1NicVVqT054Z3Awa0R3XzBaRDJxYjV0dmwtWkI3bXRrV1VveGpFSTJEZUpmSlVXUmJaVTNpcUlDZEFDc1h0UWs4bGM1YU11YTBt?oc=5",
+    "news_score": 0.18,
+    "news_title": "Georgia football lands commitment from five-star OT Mark Matthews - Yahoo Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWVVc1lKb0hyMlR3ZVdqanIwYmVpVGtCaFp1V2ZaV0VHWGVGV2VZY3FWbDhWaXdKeTRWZHEyWDVldkpIcENtdXMzYWxWQ1FNbERXQ1ZzTmFmZU83MFFHcmd6TTh6dTBHbVJnTDVNSGRFUjh2bDZtaE1kZkV6LWdEYXV3WHhQNE9MVlA0UXhJUlU?oc=5",
     "news_image": "",
-    "news_source": "FOX Sports",
-    "news_age": "7h ago",
+    "news_source": "Yahoo Sports",
+    "news_age": "6h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
       "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -15464,7 +15464,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM1JwaVRCLXhuZVVWNGZOWTlLbHFIREtTUE12U1p3emNCaFZEMzgtYkUzVHNTYkJqVnJuV0xpbHMyT3Rjb0ZpYjQ4ZmxBa2J4SFRqcTByMU5BSE90TmFyYmRrUTdEajBhdFV4NXFyYVJaMlpQTnQ3aXE4R3VOSHJpRWNrMnE?oc=5",
     "news_image": "",
     "news_source": "The Haitian Times",
-    "news_age": "6h ago",
+    "news_age": "7h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -17402,12 +17402,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.53,
+    "news_score": 1.44,
     "news_title": "Exclusive | U.S. Balks at China’s Demand for Tightly Scripted Trump-Xi-Putin Summit - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObnAzVTNhOC15X1poVDJLYlpWdnNSOU9oemg4ajhpeHJjbDhrdkFoYUZTWVYzbFQ4N3J5YmxESUxDeTF6TkNiUVZqSVNCUWd1Y1F4Vl9rV0NwQnNNWEZDT3NxODBuRG1CNUdGdU1RcDNIcjhDSDA5U1dzbHp3YnUtRHRyT2N6ZHhjRVVOdWc3OWNvbWs1YkJkcVVhNzV0WlJBV01LdGR4S28zYzU2SHhz?oc=5",
     "news_image": "",
     "news_source": "WSJ",
-    "news_age": "58m ago",
+    "news_age": "60m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -19270,12 +19270,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.59,
+    "news_score": 0.68,
     "news_title": "Faceless workers and a tsunami of Post-it notes: the surreal world of Japan’s salarymen – in pictures - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRGJ1TWdlXzJMS1ZSenBiVGgtcVRqQllqMVlZLTRMcUZHeXZka2lFa3JvVjNkTEhJLU5oaXV1dlBDMGM5dGpxR2dwcndYQTRqWnFVcnpPODNnUDh3a3NwZkJVdUJJZGZMSm9BNGVxelpWajdYbVdsTC11Zk1XRVlNNV96TEpBX1dHbEFtdUJudkhFYkZQa3hXYUdydEI1VEhaZlJfN1dCZ185d2l0VEkweXZsOV9wb2dUSUp5TURlSVZ0MDdkZmxfazdjZGR2Si10aExqbmswV3JZVHZtZGVCaUF5Z2J3Z3pUdDJfR1hFTQ?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "44m ago",
+    "news_age": "46m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -26150,12 +26150,12 @@
     "union_rate": 79.1,
     "union_rate_rank": null,
     "fifa_w_rank": 112,
-    "news_score": 0.87,
+    "news_score": 0.86,
     "news_title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates - UN News",
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SdVpvLTl3Qi01N0RVTWxpRXZJdkg4ODlRa2NIRmZDWXlreTYzc3Fac3NMWTh2NFlwMS1POVlaTVVlUWVxbF9tUmI1OGxEQWdsektXdE1UQQ?oc=5",
     "news_image": "",
     "news_source": "UN News",
-    "news_age": "36m ago",
+    "news_age": "38m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -33151,15 +33151,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.87,
+    "news_score": 0.82,
     "news_title": "EA on TVP World: Trump Sells Out Kyiv on Eve of Ukraine-Russia Talks - EA WorldView",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYlFHZzc5dXFJMkx1SEZld0IwaWZwYy10UjVncnR3RzluX0xWaWF1T3FGUmRuT01kNzVLTjBhUFlYS2E1YnJqX2ZYQW1zUmRvSm5QSEVXUlUwZ2JUUU90Vk1ueXZlNUxNTVFxV2FDVVI3dldHcGFsQlVpNWlNcmVRSVFzX09GVVZxeTUxYg?oc=5",
     "news_image": "",
     "news_source": "EA WorldView",
-    "news_age": "113m ago",
+    "news_age": "115m ago",
     "news_columns": [
-      "politics",
-      "geopolitics"
+      "geopolitics",
+      "diplomacy"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -39116,7 +39116,7 @@
     "refugees_rank": null,
     "union_rate": 75.8,
     "union_rate_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.41,
     "news_title": "Three LSU Women's Golfers Competing In World University Championships In Thailand - LSUsports.net",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGVtZ3doQjU2ZVhQX1A0OExXTHpXb3lDbDdaZXNTdWVvRl9fTUlCcEZnUm1DVUNkRXljVFZra0NfcEhpbmhmc2VIWmZEUzdMLWs5RWdkNHF1cEpEV1BxTzVNTEJTdklCQkxqY3AtLXJ3VHpEQWRvempHNURZSC03VWpkajF1NE00ME9CclhmQnhVR3NGTzM5Q3dxSXo1cURiRjNVZVUxZHdaOE9hLUx3cGdNVWUxT2tk?oc=5",
     "news_image": "",
@@ -41275,15 +41275,19 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.87,
+    "news_score": 0.61,
     "news_title": "EA on TVP World: Trump Sells Out Kyiv on Eve of Ukraine-Russia Talks - EA WorldView",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYlFHZzc5dXFJMkx1SEZld0IwaWZwYy10UjVncnR3RzluX0xWaWF1T3FGUmRuT01kNzVLTjBhUFlYS2E1YnJqX2ZYQW1zUmRvSm5QSEVXUlUwZ2JUUU90Vk1ueXZlNUxNTVFxV2FDVVI3dldHcGFsQlVpNWlNcmVRSVFzX09GVVZxeTUxYg?oc=5",
     "news_image": "",
     "news_source": "EA WorldView",
-    "news_age": "113m ago",
+    "news_age": "115m ago",
     "news_columns": [
-      "politics",
-      "geopolitics"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "car_density"
     ],
     "bottom50_wealth": null
   },
@@ -42553,12 +42557,12 @@
     "news_columns": [
       "nfl",
       "fantasy_football",
+      "ncaaf",
       "cfp",
-      "ncaa_football",
+      "nasdaq",
+      "dow",
       "politics",
-      "geopolitics",
-      "markets",
-      "ai"
+      "election"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -44291,12 +44295,12 @@
     "union_rate": 34.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 119,
-    "news_score": 0.87,
+    "news_score": 0.86,
     "news_title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates - UN News",
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SdVpvLTl3Qi01N0RVTWxpRXZJdkg4ODlRa2NIRmZDWXlreTYzc3Fac3NMWTh2NFlwMS1POVlaTVVlUWVxbF9tUmI1OGxEQWdsektXdE1UQQ?oc=5",
     "news_image": "",
     "news_source": "UN News",
-    "news_age": "36m ago",
+    "news_age": "38m ago",
     "news_columns": [
       "fifa_ranking"
     ],
