@@ -1925,7 +1925,7 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.2,
+    "news_score": 0.19,
     "news_title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYWZxS3E1dS1jTHZLaUFGay1COFZDZkpUMjhmQ2NoOFhSS1R3b1VCc2EzdFFINEM2VWJJT3VtNkRfYTRWRkYyTXRmVW1RcE56dndKVUZvaGxwdmF3UEItamlLY21lc1pkbHRUeUFqelQxeVZseE1IUlRtdXFDWnROWF8zZG8yVWdYU2stbGVscTRuQXJUMG9hNXBhV0VFbGQ3UXc?oc=5",
     "news_image": "",
@@ -2552,7 +2552,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.46,
+    "news_score": 0.45,
     "news_title": "Reece Walsh hat-trick drives Australia past Samoa and into Rugby League World Cup final - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUDV0U1RISk1FazJzcTNzbGFHZFBZRnRZeDJodlFuVVhaZTk2YnVYaE9fRkNVQ0FScUh6Y21JR0N4dVBocm9XMERDNFk0emxJYktsc3FnZkdrVlZGLTE4TUs4eFRvU1Nhek1zRkt6NF9RVVVxcllLazZaRkp4QkRWbWRKN05KYXdUZkhfS09ERW5iSEw5Ykp2d2g0aXlMLW5WdmJZZ0QwYXNFUXV6emFzNlZFcVhGUS1ySVlPVk9uWXo?oc=5",
     "news_image": "",
@@ -8016,10 +8016,14 @@
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcm1tR2Voci0zUnpsNlVhbzdXQ19DNDB3anhvdU9HZGRtYjE0akY0b0VHZi0xUndnYTkxOExkOHUyTmxHNnJMZzFldjRDRXFxNDE1S2ZZX014aWhxdFFqR1ExbGFEV0FDNHBuMElPOVNwZjYwY20ydlJna2hoN3N5OTJEbGRJbmxwOXZFZWdzMjd6UklTZTRabVBiNkE?oc=5",
     "news_image": "",
     "news_source": "WSJ",
-    "news_age": "3h ago",
+    "news_age": "4h ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "climate",
+      "temperature",
+      "emissions",
+      "stock",
+      "market",
+      "ai"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -9262,12 +9266,12 @@
     "union_rate": 79.3,
     "union_rate_rank": null,
     "fifa_w_rank": 89,
-    "news_score": 0.52,
+    "news_score": 0.55,
     "news_title": "EXCLUSIVE: Covert Russian network exploited French riots on social media, EU report says - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0hpUFBLeDI4ZDJzc25aU0VuT0FKVkNBSHhEMHgyVUlXc0NGcXVyYjJZcDl3Vy1kN3NRX2wtSUVFZ1ctajJhMHQ3UC1PeEJYczNZZ0dZVEVIeEoySnN0X0lMQTlCd3F5OWVSUHlQNkZTdEZKRUZiX0NjOVNNaVhaek4yNVVkdXFzaURTdXJCVVk4QTN1NFdjcDYwZFdGal9KNVBaRWQwaDRTaEFYZ0x2WkZTVUZITHlUVHZqbDFRZw?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "107m ago",
+    "news_age": "109m ago",
     "news_columns": [
       "democracy",
       "press",
@@ -10940,14 +10944,16 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.66,
     "news_title": "Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmtvRmxJVkRJR3Jfa3lIdUhONjVGYlIxN1pjeXRHcWZ4ZG9OR1RuaGE5UFBmNWpuUldOVkZMWTVRcDQ4bjh5R0d2X1VUNGtZb3EzWWVzdjNhVi0xcFJlZDhscWQ0YlhWRWstbjdFZEpnOVJab1FjWWlzVnNpQ1A4Q1VXZ1RUR1pzWmNuekJHamJaUkNIbkc4V2JrbVRXaHptQU1iN3NtWjZxMUdqb1VXZUJYb2xjZkk?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic"
+      "security",
+      "crime",
+      "casualties"
     ],
     "bottom50_wealth": null
   },
@@ -13025,14 +13031,16 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.14,
+    "news_score": 1.24,
     "news_title": "EXCLUSIVE: Covert Russian network exploited French riots on social media, EU report says - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0hpUFBLeDI4ZDJzc25aU0VuT0FKVkNBSHhEMHgyVUlXc0NGcXVyYjJZcDl3Vy1kN3NRX2wtSUVFZ1ctajJhMHQ3UC1PeEJYczNZZ0dZVEVIeEoySnN0X0lMQTlCd3F5OWVSUHlQNkZTdEZKRUZiX0NjOVNNaVhaek4yNVVkdXFzaURTdXJCVVk4QTN1NFdjcDYwZFdGal9KNVBaRWQwaDRTaEFYZ0x2WkZTVUZITHlUVHZqbDFRZw?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "107m ago",
+    "news_age": "109m ago",
     "news_columns": [
-      "olympic"
+      "security",
+      "crime",
+      "casualties"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -14057,7 +14065,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.29,
+    "news_score": 0.28,
     "news_title": "Vietnamese intellectuals in Germany join forces to develop science and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGJjSE1fYXRsNUt4UGNmWGVjTVI2N1JHclNNMTdXR2NxLVl1aDE3VkRRQjVQaU1rTmVEWVV1V20zeUdvWGE2QzE2RDJVbkplaDFiZUY5dmpMSXh1eUM5RzVzTUxnTFF3SEMwT1Jqa050a0V0eXhCcVdmcTVVSTZyS3ppdnlpenhxUmRGRXhHYjM?oc=5",
     "news_image": "",
@@ -15876,7 +15884,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZVVDMFNRNExId0JPb3Rod1NNcDhwOGtWSm85RXhablpSa0VTNEhNbUFLa0xpQXl6VkZfZUdOQUpHVVhDd1lLdzZWXzhPT1NfTlZOeXJOTkpmeTMydmtjMXpObnVtR0lHVWdJZDYtRmpkdGlVeWV4RTFUR29kSllnYmlMOE43SjJwQ2h2Y0NHMGtvdnhuREpDWk1EbXNSNlFEODZ1Nzk5VmVoWkNFd1lBbXFiLUZmYWdWYTF4akNmdVVPMzBFRzNpb0hINVcyTDhfUHJfcm95QnNHVzB3a1A2ZF8zbzBWNmJoRU1kZ1dpTVp0ZlNJSERrbg?oc=5",
     "news_image": "",
     "news_source": "巴士的報",
-    "news_age": "76h ago",
+    "news_age": "77h ago",
     "news_columns": [
       "nobel",
       "nobel_per_capita",
@@ -30876,12 +30884,12 @@
     "refugees_rank": null,
     "union_rate": 73.9,
     "union_rate_rank": null,
-    "news_score": 0.84,
+    "news_score": 0.82,
     "news_title": "Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap - Bloomberg.com",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR1JWME4tcFN3Vlh6UlhVeEN3c2FlRUFkUWRrczJ6OUZ1QWRkRndtMy1nZFhBaU5Lc0dzaXU2ZjJnNUtwN2RSa3dyLXlwUV9QanZmaC1Wb2xhbUVZekZhaXdXZkpSazFDVnJqZWIweWtvdGczQi0xTnB1aEhiSy00aVFsMWdYaE1sRkN3NlU2YmVJdzhv?oc=5",
     "news_image": "",
     "news_source": "Bloomberg.com",
-    "news_age": "26m ago",
+    "news_age": "63m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -31656,19 +31664,16 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.0,
+    "news_score": 0.24,
     "news_title": "Gunman who killed 6 in Kraków mass shooting has died in hospital - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLWVuS3h1QWktTjNabklZclpub2h0Q3RjM0NGSmJZeXVHQ1hwejFwcS15NEpBVW1JS1lGZjlvNzF3REp1ZTVUd3N6NnROZDRCWWRGOUNpRzlMb1Ntbl9QRkM5RFgyTE5iekdDZkNyTEVQbmRyb0FyOGJnLV83NHByTUhzMW9OaDVM?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "95m ago",
+    "news_age": "107m ago",
     "news_columns": [
-      "doctors",
-      "beds",
-      "health",
-      "life_expectancy",
-      "murder",
-      "prison"
+      "security",
+      "crime",
+      "casualties"
     ],
     "bottom50_wealth": null
   },
@@ -34306,7 +34311,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 120,
     "fifa_w_rank": 100,
-    "news_score": 0.57,
+    "news_score": 0.56,
     "news_title": "Chungnam Partners with Digital Travel Platform Agoda to Welcome World Youth Day Visitors - Yahoo Finance Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjFhR2Z5b3d0Ry1fdnlZNEhBeXhpWEtuWFowdi1kbEx5WDVMcm40Wjg4ZUIxTk5QUm9PU2RjVDhBY0lOaktnbjBYWDhIb25MY3FKQXcyQ2xobThJdUZ2NGo0cFVIYlZTX29HVlFoUWJFQXg4WDh1c0Vpd1diUGx4MjNMRTRUb3B3RlYwYkVBaWUzcmo4?oc=5",
     "news_image": "",
@@ -42531,10 +42536,14 @@
     "news_source": "City of Toronto",
     "news_age": "14917h ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking",
-      "fifa_w",
-      "basket"
+      "climate",
+      "temperature",
+      "emissions",
+      "nfl",
+      "football",
+      "injury",
+      "stock",
+      "market"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
