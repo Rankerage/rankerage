@@ -1925,7 +1925,7 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.58,
+    "news_score": 0.56,
     "news_title": "Pope arrives in Argentina and tells Milei that people, not the economy, should come first - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZXBvT0ZhMHZPdk1rbTJiZ1FtQlJJWEZMZE1CU2h6dlNBNTRZa2hsWFIzMG1mMU9qYTNIV1lTUnh0Ni03c2lOVDg1dDhleUliSmpzcnZmdlhaZ0dfWTlyYlRtOFo0dVYwdVpWV2NnMGxLZWZpMlJGOXJLMHF2SjNRVFoxZ1JlRjBtWEliSTBBcVVKeTU1dW9NbWFFUHdrMDhxNXc5NENMdzl5Q0l3RDNxNGJ5Q0JzbUdKWWc?oc=5",
     "news_image": "",
@@ -5162,15 +5162,15 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.78,
+    "news_score": 0.55,
     "news_title": "2026 São Paulo Grand Prix - Race Report: Team Crowned World Champions in Brazil - Mercedes-AMG PETRONAS F1 Team",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWFGelhGazVhZnk3YnFsRTlXc1k3cDhXS0NwTlRjUUllMGdJbjVOenpkNDBuLVlzSFRKMTJHTHlYay11VlJqenZlb0QwUVZrTjJwM3RhT3JDTjZiMzNQQTkzZkhnUXRiRWxaWTFPZVRMUzBqcWFzSGRpUHo5Q2llbHVhX1FhZEttU3NkYWJkcGZBQQ?oc=5",
     "news_image": "",
     "news_source": "Mercedes-AMG PETRONAS F1 Team",
     "news_age": "2h ago",
     "news_columns": [
-      "f1",
-      "fifa_ranking"
+      "coffee",
+      "tea_consume"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -8020,7 +8020,8 @@
     "news_source": "China Daily Global Edition",
     "news_age": "67h ago",
     "news_columns": [
-      "fifa_ranking"
+      "tech",
+      "geopolitics"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10945,9 +10946,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmtvRmxJVkRJR3Jfa3lIdUhONjVGYlIxN1pjeXRHcWZ4ZG9OR1RuaGE5UFBmNWpuUldOVkZMWTVRcDQ4bjh5R0d2X1VUNGtZb3EzWWVzdjNhVi0xcFJlZDhscWQ0YlhWRWstbjdFZEpnOVJab1FjWWlzVnNpQ1A4Q1VXZ1RUR1pzWmNuekJHamJaUkNIbkc4V2JrbVRXaHptQU1iN3NtWjZxMUdqb1VXZUJYb2xjZkk?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "12m ago",
+    "news_age": "14m ago",
     "news_columns": [
-      "fifa_ranking"
+      "transport",
+      "disaster"
     ],
     "bottom50_wealth": null
   },
@@ -14058,15 +14060,16 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.29,
+    "news_score": 0.93,
     "news_title": "Vietnamese intellectuals in Germany join forces to develop science and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGJjSE1fYXRsNUt4UGNmWGVjTVI2N1JHclNNMTdXR2NxLVl1aDE3VkRRQjVQaU1rTmVEWVV1V20zeUdvWGE2QzE2RDJVbkplaDFiZUY5dmpMSXh1eUM5RzVzTUxnTFF3SEMwT1Jqa050a0V0eXhCcVdmcTVVSTZyS3ppdnlpenhxUmRGRXhHYjM?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "18m ago",
+    "news_age": "20m ago",
     "news_columns": [
-      "f1",
-      "fifa_ranking"
+      "car_density",
+      "gas_price",
+      "co2"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -17388,14 +17391,18 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.99,
+    "news_score": 0.73,
     "news_title": "Crude Oil Price Falls As Trump Says New Iran Attacks 'Unlikely' - News18",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONi1jVzg2a2FyWG9GQ3pPYWlYOVhDcFlrNEpOVm1CMGJSNk9ZSHp6VThTNndLTW5GaXhTc01MX21oLW5aMlNLS18yT3NhZ2FkRGkyNkF3ZVItb004UzRfcV9aYkNkMjhEc19OQ0NOaUdRU0FSdVlMUXlLTXZlVkw2R2VWVnZlN0UtOU00SkI1TGVCQ21reW1jbnNsZGtVWEktUXpyaGNYTGhDSl9xQ2g3endONlVQcll4YnpEQtIBwgFBVV95cUxNVWNGRl9YQ25Ma05qUDdhTXpreGFaZ3lFZ2NpbUF0S0NHVzBJaWhvbEZuVXJWc1JsVjZKWU5lTTJaWU5OdnNRSzdwbnNpejRXWUhWdVFKU2tub2dHQXYwd0ktaVUwbVJLUmJ5S0RmdjhyYnVGdUM2UnhjTE1YWnV4TlV4T1dsMUluSzJNZFppUEJ0ZnV5X2cxb3BkUjdfcFRJNFBvdEs1VTZMbmZFWlZsMHVyWjNDZVZuYmRWYWFiSmlYZw?oc=5",
     "news_image": "",
     "news_source": "News18",
-    "news_age": "87m ago",
+    "news_age": "89m ago",
     "news_columns": [
-      "fifa_ranking"
+      "gas_price",
+      "energy_per_capita",
+      "co2",
+      "renew",
+      "exports"
     ],
     "bottom50_wealth": null
   },
@@ -19440,7 +19447,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.63,
+    "news_score": 0.62,
     "news_title": "Jordan Love Makes MVP Statement: 3 Takeaways From The Packers' Win Over the Patriots - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaWtKRUV1Z2dXZXJvMDZyN29pY0luWWlFTXJMR09yTHFCTDA2cXVPWE43aWo3SzNoNFJJSUNyanFjYW5PNmxNRU5la0RGZ2o2amNIUjFUSWI4azdTZzNLN3VrdzJyZUZVNTVSMjBoVEtMVmRWZ3oyRWpoYmM5WXFNdXVJVGZ2VlVyYmN3Mm5iRnoyUUNFaHoyWjN2ZGxjbjhIUE90Z1o5OGNTelpfVnfSAa4BQVVfeXFMTUJFbUxGb05YY2dJNFNiOE5xZ2s2T2ZWRlJQaU1RRHR6V1FFVWpfUExBd1p3V21PVFUtQ1NPdzVYS3lPYWxZX3hYMHVUVU9GWFZqY19scHV3SVNLUGVySHJRTDVSVHplTlhDRzVOWHUxUWJaNnVTOC1rWlRIekNPSV9La1YwQzlhMzdrZ0ZvTGE5MzR0ZDBVZGIyYjRQX2lzTnBBaEJKSjN0dTRpX0xR?oc=5",
     "news_image": "",
@@ -27812,7 +27819,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY3o2eFZkekpBRXNYdktqb2JoT2N5MklUYS1KakpENWdUWUxqaWpSMVRXM3NodXA1aG1JY3JTbDBfTHhleUd4aV9Rd1NiMTJFNmtnRjBYWkpJLUthMGN5aGk3Sk1lanNHY2Fwc2Q2THlvZ0hlbTBxdTVxTEVNa0NaLUEtTVR3cHNZQmhBS0hSTTNnaU1pUkE2QXU5dFUzbHB5bjZhZ1Jha0dXX0JPY3VQbTdTZEJVY3RwcExyczJ5NA?oc=5",
     "news_image": "",
     "news_source": "NPR",
-    "news_age": "10h ago",
+    "news_age": "11h ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -27996,7 +28003,7 @@
     "refugees_rank": null,
     "union_rate": 69.0,
     "union_rate_rank": null,
-    "news_score": 0.46,
+    "news_score": 0.45,
     "news_title": "Puerto Rico@Nicaragua - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSl93WHJScElBMW1yeFZIcWdQQTJvVUJJLS1RVUJTWUROY1BkMFRnaFhXUXlLdVdvdnVJRWdEOGRuWXNUa0VPVUE0SWRDUE5LZHlzM2xMWG9iVlM3Y0NMcTU4ek1kYmVEU3pjOE5fVzZDN2R0TGxkVXN5RWN6SzFKWnl3LWlHLVRYcFhDLVZhbERtZVEwNFNEZHVEY1lSRHdYLXlMY2tqWVc?oc=5",
     "news_image": "",
@@ -32116,7 +32123,7 @@
     "refugees_rank": null,
     "union_rate": 56.8,
     "union_rate_rank": null,
-    "news_score": 0.46,
+    "news_score": 0.45,
     "news_title": "Puerto Rico@Nicaragua - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSl93WHJScElBMW1yeFZIcWdQQTJvVUJJLS1RVUJTWUROY1BkMFRnaFhXUXlLdVdvdnVJRWdEOGRuWXNUa0VPVUE0SWRDUE5LZHlzM2xMWG9iVlM3Y0NMcTU4ek1kYmVEU3pjOE5fVzZDN2R0TGxkVXN5RWN6SzFKWnl3LWlHLVRYcFhDLVZhbERtZVEwNFNEZHVEY1lSRHdYLXlMY2tqWVc?oc=5",
     "news_image": "",
@@ -35644,7 +35651,7 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.35,
+    "news_score": 0.34,
     "news_title": "South Africa@Great Britain - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdFp4ZUd2X0stOVYxblF3NTBnZDgyR3BpOGVUZTlfNEY0MVhpbFI2QWQyUE4tUTlYYjVPOVpNckZ0RU9zZUR3Skg1ZWdhZl9UczhjN2FobXVsSWd1ZXY1UHcxOVUxN0I1ZU1JVzluOVlfakFHU0IzdUZ1ZFFZWW1LRThsaW5LSm5HZk51NU9wWTZVWTJSTUNMSzUtaFp1cE5PUUZHYg?oc=5",
     "news_image": "",
@@ -42532,8 +42539,13 @@
     "news_age": "9h ago",
     "news_columns": [
       "golf",
-      "fifa_ranking",
-      "nfl"
+      "pga_tour",
+      "nfl",
+      "football",
+      "tech",
+      "geopolitics",
+      "politics",
+      "immigration"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43735,12 +43747,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.89,
+    "news_score": 0.9,
     "news_title": "Vietnamese intellectuals in Germany join forces to develop science and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGJjSE1fYXRsNUt4UGNmWGVjTVI2N1JHclNNMTdXR2NxLVl1aDE3VkRRQjVQaU1rTmVEWVV1V20zeUdvWGE2QzE2RDJVbkplaDFiZUY5dmpMSXh1eUM5RzVzTUxnTFF3SEMwT1Jqa050a0V0eXhCcVdmcTVVSTZyS3ppdnlpenhxUmRGRXhHYjM?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "18m ago",
+    "news_age": "20m ago",
     "news_columns": [
       "car_density",
       "gas_price",
