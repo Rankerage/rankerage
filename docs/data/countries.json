@@ -1925,7 +1925,7 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.98,
+    "news_score": 0.96,
     "news_title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYWZxS3E1dS1jTHZLaUFGay1COFZDZkpUMjhmQ2NoOFhSS1R3b1VCc2EzdFFINEM2VWJJT3VtNkRfYTRWRkYyTXRmVW1RcE56dndKVUZvaGxwdmF3UEItamlLY21lc1pkbHRUeUFqelQxeVZseE1IUlRtdXFDWnROWF8zZG8yVWdYU2stbGVscTRuQXJUMG9hNXBhV0VFbGQ3UXc?oc=5",
     "news_image": "",
@@ -1933,7 +1933,7 @@
     "news_age": "2h ago",
     "news_columns": [
       "politics",
-      "approval"
+      "religion"
     ],
     "bottom50_wealth": null
   },
@@ -2550,12 +2550,12 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.78,
+    "news_score": 0.82,
     "news_title": "Emotion gets better of Samoa as Australia begin to resemble their old selves | Angus Fontaine - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdzBiSExwX19fUFpQS2ZyZGRRM09yUElTazZraVNMVEJVOXo5RVpZYTJSaU5kY3NycTNDR0pSNmM2OE9TY0RWckdnTXFBZ204Z2VicURXS0U0NlR3bDZjcGVHekRlQ2JrbEhGNHQ4MWRycGtPT3gxQlc2QkhqbVdDaE5fR1VWNHNITWh6dDNNUklpTnB2a1A3WjFUbUw5Vl9INTQtMXJyd2RYY2lYcUE?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "19m ago",
+    "news_age": "21m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -5158,15 +5158,15 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.49,
+    "news_score": 0.65,
     "news_title": "2026 São Paulo Grand Prix - Race Report: Team Crowned World Champions in Brazil - Mercedes-AMG PETRONAS F1 Team",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWFGelhGazVhZnk3YnFsRTlXc1k3cDhXS0NwTlRjUUllMGdJbjVOenpkNDBuLVlzSFRKMTJHTHlYay11VlJqenZlb0QwUVZrTjJwM3RhT3JDTjZiMzNQQTkzZkhnUXRiRWxaWTFPZVRMUzBqcWFzSGRpUHo5Q2llbHVhX1FhZEttU3NkYWJkcGZBQQ?oc=5",
     "news_image": "",
     "news_source": "Mercedes-AMG PETRONAS F1 Team",
     "news_age": "2h ago",
     "news_columns": [
-      "coffee",
-      "tea_consume"
+      "f1",
+      "formula1"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -8016,9 +8016,11 @@
     "news_source": "China Daily",
     "news_age": "68h ago",
     "news_columns": [
-      "tech",
-      "market_cap",
-      "stock"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10938,12 +10940,12 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.85,
+    "news_score": 0.84,
     "news_title": "Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmtvRmxJVkRJR3Jfa3lIdUhONjVGYlIxN1pjeXRHcWZ4ZG9OR1RuaGE5UFBmNWpuUldOVkZMWTVRcDQ4bjh5R0d2X1VUNGtZb3EzWWVzdjNhVi0xcFJlZDhscWQ0YlhWRWstbjdFZEpnOVJab1FjWWlzVnNpQ1A4Q1VXZ1RUR1pzWmNuekJHamJaUkNIbkc4V2JrbVRXaHptQU1iN3NtWjZxMUdqb1VXZUJYb2xjZkk?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "40m ago",
+    "news_age": "42m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -13027,7 +13029,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.21,
+    "news_score": 0.24,
     "news_title": "Pacific-USA to host 2030 Rugby League World Cup - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTU1HTXFMM0prdngwMkFlM2VKc0J5b05Ba2JucC1aM1JwNG5tdzFvTEN4ZmFlQUpleEVzQzFLTks0V1U4bzRwaFR0MDlOdGZZY296ejlzUUtSNkxwSzVKejE5ZkJMcThHV3pFcEJLMnpnZTRub3pSVWo0YjZpNmgzOERKd1ltczJnWE80RlJZZlRXWWQteTBzSU13?oc=5",
     "news_image": "",
@@ -14063,16 +14065,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.86,
+    "news_score": 1.15,
     "news_title": "Vietnamese intellectuals in Germany join forces to develop science and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGJjSE1fYXRsNUt4UGNmWGVjTVI2N1JHclNNMTdXR2NxLVl1aDE3VkRRQjVQaU1rTmVEWVV1V20zeUdvWGE2QzE2RDJVbkplaDFiZUY5dmpMSXh1eUM5RzVzTUxnTFF3SEMwT1Jqa050a0V0eXhCcVdmcTVVSTZyS3ppdnlpenhxUmRGRXhHYjM?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "f1",
+      "formula1"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -17394,12 +17395,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.65,
+    "news_score": 0.64,
     "news_title": "Crude Oil Price Falls As Trump Says New Iran Attacks 'Unlikely' - News18",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONi1jVzg2a2FyWG9GQ3pPYWlYOVhDcFlrNEpOVm1CMGJSNk9ZSHp6VThTNndLTW5GaXhTc01MX21oLW5aMlNLS18yT3NhZ2FkRGkyNkF3ZVItb004UzRfcV9aYkNkMjhEc19OQ0NOaUdRU0FSdVlMUXlLTXZlVkw2R2VWVnZlN0UtOU00SkI1TGVCQ21reW1jbnNsZGtVWEktUXpyaGNYTGhDSl9xQ2g3endONlVQcll4YnpEQtIBwgFBVV95cUxNVWNGRl9YQ25Ma05qUDdhTXpreGFaZ3lFZ2NpbUF0S0NHVzBJaWhvbEZuVXJWc1JsVjZKWU5lTTJaWU5OdnNRSzdwbnNpejRXWUhWdVFKU2tub2dHQXYwd0ktaVUwbVJLUmJ5S0RmdjhyYnVGdUM2UnhjTE1YWnV4TlV4T1dsMUluSzJNZFppUEJ0ZnV5X2cxb3BkUjdfcFRJNFBvdEs1VTZMbmZFWlZsMHVyWjNDZVZuYmRWYWFiSmlYZw?oc=5",
     "news_image": "",
     "news_source": "News18",
-    "news_age": "115m ago",
+    "news_age": "117m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -18133,7 +18134,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWJndTBjVU90M3NvOURyOEE4V2NBeW5qbi1ONnF1S2ZpWjE1dE9QTEtnc2lfZmxCX0phZC1aWkw4WXhpNV95d0otelVhTkIxcEtQYTFleTVCaWkxWVNFWXZpU0p0cTdUZ0hMSGIzUHlIVGh6cjI2cnVncEMxM0xTTW5NY05ISndQNjYwR2VlOVJxWVlJWUsyaUxvQVl6WUVMSFU2aktoRzQ1QdIBrwFBVV95cUxQem95MVBFMy1naHV2QVZDMWJmZ25pZ0FVMTljSzFSaTlxN2F2RWJZcWFBMnozWXdLLTZIdzVHV05FaDN5T1B3djdRNElIQTVOYWFYanpPcmZzYVpuZkQzVlpZNV9MNi1EcFZTQ1VEQzMzVm9VRUdaNlZPbkRVbElGZTlVczJHdFMxNkNSekdnNENCQWJoNzVKdFlxQ0Rhank3X21jTVhSX245WTJYZjJz?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "9h ago",
+    "news_age": "10h ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -18572,7 +18573,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.18,
+    "news_score": 0.17,
     "news_title": "Juventus defender Gatti added to Italy squad for Nations League - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX19PVFU5dnNMeXRrckFLcUFNTHNKLXF0OHdmZHdHMnlGcXdCT1N2NkllbGxDb2hmaW5sSnpkN2pUSGVIaVFwZ3dwbjlfbDBRdnA2UWtqdVFRQ19IeXZfS09hckRtNWFhVzhnR3phVEluMHcyLWw4NnMzazNMZ3dKS0hhVWd6cDRnT3pMRQ?oc=5",
     "news_image": "",
@@ -36150,7 +36151,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNXzZCQk4xSlo5WEhfalFMalhGaWVkc1psdzZvczQwTjNmLW94WmlvNnBoYWhIWElkZmZXQXdlYUlfZnNTRGo5QTZNUDh3WDc5ajh0R3AzM0pBeFdYbkV3cmVCa0dfeFBJeDZsLWtJbVkwYnNicWtndGs1U2duam50MEljVG1XYXVHU2pFOFh1N0IyYU9LZ081RFdYU1FpdlN3U3RxeGV0TFFrTXdpSFQyQmVEZWNNSnZyZkE?oc=5",
     "news_image": "",
     "news_source": "SGGP English Edition",
-    "news_age": "16h ago",
+    "news_age": "17h ago",
     "news_columns": [
       "baseball",
       "rugby"
@@ -42538,14 +42539,12 @@
     "news_source": "The Washington Post",
     "news_age": "10h ago",
     "news_columns": [
-      "golf",
-      "pga_tour",
-      "prize_money",
       "nfl",
       "football",
+      "golf",
+      "pga",
       "politics",
-      "approval",
-      "tech"
+      "election"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43747,12 +43746,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.84,
+    "news_score": 0.83,
     "news_title": "Vietnamese intellectuals in Germany join forces to develop science and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGJjSE1fYXRsNUt4UGNmWGVjTVI2N1JHclNNMTdXR2NxLVl1aDE3VkRRQjVQaU1rTmVEWVV1V20zeUdvWGE2QzE2RDJVbkplaDFiZUY5dmpMSXh1eUM5RzVzTUxnTFF3SEMwT1Jqa050a0V0eXhCcVdmcTVVSTZyS3ppdnlpenhxUmRGRXhHYjM?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
       "car_density",
       "gas_price",
