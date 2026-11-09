@@ -1925,14 +1925,15 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.92,
+    "news_score": 0.94,
     "news_title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYWZxS3E1dS1jTHZLaUFGay1COFZDZkpUMjhmQ2NoOFhSS1R3b1VCc2EzdFFINEM2VWJJT3VtNkRfYTRWRkYyTXRmVW1RcE56dndKVUZvaGxwdmF3UEItamlLY21lc1pkbHRUeUFqelQxeVZseE1IUlRtdXFDWnROWF8zZG8yVWdYU2stbGVscTRuQXJUMG9hNXBhV0VFbGQ3UXc?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
     "news_age": "2h ago",
     "news_columns": [
-      "politics"
+      "politics",
+      "religion"
     ],
     "bottom50_wealth": null
   },
@@ -2554,7 +2555,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdzBiSExwX19fUFpQS2ZyZGRRM09yUElTazZraVNMVEJVOXo5RVpZYTJSaU5kY3NycTNDR0pSNmM2OE9TY0RWckdnTXFBZ204Z2VicURXS0U0NlR3bDZjcGVHekRlQ2JrbEhGNHQ4MWRycGtPT3gxQlc2QkhqbVdDaE5fR1VWNHNITWh6dDNNUklpTnB2a1A3WjFUbUw5Vl9INTQtMXJyd2RYY2lYcUE?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "31m ago",
+    "news_age": "33m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -8015,7 +8016,11 @@
     "news_source": "China Daily",
     "news_age": "68h ago",
     "news_columns": [
-      "tech"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10935,18 +10940,15 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.81,
+    "news_score": 1.08,
     "news_title": "Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmtvRmxJVkRJR3Jfa3lIdUhONjVGYlIxN1pjeXRHcWZ4ZG9OR1RuaGE5UFBmNWpuUldOVkZMWTVRcDQ4bjh5R0d2X1VUNGtZb3EzWWVzdjNhVi0xcFJlZDhscWQ0YlhWRWstbjdFZEpnOVJab1FjWWlzVnNpQ1A4Q1VXZ1RUR1pzWmNuekJHamJaUkNIbkc4V2JrbVRXaHptQU1iN3NtWjZxMUdqb1VXZUJYb2xjZkk?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "52m ago",
+    "news_age": "54m ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "disaster",
+      "transport"
     ],
     "bottom50_wealth": null
   },
@@ -14060,12 +14062,12 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.82,
+    "news_score": 0.81,
     "news_title": "Vietnamese intellectuals in Germany join forces to develop science and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGJjSE1fYXRsNUt4UGNmWGVjTVI2N1JHclNNMTdXR2NxLVl1aDE3VkRRQjVQaU1rTmVEWVV1V20zeUdvWGE2QzE2RDJVbkplaDFiZUY5dmpMSXh1eUM5RzVzTUxnTFF3SEMwT1Jqa050a0V0eXhCcVdmcTVVSTZyS3ppdnlpenhxUmRGRXhHYjM?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "58m ago",
+    "news_age": "60m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -18125,7 +18127,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.15,
+    "news_score": 0.16,
     "news_title": "President Ronald Lauder Welcomes Decision to Task Gadi Eisenkot With Forming Israel’s Next Government - World Jewish Congress - World Jewish Congress",
     "news_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOODl0WmdLRE5KNGRfdndoYkdtejhkaWd5OW5CV2Q4TzVrY2FxS2h0QUJXTlhPb2l6bndpbTNfOUlHeEFFRFlXcDhqRi15UzNqMElqSmIxNFpDU21YSWxsc0xfY1ZMQlFRejNDQXZ5TTAtV2R3SDdGNmU0aldsbDhNVGJCTEx5QnhSbDQ4Mnc4LTBLbDZMUERGb3daaDlxaVpUaGJ6Y1g5aUJ5RDl4a0xrc0NLQVZpYWc5aU1XTUJ3UFpVSmxYWThtSXZBaXpEXzNaRjlkZzR1UGNfQWY1dWtzT1EwTjcwMU1qOWNJT3BXSnZvNWk2eHFPWXNB?oc=5",
     "news_image": "",
@@ -18567,7 +18569,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.17,
+    "news_score": 0.16,
     "news_title": "Juventus defender Gatti added to Italy squad for Nations League - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX19PVFU5dnNMeXRrckFLcUFNTHNKLXF0OHdmZHdHMnlGcXdCT1N2NkllbGxDb2hmaW5sSnpkN2pUSGVIaVFwZ3dwbjlfbDBRdnA2UWtqdVFRQ19IeXZfS09hckRtNWFhVzhnR3phVEluMHcyLWw4NnMzazNMZ3dKS0hhVWd6cDRnT3pMRQ?oc=5",
     "news_image": "",
@@ -28004,7 +28006,7 @@
     "refugees_rank": null,
     "union_rate": 69.0,
     "union_rate_rank": null,
-    "news_score": 0.38,
+    "news_score": 0.37,
     "news_title": "Puerto Rico@Nicaragua - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSl93WHJScElBMW1yeFZIcWdQQTJvVUJJLS1RVUJTWUROY1BkMFRnaFhXUXlLdVdvdnVJRWdEOGRuWXNUa0VPVUE0SWRDUE5LZHlzM2xMWG9iVlM3Y0NMcTU4ek1kYmVEU3pjOE5fVzZDN2R0TGxkVXN5RWN6SzFKWnl3LWlHLVRYcFhDLVZhbERtZVEwNFNEZHVEY1lSRHdYLXlMY2tqWVc?oc=5",
     "news_image": "",
@@ -32124,7 +32126,7 @@
     "refugees_rank": null,
     "union_rate": 56.8,
     "union_rate_rank": null,
-    "news_score": 0.38,
+    "news_score": 0.37,
     "news_title": "Puerto Rico@Nicaragua - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSl93WHJScElBMW1yeFZIcWdQQTJvVUJJLS1RVUJTWUROY1BkMFRnaFhXUXlLdVdvdnVJRWdEOGRuWXNUa0VPVUE0SWRDUE5LZHlzM2xMWG9iVlM3Y0NMcTU4ek1kYmVEU3pjOE5fVzZDN2R0TGxkVXN5RWN6SzFKWnl3LWlHLVRYcFhDLVZhbERtZVEwNFNEZHVEY1lSRHdYLXlMY2tqWVc?oc=5",
     "news_image": "",
@@ -42534,10 +42536,13 @@
     "news_age": "10h ago",
     "news_columns": [
       "golf",
-      "pga",
+      "pga_tour",
+      "prize_money",
       "nfl",
+      "nfl_odds",
+      "nfl_standings",
       "politics",
-      "tech"
+      "impeachment"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43744,7 +43749,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGJjSE1fYXRsNUt4UGNmWGVjTVI2N1JHclNNMTdXR2NxLVl1aDE3VkRRQjVQaU1rTmVEWVV1V20zeUdvWGE2QzE2RDJVbkplaDFiZUY5dmpMSXh1eUM5RzVzTUxnTFF3SEMwT1Jqa050a0V0eXhCcVdmcTVVSTZyS3ppdnlpenhxUmRGRXhHYjM?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "58m ago",
+    "news_age": "60m ago",
     "news_columns": [
       "car_density",
       "gas_price",
