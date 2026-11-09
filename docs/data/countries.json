@@ -1925,19 +1925,14 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.65,
-    "news_title": "Apostolic Journey to Argentina: Meeting with the world of work - The Holy See",
-    "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYk1TNVdwdjMwLVJjWjdVLWFKVEhsTFdCcXhyWldndWowQ3lsM2J4SThybzV1WU1RNzQxYjNkUktqWndqalVwN29FTkVobS1PZUFRaTdCOXV0ZWZIcWFJUFp0TEpKaHlqdmFFQ190b2FNdkdIVmlfeWlUXzhaVUx1eWRySkZPUXZ1d0NYbUpXT05xME5yMkpsMVpTeVN5SFZwUTN1RmI2N2ZCcTdrQWc1Q3FSc1hyeEpFWXBoQlRaQ1hhTXNQeTRqWA?oc=5",
+    "news_score": 0.95,
+    "news_title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit - The Guardian",
+    "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYWZxS3E1dS1jTHZLaUFGay1COFZDZkpUMjhmQ2NoOFhSS1R3b1VCc2EzdFFINEM2VWJJT3VtNkRfYTRWRkYyTXRmVW1RcE56dndKVUZvaGxwdmF3UEItamlLY21lc1pkbHRUeUFqelQxeVZseE1IUlRtdXFDWnROWF8zZG8yVWdYU2stbGVscTRuQXJUMG9hNXBhV0VFbGQ3UXc?oc=5",
     "news_image": "",
-    "news_source": "The Holy See",
-    "news_age": "3h ago",
+    "news_source": "The Guardian",
+    "news_age": "44m ago",
     "news_columns": [
-      "democracy",
-      "approval",
-      "press",
-      "election_days",
-      "ai_research",
-      "internet_pct"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -5162,15 +5157,15 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.98,
+    "news_score": 0.7,
     "news_title": "2026 São Paulo Grand Prix - Race Report: Team Crowned World Champions in Brazil - Mercedes-AMG PETRONAS F1 Team",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWFGelhGazVhZnk3YnFsRTlXc1k3cDhXS0NwTlRjUUllMGdJbjVOenpkNDBuLVlzSFRKMTJHTHlYay11VlJqenZlb0QwUVZrTjJwM3RhT3JDTjZiMzNQQTkzZkhnUXRiRWxaWTFPZVRMUzBqcWFzSGRpUHo5Q2llbHVhX1FhZEttU3NkYWJkcGZBQQ?oc=5",
     "news_image": "",
     "news_source": "Mercedes-AMG PETRONAS F1 Team",
-    "news_age": "84m ago",
+    "news_age": "86m ago",
     "news_columns": [
-      "f1",
-      "fifa_ranking"
+      "coffee",
+      "tea_consume"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -6945,7 +6940,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPME5uUi1kVUYzS0drcmlvZ2pXRzZUNlpGWFJtUmU5SFVuS2JNb3dIUy1NZXFXaGVlajNhMFNYSWhWNjRRdkZuTzd6dmd0b2tkbTVjSnRBR0tjcC1qZjVPV1htelBxeWZHTHF6bzlJSm5ZUTZFVlVvYXYzdUFiUi1rTUVXa0hKSEgzU0VFTEZfUGt3bTVjY1RtZ0FxN3BfMnF0d01hMGFwSl9xWVE?oc=5",
     "news_image": "",
     "news_source": "CBC",
-    "news_age": "6h ago",
+    "news_age": "7h ago",
     "news_columns": [
       "gender",
       "gender_gap",
@@ -8013,15 +8008,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.01,
     "news_title": "Lu Ban in Edinburgh: Chinese science fiction writer explores technology and humanity - China Daily Global Edition",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUUxQaVgxWWV4VGh1UnFqYm5iNFlNME9WbEpNbzNWREdTdUVxdUtSaTc0NlZ0cEpKaFV1dThoNU9UY0JLVk1rdEV3SUVjdTJRVks3bk15c1dNSEpKTWZrUVVsZlBHek10XzVubXRRMDFlZTYwdk41YmdBaHRza3YxOHBB?oc=5",
     "news_image": "",
     "news_source": "China Daily Global Edition",
     "news_age": "66h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10946,7 +10940,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmtvRmxJVkRJR3Jfa3lIdUhONjVGYlIxN1pjeXRHcWZ4ZG9OR1RuaGE5UFBmNWpuUldOVkZMWTVRcDQ4bjh5R0d2X1VUNGtZb3EzWWVzdjNhVi0xcFJlZDhscWQ0YlhWRWstbjdFZEpnOVJab1FjWWlzVnNpQ1A4Q1VXZ1RUR1pzWmNuekJHamJaUkNIbkc4V2JrbVRXaHptQU1iN3NtWjZxMUdqb1VXZUJYb2xjZkk?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "22m ago",
+    "news_age": "24m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -13562,7 +13556,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.11,
+    "news_score": 0.1,
     "news_title": "AP Top 25: Georgia moves to No. 1 after Notre Dame's win over Miami, Ohio State drops out of top 20 - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTHlYNS1MZmotcXN1djZkWXFHd19QUHhkeVJNYWRJUXdvTkhNQTVaMWR5VkE0VmdvMmt1S00yY1hqNGNYYTNoVFUtb3Y5N3dMd2VFRnB6WW5wNUVKMVJyV3lsb3RwZnlGT3hQWmZUTlhoNVlkNThIakFxYmhJcHhiaTJhckl6TDVZOE5BS25NV0QyOGUwelFLSkI3aFJ0MjZoQU43MFZWcFFfVUdjRWFBMFZSOWtDNENsUVd5Q1FYSDZTZ0JucTdPOVBLRjh6R3RiRmZmUTIwODdWQWItMlJlbFpxZzJIR05JUHk2OEVIYVUxbWFXN0R1SHJpSXl6ZDBfZXVNag?oc=5",
     "news_image": "",
@@ -14065,15 +14059,17 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.12,
+    "news_score": 0.09,
     "news_title": "Peschel scores on debut as USA rout Germany 5-0 at women’s hockey worlds - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV0JVN3RMRFhmN01rYXRSbmFla3VKc2VWMjU5MlJHZGRqMWdKZ2ZUSVctVWctcjU5OEFzUjM5RzJGbjRQaGFqaGptUGVlNGRmaTRrUkdWTkN5OGFHYTVRenhpcldjZDFpbkVMUDMzQ01WSUNrQTRqRk1CWnhwc2tTT0E5WU1tT3BwcGNHRFYxb0FtazRxdWNJQmltSVk1TXZHU1lVeUZpN0RFOTA?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
     "news_age": "8h ago",
     "news_columns": [
-      "f1",
-      "fifa_ranking"
+      "gender",
+      "gender_gap",
+      "women_parl",
+      "edu"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -17395,12 +17391,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.91,
+    "news_score": 0.9,
     "news_title": "Crude Oil Price Falls As Trump Says New Iran Attacks 'Unlikely' - News18",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONi1jVzg2a2FyWG9GQ3pPYWlYOVhDcFlrNEpOVm1CMGJSNk9ZSHp6VThTNndLTW5GaXhTc01MX21oLW5aMlNLS18yT3NhZ2FkRGkyNkF3ZVItb004UzRfcV9aYkNkMjhEc19OQ0NOaUdRU0FSdVlMUXlLTXZlVkw2R2VWVnZlN0UtOU00SkI1TGVCQ21reW1jbnNsZGtVWEktUXpyaGNYTGhDSl9xQ2g3endONlVQcll4YnpEQtIBwgFBVV95cUxNVWNGRl9YQ25Ma05qUDdhTXpreGFaZ3lFZ2NpbUF0S0NHVzBJaWhvbEZuVXJWc1JsVjZKWU5lTTJaWU5OdnNRSzdwbnNpejRXWUhWdVFKU2tub2dHQXYwd0ktaVUwbVJLUmJ5S0RmdjhyYnVGdUM2UnhjTE1YWnV4TlV4T1dsMUluSzJNZFppUEJ0ZnV5X2cxb3BkUjdfcFRJNFBvdEs1VTZMbmZFWlZsMHVyWjNDZVZuYmRWYWFiSmlYZw?oc=5",
     "news_image": "",
     "news_source": "News18",
-    "news_age": "37m ago",
+    "news_age": "39m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -19450,12 +19446,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 1.3,
+    "news_score": 1.29,
     "news_title": "Jordan Love, Packers offense give Patriots' $135 million cornerback nightmares - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVzZyU2pPNTN4c0s3SVR6RFFQOW5SYTZydFRMLXlXVGNnODN4V3E2aGx5RzBIc2JyX0FkTkR2bTlBRnVPSl9tTEVIVnQyYzc1ZlFJbGhLeUY1QjhmVG9McnVZY2dVRVNmVkZpQlNXVmZFeHYyZDI3YVZEYWtaS2FaWTlkT3BQdmxtek1TLVNB?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "49m ago",
+    "news_age": "51m ago",
     "news_columns": [
       "democracy",
       "press",
@@ -29511,7 +29507,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPME5uUi1kVUYzS0drcmlvZ2pXRzZUNlpGWFJtUmU5SFVuS2JNb3dIUy1NZXFXaGVlajNhMFNYSWhWNjRRdkZuTzd6dmd0b2tkbTVjSnRBR0tjcC1qZjVPV1htelBxeWZHTHF6bzlJSm5ZUTZFVlVvYXYzdUFiUi1rTUVXa0hKSEgzU0VFTEZfUGt3bTVjY1RtZ0FxN3BfMnF0d01hMGFwSl9xWVE?oc=5",
     "news_image": "",
     "news_source": "CBC",
-    "news_age": "6h ago",
+    "news_age": "7h ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -33137,7 +33133,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPME5uUi1kVUYzS0drcmlvZ2pXRzZUNlpGWFJtUmU5SFVuS2JNb3dIUy1NZXFXaGVlajNhMFNYSWhWNjRRdkZuTzd6dmd0b2tkbTVjSnRBR0tjcC1qZjVPV1htelBxeWZHTHF6bzlJSm5ZUTZFVlVvYXYzdUFiUi1rTUVXa0hKSEgzU0VFTEZfUGt3bTVjY1RtZ0FxN3BfMnF0d01hMGFwSl9xWVE?oc=5",
     "news_image": "",
     "news_source": "CBC",
-    "news_age": "6h ago",
+    "news_age": "7h ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -34316,7 +34312,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM0xuZ1I5bHZrdWpmajhrNlJlWkRSTmZWOFVWRHJMOV9NUnBOVnJwSWNDcnpVeVZPbFgtR2U0alNkWnpOTGxyYWtiQjZIRXFfalRsQ0VkZGdXc3EyaWhCcG5UOTFkUVBWeVNqUU5RenpRVWE3NlBzeUNIY2lUWU9mNXVEU0g0cm9aV2xsZVpjMmhZMTFiem1sMVE4ZlRqbzRjTmxDbzhBa2dlcTNSc0dDbGQzWU9UZ0E?oc=5",
     "news_image": "",
     "news_source": "LoyaltyLobby",
-    "news_age": "60h ago",
+    "news_age": "61h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -35653,7 +35649,7 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.46,
+    "news_score": 0.47,
     "news_title": "South Africa@Great Britain - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMzUtampLeU53YTYxalMzcV9tN3BpamRxMHBlVHJKRlBUaWt4U1JvX1lLd2JhSng1QTdZOGVqYTY1VURDUzZHQ3ZEVFViSjlMenp5T1dUWDFFYlc0RFRpTkNRMVZhQTdSaTNaOF90Q2FvdHRSS3U1TVZLVVhhSUkwN2c1N0ZNS1dfa3hSaWdLX3czQnFodEVTRFRfa1ZFYTRwZUZHbWlKUzM?oc=5",
     "news_image": "",
@@ -41260,7 +41256,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.28,
+    "news_score": 0.29,
     "news_title": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR?oc=5",
     "news_image": "",
@@ -42540,11 +42536,9 @@
     "news_source": "The Washington Post",
     "news_age": "8h ago",
     "news_columns": [
-      "golf",
       "fifa_ranking",
-      "nfl",
-      "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
