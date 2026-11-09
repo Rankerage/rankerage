@@ -1925,12 +1925,12 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.06,
+    "news_score": 0.05,
     "news_title": "Pope Leo and Javier Milei offer duelling visions for Argentina - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaWloNnJoR1lNb3Z0U0NIUlNkOVpZdDhxWlVpZU1DSEVKZ0J5ckVQelJTUUxhQ1VfcU01R2FTQjZRdnFwaFRiYjJSSUVBZURYYnhkY2M0NFVvSjRTNS01cFpDM2ZvN3QzQkQ2RHpYLUF6ZTU1TnZMaURUUlZ4S3c2UElUcDA?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
-    "news_age": "9h ago",
+    "news_age": "12h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -6944,7 +6944,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbU9kenhCc0tUZVRFdUVYQ1ZfUlZORlRhRUZBbmVKX2NVMGF0SDVIRHZzQi1rRkNJSDBFd21XUm1hbFVwTzJNbm9IV3ljMGlVSkhRRUxzMXhKMlZlUlNXSFZrck9CSUxXc0ZFb1N5VGM2V3JOQ0JWZXhYWG9xOFU4QUZ0SDRIX2dMOE5kNmQyNTZ4QUtJOEZJODRPZzNJcDlhc285NnRJRklxdw?oc=5",
     "news_image": "",
     "news_source": "World Economic Forum",
-    "news_age": "69m ago",
+    "news_age": "71m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -8011,17 +8011,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 2.28,
+    "news_score": 2.18,
     "news_title": "Stock Market Today: Nvidia Stock Slides After Huang Apologizes for Affair With Alleged Spy - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSV9fWHdCZGw4OGdCbVpVMVJreGluVnp1TVhmT1JkemQ0RGdWQTZfNFNuODhETWJUQUt6NTVlUlRGY0NwNkRXOVd6VFlLSWFlTERpMEJWODJraHlyX3ZtRnFpSjUtVzhmOVVKNkRfS0RPZ3l4WHBnWEdwTTRRaVVDdmM3TEhxR0k?oc=5",
     "news_image": "",
     "news_source": "WSJ",
-    "news_age": "37m ago",
+    "news_age": "39m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10942,12 +10939,12 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.82,
+    "news_score": 0.81,
     "news_title": "Egypt annual core inflation falls to 13.1% in October: CBE - Economy - Business - Ahram Online",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaHhrYnE5MExPNW0zVGUtRlhPMktnQXRVdmV0WTFWdFk0S05PNU9VYXNXWE9FeDVDazZZRE40dHVZbnJPa3BmWGV1a1Y2SHN1WTFObGE1M0VIeTUzbHpBTXc1X0lXOW5ISG5FVThVV3dMVXVJelM0d2xDdk5kcXR1MjI5blBMQ0xQTXJiNkpDS3ZfWFBEcy1neDl5cjJNTWZfTjdIYnRPSG1wcWtLT2REQkEweGlWSVJ4WFhkMG12TjJuQjQ?oc=5",
     "news_image": "",
     "news_source": "Ahram Online",
-    "news_age": "51m ago",
+    "news_age": "53m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -13039,7 +13036,6 @@
     "news_source": "France 24",
     "news_age": "7h ago",
     "news_columns": [
-      "fifa_ranking",
       "olympic"
     ],
     "bottom50_wealth": 3.8,
@@ -13562,7 +13558,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.51,
+    "news_score": 0.49,
     "news_title": "Georgia State visits Fresno State after Jones' 22-point showing - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOamU2V01jNHM1UEtmUDhzUDhRVjhHR28xN2ZtMkVNU3hFLXNRMnRFdy1vakx6RkU3cy1zeVRtU2ZoczFwczJoNmVPM0tiQjFlTGZKXzdYbjY2VUFhbHA3THo1Ym8tQ1ZlSUdXUXZxbE1nSHdnLTM1QS12aG1BaThaaEIzemwxUlJpWEE?oc=5",
     "news_image": "",
@@ -14069,7 +14065,6 @@
     "news_source": "Vietnam.vn",
     "news_age": "9h ago",
     "news_columns": [
-      "fifa_ranking",
       "olympic"
     ],
     "bottom50_wealth": 2.5,
@@ -17400,10 +17395,9 @@
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zN0FDMkRwcDVyZGFpV0dvRnhidUVyU1hrc2pKQzJZMmlLZDF1bHZ0dzBtMDJLOXc5T0xNYmRuS2Q4eU1QQmFqaHJ1cVg0VGkxcWN3dEZLVlo1UlQ0ckZCaW52b0lHQzVZN2N6UElySjhIWDdXWVh5T24xcmh4Zw?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "10m ago",
+    "news_age": "12m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -18575,7 +18569,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FdU5LcWZSWGR4X21VbU5EY0FXckhPMkxBTnJHdHk0azBNQzdZc3RLbmN3Nlp5OFc1WHpoaE5WM1hUOERIS3JiWEU4VDQ4VmY1eWxkUm5pdWg?oc=5",
     "news_image": "",
     "news_source": "World Lacrosse",
-    "news_age": "62m ago",
+    "news_age": "64m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -19446,7 +19440,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.14,
+    "news_score": 0.13,
     "news_title": "Jordan Love totals four touchdowns in Week 9 - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnF4cmYtU0NNV3FGMXI3M2dCdlNYcnVKOXkzakE3LWJsTF9QUVRtdFRITE0yS04ySDVMQnAyZDN6SjZFQzhfdTJPUVMtWmIzUXdiSlprem9ESkhGV3BjelktNmczcWRjNkdWcHRfaklvWF9SN0MycHpKa1lOZEJnMW1wRlVpaDVHNldR?oc=5",
     "news_image": "",
@@ -28469,12 +28463,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 1.23,
+    "news_score": 1.31,
     "news_title": "British Entrepreneur Rio Kavanagh Announces Plan to Invest in Nigeria’s Cocoa, Sesame Trade - Legit News",
     "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOVZJRFNpU1VPMFFoendRbEpSejFCSVk1a2lQNTE0OVA0NTdla0VOT243Z2tCMHZKWi04eGRFdHdSTWNKMzY1dWNDc0dvQnBYUEhBWGVKMDUtNm5zdDZKZEhSYVN1TzVZZFRsMlBKeThqR2JYcW9uSVl1OG5QQ215VFVSeWV1ZXFYcVFfdS1HUGJVNFZzNVFjVzA3NmtBUW5qOVcxR3pQQWNETG14MkFrOEptSU5lNFItZnIwSGljTWxhS2VTc0RIU1BOUlRUUTFKOVFtOW9R?oc=5",
     "news_image": "",
     "news_source": "Legit News",
-    "news_age": "5m ago",
+    "news_age": "7m ago",
     "news_columns": [
       "chocolate",
       "agri"
@@ -30876,12 +30870,12 @@
     "refugees_rank": null,
     "union_rate": 73.9,
     "union_rate_rank": null,
-    "news_score": 0.0,
-    "news_title": "Paraguay’s ex-president taken into custody over alleged bank crisis role - The Times of Israel",
-    "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNE9EVXV1Z3hpVDYxaXlnZ0FVNGFDNXFBNUU4cmlCY1JaUS1NdXM5LW5lejVnQUJNOUtQX2lDLVJCM095Q29fcng0RjdTMUxfQVltLTJvSFh0aTZTVE5qYWVRMW5LTllpWDRRdzV1eXlkUDk4NnRUVVBHSm9jR0gwMDBqVHM0MzRHcEdWcVZQZ3gzLXFFckdKR1l4UXBiMWRDRkgwZEFaVVZVMFYwcjVVak9TQdIBuAFBVV95cUxPbExhNnVIcTMzS1RqaEg3VjVYc05PZkVyUlVHWXNMOUh0emZOVnhGYXFRaFBOUm5XaTNUdjhwNWxGOVhNQ3lEbUlpX1lFcGRIZUZUeFI0NFA2Q19aVWpvYnRBazhTQW5QQ29ndEwtd3lIbVVmeFBIZHBIZk0teHEwZnh1R0tfMFRFU0lWX1ZLQUVuREMyZENMVkhCTjREczZsY29TLTRFd25CWk1iQS1aYkhhU0stVm14?oc=5",
+    "news_score": 0.05,
+    "news_title": "How a bank collapse left millions in limbo and toppled Paraguay's president - NPR",
+    "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwYWJFT1dCdDRmNzJ6UXBoa3d0b0p1NERidXFza0VhaDJoTFl4NzVzN3pnSkFHUDF0N3ZFeVE3Sk03SnZXVUxVTmxURDdDZzlwcmpBT1B5MkUzX2Y3X0ppRW9BVHNCVHB3MUJzc3pPZDZYQWhvcHVCX3Q5a0VFUQ?oc=5",
     "news_image": "",
-    "news_source": "The Times of Israel",
-    "news_age": "32h ago",
+    "news_source": "NPR",
+    "news_age": "6h ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -31654,7 +31648,7 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.47,
+    "news_score": 0.45,
     "news_title": "Suspect in Mass Shooting in Krakow, Poland, Dies in Hospital. Here’s What to Know. - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX3RnTG91aVpybF9LLUtTcE1qRkxqcU9FNnljUEVTT1N4WkhyQk9WVzU2Sm01WTBNcFNPZWRFSVc2R0ZqbW9rUVhvR2ZTT3lYRndZWDNQYXl6aTJGM0p4OTUyNDlzSHg1U21jOWpxQ2o1QlJzUURONDA5VVdHM3ZjTjlzRi1VY1E?oc=5",
     "news_image": "",
@@ -32332,7 +32326,7 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.63,
+    "news_score": 0.62,
     "news_title": "Carlos Ezpeleta: Qatar GP “noise” left MotoGP unnecessarily exposed - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRFRiUlE0eFNuZEEtWWItTVd1NDFPTmswV2Z0ZVV6TVExSnNrcFBNSWhwVW9oYnVXbmFDT3I1QS1EdnduUkdBVlhBbUNJaTZSbzBXUVBVY3BSTVZoR05YWjA4WnpkRDFaTkNscE9TMXNmMDJZQXpZc2RIQ1VDZ1FaYVlnREtQdw?oc=5",
     "news_image": "",
@@ -33127,15 +33121,18 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.7,
+    "news_score": 0.49,
     "news_title": "Ukraine Peace Talks Resume This Week in Abu Dhabi - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOE9NUS1DRlJBNF9FaU1BcU5LNjFfX2I2eHRaRkYwOXdLWmdyLU5aUjdLeVJ1WV9nTUQtYVhXNkFfTjQ5dk5hdzJneTJxS0FmNHZKODR0cHpiUTVBanU5S0JGbk5ZTXBjaWNXWGFXN2hRRy13UGZEUWZkUGR4SEl6ODduQXNjQQ?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -41253,15 +41250,14 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.85,
+    "news_score": 0.78,
     "news_title": "Ukraine Peace Talks Resume This Week in Abu Dhabi - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOE9NUS1DRlJBNF9FaU1BcU5LNjFfX2I2eHRaRkYwOXdLWmdyLU5aUjdLeVJ1WV9nTUQtYVhXNkFfTjQ5dk5hdzJneTJxS0FmNHZKODR0cHpiUTVBanU5S0JGbk5ZTXBjaWNXWGFXN2hRRy13UGZEUWZkUGR4SEl6ODduQXNjQQ?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -42529,10 +42525,10 @@
     "news_source": "City of Toronto",
     "news_age": "14922h ago",
     "news_columns": [
+      "nfl",
+      "basket",
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
