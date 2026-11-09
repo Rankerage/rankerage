@@ -1925,12 +1925,12 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.85,
+    "news_score": 0.91,
     "news_title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYWZxS3E1dS1jTHZLaUFGay1COFZDZkpUMjhmQ2NoOFhSS1R3b1VCc2EzdFFINEM2VWJJT3VtNkRfYTRWRkYyTXRmVW1RcE56dndKVUZvaGxwdmF3UEItamlLY21lc1pkbHRUeUFqelQxeVZseE1IUlRtdXFDWnROWF8zZG8yVWdYU2stbGVscTRuQXJUMG9hNXBhV0VFbGQ3UXc?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "96m ago",
+    "news_age": "98m ago",
     "news_columns": [
       "politics",
       "religion"
@@ -5158,7 +5158,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.55,
+    "news_score": 0.54,
     "news_title": "2026 São Paulo Grand Prix - Race Report: Team Crowned World Champions in Brazil - Mercedes-AMG PETRONAS F1 Team",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWFGelhGazVhZnk3YnFsRTlXc1k3cDhXS0NwTlRjUUllMGdJbjVOenpkNDBuLVlzSFRKMTJHTHlYay11VlJqenZlb0QwUVZrTjJwM3RhT3JDTjZiMzNQQTkzZkhnUXRiRWxaWTFPZVRMUzBqcWFzSGRpUHo5Q2llbHVhX1FhZEttU3NkYWJkcGZBQQ?oc=5",
     "news_image": "",
@@ -8016,8 +8016,11 @@
     "news_source": "China Daily Global Edition",
     "news_age": "67h ago",
     "news_columns": [
-      "tech",
-      "geopolitics"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10937,18 +10940,15 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.94,
+    "news_score": 1.32,
     "news_title": "Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmtvRmxJVkRJR3Jfa3lIdUhONjVGYlIxN1pjeXRHcWZ4ZG9OR1RuaGE5UFBmNWpuUldOVkZMWTVRcDQ4bjh5R0d2X1VUNGtZb3EzWWVzdjNhVi0xcFJlZDhscWQ0YlhWRWstbjdFZEpnOVJab1FjWWlzVnNpQ1A4Q1VXZ1RUR1pzWmNuekJHamJaUkNIbkc4V2JrbVRXaHptQU1iN3NtWjZxMUdqb1VXZUJYb2xjZkk?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "16m ago",
+    "news_age": "18m ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "news",
+      "disaster"
     ],
     "bottom50_wealth": null
   },
@@ -14064,7 +14064,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGJjSE1fYXRsNUt4UGNmWGVjTVI2N1JHclNNMTdXR2NxLVl1aDE3VkRRQjVQaU1rTmVEWVV1V20zeUdvWGE2QzE2RDJVbkplaDFiZUY5dmpMSXh1eUM5RzVzTUxnTFF3SEMwT1Jqa050a0V0eXhCcVdmcTVVSTZyS3ppdnlpenhxUmRGRXhHYjM?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "22m ago",
+    "news_age": "24m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -17390,12 +17390,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.72,
+    "news_score": 0.71,
     "news_title": "Crude Oil Price Falls As Trump Says New Iran Attacks 'Unlikely' - News18",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONi1jVzg2a2FyWG9GQ3pPYWlYOVhDcFlrNEpOVm1CMGJSNk9ZSHp6VThTNndLTW5GaXhTc01MX21oLW5aMlNLS18yT3NhZ2FkRGkyNkF3ZVItb004UzRfcV9aYkNkMjhEc19OQ0NOaUdRU0FSdVlMUXlLTXZlVkw2R2VWVnZlN0UtOU00SkI1TGVCQ21reW1jbnNsZGtVWEktUXpyaGNYTGhDSl9xQ2g3endONlVQcll4YnpEQtIBwgFBVV95cUxNVWNGRl9YQ25Ma05qUDdhTXpreGFaZ3lFZ2NpbUF0S0NHVzBJaWhvbEZuVXJWc1JsVjZKWU5lTTJaWU5OdnNRSzdwbnNpejRXWUhWdVFKU2tub2dHQXYwd0ktaVUwbVJLUmJ5S0RmdjhyYnVGdUM2UnhjTE1YWnV4TlV4T1dsMUluSzJNZFppUEJ0ZnV5X2cxb3BkUjdfcFRJNFBvdEs1VTZMbmZFWlZsMHVyWjNDZVZuYmRWYWFiSmlYZw?oc=5",
     "news_image": "",
     "news_source": "News18",
-    "news_age": "91m ago",
+    "news_age": "93m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -19446,7 +19446,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.61,
+    "news_score": 0.6,
     "news_title": "Jordan Love Makes MVP Statement: 3 Takeaways From The Packers' Win Over the Patriots - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaWtKRUV1Z2dXZXJvMDZyN29pY0luWWlFTXJMR09yTHFCTDA2cXVPWE43aWo3SzNoNFJJSUNyanFjYW5PNmxNRU5la0RGZ2o2amNIUjFUSWI4azdTZzNLN3VrdzJyZUZVNTVSMjBoVEtMVmRWZ3oyRWpoYmM5WXFNdXVJVGZ2VlVyYmN3Mm5iRnoyUUNFaHoyWjN2ZGxjbjhIUE90Z1o5OGNTelpfVnfSAa4BQVVfeXFMTUJFbUxGb05YY2dJNFNiOE5xZ2s2T2ZWRlJQaU1RRHR6V1FFVWpfUExBd1p3V21PVFUtQ1NPdzVYS3lPYWxZX3hYMHVUVU9GWFZqY19scHV3SVNLUGVySHJRTDVSVHplTlhDRzVOWHUxUWJaNnVTOC1rWlRIekNPSV9La1YwQzlhMzdrZ0ZvTGE5MzR0ZDBVZGIyYjRQX2lzTnBBaEJKSjN0dTRpX0xR?oc=5",
     "news_image": "",
@@ -28010,7 +28010,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSl93WHJScElBMW1yeFZIcWdQQTJvVUJJLS1RVUJTWUROY1BkMFRnaFhXUXlLdVdvdnVJRWdEOGRuWXNUa0VPVUE0SWRDUE5LZHlzM2xMWG9iVlM3Y0NMcTU4ek1kYmVEU3pjOE5fVzZDN2R0TGxkVXN5RWN6SzFKWnl3LWlHLVRYcFhDLVZhbERtZVEwNFNEZHVEY1lSRHdYLXlMY2tqWVc?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -32130,7 +32130,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSl93WHJScElBMW1yeFZIcWdQQTJvVUJJLS1RVUJTWUROY1BkMFRnaFhXUXlLdVdvdnVJRWdEOGRuWXNUa0VPVUE0SWRDUE5LZHlzM2xMWG9iVlM3Y0NMcTU4ek1kYmVEU3pjOE5fVzZDN2R0TGxkVXN5RWN6SzFKWnl3LWlHLVRYcFhDLVZhbERtZVEwNFNEZHVEY1lSRHdYLXlMY2tqWVc?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -41260,7 +41260,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.18,
+    "news_score": 0.13,
     "news_title": "Europe will be represented in Abu Dhabi talks on Ukraine, French foreign minister says - POLITICO.eu",
     "news_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUDdWejBEMHl5NXlnaGxydmFWeVkxb0hTTHRWWjBYLXBqdmtoMGtxOXJzUGtVYld2TUZWZ1NEOGJGM2lVbDhpS3o5YVVobFQxNjNVR2dqU3dSZWlpS2FVampFdl9FSjRwVWkyZ2lSanZ1WHU0OWdacUo2SVNBbHpGdjJpNHQ0bG9qZ1h1YV9Pb285eTFzN0dtamdTR3hQYmMxanJ4RkhoREFWLVRqcFJ3Q1Rkd3QwVndvaUEyY2RESVZSMllvNzlzQVQ0dHFocTZP?oc=5",
     "news_image": "",
@@ -42540,13 +42540,11 @@
     "news_age": "9h ago",
     "news_columns": [
       "golf",
-      "pga_tour",
+      "pga_ranking",
       "nfl",
-      "american_football",
+      "fantasy_football",
       "politics",
-      "us_congress",
-      "tech",
-      "geopolitics"
+      "election"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43753,7 +43751,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGJjSE1fYXRsNUt4UGNmWGVjTVI2N1JHclNNMTdXR2NxLVl1aDE3VkRRQjVQaU1rTmVEWVV1V20zeUdvWGE2QzE2RDJVbkplaDFiZUY5dmpMSXh1eUM5RzVzTUxnTFF3SEMwT1Jqa050a0V0eXhCcVdmcTVVSTZyS3ppdnlpenhxUmRGRXhHYjM?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "22m ago",
+    "news_age": "24m ago",
     "news_columns": [
       "car_density",
       "gas_price",
