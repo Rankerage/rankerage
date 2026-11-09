@@ -2552,15 +2552,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.6,
+    "news_score": 0.75,
     "news_title": "Reece Walsh hat-trick drives Australia past Samoa and into Rugby League World Cup final - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUDV0U1RISk1FazJzcTNzbGFHZFBZRnRZeDJodlFuVVhaZTk2YnVYaE9fRkNVQ0FScUh6Y21JR0N4dVBocm9XMERDNFk0emxJYktsc3FnZkdrVlZGLTE4TUs4eFRvU1Nhek1zRkt6NF9RVVVxcllLazZaRkp4QkRWbWRKN05KYXdUZkhfS09ERW5iSEw5Ykp2d2g0aXlMLW5WdmJZZ0QwYXNFUXV6emFzNlZFcVhGUS1ySVlPVk9uWXo?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
-      "rugby",
-      "rugby_league"
+      "rugby_league",
+      "world_cup"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -6935,7 +6935,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.12,
+    "news_score": 0.11,
     "news_title": "Norway says it has been bumped by the IIHF to allow Russia to compete at world juniors in Canada - CBC",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPME5uUi1kVUYzS0drcmlvZ2pXRzZUNlpGWFJtUmU5SFVuS2JNb3dIUy1NZXFXaGVlajNhMFNYSWhWNjRRdkZuTzd6dmd0b2tkbTVjSnRBR0tjcC1qZjVPV1htelBxeWZHTHF6bzlJSm5ZUTZFVlVvYXYzdUFiUi1rTUVXa0hKSEgzU0VFTEZfUGt3bTVjY1RtZ0FxN3BfMnF0d01hMGFwSl9xWVE?oc=5",
     "news_image": "",
@@ -8015,8 +8015,8 @@
     "news_source": "China Daily",
     "news_age": "69h ago",
     "news_columns": [
-      "finance",
-      "markets"
+      "markets",
+      "oil"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10937,15 +10937,19 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 1.22,
+    "news_score": 0.91,
     "news_title": "Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmtvRmxJVkRJR3Jfa3lIdUhONjVGYlIxN1pjeXRHcWZ4ZG9OR1RuaGE5UFBmNWpuUldOVkZMWTVRcDQ4bjh5R0d2X1VUNGtZb3EzWWVzdjNhVi0xcFJlZDhscWQ0YlhWRWstbjdFZEpnOVJab1FjWWlzVnNpQ1A4Q1VXZ1RUR1pzWmNuekJHamJaUkNIbkc4V2JrbVRXaHptQU1iN3NtWjZxMUdqb1VXZUJYb2xjZkk?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "22m ago",
+    "news_age": "24m ago",
     "news_columns": [
-      "news",
-      "disaster"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "car_density"
     ],
     "bottom50_wealth": null
   },
@@ -13030,8 +13034,8 @@
     "news_source": "France 24",
     "news_age": "5h ago",
     "news_columns": [
-      "rugby",
-      "rugby_league"
+      "rugby_league",
+      "world_cup"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -14061,7 +14065,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGJjSE1fYXRsNUt4UGNmWGVjTVI2N1JHclNNMTdXR2NxLVl1aDE3VkRRQjVQaU1rTmVEWVV1V20zeUdvWGE2QzE2RDJVbkplaDFiZUY5dmpMSXh1eUM5RzVzTUxnTFF3SEMwT1Jqa050a0V0eXhCcVdmcTVVSTZyS3ppdnlpenhxUmRGRXhHYjM?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "118m ago",
+    "news_age": "2h ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -17387,18 +17391,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.51,
+    "news_score": 0.62,
     "news_title": "Crude Oil Price Falls As Trump Says New Iran Attacks 'Unlikely' - News18",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONi1jVzg2a2FyWG9GQ3pPYWlYOVhDcFlrNEpOVm1CMGJSNk9ZSHp6VThTNndLTW5GaXhTc01MX21oLW5aMlNLS18yT3NhZ2FkRGkyNkF3ZVItb004UzRfcV9aYkNkMjhEc19OQ0NOaUdRU0FSdVlMUXlLTXZlVkw2R2VWVnZlN0UtOU00SkI1TGVCQ21reW1jbnNsZGtVWEktUXpyaGNYTGhDSl9xQ2g3endONlVQcll4YnpEQtIBwgFBVV95cUxNVWNGRl9YQ25Ma05qUDdhTXpreGFaZ3lFZ2NpbUF0S0NHVzBJaWhvbEZuVXJWc1JsVjZKWU5lTTJaWU5OdnNRSzdwbnNpejRXWUhWdVFKU2tub2dHQXYwd0ktaVUwbVJLUmJ5S0RmdjhyYnVGdUM2UnhjTE1YWnV4TlV4T1dsMUluSzJNZFppUEJ0ZnV5X2cxb3BkUjdfcFRJNFBvdEs1VTZMbmZFWlZsMHVyWjNDZVZuYmRWYWFiSmlYZw?oc=5",
     "news_image": "",
     "news_source": "News18",
     "news_age": "3h ago",
     "news_columns": [
-      "gas_price",
-      "energy_per_capita",
-      "co2",
-      "renew",
-      "exports"
+      "markets",
+      "oil"
     ],
     "bottom50_wealth": null
   },
@@ -18121,7 +18122,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.17,
+    "news_score": 0.16,
     "news_title": "President Ronald Lauder Welcomes Decision to Task Gadi Eisenkot With Forming Israel’s Next Government - World Jewish Congress - World Jewish Congress",
     "news_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOODl0WmdLRE5KNGRfdndoYkdtejhkaWd5OW5CV2Q4TzVrY2FxS2h0QUJXTlhPb2l6bndpbTNfOUlHeEFFRFlXcDhqRi15UzNqMElqSmIxNFpDU21YSWxsc0xfY1ZMQlFRejNDQXZ5TTAtV2R3SDdGNmU0aldsbDhNVGJCTEx5QnhSbDQ4Mnc4LTBLbDZMUERGb3daaDlxaVpUaGJ6Y1g5aUJ5RDl4a0xrc0NLQVZpYWc5aU1XTUJ3UFpVSmxYWThtSXZBaXpEXzNaRjlkZzR1UGNfQWY1dWtzT1EwTjcwMU1qOWNJT3BXSnZvNWk2eHFPWXNB?oc=5",
     "news_image": "",
@@ -19254,7 +19255,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.06,
     "news_title": "Japan@Cuba - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQREd2d1gtbGo5ajhiWDYtbHFuNGRic3ZEenllcXFYWXVFN1BBLVBrR0RUcXkyYWpHZHlWWl9JbnhyUVY4SlFfbDFNR1VHck5xU1d5d0cyQl9NZG9zdS1Ka2RPSGEyRy04c2VLSXctUUVnVDIwNHR4MkxQOWVlNWpWdkY3clg1eVo2QnJDUEZ4cjVrZG05SnpBT0t6VG8xSHRteFJQQnpJeGk?oc=5",
     "news_image": "",
@@ -19262,9 +19263,7 @@
     "news_age": "11h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -19441,12 +19440,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.97,
+    "news_score": 1.06,
     "news_title": "Jordan Love totals four touchdowns in Week 9 - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnF4cmYtU0NNV3FGMXI3M2dCdlNYcnVKOXkzakE3LWJsTF9QUVRtdFRITE0yS04ySDVMQnAyZDN6SjZFQzhfdTJPUVMtWmIzUXdiSlprem9ESkhGV3BjelktNmczcWRjNkdWcHRfaklvWF9SN0MycHpKa1lOZEJnMW1wRlVpaDVHNldR?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -27811,7 +27810,7 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 0.0,
+    "news_score": 0.01,
     "news_title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY3o2eFZkekpBRXNYdktqb2JoT2N5MklUYS1KakpENWdUWUxqaWpSMVRXM3NodXA1aG1JY3JTbDBfTHhleUd4aV9Rd1NiMTJFNmtnRjBYWkpJLUthMGN5aGk3Sk1lanNHY2Fwc2Q2THlvZ0hlbTBxdTVxTEVNa0NaLUEtTVR3cHNZQmhBS0hSTTNnaU1pUkE2QXU5dFUzbHB5bjZhZ1Jha0dXX0JPY3VQbTdTZEJVY3RwcExyczJ5NA?oc=5",
     "news_image": "",
@@ -29500,7 +29499,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.12,
+    "news_score": 0.11,
     "news_title": "Norway says it has been bumped by the IIHF to allow Russia to compete at world juniors in Canada - CBC",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPME5uUi1kVUYzS0drcmlvZ2pXRzZUNlpGWFJtUmU5SFVuS2JNb3dIUy1NZXFXaGVlajNhMFNYSWhWNjRRdkZuTzd6dmd0b2tkbTVjSnRBR0tjcC1qZjVPV1htelBxeWZHTHF6bzlJSm5ZUTZFVlVvYXYzdUFiUi1rTUVXa0hKSEgzU0VFTEZfUGt3bTVjY1RtZ0FxN3BfMnF0d01hMGFwSl9xWVE?oc=5",
     "news_image": "",
@@ -33126,7 +33125,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.12,
+    "news_score": 0.11,
     "news_title": "Norway says it has been bumped by the IIHF to allow Russia to compete at world juniors in Canada - CBC",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPME5uUi1kVUYzS0drcmlvZ2pXRzZUNlpGWFJtUmU5SFVuS2JNb3dIUy1NZXFXaGVlajNhMFNYSWhWNjRRdkZuTzd6dmd0b2tkbTVjSnRBR0tjcC1qZjVPV1htelBxeWZHTHF6bzlJSm5ZUTZFVlVvYXYzdUFiUi1rTUVXa0hKSEgzU0VFTEZfUGt3bTVjY1RtZ0FxN3BfMnF0d01hMGFwSl9xWVE?oc=5",
     "news_image": "",
@@ -41250,7 +41249,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.01,
+    "news_score": 0.0,
     "news_title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdXFMOFVmY0FXcE1RbnBtWUFlOG5SbkhCNHBGU2pDcEFTbTJqWHVYSVFCYk9QcmNvTXhQQjdHc1E1alJQR3pFRlpJLVVSa0hfX2tEZVdncE53ZWllUHJBUGt1bEpCV3lHMG8wd2lXLUlPb3U5bEg5TUtXMDRMV3ctQWcwZzBMVnZGa0lQZVA3cVUxdkZGTW92SzIzUFFDUmlo?oc=5",
     "news_image": "",
@@ -42530,12 +42529,14 @@
     "news_source": "The Washington Post",
     "news_age": "11h ago",
     "news_columns": [
-      "nfl",
-      "football",
+      "fifa_ranking",
+      "fifa_w",
       "golf",
       "pga",
-      "finance",
-      "markets"
+      "politics",
+      "impeachment",
+      "markets",
+      "oil"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43742,7 +43743,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGJjSE1fYXRsNUt4UGNmWGVjTVI2N1JHclNNMTdXR2NxLVl1aDE3VkRRQjVQaU1rTmVEWVV1V20zeUdvWGE2QzE2RDJVbkplaDFiZUY5dmpMSXh1eUM5RzVzTUxnTFF3SEMwT1Jqa050a0V0eXhCcVdmcTVVSTZyS3ppdnlpenhxUmRGRXhHYjM?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "118m ago",
+    "news_age": "2h ago",
     "news_columns": [
       "car_density",
       "gas_price",
