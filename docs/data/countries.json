@@ -2552,7 +2552,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.48,
+    "news_score": 0.46,
     "news_title": "Reece Walsh hat-trick drives Australia past Samoa and into Rugby League World Cup final - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUDV0U1RISk1FazJzcTNzbGFHZFBZRnRZeDJodlFuVVhaZTk2YnVYaE9fRkNVQ0FScUh6Y21JR0N4dVBocm9XMERDNFk0emxJYktsc3FnZkdrVlZGLTE4TUs4eFRvU1Nhek1zRkt6NF9RVVVxcllLazZaRkp4QkRWbWRKN05KYXdUZkhfS09ERW5iSEw5Ykp2d2g0aXlMLW5WdmJZZ0QwYXNFUXV6emFzNlZFcVhGUS1ySVlPVk9uWXo?oc=5",
     "news_image": "",
@@ -5160,16 +5160,15 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.24,
+    "news_score": 0.16,
     "news_title": "2026 São Paulo Grand Prix - Race Report: Team Crowned World Champions in Brazil - Mercedes-AMG PETRONAS F1 Team",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWFGelhGazVhZnk3YnFsRTlXc1k3cDhXS0NwTlRjUUllMGdJbjVOenpkNDBuLVlzSFRKMTJHTHlYay11VlJqenZlb0QwUVZrTjJwM3RhT3JDTjZiMzNQQTkzZkhnUXRiRWxaWTFPZVRMUzBqcWFzSGRpUHo5Q2llbHVhX1FhZEttU3NkYWJkcGZBQQ?oc=5",
     "news_image": "",
     "news_source": "Mercedes-AMG PETRONAS F1 Team",
     "news_age": "6h ago",
     "news_columns": [
-      "temperature_anomaly",
-      "co2_emissions",
-      "climate_risk_index"
+      "coffee",
+      "tea_consume"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -6944,7 +6943,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPME5uUi1kVUYzS0drcmlvZ2pXRzZUNlpGWFJtUmU5SFVuS2JNb3dIUy1NZXFXaGVlajNhMFNYSWhWNjRRdkZuTzd6dmd0b2tkbTVjSnRBR0tjcC1qZjVPV1htelBxeWZHTHF6bzlJSm5ZUTZFVlVvYXYzdUFiUi1rTUVXa0hKSEgzU0VFTEZfUGt3bTVjY1RtZ0FxN3BfMnF0d01hMGFwSl9xWVE?oc=5",
     "news_image": "",
     "news_source": "CBC",
-    "news_age": "11h ago",
+    "news_age": "12h ago",
     "news_columns": [
       "gender",
       "gender_gap",
@@ -8019,12 +8018,8 @@
     "news_source": "WSJ",
     "news_age": "3h ago",
     "news_columns": [
-      "temperature_anomaly",
-      "co2_emissions",
-      "climate_risk_index",
-      "market_index",
-      "semiconductor_index",
-      "tech_sector_return"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -9267,12 +9262,12 @@
     "union_rate": 79.3,
     "union_rate_rank": null,
     "fifa_w_rank": 89,
-    "news_score": 0.48,
+    "news_score": 0.52,
     "news_title": "EXCLUSIVE: Covert Russian network exploited French riots on social media, EU report says - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0hpUFBLeDI4ZDJzc25aU0VuT0FKVkNBSHhEMHgyVUlXc0NGcXVyYjJZcDl3Vy1kN3NRX2wtSUVFZ1ctajJhMHQ3UC1PeEJYczNZZ0dZVEVIeEoySnN0X0lMQTlCd3F5OWVSUHlQNkZTdEZKRUZiX0NjOVNNaVhaek4yNVVkdXFzaURTdXJCVVk4QTN1NFdjcDYwZFdGal9KNVBaRWQwaDRTaEFYZ0x2WkZTVUZITHlUVHZqbDFRZw?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "105m ago",
+    "news_age": "107m ago",
     "news_columns": [
       "democracy",
       "press",
@@ -10945,15 +10940,14 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.65,
+    "news_score": 0.62,
     "news_title": "Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmtvRmxJVkRJR3Jfa3lIdUhONjVGYlIxN1pjeXRHcWZ4ZG9OR1RuaGE5UFBmNWpuUldOVkZMWTVRcDQ4bjh5R0d2X1VUNGtZb3EzWWVzdjNhVi0xcFJlZDhscWQ0YlhWRWstbjdFZEpnOVJab1FjWWlzVnNpQ1A4Q1VXZ1RUR1pzWmNuekJHamJaUkNIbkc4V2JrbVRXaHptQU1iN3NtWjZxMUdqb1VXZUJYb2xjZkk?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "2h ago",
     "news_columns": [
-      "disaster_mortality",
-      "infrastructure_safety_index"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -13031,19 +13025,14 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.93,
+    "news_score": 1.14,
     "news_title": "EXCLUSIVE: Covert Russian network exploited French riots on social media, EU report says - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0hpUFBLeDI4ZDJzc25aU0VuT0FKVkNBSHhEMHgyVUlXc0NGcXVyYjJZcDl3Vy1kN3NRX2wtSUVFZ1ctajJhMHQ3UC1PeEJYczNZZ0dZVEVIeEoySnN0X0lMQTlCd3F5OWVSUHlQNkZTdEZKRUZiX0NjOVNNaVhaek4yNVVkdXFzaURTdXJCVVk4QTN1NFdjcDYwZFdGal9KNVBaRWQwaDRTaEFYZ0x2WkZTVUZITHlUVHZqbDFRZw?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "105m ago",
+    "news_age": "107m ago",
     "news_columns": [
-      "democracy",
-      "press",
-      "gpi",
-      "polit_kill",
-      "ai_research",
-      "internet_pct"
+      "olympic"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -16831,9 +16820,12 @@
     "news_source": "The Conversation",
     "news_age": "16h ago",
     "news_columns": [
-      "temperature_anomaly",
-      "co2_emissions",
-      "climate_risk_index"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "gender"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -19449,7 +19441,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.69,
+    "news_score": 0.68,
     "news_title": "Jordan Love totals four touchdowns in Week 9 - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnF4cmYtU0NNV3FGMXI3M2dCdlNYcnVKOXkzakE3LWJsTF9QUVRtdFRITE0yS04ySDVMQnAyZDN6SjZFQzhfdTJPUVMtWmIzUXdiSlprem9ESkhGV3BjelktNmczcWRjNkdWcHRfaklvWF9SN0MycHpKa1lOZEJnMW1wRlVpaDVHNldR?oc=5",
     "news_image": "",
@@ -29513,7 +29505,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPME5uUi1kVUYzS0drcmlvZ2pXRzZUNlpGWFJtUmU5SFVuS2JNb3dIUy1NZXFXaGVlajNhMFNYSWhWNjRRdkZuTzd6dmd0b2tkbTVjSnRBR0tjcC1qZjVPV1htelBxeWZHTHF6bzlJSm5ZUTZFVlVvYXYzdUFiUi1rTUVXa0hKSEgzU0VFTEZfUGt3bTVjY1RtZ0FxN3BfMnF0d01hMGFwSl9xWVE?oc=5",
     "news_image": "",
     "news_source": "CBC",
-    "news_age": "11h ago",
+    "news_age": "12h ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -30884,12 +30876,12 @@
     "refugees_rank": null,
     "union_rate": 73.9,
     "union_rate_rank": null,
-    "news_score": 0.82,
+    "news_score": 0.84,
     "news_title": "Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap - Bloomberg.com",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR1JWME4tcFN3Vlh6UlhVeEN3c2FlRUFkUWRrczJ6OUZ1QWRkRndtMy1nZFhBaU5Lc0dzaXU2ZjJnNUtwN2RSa3dyLXlwUV9QanZmaC1Wb2xhbUVZekZhaXdXZkpSazFDVnJqZWIweWtvdGczQi0xTnB1aEhiSy00aVFsMWdYaE1sRkN3NlU2YmVJdzhv?oc=5",
     "news_image": "",
     "news_source": "Bloomberg.com",
-    "news_age": "59m ago",
+    "news_age": "26m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -33139,7 +33131,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPME5uUi1kVUYzS0drcmlvZ2pXRzZUNlpGWFJtUmU5SFVuS2JNb3dIUy1NZXFXaGVlajNhMFNYSWhWNjRRdkZuTzd6dmd0b2tkbTVjSnRBR0tjcC1qZjVPV1htelBxeWZHTHF6bzlJSm5ZUTZFVlVvYXYzdUFiUi1rTUVXa0hKSEgzU0VFTEZfUGt3bTVjY1RtZ0FxN3BfMnF0d01hMGFwSl9xWVE?oc=5",
     "news_image": "",
     "news_source": "CBC",
-    "news_age": "11h ago",
+    "news_age": "12h ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -42533,20 +42525,16 @@
     "refugees": null,
     "refugees_rank": null,
     "news_score": 0.01,
-    "news_title": "SS United States will be sunk, becoming the world’s largest artificial reef - The Washington Post",
-    "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVFNFYTVxSnVQN2ZJejVJeWVfWm50NUtqZmtYdU43T1o5X3VKdW44QVJQRElWYlFUd0hZZFk4ZXE3cWhlbU9lWnlOY3JORUhOWlp0VVVXZjRBQmpJclNpcWQ0cGFMSHUyZ18yTzc1V09iYU9PelpWcU5WblZOdnpnMElCclNDMU5fWVhRNU5KVmhSOVpuQ2lfSVA4OWtfWW9abFkwMDEtQTVNZDJPdi1CVW1BRUJhOGVGUEVzbA?oc=5",
+    "news_title": "Responding to United States Economic Policy - City of Toronto",
+    "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONWM2aXc1OGtEUmRhQXAxWkF6OVlvaTNpVzRuUjNOeXVMQmoxN2EyRVZld1ljSkVYRVFNTWJ6NVlKUVdlbC1nTE81THNUUjdNZU1EblFWOGtfR3ZFQ3psc205eEFacXI5c05FN2Y3c0hrUVhSNDJZV2VQemg0YkM5UVdtSE5Ob0l1dllwZ08tNWNhVEcxSkg1d2NSRi0tYTZIVUkwX0V4c3BRNklvZnVNb1poMW1pQU1wb2FpOHpsdGgzQUJiV2c?oc=5",
     "news_image": "",
-    "news_source": "The Washington Post",
-    "news_age": "13h ago",
+    "news_source": "City of Toronto",
+    "news_age": "14917h ago",
     "news_columns": [
-      "temperature_anomaly",
-      "co2_emissions",
-      "climate_risk_index",
-      "market_index",
-      "semiconductor_index",
-      "tech_sector_return",
-      "nfl_ranking",
-      "nfl_power_rank"
+      "olympic",
+      "fifa_ranking",
+      "fifa_w",
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
