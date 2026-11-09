@@ -1925,16 +1925,17 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 1.21,
-    "news_title": "Pope Leo delivers veiled rebuke of austerity measures in predecessor’s homeland - The Washington Post",
-    "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObGZQb2t3dmtrRk9rN2l1TWhaV1E0NWdsUFJNbzRCb3RPSWsxRnN5T0V5X2FCM0ZpWEtvd1NhcTVmTVYtWmZvQlNBbFpmMWV1VHR0STRzcHBEeHRlVkRQOEJIc0h6QmZWSndTLVh0M0hWYmFiOF9jYkpQNWVuS194S0tOQUNNR2s5VS00dUsydFh3amF2MHg1MEpURFdLWHNoNE1XejlYZUtXNnNxYUE?oc=5",
+    "news_score": 1.48,
+    "news_title": "FIP World Cup 2026 recap: Spain double up to beat Argentina to both titles - Red Bull",
+    "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50aW9WbTNCcDBOandlZ2ZHczNxWkk1cFc4bkMxSHh1ZkNteWxOWUNwa3FCT3gxRURLRVJjcjVDQm45NlJsM0RraThKYlp3cnZ5S1VzS3VMNVV3c1YyUDZkSlpnWlFlMy1H?oc=5",
     "news_image": "",
-    "news_source": "The Washington Post",
-    "news_age": "24m ago",
+    "news_source": "Red Bull",
+    "news_age": "2h ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "fifa_ranking",
+      "fifa_w",
+      "basket",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -8008,14 +8009,16 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.34,
+    "news_score": 0.36,
     "news_title": "EXPLAINER - Why is the world’s top chipmaker caught in a US-China spy row? - Anadolu Ajansı",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZndJdVhlS3lfM2puRl9HTVQzbVJ5WVY3cFltRktuRW01V050Z0VfeHZoaVhmalk3b2JPNThKSXJCMUJlM1RycDI0eW1PWjZhS18zTGduQm1TMGVDWV9sMDMwdkFicVdCdzZzd2swX3hhbU9xNUxnMVdkVmM5c29CclMtam9KNF9xTHIycmFoUllEbFJEdnROWDBVSS1BQWhiUmNtTUxnQnVtZ2hTVmJDM2V2ejIyTzJ6Q09IYXptWk0?oc=5",
     "news_image": "",
     "news_source": "Anadolu Ajansı",
     "news_age": "5h ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10936,14 +10939,19 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.43,
+    "news_score": 0.36,
     "news_title": "Egypt annual core inflation falls to 13.1% in October: CBE - Economy - Business - Ahram Online",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaHhrYnE5MExPNW0zVGUtRlhPMktnQXRVdmV0WTFWdFk0S05PNU9VYXNXWE9FeDVDazZZRE40dHVZbnJPa3BmWGV1a1Y2SHN1WTFObGE1M0VIeTUzbHpBTXc1X0lXOW5ISG5FVThVV3dMVXVJelM0d2xDdk5kcXR1MjI5blBMQ0xQTXJiNkpDS3ZfWFBEcy1neDl5cjJNTWZfTjdIYnRPSG1wcWtLT2REQkEweGlWSVJ4WFhkMG12TjJuQjQ?oc=5",
     "news_image": "",
     "news_source": "Ahram Online",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": null
   },
@@ -13021,13 +13029,14 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.5,
+    "news_score": 0.54,
     "news_title": "Phillies news: Dave Dombrowski, Kyle Schwarber, Ty France - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQallhcWNtdFRSNXJXVU90a0F2WlB3Nll6YWw2NzJYdkJ4X2YxcDU0eFFORVpFRXVVOG5FNnlDejZvazNQY3duRWhkX08wVVAyUTczLVdUTnlFcUJfbjhLTWFYU0FhSWJPcTFFaXlBXzRfYkpmUnlpMlVQTDRuak5POVZkWGk4ai1SMGN3?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
     "news_age": "3h ago",
     "news_columns": [
+      "fifa_ranking",
       "olympic"
     ],
     "bottom50_wealth": 3.8,
@@ -13555,7 +13564,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONjlCM1JtMXB1WjgzaEN2ZDBKTE83Smhrd1d6aDhfcHlHekdhaklkRjZXbFc1OXBTTFlfZkw5N1ZIR3hPUkUyZlR2c2xzMEdQdWpkVHJNNWRPRmQ1SUNUWTVJR1F4WDViaTRUWHN5eE9SZTA4TTNuR1gwYUNQYUowS19LWnp5YnhDM1ZFdEtVYzNaWjFlUS14VEtXREZxV0JRYm1IaXZ6Z3hrSlp6dlpGWXNEQ0vSAbQBQVVfeXFMTnRyVXk5THAwa2dkZEVQbzNqcFZZRjhUbkdfWm1uS0ZRWXlYcG41RFJmSkxwQ1NfWUxQMG9sSXZpLTFDemdQYWpubGJCRHJsamFFbDFXRTNMZ3h6dnNaV2FocmsyeUFyVXVSS1NicVVqT054Z3Awa0R3XzBaRDJxYjV0dmwtWkI3bXRrV1VveGpFSTJEZUpmSlVXUmJaVTNpcUlDZEFDc1h0UWs4bGM1YU11YTBt?oc=5",
     "news_image": "",
     "news_source": "FOX Sports",
-    "news_age": "69m ago",
+    "news_age": "71m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -14061,6 +14070,7 @@
     "news_source": "Vietnam.vn",
     "news_age": "12h ago",
     "news_columns": [
+      "fifa_ranking",
       "olympic"
     ],
     "bottom50_wealth": 2.5,
@@ -14519,14 +14529,17 @@
     "refugees_rank": null,
     "union_rate": 70.0,
     "union_rate_rank": null,
-    "news_score": 0.77,
+    "news_score": 0.64,
     "news_title": "Thirteen migrants die after boat sinks off Crete - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91WFNSYkZ5ZUJtNXNmZzJCaDNHTklsVGZaTFZrRV9YX0F5VHVyaUt5NTdseXk1UC0tdzJnRGltcDNtamo5LXljZzVlem9aRnRzd1pJUXBib0g5cUE?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "103m ago",
+    "news_age": "105m ago",
     "news_columns": [
-      "fifa_ranking"
+      "immigration",
+      "emigration",
+      "refugees",
+      "population"
     ],
     "bottom50_wealth": 6.8,
     "bottom50_wealth_rank": 1
@@ -15438,12 +15451,12 @@
     "refugees_rank": null,
     "union_rate": 65.3,
     "union_rate_rank": null,
-    "news_score": 0.8,
+    "news_score": 0.79,
     "news_title": "Haiti-born soccer prodigy Kiki Ramos joins Grenadiers ahead of youth World Cup - The Haitian Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM1JwaVRCLXhuZVVWNGZOWTlLbHFIREtTUE12U1p3emNCaFZEMzgtYkUzVHNTYkJqVnJuV0xpbHMyT3Rjb0ZpYjQ4ZmxBa2J4SFRqcTByMU5BSE90TmFyYmRrUTdEajBhdFV4NXFyYVJaMlpQTnQ3aXE4R3VOSHJpRWNrMnE?oc=5",
     "news_image": "",
     "news_source": "The Haitian Times",
-    "news_age": "56m ago",
+    "news_age": "58m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -16813,10 +16826,8 @@
     "news_source": "Lokmat Times",
     "news_age": "63h ago",
     "news_columns": [
-      "tourism",
-      "passport",
-      "aviation",
-      "airports"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17379,14 +17390,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.09,
+    "news_score": 1.11,
     "news_title": "Live Updates: Trump says he sees no reason to escalate war with Iran, touts his long-term goals in the conflict - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zN0FDMkRwcDVyZGFpV0dvRnhidUVyU1hrc2pKQzJZMmlLZDF1bHZ0dzBtMDJLOXc5T0xNYmRuS2Q4eU1QQmFqaHJ1cVg0VGkxcWN3dEZLVlo1UlQ0ckZCaW52b0lHQzVZN2N6UElySjhIWDdXWVh5T24xcmh4Zw?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "67m ago",
+    "news_age": "69m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -18549,12 +18561,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.16,
+    "news_score": 0.21,
     "news_title": "ESLC: Italy earns last qualification spot for 2027 Sixes Championships - World Lacrosse",
     "news_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FdU5LcWZSWGR4X21VbU5EY0FXckhPMkxBTnJHdHk0azBNQzdZc3RLbmN3Nlp5OFc1WHpoaE5WM1hUOERIS3JiWEU4VDQ4VmY1eWxkUm5pdWg?oc=5",
     "news_image": "",
     "news_source": "World Lacrosse",
-    "news_age": "4h ago",
+    "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -19237,12 +19249,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.6,
+    "news_score": 1.59,
     "news_title": "Vietnam and Japan strengthen economic ties and cooperation in science and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcEFucnZ3RUVCOFRydGFqTWdGdTZxdGh3ZkNyVmdKRzRTRXFIbU9oTnFQcF9qSVlnMklpSXZ2RndWZVZTUUxPOGxXakViTHFGSkkzWDlxS0pRTjR3SmJZRi1IRGRpRGtLNGNmUWVJU1dmMzUyNlk3ZC1tczJVLXU1X01qQkxMLVJvRXMwX0NhUGFyUHdCSklQZkxfVkRNMTQ?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "27m ago",
+    "news_age": "29m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -28449,15 +28461,17 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 1.05,
+    "news_score": 1.38,
     "news_title": "FG Secures $200M Loan From World Bank To Boost Fish Production in Nigeria - Legit.ng",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRjRFTHpIQnFVUmo5TnZ5MHd2ZU05TS0xNTFka2pOZU9mUzRZUnhPcU4ySVlLSkI1dklDOXo3YVAzaXR2dWlLNlIwVkUwMU9RNlBodzFPUHVDaEdtdW1yX0tVMzFTa1VPN0xBWnV1SHlsWEJEME53aWRtZW9RSTBJdWZvU0tJRzlxSG51WUF5WnVObG1sUnFjcF8yRzhHOG55NGUxdGVpYWxuUE1XbEtlMmtoLUhMZ3dI?oc=5",
     "news_image": "",
     "news_source": "Legit.ng",
     "news_age": "2h ago",
     "news_columns": [
-      "economy",
-      "energy"
+      "fifa_ranking",
+      "fifa_w",
+      "basket",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -33113,14 +33127,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.99,
+    "news_score": 1.03,
     "news_title": "US-led peace talks for Russia and Ukraine will look at security guarantees for both sides - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOVRvYUFQbS0za2RfNkk2T0xkYnVrcFVoNXZ3SzgwN2RpcTlMWDBha3lINTR1X0JSM0JkaldZMjB2SHFVYzJ2Mi1vcV9vamlQd1pOaWNtLV9aYjFlY1prMFh0ME1tZzdFa194dTJVSG1aU0c5bmZnU1BGWHdvbGhIakk1ekxVcjluRTZtQzJIQ19vSF91bHJsbVV4T1dWa1U?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "77m ago",
+    "news_age": "79m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -34293,16 +34308,17 @@
     "fifa_ranking_rank": 120,
     "fifa_w_rank": 100,
     "news_score": 0.01,
-    "news_title": "Defence Engineers and Scientists Honoured for Excellence and Innovation in Defence Technology - MINDEF Singapore",
-    "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44SFlPRmZCdFpSZ252TEs2b1pZOEJ6bmJWdGZocEpwUHU0RHUzR3pJZFFFRFVCSVdmM0doUE1Gdy1vVXgybmRGUHJSSnkwSlhCRUp6TzJGTUd5MHZIcUZnSllUWmJGN19DMVRaRHd3Si1INUFmWDhv?oc=5",
+    "news_title": "Singapore Airlines introduces new first and business long-haul cabin products - AeroTime",
+    "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX0lLMzdJSFgyQzZieG0zVzNoV0Y5TlpsX0wyZ2p0ZDF3WEVMbUVFNUFGRXdUZFVaUnFQblpoa0RyTlZBVERGejIzeUhwazBvcDE2NV9wQkZkQjJUN0NyNmZkV3d0UDl4ZFJWMHJSeDBXb2l2eHRUSEFrbTVtcXVENWhfWTdQQkszVTZVQmhibmtveVMtU1NVdFZpTUd0UdIBowFBVV95cUxPb1JkdmZkV25XQTRTaktaZjVKeHJUYXNHX2t0U0g5b0ZXOS1FT3R1SEtMTTZuTkItNDJPTGJtRGZYbnZnTzEwT1A4Z19zOHNOYXVTMzd5SFlxLVJDbzlqemhQVkZzYXpjSmJWLWU5aHp0aVVTMHhOanl3TGp6eW1kejRXYmVvdUZSWmgxaDJsMFFFZXhfT3dHYW5SMnBzMnNRbnJJ?oc=5",
     "news_image": "",
-    "news_source": "MINDEF Singapore",
-    "news_age": "76h ago",
+    "news_source": "AeroTime",
+    "news_age": "74h ago",
     "news_columns": [
-      "tourism",
-      "passport",
-      "aviation",
-      "airports"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": null
   },
@@ -36702,7 +36718,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.59,
+    "news_score": 0.77,
     "news_title": "FIP World Cup 2026 recap: Spain double up to beat Argentina to both titles - Red Bull",
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50aW9WbTNCcDBOandlZ2ZHczNxWkk1cFc4bkMxSHh1ZkNteWxOWUNwa3FCT3gxRURLRVJjcjVDQm45NlJsM0RraThKYlp3cnZ5S1VzS3VMNVV3c1YyUDZkSlpnWlFlMy1H?oc=5",
     "news_image": "",
@@ -36711,10 +36727,8 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
       "basket",
-      "ai_research",
-      "internet_pct"
+      "olympic"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5,
@@ -41238,14 +41252,15 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.99,
+    "news_score": 1.03,
     "news_title": "US-led peace talks for Russia and Ukraine will look at security guarantees for both sides - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOVRvYUFQbS0za2RfNkk2T0xkYnVrcFVoNXZ3SzgwN2RpcTlMWDBha3lINTR1X0JSM0JkaldZMjB2SHFVYzJ2Mi1vcV9vamlQd1pOaWNtLV9aYjFlY1prMFh0ME1tZzdFa194dTJVSG1aU0c5bmZnU1BGWHdvbGhIakk1ekxVcjluRTZtQzJIQ19vSF91bHJsbVV4T1dWa1U?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "77m ago",
+    "news_age": "79m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -42514,9 +42529,9 @@
     "news_age": "14925h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
       "olympic",
-      "basket"
+      "basket",
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43717,12 +43732,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 1.46,
+    "news_score": 1.45,
     "news_title": "Nearly two years of implementing Resolution No. 57-NQ/TW: A historic boost for national science, technology, and digital transformation. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNnJnVU50TUVwb1pzanJNSlhDeFltYWVnR3k5aFFsU2kxQ1hibF8yNjFZN19rYm9zSHdjbVBoemo4cG9QdUVYd0xGYUpocFFTSjRBRWxleExrM2ZtM20zR0FuUGNiYktuaGpBVV9pd2VkY3RJdmU2akF2ald5NkFueXBRc1c4Q0l0OURqaXcweVAxUHFGT2NFWW9kM0VKcS1tak13ZkNYbDBfRFdxSG02MFM2eU9EMjF1YVpteUxYZGIxQnZjQUJ1RTJHVFN5YTFxUV90NkszbTE?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "24m ago",
+    "news_age": "26m ago",
     "news_columns": [
       "lgbtq_rights",
       "gay_marriage",
