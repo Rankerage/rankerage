@@ -2552,7 +2552,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.89,
+    "news_score": 0.6,
     "news_title": "Reece Walsh hat-trick drives Australia past Samoa and into Rugby League World Cup final - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUDV0U1RISk1FazJzcTNzbGFHZFBZRnRZeDJodlFuVVhaZTk2YnVYaE9fRkNVQ0FScUh6Y21JR0N4dVBocm9XMERDNFk0emxJYktsc3FnZkdrVlZGLTE4TUs4eFRvU1Nhek1zRkt6NF9RVVVxcllLazZaRkp4QkRWbWRKN05KYXdUZkhfS09ERW5iSEw5Ykp2d2g0aXlMLW5WdmJZZ0QwYXNFUXV6emFzNlZFcVhGUS1ySVlPVk9uWXo?oc=5",
     "news_image": "",
@@ -2562,7 +2562,8 @@
       "fifa_ranking",
       "fifa_w",
       "olympic",
-      "basket"
+      "basket",
+      "rugby"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -5159,7 +5160,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.18,
+    "news_score": 0.17,
     "news_title": "2026 São Paulo Grand Prix - Race Report: Team Crowned World Champions in Brazil - Mercedes-AMG PETRONAS F1 Team",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWFGelhGazVhZnk3YnFsRTlXc1k3cDhXS0NwTlRjUUllMGdJbjVOenpkNDBuLVlzSFRKMTJHTHlYay11VlJqenZlb0QwUVZrTjJwM3RhT3JDTjZiMzNQQTkzZkhnUXRiRWxaWTFPZVRMUzBqcWFzSGRpUHo5Q2llbHVhX1FhZEttU3NkYWJkcGZBQQ?oc=5",
     "news_image": "",
@@ -8010,21 +8011,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.18,
+    "news_score": 0.29,
     "news_title": "China Producer Inflation Accelerates to Over Four-Year High - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcm1tR2Voci0zUnpsNlVhbzdXQ19DNDB3anhvdU9HZGRtYjE0akY0b0VHZi0xUndnYTkxOExkOHUyTmxHNnJMZzFldjRDRXFxNDE1S2ZZX014aWhxdFFqR1ExbGFEV0FDNHBuMElPOVNwZjYwY20ydlJna2hoN3N5OTJEbGRJbmxwOXZFZWdzMjd6UklTZTRabVBiNkE?oc=5",
     "news_image": "",
     "news_source": "WSJ",
     "news_age": "3h ago",
     "news_columns": [
-      "temperature_anomaly",
-      "co2_emissions",
-      "climate_risk_index",
-      "market_cap",
-      "stock_index",
-      "semiconductor_index",
-      "ppi",
-      "cpi"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -8258,12 +8253,12 @@
     "refugees_rank": null,
     "union_rate": 69.1,
     "union_rate_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.61,
     "news_title": "Targeted by U.S., Armed Group Strikes Back in Colombia - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOWNEdXlRQ2U1M3Z2aVgzLXk0S1ZPLWRrUi1qVkVEdUhZel9XamI2ZEg1X2VOZ3ZOMTRQYkw3ZW9nWGYzd3IzVlg2U01vblFSVTFOMnpCRk9UN2FfUGgwRjlaam95YWNIeWtsNTk0cVBfLWxtTmFXUlMwUHc5aVpYcTBaemZmaG8?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "112m ago",
+    "news_age": "114m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -10945,7 +10940,7 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.58,
+    "news_score": 0.57,
     "news_title": "Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmtvRmxJVkRJR3Jfa3lIdUhONjVGYlIxN1pjeXRHcWZ4ZG9OR1RuaGE5UFBmNWpuUldOVkZMWTVRcDQ4bjh5R0d2X1VUNGtZb3EzWWVzdjNhVi0xcFJlZDhscWQ0YlhWRWstbjdFZEpnOVJab1FjWWlzVnNpQ1A4Q1VXZ1RUR1pzWmNuekJHamJaUkNIbkc4V2JrbVRXaHptQU1iN3NtWjZxMUdqb1VXZUJYb2xjZkk?oc=5",
     "news_image": "",
@@ -13035,7 +13030,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.68,
+    "news_score": 0.66,
     "news_title": "'Burning': life under the world's dirtiest skies - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHZKVHFIcWdwRVNYZXJtTnF4c3lVTkFkdjZvLTZZdVlHcUN4NjUtVWg4RkIyODhfdnR3WnRLX2x4MTZkTWF0RlAxbm9ENWp5NFVDWURPZzh6aXYzc1pUcVVXWFdYM2lSejdndjc1REhZclBGTjRWa0wzSU5fVEpXVVlSU2tjWnR2RnhBeXNfVWZKVEFMNDdV?oc=5",
     "news_image": "",
@@ -14071,16 +14066,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.32,
+    "news_score": 0.45,
     "news_title": "Vietnamese intellectuals in Germany join forces to develop science and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGJjSE1fYXRsNUt4UGNmWGVjTVI2N1JHclNNMTdXR2NxLVl1aDE3VkRRQjVQaU1rTmVEWVV1V20zeUdvWGE2QzE2RDJVbkplaDFiZUY5dmpMSXh1eUM5RzVzTUxnTFF3SEMwT1Jqa050a0V0eXhCcVdmcTVVSTZyS3ppdnlpenhxUmRGRXhHYjM?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
     "news_age": "4h ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16834,9 +16828,12 @@
     "news_source": "The Conversation",
     "news_age": "16h ago",
     "news_columns": [
-      "temperature_anomaly",
-      "co2_emissions",
-      "climate_risk_index"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "gender"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17399,15 +17396,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.58,
+    "news_score": 1.46,
     "news_title": "World in brief: Nvidia opens spying probe; Trump says another Iran attack is “highly unlikely” - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON0lGSUgzQkpDYzNONkQ4ZURRRjY1QXFEeUNZd1hZcXhZWVNGaHAycXZrM2VrY1FRWHVRbkFXLUl3ZVJ2SUpmNm44VkdWbEdBeEJrb3dXLWVJMDgwWjJIdHkzT1ROUk54cXJMYnZBVUFkMjdLb2EwZTFDS0ZhUzRpRUFnOTZ5NFVkR1BSTGpsd2VhZElZQjhN?oc=5",
     "news_image": "",
     "news_source": "The Economist",
-    "news_age": "11m ago",
+    "news_age": "13m ago",
     "news_columns": [
-      "crude_oil_price",
-      "geopolitical_risk_index"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -18130,7 +18126,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.08,
+    "news_score": 0.07,
     "news_title": "President Ronald Lauder Welcomes Decision to Task Gadi Eisenkot With Forming Israel’s Next Government - World Jewish Congress - World Jewish Congress",
     "news_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOODl0WmdLRE5KNGRfdndoYkdtejhkaWd5OW5CV2Q4TzVrY2FxS2h0QUJXTlhPb2l6bndpbTNfOUlHeEFFRFlXcDhqRi15UzNqMElqSmIxNFpDU21YSWxsc0xfY1ZMQlFRejNDQXZ5TTAtV2R3SDdGNmU0aldsbDhNVGJCTEx5QnhSbDQ4Mnc4LTBLbDZMUERGb3daaDlxaVpUaGJ6Y1g5aUJ5RDl4a0xrc0NLQVZpYWc5aU1XTUJ3UFpVSmxYWThtSXZBaXpEXzNaRjlkZzR1UGNfQWY1dWtzT1EwTjcwMU1qOWNJT3BXSnZvNWk2eHFPWXNB?oc=5",
     "news_image": "",
@@ -18572,17 +18568,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.0,
-    "news_title": "Juventus defender Gatti added to Italy squad for Nations League - Yahoo Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX19PVFU5dnNMeXRrckFLcUFNTHNKLXF0OHdmZHdHMnlGcXdCT1N2NkllbGxDb2hmaW5sSnpkN2pUSGVIaVFwZ3dwbjlfbDBRdnA2UWtqdVFRQ19IeXZfS09hckRtNWFhVzhnR3phVEluMHcyLWw4NnMzazNMZ3dKS0hhVWd6cDRnT3pMRQ?oc=5",
+    "news_score": 0.01,
+    "news_title": "Hoogendoorn and Venant Victorious in Italy to become 2026 FIA Karting World Champions - Federation Internationale de l'Automobile",
+    "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeElKTy1DRlhjT0NoemtkLUdVT3dtdXNaSUE2SDl2M0YwQmZNSUZiclUxdmk2MzJHQ1BaQVFBUnJzTnFSeE96dk9BeGhYQnFYc0VJc09ObzdwS280eTJFVlFhY2EtREtHRncwZnFTTEhfRzdBTXZJZnkzczlfS2N5VVQxcUVpUk5OaWdqc0ZNUTVuWG1NbzIxYVZqZ05XYUJOZ0pieHprWQ?oc=5",
     "news_image": "",
-    "news_source": "Yahoo Sports",
-    "news_age": "8h ago",
+    "news_source": "Federation Internationale de l'Automobile",
+    "news_age": "12h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "car_density",
+      "gas_price",
+      "co2"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -19263,16 +19258,17 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.02,
     "news_title": "Japan@Cuba - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQREd2d1gtbGo5ajhiWDYtbHFuNGRic3ZEenllcXFYWXVFN1BBLVBrR0RUcXkyYWpHZHlWWl9JbnhyUVY4SlFfbDFNR1VHck5xU1d5d0cyQl9NZG9zdS1Ka2RPSGEyRy04c2VLSXctUUVnVDIwNHR4MkxQOWVlNWpWdkY3clg1eVo2QnJDUEZ4cjVrZG05SnpBT0t6VG8xSHRteFJQQnpJeGk?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
     "news_age": "13h ago",
     "news_columns": [
-      "ppi",
-      "cpi",
-      "stock_index"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -19449,7 +19445,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.75,
+    "news_score": 0.74,
     "news_title": "Jordan Love totals four touchdowns in Week 9 - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnF4cmYtU0NNV3FGMXI3M2dCdlNYcnVKOXkzakE3LWJsTF9QUVRtdFRITE0yS04ySDVMQnAyZDN6SjZFQzhfdTJPUVMtWmIzUXdiSlprem9ESkhGV3BjelktNmczcWRjNkdWcHRfaklvWF9SN0MycHpKa1lOZEJnMW1wRlVpaDVHNldR?oc=5",
     "news_image": "",
@@ -30884,12 +30880,12 @@
     "refugees_rank": null,
     "union_rate": 73.9,
     "union_rate_rank": null,
-    "news_score": 0.66,
+    "news_score": 0.75,
     "news_title": "Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap - Bloomberg.com",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR1JWME4tcFN3Vlh6UlhVeEN3c2FlRUFkUWRrczJ6OUZ1QWRkRndtMy1nZFhBaU5Lc0dzaXU2ZjJnNUtwN2RSa3dyLXlwUV9QanZmaC1Wb2xhbUVZekZhaXdXZkpSazFDVnJqZWIweWtvdGczQi0xTnB1aEhiSy00aVFsMWdYaE1sRkN3NlU2YmVJdzhv?oc=5",
     "news_image": "",
     "news_source": "Bloomberg.com",
-    "news_age": "6m ago",
+    "news_age": "8m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -31664,12 +31660,12 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.01,
-    "news_title": "Parents, sister of far-right Kraków shooter found dead in family home - NBC News",
-    "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUXdZYXlTZ1pmbS1RS3FjdktDSUNTbTdaQjBMNFlnWUEteC1XVG4tNHZzN2wxazF5cE1DRDBmOTY4dld0dXlkRFVhYVNCc1F0Z0dIOEZUNXhZU0FaUko0aHQtWTdna05rNjY0MG0xME43Z3dnV2tQUjBnbTVxdDBxeEY0c3pJVHFDNFpFeDBKc2RPem9qUXljSURLU3V6S1U?oc=5",
+    "news_score": 0.03,
+    "news_title": "Poland shooting: Surgeon who assisted wounded police officer 'undoubtedly saved his life' - BBC",
+    "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ORWRkWFplTjh3SW8wZzZYVVZaSHVZZVMtUC1mYkxVZkgwMDE3OGE1aGtmdWRhSjlXREU4N0NHdEhTRWE2QTlxLUx4Rkw2WndaMUlBeEdtMDdmUU0?oc=5",
     "news_image": "",
-    "news_source": "NBC News",
-    "news_age": "11h ago",
+    "news_source": "BBC",
+    "news_age": "8h ago",
     "news_columns": [
       "doctors",
       "beds",
@@ -34319,7 +34315,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjFhR2Z5b3d0Ry1fdnlZNEhBeXhpWEtuWFowdi1kbEx5WDVMcm40Wjg4ZUIxTk5QUm9PU2RjVDhBY0lOaktnbjBYWDhIb25MY3FKQXcyQ2xobThJdUZ2NGo0cFVIYlZTX29HVlFoUWJFQXg4WDh1c0Vpd1diUGx4MjNMRTRUb3B3RlYwYkVBaWUzcmo4?oc=5",
     "news_image": "",
     "news_source": "Yahoo Finance Singapore",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
       "tourism",
       "passport",
@@ -42539,14 +42535,9 @@
     "news_source": "City of Toronto",
     "news_age": "14917h ago",
     "news_columns": [
-      "temperature_anomaly",
-      "co2_emissions",
-      "climate_risk_index",
-      "market_cap",
-      "stock_index",
-      "semiconductor_index",
-      "crude_oil_price",
-      "geopolitical_risk_index"
+      "fifa_ranking",
+      "basket",
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
