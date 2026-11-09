@@ -1925,17 +1925,19 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 1.84,
+    "news_score": 1.33,
     "news_title": "FIP World Cup 2026 recap: Spain double up to beat Argentina to both titles - Red Bull",
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50aW9WbTNCcDBOandlZ2ZHczNxWkk1cFc4bkMxSHh1ZkNteWxOWUNwa3FCT3gxRURLRVJjcjVDQm45NlJsM0RraThKYlp3cnZ5S1VzS3VMNVV3c1YyUDZkSlpnWlFlMy1H?oc=5",
     "news_image": "",
     "news_source": "Red Bull",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
       "olympic",
-      "basket"
+      "basket",
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": null
   },
@@ -8008,18 +8010,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.81,
     "news_title": "EXPLAINER - Why is the world’s top chipmaker caught in a US-China spy row? - Anadolu Ajansı",
     "news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZndJdVhlS3lfM2puRl9HTVQzbVJ5WVY3cFltRktuRW01V050Z0VfeHZoaVhmalk3b2JPNThKSXJCMUJlM1RycDI0eW1PWjZhS18zTGduQm1TMGVDWV9sMDMwdkFicVdCdzZzd2swX3hhbU9xNUxnMVdkVmM5c29CclMtam9KNF9xTHIycmFoUllEbFJEdnROWDBVSS1BQWhiUmNtTUxnQnVtZ2hTVmJDM2V2ejIyTzJ6Q09IYXptWk0?oc=5",
     "news_image": "",
     "news_source": "Anadolu Ajansı",
     "news_age": "3h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10940,7 +10938,7 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.56,
+    "news_score": 0.55,
     "news_title": "Egypt annual core inflation falls to 13.1% in October: CBE - Economy - Business - Ahram Online",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaHhrYnE5MExPNW0zVGUtRlhPMktnQXRVdmV0WTFWdFk0S05PNU9VYXNXWE9FeDVDazZZRE40dHVZbnJPa3BmWGV1a1Y2SHN1WTFObGE1M0VIeTUzbHpBTXc1X0lXOW5ISG5FVThVV3dMVXVJelM0d2xDdk5kcXR1MjI5blBMQ0xQTXJiNkpDS3ZfWFBEcy1neDl5cjJNTWZfTjdIYnRPSG1wcWtLT2REQkEweGlWSVJ4WFhkMG12TjJuQjQ?oc=5",
     "news_image": "",
@@ -13030,15 +13028,14 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.75,
+    "news_score": 0.8,
     "news_title": "Phillies news: Dave Dombrowski, Kyle Schwarber, Ty France - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQallhcWNtdFRSNXJXVU90a0F2WlB3Nll6YWw2NzJYdkJ4X2YxcDU0eFFORVpFRXVVOG5FNnlDejZvazNQY3duRWhkX08wVVAyUTczLVdUTnlFcUJfbjhLTWFYU0FhSWJPcTFFaXlBXzRfYkpmUnlpMlVQTDRuak5POVZkWGk4ai1SMGN3?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -14071,7 +14068,6 @@
     "news_source": "Vietnam.vn",
     "news_age": "10h ago",
     "news_columns": [
-      "olympic",
       "fifa_ranking"
     ],
     "bottom50_wealth": 2.5,
@@ -14530,7 +14526,7 @@
     "refugees_rank": null,
     "union_rate": 70.0,
     "union_rate_rank": null,
-    "news_score": 0.43,
+    "news_score": 0.45,
     "news_title": "Death toll from migrant boat found with bodies on board south of Greece increases to 14 - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQjh1WlI3MUtnZGRPaXRiM2dFcXhfcllPbmNXRGhVOE5VZnh5YmZnY1V3YnpuTXlqZXhaaVQxUFlDcmdXZC0tWmw4dG1NVW50V3VuVGp4bGpETF9EWXVGTEJ5bUlVZUFPOFZGN2hLbWl1MFJuY0lRT0VDU3F1MGdWblB2NUFiMHlW?oc=5",
     "news_image": "",
@@ -15875,7 +15871,7 @@
     "fifa_w": 81,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 62,
-    "news_score": 0.24,
+    "news_score": 0.23,
     "news_title": "Hong Kong University of Science and Technology team achieves 300x spin lifetime boost in perovskites - Quantum Zeitgeist",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10Z1VRYnpIenhtdlE0eVB2NFpFU1pILXhTbXRJcTExRm5oSWpiZjNuZzdYNkdvMFdEOWJjM3J3TWxwTThiRzI1WXg4TVFDNXd3a3FhcmFsaE9YRDdLSm9ULUlrTjgxY3A0UVQ4RFFxY0xpZ2JDT1hoWnFQVGtmTlk?oc=5",
     "news_image": "",
@@ -16820,19 +16816,17 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.0,
-    "news_title": "EU Ambassador Paquet: India-EU FTA 'Around the Corner', Focus on Trade, Tech & Science - Lokmat Times",
-    "news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQTFhRjVrQmwycmhUZDV5b29CYzZWYlEzWXItUDRnMUpFNVFwcUpFNmhhU0ZtX1BIMDE3ZG5Kam5pa1dnZDc3Z0FENV9tQ3BIanRlYW1zN0dvZnJfQzF4a1ljclNYQ3dFclJ4YkVhdU9FNzRnUzhyMGhrSUJ5MFVXY1BadklwRzcwQWtkNFJLRENuU1hJcUJTZkFKeGFhZm1VX3BKU1M5bkpXVWpFR3VfQkI4RlkwVzRib1h1azg4cDhweFFpcmNOR3dpVdIB0AFBVV95cUxQYTloWWM0SmhtcjlQQnBHcjZ4YTJjOHctY05DcFJrc1h2NXptWmttaWtzNlVwM2Nlc3l0Rkt5c3Zab3g2VkhpYWh0TDJRdktuWmU3Q1dTUnZTU0ZqR016ZTF1YURRSU5ieThadzhXRkw3dUgyazQtY1h5VGRjQ2FJdVgxN0hNajI3QXZCRV9KeEVPQ1JnUkxSejloRERUa0RUQ2wtcVl5akRsTDJzaDk4SWZ1TmZ3REFkYlBHRDZxRTItQkpWNEI2Z21MSGlnWlNX?oc=5",
+    "news_score": 0.26,
+    "news_title": "I’ve Been Visiting India’s ‘Yoga Capital’ for 2 Decades—Here’s What It Has Taught Me - Travel + Leisure",
+    "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUjhGb3ZtNVpuUUdOblJQTENaYzhhQ0w3czNZb2M0RVA0VnZ2QmN4dEJqRTE5T3F6TmhhNFk0OWFHeVktaXpoVUFHYUVVVGpRQk1nMGF5d2YycFY2dHVoeUtTOThGS2Y4bVhMRWNtb080YUwySGpITi16bGlJSHFQUzIzdw?oc=5",
     "news_image": "",
-    "news_source": "Lokmat Times",
-    "news_age": "61h ago",
+    "news_source": "Travel + Leisure",
+    "news_age": "34m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "gender"
+      "tourism",
+      "passport",
+      "aviation",
+      "airports"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17395,15 +17389,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.35,
+    "news_score": 1.3,
     "news_title": "Live Updates: Trump says he sees no reason to escalate war with Iran, touts his long-term goals in the conflict - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zN0FDMkRwcDVyZGFpV0dvRnhidUVyU1hrc2pKQzJZMmlLZDF1bHZ0dzBtMDJLOXc5T0xNYmRuS2Q4eU1QQmFqaHJ1cVg0VGkxcWN3dEZLVlo1UlQ0ckZCaW52b0lHQzVZN2N6UElySjhIWDdXWVh5T24xcmh4Zw?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "3m ago",
+    "news_age": "5m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -18126,12 +18119,12 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.85,
+    "news_score": 0.84,
     "news_title": "Nearly 80 percent of Britons see Israel as a threat to world peace - Middle East Eye",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2VhQmpKRndHUnhIQVFZUXJWakczOGpMeUU1Qi1YczlCeGRGVjF4UWs2eUNtWFMwM1hLcDlvX3RiVHNlMjlWaGJYMmhLQU9JVTFVZzc0TWl4MXJSMTJwblZuZ195VXlIUDFmMldfMlN1dm9BaWl3UTQydldQTE9Ld2hWbVpHaURDQ29fdG1vSldrSGdYb09xNWEteWNIOU9SeGc?oc=5",
     "news_image": "",
     "news_source": "Middle East Eye",
-    "news_age": "42m ago",
+    "news_age": "44m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -18566,12 +18559,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.01,
+    "news_score": 0.92,
     "news_title": "Crédit Agricole Proposes Merger of Italian Business With Banco BPM - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQkhaZmFuSnhNbHVfUGRnVzFCOGR0RHQ3Tk15bnlqSGtTVE00cnd2ZFpQUGh0OW5uY3RGQmFXTVB4MGN2NGVTbjB3R2NqWmMtRk1xTjdrVG5FZlhMT1kzRGY1cjZGeGpqb1oxR1JKd2NsYkFhT0hQUjJmTEFKamhHUnVoZnl6ZGNsTS1JMmdheVpmWUJYNXBQQzhvRjVCaE44dHlEOUlIYnZBVkNTNWhz?oc=5",
     "news_image": "",
     "news_source": "WSJ",
-    "news_age": "14m ago",
+    "news_age": "16m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -19255,12 +19248,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.25,
-    "news_title": "‘Burning’: life under the world’s dirtiest skies - The Japan Times",
-    "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWjhla09odWR6RU9nM0hycjBzN3ktazhBdVZvYUlhOU10M1JoQ3FVS0FPWmxvUEtoTXdQSENFY0tWZm9wTnA5UndHRGJ1R1pIN1ZmSEhsRWw2UVlxa0xCeVlzc1lGb1JJQW9fX0FxeDZDemYxTUh2Ty01eGhiU1ZlaGdDR0VpQmh3ZEdvLVVuUGNsMC0ydW1IaFp5ZkpWSGs4VGJtWm1PTzFkNUVW?oc=5",
+    "news_score": 0.46,
+    "news_title": "The rise of the global oligarchic world order - The Japan Times",
+    "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0FjaFFfNVA3MjkxWGxVanRONFl5R1Zib19uS2NIX29JOE1FTXZEV3Fob1QtcWZ2bW1wYWZFa3A3UUZ5SVdYN051TTlGbjdQUXdMaXJMSmtNYThxd182b0ZZVDZFMnI1QVViOV9lLWR0VGNoZWotdGdyMU1DSGY5Ql9zVzNMZDg?oc=5",
     "news_image": "",
     "news_source": "The Japan Times",
-    "news_age": "5h ago",
+    "news_age": "45m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -28462,12 +28455,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 1.84,
+    "news_score": 1.45,
     "news_title": "FG Secures $200M Loan From World Bank To Boost Fish Production in Nigeria - Legit.ng",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRjRFTHpIQnFVUmo5TnZ5MHd2ZU05TS0xNTFka2pOZU9mUzRZUnhPcU4ySVlLSkI1dklDOXo3YVAzaXR2dWlLNlIwVkUwMU9RNlBodzFPUHVDaEdtdW1yX0tVMzFTa1VPN0xBWnV1SHlsWEJEME53aWRtZW9RSTBJdWZvU0tJRzlxSG51WUF5WnVObG1sUnFjcF8yRzhHOG55NGUxdGVpYWxuUE1XbEtlMmtoLUhMZ3dI?oc=5",
     "news_image": "",
     "news_source": "Legit.ng",
-    "news_age": "49m ago",
+    "news_age": "51m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -29682,7 +29675,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONXVUVWNpeHA2TUZTVERhTVhyc0M3X3puaEZfc2tLajJfYUp5dVowZDNudEtWRGNvWVJKZFBvZDJDblFOeS1VRWpvVjlYYkFuMVFpNXU5Szc1VVJsdEN3MGh3Snlwbk53SkVaWVNRdldLeTlEdkcyZmE1U0I1djVBRGJ3?oc=5",
     "news_image": "",
     "news_source": "Arabian Business",
-    "news_age": "74m ago",
+    "news_age": "76m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -31651,12 +31644,12 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.64,
+    "news_score": 0.67,
     "news_title": "Gunman with far-right views who killed 6 in Poland shooting rampage dies in hospital, police say - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlNIYWhOQzdvWjlnaU53QlVSZEhEMnYzZU5Zd2Z0TlFJVVQyeW5RSnRXN3ZhUDdFTE01Ym1jWEdEZ2szYVBmdk5YNWZaQl9lLVBEUkw5SWtLc1ZQMWRPekJqeFdJbGVJX2IybnljdThJQVFqYWluNll4WVBEOUtqVlYzQWNTVi1CYUdobE9WcUdBc1dGMFlqLU1ON0lzbzA?oc=5",
     "news_image": "",
     "news_source": "NBC News",
-    "news_age": "63m ago",
+    "news_age": "65m ago",
     "news_columns": [
       "doctors",
       "beds",
@@ -32329,7 +32322,7 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.22,
+    "news_score": 0.21,
     "news_title": "MotoGP: Bezzecchi denies Marquez world title as motorsport returns to Qatar - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM01PN0JGSjZnMXhvaFpzNURtMVFZNjdHYTZ1Y3dleVBrTVhobVU5M29oUXpMb0xQbmJkSnp3QVBXQUYyZktka01OTTdpV3UtT1poMGFmQURUNFpwR1JIVGNyZFFmYmtJREtZT2o5WTRHS3pndFhYN29jV0tCQ0hjNE5MeUJVMDhLSU5vVmE5TnZDSUw0TEJuM3hWNGZiTWFFVmFtTEZZMjkwdzdRMXJMMlBicnNjUXdo0gG-AUFVX3lxTE1jS1kwejhnNThmdXZyZVNEV2kzRHZyWmJyWFV1cXRHX0hDSjlxSG1rRWoydnl0R2NSdnFiZ1RlUlIyX2dlTXZVQXZYRVhBbzhlbTJBcUxtQ1ZPVUVWR1cxRzY4SExxa3BJd01wZmtsSVlFMXloYU1ROEFGRmZtUVV3TEdRMFYwSklqVmNQdlVQaThmOG1velRoSVhMUHlsSUczOV9oYXNfUHdMVWE5X0NHb3V6aXlFTXFqT2lsWXc?oc=5",
     "news_image": "",
@@ -36718,17 +36711,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.82,
+    "news_score": 1.31,
     "news_title": "FIP World Cup 2026 recap: Spain double up to beat Argentina to both titles - Red Bull",
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50aW9WbTNCcDBOandlZ2ZHczNxWkk1cFc4bkMxSHh1ZkNteWxOWUNwa3FCT3gxRURLRVJjcjVDQm45NlJsM0RraThKYlp3cnZ5S1VzS3VMNVV3c1YyUDZkSlpnWlFlMy1H?oc=5",
     "news_image": "",
     "news_source": "Red Bull",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
       "olympic",
-      "basket"
+      "basket",
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5,
@@ -41252,7 +41247,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.33,
+    "news_score": 0.32,
     "news_title": "Ukraine Peace Talks Resume This Week in Abu Dhabi - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOE9NUS1DRlJBNF9FaU1BcU5LNjFfX2I2eHRaRkYwOXdLWmdyLU5aUjdLeVJ1WV9nTUQtYVhXNkFfTjQ5dk5hdzJneTJxS0FmNHZKODR0cHpiUTVBanU5S0JGbk5ZTXBjaWNXWGFXN2hRRy13UGZEUWZkUGR4SEl6ODduQXNjQQ?oc=5",
     "news_image": "",
@@ -42530,12 +42525,11 @@
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONWM2aXc1OGtEUmRhQXAxWkF6OVlvaTNpVzRuUjNOeXVMQmoxN2EyRVZld1ljSkVYRVFNTWJ6NVlKUVdlbC1nTE81THNUUjdNZU1EblFWOGtfR3ZFQ3psc205eEFacXI5c05FN2Y3c0hrUVhSNDJZV2VQemg0YkM5UVdtSE5Ob0l1dllwZ08tNWNhVEcxSkg1d2NSRi0tYTZIVUkwX0V4c3BRNklvZnVNb1poMW1pQU1wb2FpOHpsdGgzQUJiV2c?oc=5",
     "news_image": "",
     "news_source": "City of Toronto",
-    "news_age": "14923h ago",
+    "news_age": "14924h ago",
     "news_columns": [
+      "basket",
       "fifa_ranking",
-      "olympic",
-      "fifa_w",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
