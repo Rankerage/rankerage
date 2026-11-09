@@ -1925,7 +1925,7 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.78,
+    "news_score": 0.74,
     "news_title": "Pope arrives in Argentina and tells Milei that people, not the economy, should come first - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZXBvT0ZhMHZPdk1rbTJiZ1FtQlJJWEZMZE1CU2h6dlNBNTRZa2hsWFIzMG1mMU9qYTNIV1lTUnh0Ni03c2lOVDg1dDhleUliSmpzcnZmdlhaZ0dfWTlyYlRtOFo0dVYwdVpWV2NnMGxLZWZpMlJGOXJLMHF2SjNRVFoxZ1JlRjBtWEliSTBBcVVKeTU1dW9NbWFFUHdrMDhxNXc5NENMdzl5Q0l3RDNxNGJ5Q0JzbUdKWWc?oc=5",
     "news_image": "",
@@ -5162,12 +5162,12 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.67,
+    "news_score": 0.66,
     "news_title": "2026 São Paulo Grand Prix - Race Report: Team Crowned World Champions in Brazil - Mercedes-AMG PETRONAS F1 Team",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWFGelhGazVhZnk3YnFsRTlXc1k3cDhXS0NwTlRjUUllMGdJbjVOenpkNDBuLVlzSFRKMTJHTHlYay11VlJqenZlb0QwUVZrTjJwM3RhT3JDTjZiMzNQQTkzZkhnUXRiRWxaWTFPZVRMUzBqcWFzSGRpUHo5Q2llbHVhX1FhZEttU3NkYWJkcGZBQQ?oc=5",
     "news_image": "",
     "news_source": "Mercedes-AMG PETRONAS F1 Team",
-    "news_age": "96m ago",
+    "news_age": "98m ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -6940,7 +6940,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.16,
+    "news_score": 0.17,
     "news_title": "Norway says it has been bumped by the IIHF to allow Russia to compete at world juniors in Canada - CBC",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPME5uUi1kVUYzS0drcmlvZ2pXRzZUNlpGWFJtUmU5SFVuS2JNb3dIUy1NZXFXaGVlajNhMFNYSWhWNjRRdkZuTzd6dmd0b2tkbTVjSnRBR0tjcC1qZjVPV1htelBxeWZHTHF6bzlJSm5ZUTZFVlVvYXYzdUFiUi1rTUVXa0hKSEgzU0VFTEZfUGt3bTVjY1RtZ0FxN3BfMnF0d01hMGFwSl9xWVE?oc=5",
     "news_image": "",
@@ -8020,7 +8020,8 @@
     "news_source": "China Daily Global Edition",
     "news_age": "67h ago",
     "news_columns": [
-      "fifa_ranking"
+      "tech",
+      "geopolitics"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10940,18 +10941,15 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.87,
+    "news_score": 1.11,
     "news_title": "Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmtvRmxJVkRJR3Jfa3lIdUhONjVGYlIxN1pjeXRHcWZ4ZG9OR1RuaGE5UFBmNWpuUldOVkZMWTVRcDQ4bjh5R0d2X1VUNGtZb3EzWWVzdjNhVi0xcFJlZDhscWQ0YlhWRWstbjdFZEpnOVJab1FjWWlzVnNpQ1A4Q1VXZ1RUR1pzWmNuekJHamJaUkNIbkc4V2JrbVRXaHptQU1iN3NtWjZxMUdqb1VXZUJYb2xjZkk?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "disaster",
+      "transport"
     ],
     "bottom50_wealth": null
   },
@@ -13029,14 +13027,17 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.03,
     "news_title": "Russia Ousting Norway At World Juniors, Setting Up Austria Or France To Lose Their Spot From 2027 Women's Worlds - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ1plUGNnQVZidE5wNTdScTkxZnRaNE5JMTZhTXRYZ1FMWlhadGNiMU5sWFZHTU45b3Q1cWEzZWtuVFRyQk9aWTV0SUlvZzFVUnQ4SmczTndTNnRKRzRnTnVJaE8xNkpmd2NNZ2dRMnJLal8tVUp0S0EzcHpJeUVsSER2MlJ5Rk9KX0R4eg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
     "news_age": "12h ago",
     "news_columns": [
-      "olympic"
+      "gender",
+      "gender_gap",
+      "women_parl",
+      "edu"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13558,7 +13559,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.05,
+    "news_score": 0.06,
     "news_title": "AP Top 25: Georgia moves to No. 1 after Notre Dame's win over Miami, Ohio State drops out of top 20 - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTHlYNS1MZmotcXN1djZkWXFHd19QUHhkeVJNYWRJUXdvTkhNQTVaMWR5VkE0VmdvMmt1S00yY1hqNGNYYTNoVFUtb3Y5N3dMd2VFRnB6WW5wNUVKMVJyV3lsb3RwZnlGT3hQWmZUTlhoNVlkNThIakFxYmhJcHhiaTJhckl6TDVZOE5BS25NV0QyOGUwelFLSkI3aFJ0MjZoQU43MFZWcFFfVUdjRWFBMFZSOWtDNENsUVd5Q1FYSDZTZ0JucTdPOVBLRjh6R3RiRmZmUTIwODdWQWItMlJlbFpxZzJIR05JUHk2OEVIYVUxbWFXN0R1SHJpSXl6ZDBfZXVNag?oc=5",
     "news_image": "",
@@ -17393,14 +17394,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.17,
+    "news_score": 1.14,
     "news_title": "Crude Oil Price Falls As Trump Says New Iran Attacks 'Unlikely' - News18",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONi1jVzg2a2FyWG9GQ3pPYWlYOVhDcFlrNEpOVm1CMGJSNk9ZSHp6VThTNndLTW5GaXhTc01MX21oLW5aMlNLS18yT3NhZ2FkRGkyNkF3ZVItb004UzRfcV9aYkNkMjhEc19OQ0NOaUdRU0FSdVlMUXlLTXZlVkw2R2VWVnZlN0UtOU00SkI1TGVCQ21reW1jbnNsZGtVWEktUXpyaGNYTGhDSl9xQ2g3endONlVQcll4YnpEQtIBwgFBVV95cUxNVWNGRl9YQ25Ma05qUDdhTXpreGFaZ3lFZ2NpbUF0S0NHVzBJaWhvbEZuVXJWc1JsVjZKWU5lTTJaWU5OdnNRSzdwbnNpejRXWUhWdVFKU2tub2dHQXYwd0ktaVUwbVJLUmJ5S0RmdjhyYnVGdUM2UnhjTE1YWnV4TlV4T1dsMUluSzJNZFppUEJ0ZnV5X2cxb3BkUjdfcFRJNFBvdEs1VTZMbmZFWlZsMHVyWjNDZVZuYmRWYWFiSmlYZw?oc=5",
     "news_image": "",
     "news_source": "News18",
-    "news_age": "49m ago",
+    "news_age": "51m ago",
     "news_columns": [
-      "fifa_ranking"
+      "politics",
+      "oil"
     ],
     "bottom50_wealth": null
   },
@@ -18566,12 +18568,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.25,
+    "news_score": 0.24,
     "news_title": "Juventus defender Gatti added to Italy squad for Nations League - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX19PVFU5dnNMeXRrckFLcUFNTHNKLXF0OHdmZHdHMnlGcXdCT1N2NkllbGxDb2hmaW5sSnpkN2pUSGVIaVFwZ3dwbjlfbDBRdnA2UWtqdVFRQ19IeXZfS09hckRtNWFhVzhnR3phVEluMHcyLWw4NnMzazNMZ3dKS0hhVWd6cDRnT3pMRQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "4h ago",
+    "news_age": "5h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -19444,7 +19446,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.91,
+    "news_score": 0.85,
     "news_title": "Jordan Love Makes MVP Statement: 3 Takeaways From The Packers' Win Over the Patriots - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaWtKRUV1Z2dXZXJvMDZyN29pY0luWWlFTXJMR09yTHFCTDA2cXVPWE43aWo3SzNoNFJJSUNyanFjYW5PNmxNRU5la0RGZ2o2amNIUjFUSWI4azdTZzNLN3VrdzJyZUZVNTVSMjBoVEtMVmRWZ3oyRWpoYmM5WXFNdXVJVGZ2VlVyYmN3Mm5iRnoyUUNFaHoyWjN2ZGxjbjhIUE90Z1o5OGNTelpfVnfSAa4BQVVfeXFMTUJFbUxGb05YY2dJNFNiOE5xZ2s2T2ZWRlJQaU1RRHR6V1FFVWpfUExBd1p3V21PVFUtQ1NPdzVYS3lPYWxZX3hYMHVUVU9GWFZqY19scHV3SVNLUGVySHJRTDVSVHplTlhDRzVOWHUxUWJaNnVTOC1rWlRIekNPSV9La1YwQzlhMzdrZ0ZvTGE5MzR0ZDBVZGIyYjRQX2lzTnBBaEJKSjN0dTRpX0xR?oc=5",
     "news_image": "",
@@ -28826,7 +28828,7 @@
     "union_rate": 89.3,
     "union_rate_rank": null,
     "fifa_ranking_rank": 104,
-    "news_score": 0.02,
+    "news_score": 0.0,
     "news_title": "Binance names new CFO days after $6.3 billion cryptocurrency hack - Fox Business",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQlhVMklhbzMtMjg0SnRkR0J6Wm0xSEstaE80bkFJUENCeTYya05SUERKTkhPV1dpSF9oZTRoaFN5WExhcUdfeWs1WHQ3amlTcnQ3Y09Ea2dJdGJvSk9ack8xR2hKa0JUT0w0QVgxejVyWlpSRkdyZ0F3ZUZnTkdxd2Q1TzVtMmJybVRlbkRTODgzd9IBlwFBVV95cUxQNmVPZS1PeUhwQUJqNjJ3U1BaY2JNU255VUpVNWJjRTVhcjEybVF0ams3X2RNSXdBQURxaHlmSG1BYVRUZHd0Y1dKVDVYRTRqR2k0Mks5Vk55WjU5MEZtdXRTOThuaEJlQTc5Sm1yWWMwN09nazZ1Um02T2gtdUwyN0dDY2hTUjc4UnB0cnUzdWtudnFMNlBV?oc=5",
     "news_image": "",
@@ -29500,7 +29502,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.17,
+    "news_score": 0.19,
     "news_title": "Norway says it has been bumped by the IIHF to allow Russia to compete at world juniors in Canada - CBC",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPME5uUi1kVUYzS0drcmlvZ2pXRzZUNlpGWFJtUmU5SFVuS2JNb3dIUy1NZXFXaGVlajNhMFNYSWhWNjRRdkZuTzd6dmd0b2tkbTVjSnRBR0tjcC1qZjVPV1htelBxeWZHTHF6bzlJSm5ZUTZFVlVvYXYzdUFiUi1rTUVXa0hKSEgzU0VFTEZfUGt3bTVjY1RtZ0FxN3BfMnF0d01hMGFwSl9xWVE?oc=5",
     "news_image": "",
@@ -33126,7 +33128,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.23,
+    "news_score": 0.19,
     "news_title": "Norway says it has been bumped by the IIHF to allow Russia to compete at world juniors in Canada - CBC",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPME5uUi1kVUYzS0drcmlvZ2pXRzZUNlpGWFJtUmU5SFVuS2JNb3dIUy1NZXFXaGVlajNhMFNYSWhWNjRRdkZuTzd6dmd0b2tkbTVjSnRBR0tjcC1qZjVPV1htelBxeWZHTHF6bzlJSm5ZUTZFVlVvYXYzdUFiUi1rTUVXa0hKSEgzU0VFTEZfUGt3bTVjY1RtZ0FxN3BfMnF0d01hMGFwSl9xWVE?oc=5",
     "news_image": "",
@@ -35647,7 +35649,7 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.41,
     "news_title": "South Africa@Great Britain - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdFp4ZUd2X0stOVYxblF3NTBnZDgyR3BpOGVUZTlfNEY0MVhpbFI2QWQyUE4tUTlYYjVPOVpNckZ0RU9zZUR3Skg1ZWdhZl9UczhjN2FobXVsSWd1ZXY1UHcxOVUxN0I1ZU1JVzluOVlfakFHU0IzdUZ1ZFFZWW1LRThsaW5LSm5HZk51NU9wWTZVWTJSTUNMSzUtaFp1cE5PUUZHYg?oc=5",
     "news_image": "",
@@ -41254,14 +41256,19 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.4,
+    "news_score": 0.3,
     "news_title": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR?oc=5",
     "news_image": "",
     "news_source": "Reuters",
     "news_age": "4h ago",
     "news_columns": [
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -42530,9 +42537,13 @@
     "news_age": "9h ago",
     "news_columns": [
       "golf",
-      "fifa_ranking",
+      "pga_tour",
       "nfl",
-      "basket"
+      "football",
+      "tech",
+      "geopolitics",
+      "politics",
+      "oil"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
