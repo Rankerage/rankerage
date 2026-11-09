@@ -1925,15 +1925,15 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 1.46,
+    "news_score": 1.53,
     "news_title": "Apostolic Journey to Argentina: Meeting with the world of work - The Holy See",
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYk1TNVdwdjMwLVJjWjdVLWFKVEhsTFdCcXhyWldndWowQ3lsM2J4SThybzV1WU1RNzQxYjNkUktqWndqalVwN29FTkVobS1PZUFRaTdCOXV0ZWZIcWFJUFp0TEpKaHlqdmFFQ190b2FNdkdIVmlfeWlUXzhaVUx1eWRySkZPUXZ1d0NYbUpXT05xME5yMkpsMVpTeVN5SFZwUTN1RmI2N2ZCcTdrQWc1Q3FSc1hyeEpFWXBoQlRaQ1hhTXNQeTRqWA?oc=5",
     "news_image": "",
     "news_source": "The Holy See",
-    "news_age": "59m ago",
+    "news_age": "61m ago",
     "news_columns": [
-      "religion",
-      "politics"
+      "politics",
+      "religion"
     ],
     "bottom50_wealth": null
   },
@@ -2550,7 +2550,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.07,
+    "news_score": 0.06,
     "news_title": "Defending champion Australia beats Samoa to reach Rugby League World Cup final against New Zealand - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN3Bua0R3b1IxajZNbzItajJkUDR3VUFTNUtiTkJTV0F3V2lhRG5DTm5mX3BoWDBYeUViQlkwNXpDM001NDJWVi1UbHR5N2gxTnNMNmIxelV0UFBfenA2bEZlWTZJN216RDlDZ3E0SnBzXzl1R1Y1VWFvWHpnQ01Qa3pLN2NjR1Z5RW94d1BPLWFUaEU?oc=5",
     "news_image": "",
@@ -5159,17 +5159,15 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.69,
+    "news_score": 0.58,
     "news_title": "2026 São Paulo Grand Prix - Race Report: Team Crowned World Champions in Brazil - Mercedes-AMG PETRONAS F1 Team",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWFGelhGazVhZnk3YnFsRTlXc1k3cDhXS0NwTlRjUUllMGdJbjVOenpkNDBuLVlzSFRKMTJHTHlYay11VlJqenZlb0QwUVZrTjJwM3RhT3JDTjZiMzNQQTkzZkhnUXRiRWxaWTFPZVRMUzBqcWFzSGRpUHo5Q2llbHVhX1FhZEttU3NkYWJkcGZBQQ?oc=5",
     "news_image": "",
     "news_source": "Mercedes-AMG PETRONAS F1 Team",
     "news_age": "2h ago",
     "news_columns": [
-      "nascar",
-      "f1",
-      "tennis",
-      "triathlon"
+      "coffee",
+      "tea_consume"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -7568,7 +7566,7 @@
     "refugees_rank": null,
     "union_rate": 70.9,
     "union_rate_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.03,
     "news_title": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NSnV3QXdFdF9JVEt4Um1IUXI1LWdka2JpWERYeXdpczFnLUFBMmxBcmQ0Z0J2bWlfZS1kaXo4endjeUMwT2tiYjdxMDZtVUF4NHVuNXltUklDN3pWUFVWYWNFTUM5SGZFcG1LRzhQVWdJQjg?oc=5",
     "news_image": "",
@@ -8010,7 +8008,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.61,
+    "news_score": 0.65,
     "news_title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRlJEVDBTejg0VUNTOGFiekp4MFdyWVkxaWg3OFpBR0Q1QW1FTTNkU2t6YzllLTlhM0hxbFUzS3VuUzhOdi1vNURJOXBzZHI4eHZ0WURLcmljcTQ3ZEM4b2c1YVRPd3hoS3phLVVtbE5YcHA5MXExajJCQUl5R2VnOFZlSGNfbUxKNjlF?oc=5",
     "news_image": "",
@@ -8018,7 +8016,7 @@
     "news_age": "2h ago",
     "news_columns": [
       "tech",
-      "geopolitics"
+      "politics"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -9069,7 +9067,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 128,
     "fifa_w_rank": 69,
-    "news_score": 0.17,
+    "news_score": 0.16,
     "news_title": "Japan@Cuba - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQREd2d1gtbGo5ajhiWDYtbHFuNGRic3ZEenllcXFYWXVFN1BBLVBrR0RUcXkyYWpHZHlWWl9JbnhyUVY4SlFfbDFNR1VHck5xU1d5d0cyQl9NZG9zdS1Ka2RPSGEyRy04c2VLSXctUUVnVDIwNHR4MkxQOWVlNWpWdkY3clg1eVo2QnJDUEZ4cjVrZG05SnpBT0t6VG8xSHRteFJQQnpJeGk?oc=5",
     "news_image": "",
@@ -10938,7 +10936,7 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.57,
+    "news_score": 0.5,
     "news_title": "Collision between 2 trains in Egypt kills 7 and injures at least 125 - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1pDemVhQ0RJdmhpWXA2akRYZHFLSkpCaXlHdUIwRmZab2JCcHdDMEU0VU5QajU2ODBvc21yUm5TLW9oUlRhWVI0Z2FUX2cta21RZFhYSEJIa3R4TjhDQkpnTWlBS0VvZDRhSnowTGlwdThyODM2UlEwTHlHQnM3N0E5LTR5dWlXZEZDZS02T3NlbnBmQ1ZaSXdhV21nbVJWRmZuTWF6Q3g5MDQ?oc=5",
     "news_image": "",
@@ -14265,7 +14263,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKTUF6WlBib2d5Y0MwZXZkb0hCVFh0RmhXMEdIX0hlaEM5MjZOWENzRmdwbmZaUHlmTXlYUC1vRlN0RkxpTl9tb0VsOGhyMmZxbzRsSi01cEY5Nm85Z29J0gFcQVVfeXFMTjVNVzktaXBNUGw3ZzNBNzdJOXp6UXBPZjdoVGN3Z3Y5S0ttbzFxQnFoNEFzUUM3aEt5V2NUWko3dXQyRVlXV0J0T2hHZF9DOFhCMUg0N3JGV1JkclI?oc=5",
     "news_image": "",
     "news_source": "Modern Ghana",
-    "news_age": "126h ago",
+    "news_age": "127h ago",
     "news_columns": [
       "nuclear",
       "nuclear_power",
@@ -17394,7 +17392,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.02,
+    "news_score": 0.01,
     "news_title": "Global Economy, Hit by Iran War and Inflation, Faces Sharp Slowdown - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMktxdXlJWExWLTFHUkkzY25IRzdfM3ZvNE5XLWlLdzdxMGdZVWRhMUhjaUwzRjdwcGpVMFp6MkZYMGtwTzVSOG00Ml9IVV93QjR4Tm80cG9xdC1LdHFJME9XOG1odnRsQU15bUtqeEFoN1VEeXE4VGlncHlLWkUzR0g5LWFQNkx6VG51MA?oc=5",
     "news_image": "",
@@ -18128,7 +18126,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.54,
+    "news_score": 0.5,
     "news_title": "Eisenkot open to Netanyahu joining Israel’s next government - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWJndTBjVU90M3NvOURyOEE4V2NBeW5qbi1ONnF1S2ZpWjE1dE9QTEtnc2lfZmxCX0phZC1aWkw4WXhpNV95d0otelVhTkIxcEtQYTFleTVCaWkxWVNFWXZpU0p0cTdUZ0hMSGIzUHlIVGh6cjI2cnVncEMxM0xTTW5NY05ISndQNjYwR2VlOVJxWVlJWUsyaUxvQVl6WUVMSFU2aktoRzQ1QdIBrwFBVV95cUxQem95MVBFMy1naHV2QVZDMWJmZ25pZ0FVMTljSzFSaTlxN2F2RWJZcWFBMnozWXdLLTZIdzVHV05FaDN5T1B3djdRNElIQTVOYWFYanpPcmZzYVpuZkQzVlpZNV9MNi1EcFZTQ1VEQzMzVm9VRUdaNlZPbkRVbElGZTlVczJHdFMxNkNSekdnNENCQWJoNzVKdFlxQ0Rhank3X21jTVhSX245WTJYZjJz?oc=5",
     "news_image": "",
@@ -19263,7 +19261,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.18,
+    "news_score": 0.17,
     "news_title": "Japan@Cuba - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQREd2d1gtbGo5ajhiWDYtbHFuNGRic3ZEenllcXFYWXVFN1BBLVBrR0RUcXkyYWpHZHlWWl9JbnhyUVY4SlFfbDFNR1VHck5xU1d5d0cyQl9NZG9zdS1Ka2RPSGEyRy04c2VLSXctUUVnVDIwNHR4MkxQOWVlNWpWdkY3clg1eVo2QnJDUEZ4cjVrZG05SnpBT0t6VG8xSHRteFJQQnpJeGk?oc=5",
     "news_image": "",
@@ -19450,12 +19448,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.67,
+    "news_score": 0.66,
     "news_title": "Arkansas basketball notebook: Jordan Smith goes back to Washington - Whole Hog Sports",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYmlOd0szZkRZMGpPam1qb0x0RXdWNmRoSkU2a0huLVFhaEsxWkh5U2lDck1OLWRKbng0TU1vLVoyM2tQRlAwWDdreTV0dGp2NnFIdW1nc2Z5N2lnTm81d1ROMWtzQ2ZIMEptZ0RMU19lbE1oOFRnY1VIekNiRUdEbFU0bXhRamhKUF9OZXNuaU5fdktfeEVVb3hick9nZWdCVDl1MjZZVDNQX0VIbU1BQnJzQUk?oc=5",
     "news_image": "",
     "news_source": "Whole Hog Sports",
-    "news_age": "95m ago",
+    "news_age": "97m ago",
     "news_columns": [
       "basket",
       "olympic"
@@ -27829,8 +27827,8 @@
       "approval",
       "press",
       "election_days",
-      "lgbtq_rights",
-      "gay_marriage"
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": null
   },
@@ -35654,12 +35652,12 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.89,
+    "news_score": 0.9,
     "news_title": "South Africa@Great Britain - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdFp4ZUd2X0stOVYxblF3NTBnZDgyR3BpOGVUZTlfNEY0MVhpbFI2QWQyUE4tUTlYYjVPOVpNckZ0RU9zZUR3Skg1ZWdhZl9UczhjN2FobXVsSWd1ZXY1UHcxOVUxN0I1ZU1JVzluOVlfakFHU0IzdUZ1ZFFZWW1LRThsaW5LSm5HZk51NU9wWTZVWTJSTUNMSzUtaFp1cE5PUUZHYg?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "16m ago",
+    "news_age": "18m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -41262,7 +41260,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.01,
+    "news_score": 0.02,
     "news_title": "Europe will be represented in Abu Dhabi talks on Ukraine, French foreign minister says - POLITICO.eu",
     "news_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUDdWejBEMHl5NXlnaGxydmFWeVkxb0hTTHRWWjBYLXBqdmtoMGtxOXJzUGtVYld2TUZWZ1NEOGJGM2lVbDhpS3o5YVVobFQxNjNVR2dqU3dSZWlpS2FVampFdl9FSjRwVWkyZ2lSanZ1WHU0OWdacUo2SVNBbHpGdjJpNHQ0bG9qZ1h1YV9Pb285eTFzN0dtamdTR3hQYmMxanJ4RkhoREFWLVRqcFJ3Q1Rkd3QwVndvaUEyY2RESVZSMllvNzlzQVQ0dHFocTZP?oc=5",
     "news_image": "",
@@ -42543,13 +42541,11 @@
     "news_age": "6h ago",
     "news_columns": [
       "nfl",
-      "american_football",
+      "football",
       "tech",
-      "geopolitics",
-      "health",
       "politics",
       "nascar",
-      "f1"
+      "motorsport"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -42747,15 +42743,15 @@
     "refugees_rank": null,
     "union_rate": 77.5,
     "union_rate_rank": null,
-    "news_score": 0.8,
+    "news_score": 0.83,
     "news_title": "Pope wraps up Uruguay visit and arrives in Milei’s Argentina for the most fraught stop of his tour - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZXBvT0ZhMHZPdk1rbTJiZ1FtQlJJWEZMZE1CU2h6dlNBNTRZa2hsWFIzMG1mMU9qYTNIV1lTUnh0Ni03c2lOVDg1dDhleUliSmpzcnZmdlhaZ0dfWTlyYlRtOFo0dVYwdVpWV2NnMGxLZWZpMlJGOXJLMHF2SjNRVFoxZ1JlRjBtWEliSTBBcVVKeTU1dW9NbWFFUHdrMDhxNXc5NENMdzl5Q0l3RDNxNGJ5Q0JzbUdKWWc?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "101m ago",
+    "news_age": "103m ago",
     "news_columns": [
-      "religion",
-      "politics"
+      "politics",
+      "religion"
     ],
     "bottom50_wealth": null
   },
