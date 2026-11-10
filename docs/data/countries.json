@@ -1480,12 +1480,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.48,
+    "news_score": 0.55,
     "news_title": "Meet Stephanie Case - the first woman to run 100 miles in Antarctica - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeVp1MmVQdklueUxEV0JoaTk1TlR4c0NmYmpHU0pLZVpNRmZPV2tNT1NyLVFiNHI1ejZGLWtlbW8zQWptZzU3a1JCSVhtWlpma1N3QkU0bFNHdVZsa1NZRFY1VVhLWnVIekdSOXVzaC1xYXNBejlNak1Wd0d6YmVtLVFic3RVU0U?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "73m ago",
+    "news_age": "75m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -1927,7 +1927,7 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.02,
+    "news_score": 0.03,
     "news_title": "Pope urges Argentina to protect the vulnerable from Milei’s austerity measures - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeVRYYVFlTmhzSWxTS2N2VjJUX0kwVzBDVTZhSlpqTzFmUUFIUDZhdV9kX0ZtLXVpX3ZtcUV5dGNyQ1lXWURvWTZGYmhkaVNES1Y2dzRDcE0zN1hwazI4bFo1MzhSNHRBTGZRR3RSLUVYX2g5Q3RaQ3ozenp6MGg3MnhxQ0xTdnp5QnFiNUlmU0FvWFEtQS1WTjZXZjJYTUllSnFPTG85dGxubmNCZ0xEd1lB?oc=5",
     "news_image": "",
@@ -2563,9 +2563,7 @@
     "news_age": "4h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -6943,17 +6941,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.27,
+    "news_score": 0.36,
     "news_title": "Zach Edey plans to play for Canada in World Cup if healthy - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc0VrdUk5eVdFS2RoSUR0bTVyc1RuS3Exd25kTHIwRUpCODY3Y21ubmVyTU9McWdzYlJjc2JOcDBoTkc3NTVMNUF5QUpFaWJLVzQxRzY1d3Njdk1RdWVTMFFwUnJPNTh4MGpkR1JyeHBNYU5pZnpHcG1YMDVjekxNQ3Bn?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
     "news_age": "5h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "basket",
+      "olympic"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -8016,17 +8012,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.88,
+    "news_score": 0.83,
     "news_title": "Why Volkswagen wants to sell its China-made cars to the world - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVNHZGc4cjNNd2tPT3UwUU13OVlxY045aTl3Uk1iVXhSQmxHbkhwSUptSUFPTmxhS213NDlJTm03Z1BUaktpSW1LcWVMTS1HelZFci1uZDAxSWFUQ05EX0F0VzFqd3dpTURHSjhvUmZ4UzdIZTI3bUd5TXVfeEVmRUR1WlU?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13033,16 +13026,14 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.52,
+    "news_score": 0.58,
     "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "3h ago",
     "news_columns": [
-      "basket",
       "fifa_ranking",
-      "fifa_w",
       "olympic"
     ],
     "bottom50_wealth": 3.8,
@@ -17401,17 +17392,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 2.19,
-    "news_title": "World in brief: FBI looks into Huang affair; Trump says Iran war is “effectively over” - The Economist",
-    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmFYNWY2ZFRnNGZsQzFBZTZJZ1B3ZWliYmQyUlFaU2ZjWGhDcEpYVWFfeG45Y0JCZW9TQ20wR1VEazd1clJXeDFzT1B4VHBlaXAwZGNSRVFMSUxyNzhzU2k2V0tBZE83OUlWX0ZiMVNMRHBGTTF4SW15bE1VcFkyZTVuVF9vUjIzbkxjSXpyS3EyMVJBVkww?oc=5",
+    "news_score": 2.38,
+    "news_title": "Trump says he’s keeping ‘status quo’ with Iran, with no need for new strikes - The Washington Post",
+    "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZENobzk1VURRa2N5VkZGWHBnaHllTVoyNk9aTEJEU3p3bWU2ZFNOVmNCcHpkVGctVklLb18ya3piM2dfTkhKNHJjWGlDMzJyWnVGNnZFOEQ5Sy1NbGlEUE0xNmZzeUNYMjhXcWt1SXFTS0QtMHpkbjFwanRlNFRxYXZOQk5HSmpnc0kyWXVvb1BUQnVzQ01DQ1lZZVRMOTNfeTY4ZGhKckZKb1FwYUxYYUF3?oc=5",
     "news_image": "",
-    "news_source": "The Economist",
-    "news_age": "83m ago",
+    "news_source": "The Washington Post",
+    "news_age": "22m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -19454,12 +19443,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.78,
+    "news_score": 0.77,
     "news_title": "NFL Best And Worst: From Jordan Love’s Masterpiece To Caleb Williams’ Clunker - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRE5DS1NYMzczNG1FOW16Qzd3NEpqdk92ZW5Xcld2ME8wS1c4dDk1LXRUdmJjSkVZLTZfUTkyTEU3X2pmcDdmakwteExzN2hRdVZZb0x0VVhDSWJ2eGRQclFVNEdOZWs3c1VCVlBNcFEzSnB6RmVnVC1jc0tDWFVTb2VKaUtRNXpWRnEtTTQxTkbSAZABQVVfeXFMTVZLaHlXazIwYzExa1NiSXV1X2N3cm0tQXh1SjMwWEZBNUEwUE1nVWE5dmdUWm91MjljYk13eElTbHJIMzN5dkZzcENvbGJXaTc1X3ZHdkFqWWl2cGNMVDN0Rm5sUkVuamF4MU5jRUxrQWZ2QVRrVkxCcnZXV2lUeExQM2JQamtDUnR6Y0VidmFz?oc=5",
     "news_image": "",
     "news_source": "FOX Sports",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -31673,12 +31662,12 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.44,
+    "news_score": 0.58,
     "news_title": "Poland’s Political Divisions Puncture Its Influence on World Stage - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZkVPSnVPV3ZVcGdRdGgxN1JDV3BWSk51WnZLcjEwZ3JVSFFabEdBZmR6TktQZ2I2UFRtRkI4QUlhMnRldzg1YUNxQUI3TTlWc2ZTRk9mdXRpUThvcENvSmxzUDQ1LWFaTjNtb3VLdW0zSEcyd1VLc0xPS2gtQTdoRjY3VmV0VkxjeEtzVS03ZE5zMS04c0FyN1NFOGhnbXh0QlJPdkkwZk9JVW8?oc=5",
     "news_image": "",
     "news_source": "WSJ",
-    "news_age": "23m ago",
+    "news_age": "25m ago",
     "news_columns": [
       "politics",
       "conflict"
@@ -32347,12 +32336,12 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.0,
-    "news_title": "Trump says Iran war is 'effectively over' militarily with further strikes unlikely - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZVGlrZGdkVXQyRXBjbUdDMVliNVZPR2l1eFFud2tLMnRGSlRmbmYtbnBpVGFfX1FqRkh0WGpMbHlfT1U3WjVkR21hNnJmRFdTcndqS2F1OE5EYXM?oc=5",
+    "news_score": 0.27,
+    "news_title": "Trump says he’s keeping ‘status quo’ with Iran, with no need for new strikes - The Washington Post",
+    "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZENobzk1VURRa2N5VkZGWHBnaHllTVoyNk9aTEJEU3p3bWU2ZFNOVmNCcHpkVGctVklLb18ya3piM2dfTkhKNHJjWGlDMzJyWnVGNnZFOEQ5Sy1NbGlEUE0xNmZzeUNYMjhXcWt1SXFTS0QtMHpkbjFwanRlNFRxYXZOQk5HSmpnc0kyWXVvb1BUQnVzQ01DQ1lZZVRMOTNfeTY4ZGhKckZKb1FwYUxYYUF3?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "4h ago",
+    "news_source": "The Washington Post",
+    "news_age": "22m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -33152,12 +33141,11 @@
     "news_source": "POLITICO.eu",
     "news_age": "3h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "nato"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -34329,7 +34317,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 120,
     "fifa_w_rank": 100,
-    "news_score": 0.06,
+    "news_score": 0.1,
     "news_title": "'Cruise for life' ship Villa Vie Odyssey seized in Singapore - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NVlh3T3cxSXdvMkppM1dRVTJoY2Vfb3NKWmthNW16LUtDOGZ1eFFxV3dNZURJak4xMk83Y3BHWXB6Q3o4TnBNeFhQN3FZc2RnYmRNQm1vdTFkM00?oc=5",
     "news_image": "",
@@ -40320,9 +40308,7 @@
     "news_age": "4h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -41281,12 +41267,11 @@
     "news_source": "POLITICO.eu",
     "news_age": "3h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "nato"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": null
   },
@@ -42555,7 +42540,6 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
       "olympic",
       "basket"
     ],
@@ -43473,7 +43457,7 @@
     "union_rate": 56.6,
     "union_rate_rank": null,
     "fifa_w_rank": 40,
-    "news_score": 0.04,
+    "news_score": 0.07,
     "news_title": "Exxon Takes First Step Toward Investing in Venezuela - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWW9IY0xQOGQtXzBTdnMxdUlXelVuT1NYMHNQcXRaNXdmYTMxZ2FtVTVxa0tQVWthNVFxdUNjUUczS0JZQUpuQ2kxZmswYml1VEItMkpvQmNBdXlHUWo2cGxlRy1TZ2RiOG9iSVNiWkhkN3JRWHpMVURUeUZfTnhFMC0zNnhoY045Wm4zbWx1elFaYTByWjJVYXBPclI5alAzZmpN?oc=5",
     "news_image": "",
@@ -43760,7 +43744,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.68,
+    "news_score": 0.67,
     "news_title": "The budget for science and technology is projected to reach 120,000 billion VND in 2027. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSk0yNVBEU3d1OEo4ZEpSMHVvVDlCOGtzcUZKVnFNemhtNUswMVFVTDhZN0xNUWtZdUJ1UUdOSGVOSkFtdzVGVlhxTVI3SnJNM0FzWU1SN2pvM1BLTVpGNUpidTloMkRLakZram1NREVGTjdfZndFWXpOZFlXaDh6ZHp2TGJIOWNNLVFmQVJqamRmcnc3UDVCbFZ3cw?oc=5",
     "news_image": "",
