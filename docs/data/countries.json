@@ -2562,12 +2562,10 @@
     "news_source": "www.rba.gov.au",
     "news_age": "76734h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "basket",
+      "fifa_w",
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -5586,7 +5584,7 @@
     "refugees_rank": null,
     "union_rate": 73.2,
     "union_rate_rank": null,
-    "news_score": 0.22,
+    "news_score": 0.21,
     "news_title": "Beyond business optimism: New SeeNext index reveals Bulgaria's structural challenge - SeeNews",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOVp6VkllWVRuc3Y5Q3pCNzY3MFBNNDl5bGdHbmljZE1ZVVRTSy1kN1h2NFpUSjNTOXplaEhuTHFmUmEyTDc0empWcjc5TG1ZS1BBNGNVUFhBWWlhYnc3cGFtUC1kWXVUTjdNUi11NS1xUWpnNHJBQ2RjZjFsN0YwVE56bUlxYlgtUWJBNjBKVnVvZ1c3WGgwTEVXcGZqM3lqNjZhYy1FVk1ZS2NvZUFwc0NKUlc?oc=5",
     "news_image": "",
@@ -6948,12 +6946,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.69,
+    "news_score": 0.68,
     "news_title": "Not Rare, Just Missed: 19 Landmarks Across Canada Light Up for World NET Cancer Day - Yahoo Finance",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRW5VMVZEWFY0WURieVZWZ1VBYWlHbXBfVndLcGFqTkc3b0g3U2lvblN5T2FxbzNSVjc0Xzh5SUF2ajlQOGx5ODRGX05vQzVIZXpiTE9Fc3pHQVNqNElVdWFkZFppWjNKUU5EXzBxYmxQM05odlVMcTl1YWJkdWNrc2JkLU83VE1hZGRsVg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Finance",
-    "news_age": "98m ago",
+    "news_age": "100m ago",
     "news_columns": [
       "health",
       "life_expectancy",
@@ -8023,12 +8021,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 3.04,
+    "news_score": 3.13,
     "news_title": "US and rest of world must follow China’s lead on green energy, says John Kerry - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaTBKYVBWUU91LXcyV2I4V2RUcUtjSGlpRHRYSXhuSkxQNEx3aWRJMkQ0MFZ4ZmJKQ1lmcUJVTXdXM3VDTDlOVFk3ZFQxTEcyMDE2OTVXZnVxOFMxY21NVDdUN0pXV3NmQmJhc3dRSnlxb3FqczNZaGRNQS10OVdFYkRGazY0ZEp3UXgyZUJmcy0?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "93m ago",
+    "news_age": "95m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -13571,12 +13569,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.89,
+    "news_score": 0.86,
     "news_title": "Gameday: Football vs. Georgia Tech • Nov. 14 • 12:30 p.m. • CW Sports - Clemson University Athletics",
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUcEd6XzZKMU9sYmluaThFWW14ZGFISWJKMU5KWVduWXZuWXJZNkxnUFRtSTJXUko3cG5uSjlaVWtValQxalZKWXdPT0k3cjRHZTB6NndjRG5Zd2x1M3diOEQ1MDV6YkU?oc=5",
     "news_image": "",
     "news_source": "Clemson University Athletics",
-    "news_age": "49m ago",
+    "news_age": "51m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -15890,7 +15888,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10Z1VRYnpIenhtdlE0eVB2NFpFU1pILXhTbXRJcTExRm5oSWpiZjNuZzdYNkdvMFdEOWJjM3J3TWxwTThiRzI1WXg4TVFDNXd3a3FhcmFsaE9YRDdLSm9ULUlrTjgxY3A0UVQ4RFFxY0xpZ2JDT1hoWnFQVGtmTlk?oc=5",
     "news_image": "",
     "news_source": "Quantum Zeitgeist",
-    "news_age": "28h ago",
+    "news_age": "29h ago",
     "news_columns": [
       "edu",
       "literacy",
@@ -17405,14 +17403,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 2.17,
+    "news_score": 2.32,
     "news_title": "Pete Hegseth decries impeachment push, defends Iran war handling - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03T3lfUjZLX0NDODYzbVR3V1lYSXI1OVpfWkNtNDFjN19vaGhiazZ2TmNFbG1LNlRuQjR3c09VY2djUjlHSngxSFMyeVdiNUVPQ2dLMXE1UGR4TEpTT2FnMVVfdHJROUtSNzJVeVVjdDdWSEJIMS13c3ZPOWJMUQ?oc=5",
     "news_image": "",
     "news_source": "CNBC",
-    "news_age": "38m ago",
+    "news_age": "40m ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -18135,19 +18134,19 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.4,
-    "news_title": "We’ve never seen anything like the Anthropic IPO - CNN",
-    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbUxWTnB5dWdxMWVSOS1yclBmU0pteklCakRmX0dKV0ZVZzByMUd4dUlwbFNBbUZkOHotWk9EOTMwTFU0LVFnZHJUWnJBOHpmclRnUngtejBZbklCQWdIQmhMTEkyY3ZLU0NxTEdNZVFIaGVIZHlFNmUzOGFaOFFXLVVNTWRid0F2YTk1Mg?oc=5",
+    "news_score": 0.41,
+    "news_title": "U.S. moves military aircraft from British base amid Iran threats - NBC News",
+    "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORjZ4UXBPOUctT3V2bHR5V2x4NFRtX1NqQmx4OVgwdmtCejhDVndySUxORllTRThrNlNoNTZ2WUNDcVlWVWNNeGdNdHFJOFpuRENOLTIzQm8xMDV2VnhzeUEtcFh5Y1M3SDEzVlh5djQ1Y0pkWFBzU1d3MENaZVcyaWRGN0FVcHhXMUozeFd4ZW00NzZoUVZOTktwMUlwOHVDUGMxM2NHQkwwWGNEMk5nQnpfWjZSQQ?oc=5",
     "news_image": "",
-    "news_source": "CNN",
-    "news_age": "2h ago",
+    "news_source": "NBC News",
+    "news_age": "3h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
-      "ai_research",
-      "internet_pct"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -19275,7 +19274,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLUxNdTk5enNST25Ub2YyNjNDVVhJV0NnWmg1Tk5Kc3k4Z3ZIRm5Na3FGOGptMWdHNDBZLUVGYlhrZEJWNF8wajBqYTF5SnMxa1ZRZFpiNGJkaWhwSDlNTmdLanBhMnpDZDZlN3c5OV84ckFfc2hyYm03bmkwQzY4WU44Tk43S0ZGakdzS1d5RFF1NmtWblB0VXhfeW45SnRFamYtdWNNcklNUXZCRDJUZTY0cUVfRF9sckVF?oc=5",
     "news_image": "",
     "news_source": "Bloomberg.com",
-    "news_age": "109m ago",
+    "news_age": "111m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic",
@@ -19456,7 +19455,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 1.03,
+    "news_score": 1.04,
     "news_title": "Olympic gold medalist Jordan Stolz talks about goals for World Cup season - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZmRFbU1CcVBtNk1xN1ZaU1pVelNVWXNHdlNLVE5QVDV1TVBjWmNtNnR2YW45SklFYjJZbklZVUJTemhEOW1IQUdzS2VjZlhFR3hxcmpiWG1HaGlJeFpReTdnbzQxMVpmRGpjUHZaNVpZREJ1WWdqUU1pRzBGRjNkdEtRQWpidVVxZGJr?oc=5",
     "news_image": "",
@@ -33142,13 +33141,14 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.08,
+    "news_score": 1.11,
     "news_title": "U.S., Russia and Ukraine begin talks in Abu Dhabi aimed at ending war in Ukraine - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0FBdDVsTGpNTFhrMXd4amFHczlHMEdINnhILTZJXzZFcjNqaXJ6emhyZjJaLVJPdkFIcEtxVURnaVd5cnZzQ2FmaG5nazlOYlkwT1pRaGRNSWhpN0NHZVZtU1M0RkIybklHdDRwYlRqZHZmRmtCSm9RbUdFV1BlMnJ1M3U?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "52m ago",
+    "news_age": "54m ago",
     "news_columns": [
+      "fifa_ranking",
       "olympic"
     ],
     "election_title": "Russian Federal Duma",
@@ -35658,19 +35658,17 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.9,
+    "news_score": 1.22,
     "news_title": "South Africa boss Des Ellis adds Wendy Shongwe for FIFA Women's World Cup playoffs - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRDJjNkVvUC1zREtKZ1d1dmcwSkMzcFpJU1l2MUtvRGJPTndDYThsUkZQaGFNNndBSEl3eXVjSUtkLUtOVklkR2dHYy03NW0xLVlIcDFJODdRUjNKUGdfN2pjaHVhN3JyR2huc3FJX2s0ZndvOHR0SWpBZWQ4eEpoTE5vSDNKZUE0U3NsamxrS2dlemVhcjc1dWt6TDh4ZHVabFZaMG9rY0lnazVSc0pXVDd3?oc=5",
     "news_image": "",
     "news_source": "ESPN",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
       "basket",
-      "gender",
-      "gender_gap"
+      "fifa_w",
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 1.2,
     "bottom50_wealth_rank": 29
@@ -41261,13 +41259,14 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 1.04,
+    "news_score": 1.07,
     "news_title": "U.S., Russia and Ukraine begin talks in Abu Dhabi aimed at ending war in Ukraine - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0FBdDVsTGpNTFhrMXd4amFHczlHMEdINnhILTZJXzZFcjNqaXJ6emhyZjJaLVJPdkFIcEtxVURnaVd5cnZzQ2FmaG5nazlOYlkwT1pRaGRNSWhpN0NHZVZtU1M0RkIybklHdDRwYlRqZHZmRmtCSm9RbUdFV1BlMnJ1M3U?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "52m ago",
+    "news_age": "54m ago",
     "news_columns": [
+      "fifa_ranking",
       "olympic"
     ],
     "bottom50_wealth": null
@@ -42536,9 +42535,10 @@
     "news_source": "Fox 10 News",
     "news_age": "9h ago",
     "news_columns": [
-      "fifa_ranking",
       "olympic",
-      "basket"
+      "fifa_ranking",
+      "basket",
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
