@@ -2559,12 +2559,7 @@
     "news_source": "www.rba.gov.au",
     "news_age": "76732h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "olympic"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -5162,12 +5157,12 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.77,
+    "news_score": 0.76,
     "news_title": "Ancelotti hails Brazil's new generation: We have quality youngsters 📹 - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZktzaTdydUhKZmo1RjV6SFJNSkE5LUE2bUdQejBjWVZmQlFfajZvQVQzMlpDTW9FR2haZUE0MDZWZ1NQZV92WVZ5cGQ3YkxDUEt5bDl1MVJEaDhTYkpIWC1uaWZMbzE4dnB6MTBidGJ5ekZ3QnRaT2RwRzR1NXgyQnJhWUdldktZQTJ0OFYwbTJSWkpnUHc?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "64m ago",
+    "news_age": "66m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -5583,7 +5578,7 @@
     "refugees_rank": null,
     "union_rate": 73.2,
     "union_rate_rank": null,
-    "news_score": 0.39,
+    "news_score": 0.38,
     "news_title": "Beyond business optimism: New SeeNext index reveals Bulgaria's structural challenge - SeeNews",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOVp6VkllWVRuc3Y5Q3pCNzY3MFBNNDl5bGdHbmljZE1ZVVRTSy1kN1h2NFpUSjNTOXplaEhuTHFmUmEyTDc0empWcjc5TG1ZS1BBNGNVUFhBWWlhYnc3cGFtUC1kWXVUTjdNUi11NS1xUWpnNHJBQ2RjZjFsN0YwVE56bUlxYlgtUWJBNjBKVnVvZ1c3WGgwTEVXcGZqM3lqNjZhYy1FVk1ZS2NvZUFwc0NKUlc?oc=5",
     "news_image": "",
@@ -6945,17 +6940,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.04,
-    "news_title": "Zach Edey plans to play for Canada in World Cup if healthy - Yahoo Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc0VrdUk5eVdFS2RoSUR0bTVyc1RuS3Exd25kTHIwRUpCODY3Y21ubmVyTU9McWdzYlJjc2JOcDBoTkc3NTVMNUF5QUpFaWJLVzQxRzY1d3Njdk1RdWVTMFFwUnJPNTh4MGpkR1JyeHBNYU5pZnpHcG1YMDVjekxNQ3Bn?oc=5",
+    "news_score": 0.03,
+    "news_title": "Tighter monetary policy now among top risks to Canada’s economy, say business leaders - Financial Post",
+    "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIR1o5VjVhSThZNGE2MklXZmxCVXN5cWxtTHRjb3VSUzV6bHhuMEI2TU94ZE9qTUw0WVZBSEtjbjZHYmIyZVJUY01PYjdzRE1IX2JxYUdnNzlOTmZSVm1Hbnh3V3pBY2ZXb2VsTTFnbnNGOGg4amhEXw?oc=5",
     "news_image": "",
-    "news_source": "Yahoo Sports",
-    "news_age": "9h ago",
+    "news_source": "Financial Post",
+    "news_age": "15h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -8018,16 +8015,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 2.91,
+    "news_score": 2.75,
     "news_title": "China touts tech, AI cred at world Web Summit - AFP.com",
     "news_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qRFF2UlJxcFh4aTdnVkw4cUQtQkUtV1lDTlZ6VWo4OFlKajVVa3NuTnVLaEZRcnlRZXRNN3hYV2hhSlJPUTZ5dlU0VFlwYmlDZXlkRW5iY1UwOFVZZ282SmE5blNheENNVDRxcFVrRUR6Zw?oc=5",
     "news_image": "",
     "news_source": "AFP.com",
-    "news_age": "52m ago",
+    "news_age": "54m ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13034,19 +13030,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.24,
-    "news_title": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions - CNBC",
-    "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jWHRvNTRYTnpDandQOUdCbC1EOHVmOUVER1JJWnNhRGFld2FlUkxXd2lRMklQb3ZWeTY0V2UxVUVCRWlFZC1XNHpVWm03TU5keXRndGl2aXV2VkRyWF9IYUxWVFFuSUFrZEpPRmJLbEVaMmlXNzln?oc=5",
+    "news_score": 0.27,
+    "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
+    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
-    "news_source": "CNBC",
-    "news_age": "2h ago",
+    "news_source": "The Washington Post",
+    "news_age": "7h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
-      "exports",
-      "imports"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13573,7 +13565,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOElYV3IwRzZIbmFEc2RBY2dPNFVVVFpLNGFaZEZPTl9LZ0w2S09ubWNqbDRDem5hWndlZC1qdWdPNnNHTDVnOHRkS29wS2dUUGF4Z2FHMndySUFRNFc1U2lhclZRbkNDaGNQYThfblM4a0pGUHdwWl9UU3hYRkhiNkZzRWpmNXRSeXRYQ3pId1llc1U?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "113m ago",
+    "news_age": "115m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -14070,19 +14062,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.09,
+    "news_score": 0.13,
     "news_title": "US aircraft evacuated from second British base due to Iran threat, WSJ reports - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNFRRSTBsbG02aEtlczAwSUpUMTd3ZkFRQUp6emg3SHZpclZSTXZiQUl6TWRMUVJuZ0U5T1MtdFhkblNEYWtiN1B5YnBtNnVaSVFyV1NqTk5Jd1g5SHU5eWFjWk45TWVYLUdJbi0zb2R2c2tZMXlvT2tZMVRaUjd1ek51NTFQcWJ2SXpMMkZqZ29UbkRkTWlyNmpleE5aOTJlZ3FDb21FQVRyNlVoalM3MWVUdw?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "6h ago",
+    "news_age": "7h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "car_density"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -17405,15 +17393,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 2.1,
+    "news_score": 1.51,
     "news_title": "Stock Market Today: Oil Prices Fall to $90 a Barrel on Trump Iran Comments; Investors Await CPI Report - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAycGFzVmI4Q3NSQ2ZMTC1DdDR0M2R3SG1OZm1DMHZ6OG9qa3dJUllpSThRa1RlYm5uWGZrVDE1VHJZU0xJdlBFRWpZSnhzU2hUMlJ1UDdJXzFxamNqTDE5bkgwUXowRV9JdUhyckdOclgyMHlaZFE2RlZR?oc=5",
     "news_image": "",
     "news_source": "WSJ",
-    "news_age": "23m ago",
+    "news_age": "25m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
+      "gas_price",
+      "energy_per_capita"
     ],
     "bottom50_wealth": null
   },
@@ -18136,12 +18128,12 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.19,
-    "news_title": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily - Al Jazeera",
-    "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk10al9Za09KSVdSOEJFak01MEtXS0I0bHg2Q2wzSmUzSDlEVlpObU41Mjg0aUZhQU5zR1NIbzdTMHJLV1FDbEk5WExHLUF0aUlHVU9CSlpEMXozNVFzSm5PTm4zekxYVmR6YlZLYUtHVUEzREp3UEIzSW1NTksyMWJXZTFiWTRvNW5oSGtQOVY3ZW1uOHdNYXJuWUtnWmhkVTRQWEsxRdIBrAFBVV95cUxOeDVLZnJwdDZ1b2dWamRIanBpZXUtQXE1dVhQeXVmY0haLVRFUDFwa2Zicl9FQTEyUXhFaE40dldBQmR1amhrSkFqd2U3Z1d4RXhSZ1VFTGpmeHpMNERLc2syWFZYLVk3aGtvQk5WZFRYWlRLODE3NEs4UGF4amM2ZEVFSmZJcElHaEpQSlJ2Z2ZsTFh4TUhhb3BqblV2ZHBHaTRPWXNpcDJMeTdG?oc=5",
+    "news_score": 0.2,
+    "news_title": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes - CNBC",
+    "news_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2SVZ4ZGc5a3Y1STlmenVpVHNaX1MxQklrdlRKOTNlekw1ZThJU3RpZDd2RzhfLVNVZG9IUDRwQng1Q19iaTNfY01DM2lFZlpEbzJqbEZDeDJObkVPRTN1ZTYzOVFULVJuOUc0?oc=5",
     "news_image": "",
-    "news_source": "Al Jazeera",
-    "news_age": "10h ago",
+    "news_source": "CNBC",
+    "news_age": "5h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -19459,12 +19451,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.86,
+    "news_score": 0.81,
     "news_title": "Jordan Poole finished at -47 in the loss to the … - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWkxTV2NKbFNKUDBnWVN3blRxV2xIZktWTElFc05zUENITnI1MlZnLVdPQjhuX1ZPaUNiWDIxQTViQjNxYXhKTjBlX3cyUTR3ZEpOVHF6UkR3cDNIRVFoNmhvS3JsYXlzVWJodGUwUGEzN29KNThmRi1rNXhkZ0QtYUpSSVg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "100m ago",
+    "news_age": "102m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -26153,7 +26145,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SdVpvLTl3Qi01N0RVTWxpRXZJdkg4ODlRa2NIRmZDWXlreTYzc3Fac3NMWTh2NFlwMS1POVlaTVVlUWVxbF9tUmI1OGxEQWdsektXdE1UQQ?oc=5",
     "news_image": "",
     "news_source": "UN News",
-    "news_age": "14h ago",
+    "news_age": "15h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -27827,12 +27819,12 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 0.8,
+    "news_score": 0.79,
     "news_title": "The World's Best New Zealand Wines of 2026 - Wine-Searcher",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOE95YmFRbGFVekNrdHh5eWhhYkIycHAyc3RIN0JrQkVIeG16NV9tSGZnVFMtOWtGQ3ZCUy1YbVFnZnVxWWxDOG5aVERfQ0ZCazVncHpjbUNDSGM4M3VOWjUwYXJENEFrb2k1TzJ5T25oNHpWVEVWRE1OUHllVzV5N1ozRUpnd29Z?oc=5",
     "news_image": "",
     "news_source": "Wine-Searcher",
-    "news_age": "55m ago",
+    "news_age": "57m ago",
     "news_columns": [
       "alcohol",
       "beer",
@@ -28480,12 +28472,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 1.39,
+    "news_score": 1.41,
     "news_title": "NCC releases latest data as Nigeria's active mobile connections cross 200m - Legit News",
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWFhKalFyMFNzUnRPc2FkOFMzTTJUaHZ0cHBmcmNtejdENV96blNwdVRXYVp2RVhiV2tNaUlRTll0ajZ4RTI3VnpRUmZmcHo3cjFSZVRlUzRwT3AyREVQbmlYM2ZxYnFqeVJEQ29Da3o0LWNVVjVvb2hlbFRtdFY1QkJ2a3MtWXJHVFR4dmE1YUFoN0dPZGwxWVdLREdRdVpTei1lWkZpQl9Ub0ZoSE9uZVl2N1dseVpqTVZjRHluX0Riem90YVlHdEhGY1M?oc=5",
     "news_image": "",
     "news_source": "Legit News",
-    "news_age": "12m ago",
+    "news_age": "14m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic",
@@ -31675,7 +31667,7 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.07,
+    "news_score": 0.06,
     "news_title": "Poland’s Political Divisions Puncture Its Influence on World Stage - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZkVPSnVPV3ZVcGdRdGgxN1JDV3BWSk51WnZLcjEwZ3JVSFFabEdBZmR6TktQZ2I2UFRtRkI4QUlhMnRldzg1YUNxQUI3TTlWc2ZTRk9mdXRpUThvcENvSmxzUDQ1LWFaTjNtb3VLdW0zSEcyd1VLc0xPS2gtQTdoRjY3VmV0VkxjeEtzVS03ZE5zMS04c0FyN1NFOGhnbXh0QlJPdkkwZk9JVW8?oc=5",
     "news_image": "",
@@ -32349,7 +32341,7 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.01,
+    "news_score": 0.0,
     "news_title": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk10al9Za09KSVdSOEJFak01MEtXS0I0bHg2Q2wzSmUzSDlEVlpObU41Mjg0aUZhQU5zR1NIbzdTMHJLV1FDbEk5WExHLUF0aUlHVU9CSlpEMXozNVFzSm5PTm4zekxYVmR6YlZLYUtHVUEzREp3UEIzSW1NTksyMWJXZTFiWTRvNW5oSGtQOVY3ZW1uOHdNYXJuWUtnWmhkVTRQWEsxRdIBrAFBVV95cUxOeDVLZnJwdDZ1b2dWamRIanBpZXUtQXE1dVhQeXVmY0haLVRFUDFwa2Zicl9FQTEyUXhFaE40dldBQmR1amhrSkFqd2U3Z1d4RXhSZ1VFTGpmeHpMNERLc2syWFZYLVk3aGtvQk5WZFRYWlRLODE3NEs4UGF4amM2ZEVFSmZJcElHaEpQSlJ2Z2ZsTFh4TUhhb3BqblV2ZHBHaTRPWXNpcDJMeTdG?oc=5",
     "news_image": "",
@@ -33147,15 +33139,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.11,
+    "news_score": 1.12,
     "news_title": "US-mediated talks on ending the war between Russia and Ukraine begin in Abu Dhabi - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWFsNkFITi02Z1V3NGtpMndYU1JJZ1RKOUNYWW9tbWJvcHRpdDAwNGJzQlg1bURIS2pzMXA0UWRNRF9WY25QM1ppRTR0T1lqRzNRSTlzanQyeUY2WC1uOFJWQ3Mwd3pyMVFQcl8zTkZZeERfSTJQQ0g4WXFlWmpvdlI5RzNFeDNnVUUtdnZsVURBN2JPMmpYSEJUa2pXOWM?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "70m ago",
+    "news_age": "72m ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic"
+      "fifa_w"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -34327,12 +34319,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 120,
     "fifa_w_rank": 100,
-    "news_score": 0.8,
+    "news_score": 0.82,
     "news_title": "New CEOs for LTA, Home Team Science and Technology Agency from 2027 - Yahoo News Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vUzV3YjNpOVA2cEVXUTdEVzVCR2lCUXBRNXhpaE5zSEh4alRKRDItY2Q3eUEwMTZaRndNYzlnT2Y2Xzc1ZWtjZ0ZMZ2tRbTN6THJnaGNjM0hhTml4SUdPa0FPekNiZG1iamt2dmZETkF6bTBoWkE?oc=5",
     "news_image": "",
     "news_source": "Yahoo News Singapore",
-    "news_age": "35m ago",
+    "news_age": "37m ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -35664,15 +35656,15 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 1.1,
+    "news_score": 1.13,
     "news_title": "South Africa and China Deepen Science and Technology Cooperation in Strategic Push for Innovation - Central News South Africa",
     "news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOckFWWXUyUTEzcmNOdkZyMEtFLVVUVkdvcFFKbEJuXzUzWE1VZFo5aG5qRTFBM0RMcEZvaUh5RVBSVWFKcncydTZSaTNnWmc1RWdqYzlHMXUxcWhLdjBIRzhHLXV4TzcxYV9DdFhSWVQ0YVhRaTM0RFpkVmJvNWxiREVMSzFnWG5CM0ZGRjIyZ2ItSWV3dVQzRWtobEpuNWd5bUMzTGJKS2thelpmUGhLWVJ6TVlMZGczWEdZVl9ySnd4UQ?oc=5",
     "news_image": "",
     "news_source": "Central News South Africa",
-    "news_age": "56m ago",
+    "news_age": "58m ago",
     "news_columns": [
       "fifa_ranking",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 1.2,
     "bottom50_wealth_rank": 29
@@ -36728,19 +36720,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.09,
+    "news_score": 0.12,
     "news_title": "A new list of the best 50 restaurants in the world was announced in Lima, Peru. Asador Etxebarri in the Basque region of Spain won the top spot. For the first time, only one American restaurant was in the top 50. See the full list: https://nyti.ms/3UFBmdx - Facebook",
     "news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdVBIY3lmS2FxT2FJMVpKTnJEZG1qa1JIcGppVi1meGE0TlY4aGhLdGlRb00zQ0xzcHRnNzVOemhFWXNGQUVqSmJwcklRR1haV3laMFJOQmhQeWJWNG9pMUJwREVSYTVlZTdPYlpzNU1EQW15RHZnV2Rxc21oLTl1Y1ZsVFlSbWd0c1lub2tXN0RmemNoU3hPVjZ3NzQzZnAwU2NHc0RXYkRBV3RFNnhoN3pQTkIwUl9PLVAwd2xUZVFaQmh1Nk9pMmtSaENjSTVXdlBr?oc=5",
     "news_image": "",
     "news_source": "Facebook",
     "news_age": "8h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "michelin"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5,
@@ -40304,19 +40292,14 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.62,
+    "news_score": 0.84,
     "news_title": "Turkey Promotes Itself as a Climate Champion. Not Everyone Agrees. - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTFQ2MVJRNlNETng3YTBjMld5RVBMUnp0UTBOU05YUk5FcW02dmVqVjJFeEEzX2N2MmlWR19PQTV0WXdfUDdkdi1DN2J3TWZSeFFpeU90Z0NSaW55RjR5cGlLNVBpMXMyMXFNQk9lb0lRMi11WU96d2pQUzBySTJ2OWZIWEFfMWtR?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "115m ago",
+    "news_age": "117m ago",
     "news_columns": [
-      "co2",
-      "renew",
-      "forest",
-      "pm25",
-      "car_density",
-      "gas_price"
+      "olympic"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -41268,15 +41251,15 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 1.05,
+    "news_score": 1.07,
     "news_title": "US-mediated talks on ending the war between Russia and Ukraine begin in Abu Dhabi - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWFsNkFITi02Z1V3NGtpMndYU1JJZ1RKOUNYWW9tbWJvcHRpdDAwNGJzQlg1bURIS2pzMXA0UWRNRF9WY25QM1ppRTR0T1lqRzNRSTlzanQyeUY2WC1uOFJWQ3Mwd3pyMVFQcl8zTkZZeERfSTJQQ0g4WXFlWmpvdlI5RzNFeDNnVUUtdnZsVURBN2JPMmpYSEJUa2pXOWM?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "70m ago",
+    "news_age": "72m ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -42537,7 +42520,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.2,
+    "news_score": 0.18,
     "news_title": "United States Sports University holds sports artist of the year event - Fox 10 News",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFdnMTRSWTBfRkRWWE9uOUpRREZFcmxNMFoxb3pjSVZPRlg0ZHoteXRUUFRWOGFDNmpsb3VzR0ZxNlNXVUNNQzVSSmI4dUxQbkw1cDZnRlNTVGtJajNkdGRxdFAxWlVmZXdfc0hnN3hKekxaQ0FiMEtYZ3RLMklpazgtSUEzM1diZ3REdkktREpidnZHS21wUFhhNzJCdmvSAbMBQVVfeXFMUERNY2c0Y1d0STJJZk1Cc3FxV3lYYndDSG1FWXNTeWhYbmNtSkZVcmFDVDk5LXlXTGN6QU9HY3FnM0dOMFpjVjVnMExkdXV5RmhvakN5RFlRbjZka3BzcElmczBsQzItWHhpMjJCNkdTY3c5TDR5WmFNRWxnVVl2U1prb2RtOFBIem5aVVlUbzI4SW1NY2V0a3pwSUxRS0FmQkRLSi1sbkw3eUl1ODlEZnpDdTA?oc=5",
     "news_image": "",
@@ -42546,8 +42529,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -44286,7 +44268,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SdVpvLTl3Qi01N0RVTWxpRXZJdkg4ODlRa2NIRmZDWXlreTYzc3Fac3NMWTh2NFlwMS1POVlaTVVlUWVxbF9tUmI1OGxEQWdsektXdE1UQQ?oc=5",
     "news_image": "",
     "news_source": "UN News",
-    "news_age": "14h ago",
+    "news_age": "15h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
