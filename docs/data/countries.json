@@ -2556,14 +2556,13 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.33,
+    "news_score": 0.23,
     "news_title": "Australia and the Global Economy – The Terms of Trade Boom | Explainer | Education - www.rba.gov.au",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbi1LWXdGcTlnVU15dHJtY2VrMHRSQkUzLWpLek9oeXFRRms4Z3lNanpWR2RZSWJxZmtwZGNPdU03SWR6ejYzaWtlZmZLUnNhQVYxZ2JjZ0lkVFIxRGxfZ2xwSFZUdDJfZzV2cHZNZ2ltdmJ2Qk1ZRTZzUHJpNzRkamYyYWJzTWZkZHhJSWo0SWZfUFFJSlE?oc=5",
     "news_image": "",
     "news_source": "www.rba.gov.au",
     "news_age": "76726h ago",
     "news_columns": [
-      "fifa_ranking",
       "olympic"
     ],
     "bottom50_wealth": 5.0,
@@ -8015,16 +8014,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.86,
+    "news_score": 1.7,
     "news_title": "Why Volkswagen wants to sell its China-made cars to the world - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVNHZGc4cjNNd2tPT3UwUU13OVlxY045aTl3Uk1iVXhSQmxHbkhwSUptSUFPTmxhS213NDlJTm03Z1BUaktpSW1LcWVMTS1HelZFci1uZDAxSWFUQ05EX0F0VzFqd3dpTURHSjhvUmZ4UzdIZTI3bUd5TXVfeEVmRUR1WlU?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
-    "news_age": "70m ago",
+    "news_age": "72m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13031,14 +13028,13 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.82,
+    "news_score": 0.83,
     "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
       "olympic"
     ],
     "bottom50_wealth": 3.8,
@@ -14072,8 +14068,9 @@
     "news_source": "Vietnam.vn",
     "news_age": "26h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "car_density",
+      "gas_price",
+      "co2"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -17396,14 +17393,13 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.94,
+    "news_score": 2.16,
     "news_title": "World in brief: FBI looks into Huang affair; Trump says Iran war is “effectively over” - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmFYNWY2ZFRnNGZsQzFBZTZJZ1B3ZWliYmQyUlFaU2ZjWGhDcEpYVWFfeG45Y0JCZW9TQ20wR1VEazd1clJXeDFzT1B4VHBlaXAwZGNSRVFMSUxyNzhzU2k2V0tBZE83OUlWX0ZiMVNMRHBGTTF4SW15bE1VcFkyZTVuVF9vUjIzbkxjSXpyS3EyMVJBVkww?oc=5",
     "news_image": "",
     "news_source": "The Economist",
-    "news_age": "2m ago",
+    "news_age": "4m ago",
     "news_columns": [
-      "fifa_ranking",
       "olympic"
     ],
     "bottom50_wealth": null
@@ -18766,12 +18762,12 @@
     "union_rate": 74.0,
     "union_rate_rank": null,
     "fifa_w_rank": 39,
-    "news_score": 0.79,
+    "news_score": 0.78,
     "news_title": "💪​ Tricolor attack arrives at camp with Jamaica in mind - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMF96YndXZ3JJaS00S3BVSkJrTXRmU3lMRHZmQmVzdXhkbkNtQjBaSEw3UDZZU0dHLV91M2Y4SzZjWDNLRXRDQ2RBMXlyeVhINnFvOGo0UEt0S0dFRzVDV241b2h0N1VId2NoOWRTaVpHSXRkaUhDV0JpeWJqN09kdzd5blNiekFVc043QUNn?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "59m ago",
+    "news_age": "61m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -19259,7 +19255,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.49,
+    "news_score": 0.48,
     "news_title": "Expanding cooperation with Japan in human resource training, science, and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU0FweTFnd2ZWSW9XQVpzOE14YTlqYXJNNEwxOXFvR3JTdlE4cmlMYUt5MnJvMDJpdkM5NGlTUENpWVY3bDQwRU10ZlUzbE01VG4tV3U0c0szQ0xHVDdQY1Mtc0djUEk1V2kxamhMVnhRZnRyemtTdHFoUHJuNUZCMDUxLUNKbnlHdmdvbThsWXpXN3BWWUlhNXMtc21MaUps?oc=5",
     "news_image": "",
@@ -19447,12 +19443,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 1.26,
+    "news_score": 1.27,
     "news_title": "NFL Week 9 All-Stars: Jordan Love Makes The Cut, But Do His Packers WRs Join Him? - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYUlqODBzTVFNQUdNa05SN0xabzhqalNXWUZYLUViSlAtWWc0SDh3SE9SMEN5cEdPRndjMlZtZVREV0M0YzJoNlBlbXAtZ002WHhvRkE4NWtFWm4tN0YxNU5kbF9UYWNHMlkyWjRWUlllZm5sTHNzeFdodnNTMWd5cWJpQll3S2hBTXFRck44eVZsWnRfcFF4Zm12N0Z0cmo3T3FsMjlFb0U3SzlzckJNY2NGNHhOc1pCNHNWMdIBvAFBVV95cUxPdDl2dmR0MmFidDVaajdINkZUQU5aTFBrUDN2R2lYaWRxMTJVcnB3QW82d1lqOGF5SWlKUmVtc2haTVVMNHBqa0QwTV82QUhUOGJHMGY1YXB1Z3VDdDAxbG9VLUNzbVZoTlBPV2I1bEo1aUREU203Z1FpVndYZzFCU2h3djNPcWl3VUMtWHZySEtrMXg3bXp2LUlCUVU2WjlJWU5sM0tKaWt2cW5PYmQwTDVweUpoMlBRTEFTTw?oc=5",
     "news_image": "",
     "news_source": "FOX Sports",
-    "news_age": "73m ago",
+    "news_age": "75m ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -31666,7 +31662,7 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.23,
+    "news_score": 0.25,
     "news_title": "Poland’s Political Divisions Puncture Its Influence on World Stage - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZkVPSnVPV3ZVcGdRdGgxN1JDV3BWSk51WnZLcjEwZ3JVSFFabEdBZmR6TktQZ2I2UFRtRkI4QUlhMnRldzg1YUNxQUI3TTlWc2ZTRk9mdXRpUThvcENvSmxzUDQ1LWFaTjNtb3VLdW0zSEcyd1VLc0xPS2gtQTdoRjY3VmV0VkxjeEtzVS03ZE5zMS04c0FyN1NFOGhnbXh0QlJPdkkwZk9JVW8?oc=5",
     "news_image": "",
@@ -33135,7 +33131,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.27,
+    "news_score": 0.34,
     "news_title": "U.S. demands a seat for Europe at Ukraine peace talks - POLITICO.eu",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2l3RHlLam9ic184VDI1cDlhbUdQY2dZN2JXNGRJaEpUc3pWYnZEZWJDYm1rOVVfVWg2OWgxbTZIbnZDT1RDWXpzcXliaHlheWNnc2pPeFhDR05ocTNsZjlkYjlyM2ZURUcxTFk5NzktTVY3YUdfR0hneFNfUmp2US12YVVZQ2NZQ3pySHRnOWMteTlSRl9BZWRnaElVU0NueTFV?oc=5",
     "news_image": "",
@@ -34992,7 +34988,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTVNWQURONnBIQVNhUVZTX21WR1lnMndQLTZ1OFR1bE9hd2RIdFZIM3lDdzZpNGIteUZyRGxCb0RqbzBmUm52SUFyZEZMd3VoSV9lTzd2bHl5a25ZOE93OW1wb1ZhYm5ybXZ2YUdhdlp5LXlqNDgwYm85OC1XOUliNjZJYUhsdmVkRWxwN2hEcFhxb1p6ejc4dkpwelNYQQ?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "84m ago",
+    "news_age": "86m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -39110,7 +39106,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGVtZ3doQjU2ZVhQX1A0OExXTHpXb3lDbDdaZXNTdWVvRl9fTUlCcEZnUm1DVUNkRXljVFZra0NfcEhpbmhmc2VIWmZEUzdMLWs5RWdkNHF1cEpEV1BxTzVNTEJTdklCQkxqY3AtLXJ3VHpEQWRvempHNURZSC03VWpkajF1NE00ME9CclhmQnhVR3NGTzM5Q3dxSXo1cURiRjNVZVUxZHdaOE9hLUx3cGdNVWUxT2tk?oc=5",
     "news_image": "",
     "news_source": "LSUsports.net",
-    "news_age": "11h ago",
+    "news_age": "12h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -40303,7 +40299,7 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.26,
+    "news_score": 0.21,
     "news_title": "Turkey hosts world climate summit, but some critics accuse it of 'greenwashing' - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEdZWldiV1pQbnZTWE1LX0NtaXl6c0tyTXZkTk9WcHczLXZINmM3WjdMdEszd3FGWERyZmhQVG9zZE55N0pKemtMOVFMWlE4QUFEZzZfaUtPVkJnZGVSUG9NNzNtTXVoUVlTT1FNaTc1NnJwZEFoRENWSlI1X2xGUjVTTXBpblR2M2s2SllZeGxIWWl1SFBHcHYyZmVxbEZCcFVyZ0c2bTJ6LWhqZF9wY0xyMDdsTlpqcDRLQm1R?oc=5",
     "news_image": "",
@@ -41265,7 +41261,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.27,
+    "news_score": 0.34,
     "news_title": "U.S. demands a seat for Europe at Ukraine peace talks - POLITICO.eu",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2l3RHlLam9ic184VDI1cDlhbUdQY2dZN2JXNGRJaEpUc3pWYnZEZWJDYm1rOVVfVWg2OWgxbTZIbnZDT1RDWXpzcXliaHlheWNnc2pPeFhDR05ocTNsZjlkYjlyM2ZURUcxTFk5NzktTVY3YUdfR0hneFNfUmp2US12YVVZQ2NZQ3pySHRnOWMteTlSRl9BZWRnaElVU0NueTFV?oc=5",
     "news_image": "",
@@ -42543,12 +42539,12 @@
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFdnMTRSWTBfRkRWWE9uOUpRREZFcmxNMFoxb3pjSVZPRlg0ZHoteXRUUFRWOGFDNmpsb3VzR0ZxNlNXVUNNQzVSSmI4dUxQbkw1cDZnRlNTVGtJajNkdGRxdFAxWlVmZXdfc0hnN3hKekxaQ0FiMEtYZ3RLMklpazgtSUEzM1diZ3REdkktREpidnZHS21wUFhhNzJCdmvSAbMBQVVfeXFMUERNY2c0Y1d0STJJZk1Cc3FxV3lYYndDSG1FWXNTeWhYbmNtSkZVcmFDVDk5LXlXTGN6QU9HY3FnM0dOMFpjVjVnMExkdXV5RmhvakN5RFlRbjZka3BzcElmczBsQzItWHhpMjJCNkdTY3c5TDR5WmFNRWxnVVl2U1prb2RtOFBIem5aVVlUbzI4SW1NY2V0a3pwSUxRS0FmQkRLSi1sbkw3eUl1ODlEZnpDdTA?oc=5",
     "news_image": "",
     "news_source": "Fox 10 News",
-    "news_age": "87m ago",
+    "news_age": "89m ago",
     "news_columns": [
-      "basket",
       "fifa_ranking",
+      "fifa_w",
       "olympic",
-      "fifa_w"
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43751,7 +43747,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.97,
+    "news_score": 0.96,
     "news_title": "The budget for science and technology is projected to reach 120,000 billion VND in 2027. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSk0yNVBEU3d1OEo4ZEpSMHVvVDlCOGtzcUZKVnFNemhtNUswMVFVTDhZN0xNUWtZdUJ1UUdOSGVOSkFtdzVGVlhxTVI3SnJNM0FzWU1SN2pvM1BLTVpGNUpidTloMkRLakZram1NREVGTjdfZndFWXpOZFlXaDh6ZHp2TGJIOWNNLVFmQVJqamRmcnc3UDVCbFZ3cw?oc=5",
     "news_image": "",
