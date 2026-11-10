@@ -1927,7 +1927,7 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.37,
+    "news_score": 0.36,
     "news_title": "Pope urges Argentina to protect the vulnerable from Milei’s austerity measures - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeVRYYVFlTmhzSWxTS2N2VjJUX0kwVzBDVTZhSlpqTzFmUUFIUDZhdV9kX0ZtLXVpX3ZtcUV5dGNyQ1lXWURvWTZGYmhkaVNES1Y2dzRDcE0zN1hwazI4bFo1MzhSNHRBTGZRR3RSLUVYX2g5Q3RaQ3ozenp6MGg3MnhxQ0xTdnp5QnFiNUlmU0FvWFEtQS1WTjZXZjJYTUllSnFPTG85dGxubmNCZ0xEd1lB?oc=5",
     "news_image": "",
@@ -8021,7 +8021,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.11,
+    "news_score": 0.1,
     "news_title": "Xi Jinping’s plan for a China-centric world order - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0h5Rk8wZGVqdVJvd2RhYlZpWVpIYTVuWi1CcHduNGdDdmhKZlN6TkllYk9fN2pNT2lDR09xd3FLWEtDVVcyX01ZaThJanFqelQ2ZnN6RXRKQmQ2MzEyejF4SFYyWEs1ZFF5NGZfcWl0NVlDTU1XNVFJWDJ5a093ZUlQdE0wOFRNNnZhMl9PVUJMTlFkR2c?oc=5",
     "news_image": "",
@@ -13036,15 +13036,17 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.33,
-    "news_title": "France accuses Iran of supermarket fridge hacking - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzeFI0SDNQMm9ieHFIWGNtSFV6cEliY0dwOUhXNE9NODFkSTZKUktramxLV0ZHS1BaN3RZX1pTWEtsNmZxSVlBQTNfN2I0Rlk4NTlCdnRnUElYbUE?oc=5",
+    "news_score": 0.35,
+    "news_title": "France accuses Iran of cyber 'sabotage' in fridge attacks - NPR",
+    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeUplTVAyd1RlSTdLeEpNTmVTVjAtM0t4anNTMDg4ZEFTWHB5WndSVmV6WnRoWW1rT2JzaDFkZDA3ckJiUkQ5MGZSaFZERE92M1FPUlVnVVpFUnZhOEszME5DWl8yNW9rZGpBVDJxRVdQd3dLZzhSQmlnRUxybl9qZnlUOV94ZjVnT3UwSw?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "5h ago",
+    "news_source": "NPR",
+    "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17402,17 +17404,17 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.3,
-    "news_title": "France accuses Iran of supermarket fridge hacking - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzeFI0SDNQMm9ieHFIWGNtSFV6cEliY0dwOUhXNE9NODFkSTZKUktramxLV0ZHS1BaN3RZX1pTWEtsNmZxSVlBQTNfN2I0Rlk4NTlCdnRnUElYbUE?oc=5",
+    "news_score": 0.4,
+    "news_title": "France accuses Iran of cyber 'sabotage' in fridge attacks - NPR",
+    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeUplTVAyd1RlSTdLeEpNTmVTVjAtM0t4anNTMDg4ZEFTWHB5WndSVmV6WnRoWW1rT2JzaDFkZDA3ckJiUkQ5MGZSaFZERE92M1FPUlVnVVpFUnZhOEszME5DWl8yNW9rZGpBVDJxRVdQd3dLZzhSQmlnRUxybl9qZnlUOV94ZjVnT3UwSw?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "5h ago",
+    "news_source": "NPR",
+    "news_age": "3h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -19268,12 +19270,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.77,
+    "news_score": 0.76,
     "news_title": "Japan can tell the world what really matters when prepping - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMmFSalo3M19EMnU0eGJmYXI3d0ZuNmUzeDQxa2k2QTRHM1kxbzVOV2tjaWpveTBtN3FTbWxFNWFYNHhUbHBHRFl5Mm50QVdmNmFqSEdpLXROc2lmTnVyUjhBLUZmYjlDY0pnWkc3eUMzRUdCQ3ZFZWhScTl3U2ZiUlpEWnQ?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
-    "news_age": "70m ago",
+    "news_age": "72m ago",
     "news_columns": [
       "nfl",
       "football"
@@ -19453,7 +19455,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 1.18,
+    "news_score": 1.12,
     "news_title": "Who won Jordan Davis trade? Grading Jaguars, Eagles in deal - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMDUteVNaQkxlQUJHTkR3U3dPVWRua0xKYlJERGdDa0hENjU2OG9ISnZsSXdINnh3b3h1eXphbFRDQUNLbXRIc0ticXJZbHpvZXhsLVJ1bzNzUUpPMEZ3c2t4UV9vdUthRUU2M09lNXJJdEpDQ3plS2NiZThYZl9TR2FrdFZGQQ?oc=5",
     "news_image": "",
@@ -26142,7 +26144,7 @@
     "union_rate": 79.1,
     "union_rate_rank": null,
     "fifa_w_rank": 112,
-    "news_score": 0.25,
+    "news_score": 0.24,
     "news_title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates - UN News",
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SdVpvLTl3Qi01N0RVTWxpRXZJdkg4ODlRa2NIRmZDWXlreTYzc3Fac3NMWTh2NFlwMS1POVlaTVVlUWVxbF9tUmI1OGxEQWdsektXdE1UQQ?oc=5",
     "news_image": "",
@@ -31677,7 +31679,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlNIYWhOQzdvWjlnaU53QlVSZEhEMnYzZU5Zd2Z0TlFJVVQyeW5RSnRXN3ZhUDdFTE01Ym1jWEdEZ2szYVBmdk5YNWZaQl9lLVBEUkw5SWtLc1ZQMWRPekJqeFdJbGVJX2IybnljdThJQVFqYWluNll4WVBEOUtqVlYzQWNTVi1CYUdobE9WcUdBc1dGMFlqLU1ON0lzbzA?oc=5",
     "news_image": "",
     "news_source": "NBC News",
-    "news_age": "12h ago",
+    "news_age": "13h ago",
     "news_columns": [
       "doctors",
       "beds",
@@ -40315,14 +40317,17 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.48,
+    "news_score": 0.45,
     "news_title": "Turkey hosts world climate summit, but some critics accuse it of 'greenwashing' - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEdZWldiV1pQbnZTWE1LX0NtaXl6c0tyTXZkTk9WcHczLXZINmM3WjdMdEszd3FGWERyZmhQVG9zZE55N0pKemtMOVFMWlE4QUFEZzZfaUtPVkJnZGVSUG9NNzNtTXVoUVlTT1FNaTc1NnJwZEFoRENWSlI1X2xGUjVTTXBpblR2M2s2SllZeGxIWWl1SFBHcHYyZmVxbEZCcFVyZ0c2bTJ6LWhqZF9wY0xyMDdsTlpqcDRLQm1R?oc=5",
     "news_image": "",
     "news_source": "NPR",
     "news_age": "3h ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -42556,8 +42561,8 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "basket",
-      "olympic"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -44290,7 +44295,7 @@
     "union_rate": 34.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 119,
-    "news_score": 0.25,
+    "news_score": 0.24,
     "news_title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates - UN News",
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SdVpvLTl3Qi01N0RVTWxpRXZJdkg4ODlRa2NIRmZDWXlreTYzc3Fac3NMWTh2NFlwMS1POVlaTVVlUWVxbF9tUmI1OGxEQWdsektXdE1UQQ?oc=5",
     "news_image": "",
