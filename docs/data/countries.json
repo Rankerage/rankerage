@@ -2555,15 +2555,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.58,
+    "news_score": 0.71,
     "news_title": "Cricket Australia rules out reopening ‘Sandpapergate’ inquiry despite Khawaja claims - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTjU0TlhaVDFFeXFsUXVQeFlkNml1elYwRjlBVm4tOTBWU1h0LXlBbGVMY1N4MlQ5aUdjbENIaFg5VUUtZm5HQ1lKeE9QT21JbVRsQTBNck11SDhlOEZQbjNEdzlMQVNrZG95Z2tFdzRaLVZCdmhaUU9ITUdtOWN0MUpac2lHbkwxM1FWcHM5dlFPZmJJT2R5YWZNSnc?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "63m ago",
+    "news_age": "65m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -5586,7 +5586,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOVp6VkllWVRuc3Y5Q3pCNzY3MFBNNDl5bGdHbmljZE1ZVVRTSy1kN1h2NFpUSjNTOXplaEhuTHFmUmEyTDc0empWcjc5TG1ZS1BBNGNVUFhBWWlhYnc3cGFtUC1kWXVUTjdNUi11NS1xUWpnNHJBQ2RjZjFsN0YwVE56bUlxYlgtUWJBNjBKVnVvZ1c3WGgwTEVXcGZqM3lqNjZhYy1FVk1ZS2NvZUFwc0NKUlc?oc=5",
     "news_image": "",
     "news_source": "SeeNews",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -8016,12 +8016,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.67,
+    "news_score": 1.77,
     "news_title": "Opinion | Chinese investment in African manufacturing could change the world - South China Morning Post",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1l0aGFvN1EzeVNubWJTZWN5UE52QVRUWTVWWVJpNE84aFZTaTFuLWN1LWFmRUs3Wnc1WjlkZ2hNa1VlUXlCU1dKRXJ3SkNQRGhhSDVLZXFpY3pSQmZXSW5SMUx5N09qdVRaNUxZY01ZWUk1b3YtTUFTQXpCc3NCbTBVaUUyRTcxRnA1UlFYeE5WWDNfd1FHRE50RmRCd2xHc1liYndqRU1lV28xdXg0Rm5ia2p4QVFSekHSAboBQVVfeXFMTzRsNlVHUE1hajVJMU40UnUwd0s4ME1oSDNtT01ENnBjaDFZUkRHanNPUnlTZDlTZWZUbllHS0p4c3prWnpCYnZqMmJoOW5aMzllUWpBRVZGVnVlN0UzUk44VjctaklaOVNZX0pjMkVtcE9KTGtzQkNzTnNHaDNyc1JnampZTGs0cjhLRWRudjc0QTFycV85UVlaczFpZUlsczh3aHVJd3N3V29rN05kVDRTLV9Ha0h6X3Nn?oc=5",
     "news_image": "",
     "news_source": "South China Morning Post",
-    "news_age": "31m ago",
+    "news_age": "33m ago",
     "news_columns": [
       "fifa_ranking",
       "basket"
@@ -13031,15 +13031,17 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.68,
+    "news_score": 0.41,
     "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -16819,7 +16821,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.17,
+    "news_score": 0.16,
     "news_title": "From movies to medical science: Polarised glasses tech finds groundbreaking new calling in India - The New Indian Express",
     "news_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUEdCcTEwVVRfdXgyeUlpWXZLRFpBOUpyRlIxNWNCVTd1RnFtZFg3UGRsX0xDMnFHLXVUUjBXWTNaZFVyQXJSLWpXaGdjUmJ5cE1FY2tIdGJacXpTN1ZpWWdRbkp4QkxWMWVGeF9DSDJJMmdmOW9QMHRzOTlWdC1sRnhrVU1YbmF3d3MwOUZmdnFrbUpFdURCa2N0NERJWm1JMzB6QkJHUkdORmRIZkJpWWs5QXFHMFdJeXhIdWFLR1FCTUtnUUx3bTJGMzFZcGFxeDh3S3k5RS1ZNFljanV5SllrSVZVTTBEUXfSAfcBQVVfeXFMTlhIX1I4MGJ2cWdfbnhYbmFFaDNOdXlVcGQ4ZUNFdzI4VHdHTzc4ZHNydk15Wk5NTW1TemJwMHUxMXRia1lzbUJSbXFvUkZmUUxfOG5Fc2dZbk1KUGhnaVcyeTNxNjNvNWNjTHpIWHJ3TjgzVm5adW5BM0NuMWNOQl9oSVkxZmFpdTRjZ2wtMkdESkRKeXNPclFuN2RLYUxjVkZvQU5pRUtxYVVRT0dXMDlaQldKTlFyUF9XNEpnc2NBSEg4MWlGd3BDNGxfaF9SY3dpMFpuRmFiSGNkblFXdGdzbEFKYWJBdjBsU1hpQUVkaHpyV0lROA?oc=5",
     "news_image": "",
@@ -17394,12 +17396,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.64,
+    "news_score": 1.81,
     "news_title": "Hegseth impeachment effort begins in House, focused on Iran war - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlZ2Z0szYjlfTTBaZndNSUJHY0lLNlVGVDVpb2N2a3BTX09WR2U1cjVpWHZvNEdfQm4xLVFRM3cycmdrazk3Q25Gc05YSkgtOGF5eDROb2NfcTVZRG5yRE5hZVRKQ19XQk1INzdrTTVGZDBCbmpDOXU5NEJESHE5NHNCNGkwMUJSZVBPamlZc0M2MU9Ibng4dVJ5YjdZaE93MUd0SWtGZEt2ZHZndmpvRDZIbFROZjFJ?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "2h ago",
+    "news_age": "79m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -31664,12 +31666,12 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.61,
     "news_title": "Poland’s Political Divisions Puncture Its Influence on World Stage - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZkVPSnVPV3ZVcGdRdGgxN1JDV3BWSk51WnZLcjEwZ3JVSFFabEdBZmR6TktQZ2I2UFRtRkI4QUlhMnRldzg1YUNxQUI3TTlWc2ZTRk9mdXRpUThvcENvSmxzUDQ1LWFaTjNtb3VLdW0zSEcyd1VLc0xPS2gtQTdoRjY3VmV0VkxjeEtzVS03ZE5zMS04c0FyN1NFOGhnbXh0QlJPdkkwZk9JVW8?oc=5",
     "news_image": "",
     "news_source": "WSJ",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
       "politics",
       "conflict"
@@ -32338,12 +32340,12 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.12,
-    "news_title": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily - Al Jazeera",
-    "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk10al9Za09KSVdSOEJFak01MEtXS0I0bHg2Q2wzSmUzSDlEVlpObU41Mjg0aUZhQU5zR1NIbzdTMHJLV1FDbEk5WExHLUF0aUlHVU9CSlpEMXozNVFzSm5PTm4zekxYVmR6YlZLYUtHVUEzREp3UEIzSW1NTksyMWJXZTFiWTRvNW5oSGtQOVY3ZW1uOHdNYXJuWUtnWmhkVTRQWEsxRdIBrAFBVV95cUxOeDVLZnJwdDZ1b2dWamRIanBpZXUtQXE1dVhQeXVmY0haLVRFUDFwa2Zicl9FQTEyUXhFaE40dldBQmR1amhrSkFqd2U3Z1d4RXhSZ1VFTGpmeHpMNERLc2syWFZYLVk3aGtvQk5WZFRYWlRLODE3NEs4UGF4amM2ZEVFSmZJcElHaEpQSlJ2Z2ZsTFh4TUhhb3BqblV2ZHBHaTRPWXNpcDJMeTdG?oc=5",
+    "news_score": 0.29,
+    "news_title": "Trump says he’s keeping ‘status quo’ with Iran, with no need for new strikes - The Washington Post",
+    "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZENobzk1VURRa2N5VkZGWHBnaHllTVoyNk9aTEJEU3p3bWU2ZFNOVmNCcHpkVGctVklLb18ya3piM2dfTkhKNHJjWGlDMzJyWnVGNnZFOEQ5Sy1NbGlEUE0xNmZzeUNYMjhXcWt1SXFTS0QtMHpkbjFwanRlNFRxYXZOQk5HSmpnc0kyWXVvb1BUQnVzQ01DQ1lZZVRMOTNfeTY4ZGhKckZKb1FwYUxYYUF3?oc=5",
     "news_image": "",
-    "news_source": "Al Jazeera",
-    "news_age": "7h ago",
+    "news_source": "The Washington Post",
+    "news_age": "82m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -42537,7 +42539,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.46,
+    "news_score": 0.45,
     "news_title": "United States Sports University holds sports artist of the year event - Fox 10 News",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFdnMTRSWTBfRkRWWE9uOUpRREZFcmxNMFoxb3pjSVZPRlg0ZHoteXRUUFRWOGFDNmpsb3VzR0ZxNlNXVUNNQzVSSmI4dUxQbkw1cDZnRlNTVGtJajNkdGRxdFAxWlVmZXdfc0hnN3hKekxaQ0FiMEtYZ3RLMklpazgtSUEzM1diZ3REdkktREpidnZHS21wUFhhNzJCdmvSAbMBQVVfeXFMUERNY2c0Y1d0STJJZk1Cc3FxV3lYYndDSG1FWXNTeWhYbmNtSkZVcmFDVDk5LXlXTGN6QU9HY3FnM0dOMFpjVjVnMExkdXV5RmhvakN5RFlRbjZka3BzcElmczBsQzItWHhpMjJCNkdTY3c5TDR5WmFNRWxnVVl2U1prb2RtOFBIem5aVVlUbzI4SW1NY2V0a3pwSUxRS0FmQkRLSi1sbkw3eUl1ODlEZnpDdTA?oc=5",
     "news_image": "",
@@ -42546,8 +42548,7 @@
     "news_columns": [
       "fifa_ranking",
       "olympic",
-      "basket",
-      "fifa_w"
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43463,7 +43464,7 @@
     "union_rate": 56.6,
     "union_rate_rank": null,
     "fifa_w_rank": 40,
-    "news_score": 0.03,
+    "news_score": 0.0,
     "news_title": "Exxon Takes First Step Toward Investing in Venezuela - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWW9IY0xQOGQtXzBTdnMxdUlXelVuT1NYMHNQcXRaNXdmYTMxZ2FtVTVxa0tQVWthNVFxdUNjUUczS0JZQUpuQ2kxZmswYml1VEItMkpvQmNBdXlHUWo2cGxlRy1TZ2RiOG9iSVNiWkhkN3JRWHpMVURUeUZfTnhFMC0zNnhoY045Wm4zbWx1elFaYTByWjJVYXBPclI5alAzZmpN?oc=5",
     "news_image": "",
@@ -43755,7 +43756,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONnJtVlpqWjlIQ2hHbXFDanotRVpTbWRfWUhueXZkSnROT29KU3Zvd3E1Y283ekp4cDl6UmsyOHVHdHFQQ0EzdTNoUG1mTWd1cDJQOUtCUlROc2s4RkEwek54NFN0bXo2dWtQNExfeDBRREJXYjIxbkhRQTJYSTZqMU03Q2lHa0hXd2I0Q0Z1bUJtVG1rNmJhVF9JSlRXVjV1a1JZc1RzVUQ0Z1J0UkhIT3Rhc1FKU3p0NTlsQXl1TDJqMjNMNENiSThZd21tdw?oc=5",
     "news_image": "",
     "news_source": "Laodong.vn",
-    "news_age": "93m ago",
+    "news_age": "95m ago",
     "news_columns": [
       "car_density",
       "gas_price",
