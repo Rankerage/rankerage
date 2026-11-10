@@ -2556,7 +2556,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.1,
+    "news_score": 0.08,
     "news_title": "Australia and the Global Economy – The Terms of Trade Boom | Explainer | Education - www.rba.gov.au",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbi1LWXdGcTlnVU15dHJtY2VrMHRSQkUzLWpLek9oeXFRRms4Z3lNanpWR2RZSWJxZmtwZGNPdU03SWR6ejYzaWtlZmZLUnNhQVYxZ2JjZ0lkVFIxRGxfZ2xwSFZUdDJfZzV2cHZNZ2ltdmJ2Qk1ZRTZzUHJpNzRkamYyYWJzTWZkZHhJSWo0SWZfUFFJSlE?oc=5",
     "news_image": "",
@@ -6942,16 +6942,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.71,
+    "news_score": 1.33,
     "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "24m ago",
+    "news_age": "26m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic",
-      "basket"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
+      "internet_pct",
+      "netspeed"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -13029,15 +13032,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.25,
+    "news_score": 1.23,
     "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "24m ago",
+    "news_age": "26m ago",
     "news_columns": [
-      "geopolitics",
-      "security"
+      "cyber_security",
+      "geopolitics"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -16820,12 +16823,12 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.7,
+    "news_score": 0.69,
     "news_title": "From movies to medical science: Polarised glasses tech finds groundbreaking new calling in India - The New Indian Express",
     "news_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUEdCcTEwVVRfdXgyeUlpWXZLRFpBOUpyRlIxNWNCVTd1RnFtZFg3UGRsX0xDMnFHLXVUUjBXWTNaZFVyQXJSLWpXaGdjUmJ5cE1FY2tIdGJacXpTN1ZpWWdRbkp4QkxWMWVGeF9DSDJJMmdmOW9QMHRzOTlWdC1sRnhrVU1YbmF3d3MwOUZmdnFrbUpFdURCa2N0NERJWm1JMzB6QkJHUkdORmRIZkJpWWs5QXFHMFdJeXhIdWFLR1FCTUtnUUx3bTJGMzFZcGFxeDh3S3k5RS1ZNFljanV5SllrSVZVTTBEUXfSAfcBQVVfeXFMTlhIX1I4MGJ2cWdfbnhYbmFFaDNOdXlVcGQ4ZUNFdzI4VHdHTzc4ZHNydk15Wk5NTW1TemJwMHUxMXRia1lzbUJSbXFvUkZmUUxfOG5Fc2dZbk1KUGhnaVcyeTNxNjNvNWNjTHpIWHJ3TjgzVm5adW5BM0NuMWNOQl9oSVkxZmFpdTRjZ2wtMkdESkRKeXNPclFuN2RLYUxjVkZvQU5pRUtxYVVRT0dXMDlaQldKTlFyUF9XNEpnc2NBSEg4MWlGd3BDNGxfaF9SY3dpMFpuRmFiSGNkblFXdGdzbEFKYWJBdjBsU1hpQUVkaHpyV0lROA?oc=5",
     "news_image": "",
     "news_source": "The New Indian Express",
-    "news_age": "86m ago",
+    "news_age": "88m ago",
     "news_columns": [
       "doctors",
       "beds",
@@ -17395,15 +17398,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.92,
+    "news_score": 1.86,
     "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "24m ago",
+    "news_age": "26m ago",
     "news_columns": [
+      "cyber_security",
       "geopolitics",
-      "security",
       "climate",
       "energy"
     ],
@@ -18128,7 +18131,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.0,
+    "news_score": 0.05,
     "news_title": "‘Curb your antisemitism’: Anti-Israel bike protesters met with Philly boos and humor - The Times of Israel",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUEJxUGNEOWszcW9nQmU3STkzSHlVY2FqUmVFQ19ncWw5QkdKVk80RjYwaTJReEFHdVJ1WG5fNkdFbGpNa19LS3psQ1FGY2pBT01OTWRkRy1zc09uTEQ0WEYxdG14RC1GdlRMbWluN2swWGxuVnRaWGVjeERCcEQ1TGU4aG1uMEU3V1hDZ0UzN3FfN0h0dTEyQktJeTZueFU1b0xBRHlqN1BHUEk5eHhGSVVB0gG3AUFVX3lxTE5Sd28yd0o4ZjRoM0VjaUV1MGYwNFVsSHhOWVVCdmNlMzF0SmFLbDhjcmR5S3hzRHppdUVUNTM2TVdUZVFpTTI4OUZ6cVF4ckdndXBtRzJnaE9yT0FDbDFFZm5XTW9NMUtiRVBxMEhhdkhIUlhKcjNrUFFMV3ptaWVjTHdxNkk5SlNnRmpiY2dNNGk5TEZ0OVpvWkk0OTV6eTl0NmhKSFNrS3JOX290dGJtcHhkTlJYbw?oc=5",
     "news_image": "",
@@ -18138,7 +18141,9 @@
       "democracy",
       "press",
       "gpi",
-      "polit_kill"
+      "polit_kill",
+      "car_density",
+      "gas_price"
     ],
     "bottom50_wealth": null
   },
@@ -19259,7 +19264,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.64,
+    "news_score": 0.71,
     "news_title": "Expanding cooperation with Japan in human resource training, science, and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU0FweTFnd2ZWSW9XQVpzOE14YTlqYXJNNEwxOXFvR3JTdlE4cmlMYUt5MnJvMDJpdkM5NGlTUENpWVY3bDQwRU10ZlUzbE01VG4tV3U0c0szQ0xHVDdQY1Mtc0djUEk1V2kxamhMVnhRZnRyemtTdHFoUHJuNUZCMDUxLUNKbnlHdmdvbThsWXpXN3BWWUlhNXMtc21MaUps?oc=5",
     "news_image": "",
@@ -19447,12 +19452,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 1.6,
+    "news_score": 1.68,
     "news_title": "Stephen Curry tries on former teammate Jordan Poole's sunglasses - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQclc0M1VYM2ZZdmRyQmZ3bElwb3VLYmdEeEpndEV0VTFENmlYNEJBR1Jnd2tiUXE1dnNzTEtJWUJZWEh5S0tFdHR4cTcxUkIzaElJV0dHM1BSRUhHWHBiQ3UtT2VXNGpwNE5KQkEwMk83RUMzWjU0MDhwR1lXOVZYRVVuT3VjOWR0MTNBNg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "53m ago",
+    "news_age": "55m ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -31111,7 +31116,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdVBIY3lmS2FxT2FJMVpKTnJEZG1qa1JIcGppVi1meGE0TlY4aGhLdGlRb00zQ0xzcHRnNzVOemhFWXNGQUVqSmJwcklRR1haV3laMFJOQmhQeWJWNG9pMUJwREVSYTVlZTdPYlpzNU1EQW15RHZnV2Rxc21oLTl1Y1ZsVFlSbWd0c1lub2tXN0RmemNoU3hPVjZ3NzQzZnAwU2NHc0RXYkRBV3RFNnhoN3pQTkIwUl9PLVAwd2xUZVFaQmh1Nk9pMmtSaENjSTVXdlBr?oc=5",
     "news_image": "",
     "news_source": "Facebook",
-    "news_age": "27m ago",
+    "news_age": "29m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -31666,15 +31671,15 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.58,
+    "news_score": 0.76,
     "news_title": "Poland’s Political Divisions Puncture Its Influence on World Stage - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZkVPSnVPV3ZVcGdRdGgxN1JDV3BWSk51WnZLcjEwZ3JVSFFabEdBZmR6TktQZ2I2UFRtRkI4QUlhMnRldzg1YUNxQUI3TTlWc2ZTRk9mdXRpUThvcENvSmxzUDQ1LWFaTjNtb3VLdW0zSEcyd1VLc0xPS2gtQTdoRjY3VmV0VkxjeEtzVS03ZE5zMS04c0FyN1NFOGhnbXh0QlJPdkkwZk9JVW8?oc=5",
     "news_image": "",
     "news_source": "WSJ",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "geopolitics",
+      "diplomacy"
     ],
     "bottom50_wealth": null
   },
@@ -33135,18 +33140,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.33,
+    "news_score": 0.42,
     "news_title": "White House cautiously upbeat about Russia-Ukraine peace talks this week - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSkNHc3NqUF9fbkxzbkdRMmZGOHlLTjhkZVBMV1ZnNTZNdF9SWG9VMWowOGdXM0NUVkdNUGpTV1RYWVJSQ2g4ckxoMzhZTldVazdqMHVpXzRjVHppY194S1VpYlV5WnA1R2RhUUEzek5QN2NVeFlqTWVKUERKTkxfdUZESGE?oc=5",
     "news_image": "",
     "news_source": "Axios",
     "news_age": "4h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "geopolitics",
+      "diplomacy"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -36732,7 +36734,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdVBIY3lmS2FxT2FJMVpKTnJEZG1qa1JIcGppVi1meGE0TlY4aGhLdGlRb00zQ0xzcHRnNzVOemhFWXNGQUVqSmJwcklRR1haV3laMFJOQmhQeWJWNG9pMUJwREVSYTVlZTdPYlpzNU1EQW15RHZnV2Rxc21oLTl1Y1ZsVFlSbWd0c1lub2tXN0RmemNoU3hPVjZ3NzQzZnAwU2NHc0RXYkRBV3RFNnhoN3pQTkIwUl9PLVAwd2xUZVFaQmh1Nk9pMmtSaENjSTVXdlBr?oc=5",
     "news_image": "",
     "news_source": "Facebook",
-    "news_age": "27m ago",
+    "news_age": "29m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -41266,18 +41268,15 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.32,
+    "news_score": 0.42,
     "news_title": "White House cautiously upbeat about Russia-Ukraine peace talks this week - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSkNHc3NqUF9fbkxzbkdRMmZGOHlLTjhkZVBMV1ZnNTZNdF9SWG9VMWowOGdXM0NUVkdNUGpTV1RYWVJSQ2g4ckxoMzhZTldVazdqMHVpXzRjVHppY194S1VpYlV5WnA1R2RhUUEzek5QN2NVeFlqTWVKUERKTkxfdUZESGE?oc=5",
     "news_image": "",
     "news_source": "Axios",
     "news_age": "4h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "geopolitics",
+      "diplomacy"
     ],
     "bottom50_wealth": null
   },
@@ -42546,13 +42545,13 @@
     "news_age": "2h ago",
     "news_columns": [
       "nfl",
-      "football",
+      "fantasy_football",
+      "ncaa_football",
+      "cfp_ranking",
+      "cyber_security",
       "geopolitics",
-      "security",
-      "politics",
-      "elections",
-      "fifa_ranking",
-      "olympic"
+      "diplomacy",
+      "climate"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43760,7 +43759,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM1RuMmZaTnlaY295TW1Kd3l5WUJ3RHBGSTlXeEZqRnJGUGItdUJOV3pzNHF1VUhrY1VnRmRsakVEZ2VFeFdhMk8tcnRJY05uV1FfdGdVN3ZETGxjTC1DRjF2UEk4bVQ0Q1N1Y0Q4OFlfaDdKWUhTZkZvQ0dLVTA3ODVsZXdVVDk3eDRab3VzMGNOZ2lCMFBkUUpfTnBVUElGeGc5M3pvMmZNRy1RelRRbEJOdmxQdW5QYVYw?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "102m ago",
+    "news_age": "104m ago",
     "news_columns": [
       "car_density",
       "gas_price",
