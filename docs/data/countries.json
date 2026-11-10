@@ -1927,7 +1927,7 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.21,
+    "news_score": 0.22,
     "news_title": "Pope urges Argentina to protect the vulnerable from Milei’s austerity measures - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeVRYYVFlTmhzSWxTS2N2VjJUX0kwVzBDVTZhSlpqTzFmUUFIUDZhdV9kX0ZtLXVpX3ZtcUV5dGNyQ1lXWURvWTZGYmhkaVNES1Y2dzRDcE0zN1hwazI4bFo1MzhSNHRBTGZRR3RSLUVYX2g5Q3RaQ3ozenp6MGg3MnhxQ0xTdnp5QnFiNUlmU0FvWFEtQS1WTjZXZjJYTUllSnFPTG85dGxubmNCZ0xEd1lB?oc=5",
     "news_image": "",
@@ -2561,9 +2561,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb3hYUUNRWUNUTG5MY3RhcktNNUIydndmUFdER2V6MXRXb1JQbG5CQkY3NkU5M0c3MjU3bENFRW16VEUxV3dZandlQUdFUmpsYkFFMjJJb1hnOUdVd19QQjk4VEdIVjBfM1hOamJJaFd3RFgtQ2RYOGJxOXc5MDM3eDhSUXM2V2JKeExrYklqaS1CMEo1blF4V0JCVl90QnlSVmR3ekozYU5ZYm9kX2E3QUFQUFdZMkNVaE1BR3dGYzZFOEdJT3hmcVNNR0R1OEN6UXdVZnpSUHpEQ1l3OW40?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "58m ago",
+    "news_age": "60m ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -6941,12 +6942,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.37,
+    "news_score": 1.38,
     "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "35m ago",
+    "news_age": "37m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -8021,6 +8022,7 @@
     "news_source": "The Economist",
     "news_age": "9h ago",
     "news_columns": [
+      "basket",
       "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
@@ -13033,9 +13035,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "35m ago",
+    "news_age": "37m ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13557,12 +13560,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.0,
-    "news_title": "2026 College Football Rankings: Georgia Reclaims No. 1 As Notre Dame Beats Miami - FOX Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONjlCM1JtMXB1WjgzaEN2ZDBKTE83Smhrd1d6aDhfcHlHekdhaklkRjZXbFc1OXBTTFlfZkw5N1ZIR3hPUkUyZlR2c2xzMEdQdWpkVHJNNWRPRmQ1SUNUWTVJR1F4WDViaTRUWHN5eE9SZTA4TTNuR1gwYUNQYUowS19LWnp5YnhDM1ZFdEtVYzNaWjFlUS14VEtXREZxV0JRYm1IaXZ6Z3hrSlp6dlpGWXNEQ0vSAbQBQVVfeXFMTnRyVXk5THAwa2dkZEVQbzNqcFZZRjhUbkdfWm1uS0ZRWXlYcG41RFJmSkxwQ1NfWUxQMG9sSXZpLTFDemdQYWpubGJCRHJsamFFbDFXRTNMZ3h6dnNaV2FocmsyeUFyVXVSS1NicVVqT054Z3Awa0R3XzBaRDJxYjV0dmwtWkI3bXRrV1VveGpFSTJEZUpmSlVXUmJaVTNpcUlDZEFDc1h0UWs4bGM1YU11YTBt?oc=5",
+    "news_score": 0.24,
+    "news_title": "College Football Playoff committee executive admits they don't care fans are against 24-team playoff - Fox News",
+    "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcVBIc2FLZVJDREtsRm9mVHJsTWdQNlluVjhmNFRTZGhsc1AxNlZxQmpiWXFLRUc2QkdOUThfclVVanEtRlF0NDdockRnNmJJakdfa1dsblZJNFdEYlJwZzEza0tZbnhiM1EtSUNVVzVEWmR1ZTdzR0dKZERvSHNqbmlCMUNsTnhZZWcxQXpONlQ1WUZvcWxCby0yNjRjMk5fNVVwQ2pXa25WSXlQVUVqLTFNb3Y4WURtYkRfd0NMRVJRYXAxcjQ3RA?oc=5",
     "news_image": "",
-    "news_source": "FOX Sports",
-    "news_age": "11h ago",
+    "news_source": "Fox News",
+    "news_age": "53m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -16818,12 +16821,12 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 1.34,
+    "news_score": 1.35,
     "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "35m ago",
+    "news_age": "37m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -17391,14 +17394,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 2.1,
+    "news_score": 2.09,
     "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "35m ago",
+    "news_age": "37m ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -19254,7 +19258,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.06,
+    "news_score": 0.05,
     "news_title": "Vietnam and Japan strengthen economic ties and cooperation in science and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcEFucnZ3RUVCOFRydGFqTWdGdTZxdGh3ZkNyVmdKRzRTRXFIbU9oTnFQcF9qSVlnMklpSXZ2RndWZVZTUUxPOGxXakViTHFGSkkzWDlxS0pRTjR3SmJZRi1IRGRpRGtLNGNmUWVJU1dmMzUyNlk3ZC1tczJVLXU1X01qQkxMLVJvRXMwX0NhUGFyUHdCSklQZkxfVkRNMTQ?oc=5",
     "news_image": "",
@@ -19439,7 +19443,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 1.18,
+    "news_score": 1.17,
     "news_title": "Eagles Updated Draft Capital Following The Jordan Davis Trade - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX0VPNkdrMjdLTC10N015Y3JnaFBkWGZUd3p0MHVGaHRQZlZ5M1lHVzcxOEphcnpLVmlETU9yRWlFVUZsQjhfWmhhQXdiQURIMFhjUEhzbXFzaDdsTC1NNHc5SElHTUJTZHpnWGFHN2tzbTJKSmhPa0h4Sy1Pb0RpTUlSeGpZMDNwZjAzYzBRVGhpRE5GZ1MzcExBTdIBmwFBVV95cUxOaG1qNmFoSlhGcGcwQTRIYjFoQzBvaUJ6dEROS1V5VkxKTm1HZ1VlOFQtdnpkY1E5aHBIYkdoV05HUkZiRjhHeGZpQkZxSmRSdFBHSDRpUDJSMmt6UGNkVmZrd19fMll1bjlDV084WVplNElzNU5aVXZtdmRpRTBucmg0RTZlUmhHTFZjX0ZHMGN6X1J5dWxhWDBlOA?oc=5",
     "news_image": "",
@@ -31658,12 +31662,12 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.72,
+    "news_score": 0.71,
     "news_title": "Poland’s Political Divisions Puncture Its Influence on World Stage - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZkVPSnVPV3ZVcGdRdGgxN1JDV3BWSk51WnZLcjEwZ3JVSFFabEdBZmR6TktQZ2I2UFRtRkI4QUlhMnRldzg1YUNxQUI3TTlWc2ZTRk9mdXRpUThvcENvSmxzUDQ1LWFaTjNtb3VLdW0zSEcyd1VLc0xPS2gtQTdoRjY3VmV0VkxjeEtzVS03ZE5zMS04c0FyN1NFOGhnbXh0QlJPdkkwZk9JVW8?oc=5",
     "news_image": "",
     "news_source": "WSJ",
-    "news_age": "79m ago",
+    "news_age": "81m ago",
     "news_columns": [
       "doctors",
       "beds",
@@ -33131,18 +33135,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.41,
+    "news_score": 0.54,
     "news_title": "White House cautiously upbeat about Russia-Ukraine peace talks this week - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSkNHc3NqUF9fbkxzbkdRMmZGOHlLTjhkZVBMV1ZnNTZNdF9SWG9VMWowOGdXM0NUVkdNUGpTV1RYWVJSQ2g4ckxoMzhZTldVazdqMHVpXzRjVHppY194S1VpYlV5WnA1R2RhUUEzek5QN2NVeFlqTWVKUERKTkxfdUZESGE?oc=5",
     "news_image": "",
     "news_source": "Axios",
     "news_age": "3h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking",
+      "olympic"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -39102,7 +39103,7 @@
     "refugees_rank": null,
     "union_rate": 75.8,
     "union_rate_rank": null,
-    "news_score": 0.08,
+    "news_score": 0.07,
     "news_title": "Three LSU Women's Golfers Competing In World University Championships In Thailand - LSUsports.net",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGVtZ3doQjU2ZVhQX1A0OExXTHpXb3lDbDdaZXNTdWVvRl9fTUlCcEZnUm1DVUNkRXljVFZra0NfcEhpbmhmc2VIWmZEUzdMLWs5RWdkNHF1cEpEV1BxTzVNTEJTdklCQkxqY3AtLXJ3VHpEQWRvempHNURZSC03VWpkajF1NE00ME9CclhmQnhVR3NGTzM5Q3dxSXo1cURiRjNVZVUxZHdaOE9hLUx3cGdNVWUxT2tk?oc=5",
     "news_image": "",
@@ -41262,18 +41263,15 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.41,
+    "news_score": 0.53,
     "news_title": "White House cautiously upbeat about Russia-Ukraine peace talks this week - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSkNHc3NqUF9fbkxzbkdRMmZGOHlLTjhkZVBMV1ZnNTZNdF9SWG9VMWowOGdXM0NUVkdNUGpTV1RYWVJSQ2g4ckxoMzhZTldVazdqMHVpXzRjVHppY194S1VpYlV5WnA1R2RhUUEzek5QN2NVeFlqTWVKUERKTkxfdUZESGE?oc=5",
     "news_image": "",
     "news_source": "Axios",
     "news_age": "3h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -42541,8 +42539,9 @@
     "news_source": "ABC7 WWSB",
     "news_age": "2h ago",
     "news_columns": [
-      "basket",
       "fifa_ranking",
+      "fifa_w",
+      "basket",
       "olympic"
     ],
     "bottom50_wealth": 1.5,
@@ -43745,12 +43744,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.83,
+    "news_score": 0.82,
     "news_title": "Solving practical problems, creating momentum for development (Part 2): Science and technology elevate tea products. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM1RuMmZaTnlaY295TW1Kd3l5WUJ3RHBGSTlXeEZqRnJGUGItdUJOV3pzNHF1VUhrY1VnRmRsakVEZ2VFeFdhMk8tcnRJY05uV1FfdGdVN3ZETGxjTC1DRjF2UEk4bVQ0Q1N1Y0Q4OFlfaDdKWUhTZkZvQ0dLVTA3ODVsZXdVVDk3eDRab3VzMGNOZ2lCMFBkUUpfTnBVUElGeGc5M3pvMmZNRy1RelRRbEJOdmxQdW5QYVYw?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "54m ago",
+    "news_age": "56m ago",
     "news_columns": [
       "car_density",
       "gas_price",
