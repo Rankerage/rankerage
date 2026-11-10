@@ -2556,14 +2556,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.49,
-    "news_title": "Australia's Chris Bowen tells Cop31 the world can still limit global heating to 1.5C – video - The Guardian",
-    "news_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb3hYUUNRWUNUTG5MY3RhcktNNUIydndmUFdER2V6MXRXb1JQbG5CQkY3NkU5M0c3MjU3bENFRW16VEUxV3dZandlQUdFUmpsYkFFMjJJb1hnOUdVd19QQjk4VEdIVjBfM1hOamJJaFd3RFgtQ2RYOGJxOXc5MDM3eDhSUXM2V2JKeExrYklqaS1CMEo1blF4V0JCVl90QnlSVmR3ekozYU5ZYm9kX2E3QUFQUFdZMkNVaE1BR3dGYzZFOEdJT3hmcVNNR0R1OEN6UXdVZnpSUHpEQ1l3OW40?oc=5",
+    "news_score": 0.33,
+    "news_title": "Australia and the Global Economy – The Terms of Trade Boom | Explainer | Education - www.rba.gov.au",
+    "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbi1LWXdGcTlnVU15dHJtY2VrMHRSQkUzLWpLek9oeXFRRms4Z3lNanpWR2RZSWJxZmtwZGNPdU03SWR6ejYzaWtlZmZLUnNhQVYxZ2JjZ0lkVFIxRGxfZ2xwSFZUdDJfZzV2cHZNZ2ltdmJ2Qk1ZRTZzUHJpNzRkamYyYWJzTWZkZHhJSWo0SWZfUFFJSlE?oc=5",
     "news_image": "",
-    "news_source": "The Guardian",
-    "news_age": "3h ago",
+    "news_source": "www.rba.gov.au",
+    "news_age": "76725h ago",
     "news_columns": [
-      "fifa_ranking"
+      "climate",
+      "environment"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -6941,7 +6942,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.49,
+    "news_score": 0.48,
     "news_title": "Zach Edey plans to play for Canada in World Cup if healthy - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc0VrdUk5eVdFS2RoSUR0bTVyc1RuS3Exd25kTHIwRUpCODY3Y21ubmVyTU9McWdzYlJjc2JOcDBoTkc3NTVMNUF5QUpFaWJLVzQxRzY1d3Njdk1RdWVTMFFwUnJPNTh4MGpkR1JyeHBNYU5pZnpHcG1YMDVjekxNQ3Bn?oc=5",
     "news_image": "",
@@ -8014,14 +8015,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.02,
+    "news_score": 0.94,
     "news_title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "93m ago",
+    "news_age": "95m ago",
     "news_columns": [
-      "fifa_ranking"
+      "trade",
+      "economy"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13028,19 +13030,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.5,
+    "news_score": 0.7,
     "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "2h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
-      "internet_pct",
-      "netspeed"
+      "geopolitics",
+      "security"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -16823,12 +16821,12 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.99,
-    "news_title": "What Nvidia CEO Jensen Huang first told the world about Alice Huang, the woman he has admitted having an - The Times of India",
-    "news_url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNa1FzWng5bEhwVWFfV3ZDaEhIM3B3YmppeHlueXFWelYyTzllVFRkNHpTUkZaLU85QWZvM19rX0lRSXliYW5HSEVSa1k0V2UxMWgwU2tfajlVTnY4TVkxeFNkT29EZ1dYSjRRSk9EZVMzZlhNNW81MlI5MkJ3b3d2bldjdmRYT1JpV1JrcVFiYXdmVW1qVW5ud1ZtNmdoS0NvYTZMOE94Q2UtcjhjN0M0Z0dGM25ZNFVraGxvcTI2NkZqVUpEZ1BWdHI1WklpYkplaE41TWE1TXF0RWhwT1Zia3llU0RMY3dmNENGbFpiRHJlYXVmUjllWmRCLVBjTDF0a3JRTzFKT2N6LVJXdEVLMmVoZ0k1ZTBSQXhRZTVUUWdhUDZ60gGqAkFVX3lxTE1HVVhWY3Y4RWdRNzVUajhvWlVrcUdkRl9xZF9iTzJMZmV3QnVSZVdBd3ZGT0MyMm8xVGY1T1V0MjJVZ05La1U1TnREZFBnbWhrX2VfdEFuU0NSOE1jaUZTcDN0bVUwVFdxY3B2eUJMQ3VxNkxQRVJlaGtKYk1iZ1BleW92TlF6eHYyVkRCb3ctMWdkZXF2X1ZmNTdGbHN4MVhJTUpCUFpqY1l1R0xrbDZHMnFrUDFRNkNhZkQzVUg2bV93MDZGMzE2UEQzUDg4eXMxUUdNT01BYnJ1QWduTDVMRGd6TndnUGhLSmVxOFBTNzZ4MlhrOEtCN0t6eEZROWhkS29TcE9RRzJSU25FU3FVUWUtNFJqeU55cXZkYl94YVIxRHpwSkUwdmc?oc=5",
+    "news_score": 0.83,
+    "news_title": "From movies to medical science: Polarised glasses tech finds groundbreaking new calling in India - The New Indian Express",
+    "news_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUEdCcTEwVVRfdXgyeUlpWXZLRFpBOUpyRlIxNWNCVTd1RnFtZFg3UGRsX0xDMnFHLXVUUjBXWTNaZFVyQXJSLWpXaGdjUmJ5cE1FY2tIdGJacXpTN1ZpWWdRbkp4QkxWMWVGeF9DSDJJMmdmOW9QMHRzOTlWdC1sRnhrVU1YbmF3d3MwOUZmdnFrbUpFdURCa2N0NERJWm1JMzB6QkJHUkdORmRIZkJpWWs5QXFHMFdJeXhIdWFLR1FCTUtnUUx3bTJGMzFZcGFxeDh3S3k5RS1ZNFljanV5SllrSVZVTTBEUXfSAfcBQVVfeXFMTlhIX1I4MGJ2cWdfbnhYbmFFaDNOdXlVcGQ4ZUNFdzI4VHdHTzc4ZHNydk15Wk5NTW1TemJwMHUxMXRia1lzbUJSbXFvUkZmUUxfOG5Fc2dZbk1KUGhnaVcyeTNxNjNvNWNjTHpIWHJ3TjgzVm5adW5BM0NuMWNOQl9oSVkxZmFpdTRjZ2wtMkdESkRKeXNPclFuN2RLYUxjVkZvQU5pRUtxYVVRT0dXMDlaQldKTlFyUF9XNEpnc2NBSEg4MWlGd3BDNGxfaF9SY3dpMFpuRmFiSGNkblFXdGdzbEFKYWJBdjBsU1hpQUVkaHpyV0lROA?oc=5",
     "news_image": "",
-    "news_source": "The Times of India",
-    "news_age": "88m ago",
+    "news_source": "The New Indian Express",
+    "news_age": "2h ago",
     "news_columns": [
       "doctors",
       "beds",
@@ -17398,19 +17396,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.04,
+    "news_score": 1.47,
     "news_title": "Hegseth impeachment effort begins in House, focused on Iran war - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlZ2Z0szYjlfTTBaZndNSUJHY0lLNlVGVDVpb2N2a3BTX09WR2U1cjVpWHZvNEdfQm4xLVFRM3cycmdrazk3Q25Gc05YSkgtOGF5eDROb2NfcTVZRG5yRE5hZVRKQ19XQk1INzdrTTVGZDBCbmpDOXU5NEJESHE5NHNCNGkwMUJSZVBPamlZc0M2MU9Ibng4dVJ5YjdZaE93MUd0SWtGZEt2ZHZndmpvRDZIbFROZjFJ?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "2h ago",
     "news_columns": [
-      "democracy",
-      "approval",
-      "press",
-      "election_days",
-      "military_pct",
-      "nuclear"
+      "geopolitics",
+      "security"
     ],
     "bottom50_wealth": null
   },
@@ -18772,12 +18766,12 @@
     "union_rate": 74.0,
     "union_rate_rank": null,
     "fifa_w_rank": 39,
-    "news_score": 0.85,
+    "news_score": 0.87,
     "news_title": "💪​ Tricolor attack arrives at camp with Jamaica in mind - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMF96YndXZ3JJaS00S3BVSkJrTXRmU3lMRHZmQmVzdXhkbkNtQjBaSEw3UDZZU0dHLV91M2Y4SzZjWDNLRXRDQ2RBMXlyeVhINnFvOGo0UEt0S0dFRzVDV241b2h0N1VId2NoOWRTaVpHSXRkaUhDV0JpeWJqN09kdzd5blNiekFVc043QUNn?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "21m ago",
+    "news_age": "23m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -19265,7 +19259,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.58,
+    "news_score": 0.57,
     "news_title": "Expanding cooperation with Japan in human resource training, science, and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU0FweTFnd2ZWSW9XQVpzOE14YTlqYXJNNEwxOXFvR3JTdlE4cmlMYUt5MnJvMDJpdkM5NGlTUENpWVY3bDQwRU10ZlUzbE01VG4tV3U0c0szQ0xHVDdQY1Mtc0djUEk1V2kxamhMVnhRZnRyemtTdHFoUHJuNUZCMDUxLUNKbnlHdmdvbThsWXpXN3BWWUlhNXMtc21MaUps?oc=5",
     "news_image": "",
@@ -19453,12 +19447,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 1.07,
+    "news_score": 1.05,
     "news_title": "NFL Best And Worst: From Jordan Love’s Masterpiece To Caleb Williams’ Clunker - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRE5DS1NYMzczNG1FOW16Qzd3NEpqdk92ZW5Xcld2ME8wS1c4dDk1LXRUdmJjSkVZLTZfUTkyTEU3X2pmcDdmakwteExzN2hRdVZZb0x0VVhDSWJ2eGRQclFVNEdOZWs3c1VCVlBNcFEzSnB6RmVnVC1jc0tDWFVTb2VKaUtRNXpWRnEtTTQxTkbSAZABQVVfeXFMTVZLaHlXazIwYzExa1NiSXV1X2N3cm0tQXh1SjMwWEZBNUEwUE1nVWE5dmdUWm91MjljYk13eElTbHJIMzN5dkZzcENvbGJXaTc1X3ZHdkFqWWl2cGNMVDN0Rm5sUkVuamF4MU5jRUxrQWZ2QVRrVkxCcnZXV2lUeExQM2JQamtDUnR6Y0VidmFz?oc=5",
     "news_image": "",
     "news_source": "FOX Sports",
-    "news_age": "58m ago",
+    "news_age": "60m ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -28008,7 +28002,7 @@
     "refugees_rank": null,
     "union_rate": 69.0,
     "union_rate_rank": null,
-    "news_score": 0.17,
+    "news_score": 0.0,
     "news_title": "Nicaragua@Panama - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaXp4ZEJYTVBPczM3OGV5Nml4TjNZcDFQQjBQV2FCbDFCeFdzR210VEktM2U1U2I1SWtPd3d0ZGhTY3FXS01pNExYaUx4WFY3eFphWFNucHF3ZnMxb2VwMVVxZnNYT1I5ZWpMTDdTV1lLTnl3ZF9jVmVMSmpUQkhxQk1Zd3dZZUpaX3pSU1ZtcmZXWnlnNzl1aENFaVN3M1hIaDRKdG5zX2c?oc=5",
     "news_image": "",
@@ -30511,19 +30505,19 @@
     "union_rate": 71.9,
     "union_rate_rank": null,
     "fifa_w_rank": 48,
-    "news_score": 0.22,
-    "news_title": "Nicaragua@Panama - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
-    "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaXp4ZEJYTVBPczM3OGV5Nml4TjNZcDFQQjBQV2FCbDFCeFdzR210VEktM2U1U2I1SWtPd3d0ZGhTY3FXS01pNExYaUx4WFY3eFphWFNucHF3ZnMxb2VwMVVxZnNYT1I5ZWpMTDdTV1lLTnl3ZF9jVmVMSmpUQkhxQk1Zd3dZZUpaX3pSU1ZtcmZXWnlnNzl1aENFaVN3M1hIaDRKdG5zX2c?oc=5",
+    "news_score": 0.16,
+    "news_title": "From London to Panama: WTTC’s Gloria Guevara Puts the $1.8 Trillion Business Events Economy in the Spotlight - eTurboNews",
+    "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiMThGM2ZTYk05WDRWQ1F0LXhXMy0xQk1IQklxWDczc3ItVXpoRWlBOHAwT2FVZG9hZ0RZRnpEdUFZLXNob0JGdkNTU3B5NWs4TFZ0RHY4NHRwM08zYWExamNqeFk5Z0FnMXZsOWF3?oc=5",
     "news_image": "",
-    "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "5h ago",
+    "news_source": "eTurboNews",
+    "news_age": "12h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "car_density",
-      "gas_price"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": null
   },
@@ -31117,7 +31111,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdVBIY3lmS2FxT2FJMVpKTnJEZG1qa1JIcGppVi1meGE0TlY4aGhLdGlRb00zQ0xzcHRnNzVOemhFWXNGQUVqSmJwcklRR1haV3laMFJOQmhQeWJWNG9pMUJwREVSYTVlZTdPYlpzNU1EQW15RHZnV2Rxc21oLTl1Y1ZsVFlSbWd0c1lub2tXN0RmemNoU3hPVjZ3NzQzZnAwU2NHc0RXYkRBV3RFNnhoN3pQTkIwUl9PLVAwd2xUZVFaQmh1Nk9pMmtSaENjSTVXdlBr?oc=5",
     "news_image": "",
     "news_source": "Facebook",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -31677,7 +31671,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZkVPSnVPV3ZVcGdRdGgxN1JDV3BWSk51WnZLcjEwZ3JVSFFabEdBZmR6TktQZ2I2UFRtRkI4QUlhMnRldzg1YUNxQUI3TTlWc2ZTRk9mdXRpUThvcENvSmxzUDQ1LWFaTjNtb3VLdW0zSEcyd1VLc0xPS2gtQTdoRjY3VmV0VkxjeEtzVS03ZE5zMS04c0FyN1NFOGhnbXh0QlJPdkkwZk9JVW8?oc=5",
     "news_image": "",
     "news_source": "WSJ",
-    "news_age": "23h ago",
+    "news_age": "24h ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -33148,7 +33142,8 @@
     "news_source": "BBC",
     "news_age": "5h ago",
     "news_columns": [
-      "fifa_ranking"
+      "geopolitics",
+      "diplomacy"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -36732,7 +36727,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdVBIY3lmS2FxT2FJMVpKTnJEZG1qa1JIcGppVi1meGE0TlY4aGhLdGlRb00zQ0xzcHRnNzVOemhFWXNGQUVqSmJwcklRR1haV3laMFJOQmhQeWJWNG9pMUJwREVSYTVlZTdPYlpzNU1EQW15RHZnV2Rxc21oLTl1Y1ZsVFlSbWd0c1lub2tXN0RmemNoU3hPVjZ3NzQzZnAwU2NHc0RXYkRBV3RFNnhoN3pQTkIwUl9PLVAwd2xUZVFaQmh1Nk9pMmtSaENjSTVXdlBr?oc=5",
     "news_image": "",
     "news_source": "Facebook",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -41273,7 +41268,8 @@
     "news_source": "BBC",
     "news_age": "5h ago",
     "news_columns": [
-      "fifa_ranking"
+      "geopolitics",
+      "diplomacy"
     ],
     "bottom50_wealth": null
   },
@@ -42534,15 +42530,19 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.5,
+    "news_score": 1.48,
     "news_title": "United States Sports University holds sports artist of the year event - Fox 10 News",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFdnMTRSWTBfRkRWWE9uOUpRREZFcmxNMFoxb3pjSVZPRlg0ZHoteXRUUFRWOGFDNmpsb3VzR0ZxNlNXVUNNQzVSSmI4dUxQbkw1cDZnRlNTVGtJajNkdGRxdFAxWlVmZXdfc0hnN3hKekxaQ0FiMEtYZ3RLMklpazgtSUEzM1diZ3REdkktREpidnZHS21wUFhhNzJCdmvSAbMBQVVfeXFMUERNY2c0Y1d0STJJZk1Cc3FxV3lYYndDSG1FWXNTeWhYbmNtSkZVcmFDVDk5LXlXTGN6QU9HY3FnM0dOMFpjVjVnMExkdXV5RmhvakN5RFlRbjZka3BzcElmczBsQzItWHhpMjJCNkdTY3c5TDR5WmFNRWxnVVl2U1prb2RtOFBIem5aVVlUbzI4SW1NY2V0a3pwSUxRS0FmQkRLSi1sbkw3eUl1ODlEZnpDdTA?oc=5",
     "news_image": "",
     "news_source": "Fox 10 News",
-    "news_age": "49m ago",
+    "news_age": "51m ago",
     "news_columns": [
-      "basket",
-      "fifa_ranking"
+      "nfl",
+      "football",
+      "geopolitics",
+      "security",
+      "climate",
+      "environment"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43745,12 +43745,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.99,
+    "news_score": 1.03,
     "news_title": "The budget for science and technology is projected to reach 120,000 billion VND in 2027. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSk0yNVBEU3d1OEo4ZEpSMHVvVDlCOGtzcUZKVnFNemhtNUswMVFVTDhZN0xNUWtZdUJ1UUdOSGVOSkFtdzVGVlhxTVI3SnJNM0FzWU1SN2pvM1BLTVpGNUpidTloMkRLakZram1NREVGTjdfZndFWXpOZFlXaDh6ZHp2TGJIOWNNLVFmQVJqamRmcnc3UDVCbFZ3cw?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "102m ago",
+    "news_age": "104m ago",
     "news_columns": [
       "car_density",
       "gas_price",
