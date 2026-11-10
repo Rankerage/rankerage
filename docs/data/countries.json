@@ -2553,15 +2553,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.47,
+    "news_score": 0.48,
     "news_title": "COP31: Turkey and Australia, two coal-dependent countries, lead the world's most important climate summit - Le Monde.fr",
     "news_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQVoyZE1jRUhMbGtkS09HdUNTakNhU1k1R2o3U2EzVWtqLS13eWFKMmJQZ2Q4VWUwTTJ4MWVRRkNKdzBDT2hhQkxvUDdQOHNSODNSeE9ZR2NNSXZtanc0WmFWQXQ1N2ZYbXpQOGVJeWdwLXE3Y0p6MTRKdWpCd3BoWGU0eDdiTGYzcE5raDBXNWpPU1JuSVpISDJrMUdJS2U5SXAxS1Vrc1JpNVE4bEJOWVlTU3FVNW9YZzRwODBsdEtyT2JNWG5SMzFDTV9EUVlZZXQ5OUszRUVsN1cxb1QtTk1KYTloME53VXJ5WFdYM3JtZmpvQWw2V1VfektaVTNQcUxKdmJRWQ?oc=5",
     "news_image": "",
     "news_source": "Le Monde.fr",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -8012,7 +8012,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.83,
+    "news_score": 0.98,
     "news_title": "Why Volkswagen wants to sell its China-made cars to the world - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVNHZGc4cjNNd2tPT3UwUU13OVlxY045aTl3Uk1iVXhSQmxHbkhwSUptSUFPTmxhS213NDlJTm03Z1BUaktpSW1LcWVMTS1HelZFci1uZDAxSWFUQ05EX0F0VzFqd3dpTURHSjhvUmZ4UzdIZTI3bUd5TXVfeEVmRUR1WlU?oc=5",
     "news_image": "",
@@ -8020,6 +8020,8 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
+      "fifa_w",
+      "olympic",
       "basket"
     ],
     "bottom50_wealth": 6.4,
@@ -13027,15 +13029,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.68,
+    "news_score": 0.65,
     "news_title": "France accuses Iran of cyberattack on supermarket fridges - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTHhRQkw0WlVabXZ0ZE0xRTRidjcwWHI4ZElyYXE3MU1yUVNDTTdqV1pFRmhPSVBYcDVvcWlMbGE2aEFMUnR5bWk2UjRUenNEQklXSHFHcjFkaDNsN3JscUdvc0x0VG9INzRpdmdNeXAwcUtYa3c0NWs1Q1o5SFFiX2tIZkJubmJUdXVZRTZuWC1MVUwtTm5RSl9Xd9IBoAFBVV95cUxPTm5Cc29NMl9XME5Bci0tdGVXRkZ2MzVxTW50VHE0LXBIVGFxOTIwNnMyZ0psU3hiUjg0V01UeFd0bzF5NUxKRExiV0Vfdl9jcHdxZWc4ekxwc2ttRy1jMTdELVg3VGNhRnBDV1d4SGpQYWt3dlJzM3hoTmgtYjVmU0o5LXRadWdLWEJXVHh4NUxpRjM1WmRJRTNYU2pPbVhH?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17393,15 +17395,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 2.41,
+    "news_score": 2.25,
     "news_title": "World in brief: FBI looks into Huang affair; Trump says Iran war is “effectively over” - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmFYNWY2ZFRnNGZsQzFBZTZJZ1B3ZWliYmQyUlFaU2ZjWGhDcEpYVWFfeG45Y0JCZW9TQ20wR1VEazd1clJXeDFzT1B4VHBlaXAwZGNSRVFMSUxyNzhzU2k2V0tBZE83OUlWX0ZiMVNMRHBGTTF4SW15bE1VcFkyZTVuVF9vUjIzbkxjSXpyS3EyMVJBVkww?oc=5",
     "news_image": "",
     "news_source": "The Economist",
-    "news_age": "55m ago",
+    "news_age": "57m ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -19256,18 +19258,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.36,
+    "news_score": 0.47,
     "news_title": "Expanding cooperation with Japan in human resource training, science, and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU0FweTFnd2ZWSW9XQVpzOE14YTlqYXJNNEwxOXFvR3JTdlE4cmlMYUt5MnJvMDJpdkM5NGlTUENpWVY3bDQwRU10ZlUzbE01VG4tV3U0c0szQ0xHVDdQY1Mtc0djUEk1V2kxamhMVnhRZnRyemtTdHFoUHJuNUZCMDUxLUNKbnlHdmdvbThsWXpXN3BWWUlhNXMtc21MaUps?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
     "news_age": "5h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -27999,7 +27998,7 @@
     "refugees_rank": null,
     "union_rate": 69.0,
     "union_rate_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.07,
     "news_title": "Nicaragua@Panama - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaXp4ZEJYTVBPczM3OGV5Nml4TjNZcDFQQjBQV2FCbDFCeFdzR210VEktM2U1U2I1SWtPd3d0ZGhTY3FXS01pNExYaUx4WFY3eFphWFNucHF3ZnMxb2VwMVVxZnNYT1I5ZWpMTDdTV1lLTnl3ZF9jVmVMSmpUQkhxQk1Zd3dZZUpaX3pSU1ZtcmZXWnlnNzl1aENFaVN3M1hIaDRKdG5zX2c?oc=5",
     "news_image": "",
@@ -30502,7 +30501,7 @@
     "union_rate": 71.9,
     "union_rate_rank": null,
     "fifa_w_rank": 48,
-    "news_score": 0.04,
+    "news_score": 0.07,
     "news_title": "Nicaragua@Panama - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaXp4ZEJYTVBPczM3OGV5Nml4TjNZcDFQQjBQV2FCbDFCeFdzR210VEktM2U1U2I1SWtPd3d0ZGhTY3FXS01pNExYaUx4WFY3eFphWFNucHF3ZnMxb2VwMVVxZnNYT1I5ZWpMTDdTV1lLTnl3ZF9jVmVMSmpUQkhxQk1Zd3dZZUpaX3pSU1ZtcmZXWnlnNzl1aENFaVN3M1hIaDRKdG5zX2c?oc=5",
     "news_image": "",
@@ -32338,18 +32337,17 @@
     "union_rate": 88.1,
     "union_rate_rank": null,
     "news_score": 0.03,
-    "news_title": "Trump says Iran war is militarily ‘effectively over’ after Qatar PM talks - Arab News",
-    "news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb2JLa1U2VHpWaXh0UXNsQXZQYkYzMll3UzhEckZDM0M4NjJOZmFjcmwtOXZ4MjJya0Z0aFpjV0xJN2YzNE9pZnc5dDFEVnpiaDBhNWhkTGZLZmFKSXBsekM0QVJOb2VFRXRQZC1nTVdnNHZKSjFOeW55NXc2NGR1SGU2VVBfY1VzS2pkVzBjSHBsVm5RTUMxSVNLZnpuNmZlSWVhMlRkRHc2R29Odk5NdHo0aTlJSlE?oc=5",
+    "news_title": "Trump tells Reuters that Qatar, Saudi Arabia want peaceful Iran deal, US ready for strikes if needed - Reuters",
+    "news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ2o4T2dDT1ZqQmlqM0JxZEViaHZzWjRPeGtRd2N5MEZweXhTWXV1b0RybWgxNzZrMUJmOXFDMGMtTGE1RzJCMHBNdkctTVZpWXhBUUcxYUhnOTRqOEpQZUpPWjdsZHgtTWc4cWYxYnRtZEgzb191X2tlOUVVYXh4SFpnejMxYXRidEhFalZMeDlSSlhmUm5IR0Nyd2hybHhWVjVrcXA1ODVaYWo1ODhFSEhNMFZxdmdaN3VLTEc0dE1MZ21pVGxFMFh0TQ?oc=5",
     "news_image": "",
-    "news_source": "Arab News",
-    "news_age": "9h ago",
+    "news_source": "Reuters",
+    "news_age": "10h ago",
     "news_columns": [
-      "gas_price",
-      "energy_per_capita",
-      "co2",
-      "renew",
-      "exports",
-      "military_pct"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": null
   },
@@ -33135,15 +33133,19 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.53,
+    "news_score": 0.39,
     "news_title": "US demands a seat for Europe at Ukraine peace talks - POLITICO.eu",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2l3RHlLam9ic184VDI1cDlhbUdQY2dZN2JXNGRJaEpUc3pWYnZEZWJDYm1rOVVfVWg2OWgxbTZIbnZDT1RDWXpzcXliaHlheWNnc2pPeFhDR05ocTNsZjlkYjlyM2ZURUcxTFk5NzktTVY3YUdfR0hneFNfUmp2US12YVVZQ2NZQ3pySHRnOWMteTlSRl9BZWRnaElVU0NueTFV?oc=5",
     "news_image": "",
     "news_source": "POLITICO.eu",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -34983,12 +34985,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 47,
     "fifa_w_rank": 36,
-    "news_score": 0.0,
+    "news_score": 0.16,
     "news_title": "World record for highest human catapult broken in Slovenia - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTVNWQURONnBIQVNhUVZTX21WR1lnMndQLTZ1OFR1bE9hd2RIdFZIM3lDdzZpNGIteUZyRGxCb0RqbzBmUm52SUFyZEZMd3VoSV9lTzd2bHl5a25ZOE93OW1wb1ZhYm5ybXZ2YUdhdlp5LXlqNDgwYm85OC1XOUliNjZJYUhsdmVkRWxwN2hEcFhxb1p6ejc4dkpwelNYQQ?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "90m ago",
+    "news_age": "2h ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -40299,15 +40301,15 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.54,
+    "news_score": 0.55,
     "news_title": "COP31: Turkey and Australia, two coal-dependent countries, lead the world's most important climate summit - Le Monde.fr",
     "news_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQVoyZE1jRUhMbGtkS09HdUNTakNhU1k1R2o3U2EzVWtqLS13eWFKMmJQZ2Q4VWUwTTJ4MWVRRkNKdzBDT2hhQkxvUDdQOHNSODNSeE9ZR2NNSXZtanc0WmFWQXQ1N2ZYbXpQOGVJeWdwLXE3Y0p6MTRKdWpCd3BoWGU0eDdiTGYzcE5raDBXNWpPU1JuSVpISDJrMUdJS2U5SXAxS1Vrc1JpNVE4bEJOWVlTU3FVNW9YZzRwODBsdEtyT2JNWG5SMzFDTV9EUVlZZXQ5OUszRUVsN1cxb1QtTk1KYTloME53VXJ5WFdYM3JtZmpvQWw2V1VfektaVTNQcUxKdmJRWQ?oc=5",
     "news_image": "",
     "news_source": "Le Monde.fr",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -41259,15 +41261,19 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.53,
+    "news_score": 0.39,
     "news_title": "US demands a seat for Europe at Ukraine peace talks - POLITICO.eu",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2l3RHlLam9ic184VDI1cDlhbUdQY2dZN2JXNGRJaEpUc3pWYnZEZWJDYm1rOVVfVWg2OWgxbTZIbnZDT1RDWXpzcXliaHlheWNnc2pPeFhDR05ocTNsZjlkYjlyM2ZURUcxTFk5NzktTVY3YUdfR0hneFNfUmp2US12YVVZQ2NZQ3pySHRnOWMteTlSRl9BZWRnaElVU0NueTFV?oc=5",
     "news_image": "",
     "news_source": "POLITICO.eu",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -42528,16 +42534,18 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.81,
+    "news_score": 0.8,
     "news_title": "United States Sports University holds sports artist of the year event - Fox 10 News",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFdnMTRSWTBfRkRWWE9uOUpRREZFcmxNMFoxb3pjSVZPRlg0ZHoteXRUUFRWOGFDNmpsb3VzR0ZxNlNXVUNNQzVSSmI4dUxQbkw1cDZnRlNTVGtJajNkdGRxdFAxWlVmZXdfc0hnN3hKekxaQ0FiMEtYZ3RLMklpazgtSUEzM1diZ3REdkktREpidnZHS21wUFhhNzJCdmvSAbMBQVVfeXFMUERNY2c0Y1d0STJJZk1Cc3FxV3lYYndDSG1FWXNTeWhYbmNtSkZVcmFDVDk5LXlXTGN6QU9HY3FnM0dOMFpjVjVnMExkdXV5RmhvakN5RFlRbjZka3BzcElmczBsQzItWHhpMjJCNkdTY3c5TDR5WmFNRWxnVVl2U1prb2RtOFBIem5aVVlUbzI4SW1NY2V0a3pwSUxRS0FmQkRLSi1sbkw3eUl1ODlEZnpDdTA?oc=5",
     "news_image": "",
     "news_source": "Fox 10 News",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic",
+      "nfl",
+      "basket",
       "fifa_ranking",
-      "basket"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43453,7 +43461,7 @@
     "union_rate": 56.6,
     "union_rate_rank": null,
     "fifa_w_rank": 40,
-    "news_score": 0.11,
+    "news_score": 0.13,
     "news_title": "Exxon Takes First Step Toward Investing in Venezuela - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWW9IY0xQOGQtXzBTdnMxdUlXelVuT1NYMHNQcXRaNXdmYTMxZ2FtVTVxa0tQVWthNVFxdUNjUUczS0JZQUpuQ2kxZmswYml1VEItMkpvQmNBdXlHUWo2cGxlRy1TZ2RiOG9iSVNiWkhkN3JRWHpMVURUeUZfTnhFMC0zNnhoY045Wm4zbWx1elFaYTByWjJVYXBPclI5alAzZmpN?oc=5",
     "news_image": "",
@@ -43740,15 +43748,15 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.77,
+    "news_score": 0.99,
     "news_title": "The budget for science and technology is projected to reach 120,000 billion VND in 2027. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSk0yNVBEU3d1OEo4ZEpSMHVvVDlCOGtzcUZKVnFNemhtNUswMVFVTDhZN0xNUWtZdUJ1UUdOSGVOSkFtdzVGVlhxTVI3SnJNM0FzWU1SN2pvM1BLTVpGNUpidTloMkRLakZram1NREVGTjdfZndFWXpOZFlXaDh6ZHp2TGJIOWNNLVFmQVJqamRmcnc3UDVCbFZ3cw?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
     "news_age": "3h ago",
     "news_columns": [
-      "science",
-      "tech"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
