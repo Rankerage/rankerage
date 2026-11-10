@@ -1485,7 +1485,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeVp1MmVQdklueUxEV0JoaTk1TlR4c0NmYmpHU0pLZVpNRmZPV2tNT1NyLVFiNHI1ejZGLWtlbW8zQWptZzU3a1JCSVhtWlpma1N3QkU0bFNHdVZsa1NZRFY1VVhLWnVIekdSOXVzaC1xYXNBejlNak1Wd0d6YmVtLVFic3RVU0U?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -2555,14 +2555,13 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.38,
+    "news_score": 0.37,
     "news_title": "COP31: Turkey and Australia, two coal-dependent countries, lead the world's most important climate summit - Le Monde.fr",
     "news_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQVoyZE1jRUhMbGtkS09HdUNTakNhU1k1R2o3U2EzVWtqLS13eWFKMmJQZ2Q4VWUwTTJ4MWVRRkNKdzBDT2hhQkxvUDdQOHNSODNSeE9ZR2NNSXZtanc0WmFWQXQ1N2ZYbXpQOGVJeWdwLXE3Y0p6MTRKdWpCd3BoWGU0eDdiTGYzcE5raDBXNWpPU1JuSVpISDJrMUdJS2U5SXAxS1Vrc1JpNVE4bEJOWVlTU3FVNW9YZzRwODBsdEtyT2JNWG5SMzFDTV9EUVlZZXQ5OUszRUVsN1cxb1QtTk1KYTloME53VXJ5WFdYM3JtZmpvQWw2V1VfektaVTNQcUxKdmJRWQ?oc=5",
     "news_image": "",
     "news_source": "Le Monde.fr",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking",
       "olympic"
     ],
     "bottom50_wealth": 5.0,
@@ -8014,7 +8013,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.99,
+    "news_score": 0.98,
     "news_title": "Why Volkswagen wants to sell its China-made cars to the world - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVNHZGc4cjNNd2tPT3UwUU13OVlxY045aTl3Uk1iVXhSQmxHbkhwSUptSUFPTmxhS213NDlJTm03Z1BUaktpSW1LcWVMTS1HelZFci1uZDAxSWFUQ05EX0F0VzFqd3dpTURHSjhvUmZ4UzdIZTI3bUd5TXVfeEVmRUR1WlU?oc=5",
     "news_image": "",
@@ -8022,7 +8021,7 @@
     "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13029,16 +13028,14 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.49,
+    "news_score": 0.47,
     "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic",
-      "fifa_w"
+      "olympic"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -14071,9 +14068,7 @@
     "news_source": "Vietnam.vn",
     "news_age": "28h ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -17396,14 +17391,13 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.72,
+    "news_score": 1.74,
     "news_title": "Hegseth impeachment effort begins in House, focused on Iran war - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlZ2Z0szYjlfTTBaZndNSUJHY0lLNlVGVDVpb2N2a3BTX09WR2U1cjVpWHZvNEdfQm4xLVFRM3cycmdrazk3Q25Gc05YSkgtOGF5eDROb2NfcTVZRG5yRE5hZVRKQ19XQk1INzdrTTVGZDBCbmpDOXU5NEJESHE5NHNCNGkwMUJSZVBPamlZc0M2MU9Ibng4dVJ5YjdZaE93MUd0SWtGZEt2ZHZndmpvRDZIbFROZjFJ?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "114m ago",
+    "news_age": "116m ago",
     "news_columns": [
-      "fifa_ranking",
       "olympic"
     ],
     "bottom50_wealth": null
@@ -19447,12 +19441,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 1.18,
+    "news_score": 1.2,
     "news_title": "Two catches for Jordan Addison - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNk92MEppOXF6czhZazZVa1NpaUh1a3h1ZWFaTlc4d2tDV0o3MVRsZ1BCZ0lmd01BVEFIMVNHN0RLVXF6VGVPQXNUSWFVaGJmU2JjTG9NclpDMklELWtuU0xLZlhldzZXNjNTcFZRaHhULVFqek9Vb0N4cndUVXBTOQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "24m ago",
+    "news_age": "26m ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -31666,12 +31660,12 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.78,
+    "news_score": 0.77,
     "news_title": "Poland’s Political Divisions Puncture Its Influence on World Stage - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZkVPSnVPV3ZVcGdRdGgxN1JDV3BWSk51WnZLcjEwZ3JVSFFabEdBZmR6TktQZ2I2UFRtRkI4QUlhMnRldzg1YUNxQUI3TTlWc2ZTRk9mdXRpUThvcENvSmxzUDQ1LWFaTjNtb3VLdW0zSEcyd1VLc0xPS2gtQTdoRjY3VmV0VkxjeEtzVS03ZE5zMS04c0FyN1NFOGhnbXh0QlJPdkkwZk9JVW8?oc=5",
     "news_image": "",
     "news_source": "WSJ",
-    "news_age": "61m ago",
+    "news_age": "63m ago",
     "news_columns": [
       "politics",
       "conflict"
@@ -32340,7 +32334,7 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.18,
+    "news_score": 0.17,
     "news_title": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk10al9Za09KSVdSOEJFak01MEtXS0I0bHg2Q2wzSmUzSDlEVlpObU41Mjg0aUZhQU5zR1NIbzdTMHJLV1FDbEk5WExHLUF0aUlHVU9CSlpEMXozNVFzSm5PTm4zekxYVmR6YlZLYUtHVUEzREp3UEIzSW1NTksyMWJXZTFiWTRvNW5oSGtQOVY3ZW1uOHdNYXJuWUtnWmhkVTRQWEsxRdIBrAFBVV95cUxOeDVLZnJwdDZ1b2dWamRIanBpZXUtQXE1dVhQeXVmY0haLVRFUDFwa2Zicl9FQTEyUXhFaE40dldBQmR1amhrSkFqd2U3Z1d4RXhSZ1VFTGpmeHpMNERLc2syWFZYLVk3aGtvQk5WZFRYWlRLODE3NEs4UGF4amM2ZEVFSmZJcElHaEpQSlJ2Z2ZsTFh4TUhhb3BqblV2ZHBHaTRPWXNpcDJMeTdG?oc=5",
     "news_image": "",
@@ -40311,7 +40305,6 @@
     "news_source": "Le Monde.fr",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking",
       "olympic"
     ],
     "bottom50_wealth": 5.2,
@@ -41271,7 +41264,6 @@
     "news_source": "POLITICO.eu",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking",
       "olympic"
     ],
     "bottom50_wealth": null
@@ -42541,8 +42533,8 @@
     "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic",
       "fifa_w",
+      "olympic",
       "basket"
     ],
     "bottom50_wealth": 1.5,
@@ -43746,12 +43738,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 1.18,
+    "news_score": 1.17,
     "news_title": "Vietnam Union of Science and Technology implements labor health care plan - Laodong.vn",
     "news_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONnJtVlpqWjlIQ2hHbXFDanotRVpTbWRfWUhueXZkSnROT29KU3Zvd3E1Y283ekp4cDl6UmsyOHVHdHFQQ0EzdTNoUG1mTWd1cDJQOUtCUlROc2s4RkEwek54NFN0bXo2dWtQNExfeDBRREJXYjIxbkhRQTJYSTZqMU03Q2lHa0hXd2I0Q0Z1bUJtVG1rNmJhVF9JSlRXVjV1a1JZc1RzVUQ0Z1J0UkhIT3Rhc1FKU3p0NTlsQXl1TDJqMjNMNENiSThZd21tdw?oc=5",
     "news_image": "",
     "news_source": "Laodong.vn",
-    "news_age": "43m ago",
+    "news_age": "45m ago",
     "news_columns": [
       "car_density",
       "gas_price",
