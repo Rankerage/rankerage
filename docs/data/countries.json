@@ -2562,12 +2562,8 @@
     "news_source": "www.rba.gov.au",
     "news_age": "76730h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -5590,7 +5586,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOVp6VkllWVRuc3Y5Q3pCNzY3MFBNNDl5bGdHbmljZE1ZVVRTSy1kN1h2NFpUSjNTOXplaEhuTHFmUmEyTDc0empWcjc5TG1ZS1BBNGNVUFhBWWlhYnc3cGFtUC1kWXVUTjdNUi11NS1xUWpnNHJBQ2RjZjFsN0YwVE56bUlxYlgtUWJBNjBKVnVvZ1c3WGgwTEVXcGZqM3lqNjZhYy1FVk1ZS2NvZUFwc0NKUlc?oc=5",
     "news_image": "",
     "news_source": "SeeNews",
-    "news_age": "84m ago",
+    "news_age": "86m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -8027,10 +8023,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ2RfZjREUFgxREhlb0F2R0c3MktibHlUaldQZnh4RXliSEg0RHktYmpTZFJaa0hEYUp0MmJFbnNKaEFlVk5qb012cHhheUhxaWVyenlUY2NJTDFGMHducVBYU1RjNERaMnNCckxSRGwxRkVVT2hMZm5PNWs2LXdyc01EYmNHQWE3UEN4UFV1NlRmNE9JcWthMENxcjVEMVYxamhwVi13TVRtQTNiVk9iM1czcmdnWVhjMXZIR2dlbUszU2k5U1A0OQ?oc=5",
     "news_image": "",
     "news_source": "South China Morning Post",
-    "news_age": "50m ago",
+    "news_age": "52m ago",
     "news_columns": [
       "fifa_ranking",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -15890,7 +15886,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYmdkeVduVTNxUDlRM3dXRTNwdl9Ec2J4T3ZqSjAxYUdoQW5BTG50MklmekowNWxDaVpJMndRWFBEcFFob3hWcjFabGY2cExUZzdTTXIwS1hmc0p5cjJWSmJ3MkVWRWZoQldjS3pqMlVubnA4d2J2YjFqa1Rodm43aw?oc=5",
     "news_image": "",
     "news_source": "The Hacker News",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
       "cricket",
       "olympic",
@@ -17403,14 +17399,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.46,
+    "news_score": 1.0,
     "news_title": "Hegseth impeachment effort begins in House, focused on Iran war - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlZ2Z0szYjlfTTBaZndNSUJHY0lLNlVGVDVpb2N2a3BTX09WR2U1cjVpWHZvNEdfQm4xLVFRM3cycmdrazk3Q25Gc05YSkgtOGF5eDROb2NfcTVZRG5yRE5hZVRKQ19XQk1INzdrTTVGZDBCbmpDOXU5NEJESHE5NHNCNGkwMUJSZVBPamlZc0M2MU9Ibng4dVJ5YjdZaE93MUd0SWtGZEt2ZHZndmpvRDZIbFROZjFJ?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "3h ago",
+    "news_age": "2h ago",
     "news_columns": [
-      "olympic"
+      "democracy",
+      "approval",
+      "press",
+      "election_days",
+      "military_pct",
+      "nuclear"
     ],
     "bottom50_wealth": null
   },
@@ -19263,7 +19264,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.14,
+    "news_score": 0.13,
     "news_title": "Expanding cooperation with Japan in human resource training, science, and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU0FweTFnd2ZWSW9XQVpzOE14YTlqYXJNNEwxOXFvR3JTdlE4cmlMYUt5MnJvMDJpdkM5NGlTUENpWVY3bDQwRU10ZlUzbE01VG4tV3U0c0szQ0xHVDdQY1Mtc0djUEk1V2kxamhMVnhRZnRyemtTdHFoUHJuNUZCMDUxLUNKbnlHdmdvbThsWXpXN3BWWUlhNXMtc21MaUps?oc=5",
     "news_image": "",
@@ -19451,7 +19452,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.4,
+    "news_score": 0.39,
     "news_title": "NFL Best And Worst: From Jordan Love’s Masterpiece To Caleb Williams’ Clunker - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRE5DS1NYMzczNG1FOW16Qzd3NEpqdk92ZW5Xcld2ME8wS1c4dDk1LXRUdmJjSkVZLTZfUTkyTEU3X2pmcDdmakwteExzN2hRdVZZb0x0VVhDSWJ2eGRQclFVNEdOZWs3c1VCVlBNcFEzSnB6RmVnVC1jc0tDWFVTb2VKaUtRNXpWRnEtTTQxTkbSAZABQVVfeXFMTVZLaHlXazIwYzExa1NiSXV1X2N3cm0tQXh1SjMwWEZBNUEwUE1nVWE5dmdUWm91MjljYk13eElTbHJIMzN5dkZzcENvbGJXaTc1X3ZHdkFqWWl2cGNMVDN0Rm5sUkVuamF4MU5jRUxrQWZ2QVRrVkxCcnZXV2lUeExQM2JQamtDUnR6Y0VidmFz?oc=5",
     "news_image": "",
@@ -33144,13 +33145,14 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.15,
-    "news_title": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes - Al Jazeera",
+    "news_score": 1.23,
+    "news_title": "Russia, Ukraine and US officials hold talks in Abu Dhabi - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhONWNmUnBCZjBHMWNrSU5JYjRDbVZ2UVZkcjFaNWVfZEJJS2dSQVd4NTdITjhZaHdUbHFQbDQ1VmhHVXVVLTd4UENvTXNxZUhBZTVsUTExYmJTaktacjUwQ0lpcUY3UU0yMGVSanVodTJYLVJjeERfVUxfTjlhSy12YkRnQ2Qwclp5RnJrRU5BY25wV1NZYlpKaHdZWHF4VnJfajc2ZV9qOXBmMmFCMEtmQdIBuAFBVV95cUxOZWZVY2FpTk0xWS1GSEkwUThabWJYMmQyeVBqWWlLUzh2ZFJOTzhoWEFXRHh1WmxQbE5BaHQyeTEycnlUUFJselphQ2dWVFJMcUdxblYzZ1JOd1VZdmQ2NFRESzRJUVRUWmlLeFZBalVhcHMweXNncnFQcFRLUDhOd2pkLVVMMWdwUDQyZDRiSUtaUWxCQW93TkdJZUdZX1Q1RUlaZzRHRW82OGNNS0EzejVvcTMxeGpL?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "51m ago",
+    "news_age": "53m ago",
     "news_columns": [
+      "fifa_ranking",
       "olympic"
     ],
     "election_title": "Russian Federal Duma",
@@ -41267,13 +41269,14 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 1.15,
-    "news_title": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes - Al Jazeera",
+    "news_score": 1.17,
+    "news_title": "Russia, Ukraine and US officials hold talks in Abu Dhabi - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhONWNmUnBCZjBHMWNrSU5JYjRDbVZ2UVZkcjFaNWVfZEJJS2dSQVd4NTdITjhZaHdUbHFQbDQ1VmhHVXVVLTd4UENvTXNxZUhBZTVsUTExYmJTaktacjUwQ0lpcUY3UU0yMGVSanVodTJYLVJjeERfVUxfTjlhSy12YkRnQ2Qwclp5RnJrRU5BY25wV1NZYlpKaHdZWHF4VnJfajc2ZV9qOXBmMmFCMEtmQdIBuAFBVV95cUxOZWZVY2FpTk0xWS1GSEkwUThabWJYMmQyeVBqWWlLUzh2ZFJOTzhoWEFXRHh1WmxQbE5BaHQyeTEycnlUUFJselphQ2dWVFJMcUdxblYzZ1JOd1VZdmQ2NFRESzRJUVRUWmlLeFZBalVhcHMweXNncnFQcFRLUDhOd2pkLVVMMWdwUDQyZDRiSUtaUWxCQW93TkdJZUdZX1Q1RUlaZzRHRW82OGNNS0EzejVvcTMxeGpL?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "51m ago",
+    "news_age": "53m ago",
     "news_columns": [
+      "fifa_ranking",
       "olympic"
     ],
     "bottom50_wealth": null
@@ -42542,8 +42545,9 @@
     "news_source": "Fox 10 News",
     "news_age": "5h ago",
     "news_columns": [
-      "olympic",
       "fifa_ranking",
+      "olympic",
+      "fifa_w",
       "basket"
     ],
     "bottom50_wealth": 1.5,
@@ -43747,7 +43751,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.78,
+    "news_score": 0.77,
     "news_title": "Vietnam Union of Science and Technology implements labor health care plan - Laodong.vn",
     "news_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONnJtVlpqWjlIQ2hHbXFDanotRVpTbWRfWUhueXZkSnROT29KU3Zvd3E1Y283ekp4cDl6UmsyOHVHdHFQQ0EzdTNoUG1mTWd1cDJQOUtCUlROc2s4RkEwek54NFN0bXo2dWtQNExfeDBRREJXYjIxbkhRQTJYSTZqMU03Q2lHa0hXd2I0Q0Z1bUJtVG1rNmJhVF9JSlRXVjV1a1JZc1RzVUQ0Z1J0UkhIT3Rhc1FKU3p0NTlsQXl1TDJqMjNMNENiSThZd21tdw?oc=5",
     "news_image": "",
