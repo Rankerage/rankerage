@@ -2556,15 +2556,17 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.39,
+    "news_score": 0.33,
     "news_title": "COP31: Turkey and Australia, two coal-dependent countries, lead the world's most important climate summit - Le Monde.fr",
     "news_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQVoyZE1jRUhMbGtkS09HdUNTakNhU1k1R2o3U2EzVWtqLS13eWFKMmJQZ2Q4VWUwTTJ4MWVRRkNKdzBDT2hhQkxvUDdQOHNSODNSeE9ZR2NNSXZtanc0WmFWQXQ1N2ZYbXpQOGVJeWdwLXE3Y0p6MTRKdWpCd3BoWGU0eDdiTGYzcE5raDBXNWpPU1JuSVpISDJrMUdJS2U5SXAxS1Vrc1JpNVE4bEJOWVlTU3FVNW9YZzRwODBsdEtyT2JNWG5SMzFDTV9EUVlZZXQ5OUszRUVsN1cxb1QtTk1KYTloME53VXJ5WFdYM3JtZmpvQWw2V1VfektaVTNQcUxKdmJRWQ?oc=5",
     "news_image": "",
     "news_source": "Le Monde.fr",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "co2",
+      "renew",
+      "forest",
+      "pm25"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -6942,7 +6944,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.3,
+    "news_score": 0.31,
     "news_title": "Zach Edey plans to play for Canada in World Cup if healthy - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc0VrdUk5eVdFS2RoSUR0bTVyc1RuS3Exd25kTHIwRUpCODY3Y21ubmVyTU9McWdzYlJjc2JOcDBoTkc3NTVMNUF5QUpFaWJLVzQxRzY1d3Njdk1RdWVTMFFwUnJPNTh4MGpkR1JyeHBNYU5pZnpHcG1YMDVjekxNQ3Bn?oc=5",
     "news_image": "",
@@ -8015,15 +8017,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.03,
+    "news_score": 0.97,
     "news_title": "Why Volkswagen wants to sell its China-made cars to the world - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVNHZGc4cjNNd2tPT3UwUU13OVlxY045aTl3Uk1iVXhSQmxHbkhwSUptSUFPTmxhS213NDlJTm03Z1BUaktpSW1LcWVMTS1HelZFci1uZDAxSWFUQ05EX0F0VzFqd3dpTURHSjhvUmZ4UzdIZTI3bUd5TXVfeEVmRUR1WlU?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
-    "news_age": "94m ago",
+    "news_age": "96m ago",
     "news_columns": [
-      "fifa_ranking",
-      "basket"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13030,15 +13031,14 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.78,
+    "news_score": 0.7,
     "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -16821,7 +16821,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.35,
+    "news_score": 0.34,
     "news_title": "From movies to medical science: Polarised glasses tech finds groundbreaking new calling in India - The New Indian Express",
     "news_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUEdCcTEwVVRfdXgyeUlpWXZLRFpBOUpyRlIxNWNCVTd1RnFtZFg3UGRsX0xDMnFHLXVUUjBXWTNaZFVyQXJSLWpXaGdjUmJ5cE1FY2tIdGJacXpTN1ZpWWdRbkp4QkxWMWVGeF9DSDJJMmdmOW9QMHRzOTlWdC1sRnhrVU1YbmF3d3MwOUZmdnFrbUpFdURCa2N0NERJWm1JMzB6QkJHUkdORmRIZkJpWWs5QXFHMFdJeXhIdWFLR1FCTUtnUUx3bTJGMzFZcGFxeDh3S3k5RS1ZNFljanV5SllrSVZVTTBEUXfSAfcBQVVfeXFMTlhIX1I4MGJ2cWdfbnhYbmFFaDNOdXlVcGQ4ZUNFdzI4VHdHTzc4ZHNydk15Wk5NTW1TemJwMHUxMXRia1lzbUJSbXFvUkZmUUxfOG5Fc2dZbk1KUGhnaVcyeTNxNjNvNWNjTHpIWHJ3TjgzVm5adW5BM0NuMWNOQl9oSVkxZmFpdTRjZ2wtMkdESkRKeXNPclFuN2RLYUxjVkZvQU5pRUtxYVVRT0dXMDlaQldKTlFyUF9XNEpnc2NBSEg4MWlGd3BDNGxfaF9SY3dpMFpuRmFiSGNkblFXdGdzbEFKYWJBdjBsU1hpQUVkaHpyV0lROA?oc=5",
     "news_image": "",
@@ -17396,15 +17396,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 2.49,
+    "news_score": 2.15,
     "news_title": "World in brief: FBI looks into Huang affair; Trump says Iran war is “effectively over” - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmFYNWY2ZFRnNGZsQzFBZTZJZ1B3ZWliYmQyUlFaU2ZjWGhDcEpYVWFfeG45Y0JCZW9TQ20wR1VEazd1clJXeDFzT1B4VHBlaXAwZGNSRVFMSUxyNzhzU2k2V0tBZE83OUlWX0ZiMVNMRHBGTTF4SW15bE1VcFkyZTVuVF9vUjIzbkxjSXpyS3EyMVJBVkww?oc=5",
     "news_image": "",
     "news_source": "The Economist",
-    "news_age": "26m ago",
+    "news_age": "28m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -19447,7 +19446,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 1.07,
+    "news_score": 1.04,
     "news_title": "NFL Best And Worst: From Jordan Love’s Masterpiece To Caleb Williams’ Clunker - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRE5DS1NYMzczNG1FOW16Qzd3NEpqdk92ZW5Xcld2ME8wS1c4dDk1LXRUdmJjSkVZLTZfUTkyTEU3X2pmcDdmakwteExzN2hRdVZZb0x0VVhDSWJ2eGRQclFVNEdOZWs3c1VCVlBNcFEzSnB6RmVnVC1jc0tDWFVTb2VKaUtRNXpWRnEtTTQxTkbSAZABQVVfeXFMTVZLaHlXazIwYzExa1NiSXV1X2N3cm0tQXh1SjMwWEZBNUEwUE1nVWE5dmdUWm91MjljYk13eElTbHJIMzN5dkZzcENvbGJXaTc1X3ZHdkFqWWl2cGNMVDN0Rm5sUkVuamF4MU5jRUxrQWZ2QVRrVkxCcnZXV2lUeExQM2JQamtDUnR6Y0VidmFz?oc=5",
     "news_image": "",
@@ -31106,7 +31105,7 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.3,
+    "news_score": 0.34,
     "news_title": "A new list of the best 50 restaurants in the world was announced in Lima, Peru. Asador Etxebarri in the Basque region of Spain won the top spot. For the first time, only one American restaurant was in the top 50. See the full list: https://nyti.ms/3UFBmdx - Facebook",
     "news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdVBIY3lmS2FxT2FJMVpKTnJEZG1qa1JIcGppVi1meGE0TlY4aGhLdGlRb00zQ0xzcHRnNzVOemhFWXNGQUVqSmJwcklRR1haV3laMFJOQmhQeWJWNG9pMUJwREVSYTVlZTdPYlpzNU1EQW15RHZnV2Rxc21oLTl1Y1ZsVFlSbWd0c1lub2tXN0RmemNoU3hPVjZ3NzQzZnAwU2NHc0RXYkRBV3RFNnhoN3pQTkIwUl9PLVAwd2xUZVFaQmh1Nk9pMmtSaENjSTVXdlBr?oc=5",
     "news_image": "",
@@ -31666,7 +31665,7 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.2,
+    "news_score": 0.23,
     "news_title": "Poland’s Political Divisions Puncture Its Influence on World Stage - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZkVPSnVPV3ZVcGdRdGgxN1JDV3BWSk51WnZLcjEwZ3JVSFFabEdBZmR6TktQZ2I2UFRtRkI4QUlhMnRldzg1YUNxQUI3TTlWc2ZTRk9mdXRpUThvcENvSmxzUDQ1LWFaTjNtb3VLdW0zSEcyd1VLc0xPS2gtQTdoRjY3VmV0VkxjeEtzVS03ZE5zMS04c0FyN1NFOGhnbXh0QlJPdkkwZk9JVW8?oc=5",
     "news_image": "",
@@ -32339,7 +32338,7 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.17,
+    "news_score": 0.0,
     "news_title": "US-Iran war: Trump says more US attacks on Iran 'highly unlikely' - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZVGlrZGdkVXQyRXBjbUdDMVliNVZPR2l1eFFud2tLMnRGSlRmbmYtbnBpVGFfX1FqRkh0WGpMbHlfT1U3WjVkR21hNnJmRFdTcndqS2F1OE5EYXM?oc=5",
     "news_image": "",
@@ -33136,15 +33135,19 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.64,
+    "news_score": 0.45,
     "news_title": "US demands a seat for Europe at Ukraine peace talks - POLITICO.eu",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2l3RHlLam9ic184VDI1cDlhbUdQY2dZN2JXNGRJaEpUc3pWYnZEZWJDYm1rOVVfVWg2OWgxbTZIbnZDT1RDWXpzcXliaHlheWNnc2pPeFhDR05ocTNsZjlkYjlyM2ZURUcxTFk5NzktTVY3YUdfR0hneFNfUmp2US12YVVZQ2NZQ3pySHRnOWMteTlSRl9BZWRnaElVU0NueTFV?oc=5",
     "news_image": "",
     "news_source": "POLITICO.eu",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -36723,19 +36726,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.3,
+    "news_score": 0.47,
     "news_title": "A new list of the best 50 restaurants in the world was announced in Lima, Peru. Asador Etxebarri in the Basque region of Spain won the top spot. For the first time, only one American restaurant was in the top 50. See the full list: https://nyti.ms/3UFBmdx - Facebook",
     "news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdVBIY3lmS2FxT2FJMVpKTnJEZG1qa1JIcGppVi1meGE0TlY4aGhLdGlRb00zQ0xzcHRnNzVOemhFWXNGQUVqSmJwcklRR1haV3laMFJOQmhQeWJWNG9pMUJwREVSYTVlZTdPYlpzNU1EQW15RHZnV2Rxc21oLTl1Y1ZsVFlSbWd0c1lub2tXN0RmemNoU3hPVjZ3NzQzZnAwU2NHc0RXYkRBV3RFNnhoN3pQTkIwUl9PLVAwd2xUZVFaQmh1Nk9pMmtSaENjSTVXdlBr?oc=5",
     "news_image": "",
     "news_source": "Facebook",
     "news_age": "2h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "michelin"
+      "basket"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5,
@@ -40300,15 +40298,17 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.43,
+    "news_score": 0.37,
     "news_title": "COP31: Turkey and Australia, two coal-dependent countries, lead the world's most important climate summit - Le Monde.fr",
     "news_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQVoyZE1jRUhMbGtkS09HdUNTakNhU1k1R2o3U2EzVWtqLS13eWFKMmJQZ2Q4VWUwTTJ4MWVRRkNKdzBDT2hhQkxvUDdQOHNSODNSeE9ZR2NNSXZtanc0WmFWQXQ1N2ZYbXpQOGVJeWdwLXE3Y0p6MTRKdWpCd3BoWGU0eDdiTGYzcE5raDBXNWpPU1JuSVpISDJrMUdJS2U5SXAxS1Vrc1JpNVE4bEJOWVlTU3FVNW9YZzRwODBsdEtyT2JNWG5SMzFDTV9EUVlZZXQ5OUszRUVsN1cxb1QtTk1KYTloME53VXJ5WFdYM3JtZmpvQWw2V1VfektaVTNQcUxKdmJRWQ?oc=5",
     "news_image": "",
     "news_source": "Le Monde.fr",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "co2",
+      "renew",
+      "forest",
+      "pm25"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -41260,15 +41260,19 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.64,
+    "news_score": 0.45,
     "news_title": "US demands a seat for Europe at Ukraine peace talks - POLITICO.eu",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2l3RHlLam9ic184VDI1cDlhbUdQY2dZN2JXNGRJaEpUc3pWYnZEZWJDYm1rOVVfVWg2OWgxbTZIbnZDT1RDWXpzcXliaHlheWNnc2pPeFhDR05ocTNsZjlkYjlyM2ZURUcxTFk5NzktTVY3YUdfR0hneFNfUmp2US12YVVZQ2NZQ3pySHRnOWMteTlSRl9BZWRnaElVU0NueTFV?oc=5",
     "news_image": "",
     "news_source": "POLITICO.eu",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -42534,10 +42538,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFdnMTRSWTBfRkRWWE9uOUpRREZFcmxNMFoxb3pjSVZPRlg0ZHoteXRUUFRWOGFDNmpsb3VzR0ZxNlNXVUNNQzVSSmI4dUxQbkw1cDZnRlNTVGtJajNkdGRxdFAxWlVmZXdfc0hnN3hKekxaQ0FiMEtYZ3RLMklpazgtSUEzM1diZ3REdkktREpidnZHS21wUFhhNzJCdmvSAbMBQVVfeXFMUERNY2c0Y1d0STJJZk1Cc3FxV3lYYndDSG1FWXNTeWhYbmNtSkZVcmFDVDk5LXlXTGN6QU9HY3FnM0dOMFpjVjVnMExkdXV5RmhvakN5RFlRbjZka3BzcElmczBsQzItWHhpMjJCNkdTY3c5TDR5WmFNRWxnVVl2U1prb2RtOFBIem5aVVlUbzI4SW1NY2V0a3pwSUxRS0FmQkRLSi1sbkw3eUl1ODlEZnpDdTA?oc=5",
     "news_image": "",
     "news_source": "Fox 10 News",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic",
+      "fifa_w",
       "basket"
     ],
     "bottom50_wealth": 1.5,
