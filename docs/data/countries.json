@@ -2555,12 +2555,12 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.01,
-    "news_title": "Australia and the Global Economy – The Terms of Trade Boom | Explainer | Education - www.rba.gov.au",
-    "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbi1LWXdGcTlnVU15dHJtY2VrMHRSQkUzLWpLek9oeXFRRms4Z3lNanpWR2RZSWJxZmtwZGNPdU03SWR6ejYzaWtlZmZLUnNhQVYxZ2JjZ0lkVFIxRGxfZ2xwSFZUdDJfZzV2cHZNZ2ltdmJ2Qk1ZRTZzUHJpNzRkamYyYWJzTWZkZHhJSWo0SWZfUFFJSlE?oc=5",
+    "news_score": 0.34,
+    "news_title": "Cricket Australia rules out reopening ‘Sandpapergate’ inquiry despite Khawaja claims - Yahoo Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTjU0TlhaVDFFeXFsUXVQeFlkNml1elYwRjlBVm4tOTBWU1h0LXlBbGVMY1N4MlQ5aUdjbENIaFg5VUUtZm5HQ1lKeE9QT21JbVRsQTBNck11SDhlOEZQbjNEdzlMQVNrZG95Z2tFdzRaLVZCdmhaUU9ITUdtOWN0MUpac2lHbkwxM1FWcHM5dlFPZmJJT2R5YWZNSnc?oc=5",
     "news_image": "",
-    "news_source": "www.rba.gov.au",
-    "news_age": "76729h ago",
+    "news_source": "Yahoo Sports",
+    "news_age": "61m ago",
     "news_columns": [
       "co2_emissions",
       "climate_index"
@@ -5581,16 +5581,15 @@
     "refugees_rank": null,
     "union_rate": 73.2,
     "union_rate_rank": null,
-    "news_score": 0.87,
+    "news_score": 1.2,
     "news_title": "Beyond business optimism: New SeeNext index reveals Bulgaria's structural challenge - SeeNews",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOVp6VkllWVRuc3Y5Q3pCNzY3MFBNNDl5bGdHbmljZE1ZVVRTSy1kN1h2NFpUSjNTOXplaEhuTHFmUmEyTDc0empWcjc5TG1ZS1BBNGNVUFhBWWlhYnc3cGFtUC1kWXVUTjdNUi11NS1xUWpnNHJBQ2RjZjFsN0YwVE56bUlxYlgtUWJBNjBKVnVvZ1c3WGgwTEVXcGZqM3lqNjZhYy1FVk1ZS2NvZUFwc0NKUlc?oc=5",
     "news_image": "",
     "news_source": "SeeNews",
-    "news_age": "30m ago",
+    "news_age": "32m ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "trade_balance",
+      "gdp_growth"
     ],
     "bottom50_wealth": null
   },
@@ -6943,7 +6942,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.24,
+    "news_score": 0.17,
     "news_title": "Zach Edey plans to play for Canada in World Cup if healthy - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc0VrdUk5eVdFS2RoSUR0bTVyc1RuS3Exd25kTHIwRUpCODY3Y21ubmVyTU9McWdzYlJjc2JOcDBoTkc3NTVMNUF5QUpFaWJLVzQxRzY1d3Njdk1RdWVTMFFwUnJPNTh4MGpkR1JyeHBNYU5pZnpHcG1YMDVjekxNQ3Bn?oc=5",
     "news_image": "",
@@ -6952,7 +6951,8 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "world_cup"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -8015,15 +8015,19 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.64,
+    "news_score": 1.78,
     "news_title": "Opinion | Chinese investment in African manufacturing could change the world - South China Morning Post",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1l0aGFvN1EzeVNubWJTZWN5UE52QVRUWTVWWVJpNE84aFZTaTFuLWN1LWFmRUs3Wnc1WjlkZ2hNa1VlUXlCU1dKRXJ3SkNQRGhhSDVLZXFpY3pSQmZXSW5SMUx5N09qdVRaNUxZY01ZWUk1b3YtTUFTQXpCc3NCbTBVaUUyRTcxRnA1UlFYeE5WWDNfd1FHRE50RmRCd2xHc1liYndqRU1lV28xdXg0Rm5ia2p4QVFSekHSAboBQVVfeXFMTzRsNlVHUE1hajVJMU40UnUwd0s4ME1oSDNtT01ENnBjaDFZUkRHanNPUnlTZDlTZWZUbllHS0p4c3prWnpCYnZqMmJoOW5aMzllUWpBRVZGVnVlN0UzUk44VjctaklaOVNZX0pjMkVtcE9KTGtzQkNzTnNHaDNyc1JnampZTGs0cjhLRWRudjc0QTFycV85UVlaczFpZUlsczh3aHVJd3N3V29rN05kVDRTLV9Ha0h6X3Nn?oc=5",
     "news_image": "",
     "news_source": "South China Morning Post",
-    "news_age": "27m ago",
+    "news_age": "29m ago",
     "news_columns": [
+      "co2_emissions",
+      "climate_index",
       "trade_balance",
-      "exports"
+      "gdp_growth",
+      "market_cap",
+      "ai_index"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13030,17 +13034,18 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.43,
-    "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
-    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
+    "news_score": 0.58,
+    "news_title": "France well positioned to claim ECB chief economist post, Moulin says - Reuters",
+    "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVWJfOTRZaGJTbmk2U3VPdTF2V3hMSkpvaFVrVzA0WjEyLUhabzFSZXE3RWU1QzdlQmNrbVZhNXU2RFFsRXUzQUNhUjVqc1RVUUJpQWFDN0ZjTkVyY3JaNFhoUXFuMVEwR2pWN3ZJR3R3S21NUjlyOTRKcDkwWnRORGlwQmdPM3NrMUhrSVR2SkM4X1M3Y1cwbEJHekJic1NQZVBWR283bHZNY21DSGhOdm91Z2VUQzVmbEE?oc=5",
     "news_image": "",
-    "news_source": "The Washington Post",
-    "news_age": "4h ago",
+    "news_source": "Reuters",
+    "news_age": "62m ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -14074,7 +14079,7 @@
     "news_age": "29h ago",
     "news_columns": [
       "trade_balance",
-      "exports"
+      "gdp_growth"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -17395,15 +17400,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.5,
+    "news_score": 1.6,
     "news_title": "Hegseth impeachment effort begins in House, focused on Iran war - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlZ2Z0szYjlfTTBaZndNSUJHY0lLNlVGVDVpb2N2a3BTX09WR2U1cjVpWHZvNEdfQm4xLVFRM3cycmdrazk3Q25Gc05YSkgtOGF5eDROb2NfcTVZRG5yRE5hZVRKQ19XQk1INzdrTTVGZDBCbmpDOXU5NEJESHE5NHNCNGkwMUJSZVBPamlZc0M2MU9Ibng4dVJ5YjdZaE93MUd0SWtGZEt2ZHZndmpvRDZIbFROZjFJ?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "2h ago",
+    "news_age": "75m ago",
     "news_columns": [
-      "election_polls",
-      "approval_rating"
+      "approval_rating",
+      "election_polls"
     ],
     "bottom50_wealth": null
   },
@@ -24829,7 +24834,7 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.06,
+    "news_score": 0.04,
     "news_title": "Mexico Sees Science Funding Surge, Tech Expansion - Mexico Business News",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkpjSndSOUJsdjFxdFU5TG03VTBuSDFDekxKTS14Q3dSZHBNSkRlNFR1amJTQjBBdHZWeWFuc2RfcnFkYmxIcEt3QnZFS2JxcUFscmp0QmtTc3NGdW4tb3JnS09tYUNCX2pNWFNBeGF6a1lSQ0R2SFBHWVpKaGczelZHdm5qdVRzSUw5ZHIyQmF3Zw?oc=5",
     "news_image": "",
@@ -26138,7 +26143,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SdVpvLTl3Qi01N0RVTWxpRXZJdkg4ODlRa2NIRmZDWXlreTYzc3Fac3NMWTh2NFlwMS1POVlaTVVlUWVxbF9tUmI1OGxEQWdsektXdE1UQQ?oc=5",
     "news_image": "",
     "news_source": "UN News",
-    "news_age": "11h ago",
+    "news_age": "12h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -31670,7 +31675,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZkVPSnVPV3ZVcGdRdGgxN1JDV3BWSk51WnZLcjEwZ3JVSFFabEdBZmR6TktQZ2I2UFRtRkI4QUlhMnRldzg1YUNxQUI3TTlWc2ZTRk9mdXRpUThvcENvSmxzUDQ1LWFaTjNtb3VLdW0zSEcyd1VLc0xPS2gtQTdoRjY3VmV0VkxjeEtzVS03ZE5zMS04c0FyN1NFOGhnbXh0QlJPdkkwZk9JVW8?oc=5",
     "news_image": "",
     "news_source": "WSJ",
-    "news_age": "107m ago",
+    "news_age": "109m ago",
     "news_columns": [
       "politics",
       "conflict"
@@ -42547,12 +42552,12 @@
     "news_columns": [
       "nfl",
       "qb_rating",
-      "playoff_odds",
-      "fifa_ranking",
-      "fifa_w",
-      "world_cup",
-      "trade_balance",
-      "exports"
+      "rushing_yards",
+      "team_grade",
+      "co2_emissions",
+      "climate_index",
+      "approval_rating",
+      "election_polls"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43755,12 +43760,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.98,
+    "news_score": 0.97,
     "news_title": "Vietnam Union of Science and Technology implements labor health care plan - Laodong.vn",
     "news_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONnJtVlpqWjlIQ2hHbXFDanotRVpTbWRfWUhueXZkSnROT29KU3Zvd3E1Y283ekp4cDl6UmsyOHVHdHFQQ0EzdTNoUG1mTWd1cDJQOUtCUlROc2s4RkEwek54NFN0bXo2dWtQNExfeDBRREJXYjIxbkhRQTJYSTZqMU03Q2lHa0hXd2I0Q0Z1bUJtVG1rNmJhVF9JSlRXVjV1a1JZc1RzVUQ0Z1J0UkhIT3Rhc1FKU3p0NTlsQXl1TDJqMjNMNENiSThZd21tdw?oc=5",
     "news_image": "",
     "news_source": "Laodong.vn",
-    "news_age": "89m ago",
+    "news_age": "91m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -44291,7 +44296,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SdVpvLTl3Qi01N0RVTWxpRXZJdkg4ODlRa2NIRmZDWXlreTYzc3Fac3NMWTh2NFlwMS1POVlaTVVlUWVxbF9tUmI1OGxEQWdsektXdE1UQQ?oc=5",
     "news_image": "",
     "news_source": "UN News",
-    "news_age": "11h ago",
+    "news_age": "12h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
