@@ -5165,15 +5165,18 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.93,
+    "news_score": 0.7,
     "news_title": "Ancelotti hails Brazil's new generation: We have quality youngsters 📹 - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZktzaTdydUhKZmo1RjV6SFJNSkE5LUE2bUdQejBjWVZmQlFfajZvQVQzMlpDTW9FR2haZUE0MDZWZ1NQZV92WVZ5cGQ3YkxDUEt5bDl1MVJEaDhTYkpIWC1uaWZMbzE4dnB6MTBidGJ5ekZ3QnRaT2RwRzR1NXgyQnJhWUdldktZQTJ0OFYwbTJSWkpnUHc?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "84m ago",
+    "news_age": "86m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -8020,17 +8023,16 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 3.76,
+    "news_score": 3.81,
     "news_title": "US and rest of world must follow China’s lead on green energy, says John Kerry - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaTBKYVBWUU91LXcyV2I4V2RUcUtjSGlpRHRYSXhuSkxQNEx3aWRJMkQ0MFZ4ZmJKQ1lmcUJVTXdXM3VDTDlOVFk3ZFQxTEcyMDE2OTVXZnVxOFMxY21NVDdUN0pXV3NmQmJhc3dRSnlxb3FqczNZaGRNQS10OVdFYkRGazY0ZEp3UXgyZUJmcy0?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "9m ago",
+    "news_age": "11m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13045,7 +13047,7 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13567,7 +13569,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.56,
+    "news_score": 0.55,
     "news_title": "SEC football recruiting rankings after Georgia flips another 5-star - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOElYV3IwRzZIbmFEc2RBY2dPNFVVVFpLNGFaZEZPTl9LZ0w2S09ubWNqbDRDem5hWndlZC1qdWdPNnNHTDVnOHRkS29wS2dUUGF4Z2FHMndySUFRNFc1U2lhclZRbkNDaGNQYThfblM4a0pGUHdwWl9UU3hYRkhiNkZzRWpmNXRSeXRYQ3pId1llc1U?oc=5",
     "news_image": "",
@@ -14069,19 +14071,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.45,
+    "news_score": 0.75,
     "news_title": "U.S. military moves aircraft from RAF Mildenhall base in U.K. to Germany, Spain, reportedly due to Iran threat - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOEs4NUJkZlRVMS0tMGt2QWw1Yk9pN0Jxbk0xSUJBbnhtbHFrbFhselFwbFVSRGs3WmJUNzhjUjJoQjVvdUE2ODA0Y0VpS1Y2OU1BdHA4T25SdTdxY3hRY0k0ZFNSMGVCZFFLQVRzLVh2M0RJMHBKV0VxcGM0UDIyNUF3VDl5YVZBOWN3Rjd4bldwckFmV3BkNVRZRTlTTy1TVUxz?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "86m ago",
+    "news_age": "88m ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16163,7 +16161,7 @@
     "refugees_rank": null,
     "union_rate": 78.3,
     "union_rate_rank": null,
-    "news_score": 0.17,
+    "news_score": 0.19,
     "news_title": "Hungary detains Viktor Orban's brother in people-smuggling probe, PM says - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaWtlUHNkRXpscUFMakl1dkxJREs1WktlV2NDWlRkc09FSjlGX3Y4ZjZGSkkzTy1ob0NuWktjc2dYVDVZZmwtdUZqd2dtTXFnbHdZVG5DYndNNWo3N1FpekpWTWkwVEdCUHVnQ19PUUhUZ3NMUEVsREFfVkh3V2ZSZ2FBS2dkQ0Uyak4zYmN1Zzh2eGtYZC01R25wN1hZUVlOdjZhbHUxZkFtS0hIMGZ0X0ZOLUU5MFAw?oc=5",
     "news_image": "",
@@ -17404,15 +17402,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 2.18,
+    "news_score": 2.38,
     "news_title": "Live Updates: Trump says U.S. keeping Iran war at \"status quo\" but warns American military \"locked and loaded\" - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zN0FDMkRwcDVyZGFpV0dvRnhidUVyU1hrc2pKQzJZMmlLZDF1bHZ0dzBtMDJLOXc5T0xNYmRuS2Q4eU1QQmFqaHJ1cVg0VGkxcWN3dEZLVlo1UlQ0ckZCaW52b0lHQzVZN2N6UElySjhIWDdXWVh5T24xcmh4Zw?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "21m ago",
+    "news_age": "23m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -18135,19 +18133,15 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.31,
+    "news_score": 0.71,
     "news_title": "Live Updates: Trump says U.S. keeping Iran war at \"status quo\" but warns American military \"locked and loaded\" - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zN0FDMkRwcDVyZGFpV0dvRnhidUVyU1hrc2pKQzJZMmlLZDF1bHZ0dzBtMDJLOXc5T0xNYmRuS2Q4eU1QQmFqaHJ1cVg0VGkxcWN3dEZLVlo1UlQ0ckZCaW52b0lHQzVZN2N6UElySjhIWDdXWVh5T24xcmh4Zw?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "21m ago",
+    "news_age": "23m ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
-      "military_pct",
-      "nuclear"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -19458,7 +19452,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.65,
+    "news_score": 0.64,
     "news_title": "Jordan Poole finished at -47 in the loss to the … - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWkxTV2NKbFNKUDBnWVN3blRxV2xIZktWTElFc05zUENITnI1MlZnLVdPQjhuX1ZPaUNiWDIxQTViQjNxYXhKTjBlX3cyUTR3ZEpOVHF6UkR3cDNIRVFoNmhvS3JsYXlzVWJodGUwUGEzN29KNThmRi1rNXhkZ0QtYUpSSVg?oc=5",
     "news_image": "",
@@ -27826,12 +27820,12 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 0.73,
+    "news_score": 0.72,
     "news_title": "The World's Best New Zealand Wines of 2026 - Wine-Searcher",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOE95YmFRbGFVekNrdHh5eWhhYkIycHAyc3RIN0JrQkVIeG16NV9tSGZnVFMtOWtGQ3ZCUy1YbVFnZnVxWWxDOG5aVERfQ0ZCazVncHpjbUNDSGM4M3VOWjUwYXJENEFrb2k1TzJ5T25oNHpWVEVWRE1OUHllVzV5N1ozRUpnd29Z?oc=5",
     "news_image": "",
     "news_source": "Wine-Searcher",
-    "news_age": "75m ago",
+    "news_age": "77m ago",
     "news_columns": [
       "alcohol",
       "beer",
@@ -28479,12 +28473,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 1.0,
+    "news_score": 0.96,
     "news_title": "NCC releases latest data as Nigeria's active mobile connections cross 200m - Legit News",
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWFhKalFyMFNzUnRPc2FkOFMzTTJUaHZ0cHBmcmNtejdENV96blNwdVRXYVp2RVhiV2tNaUlRTll0ajZ4RTI3VnpRUmZmcHo3cjFSZVRlUzRwT3AyREVQbmlYM2ZxYnFqeVJEQ29Da3o0LWNVVjVvb2hlbFRtdFY1QkJ2a3MtWXJHVFR4dmE1YUFoN0dPZGwxWVdLREdRdVpTei1lWkZpQl9Ub0ZoSE9uZVl2N1dseVpqTVZjRHluX0Riem90YVlHdEhGY1M?oc=5",
     "news_image": "",
     "news_source": "Legit News",
-    "news_age": "32m ago",
+    "news_age": "34m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic",
@@ -33146,12 +33140,12 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.25,
+    "news_score": 1.23,
     "news_title": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWFsNkFITi02Z1V3NGtpMndYU1JJZ1RKOUNYWW9tbWJvcHRpdDAwNGJzQlg1bURIS2pzMXA0UWRNRF9WY25QM1ppRTR0T1lqRzNRSTlzanQyeUY2WC1uOFJWQ3Mwd3pyMVFQcl8zTkZZeERfSTJQQ0g4WXFlWmpvdlI5RzNFeDNnVUUtdnZsVURBN2JPMmpYSEJUa2pXOWM?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "31m ago",
+    "news_age": "33m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -34326,12 +34320,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 120,
     "fifa_w_rank": 100,
-    "news_score": 0.8,
+    "news_score": 0.79,
     "news_title": "New CEOs for LTA, Home Team Science and Technology Agency from 2027 - Yahoo News Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vUzV3YjNpOVA2cEVXUTdEVzVCR2lCUXBRNXhpaE5zSEh4alRKRDItY2Q3eUEwMTZaRndNYzlnT2Y2Xzc1ZWtjZ0ZMZ2tRbTN6THJnaGNjM0hhTml4SUdPa0FPekNiZG1iamt2dmZETkF6bTBoWkE?oc=5",
     "news_image": "",
     "news_source": "Yahoo News Singapore",
-    "news_age": "55m ago",
+    "news_age": "57m ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -35663,19 +35657,15 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.91,
+    "news_score": 1.47,
     "news_title": "South Africa boss Des Ellis adds Wendy Shongwe for FIFA Women's World Cup playoffs - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRDJjNkVvUC1zREtKZ1d1dmcwSkMzcFpJU1l2MUtvRGJPTndDYThsUkZQaGFNNndBSEl3eXVjSUtkLUtOVklkR2dHYy03NW0xLVlIcDFJODdRUjNKUGdfN2pjaHVhN3JyR2huc3FJX2s0ZndvOHR0SWpBZWQ4eEpoTE5vSDNKZUE0U3NsamxrS2dlemVhcjc1dWt6TDh4ZHVabFZaMG9rY0lnazVSc0pXVDd3?oc=5",
     "news_image": "",
     "news_source": "ESPN",
-    "news_age": "32m ago",
+    "news_age": "34m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "gender",
-      "gender_gap"
+      "fifa_w"
     ],
     "bottom50_wealth": 1.2,
     "bottom50_wealth_rank": 29
@@ -36731,15 +36721,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.68,
+    "news_score": 0.83,
     "news_title": "U.S. military moves aircraft from RAF Mildenhall base in U.K. to Germany, Spain, reportedly due to Iran threat - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOEs4NUJkZlRVMS0tMGt2QWw1Yk9pN0Jxbk0xSUJBbnhtbHFrbFhselFwbFVSRGs3WmJUNzhjUjJoQjVvdUE2ODA0Y0VpS1Y2OU1BdHA4T25SdTdxY3hRY0k0ZFNSMGVCZFFLQVRzLVh2M0RJMHBKV0VxcGM0UDIyNUF3VDl5YVZBOWN3Rjd4bldwckFmV3BkNVRZRTlTTy1TVUxz?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "86m ago",
+    "news_age": "88m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5,
@@ -40310,8 +40300,8 @@
     "news_source": "The New York Times",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -41263,12 +41253,12 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 1.25,
+    "news_score": 1.23,
     "news_title": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWFsNkFITi02Z1V3NGtpMndYU1JJZ1RKOUNYWW9tbWJvcHRpdDAwNGJzQlg1bURIS2pzMXA0UWRNRF9WY25QM1ppRTR0T1lqRzNRSTlzanQyeUY2WC1uOFJWQ3Mwd3pyMVFQcl8zTkZZeERfSTJQQ0g4WXFlWmpvdlI5RzNFeDNnVUUtdnZsVURBN2JPMmpYSEJUa2pXOWM?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "31m ago",
+    "news_age": "33m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -42539,10 +42529,9 @@
     "news_source": "Fox 10 News",
     "news_age": "7h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
       "olympic",
-      "basket"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
