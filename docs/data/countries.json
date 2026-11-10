@@ -2561,9 +2561,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb3hYUUNRWUNUTG5MY3RhcktNNUIydndmUFdER2V6MXRXb1JQbG5CQkY3NkU5M0c3MjU3bENFRW16VEUxV3dZandlQUdFUmpsYkFFMjJJb1hnOUdVd19QQjk4VEdIVjBfM1hOamJJaFd3RFgtQ2RYOGJxOXc5MDM3eDhSUXM2V2JKeExrYklqaS1CMEo1blF4V0JCVl90QnlSVmR3ekozYU5ZYm9kX2E3QUFQUFdZMkNVaE1BR3dGYzZFOEdJT3hmcVNNR0R1OEN6UXdVZnpSUHpEQ1l3OW40?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "24m ago",
+    "news_age": "26m ago",
     "news_columns": [
-      "olympic"
+      "climate",
+      "environment"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3322,7 +3323,7 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.08,
+    "news_score": 0.09,
     "news_title": "Banks back away from Standard Chartered Bangladesh retail business sale - The Daily Star",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMWgyX0ZTd2tpU2JaWGtwLXMtVlNmR1hrSFF2WXJCZUtzUVNEN1Z1V3M5NVQyZ2l3QW9qSk1reTFpQXBfOFVZM1AydWh4RlYwTXNLOVhLSEJ6RlZvUlJTZVpwc1lmS25ndE9leHRkbVctbHJoSk9VQjJBVnJjellfTnprQllKUHFBdkVHYjVhTFBHeE90TnJfZ1VHMXpBV0Z1Y0pwaWFUZFQ1SXc2Zk1IOHcxOHlLT3FQb1A2VXhUclF2bUE?oc=5",
     "news_image": "",
@@ -8016,12 +8017,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.63,
-    "news_title": "Trump says Nvidia CEO told him he had no idea woman he had affair with was Chinese spy - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VYUxyVHdHSk13YlNwc0JfajNMejBiRVAwYzJPbGl1cG9fZUlsUFZOSHNhWVJodHBFYTR3dFBraWlUbVd2cTl5Vl81cjhlS21RR1hoM0x4dWI4bk0?oc=5",
+    "news_score": 0.46,
+    "news_title": "Xi Jinping’s plan for a China-centric world order - The Economist",
+    "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0h5Rk8wZGVqdVJvd2RhYlZpWVpIYTVuWi1CcHduNGdDdmhKZlN6TkllYk9fN2pNT2lDR09xd3FLWEtDVVcyX01ZaThJanFqelQ2ZnN6RXRKQmQ2MzEyejF4SFYyWEs1ZFF5NGZfcWl0NVlDTU1XNVFJWDJ5a093ZUlQdE0wOFRNNnZhMl9PVUJMTlFkR2c?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "62m ago",
+    "news_source": "The Economist",
+    "news_age": "9h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -9561,7 +9562,7 @@
     "refugees_rank": null,
     "union_rate": 77.5,
     "union_rate_rank": null,
-    "news_score": 0.1,
+    "news_score": 0.09,
     "news_title": "Bubenik Represents Czech Republic At U23 Baseball World Cup - UNC Wilmington Athletics",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUQyRFhnUWtGLU5zaHlTS2lOMFJNSVFxRXJPck0tdUxlMUNfcGlfcVBOU2tIdnd3YTdPQXQxZE5NRW5UVlhfTHlDY2paSUlWeWNmdUVaTGtmTWY1WjhmNlhWVTZnVk5hSUNfeVJpZVNRblRpak1BZFpISlowMGxncEdRZTVGOGlQTms4TTk1ZlNlWW1MbGF3dWU5NF9QdE00cVoyZA?oc=5",
     "news_image": "",
@@ -10949,7 +10950,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaHhrYnE5MExPNW0zVGUtRlhPMktnQXRVdmV0WTFWdFk0S05PNU9VYXNXWE9FeDVDazZZRE40dHVZbnJPa3BmWGV1a1Y2SHN1WTFObGE1M0VIeTUzbHpBTXc1X0lXOW5ISG5FVThVV3dMVXVJelM0d2xDdk5kcXR1MjI5blBMQ0xQTXJiNkpDS3ZfWFBEcy1neDl5cjJNTWZfTjdIYnRPSG1wcWtLT2REQkEweGlWSVJ4WFhkMG12TjJuQjQ?oc=5",
     "news_image": "",
     "news_source": "Ahram Online",
-    "news_age": "14h ago",
+    "news_age": "15h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -13034,15 +13035,18 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.32,
+    "news_score": 1.3,
     "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "32m ago",
+    "news_age": "34m ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "climate",
+      "environment",
+      "fifa_ranking",
+      "fifa_w",
+      "football"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17400,14 +17404,17 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.88,
+    "news_score": 1.35,
     "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "32m ago",
+    "news_age": "34m ago",
     "news_columns": [
-      "fifa_ranking"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves"
     ],
     "bottom50_wealth": null
   },
@@ -18130,7 +18137,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.07,
+    "news_score": 0.12,
     "news_title": "‘Curb your antisemitism’: Anti-Israel bike protesters met with Philly boos and humor - The Times of Israel",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUEJxUGNEOWszcW9nQmU3STkzSHlVY2FqUmVFQ19ncWw5QkdKVk80RjYwaTJReEFHdVJ1WG5fNkdFbGpNa19LS3psQ1FGY2pBT01OTWRkRy1zc09uTEQ0WEYxdG14RC1GdlRMbWluN2swWGxuVnRaWGVjeERCcEQ1TGU4aG1uMEU3V1hDZ0UzN3FfN0h0dTEyQktJeTZueFU1b0xBRHlqN1BHUEk5eHhGSVVB0gG3AUFVX3lxTE5Sd28yd0o4ZjRoM0VjaUV1MGYwNFVsSHhOWVVCdmNlMzF0SmFLbDhjcmR5S3hzRHppdUVUNTM2TVdUZVFpTTI4OUZ6cVF4ckdndXBtRzJnaE9yT0FDbDFFZm5XTW9NMUtiRVBxMEhhdkhIUlhKcjNrUFFMV3ptaWVjTHdxNkk5SlNnRmpiY2dNNGk5TEZ0OVpvWkk0OTV6eTl0NmhKSFNrS3JOX290dGJtcHhkTlJYbw?oc=5",
     "news_image": "",
@@ -19446,7 +19453,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 1.35,
+    "news_score": 1.34,
     "news_title": "Eagles Updated Draft Capital Following The Jordan Davis Trade - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX0VPNkdrMjdLTC10N015Y3JnaFBkWGZUd3p0MHVGaHRQZlZ5M1lHVzcxOEphcnpLVmlETU9yRWlFVUZsQjhfWmhhQXdiQURIMFhjUEhzbXFzaDdsTC1NNHc5SElHTUJTZHpnWGFHN2tzbTJKSmhPa0h4Sy1Pb0RpTUlSeGpZMDNwZjAzYzBRVGhpRE5GZ1MzcExBTdIBmwFBVV95cUxOaG1qNmFoSlhGcGcwQTRIYjFoQzBvaUJ6dEROS1V5VkxKTm1HZ1VlOFQtdnpkY1E5aHBIYkdoV05HUkZiRjhHeGZpQkZxSmRSdFBHSDRpUDJSMmt6UGNkVmZrd19fMll1bjlDV084WVplNElzNU5aVXZtdmRpRTBucmg0RTZlUmhHTFZjX0ZHMGN6X1J5dWxhWDBlOA?oc=5",
     "news_image": "",
@@ -29692,7 +29699,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONXVUVWNpeHA2TUZTVERhTVhyc0M3X3puaEZfc2tLajJfYUp5dVowZDNudEtWRGNvWVJKZFBvZDJDblFOeS1VRWpvVjlYYkFuMVFpNXU5Szc1VVJsdEN3MGh3Snlwbk53SkVaWVNRdldLeTlEdkcyZmE1U0I1djVBRGJ3?oc=5",
     "news_image": "",
     "news_source": "Arabian Business",
-    "news_age": "13h ago",
+    "news_age": "14h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -30506,7 +30513,7 @@
     "union_rate": 71.9,
     "union_rate_rank": null,
     "fifa_w_rank": 48,
-    "news_score": 0.03,
+    "news_score": 0.04,
     "news_title": "From London to Panama: WTTC’s Gloria Guevara Puts the $1.8 Trillion Business Events Economy in the Spotlight - eTurboNews",
     "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiMThGM2ZTYk05WDRWQ1F0LXhXMy0xQk1IQklxWDczc3ItVXpoRWlBOHAwT2FVZG9hZ0RZRnpEdUFZLXNob0JGdkNTU3B5NWs4TFZ0RHY4NHRwM08zYWExamNqeFk5Z0FnMXZsOWF3?oc=5",
     "news_image": "",
@@ -33138,14 +33145,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.13,
+    "news_score": 0.1,
     "news_title": "Norway says it has been bumped for Russia to compete at world juniors in Canada - Global News",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUVViNDNucTJRS3o1SDJGN1VtSGMtSTBVSTBORkdqQWxYY0Izd1I3ZlZScFNhdHpzNkl6MzVXVGRhN2ZoeUdQXzZLbEFjS0xDS1o3cDI4R2tlbl9HSS1kTmxsTm4wUVNOLW1KbURHYXU5QVlLRWhfMndlSTdYWVlfY1RKT1Y?oc=5",
     "news_image": "",
     "news_source": "Global News",
     "news_age": "13h ago",
     "news_columns": [
-      "olympic"
+      "geopolitics",
+      "conflict"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -40310,7 +40318,8 @@
     "news_source": "NPR",
     "news_age": "4h ago",
     "news_columns": [
-      "olympic"
+      "climate",
+      "environment"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -41262,14 +41271,15 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.7,
+    "news_score": 0.67,
     "news_title": "Ukraine peace talks resume in Abu Dhabi after months-long pause - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nOTZJMmkxOUs1TDloQTA0bGctdEpXVmotNVFaZ3dIYjFmbnJ1MmFVY3AxM3QzeE9lRUM0WXZPZnpnVzNCWU1EbzZkeDBqOTlQQTV2d3E2ckNvWG8?oc=5",
     "news_image": "",
     "news_source": "BBC",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic"
+      "geopolitics",
+      "conflict"
     ],
     "bottom50_wealth": null
   },
@@ -42530,16 +42540,17 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.02,
+    "news_score": 1.01,
     "news_title": "SS United States deployment moved up to Veterans Day - ABC7 WWSB",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObEZEWHkyTXpZNllTb1NpanBoSkI2bklqbXBET0lxcU9DR2xIdmFhbjlVRFhYY29UOTBPUm5LUGltMWlPODNUUnR1RHRrM29UbVVMS2ZncXl4X0h4N1hEaXRzVHoyX25Zenl0SGxzaDNhRGdYOEdpbVdJVm1xYzRyTllmN3EwQ0VMaC1MSE1odXlGZ9IBpgFBVV95cUxQLVdkcVhHbmpYeEotWUdfTjFqTmhPU0ZRQWpBUTcxcmRJbklMZ3FPUllXVllRSjBzSnNYb3hQUldsaHZ6SkFSalhsanJxT0hULU9rd2o4U3BnTDhVRldKMjM4N2hrVTBOakVfNEl4RHNFVndJcXUxNWItUGNFOUY2MW43b0hQRy1yR0xGeEdsNWd5cmZ3V3JKNWdjUExUOXJJOWh6cWlR?oc=5",
     "news_image": "",
     "news_source": "ABC7 WWSB",
-    "news_age": "91m ago",
+    "news_age": "93m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "basket"
+      "nfl",
+      "football",
+      "politics",
+      "immigration"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43745,7 +43756,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM1RuMmZaTnlaY295TW1Kd3l5WUJ3RHBGSTlXeEZqRnJGUGItdUJOV3pzNHF1VUhrY1VnRmRsakVEZ2VFeFdhMk8tcnRJY05uV1FfdGdVN3ZETGxjTC1DRjF2UEk4bVQ0Q1N1Y0Q4OFlfaDdKWUhTZkZvQ0dLVTA3ODVsZXdVVDk3eDRab3VzMGNOZ2lCMFBkUUpfTnBVUElGeGc5M3pvMmZNRy1RelRRbEJOdmxQdW5QYVYw?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "20m ago",
+    "news_age": "22m ago",
     "news_columns": [
       "car_density",
       "gas_price",
