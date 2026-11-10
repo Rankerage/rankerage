@@ -1927,15 +1927,19 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.44,
+    "news_score": 0.32,
     "news_title": "Pope urges Argentina to protect the vulnerable from Milei’s austerity measures - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeVRYYVFlTmhzSWxTS2N2VjJUX0kwVzBDVTZhSlpqTzFmUUFIUDZhdV9kX0ZtLXVpX3ZtcUV5dGNyQ1lXWURvWTZGYmhkaVNES1Y2dzRDcE0zN1hwazI4bFo1MzhSNHRBTGZRR3RSLUVYX2g5Q3RaQ3ozenp6MGg3MnhxQ0xTdnp5QnFiNUlmU0FvWFEtQS1WTjZXZjJYTUllSnFPTG85dGxubmNCZ0xEd1lB?oc=5",
     "news_image": "",
     "news_source": "AP News",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "democracy",
+      "approval",
+      "press",
+      "election_days",
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": null
   },
@@ -3323,7 +3327,7 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.11,
+    "news_score": 0.12,
     "news_title": "Banks back away from Standard Chartered Bangladesh retail business sale - The Daily Star",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMWgyX0ZTd2tpU2JaWGtwLXMtVlNmR1hrSFF2WXJCZUtzUVNEN1Z1V3M5NVQyZ2l3QW9qSk1reTFpQXBfOFVZM1AydWh4RlYwTXNLOVhLSEJ6RlZvUlJTZVpwc1lmS25ndE9leHRkbVctbHJoSk9VQjJBVnJjellfTnprQllKUHFBdkVHYjVhTFBHeE90TnJfZ1VHMXpBV0Z1Y0pwaWFUZFQ1SXc2Zk1IOHcxOHlLT3FQb1A2VXhUclF2bUE?oc=5",
     "news_image": "",
@@ -8017,7 +8021,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.08,
+    "news_score": 0.1,
     "news_title": "Xi Jinping’s plan for a China-centric world order - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0h5Rk8wZGVqdVJvd2RhYlZpWVpIYTVuWi1CcHduNGdDdmhKZlN6TkllYk9fN2pNT2lDR09xd3FLWEtDVVcyX01ZaThJanFqelQ2ZnN6RXRKQmQ2MzEyejF4SFYyWEs1ZFF5NGZfcWl0NVlDTU1XNVFJWDJ5a093ZUlQdE0wOFRNNnZhMl9PVUJMTlFkR2c?oc=5",
     "news_image": "",
@@ -13034,16 +13038,17 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.72,
-    "news_title": "France accuses Iran of cyber 'sabotage' in fridge attacks - NPR",
-    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeUplTVAyd1RlSTdLeEpNTmVTVjAtM0t4anNTMDg4ZEFTWHB5WndSVmV6WnRoWW1rT2JzaDFkZDA3ckJiUkQ5MGZSaFZERE92M1FPUlVnVVpFUnZhOEszME5DWl8yNW9rZGpBVDJxRVdQd3dLZzhSQmlnRUxybl9qZnlUOV94ZjVnT3UwSw?oc=5",
+    "news_score": 0.85,
+    "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
+    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
-    "news_source": "NPR",
-    "news_age": "3h ago",
+    "news_source": "The Washington Post",
+    "news_age": "8m ago",
     "news_columns": [
-      "olympic",
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17401,14 +17406,17 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.46,
-    "news_title": "The Iran War Unexpectedly Drove Down Carbon Emissions This Year - The New York Times",
-    "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41YnJEdXJIUUJDd0FYYVVtUnVDZnBPSDhZQnBaRk93cFdRZEs3U0NKd2VWaVh2ODZwVVpURGhaWEJVbjdMY2llRkNuMW82dnA1cjQ1TkxobWZPQkRONE9NVzdEVlZHWjJTNU5sdFJ0ZElac2I1Rk8zOC1ILXdRQQ?oc=5",
+    "news_score": 1.58,
+    "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
+    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
-    "news_source": "The New York Times",
-    "news_age": "80m ago",
+    "news_source": "The Washington Post",
+    "news_age": "8m ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -19262,7 +19270,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.15,
+    "news_score": 0.11,
     "news_title": "Vietnam and Japan strengthen economic ties and cooperation in science and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcEFucnZ3RUVCOFRydGFqTWdGdTZxdGh3ZkNyVmdKRzRTRXFIbU9oTnFQcF9qSVlnMklpSXZ2RndWZVZTUUxPOGxXakViTHFGSkkzWDlxS0pRTjR3SmJZRi1IRGRpRGtLNGNmUWVJU1dmMzUyNlk3ZC1tczJVLXU1X01qQkxMLVJvRXMwX0NhUGFyUHdCSklQZkxfVkRNMTQ?oc=5",
     "news_image": "",
@@ -19447,12 +19455,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 1.67,
-    "news_title": "Eagles Trade Jordan Davis to Jaguars in Blockbuster Deadline Deal - Yahoo Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY3NraXF0TVVhcFAwWFBZN0dQRHVSeG5CdU1IYmdxZkxUQWNXbWcyR1JZY3FrXzhjS2R6UmdwWXR4TVVCVjVOM2x1cGppQjlnc0VTb09iV3dYOWhPdk5KLWNIOWNXWkwwSXdSZTZrejd3b3ZCcnBIald3NWZrbW9iTE83RkJ6RzVoQ3c?oc=5",
+    "news_score": 1.6,
+    "news_title": "Eagles Updated Draft Capital Following The Jordan Davis Trade - FOX Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX0VPNkdrMjdLTC10N015Y3JnaFBkWGZUd3p0MHVGaHRQZlZ5M1lHVzcxOEphcnpLVmlETU9yRWlFVUZsQjhfWmhhQXdiQURIMFhjUEhzbXFzaDdsTC1NNHc5SElHTUJTZHpnWGFHN2tzbTJKSmhPa0h4Sy1Pb0RpTUlSeGpZMDNwZjAzYzBRVGhpRE5GZ1MzcExBTdIBmwFBVV95cUxOaG1qNmFoSlhGcGcwQTRIYjFoQzBvaUJ6dEROS1V5VkxKTm1HZ1VlOFQtdnpkY1E5aHBIYkdoV05HUkZiRjhHeGZpQkZxSmRSdFBHSDRpUDJSMmt6UGNkVmZrd19fMll1bjlDV084WVplNElzNU5aVXZtdmRpRTBucmg0RTZlUmhHTFZjX0ZHMGN6X1J5dWxhWDBlOA?oc=5",
     "news_image": "",
-    "news_source": "Yahoo Sports",
-    "news_age": "10m ago",
+    "news_source": "FOX Sports",
+    "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -33139,14 +33147,17 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.76,
+    "news_score": 0.74,
     "news_title": "Ukraine peace talks resume in Abu Dhabi after months-long pause - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nOTZJMmkxOUs1TDloQTA0bGctdEpXVmotNVFaZ3dIYjFmbnJ1MmFVY3AxM3QzeE9lRUM0WXZPZnpnVzNCWU1EbzZkeDBqOTlQQTV2d3E2ckNvWG8?oc=5",
     "news_image": "",
     "news_source": "BBC",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -40304,14 +40315,17 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.42,
+    "news_score": 0.33,
     "news_title": "Turkey hosts world climate summit, but some critics accuse it of 'greenwashing' - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEdZWldiV1pQbnZTWE1LX0NtaXl6c0tyTXZkTk9WcHczLXZINmM3WjdMdEszd3FGWERyZmhQVG9zZE55N0pKemtMOVFMWlE4QUFEZzZfaUtPVkJnZGVSUG9NNzNtTXVoUVlTT1FNaTc1NnJwZEFoRENWSlI1X2xGUjVTTXBpblR2M2s2SllZeGxIWWl1SFBHcHYyZmVxbEZCcFVyZ0c2bTJ6LWhqZF9wY0xyMDdsTlpqcDRLQm1R?oc=5",
     "news_image": "",
     "news_source": "NPR",
     "news_age": "4h ago",
     "news_columns": [
-      "olympic"
+      "co2",
+      "renew",
+      "forest",
+      "pm25"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -41263,14 +41277,17 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.74,
+    "news_score": 0.73,
     "news_title": "Ukraine peace talks resume in Abu Dhabi after months-long pause - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nOTZJMmkxOUs1TDloQTA0bGctdEpXVmotNVFaZ3dIYjFmbnJ1MmFVY3AxM3QzeE9lRUM0WXZPZnpnVzNCWU1EbzZkeDBqOTlQQTV2d3E2ckNvWG8?oc=5",
     "news_image": "",
     "news_source": "BBC",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -42536,11 +42553,12 @@
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObEZEWHkyTXpZNllTb1NpanBoSkI2bklqbXBET0lxcU9DR2xIdmFhbjlVRFhYY29UOTBPUm5LUGltMWlPODNUUnR1RHRrM29UbVVMS2ZncXl4X0h4N1hEaXRzVHoyX25Zenl0SGxzaDNhRGdYOEdpbVdJVm1xYzRyTllmN3EwQ0VMaC1MSE1odXlGZ9IBpgFBVV95cUxQLVdkcVhHbmpYeEotWUdfTjFqTmhPU0ZRQWpBUTcxcmRJbklMZ3FPUllXVllRSjBzSnNYb3hQUldsaHZ6SkFSalhsanJxT0hULU9rd2o4U3BnTDhVRldKMjM4N2hrVTBOakVfNEl4RHNFVndJcXUxNWItUGNFOUY2MW43b0hQRy1yR0xGeEdsNWd5cmZ3V3JKNWdjUExUOXJJOWh6cWlR?oc=5",
     "news_image": "",
     "news_source": "ABC7 WWSB",
-    "news_age": "65m ago",
+    "news_age": "67m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
