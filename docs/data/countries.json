@@ -1480,7 +1480,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.35,
+    "news_score": 0.34,
     "news_title": "Meet Stephanie Case - the first woman to run 100 miles in Antarctica - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeVp1MmVQdklueUxEV0JoaTk1TlR4c0NmYmpHU0pLZVpNRmZPV2tNT1NyLVFiNHI1ejZGLWtlbW8zQWptZzU3a1JCSVhtWlpma1N3QkU0bFNHdVZsa1NZRFY1VVhLWnVIekdSOXVzaC1xYXNBejlNak1Wd0d6YmVtLVFic3RVU0U?oc=5",
     "news_image": "",
@@ -1927,18 +1927,15 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.0,
-    "news_title": "Pope urges Argentina to protect the vulnerable from Milei’s austerity measures - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeVRYYVFlTmhzSWxTS2N2VjJUX0kwVzBDVTZhSlpqTzFmUUFIUDZhdV9kX0ZtLXVpX3ZtcUV5dGNyQ1lXWURvWTZGYmhkaVNES1Y2dzRDcE0zN1hwazI4bFo1MzhSNHRBTGZRR3RSLUVYX2g5Q3RaQ3ozenp6MGg3MnhxQ0xTdnp5QnFiNUlmU0FvWFEtQS1WTjZXZjJYTUllSnFPTG85dGxubmNCZ0xEd1lB?oc=5",
+    "news_score": 0.33,
+    "news_title": "Argentina captain Montoya may miss Italy clash - Reuters",
+    "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeW04MGpsY0hDbmxmVU9EbkVjOVptbk9zTlh0MnRfQUdNM3RDZURKaF9xdWJCcWNWdnBILXlYUjBncUs5cnd1dWJEeW1YeEtzSTJGME40TTVuX2NmWmhxdkNNRE1VcUM5VXJhLTZ6bENlTkJvVUE5b1pHVzE0eWxxUWY0X2tQR0RxMlNwSkZPbENQdEU?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "9h ago",
+    "news_source": "Reuters",
+    "news_age": "51m ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -2562,7 +2559,6 @@
     "news_source": "www.rba.gov.au",
     "news_age": "76730h ago",
     "news_columns": [
-      "olympic",
       "fifa_ranking"
     ],
     "bottom50_wealth": 5.0,
@@ -5586,7 +5582,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOVp6VkllWVRuc3Y5Q3pCNzY3MFBNNDl5bGdHbmljZE1ZVVRTSy1kN1h2NFpUSjNTOXplaEhuTHFmUmEyTDc0empWcjc5TG1ZS1BBNGNVUFhBWWlhYnc3cGFtUC1kWXVUTjdNUi11NS1xUWpnNHJBQ2RjZjFsN0YwVE56bUlxYlgtUWJBNjBKVnVvZ1c3WGgwTEVXcGZqM3lqNjZhYy1FVk1ZS2NvZUFwc0NKUlc?oc=5",
     "news_image": "",
     "news_source": "SeeNews",
-    "news_age": "104m ago",
+    "news_age": "106m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -8016,16 +8012,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 2.23,
+    "news_score": 2.19,
     "news_title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "71m ago",
+    "news_age": "73m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic",
-      "basket"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -14073,8 +14067,9 @@
     "news_source": "Vietnam.vn",
     "news_age": "30h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "car_density",
+      "gas_price",
+      "co2"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -15877,7 +15872,7 @@
     "fifa_w": 81,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 62,
-    "news_score": 0.41,
+    "news_score": 0.4,
     "news_title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026 - The Hacker News",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYmdkeVduVTNxUDlRM3dXRTNwdl9Ec2J4T3ZqSjAxYUdoQW5BTG50MklmekowNWxDaVpJMndRWFBEcFFob3hWcjFabGY2cExUZzdTTXIwS1hmc0p5cjJWSmJ3MkVWRWZoQldjS3pqMlVubnA4d2J2YjFqa1Rodm43aw?oc=5",
     "news_image": "",
@@ -16154,7 +16149,7 @@
     "refugees_rank": null,
     "union_rate": 78.3,
     "union_rate_rank": null,
-    "news_score": 0.14,
+    "news_score": 0.24,
     "news_title": "Hungary detains Viktor Orban's brother in people-smuggling probe, PM says - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaWtlUHNkRXpscUFMakl1dkxJREs1WktlV2NDWlRkc09FSjlGX3Y4ZjZGSkkzTy1ob0NuWktjc2dYVDVZZmwtdUZqd2dtTXFnbHdZVG5DYndNNWo3N1FpekpWTWkwVEdCUHVnQ19PUUhUZ3NMUEVsREFfVkh3V2ZSZ2FBS2dkQ0Uyak4zYmN1Zzh2eGtYZC01R25wN1hZUVlOdjZhbHUxZkFtS0hIMGZ0X0ZOLUU5MFAw?oc=5",
     "news_image": "",
@@ -16820,7 +16815,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.12,
+    "news_score": 0.11,
     "news_title": "From movies to medical science: Polarised glasses tech finds groundbreaking new calling in India - The New Indian Express",
     "news_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUEdCcTEwVVRfdXgyeUlpWXZLRFpBOUpyRlIxNWNCVTd1RnFtZFg3UGRsX0xDMnFHLXVUUjBXWTNaZFVyQXJSLWpXaGdjUmJ5cE1FY2tIdGJacXpTN1ZpWWdRbkp4QkxWMWVGeF9DSDJJMmdmOW9QMHRzOTlWdC1sRnhrVU1YbmF3d3MwOUZmdnFrbUpFdURCa2N0NERJWm1JMzB6QkJHUkdORmRIZkJpWWs5QXFHMFdJeXhIdWFLR1FCTUtnUUx3bTJGMzFZcGFxeDh3S3k5RS1ZNFljanV5SllrSVZVTTBEUXfSAfcBQVVfeXFMTlhIX1I4MGJ2cWdfbnhYbmFFaDNOdXlVcGQ4ZUNFdzI4VHdHTzc4ZHNydk15Wk5NTW1TemJwMHUxMXRia1lzbUJSbXFvUkZmUUxfOG5Fc2dZbk1KUGhnaVcyeTNxNjNvNWNjTHpIWHJ3TjgzVm5adW5BM0NuMWNOQl9oSVkxZmFpdTRjZ2wtMkdESkRKeXNPclFuN2RLYUxjVkZvQU5pRUtxYVVRT0dXMDlaQldKTlFyUF9XNEpnc2NBSEg4MWlGd3BDNGxfaF9SY3dpMFpuRmFiSGNkblFXdGdzbEFKYWJBdjBsU1hpQUVkaHpyV0lROA?oc=5",
     "news_image": "",
@@ -17395,7 +17390,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.95,
+    "news_score": 0.93,
     "news_title": "Hegseth impeachment effort begins in House, focused on Iran war - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlZ2Z0szYjlfTTBaZndNSUJHY0lLNlVGVDVpb2N2a3BTX09WR2U1cjVpWHZvNEdfQm4xLVFRM3cycmdrazk3Q25Gc05YSkgtOGF5eDROb2NfcTVZRG5yRE5hZVRKQ19XQk1INzdrTTVGZDBCbmpDOXU5NEJESHE5NHNCNGkwMUJSZVBPamlZc0M2MU9Ibng4dVJ5YjdZaE93MUd0SWtGZEt2ZHZndmpvRDZIbFROZjFJ?oc=5",
     "news_image": "",
@@ -18572,12 +18567,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.0,
-    "news_title": "ESLC: Italy earns last qualification spot for 2027 Sixes Championships - World Lacrosse",
-    "news_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FdU5LcWZSWGR4X21VbU5EY0FXckhPMkxBTnJHdHk0azBNQzdZc3RLbmN3Nlp5OFc1WHpoaE5WM1hUOERIS3JiWEU4VDQ4VmY1eWxkUm5pdWg?oc=5",
+    "news_score": 0.33,
+    "news_title": "Argentina captain Montoya may miss Italy clash - Reuters",
+    "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeW04MGpsY0hDbmxmVU9EbkVjOVptbk9zTlh0MnRfQUdNM3RDZURKaF9xdWJCcWNWdnBILXlYUjBncUs5cnd1dWJEeW1YeEtzSTJGME40TTVuX2NmWmhxdkNNRE1VcUM5VXJhLTZ6bENlTkJvVUE5b1pHVzE0eWxxUWY0X2tQR0RxMlNwSkZPbENQdEU?oc=5",
     "news_image": "",
-    "news_source": "World Lacrosse",
-    "news_age": "6h ago",
+    "news_source": "Reuters",
+    "news_age": "51m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -19448,7 +19443,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.4,
+    "news_score": 0.38,
     "news_title": "NFL Best And Worst: From Jordan Love’s Masterpiece To Caleb Williams’ Clunker - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRE5DS1NYMzczNG1FOW16Qzd3NEpqdk92ZW5Xcld2ME8wS1c4dDk1LXRUdmJjSkVZLTZfUTkyTEU3X2pmcDdmakwteExzN2hRdVZZb0x0VVhDSWJ2eGRQclFVNEdOZWs3c1VCVlBNcFEzSnB6RmVnVC1jc0tDWFVTb2VKaUtRNXpWRnEtTTQxTkbSAZABQVVfeXFMTVZLaHlXazIwYzExa1NiSXV1X2N3cm0tQXh1SjMwWEZBNUEwUE1nVWE5dmdUWm91MjljYk13eElTbHJIMzN5dkZzcENvbGJXaTc1X3ZHdkFqWWl2cGNMVDN0Rm5sUkVuamF4MU5jRUxrQWZ2QVRrVkxCcnZXV2lUeExQM2JQamtDUnR6Y0VidmFz?oc=5",
     "news_image": "",
@@ -31109,7 +31104,7 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.16,
+    "news_score": 0.15,
     "news_title": "A new list of the best 50 restaurants in the world was announced in Lima, Peru. Asador Etxebarri in the Basque region of Spain won the top spot. For the first time, only one American restaurant was in the top 50. See the full list: https://nyti.ms/3UFBmdx - Facebook",
     "news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdVBIY3lmS2FxT2FJMVpKTnJEZG1qa1JIcGppVi1meGE0TlY4aGhLdGlRb00zQ0xzcHRnNzVOemhFWXNGQUVqSmJwcklRR1haV3laMFJOQmhQeWJWNG9pMUJwREVSYTVlZTdPYlpzNU1EQW15RHZnV2Rxc21oLTl1Y1ZsVFlSbWd0c1lub2tXN0RmemNoU3hPVjZ3NzQzZnAwU2NHc0RXYkRBV3RFNnhoN3pQTkIwUl9PLVAwd2xUZVFaQmh1Nk9pMmtSaENjSTVXdlBr?oc=5",
     "news_image": "",
@@ -31669,7 +31664,7 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.02,
     "news_title": "Poland’s Political Divisions Puncture Its Influence on World Stage - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZkVPSnVPV3ZVcGdRdGgxN1JDV3BWSk51WnZLcjEwZ3JVSFFabEdBZmR6TktQZ2I2UFRtRkI4QUlhMnRldzg1YUNxQUI3TTlWc2ZTRk9mdXRpUThvcENvSmxzUDQ1LWFaTjNtb3VLdW0zSEcyd1VLc0xPS2gtQTdoRjY3VmV0VkxjeEtzVS03ZE5zMS04c0FyN1NFOGhnbXh0QlJPdkkwZk9JVW8?oc=5",
     "news_image": "",
@@ -33146,11 +33141,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhONWNmUnBCZjBHMWNrSU5JYjRDbVZ2UVZkcjFaNWVfZEJJS2dSQVd4NTdITjhZaHdUbHFQbDQ1VmhHVXVVLTd4UENvTXNxZUhBZTVsUTExYmJTaktacjUwQ0lpcUY3UU0yMGVSanVodTJYLVJjeERfVUxfTjlhSy12YkRnQ2Qwclp5RnJrRU5BY25wV1NZYlpKaHdZWHF4VnJfajc2ZV9qOXBmMmFCMEtmQdIBuAFBVV95cUxOZWZVY2FpTk0xWS1GSEkwUThabWJYMmQyeVBqWWlLUzh2ZFJOTzhoWEFXRHh1WmxQbE5BaHQyeTEycnlUUFJselphQ2dWVFJMcUdxblYzZ1JOd1VZdmQ2NFRESzRJUVRUWmlLeFZBalVhcHMweXNncnFQcFRLUDhOd2pkLVVMMWdwUDQyZDRiSUtaUWxCQW93TkdJZUdZX1Q1RUlaZzRHRW82OGNNS0EzejVvcTMxeGpL?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "71m ago",
+    "news_age": "73m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -36728,7 +36722,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.16,
+    "news_score": 0.15,
     "news_title": "A new list of the best 50 restaurants in the world was announced in Lima, Peru. Asador Etxebarri in the Basque region of Spain won the top spot. For the first time, only one American restaurant was in the top 50. See the full list: https://nyti.ms/3UFBmdx - Facebook",
     "news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdVBIY3lmS2FxT2FJMVpKTnJEZG1qa1JIcGppVi1meGE0TlY4aGhLdGlRb00zQ0xzcHRnNzVOemhFWXNGQUVqSmJwcklRR1haV3laMFJOQmhQeWJWNG9pMUJwREVSYTVlZTdPYlpzNU1EQW15RHZnV2Rxc21oLTl1Y1ZsVFlSbWd0c1lub2tXN0RmemNoU3hPVjZ3NzQzZnAwU2NHc0RXYkRBV3RFNnhoN3pQTkIwUl9PLVAwd2xUZVFaQmh1Nk9pMmtSaENjSTVXdlBr?oc=5",
     "news_image": "",
@@ -40304,7 +40298,7 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.04,
+    "news_score": 0.03,
     "news_title": "Turkey hosts world climate summit, but some critics accuse it of 'greenwashing' - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEdZWldiV1pQbnZTWE1LX0NtaXl6c0tyTXZkTk9WcHczLXZINmM3WjdMdEszd3FGWERyZmhQVG9zZE55N0pKemtMOVFMWlE4QUFEZzZfaUtPVkJnZGVSUG9NNzNtTXVoUVlTT1FNaTc1NnJwZEFoRENWSlI1X2xGUjVTTXBpblR2M2s2SllZeGxIWWl1SFBHcHYyZmVxbEZCcFVyZ0c2bTJ6LWhqZF9wY0xyMDdsTlpqcDRLQm1R?oc=5",
     "news_image": "",
@@ -41266,16 +41260,15 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 1.09,
+    "news_score": 1.07,
     "news_title": "Russia, Ukraine and US officials hold talks in Abu Dhabi - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhONWNmUnBCZjBHMWNrSU5JYjRDbVZ2UVZkcjFaNWVfZEJJS2dSQVd4NTdITjhZaHdUbHFQbDQ1VmhHVXVVLTd4UENvTXNxZUhBZTVsUTExYmJTaktacjUwQ0lpcUY3UU0yMGVSanVodTJYLVJjeERfVUxfTjlhSy12YkRnQ2Qwclp5RnJrRU5BY25wV1NZYlpKaHdZWHF4VnJfajc2ZV9qOXBmMmFCMEtmQdIBuAFBVV95cUxOZWZVY2FpTk0xWS1GSEkwUThabWJYMmQyeVBqWWlLUzh2ZFJOTzhoWEFXRHh1WmxQbE5BaHQyeTEycnlUUFJselphQ2dWVFJMcUdxblYzZ1JOd1VZdmQ2NFRESzRJUVRUWmlLeFZBalVhcHMweXNncnFQcFRLUDhOd2pkLVVMMWdwUDQyZDRiSUtaUWxCQW93TkdJZUdZX1Q1RUlaZzRHRW82OGNNS0EzejVvcTMxeGpL?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "71m ago",
+    "news_age": "73m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -42544,9 +42537,7 @@
     "news_age": "5h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43749,7 +43740,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.71,
+    "news_score": 0.7,
     "news_title": "Vietnam Union of Science and Technology implements labor health care plan - Laodong.vn",
     "news_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONnJtVlpqWjlIQ2hHbXFDanotRVpTbWRfWUhueXZkSnROT29KU3Zvd3E1Y283ekp4cDl6UmsyOHVHdHFQQ0EzdTNoUG1mTWd1cDJQOUtCUlROc2s4RkEwek54NFN0bXo2dWtQNExfeDBRREJXYjIxbkhRQTJYSTZqMU03Q2lHa0hXd2I0Q0Z1bUJtVG1rNmJhVF9JSlRXVjV1a1JZc1RzVUQ0Z1J0UkhIT3Rhc1FKU3p0NTlsQXl1TDJqMjNMNENiSThZd21tdw?oc=5",
     "news_image": "",
