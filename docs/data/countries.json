@@ -2559,12 +2559,8 @@
     "news_source": "www.rba.gov.au",
     "news_age": "76730h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -5582,7 +5578,7 @@
     "refugees_rank": null,
     "union_rate": 73.2,
     "union_rate_rank": null,
-    "news_score": 0.6,
+    "news_score": 0.59,
     "news_title": "Beyond business optimism: New SeeNext index reveals Bulgaria's structural challenge - SeeNews",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOVp6VkllWVRuc3Y5Q3pCNzY3MFBNNDl5bGdHbmljZE1ZVVRTSy1kN1h2NFpUSjNTOXplaEhuTHFmUmEyTDc0empWcjc5TG1ZS1BBNGNVUFhBWWlhYnc3cGFtUC1kWXVUTjdNUi11NS1xUWpnNHJBQ2RjZjFsN0YwVE56bUlxYlgtUWJBNjBKVnVvZ1c3WGgwTEVXcGZqM3lqNjZhYy1FVk1ZS2NvZUFwc0NKUlc?oc=5",
     "news_image": "",
@@ -8017,12 +8013,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 2.15,
+    "news_score": 2.09,
     "news_title": "Nvidia stock edges higher as pressure mounts following alleged China spy links - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYUp3aWtLM3FHZFMycjJkRGVUeXFXWUdPOV9fbEtkVUhwUk5oX2xDVHZ4alZwdl93VnY1UzMwSUN5QjJneHVzdTZHR21JUnkyU2NtZ05LazhQMHoteDNzSVUxQ2lTR0VVSk8yczdTVTd5cXFHNnFUR1hHdVlfc1psbktyRy1OTTQ?oc=5",
     "news_image": "",
     "news_source": "CNBC",
-    "news_age": "72m ago",
+    "news_age": "74m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -15876,7 +15872,7 @@
     "fifa_w": 81,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 62,
-    "news_score": 0.38,
+    "news_score": 0.37,
     "news_title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026 - The Hacker News",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYmdkeVduVTNxUDlRM3dXRTNwdl9Ec2J4T3ZqSjAxYUdoQW5BTG50MklmekowNWxDaVpJMndRWFBEcFFob3hWcjFabGY2cExUZzdTTXIwS1hmc0p5cjJWSmJ3MkVWRWZoQldjS3pqMlVubnA4d2J2YjFqa1Rodm43aw?oc=5",
     "news_image": "",
@@ -17394,15 +17390,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.38,
+    "news_score": 1.48,
     "news_title": "US evacuates aircraft from British military base after threat from Iran, WSJ reports - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcmRzZGMtSExmeUFoRnZOODlyaUFCcjZwRjctTjZSRHUzdUNaUTd6eWJ2cS00LVJReTBSX1llZHlDYVhXalNYUmc4YTlkd0NLaHZ4UE5FMEtQbkZMTVFzSmNwc1gzMENjUk1lMVBPWFpzS1dKdVBKem96SWlLaGRJNTRlNXJCc19X?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "100m ago",
+    "news_age": "102m ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -33139,15 +33135,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.15,
+    "news_score": 1.17,
     "news_title": "Russia, Ukraine and US officials hold talks in Abu Dhabi - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhONWNmUnBCZjBHMWNrSU5JYjRDbVZ2UVZkcjFaNWVfZEJJS2dSQVd4NTdITjhZaHdUbHFQbDQ1VmhHVXVVLTd4UENvTXNxZUhBZTVsUTExYmJTaktacjUwQ0lpcUY3UU0yMGVSanVodTJYLVJjeERfVUxfTjlhSy12YkRnQ2Qwclp5RnJrRU5BY25wV1NZYlpKaHdZWHF4VnJfajc2ZV9qOXBmMmFCMEtmQdIBuAFBVV95cUxOZWZVY2FpTk0xWS1GSEkwUThabWJYMmQyeVBqWWlLUzh2ZFJOTzhoWEFXRHh1WmxQbE5BaHQyeTEycnlUUFJselphQ2dWVFJMcUdxblYzZ1JOd1VZdmQ2NFRESzRJUVRUWmlLeFZBalVhcHMweXNncnFQcFRLUDhOd2pkLVVMMWdwUDQyZDRiSUtaUWxCQW93TkdJZUdZX1Q1RUlaZzRHRW82OGNNS0EzejVvcTMxeGpL?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "87m ago",
+    "news_age": "89m ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -34324,7 +34320,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeXNPUU9vdEUwTnhJZGx5WGo1dXU4d0NRRldncEtnMTNMbFpRUzJYM1FUUllYTGI1bEFMWjdTdHczUTRZcmVZaFhTbXdrZXo1UGE0ekthOWs4eVpPQVZmM3AtLVZ2MWVkSkR5Y1dJTEV4NFl5M0t4RkVmV2MyLS1CMG80WHE3aW1LYkN0LS1adTJiQkc1N1lkSUZydFJIWFZRa1dZRVl4bHBhRXdh?oc=5",
     "news_image": "",
     "news_source": "Bloomberg.com",
-    "news_age": "12h ago",
+    "news_age": "13h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -41263,15 +41259,15 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.97,
+    "news_score": 0.98,
     "news_title": "Russia, Ukraine and US officials hold talks in Abu Dhabi - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhONWNmUnBCZjBHMWNrSU5JYjRDbVZ2UVZkcjFaNWVfZEJJS2dSQVd4NTdITjhZaHdUbHFQbDQ1VmhHVXVVLTd4UENvTXNxZUhBZTVsUTExYmJTaktacjUwQ0lpcUY3UU0yMGVSanVodTJYLVJjeERfVUxfTjlhSy12YkRnQ2Qwclp5RnJrRU5BY25wV1NZYlpKaHdZWHF4VnJfajc2ZV9qOXBmMmFCMEtmQdIBuAFBVV95cUxOZWZVY2FpTk0xWS1GSEkwUThabWJYMmQyeVBqWWlLUzh2ZFJOTzhoWEFXRHh1WmxQbE5BaHQyeTEycnlUUFJselphQ2dWVFJMcUdxblYzZ1JOd1VZdmQ2NFRESzRJUVRUWmlLeFZBalVhcHMweXNncnFQcFRLUDhOd2pkLVVMMWdwUDQyZDRiSUtaUWxCQW93TkdJZUdZX1Q1RUlaZzRHRW82OGNNS0EzejVvcTMxeGpL?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "87m ago",
+    "news_age": "89m ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -43749,7 +43745,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONnJtVlpqWjlIQ2hHbXFDanotRVpTbWRfWUhueXZkSnROT29KU3Zvd3E1Y283ekp4cDl6UmsyOHVHdHFQQ0EzdTNoUG1mTWd1cDJQOUtCUlROc2s4RkEwek54NFN0bXo2dWtQNExfeDBRREJXYjIxbkhRQTJYSTZqMU03Q2lHa0hXd2I0Q0Z1bUJtVG1rNmJhVF9JSlRXVjV1a1JZc1RzVUQ0Z1J0UkhIT3Rhc1FKU3p0NTlsQXl1TDJqMjNMNENiSThZd21tdw?oc=5",
     "news_image": "",
     "news_source": "Laodong.vn",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
       "car_density",
       "gas_price",
