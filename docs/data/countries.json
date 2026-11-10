@@ -1927,12 +1927,12 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.26,
-    "news_title": "Pope Leo delivers veiled rebuke of austerity measures in predecessor’s homeland - The Washington Post",
-    "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObGZQb2t3dmtrRk9rN2l1TWhaV1E0NWdsUFJNbzRCb3RPSWsxRnN5T0V5X2FCM0ZpWEtvd1NhcTVmTVYtWmZvQlNBbFpmMWV1VHR0STRzcHBEeHRlVkRQOEJIc0h6QmZWSndTLVh0M0hWYmFiOF9jYkpQNWVuS194S0tOQUNNR2s5VS00dUsydFh3amF2MHg1MEpURFdLWHNoNE1XejlYZUtXNnNxYUE?oc=5",
+    "news_score": 0.3,
+    "news_title": "Pope urges Argentina to protect the vulnerable from Milei’s austerity measures - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeVRYYVFlTmhzSWxTS2N2VjJUX0kwVzBDVTZhSlpqTzFmUUFIUDZhdV9kX0ZtLXVpX3ZtcUV5dGNyQ1lXWURvWTZGYmhkaVNES1Y2dzRDcE0zN1hwazI4bFo1MzhSNHRBTGZRR3RSLUVYX2g5Q3RaQ3ozenp6MGg3MnhxQ0xTdnp5QnFiNUlmU0FvWFEtQS1WTjZXZjJYTUllSnFPTG85dGxubmNCZ0xEd1lB?oc=5",
     "news_image": "",
-    "news_source": "The Washington Post",
-    "news_age": "6h ago",
+    "news_source": "AP News",
+    "news_age": "3h ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -3327,7 +3327,7 @@
     "extreme_poverty_rank": null,
     "union_rate": 61.3,
     "union_rate_rank": null,
-    "news_score": 0.19,
+    "news_score": 0.18,
     "news_title": "Banks back away from Standard Chartered Bangladesh retail business sale - The Daily Star",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMWgyX0ZTd2tpU2JaWGtwLXMtVlNmR1hrSFF2WXJCZUtzUVNEN1Z1V3M5NVQyZ2l3QW9qSk1reTFpQXBfOFVZM1AydWh4RlYwTXNLOVhLSEJ6RlZvUlJTZVpwc1lmS25ndE9leHRkbVctbHJoSk9VQjJBVnJjellfTnprQllKUHFBdkVHYjVhTFBHeE90TnJfZ1VHMXpBV0Z1Y0pwaWFUZFQ1SXc2Zk1IOHcxOHlLT3FQb1A2VXhUclF2bUE?oc=5",
     "news_image": "",
@@ -6946,15 +6946,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.45,
-    "news_title": "Norway says it has been bumped for Russia to compete at world juniors in Canada - Global News",
-    "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUVViNDNucTJRS3o1SDJGN1VtSGMtSTBVSTBORkdqQWxYY0Izd1I3ZlZScFNhdHpzNkl6MzVXVGRhN2ZoeUdQXzZLbEFjS0xDS1o3cDI4R2tlbl9HSS1kTmxsTm4wUVNOLW1KbURHYXU5QVlLRWhfMndlSTdYWVlfY1RKT1Y?oc=5",
+    "news_score": 0.38,
+    "news_title": "Tighter monetary policy now among top risks to Canada’s economy, say business leaders - Financial Post",
+    "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIR1o5VjVhSThZNGE2MklXZmxCVXN5cWxtTHRjb3VSUzV6bHhuMEI2TU94ZE9qTUw0WVZBSEtjbjZHYmIyZVJUY01PYjdzRE1IX2JxYUdnNzlOTmZSVm1Hbnh3V3pBY2ZXb2VsTTFnbnNGOGg4amhEXw?oc=5",
     "news_image": "",
-    "news_source": "Global News",
-    "news_age": "2h ago",
+    "news_source": "Financial Post",
+    "news_age": "5h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -8017,14 +8021,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.1,
+    "news_score": 0.13,
     "news_title": "Xi Jinping’s plan for a China-centric world order - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0h5Rk8wZGVqdVJvd2RhYlZpWVpIYTVuWi1CcHduNGdDdmhKZlN6TkllYk9fN2pNT2lDR09xd3FLWEtDVVcyX01ZaThJanFqelQ2ZnN6RXRKQmQ2MzEyejF4SFYyWEs1ZFF5NGZfcWl0NVlDTU1XNVFJWDJ5a093ZUlQdE0wOFRNNnZhMl9PVUJMTlFkR2c?oc=5",
     "news_image": "",
     "news_source": "The Economist",
     "news_age": "7h ago",
     "news_columns": [
-      "fifa_ranking"
+      "tech",
+      "markets"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -9081,7 +9086,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOWVLRVRleHotdF90SGoxako0Qk1mclllU3pDV0tCcXpURGNVNDR1OW5OTl9nWWVVblc1cmhSd1h2XzRhTTZfbVdSc0xvWTBEQTJJLVpITlA0ZDZ4SDBCVURpUVFuSVhpUEhDcW5KLXRnMGhoSjBmQnNyaF9YMWxucFJR?oc=5",
     "news_image": "",
     "news_source": "teleSUR English",
-    "news_age": "7h ago",
+    "news_age": "8h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -13031,16 +13036,17 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.32,
+    "news_score": 0.23,
     "news_title": "France accuses Iran of supermarket fridge hacking - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzeFI0SDNQMm9ieHFIWGNtSFV6cEliY0dwOUhXNE9NODFkSTZKUktramxLV0ZHS1BaN3RZX1pTWEtsNmZxSVlBQTNfN2I0Rlk4NTlCdnRnUElYbUE?oc=5",
     "news_image": "",
     "news_source": "BBC",
     "news_age": "5h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "ballon_dor"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17398,7 +17404,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.34,
+    "news_score": 0.3,
     "news_title": "France accuses Iran of supermarket fridge hacking - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzeFI0SDNQMm9ieHFIWGNtSFV6cEliY0dwOUhXNE9NODFkSTZKUktramxLV0ZHS1BaN3RZX1pTWEtsNmZxSVlBQTNfN2I0Rlk4NTlCdnRnUElYbUE?oc=5",
     "news_image": "",
@@ -19269,7 +19275,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMmFSalo3M19EMnU0eGJmYXI3d0ZuNmUzeDQxa2k2QTRHM1kxbzVOV2tjaWpveTBtN3FTbWxFNWFYNHhUbHBHRFl5Mm50QVdmNmFqSEdpLXROc2lmTnVyUjhBLUZmYjlDY0pnWkc3eUMzRUdCQ3ZFZWhScTl3U2ZiUlpEWnQ?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
-    "news_age": "40m ago",
+    "news_age": "42m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -19453,7 +19459,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.71,
+    "news_score": 0.7,
     "news_title": "Eagles Reportedly Trade DT Jordan Davis To Jaguars For '27 1st-Round Pick & More - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVE5qaTRZMjh2RTdSaXJBU2xKSDhBaEhoZUM1YnJtLVhJdi1VTTFvVldEMk9UN1hLUkZqZVR0NFpYWVJiX1V0bDF5Q0dSZmpTdDBBNG5WNlUxUGpOb3dTelVib0c3UzlybEdobFpMa2o1QVAwVDF2ZFVEREdKWF9DbXpoWkFIQdIBhgFBVV95cUxQWWNrcmo3WDZDdE9pcjNaQ3VUMTU3QUpOZy1uMXVNTGZhSmpkRnV5Y1BaeU9vWjkyZ3M3QXpDaTVoaTlwRzY0S0lEdHV4UzQ1WWdiM2tkUzlkYjdULW9XUlMyZm40Y1FHZjVZUnBiaEx1Q19wYnRES2NsaWMxSmN1Q2ViaHNtdw?oc=5",
     "news_image": "",
@@ -26142,7 +26148,7 @@
     "union_rate": 79.1,
     "union_rate_rank": null,
     "fifa_w_rank": 112,
-    "news_score": 0.29,
+    "news_score": 0.28,
     "news_title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates - UN News",
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SdVpvLTl3Qi01N0RVTWxpRXZJdkg4ODlRa2NIRmZDWXlreTYzc3Fac3NMWTh2NFlwMS1POVlaTVVlUWVxbF9tUmI1OGxEQWdsektXdE1UQQ?oc=5",
     "news_image": "",
@@ -29510,12 +29516,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.27,
+    "news_score": 0.19,
     "news_title": "Norway says it has been bumped for Russia to compete at world juniors in Canada - Global News",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUVViNDNucTJRS3o1SDJGN1VtSGMtSTBVSTBORkdqQWxYY0Izd1I3ZlZScFNhdHpzNkl6MzVXVGRhN2ZoeUdQXzZLbEFjS0xDS1o3cDI4R2tlbl9HSS1kTmxsTm4wUVNOLW1KbURHYXU5QVlLRWhfMndlSTdYWVlfY1RKT1Y?oc=5",
     "news_image": "",
     "news_source": "Global News",
-    "news_age": "2h ago",
+    "news_age": "12h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -33145,14 +33151,19 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.97,
-    "news_title": "U.S. gives Russia an early win before Ukraine peace talks begin in Abu Dhabi - The Washington Post",
-    "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdGdMYVFDRzd5d0cxbjctRTF5eGFpN0QzT3MtSUxxM3JWd29HTlNLd1hJQVM2RkVqRGE4ZmJpUXV4aFh6UlhNU29EbjlZNHF1SG53S3ZBRlNhZG8zeld3ZU5uS0RIcEJQcmV4YlJ1WUF6cWEzZUp5dHV1VGN5UlNSNHdxVTJXVDFaOFREbVFzZ1JJbHhWTWdVMXhYSWx3SDJLNXlPVEx3NmhRWVRUdlg2Yi1UbHJma3VVc3d6VWVFRG9WbFE?oc=5",
+    "news_score": 0.57,
+    "news_title": "EA on TVP World: Trump Sells Out Kyiv on Eve of Ukraine-Russia Talks - EA WorldView",
+    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYlFHZzc5dXFJMkx1SEZld0IwaWZwYy10UjVncnR3RzluX0xWaWF1T3FGUmRuT01kNzVLTjBhUFlYS2E1YnJqX2ZYQW1zUmRvSm5QSEVXUlUwZ2JUUU90Vk1ueXZlNUxNTVFxV2FDVVI3dldHcGFsQlVpNWlNcmVRSVFzX09GVVZxeTUxYg?oc=5",
     "news_image": "",
-    "news_source": "The Washington Post",
-    "news_age": "31m ago",
+    "news_source": "EA WorldView",
+    "news_age": "5h ago",
     "news_columns": [
-      "geopolitics"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "car_density"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -40317,7 +40328,8 @@
     "news_source": "NPR",
     "news_age": "3h ago",
     "news_columns": [
-      "climate"
+      "climate",
+      "environment"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -41269,14 +41281,19 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.77,
-    "news_title": "U.S. gives Russia an early win before Ukraine peace talks begin in Abu Dhabi - The Washington Post",
-    "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdGdMYVFDRzd5d0cxbjctRTF5eGFpN0QzT3MtSUxxM3JWd29HTlNLd1hJQVM2RkVqRGE4ZmJpUXV4aFh6UlhNU29EbjlZNHF1SG53S3ZBRlNhZG8zeld3ZU5uS0RIcEJQcmV4YlJ1WUF6cWEzZUp5dHV1VGN5UlNSNHdxVTJXVDFaOFREbVFzZ1JJbHhWTWdVMXhYSWx3SDJLNXlPVEx3NmhRWVRUdlg2Yi1UbHJma3VVc3d6VWVFRG9WbFE?oc=5",
+    "news_score": 0.46,
+    "news_title": "EA on TVP World: Trump Sells Out Kyiv on Eve of Ukraine-Russia Talks - EA WorldView",
+    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYlFHZzc5dXFJMkx1SEZld0IwaWZwYy10UjVncnR3RzluX0xWaWF1T3FGUmRuT01kNzVLTjBhUFlYS2E1YnJqX2ZYQW1zUmRvSm5QSEVXUlUwZ2JUUU90Vk1ueXZlNUxNTVFxV2FDVVI3dldHcGFsQlVpNWlNcmVRSVFzX09GVVZxeTUxYg?oc=5",
     "news_image": "",
-    "news_source": "The Washington Post",
-    "news_age": "31m ago",
+    "news_source": "EA WorldView",
+    "news_age": "5h ago",
     "news_columns": [
-      "geopolitics"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "car_density"
     ],
     "bottom50_wealth": null
   },
@@ -42548,8 +42565,10 @@
       "fantasy_football",
       "cfp",
       "ncaa_football",
-      "geopolitics",
-      "climate"
+      "politics",
+      "election",
+      "climate",
+      "environment"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -44282,7 +44301,7 @@
     "union_rate": 34.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 119,
-    "news_score": 0.29,
+    "news_score": 0.28,
     "news_title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates - UN News",
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SdVpvLTl3Qi01N0RVTWxpRXZJdkg4ODlRa2NIRmZDWXlreTYzc3Fac3NMWTh2NFlwMS1POVlaTVVlUWVxbF9tUmI1OGxEQWdsektXdE1UQQ?oc=5",
     "news_image": "",
