@@ -1927,7 +1927,7 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.0,
     "news_title": "Pope urges Argentina to protect the vulnerable from Milei’s austerity measures - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeVRYYVFlTmhzSWxTS2N2VjJUX0kwVzBDVTZhSlpqTzFmUUFIUDZhdV9kX0ZtLXVpX3ZtcUV5dGNyQ1lXWURvWTZGYmhkaVNES1Y2dzRDcE0zN1hwazI4bFo1MzhSNHRBTGZRR3RSLUVYX2g5Q3RaQ3ozenp6MGg3MnhxQ0xTdnp5QnFiNUlmU0FvWFEtQS1WTjZXZjJYTUllSnFPTG85dGxubmNCZ0xEd1lB?oc=5",
     "news_image": "",
@@ -2556,15 +2556,14 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.52,
+    "news_score": 0.53,
     "news_title": "COP31: Turkey and Australia, two coal-dependent countries, lead the world's most important climate summit - Le Monde.fr",
     "news_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQVoyZE1jRUhMbGtkS09HdUNTakNhU1k1R2o3U2EzVWtqLS13eWFKMmJQZ2Q4VWUwTTJ4MWVRRkNKdzBDT2hhQkxvUDdQOHNSODNSeE9ZR2NNSXZtanc0WmFWQXQ1N2ZYbXpQOGVJeWdwLXE3Y0p6MTRKdWpCd3BoWGU0eDdiTGYzcE5raDBXNWpPU1JuSVpISDJrMUdJS2U5SXAxS1Vrc1JpNVE4bEJOWVlTU3FVNW9YZzRwODBsdEtyT2JNWG5SMzFDTV9EUVlZZXQ5OUszRUVsN1cxb1QtTk1KYTloME53VXJ5WFdYM3JtZmpvQWw2V1VfektaVTNQcUxKdmJRWQ?oc=5",
     "news_image": "",
     "news_source": "Le Monde.fr",
     "news_age": "3h ago",
     "news_columns": [
-      "climate",
-      "environment"
+      "olympic"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -8015,15 +8014,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.94,
+    "news_score": 0.91,
     "news_title": "Why Volkswagen wants to sell its China-made cars to the world - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVNHZGc4cjNNd2tPT3UwUU13OVlxY045aTl3Uk1iVXhSQmxHbkhwSUptSUFPTmxhS213NDlJTm03Z1BUaktpSW1LcWVMTS1HelZFci1uZDAxSWFUQ05EX0F0VzFqd3dpTURHSjhvUmZ4UzdIZTI3bUd5TXVfeEVmRUR1WlU?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
-    "news_age": "104m ago",
+    "news_age": "106m ago",
     "news_columns": [
-      "tech",
-      "business"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13037,8 +13035,7 @@
     "news_source": "The Washington Post",
     "news_age": "2h ago",
     "news_columns": [
-      "politics",
-      "security"
+      "olympic"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17396,15 +17393,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 2.16,
+    "news_score": 2.19,
     "news_title": "World in brief: FBI looks into Huang affair; Trump says Iran war is “effectively over” - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmFYNWY2ZFRnNGZsQzFBZTZJZ1B3ZWliYmQyUlFaU2ZjWGhDcEpYVWFfeG45Y0JCZW9TQ20wR1VEazd1clJXeDFzT1B4VHBlaXAwZGNSRVFMSUxyNzhzU2k2V0tBZE83OUlWX0ZiMVNMRHBGTTF4SW15bE1VcFkyZTVuVF9vUjIzbkxjSXpyS3EyMVJBVkww?oc=5",
     "news_image": "",
     "news_source": "The Economist",
-    "news_age": "36m ago",
+    "news_age": "38m ago",
     "news_columns": [
-      "politics",
-      "security"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -19447,7 +19443,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.95,
+    "news_score": 0.93,
     "news_title": "NFL Best And Worst: From Jordan Love’s Masterpiece To Caleb Williams’ Clunker - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRE5DS1NYMzczNG1FOW16Qzd3NEpqdk92ZW5Xcld2ME8wS1c4dDk1LXRUdmJjSkVZLTZfUTkyTEU3X2pmcDdmakwteExzN2hRdVZZb0x0VVhDSWJ2eGRQclFVNEdOZWs3c1VCVlBNcFEzSnB6RmVnVC1jc0tDWFVTb2VKaUtRNXpWRnEtTTQxTkbSAZABQVVfeXFMTVZLaHlXazIwYzExa1NiSXV1X2N3cm0tQXh1SjMwWEZBNUEwUE1nVWE5dmdUWm91MjljYk13eElTbHJIMzN5dkZzcENvbGJXaTc1X3ZHdkFqWWl2cGNMVDN0Rm5sUkVuamF4MU5jRUxrQWZ2QVRrVkxCcnZXV2lUeExQM2JQamtDUnR6Y0VidmFz?oc=5",
     "news_image": "",
@@ -32339,19 +32335,18 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.0,
-    "news_title": "Trump tells Reuters that Qatar, Saudi Arabia want peaceful Iran deal, US ready for strikes if needed - Reuters",
-    "news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ2o4T2dDT1ZqQmlqM0JxZEViaHZzWjRPeGtRd2N5MEZweXhTWXV1b0RybWgxNzZrMUJmOXFDMGMtTGE1RzJCMHBNdkctTVZpWXhBUUcxYUhnOTRqOEpQZUpPWjdsZHgtTWc4cWYxYnRtZEgzb191X2tlOUVVYXh4SFpnejMxYXRidEhFalZMeDlSSlhmUm5IR0Nyd2hybHhWVjVrcXA1ODVaYWo1ODhFSEhNMFZxdmdaN3VLTEc0dE1MZ21pVGxFMFh0TQ?oc=5",
+    "news_score": 0.09,
+    "news_title": "US-Iran war: Trump says more US attacks on Iran 'highly unlikely' - BBC",
+    "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZVGlrZGdkVXQyRXBjbUdDMVliNVZPR2l1eFFud2tLMnRGSlRmbmYtbnBpVGFfX1FqRkh0WGpMbHlfT1U3WjVkR21hNnJmRFdTcndqS2F1OE5EYXM?oc=5",
     "news_image": "",
-    "news_source": "Reuters",
-    "news_age": "9h ago",
+    "news_source": "BBC",
+    "news_age": "4h ago",
     "news_columns": [
-      "gas_price",
-      "energy_per_capita",
-      "co2",
-      "renew",
-      "exports",
-      "military_pct"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": null
   },
@@ -40305,15 +40300,14 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.58,
+    "news_score": 0.61,
     "news_title": "COP31: Turkey and Australia, two coal-dependent countries, lead the world's most important climate summit - Le Monde.fr",
     "news_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQVoyZE1jRUhMbGtkS09HdUNTakNhU1k1R2o3U2EzVWtqLS13eWFKMmJQZ2Q4VWUwTTJ4MWVRRkNKdzBDT2hhQkxvUDdQOHNSODNSeE9ZR2NNSXZtanc0WmFWQXQ1N2ZYbXpQOGVJeWdwLXE3Y0p6MTRKdWpCd3BoWGU0eDdiTGYzcE5raDBXNWpPU1JuSVpISDJrMUdJS2U5SXAxS1Vrc1JpNVE4bEJOWVlTU3FVNW9YZzRwODBsdEtyT2JNWG5SMzFDTV9EUVlZZXQ5OUszRUVsN1cxb1QtTk1KYTloME53VXJ5WFdYM3JtZmpvQWw2V1VfektaVTNQcUxKdmJRWQ?oc=5",
     "news_image": "",
     "news_source": "Le Monde.fr",
     "news_age": "3h ago",
     "news_columns": [
-      "climate",
-      "environment"
+      "olympic"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -42545,14 +42539,9 @@
     "news_source": "Fox 10 News",
     "news_age": "2h ago",
     "news_columns": [
-      "nfl",
-      "football",
-      "tech",
-      "business",
-      "politics",
-      "security",
       "basket",
-      "nba"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43468,7 +43457,7 @@
     "union_rate": 56.6,
     "union_rate_rank": null,
     "fifa_w_rank": 40,
-    "news_score": 0.06,
+    "news_score": 0.1,
     "news_title": "Exxon Takes First Step Toward Investing in Venezuela - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWW9IY0xQOGQtXzBTdnMxdUlXelVuT1NYMHNQcXRaNXdmYTMxZ2FtVTVxa0tQVWthNVFxdUNjUUczS0JZQUpuQ2kxZmswYml1VEItMkpvQmNBdXlHUWo2cGxlRy1TZ2RiOG9iSVNiWkhkN3JRWHpMVURUeUZfTnhFMC0zNnhoY045Wm4zbWx1elFaYTByWjJVYXBPclI5alAzZmpN?oc=5",
     "news_image": "",
@@ -43755,7 +43744,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.84,
+    "news_score": 0.83,
     "news_title": "The budget for science and technology is projected to reach 120,000 billion VND in 2027. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSk0yNVBEU3d1OEo4ZEpSMHVvVDlCOGtzcUZKVnFNemhtNUswMVFVTDhZN0xNUWtZdUJ1UUdOSGVOSkFtdzVGVlhxTVI3SnJNM0FzWU1SN2pvM1BLTVpGNUpidTloMkRLakZram1NREVGTjdfZndFWXpOZFlXaDh6ZHp2TGJIOWNNLVFmQVJqamRmcnc3UDVCbFZ3cw?oc=5",
     "news_image": "",
