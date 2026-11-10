@@ -2561,7 +2561,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbi1LWXdGcTlnVU15dHJtY2VrMHRSQkUzLWpLek9oeXFRRms4Z3lNanpWR2RZSWJxZmtwZGNPdU03SWR6ejYzaWtlZmZLUnNhQVYxZ2JjZ0lkVFIxRGxfZ2xwSFZUdDJfZzV2cHZNZ2ltdmJ2Qk1ZRTZzUHJpNzRkamYyYWJzTWZkZHhJSWo0SWZfUFFJSlE?oc=5",
     "news_image": "",
     "news_source": "www.rba.gov.au",
-    "news_age": "76724h ago",
+    "news_age": "76725h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -6946,13 +6946,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.04,
+    "news_score": 0.74,
     "news_title": "Zach Edey plans to play for Canada in World Cup if healthy - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc0VrdUk5eVdFS2RoSUR0bTVyc1RuS3Exd25kTHIwRUpCODY3Y21ubmVyTU9McWdzYlJjc2JOcDBoTkc3NTVMNUF5QUpFaWJLVzQxRzY1d3Njdk1RdWVTMFFwUnJPNTh4MGpkR1JyeHBNYU5pZnpHcG1YMDVjekxNQ3Bn?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
     "news_age": "2h ago",
     "news_columns": [
+      "fifa_ranking",
       "fifa_w",
       "olympic",
       "basket"
@@ -8018,7 +8019,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.05,
     "news_title": "Xi Jinping’s plan for a China-centric world order - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0h5Rk8wZGVqdVJvd2RhYlZpWVpIYTVuWi1CcHduNGdDdmhKZlN6TkllYk9fN2pNT2lDR09xd3FLWEtDVVcyX01ZaThJanFqelQ2ZnN6RXRKQmQ2MzEyejF4SFYyWEs1ZFF5NGZfcWl0NVlDTU1XNVFJWDJ5a093ZUlQdE0wOFRNNnZhMl9PVUJMTlFkR2c?oc=5",
     "news_image": "",
@@ -10947,7 +10948,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaHhrYnE5MExPNW0zVGUtRlhPMktnQXRVdmV0WTFWdFk0S05PNU9VYXNXWE9FeDVDazZZRE40dHVZbnJPa3BmWGV1a1Y2SHN1WTFObGE1M0VIeTUzbHpBTXc1X0lXOW5ISG5FVThVV3dMVXVJelM0d2xDdk5kcXR1MjI5blBMQ0xQTXJiNkpDS3ZfWFBEcy1neDl5cjJNTWZfTjdIYnRPSG1wcWtLT2REQkEweGlWSVJ4WFhkMG12TjJuQjQ?oc=5",
     "news_image": "",
     "news_source": "Ahram Online",
-    "news_age": "16h ago",
+    "news_age": "17h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -13032,15 +13033,14 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.95,
+    "news_score": 0.86,
     "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_w",
-      "olympic"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17398,15 +17398,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.32,
+    "news_score": 1.2,
     "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_w",
-      "olympic"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -19262,16 +19261,18 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.21,
+    "news_score": 0.92,
     "news_title": "Expanding cooperation with Japan in human resource training, science, and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU0FweTFnd2ZWSW9XQVpzOE14YTlqYXJNNEwxOXFvR3JTdlE4cmlMYUt5MnJvMDJpdkM5NGlTUENpWVY3bDQwRU10ZlUzbE01VG4tV3U0c0szQ0xHVDdQY1Mtc0djUEk1V2kxamhMVnhRZnRyemtTdHFoUHJuNUZCMDUxLUNKbnlHdmdvbThsWXpXN3BWWUlhNXMtc21MaUps?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_w",
-      "olympic",
-      "basket"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -19448,7 +19449,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 1.14,
+    "news_score": 1.09,
     "news_title": "Eagles Trade Jordan Davis to Jaguars in Blockbuster Deadline Deal - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY3NraXF0TVVhcFAwWFBZN0dQRHVSeG5CdU1IYmdxZkxUQWNXbWcyR1JZY3FrXzhjS2R6UmdwWXR4TVVCVjVOM2x1cGppQjlnc0VTb09iV3dYOWhPdk5KLWNIOWNXWkwwSXdSZTZrejd3b3ZCcnBIald3NWZrbW9iTE83RkJ6RzVoQ3c?oc=5",
     "news_image": "",
@@ -26135,7 +26136,7 @@
     "union_rate": 79.1,
     "union_rate_rank": null,
     "fifa_w_rank": 112,
-    "news_score": 0.11,
+    "news_score": 0.1,
     "news_title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates - UN News",
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SdVpvLTl3Qi01N0RVTWxpRXZJdkg4ODlRa2NIRmZDWXlreTYzc3Fac3NMWTh2NFlwMS1POVlaTVVlUWVxbF9tUmI1OGxEQWdsektXdE1UQQ?oc=5",
     "news_image": "",
@@ -28003,7 +28004,7 @@
     "refugees_rank": null,
     "union_rate": 69.0,
     "union_rate_rank": null,
-    "news_score": 0.3,
+    "news_score": 0.29,
     "news_title": "Nicaragua@Panama - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaXp4ZEJYTVBPczM3OGV5Nml4TjNZcDFQQjBQV2FCbDFCeFdzR210VEktM2U1U2I1SWtPd3d0ZGhTY3FXS01pNExYaUx4WFY3eFphWFNucHF3ZnMxb2VwMVVxZnNYT1I5ZWpMTDdTV1lLTnl3ZF9jVmVMSmpUQkhxQk1Zd3dZZUpaX3pSU1ZtcmZXWnlnNzl1aENFaVN3M1hIaDRKdG5zX2c?oc=5",
     "news_image": "",
@@ -30506,7 +30507,7 @@
     "union_rate": 71.9,
     "union_rate_rank": null,
     "fifa_w_rank": 48,
-    "news_score": 0.32,
+    "news_score": 0.31,
     "news_title": "Nicaragua@Panama - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaXp4ZEJYTVBPczM3OGV5Nml4TjNZcDFQQjBQV2FCbDFCeFdzR210VEktM2U1U2I1SWtPd3d0ZGhTY3FXS01pNExYaUx4WFY3eFphWFNucHF3ZnMxb2VwMVVxZnNYT1I5ZWpMTDdTV1lLTnl3ZF9jVmVMSmpUQkhxQk1Zd3dZZUpaX3pSU1ZtcmZXWnlnNzl1aENFaVN3M1hIaDRKdG5zX2c?oc=5",
     "news_image": "",
@@ -31107,12 +31108,12 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.77,
+    "news_score": 0.76,
     "news_title": "A new list of the best 50 restaurants in the world was announced in Lima, Peru. Asador Etxebarri in the Basque region of Spain won the top spot. For the first time, only one American restaurant was in the top 50. See the full list: https://nyti.ms/3UFBmdx - Facebook",
     "news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdVBIY3lmS2FxT2FJMVpKTnJEZG1qa1JIcGppVi1meGE0TlY4aGhLdGlRb00zQ0xzcHRnNzVOemhFWXNGQUVqSmJwcklRR1haV3laMFJOQmhQeWJWNG9pMUJwREVSYTVlZTdPYlpzNU1EQW15RHZnV2Rxc21oLTl1Y1ZsVFlSbWd0c1lub2tXN0RmemNoU3hPVjZ3NzQzZnAwU2NHc0RXYkRBV3RFNnhoN3pQTkIwUl9PLVAwd2xUZVFaQmh1Nk9pMmtSaENjSTVXdlBr?oc=5",
     "news_image": "",
     "news_source": "Facebook",
-    "news_age": "65m ago",
+    "news_age": "67m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -33136,14 +33137,14 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.38,
+    "news_score": 0.36,
     "news_title": "Ukraine peace talks resume in Abu Dhabi after months-long pause - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nOTZJMmkxOUs1TDloQTA0bGctdEpXVmotNVFaZ3dIYjFmbnJ1MmFVY3AxM3QzeE9lRUM0WXZPZnpnVzNCWU1EbzZkeDBqOTlQQTV2d3E2ckNvWG8?oc=5",
     "news_image": "",
     "news_source": "BBC",
     "news_age": "4h ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -35656,13 +35657,14 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.36,
+    "news_score": 0.28,
     "news_title": "Japan@South Africa - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUQyR3FBeXdNZmE1MmhrVHNnQVNhZF80RWhLRVowV3l6eEUtdXRTSHNWWVA1WXY2VHJkR3hFX3kyRk9rdm1VRzhQU2c1WXk4TGZpcy1mMGUycUo0VVJ2d0FuNFVJY1B0TnJRQkhvWERjeHZRSXA5ZTZZc3FsbWtkTzZud1ZoeXp6bmNycHktNzhQdUkwWnlUc01ZUllqcHNFS3A4RDY0MU8?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
     "news_age": "4h ago",
     "news_columns": [
+      "fifa_ranking",
       "fifa_w",
       "olympic",
       "basket"
@@ -36721,12 +36723,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.77,
+    "news_score": 0.76,
     "news_title": "A new list of the best 50 restaurants in the world was announced in Lima, Peru. Asador Etxebarri in the Basque region of Spain won the top spot. For the first time, only one American restaurant was in the top 50. See the full list: https://nyti.ms/3UFBmdx - Facebook",
     "news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdVBIY3lmS2FxT2FJMVpKTnJEZG1qa1JIcGppVi1meGE0TlY4aGhLdGlRb00zQ0xzcHRnNzVOemhFWXNGQUVqSmJwcklRR1haV3laMFJOQmhQeWJWNG9pMUJwREVSYTVlZTdPYlpzNU1EQW15RHZnV2Rxc21oLTl1Y1ZsVFlSbWd0c1lub2tXN0RmemNoU3hPVjZ3NzQzZnAwU2NHc0RXYkRBV3RFNnhoN3pQTkIwUl9PLVAwd2xUZVFaQmh1Nk9pMmtSaENjSTVXdlBr?oc=5",
     "news_image": "",
     "news_source": "Facebook",
-    "news_age": "65m ago",
+    "news_age": "67m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -41260,14 +41262,14 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.38,
+    "news_score": 0.34,
     "news_title": "Ukraine peace talks resume in Abu Dhabi after months-long pause - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nOTZJMmkxOUs1TDloQTA0bGctdEpXVmotNVFaZ3dIYjFmbnJ1MmFVY3AxM3QzeE9lRUM0WXZPZnpnVzNCWU1EbzZkeDBqOTlQQTV2d3E2ckNvWG8?oc=5",
     "news_image": "",
     "news_source": "BBC",
     "news_age": "4h ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -42528,7 +42530,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.52,
+    "news_score": 0.54,
     "news_title": "SS United States deployment moved up to Veterans Day - ABC7 WWSB",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObEZEWHkyTXpZNllTb1NpanBoSkI2bklqbXBET0lxcU9DR2xIdmFhbjlVRFhYY29UOTBPUm5LUGltMWlPODNUUnR1RHRrM29UbVVMS2ZncXl4X0h4N1hEaXRzVHoyX25Zenl0SGxzaDNhRGdYOEdpbVdJVm1xYzRyTllmN3EwQ0VMaC1MSE1odXlGZ9IBpgFBVV95cUxQLVdkcVhHbmpYeEotWUdfTjFqTmhPU0ZRQWpBUTcxcmRJbklMZ3FPUllXVllRSjBzSnNYb3hQUldsaHZ6SkFSalhsanJxT0hULU9rd2o4U3BnTDhVRldKMjM4N2hrVTBOakVfNEl4RHNFVndJcXUxNWItUGNFOUY2MW43b0hQRy1yR0xGeEdsNWd5cmZ3V3JKNWdjUExUOXJJOWh6cWlR?oc=5",
     "news_image": "",
@@ -42536,8 +42538,7 @@
     "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43740,7 +43741,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.87,
+    "news_score": 0.86,
     "news_title": "Solving practical problems, creating momentum for development (Part 2): Science and technology elevate tea products. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM1RuMmZaTnlaY295TW1Kd3l5WUJ3RHBGSTlXeEZqRnJGUGItdUJOV3pzNHF1VUhrY1VnRmRsakVEZ2VFeFdhMk8tcnRJY05uV1FfdGdVN3ZETGxjTC1DRjF2UEk4bVQ0Q1N1Y0Q4OFlfaDdKWUhTZkZvQ0dLVTA3ODVsZXdVVDk3eDRab3VzMGNOZ2lCMFBkUUpfTnBVUElGeGc5M3pvMmZNRy1RelRRbEJOdmxQdW5QYVYw?oc=5",
     "news_image": "",
@@ -44273,7 +44274,7 @@
     "union_rate": 34.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 119,
-    "news_score": 0.11,
+    "news_score": 0.1,
     "news_title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates - UN News",
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SdVpvLTl3Qi01N0RVTWxpRXZJdkg4ODlRa2NIRmZDWXlreTYzc3Fac3NMWTh2NFlwMS1POVlaTVVlUWVxbF9tUmI1OGxEQWdsektXdE1UQQ?oc=5",
     "news_image": "",
