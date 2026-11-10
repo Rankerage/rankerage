@@ -1480,7 +1480,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.33,
+    "news_score": 0.32,
     "news_title": "Meet Stephanie Case - the first woman to run 100 miles in Antarctica - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeVp1MmVQdklueUxEV0JoaTk1TlR4c0NmYmpHU0pLZVpNRmZPV2tNT1NyLVFiNHI1ejZGLWtlbW8zQWptZzU3a1JCSVhtWlpma1N3QkU0bFNHdVZsa1NZRFY1VVhLWnVIekdSOXVzaC1xYXNBejlNak1Wd0d6YmVtLVFic3RVU0U?oc=5",
     "news_image": "",
@@ -1927,18 +1927,15 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.23,
+    "news_score": 0.54,
     "news_title": "Argentina captain Montoya may miss Italy clash - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeW04MGpsY0hDbmxmVU9EbkVjOVptbk9zTlh0MnRfQUdNM3RDZURKaF9xdWJCcWNWdnBILXlYUjBncUs5cnd1dWJEeW1YeEtzSTJGME40TTVuX2NmWmhxdkNNRE1VcUM5VXJhLTZ6bENlTkJvVUE5b1pHVzE0eWxxUWY0X2tQR0RxMlNwSkZPbENQdEU?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "61m ago",
+    "news_age": "63m ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -2562,6 +2559,7 @@
     "news_source": "www.rba.gov.au",
     "news_age": "76730h ago",
     "news_columns": [
+      "olympic",
       "fifa_ranking"
     ],
     "bottom50_wealth": 5.0,
@@ -5580,12 +5578,12 @@
     "refugees_rank": null,
     "union_rate": 73.2,
     "union_rate_rank": null,
-    "news_score": 0.61,
+    "news_score": 0.6,
     "news_title": "Beyond business optimism: New SeeNext index reveals Bulgaria's structural challenge - SeeNews",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOVp6VkllWVRuc3Y5Q3pCNzY3MFBNNDl5bGdHbmljZE1ZVVRTSy1kN1h2NFpUSjNTOXplaEhuTHFmUmEyTDc0empWcjc5TG1ZS1BBNGNVUFhBWWlhYnc3cGFtUC1kWXVUTjdNUi11NS1xUWpnNHJBQ2RjZjFsN0YwVE56bUlxYlgtUWJBNjBKVnVvZ1c3WGgwTEVXcGZqM3lqNjZhYy1FVk1ZS2NvZUFwc0NKUlc?oc=5",
     "news_image": "",
     "news_source": "SeeNews",
-    "news_age": "116m ago",
+    "news_age": "118m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -8015,14 +8013,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 2.15,
-    "news_title": "Nvidia stock edges higher as pressure mounts following alleged China spy links - CNBC",
-    "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYUp3aWtLM3FHZFMycjJkRGVUeXFXWUdPOV9fbEtkVUhwUk5oX2xDVHZ4alZwdl93VnY1UzMwSUN5QjJneHVzdTZHR21JUnkyU2NtZ05LazhQMHoteDNzSVUxQ2lTR0VVSk8yczdTVTd5cXFHNnFUR1hHdVlfc1psbktyRy1OTTQ?oc=5",
+    "news_score": 2.11,
+    "news_title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
     "news_image": "",
-    "news_source": "CNBC",
-    "news_age": "68m ago",
+    "news_source": "The New York Times",
+    "news_age": "85m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13559,12 +13558,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.47,
+    "news_score": 0.6,
     "news_title": "SEC football recruiting rankings after Georgia flips another 5-star - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOElYV3IwRzZIbmFEc2RBY2dPNFVVVFpLNGFaZEZPTl9LZ0w2S09ubWNqbDRDem5hWndlZC1qdWdPNnNHTDVnOHRkS29wS2dUUGF4Z2FHMndySUFRNFc1U2lhclZRbkNDaGNQYThfblM4a0pGUHdwWl9UU3hYRkhiNkZzRWpmNXRSeXRYQ3pId1llc1U?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "19m ago",
+    "news_age": "21m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -16150,7 +16149,7 @@
     "refugees_rank": null,
     "union_rate": 78.3,
     "union_rate_rank": null,
-    "news_score": 0.41,
+    "news_score": 0.42,
     "news_title": "Hungary detains Viktor Orban's brother in people-smuggling probe, PM says - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaWtlUHNkRXpscUFMakl1dkxJREs1WktlV2NDWlRkc09FSjlGX3Y4ZjZGSkkzTy1ob0NuWktjc2dYVDVZZmwtdUZqd2dtTXFnbHdZVG5DYndNNWo3N1FpekpWTWkwVEdCUHVnQ19PUUhUZ3NMUEVsREFfVkh3V2ZSZ2FBS2dkQ0Uyak4zYmN1Zzh2eGtYZC01R25wN1hZUVlOdjZhbHUxZkFtS0hIMGZ0X0ZOLUU5MFAw?oc=5",
     "news_image": "",
@@ -17391,19 +17390,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.87,
+    "news_score": 1.14,
     "news_title": "Hegseth impeachment effort begins in House, focused on Iran war - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlZ2Z0szYjlfTTBaZndNSUJHY0lLNlVGVDVpb2N2a3BTX09WR2U1cjVpWHZvNEdfQm4xLVFRM3cycmdrazk3Q25Gc05YSkgtOGF5eDROb2NfcTVZRG5yRE5hZVRKQ19XQk1INzdrTTVGZDBCbmpDOXU5NEJESHE5NHNCNGkwMUJSZVBPamlZc0M2MU9Ibng4dVJ5YjdZaE93MUd0SWtGZEt2ZHZndmpvRDZIbFROZjFJ?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "2h ago",
     "news_columns": [
-      "democracy",
-      "approval",
-      "press",
-      "election_days",
-      "military_pct",
-      "nuclear"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -18568,12 +18563,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.23,
+    "news_score": 0.39,
     "news_title": "Argentina captain Montoya may miss Italy clash - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeW04MGpsY0hDbmxmVU9EbkVjOVptbk9zTlh0MnRfQUdNM3RDZURKaF9xdWJCcWNWdnBILXlYUjBncUs5cnd1dWJEeW1YeEtzSTJGME40TTVuX2NmWmhxdkNNRE1VcUM5VXJhLTZ6bENlTkJvVUE5b1pHVzE0eWxxUWY0X2tQR0RxMlNwSkZPbENQdEU?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "61m ago",
+    "news_age": "63m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -19259,7 +19254,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.1,
+    "news_score": 0.09,
     "news_title": "Expanding cooperation with Japan in human resource training, science, and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU0FweTFnd2ZWSW9XQVpzOE14YTlqYXJNNEwxOXFvR3JTdlE4cmlMYUt5MnJvMDJpdkM5NGlTUENpWVY3bDQwRU10ZlUzbE01VG4tV3U0c0szQ0xHVDdQY1Mtc0djUEk1V2kxamhMVnhRZnRyemtTdHFoUHJuNUZCMDUxLUNKbnlHdmdvbThsWXpXN3BWWUlhNXMtc21MaUps?oc=5",
     "news_image": "",
@@ -19447,7 +19442,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.46,
+    "news_score": 0.48,
     "news_title": "Jaguars Acquire Jordan Davis From Eagles - ProFootballRumors.com",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSUd2UDJXOGVNOF82Mk9XMkZSQkpIcEVCakNhZHVBX0RRVzRyejNCY19rb2F5RmNCWDh0QmxlVXFSei1FdWZsZTVLc05XdHhuQTREbk5wQl9qX1h5UnB2SzlrWS1haDNmY2Rxbm52ZFRmVEFtRXc0LWFIZ0Y0THZJRVhDZnJSSmEwajdRakl3RDg2Zw?oc=5",
     "news_image": "",
@@ -33140,15 +33135,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.22,
+    "news_score": 1.1,
     "news_title": "Russia, Ukraine and US officials hold talks in Abu Dhabi - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhONWNmUnBCZjBHMWNrSU5JYjRDbVZ2UVZkcjFaNWVfZEJJS2dSQVd4NTdITjhZaHdUbHFQbDQ1VmhHVXVVLTd4UENvTXNxZUhBZTVsUTExYmJTaktacjUwQ0lpcUY3UU0yMGVSanVodTJYLVJjeERfVUxfTjlhSy12YkRnQ2Qwclp5RnJrRU5BY25wV1NZYlpKaHdZWHF4VnJfajc2ZV9qOXBmMmFCMEtmQdIBuAFBVV95cUxOZWZVY2FpTk0xWS1GSEkwUThabWJYMmQyeVBqWWlLUzh2ZFJOTzhoWEFXRHh1WmxQbE5BaHQyeTEycnlUUFJselphQ2dWVFJMcUdxblYzZ1JOd1VZdmQ2NFRESzRJUVRUWmlLeFZBalVhcHMweXNncnFQcFRLUDhOd2pkLVVMMWdwUDQyZDRiSUtaUWxCQW93TkdJZUdZX1Q1RUlaZzRHRW82OGNNS0EzejVvcTMxeGpL?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "83m ago",
+    "news_age": "85m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -41264,15 +41259,15 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 1.03,
+    "news_score": 0.93,
     "news_title": "Russia, Ukraine and US officials hold talks in Abu Dhabi - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhONWNmUnBCZjBHMWNrSU5JYjRDbVZ2UVZkcjFaNWVfZEJJS2dSQVd4NTdITjhZaHdUbHFQbDQ1VmhHVXVVLTd4UENvTXNxZUhBZTVsUTExYmJTaktacjUwQ0lpcUY3UU0yMGVSanVodTJYLVJjeERfVUxfTjlhSy12YkRnQ2Qwclp5RnJrRU5BY25wV1NZYlpKaHdZWHF4VnJfajc2ZV9qOXBmMmFCMEtmQdIBuAFBVV95cUxOZWZVY2FpTk0xWS1GSEkwUThabWJYMmQyeVBqWWlLUzh2ZFJOTzhoWEFXRHh1WmxQbE5BaHQyeTEycnlUUFJselphQ2dWVFJMcUdxblYzZ1JOd1VZdmQ2NFRESzRJUVRUWmlLeFZBalVhcHMweXNncnFQcFRLUDhOd2pkLVVMMWdwUDQyZDRiSUtaUWxCQW93TkdJZUdZX1Q1RUlaZzRHRW82OGNNS0EzejVvcTMxeGpL?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "83m ago",
+    "news_age": "85m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -42542,7 +42537,8 @@
     "news_columns": [
       "fifa_ranking",
       "olympic",
-      "fifa_w"
+      "fifa_w",
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
