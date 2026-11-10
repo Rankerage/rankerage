@@ -2552,15 +2552,14 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.19,
+    "news_score": 0.32,
     "news_title": "Cricket Australia rules out reopening ‘Sandpapergate’ inquiry despite Khawaja claims - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTjU0TlhaVDFFeXFsUXVQeFlkNml1elYwRjlBVm4tOTBWU1h0LXlBbGVMY1N4MlQ5aUdjbENIaFg5VUUtZm5HQ1lKeE9QT21JbVRsQTBNck11SDhlOEZQbjNEdzlMQVNrZG95Z2tFdzRaLVZCdmhaUU9ITUdtOWN0MUpac2lHbkwxM1FWcHM5dlFPZmJJT2R5YWZNSnc?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "olympic"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -5578,16 +5577,14 @@
     "refugees_rank": null,
     "union_rate": 73.2,
     "union_rate_rank": null,
-    "news_score": 0.53,
+    "news_score": 0.7,
     "news_title": "Beyond business optimism: New SeeNext index reveals Bulgaria's structural challenge - SeeNews",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOVp6VkllWVRuc3Y5Q3pCNzY3MFBNNDl5bGdHbmljZE1ZVVRTSy1kN1h2NFpUSjNTOXplaEhuTHFmUmEyTDc0empWcjc5TG1ZS1BBNGNVUFhBWWlhYnc3cGFtUC1kWXVUTjdNUi11NS1xUWpnNHJBQ2RjZjFsN0YwVE56bUlxYlgtUWJBNjBKVnVvZ1c3WGgwTEVXcGZqM3lqNjZhYy1FVk1ZS2NvZUFwc0NKUlc?oc=5",
     "news_image": "",
     "news_source": "SeeNews",
     "news_age": "2h ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -8013,16 +8010,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 2.04,
+    "news_score": 1.96,
     "news_title": "Nvidia stock edges higher as pressure mounts following alleged China spy links - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYUp3aWtLM3FHZFMycjJkRGVUeXFXWUdPOV9fbEtkVUhwUk5oX2xDVHZ4alZwdl93VnY1UzMwSUN5QjJneHVzdTZHR21JUnkyU2NtZ05LazhQMHoteDNzSVUxQ2lTR0VVSk8yczdTVTd5cXFHNnFUR1hHdVlfc1psbktyRy1OTTQ?oc=5",
     "news_image": "",
     "news_source": "CNBC",
-    "news_age": "96m ago",
+    "news_age": "98m ago",
     "news_columns": [
       "fifa_ranking",
-      "basket",
-      "olympic"
+      "basket"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13029,12 +13025,12 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.97,
+    "news_score": 0.99,
     "news_title": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jWHRvNTRYTnpDandQOUdCbC1EOHVmOUVER1JJWnNhRGFld2FlUkxXd2lRMklQb3ZWeTY0V2UxVUVCRWlFZC1XNHpVWm03TU5keXRndGl2aXV2VkRyWF9IYUxWVFFuSUFrZEpPRmJLbEVaMmlXNzln?oc=5",
     "news_image": "",
     "news_source": "CNBC",
-    "news_age": "76m ago",
+    "news_age": "78m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -13559,12 +13555,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.54,
+    "news_score": 0.62,
     "news_title": "SEC football recruiting rankings after Georgia flips another 5-star - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOElYV3IwRzZIbmFEc2RBY2dPNFVVVFpLNGFaZEZPTl9LZ0w2S09ubWNqbDRDem5hWndlZC1qdWdPNnNHTDVnOHRkS29wS2dUUGF4Z2FHMndySUFRNFc1U2lhclZRbkNDaGNQYThfblM4a0pGUHdwWl9UU3hYRkhiNkZzRWpmNXRSeXRYQ3pId1llc1U?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "47m ago",
+    "news_age": "49m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -15873,12 +15869,12 @@
     "fifa_w": 81,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 62,
-    "news_score": 0.34,
+    "news_score": 0.33,
     "news_title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026 - The Hacker News",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYmdkeVduVTNxUDlRM3dXRTNwdl9Ec2J4T3ZqSjAxYUdoQW5BTG50MklmekowNWxDaVpJMndRWFBEcFFob3hWcjFabGY2cExUZzdTTXIwS1hmc0p5cjJWSmJ3MkVWRWZoQldjS3pqMlVubnA4d2J2YjFqa1Rodm43aw?oc=5",
     "news_image": "",
     "news_source": "The Hacker News",
-    "news_age": "3h ago",
+    "news_age": "4h ago",
     "news_columns": [
       "cricket",
       "olympic",
@@ -16150,7 +16146,7 @@
     "refugees_rank": null,
     "union_rate": 78.3,
     "union_rate_rank": null,
-    "news_score": 0.4,
+    "news_score": 0.39,
     "news_title": "Hungary detains Viktor Orban's brother in people-smuggling probe, PM says - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaWtlUHNkRXpscUFMakl1dkxJREs1WktlV2NDWlRkc09FSjlGX3Y4ZjZGSkkzTy1ob0NuWktjc2dYVDVZZmwtdUZqd2dtTXFnbHdZVG5DYndNNWo3N1FpekpWTWkwVEdCUHVnQ19PUUhUZ3NMUEVsREFfVkh3V2ZSZ2FBS2dkQ0Uyak4zYmN1Zzh2eGtYZC01R25wN1hZUVlOdjZhbHUxZkFtS0hIMGZ0X0ZOLUU5MFAw?oc=5",
     "news_image": "",
@@ -16816,7 +16812,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.1,
+    "news_score": 0.09,
     "news_title": "From movies to medical science: Polarised glasses tech finds groundbreaking new calling in India - The New Indian Express",
     "news_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUEdCcTEwVVRfdXgyeUlpWXZLRFpBOUpyRlIxNWNCVTd1RnFtZFg3UGRsX0xDMnFHLXVUUjBXWTNaZFVyQXJSLWpXaGdjUmJ5cE1FY2tIdGJacXpTN1ZpWWdRbkp4QkxWMWVGeF9DSDJJMmdmOW9QMHRzOTlWdC1sRnhrVU1YbmF3d3MwOUZmdnFrbUpFdURCa2N0NERJWm1JMzB6QkJHUkdORmRIZkJpWWs5QXFHMFdJeXhIdWFLR1FCTUtnUUx3bTJGMzFZcGFxeDh3S3k5RS1ZNFljanV5SllrSVZVTTBEUXfSAfcBQVVfeXFMTlhIX1I4MGJ2cWdfbnhYbmFFaDNOdXlVcGQ4ZUNFdzI4VHdHTzc4ZHNydk15Wk5NTW1TemJwMHUxMXRia1lzbUJSbXFvUkZmUUxfOG5Fc2dZbk1KUGhnaVcyeTNxNjNvNWNjTHpIWHJ3TjgzVm5adW5BM0NuMWNOQl9oSVkxZmFpdTRjZ2wtMkdESkRKeXNPclFuN2RLYUxjVkZvQU5pRUtxYVVRT0dXMDlaQldKTlFyUF9XNEpnc2NBSEg4MWlGd3BDNGxfaF9SY3dpMFpuRmFiSGNkblFXdGdzbEFKYWJBdjBsU1hpQUVkaHpyV0lROA?oc=5",
     "news_image": "",
@@ -17391,12 +17387,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 2.74,
+    "news_score": 2.8,
     "news_title": "Brent Crude Falls Below $90 For First Time Since August As Iran War Resolution Hopes Grow - News18",
     "news_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLWFiczBkNzZYUXRpVjVFNkJpMVc2bi1WWlpUT293NzlacmN6bjNUUGJvV2Jrd2lEb1M3dHF5YU9LSzNjNHZ0YnV2OGx0X3Iyd0ptdm9mVGJHZWhjMlU5Z2FSWHdKM2FqVHRSR1psUVhJUEpSNjkzbkZVMUFuUjVNX3M4RjdmMUhKSkZFVmlVV3NJeDVHbmpucWtlZVJOSk5UNmx5WU80cFpnVnMzZVpxZUpKb1IxbjJ6WHRXd2Y0Q1JoVUpUZXZpMWNMc01OOXd1UDZiNDJJeGhQZ9IB3wFBVV95cUxNMzY2TzRQYmFucFhOVFBHOUdva3Bwb2FfVmE1bDJVRzV1QURpVXBCX1pybnVHNHpHNU9BSWdCd2tDcVFNRkcwbjU2WVItbEZOeThFVG11dlNMX0RQNnZ1dV9IUktwUUZDdVBXSUR5YzMxeG1jVmRNSnljdlBsemVtMDJWa21faDNMN1ZmNnRFQVVuc2h3cWFPQU40UkVVNnVTTjlzbHlkV3dPQzhXM2VxbTJqcnNMU3N3ZHYwT3lYcUhlYURFOFZlRUloenJkeGl5X0w5LXFXdkt2ZmdpNXo4?oc=5",
     "news_image": "",
     "news_source": "News18",
-    "news_age": "18m ago",
+    "news_age": "20m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -19262,8 +19258,7 @@
     "news_source": "Vietnam.vn",
     "news_age": "9h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -19440,12 +19435,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 1.0,
+    "news_score": 1.01,
     "news_title": "Jordan Poole finished at -47 in the loss to the … - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWkxTV2NKbFNKUDBnWVN3blRxV2xIZktWTElFc05zUENITnI1MlZnLVdPQjhuX1ZPaUNiWDIxQTViQjNxYXhKTjBlX3cyUTR3ZEpOVHF6UkR3cDNIRVFoNmhvS3JsYXlzVWJodGUwUGEzN29KNThmRi1rNXhkZ0QtYUpSSVg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -32335,7 +32330,7 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.0,
     "news_title": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk10al9Za09KSVdSOEJFak01MEtXS0I0bHg2Q2wzSmUzSDlEVlpObU41Mjg0aUZhQU5zR1NIbzdTMHJLV1FDbEk5WExHLUF0aUlHVU9CSlpEMXozNVFzSm5PTm4zekxYVmR6YlZLYUtHVUEzREp3UEIzSW1NTksyMWJXZTFiWTRvNW5oSGtQOVY3ZW1uOHdNYXJuWUtnWmhkVTRQWEsxRdIBrAFBVV95cUxOeDVLZnJwdDZ1b2dWamRIanBpZXUtQXE1dVhQeXVmY0haLVRFUDFwa2Zicl9FQTEyUXhFaE40dldBQmR1amhrSkFqd2U3Z1d4RXhSZ1VFTGpmeHpMNERLc2syWFZYLVk3aGtvQk5WZFRYWlRLODE3NEs4UGF4amM2ZEVFSmZJcElHaEpQSlJ2Z2ZsTFh4TUhhb3BqblV2ZHBHaTRPWXNpcDJMeTdG?oc=5",
     "news_image": "",
@@ -33133,12 +33128,12 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.74,
+    "news_score": 0.73,
     "news_title": "Russia, Ukraine and US officials hold talks in Abu Dhabi - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhONWNmUnBCZjBHMWNrSU5JYjRDbVZ2UVZkcjFaNWVfZEJJS2dSQVd4NTdITjhZaHdUbHFQbDQ1VmhHVXVVLTd4UENvTXNxZUhBZTVsUTExYmJTaktacjUwQ0lpcUY3UU0yMGVSanVodTJYLVJjeERfVUxfTjlhSy12YkRnQ2Qwclp5RnJrRU5BY25wV1NZYlpKaHdZWHF4VnJfajc2ZV9qOXBmMmFCMEtmQdIBuAFBVV95cUxOZWZVY2FpTk0xWS1GSEkwUThabWJYMmQyeVBqWWlLUzh2ZFJOTzhoWEFXRHh1WmxQbE5BaHQyeTEycnlUUFJselphQ2dWVFJMcUdxblYzZ1JOd1VZdmQ2NFRESzRJUVRUWmlLeFZBalVhcHMweXNncnFQcFRLUDhOd2pkLVVMMWdwUDQyZDRiSUtaUWxCQW93TkdJZUdZX1Q1RUlaZzRHRW82OGNNS0EzejVvcTMxeGpL?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -40299,17 +40294,14 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.03,
-    "news_title": "Turkey hosts world climate summit, but some critics accuse it of 'greenwashing' - NPR",
-    "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEdZWldiV1pQbnZTWE1LX0NtaXl6c0tyTXZkTk9WcHczLXZINmM3WjdMdEszd3FGWERyZmhQVG9zZE55N0pKemtMOVFMWlE4QUFEZzZfaUtPVkJnZGVSUG9NNzNtTXVoUVlTT1FNaTc1NnJwZEFoRENWSlI1X2xGUjVTTXBpblR2M2s2SllZeGxIWWl1SFBHcHYyZmVxbEZCcFVyZ0c2bTJ6LWhqZF9wY0xyMDdsTlpqcDRLQm1R?oc=5",
+    "news_score": 0.36,
+    "news_title": "Turkey Promotes Itself as a Climate Champion. Not Everyone Agrees. - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTFQ2MVJRNlNETng3YTBjMld5RVBMUnp0UTBOU05YUk5FcW02dmVqVjJFeEEzX2N2MmlWR19PQTV0WXdfUDdkdi1DN2J3TWZSeFFpeU90Z0NSaW55RjR5cGlLNVBpMXMyMXFNQk9lb0lRMi11WU96d2pQUzBySTJ2OWZIWEFfMWtR?oc=5",
     "news_image": "",
-    "news_source": "NPR",
-    "news_age": "12h ago",
+    "news_source": "The New York Times",
+    "news_age": "51m ago",
     "news_columns": [
-      "co2",
-      "renew",
-      "forest",
-      "pm25"
+      "olympic"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -41266,7 +41258,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhONWNmUnBCZjBHMWNrSU5JYjRDbVZ2UVZkcjFaNWVfZEJJS2dSQVd4NTdITjhZaHdUbHFQbDQ1VmhHVXVVLTd4UENvTXNxZUhBZTVsUTExYmJTaktacjUwQ0lpcUY3UU0yMGVSanVodTJYLVJjeERfVUxfTjlhSy12YkRnQ2Qwclp5RnJrRU5BY25wV1NZYlpKaHdZWHF4VnJfajc2ZV9qOXBmMmFCMEtmQdIBuAFBVV95cUxOZWZVY2FpTk0xWS1GSEkwUThabWJYMmQyeVBqWWlLUzh2ZFJOTzhoWEFXRHh1WmxQbE5BaHQyeTEycnlUUFJselphQ2dWVFJMcUdxblYzZ1JOd1VZdmQ2NFRESzRJUVRUWmlLeFZBalVhcHMweXNncnFQcFRLUDhOd2pkLVVMMWdwUDQyZDRiSUtaUWxCQW93TkdJZUdZX1Q1RUlaZzRHRW82OGNNS0EzejVvcTMxeGpL?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -42543,7 +42535,8 @@
     "news_columns": [
       "fifa_ranking",
       "olympic",
-      "basket"
+      "basket",
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
