@@ -1480,7 +1480,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.51,
+    "news_score": 0.5,
     "news_title": "Meet Stephanie Case - the first woman to run 100 miles in Antarctica - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeVp1MmVQdklueUxEV0JoaTk1TlR4c0NmYmpHU0pLZVpNRmZPV2tNT1NyLVFiNHI1ejZGLWtlbW8zQWptZzU3a1JCSVhtWlpma1N3QkU0bFNHdVZsa1NZRFY1VVhLWnVIekdSOXVzaC1xYXNBejlNak1Wd0d6YmVtLVFic3RVU0U?oc=5",
     "news_image": "",
@@ -2562,8 +2562,8 @@
     "news_source": "www.rba.gov.au",
     "news_age": "76729h ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "co2_emissions",
+      "climate_index"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -5581,15 +5581,16 @@
     "refugees_rank": null,
     "union_rate": 73.2,
     "union_rate_rank": null,
-    "news_score": 1.24,
+    "news_score": 0.87,
     "news_title": "Beyond business optimism: New SeeNext index reveals Bulgaria's structural challenge - SeeNews",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOVp6VkllWVRuc3Y5Q3pCNzY3MFBNNDl5bGdHbmljZE1ZVVRTSy1kN1h2NFpUSjNTOXplaEhuTHFmUmEyTDc0empWcjc5TG1ZS1BBNGNVUFhBWWlhYnc3cGFtUC1kWXVUTjdNUi11NS1xUWpnNHJBQ2RjZjFsN0YwVE56bUlxYlgtUWJBNjBKVnVvZ1c3WGgwTEVXcGZqM3lqNjZhYy1FVk1ZS2NvZUFwc0NKUlc?oc=5",
     "news_image": "",
     "news_source": "SeeNews",
-    "news_age": "28m ago",
+    "news_age": "30m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "car_density",
+      "gas_price",
+      "co2"
     ],
     "bottom50_wealth": null
   },
@@ -6942,7 +6943,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.18,
+    "news_score": 0.24,
     "news_title": "Zach Edey plans to play for Canada in World Cup if healthy - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc0VrdUk5eVdFS2RoSUR0bTVyc1RuS3Exd25kTHIwRUpCODY3Y21ubmVyTU9McWdzYlJjc2JOcDBoTkc3NTVMNUF5QUpFaWJLVzQxRzY1d3Njdk1RdWVTMFFwUnJPNTh4MGpkR1JyeHBNYU5pZnpHcG1YMDVjekxNQ3Bn?oc=5",
     "news_image": "",
@@ -6951,8 +6952,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket"
+      "world_cup"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -8015,17 +8015,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.78,
+    "news_score": 1.64,
     "news_title": "Opinion | Chinese investment in African manufacturing could change the world - South China Morning Post",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1l0aGFvN1EzeVNubWJTZWN5UE52QVRUWTVWWVJpNE84aFZTaTFuLWN1LWFmRUs3Wnc1WjlkZ2hNa1VlUXlCU1dKRXJ3SkNQRGhhSDVLZXFpY3pSQmZXSW5SMUx5N09qdVRaNUxZY01ZWUk1b3YtTUFTQXpCc3NCbTBVaUUyRTcxRnA1UlFYeE5WWDNfd1FHRE50RmRCd2xHc1liYndqRU1lV28xdXg0Rm5ia2p4QVFSekHSAboBQVVfeXFMTzRsNlVHUE1hajVJMU40UnUwd0s4ME1oSDNtT01ENnBjaDFZUkRHanNPUnlTZDlTZWZUbllHS0p4c3prWnpCYnZqMmJoOW5aMzllUWpBRVZGVnVlN0UzUk44VjctaklaOVNZX0pjMkVtcE9KTGtzQkNzTnNHaDNyc1JnampZTGs0cjhLRWRudjc0QTFycV85UVlaczFpZUlsczh3aHVJd3N3V29rN05kVDRTLV9Ha0h6X3Nn?oc=5",
     "news_image": "",
     "news_source": "South China Morning Post",
-    "news_age": "25m ago",
+    "news_age": "27m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "trade_balance",
+      "exports"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13032,15 +13030,17 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.74,
+    "news_score": 0.43,
     "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "4h ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -14073,8 +14073,8 @@
     "news_source": "Vietnam.vn",
     "news_age": "29h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "trade_balance",
+      "exports"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -17395,15 +17395,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.65,
+    "news_score": 1.5,
     "news_title": "Hegseth impeachment effort begins in House, focused on Iran war - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlZ2Z0szYjlfTTBaZndNSUJHY0lLNlVGVDVpb2N2a3BTX09WR2U1cjVpWHZvNEdfQm4xLVFRM3cycmdrazk3Q25Gc05YSkgtOGF5eDROb2NfcTVZRG5yRE5hZVRKQ19XQk1INzdrTTVGZDBCbmpDOXU5NEJESHE5NHNCNGkwMUJSZVBPamlZc0M2MU9Ibng4dVJ5YjdZaE93MUd0SWtGZEt2ZHZndmpvRDZIbFROZjFJ?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic",
-      "fifa_ranking"
+      "election_polls",
+      "approval_rating"
     ],
     "bottom50_wealth": null
   },
@@ -19258,7 +19258,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.23,
+    "news_score": 0.22,
     "news_title": "Expanding cooperation with Japan in human resource training, science, and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU0FweTFnd2ZWSW9XQVpzOE14YTlqYXJNNEwxOXFvR3JTdlE4cmlMYUt5MnJvMDJpdkM5NGlTUENpWVY3bDQwRU10ZlUzbE01VG4tV3U0c0szQ0xHVDdQY1Mtc0djUEk1V2kxamhMVnhRZnRyemtTdHFoUHJuNUZCMDUxLUNKbnlHdmdvbThsWXpXN3BWWUlhNXMtc21MaUps?oc=5",
     "news_image": "",
@@ -19446,7 +19446,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.54,
+    "news_score": 0.53,
     "news_title": "NFL Best And Worst: From Jordan Love’s Masterpiece To Caleb Williams’ Clunker - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRE5DS1NYMzczNG1FOW16Qzd3NEpqdk92ZW5Xcld2ME8wS1c4dDk1LXRUdmJjSkVZLTZfUTkyTEU3X2pmcDdmakwteExzN2hRdVZZb0x0VVhDSWJ2eGRQclFVNEdOZWs3c1VCVlBNcFEzSnB6RmVnVC1jc0tDWFVTb2VKaUtRNXpWRnEtTTQxTkbSAZABQVVfeXFMTVZLaHlXazIwYzExa1NiSXV1X2N3cm0tQXh1SjMwWEZBNUEwUE1nVWE5dmdUWm91MjljYk13eElTbHJIMzN5dkZzcENvbGJXaTc1X3ZHdkFqWWl2cGNMVDN0Rm5sUkVuamF4MU5jRUxrQWZ2QVRrVkxCcnZXV2lUeExQM2JQamtDUnR6Y0VidmFz?oc=5",
     "news_image": "",
@@ -24829,7 +24829,7 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.06,
     "news_title": "Mexico Sees Science Funding Surge, Tech Expansion - Mexico Business News",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkpjSndSOUJsdjFxdFU5TG03VTBuSDFDekxKTS14Q3dSZHBNSkRlNFR1amJTQjBBdHZWeWFuc2RfcnFkYmxIcEt3QnZFS2JxcUFscmp0QmtTc3NGdW4tb3JnS09tYUNCX2pNWFNBeGF6a1lSQ0R2SFBHWVpKaGczelZHdm5qdVRzSUw5ZHIyQmF3Zw?oc=5",
     "news_image": "",
@@ -24837,7 +24837,8 @@
     "news_age": "9h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "world_cup"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 22
@@ -31664,12 +31665,12 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.64,
+    "news_score": 0.63,
     "news_title": "Poland’s Political Divisions Puncture Its Influence on World Stage - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZkVPSnVPV3ZVcGdRdGgxN1JDV3BWSk51WnZLcjEwZ3JVSFFabEdBZmR6TktQZ2I2UFRtRkI4QUlhMnRldzg1YUNxQUI3TTlWc2ZTRk9mdXRpUThvcENvSmxzUDQ1LWFaTjNtb3VLdW0zSEcyd1VLc0xPS2gtQTdoRjY3VmV0VkxjeEtzVS03ZE5zMS04c0FyN1NFOGhnbXh0QlJPdkkwZk9JVW8?oc=5",
     "news_image": "",
     "news_source": "WSJ",
-    "news_age": "105m ago",
+    "news_age": "107m ago",
     "news_columns": [
       "politics",
       "conflict"
@@ -32338,7 +32339,7 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.13,
+    "news_score": 0.12,
     "news_title": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk10al9Za09KSVdSOEJFak01MEtXS0I0bHg2Q2wzSmUzSDlEVlpObU41Mjg0aUZhQU5zR1NIbzdTMHJLV1FDbEk5WExHLUF0aUlHVU9CSlpEMXozNVFzSm5PTm4zekxYVmR6YlZLYUtHVUEzREp3UEIzSW1NTksyMWJXZTFiWTRvNW5oSGtQOVY3ZW1uOHdNYXJuWUtnWmhkVTRQWEsxRdIBrAFBVV95cUxOeDVLZnJwdDZ1b2dWamRIanBpZXUtQXE1dVhQeXVmY0haLVRFUDFwa2Zicl9FQTEyUXhFaE40dldBQmR1amhrSkFqd2U3Z1d4RXhSZ1VFTGpmeHpMNERLc2syWFZYLVk3aGtvQk5WZFRYWlRLODE3NEs4UGF4amM2ZEVFSmZJcElHaEpQSlJ2Z2ZsTFh4TUhhb3BqblV2ZHBHaTRPWXNpcDJMeTdG?oc=5",
     "news_image": "",
@@ -42537,17 +42538,21 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.48,
+    "news_score": 0.46,
     "news_title": "United States Sports University holds sports artist of the year event - Fox 10 News",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFdnMTRSWTBfRkRWWE9uOUpRREZFcmxNMFoxb3pjSVZPRlg0ZHoteXRUUFRWOGFDNmpsb3VzR0ZxNlNXVUNNQzVSSmI4dUxQbkw1cDZnRlNTVGtJajNkdGRxdFAxWlVmZXdfc0hnN3hKekxaQ0FiMEtYZ3RLMklpazgtSUEzM1diZ3REdkktREpidnZHS21wUFhhNzJCdmvSAbMBQVVfeXFMUERNY2c0Y1d0STJJZk1Cc3FxV3lYYndDSG1FWXNTeWhYbmNtSkZVcmFDVDk5LXlXTGN6QU9HY3FnM0dOMFpjVjVnMExkdXV5RmhvakN5RFlRbjZka3BzcElmczBsQzItWHhpMjJCNkdTY3c5TDR5WmFNRWxnVVl2U1prb2RtOFBIem5aVVlUbzI4SW1NY2V0a3pwSUxRS0FmQkRLSi1sbkw3eUl1ODlEZnpDdTA?oc=5",
     "news_image": "",
     "news_source": "Fox 10 News",
     "news_age": "4h ago",
     "news_columns": [
-      "olympic",
+      "nfl",
+      "qb_rating",
+      "playoff_odds",
       "fifa_ranking",
       "fifa_w",
-      "basket"
+      "world_cup",
+      "trade_balance",
+      "exports"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43750,12 +43755,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.99,
+    "news_score": 0.98,
     "news_title": "Vietnam Union of Science and Technology implements labor health care plan - Laodong.vn",
     "news_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONnJtVlpqWjlIQ2hHbXFDanotRVpTbWRfWUhueXZkSnROT29KU3Zvd3E1Y283ekp4cDl6UmsyOHVHdHFQQ0EzdTNoUG1mTWd1cDJQOUtCUlROc2s4RkEwek54NFN0bXo2dWtQNExfeDBRREJXYjIxbkhRQTJYSTZqMU03Q2lHa0hXd2I0Q0Z1bUJtVG1rNmJhVF9JSlRXVjV1a1JZc1RzVUQ0Z1J0UkhIT3Rhc1FKU3p0NTlsQXl1TDJqMjNMNENiSThZd21tdw?oc=5",
     "news_image": "",
     "news_source": "Laodong.vn",
-    "news_age": "87m ago",
+    "news_age": "89m ago",
     "news_columns": [
       "car_density",
       "gas_price",
