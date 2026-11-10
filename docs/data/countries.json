@@ -2562,12 +2562,7 @@
     "news_source": "www.rba.gov.au",
     "news_age": "76735h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -2869,12 +2864,12 @@
     "refugees_rank": null,
     "union_rate": 77.9,
     "union_rate_rank": null,
-    "news_score": 0.68,
+    "news_score": 0.74,
     "news_title": "Harvey scores hat trick as USA women rout Austria at hockey world championship - Channel 3000",
     "news_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOTUJub2p3S2xPY3RqWlpyVDVHM3FDQ2d5ak5QVXdhb0tXVG1XblJkTy1rdGM1VURQNW1pQW9Xb3pzXy1HVE54OFBZLXVsekpSUWNuMUoyRW5yQjFEenROWXlvd3pGS0dYc01CUHptVVIyVV9NS2x3SDJDLTZkeUVocGdVbHpQcm41cHJaRnJZcmRLWkowYkYzZGtqd1BEdHlZd1JfeGs2bzVucjN5TXFaV012MlAxM0N5dkg2MG1rUGdiOE5Mel9xbU1aZDJGNTZMS0dQWk01QVhjR0R1LWtMenRQZThkZEtuXzN3eko3STBZQlQ0am94X2YtLU91NjhWUXkw?oc=5",
     "news_image": "",
     "news_source": "Channel 3000",
-    "news_age": "31m ago",
+    "news_age": "33m ago",
     "news_columns": [
       "gender",
       "gender_gap",
@@ -6946,15 +6941,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.6,
+    "news_score": 0.42,
     "news_title": "Not Rare, Just Missed: 19 Landmarks Across Canada Light Up for World NET Cancer Day - Yahoo Finance",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRW5VMVZEWFY0WURieVZWZ1VBYWlHbXBfVndLcGFqTkc3b0g3U2lvblN5T2FxbzNSVjc0Xzh5SUF2ajlQOGx5ODRGX05vQzVIZXpiTE9Fc3pHQVNqNElVdWFkZFppWjNKUU5EXzBxYmxQM05odlVMcTl1YWJkdWNrc2JkLU83VE1hZGRsVg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Finance",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "health",
+      "life_expectancy",
+      "doctors",
+      "beds",
+      "vaccination",
+      "infant_mortality"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -8017,15 +8016,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 2.43,
+    "news_score": 2.25,
     "news_title": "US and rest of world must follow China’s lead on green energy, says John Kerry - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaTBKYVBWUU91LXcyV2I4V2RUcUtjSGlpRHRYSXhuSkxQNEx3aWRJMkQ0MFZ4ZmJKQ1lmcUJVTXdXM3VDTDlOVFk3ZFQxTEcyMDE2OTVXZnVxOFMxY21NVDdUN0pXV3NmQmJhc3dRSnlxb3FqczNZaGRNQS10OVdFYkRGazY0ZEp3UXgyZUJmcy0?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "65m ago",
+    "news_age": "67m ago",
     "news_columns": [
-      "basket",
-      "olympic"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -17404,14 +17402,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.99,
+    "news_score": 1.75,
     "news_title": "Live Updates: Trump says U.S. keeping Iran war at \"status quo\" but warns American military \"locked and loaded\" - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zN0FDMkRwcDVyZGFpV0dvRnhidUVyU1hrc2pKQzJZMmlLZDF1bHZ0dzBtMDJLOXc5T0xNYmRuS2Q4eU1QQmFqaHJ1cVg0VGkxcWN3dEZLVlo1UlQ0ckZCaW52b0lHQzVZN2N6UElySjhIWDdXWVh5T24xcmh4Zw?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "60m ago",
+    "news_age": "62m ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -18134,12 +18132,12 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.73,
+    "news_score": 0.74,
     "news_title": "Live Updates: Trump says U.S. keeping Iran war at \"status quo\" but warns American military \"locked and loaded\" - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zN0FDMkRwcDVyZGFpV0dvRnhidUVyU1hrc2pKQzJZMmlLZDF1bHZ0dzBtMDJLOXc5T0xNYmRuS2Q4eU1QQmFqaHJ1cVg0VGkxcWN3dEZLVlo1UlQ0ckZCaW52b0lHQzVZN2N6UElySjhIWDdXWVh5T24xcmh4Zw?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "60m ago",
+    "news_age": "62m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -19268,7 +19266,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.41,
+    "news_score": 0.4,
     "news_title": "Japan’s Trading Houses Thrive in a World Scrambling for Resources - Bloomberg.com",
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLUxNdTk5enNST25Ub2YyNjNDVVhJV0NnWmg1Tk5Kc3k4Z3ZIRm5Na3FGOGptMWdHNDBZLUVGYlhrZEJWNF8wajBqYTF5SnMxa1ZRZFpiNGJkaWhwSDlNTmdLanBhMnpDZDZlN3c5OV84ckFfc2hyYm03bmkwQzY4WU44Tk43S0ZGakdzS1d5RFF1NmtWblB0VXhfeW45SnRFamYtdWNNcklNUXZCRDJUZTY0cUVfRF9sckVF?oc=5",
     "news_image": "",
@@ -19455,12 +19453,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 1.05,
+    "news_score": 0.99,
     "news_title": "Report: DT Jordan Elliott to work out for Bears - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb21Mdnpid3hTR1JpcHp2bnB3czVhUWRicDFVU0tiYWp1NkVlT3lNVU5KbFA5V01lcFhnZ2dvSURwbDJ5czBieW12ZFZNZlE0dUFIVlIwM1lWLVlvV3BxRUt3ZFlFd1VkZl9OdzdpUXZSSExJSC1iQzlPY19zZUVSXzVxTlA3Zw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "112m ago",
+    "news_age": "114m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -26553,7 +26551,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdkhRdFZZdHQ1UHNtLWV5VlNDbjA3bFRyMEdlR1I0NF9YVXF5QVNVcVVNYnNwUU9na1VyRHhGRFctZWR1Z21YMmRVdld1NFZ2WHZJVjF0NDJZUndDQmJhakFEU3ZTOWVMOVVRZlROY09qQmhLTGZiaTJJQm54ekx4YnFoUDRYdlM1R1hKbkFPMlA5YXdOenFpMl9XOFA0UUxUNmRDcVpYcTRMZ1dHVENN?oc=5",
     "news_image": "",
     "news_source": "World Boxing",
-    "news_age": "60m ago",
+    "news_age": "62m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -28469,7 +28467,7 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.57,
+    "news_score": 0.68,
     "news_title": "Kenyan Domestic Worker Sentenced to 100 Lashes in Saudi Arabia - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSDN4eXBBeXprR3M3cC1iQnNmMGV6dU5kYjJVN3czc3FlX0t0eW1oTFZjRkNraHBDUXZiLWZrS3ZCVVl1MVppdEtYeGxHMUJIUmpIN2J0NG5MRllyT2JLMnFoVHEzMFVTZ0ZxU1lJUHpvQkhjTzJDR0pqdTgzTXVyY2Z1U0h1MThiVXFUcXNLMjJWcDRHXzdkTEZWckNjMTAz?oc=5",
     "news_image": "",
@@ -28825,12 +28823,12 @@
     "union_rate": 89.3,
     "union_rate_rank": null,
     "fifa_ranking_rank": 104,
-    "news_score": 0.68,
+    "news_score": 0.69,
     "news_title": "'Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcFdxNDJ2b09ramZlTm9ldWtYN0doMWhveVEwRlN6a19KcnpHRU9PY2ZkWkFESXpRUk5kTnoydHNDODVJSE5OUkt1LTQ0VVVDR1A1VFdDZTlYQ0xyOEZXQ3lYeFA5QUcyMUFJWXo0UGNmU20zcC1SZF9BeDlIS2FLUnZPU194eUtiSXJBVWhMR0w3V2VtUlZwV1VrVFQ2SjE1X0lIR0NJeUlWMllUY1hqVExqQ1RVbTF0U1NqWDFKSDR5bTlQZTVNZ0p2ckNEM3h4RWpmdA?oc=5",
     "news_image": "",
     "news_source": "NPR",
-    "news_age": "71m ago",
+    "news_age": "73m ago",
     "news_columns": [
       "internet_pct",
       "gdp_per_capita",
@@ -33134,14 +33132,14 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.09,
+    "news_score": 0.98,
     "news_title": "Russia, Ukraine and US officials hold talks in Abu Dhabi - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhONWNmUnBCZjBHMWNrSU5JYjRDbVZ2UVZkcjFaNWVfZEJJS2dSQVd4NTdITjhZaHdUbHFQbDQ1VmhHVXVVLTd4UENvTXNxZUhBZTVsUTExYmJTaktacjUwQ0lpcUY3UU0yMGVSanVodTJYLVJjeERfVUxfTjlhSy12YkRnQ2Qwclp5RnJrRU5BY25wV1NZYlpKaHdZWHF4VnJfajc2ZV9qOXBmMmFCMEtmQdIBuAFBVV95cUxOZWZVY2FpTk0xWS1GSEkwUThabWJYMmQyeVBqWWlLUzh2ZFJOTzhoWEFXRHh1WmxQbE5BaHQyeTEycnlUUFJselphQ2dWVFJMcUdxblYzZ1JOd1VZdmQ2NFRESzRJUVRUWmlLeFZBalVhcHMweXNncnFQcFRLUDhOd2pkLVVMMWdwUDQyZDRiSUtaUWxCQW93TkdJZUdZX1Q1RUlaZzRHRW82OGNNS0EzejVvcTMxeGpL?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "36m ago",
+    "news_age": "38m ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -34313,7 +34311,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 120,
     "fifa_w_rank": 100,
-    "news_score": 0.45,
+    "news_score": 0.41,
     "news_title": "New CEOs for LTA, Home Team Science and Technology Agency from 2027 - Yahoo News Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vUzV3YjNpOVA2cEVXUTdEVzVCR2lCUXBRNXhpaE5zSEh4alRKRDItY2Q3eUEwMTZaRndNYzlnT2Y2Xzc1ZWtjZ0ZMZ2tRbTN6THJnaGNjM0hhTml4SUdPa0FPekNiZG1iamt2dmZETkF6bTBoWkE?oc=5",
     "news_image": "",
@@ -35650,7 +35648,7 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.59,
+    "news_score": 0.58,
     "news_title": "South Africa boss Des Ellis adds Wendy Shongwe for FIFA Women's World Cup playoffs - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRDJjNkVvUC1zREtKZ1d1dmcwSkMzcFpJU1l2MUtvRGJPTndDYThsUkZQaGFNNndBSEl3eXVjSUtkLUtOVklkR2dHYy03NW0xLVlIcDFJODdRUjNKUGdfN2pjaHVhN3JyR2huc3FJX2s0ZndvOHR0SWpBZWQ4eEpoTE5vSDNKZUE0U3NsamxrS2dlemVhcjc1dWt6TDh4ZHVabFZaMG9rY0lnazVSc0pXVDd3?oc=5",
     "news_image": "",
@@ -41255,14 +41253,14 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 1.09,
+    "news_score": 0.98,
     "news_title": "Russia, Ukraine and US officials hold talks in Abu Dhabi - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhONWNmUnBCZjBHMWNrSU5JYjRDbVZ2UVZkcjFaNWVfZEJJS2dSQVd4NTdITjhZaHdUbHFQbDQ1VmhHVXVVLTd4UENvTXNxZUhBZTVsUTExYmJTaktacjUwQ0lpcUY3UU0yMGVSanVodTJYLVJjeERfVUxfTjlhSy12YkRnQ2Qwclp5RnJrRU5BY25wV1NZYlpKaHdZWHF4VnJfajc2ZV9qOXBmMmFCMEtmQdIBuAFBVV95cUxOZWZVY2FpTk0xWS1GSEkwUThabWJYMmQyeVBqWWlLUzh2ZFJOTzhoWEFXRHh1WmxQbE5BaHQyeTEycnlUUFJselphQ2dWVFJMcUdxblYzZ1JOd1VZdmQ2NFRESzRJUVRUWmlLeFZBalVhcHMweXNncnFQcFRLUDhOd2pkLVVMMWdwUDQyZDRiSUtaUWxCQW93TkdJZUdZX1Q1RUlaZzRHRW82OGNNS0EzejVvcTMxeGpL?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "36m ago",
+    "news_age": "38m ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -42530,11 +42528,8 @@
     "news_source": "Fox 10 News",
     "news_age": "10h ago",
     "news_columns": [
-      "mlb",
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "basket",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
