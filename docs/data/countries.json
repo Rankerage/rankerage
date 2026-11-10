@@ -1927,8 +1927,8 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.32,
-    "news_title": "Pope draws 2.5 million to Mass in Argentina and tells people with disabilities they are a blessing - AP News",
+    "news_score": 0.36,
+    "news_title": "Pope urges Argentina to protect the vulnerable from Milei’s austerity measures - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeVRYYVFlTmhzSWxTS2N2VjJUX0kwVzBDVTZhSlpqTzFmUUFIUDZhdV9kX0ZtLXVpX3ZtcUV5dGNyQ1lXWURvWTZGYmhkaVNES1Y2dzRDcE0zN1hwazI4bFo1MzhSNHRBTGZRR3RSLUVYX2g5Q3RaQ3ozenp6MGg3MnhxQ0xTdnp5QnFiNUlmU0FvWFEtQS1WTjZXZjJYTUllSnFPTG85dGxubmNCZ0xEd1lB?oc=5",
     "news_image": "",
     "news_source": "AP News",
@@ -8021,7 +8021,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.18,
+    "news_score": 0.16,
     "news_title": "Xi Jinping’s plan for a China-centric world order - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0h5Rk8wZGVqdVJvd2RhYlZpWVpIYTVuWi1CcHduNGdDdmhKZlN6TkllYk9fN2pNT2lDR09xd3FLWEtDVVcyX01ZaThJanFqelQ2ZnN6RXRKQmQ2MzEyejF4SFYyWEs1ZFF5NGZfcWl0NVlDTU1XNVFJWDJ5a093ZUlQdE0wOFRNNnZhMl9PVUJMTlFkR2c?oc=5",
     "news_image": "",
@@ -10126,7 +10126,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.5,
+    "news_score": 0.0,
     "news_title": "Denmark’s controversial ‘parallel society laws’ face Supreme Court challenge - The World from PRX",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2RibzJMcmMxVjJGTW44d3FyTm5XLUZ1TVJ1LVl3T1RRT21JZDBabUdMdm1vbUJsbmpkUmx3NWxmT29rY2hNVWZaZ0xUdjRWUHlLbDV6QWtjc0ZnMWY0VTFMTEZ2V0hxbjV6dHJKMUZlWDdhV3RLMHhOa19URS1mTG12Q1o2RC11RFRGUjhFdVV4LUV2RGlKRnJoYm1Ob052UFhrS2pjMmlUTzFvVTFTSndiVlY?oc=5",
     "news_image": "",
@@ -14079,9 +14079,8 @@
     "news_source": "Vietnam.vn",
     "news_age": "21h ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -17404,7 +17403,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.33,
+    "news_score": 0.31,
     "news_title": "France accuses Iran of supermarket fridge hacking - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzeFI0SDNQMm9ieHFIWGNtSFV6cEliY0dwOUhXNE9NODFkSTZKUktramxLV0ZHS1BaN3RZX1pTWEtsNmZxSVlBQTNfN2I0Rlk4NTlCdnRnUElYbUE?oc=5",
     "news_image": "",
@@ -19270,12 +19269,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.82,
+    "news_score": 0.86,
     "news_title": "Japan can tell the world what really matters when prepping - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMmFSalo3M19EMnU0eGJmYXI3d0ZuNmUzeDQxa2k2QTRHM1kxbzVOV2tjaWpveTBtN3FTbWxFNWFYNHhUbHBHRFl5Mm50QVdmNmFqSEdpLXROc2lmTnVyUjhBLUZmYjlDY0pnWkc3eUMzRUdCQ3ZFZWhScTl3U2ZiUlpEWnQ?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
-    "news_age": "12m ago",
+    "news_age": "14m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -33151,15 +33150,14 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.66,
+    "news_score": 0.94,
     "news_title": "U.S. gives Russia an early win before Ukraine peace talks begin in Abu Dhabi - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdGdMYVFDRzd5d0cxbjctRTF5eGFpN0QzT3MtSUxxM3JWd29HTlNLd1hJQVM2RkVqRGE4ZmJpUXV4aFh6UlhNU29EbjlZNHF1SG53S3ZBRlNhZG8zeld3ZU5uS0RIcEJQcmV4YlJ1WUF6cWEzZUp5dHV1VGN5UlNSNHdxVTJXVDFaOFREbVFzZ1JJbHhWTWdVMXhYSWx3SDJLNXlPVEx3NmhRWVRUdlg2Yi1UbHJma3VVc3d6VWVFRG9WbFE?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "3m ago",
+    "news_age": "5m ago",
     "news_columns": [
-      "geopolitics",
-      "diplomacy"
+      "geopolitics"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -40317,7 +40315,7 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.49,
+    "news_score": 0.48,
     "news_title": "Turkey hosts world climate summit, but some critics accuse it of 'greenwashing' - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEdZWldiV1pQbnZTWE1LX0NtaXl6c0tyTXZkTk9WcHczLXZINmM3WjdMdEszd3FGWERyZmhQVG9zZE55N0pKemtMOVFMWlE4QUFEZzZfaUtPVkJnZGVSUG9NNzNtTXVoUVlTT1FNaTc1NnJwZEFoRENWSlI1X2xGUjVTTXBpblR2M2s2SllZeGxIWWl1SFBHcHYyZmVxbEZCcFVyZ0c2bTJ6LWhqZF9wY0xyMDdsTlpqcDRLQm1R?oc=5",
     "news_image": "",
@@ -41279,15 +41277,14 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.66,
+    "news_score": 0.94,
     "news_title": "U.S. gives Russia an early win before Ukraine peace talks begin in Abu Dhabi - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdGdMYVFDRzd5d0cxbjctRTF5eGFpN0QzT3MtSUxxM3JWd29HTlNLd1hJQVM2RkVqRGE4ZmJpUXV4aFh6UlhNU29EbjlZNHF1SG53S3ZBRlNhZG8zeld3ZU5uS0RIcEJQcmV4YlJ1WUF6cWEzZUp5dHV1VGN5UlNSNHdxVTJXVDFaOFREbVFzZ1JJbHhWTWdVMXhYSWx3SDJLNXlPVEx3NmhRWVRUdlg2Yi1UbHJma3VVc3d6VWVFRG9WbFE?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "3m ago",
+    "news_age": "5m ago",
     "news_columns": [
-      "geopolitics",
-      "diplomacy"
+      "geopolitics"
     ],
     "bottom50_wealth": null
   },
@@ -42560,9 +42557,7 @@
       "cfp",
       "ncaa_football",
       "geopolitics",
-      "diplomacy",
-      "health",
-      "pharma"
+      "politics"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
