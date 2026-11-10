@@ -1927,7 +1927,7 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.05,
+    "news_score": 0.08,
     "news_title": "Pope urges Argentina to protect the vulnerable from Milei’s austerity measures - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeVRYYVFlTmhzSWxTS2N2VjJUX0kwVzBDVTZhSlpqTzFmUUFIUDZhdV9kX0ZtLXVpX3ZtcUV5dGNyQ1lXWURvWTZGYmhkaVNES1Y2dzRDcE0zN1hwazI4bFo1MzhSNHRBTGZRR3RSLUVYX2g5Q3RaQ3ozenp6MGg3MnhxQ0xTdnp5QnFiNUlmU0FvWFEtQS1WTjZXZjJYTUllSnFPTG85dGxubmNCZ0xEd1lB?oc=5",
     "news_image": "",
@@ -6946,17 +6946,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.54,
+    "news_score": 1.56,
     "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "50m ago",
+    "news_age": "52m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
+      "basket",
       "olympic",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -8019,7 +8018,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.06,
+    "news_score": 0.05,
     "news_title": "Xi Jinping’s plan for a China-centric world order - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0h5Rk8wZGVqdVJvd2RhYlZpWVpIYTVuWi1CcHduNGdDdmhKZlN6TkllYk9fN2pNT2lDR09xd3FLWEtDVVcyX01ZaThJanFqelQ2ZnN6RXRKQmQ2MzEyejF4SFYyWEs1ZFF5NGZfcWl0NVlDTU1XNVFJWDJ5a093ZUlQdE0wOFRNNnZhMl9PVUJMTlFkR2c?oc=5",
     "news_image": "",
@@ -8027,9 +8026,7 @@
     "news_age": "11h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13036,17 +13033,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.82,
+    "news_score": 1.11,
     "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "50m ago",
+    "news_age": "52m ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -16829,12 +16824,12 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.61,
     "news_title": "From movies to medical science: Polarised glasses tech finds groundbreaking new calling in India - The New Indian Express",
     "news_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUEdCcTEwVVRfdXgyeUlpWXZLRFpBOUpyRlIxNWNCVTd1RnFtZFg3UGRsX0xDMnFHLXVUUjBXWTNaZFVyQXJSLWpXaGdjUmJ5cE1FY2tIdGJacXpTN1ZpWWdRbkp4QkxWMWVGeF9DSDJJMmdmOW9QMHRzOTlWdC1sRnhrVU1YbmF3d3MwOUZmdnFrbUpFdURCa2N0NERJWm1JMzB6QkJHUkdORmRIZkJpWWs5QXFHMFdJeXhIdWFLR1FCTUtnUUx3bTJGMzFZcGFxeDh3S3k5RS1ZNFljanV5SllrSVZVTTBEUXfSAfcBQVVfeXFMTlhIX1I4MGJ2cWdfbnhYbmFFaDNOdXlVcGQ4ZUNFdzI4VHdHTzc4ZHNydk15Wk5NTW1TemJwMHUxMXRia1lzbUJSbXFvUkZmUUxfOG5Fc2dZbk1KUGhnaVcyeTNxNjNvNWNjTHpIWHJ3TjgzVm5adW5BM0NuMWNOQl9oSVkxZmFpdTRjZ2wtMkdESkRKeXNPclFuN2RLYUxjVkZvQU5pRUtxYVVRT0dXMDlaQldKTlFyUF9XNEpnc2NBSEg4MWlGd3BDNGxfaF9SY3dpMFpuRmFiSGNkblFXdGdzbEFKYWJBdjBsU1hpQUVkaHpyV0lROA?oc=5",
     "news_image": "",
     "news_source": "The New Indian Express",
-    "news_age": "112m ago",
+    "news_age": "114m ago",
     "news_columns": [
       "doctors",
       "beds",
@@ -17404,17 +17399,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.75,
+    "news_score": 1.71,
     "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "50m ago",
+    "news_age": "52m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
       "olympic",
-      "basket"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -19270,18 +19263,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.91,
+    "news_score": 1.2,
     "news_title": "Expanding cooperation with Japan in human resource training, science, and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU0FweTFnd2ZWSW9XQVpzOE14YTlqYXJNNEwxOXFvR3JTdlE4cmlMYUt5MnJvMDJpdkM5NGlTUENpWVY3bDQwRU10ZlUzbE01VG4tV3U0c0szQ0xHVDdQY1Mtc0djUEk1V2kxamhMVnhRZnRyemtTdHFoUHJuNUZCMDUxLUNKbnlHdmdvbThsWXpXN3BWWUlhNXMtc21MaUps?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
     "news_age": "2h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "basket",
+      "olympic",
+      "fifa_w"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -19458,12 +19449,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 1.54,
+    "news_score": 1.5,
     "news_title": "Blockbuster: Jags acquire Jordan Davis from Eagles - NBC Sports",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQkt1VjNDRzZyZlNTTjFqMXVENHlKX0FyVEI3LUpXdGR4NGtLQkxmU2pSZ09TQUxvRWU0Q0dWNkd0VzI4LV9JSkkwR2I0SGVrVUwycGZPRXZUbTJ6MkJieTlCSVlBYjJ1MWRLb1d4MXBIV0VtRFlQaWpSTkN4WjZUc2xldENUTjNMaGpwbndiYnVjNlhzaDNXZ0l5aVh1ZzN4bUFsYWhEb2MzZ3VCXzFUUHZQM3Jxdw?oc=5",
     "news_image": "",
     "news_source": "NBC Sports",
-    "news_age": "84m ago",
+    "news_age": "86m ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -28013,7 +28004,7 @@
     "refugees_rank": null,
     "union_rate": 69.0,
     "union_rate_rank": null,
-    "news_score": 0.4,
+    "news_score": 0.31,
     "news_title": "Nicaragua@Panama - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaXp4ZEJYTVBPczM3OGV5Nml4TjNZcDFQQjBQV2FCbDFCeFdzR210VEktM2U1U2I1SWtPd3d0ZGhTY3FXS01pNExYaUx4WFY3eFphWFNucHF3ZnMxb2VwMVVxZnNYT1I5ZWpMTDdTV1lLTnl3ZF9jVmVMSmpUQkhxQk1Zd3dZZUpaX3pSU1ZtcmZXWnlnNzl1aENFaVN3M1hIaDRKdG5zX2c?oc=5",
     "news_image": "",
@@ -28023,7 +28014,9 @@
       "fifa_ranking",
       "fifa_w",
       "olympic",
-      "basket"
+      "basket",
+      "car_density",
+      "gas_price"
     ],
     "bottom50_wealth": null
   },
@@ -30514,7 +30507,7 @@
     "union_rate": 71.9,
     "union_rate_rank": null,
     "fifa_w_rank": 48,
-    "news_score": 0.43,
+    "news_score": 0.33,
     "news_title": "Nicaragua@Panama - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaXp4ZEJYTVBPczM3OGV5Nml4TjNZcDFQQjBQV2FCbDFCeFdzR210VEktM2U1U2I1SWtPd3d0ZGhTY3FXS01pNExYaUx4WFY3eFphWFNucHF3ZnMxb2VwMVVxZnNYT1I5ZWpMTDdTV1lLTnl3ZF9jVmVMSmpUQkhxQk1Zd3dZZUpaX3pSU1ZtcmZXWnlnNzl1aENFaVN3M1hIaDRKdG5zX2c?oc=5",
     "news_image": "",
@@ -30524,7 +30517,9 @@
       "fifa_ranking",
       "fifa_w",
       "olympic",
-      "basket"
+      "basket",
+      "car_density",
+      "gas_price"
     ],
     "bottom50_wealth": null
   },
@@ -31113,12 +31108,12 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.81,
+    "news_score": 0.8,
     "news_title": "A new list of the best 50 restaurants in the world was announced in Lima, Peru. Asador Etxebarri in the Basque region of Spain won the top spot. For the first time, only one American restaurant was in the top 50. See the full list: https://nyti.ms/3UFBmdx - Facebook",
     "news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdVBIY3lmS2FxT2FJMVpKTnJEZG1qa1JIcGppVi1meGE0TlY4aGhLdGlRb00zQ0xzcHRnNzVOemhFWXNGQUVqSmJwcklRR1haV3laMFJOQmhQeWJWNG9pMUJwREVSYTVlZTdPYlpzNU1EQW15RHZnV2Rxc21oLTl1Y1ZsVFlSbWd0c1lub2tXN0RmemNoU3hPVjZ3NzQzZnAwU2NHc0RXYkRBV3RFNnhoN3pQTkIwUl9PLVAwd2xUZVFaQmh1Nk9pMmtSaENjSTVXdlBr?oc=5",
     "news_image": "",
     "news_source": "Facebook",
-    "news_age": "53m ago",
+    "news_age": "55m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -33142,17 +33137,19 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.41,
+    "news_score": 0.3,
     "news_title": "Ukraine peace talks resume in Abu Dhabi after months-long pause - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nOTZJMmkxOUs1TDloQTA0bGctdEpXVmotNVFaZ3dIYjFmbnJ1MmFVY3AxM3QzeE9lRUM0WXZPZnpnVzNCWU1EbzZkeDBqOTlQQTV2d3E2ckNvWG8?oc=5",
     "news_image": "",
     "news_source": "BBC",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "nato",
+      "military_pct",
+      "gdp",
+      "ai_research",
+      "internet_pct",
+      "patents"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -35665,17 +35662,16 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.26,
+    "news_score": 0.3,
     "news_title": "Japan@South Africa - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUQyR3FBeXdNZmE1MmhrVHNnQVNhZF80RWhLRVowV3l6eEUtdXRTSHNWWVA1WXY2VHJkR3hFX3kyRk9rdm1VRzhQU2c1WXk4TGZpcy1mMGUycUo0VVJ2d0FuNFVJY1B0TnJRQkhvWERjeHZRSXA5ZTZZc3FsbWtkTzZud1ZoeXp6bmNycHktNzhQdUkwWnlUc01ZUllqcHNFS3A4RDY0MU8?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
+      "basket",
       "olympic",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": 1.2,
     "bottom50_wealth_rank": 29
@@ -36731,12 +36727,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.81,
+    "news_score": 0.8,
     "news_title": "A new list of the best 50 restaurants in the world was announced in Lima, Peru. Asador Etxebarri in the Basque region of Spain won the top spot. For the first time, only one American restaurant was in the top 50. See the full list: https://nyti.ms/3UFBmdx - Facebook",
     "news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdVBIY3lmS2FxT2FJMVpKTnJEZG1qa1JIcGppVi1meGE0TlY4aGhLdGlRb00zQ0xzcHRnNzVOemhFWXNGQUVqSmJwcklRR1haV3laMFJOQmhQeWJWNG9pMUJwREVSYTVlZTdPYlpzNU1EQW15RHZnV2Rxc21oLTl1Y1ZsVFlSbWd0c1lub2tXN0RmemNoU3hPVjZ3NzQzZnAwU2NHc0RXYkRBV3RFNnhoN3pQTkIwUl9PLVAwd2xUZVFaQmh1Nk9pMmtSaENjSTVXdlBr?oc=5",
     "news_image": "",
     "news_source": "Facebook",
-    "news_age": "53m ago",
+    "news_age": "55m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -41270,17 +41266,19 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.39,
+    "news_score": 0.29,
     "news_title": "Ukraine peace talks resume in Abu Dhabi after months-long pause - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nOTZJMmkxOUs1TDloQTA0bGctdEpXVmotNVFaZ3dIYjFmbnJ1MmFVY3AxM3QzeE9lRUM0WXZPZnpnVzNCWU1EbzZkeDBqOTlQQTV2d3E2ckNvWG8?oc=5",
     "news_image": "",
     "news_source": "BBC",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "nato",
+      "military_pct",
+      "gdp",
+      "ai_research",
+      "internet_pct",
+      "patents"
     ],
     "bottom50_wealth": null
   },
@@ -42541,7 +42539,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.61,
+    "news_score": 0.6,
     "news_title": "SS United States deployment moved up to Veterans Day - ABC7 WWSB",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObEZEWHkyTXpZNllTb1NpanBoSkI2bklqbXBET0lxcU9DR2xIdmFhbjlVRFhYY29UOTBPUm5LUGltMWlPODNUUnR1RHRrM29UbVVMS2ZncXl4X0h4N1hEaXRzVHoyX25Zenl0SGxzaDNhRGdYOEdpbVdJVm1xYzRyTllmN3EwQ0VMaC1MSE1odXlGZ9IBpgFBVV95cUxQLVdkcVhHbmpYeEotWUdfTjFqTmhPU0ZRQWpBUTcxcmRJbklMZ3FPUllXVllRSjBzSnNYb3hQUldsaHZ6SkFSalhsanJxT0hULU9rd2o4U3BnTDhVRldKMjM4N2hrVTBOakVfNEl4RHNFVndJcXUxNWItUGNFOUY2MW43b0hQRy1yR0xGeEdsNWd5cmZ3V3JKNWdjUExUOXJJOWh6cWlR?oc=5",
     "news_image": "",
@@ -43754,7 +43752,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.91,
+    "news_score": 0.9,
     "news_title": "Solving practical problems, creating momentum for development (Part 2): Science and technology elevate tea products. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM1RuMmZaTnlaY295TW1Kd3l5WUJ3RHBGSTlXeEZqRnJGUGItdUJOV3pzNHF1VUhrY1VnRmRsakVEZ2VFeFdhMk8tcnRJY05uV1FfdGdVN3ZETGxjTC1DRjF2UEk4bVQ0Q1N1Y0Q4OFlfaDdKWUhTZkZvQ0dLVTA3ODVsZXdVVDk3eDRab3VzMGNOZ2lCMFBkUUpfTnBVUElGeGc5M3pvMmZNRy1RelRRbEJOdmxQdW5QYVYw?oc=5",
     "news_image": "",
