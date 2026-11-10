@@ -1927,15 +1927,16 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.0,
-    "news_title": "Pope urges Argentina to protect the vulnerable from Milei’s austerity measures - AP News",
+    "news_score": 0.2,
+    "news_title": "Pope draws 2.5 million to Mass in Argentina and tells people with disabilities they are a blessing - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeVRYYVFlTmhzSWxTS2N2VjJUX0kwVzBDVTZhSlpqTzFmUUFIUDZhdV9kX0ZtLXVpX3ZtcUV5dGNyQ1lXWURvWTZGYmhkaVNES1Y2dzRDcE0zN1hwazI4bFo1MzhSNHRBTGZRR3RSLUVYX2g5Q3RaQ3ozenp6MGg3MnhxQ0xTdnp5QnFiNUlmU0FvWFEtQS1WTjZXZjJYTUllSnFPTG85dGxubmNCZ0xEd1lB?oc=5",
     "news_image": "",
     "news_source": "AP News",
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "ballon_dor"
     ],
     "bottom50_wealth": null
   },
@@ -8017,12 +8018,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.31,
-    "news_title": "Exclusive | U.S. Balks at China’s Demand for Tightly Scripted Trump-Xi-Putin Summit - WSJ",
-    "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObnAzVTNhOC15X1poVDJLYlpWdnNSOU9oemg4ajhpeHJjbDhrdkFoYUZTWVYzbFQ4N3J5YmxESUxDeTF6TkNiUVZqSVNCUWd1Y1F4Vl9rV0NwQnNNWEZDT3NxODBuRG1CNUdGdU1RcDNIcjhDSDA5U1dzbHp3YnUtRHRyT2N6ZHhjRVVOdWc3OWNvbWs1YkJkcVVhNzV0WlJBV01LdGR4S28zYzU2SHhz?oc=5",
+    "news_score": 0.25,
+    "news_title": "Xi Jinping’s plan for a China-centric world order - The Economist",
+    "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0h5Rk8wZGVqdVJvd2RhYlZpWVpIYTVuWi1CcHduNGdDdmhKZlN6TkllYk9fN2pNT2lDR09xd3FLWEtDVVcyX01ZaThJanFqelQ2ZnN6RXRKQmQ2MzEyejF4SFYyWEs1ZFF5NGZfcWl0NVlDTU1XNVFJWDJ5a093ZUlQdE0wOFRNNnZhMl9PVUJMTlFkR2c?oc=5",
     "news_image": "",
-    "news_source": "WSJ",
-    "news_age": "4h ago",
+    "news_source": "The Economist",
+    "news_age": "7h ago",
     "news_columns": [
       "stock_market",
       "tech"
@@ -10122,7 +10123,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.51,
+    "news_score": 0.5,
     "news_title": "Denmark’s controversial ‘parallel society laws’ face Supreme Court challenge - The World from PRX",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2RibzJMcmMxVjJGTW44d3FyTm5XLUZ1TVJ1LVl3T1RRT21JZDBabUdMdm1vbUJsbmpkUmx3NWxmT29rY2hNVWZaZ0xUdjRWUHlLbDV6QWtjc0ZnMWY0VTFMTEZ2V0hxbjV6dHJKMUZlWDdhV3RLMHhOa19URS1mTG12Q1o2RC11RFRGUjhFdVV4LUV2RGlKRnJoYm1Ob052UFhrS2pjMmlUTzFvVTFTSndiVlY?oc=5",
     "news_image": "",
@@ -14075,8 +14076,9 @@
     "news_source": "Vietnam.vn",
     "news_age": "21h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "car_density",
+      "gas_price",
+      "co2"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -17399,11 +17401,11 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.46,
-    "news_title": "Exclusive | U.S. Balks at China’s Demand for Tightly Scripted Trump-Xi-Putin Summit - WSJ",
-    "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObnAzVTNhOC15X1poVDJLYlpWdnNSOU9oemg4ajhpeHJjbDhrdkFoYUZTWVYzbFQ4N3J5YmxESUxDeTF6TkNiUVZqSVNCUWd1Y1F4Vl9rV0NwQnNNWEZDT3NxODBuRG1CNUdGdU1RcDNIcjhDSDA5U1dzbHp3YnUtRHRyT2N6ZHhjRVVOdWc3OWNvbWs1YkJkcVVhNzV0WlJBV01LdGR4S28zYzU2SHhz?oc=5",
+    "news_score": 0.4,
+    "news_title": "France accuses Iran of supermarket fridge hacking - BBC",
+    "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzeFI0SDNQMm9ieHFIWGNtSFV6cEliY0dwOUhXNE9NODFkSTZKUktramxLV0ZHS1BaN3RZX1pTWEtsNmZxSVlBQTNfN2I0Rlk4NTlCdnRnUElYbUE?oc=5",
     "news_image": "",
-    "news_source": "WSJ",
+    "news_source": "BBC",
     "news_age": "4h ago",
     "news_columns": [
       "gdp",
@@ -19265,12 +19267,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.54,
+    "news_score": 0.67,
     "news_title": "Japan can tell the world what really matters when prepping - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMmFSalo3M19EMnU0eGJmYXI3d0ZuNmUzeDQxa2k2QTRHM1kxbzVOV2tjaWpveTBtN3FTbWxFNWFYNHhUbHBHRFl5Mm50QVdmNmFqSEdpLXROc2lmTnVyUjhBLUZmYjlDY0pnWkc3eUMzRUdCQ3ZFZWhScTl3U2ZiUlpEWnQ?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
-    "news_age": "6m ago",
+    "news_age": "8m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -19454,7 +19456,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.81,
+    "news_score": 0.8,
     "news_title": "Eagles Reportedly Trade DT Jordan Davis To Jaguars For '27 1st-Round Pick & More - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVE5qaTRZMjh2RTdSaXJBU2xKSDhBaEhoZUM1YnJtLVhJdi1VTTFvVldEMk9UN1hLUkZqZVR0NFpYWVJiX1V0bDF5Q0dSZmpTdDBBNG5WNlUxUGpOb3dTelVib0c3UzlybEdobFpMa2o1QVAwVDF2ZFVEREdKWF9DbXpoWkFIQdIBhgFBVV95cUxQWWNrcmo3WDZDdE9pcjNaQ3VUMTU3QUpOZy1uMXVNTGZhSmpkRnV5Y1BaeU9vWjkyZ3M3QXpDaTVoaTlwRzY0S0lEdHV4UzQ1WWdiM2tkUzlkYjdULW9XUlMyZm40Y1FHZjVZUnBiaEx1Q19wYnRES2NsaWMxSmN1Q2ViaHNtdw?oc=5",
     "news_image": "",
@@ -31673,7 +31675,7 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.0,
+    "news_score": 0.01,
     "news_title": "Gunman with far-right views who killed 6 in Poland shooting rampage dies in hospital, police say - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlNIYWhOQzdvWjlnaU53QlVSZEhEMnYzZU5Zd2Z0TlFJVVQyeW5RSnRXN3ZhUDdFTE01Ym1jWEdEZ2szYVBmdk5YNWZaQl9lLVBEUkw5SWtLc1ZQMWRPekJqeFdJbGVJX2IybnljdThJQVFqYWluNll4WVBEOUtqVlYzQWNTVi1CYUdobE9WcUdBc1dGMFlqLU1ON0lzbzA?oc=5",
     "news_image": "",
@@ -39118,7 +39120,7 @@
     "refugees_rank": null,
     "union_rate": 75.8,
     "union_rate_rank": null,
-    "news_score": 0.16,
+    "news_score": 0.15,
     "news_title": "Three LSU Women's Golfers Competing In World University Championships In Thailand - LSUsports.net",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGVtZ3doQjU2ZVhQX1A0OExXTHpXb3lDbDdaZXNTdWVvRl9fTUlCcEZnUm1DVUNkRXljVFZra0NfcEhpbmhmc2VIWmZEUzdMLWs5RWdkNHF1cEpEV1BxTzVNTEJTdklCQkxqY3AtLXJ3VHpEQWRvempHNURZSC03VWpkajF1NE00ME9CclhmQnhVR3NGTzM5Q3dxSXo1cURiRjNVZVUxZHdaOE9hLUx3cGdNVWUxT2tk?oc=5",
     "news_image": "",
@@ -40316,13 +40318,14 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.64,
+    "news_score": 0.65,
     "news_title": "Turkey hosts world climate summit, but some critics accuse it of 'greenwashing' - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEdZWldiV1pQbnZTWE1LX0NtaXl6c0tyTXZkTk9WcHczLXZINmM3WjdMdEszd3FGWERyZmhQVG9zZE55N0pKemtMOVFMWlE4QUFEZzZfaUtPVkJnZGVSUG9NNzNtTXVoUVlTT1FNaTc1NnJwZEFoRENWSlI1X2xGUjVTTXBpblR2M2s2SllZeGxIWWl1SFBHcHYyZmVxbEZCcFVyZ0c2bTJ6LWhqZF9wY0xyMDdsTlpqcDRLQm1R?oc=5",
     "news_image": "",
     "news_source": "NPR",
     "news_age": "2h ago",
     "news_columns": [
+      "climate",
       "olympic"
     ],
     "bottom50_wealth": 5.2,
@@ -42555,10 +42558,10 @@
     "news_source": "City of Toronto",
     "news_age": "14934h ago",
     "news_columns": [
-      "basket",
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "nfl",
+      "fantasy_football",
+      "cfp",
+      "ncaa_football"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
