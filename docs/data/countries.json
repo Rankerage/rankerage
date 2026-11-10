@@ -2555,12 +2555,12 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.63,
+    "news_score": 0.72,
     "news_title": "Nonstop 24-Hour Journey from Australia to France Officially Declared World’s Longest Ever Commercial Flight - People.com",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN3F2a1UzYkgzREpOY0ZGbXFiVU5BdzJkcE1mWTNHRzVrbDRxYndEOVpYR2pNdElwWHE4QTZXcnU2X3BFM3hqWF9YZEtZcDUwVmRTUVEwRmY1ME5ZZXROTk9Bb1g2akJEN3dJa0dfNWotYnRFOXg2MV9HRm94R1JfUHZvU0pkdmNGYjZvaDRlcm9tcnBrN3JEWmlFUQ?oc=5",
     "news_image": "",
     "news_source": "People.com",
-    "news_age": "13m ago",
+    "news_age": "15m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -5583,7 +5583,7 @@
     "refugees_rank": null,
     "union_rate": 73.2,
     "union_rate_rank": null,
-    "news_score": 0.21,
+    "news_score": 0.2,
     "news_title": "Beyond business optimism: New SeeNext index reveals Bulgaria's structural challenge - SeeNews",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOVp6VkllWVRuc3Y5Q3pCNzY3MFBNNDl5bGdHbmljZE1ZVVRTSy1kN1h2NFpUSjNTOXplaEhuTHFmUmEyTDc0empWcjc5TG1ZS1BBNGNVUFhBWWlhYnc3cGFtUC1kWXVUTjdNUi11NS1xUWpnNHJBQ2RjZjFsN0YwVE56bUlxYlgtUWJBNjBKVnVvZ1c3WGgwTEVXcGZqM3lqNjZhYy1FVk1ZS2NvZUFwc0NKUlc?oc=5",
     "news_image": "",
@@ -6945,12 +6945,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.66,
+    "news_score": 0.65,
     "news_title": "Not Rare, Just Missed: 19 Landmarks Across Canada Light Up for World NET Cancer Day - Yahoo Finance",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRW5VMVZEWFY0WURieVZWZ1VBYWlHbXBfVndLcGFqTkc3b0g3U2lvblN5T2FxbzNSVjc0Xzh5SUF2ajlQOGx5ODRGX05vQzVIZXpiTE9Fc3pHQVNqNElVdWFkZFppWjNKUU5EXzBxYmxQM05odlVMcTl1YWJkdWNrc2JkLU83VE1hZGRsVg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Finance",
-    "news_age": "106m ago",
+    "news_age": "108m ago",
     "news_columns": [
       "health",
       "life_expectancy",
@@ -8020,15 +8020,17 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 2.8,
+    "news_score": 2.85,
     "news_title": "US and rest of world must follow China’s lead on green energy, says John Kerry - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaTBKYVBWUU91LXcyV2I4V2RUcUtjSGlpRHRYSXhuSkxQNEx3aWRJMkQ0MFZ4ZmJKQ1lmcUJVTXdXM3VDTDlOVFk3ZFQxTEcyMDE2OTVXZnVxOFMxY21NVDdUN0pXV3NmQmJhc3dRSnlxb3FqczNZaGRNQS10OVdFYkRGazY0ZEp3UXgyZUJmcy0?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "101m ago",
+    "news_age": "103m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13035,15 +13037,16 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.87,
+    "news_score": 0.72,
     "news_title": "Nonstop 24-Hour Journey from Australia to France Officially Declared World’s Longest Ever Commercial Flight - People.com",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN3F2a1UzYkgzREpOY0ZGbXFiVU5BdzJkcE1mWTNHRzVrbDRxYndEOVpYR2pNdElwWHE4QTZXcnU2X3BFM3hqWF9YZEtZcDUwVmRTUVEwRmY1ME5ZZXROTk9Bb1g2akJEN3dJa0dfNWotYnRFOXg2MV9HRm94R1JfUHZvU0pkdmNGYjZvaDRlcm9tcnBrN3JEWmlFUQ?oc=5",
     "news_image": "",
     "news_source": "People.com",
-    "news_age": "13m ago",
+    "news_age": "15m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "car_density",
+      "gas_price",
+      "co2"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13565,12 +13568,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.81,
+    "news_score": 0.8,
     "news_title": "Gameday: Football vs. Georgia Tech • Nov. 14 • 12:30 p.m. • CW Sports - Clemson University Athletics",
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUcEd6XzZKMU9sYmluaThFWW14ZGFISWJKMU5KWVduWXZuWXJZNkxnUFRtSTJXUko3cG5uSjlaVWtValQxalZKWXdPT0k3cjRHZTB6NndjRG5Zd2x1M3diOEQ1MDV6YkU?oc=5",
     "news_image": "",
     "news_source": "Clemson University Athletics",
-    "news_age": "57m ago",
+    "news_age": "59m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -17404,15 +17407,17 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 2.19,
+    "news_score": 2.06,
     "news_title": "Pete Hegseth decries impeachment push, defends Iran war handling - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03T3lfUjZLX0NDODYzbVR3V1lYSXI1OVpfWkNtNDFjN19vaGhiazZ2TmNFbG1LNlRuQjR3c09VY2djUjlHSngxSFMyeVdiNUVPQ2dLMXE1UGR4TEpTT2FnMVVfdHJROUtSNzJVeVVjdDdWSEJIMS13c3ZPOWJMUQ?oc=5",
     "news_image": "",
     "news_source": "CNBC",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
+      "fifa_ranking",
+      "fifa_w",
       "olympic",
-      "fifa_ranking"
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -19270,12 +19275,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.61,
     "news_title": "Japan’s Trading Houses Thrive in a World Scrambling for Resources - Bloomberg.com",
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLUxNdTk5enNST25Ub2YyNjNDVVhJV0NnWmg1Tk5Kc3k4Z3ZIRm5Na3FGOGptMWdHNDBZLUVGYlhrZEJWNF8wajBqYTF5SnMxa1ZRZFpiNGJkaWhwSDlNTmdLanBhMnpDZDZlN3c5OV84ckFfc2hyYm03bmkwQzY4WU44Tk43S0ZGakdzS1d5RFF1NmtWblB0VXhfeW45SnRFamYtdWNNcklNUXZCRDJUZTY0cUVfRF9sckVF?oc=5",
     "news_image": "",
     "news_source": "Bloomberg.com",
-    "news_age": "117m ago",
+    "news_age": "119m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic",
@@ -19456,7 +19461,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.99,
+    "news_score": 0.95,
     "news_title": "Olympic gold medalist Jordan Stolz talks about goals for World Cup season - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZmRFbU1CcVBtNk1xN1ZaU1pVelNVWXNHdlNLVE5QVDV1TVBjWmNtNnR2YW45SklFYjJZbklZVUJTemhEOW1IQUdzS2VjZlhFR3hxcmpiWG1HaGlJeFpReTdnbzQxMVpmRGpjUHZaNVpZREJ1WWdqUU1pRzBGRjNkdEtRQWpidVVxZGJr?oc=5",
     "news_image": "",
@@ -33142,15 +33147,17 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.95,
+    "news_score": 0.89,
     "news_title": "Europe and US agree to review postwar continental security as Ukraine talks begin - POLITICO.eu",
     "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaWxUNERadjZ5aE4xM1VJNzVLTFAtQ1AwMWVEUUl4b09yTkxaY0NBdFNoLTZ0M25JRkJxOTFUa1JoTEIzUmJTaTZaSkp2YTZoZkJjRlFKcEh4cks0QzJMbFFqaV9yWV9vSXF1cXY2N2dheUh1dGVMZ3lienhfS19vMlprX0ZmMm9ycHdla3Y5NHJtOHZYRVFMOFZGZlZwZ0JaYnZXaWxpZlZESG5ReWFoY0kxY0RsTkN4a3FvSGU3dw?oc=5",
     "news_image": "",
     "news_source": "POLITICO.eu",
-    "news_age": "108m ago",
+    "news_age": "110m ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -34322,7 +34329,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 120,
     "fifa_w_rank": 100,
-    "news_score": 0.5,
+    "news_score": 0.49,
     "news_title": "New CEOs for LTA, Home Team Science and Technology Agency from 2027 - Yahoo News Singapore",
     "news_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vUzV3YjNpOVA2cEVXUTdEVzVCR2lCUXBRNXhpaE5zSEh4alRKRDItY2Q3eUEwMTZaRndNYzlnT2Y2Xzc1ZWtjZ0ZMZ2tRbTN6THJnaGNjM0hhTml4SUdPa0FPekNiZG1iamt2dmZETkF6bTBoWkE?oc=5",
     "news_image": "",
@@ -35659,7 +35666,7 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 1.2,
+    "news_score": 1.14,
     "news_title": "South Africa boss Des Ellis adds Wendy Shongwe for FIFA Women's World Cup playoffs - ESPN",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRDJjNkVvUC1zREtKZ1d1dmcwSkMzcFpJU1l2MUtvRGJPTndDYThsUkZQaGFNNndBSEl3eXVjSUtkLUtOVklkR2dHYy03NW0xLVlIcDFJODdRUjNKUGdfN2pjaHVhN3JyR2huc3FJX2s0ZndvOHR0SWpBZWQ4eEpoTE5vSDNKZUE0U3NsamxrS2dlemVhcjc1dWt6TDh4ZHVabFZaMG9rY0lnazVSc0pXVDd3?oc=5",
     "news_image": "",
@@ -35667,7 +35674,9 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 1.2,
     "bottom50_wealth_rank": 29
@@ -40297,7 +40306,7 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.18,
+    "news_score": 0.13,
     "news_title": "Turkey hosts world climate summit, but some critics accuse it of 'greenwashing' - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEdZWldiV1pQbnZTWE1LX0NtaXl6c0tyTXZkTk9WcHczLXZINmM3WjdMdEszd3FGWERyZmhQVG9zZE55N0pKemtMOVFMWlE4QUFEZzZfaUtPVkJnZGVSUG9NNzNtTXVoUVlTT1FNaTc1NnJwZEFoRENWSlI1X2xGUjVTTXBpblR2M2s2SllZeGxIWWl1SFBHcHYyZmVxbEZCcFVyZ0c2bTJ6LWhqZF9wY0xyMDdsTlpqcDRLQm1R?oc=5",
     "news_image": "",
@@ -41259,15 +41268,17 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.92,
+    "news_score": 0.88,
     "news_title": "Europe and US agree to review postwar continental security as Ukraine talks begin - POLITICO.eu",
     "news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaWxUNERadjZ5aE4xM1VJNzVLTFAtQ1AwMWVEUUl4b09yTkxaY0NBdFNoLTZ0M25JRkJxOTFUa1JoTEIzUmJTaTZaSkp2YTZoZkJjRlFKcEh4cks0QzJMbFFqaV9yWV9vSXF1cXY2N2dheUh1dGVMZ3lienhfS19vMlprX0ZmMm9ycHdla3Y5NHJtOHZYRVFMOFZGZlZwZ0JaYnZXaWxpZlZESG5ReWFoY0kxY0RsTkN4a3FvSGU3dw?oc=5",
     "news_image": "",
     "news_source": "POLITICO.eu",
-    "news_age": "108m ago",
+    "news_age": "110m ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -42538,7 +42549,7 @@
       "fifa_ranking",
       "fifa_w",
       "olympic",
-      "golf"
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
