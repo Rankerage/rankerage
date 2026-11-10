@@ -2556,14 +2556,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.88,
+    "news_score": 1.0,
     "news_title": "Australia's Chris Bowen tells Cop31 the world can still limit global heating to 1.5C – video - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb3hYUUNRWUNUTG5MY3RhcktNNUIydndmUFdER2V6MXRXb1JQbG5CQkY3NkU5M0c3MjU3bENFRW16VEUxV3dZandlQUdFUmpsYkFFMjJJb1hnOUdVd19QQjk4VEdIVjBfM1hOamJJaFd3RFgtQ2RYOGJxOXc5MDM3eDhSUXM2V2JKeExrYklqaS1CMEo1blF4V0JCVl90QnlSVmR3ekozYU5ZYm9kX2E3QUFQUFdZMkNVaE1BR3dGYzZFOEdJT3hmcVNNR0R1OEN6UXdVZnpSUHpEQ1l3OW40?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "8m ago",
+    "news_age": "10m ago",
     "news_columns": [
-      "olympic"
+      "climate",
+      "environment"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -8016,16 +8017,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.07,
+    "news_score": 0.09,
     "news_title": "Xi Jinping’s plan for a China-centric world order - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0h5Rk8wZGVqdVJvd2RhYlZpWVpIYTVuWi1CcHduNGdDdmhKZlN6TkllYk9fN2pNT2lDR09xd3FLWEtDVVcyX01ZaThJanFqelQ2ZnN6RXRKQmQ2MzEyejF4SFYyWEs1ZFF5NGZfcWl0NVlDTU1XNVFJWDJ5a093ZUlQdE0wOFRNNnZhMl9PVUJMTlFkR2c?oc=5",
     "news_image": "",
     "news_source": "The Economist",
-    "news_age": "8h ago",
+    "news_age": "9h ago",
     "news_columns": [
-      "politics",
-      "legal",
-      "stocks",
+      "markets",
       "tech"
     ],
     "bottom50_wealth": 6.4,
@@ -13033,14 +13032,17 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.17,
+    "news_score": 1.33,
     "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "16m ago",
+    "news_age": "18m ago",
     "news_columns": [
-      "fifa_ranking"
+      "climate",
+      "environment",
+      "geopolitics",
+      "security"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17398,14 +17400,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.9,
+    "news_score": 1.83,
     "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "16m ago",
+    "news_age": "18m ago",
     "news_columns": [
-      "fifa_ranking"
+      "geopolitics",
+      "security"
     ],
     "bottom50_wealth": null
   },
@@ -19259,7 +19262,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.05,
+    "news_score": 0.04,
     "news_title": "Vietnam and Japan strengthen economic ties and cooperation in science and technology. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcEFucnZ3RUVCOFRydGFqTWdGdTZxdGh3ZkNyVmdKRzRTRXFIbU9oTnFQcF9qSVlnMklpSXZ2RndWZVZTUUxPOGxXakViTHFGSkkzWDlxS0pRTjR3SmJZRi1IRGRpRGtLNGNmUWVJU1dmMzUyNlk3ZC1tczJVLXU1X01qQkxMLVJvRXMwX0NhUGFyUHdCSklQZkxfVkRNMTQ?oc=5",
     "news_image": "",
@@ -19444,12 +19447,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 1.58,
-    "news_title": "Eagles Trade Jordan Davis to Jaguars in Blockbuster Deadline Deal - Yahoo Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY3NraXF0TVVhcFAwWFBZN0dQRHVSeG5CdU1IYmdxZkxUQWNXbWcyR1JZY3FrXzhjS2R6UmdwWXR4TVVCVjVOM2x1cGppQjlnc0VTb09iV3dYOWhPdk5KLWNIOWNXWkwwSXdSZTZrejd3b3ZCcnBIald3NWZrbW9iTE83RkJ6RzVoQ3c?oc=5",
+    "news_score": 1.52,
+    "news_title": "Eagles Updated Draft Capital Following The Jordan Davis Trade - FOX Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX0VPNkdrMjdLTC10N015Y3JnaFBkWGZUd3p0MHVGaHRQZlZ5M1lHVzcxOEphcnpLVmlETU9yRWlFVUZsQjhfWmhhQXdiQURIMFhjUEhzbXFzaDdsTC1NNHc5SElHTUJTZHpnWGFHN2tzbTJKSmhPa0h4Sy1Pb0RpTUlSeGpZMDNwZjAzYzBRVGhpRE5GZ1MzcExBTdIBmwFBVV95cUxOaG1qNmFoSlhGcGcwQTRIYjFoQzBvaUJ6dEROS1V5VkxKTm1HZ1VlOFQtdnpkY1E5aHBIYkdoV05HUkZiRjhHeGZpQkZxSmRSdFBHSDRpUDJSMmt6UGNkVmZrd19fMll1bjlDV084WVplNElzNU5aVXZtdmRpRTBucmg0RTZlUmhHTFZjX0ZHMGN6X1J5dWxhWDBlOA?oc=5",
     "news_image": "",
-    "news_source": "Yahoo Sports",
-    "news_age": "20m ago",
+    "news_source": "FOX Sports",
+    "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -33136,14 +33139,19 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.56,
+    "news_score": 0.46,
     "news_title": "Ukraine peace talks resume in Abu Dhabi after months-long pause - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nOTZJMmkxOUs1TDloQTA0bGctdEpXVmotNVFaZ3dIYjFmbnJ1MmFVY3AxM3QzeE9lRUM0WXZPZnpnVzNCWU1EbzZkeDBqOTlQQTV2d3E2ckNvWG8?oc=5",
     "news_image": "",
     "news_source": "BBC",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -40301,14 +40309,15 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.43,
+    "news_score": 0.42,
     "news_title": "Turkey hosts world climate summit, but some critics accuse it of 'greenwashing' - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEdZWldiV1pQbnZTWE1LX0NtaXl6c0tyTXZkTk9WcHczLXZINmM3WjdMdEszd3FGWERyZmhQVG9zZE55N0pKemtMOVFMWlE4QUFEZzZfaUtPVkJnZGVSUG9NNzNtTXVoUVlTT1FNaTc1NnJwZEFoRENWSlI1X2xGUjVTTXBpblR2M2s2SllZeGxIWWl1SFBHcHYyZmVxbEZCcFVyZ0c2bTJ6LWhqZF9wY0xyMDdsTlpqcDRLQm1R?oc=5",
     "news_image": "",
     "news_source": "NPR",
     "news_age": "4h ago",
     "news_columns": [
-      "olympic"
+      "climate",
+      "environment"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -41260,14 +41269,15 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.55,
+    "news_score": 0.6,
     "news_title": "Ukraine peace talks resume in Abu Dhabi after months-long pause - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nOTZJMmkxOUs1TDloQTA0bGctdEpXVmotNVFaZ3dIYjFmbnJ1MmFVY3AxM3QzeE9lRUM0WXZPZnpnVzNCWU1EbzZkeDBqOTlQQTV2d3E2ckNvWG8?oc=5",
     "news_image": "",
     "news_source": "BBC",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "geopolitics",
+      "security"
     ],
     "bottom50_wealth": null
   },
@@ -42533,11 +42543,13 @@
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObEZEWHkyTXpZNllTb1NpanBoSkI2bklqbXBET0lxcU9DR2xIdmFhbjlVRFhYY29UOTBPUm5LUGltMWlPODNUUnR1RHRrM29UbVVMS2ZncXl4X0h4N1hEaXRzVHoyX25Zenl0SGxzaDNhRGdYOEdpbVdJVm1xYzRyTllmN3EwQ0VMaC1MSE1odXlGZ9IBpgFBVV95cUxQLVdkcVhHbmpYeEotWUdfTjFqTmhPU0ZRQWpBUTcxcmRJbklMZ3FPUllXVllRSjBzSnNYb3hQUldsaHZ6SkFSalhsanJxT0hULU9rd2o4U3BnTDhVRldKMjM4N2hrVTBOakVfNEl4RHNFVndJcXUxNWItUGNFOUY2MW43b0hQRy1yR0xGeEdsNWd5cmZ3V3JKNWdjUExUOXJJOWh6cWlR?oc=5",
     "news_image": "",
     "news_source": "ABC7 WWSB",
-    "news_age": "75m ago",
+    "news_age": "77m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "basket"
+      "nfl",
+      "football",
+      "ncaaf",
+      "markets",
+      "tech"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43738,12 +43750,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.35,
+    "news_score": 0.55,
     "news_title": "Solving practical problems, creating momentum for development (Part 2): Science and technology elevate tea products. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM1RuMmZaTnlaY295TW1Kd3l5WUJ3RHBGSTlXeEZqRnJGUGItdUJOV3pzNHF1VUhrY1VnRmRsakVEZ2VFeFdhMk8tcnRJY05uV1FfdGdVN3ZETGxjTC1DRjF2UEk4bVQ0Q1N1Y0Q4OFlfaDdKWUhTZkZvQ0dLVTA3ODVsZXdVVDk3eDRab3VzMGNOZ2lCMFBkUUpfTnBVUElGeGc5M3pvMmZNRy1RelRRbEJOdmxQdW5QYVYw?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "4m ago",
+    "news_age": "6m ago",
     "news_columns": [
       "car_density",
       "gas_price",
