@@ -2552,14 +2552,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.46,
+    "news_score": 0.5,
     "news_title": "Cricket Australia rules out reopening ‘Sandpapergate’ inquiry despite Khawaja claims - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTjU0TlhaVDFFeXFsUXVQeFlkNml1elYwRjlBVm4tOTBWU1h0LXlBbGVMY1N4MlQ5aUdjbENIaFg5VUUtZm5HQ1lKeE9QT21JbVRsQTBNck11SDhlOEZQbjNEdzlMQVNrZG95Z2tFdzRaLVZCdmhaUU9ITUdtOWN0MUpac2lHbkwxM1FWcHM5dlFPZmJJT2R5YWZNSnc?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -5577,7 +5578,7 @@
     "refugees_rank": null,
     "union_rate": 73.2,
     "union_rate_rank": null,
-    "news_score": 0.52,
+    "news_score": 0.51,
     "news_title": "Beyond business optimism: New SeeNext index reveals Bulgaria's structural challenge - SeeNews",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOVp6VkllWVRuc3Y5Q3pCNzY3MFBNNDl5bGdHbmljZE1ZVVRTSy1kN1h2NFpUSjNTOXplaEhuTHFmUmEyTDc0empWcjc5TG1ZS1BBNGNVUFhBWWlhYnc3cGFtUC1kWXVUTjdNUi11NS1xUWpnNHJBQ2RjZjFsN0YwVE56bUlxYlgtUWJBNjBKVnVvZ1c3WGgwTEVXcGZqM3lqNjZhYy1FVk1ZS2NvZUFwc0NKUlc?oc=5",
     "news_image": "",
@@ -6939,7 +6940,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.1,
+    "news_score": 0.09,
     "news_title": "Zach Edey plans to play for Canada in World Cup if healthy - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc0VrdUk5eVdFS2RoSUR0bTVyc1RuS3Exd25kTHIwRUpCODY3Y21ubmVyTU9McWdzYlJjc2JOcDBoTkc3NTVMNUF5QUpFaWJLVzQxRzY1d3Njdk1RdWVTMFFwUnJPNTh4MGpkR1JyeHBNYU5pZnpHcG1YMDVjekxNQ3Bn?oc=5",
     "news_image": "",
@@ -8012,14 +8013,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.59,
+    "news_score": 1.5,
     "news_title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "99m ago",
+    "news_age": "101m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "basket"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13026,16 +13028,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.02,
+    "news_score": 1.0,
     "news_title": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jWHRvNTRYTnpDandQOUdCbC1EOHVmOUVER1JJWnNhRGFld2FlUkxXd2lRMklQb3ZWeTY0V2UxVUVCRWlFZC1XNHpVWm03TU5keXRndGl2aXV2VkRyWF9IYUxWVFFuSUFrZEpPRmJLbEVaMmlXNzln?oc=5",
     "news_image": "",
     "news_source": "CNBC",
-    "news_age": "82m ago",
+    "news_age": "84m ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic",
-      "fifa_w"
+      "olympic"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -15871,7 +15872,7 @@
     "fifa_w": 81,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 62,
-    "news_score": 0.33,
+    "news_score": 0.32,
     "news_title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026 - The Hacker News",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYmdkeVduVTNxUDlRM3dXRTNwdl9Ec2J4T3ZqSjAxYUdoQW5BTG50MklmekowNWxDaVpJMndRWFBEcFFob3hWcjFabGY2cExUZzdTTXIwS1hmc0p5cjJWSmJ3MkVWRWZoQldjS3pqMlVubnA4d2J2YjFqa1Rodm43aw?oc=5",
     "news_image": "",
@@ -17394,7 +17395,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLWFiczBkNzZYUXRpVjVFNkJpMVc2bi1WWlpUT293NzlacmN6bjNUUGJvV2Jrd2lEb1M3dHF5YU9LSzNjNHZ0YnV2OGx0X3Iyd0ptdm9mVGJHZWhjMlU5Z2FSWHdKM2FqVHRSR1psUVhJUEpSNjkzbkZVMUFuUjVNX3M4RjdmMUhKSkZFVmlVV3NJeDVHbmpucWtlZVJOSk5UNmx5WU80cFpnVnMzZVpxZUpKb1IxbjJ6WHRXd2Y0Q1JoVUpUZXZpMWNMc01OOXd1UDZiNDJJeGhQZ9IB3wFBVV95cUxNMzY2TzRQYmFucFhOVFBHOUdva3Bwb2FfVmE1bDJVRzV1QURpVXBCX1pybnVHNHpHNU9BSWdCd2tDcVFNRkcwbjU2WVItbEZOeThFVG11dlNMX0RQNnZ1dV9IUktwUUZDdVBXSUR5YzMxeG1jVmRNSnljdlBsemVtMDJWa21faDNMN1ZmNnRFQVVuc2h3cWFPQU40UkVVNnVTTjlzbHlkV3dPQzhXM2VxbTJqcnNMU3N3ZHYwT3lYcUhlYURFOFZlRUloenJkeGl5X0w5LXFXdkt2ZmdpNXo4?oc=5",
     "news_image": "",
     "news_source": "News18",
-    "news_age": "24m ago",
+    "news_age": "26m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -19260,7 +19261,8 @@
     "news_source": "Vietnam.vn",
     "news_age": "9h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "basket"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -19442,7 +19444,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWkxTV2NKbFNKUDBnWVN3blRxV2xIZktWTElFc05zUENITnI1MlZnLVdPQjhuX1ZPaUNiWDIxQTViQjNxYXhKTjBlX3cyUTR3ZEpOVHF6UkR3cDNIRVFoNmhvS3JsYXlzVWJodGUwUGEzN29KNThmRi1rNXhkZ0QtYUpSSVg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "40m ago",
+    "news_age": "42m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -26131,7 +26133,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SdVpvLTl3Qi01N0RVTWxpRXZJdkg4ODlRa2NIRmZDWXlreTYzc3Fac3NMWTh2NFlwMS1POVlaTVVlUWVxbF9tUmI1OGxEQWdsektXdE1UQQ?oc=5",
     "news_image": "",
     "news_source": "UN News",
-    "news_age": "13h ago",
+    "news_age": "14h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -33135,7 +33137,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhONWNmUnBCZjBHMWNrSU5JYjRDbVZ2UVZkcjFaNWVfZEJJS2dSQVd4NTdITjhZaHdUbHFQbDQ1VmhHVXVVLTd4UENvTXNxZUhBZTVsUTExYmJTaktacjUwQ0lpcUY3UU0yMGVSanVodTJYLVJjeERfVUxfTjlhSy12YkRnQ2Qwclp5RnJrRU5BY25wV1NZYlpKaHdZWHF4VnJfajc2ZV9qOXBmMmFCMEtmQdIBuAFBVV95cUxOZWZVY2FpTk0xWS1GSEkwUThabWJYMmQyeVBqWWlLUzh2ZFJOTzhoWEFXRHh1WmxQbE5BaHQyeTEycnlUUFJselphQ2dWVFJMcUdxblYzZ1JOd1VZdmQ2NFRESzRJUVRUWmlLeFZBalVhcHMweXNncnFQcFRLUDhOd2pkLVVMMWdwUDQyZDRiSUtaUWxCQW93TkdJZUdZX1Q1RUlaZzRHRW82OGNNS0EzejVvcTMxeGpL?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "117m ago",
+    "news_age": "119m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -40296,14 +40298,15 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.74,
+    "news_score": 0.85,
     "news_title": "Turkey Promotes Itself as a Climate Champion. Not Everyone Agrees. - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTFQ2MVJRNlNETng3YTBjMld5RVBMUnp0UTBOU05YUk5FcW02dmVqVjJFeEEzX2N2MmlWR19PQTV0WXdfUDdkdi1DN2J3TWZSeFFpeU90Z0NSaW55RjR5cGlLNVBpMXMyMXFNQk9lb0lRMi11WU96d2pQUzBySTJ2OWZIWEFfMWtR?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "55m ago",
+    "news_age": "57m ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -41260,7 +41263,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhONWNmUnBCZjBHMWNrSU5JYjRDbVZ2UVZkcjFaNWVfZEJJS2dSQVd4NTdITjhZaHdUbHFQbDQ1VmhHVXVVLTd4UENvTXNxZUhBZTVsUTExYmJTaktacjUwQ0lpcUY3UU0yMGVSanVodTJYLVJjeERfVUxfTjlhSy12YkRnQ2Qwclp5RnJrRU5BY25wV1NZYlpKaHdZWHF4VnJfajc2ZV9qOXBmMmFCMEtmQdIBuAFBVV95cUxOZWZVY2FpTk0xWS1GSEkwUThabWJYMmQyeVBqWWlLUzh2ZFJOTzhoWEFXRHh1WmxQbE5BaHQyeTEycnlUUFJselphQ2dWVFJMcUdxblYzZ1JOd1VZdmQ2NFRESzRJUVRUWmlLeFZBalVhcHMweXNncnFQcFRLUDhOd2pkLVVMMWdwUDQyZDRiSUtaUWxCQW93TkdJZUdZX1Q1RUlaZzRHRW82OGNNS0EzejVvcTMxeGpL?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "117m ago",
+    "news_age": "119m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -42537,7 +42540,8 @@
     "news_columns": [
       "fifa_ranking",
       "olympic",
-      "basket"
+      "basket",
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -44276,7 +44280,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SdVpvLTl3Qi01N0RVTWxpRXZJdkg4ODlRa2NIRmZDWXlreTYzc3Fac3NMWTh2NFlwMS1POVlaTVVlUWVxbF9tUmI1OGxEQWdsektXdE1UQQ?oc=5",
     "news_image": "",
     "news_source": "UN News",
-    "news_age": "13h ago",
+    "news_age": "14h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
