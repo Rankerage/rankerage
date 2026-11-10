@@ -598,7 +598,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGgtUGR1MWhPNThVRGNnajhYWTJzdEtEd0xoakExYVlrTkJ4Q01sS0RFQkhRVE5IT3pqZVhPYkZxaFRweTViR2VGYTdiWlhjV2dHQVpCakR1b3NTMmoyWmhXekVkNkdKeVp6WEw2a05BSkk0bnBPNXpYRU1EVEVlZ1FmS3NpMkJ1WC1yNHBmNXBSQdIBkgFBVV95cUxPQkJvTEhSalZ2dktSNVJEZ1lrR2dKN3dBMGxPYkhIQ0lWbWY1eEplbzNzLUFkcFNEY0poT0xwaURWNG1MdG5ia0RlejdnLVk1WWhIVmM1WldpRlMyRnRPQ2xITXFFbmxiS3hWb3NmZDY0eUhVSExFTHc2cXFCVmhJQkgxd2ltSjRkQjM2UVl5N09rQQ?oc=5",
     "news_image": "",
     "news_source": "Kansas City Star",
-    "news_age": "10h ago",
+    "news_age": "13h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -1480,7 +1480,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.59,
+    "news_score": 0.58,
     "news_title": "Meet Stephanie Case - the first woman to run 100 miles in Antarctica - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeVp1MmVQdklueUxEV0JoaTk1TlR4c0NmYmpHU0pLZVpNRmZPV2tNT1NyLVFiNHI1ejZGLWtlbW8zQWptZzU3a1JCSVhtWlpma1N3QkU0bFNHdVZsa1NZRFY1VVhLWnVIekdSOXVzaC1xYXNBejlNak1Wd0d6YmVtLVFic3RVU0U?oc=5",
     "news_image": "",
@@ -2555,19 +2555,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.09,
+    "news_score": 0.08,
     "news_title": "Australia and the Global Economy – The Terms of Trade Boom | Explainer | Education - www.rba.gov.au",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbi1LWXdGcTlnVU15dHJtY2VrMHRSQkUzLWpLek9oeXFRRms4Z3lNanpWR2RZSWJxZmtwZGNPdU03SWR6ejYzaWtlZmZLUnNhQVYxZ2JjZ0lkVFIxRGxfZ2xwSFZUdDJfZzV2cHZNZ2ltdmJ2Qk1ZRTZzUHJpNzRkamYyYWJzTWZkZHhJSWo0SWZfUFFJSlE?oc=5",
     "news_image": "",
     "news_source": "www.rba.gov.au",
     "news_age": "76728h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "climate",
+      "cop"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -8018,14 +8014,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.89,
+    "news_score": 0.77,
     "news_title": "Why Volkswagen wants to sell its China-made cars to the world - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVNHZGc4cjNNd2tPT3UwUU13OVlxY045aTl3Uk1iVXhSQmxHbkhwSUptSUFPTmxhS213NDlJTm03Z1BUaktpSW1LcWVMTS1HelZFci1uZDAxSWFUQ05EX0F0VzFqd3dpTURHSjhvUmZ4UzdIZTI3bUd5TXVfeEVmRUR1WlU?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking"
+      "tech",
+      "ai"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13032,7 +13029,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.43,
+    "news_score": 0.42,
     "news_title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
     "news_image": "",
@@ -17398,14 +17395,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.5,
+    "news_score": 1.43,
     "news_title": "World in brief: FBI looks into Huang affair; Trump says Iran war is “effectively over” - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmFYNWY2ZFRnNGZsQzFBZTZJZ1B3ZWliYmQyUlFaU2ZjWGhDcEpYVWFfeG45Y0JCZW9TQ20wR1VEazd1clJXeDFzT1B4VHBlaXAwZGNSRVFMSUxyNzhzU2k2V0tBZE83OUlWX0ZiMVNMRHBGTTF4SW15bE1VcFkyZTVuVF9vUjIzbkxjSXpyS3EyMVJBVkww?oc=5",
     "news_image": "",
     "news_source": "The Economist",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "politics",
+      "geopolitics"
     ],
     "bottom50_wealth": null
   },
@@ -19448,12 +19446,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 1.23,
+    "news_score": 1.22,
     "news_title": "Two catches for Jordan Addison - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNk92MEppOXF6czhZazZVa1NpaUh1a3h1ZWFaTlc4d2tDV0o3MVRsZ1BCZ0lmd01BVEFIMVNHN0RLVXF6VGVPQXNUSWFVaGJmU2JjTG9NclpDMklELWtuU0xLZlhldzZXNjNTcFZRaHhULVFqek9Vb0N4cndUVXBTOQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "36m ago",
+    "news_age": "38m ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -24831,12 +24829,12 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.0,
-    "news_title": "Teen Blades Brown wins in Mexico to become youngest PGA Tour winner in 95 years - NBC Connecticut",
-    "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLXBoRUdyOGJPRXUwZ1hVUDcyQmVwTU1wTEEwNEhZbDIzdG9xOG9EcDBxc293b2l2VHF5WXZ6elhvSmw4dW1hbFYwMFNud0hzZ2luSWxTX2tmbm5YMWx3cHJOZ1c2QmsxLVNmeDZweFFEOGtqbC1ScUEySktRby01RTk4aVBfRTE3NEJSbEFsRG5tRkZ4ODM2ZEpfUk92aVRqRFFxX0tR0gGuAUFVX3lxTE1tVVEyczNlZmNvNS1Od2Y0dU5DUTE4X1U4bHJPbTFuUndqMHpMUTJNbW0tbUY4Y21MdU1VVFphN0pIOVNfUVVscktRdTdIbWp2TjZMdG84dTk0TU1fQ19zXzBEUXZudFdrRlBVT1Y0UVFIVzJyZnEtZWZYelZ2LTlhenVWYjFpc2I4STF5YVdvVlkzYkpLQ3FMVEpyekhqMG55RUc0a2pDa1Naek5kZw?oc=5",
+    "news_score": 0.02,
+    "news_title": "Mexico Sees Science Funding Surge, Tech Expansion - Mexico Business News",
+    "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkpjSndSOUJsdjFxdFU5TG03VTBuSDFDekxKTS14Q3dSZHBNSkRlNFR1amJTQjBBdHZWeWFuc2RfcnFkYmxIcEt3QnZFS2JxcUFscmp0QmtTc3NGdW4tb3JnS09tYUNCX2pNWFNBeGF6a1lSQ0R2SFBHWVpKaGczelZHdm5qdVRzSUw5ZHIyQmF3Zw?oc=5",
     "news_image": "",
-    "news_source": "NBC Connecticut",
-    "news_age": "52m ago",
+    "news_source": "Mexico Business News",
+    "news_age": "9h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -31667,12 +31665,12 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.74,
+    "news_score": 0.73,
     "news_title": "Poland’s Political Divisions Puncture Its Influence on World Stage - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZkVPSnVPV3ZVcGdRdGgxN1JDV3BWSk51WnZLcjEwZ3JVSFFabEdBZmR6TktQZ2I2UFRtRkI4QUlhMnRldzg1YUNxQUI3TTlWc2ZTRk9mdXRpUThvcENvSmxzUDQ1LWFaTjNtb3VLdW0zSEcyd1VLc0xPS2gtQTdoRjY3VmV0VkxjeEtzVS03ZE5zMS04c0FyN1NFOGhnbXh0QlJPdkkwZk9JVW8?oc=5",
     "news_image": "",
     "news_source": "WSJ",
-    "news_age": "73m ago",
+    "news_age": "75m ago",
     "news_columns": [
       "politics",
       "conflict"
@@ -32352,8 +32350,8 @@
       "gdp_per_capita",
       "stock_market",
       "reserves",
-      "gas_price",
-      "energy_per_capita"
+      "military_pct",
+      "nuclear"
     ],
     "bottom50_wealth": null
   },
@@ -40305,7 +40303,7 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.13,
+    "news_score": 0.1,
     "news_title": "Turkey hosts world climate summit, but some critics accuse it of 'greenwashing' - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEdZWldiV1pQbnZTWE1LX0NtaXl6c0tyTXZkTk9WcHczLXZINmM3WjdMdEszd3FGWERyZmhQVG9zZE55N0pKemtMOVFMWlE4QUFEZzZfaUtPVkJnZGVSUG9NNzNtTXVoUVlTT1FNaTc1NnJwZEFoRENWSlI1X2xGUjVTTXBpblR2M2s2SllZeGxIWWl1SFBHcHYyZmVxbEZCcFVyZ0c2bTJ6LWhqZF9wY0xyMDdsTlpqcDRLQm1R?oc=5",
     "news_image": "",
@@ -41267,19 +41265,15 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.26,
+    "news_score": 0.33,
     "news_title": "US demands a seat for Europe at Ukraine peace talks - POLITICO.eu",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2l3RHlLam9ic184VDI1cDlhbUdQY2dZN2JXNGRJaEpUc3pWYnZEZWJDYm1rOVVfVWg2OWgxbTZIbnZDT1RDWXpzcXliaHlheWNnc2pPeFhDR05ocTNsZjlkYjlyM2ZURUcxTFk5NzktTVY3YUdfR0hneFNfUmp2US12YVVZQ2NZQ3pySHRnOWMteTlSRl9BZWRnaElVU0NueTFV?oc=5",
     "news_image": "",
     "news_source": "POLITICO.eu",
     "news_age": "4h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "nato"
+      "politics",
+      "geopolitics"
     ],
     "bottom50_wealth": null
   },
@@ -42547,8 +42541,14 @@
     "news_source": "Fox 10 News",
     "news_age": "3h ago",
     "news_columns": [
+      "nfl",
+      "football",
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "tech",
+      "ai",
+      "climate",
+      "cop"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43751,12 +43751,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 1.13,
+    "news_score": 1.12,
     "news_title": "Vietnam Union of Science and Technology implements labor health care plan - Laodong.vn",
     "news_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONnJtVlpqWjlIQ2hHbXFDanotRVpTbWRfWUhueXZkSnROT29KU3Zvd3E1Y283ekp4cDl6UmsyOHVHdHFQQ0EzdTNoUG1mTWd1cDJQOUtCUlROc2s4RkEwek54NFN0bXo2dWtQNExfeDBRREJXYjIxbkhRQTJYSTZqMU03Q2lHa0hXd2I0Q0Z1bUJtVG1rNmJhVF9JSlRXVjV1a1JZc1RzVUQ0Z1J0UkhIT3Rhc1FKU3p0NTlsQXl1TDJqMjNMNENiSThZd21tdw?oc=5",
     "news_image": "",
     "news_source": "Laodong.vn",
-    "news_age": "55m ago",
+    "news_age": "57m ago",
     "news_columns": [
       "car_density",
       "gas_price",
