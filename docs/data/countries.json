@@ -2559,12 +2559,7 @@
     "news_source": "www.rba.gov.au",
     "news_age": "76730h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -5582,7 +5577,7 @@
     "refugees_rank": null,
     "union_rate": 73.2,
     "union_rate_rank": null,
-    "news_score": 0.57,
+    "news_score": 0.56,
     "news_title": "Beyond business optimism: New SeeNext index reveals Bulgaria's structural challenge - SeeNews",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOVp6VkllWVRuc3Y5Q3pCNzY3MFBNNDl5bGdHbmljZE1ZVVRTSy1kN1h2NFpUSjNTOXplaEhuTHFmUmEyTDc0empWcjc5TG1ZS1BBNGNVUFhBWWlhYnc3cGFtUC1kWXVUTjdNUi11NS1xUWpnNHJBQ2RjZjFsN0YwVE56bUlxYlgtUWJBNjBKVnVvZ1c3WGgwTEVXcGZqM3lqNjZhYy1FVk1ZS2NvZUFwc0NKUlc?oc=5",
     "news_image": "",
@@ -8017,14 +8012,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 2.04,
+    "news_score": 2.13,
     "news_title": "Nvidia stock edges higher as pressure mounts following alleged China spy links - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYUp3aWtLM3FHZFMycjJkRGVUeXFXWUdPOV9fbEtkVUhwUk5oX2xDVHZ4alZwdl93VnY1UzMwSUN5QjJneHVzdTZHR21JUnkyU2NtZ05LazhQMHoteDNzSVUxQ2lTR0VVSk8yczdTVTd5cXFHNnFUR1hHdVlfc1psbktyRy1OTTQ?oc=5",
     "news_image": "",
     "news_source": "CNBC",
-    "news_age": "82m ago",
+    "news_age": "84m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -17397,12 +17393,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.8,
+    "news_score": 1.77,
     "news_title": "US evacuates aircraft from British military base after threat from Iran, WSJ reports - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcmRzZGMtSExmeUFoRnZOODlyaUFCcjZwRjctTjZSRHUzdUNaUTd6eWJ2cS00LVJReTBSX1llZHlDYVhXalNYUmc4YTlkd0NLaHZ4UE5FMEtQbkZMTVFzSmNwc1gzMENjUk1lMVBPWFpzS1dKdVBKem96SWlLaGRJNTRlNXJCc19X?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "110m ago",
+    "news_age": "112m ago",
     "news_columns": [
       "olympic"
     ],
@@ -31669,7 +31665,7 @@
     "refugees_rank": null,
     "union_rate": 75.0,
     "union_rate_rank": null,
-    "news_score": 0.07,
+    "news_score": 0.08,
     "news_title": "Poland’s Political Divisions Puncture Its Influence on World Stage - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZkVPSnVPV3ZVcGdRdGgxN1JDV3BWSk51WnZLcjEwZ3JVSFFabEdBZmR6TktQZ2I2UFRtRkI4QUlhMnRldzg1YUNxQUI3TTlWc2ZTRk9mdXRpUThvcENvSmxzUDQ1LWFaTjNtb3VLdW0zSEcyd1VLc0xPS2gtQTdoRjY3VmV0VkxjeEtzVS03ZE5zMS04c0FyN1NFOGhnbXh0QlJPdkkwZk9JVW8?oc=5",
     "news_image": "",
@@ -32343,7 +32339,7 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.02,
+    "news_score": 0.03,
     "news_title": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk10al9Za09KSVdSOEJFak01MEtXS0I0bHg2Q2wzSmUzSDlEVlpObU41Mjg0aUZhQU5zR1NIbzdTMHJLV1FDbEk5WExHLUF0aUlHVU9CSlpEMXozNVFzSm5PTm4zekxYVmR6YlZLYUtHVUEzREp3UEIzSW1NTksyMWJXZTFiWTRvNW5oSGtQOVY3ZW1uOHdNYXJuWUtnWmhkVTRQWEsxRdIBrAFBVV95cUxOeDVLZnJwdDZ1b2dWamRIanBpZXUtQXE1dVhQeXVmY0haLVRFUDFwa2Zicl9FQTEyUXhFaE40dldBQmR1amhrSkFqd2U3Z1d4RXhSZ1VFTGpmeHpMNERLc2syWFZYLVk3aGtvQk5WZFRYWlRLODE3NEs4UGF4amM2ZEVFSmZJcElHaEpQSlJ2Z2ZsTFh4TUhhb3BqblV2ZHBHaTRPWXNpcDJMeTdG?oc=5",
     "news_image": "",
@@ -33146,7 +33142,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhONWNmUnBCZjBHMWNrSU5JYjRDbVZ2UVZkcjFaNWVfZEJJS2dSQVd4NTdITjhZaHdUbHFQbDQ1VmhHVXVVLTd4UENvTXNxZUhBZTVsUTExYmJTaktacjUwQ0lpcUY3UU0yMGVSanVodTJYLVJjeERfVUxfTjlhSy12YkRnQ2Qwclp5RnJrRU5BY25wV1NZYlpKaHdZWHF4VnJfajc2ZV9qOXBmMmFCMEtmQdIBuAFBVV95cUxOZWZVY2FpTk0xWS1GSEkwUThabWJYMmQyeVBqWWlLUzh2ZFJOTzhoWEFXRHh1WmxQbE5BaHQyeTEycnlUUFJselphQ2dWVFJMcUdxblYzZ1JOd1VZdmQ2NFRESzRJUVRUWmlLeFZBalVhcHMweXNncnFQcFRLUDhOd2pkLVVMMWdwUDQyZDRiSUtaUWxCQW93TkdJZUdZX1Q1RUlaZzRHRW82OGNNS0EzejVvcTMxeGpL?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "97m ago",
+    "news_age": "99m ago",
     "news_columns": [
       "olympic"
     ],
@@ -41264,12 +41260,12 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.92,
+    "news_score": 0.94,
     "news_title": "Russia, Ukraine and US officials hold talks in Abu Dhabi - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhONWNmUnBCZjBHMWNrSU5JYjRDbVZ2UVZkcjFaNWVfZEJJS2dSQVd4NTdITjhZaHdUbHFQbDQ1VmhHVXVVLTd4UENvTXNxZUhBZTVsUTExYmJTaktacjUwQ0lpcUY3UU0yMGVSanVodTJYLVJjeERfVUxfTjlhSy12YkRnQ2Qwclp5RnJrRU5BY25wV1NZYlpKaHdZWHF4VnJfajc2ZV9qOXBmMmFCMEtmQdIBuAFBVV95cUxOZWZVY2FpTk0xWS1GSEkwUThabWJYMmQyeVBqWWlLUzh2ZFJOTzhoWEFXRHh1WmxQbE5BaHQyeTEycnlUUFJselphQ2dWVFJMcUdxblYzZ1JOd1VZdmQ2NFRESzRJUVRUWmlLeFZBalVhcHMweXNncnFQcFRLUDhOd2pkLVVMMWdwUDQyZDRiSUtaUWxCQW93TkdJZUdZX1Q1RUlaZzRHRW82OGNNS0EzejVvcTMxeGpL?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "97m ago",
+    "news_age": "99m ago",
     "news_columns": [
       "olympic"
     ],
@@ -42539,9 +42535,9 @@
     "news_source": "Fox 10 News",
     "news_age": "5h ago",
     "news_columns": [
-      "olympic",
       "fifa_ranking",
       "fifa_w",
+      "olympic",
       "basket"
     ],
     "bottom50_wealth": 1.5,
@@ -43745,7 +43741,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.63,
+    "news_score": 0.62,
     "news_title": "Vietnam Union of Science and Technology implements labor health care plan - Laodong.vn",
     "news_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONnJtVlpqWjlIQ2hHbXFDanotRVpTbWRfWUhueXZkSnROT29KU3Zvd3E1Y283ekp4cDl6UmsyOHVHdHFQQ0EzdTNoUG1mTWd1cDJQOUtCUlROc2s4RkEwek54NFN0bXo2dWtQNExfeDBRREJXYjIxbkhRQTJYSTZqMU03Q2lHa0hXd2I0Q0Z1bUJtVG1rNmJhVF9JSlRXVjV1a1JZc1RzVUQ0Z1J0UkhIT3Rhc1FKU3p0NTlsQXl1TDJqMjNMNENiSThZd21tdw?oc=5",
     "news_image": "",
