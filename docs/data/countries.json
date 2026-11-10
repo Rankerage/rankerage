@@ -8021,15 +8021,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.66,
+    "news_score": 0.64,
     "news_title": "Exclusive | U.S. Balks at China’s Demand for Tightly Scripted Trump-Xi-Putin Summit - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObnAzVTNhOC15X1poVDJLYlpWdnNSOU9oemg4ajhpeHJjbDhrdkFoYUZTWVYzbFQ4N3J5YmxESUxDeTF6TkNiUVZqSVNCUWd1Y1F4Vl9rV0NwQnNNWEZDT3NxODBuRG1CNUdGdU1RcDNIcjhDSDA5U1dzbHp3YnUtRHRyT2N6ZHhjRVVOdWc3OWNvbWs1YkJkcVVhNzV0WlJBV01LdGR4S28zYzU2SHhz?oc=5",
     "news_image": "",
     "news_source": "WSJ",
     "news_age": "3h ago",
     "news_columns": [
-      "climate",
-      "un"
+      "tech",
+      "markets"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -9081,7 +9081,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 128,
     "fifa_w_rank": 69,
-    "news_score": 0.15,
+    "news_score": 0.14,
     "news_title": "Cuba Highlights Scope of the New Science Law - teleSUR English",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOWVLRVRleHotdF90SGoxako0Qk1mclllU3pDV0tCcXpURGNVNDR1OW5OTl9nWWVVblc1cmhSd1h2XzRhTTZfbVdSc0xvWTBEQTJJLVpITlA0ZDZ4SDBCVURpUVFuSVhpUEhDcW5KLXRnMGhoSjBmQnNyaF9YMWxucFJR?oc=5",
     "news_image": "",
@@ -10131,7 +10131,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2RibzJMcmMxVjJGTW44d3FyTm5XLUZ1TVJ1LVl3T1RRT21JZDBabUdMdm1vbUJsbmpkUmx3NWxmT29rY2hNVWZaZ0xUdjRWUHlLbDV6QWtjc0ZnMWY0VTFMTEZ2V0hxbjV6dHJKMUZlWDdhV3RLMHhOa19URS1mTG12Q1o2RC11RFRGUjhFdVV4LUV2RGlKRnJoYm1Ob052UFhrS2pjMmlUTzFvVTFTSndiVlY?oc=5",
     "news_image": "",
     "news_source": "The World from PRX",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -13036,17 +13036,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.35,
+    "news_score": 0.45,
     "news_title": "France accuses Iran of supermarket fridge hacking - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzeFI0SDNQMm9ieHFIWGNtSFV6cEliY0dwOUhXNE9NODFkSTZKUktramxLV0ZHS1BaN3RZX1pTWEtsNmZxSVlBQTNfN2I0Rlk4NTlCdnRnUElYbUE?oc=5",
     "news_image": "",
     "news_source": "BBC",
     "news_age": "3h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13568,7 +13566,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.32,
+    "news_score": 0.36,
     "news_title": "Welcome to college football's new reality: Make the 24-team playoff or get fired - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX1JDc0tUNU5VRkpqNEVLM0ZKWTlJbnZqQnhPOVBySEVJalkwQ1dBM1lRNVg3OC05M0RiNE1MN0swMHhGYWpjbmdwSGIyZ1dZWVJkTVkwZlcwdDd0TE5OZVd6MnlLOWplcWU5TTEzTjZKc0pVeU1URmlKRXZSeGlBZEJjclV6ZnJzb2VQOVZDOU5iR1doR1V3RERnNnlnc0owdTlOTkJEYjVjbnAybERlekJ3RnBxZlJZdkdGUm1FaU1fRE1VakRnMXNkRUpJdlBCbFFrWDFFNnREZjQ?oc=5",
     "news_image": "",
@@ -17407,16 +17405,18 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.36,
-    "news_title": "Live Updates: Trump says he sees no reason to escalate war with Iran, touts his long-term goals in the conflict - CBS News",
-    "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zN0FDMkRwcDVyZGFpV0dvRnhidUVyU1hrc2pKQzJZMmlLZDF1bHZ0dzBtMDJLOXc5T0xNYmRuS2Q4eU1QQmFqaHJ1cVg0VGkxcWN3dEZLVlo1UlQ0ckZCaW52b0lHQzVZN2N6UElySjhIWDdXWVh5T24xcmh4Zw?oc=5",
+    "news_score": 1.04,
+    "news_title": "Hegseth impeachment effort begins in House, focused on Iran war - The Washington Post",
+    "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlZ2Z0szYjlfTTBaZndNSUJHY0lLNlVGVDVpb2N2a3BTX09WR2U1cjVpWHZvNEdfQm4xLVFRM3cycmdrazk3Q25Gc05YSkgtOGF5eDROb2NfcTVZRG5yRE5hZVRKQ19XQk1INzdrTTVGZDBCbmpDOXU5NEJESHE5NHNCNGkwMUJSZVBPamlZc0M2MU9Ibng4dVJ5YjdZaE93MUd0SWtGZEt2ZHZndmpvRDZIbFROZjFJ?oc=5",
     "news_image": "",
-    "news_source": "CBS News",
-    "news_age": "74m ago",
+    "news_source": "The Washington Post",
+    "news_age": "84m ago",
     "news_columns": [
-      "politics",
-      "legal",
-      "defense"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": null
   },
@@ -19461,12 +19461,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 1.24,
+    "news_score": 1.28,
     "news_title": "Grading the trade: Jaguars making run at Super Bowl after landing Eagles DT Jordan Davis - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNelI5cDZCRmpod0JvQUo1YUl0alFPbEJaWkRyVDktWkhRT3MyQVJwYUpKX0JPdG16ckJEQ3huSUFUdzd6Q0tnYlVIM2JPN0xuQ3BVekczcU1VWmhqOEY5NTVkX0pjRmVKeG9BSlJvS1pHTXQxMGcxTUE1U1dQeVp1SVFzR25iYWV5SDdOSDRsOFFjYTR5N1UtbXlocExjRTF4aEozdE1GMDk3UEhKaTJreHdZcjNoRW9hMXZ3OHczQVJNeWxNMGlWeGpFMWltbVJIdFVmdEtn?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "89m ago",
+    "news_age": "91m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -26150,7 +26150,7 @@
     "union_rate": 79.1,
     "union_rate_rank": null,
     "fifa_w_rank": 112,
-    "news_score": 0.42,
+    "news_score": 0.41,
     "news_title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates - UN News",
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SdVpvLTl3Qi01N0RVTWxpRXZJdkg4ODlRa2NIRmZDWXlreTYzc3Fac3NMWTh2NFlwMS1POVlaTVVlUWVxbF9tUmI1OGxEQWdsektXdE1UQQ?oc=5",
     "news_image": "",
@@ -28488,7 +28488,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZF9hYl84RHVKUk1PNjVjZk9UbE44WGF3TFVkcW1BVUM4R0hMMmlXN0hDTGF1NUhuQ1hqSGFzajBEU09XVE5kZWZtN0VMdmcwc3VrN0JfN3NsdWpmZGFKVzM0Yi04cDNlXy1PMzl5cHJycUhMNkhEeFN3VlNaekxtTVE4LVlZNk9IYy05aHRSMjNRQkhfTi1TQXdMMjZDVzlMNmg4R3NjN0ctUQ?oc=5",
     "news_image": "",
     "news_source": "Legit News",
-    "news_age": "6h ago",
+    "news_age": "7h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -36171,7 +36171,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNXzZCQk4xSlo5WEhfalFMalhGaWVkc1psdzZvczQwTjNmLW94WmlvNnBoYWhIWElkZmZXQXdlYUlfZnNTRGo5QTZNUDh3WDc5ajh0R3AzM0pBeFdYbkV3cmVCa0dfeFBJeDZsLWtJbVkwYnNicWtndGs1U2duam50MEljVG1XYXVHU2pFOFh1N0IyYU9LZ081RFdYU1FpdlN3U3RxeGV0TFFrTXdpSFQyQmVEZWNNSnZyZkE?oc=5",
     "news_image": "",
     "news_source": "SGGP English Edition",
-    "news_age": "36h ago",
+    "news_age": "37h ago",
     "news_columns": [
       "wbsc",
       "baseball",
@@ -40323,15 +40323,15 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.81,
+    "news_score": 0.78,
     "news_title": "Turkey hosts world climate summit, but some critics accuse it of 'greenwashing' - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEdZWldiV1pQbnZTWE1LX0NtaXl6c0tyTXZkTk9WcHczLXZINmM3WjdMdEszd3FGWERyZmhQVG9zZE55N0pKemtMOVFMWlE4QUFEZzZfaUtPVkJnZGVSUG9NNzNtTXVoUVlTT1FNaTc1NnJwZEFoRENWSlI1X2xGUjVTTXBpblR2M2s2SllZeGxIWWl1SFBHcHYyZmVxbEZCcFVyZ0c2bTJ6LWhqZF9wY0xyMDdsTlpqcDRLQm1R?oc=5",
     "news_image": "",
     "news_source": "NPR",
-    "news_age": "114m ago",
+    "news_age": "116m ago",
     "news_columns": [
       "climate",
-      "un"
+      "olympic"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -42565,12 +42565,10 @@
     "news_columns": [
       "nfl",
       "fantasy_football",
-      "injury_report",
       "cfp",
       "ncaa_football",
-      "cfb_ranking",
-      "politics",
-      "legal"
+      "tech",
+      "markets"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -44303,7 +44301,7 @@
     "union_rate": 34.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 119,
-    "news_score": 0.42,
+    "news_score": 0.41,
     "news_title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates - UN News",
     "news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SdVpvLTl3Qi01N0RVTWxpRXZJdkg4ODlRa2NIRmZDWXlreTYzc3Fac3NMWTh2NFlwMS1POVlaTVVlUWVxbF9tUmI1OGxEQWdsektXdE1UQQ?oc=5",
     "news_image": "",
