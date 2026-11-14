@@ -2556,7 +2556,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.66,
+    "news_score": 0.53,
     "news_title": "How to watch Australia vs. New Zealand in the Rugby League World Cup final online for free - Mashable",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2RtSFFZM3BlWWZYbGVwU1loTFRSSnBVVURLUnJkeVhudTY0YjJVd1BhWm1rLTZucHptUmdxUjlUb2pHRWZlVGhYLWQyVG1PQTdILTVlM2wtallfRFFPeGt5bDZkTEhUdWh4OXVTQkRjVDI5QUN5bXVLcVdSOVItYmF0VVJGb3FiVkpTRFVtNkRkQU9td1VHY3pZYkYwUWVSZVRSQ1lYSUN2OFk?oc=5",
     "news_image": "",
@@ -2564,7 +2564,10 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic"
+      "fifa_w",
+      "olympic",
+      "basket",
+      "rugby"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3055,7 +3058,7 @@
     "union_rate": 72.9,
     "union_rate_rank": null,
     "fifa_w_rank": 80,
-    "news_score": 0.57,
+    "news_score": 0.56,
     "news_title": "KSA Business: Saudi economy to rebound in 2027 as oil output recovers, says Moody’s - Gulf Daily News (Bahrain)",
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUnJUTkV4WUNaMDZHbGU1Uzc5cnZBc2xJZVJVS1I4OHZ4Nl93OVMyend4X3ZuNndpc0szeFFqWlpuX1BJUVRkTG1QeE9HNGRZTjYzenJFbTRzazB3bUFPelVyb1NaQVJONWRNc29xZVEwU3E5cEx3T0FCMkl1Nk80WkdES25aVW9SY1pzV1E2SUF5dDViMU9BUWdCSFY5YnJpdXBxeVgyNVA1bkZtNXJkSVVnUzFrSmpVdjdz?oc=5",
     "news_image": "",
@@ -6945,7 +6948,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcGRMYktmZXZYQWxOX3hEa3N6SHVYOTc3aW1hdjB6dnA3d01VRUQtdlRSRGpOc1M2eG93NWs0d1dqbWJaWkhVVXFzMThwQmlReFcwT1JkT0lhOEJsak8waDhEdGhtb1ZZcm10bTNpN0xUckhpY2lvTzNMWUNKcjlXT21zejVRaUk1aEV2a25RbndpejlmeGVFOURJT0stSmhkQVRwa2dkMnp2ZTNmN25naC1KX2ozX1pfVXg4MjZYZVlsZG1ZVFZseG1QakFWMk5kZlFjUVhB?oc=5",
     "news_image": "",
     "news_source": "Business Insider Africa",
-    "news_age": "91m ago",
+    "news_age": "93m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -8017,7 +8020,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcGRMYktmZXZYQWxOX3hEa3N6SHVYOTc3aW1hdjB6dnA3d01VRUQtdlRSRGpOc1M2eG93NWs0d1dqbWJaWkhVVXFzMThwQmlReFcwT1JkT0lhOEJsak8waDhEdGhtb1ZZcm10bTNpN0xUckhpY2lvTzNMWUNKcjlXT21zejVRaUk1aEV2a25RbndpejlmeGVFOURJT0stSmhkQVRwa2dkMnp2ZTNmN25naC1KX2ozX1pfVXg4MjZYZVlsZG1ZVFZseG1QakFWMk5kZlFjUVhB?oc=5",
     "news_image": "",
     "news_source": "Business Insider Africa",
-    "news_age": "91m ago",
+    "news_age": "93m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -9076,7 +9079,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbkNIM2wydklvaTRLVTF5Qnpwd0xWcDA0eHBQTGFqd2hrR3ZYWFpfSDhicWlXeXNYZ1ZHZ1F2WFVtRDNBMzZkTkwydkl3ZmR2Ry1DcFY5RUZOaXR2UXJkUGlxMkZsUHZkcDU5NUFlSUpRdWpKRXZFNHBvQldUT29CeWtyMzFMV2tZRnhkS2VFZ1M3MXdTOHoyY2hZQ3NMSmFlNEpxT3c2djc?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "106m ago",
+    "news_age": "108m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -13560,12 +13563,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 1.28,
+    "news_score": 1.31,
     "news_title": "Clemson falls at home to Georgia Tech team that had just fired 4 coaches, loses QB Tait Reynolds to injury - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNWFNoakdPVVZ5bmY2NnBjdXdGMXF0MUdTN1dERzRRN3I4OUdHU2NfUjhkaUJneElVMjYxaTlvYndrLUZSQ2ZpVjJtS25QUFhuWi1tNHhJVmV5T2ZEdnoyTnNzclhmN1hDSmRwX1Q4b1pZVFlaR3dfQmZkX3RhSmlkM1p1djNTeXlYTGtwbnBXOTFyZzRFXzJiZXEtSXhCaG1ESFo4bG1tTTRVc1MyTmpiN0lXY3phQjVvdjlRcEhjYUtWcjVBSzlTX1JFMTd6TUkzSHdBQ0FmLVRrOUJlTlpmV2hvZU95ZnEwOUg1MGszWHRfdHk2M2V4N2NXaVNFZDNicEk5NHNwb1Y3dXM4bS05UjFn?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "74m ago",
+    "news_age": "76m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -14260,7 +14263,7 @@
     "union_rate": 60.4,
     "union_rate_rank": null,
     "fifa_w_rank": 50,
-    "news_score": 0.4,
+    "news_score": 0.39,
     "news_title": "Dangote eyes Ghana cocoa industry, plans 500,000-tonne processing deal - Legit News",
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcEF5N21mNlFfSVc0RzB2ZEJCT3doRk5PbHRzU2JYbW5mVTBwTTVrTVVrVTZPc19ob0lfWEZkY0U2eGpMVXZLLTgxQllPWkcwYV80amU5aEhrV05aektHbkp0bllGQWVDTkhQbUUzc2syN3FLQVBQSXk3bXFnMU1xcFJwY1hsSEpxNjJJMGtIYVE2djFsSVEwd2ZLNGpRdU5xbmZYSVl4ZlZjYTJ1elZLZjJqY0R1Y2ZLUExDSTFFR1lXcXByRVk3RjlYTzc?oc=5",
     "news_image": "",
@@ -17391,14 +17394,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.63,
+    "news_score": 0.61,
     "news_title": "Live Updates: Netanyahu says it's time to remove Iran threat \"once and for all\" - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
     "news_image": "",
     "news_source": "CBS News",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -18122,14 +18125,14 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.63,
+    "news_score": 0.61,
     "news_title": "Live Updates: Netanyahu says it's time to remove Iran threat \"once and for all\" - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
     "news_image": "",
     "news_source": "CBS News",
     "news_age": "2h ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -18561,7 +18564,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.31,
+    "news_score": 0.32,
     "news_title": "Italy fines Meta €805m over accessing users' photos - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6U3dzRXhNdWFETHc0NlAwOXhkQ3Fzdmo1QVhMTThSeVNDM1BxR1dEejJmZzVpZjRRNHU5YnY2WTVkc1V0a2ZENTJTRTFUcWVqYmNoLTREX1E4QUE?oc=5",
     "news_image": "",
@@ -19248,7 +19251,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.05,
+    "news_score": 0.04,
     "news_title": "Vietnamese intellectuals in Japan increase cooperation in science, technology, and innovation. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQk1NdTlZZHU0d192OF9uNGYtV0d5eWo2YnljWDE2cDl1Ti1nRWh0VTVpdXNBQTUxVTU4NmdsNmpLVGphaHdwaHEzaVJwS0d5ZTBubzVKVVVSUjR0emJOdjZBcGx6d0IzRXl1XzBLcWZITkFRaUNZRzRHbjlUelRQbkJqWXhHRzhoX3BJdnI2RVpFUHowNlZ0bkhQamgwd0dyNmtuZnZLQQ?oc=5",
     "news_image": "",
@@ -27801,7 +27804,7 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 0.65,
+    "news_score": 0.52,
     "news_title": "How to watch Australia vs. New Zealand in the Rugby League World Cup final online for free - Mashable",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2RtSFFZM3BlWWZYbGVwU1loTFRSSnBVVURLUnJkeVhudTY0YjJVd1BhWm1rLTZucHptUmdxUjlUb2pHRWZlVGhYLWQyVG1PQTdILTVlM2wtallfRFFPeGt5bDZkTEhUdWh4OXVTQkRjVDI5QUN5bXVLcVdSOVItYmF0VVJGb3FiVkpTRFVtNkRkQU9td1VHY3pZYkYwUWVSZVRSQ1lYSUN2OFk?oc=5",
     "news_image": "",
@@ -27809,7 +27812,10 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic"
+      "fifa_w",
+      "olympic",
+      "basket",
+      "rugby"
     ],
     "bottom50_wealth": null
   },
@@ -27991,7 +27997,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbkNIM2wydklvaTRLVTF5Qnpwd0xWcDA0eHBQTGFqd2hrR3ZYWFpfSDhicWlXeXNYZ1ZHZ1F2WFVtRDNBMzZkTkwydkl3ZmR2Ry1DcFY5RUZOaXR2UXJkUGlxMkZsUHZkcDU5NUFlSUpRdWpKRXZFNHBvQldUT29CeWtyMzFMV2tZRnhkS2VFZ1M3MXdTOHoyY2hZQ3NMSmFlNEpxT3c2djc?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "106m ago",
+    "news_age": "108m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -29482,7 +29488,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.39,
+    "news_score": 0.38,
     "news_title": "🔥 In-demand Antonio Nusa continues post-World Cup form for Norway - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWhaUTByaEdhYmc3blJZV2RkaHl4OXBNZDVaWlBrLXZDb2dGZEs2anQzdF9CXzZDdzJBWmNQSG5vUVZTbEdudkFWakhQTEt5dGZoVnJuQmtXQWhOT3RoVGtIYmotWWdZd0x4aTZCSzJLN1UtY3hJempKcXI3SnItLThNTWlJR1JzamxB?oc=5",
     "news_image": "",
@@ -31090,7 +31096,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbldQc0RVYVEyM2ozT01IUE1MUENQZl9sdXJDQVhZUUdUbEpEZHFwVVVDLUVKS2ZTQld4QUM1UVc1dWZwNG56WVQ0X3VENnVKTmtJLXZIUlkweUZHU1R4OXJTY0R4RmVadmozLWltdEVFMlh3VGlUM0V6U293Sk9mWjBwbWNLS25yVC1KZlRUbWEyOTk5dEFpRHd2WUw?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "5h ago",
+    "news_age": "6h ago",
     "news_columns": [
       "religion_div",
       "democracy"
@@ -31919,7 +31925,7 @@
     "refugees_rank": null,
     "union_rate": 77.8,
     "union_rate_rank": null,
-    "news_score": 0.43,
+    "news_score": 0.42,
     "news_title": "Portugal Honors Cristiano Ronaldo By Changing No. 7 Styling On Kits - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZFR4WGNOR3Jwb29TT1lBUHdJdHBTZF9OZUMzY0dIQm01eENWVTFjelBkS1JxT1hvWDJ3a1hOMkFiMk1NUHAzeHVxNThsVU03RWRZR1VsMHpEX0lkblcyaVMzNTNkRFlrdFFxdEozY3dwWjJtTWxaeXFIeThlU2pVZVl4eElIZEdDLTdrRXpIdlk1VHNUZnZCSHh3VC0yZUIyWVpaRU9iNNIBpwFBVV95cUxPeUZKNTM0NDFMdUZKQ0V3akFYT19uZExYdFk1WDRIcWhQcTJOVEt4ZmxOQ1pzWHA0NTJ3c3FSR3hvS05tSVQ1TDVQWWxqMk50ZlhnbWw5UDZucWhGMFp4S1Rvc0N6eUtRMER1cVJmRU5qaDhHTU5MZXJ4NWhvaE81UUg3SFloTDRnVzF0LVFuaGNjbHhDWlV6RDB5eUp4LWFSMnJnNV9oTQ?oc=5",
     "news_image": "",
@@ -33108,7 +33114,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.25,
+    "news_score": 0.21,
     "news_title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkl0WHV4OWtNN0k0SFVuR2E0VXhrOUpYMXZiOUxFYUVYZlBpa00zTTRXaTVmYWtwcGktWjAzUnMxckxsS0l1S2VqekRxbS15ajUwT1p6RkhjU1NtM3JwMU5uUGlqT295Y19OOXJfUXRHWFNLcGw0VFlTMXV1eFNZUXpobDNHcHVtVUxVVVZqMnA5a09LT2I4d05rWmVyUFHSAaQBQVVfeXFMT3ZsNjJfWW9FQ2VPLWROVXp2UHZsS0gwRjBUdkVZMi1tbnhFQXQ1RlBrazNCYTJUcWc2NWU2WGtETnB0MTNNQkJES1l0M011ZWJybldxTFBaZGJIQ1RIaVhXSkVvWVVZRFlSM1h3V1dnbHJiVmkxWnp6Y0wzOXJvaUdmbzk1Y0lyR2RrNTl3YkFzdVdfd21mYk5mQkRKN01TYlQ3ODA?oc=5",
     "news_image": "",
@@ -36701,19 +36707,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.52,
+    "news_score": 2.11,
     "news_title": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRmxpdGVWWnFKalBDb3Z1ZG9rU2RhbVMydDV0WFRrak9KQldJYXNaNWNhUjBMNERyUkZfVU5HUl9IOEhrUm1QX0V0RERFZlctclg4SjZOX1pQR2N1dEVmdS1HdDJ4c2c5ZklDdmd6dEN4eURrSUN0cllhbEs3UERPbXNLODdXenF0cVczVUdVd0xnRU5qcDJ1R0MyMjE0Z21rRDVUZVpodmhOSXlaNEc5a05jbw?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "76m ago",
+    "news_age": "78m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "gdp",
-      "gdp_per_capita"
+      "fifa_w"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5,
@@ -41241,7 +41243,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.16,
+    "news_score": 0.12,
     "news_title": "Zelenskyy Says US Floats NATO Membership in Deal for Donbas - Bloomberg.com",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZnU2bWVzWEppMldUY3MzMlhnMVhZb24tZzYzc2sxQ0VRUDV2dVlfM2taWnJXOXF6bHpOTXVXUGQ1QXI1TjRFWDhTeUFkTEJWMU5EbHFzeE5fX19OWmZKakRsdDhfdjZraFdxWjlHSUdaSzRPNVFjV1dkYTYteXRTd0hpM0tYeGl3cVgyWm16allXZjR0bG41YkE4M1dGckoyUUxLWTAzY3diRzQxSHF5OVctVEtpdw?oc=5",
     "news_image": "",
@@ -42522,7 +42524,7 @@
     "news_age": "6h ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic",
+      "fifa_w",
       "basket"
     ],
     "bottom50_wealth": 1.5,
