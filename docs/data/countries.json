@@ -2869,7 +2869,7 @@
     "refugees_rank": null,
     "union_rate": 77.9,
     "union_rate_rank": null,
-    "news_score": 0.27,
+    "news_score": 0.21,
     "news_title": "ESLC Day 13: Brick wall Kriz sends Austria into the playoffs - World Lacrosse",
     "news_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44ZjFZdF9WTHE2TDdNVHdEN3Z6a0xrdGR4Y1ZfcmhNalY2dGtuX3RvNWxUNGdvWXdkbmx6UTFpYU9Wd0tFcjlQRDBScTlHNkktaVNxYw?oc=5",
     "news_image": "",
@@ -8019,7 +8019,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.57,
+    "news_score": 0.56,
     "news_title": "MAGA turns on Lutnick amid China spy scandal - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tVjViYmdFdVdLcUZqMlFIdWsxdGZad3pwSEh2dHpzaFVzWVNzdXJ0bVYtc1JPYW5lajh1WEZ0dFk2VzhzdGxsWXNEUmtmMFZRbTdiZjhsVlFKeEM5cVhrZWNGS05wUQ?oc=5",
     "news_image": "",
@@ -12536,7 +12536,8 @@
     "news_source": "Euronews.com",
     "news_age": "9h ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_w"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 13
@@ -13030,12 +13031,12 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.92,
+    "news_score": 0.91,
     "news_title": "Aicher wins first slalom of World Cup season - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRGFNMi15UGZGbW96eFpXSkJnejRybnphVFlVVG9GM2dVbEhTNnc2V05jZEtGVlY4UGt0TFhEYnpNMFZpeFBzQTh2SGdfZTYtM21lUTlQYW90WUllZUQ3WWhjaUhoQXQtOWFPTENsMDZPdVhVbjl5RS1KRkcwckRlXzNSMTRGNGxiUWdFZkVJT2dVX29ldUE?oc=5",
     "news_image": "",
     "news_source": "France 24",
-    "news_age": "84m ago",
+    "news_age": "86m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -14068,14 +14069,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.24,
+    "news_score": 1.3,
     "news_title": "Jared Goff takes 1-3 career record vs. Patriots into Germany game - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0TnpITndBcHBVc2c4enloMk9MdnhmaUs3bHR2MmNxUHhqczhFQThZcXdwT1JncFRXUWVjMldMdm45SmxMS1JNM1FzdlhlTGhidGEzdkdKNVNvUTltZFlVMFJMbE4wYlNVVk0xbl9BMUkyTjdyb2E2Rw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "69m ago",
+    "news_age": "71m ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_w"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16384,7 +16386,7 @@
     "refugees": null,
     "refugees_rank": null,
     "fifa_ranking_rank": 70,
-    "news_score": 0.47,
+    "news_score": 0.46,
     "news_title": "Rovers striker Gudjohnsen scores hat-trick for Iceland - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkhxcEtsUUtLTEJCelpCWTdzWFNLVk93WlR6NkFQeHEweDgwc2dRWTZranVncDdTd3lWeFJJVmlZR3dfOFFnYkZvX0ZjVkcwdWFHNFc1TUZWbndrTDEwSGFHVFVnN25JS3ItbHZ1b21JNVRHMGdfbGdSb1Z4aGtvaUR0UzQ3NXN3bVpxb3pn?oc=5",
     "news_image": "",
@@ -16823,7 +16825,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.49,
     "news_title": "India: Delhi surpasses Lahore as world's most polluted city - DW.com",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNFpjSkU5QkR3bFpwclRRQ1NFSnBwM1JxUXh4Wm94TkhhM0pSUHBpQWNPamowWktydzhwQ2FQRHYtNzM1bTIzQTVsbUxUamIyMUw2Ym9rMFZ5dllPSkxnb0tsRjVCekJCWUJHVC1zSHR4dEtVOTBNak5qSVRpMExSZ3l1dHVIVWFkRGZORzNCWFMwWEU1WWgteQ?oc=5",
     "news_image": "",
@@ -17394,19 +17396,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.61,
+    "news_score": 0.79,
     "news_title": "Live Updates: 3 oil tankers hit mines in Strait of Hormuz, Iran says - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "115m ago",
+    "news_age": "116m ago",
     "news_columns": [
-      "gas_price",
-      "energy_per_capita",
-      "co2",
-      "renew",
-      "exports",
-      "military_pct"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -17879,8 +17876,8 @@
     "news_source": "Afloat",
     "news_age": "17h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "golf",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 2.7,
     "bottom50_wealth_rank": 20
@@ -24821,12 +24818,12 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.79,
+    "news_score": 0.78,
     "news_title": "Surging measles cases are forcing doctors to treat conditions they’ve never seen - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ3dicHNpRTlnUVBFdjNGYm94aWdJN09RZklxY0ZKaloyMzVoQW9kN3VVR2FzY0h2TEFCX2FheTRmSUVxOENtWHNzSE1pQUpTYU1BTWpXOUVTUTdZSFVlSk4yOFc0M1ZUdXNFSU5nZnp5d3JmcFMwMzF4dnBMMU1oQTItc1RkRURjTXBBb0o0MzdtS01TUy1ONUJxZmU5Q1dRVV9ZaHNVaTVHM0Zz?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "59m ago",
+    "news_age": "61m ago",
     "news_columns": [
       "doctors",
       "beds",
@@ -28457,12 +28454,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.99,
+    "news_score": 0.98,
     "news_title": "Tinubu’s High -Cost Economy Pushes 40% of Nigerian Bakers Out of Business – Atiku - DAILY TIMES Nigeria",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQblJYUmVac3VjOHpFZThJSEtiOG1DQ3JLaXpCOHhobEEtYmt1Z1R1aC1SYnppMV9vT19WQkNiSngwSDc2UWxleFBIeUVxMkxSNmtWOEMyNFh0OW1jVzc0b1JhNmtuYkpJMWMwSHZpUUNidTBDR0Rtbm92U1NlVFpLSGdVaDNYc05qVUtGa3NHcVFsZzl3VlYyekNndzdXbkNRYmJfYQ?oc=5",
     "news_image": "",
     "news_source": "DAILY TIMES Nigeria",
-    "news_age": "49m ago",
+    "news_age": "51m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -41243,7 +41240,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.51,
+    "news_score": 0.49,
     "news_title": "US floats Nato membership for Donbas withdrawal deal, Zelenskyy says - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNi1IdTRFRXk4dnlyWE9ycGhxcHVNVjNSU1VBendhRjdFSHNYcVM5d0wwUGN3VUktaTM2b2R2UVIxZ3NMbjcybDlsa3llTGNUOFgzOVllMjg5UW9Db2FmQzB4QUJEcS1RODdNU3JhTy04QlJwY0duelNBTTdROEJMQTcyaTQ?oc=5",
     "news_image": "",
@@ -42521,7 +42518,8 @@
     "news_columns": [
       "fifa_ranking",
       "olympic",
-      "basket"
+      "basket",
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43722,12 +43720,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.92,
+    "news_score": 0.91,
     "news_title": "The Ministry of Science and Technology reviews legal documents and removes institutional obstacles. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS3RBdmZDeDFJeHJUNE94ellOMERpN1FiRDZmUWhMUXFBeXNtenZjaDk4ODE4TkNNQ1VIdzkwVTM0M1hIWTFwY2d6VDNzT0dxOXUyb0JvNjRIVkhYd2VPZXRFMWdnZXUyZjBUWkdpRTFIcmtBLTZnSW4yZVllaEpIalRQLUJtSHd5czBaaVA2aC1qZUlPdGQtblotdw?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "92m ago",
+    "news_age": "94m ago",
     "news_columns": [
       "car_density",
       "gas_price",
