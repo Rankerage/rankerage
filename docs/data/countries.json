@@ -2557,7 +2557,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2RtSFFZM3BlWWZYbGVwU1loTFRSSnBVVURLUnJkeVhudTY0YjJVd1BhWm1rLTZucHptUmdxUjlUb2pHRWZlVGhYLWQyVG1PQTdILTVlM2wtallfRFFPeGt5bDZkTEhUdWh4OXVTQkRjVDI5QUN5bXVLcVdSOVItYmF0VVJGb3FiVkpTRFVtNkRkQU9td1VHY3pZYkYwUWVSZVRSQ1lYSUN2OFk?oc=5",
     "news_image": "",
     "news_source": "Mashable",
-    "news_age": "117m ago",
+    "news_age": "119m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -8025,7 +8025,8 @@
     "news_source": "Politico",
     "news_age": "10h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10127,7 +10128,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZWkpDZWFZay03blB0NXlJc1VZcEhOMjFfMUZCbVV5Qi01YzdkN2NPS2VXXzBZandpUzV4amM5X2lkS2xyR2twajl0a0lLeWlnUlJZTDBoTW00ZDU4OVowX2t3R1g1UQ?oc=5",
     "news_image": "",
     "news_source": "Team USA Hockey",
-    "news_age": "13h ago",
+    "news_age": "14h ago",
     "news_columns": [
       "gender",
       "gender_gap",
@@ -18579,7 +18580,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.77,
+    "news_score": 0.58,
     "news_title": "ITALY U21 WIN AS CAMARDA SCORES - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGZYWEhESVZNX1JMbGFiTzdINi12QXhHUndRd3haSDVHZnE2d3NCcjRfY1ZoSzRVd3Ryc3lmbm9Nd0hsa2p2bUZjY0g4SlZfNl9ydGx0ZnRFcm1FaUxUbGVvNTNKc00zZnc4SXdXMzVpN1Y2cVhXVXprNUZzRDZ4czAySQ?oc=5",
     "news_image": "",
@@ -19267,12 +19268,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.4,
+    "news_score": 1.39,
     "news_title": "Vietnamese intellectuals in Japan increase cooperation in science, technology, and innovation. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQk1NdTlZZHU0d192OF9uNGYtV0d5eWo2YnljWDE2cDl1Ti1nRWh0VTVpdXNBQTUxVTU4NmdsNmpLVGphaHdwaHEzaVJwS0d5ZTBubzVKVVVSUjR0emJOdjZBcGx6d0IzRXl1XzBLcWZITkFRaUNZRzRHbjlUelRQbkJqWXhHRzhoX3BJdnI2RVpFUHowNlZ0bkhQamgwd0dyNmtuZnZLQQ?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "31m ago",
+    "news_age": "33m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -27817,12 +27818,12 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 0.74,
+    "news_score": 0.75,
     "news_title": "How to watch Australia vs. New Zealand in the Rugby League World Cup final online for free - Mashable",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2RtSFFZM3BlWWZYbGVwU1loTFRSSnBVVURLUnJkeVhudTY0YjJVd1BhWm1rLTZucHptUmdxUjlUb2pHRWZlVGhYLWQyVG1PQTdILTVlM2wtallfRFFPeGt5bDZkTEhUdWh4OXVTQkRjVDI5QUN5bXVLcVdSOVItYmF0VVJGb3FiVkpTRFVtNkRkQU9td1VHY3pZYkYwUWVSZVRSQ1lYSUN2OFk?oc=5",
     "news_image": "",
     "news_source": "Mashable",
-    "news_age": "117m ago",
+    "news_age": "119m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -28470,12 +28471,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.85,
+    "news_score": 0.84,
     "news_title": "Nigeria set to host 450 African entrepreneurs to create 100 new companies - Legit News",
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcUpmbU9NMlgwUTFGV19IU1pLaW95Rk85SjJLOVdpMTBmRW96d0UzUXd1dmUxT1FCd3BjTWpoQ2VIZmZxUHgtRjZFTU50WHB6aFMzemx3QmVFZmM0OXpQZzZteURlcHowb01fSlhaZFV6RVNUUDk2ZE9QbFJ4dU9uSlZJNlR5RDlzTjlBSFdUUDcxZ0FVRExFUnlEamsySkRGakpTaWlUTGtPSEhEdVN6TWRYVW1FUS1PN2NLTXdSSzE2NFkyelFpbg?oc=5",
     "news_image": "",
     "news_source": "Legit News",
-    "news_age": "45m ago",
+    "news_age": "47m ago",
     "news_columns": [
       "debt",
       "gdp",
@@ -32129,7 +32130,7 @@
     "refugees_rank": null,
     "union_rate": 56.8,
     "union_rate_rank": null,
-    "news_score": 0.06,
+    "news_score": 0.1,
     "news_title": "WBSC U-23 Baseball World Cup 2026 presented by RAXUS: Game Report - Joan Delgado's walk-off single snatches victory for Venezuela over Puerto Rico - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcmpIZl9LT2QwU0lUYkxYZGJZWVZNNFRXUFQ2SktDeEhvaTJZZTFHeDVMenNyZkt3QXZkRHFMYmtyODJ6RDNpNkJFeGJ6b05XZ2N6dlZGMFdpenRKZDByT2tNRDgtenlJQ0RqYnhZRUhMVzk4d2lUaGZMTi1NWlRQdldvM3hLUU1tbHh4ZkFnXzNsYU5OUnoyc0tURlAyVUFaM1IwOTUwUjUtelB4bXZkLTVHb1NCX2hNS3c?oc=5",
     "news_image": "",
@@ -33136,14 +33137,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.18,
+    "news_score": 0.2,
     "news_title": "Europeans decide on thorny question of who will speak for bloc in Ukraine talks - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYnZWRTRleUVRbFBSU05GSWVvc0tDSGsxOTEwN0hqLXZEVUhpcXNxeGU4dXhlU0F0Q2xLUU1UeHdwYjJRWFVUOHE2YlBQZUFkYjVqWHdEazgzNTBlQXdJN0lEZ3FXU0pXZWhLNGUwSTYtcDU2aV9FUV83QURBQjdEOUZIN19kSlpSQzJTNWRQMU82SGI0RzdreUlrLTlXd3FFY0EzRWtMdEZUaF9mbmt5WTFmV1ZjUQ?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "8h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -35652,7 +35654,7 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.03,
     "news_title": "France hold nerve to edge past South Africa in thriller - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMUFFNWhJLVR5eTVPMFFKZzRxdVhUaC1vYWdtalhadXVoWnV6dEo2QVNZeXo4RVBmaFRta3R5Uzd2UUV2dHlwU2ROTDV2ZGxBWWtvUld2RlptLXZ0N0hMekxfLUtyaU5EUkxHbkRuS1R3NHlkcW1WMHhkeTFxVjNTbHRB?oc=5",
     "news_image": "",
@@ -39102,12 +39104,8 @@
     "news_source": "Nation Thailand",
     "news_age": "77h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "fifa_ranking",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -41255,19 +41253,15 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.24,
+    "news_score": 0.5,
     "news_title": "US Asked if Ukraine Would Exit Donbas for NATO, Zelensky Says - Kyiv Post",
     "news_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FbVNSTjA3SE9SRkVKQUg4Ukx0OGJ0SWdfVWZSMlN4b2ZfdGFERFM4V1NtRWxSekI2dmwtenJUWnR3MkJKRUN6QlMyZw?oc=5",
     "news_image": "",
     "news_source": "Kyiv Post",
     "news_age": "2h ago",
     "news_columns": [
-      "basket",
-      "olympic",
-      "nato",
-      "military_pct",
-      "gdp",
-      "ai_research"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -42536,8 +42530,9 @@
     "news_age": "15041h ago",
     "news_columns": [
       "fifa_ranking",
-      "basket",
-      "olympic"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43453,7 +43448,7 @@
     "union_rate": 56.6,
     "union_rate_rank": null,
     "fifa_w_rank": 40,
-    "news_score": 0.06,
+    "news_score": 0.1,
     "news_title": "WBSC U-23 Baseball World Cup 2026 presented by RAXUS: Game Report - Joan Delgado's walk-off single snatches victory for Venezuela over Puerto Rico - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcmpIZl9LT2QwU0lUYkxYZGJZWVZNNFRXUFQ2SktDeEhvaTJZZTFHeDVMenNyZkt3QXZkRHFMYmtyODJ6RDNpNkJFeGJ6b05XZ2N6dlZGMFdpenRKZDByT2tNRDgtenlJQ0RqYnhZRUhMVzk4d2lUaGZMTi1NWlRQdldvM3hLUU1tbHh4ZkFnXzNsYU5OUnoyc0tURlAyVUFaM1IwOTUwUjUtelB4bXZkLTVHb1NCX2hNS3c?oc=5",
     "news_image": "",
@@ -43738,12 +43733,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 1.01,
+    "news_score": 1.3,
     "news_title": "Vietnamese intellectuals in Japan increase cooperation in science, technology, and innovation. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQk1NdTlZZHU0d192OF9uNGYtV0d5eWo2YnljWDE2cDl1Ti1nRWh0VTVpdXNBQTUxVTU4NmdsNmpLVGphaHdwaHEzaVJwS0d5ZTBubzVKVVVSUjR0emJOdjZBcGx6d0IzRXl1XzBLcWZITkFRaUNZRzRHbjlUelRQbkJqWXhHRzhoX3BJdnI2RVpFUHowNlZ0bkhQamgwd0dyNmtuZnZLQQ?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "31m ago",
+    "news_age": "33m ago",
     "news_columns": [
       "fifa_ranking",
       "basket"
