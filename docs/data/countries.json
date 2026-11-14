@@ -2559,8 +2559,12 @@
     "news_source": "www.rba.gov.au",
     "news_age": "76819h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -8015,15 +8019,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.09,
-    "news_title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42UEI2dkxFV01OSy1NQkZLQmhkc01KaWFqcEwySVJNYUZOeDNSdko2T0JodkN1RU9LdFBMeGJ2SWhhZXdxMHVxNy1idnhqZ3FIODhKMlFlYUVCYWs?oc=5",
+    "news_score": 1.05,
+    "news_title": "Trump to have first trilateral meeting with Putin, Xi - The Washington Post",
+    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS0ZHZDFUVjNXc19jTzlIeWRBX0s4dmtIUG1jNGFwZFpCUTBEWEJTRW5tbnhDVTlEdDlwcnZNV0ctRWVLNnhaSUJvbDVlRzUyNmxWelF0aU5xOWV0SkJ5UkhHNTdmVTcyZ1plcWhhY0N2LW5zNUZFT3pVWXhzZkFidEM2bkk0aE8wUFRScg?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "58m ago",
+    "news_source": "The Washington Post",
+    "news_age": "60m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10942,7 +10945,7 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.58,
+    "news_score": 0.46,
     "news_title": "🚨 Mohamed Salah sets a legendary record for Egypt 👑 - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWURKVUFaWkZRRmVnamRMSGRZd1EzOElxZldMa1F3RHZ1RzlHZmVYWGMxLWtibXNfU2JsWFN1QVBuelRCMjJQa25wZDB6VW5Uc3ZiamJESXlvOUhrS0ZTUVpZSUhENHFIMy1VYlVHZmM2dmI2Rlcxb20tN1ZURTh5UFNJc2tnU3hMMVAzUw?oc=5",
     "news_image": "",
@@ -13030,15 +13033,16 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.35,
+    "news_score": 1.34,
     "news_title": "France awards Legion of Honor medal to 102-year-old Woodstock World War II veteran William Lyford - ABC7 Chicago",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSFhWd0dYdFhseDBMYWxtcHhXd0NBelhtclJKS0xsR2VGTWZEdGFhdVFwTkhSdWt4MHMxQ1dIWW1Vd2RJaU1DeDQ4RGRFYXNlVTZncGIwX0xpYVQtOWxGcHN0UHN5WENSZVVTcXJVZWdhc1FjQW9nbUxudVo4aUhHWUdfdl96MU9qVENCQmdqcFk0YkotUFAtV3F5OHk2UXlGY0FaMGV1VGQ1RG81clBEYXhRbWp4dXJkNTlNbnNjTVhOdXhXMWZXeDNn0gHPAUFVX3lxTFBBRUNobUlXOHgxUEtXZHVsWVdfVjBraUQ3SEZZNC1hd0Nndk45aFBleURuRnRRdWhqV3dJanF2WmxraEdEaDZLbDAzZEVDRG8tWU9aUGYta1JJNHplSThNZzI4WG9xY0VnU2xxS3Q3NldWOVVSMm1EVlRWaTVzaThKeEJ5SlJoMmdMU253SEJ4b1B1cUlkTTd0cWo0SVpCY0NRMkcwLWNEQ1c3c1BQZ0JpdmtsQjYyV2ppa3N2QXRSdkR4OWkzbHJkSkQ1S0tYdw?oc=5",
     "news_image": "",
     "news_source": "ABC7 Chicago",
-    "news_age": "103m ago",
+    "news_age": "105m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -16825,10 +16829,11 @@
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbWlIcGtxM2J4bFV2MnZCVWZNTnAtdUxkcjVYQkFndlFLN01YcXBhdm5QcXJwYXlzeHlqZ29OOUlvSEJPMlJxeWRRdTkxSk9URkRpeVRZNkJScG8zM2JLcmczMXdzUll2bXhHOFBWUTVZTEJxN1piMGdPRWwxN25RZlROWjVUQTNXWnFnbGhJc3FyeXNDZVlz?oc=5",
     "news_image": "",
     "news_source": "www.nationpathindia.com",
-    "news_age": "8h ago",
+    "news_age": "9h ago",
     "news_columns": [
+      "fifa_ranking",
       "fifa_w",
-      "fifa_ranking"
+      "olympic"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17392,7 +17397,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.31,
+    "news_score": 0.38,
     "news_title": "Rubio says further US military action is not needed against economically weakened Iran - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw?oc=5",
     "news_image": "",
@@ -18576,7 +18581,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbWlIcGtxM2J4bFV2MnZCVWZNTnAtdUxkcjVYQkFndlFLN01YcXBhdm5QcXJwYXlzeHlqZ29OOUlvSEJPMlJxeWRRdTkxSk9URkRpeVRZNkJScG8zM2JLcmczMXdzUll2bXhHOFBWUTVZTEJxN1piMGdPRWwxN25RZlROWjVUQTNXWnFnbGhJc3FyeXNDZVlz?oc=5",
     "news_image": "",
     "news_source": "www.nationpathindia.com",
-    "news_age": "8h ago",
+    "news_age": "9h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -19262,7 +19267,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.85,
+    "news_score": 0.84,
     "news_title": "Chinese Taipei@Japan - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWVoTk9UQUhZcVcycUxjbFFHYUtua1NqbHVUdGw0anA2REFnQTFWVGpFaWRlSjhmUHZneFdhUjhYWUdjWWIxbHQ1OVFDQXlKVGVPcVFnRHVUNFVNZ3BLSlBFY1J6cmo2a1l1Z1p4Y0Fpc0xlbUJha2EtVTZyMFJuclM2LTJ2NFJPOWxicFA5Wjh3cUZBWjBzeTdrYU51WHQyX3J1VUp5OUo?oc=5",
     "news_image": "",
@@ -24833,12 +24838,12 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.83,
+    "news_score": 0.77,
     "news_title": "After 26 years, the US has lost its measles elimination status - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWSzVyZHgxOG16NGU3a2o1NUpOMVhsVnV0LXh3aWJFZ3ZQN0dwVW03aGRWMjFEYW05OHFMLXczRmlEc2MwMlRSUWJ2UENrYm81bTFqV1JPSS1uRWVURW5zc0dKYWNhWjJxTk91czNsOUFmRzZubnc?oc=5",
     "news_image": "",
     "news_source": "CNN",
-    "news_age": "102m ago",
+    "news_age": "104m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -28003,7 +28008,7 @@
     "refugees_rank": null,
     "union_rate": 69.0,
     "union_rate_rank": null,
-    "news_score": 0.44,
+    "news_score": 0.43,
     "news_title": "Nicaragua@Great Britain - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOamloZmxncjFfQUs2Y2RqQVN4YnFraU1NU19HTzIwNVk3TnBQblEwNDZ6U1dodW5KdHphWFJJM1B4NHMzbkpiX3JkanE5MFFBN1ZMdTVqZlZyRndlU1NSQjNPeXpKWkRVeTBmN1ZhRFllVmRJZktsaE0teXM5RUN1d3VxNnpkRWVDa2Q5bnd5azhMSkVZdVpfNEoyZTcybUlnUEhkSnZBeXI?oc=5",
     "news_image": "",
@@ -28468,12 +28473,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.96,
+    "news_score": 0.95,
     "news_title": "Nigeria External Debt Hits $145bn Amid High Private Lending Costs - Head Topics",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZllVU0lYM0lMVk92WVY2RXFJUVJ5dW9nYTlYRk5RelFjY0ZweWxWUlJ5RDNwblZmYVRyek1zWjVDVjZ5M3FqWXllU2hkMzdiVlY4eTliV3E3T1RBNjBlb3U0U3o4SkhqRlpvNDFMa0N1RjRwVFZ4UFBuc3hTa0xFWWNaSVprOEtOeVM5ZWhYTm9KZDdOZHFtU2UwYjN5SlE?oc=5",
     "news_image": "",
     "news_source": "Head Topics",
-    "news_age": "109m ago",
+    "news_age": "111m ago",
     "news_columns": [
       "debt",
       "gdp",
@@ -33138,15 +33143,14 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.2,
-    "news_title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42UEI2dkxFV01OSy1NQkZLQmhkc01KaWFqcEwySVJNYUZOeDNSdko2T0JodkN1RU9LdFBMeGJ2SWhhZXdxMHVxNy1idnhqZ3FIODhKMlFlYUVCYWs?oc=5",
+    "news_score": 1.13,
+    "news_title": "Trump to have first trilateral meeting with Putin, Xi - The Washington Post",
+    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS0ZHZDFUVjNXc19jTzlIeWRBX0s4dmtIUG1jNGFwZFpCUTBEWEJTRW5tbnhDVTlEdDlwcnZNV0ctRWVLNnhaSUJvbDVlRzUyNmxWelF0aU5xOWV0SkJ5UkhHNTdmVTcyZ1plcWhhY0N2LW5zNUZFT3pVWXhzZkFidEM2bkk0aE8wUFRScg?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "58m ago",
+    "news_source": "The Washington Post",
+    "news_age": "60m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "fifa_ranking"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -35655,7 +35659,7 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.39,
+    "news_score": 0.38,
     "news_title": "France hold nerve to edge past South Africa in thriller - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMUFFNWhJLVR5eTVPMFFKZzRxdVhUaC1vYWdtalhadXVoWnV6dEo2QVNZeXo4RVBmaFRta3R5Uzd2UUV2dHlwU2ROTDV2ZGxBWWtvUld2RlptLXZ0N0hMekxfLUtyaU5EUkxHbkRuS1R3NHlkcW1WMHhkeTFxVjNTbHRB?oc=5",
     "news_image": "",
@@ -35663,7 +35667,8 @@
     "news_age": "4h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 1.2,
     "bottom50_wealth_rank": 29
@@ -41253,7 +41258,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.05,
+    "news_score": 0.0,
     "news_title": "Europe and Ukraine get a boost in peace talks, but Putin is playing for time - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcUF0RjZSUldra2R2TVp6OUg4YmFBRDdHMHYtMnpwNk9MelhKdU92NUtMaC1heV9GYnotUEZvWHdqLXVQejV2bnpScUlTaGlCbU5vU0ozX3pOWENTVGdDaVNoNGRGVzBSbFM3X25GcURsWFBjVFJkLWVxNjJJVkh0NlpJaFFHcnJhMTVNdnJR?oc=5",
     "news_image": "",
@@ -42530,9 +42535,8 @@
     "news_age": "15033h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "basket",
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
