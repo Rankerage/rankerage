@@ -2867,14 +2867,15 @@
     "refugees_rank": null,
     "union_rate": 77.9,
     "union_rate_rank": null,
-    "news_score": 0.23,
+    "news_score": 0.29,
     "news_title": "ESLC Day 13: Brick wall Kriz sends Austria into the playoffs - World Lacrosse",
     "news_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44ZjFZdF9WTHE2TDdNVHdEN3Z6a0xrdGR4Y1ZfcmhNalY2dGtuX3RvNWxUNGdvWXdkbmx6UTFpYU9Wd0tFcjlQRDBScTlHNkktaVNxYw?oc=5",
     "news_image": "",
     "news_source": "World Lacrosse",
     "news_age": "3h ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_w"
     ],
     "bottom50_wealth": 2.3,
     "bottom50_wealth_rank": 23
@@ -8024,7 +8025,8 @@
     "news_source": "AP News",
     "news_age": "5h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13033,7 +13035,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.59,
+    "news_score": 0.58,
     "news_title": "Who are the 'street medics' showing up at protests around the world? - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbENFTDZRRVFwbkxfcTdRclU0dTd3RXlWWHBJSjF2bHdWUFZhLTFXUVpUSEV3RUI2Q2FRd2VwNEcwcnNaMFFDUEhCU0Q2Z0l6a0s2MjBzN285dFdRLVdSWkw2a0JHWmEtMDNLNmJTbGhYTUNNWjRlR25wa2ZFcnlpaV9ZdEJFS1BxTExYdVJsdjhRQVBjRzJEQw?oc=5",
     "news_image": "",
@@ -16390,12 +16392,12 @@
     "refugees": null,
     "refugees_rank": null,
     "fifa_ranking_rank": 70,
-    "news_score": 0.78,
+    "news_score": 0.77,
     "news_title": "Rovers striker Gudjohnsen scores hat-trick for Iceland - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkhxcEtsUUtLTEJCelpCWTdzWFNLVk93WlR6NkFQeHEweDgwc2dRWTZranVncDdTd3lWeFJJVmlZR3dfOFFnYkZvX0ZjVkcwdWFHNFc1TUZWbndrTDEwSGFHVFVnN25JS3ItbHZ1b21JNVRHMGdfbGdSb1Z4aGtvaUR0UzQ3NXN3bVpxb3pn?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "61m ago",
+    "news_age": "63m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -16829,12 +16831,12 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.66,
+    "news_score": 0.7,
     "news_title": "India: Delhi surpasses Lahore as world's most polluted city - DW.com",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNFpjSkU5QkR3bFpwclRRQ1NFSnBwM1JxUXh4Wm94TkhhM0pSUHBpQWNPamowWktydzhwQ2FQRHYtNzM1bTIzQTVsbUxUamIyMUw2Ym9rMFZ5dllPSkxnb0tsRjVCekJCWUJHVC1zSHR4dEtVOTBNak5qSVRpMExSZ3l1dHVIVWFkRGZORzNCWFMwWEU1WWgteQ?oc=5",
     "news_image": "",
     "news_source": "DW.com",
-    "news_age": "49m ago",
+    "news_age": "51m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -17886,7 +17888,8 @@
     "news_source": "Afloat",
     "news_age": "15h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 2.7,
     "bottom50_wealth_rank": 20
@@ -19261,7 +19264,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.92,
+    "news_score": 0.91,
     "news_title": "Vietnamese intellectuals in Japan increase cooperation in science, technology, and innovation. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQk1NdTlZZHU0d192OF9uNGYtV0d5eWo2YnljWDE2cDl1Ti1nRWh0VTVpdXNBQTUxVTU4NmdsNmpLVGphaHdwaHEzaVJwS0d5ZTBubzVKVVVSUjR0emJOdjZBcGx6d0IzRXl1XzBLcWZITkFRaUNZRzRHbjlUelRQbkJqWXhHRzhoX3BJdnI2RVpFUHowNlZ0bkhQamgwd0dyNmtuZnZLQQ?oc=5",
     "news_image": "",
@@ -27808,7 +27811,7 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 0.39,
+    "news_score": 0.38,
     "news_title": "How to watch Australia vs. New Zealand in the Rugby League World Cup final online for free - Mashable",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2RtSFFZM3BlWWZYbGVwU1loTFRSSnBVVURLUnJkeVhudTY0YjJVd1BhWm1rLTZucHptUmdxUjlUb2pHRWZlVGhYLWQyVG1PQTdILTVlM2wtallfRFFPeGt5bDZkTEhUdWh4OXVTQkRjVDI5QUN5bXVLcVdSOVItYmF0VVJGb3FiVkpTRFVtNkRkQU9td1VHY3pZYkYwUWVSZVRSQ1lYSUN2OFk?oc=5",
     "news_image": "",
@@ -33134,7 +33137,8 @@
     "news_source": "AP News",
     "news_age": "5h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -38009,7 +38013,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOTEyM3ZJYW5TTHBMYy03T2hUd1pjRGNLUjZjTktObG93OUhMRm9FVExQOEl0ZXZ4aG5EMnhVWWZhZXZsUlhmd2lyb2dKc0RsejNKajg1YmhsM1hSRUFGeUJlaElBZTI5ak9mWlR5YndkMm9WdUhBMTNZek14MEJjTW1HTTlSZi04Wk1MbExxRi1SWHc?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -41247,19 +41251,15 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.59,
+    "news_score": 0.83,
     "news_title": "US floats Nato membership for Donbas withdrawal deal, Zelenskyy says - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNi1IdTRFRXk4dnlyWE9ycGhxcHVNVjNSU1VBendhRjdFSHNYcVM5d0wwUGN3VUktaTM2b2R2UVIxZ3NMbjcybDlsa3llTGNUOFgzOVllMjg5UW9Db2FmQzB4QUJEcS1RODdNU3JhTy04QlJwY0duelNBTTdROEJMQTcyaTQ?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
     "news_age": "2h ago",
     "news_columns": [
-      "basket",
-      "olympic",
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -42527,9 +42527,10 @@
     "news_source": "City of Toronto",
     "news_age": "15043h ago",
     "news_columns": [
-      "basket",
       "fifa_ranking",
-      "olympic"
+      "basket",
+      "olympic",
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
