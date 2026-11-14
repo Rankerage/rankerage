@@ -8019,7 +8019,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.6,
+    "news_score": 0.56,
     "news_title": "Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ear on China - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNV83TGNqLXB1TGRFV1otMFAwS3poMGY4dHp6V05vWllwcmJ0SGN1QkxXdHpob3czaXJSLW1jcjkta1FpRFR1emR3SVZtWWlUclVIWDlFODZHRDFabzcxR2JfamFhU3VxTnVRNG16Z0F2Y09wRUU0ZmxRazVwTDVSV0V2dlFNNm1WazBoUXg2U1kxM1p0Ym5NSmREU1htSDk2SF9jR2hSTXFYLU85ZHFnaW5YMzY?oc=5",
     "news_image": "",
@@ -8027,7 +8027,8 @@
     "news_age": "4h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13036,19 +13037,17 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.11,
-    "news_title": "France awards Legion of Honor medal to 102-year-old Woodstock World War II veteran William Lyford - ABC7 Chicago",
-    "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSFhWd0dYdFhseDBMYWxtcHhXd0NBelhtclJKS0xsR2VGTWZEdGFhdVFwTkhSdWt4MHMxQ1dIWW1Vd2RJaU1DeDQ4RGRFYXNlVTZncGIwX0xpYVQtOWxGcHN0UHN5WENSZVVTcXJVZWdhc1FjQW9nbUxudVo4aUhHWUdfdl96MU9qVENCQmdqcFk0YkotUFAtV3F5OHk2UXlGY0FaMGV1VGQ1RG81clBEYXhRbWp4dXJkNTlNbnNjTVhOdXhXMWZXeDNn0gHPAUFVX3lxTFBBRUNobUlXOHgxUEtXZHVsWVdfVjBraUQ3SEZZNC1hd0Nndk45aFBleURuRnRRdWhqV3dJanF2WmxraEdEaDZLbDAzZEVDRG8tWU9aUGYta1JJNHplSThNZzI4WG9xY0VnU2xxS3Q3NldWOVVSMm1EVlRWaTVzaThKeEJ5SlJoMmdMU253SEJ4b1B1cUlkTTd0cWo0SVpCY0NRMkcwLWNEQ1c3c1BQZ0JpdmtsQjYyV2ppa3N2QXRSdkR4OWkzbHJkSkQ1S0tYdw?oc=5",
+    "news_score": 0.38,
+    "news_title": "South Africa win hands France World Cup 'cornerstone' - France 24",
+    "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTG8ycDFXVTNNV2hKNkhXM2ZqTjhpSm1ycXRJai1oVkdsMUNqTUlEemRveHBITnhSTEtMQXJoVUZDR192OE91YVF4UWNzRWg0dXM1YjhFelQtOFZHT1l0S0x6WV90azFTa1JDWG9qQ3VRNzBEeGZxZW5Cc095ZHZzY25IUW9MYzBGeHZoekdBRzNrTnZsR2EwV0pfbzdYbjg?oc=5",
     "news_image": "",
-    "news_source": "ABC7 Chicago",
-    "news_age": "8h ago",
+    "news_source": "France 24",
+    "news_age": "8m ago",
     "news_columns": [
-      "olympic",
-      "olympic_gold",
-      "olympic_per_cap",
       "fifa_ranking",
-      "gdp",
-      "gdp_per_capita"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13570,12 +13569,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.63,
+    "news_score": 0.62,
     "news_title": "Georgia’s Kirby Smart Makes Explosive Claim About The SEC - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLURDUWdSeXhIcDNVV0FWVG1MdTFTT195T3o5NEVVeFQ1QjAtTHpxRlllR0FQbGNUX2FWeVE0TUFCMkgxYW1MdGZma1l6b005LTdUNWMtNktFV0Z5dWh2QTk5U0hMX2dycnpCcWhXdVdjZGFpZ1BHTlhvQTJCVklBcEVBTTc1Q3VnNmp2QQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "118m ago",
+    "news_age": "2h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -16833,12 +16832,12 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.57,
+    "news_score": 0.45,
     "news_title": "India: Delhi surpasses Lahore as world's most polluted city - DW.com",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNFpjSkU5QkR3bFpwclRRQ1NFSnBwM1JxUXh4Wm94TkhhM0pSUHBpQWNPamowWktydzhwQ2FQRHYtNzM1bTIzQTVsbUxUamIyMUw2Ym9rMFZ5dllPSkxnb0tsRjVCekJCWUJHVC1zSHR4dEtVOTBNak5qSVRpMExSZ3l1dHVIVWFkRGZORzNCWFMwWEU1WWgteQ?oc=5",
     "news_image": "",
     "news_source": "DW.com",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -17883,7 +17882,7 @@
     "refugees_rank": null,
     "union_rate": 77.2,
     "union_rate_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.03,
     "news_title": "EMFAF Annual Webinar 2026 Explores How Science, Technology and Innovation Are Securing Sustainable Future of Ireland’s Marine Resources - Afloat",
     "news_url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOTHQyWEhQMURRZWNtOVBqMnZpbHpjYmQtUzMyVFE0aUs2ekx6NENYZVloT3g0cXA0aVBtZ2V1SVNXQ25oNFNwZ01SdF9PLUhtemcwQUgtU3R4X0FBanJxQzQtRDIyWDhGQm5sc1MzRTdVTldFTWlUdDR1YzhoZHdDMWo3a0VYVWt6M3E4Y1gxR0JVMHFZNGR1akZva1VJWTJUdXI5aTlzOFJoNGNoUERNUlRTZjV1QXJ5cFUzWm0zLThIaEpLUzZwX1hua1RvT0s3bW5fbWJ3bFNBaFRJaS1GSFZfb2lIaGxjUlB6SmhRUENFQmZPTF9odC1nVFY4VW9CeVh2U0x6c29IUXJsaWhNMjRlaDBrSGRVeUotTXFQZUQ0ek0?oc=5",
     "news_image": "",
@@ -18141,7 +18140,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.19,
+    "news_score": 0.2,
     "news_title": "How the Microsoft outage impacted courts and governments - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yUnhQZ1hSOVFGajVoZXJDcE1TbWhCa2RJU0ExblA5WElCZVczWnh0VlpBdXljcnlDM2cxZWh1dW50ZXQ1M3pTWE4tamZGMWk2X2VXZmVETC1pd1M0WDBYQXo2Ri16QlVrVnFMdjBpamUxdVdaNWVLMjhn?oc=5",
     "news_image": "",
@@ -19274,7 +19273,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRTAwY1pTczhZVmNBMjc0ZWt1Sk9pdGl5bkVlZzNfcHV5RzZDdGtCUkRFN1I5WGo5TzBlbDZHaHk3R0Y1clhFdEY3VEwwallsUlpqWERGVTd5b0Z0b3ZKd195T1FwMHNDNmwzREQ3VnlRNXBjcUFWWE9ibjFIaVZPWFdR?oc=5",
     "news_image": "",
     "news_source": "The Japan Times",
-    "news_age": "106m ago",
+    "news_age": "108m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -32343,7 +32342,7 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.06,
+    "news_score": 0.05,
     "news_title": "Traveller letters: Qatar Airways economy woes, Qantas business-class meals and travel tips - SSBCrack",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbU51ZzJoNnVGVmtvd190eFVndHlkcHJ1TVJHbE1sUDlNWG9HSTZJbl96QzRKUWttOTRiaHRZSHpLLVNKZTktaENIUTUxOTR1dDJNV2tJQlZQSWZyZzVYZDNNeUFMTGhRT2txTmFUb2dVTVdNcEp0SjhqSGRyMEFiM2xVYkh6NEdLbVFPVmRFWFVPSmFwZVJLVVVYaXJHUS0wX2xNN2VwclMwMmsteDh3VGpITjVEQQ?oc=5",
     "news_image": "",
@@ -33141,7 +33140,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.36,
+    "news_score": 0.33,
     "news_title": "Europeans decide on thorny question of who will speak for bloc in Ukraine talks - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYnZWRTRleUVRbFBSU05GSWVvc0tDSGsxOTEwN0hqLXZEVUhpcXNxeGU4dXhlU0F0Q2xLUU1UeHdwYjJRWFVUOHE2YlBQZUFkYjVqWHdEazgzNTBlQXdJN0lEZ3FXU0pXZWhLNGUwSTYtcDU2aV9FUV83QURBQjdEOUZIN19kSlpSQzJTNWRQMU82SGI0RzdreUlrLTlXd3FFY0EzRWtMdEZUaF9mbmt5WTFmV1ZjUQ?oc=5",
     "news_image": "",
@@ -33149,7 +33148,8 @@
     "news_age": "6h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -35658,12 +35658,12 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.19,
-    "news_title": "South Africa@Czechia - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
-    "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV09ZTUtuTzhpVVhoRXRjSFVZTHBSQUxNSzlVUEI0bUV5QlY2MWlKU0tWdlduLXllVmhkRVRBX2lvRHBScHQ2Zk5SLTV4OWdxMThId0FEUEVDS0NwcW1hM1RGdFkyYTJBcGZtUG1hdkdDWXB0UExnY0hiSE9HVFpvRTByN01tTktIS0VVbU1CWHQ4dVMwd0NHNXpIbXRZZFpHSnpZRjdWX28?oc=5",
+    "news_score": 0.45,
+    "news_title": "South Africa win hands France World Cup 'cornerstone' - France 24",
+    "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTG8ycDFXVTNNV2hKNkhXM2ZqTjhpSm1ycXRJai1oVkdsMUNqTUlEemRveHBITnhSTEtMQXJoVUZDR192OE91YVF4UWNzRWg0dXM1YjhFelQtOFZHT1l0S0x6WV90azFTa1JDWG9qQ3VRNzBEeGZxZW5Cc095ZHZzY25IUW9MYzBGeHZoekdBRzNrTnZsR2EwV0pfbzdYbjg?oc=5",
     "news_image": "",
-    "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "6h ago",
+    "news_source": "France 24",
+    "news_age": "8m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -41264,19 +41264,16 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.16,
+    "news_score": 0.2,
     "news_title": "Europeans decide on thorny question of who will speak for bloc in Ukraine talks - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYnZWRTRleUVRbFBSU05GSWVvc0tDSGsxOTEwN0hqLXZEVUhpcXNxeGU4dXhlU0F0Q2xLUU1UeHdwYjJRWFVUOHE2YlBQZUFkYjVqWHdEazgzNTBlQXdJN0lEZ3FXU0pXZWhLNGUwSTYtcDU2aV9FUV83QURBQjdEOUZIN19kSlpSQzJTNWRQMU82SGI0RzdreUlrLTlXd3FFY0EzRWtMdEZUaF9mbmt5WTFmV1ZjUQ?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "6h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "coffee"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -42544,10 +42541,10 @@
     "news_source": "City of Toronto",
     "news_age": "15039h ago",
     "news_columns": [
-      "basket",
       "fifa_ranking",
-      "olympic",
-      "fifa_w"
+      "fifa_w",
+      "basket",
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43750,7 +43747,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.41,
+    "news_score": 0.4,
     "news_title": "The Minister of Science and Technology explains 'What core technologies has Vietnam mastered?' - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOakh1NTNRT1J3YnpnQnRQMUtHN3ozREdoYTVJZ05iQUlPNjR5MjZpcWNDdzJ5ak12LUJqYWFienhacGNDYWtnUjdZODk4N01JVnBHcmhIWDUzcTE2TDJaQ1Y1OEdRMlFaSTR1N1hCUEpBUnNITXNJdkM3NmFSSkJBVDd5WXh5R19ncDVQTFBnbzFpSmNaazJnRUJhN2kyb3g2QWVEYQ?oc=5",
     "news_image": "",
