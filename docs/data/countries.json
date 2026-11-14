@@ -1927,7 +1927,7 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.02,
+    "news_score": 0.03,
     "news_title": "Huge crowds and low vaccination rates raise measles alarms as Pope Leo XIV visits South America - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOejU1WlA1TVEtUUMwTVd1Zmw1RGhkVmFXM3p0QUxSZDZINExaSWpOc1Z1dDJ4OER2Q19LTVdqT0ZKQ1FyTXJNdnptMURsOGhsOXM4clJhVjVQazFLNS1TTXppLV8yRXZQM2xPMEpOdGNVYzF4Vi15YkluSkt1dDRMNk1xZ1lMTzF5V1VlLWh3VmkxLXpXQzZNa29wTGw3VUJVMTloekpB?oc=5",
     "news_image": "",
@@ -2868,7 +2868,7 @@
     "refugees_rank": null,
     "union_rate": 77.9,
     "union_rate_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.32,
     "news_title": "ESLC Day 13: Brick wall Kriz sends Austria into the playoffs - World Lacrosse",
     "news_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44ZjFZdF9WTHE2TDdNVHdEN3Z6a0xrdGR4Y1ZfcmhNalY2dGtuX3RvNWxUNGdvWXdkbmx6UTFpYU9Wd0tFcjlQRDBScTlHNkktaVNxYw?oc=5",
     "news_image": "",
@@ -8026,8 +8026,7 @@
     "news_source": "Reuters",
     "news_age": "2h ago",
     "news_columns": [
-      "geopolitics",
-      "conflict"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13036,7 +13035,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.52,
+    "news_score": 0.51,
     "news_title": "Who are the 'street medics' showing up at protests around the world? - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbENFTDZRRVFwbkxfcTdRclU0dTd3RXlWWHBJSjF2bHdWUFZhLTFXUVpUSEV3RUI2Q2FRd2VwNEcwcnNaMFFDUEhCU0Q2Z0l6a0s2MjBzN285dFdRLVdSWkw2a0JHWmEtMDNLNmJTbGhYTUNNWjRlR25wa2ZFcnlpaV9ZdEJFS1BxTExYdVJsdjhRQVBjRzJEQw?oc=5",
     "news_image": "",
@@ -14072,15 +14071,14 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.15,
+    "news_score": 1.19,
     "news_title": "Skiing-Germany's Aicher powers to first World Cup slalom victory in Levi - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1VUQ2hTLU0wVWJ2Um9mcF9iVXRZMklCYlhneklQdGZUejNxSXRNX1hCcy1MUEI0UlRkUUZFRzFGeTdaSmdnYU52RzFKZ3JKMDYzdjhPZGc5Q0hBVTBIaW1yc1ZEcTU5LTJXMTQ2NUFoTlNRRUFXcDltTktGdU5sT1VyakZ4b05sMGFDRWhMaFUtQk1vSmtfcE9ialY1RVluOUgyZTZhQkdPOWFI?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "24m ago",
+    "news_age": "26m ago",
     "news_columns": [
-      "alpine_skiing",
-      "world_cup"
+      "olympic"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16394,7 +16392,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkhxcEtsUUtLTEJCelpCWTdzWFNLVk93WlR6NkFQeHEweDgwc2dRWTZranVncDdTd3lWeFJJVmlZR3dfOFFnYkZvX0ZjVkcwdWFHNFc1TUZWbndrTDEwSGFHVFVnN25JS3ItbHZ1b21JNVRHMGdfbGdSb1Z4aGtvaUR0UzQ3NXN3bVpxb3pn?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "87m ago",
+    "news_age": "89m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -16828,12 +16826,12 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.23,
+    "news_score": 0.38,
     "news_title": "India: Delhi surpasses Lahore as world's most polluted city - DW.com",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNFpjSkU5QkR3bFpwclRRQ1NFSnBwM1JxUXh4Wm94TkhhM0pSUHBpQWNPamowWktydzhwQ2FQRHYtNzM1bTIzQTVsbUxUamIyMUw2Ym9rMFZ5dllPSkxnb0tsRjVCekJCWUJHVC1zSHR4dEtVOTBNak5qSVRpMExSZ3l1dHVIVWFkRGZORzNCWFMwWEU1WWgteQ?oc=5",
     "news_image": "",
     "news_source": "DW.com",
-    "news_age": "6h ago",
+    "news_age": "77m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -17399,15 +17397,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.15,
+    "news_score": 1.17,
     "news_title": "Live Updates: 3 oil tankers hit mines in Strait of Hormuz, Iran says - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "31m ago",
+    "news_age": "33m ago",
     "news_columns": [
-      "energy_security",
-      "maritime_risk"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -17873,15 +17870,18 @@
     "refugees_rank": null,
     "union_rate": 77.2,
     "union_rate_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.02,
     "news_title": "EMFAF Annual Webinar 2026 Explores How Science, Technology and Innovation Are Securing Sustainable Future of Ireland’s Marine Resources - Afloat",
     "news_url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOTHQyWEhQMURRZWNtOVBqMnZpbHpjYmQtUzMyVFE0aUs2ekx6NENYZVloT3g0cXA0aVBtZ2V1SVNXQ25oNFNwZ01SdF9PLUhtemcwQUgtU3R4X0FBanJxQzQtRDIyWDhGQm5sc1MzRTdVTldFTWlUdDR1YzhoZHdDMWo3a0VYVWt6M3E4Y1gxR0JVMHFZNGR1akZva1VJWTJUdXI5aTlzOFJoNGNoUERNUlRTZjV1QXJ5cFUzWm0zLThIaEpLUzZwX1hua1RvT0s3bW5fbWJ3bFNBaFRJaS1GSFZfb2lIaGxjUlB6SmhRUENFQmZPTF9odC1nVFY4VW9CeVh2U0x6c29IUXJsaWhNMjRlaDBrSGRVeUotTXFQZUQ0ek0?oc=5",
     "news_image": "",
     "news_source": "Afloat",
     "news_age": "16h ago",
     "news_columns": [
-      "golf",
-      "dp_world_tour"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 2.7,
     "bottom50_wealth_rank": 20
@@ -19256,7 +19256,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.82,
+    "news_score": 0.81,
     "news_title": "Vietnamese intellectuals in Japan increase cooperation in science, technology, and innovation. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQk1NdTlZZHU0d192OF9uNGYtV0d5eWo2YnljWDE2cDl1Ti1nRWh0VTVpdXNBQTUxVTU4NmdsNmpLVGphaHdwaHEzaVJwS0d5ZTBubzVKVVVSUjR0emJOdjZBcGx6d0IzRXl1XzBLcWZITkFRaUNZRzRHbjlUelRQbkJqWXhHRzhoX3BJdnI2RVpFUHowNlZ0bkhQamgwd0dyNmtuZnZLQQ?oc=5",
     "news_image": "",
@@ -27803,7 +27803,7 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 0.35,
+    "news_score": 0.34,
     "news_title": "How to watch Australia vs. New Zealand in the Rugby League World Cup final online for free - Mashable",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2RtSFFZM3BlWWZYbGVwU1loTFRSSnBVVURLUnJkeVhudTY0YjJVd1BhWm1rLTZucHptUmdxUjlUb2pHRWZlVGhYLWQyVG1PQTdILTVlM2wtallfRFFPeGt5bDZkTEhUdWh4OXVTQkRjVDI5QUN5bXVLcVdSOVItYmF0VVJGb3FiVkpTRFVtNkRkQU9td1VHY3pZYkYwUWVSZVRSQ1lYSUN2OFk?oc=5",
     "news_image": "",
@@ -31091,12 +31091,12 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.69,
+    "news_score": 0.74,
     "news_title": "Pope’s visit to hub of Afro-Peruvian community casts spotlight on African slave trade to Peru - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbldQc0RVYVEyM2ozT01IUE1MUENQZl9sdXJDQVhZUUdUbEpEZHFwVVVDLUVKS2ZTQld4QUM1UVc1dWZwNG56WVQ0X3VENnVKTmtJLXZIUlkweUZHU1R4OXJTY0R4RmVadmozLWltdEVFMlh3VGlUM0V6U293Sk9mWjBwbWNLS25yVC1KZlRUbWEyOTk5dEFpRHd2WUw?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "37m ago",
+    "news_age": "39m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -33129,8 +33129,7 @@
     "news_source": "Reuters",
     "news_age": "2h ago",
     "news_columns": [
-      "geopolitics",
-      "conflict"
+      "fifa_ranking"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -41247,8 +41246,7 @@
     "news_source": "Financial Times",
     "news_age": "2h ago",
     "news_columns": [
-      "geopolitics",
-      "conflict"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -42516,14 +42514,10 @@
     "news_source": "City of Toronto",
     "news_age": "15044h ago",
     "news_columns": [
-      "energy_security",
-      "maritime_risk",
-      "air_travel",
-      "event_disruption",
-      "geopolitics",
-      "conflict",
-      "alpine_skiing",
-      "world_cup"
+      "fifa_ranking",
+      "golf",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43724,12 +43718,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 1.12,
+    "news_score": 1.16,
     "news_title": "The Ministry of Science and Technology reviews legal documents and removes institutional obstacles. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS3RBdmZDeDFJeHJUNE94ellOMERpN1FiRDZmUWhMUXFBeXNtenZjaDk4ODE4TkNNQ1VIdzkwVTM0M1hIWTFwY2d6VDNzT0dxOXUyb0JvNjRIVkhYd2VPZXRFMWdnZXUyZjBUWkdpRTFIcmtBLTZnSW4yZVllaEpIalRQLUJtSHd5czBaaVA2aC1qZUlPdGQtblotdw?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "8m ago",
+    "news_age": "10m ago",
     "news_columns": [
       "car_density",
       "gas_price",
