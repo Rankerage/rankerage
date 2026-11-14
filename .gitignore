@@ -16,3 +16,6 @@ __pycache__/
 /scripts/translate.py
 /public/data/countries2.json
 .env
+
+docs/data/*.py
+docs/data/telegram_post.txt
