@@ -2552,7 +2552,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.58,
+    "news_score": 0.61,
     "news_title": "Warner accuses Cricket Australia of 'cover-up' - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaV8zcllKNEt5a2Q3THFoSFd3UnNMcURabXFvbnl2bFRwZnR2UG5hNWMwZ2JKQllRT2laUFRyeHNER3dGT2dKVTByQXd1bUtDQXdHOS1jZ0pKUHJTMVBNTWdwak1PeGhxRmhUWUhxVEZLVWUtX2o4c29qdG5PdkQ0dXM5aFJLNEhPXzltSnUyX28?oc=5",
     "news_image": "",
@@ -8019,14 +8019,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.7,
     "news_title": "Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ear on China - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNV83TGNqLXB1TGRFV1otMFAwS3poMGY4dHp6V05vWllwcmJ0SGN1QkxXdHpob3czaXJSLW1jcjkta1FpRFR1emR3SVZtWWlUclVIWDlFODZHRDFabzcxR2JfamFhU3VxTnVRNG16Z0F2Y09wRUU0ZmxRazVwTDVSV0V2dlFNNm1WazBoUXg2U1kxM1p0Ym5NSmREU1htSDk2SF9jR2hSTXFYLU85ZHFnaW5YMzY?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "3h ago",
+    "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13569,12 +13570,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.65,
+    "news_score": 0.64,
     "news_title": "Georgia’s Kirby Smart Makes Explosive Claim About The SEC - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLURDUWdSeXhIcDNVV0FWVG1MdTFTT195T3o5NEVVeFQ1QjAtTHpxRlllR0FQbGNUX2FWeVE0TUFCMkgxYW1MdGZma1l6b005LTdUNWMtNktFV0Z5dWh2QTk5U0hMX2dycnpCcWhXdVdjZGFpZ1BHTlhvQTJCVklBcEVBTTc1Q3VnNmp2QQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "102m ago",
+    "news_age": "104m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -16839,7 +16840,8 @@
     "news_source": "DW.com",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17404,11 +17406,11 @@
     "union_rate_rank": null,
     "fifa_w_rank": 55,
     "news_score": 0.18,
-    "news_title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42UEI2dkxFV01OSy1NQkZLQmhkc01KaWFqcEwySVJNYUZOeDNSdko2T0JodkN1RU9LdFBMeGJ2SWhhZXdxMHVxNy1idnhqZ3FIODhKMlFlYUVCYWs?oc=5",
+    "news_title": "Trump to have first trilateral meeting with Putin, Xi - The Washington Post",
+    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS0ZHZDFUVjNXc19jTzlIeWRBX0s4dmtIUG1jNGFwZFpCUTBEWEJTRW5tbnhDVTlEdDlwcnZNV0ctRWVLNnhaSUJvbDVlRzUyNmxWelF0aU5xOWV0SkJ5UkhHNTdmVTcyZ1plcWhhY0N2LW5zNUZFT3pVWXhzZkFidEM2bkk0aE8wUFRScg?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "6h ago",
+    "news_source": "The Washington Post",
+    "news_age": "5h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -19267,12 +19269,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.84,
+    "news_score": 0.83,
     "news_title": "Microsoft says services fully restored after outage roiled world - The Japan Times",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRTAwY1pTczhZVmNBMjc0ZWt1Sk9pdGl5bkVlZzNfcHV5RzZDdGtCUkRFN1I5WGo5TzBlbDZHaHk3R0Y1clhFdEY3VEwwallsUlpqWERGVTd5b0Z0b3ZKd195T1FwMHNDNmwzREQ3VnlRNXBjcUFWWE9ibjFIaVZPWFdR?oc=5",
     "news_image": "",
     "news_source": "The Japan Times",
-    "news_age": "90m ago",
+    "news_age": "92m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -28004,7 +28006,7 @@
     "refugees_rank": null,
     "union_rate": 69.0,
     "union_rate_rank": null,
-    "news_score": 0.22,
+    "news_score": 0.21,
     "news_title": "WBSC U-23 Baseball World Cup 2026 presented by RAXUS: Game Report 40 - Nicaragua-Great Britain - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOamloZmxncjFfQUs2Y2RqQVN4YnFraU1NU19HTzIwNVk3TnBQblEwNDZ6U1dodW5KdHphWFJJM1B4NHMzbkpiX3JkanE5MFFBN1ZMdTVqZlZyRndlU1NSQjNPeXpKWkRVeTBmN1ZhRFllVmRJZktsaE0teXM5RUN1d3VxNnpkRWVDa2Q5bnd5azhMSkVZdVpfNEoyZTcybUlnUEhkSnZBeXI?oc=5",
     "news_image": "",
@@ -32341,7 +32343,7 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.12,
+    "news_score": 0.1,
     "news_title": "Traveller letters: Qatar Airways economy woes, Qantas business-class meals and travel tips - SSBCrack",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbU51ZzJoNnVGVmtvd190eFVndHlkcHJ1TVJHbE1sUDlNWG9HSTZJbl96QzRKUWttOTRiaHRZSHpLLVNKZTktaENIUTUxOTR1dDJNV2tJQlZQSWZyZzVYZDNNeUFMTGhRT2txTmFUb2dVTVdNcEp0SjhqSGRyMEFiM2xVYkh6NEdLbVFPVmRFWFVPSmFwZVJLVVVYaXJHUS0wX2xNN2VwclMwMmsteDh3VGpITjVEQQ?oc=5",
     "news_image": "",
@@ -33139,14 +33141,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.38,
-    "news_title": "Europeans decide on thorny question of who will speak for bloc in Ukraine talks - The Washington Post",
-    "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYnZWRTRleUVRbFBSU05GSWVvc0tDSGsxOTEwN0hqLXZEVUhpcXNxeGU4dXhlU0F0Q2xLUU1UeHdwYjJRWFVUOHE2YlBQZUFkYjVqWHdEazgzNTBlQXdJN0lEZ3FXU0pXZWhLNGUwSTYtcDU2aV9FUV83QURBQjdEOUZIN19kSlpSQzJTNWRQMU82SGI0RzdreUlrLTlXd3FFY0EzRWtMdEZUaF9mbmt5WTFmV1ZjUQ?oc=5",
+    "news_score": 0.43,
+    "news_title": "Trump to have first trilateral meeting with Putin, Xi - The Washington Post",
+    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS0ZHZDFUVjNXc19jTzlIeWRBX0s4dmtIUG1jNGFwZFpCUTBEWEJTRW5tbnhDVTlEdDlwcnZNV0ctRWVLNnhaSUJvbDVlRzUyNmxWelF0aU5xOWV0SkJ5UkhHNTdmVTcyZ1plcWhhY0N2LW5zNUZFT3pVWXhzZkFidEM2bkk0aE8wUFRScg?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "6h ago",
+    "news_age": "5h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -35655,14 +35658,17 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.26,
+    "news_score": 0.2,
     "news_title": "South Africa@Czechia - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV09ZTUtuTzhpVVhoRXRjSFVZTHBSQUxNSzlVUEI0bUV5QlY2MWlKU0tWdlduLXllVmhkRVRBX2lvRHBScHQ2Zk5SLTV4OWdxMThId0FEUEVDS0NwcW1hM1RGdFkyYTJBcGZtUG1hdkdDWXB0UExnY0hiSE9HVFpvRTByN01tTktIS0VVbU1CWHQ4dVMwd0NHNXpIbXRZZFpHSnpZRjdWX28?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
     "news_age": "6h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 1.2,
     "bottom50_wealth_rank": 29
