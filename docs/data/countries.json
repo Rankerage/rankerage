@@ -2869,7 +2869,7 @@
     "refugees_rank": null,
     "union_rate": 77.9,
     "union_rate_rank": null,
-    "news_score": 0.74,
+    "news_score": 0.73,
     "news_title": "ESLC Day 13: Austria and Greece book playoff spots - World Lacrosse",
     "news_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44ZjFZdF9WTHE2TDdNVHdEN3Z6a0xrdGR4Y1ZfcmhNalY2dGtuX3RvNWxUNGdvWXdkbmx6UTFpYU9Wd0tFcjlQRDBScTlHNkktaVNxYw?oc=5",
     "news_image": "",
@@ -2877,7 +2877,7 @@
     "news_age": "2h ago",
     "news_columns": [
       "olympic",
-      "fis"
+      "fifa_w"
     ],
     "bottom50_wealth": 2.3,
     "bottom50_wealth_rank": 23
@@ -8020,7 +8020,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.69,
+    "news_score": 0.67,
     "news_title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkl0WHV4OWtNN0k0SFVuR2E0VXhrOUpYMXZiOUxFYUVYZlBpa00zTTRXaTVmYWtwcGktWjAzUnMxckxsS0l1S2VqekRxbS15ajUwT1p6RkhjU1NtM3JwMU5uUGlqT295Y19OOXJfUXRHWFNLcGw0VFlTMXV1eFNZUXpobDNHcHVtVUxVVVZqMnA5a09LT2I4d05rWmVyUFHSAaQBQVVfeXFMT3ZsNjJfWW9FQ2VPLWROVXp2UHZsS0gwRjBUdkVZMi1tbnhFQXQ1RlBrazNCYTJUcWc2NWU2WGtETnB0MTNNQkJES1l0M011ZWJybldxTFBaZGJIQ1RIaVhXSkVvWVVZRFlSM1h3V1dnbHJiVmkxWnp6Y0wzOXJvaUdmbzk1Y0lyR2RrNTl3YkFzdVdfd21mYk5mQkRKN01TYlQ3ODA?oc=5",
     "news_image": "",
@@ -8031,8 +8031,8 @@
       "gdp_per_capita",
       "stock_market",
       "reserves",
-      "military_pct",
-      "nuclear"
+      "nuclear",
+      "nuclear_power"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13039,15 +13039,19 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.46,
     "news_title": "Aicher wins first slalom of World Cup season - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRGFNMi15UGZGbW96eFpXSkJnejRybnphVFlVVG9GM2dVbEhTNnc2V05jZEtGVlY4UGt0TFhEYnpNMFZpeFBzQTh2SGdfZTYtM21lUTlQYW90WUllZUQ3WWhjaUhoQXQtOWFPTENsMDZPdVhVbjl5RS1KRkcwckRlXzNSMTRGNGxiUWdFZkVJT2dVX29ldUE?oc=5",
     "news_image": "",
     "news_source": "France 24",
     "news_age": "3h ago",
     "news_columns": [
+      "fifa_ranking",
+      "fifa_w",
       "olympic",
-      "fis"
+      "basket",
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13574,7 +13578,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOalBibE5ubzRrbC1semFyRFVjZ21nbHdrS0dHSnlsTEUtM082NlAxVWlQY3ROSWVXNVNRQzZGUmREY3FrTGhqTGNyLWJPRkcxX1VDMDZVNGhydnNFNHVmRndVNU1FYXV2cEpMemZGN2hIRmo0bTZLYnBQRzZiV1hRRHl2NzJDdXhQOXktVldTUGFRWVh3VHBXNGhjRUZIUHhxSmlpV0o2d18?oc=5",
     "news_image": "",
     "news_source": "World Rugby",
-    "news_age": "68m ago",
+    "news_age": "70m ago",
     "news_columns": [
       "rugby",
       "olympic"
@@ -14069,7 +14073,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.41,
+    "news_score": 0.4,
     "news_title": "Skiing-Germany's Aicher powers to first World Cup slalom victory in Levi - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1VUQ2hTLU0wVWJ2Um9mcF9iVXRZMklCYlhneklQdGZUejNxSXRNX1hCcy1MUEI0UlRkUUZFRzFGeTdaSmdnYU52RzFKZ3JKMDYzdjhPZGc5Q0hBVTBIaW1yc1ZEcTU5LTJXMTQ2NUFoTlNRRUFXcDltTktGdU5sT1VyakZ4b05sMGFDRWhMaFUtQk1vSmtfcE9ialY1RVluOUgyZTZhQkdPOWFI?oc=5",
     "news_image": "",
@@ -14077,7 +14081,7 @@
     "news_age": "4h ago",
     "news_columns": [
       "olympic",
-      "fis"
+      "fifa_w"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -17404,7 +17408,9 @@
     "news_source": "CBS News",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -17877,7 +17883,9 @@
     "news_source": "Afloat",
     "news_age": "19h ago",
     "news_columns": [
-      "golf"
+      "golf",
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 2.7,
     "bottom50_wealth_rank": 20
@@ -18564,7 +18572,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.1,
+    "news_score": 0.09,
     "news_title": "ITALY U21 WIN AS CAMARDA SCORES - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGZYWEhESVZNX1JMbGFiTzdINi12QXhHUndRd3haSDVHZnE2d3NCcjRfY1ZoSzRVd3Ryc3lmbm9Nd0hsa2p2bUZjY0g4SlZfNl9ydGx0ZnRFcm1FaUxUbGVvNTNKc00zZnc4SXdXMzVpN1Y2cVhXVXprNUZzRDZ4czAySQ?oc=5",
     "news_image": "",
@@ -28458,12 +28466,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 1.03,
+    "news_score": 1.02,
     "news_title": "Jonathan Urges Investment in Tech Start-ups to Boost Nigeria's Economy - Head Topics",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbkpNX2ZNX2k1SHAxRWd6RExHdE1qck5TSDRUOVhLeWo4N2tHb3ZWczNjLUJkZFNZc1g1UURVZzVVSXcyakZlRjJoNFJSNHc2ZXdCYVRESkU3VWZLa0VUdmNoci1rV1dNc0IxdEdWeXFEd1A5cE8xWEF4aHFZTGs2TUtWSXZEa0V3eXE5VFRIMVRFa3ZPb0RB?oc=5",
     "news_image": "",
     "news_source": "Head Topics",
-    "news_age": "84m ago",
+    "news_age": "86m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -30496,12 +30504,12 @@
     "union_rate": 71.9,
     "union_rate_rank": null,
     "fifa_w_rank": 48,
-    "news_score": 0.7,
+    "news_score": 0.71,
     "news_title": "South Africa@Panama - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVFYSjFkTEVkSjgyUzZqUnM2TVZ3RjA2eUd6RV9Lc2REb01WZUNtWFhyOW1Sb3gta2RUVU1ZR1dzQ21RU2hUdVl0dnAyNmdCdjlESzdhcmVZa2drRnBJeFJyeE1NYkdRcDBuVm5VOEloRE81ZmlHNHJhOUVackYwMTNVY05UdVRuMGRxczk2QkNYOWJvd1M3S1VfS0dDekduLUNHeFI3dlo?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "64m ago",
+    "news_age": "66m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -31095,12 +31103,12 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.31,
+    "news_score": 0.4,
     "news_title": "Pope’s visit to hub of Afro-Peruvian community casts spotlight on African slave trade to Peru - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbldQc0RVYVEyM2ozT01IUE1MUENQZl9sdXJDQVhZUUdUbEpEZHFwVVVDLUVKS2ZTQld4QUM1UVc1dWZwNG56WVQ0X3VENnVKTmtJLXZIUlkweUZHU1R4OXJTY0R4RmVadmozLWltdEVFMlh3VGlUM0V6U293Sk9mWjBwbWNLS25yVC1KZlRUbWEyOTk5dEFpRHd2WUw?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "107m ago",
+    "news_age": "109m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -31367,12 +31375,12 @@
     "refugees_rank": null,
     "union_rate": 63.7,
     "union_rate_rank": null,
-    "news_score": 0.67,
+    "news_score": 0.66,
     "news_title": "German skier Emma Aicher wins first World Cup slalom race - ESPN Philippines",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaVNPWnBnQ2ZZSE5oeUZBSFNDc2wyRFZ6aThYSmNDVWVrTWhkVWZvYzZMbGZJaDJSR1FhNDYxM3JfREczQmN3RmxRUndjOUZYbzdfUHNqR0t4emVnd2haYnZTZHNQV25qX3FLa2w4dUVhZ0V2N3Ntb0xlcDNJdDlKM3o3SkY0MzRwV1RtQlAzcHY3TG9xcXNZZmh1MkFxZkxiLWpNQWZ1X1VBY21pMml2bVUzaw?oc=5",
     "news_image": "",
     "news_source": "ESPN Philippines",
-    "news_age": "96m ago",
+    "news_age": "98m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -32118,12 +32126,12 @@
     "refugees_rank": null,
     "union_rate": 56.8,
     "union_rate_rank": null,
-    "news_score": 0.29,
+    "news_score": 0.49,
     "news_title": "Korea@Puerto Rico - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY19VbG1HQktPOUhrUFJRTHNIRG4wbk5ubFhFcVNDd200dVVTSFhNeXNCam92WUF5R1FKQ0xSS0xTOHgtcWVXbkJGamwwWjFmdE8xak1rOWhOVndSUTZ5dUlOdXFpSkJnSEN4bkppWUtTX0VVRVFUbHBFX3hBaEZxMzhUT2VUNVFPdTNIVFFGSzlTMk5sY2lKcXpoeUwxQmpsZGFjZjhybkQ?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "4m ago",
+    "news_age": "6m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -33125,7 +33133,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.27,
+    "news_score": 1.24,
     "news_title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkl0WHV4OWtNN0k0SFVuR2E0VXhrOUpYMXZiOUxFYUVYZlBpa00zTTRXaTVmYWtwcGktWjAzUnMxckxsS0l1S2VqekRxbS15ajUwT1p6RkhjU1NtM3JwMU5uUGlqT295Y19OOXJfUXRHWFNLcGw0VFlTMXV1eFNZUXpobDNHcHVtVUxVVVZqMnA5a09LT2I4d05rWmVyUFHSAaQBQVVfeXFMT3ZsNjJfWW9FQ2VPLWROVXp2UHZsS0gwRjBUdkVZMi1tbnhFQXQ1RlBrazNCYTJUcWc2NWU2WGtETnB0MTNNQkJES1l0M011ZWJybldxTFBaZGJIQ1RIaVhXSkVvWVVZRFlSM1h3V1dnbHJiVmkxWnp6Y0wzOXJvaUdmbzk1Y0lyR2RrNTl3YkFzdVdfd21mYk5mQkRKN01TYlQ3ODA?oc=5",
     "news_image": "",
@@ -33133,7 +33141,8 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -35642,12 +35651,12 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.7,
+    "news_score": 0.71,
     "news_title": "South Africa@Panama - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVFYSjFkTEVkSjgyUzZqUnM2TVZ3RjA2eUd6RV9Lc2REb01WZUNtWFhyOW1Sb3gta2RUVU1ZR1dzQ21RU2hUdVl0dnAyNmdCdjlESzdhcmVZa2drRnBJeFJyeE1NYkdRcDBuVm5VOEloRE81ZmlHNHJhOUVackYwMTNVY05UdVRuMGRxczk2QkNYOWJvd1M3S1VfS0dDekduLUNHeFI3dlo?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "64m ago",
+    "news_age": "66m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -41246,7 +41255,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.68,
+    "news_score": 0.67,
     "news_title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Sc2FZdms0a2VhSnZ3bHhCakcwcnl4SWhTWi1HaDJUdmZXdzVKTmtocFp0aFRYQk9VYllVZ1Uzdkp5OV9Ic2l5NmtUUXU4WVBaNFpMdDVselhoS2c?oc=5",
     "news_image": "",
@@ -41254,7 +41263,8 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -42520,7 +42530,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONWM2aXc1OGtEUmRhQXAxWkF6OVlvaTNpVzRuUjNOeXVMQmoxN2EyRVZld1ljSkVYRVFNTWJ6NVlKUVdlbC1nTE81THNUUjdNZU1EblFWOGtfR3ZFQ3psc205eEFacXI5c05FN2Y3c0hrUVhSNDJZV2VQemg0YkM5UVdtSE5Ob0l1dllwZ08tNWNhVEcxSkg1d2NSRi0tYTZIVUkwX0V4c3BRNklvZnVNb1poMW1pQU1wb2FpOHpsdGgzQUJiV2c?oc=5",
     "news_image": "",
     "news_source": "City of Toronto",
-    "news_age": "15047h ago",
+    "news_age": "15048h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
