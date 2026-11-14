@@ -8019,14 +8019,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.34,
+    "news_score": 1.43,
     "news_title": "Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ear on China - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNV83TGNqLXB1TGRFV1otMFAwS3poMGY4dHp6V05vWllwcmJ0SGN1QkxXdHpob3czaXJSLW1jcjkta1FpRFR1emR3SVZtWWlUclVIWDlFODZHRDFabzcxR2JfamFhU3VxTnVRNG16Z0F2Y09wRUU0ZmxRazVwTDVSV0V2dlFNNm1WazBoUXg2U1kxM1p0Ym5NSmREU1htSDk2SF9jR2hSTXFYLU85ZHFnaW5YMzY?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "85m ago",
+    "news_age": "87m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13033,7 +13034,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.3,
+    "news_score": 0.29,
     "news_title": "France awards Legion of Honor medal to 102-year-old Woodstock World War II veteran William Lyford - ABC7 Chicago",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSFhWd0dYdFhseDBMYWxtcHhXd0NBelhtclJKS0xsR2VGTWZEdGFhdVFwTkhSdWt4MHMxQ1dIWW1Vd2RJaU1DeDQ4RGRFYXNlVTZncGIwX0xpYVQtOWxGcHN0UHN5WENSZVVTcXJVZWdhc1FjQW9nbUxudVo4aUhHWUdfdl96MU9qVENCQmdqcFk0YkotUFAtV3F5OHk2UXlGY0FaMGV1VGQ1RG81clBEYXhRbWp4dXJkNTlNbnNjTVhOdXhXMWZXeDNn0gHPAUFVX3lxTFBBRUNobUlXOHgxUEtXZHVsWVdfVjBraUQ3SEZZNC1hd0Nndk45aFBleURuRnRRdWhqV3dJanF2WmxraEdEaDZLbDAzZEVDRG8tWU9aUGYta1JJNHplSThNZzI4WG9xY0VnU2xxS3Q3NldWOVVSMm1EVlRWaTVzaThKeEJ5SlJoMmdMU253SEJ4b1B1cUlkTTd0cWo0SVpCY0NRMkcwLWNEQ1c3c1BQZ0JpdmtsQjYyV2ppa3N2QXRSdkR4OWkzbHJkSkQ1S0tYdw?oc=5",
     "news_image": "",
@@ -19270,19 +19271,17 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.58,
+    "news_score": 0.78,
     "news_title": "Chinese Taipei@Japan - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWVoTk9UQUhZcVcycUxjbFFHYUtua1NqbHVUdGw0anA2REFnQTFWVGpFaWRlSjhmUHZneFdhUjhYWUdjWWIxbHQ1OVFDQXlKVGVPcVFnRHVUNFVNZ3BLSlBFY1J6cmo2a1l1Z1p4Y0Fpc0xlbUJha2EtVTZyMFJuclM2LTJ2NFJPOWxicFA5Wjh3cUZBWjBzeTdrYU51WHQyX3J1VUp5OUo?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "112m ago",
+    "news_age": "114m ago",
     "news_columns": [
+      "basket",
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "olympic"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -28471,14 +28470,17 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.43,
+    "news_score": 0.34,
     "news_title": "Nigeria External Debt Hits $145bn Amid High Private Lending Costs - Head Topics",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZllVU0lYM0lMVk92WVY2RXFJUVJ5dW9nYTlYRk5RelFjY0ZweWxWUlJ5RDNwblZmYVRyek1zWjVDVjZ5M3FqWXllU2hkMzdiVlY4eTliV3E3T1RBNjBlb3U0U3o4SkhqRlpvNDFMa0N1RjRwVFZ4UFBuc3hTa0xFWWNaSVprOEtOeVM5ZWhYTm9KZDdOZHFtU2UwYjN5SlE?oc=5",
     "news_image": "",
     "news_source": "Head Topics",
     "news_age": "5h ago",
     "news_columns": [
-      "fifa_ranking"
+      "debt",
+      "gdp",
+      "reserves",
+      "govern_spend"
     ],
     "bottom50_wealth": null
   },
@@ -33138,14 +33140,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.64,
     "news_title": "Trump to have first trilateral meeting with Putin, Xi - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS0ZHZDFUVjNXc19jTzlIeWRBX0s4dmtIUG1jNGFwZFpCUTBEWEJTRW5tbnhDVTlEdDlwcnZNV0ctRWVLNnhaSUJvbDVlRzUyNmxWelF0aU5xOWV0SkJ5UkhHNTdmVTcyZ1plcWhhY0N2LW5zNUZFT3pVWXhzZkFidEM2bkk0aE8wUFRScg?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -38431,12 +38434,10 @@
     "news_source": "Reuters",
     "news_age": "26h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "basket",
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -42538,7 +42539,8 @@
     "news_columns": [
       "basket",
       "fifa_ranking",
-      "olympic"
+      "olympic",
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43741,12 +43743,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 1.0,
+    "news_score": 0.99,
     "news_title": "The Minister of Science and Technology explains 'What core technologies has Vietnam mastered?' - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOakh1NTNRT1J3YnpnQnRQMUtHN3ozREdoYTVJZ05iQUlPNjR5MjZpcWNDdzJ5ak12LUJqYWFienhacGNDYWtnUjdZODk4N01JVnBHcmhIWDUzcTE2TDJaQ1Y1OEdRMlFaSTR1N1hCUEpBUnNITXNJdkM3NmFSSkJBVDd5WXh5R19ncDVQTFBnbzFpSmNaazJnRUJhN2kyb3g2QWVEYQ?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "63m ago",
+    "news_age": "65m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
