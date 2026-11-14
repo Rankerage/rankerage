@@ -2552,7 +2552,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.29,
+    "news_score": 0.28,
     "news_title": "WBSC U-23 Baseball World Cup 2026 presented by RAXUS: Game Report - John Lemm's two home runs propel Australia past Korea - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaDU3QS1tdS13X19lMGJEUWxhX29yYnMyVTUwUlF6TXJVc3prMDdNam5veHI4b0VORjNUZjFFSzJhZEllTGhCZFVFVDg4Z3dDa0FOOTBTVjNzTG9pOFB0cy1hZk54SUlGclFoTEJPTGd0VTdVN05mTlAwdzQ4QnFsaGNhYlA1ekx0c0pTSktHUVNhNmJvSUZiN2o1RTROaGhIS2lWVDQxR2swc0lVM0JYUmlR?oc=5",
     "news_image": "",
@@ -8017,14 +8017,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.45,
+    "news_score": 0.48,
     "news_title": "Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ear on China - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNV83TGNqLXB1TGRFV1otMFAwS3poMGY4dHp6V05vWllwcmJ0SGN1QkxXdHpob3czaXJSLW1jcjkta1FpRFR1emR3SVZtWWlUclVIWDlFODZHRDFabzcxR2JfamFhU3VxTnVRNG16Z0F2Y09wRUU0ZmxRazVwTDVSV0V2dlFNNm1WazBoUXg2U1kxM1p0Ym5NSmREU1htSDk2SF9jR2hSTXFYLU85ZHFnaW5YMzY?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "5h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -9076,7 +9077,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 128,
     "fifa_w_rank": 69,
-    "news_score": 0.08,
+    "news_score": 0.14,
     "news_title": "WBSC U-23 Baseball World Cup 2026 presented by RAXUS: Game Report - Rafael Alvarez's two-run double puts Cuba on course for win over Panama - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVGJOd0tkQXpQY1FzSnhTQTZLX0E5NUlOV00tME1FVllPU3dINmZIMTlHTjN5M1c2RGdCa0l5Y2E5WnNtWklpQXFNOHphd3JUbGFUZm5aMWNzMVN5UFh1c01SRXU4TFNUcEhsQVh2X0xYb203UDNvUlVMR0VZbUF2WGpVY203dWZwdER5ODJyNDhlcGdranpjQ1MyOTYtUWdhV1FtS3N2U1FrdGMy?oc=5",
     "news_image": "",
@@ -10948,7 +10949,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWVZvXzFtdTBTclRVR2lla1VtcjBsX2l3ZDcxakRFU3doWkN2UmZUbWhaR3JEUGJYTkxOOWtQR3l6YU9qYndqOHliemt3MkJmWnZVTFQtZGNid1dSdFY1VHRpa0t3cEhENWd1VTdueHN3cXdoYmQ0T3VoUVhCNEN4OFRoTXBxeXVJZFdFaUQtYnpfaExpUmpWRFlfaTZoMFhWZ1NVdGdrb1ZjSnlZUzlUaTlxLXA1YzJ2eS13dlhCdUhzSENkVERUby1zSmVQc2IzcUxCZElXM2I1QQ?oc=5",
     "news_image": "",
     "news_source": "Opportunities For Africans",
-    "news_age": "40h ago",
+    "news_age": "41h ago",
     "news_columns": [
       "edu",
       "literacy",
@@ -13033,12 +13034,12 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.78,
+    "news_score": 0.8,
     "news_title": "South Africa win hands France World Cup 'cornerstone' - AFP.com",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YTGRiTDdtU2RYcnF3QVQ4Q2F0VU81NTFTTTl3U0RlV09BNjZicGdvakdPZFN0aE80QUFsU1Nia09DM2FSdE1zRUVjSXNibTdOaDNuRU5fT2RkSXRxQVY4N3A4bDFubE4zbWJnemxESHRCWnc1Vm5yZEkzS0taT2M?oc=5",
     "news_image": "",
     "news_source": "AFP.com",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -13565,7 +13566,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.5,
+    "news_score": 0.49,
     "news_title": "Georgia’s Kirby Smart Makes Explosive Claim About The SEC - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLURDUWdSeXhIcDNVV0FWVG1MdTFTT195T3o5NEVVeFQ1QjAtTHpxRlllR0FQbGNUX2FWeVE0TUFCMkgxYW1MdGZma1l6b005LTdUNWMtNktFV0Z5dWh2QTk5U0hMX2dycnpCcWhXdVdjZGFpZ1BHTlhvQTJCVklBcEVBTTc1Q3VnNmp2QQ?oc=5",
     "news_image": "",
@@ -16828,15 +16829,14 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.36,
+    "news_score": 0.47,
     "news_title": "India: Delhi surpasses Lahore as world's most polluted city - DW.com",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNFpjSkU5QkR3bFpwclRRQ1NFSnBwM1JxUXh4Wm94TkhhM0pSUHBpQWNPamowWktydzhwQ2FQRHYtNzM1bTIzQTVsbUxUamIyMUw2Ym9rMFZ5dllPSkxnb0tsRjVCekJCWUJHVC1zSHR4dEtVOTBNak5qSVRpMExSZ3l1dHVIVWFkRGZORzNCWFMwWEU1WWgteQ?oc=5",
     "news_image": "",
     "news_source": "DW.com",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -18581,7 +18581,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGZYWEhESVZNX1JMbGFiTzdINi12QXhHUndRd3haSDVHZnE2d3NCcjRfY1ZoSzRVd3Ryc3lmbm9Nd0hsa2p2bUZjY0g4SlZfNl9ydGx0ZnRFcm1FaUxUbGVvNTNKc00zZnc4SXdXMzVpN1Y2cVhXVXprNUZzRDZ4czAySQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "54m ago",
+    "news_age": "56m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -28003,7 +28003,7 @@
     "refugees_rank": null,
     "union_rate": 69.0,
     "union_rate_rank": null,
-    "news_score": 0.12,
+    "news_score": 0.13,
     "news_title": "WBSC U-23 Baseball World Cup 2026 presented by RAXUS: Game Report 40 - Nicaragua-Great Britain - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOamloZmxncjFfQUs2Y2RqQVN4YnFraU1NU19HTzIwNVk3TnBQblEwNDZ6U1dodW5KdHphWFJJM1B4NHMzbkpiX3JkanE5MFFBN1ZMdTVqZlZyRndlU1NSQjNPeXpKWkRVeTBmN1ZhRFllVmRJZktsaE0teXM5RUN1d3VxNnpkRWVDa2Q5bnd5azhMSkVZdVpfNEoyZTcybUlnUEhkSnZBeXI?oc=5",
     "news_image": "",
@@ -30504,7 +30504,7 @@
     "union_rate": 71.9,
     "union_rate_rank": null,
     "fifa_w_rank": 48,
-    "news_score": 0.08,
+    "news_score": 0.14,
     "news_title": "WBSC U-23 Baseball World Cup 2026 presented by RAXUS: Game Report - Rafael Alvarez's two-run double puts Cuba on course for win over Panama - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVGJOd0tkQXpQY1FzSnhTQTZLX0E5NUlOV00tME1FVllPU3dINmZIMTlHTjN5M1c2RGdCa0l5Y2E5WnNtWklpQXFNOHphd3JUbGFUZm5aMWNzMVN5UFh1c01SRXU4TFNUcEhsQVh2X0xYb203UDNvUlVMR0VZbUF2WGpVY203dWZwdER5ODJyNDhlcGdranpjQ1MyOTYtUWdhV1FtS3N2U1FrdGMy?oc=5",
     "news_image": "",
@@ -33136,14 +33136,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.27,
-    "news_title": "Trump to have first trilateral meeting with Putin, Xi - The Washington Post",
-    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS0ZHZDFUVjNXc19jTzlIeWRBX0s4dmtIUG1jNGFwZFpCUTBEWEJTRW5tbnhDVTlEdDlwcnZNV0ctRWVLNnhaSUJvbDVlRzUyNmxWelF0aU5xOWV0SkJ5UkhHNTdmVTcyZ1plcWhhY0N2LW5zNUZFT3pVWXhzZkFidEM2bkk0aE8wUFRScg?oc=5",
+    "news_score": 0.29,
+    "news_title": "Europeans decide on thorny question of who will speak for bloc in Ukraine talks - The Washington Post",
+    "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYnZWRTRleUVRbFBSU05GSWVvc0tDSGsxOTEwN0hqLXZEVUhpcXNxeGU4dXhlU0F0Q2xLUU1UeHdwYjJRWFVUOHE2YlBQZUFkYjVqWHdEazgzNTBlQXdJN0lEZ3FXU0pXZWhLNGUwSTYtcDU2aV9FUV83QURBQjdEOUZIN19kSlpSQzJTNWRQMU82SGI0RzdreUlrLTlXd3FFY0EzRWtMdEZUaF9mbmt5WTFmV1ZjUQ?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "7h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -35652,12 +35653,12 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.81,
+    "news_score": 0.83,
     "news_title": "South Africa win hands France World Cup 'cornerstone' - AFP.com",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YTGRiTDdtU2RYcnF3QVQ4Q2F0VU81NTFTTTl3U0RlV09BNjZicGdvakdPZFN0aE80QUFsU1Nia09DM2FSdE1zRUVjSXNibTdOaDNuRU5fT2RkSXRxQVY4N3A4bDFubE4zbWJnemxESHRCWnc1Vm5yZEkzS0taT2M?oc=5",
     "news_image": "",
     "news_source": "AFP.com",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -41258,7 +41259,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.13,
+    "news_score": 0.12,
     "news_title": "Europeans decide on thorny question of who will speak for bloc in Ukraine talks - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYnZWRTRleUVRbFBSU05GSWVvc0tDSGsxOTEwN0hqLXZEVUhpcXNxeGU4dXhlU0F0Q2xLUU1UeHdwYjJRWFVUOHE2YlBQZUFkYjVqWHdEazgzNTBlQXdJN0lEZ3FXU0pXZWhLNGUwSTYtcDU2aV9FUV83QURBQjdEOUZIN19kSlpSQzJTNWRQMU82SGI0RzdreUlrLTlXd3FFY0EzRWtMdEZUaF9mbmt5WTFmV1ZjUQ?oc=5",
     "news_image": "",
@@ -42539,7 +42540,9 @@
     "news_age": "15040h ago",
     "news_columns": [
       "fifa_ranking",
-      "basket"
+      "basket",
+      "olympic",
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
