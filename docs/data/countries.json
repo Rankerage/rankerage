@@ -8024,12 +8024,11 @@
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNV83TGNqLXB1TGRFV1otMFAwS3poMGY4dHp6V05vWllwcmJ0SGN1QkxXdHpob3czaXJSLW1jcjkta1FpRFR1emR3SVZtWWlUclVIWDlFODZHRDFabzcxR2JfamFhU3VxTnVRNG16Z0F2Y09wRUU0ZmxRazVwTDVSV0V2dlFNNm1WazBoUXg2U1kxM1p0Ym5NSmREU1htSDk2SF9jR2hSTXFYLU85ZHFnaW5YMzY?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "74m ago",
+    "news_age": "76m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -17411,7 +17410,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcXIwbkFRM3dlZktvS0VBdHVLQURXY28xdmxYVnNnUUk3Sy1RRmd0dTNBeFhWS29TVVM1RVh3aGd5cmpObC1naWw4a25qTXRPOTRndFY0REw5UlY4d2tlR1dzMFNhbmlXc0NHSXMwWVpZcFZhOE1vQllfT3ZWZXU1X00wLWhiRnNPdmdnQnI4SUJrb0Q5eHRPRmlKYzg1akt0U0ZnM29LejY?oc=5",
     "news_image": "",
     "news_source": "NPR",
-    "news_age": "11h ago",
+    "news_age": "12h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -28474,7 +28473,7 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.23,
+    "news_score": 0.2,
     "news_title": "QNET Nigeria Empowers 200000 Youths Amid Anti-Fraud Push - Head Topics",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOejBPRUU3TU5ncFN0a2o0bU5LY0FZMUFpNXVPeUpVSXRFcmthR0FHN25WMXprb2ktaUNoMlJHSmNaODFHUmFzRERzV2xfaUMtWUhlMmVYbFI1cEd0YlJ3cG5DUGxNekJTaDRuQ3ZMUkFuc21BRmZpQkZocjA0SWFyc0JKMW5MMkp3b3BJMkNSVUI5dVIySHlSSFNGSzE?oc=5",
     "news_image": "",
@@ -31111,7 +31110,7 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.1,
+    "news_score": 0.09,
     "news_title": "Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’ - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcmRuVUtqVTM1UWNwZFByUGI0M0VOdDN6NVhTV0ZPUWxGYVBybHJPTVAzZzJBYnNxUWwzREFWZDN5Q2FPSzZ3VmN0dE5ETTRYTUVDdkNQTFotTlIxTlBvRkN5VTVwQ21nQnNhMkhnQjRHdnFXa2xGano1NHUyTlJBTXFRaFpybFRLUmNGSm1IU2c0Nk81dElMcU5WMS1BQmpJSUR3?oc=5",
     "news_image": "",
@@ -33153,8 +33152,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -42544,10 +42542,10 @@
     "news_source": "City of Toronto",
     "news_age": "15036h ago",
     "news_columns": [
+      "basket",
       "fifa_ranking",
-      "fifa_w",
       "olympic",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43755,7 +43753,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOakh1NTNRT1J3YnpnQnRQMUtHN3ozREdoYTVJZ05iQUlPNjR5MjZpcWNDdzJ5ak12LUJqYWFienhacGNDYWtnUjdZODk4N01JVnBHcmhIWDUzcTE2TDJaQ1Y1OEdRMlFaSTR1N1hCUEpBUnNITXNJdkM3NmFSSkJBVDd5WXh5R19ncDVQTFBnbzFpSmNaazJnRUJhN2kyb3g2QWVEYQ?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "79m ago",
+    "news_age": "81m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
