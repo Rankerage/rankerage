@@ -6942,14 +6942,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.64,
+    "news_score": 0.5,
     "news_title": "Trump faces Carney's refusal to back down as Canada pushes back against U.S. trade demands and Africa's largest economy turns to China - Business Insider Africa",
     "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcGRMYktmZXZYQWxOX3hEa3N6SHVYOTc3aW1hdjB6dnA3d01VRUQtdlRSRGpOc1M2eG93NWs0d1dqbWJaWkhVVXFzMThwQmlReFcwT1JkT0lhOEJsak8waDhEdGhtb1ZZcm10bTNpN0xUckhpY2lvTzNMWUNKcjlXT21zejVRaUk1aEV2a25RbndpejlmeGVFOURJT0stSmhkQVRwa2dkMnp2ZTNmN25naC1KX2ozX1pfVXg4MjZYZVlsZG1ZVFZseG1QakFWMk5kZlFjUVhB?oc=5",
     "news_image": "",
     "news_source": "Business Insider Africa",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -8014,14 +8019,19 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.44,
+    "news_score": 1.07,
     "news_title": "Trump faces Carney's refusal to back down as Canada pushes back against U.S. trade demands and Africa's largest economy turns to China - Business Insider Africa",
     "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcGRMYktmZXZYQWxOX3hEa3N6SHVYOTc3aW1hdjB6dnA3d01VRUQtdlRSRGpOc1M2eG93NWs0d1dqbWJaWkhVVXFzMThwQmlReFcwT1JkT0lhOEJsak8waDhEdGhtb1ZZcm10bTNpN0xUckhpY2lvTzNMWUNKcjlXT21zejVRaUk1aEV2a25RbndpejlmeGVFOURJT0stSmhkQVRwa2dkMnp2ZTNmN25naC1KX2ozX1pfVXg4MjZYZVlsZG1ZVFZseG1QakFWMk5kZlFjUVhB?oc=5",
     "news_image": "",
     "news_source": "Business Insider Africa",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10120,12 +10130,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.0,
-    "news_title": "Ask the Experts: 2026 IIHF Women’s World Championship in Denmark - IIHF",
-    "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SSWp3dnBLekx3VkF1Y0Nlcm9MYmJDWGlUaVg4UHlIUkM2VnNEbGtxNllEQmVkUnpkNlNKRkdvT1lqT0QwbE40QlpsVVZNeTVKaldhQkRNX3Jrd3Awa3NtMUF2aFp2NHFENlMyV1JTdXdpclJOUTNDdXp0QUUzdw?oc=5",
+    "news_score": 0.12,
+    "news_title": "👑 Portugal offer touching CR7 tribute ahead of Denmark clash 👕 - Yahoo Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUllZaFRCTXhQMExJU2Rma3NZMzdXWGJKb0hsMUxNamRmOVlmWE5xWTFQNzNYLVc5cWV0WG5DQmFIazU0U3k2Q2g1T0hpRXRBdzlSNnpqX1FSM2paTlJlUnVZVnVlTkFFcWhFN3JkTDZsY1h0SUgtYVFoQkhXY0dWRGNuZUE3a0k3X0dSXw?oc=5",
     "news_image": "",
-    "news_source": "IIHF",
-    "news_age": "8h ago",
+    "news_source": "Yahoo Sports",
+    "news_age": "3h ago",
     "news_columns": [
       "gender",
       "gender_gap",
@@ -10945,7 +10955,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1M3RVhWWnB4TU1KREpveWFSU1I2aXRGRGRJNUZ3WURHTGwxX1NseWZNeFB5Z1RZRm9OUkpnX0NKd3NaeUZPaS1LZjFwRkp1U3puanBOQWllWTAtY0tXbFg5YkNqNTJueF9nMHhhNkFzdlFZcjY4U205QUxlSk1wNTRGRUVsaFZPREpOOVpIYWhVVnBHbzNkOUVoVXlOSXFfUlJnNVprYUk5RDVETi1RN2FiX0xnRWNLQ0ZSWW1IdDdxNGs?oc=5",
     "news_image": "",
     "news_source": "Ahram Online",
-    "news_age": "29m ago",
+    "news_age": "31m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -12529,7 +12539,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORFNwOTRPSXFTUFlWTXBVMXZxRUo3emwwTnhBeUpZUzRKOVZManNLOGtaVkRKd0h2bDY0OFdFQXFoZmhJTmpoOFdGdzBVM0J4Zm9XLUoxdmc5V3pVbUZQLW9PblNrTXhSeG9ZWUZaV2JQcnoxbVpqNGJHM1F6ZnZqVzZZdmZSelF6bUxuOG9TWnVVZw?oc=5",
     "news_image": "",
     "news_source": "VailDaily.com",
-    "news_age": "7h ago",
+    "news_age": "8h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -13562,7 +13572,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.75,
+    "news_score": 0.74,
     "news_title": "Georgia/Missouri Live Thread - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUNtYzlMSDVZNWtpcTVwOS1QMGtkb2t6Mkt0dUItTkxWRGVtcTBQLWl5cjdSNTQwdmJRZVlGT2hTakIyODBmLU13V3lhdldob0dibDFUZU04U0xrSndmb295cHI3Z0hCZE1RcFBJNnkxRGZoNU9XeVFwb01lVUlEQVdPOA?oc=5",
     "news_image": "",
@@ -14262,7 +14272,7 @@
     "union_rate": 60.4,
     "union_rate_rank": null,
     "fifa_w_rank": 50,
-    "news_score": 0.29,
+    "news_score": 0.28,
     "news_title": "Dangote eyes Ghana cocoa industry, plans 500,000-tonne processing deal - Legit News",
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcEF5N21mNlFfSVc0RzB2ZEJCT3doRk5PbHRzU2JYbW5mVTBwTTVrTVVrVTZPc19ob0lfWEZkY0U2eGpMVXZLLTgxQllPWkcwYV80amU5aEhrV05aektHbkp0bllGQWVDTkhQbUUzc2syN3FLQVBQSXk3bXFnMU1xcFJwY1hsSEpxNjJJMGtIYVE2djFsSVEwd2ZLNGpRdU5xbmZYSVl4ZlZjYTJ1elZLZjJqY0R1Y2ZLUExDSTFFR1lXcXByRVk3RjlYTzc?oc=5",
     "news_image": "",
@@ -17393,14 +17403,17 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.27,
+    "news_score": 1.19,
     "news_title": "Live Updates: Netanyahu says it's time to remove Iran threat \"once and for all\" - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "76m ago",
+    "news_age": "78m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -18129,9 +18142,12 @@
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "76m ago",
+    "news_age": "78m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -18563,7 +18579,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.15,
+    "news_score": 0.14,
     "news_title": "Italy fines Meta $880m over photo privacy - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcklyOFA0TWlHVnZrRnhxWUtIM2FOR3ZsWjlSUC00MXhjVHJPV1BaMlQyd0xvdmNmRzRVcWxKZmNuSndveVdoQWJfNjlmWlJFRkxCLUNNMHgtSTA1aXZnZHZuMTJDdjV0UjBMNGV6M0x3X3owbjc0WWxkd0pPVl9LelY5d3hGUkhPWVHSAY8BQVVfeXFMTkpMRkQ5VFVOVG15MDdlZF9EY2EyZi15NE5nQjlXc3pPRDVtN2xva1hsOGxjSmQxcjNGLTY3OUFwakljRHZSMEFqc2V3WTRreU9vODFxbmRCQjdieDA1VzRpX3BJUXFlWW1GTm1iN1dtV1VtV2ljak5QMzRQcWc2cU4yc0trdkYwSC1jUV96WnM?oc=5",
     "news_image": "",
@@ -28459,14 +28475,17 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.65,
+    "news_score": 0.51,
     "news_title": "Udeh Unveils Tinubu, Mbah Re-election Support Group, Targets 20 Members per Polling Unit - The Guardian Nigeria News",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmdqTjNwa2NyTEpIM1Bsa2RIYktGajF1SDVQTXI0YUlPaTF1RE8zcHVYaVQ2Y052UTB3Qzl4eWNCcFpOc1FnbDlTOENkSTRQZlNqU09HT1RUalU3NEdnZzZ0MFR4YmFDWHBmMW5fWXB3cm9wTE11dnJYZXNPcU9UYnlMdWtMOGFnZnJYdWNfek9UdTZtNFdxSlNibGk5dl9pMi1OTG91bzlmUEFualRKb1pB?oc=5",
     "news_image": "",
     "news_source": "The Guardian Nigeria News",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking"
+      "democracy",
+      "approval",
+      "press",
+      "election_days"
     ],
     "bottom50_wealth": null
   },
@@ -31927,11 +31946,11 @@
     "refugees_rank": null,
     "union_rate": 77.8,
     "union_rate_rank": null,
-    "news_score": 0.0,
-    "news_title": "Portugal Honors Cristiano Ronaldo By Changing No. 7 Styling On Kits - FOX Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZFR4WGNOR3Jwb29TT1lBUHdJdHBTZF9OZUMzY0dIQm01eENWVTFjelBkS1JxT1hvWDJ3a1hOMkFiMk1NUHAzeHVxNThsVU03RWRZR1VsMHpEX0lkblcyaVMzNTNkRFlrdFFxdEozY3dwWjJtTWxaeXFIeThlU2pVZVl4eElIZEdDLTdrRXpIdlk1VHNUZnZCSHh3VC0yZUIyWVpaRU9iNNIBpwFBVV95cUxPeUZKNTM0NDFMdUZKQ0V3akFYT19uZExYdFk1WDRIcWhQcTJOVEt4ZmxOQ1pzWHA0NTJ3c3FSR3hvS05tSVQ1TDVQWWxqMk50ZlhnbWw5UDZucWhGMFp4S1Rvc0N6eUtRMER1cVJmRU5qaDhHTU5MZXJ4NWhvaE81UUg3SFloTDRnVzF0LVFuaGNjbHhDWlV6RDB5eUp4LWFSMnJnNV9oTQ?oc=5",
+    "news_score": 0.12,
+    "news_title": "👑 Portugal offer touching CR7 tribute ahead of Denmark clash 👕 - Yahoo Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUllZaFRCTXhQMExJU2Rma3NZMzdXWGJKb0hsMUxNamRmOVlmWE5xWTFQNzNYLVc5cWV0WG5DQmFIazU0U3k2Q2g1T0hpRXRBdzlSNnpqX1FSM2paTlJlUnVZVnVlTkFFcWhFN3JkTDZsY1h0SUgtYVFoQkhXY0dWRGNuZUE3a0k3X0dSXw?oc=5",
     "news_image": "",
-    "news_source": "FOX Sports",
+    "news_source": "Yahoo Sports",
     "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
@@ -33116,14 +33135,17 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.86,
+    "news_score": 0.9,
     "news_title": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQ1hLMTNVb094dE1lVlNkWWdtNXVYQjFqUUQ0Q0xkR0s1VnFzUExZQVVlVEZLYTNIUWN3cWoxa1dIM0xkc0docFNONklpRTZ6UFlTb3hLeFJxWC1feVRscDJMSWZaazQ0YzQwRVNyTDNqYUdiMUszLQ?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "74m ago",
+    "news_age": "76m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -36704,15 +36726,18 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.77,
+    "news_score": 1.3,
     "news_title": "'No racism in Spain' – De la Fuente message for Tuchel - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02cnE3a2FLTlpjemIyRDh4bmUyLVdLcXZVT1ZiT3UtWkVId05PSmhxWFFLcE1PeU9BUkg4RERHWmlnZXhwdE1vVEJsaW5lRUQ4eEhfaGttc0I1TEFzRE5RNUJSY09weFlqVnBlSUdQcEUzM3VMMkhBYkN4NWJSVVU?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "76m ago",
+    "news_age": "78m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5,
@@ -41240,14 +41265,17 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.29,
+    "news_score": 0.5,
     "news_title": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQ1hLMTNVb094dE1lVlNkWWdtNXVYQjFqUUQ0Q0xkR0s1VnFzUExZQVVlVEZLYTNIUWN3cWoxa1dIM0xkc0docFNONklpRTZ6UFlTb3hLeFJxWC1feVRscDJMSWZaazQ0YzQwRVNyTDNqYUdiMUszLQ?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "74m ago",
+    "news_age": "76m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -42517,8 +42545,8 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "basket",
-      "olympic"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
