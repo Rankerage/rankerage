@@ -3057,7 +3057,7 @@
     "union_rate": 72.9,
     "union_rate_rank": null,
     "fifa_w_rank": 80,
-    "news_score": 0.35,
+    "news_score": 0.34,
     "news_title": "KSA Business: Saudi economy to rebound in 2027 as oil output recovers, says Moody’s - Gulf Daily News (Bahrain)",
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUnJUTkV4WUNaMDZHbGU1Uzc5cnZBc2xJZVJVS1I4OHZ4Nl93OVMyend4X3ZuNndpc0szeFFqWlpuX1BJUVRkTG1QeE9HNGRZTjYzenJFbTRzazB3bUFPelVyb1NaQVJONWRNc29xZVEwU3E5cEx3T0FCMkl1Nk80WkdES25aVW9SY1pzV1E2SUF5dDViMU9BUWdCSFY5YnJpdXBxeVgyNVA1bkZtNXJkSVVnUzFrSmpVdjdz?oc=5",
     "news_image": "",
@@ -8019,12 +8019,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.64,
+    "news_score": 0.68,
     "news_title": "Tech Leaders Rally Behind Jensen Huang - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTmRyS2taLTh6OWp4U3FWcnVwYzBqaDZBVzkzTkRIMkpfVlBmTUpIMUtmeUtVcnJma1kwcnlPdDd0akhqZE9NaHJpMTB0WWdEd2xNMldmUDJ6VjNqZHl3a0wxVVVKY19JeHpCSFRYZWFvcVRvcFJwWVdrTlJwTm5HV1NzNGlKY2YzYUx3RFBR?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -10955,7 +10955,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1M3RVhWWnB4TU1KREpveWFSU1I2aXRGRGRJNUZ3WURHTGwxX1NseWZNeFB5Z1RZRm9OUkpnX0NKd3NaeUZPaS1LZjFwRkp1U3puanBOQWllWTAtY0tXbFg5YkNqNTJueF9nMHhhNkFzdlFZcjY4U205QUxlSk1wNTRGRUVsaFZPREpOOVpIYWhVVnBHbzNkOUVoVXlOSXFfUlJnNVprYUk5RDVETi1RN2FiX0xnRWNLQ0ZSWW1IdDdxNGs?oc=5",
     "news_image": "",
     "news_source": "Ahram Online",
-    "news_age": "63m ago",
+    "news_age": "65m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -13040,7 +13040,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.02,
     "news_title": "South Africa win hands France World Cup 'cornerstone' - AFP.com",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YTGRiTDdtU2RYcnF3QVQ4Q2F0VU81NTFTTTl3U0RlV09BNjZicGdvakdPZFN0aE80QUFsU1Nia09DM2FSdE1zRUVjSXNibTdOaDNuRU5fT2RkSXRxQVY4N3A4bDFubE4zbWJnemxESHRCWnc1Vm5yZEkzS0taT2M?oc=5",
     "news_image": "",
@@ -13049,7 +13049,8 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13571,12 +13572,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.78,
-    "news_title": "Another new low for Dabo Swinney, Clemson. Tigers manhandled at home by Georgia Tech - The New York Times",
+    "news_score": 0.87,
+    "news_title": "Another low for Dabo Swinney, Clemson. Tigers manhandled at home by Georgia Tech - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTjc3VlNLTmEwSmVsQjhJVi1ZdGtodUFZRXpMNkNLb21TUm5GeFBGOWtSVjNvTy1jeXhZWXdOTEZlVU9fNjJXS1hIelpZWmFTZ3I3WWpiblBKV2Noci1Ua0FfdmpmRC1SeEhnZFRaTzVaR2hMMmkyTXR1VHNtcnlReUxNa2xOVkZKWl8xZTMwWQ?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "96m ago",
+    "news_age": "98m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -14074,7 +14075,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.1,
+    "news_score": 0.13,
     "news_title": "Germany: Road to Bologna - Davis Cup",
     "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Gc3lFVzJjWHY5MVhUV2hfRkVwQjJJb3lOd0pSMzR3cGxXY0ZCVVpLQmZGRXhjSjJqRElGenhvd05kbmVhQWpldG9GbXF1TDh6MWswNHJNa0htRUFiX0NOa1VfaW1CaEpGX3B5VXB3?oc=5",
     "news_image": "",
@@ -15458,18 +15459,15 @@
     "refugees_rank": null,
     "union_rate": 65.3,
     "union_rate_rank": null,
-    "news_score": 0.69,
+    "news_score": 0.99,
     "news_title": "USMNT player ratings from CONCACAF Nations League first leg win over Haiti - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZEw3V3I1UV9PLVFXbTkwanM2bUs4c0dKdHNrWFFrZzlHYU15TDhUZjMyOFg1Y3J2aElaX1gyRWdrSjBCcFRoanpXTTBmR1lhUERpaXVkOXU4M1lJel9ISTBhR05jOVZ4cjVyLTdNNmdyVWRxVXRGRGJkM3ZpZWpyMTdTX21LM3pjYjIzQ2ZHUQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "23m ago",
+    "news_age": "25m ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -17401,16 +17399,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.64,
+    "news_score": 1.61,
     "news_title": "Iran's navy says three tankers on fire after hitting mines in Hormuz - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "61m ago",
+    "news_age": "63m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -18134,16 +18130,14 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.88,
+    "news_score": 0.87,
     "news_title": "Live Updates: Netanyahu says it's time to remove Iran threat \"once and for all\" - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "110m ago",
+    "news_age": "112m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -28471,7 +28465,7 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.43,
+    "news_score": 0.42,
     "news_title": "Udeh Unveils Tinubu, Mbah Re-election Support Group, Targets 20 Members per Polling Unit - The Guardian Nigeria News",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmdqTjNwa2NyTEpIM1Bsa2RIYktGajF1SDVQTXI0YUlPaTF1RE8zcHVYaVQ2Y052UTB3Qzl4eWNCcFpOc1FnbDlTOENkSTRQZlNqU09HT1RUalU3NEdnZzZ0MFR4YmFDWHBmMW5fWXB3cm9wTE11dnJYZXNPcU9UYnlMdWtMOGFnZnJYdWNfek9UdTZtNFdxSlNibGk5dl9pMi1OTG91bzlmUEFualRKb1pB?oc=5",
     "news_image": "",
@@ -31108,7 +31102,7 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.14,
+    "news_score": 0.13,
     "news_title": "Pope Leo visits remote Andes town on special stop of Peru tour - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdTNtbklpVmpyZVlWc2p3ZWJ2VFRzLThyaHp1ajhWbU11QlIwY19iWHA4ZHhZTlg0UXRtN1NXSnNLeFU3MU9Jd2VXU2FWdkhNSGdndVh5T0c4dG9MVjNiNG9RZTlwd0Z6WU82d2xRSm9ObllJX3hjc2poeENrWVZpV1dPdVJPSHF0NFRVNHhpS3pjdzh2NFJBWG1YQzBKMDlFUUZYeXhLRm1mMEk?oc=5",
     "news_image": "",
@@ -33131,16 +33125,19 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.85,
+    "news_score": 0.61,
     "news_title": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQ1hLMTNVb094dE1lVlNkWWdtNXVYQjFqUUQ0Q0xkR0s1VnFzUExZQVVlVEZLYTNIUWN3cWoxa1dIM0xkc0docFNONklpRTZ6UFlTb3hLeFJxWC1feVRscDJMSWZaazQ0YzQwRVNyTDNqYUdiMUszLQ?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "108m ago",
+    "news_age": "110m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -36721,19 +36718,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.46,
+    "news_score": 1.92,
     "news_title": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRmxpdGVWWnFKalBDb3Z1ZG9rU2RhbVMydDV0WFRrak9KQldJYXNaNWNhUjBMNERyUkZfVU5HUl9IOEhrUm1QX0V0RERFZlctclg4SjZOX1pQR2N1dEVmdS1HdDJ4c2c5ZklDdmd6dEN4eURrSUN0cllhbEs3UERPbXNLODdXenF0cVczVUdVd0xnRU5qcDJ1R0MyMjE0Z21rRDVUZVpodmhOSXlaNEc5a05jbw?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "87m ago",
+    "news_age": "89m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "gdp",
-      "gdp_per_capita"
+      "fifa_w"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5,
@@ -41261,16 +41254,19 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.57,
+    "news_score": 0.47,
     "news_title": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQ1hLMTNVb094dE1lVlNkWWdtNXVYQjFqUUQ0Q0xkR0s1VnFzUExZQVVlVEZLYTNIUWN3cWoxa1dIM0xkc0docFNONklpRTZ6UFlTb3hLeFJxWC1feVRscDJMSWZaazQ0YzQwRVNyTDNqYUdiMUszLQ?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "108m ago",
+    "news_age": "110m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -42539,9 +42535,8 @@
     "news_age": "15053h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "basket",
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
