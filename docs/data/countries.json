@@ -2552,7 +2552,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.41,
+    "news_score": 0.35,
     "news_title": "Korea@Australia - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUTQ4a0ZRLXViT3pCeGtrbFJ1all6RTJ5emZCekhqcUtXX2Q3Ry1kbG9HTElKeFNPclFWTVlFTzdMMldENXJ6X0JnZklfMU9FSHVmalE2ZUlud19NQ1JEV1ZuMncxV2NKam5CTHl5Ums1MDNUYkZSc2Y3U0RBTkJXblFQSG1PMndQSkV3eEpVWkphQkJWSDJsN0NfZy16T0hJMFNUUE91N3Y?oc=5",
     "news_image": "",
@@ -8017,14 +8017,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.52,
+    "news_score": 0.57,
     "news_title": "Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ear on China - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNV83TGNqLXB1TGRFV1otMFAwS3poMGY4dHp6V05vWllwcmJ0SGN1QkxXdHpob3czaXJSLW1jcjkta1FpRFR1emR3SVZtWWlUclVIWDlFODZHRDFabzcxR2JfamFhU3VxTnVRNG16Z0F2Y09wRUU0ZmxRazVwTDVSV0V2dlFNNm1WazBoUXg2U1kxM1p0Ym5NSmREU1htSDk2SF9jR2hSTXFYLU85ZHFnaW5YMzY?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13033,15 +13034,17 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.56,
+    "news_score": 1.29,
     "news_title": "South Africa win hands France World Cup 'cornerstone' - AFP.com",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YTGRiTDdtU2RYcnF3QVQ4Q2F0VU81NTFTTTl3U0RlV09BNjZicGdvakdPZFN0aE80QUFsU1Nia09DM2FSdE1zRUVjSXNibTdOaDNuRU5fT2RkSXRxQVY4N3A4bDFubE4zbWJnemxESHRCWnc1Vm5yZEkzS0taT2M?oc=5",
     "news_image": "",
     "news_source": "AFP.com",
-    "news_age": "8m ago",
+    "news_age": "10m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -16826,7 +16829,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.43,
+    "news_score": 0.42,
     "news_title": "India: Delhi surpasses Lahore as world's most polluted city - DW.com",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNFpjSkU5QkR3bFpwclRRQ1NFSnBwM1JxUXh4Wm94TkhhM0pSUHBpQWNPamowWktydzhwQ2FQRHYtNzM1bTIzQTVsbUxUamIyMUw2Ym9rMFZ5dllPSkxnb0tsRjVCekJCWUJHVC1zSHR4dEtVOTBNak5qSVRpMExSZ3l1dHVIVWFkRGZORzNCWFMwWEU1WWgteQ?oc=5",
     "news_image": "",
@@ -17398,7 +17401,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.11,
+    "news_score": 0.08,
     "news_title": "Fatih Birol: The Energy World Will Never Be the Same As Before the Iran War - Time Magazine",
     "news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GMU54SnZyRFRIa0JwNnM3SVNLUXRwX0ljUGp6UjQ2OXRLODZtd2JqQ3BablVqUHZJT1JCWWxSX0tYNHpxVE45c1BKRi00LUZCYUkza3VSQzlJVGhUZHhQM2w5eEE5TjZ1WUtPbm5sN3E0Z1hxcnFrQmN3?oc=5",
     "news_image": "",
@@ -19267,7 +19270,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRTAwY1pTczhZVmNBMjc0ZWt1Sk9pdGl5bkVlZzNfcHV5RzZDdGtCUkRFN1I5WGo5TzBlbDZHaHk3R0Y1clhFdEY3VEwwallsUlpqWERGVTd5b0Z0b3ZKd195T1FwMHNDNmwzREQ3VnlRNXBjcUFWWE9ibjFIaVZPWFdR?oc=5",
     "news_image": "",
     "news_source": "The Japan Times",
-    "news_age": "118m ago",
+    "news_age": "2h ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -24832,7 +24835,7 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.04,
     "news_title": "Gilberto Mora to wear the number 🔟 shirt for Mexico - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaTdNWFBPX2ttd0ZxcWFLNnM4NWEzSFFvb1U1YkJjT0F6Mzg3elcyNnVNOGN0NDhOR2ticC1FTzJZQU5SUFNuMUFqbTQwNElJb1hObGZfSGN4ZFc0cXBramkwakdtczhGTWlSNEtXWWYxand5ejdfRGlJTDZZWXU4dFFNbnhlTUk?oc=5",
     "news_image": "",
@@ -33134,19 +33137,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.25,
+    "news_score": 0.35,
     "news_title": "Europeans decide on thorny question of who will speak for bloc in Ukraine talks - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYnZWRTRleUVRbFBSU05GSWVvc0tDSGsxOTEwN0hqLXZEVUhpcXNxeGU4dXhlU0F0Q2xLUU1UeHdwYjJRWFVUOHE2YlBQZUFkYjVqWHdEazgzNTBlQXdJN0lEZ3FXU0pXZWhLNGUwSTYtcDU2aV9FUV83QURBQjdEOUZIN19kSlpSQzJTNWRQMU82SGI0RzdreUlrLTlXd3FFY0EzRWtMdEZUaF9mbmt5WTFmV1ZjUQ?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "6h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "coffee"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -35655,12 +35654,12 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 1.6,
+    "news_score": 1.83,
     "news_title": "South Africa win hands France World Cup 'cornerstone' - AFP.com",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YTGRiTDdtU2RYcnF3QVQ4Q2F0VU81NTFTTTl3U0RlV09BNjZicGdvakdPZFN0aE80QUFsU1Nia09DM2FSdE1zRUVjSXNibTdOaDNuRU5fT2RkSXRxQVY4N3A4bDFubE4zbWJnemxESHRCWnc1Vm5yZEkzS0taT2M?oc=5",
     "news_image": "",
     "news_source": "AFP.com",
-    "news_age": "8m ago",
+    "news_age": "10m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -42540,6 +42539,7 @@
     "news_age": "15040h ago",
     "news_columns": [
       "fifa_ranking",
+      "fifa_w",
       "basket",
       "olympic"
     ],
@@ -43744,7 +43744,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.39,
+    "news_score": 0.38,
     "news_title": "The Minister of Science and Technology explains 'What core technologies has Vietnam mastered?' - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOakh1NTNRT1J3YnpnQnRQMUtHN3ozREdoYTVJZ05iQUlPNjR5MjZpcWNDdzJ5ak12LUJqYWFienhacGNDYWtnUjdZODk4N01JVnBHcmhIWDUzcTE2TDJaQ1Y1OEdRMlFaSTR1N1hCUEpBUnNITXNJdkM3NmFSSkJBVDd5WXh5R19ncDVQTFBnbzFpSmNaazJnRUJhN2kyb3g2QWVEYQ?oc=5",
     "news_image": "",
