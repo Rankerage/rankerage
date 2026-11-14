@@ -3058,18 +3058,19 @@
     "union_rate": 72.9,
     "union_rate_rank": null,
     "fifa_w_rank": 80,
-    "news_score": 0.0,
-    "news_title": "Bahrain GP in Malaysia declared heat-hazard race - Yahoo Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRHZnM195Sk9nYW14ZmtUM3NLb1JRYktGYVZHdXdYOWJ3TUdaZXI1anpNSG1zNW51dXctOW5hQkRYdjd0Ykg5U3QzYzRkZDA3ZHpQSldNQWc2LW8yZW80MTIwN1RxazNMSEtfd044amloZVlvQ2lPX29Hemd5ZnJENHFRN2MxVmM1U1E?oc=5",
+    "news_score": 0.3,
+    "news_title": "KSA Business: Saudi economy to rebound in 2027 as oil output recovers, says Moody’s - Gulf Daily News (Bahrain)",
+    "news_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HRU45WW5sQllVWkI3dENQcWVpa1U3NTRxZjI3aTFMY0xtZkU3Q2NfYXFZNk5qUWNyaE1pSm1VRFAteFBjb3VRQzg4WHFYLXBwUkFr?oc=5",
     "news_image": "",
-    "news_source": "Yahoo Sports",
-    "news_age": "4h ago",
+    "news_source": "Gulf Daily News (Bahrain)",
+    "news_age": "1m ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": null
   },
@@ -5161,7 +5162,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.35,
+    "news_score": 0.44,
     "news_title": "Ancelotti and Raphinha sent off as Japan beat Brazil - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTnV5ZmtpRGxiVE0ySlFqZnRDZW51eEdOeTZpcVR4bnJpOGh6RGNYUmIta0gzaTV5dXdpQmNSUVQ2ZEpWcUdnNnRlN2JVbjNxYnkzOTdmTjZmaUU2VS1zRDlKdlhmZUFQNWxVUlVsTkxtQ0NQT3dqUDJLRnlCb2lRaVRkNUlNRlpRTkE?oc=5",
     "news_image": "",
@@ -5170,8 +5171,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "basket",
-      "olympic"
+      "world_cup"
     ],
     "bottom50_wealth": 2.1,
     "bottom50_wealth_rank": 24,
@@ -7576,12 +7576,12 @@
     "refugees_rank": null,
     "union_rate": 70.9,
     "union_rate_rank": null,
-    "news_score": 0.3,
+    "news_score": 0.31,
     "news_title": "Fuel crisis and protests pressure Chile's far-right president - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLXlTRW9uNWhrNHdIVXlIV2ZXXzRJN3MyS3ZBSUxTVXUwOU5qWlloUTJmRTRTM1dVSGtWSzFlUkdZWmkzOXJnMWQ1eHM2eV93NlRZMXlyYW5QNHpuQVhCajJaeDRuaW1lNkpNaElxZTd1clByY3c1MWlLOUl0MzRFaVpRS1E?oc=5",
     "news_image": "",
     "news_source": "NPR",
-    "news_age": "3h ago",
+    "news_age": "4h ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -8020,7 +8020,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.55,
+    "news_score": 0.49,
     "news_title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkl0WHV4OWtNN0k0SFVuR2E0VXhrOUpYMXZiOUxFYUVYZlBpa00zTTRXaTVmYWtwcGktWjAzUnMxckxsS0l1S2VqekRxbS15ajUwT1p6RkhjU1NtM3JwMU5uUGlqT295Y19OOXJfUXRHWFNLcGw0VFlTMXV1eFNZUXpobDNHcHVtVUxVVVZqMnA5a09LT2I4d05rWmVyUFHSAaQBQVVfeXFMT3ZsNjJfWW9FQ2VPLWROVXp2UHZsS0gwRjBUdkVZMi1tbnhFQXQ1RlBrazNCYTJUcWc2NWU2WGtETnB0MTNNQkJES1l0M011ZWJybldxTFBaZGJIQ1RIaVhXSkVvWVVZRFlSM1h3V1dnbHJiVmkxWnp6Y0wzOXJvaUdmbzk1Y0lyR2RrNTl3YkFzdVdfd21mYk5mQkRKN01TYlQ3ODA?oc=5",
     "news_image": "",
@@ -13039,7 +13039,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.16,
+    "news_score": 0.15,
     "news_title": "Who are the 'street medics' showing up at protests around the world? - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbENFTDZRRVFwbkxfcTdRclU0dTd3RXlWWHBJSjF2bHdWUFZhLTFXUVpUSEV3RUI2Q2FRd2VwNEcwcnNaMFFDUEhCU0Q2Z0l6a0s2MjBzN285dFdRLVdSWkw2a0JHWmEtMDNLNmJTbGhYTUNNWjRlR25wa2ZFcnlpaV9ZdEJFS1BxTExYdVJsdjhRQVBjRzJEQw?oc=5",
     "news_image": "",
@@ -13571,15 +13571,19 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.81,
-    "news_title": "Georgia secure World Rugby Nations Cup title as USA eye Pool A crown - World Rugby",
-    "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOalBibE5ubzRrbC1semFyRFVjZ21nbHdrS0dHSnlsTEUtM082NlAxVWlQY3ROSWVXNVNRQzZGUmREY3FrTGhqTGNyLWJPRkcxX1VDMDZVNGhydnNFNHVmRndVNU1FYXV2cEpMemZGN2hIRmo0bTZLYnBQRzZiV1hRRHl2NzJDdXhQOXktVldTUGFRWVh3VHBXNGhjRUZIUHhxSmlpV0o2d18?oc=5",
+    "news_score": 0.91,
+    "news_title": "Georgia football commit Marcellus Young Casario dies after 'sudden medical emergency' - Yahoo Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaHgtUjRta1Rkakp3U0pWMGk5RmpZN0pUaGdOUVpsZGNtbnBLdF9pRU03YzVQSmJDc0tHNS1yX0NqdmtZYjBBbGNSMWo2eFFVOTdVQnJpaXc5UFZUbjdUMDRBY3hfNUhhNExYZkNvdGVjUEZYSzdMYmhwLXFhZDFrU2wzVkY5Y0wya1VfdG1CU3VGRzRMSG5KQm5CQnV4amJDQlcxZG16QVlJUTBQRDREdTUwNXVMQXdoRWhEX2pFUUZYWFY5VWVWOExpaFotSG5XWVpuTEwtVjE3UFNkWndudlp6amUwbzVRWndoOEdBS05vWmRV?oc=5",
     "news_image": "",
-    "news_source": "World Rugby",
-    "news_age": "3h ago",
+    "news_source": "Yahoo Sports",
+    "news_age": "78m ago",
     "news_columns": [
-      "rugby",
-      "olympic"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket",
+      "doctors",
+      "beds"
     ],
     "bottom50_wealth": null
   },
@@ -14071,7 +14075,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.27,
+    "news_score": 0.36,
     "news_title": "Germany: Road to Bologna - Davis Cup",
     "news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Gc3lFVzJjWHY5MVhUV2hfRkVwQjJJb3lOd0pSMzR3cGxXY0ZCVVpLQmZGRXhjSjJqRElGenhvd05kbmVhQWpldG9GbXF1TDh6MWswNHJNa0htRUFiX0NOa1VfaW1CaEpGX3B5VXB3?oc=5",
     "news_image": "",
@@ -14080,8 +14084,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "basket",
-      "olympic"
+      "world_cup"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -14269,12 +14272,12 @@
     "union_rate": 60.4,
     "union_rate_rank": null,
     "fifa_w_rank": 50,
-    "news_score": 0.74,
+    "news_score": 0.73,
     "news_title": "Dangote eyes Ghana cocoa industry, plans 500,000-tonne processing deal - Legit News",
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcEF5N21mNlFfSVc0RzB2ZEJCT3doRk5PbHRzU2JYbW5mVTBwTTVrTVVrVTZPc19ob0lfWEZkY0U2eGpMVXZLLTgxQllPWkcwYV80amU5aEhrV05aektHbkp0bllGQWVDTkhQbUUzc2syN3FLQVBQSXk3bXFnMU1xcFJwY1hsSEpxNjJJMGtIYVE2djFsSVEwd2ZLNGpRdU5xbmZYSVl4ZlZjYTJ1elZLZjJqY0R1Y2ZLUExDSTFFR1lXcXByRVk3RjlYTzc?oc=5",
     "news_image": "",
     "news_source": "Legit News",
-    "news_age": "72m ago",
+    "news_age": "74m ago",
     "news_columns": [
       "chocolate",
       "agri"
@@ -18577,12 +18580,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.65,
+    "news_score": 0.64,
     "news_title": "Italy fines Meta $887 million over Android users' data access - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVFmcHRvNGEzVXRKbU5Kc0JhSDV4R2o0bnpXSUJMZnRMc1E2ckNCRzBaWDhzY2xObHVtNmtiWmdoX3g4NlVsYkc1bzFDbVB0T016LWczNHJ6bGx2ZXlQeDZPUGNjeXJPaWZ3Wm5DdU9za21PMXFlZVVDckh5Q1I0QnROcElOTnA2bGMzczBMbFJweW1ISkkwWUgzNXJpTU95N0NR?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -19266,7 +19269,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.5,
+    "news_score": 0.48,
     "news_title": "Ancelotti and Raphinha sent off as Japan beat Brazil - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTnV5ZmtpRGxiVE0ySlFqZnRDZW51eEdOeTZpcVR4bnJpOGh6RGNYUmIta0gzaTV5dXdpQmNSUVQ2ZEpWcUdnNnRlN2JVbjNxYnkzOTdmTjZmaUU2VS1zRDlKdlhmZUFQNWxVUlVsTkxtQ0NQT3dqUDJLRnlCb2lRaVRkNUlNRlpRTkE?oc=5",
     "news_image": "",
@@ -27818,7 +27821,7 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 0.06,
+    "news_score": 0.05,
     "news_title": "How to watch Australia vs. New Zealand in the Rugby League World Cup final online for free - Mashable",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2RtSFFZM3BlWWZYbGVwU1loTFRSSnBVVURLUnJkeVhudTY0YjJVd1BhWm1rLTZucHptUmdxUjlUb2pHRWZlVGhYLWQyVG1PQTdILTVlM2wtallfRFFPeGt5bDZkTEhUdWh4OXVTQkRjVDI5QUN5bXVLcVdSOVItYmF0VVJGb3FiVkpTRFVtNkRkQU9td1VHY3pZYkYwUWVSZVRSQ1lYSUN2OFk?oc=5",
     "news_image": "",
@@ -28471,15 +28474,15 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 1.51,
+    "news_score": 1.56,
     "news_title": "Udeh Unveils Tinubu, Mbah Re-election Support Group, Targets 20 Members per Polling Unit - The Guardian Nigeria News",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmdqTjNwa2NyTEpIM1Bsa2RIYktGajF1SDVQTXI0YUlPaTF1RE8zcHVYaVQ2Y052UTB3Qzl4eWNCcFpOc1FnbDlTOENkSTRQZlNqU09HT1RUalU3NEdnZzZ0MFR4YmFDWHBmMW5fWXB3cm9wTE11dnJYZXNPcU9UYnlMdWtMOGFnZnJYdWNfek9UdTZtNFdxSlNibGk5dl9pMi1OTG91bzlmUEFualRKb1pB?oc=5",
     "news_image": "",
     "news_source": "The Guardian Nigeria News",
-    "news_age": "36m ago",
+    "news_age": "39m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "politics",
+      "economy"
     ],
     "bottom50_wealth": null
   },
@@ -29503,17 +29506,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.72,
+    "news_score": 0.94,
     "news_title": "🔥 In-demand Antonio Nusa continues post-World Cup form for Norway - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWhaUTByaEdhYmc3blJZV2RkaHl4OXBNZDVaWlBrLXZDb2dGZEs2anQzdF9CXzZDdzJBWmNQSG5vUVZTbEdudkFWakhQTEt5dGZoVnJuQmtXQWhOT3RoVGtIYmotWWdZd0x4aTZCSzJLN1UtY3hJempKcXI3SnItLThNTWlJR1JzamxB?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "77m ago",
+    "news_age": "79m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket"
+      "world_cup"
     ],
     "bottom50_wealth": 2.8,
     "bottom50_wealth_rank": 19
@@ -30507,7 +30509,7 @@
     "union_rate": 71.9,
     "union_rate_rank": null,
     "fifa_w_rank": 48,
-    "news_score": 0.38,
+    "news_score": 0.37,
     "news_title": "South Africa@Panama - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMzZzS3FlS2VibkxyVkhlOV9PWFNMNExkR2NaREVja0NGd2o2SXZhcUpjeVZNUTRUR2o4cEhNaURkZHVNRUcwVkZJZEsyMUdwalZUMkhSVlVXVjJtT3dfWndKajRhR1p6NzVDM29sdUNLTU1mOWdSeVhYaGkzUnhuTkhUc29OS0sybU9RUVlEUmJsY1JVQ1daZGdsQ2NLX1ZOWDllbA?oc=5",
     "news_image": "",
@@ -33133,15 +33135,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.46,
+    "news_score": 1.44,
     "news_title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Sc2FZdms0a2VhSnZ3bHhCakcwcnl4SWhTWi1HaDJUdmZXdzVKTmtocFp0aFRYQk9VYllVZ1Uzdkp5OV9Ic2l5NmtUUXU4WVBaNFpMdDVselhoS2c?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "42m ago",
+    "news_age": "44m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "geopolitics",
+      "conflict"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -41261,15 +41263,15 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 1.11,
+    "news_score": 1.13,
     "news_title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Sc2FZdms0a2VhSnZ3bHhCakcwcnl4SWhTWi1HaDJUdmZXdzVKTmtocFp0aFRYQk9VYllVZ1Uzdkp5OV9Ic2l5NmtUUXU4WVBaNFpMdDVselhoS2c?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "42m ago",
+    "news_age": "44m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "geopolitics",
+      "conflict"
     ],
     "bottom50_wealth": null
   },
@@ -42535,11 +42537,15 @@
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONWM2aXc1OGtEUmRhQXAxWkF6OVlvaTNpVzRuUjNOeXVMQmoxN2EyRVZld1ljSkVYRVFNTWJ6NVlKUVdlbC1nTE81THNUUjdNZU1EblFWOGtfR3ZFQ3psc205eEFacXI5c05FN2Y3c0hrUVhSNDJZV2VQemg0YkM5UVdtSE5Ob0l1dllwZ08tNWNhVEcxSkg1d2NSRi0tYTZIVUkwX0V4c3BRNklvZnVNb1poMW1pQU1wb2FpOHpsdGgzQUJiV2c?oc=5",
     "news_image": "",
     "news_source": "City of Toronto",
-    "news_age": "15049h ago",
+    "news_age": "15050h ago",
     "news_columns": [
       "fifa_ranking",
       "basket",
-      "olympic"
+      "olympic",
+      "health",
+      "measles",
+      "geopolitics",
+      "conflict"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
