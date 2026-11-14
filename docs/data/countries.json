@@ -8019,12 +8019,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.0,
+    "news_score": 0.99,
     "news_title": "Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ear on China - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNV83TGNqLXB1TGRFV1otMFAwS3poMGY4dHp6V05vWllwcmJ0SGN1QkxXdHpob3czaXJSLW1jcjkta1FpRFR1emR3SVZtWWlUclVIWDlFODZHRDFabzcxR2JfamFhU3VxTnVRNG16Z0F2Y09wRUU0ZmxRazVwTDVSV0V2dlFNNm1WazBoUXg2U1kxM1p0Ym5NSmREU1htSDk2SF9jR2hSTXFYLU85ZHFnaW5YMzY?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -17404,12 +17404,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.18,
+    "news_score": 0.16,
     "news_title": "Rubio says further US military action is not needed against economically weakened Iran - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "7h ago",
+    "news_age": "8h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -19271,17 +19271,18 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.37,
+    "news_score": 1.05,
     "news_title": "Microsoft says services fully restored after outage roiled world - The Japan Times",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRTAwY1pTczhZVmNBMjc0ZWt1Sk9pdGl5bkVlZzNfcHV5RzZDdGtCUkRFN1I5WGo5TzBlbDZHaHk3R0Y1clhFdEY3VEwwallsUlpqWERGVTd5b0Z0b3ZKd195T1FwMHNDNmwzREQ3VnlRNXBjcUFWWE9ibjFIaVZPWFdR?oc=5",
     "news_image": "",
     "news_source": "The Japan Times",
-    "news_age": "30m ago",
+    "news_age": "32m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "basket",
-      "olympic"
+      "gas_price",
+      "energy_per_capita",
+      "co2",
+      "renew",
+      "exports"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -24845,7 +24846,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTm85QlZZUTBTbGs4UEtXbVpSc09JV3VEQTB0WW04M1ZTRmNRaURzY1A5bXZaSlBuaklXTDhkYlJaSU5yV2tXNE45STZEejBmOXpTQWc4MWYydC01cjJjQnNSRk9WU2tRaHJoLVFBdlZ1Nk9VSUZwcE5kSXFhbUstVlZNd3N5TGszSERWbFlUekFKd05ENEJzcnRUejh1YXRJWjB5NU5wYVRBVHBRWFpWR1FYUmo?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "84m ago",
+    "news_age": "86m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -32344,7 +32345,7 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.1,
+    "news_score": 0.09,
     "news_title": "Traveller letters: Qatar Airways economy woes, Qantas business-class meals and travel tips - SSBCrack",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbU51ZzJoNnVGVmtvd190eFVndHlkcHJ1TVJHbE1sUDlNWG9HSTZJbl96QzRKUWttOTRiaHRZSHpLLVNKZTktaENIUTUxOTR1dDJNV2tJQlZQSWZyZzVYZDNNeUFMTGhRT2txTmFUb2dVTVdNcEp0SjhqSGRyMEFiM2xVYkh6NEdLbVFPVmRFWFVPSmFwZVJLVVVYaXJHUS0wX2xNN2VwclMwMmsteDh3VGpITjVEQQ?oc=5",
     "news_image": "",
@@ -33142,7 +33143,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.21,
+    "news_score": 0.17,
     "news_title": "Europe and Ukraine get a boost in peace talks, but Putin is playing for time - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcUF0RjZSUldra2R2TVp6OUg4YmFBRDdHMHYtMnpwNk9MelhKdU92NUtMaC1heV9GYnotUEZvWHdqLXVQejV2bnpScUlTaGlCbU5vU0ozX3pOWENTVGdDaVNoNGRGVzBSbFM3X25GcURsWFBjVFJkLWVxNjJJVkh0NlpJaFFHcnJhMTVNdnJR?oc=5",
     "news_image": "",
@@ -42545,10 +42546,9 @@
     "news_source": "City of Toronto",
     "news_age": "15038h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
+      "basket",
       "olympic",
-      "basket"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43751,7 +43751,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.59,
+    "news_score": 0.58,
     "news_title": "The Minister of Science and Technology explains 'What core technologies has Vietnam mastered?' - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOakh1NTNRT1J3YnpnQnRQMUtHN3ozREdoYTVJZ05iQUlPNjR5MjZpcWNDdzJ5ak12LUJqYWFienhacGNDYWtnUjdZODk4N01JVnBHcmhIWDUzcTE2TDJaQ1Y1OEdRMlFaSTR1N1hCUEpBUnNITXNJdkM3NmFSSkJBVDd5WXh5R19ncDVQTFBnbzFpSmNaazJnRUJhN2kyb3g2QWVEYQ?oc=5",
     "news_image": "",
