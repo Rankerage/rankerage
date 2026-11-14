@@ -2552,7 +2552,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.71,
+    "news_score": 0.7,
     "news_title": "How to watch Australia vs. New Zealand in the Rugby League World Cup final online for free - Mashable",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2RtSFFZM3BlWWZYbGVwU1loTFRSSnBVVURLUnJkeVhudTY0YjJVd1BhWm1rLTZucHptUmdxUjlUb2pHRWZlVGhYLWQyVG1PQTdILTVlM2wtallfRFFPeGt5bDZkTEhUdWh4OXVTQkRjVDI5QUN5bXVLcVdSOVItYmF0VVJGb3FiVkpTRFVtNkRkQU9td1VHY3pZYkYwUWVSZVRSQ1lYSUN2OFk?oc=5",
     "news_image": "",
@@ -8018,14 +8018,19 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.1,
+    "news_score": 0.07,
     "news_title": "Trump, Xi and Putin to meet Thursday, discuss nukes - Politico",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRzZVbHFZa2NPRXFKZld5dVRCeDUyVFVFdmlaRURQVlFDQ0VxSjhWSC1aVm1zX3ExckJzaFM1dEIydUREa1FoMl8tM3h0RHpWQkFvNEptbjI3TmFNMDN6NGZfYUZHT3d1YzFMenZuYTBqMVQ2U1lkVEJfcktMa1ZIZ21EdG10bmJGZ3RsSk1MSmgyd1NNQTV0RnpyekVHY3VM?oc=5",
     "news_image": "",
     "news_source": "Politico",
     "news_age": "10h ago",
     "news_columns": [
-      "fifa_ranking"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
+      "nuclear",
+      "nuclear_power"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -9077,7 +9082,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 128,
     "fifa_w_rank": 69,
-    "news_score": 0.2,
+    "news_score": 0.19,
     "news_title": "WBSC U-23 Baseball World Cup 2026 presented by RAXUS: Game Report - Rafael Alvarez's two-run double puts Cuba on course for win over Panama - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVGJOd0tkQXpQY1FzSnhTQTZLX0E5NUlOV00tME1FVllPU3dINmZIMTlHTjN5M1c2RGdCa0l5Y2E5WnNtWklpQXFNOHphd3JUbGFUZm5aMWNzMVN5UFh1c01SRXU4TFNUcEhsQVh2X0xYb203UDNvUlVMR0VZbUF2WGpVY203dWZwdER5ODJyNDhlcGdranpjQ1MyOTYtUWdhV1FtS3N2U1FrdGMy?oc=5",
     "news_image": "",
@@ -16832,15 +16837,14 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.26,
+    "news_score": 0.35,
     "news_title": "India: Delhi surpasses Lahore as world's most polluted city - DW.com",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNFpjSkU5QkR3bFpwclRRQ1NFSnBwM1JxUXh4Wm94TkhhM0pSUHBpQWNPamowWktydzhwQ2FQRHYtNzM1bTIzQTVsbUxUamIyMUw2Ym9rMFZ5dllPSkxnb0tsRjVCekJCWUJHVC1zSHR4dEtVOTBNak5qSVRpMExSZ3l1dHVIVWFkRGZORzNCWFMwWEU1WWgteQ?oc=5",
     "news_image": "",
     "news_source": "DW.com",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -18580,7 +18584,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.57,
+    "news_score": 0.71,
     "news_title": "ITALY U21 WIN AS CAMARDA SCORES - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGZYWEhESVZNX1JMbGFiTzdINi12QXhHUndRd3haSDVHZnE2d3NCcjRfY1ZoSzRVd3Ryc3lmbm9Nd0hsa2p2bUZjY0g4SlZfNl9ydGx0ZnRFcm1FaUxUbGVvNTNKc00zZnc4SXdXMzVpN1Y2cVhXVXprNUZzRDZ4czAySQ?oc=5",
     "news_image": "",
@@ -18588,8 +18592,7 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic",
-      "fifa_w"
+      "olympic"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -19269,12 +19272,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.36,
+    "news_score": 1.35,
     "news_title": "Vietnamese intellectuals in Japan increase cooperation in science, technology, and innovation. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQk1NdTlZZHU0d192OF9uNGYtV0d5eWo2YnljWDE2cDl1Ti1nRWh0VTVpdXNBQTUxVTU4NmdsNmpLVGphaHdwaHEzaVJwS0d5ZTBubzVKVVVSUjR0emJOdjZBcGx6d0IzRXl1XzBLcWZITkFRaUNZRzRHbjlUelRQbkJqWXhHRzhoX3BJdnI2RVpFUHowNlZ0bkhQamgwd0dyNmtuZnZLQQ?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "39m ago",
+    "news_age": "41m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -28007,7 +28010,7 @@
     "refugees_rank": null,
     "union_rate": 69.0,
     "union_rate_rank": null,
-    "news_score": 0.11,
+    "news_score": 0.1,
     "news_title": "WBSC U-23 Baseball World Cup 2026 presented by RAXUS: Game Report 40 - Nicaragua-Great Britain - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOamloZmxncjFfQUs2Y2RqQVN4YnFraU1NU19HTzIwNVk3TnBQblEwNDZ6U1dodW5KdHphWFJJM1B4NHMzbkpiX3JkanE5MFFBN1ZMdTVqZlZyRndlU1NSQjNPeXpKWkRVeTBmN1ZhRFllVmRJZktsaE0teXM5RUN1d3VxNnpkRWVDa2Q5bnd5azhMSkVZdVpfNEoyZTcybUlnUEhkSnZBeXI?oc=5",
     "news_image": "",
@@ -28472,12 +28475,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.82,
+    "news_score": 0.81,
     "news_title": "Nigeria set to host 450 African entrepreneurs to create 100 new companies - Legit News",
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcUpmbU9NMlgwUTFGV19IU1pLaW95Rk85SjJLOVdpMTBmRW96d0UzUXd1dmUxT1FCd3BjTWpoQ2VIZmZxUHgtRjZFTU50WHB6aFMzemx3QmVFZmM0OXpQZzZteURlcHowb01fSlhaZFV6RVNUUDk2ZE9QbFJ4dU9uSlZJNlR5RDlzTjlBSFdUUDcxZ0FVRExFUnlEamsySkRGakpTaWlUTGtPSEhEdVN6TWRYVW1FUS1PN2NLTXdSSzE2NFkyelFpbg?oc=5",
     "news_image": "",
     "news_source": "Legit News",
-    "news_age": "53m ago",
+    "news_age": "55m ago",
     "news_columns": [
       "debt",
       "gdp",
@@ -30508,7 +30511,7 @@
     "union_rate": 71.9,
     "union_rate_rank": null,
     "fifa_w_rank": 48,
-    "news_score": 0.2,
+    "news_score": 0.19,
     "news_title": "WBSC U-23 Baseball World Cup 2026 presented by RAXUS: Game Report - Rafael Alvarez's two-run double puts Cuba on course for win over Panama - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVGJOd0tkQXpQY1FzSnhTQTZLX0E5NUlOV00tME1FVllPU3dINmZIMTlHTjN5M1c2RGdCa0l5Y2E5WnNtWklpQXFNOHphd3JUbGFUZm5aMWNzMVN5UFh1c01SRXU4TFNUcEhsQVh2X0xYb203UDNvUlVMR0VZbUF2WGpVY203dWZwdER5ODJyNDhlcGdranpjQ1MyOTYtUWdhV1FtS3N2U1FrdGMy?oc=5",
     "news_image": "",
@@ -32131,7 +32134,7 @@
     "refugees_rank": null,
     "union_rate": 56.8,
     "union_rate_rank": null,
-    "news_score": 0.16,
+    "news_score": 0.17,
     "news_title": "WBSC U-23 Baseball World Cup 2026 presented by RAXUS: Game Report - Joan Delgado's walk-off single snatches victory for Venezuela over Puerto Rico - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcmpIZl9LT2QwU0lUYkxYZGJZWVZNNFRXUFQ2SktDeEhvaTJZZTFHeDVMenNyZkt3QXZkRHFMYmtyODJ6RDNpNkJFeGJ6b05XZ2N6dlZGMFdpenRKZDByT2tNRDgtenlJQ0RqYnhZRUhMVzk4d2lUaGZMTi1NWlRQdldvM3hLUU1tbHh4ZkFnXzNsYU5OUnoyc0tURlAyVUFaM1IwOTUwUjUtelB4bXZkLTVHb1NCX2hNS3c?oc=5",
     "news_image": "",
@@ -33138,14 +33141,19 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.17,
+    "news_score": 0.12,
     "news_title": "Europeans decide on thorny question of who will speak for bloc in Ukraine talks - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYnZWRTRleUVRbFBSU05GSWVvc0tDSGsxOTEwN0hqLXZEVUhpcXNxeGU4dXhlU0F0Q2xLUU1UeHdwYjJRWFVUOHE2YlBQZUFkYjVqWHdEazgzNTBlQXdJN0lEZ3FXU0pXZWhLNGUwSTYtcDU2aV9FUV83QURBQjdEOUZIN19kSlpSQzJTNWRQMU82SGI0RzdreUlrLTlXd3FFY0EzRWtMdEZUaF9mbmt5WTFmV1ZjUQ?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
     "news_age": "8h ago",
     "news_columns": [
-      "olympic"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "coffee"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -39104,7 +39112,12 @@
     "news_source": "Nation Thailand",
     "news_age": "77h ago",
     "news_columns": [
-      "fifa_ranking"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": null
   },
@@ -41252,14 +41265,14 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.84,
+    "news_score": 0.88,
     "news_title": "US floats Ukraine ceding land in exchange for NATO membership: Kyiv - Euronews.com",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdG5xMEhNZHJWdGVwOFEyZlJJYjUxcXNydXJSVl9SSzNqTFJfdmZDRXFSNTZ6SE1pUzNZeVVYOUlxQ1lpSmh5N1lDSGZDdHpEZDl0TEV6LVpOdWo4emV1ZTZoUlhEaU1laGlrQmoxNjJrVzE1Wno4bjdmeWVsUmtVX2lZblZwS05iWjBNbUdmNWxacDRCbmZRVFNtTFlaMFNrUk1JWlZVai1yR3dNSzJwejQyTGFJT2df?oc=5",
     "news_image": "",
     "news_source": "Euronews.com",
-    "news_age": "91m ago",
+    "news_age": "93m ago",
     "news_columns": [
-      "olympic"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -42527,8 +42540,8 @@
     "news_source": "City of Toronto",
     "news_age": "15042h ago",
     "news_columns": [
-      "basket",
       "fifa_ranking",
+      "basket",
       "olympic"
     ],
     "bottom50_wealth": 1.5,
@@ -43445,7 +43458,7 @@
     "union_rate": 56.6,
     "union_rate_rank": null,
     "fifa_w_rank": 40,
-    "news_score": 0.16,
+    "news_score": 0.17,
     "news_title": "WBSC U-23 Baseball World Cup 2026 presented by RAXUS: Game Report - Joan Delgado's walk-off single snatches victory for Venezuela over Puerto Rico - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcmpIZl9LT2QwU0lUYkxYZGJZWVZNNFRXUFQ2SktDeEhvaTJZZTFHeDVMenNyZkt3QXZkRHFMYmtyODJ6RDNpNkJFeGJ6b05XZ2N6dlZGMFdpenRKZDByT2tNRDgtenlJQ0RqYnhZRUhMVzk4d2lUaGZMTi1NWlRQdldvM3hLUU1tbHh4ZkFnXzNsYU5OUnoyc0tURlAyVUFaM1IwOTUwUjUtelB4bXZkLTVHb1NCX2hNS3c?oc=5",
     "news_image": "",
@@ -43730,12 +43743,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 1.3,
+    "news_score": 0.97,
     "news_title": "Vietnamese intellectuals in Japan increase cooperation in science, technology, and innovation. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQk1NdTlZZHU0d192OF9uNGYtV0d5eWo2YnljWDE2cDl1Ti1nRWh0VTVpdXNBQTUxVTU4NmdsNmpLVGphaHdwaHEzaVJwS0d5ZTBubzVKVVVSUjR0emJOdjZBcGx6d0IzRXl1XzBLcWZITkFRaUNZRzRHbjlUelRQbkJqWXhHRzhoX3BJdnI2RVpFUHowNlZ0bkhQamgwd0dyNmtuZnZLQQ?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "39m ago",
+    "news_age": "41m ago",
     "news_columns": [
       "fifa_ranking"
     ],
