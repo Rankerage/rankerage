@@ -2554,7 +2554,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.8,
+    "news_score": 0.77,
     "news_title": "How to watch Australia vs. New Zealand in the Rugby League World Cup final online for free - Mashable",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2RtSFFZM3BlWWZYbGVwU1loTFRSSnBVVURLUnJkeVhudTY0YjJVd1BhWm1rLTZucHptUmdxUjlUb2pHRWZlVGhYLWQyVG1PQTdILTVlM2wtallfRFFPeGt5bDZkTEhUdWh4OXVTQkRjVDI5QUN5bXVLcVdSOVItYmF0VVJGb3FiVkpTRFVtNkRkQU9td1VHY3pZYkYwUWVSZVRSQ1lYSUN2OFk?oc=5",
     "news_image": "",
@@ -2562,7 +2562,6 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
       "olympic",
       "basket"
     ],
@@ -8019,14 +8018,19 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.09,
+    "news_score": 0.05,
     "news_title": "Trump, Xi and Putin to meet Thursday, discuss nukes - Politico",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRzZVbHFZa2NPRXFKZld5dVRCeDUyVFVFdmlaRURQVlFDQ0VxSjhWSC1aVm1zX3ExckJzaFM1dEIydUREa1FoMl8tM3h0RHpWQkFvNEptbjI3TmFNMDN6NGZfYUZHT3d1YzFMenZuYTBqMVQ2U1lkVEJfcktMa1ZIZ21EdG10bmJGZ3RsSk1MSmgyd1NNQTV0RnpyekVHY3VM?oc=5",
     "news_image": "",
     "news_source": "Politico",
     "news_age": "11h ago",
     "news_columns": [
-      "fifa_ranking"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
+      "nuclear",
+      "nuclear_power"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13035,12 +13039,12 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.76,
+    "news_score": 0.75,
     "news_title": "Who are the 'street medics' showing up at protests around the world? - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbENFTDZRRVFwbkxfcTdRclU0dTd3RXlWWHBJSjF2bHdWUFZhLTFXUVpUSEV3RUI2Q2FRd2VwNEcwcnNaMFFDUEhCU0Q2Z0l6a0s2MjBzN285dFdRLVdSWkw2a0JHWmEtMDNLNmJTbGhYTUNNWjRlR25wa2ZFcnlpaV9ZdEJFS1BxTExYdVJsdjhRQVBjRzJEQw?oc=5",
     "news_image": "",
     "news_source": "France 24",
-    "news_age": "74m ago",
+    "news_age": "76m ago",
     "news_columns": [
       "democracy",
       "press",
@@ -13572,7 +13576,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVVJJOGlMamtwbEVBdWp0SzhPY3VzX0tuajFVSFdRRmhwRkJUT2xOTWp6MFE3WEwtQmgzWld1M0pQTVlwOUJvLWV2ZHllaklkbXFiUXhqWkgyUWV0eDdGMGJQR1M1RU14TzNMVC1YTUtzaWFHZllmOE11ek1Nc0pPN2ZydDhtcWQxYU1mSk42T1BfLVdV?oc=5",
     "news_image": "",
     "news_source": "Kennesaw State University",
-    "news_age": "44h ago",
+    "news_age": "45h ago",
     "news_columns": [
       "edu",
       "literacy",
@@ -14276,7 +14280,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxV1UxYnA0UzF4a3BVU0trQ3NTVkZ1VW1zcDh5YmMtNktPbk01UkFURUtLUFlSUkhneFNQSG5wQmg2WUtfMDR1TEtZUVN6UXNSUVhEOU1iaGJYeF9icW9jQ294c9IBXEFVX3lxTE1vbzRRNzFFb0R5VUlCSVNmTWFod0cwZ29QR24zSEttTGJjYkY0eVdiTENmZmtERFA2dUsya2pRMHZQR3dEZG9USFRQTmk0ZTZSMC0teEw4bkpKX25S?oc=5",
     "news_image": "",
     "news_source": "Modern Ghana",
-    "news_age": "15h ago",
+    "news_age": "16h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -18578,7 +18582,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.47,
+    "news_score": 0.46,
     "news_title": "ITALY U21 WIN AS CAMARDA SCORES - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGZYWEhESVZNX1JMbGFiTzdINi12QXhHUndRd3haSDVHZnE2d3NCcjRfY1ZoSzRVd3Ryc3lmbm9Nd0hsa2p2bUZjY0g4SlZfNl9ydGx0ZnRFcm1FaUxUbGVvNTNKc00zZnc4SXdXMzVpN1Y2cVhXVXprNUZzRDZ4czAySQ?oc=5",
     "news_image": "",
@@ -19273,7 +19277,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQk1NdTlZZHU0d192OF9uNGYtV0d5eWo2YnljWDE2cDl1Ti1nRWh0VTVpdXNBQTUxVTU4NmdsNmpLVGphaHdwaHEzaVJwS0d5ZTBubzVKVVVSUjR0emJOdjZBcGx6d0IzRXl1XzBLcWZITkFRaUNZRzRHbjlUelRQbkJqWXhHRzhoX3BJdnI2RVpFUHowNlZ0bkhQamgwd0dyNmtuZnZLQQ?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "81m ago",
+    "news_age": "83m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -27815,7 +27819,7 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 0.87,
+    "news_score": 0.82,
     "news_title": "How to watch Australia vs. New Zealand in the Rugby League World Cup final online for free - Mashable",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2RtSFFZM3BlWWZYbGVwU1loTFRSSnBVVURLUnJkeVhudTY0YjJVd1BhWm1rLTZucHptUmdxUjlUb2pHRWZlVGhYLWQyVG1PQTdILTVlM2wtallfRFFPeGt5bDZkTEhUdWh4OXVTQkRjVDI5QUN5bXVLcVdSOVItYmF0VVJGb3FiVkpTRFVtNkRkQU9td1VHY3pZYkYwUWVSZVRSQ1lYSUN2OFk?oc=5",
     "news_image": "",
@@ -27823,7 +27827,6 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
       "olympic",
       "basket"
     ],
@@ -28467,12 +28470,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.68,
+    "news_score": 0.67,
     "news_title": "Nigeria set to host 450 African entrepreneurs to create 100 new companies - Legit News",
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcUpmbU9NMlgwUTFGV19IU1pLaW95Rk85SjJLOVdpMTBmRW96d0UzUXd1dmUxT1FCd3BjTWpoQ2VIZmZxUHgtRjZFTU50WHB6aFMzemx3QmVFZmM0OXpQZzZteURlcHowb01fSlhaZFV6RVNUUDk2ZE9QbFJ4dU9uSlZJNlR5RDlzTjlBSFdUUDcxZ0FVRExFUnlEamsySkRGakpTaWlUTGtPSEhEdVN6TWRYVW1FUS1PN2NLTXdSSzE2NFkyelFpbg?oc=5",
     "news_image": "",
     "news_source": "Legit News",
-    "news_age": "95m ago",
+    "news_age": "97m ago",
     "news_columns": [
       "debt",
       "gdp",
@@ -33133,7 +33136,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.27,
+    "news_score": 0.23,
     "news_title": "Europeans decide on thorny question of who will speak for bloc in Ukraine talks - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYnZWRTRleUVRbFBSU05GSWVvc0tDSGsxOTEwN0hqLXZEVUhpcXNxeGU4dXhlU0F0Q2xLUU1UeHdwYjJRWFVUOHE2YlBQZUFkYjVqWHdEazgzNTBlQXdJN0lEZ3FXU0pXZWhLNGUwSTYtcDU2aV9FUV83QURBQjdEOUZIN19kSlpSQzJTNWRQMU82SGI0RzdreUlrLTlXd3FFY0EzRWtMdEZUaF9mbmt5WTFmV1ZjUQ?oc=5",
     "news_image": "",
@@ -38015,7 +38018,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOTEyM3ZJYW5TTHBMYy03T2hUd1pjRGNLUjZjTktObG93OUhMRm9FVExQOEl0ZXZ4aG5EMnhVWWZhZXZsUlhmd2lyb2dKc0RsejNKajg1YmhsM1hSRUFGeUJlaElBZTI5ak9mWlR5YndkMm9WdUhBMTNZek14MEJjTW1HTTlSZi04Wk1MbExxRi1SWHc?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "55m ago",
+    "news_age": "57m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -41258,7 +41261,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNi1IdTRFRXk4dnlyWE9ycGhxcHVNVjNSU1VBendhRjdFSHNYcVM5d0wwUGN3VUktaTM2b2R2UVIxZ3NMbjcybDlsa3llTGNUOFgzOVllMjg5UW9Db2FmQzB4QUJEcS1RODdNU3JhTy04QlJwY0duelNBTTdROEJMQTcyaTQ?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
-    "news_age": "66m ago",
+    "news_age": "68m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -42528,10 +42531,9 @@
     "news_source": "City of Toronto",
     "news_age": "15042h ago",
     "news_columns": [
-      "basket",
       "fifa_ranking",
-      "olympic",
-      "fifa_w"
+      "basket",
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43732,12 +43734,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.82,
+    "news_score": 0.81,
     "news_title": "Vietnamese intellectuals in Japan increase cooperation in science, technology, and innovation. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQk1NdTlZZHU0d192OF9uNGYtV0d5eWo2YnljWDE2cDl1Ti1nRWh0VTVpdXNBQTUxVTU4NmdsNmpLVGphaHdwaHEzaVJwS0d5ZTBubzVKVVVSUjR0emJOdjZBcGx6d0IzRXl1XzBLcWZITkFRaUNZRzRHbjlUelRQbkJqWXhHRzhoX3BJdnI2RVpFUHowNlZ0bkhQamgwd0dyNmtuZnZLQQ?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "81m ago",
+    "news_age": "83m ago",
     "news_columns": [
       "fifa_ranking"
     ],
