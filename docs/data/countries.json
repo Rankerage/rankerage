@@ -2554,7 +2554,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.52,
+    "news_score": 0.51,
     "news_title": "How to watch Australia vs. New Zealand in the Rugby League World Cup final online for free - Mashable",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2RtSFFZM3BlWWZYbGVwU1loTFRSSnBVVURLUnJkeVhudTY0YjJVd1BhWm1rLTZucHptUmdxUjlUb2pHRWZlVGhYLWQyVG1PQTdILTVlM2wtallfRFFPeGt5bDZkTEhUdWh4OXVTQkRjVDI5QUN5bXVLcVdSOVItYmF0VVJGb3FiVkpTRFVtNkRkQU9td1VHY3pZYkYwUWVSZVRSQ1lYSUN2OFk?oc=5",
     "news_image": "",
@@ -8020,15 +8020,13 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.24,
+    "news_score": 0.27,
     "news_title": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, White House says - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5",
     "news_image": "",
     "news_source": "AP News",
     "news_age": "5h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
       "olympic"
     ],
     "bottom50_wealth": 6.4,
@@ -13043,7 +13041,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbENFTDZRRVFwbkxfcTdRclU0dTd3RXlWWHBJSjF2bHdWUFZhLTFXUVpUSEV3RUI2Q2FRd2VwNEcwcnNaMFFDUEhCU0Q2Z0l6a0s2MjBzN285dFdRLVdSWkw2a0JHWmEtMDNLNmJTbGhYTUNNWjRlR25wa2ZFcnlpaV9ZdEJFS1BxTExYdVJsdjhRQVBjRzJEQw?oc=5",
     "news_image": "",
     "news_source": "France 24",
-    "news_age": "100m ago",
+    "news_age": "102m ago",
     "news_columns": [
       "democracy",
       "press",
@@ -16834,7 +16832,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.19,
+    "news_score": 0.18,
     "news_title": "India: Delhi surpasses Lahore as world's most polluted city - DW.com",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNFpjSkU5QkR3bFpwclRRQ1NFSnBwM1JxUXh4Wm94TkhhM0pSUHBpQWNPamowWktydzhwQ2FQRHYtNzM1bTIzQTVsbUxUamIyMUw2Ym9rMFZ5dllPSkxnb0tsRjVCekJCWUJHVC1zSHR4dEtVOTBNak5qSVRpMExSZ3l1dHVIVWFkRGZORzNCWFMwWEU1WWgteQ?oc=5",
     "news_image": "",
@@ -17892,8 +17890,11 @@
     "news_source": "Afloat",
     "news_age": "15h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 2.7,
     "bottom50_wealth_rank": 20
@@ -19267,12 +19268,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.04,
+    "news_score": 1.03,
     "news_title": "Vietnamese intellectuals in Japan increase cooperation in science, technology, and innovation. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQk1NdTlZZHU0d192OF9uNGYtV0d5eWo2YnljWDE2cDl1Ti1nRWh0VTVpdXNBQTUxVTU4NmdsNmpLVGphaHdwaHEzaVJwS0d5ZTBubzVKVVVSUjR0emJOdjZBcGx6d0IzRXl1XzBLcWZITkFRaUNZRzRHbjlUelRQbkJqWXhHRzhoX3BJdnI2RVpFUHowNlZ0bkhQamgwd0dyNmtuZnZLQQ?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "107m ago",
+    "news_age": "109m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -27814,7 +27815,7 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 0.56,
+    "news_score": 0.55,
     "news_title": "How to watch Australia vs. New Zealand in the Rugby League World Cup final online for free - Mashable",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2RtSFFZM3BlWWZYbGVwU1loTFRSSnBVVURLUnJkeVhudTY0YjJVd1BhWm1rLTZucHptUmdxUjlUb2pHRWZlVGhYLWQyVG1PQTdILTVlM2wtallfRFFPeGt5bDZkTEhUdWh4OXVTQkRjVDI5QUN5bXVLcVdSOVItYmF0VVJGb3FiVkpTRFVtNkRkQU9td1VHY3pZYkYwUWVSZVRSQ1lYSUN2OFk?oc=5",
     "news_image": "",
@@ -33133,16 +33134,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.27,
+    "news_score": 0.3,
     "news_title": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, White House says - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5",
     "news_image": "",
     "news_source": "AP News",
     "news_age": "5h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "olympic",
+      "fifa_ranking"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -38017,7 +38017,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOTEyM3ZJYW5TTHBMYy03T2hUd1pjRGNLUjZjTktObG93OUhMRm9FVExQOEl0ZXZ4aG5EMnhVWWZhZXZsUlhmd2lyb2dKc0RsejNKajg1YmhsM1hSRUFGeUJlaElBZTI5ak9mWlR5YndkMm9WdUhBMTNZek14MEJjTW1HTTlSZi04Wk1MbExxRi1SWHc?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "81m ago",
+    "news_age": "83m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -41255,19 +41255,14 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.69,
+    "news_score": 0.95,
     "news_title": "US floats Nato membership for Donbas withdrawal deal, Zelenskyy says - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNi1IdTRFRXk4dnlyWE9ycGhxcHVNVjNSU1VBendhRjdFSHNYcVM5d0wwUGN3VUktaTM2b2R2UVIxZ3NMbjcybDlsa3llTGNUOFgzOVllMjg5UW9Db2FmQzB4QUJEcS1RODdNU3JhTy04QlJwY0duelNBTTdROEJMQTcyaTQ?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
-    "news_age": "92m ago",
+    "news_age": "94m ago",
     "news_columns": [
-      "basket",
-      "olympic",
-      "nato",
-      "military_pct",
-      "gdp",
-      "ai_research"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -42537,8 +42532,8 @@
     "news_columns": [
       "basket",
       "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "olympic",
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43739,12 +43734,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.73,
+    "news_score": 0.72,
     "news_title": "Vietnamese intellectuals in Japan increase cooperation in science, technology, and innovation. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQk1NdTlZZHU0d192OF9uNGYtV0d5eWo2YnljWDE2cDl1Ti1nRWh0VTVpdXNBQTUxVTU4NmdsNmpLVGphaHdwaHEzaVJwS0d5ZTBubzVKVVVSUjR0emJOdjZBcGx6d0IzRXl1XzBLcWZITkFRaUNZRzRHbjlUelRQbkJqWXhHRzhoX3BJdnI2RVpFUHowNlZ0bkhQamgwd0dyNmtuZnZLQQ?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "107m ago",
+    "news_age": "109m ago",
     "news_columns": [
       "fifa_ranking"
     ],
