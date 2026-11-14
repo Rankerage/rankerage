@@ -2555,7 +2555,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.1,
+    "news_score": 0.11,
     "news_title": "'World Cup is the bigger picture': Harry Brook reacts after England's crushing defeat against Australia - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUjIwUzloSURMTFhWTWhvU3NFUzFfX3ZuZUhtSUFUNmIxWXpKQ1VCZl9qVzJLdnZRNXpZR1pWSktwMVc3VnVTZnVOYTZ5RjU3VDlkYV9xbUlLSm9SNHl6a29KWmFLbHI4OTNqTlpMQlBXelBZazFKN29MY3piMTQ1NENuMzQ0UQ?oc=5",
     "news_image": "",
@@ -8022,18 +8022,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.0,
-    "news_title": "US and rest of world must follow China’s lead on green energy, says John Kerry - The Guardian",
-    "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaTBKYVBWUU91LXcyV2I4V2RUcUtjSGlpRHRYSXhuSkxQNEx3aWRJMkQ0MFZ4ZmJKQ1lmcUJVTXdXM3VDTDlOVFk3ZFQxTEcyMDE2OTVXZnVxOFMxY21NVDdUN0pXV3NmQmJhc3dRSnlxb3FqczNZaGRNQS10OVdFYkRGazY0ZEp3UXgyZUJmcy0?oc=5",
+    "news_score": 0.28,
+    "news_title": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, officials say - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5",
     "news_image": "",
-    "news_source": "The Guardian",
-    "news_age": "81m ago",
+    "news_source": "AP News",
+    "news_age": "84m ago",
     "news_columns": [
-      "gas_price",
-      "energy_per_capita",
-      "co2",
-      "renew",
-      "exports"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10130,19 +10127,17 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.56,
     "news_title": "U.S. Defeats Denmark, 14-0, In Women’s Worlds Quarterfinal - Team USA Hockey",
     "news_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZWkpDZWFZay03blB0NXlJc1VZcEhOMjFfMUZCbVV5Qi01YzdkN2NPS2VXXzBZandpUzV4amM5X2lkS2xyR2twajl0a0lLeWlnUlJZTDBoTW00ZDU4OVowX2t3R1g1UQ?oc=5",
     "news_image": "",
     "news_source": "Team USA Hockey",
     "news_age": "3h ago",
     "news_columns": [
-      "gender",
-      "gender_gap",
-      "women_parl",
-      "edu",
-      "coffee",
-      "tea_consume"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 1.9,
     "bottom50_wealth_rank": 26
@@ -10957,7 +10952,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWURKVUFaWkZRRmVnamRMSGRZd1EzOElxZldMa1F3RHZ1RzlHZmVYWGMxLWtibXNfU2JsWFN1QVBuelRCMjJQa25wZDB6VW5Uc3ZiamJESXlvOUhrS0ZTUVpZSUhENHFIMy1VYlVHZmM2dmI2Rlcxb20tN1ZURTh5UFNJc2tnU3hMMVAzUw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "3h ago",
+    "news_age": "4h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -12532,7 +12527,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.43,
+    "news_score": 0.44,
     "news_title": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNejhEQXBBR0FQS3VnT01VYUsxOTVLejRFTm1WMGtzQUc5OER5dW5yZ3ZOQUdCRFFaVXRjNVotNkNNc2hLSTR5Q0V2MGV5REJZQ2RRRE1yaXRXbGxscGhub3F1dVBueTR2dVViNlkxN1hRNC1iczRQSlNpSGdmelhxai1SLUw?oc=5",
     "news_image": "",
@@ -13038,7 +13033,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.52,
+    "news_score": 0.69,
     "news_title": "France hold nerve to edge past South Africa in thriller - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMUFFNWhJLVR5eTVPMFFKZzRxdVhUaC1vYWdtalhadXVoWnV6dEo2QVNZeXo4RVBmaFRta3R5Uzd2UUV2dHlwU2ROTDV2ZGxBWWtvUld2RlptLXZ0N0hMekxfLUtyaU5EUkxHbkRuS1R3NHlkcW1WMHhkeTFxVjNTbHRB?oc=5",
     "news_image": "",
@@ -13575,7 +13570,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yTENES1Q5aWlWbkpwa1dwM04tdnd3Skd5Ml9Ma0hwT0ZSekhITUtOQXFwNzBkbU5pejlKVHpQRWMySXFGM1Nibml0aVF6NGR3bFdSMnhHc211a25WM1ozQUZocjEyRWQ2dm5TSzEyVlc3X1k?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "97m ago",
+    "news_age": "99m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -17410,7 +17405,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.06,
+    "news_score": 0.04,
     "news_title": "Iran’s New Cyber Playbook: Create Real-World Havoc - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWHhDQVhxRWctTTRqSVdYVHZkYXlsb2hZTmlfSFNVRFZVOHJlSU1lWW1PUHhyN1hUMGhHUmtNQUlJOGJwRm8wSDNIOGhValpYbVFOVWplZ1BfckdNbnlNWUhOcHp4SFVnOUNJVlB6dlVkRG9McFBmd0xta0w0a2FpaUF6NlZLWXZRR0lxSnVoZmV4dEFCN1JJcUZkTQ?oc=5",
     "news_image": "",
@@ -19280,19 +19275,17 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.8,
+    "news_score": 1.11,
     "news_title": "Chinese Taipei@Japan - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWVoTk9UQUhZcVcycUxjbFFHYUtua1NqbHVUdGw0anA2REFnQTFWVGpFaWRlSjhmUHZneFdhUjhYWUdjWWIxbHQ1OVFDQXlKVGVPcVFnRHVUNFVNZ3BLSlBFY1J6cmo2a1l1Z1p4Y0Fpc0xlbUJha2EtVTZyMFJuclM2LTJ2NFJPOWxicFA5Wjh3cUZBWjBzeTdrYU51WHQyX3J1VUp5OUo?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "15m ago",
+    "news_age": "17m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
       "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "basket"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -28018,19 +28011,17 @@
     "refugees_rank": null,
     "union_rate": 69.0,
     "union_rate_rank": null,
-    "news_score": 0.88,
+    "news_score": 1.17,
     "news_title": "Nicaragua@Great Britain - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOamloZmxncjFfQUs2Y2RqQVN4YnFraU1NU19HTzIwNVk3TnBQblEwNDZ6U1dodW5KdHphWFJJM1B4NHMzbkpiX3JkanE5MFFBN1ZMdTVqZlZyRndlU1NSQjNPeXpKWkRVeTBmN1ZhRFllVmRJZktsaE0teXM5RUN1d3VxNnpkRWVDa2Q5bnd5azhMSkVZdVpfNEoyZTcybUlnUEhkSnZBeXI?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "23m ago",
+    "news_age": "25m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
       "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -28483,12 +28474,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.85,
+    "news_score": 0.84,
     "news_title": "QNET Nigeria Empowers 200000 Youths Amid Anti-Fraud Push - Head Topics",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOejBPRUU3TU5ncFN0a2o0bU5LY0FZMUFpNXVPeUpVSXRFcmthR0FHN25WMXprb2ktaUNoMlJHSmNaODFHUmFzRERzV2xfaUMtWUhlMmVYbFI1cEd0YlJ3cG5DUGxNekJTaDRuQ3ZMUkFuc21BRmZpQkZocjA0SWFyc0JKMW5MMkp3b3BJMkNSVUI5dVIySHlSSFNGSzE?oc=5",
     "news_image": "",
     "news_source": "Head Topics",
-    "news_age": "44m ago",
+    "news_age": "46m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -32357,7 +32348,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbU51ZzJoNnVGVmtvd190eFVndHlkcHJ1TVJHbE1sUDlNWG9HSTZJbl96QzRKUWttOTRiaHRZSHpLLVNKZTktaENIUTUxOTR1dDJNV2tJQlZQSWZyZzVYZDNNeUFMTGhRT2txTmFUb2dVTVdNcEp0SjhqSGRyMEFiM2xVYkh6NEdLbVFPVmRFWFVPSmFwZVJLVVVYaXJHUS0wX2xNN2VwclMwMmsteDh3VGpITjVEQQ?oc=5",
     "news_image": "",
     "news_source": "SSBCrack",
-    "news_age": "69m ago",
+    "news_age": "71m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -33150,14 +33141,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.62,
-    "news_title": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal - The New York Times",
-    "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNejhEQXBBR0FQS3VnT01VYUsxOTVLejRFTm1WMGtzQUc5OER5dW5yZ3ZOQUdCRFFaVXRjNVotNkNNc2hLSTR5Q0V2MGV5REJZQ2RRRE1yaXRXbGxscGhub3F1dVBueTR2dVViNlkxN1hRNC1iczRQSlNpSGdmelhxai1SLUw?oc=5",
+    "news_score": 0.9,
+    "news_title": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, officials say - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5",
     "news_image": "",
-    "news_source": "The New York Times",
-    "news_age": "2h ago",
+    "news_source": "AP News",
+    "news_age": "84m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -35666,7 +35658,7 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.55,
+    "news_score": 0.72,
     "news_title": "France hold nerve to edge past South Africa in thriller - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMUFFNWhJLVR5eTVPMFFKZzRxdVhUaC1vYWdtalhadXVoWnV6dEo2QVNZeXo4RVBmaFRta3R5Uzd2UUV2dHlwU2ROTDV2ZGxBWWtvUld2RlptLXZ0N0hMekxfLUtyaU5EUkxHbkRuS1R3NHlkcW1WMHhkeTFxVjNTbHRB?oc=5",
     "news_image": "",
@@ -41269,7 +41261,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.43,
+    "news_score": 0.44,
     "news_title": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNejhEQXBBR0FQS3VnT01VYUsxOTVLejRFTm1WMGtzQUc5OER5dW5yZ3ZOQUdCRFFaVXRjNVotNkNNc2hLSTR5Q0V2MGV5REJZQ2RRRE1yaXRXbGxscGhub3F1dVBueTR2dVViNlkxN1hRNC1iczRQSlNpSGdmelhxai1SLUw?oc=5",
     "news_image": "",
@@ -42550,9 +42542,9 @@
     "news_age": "15031h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
+      "basket",
       "olympic",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43473,7 +43465,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWjFNUWdpQjVWZE8xTDd5bjF3bmx6cU1OenNjLWNIeEdkRGFubjl1bERiSk1UN01ucExYd3VhU0YtakhSVEN4cXVFTlZ1YVQtMDJpaWdlYV9kd18tcm10RUo5Mml2eFJyTnRhTVBoWXJkbGFYVjlFSXNEUTZwNXh4QUJvYk84cGczekw0ZXNYSmVna2dENEFkRkNLOU02Um1RY1JvV0dSbFZ3Z0Uya3c?oc=5",
     "news_image": "",
     "news_source": "ballysports.com",
-    "news_age": "95m ago",
+    "news_age": "97m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
