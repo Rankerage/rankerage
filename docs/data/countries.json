@@ -1938,7 +1938,8 @@
       "internet_pct",
       "patents",
       "rd",
-      "startups"
+      "startups",
+      "coffee"
     ],
     "bottom50_wealth": null
   },
@@ -2868,15 +2869,15 @@
     "refugees_rank": null,
     "union_rate": 77.9,
     "union_rate_rank": null,
-    "news_score": 0.0,
+    "news_score": 0.1,
     "news_title": "ESLC Day 13: Brick wall Kriz sends Austria into the playoffs - World Lacrosse",
     "news_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44ZjFZdF9WTHE2TDdNVHdEN3Z6a0xrdGR4Y1ZfcmhNalY2dGtuX3RvNWxUNGdvWXdkbmx6UTFpYU9Wd0tFcjlQRDBScTlHNkktaVNxYw?oc=5",
     "news_image": "",
     "news_source": "World Lacrosse",
     "news_age": "4h ago",
     "news_columns": [
-      "fis_ski_ranking",
-      "olympic"
+      "olympic",
+      "fifa_w"
     ],
     "bottom50_wealth": 2.3,
     "bottom50_wealth_rank": 23
@@ -8019,15 +8020,16 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.19,
+    "news_score": 0.85,
     "news_title": "MAGA turns on Lutnick amid China spy scandal - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tVjViYmdFdVdLcUZqMlFIdWsxdGZad3pwSEh2dHpzaFVzWVNzdXJ0bVYtc1JPYW5lajh1WEZ0dFk2VzhzdGxsWXNEUmtmMFZRbTdiZjhsVlFKeEM5cVhrZWNGS05wUQ?oc=5",
     "news_image": "",
     "news_source": "Axios",
-    "news_age": "110m ago",
+    "news_age": "112m ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "cpi",
+      "democracy",
+      "press"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10124,7 +10126,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.08,
+    "news_score": 0.13,
     "news_title": "Ask the Experts: 2026 IIHF Women’s World Championship in Denmark - IIHF",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SSWp3dnBLekx3VkF1Y0Nlcm9MYmJDWGlUaVg4UHlIUkM2VnNEbGtxNllEQmVkUnpkNlNKRkdvT1lqT0QwbE40QlpsVVZNeTVKaldhQkRNX3Jrd3Awa3NtMUF2aFp2NHFENlMyV1JTdXdpclJOUTNDdXp0QUUzdw?oc=5",
     "news_image": "",
@@ -13034,19 +13036,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.11,
+    "news_score": 1.44,
     "news_title": "Aicher wins first slalom of World Cup season - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRGFNMi15UGZGbW96eFpXSkJnejRybnphVFlVVG9GM2dVbEhTNnc2V05jZEtGVlY4UGt0TFhEYnpNMFZpeFBzQTh2SGdfZTYtM21lUTlQYW90WUllZUQ3WWhjaUhoQXQtOWFPTENsMDZPdVhVbjl5RS1KRkcwckRlXzNSMTRGNGxiUWdFZkVJT2dVX29ldUE?oc=5",
     "news_image": "",
     "news_source": "France 24",
-    "news_age": "20m ago",
+    "news_age": "22m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
       "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "fifa_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -14072,15 +14070,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.13,
+    "news_score": 1.06,
     "news_title": "Skiing-Germany's Aicher powers to first World Cup slalom victory in Levi - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1VUQ2hTLU0wVWJ2Um9mcF9iVXRZMklCYlhneklQdGZUejNxSXRNX1hCcy1MUEI0UlRkUUZFRzFGeTdaSmdnYU52RzFKZ3JKMDYzdjhPZGc5Q0hBVTBIaW1yc1ZEcTU5LTJXMTQ2NUFoTlNRRUFXcDltTktGdU5sT1VyakZ4b05sMGFDRWhMaFUtQk1vSmtfcE9ialY1RVluOUgyZTZhQkdPOWFI?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "44m ago",
+    "news_age": "46m ago",
     "news_columns": [
       "olympic",
-      "fifa_ranking"
+      "fifa_w"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16394,7 +16392,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkhxcEtsUUtLTEJCelpCWTdzWFNLVk93WlR6NkFQeHEweDgwc2dRWTZranVncDdTd3lWeFJJVmlZR3dfOFFnYkZvX0ZjVkcwdWFHNFc1TUZWbndrTDEwSGFHVFVnN25JS3ItbHZ1b21JNVRHMGdfbGdSb1Z4aGtvaUR0UzQ3NXN3bVpxb3pn?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "107m ago",
+    "news_age": "109m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -16828,12 +16826,12 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.84,
+    "news_score": 0.66,
     "news_title": "India: Delhi surpasses Lahore as world's most polluted city - DW.com",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNFpjSkU5QkR3bFpwclRRQ1NFSnBwM1JxUXh4Wm94TkhhM0pSUHBpQWNPamowWktydzhwQ2FQRHYtNzM1bTIzQTVsbUxUamIyMUw2Ym9rMFZ5dllPSkxnb0tsRjVCekJCWUJHVC1zSHR4dEtVOTBNak5qSVRpMExSZ3l1dHVIVWFkRGZORzNCWFMwWEU1WWgteQ?oc=5",
     "news_image": "",
     "news_source": "DW.com",
-    "news_age": "95m ago",
+    "news_age": "97m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -17400,19 +17398,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.81,
+    "news_score": 1.13,
     "news_title": "Live Updates: 3 oil tankers hit mines in Strait of Hormuz, Iran says - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "51m ago",
+    "news_age": "53m ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
-      "gas_price",
-      "energy_per_capita"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -17878,18 +17872,16 @@
     "refugees_rank": null,
     "union_rate": 77.2,
     "union_rate_rank": null,
-    "news_score": 0.02,
+    "news_score": 0.03,
     "news_title": "EMFAF Annual Webinar 2026 Explores How Science, Technology and Innovation Are Securing Sustainable Future of Ireland’s Marine Resources - Afloat",
     "news_url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOTHQyWEhQMURRZWNtOVBqMnZpbHpjYmQtUzMyVFE0aUs2ekx6NENYZVloT3g0cXA0aVBtZ2V1SVNXQ25oNFNwZ01SdF9PLUhtemcwQUgtU3R4X0FBanJxQzQtRDIyWDhGQm5sc1MzRTdVTldFTWlUdDR1YzhoZHdDMWo3a0VYVWt6M3E4Y1gxR0JVMHFZNGR1akZva1VJWTJUdXI5aTlzOFJoNGNoUERNUlRTZjV1QXJ5cFUzWm0zLThIaEpLUzZwX1hua1RvT0s3bW5fbWJ3bFNBaFRJaS1GSFZfb2lIaGxjUlB6SmhRUENFQmZPTF9odC1nVFY4VW9CeVh2U0x6c29IUXJsaWhNMjRlaDBrSGRVeUotTXFQZUQ0ek0?oc=5",
     "news_image": "",
     "news_source": "Afloat",
     "news_age": "16h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 2.7,
     "bottom50_wealth_rank": 20
@@ -27810,7 +27802,7 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 0.37,
+    "news_score": 0.34,
     "news_title": "How to watch Australia vs. New Zealand in the Rugby League World Cup final online for free - Mashable",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2RtSFFZM3BlWWZYbGVwU1loTFRSSnBVVURLUnJkeVhudTY0YjJVd1BhWm1rLTZucHptUmdxUjlUb2pHRWZlVGhYLWQyVG1PQTdILTVlM2wtallfRFFPeGt5bDZkTEhUdWh4OXVTQkRjVDI5QUN5bXVLcVdSOVItYmF0VVJGb3FiVkpTRFVtNkRkQU9td1VHY3pZYkYwUWVSZVRSQ1lYSUN2OFk?oc=5",
     "news_image": "",
@@ -31103,7 +31095,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbldQc0RVYVEyM2ozT01IUE1MUENQZl9sdXJDQVhZUUdUbEpEZHFwVVVDLUVKS2ZTQld4QUM1UVc1dWZwNG56WVQ0X3VENnVKTmtJLXZIUlkweUZHU1R4OXJTY0R4RmVadmozLWltdEVFMlh3VGlUM0V6U293Sk9mWjBwbWNLS25yVC1KZlRUbWEyOTk5dEFpRHd2WUw?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "57m ago",
+    "news_age": "59m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -33129,7 +33121,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.68,
+    "news_score": 0.67,
     "news_title": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHV6OEE3TG9DMmR2b2N2OEpUX2IxMlZLTHUyc3FwaTRZbDZ1RWtPaUl3Q2N6c1JOYl9FQ1k4OGxFeTM1czMzV3R2TE5ueXdQdThyZXhWTHJPUEJVLXh4aVhRVGI5Ri1VcEhMREJWbGdtdVcxNjlBYjRsVHhkYktoU2JERjBmRUctUTkzdm9JcTZLdEpwSFM2TXV5WU5LbV9hZlhNMS1ZdXY4QQ?oc=5",
     "news_image": "",
@@ -41247,7 +41239,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.68,
+    "news_score": 0.67,
     "news_title": "US floats Nato membership for Donbas withdrawal deal, Zelenskyy says - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNi1IdTRFRXk4dnlyWE9ycGhxcHVNVjNSU1VBendhRjdFSHNYcVM5d0wwUGN3VUktaTM2b2R2UVIxZ3NMbjcybDlsa3llTGNUOFgzOVllMjg5UW9Db2FmQzB4QUJEcS1RODdNU3JhTy04QlJwY0duelNBTTdROEJMQTcyaTQ?oc=5",
     "news_image": "",
@@ -42525,7 +42517,8 @@
     "news_columns": [
       "fifa_ranking",
       "olympic",
-      "basket"
+      "basket",
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43726,12 +43719,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 1.19,
+    "news_score": 1.18,
     "news_title": "The Ministry of Science and Technology reviews legal documents and removes institutional obstacles. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS3RBdmZDeDFJeHJUNE94ellOMERpN1FiRDZmUWhMUXFBeXNtenZjaDk4ODE4TkNNQ1VIdzkwVTM0M1hIWTFwY2d6VDNzT0dxOXUyb0JvNjRIVkhYd2VPZXRFMWdnZXUyZjBUWkdpRTFIcmtBLTZnSW4yZVllaEpIalRQLUJtSHd5czBaaVA2aC1qZUlPdGQtblotdw?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "28m ago",
+    "news_age": "30m ago",
     "news_columns": [
       "car_density",
       "gas_price",
