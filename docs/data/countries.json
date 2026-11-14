@@ -8026,8 +8026,7 @@
     "news_source": "The Washington Post",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -11993,7 +11992,7 @@
     "union_rate": 69.9,
     "union_rate_rank": null,
     "fifa_w_rank": 92,
-    "news_score": 0.02,
+    "news_score": 0.0,
     "news_title": "Middle East's third-largest economy offers $3,500 and free flights to migrants from all African countries, including Ethiopia and South Africa, to leave by December 31 - Business Insider Africa",
     "news_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZzVkVHN0Y2x0QWNQalhDYW42NGEwU3lTUzJpNGJsekhvWUtSdE12dzhRdlQzMW1tNlpKODdnclBBQVktNGFwWXFZY3dHM1VvWVpRbmpGelVpUU1GV1VCY1NpdmVpeTNpdDk1cXU2Tjk3QU1DX1pXdHVtaExIMXZFT1NkaTBPc25TNl82OVZlSnlxdGFBOVAxTFJLVzF5TFFjVGlEVUF2bkpaU2tiZGxTa0ZmMUtObUhxQVVFMllCVWpnMjZMYWNyMUJkOXVsWUwtVnFrMQ?oc=5",
     "news_image": "",
@@ -13568,12 +13567,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.59,
+    "news_score": 0.64,
     "news_title": "Georgia’s Kirby Smart Makes Explosive Claim About The SEC - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLURDUWdSeXhIcDNVV0FWVG1MdTFTT195T3o5NEVVeFQ1QjAtTHpxRlllR0FQbGNUX2FWeVE0TUFCMkgxYW1MdGZma1l6b005LTdUNWMtNktFV0Z5dWh2QTk5U0hMX2dycnpCcWhXdVdjZGFpZ1BHTlhvQTJCVklBcEVBTTc1Q3VnNmp2QQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "72m ago",
+    "news_age": "74m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -17407,12 +17406,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.16,
-    "news_title": "Trump to have first trilateral meeting with Putin, Xi - The Washington Post",
-    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS0ZHZDFUVjNXc19jTzlIeWRBX0s4dmtIUG1jNGFwZFpCUTBEWEJTRW5tbnhDVTlEdDlwcnZNV0ctRWVLNnhaSUJvbDVlRzUyNmxWelF0aU5xOWV0SkJ5UkhHNTdmVTcyZ1plcWhhY0N2LW5zNUZFT3pVWXhzZkFidEM2bkk0aE8wUFRScg?oc=5",
+    "news_score": 0.17,
+    "news_title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says - BBC",
+    "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42UEI2dkxFV01OSy1NQkZLQmhkc01KaWFqcEwySVJNYUZOeDNSdko2T0JodkN1RU9LdFBMeGJ2SWhhZXdxMHVxNy1idnhqZ3FIODhKMlFlYUVCYWs?oc=5",
     "news_image": "",
-    "news_source": "The Washington Post",
-    "news_age": "5h ago",
+    "news_source": "BBC",
+    "news_age": "6h ago",
     "news_columns": [
       "nuclear",
       "nuclear_power",
@@ -19268,12 +19267,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.96,
+    "news_score": 0.95,
     "news_title": "Microsoft says services fully restored after outage roiled world - The Japan Times",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRTAwY1pTczhZVmNBMjc0ZWt1Sk9pdGl5bkVlZzNfcHV5RzZDdGtCUkRFN1I5WGo5TzBlbDZHaHk3R0Y1clhFdEY3VEwwallsUlpqWERGVTd5b0Z0b3ZKd195T1FwMHNDNmwzREQ3VnlRNXBjcUFWWE9ibjFIaVZPWFdR?oc=5",
     "news_image": "",
     "news_source": "The Japan Times",
-    "news_age": "60m ago",
+    "news_age": "62m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -24843,7 +24842,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTm85QlZZUTBTbGs4UEtXbVpSc09JV3VEQTB0WW04M1ZTRmNRaURzY1A5bXZaSlBuaklXTDhkYlJaSU5yV2tXNE45STZEejBmOXpTQWc4MWYydC01cjJjQnNSRk9WU2tRaHJoLVFBdlZ1Nk9VSUZwcE5kSXFhbUstVlZNd3N5TGszSERWbFlUekFKd05ENEJzcnRUejh1YXRJWjB5NU5wYVRBVHBRWFpWR1FYUmo?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "114m ago",
+    "news_age": "116m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -31107,12 +31106,12 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.02,
-    "news_title": "Pope Leo visits the Peruvian city that has embraced him as one of its own - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ydHBPajVWOFRBNFZIbTh2UzRDdy1UUTZWSkNwUHVKYmVoOVVjUHJKV2d6M0V1X1pOUmZTalZ2djItczRMQU10cDhaZXk2MTVjaVI0Ukl6N1hFNU0?oc=5",
+    "news_score": 0.03,
+    "news_title": "Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’ - NBC News",
+    "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcmRuVUtqVTM1UWNwZFByUGI0M0VOdDN6NVhTV0ZPUWxGYVBybHJPTVAzZzJBYnNxUWwzREFWZDN5Q2FPSzZ3VmN0dE5ETTRYTUVDdkNQTFotTlIxTlBvRkN5VTVwQ21nQnNhMkhnQjRHdnFXa2xGano1NHUyTlJBTXFRaFpybFRLUmNGSm1IU2c0Nk81dElMcU5WMS1BQmpJSUR3?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "14h ago",
+    "news_source": "NBC News",
+    "news_age": "10h ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -32342,12 +32341,12 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.77,
+    "news_score": 0.76,
     "news_title": "Yamaha faces financial penalty despite escaping Qatar MotoGP sporting sanctions - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTU9iU1cxNWlMRFdaVGlaaTA2ZHo5bVFyZjhMcGdKeU1jXzZPdllrSnFCNFVjaEJ4STVrTWNCT3dvYjlZYzBDMlBUaUtRTDI0MmctLVJXeGZhUlhmdHRyTmFMcldNY2NmWXNnN1VOenJISmlQZTlfcHFrVnYzcVo4eVhIU3VaMjNHMGxzT1hkQUw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "74m ago",
+    "news_age": "76m ago",
     "news_columns": [
       "exports",
       "imports",
@@ -33144,8 +33143,7 @@
     "news_source": "CNN",
     "news_age": "14h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "fifa_ranking"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -35654,7 +35652,7 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.25,
+    "news_score": 0.24,
     "news_title": "South Africa@Czechia - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV09ZTUtuTzhpVVhoRXRjSFVZTHBSQUxNSzlVUEI0bUV5QlY2MWlKU0tWdlduLXllVmhkRVRBX2lvRHBScHQ2Zk5SLTV4OWdxMThId0FEUEVDS0NwcW1hM1RGdFkyYTJBcGZtUG1hdkdDWXB0UExnY0hiSE9HVFpvRTByN01tTktIS0VVbU1CWHQ4dVMwd0NHNXpIbXRZZFpHSnpZRjdWX28?oc=5",
     "news_image": "",
@@ -42541,9 +42539,8 @@
     "news_age": "15039h ago",
     "news_columns": [
       "basket",
-      "olympic",
       "fifa_ranking",
-      "fifa_w"
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
