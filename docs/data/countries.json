@@ -2869,7 +2869,7 @@
     "refugees_rank": null,
     "union_rate": 77.9,
     "union_rate_rank": null,
-    "news_score": 0.51,
+    "news_score": 0.5,
     "news_title": "ESLC Day 13: Austria and Greece book playoff spots - World Lacrosse",
     "news_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44ZjFZdF9WTHE2TDdNVHdEN3Z6a0xrdGR4Y1ZfcmhNalY2dGtuX3RvNWxUNGdvWXdkbmx6UTFpYU9Wd0tFcjlQRDBScTlHNkktaVNxYw?oc=5",
     "news_image": "",
@@ -5161,7 +5161,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.45,
+    "news_score": 0.47,
     "news_title": "Ancelotti and Raphinha sent off as Japan beat Brazil - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTnV5ZmtpRGxiVE0ySlFqZnRDZW51eEdOeTZpcVR4bnJpOGh6RGNYUmIta0gzaTV5dXdpQmNSUVQ2ZEpWcUdnNnRlN2JVbjNxYnkzOTdmTjZmaUU2VS1zRDlKdlhmZUFQNWxVUlVsTkxtQ0NQT3dqUDJLRnlCb2lRaVRkNUlNRlpRTkE?oc=5",
     "news_image": "",
@@ -7578,7 +7578,7 @@
     "refugees_rank": null,
     "union_rate": 70.9,
     "union_rate_rank": null,
-    "news_score": 0.48,
+    "news_score": 0.5,
     "news_title": "Fuel crisis and protests pressure Chile's far-right president - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLXlTRW9uNWhrNHdIVXlIV2ZXXzRJN3MyS3ZBSUxTVXUwOU5qWlloUTJmRTRTM1dVSGtWSzFlUkdZWmkzOXJnMWQ1eHM2eV93NlRZMXlyYW5QNHpuQVhCajJaeDRuaW1lNkpNaElxZTd1clByY3c1MWlLOUl0MzRFaVpRS1E?oc=5",
     "news_image": "",
@@ -8022,16 +8022,19 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.18,
-    "news_title": "Trump, Xi and Putin plan unprecedented joint meeting on APEC sidelines, White House and Kremlin say - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5",
+    "news_score": 0.76,
+    "news_title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect - Al Jazeera",
+    "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkl0WHV4OWtNN0k0SFVuR2E0VXhrOUpYMXZiOUxFYUVYZlBpa00zTTRXaTVmYWtwcGktWjAzUnMxckxsS0l1S2VqekRxbS15ajUwT1p6RkhjU1NtM3JwMU5uUGlqT295Y19OOXJfUXRHWFNLcGw0VFlTMXV1eFNZUXpobDNHcHVtVUxVVVZqMnA5a09LT2I4d05rWmVyUFHSAaQBQVVfeXFMT3ZsNjJfWW9FQ2VPLWROVXp2UHZsS0gwRjBUdkVZMi1tbnhFQXQ1RlBrazNCYTJUcWc2NWU2WGtETnB0MTNNQkJES1l0M011ZWJybldxTFBaZGJIQ1RIaVhXSkVvWVVZRFlSM1h3V1dnbHJiVmkxWnp6Y0wzOXJvaUdmbzk1Y0lyR2RrNTl3YkFzdVdfd21mYk5mQkRKN01TYlQ3ODA?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "77m ago",
+    "news_source": "Al Jazeera",
+    "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
+      "nuclear",
+      "nuclear_power"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13038,7 +13041,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.43,
+    "news_score": 0.42,
     "news_title": "Aicher wins first slalom of World Cup season - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRGFNMi15UGZGbW96eFpXSkJnejRybnphVFlVVG9GM2dVbEhTNnc2V05jZEtGVlY4UGt0TFhEYnpNMFZpeFBzQTh2SGdfZTYtM21lUTlQYW90WUllZUQ3WWhjaUhoQXQtOWFPTENsMDZPdVhVbjl5RS1KRkcwckRlXzNSMTRGNGxiUWdFZkVJT2dVX29ldUE?oc=5",
     "news_image": "",
@@ -13572,12 +13575,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.7,
+    "news_score": 0.69,
     "news_title": "Georgia secure World Rugby Nations Cup title as USA eye Pool A crown - World Rugby",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOalBibE5ubzRrbC1semFyRFVjZ21nbHdrS0dHSnlsTEUtM082NlAxVWlQY3ROSWVXNVNRQzZGUmREY3FrTGhqTGNyLWJPRkcxX1VDMDZVNGhydnNFNHVmRndVNU1FYXV2cEpMemZGN2hIRmo0bTZLYnBQRzZiV1hRRHl2NzJDdXhQOXktVldTUGFRWVh3VHBXNGhjRUZIUHhxSmlpV0o2d18?oc=5",
     "news_image": "",
     "news_source": "World Rugby",
-    "news_age": "86m ago",
+    "news_age": "88m ago",
     "news_columns": [
       "rugby",
       "olympic"
@@ -14542,7 +14545,7 @@
     "refugees_rank": null,
     "union_rate": 70.0,
     "union_rate_rank": null,
-    "news_score": 0.51,
+    "news_score": 0.5,
     "news_title": "ESLC Day 13: Austria and Greece book playoff spots - World Lacrosse",
     "news_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44ZjFZdF9WTHE2TDdNVHdEN3Z6a0xrdGR4Y1ZfcmhNalY2dGtuX3RvNWxUNGdvWXdkbmx6UTFpYU9Wd0tFcjlQRDBScTlHNkktaVNxYw?oc=5",
     "news_image": "",
@@ -17404,19 +17407,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.07,
-    "news_title": "Fatih Birol: The Energy World Will Never Be the Same As Before the Iran War - Time Magazine",
-    "news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GMU54SnZyRFRIa0JwNnM3SVNLUXRwX0ljUGp6UjQ2OXRLODZtd2JqQ3BablVqUHZJT1JCWWxSX0tYNHpxVE45c1BKRi00LUZCYUkza3VSQzlJVGhUZHhQM2w5eEE5TjZ1WUtPbm5sN3E0Z1hxcnFrQmN3?oc=5",
+    "news_score": 0.29,
+    "news_title": "Live Updates: 3 oil tankers hit mines in Strait of Hormuz, Iran says - CBS News",
+    "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
     "news_image": "",
-    "news_source": "Time Magazine",
-    "news_age": "20h ago",
+    "news_source": "CBS News",
+    "news_age": "2h ago",
     "news_columns": [
-      "gas_price",
-      "energy_per_capita",
-      "co2",
-      "renew",
-      "exports",
-      "military_pct"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -17889,9 +17887,8 @@
     "news_source": "Afloat",
     "news_age": "20h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "golf",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 2.7,
     "bottom50_wealth_rank": 20
@@ -19266,7 +19263,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.7,
+    "news_score": 0.71,
     "news_title": "Ancelotti and Raphinha sent off as Japan beat Brazil - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTnV5ZmtpRGxiVE0ySlFqZnRDZW51eEdOeTZpcVR4bnJpOGh6RGNYUmIta0gzaTV5dXdpQmNSUVQ2ZEpWcUdnNnRlN2JVbjNxYnkzOTdmTjZmaUU2VS1zRDlKdlhmZUFQNWxVUlVsTkxtQ0NQT3dqUDJLRnlCb2lRaVRkNUlNRlpRTkE?oc=5",
     "news_image": "",
@@ -28477,7 +28474,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbkpNX2ZNX2k1SHAxRWd6RExHdE1qck5TSDRUOVhLeWo4N2tHb3ZWczNjLUJkZFNZc1g1UURVZzVVSXcyakZlRjJoNFJSNHc2ZXdCYVRESkU3VWZLa0VUdmNoci1rV1dNc0IxdEdWeXFEd1A5cE8xWEF4aHFZTGs2TUtWSXZEa0V3eXE5VFRIMVRFa3ZPb0RB?oc=5",
     "news_image": "",
     "news_source": "Head Topics",
-    "news_age": "102m ago",
+    "news_age": "104m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -30510,16 +30507,15 @@
     "union_rate": 71.9,
     "union_rate_rank": null,
     "fifa_w_rank": 48,
-    "news_score": 0.89,
+    "news_score": 0.91,
     "news_title": "South Africa@Panama - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVFYSjFkTEVkSjgyUzZqUnM2TVZ3RjA2eUd6RV9Lc2REb01WZUNtWFhyOW1Sb3gta2RUVU1ZR1dzQ21RU2hUdVl0dnAyNmdCdjlESzdhcmVZa2drRnBJeFJyeE1NYkdRcDBuVm5VOEloRE81ZmlHNHJhOUVackYwMTNVY05UdVRuMGRxczk2QkNYOWJvd1M3S1VfS0dDekduLUNHeFI3dlo?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "82m ago",
+    "news_age": "84m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "basket"
+      "baseball",
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -31108,7 +31104,7 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.06,
+    "news_score": 0.05,
     "news_title": "More than 1.5 million people welcome Pope Leo XIV in northern Peru - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU0hCUVNkOHRWYkdubTg0ay1UNnAwMmwyNm0yOEpLN2NlUGhQTlJ6SGxTODVGMWNvSi1mUEJGYkJVT09DQmwwcTRJSW95UVJ2b0tBZFpVenhrZ0J3NWtvWGE5RkRIS1hFclF2Y2hibVY1RVRoaUJ2TnctVEVHdjZya1BOYmkyYTNQSUFLU2pHcWdNd1V6R3o3RnhvbG5jVmpsa3oyVGhja3BxWHc0cGtYWQ?oc=5",
     "news_image": "",
@@ -31385,7 +31381,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaVNPWnBnQ2ZZSE5oeUZBSFNDc2wyRFZ6aThYSmNDVWVrTWhkVWZvYzZMbGZJaDJSR1FhNDYxM3JfREczQmN3RmxRUndjOUZYbzdfUHNqR0t4emVnd2haYnZTZHNQV25qX3FLa2w4dUVhZ0V2N3Ntb0xlcDNJdDlKM3o3SkY0MzRwV1RtQlAzcHY3TG9xcXNZZmh1MkFxZkxiLWpNQWZ1X1VBY21pMml2bVUzaw?oc=5",
     "news_image": "",
     "news_source": "ESPN Philippines",
-    "news_age": "114m ago",
+    "news_age": "116m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -32131,16 +32127,15 @@
     "refugees_rank": null,
     "union_rate": 56.8,
     "union_rate_rank": null,
-    "news_score": 1.12,
+    "news_score": 1.17,
     "news_title": "Korea@Puerto Rico - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY19VbG1HQktPOUhrUFJRTHNIRG4wbk5ubFhFcVNDd200dVVTSFhNeXNCam92WUF5R1FKQ0xSS0xTOHgtcWVXbkJGamwwWjFmdE8xak1rOWhOVndSUTZ5dUlOdXFpSkJnSEN4bkppWUtTX0VVRVFUbHBFX3hBaEZxMzhUT2VUNVFPdTNIVFFGSzlTMk5sY2lKcXpoeUwxQmpsZGFjZjhybkQ?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "22m ago",
+    "news_age": "24m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "basket"
+      "baseball",
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -33137,15 +33132,14 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.48,
-    "news_title": "Trump, Xi and Putin plan unprecedented joint meeting on APEC sidelines, White House and Kremlin say - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5",
+    "news_score": 1.31,
+    "news_title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect - Al Jazeera",
+    "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkl0WHV4OWtNN0k0SFVuR2E0VXhrOUpYMXZiOUxFYUVYZlBpa00zTTRXaTVmYWtwcGktWjAzUnMxckxsS0l1S2VqekRxbS15ajUwT1p6RkhjU1NtM3JwMU5uUGlqT295Y19OOXJfUXRHWFNLcGw0VFlTMXV1eFNZUXpobDNHcHVtVUxVVVZqMnA5a09LT2I4d05rWmVyUFHSAaQBQVVfeXFMT3ZsNjJfWW9FQ2VPLWROVXp2UHZsS0gwRjBUdkVZMi1tbnhFQXQ1RlBrazNCYTJUcWc2NWU2WGtETnB0MTNNQkJES1l0M011ZWJybldxTFBaZGJIQ1RIaVhXSkVvWVVZRFlSM1h3V1dnbHJiVmkxWnp6Y0wzOXJvaUdmbzk1Y0lyR2RrNTl3YkFzdVdfd21mYk5mQkRKN01TYlQ3ODA?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "77m ago",
+    "news_source": "Al Jazeera",
+    "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
       "olympic"
     ],
     "election_title": "Russian Federal Duma",
@@ -35655,16 +35649,15 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.89,
+    "news_score": 0.91,
     "news_title": "South Africa@Panama - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVFYSjFkTEVkSjgyUzZqUnM2TVZ3RjA2eUd6RV9Lc2REb01WZUNtWFhyOW1Sb3gta2RUVU1ZR1dzQ21RU2hUdVl0dnAyNmdCdjlESzdhcmVZa2drRnBJeFJyeE1NYkdRcDBuVm5VOEloRE81ZmlHNHJhOUVackYwMTNVY05UdVRuMGRxczk2QkNYOWJvd1M3S1VfS0dDekduLUNHeFI3dlo?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "82m ago",
+    "news_age": "84m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "basket"
+      "baseball",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 1.2,
     "bottom50_wealth_rank": 29
@@ -41258,7 +41251,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.62,
+    "news_score": 0.61,
     "news_title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Sc2FZdms0a2VhSnZ3bHhCakcwcnl4SWhTWi1HaDJUdmZXdzVKTmtocFp0aFRYQk9VYllVZ1Uzdkp5OV9Ic2l5NmtUUXU4WVBaNFpMdDVselhoS2c?oc=5",
     "news_image": "",
@@ -41266,7 +41259,6 @@
     "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
       "olympic"
     ],
     "bottom50_wealth": null
@@ -42536,9 +42528,8 @@
     "news_age": "15048h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "basket",
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
