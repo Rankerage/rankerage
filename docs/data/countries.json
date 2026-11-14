@@ -2556,7 +2556,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.06,
+    "news_score": 0.05,
     "news_title": "Warner accuses Cricket Australia of 'cover-up' - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaV8zcllKNEt5a2Q3THFoSFd3UnNMcURabXFvbnl2bFRwZnR2UG5hNWMwZ2JKQllRT2laUFRyeHNER3dGT2dKVTByQXd1bUtDQXdHOS1jZ0pKUHJTMVBNTWdwak1PeGhxRmhUWUhxVEZLVWUtX2o4c29qdG5PdkQ0dXM5aFJLNEhPXzltSnUyX28?oc=5",
     "news_image": "",
@@ -3064,7 +3064,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUnJUTkV4WUNaMDZHbGU1Uzc5cnZBc2xJZVJVS1I4OHZ4Nl93OVMyend4X3ZuNndpc0szeFFqWlpuX1BJUVRkTG1QeE9HNGRZTjYzenJFbTRzazB3bUFPelVyb1NaQVJONWRNc29xZVEwU3E5cEx3T0FCMkl1Nk80WkdES25aVW9SY1pzV1E2SUF5dDViMU9BUWdCSFY5YnJpdXBxeVgyNVA1bkZtNXJkSVVnUzFrSmpVdjdz?oc=5",
     "news_image": "",
     "news_source": "Gulf Daily News (Bahrain)",
-    "news_age": "29m ago",
+    "news_age": "31m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -8021,19 +8021,19 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.37,
-    "news_title": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting - Reuters",
-    "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHV6OEE3TG9DMmR2b2N2OEpUX2IxMlZLTHUyc3FwaTRZbDZ1RWtPaUl3Q2N6c1JOYl9FQ1k4OGxFeTM1czMzV3R2TE5ueXdQdThyZXhWTHJPUEJVLXh4aVhRVGI5Ri1VcEhMREJWbGdtdVcxNjlBYjRsVHhkYktoU2JERjBmRUctUTkzdm9JcTZLdEpwSFM2TXV5WU5LbV9hZlhNMS1ZdXY4QQ?oc=5",
+    "news_score": 0.35,
+    "news_title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect - Al Jazeera",
+    "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkl0WHV4OWtNN0k0SFVuR2E0VXhrOUpYMXZiOUxFYUVYZlBpa00zTTRXaTVmYWtwcGktWjAzUnMxckxsS0l1S2VqekRxbS15ajUwT1p6RkhjU1NtM3JwMU5uUGlqT295Y19OOXJfUXRHWFNLcGw0VFlTMXV1eFNZUXpobDNHcHVtVUxVVVZqMnA5a09LT2I4d05rWmVyUFHSAaQBQVVfeXFMT3ZsNjJfWW9FQ2VPLWROVXp2UHZsS0gwRjBUdkVZMi1tbnhFQXQ1RlBrazNCYTJUcWc2NWU2WGtETnB0MTNNQkJES1l0M011ZWJybldxTFBaZGJIQ1RIaVhXSkVvWVVZRFlSM1h3V1dnbHJiVmkxWnp6Y0wzOXJvaUdmbzk1Y0lyR2RrNTl3YkFzdVdfd21mYk5mQkRKN01TYlQ3ODA?oc=5",
     "news_image": "",
-    "news_source": "Reuters",
-    "news_age": "4h ago",
+    "news_source": "Al Jazeera",
+    "news_age": "5h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
       "stock_market",
       "reserves",
-      "military_pct",
-      "nuclear"
+      "nuclear",
+      "nuclear_power"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -9085,17 +9085,15 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 128,
     "fifa_w_rank": 69,
-    "news_score": 0.66,
+    "news_score": 0.83,
     "news_title": "Nicaragua@Cuba - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbkNIM2wydklvaTRLVTF5Qnpwd0xWcDA0eHBQTGFqd2hrR3ZYWFpfSDhicWlXeXNYZ1ZHZ1F2WFVtRDNBMzZkTkwydkl3ZmR2Ry1DcFY5RUZOaXR2UXJkUGlxMkZsUHZkcDU5NUFlSUpRdWpKRXZFNHBvQldUT29CeWtyMzFMV2tZRnhkS2VFZ1M3MXdTOHoyY2hZQ3NMSmFlNEpxT3c2djc?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "4m ago",
+    "news_age": "6m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "basket",
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -13040,7 +13038,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.08,
+    "news_score": 0.07,
     "news_title": "South Africa win hands France World Cup 'cornerstone' - AFP.com",
     "news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YTGRiTDdtU2RYcnF3QVQ4Q2F0VU81NTFTTTl3U0RlV09BNjZicGdvakdPZFN0aE80QUFsU1Nia09DM2FSdE1zRUVjSXNibTdOaDNuRU5fT2RkSXRxQVY4N3A4bDFubE4zbWJnemxESHRCWnc1Vm5yZEkzS0taT2M?oc=5",
     "news_image": "",
@@ -13572,17 +13570,15 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 1.68,
-    "news_title": "College football live updates, scores: Week 11 schedule features Miami, Alabama, Ohio State in action - CBS Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNckJoQ3l2OUEwRGZiWUpDTXc5X2JBTlFNN05najVFTkhtY3Z1WUdvUVd2U3I0SFFiYTNhZGVRai1OWXhjWnF1Q1lPSE5FUHpYT0RrNGlxQ3JHdXh4bld6Q0lqMmRPTG40S3ZKVzJrN2o0Ukxrd2kxb2VRVncyOG1GVWdiRlBfc0hJY3k5Sm9qaUY1MVVURVdCNEdma0hYUDFIWkZFOFNPdGtWOUJzYnZhVkFR?oc=5",
+    "news_score": 1.55,
+    "news_title": "USA and Georgia crowned Nations Cup champions - World Rugby",
+    "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ0tLd09FT2hJT2oxLVlHTG1CNlR3bi1lZlF3WVlmY19lUW9mdzdUZ3JNM0k5OXZqQnA4aXNEQUI3WXJCbkdGbUNBTWhIdGwxMi1ZT1diNHBQbEdJY3VXOWFOdmw3RTlmVmVVLTNYeXNNVEdxRmI2a1RFbUxLNlB1alFXT2lHSnFUa1E?oc=5",
     "news_image": "",
-    "news_source": "CBS Sports",
-    "news_age": "82m ago",
+    "news_source": "World Rugby",
+    "news_age": "110m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "basket",
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -14271,16 +14267,15 @@
     "union_rate": 60.4,
     "union_rate_rank": null,
     "fifa_w_rank": 50,
-    "news_score": 0.83,
+    "news_score": 0.64,
     "news_title": "Dangote eyes Ghana cocoa industry, plans 500,000-tonne processing deal - Legit News",
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcEF5N21mNlFfSVc0RzB2ZEJCT3doRk5PbHRzU2JYbW5mVTBwTTVrTVVrVTZPc19ob0lfWEZkY0U2eGpMVXZLLTgxQllPWkcwYV80amU5aEhrV05aektHbkp0bllGQWVDTkhQbUUzc2syN3FLQVBQSXk3bXFnMU1xcFJwY1hsSEpxNjJJMGtIYVE2djFsSVEwd2ZLNGpRdU5xbmZYSVl4ZlZjYTJ1elZLZjJqY0R1Y2ZLUExDSTFFR1lXcXByRVk3RjlYTzc?oc=5",
     "news_image": "",
     "news_source": "Legit News",
-    "news_age": "102m ago",
+    "news_age": "104m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "chocolate",
+      "agri"
     ],
     "bottom50_wealth": null
   },
@@ -16828,7 +16823,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.13,
+    "news_score": 0.09,
     "news_title": "Science, spirituality go hand-in-hand in India, says PM Modi while opening India's first LED Dome planetarium - Mathrubhumi English",
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXhWTzI0WjFvTzAwRkZVRVdvYXdYYWJSbDJ4bG5XT05rVGJ5OVprVjJFc29mVFhILXN2YmZqVktLS0k5MU15Zm9vSzJzYVBxYmh6c0dELUs4UVdPWmJXb2U2VnA1NkhxZUJ5Wk5adXZCMnBJRE1aMkdrQUhzbmNTNGkyb3VpUnlQUGxTdkNwR2dSNi13UDF4Qm9HRl9ISlVWWjI0S1pZcVZnckxxbmV6NS1YdjU2WnB5eEVr0gHAAUFVX3lxTE5MSExiZnhDRnpZc2dEbnhXT3NoTnFRZHltak56NUc5OV9aeHhhSDVpRlBuN1NrNE0wMFRMN21TczU2OEoxVFVOX2V6aTJIcXRkc3VXd1kwMWRSMXRial9mMl9lMEk2MXNWWUoxYWF5QmUyNU9xdVpVWFVnd3hvSmtjVlZiUGE0TVRVSDZTZzVYNGR6MzE3SlJELXRnUUFPZXRoNVByXzEtbEZNOWVFajN6TFU0VkpsQldLUURVRXpWcA?oc=5",
     "news_image": "",
@@ -18580,12 +18575,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.28,
-    "news_title": "Italy fines Meta $880m over photo privacy - Al Jazeera",
-    "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcklyOFA0TWlHVnZrRnhxWUtIM2FOR3ZsWjlSUC00MXhjVHJPV1BaMlQyd0xvdmNmRzRVcWxKZmNuSndveVdoQWJfNjlmWlJFRkxCLUNNMHgtSTA1aXZnZHZuMTJDdjV0UjBMNGV6M0x3X3owbjc0WWxkd0pPVl9LelY5d3hGUkhPWVHSAY8BQVVfeXFMTkpMRkQ5VFVOVG15MDdlZF9EY2EyZi15NE5nQjlXc3pPRDVtN2xva1hsOGxjSmQxcjNGLTY3OUFwakljRHZSMEFqc2V3WTRreU9vODFxbmRCQjdieDA1VzRpX3BJUXFlWW1GTm1iN1dtV1VtV2ljak5QMzRQcWc2cU4yc0trdkYwSC1jUV96WnM?oc=5",
+    "news_score": 0.16,
+    "news_title": "ITALY U21 WIN AS CAMARDA SCORES - Yahoo Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGZYWEhESVZNX1JMbGFiTzdINi12QXhHUndRd3haSDVHZnE2d3NCcjRfY1ZoSzRVd3Ryc3lmbm9Nd0hsa2p2bUZjY0g4SlZfNl9ydGx0ZnRFcm1FaUxUbGVvNTNKc00zZnc4SXdXMzVpN1Y2cVhXVXprNUZzRDZ4czAySQ?oc=5",
     "news_image": "",
-    "news_source": "Al Jazeera",
-    "news_age": "4h ago",
+    "news_source": "Yahoo Sports",
+    "news_age": "10h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -28009,19 +28004,15 @@
     "refugees_rank": null,
     "union_rate": 69.0,
     "union_rate_rank": null,
-    "news_score": 0.5,
+    "news_score": 0.83,
     "news_title": "Nicaragua@Cuba - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbkNIM2wydklvaTRLVTF5Qnpwd0xWcDA0eHBQTGFqd2hrR3ZYWFpfSDhicWlXeXNYZ1ZHZ1F2WFVtRDNBMzZkTkwydkl3ZmR2Ry1DcFY5RUZOaXR2UXJkUGlxMkZsUHZkcDU5NUFlSUpRdWpKRXZFNHBvQldUT29CeWtyMzFMV2tZRnhkS2VFZ1M3MXdTOHoyY2hZQ3NMSmFlNEpxT3c2djc?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "4m ago",
+    "news_age": "6m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
       "basket",
-      "car_density",
-      "gas_price"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -28474,16 +28465,17 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 1.39,
+    "news_score": 1.08,
     "news_title": "Udeh Unveils Tinubu, Mbah Re-election Support Group, Targets 20 Members per Polling Unit - The Guardian Nigeria News",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmdqTjNwa2NyTEpIM1Bsa2RIYktGajF1SDVQTXI0YUlPaTF1RE8zcHVYaVQ2Y052UTB3Qzl4eWNCcFpOc1FnbDlTOENkSTRQZlNqU09HT1RUalU3NEdnZzZ0MFR4YmFDWHBmMW5fWXB3cm9wTE11dnJYZXNPcU9UYnlMdWtMOGFnZnJYdWNfek9UdTZtNFdxSlNibGk5dl9pMi1OTG91bzlmUEFualRKb1pB?oc=5",
     "news_image": "",
     "news_source": "The Guardian Nigeria News",
-    "news_age": "67m ago",
+    "news_age": "69m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "democracy",
+      "approval",
+      "press",
+      "election_days"
     ],
     "bottom50_wealth": null
   },
@@ -29507,12 +29499,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.83,
+    "news_score": 0.63,
     "news_title": "🔥 In-demand Antonio Nusa continues post-World Cup form for Norway - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWhaUTByaEdhYmc3blJZV2RkaHl4OXBNZDVaWlBrLXZDb2dGZEs2anQzdF9CXzZDdzJBWmNQSG5vUVZTbEdudkFWakhQTEt5dGZoVnJuQmtXQWhOT3RoVGtIYmotWWdZd0x4aTZCSzJLN1UtY3hJempKcXI3SnItLThNTWlJR1JzamxB?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "107m ago",
+    "news_age": "109m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -30511,17 +30503,15 @@
     "union_rate": 71.9,
     "union_rate_rank": null,
     "fifa_w_rank": 48,
-    "news_score": 0.44,
+    "news_score": 0.42,
     "news_title": "South Africa@Panama - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMzZzS3FlS2VibkxyVkhlOV9PWFNMNExkR2NaREVja0NGd2o2SXZhcUpjeVZNUTRUR2o4cEhNaURkZHVNRUcwVkZJZEsyMUdwalZUMkhSVlVXVjJtT3dfWndKajRhR1p6NzVDM29sdUNLTU1mOWdSeVhYaGkzUnhuTkhUc29OS0sybU9RUVlEUmJsY1JVQ1daZGdsQ2NLX1ZOWDllbA?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "basket",
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -31110,7 +31100,7 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.26,
+    "news_score": 0.27,
     "news_title": "Pope’s visit to hub of Afro-Peruvian community casts spotlight on African slave trade to Peru - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbldQc0RVYVEyM2ozT01IUE1MUENQZl9sdXJDQVhZUUdUbEpEZHFwVVVDLUVKS2ZTQld4QUM1UVc1dWZwNG56WVQ0X3VENnVKTmtJLXZIUlkweUZHU1R4OXJTY0R4RmVadmozLWltdEVFMlh3VGlUM0V6U293Sk9mWjBwbWNLS25yVC1KZlRUbWEyOTk5dEFpRHd2WUw?oc=5",
     "news_image": "",
@@ -32130,17 +32120,15 @@
     "refugees_rank": null,
     "union_rate": 56.8,
     "union_rate_rank": null,
-    "news_score": 0.68,
+    "news_score": 0.65,
     "news_title": "Korea@Puerto Rico - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY19VbG1HQktPOUhrUFJRTHNIRG4wbk5ubFhFcVNDd200dVVTSFhNeXNCam92WUF5R1FKQ0xSS0xTOHgtcWVXbkJGamwwWjFmdE8xak1rOWhOVndSUTZ5dUlOdXFpSkJnSEN4bkppWUtTX0VVRVFUbHBFX3hBaEZxMzhUT2VUNVFPdTNIVFFGSzlTMk5sY2lKcXpoeUwxQmpsZGFjZjhybkQ?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "basket",
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -33137,19 +33125,14 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.89,
+    "news_score": 1.1,
     "news_title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Sc2FZdms0a2VhSnZ3bHhCakcwcnl4SWhTWi1HaDJUdmZXdzVKTmtocFp0aFRYQk9VYllVZ1Uzdkp5OV9Ic2l5NmtUUXU4WVBaNFpMdDVselhoS2c?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "72m ago",
+    "news_age": "74m ago",
     "news_columns": [
-      "basket",
-      "olympic",
-      "nato",
-      "military_pct",
-      "gdp",
-      "ai_research"
+      "fifa_ranking"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -35662,17 +35645,15 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.48,
+    "news_score": 0.45,
     "news_title": "South Africa@Panama - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMzZzS3FlS2VibkxyVkhlOV9PWFNMNExkR2NaREVja0NGd2o2SXZhcUpjeVZNUTRUR2o4cEhNaURkZHVNRUcwVkZJZEsyMUdwalZUMkhSVlVXVjJtT3dfWndKajRhR1p6NzVDM29sdUNLTU1mOWdSeVhYaGkzUnhuTkhUc29OS0sybU9RUVlEUmJsY1JVQ1daZGdsQ2NLX1ZOWDllbA?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "basket",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 1.2,
     "bottom50_wealth_rank": 29
@@ -36730,19 +36711,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.51,
+    "news_score": 0.91,
     "news_title": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRmxpdGVWWnFKalBDb3Z1ZG9rU2RhbVMydDV0WFRrak9KQldJYXNaNWNhUjBMNERyUkZfVU5HUl9IOEhrUm1QX0V0RERFZlctclg4SjZOX1pQR2N1dEVmdS1HdDJ4c2c5ZklDdmd6dEN4eURrSUN0cllhbEs3UERPbXNLODdXenF0cVczVUdVd0xnRU5qcDJ1R0MyMjE0Z21rRDVUZVpodmhOSXlaNEc5a05jbw?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "3m ago",
+    "news_age": "4m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "gdp",
-      "gdp_per_capita"
+      "fifa_w"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5,
@@ -41270,16 +41247,14 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.99,
+    "news_score": 0.9,
     "news_title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Sc2FZdms0a2VhSnZ3bHhCakcwcnl4SWhTWi1HaDJUdmZXdzVKTmtocFp0aFRYQk9VYllVZ1Uzdkp5OV9Ic2l5NmtUUXU4WVBaNFpMdDVselhoS2c?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "72m ago",
+    "news_age": "74m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -42549,7 +42524,6 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
       "basket"
     ],
     "bottom50_wealth": 1.5,
