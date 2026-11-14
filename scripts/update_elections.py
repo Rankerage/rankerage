@@ -162,6 +162,15 @@ def main():
         
         if future_dates:
             closest = min(future_dates, key=lambda x: abs((x - today).days))
+            # 후퇴 방지: 기존 값이 미래이고 새 후보(과거)가 더 멀면 기존 유지
+            if closest < today:
+                prev = c.get('election_date')
+                try:
+                    pdt = datetime.strptime(prev, '%Y-%m-%d').date()
+                    if pdt >= today and (pdt - today).days <= (today - closest).days:
+                        continue
+                except (TypeError, ValueError):
+                    pass
             c['election_date'] = closest.strftime('%Y-%m-%d')
             c['election_days'] = abs((closest - today).days)
             # 선거 제목
@@ -200,6 +209,16 @@ def main():
                     updated += 1
     except Exception as e:
         print(f"  ⚠ IFES 실패: {e}")
+    
+    # 모든 국가 election_days 재계산 (절대값) — 날짜 유지된 국가 포함
+    for c in countries:
+        ed = c.get('election_date')
+        if not ed:
+            continue
+        try:
+            c['election_days'] = abs((datetime.strptime(ed, '%Y-%m-%d').date() - today).days)
+        except ValueError:
+            pass
     
     # 최종 순위 재계산
     ranked = sorted(
