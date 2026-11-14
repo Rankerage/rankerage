@@ -2556,7 +2556,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.1,
+    "news_score": 0.09,
     "news_title": "How to watch Australia vs. New Zealand in the Rugby League World Cup final online for free - Mashable",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2RtSFFZM3BlWWZYbGVwU1loTFRSSnBVVURLUnJkeVhudTY0YjJVd1BhWm1rLTZucHptUmdxUjlUb2pHRWZlVGhYLWQyVG1PQTdILTVlM2wtallfRFFPeGt5bDZkTEhUdWh4OXVTQkRjVDI5QUN5bXVLcVdSOVItYmF0VVJGb3FiVkpTRFVtNkRkQU9td1VHY3pZYkYwUWVSZVRSQ1lYSUN2OFk?oc=5",
     "news_image": "",
@@ -7574,7 +7574,7 @@
     "refugees_rank": null,
     "union_rate": 70.9,
     "union_rate_rank": null,
-    "news_score": 0.36,
+    "news_score": 0.37,
     "news_title": "Fuel crisis and protests pressure Chile's far-right president - NPR",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLXlTRW9uNWhrNHdIVXlIV2ZXXzRJN3MyS3ZBSUxTVXUwOU5qWlloUTJmRTRTM1dVSGtWSzFlUkdZWmkzOXJnMWQ1eHM2eV93NlRZMXlyYW5QNHpuQVhCajJaeDRuaW1lNkpNaElxZTd1clByY3c1MWlLOUl0MzRFaVpRS1E?oc=5",
     "news_image": "",
@@ -8018,14 +8018,16 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.93,
+    "news_score": 0.89,
     "news_title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkl0WHV4OWtNN0k0SFVuR2E0VXhrOUpYMXZiOUxFYUVYZlBpa00zTTRXaTVmYWtwcGktWjAzUnMxckxsS0l1S2VqekRxbS15ajUwT1p6RkhjU1NtM3JwMU5uUGlqT295Y19OOXJfUXRHWFNLcGw0VFlTMXV1eFNZUXpobDNHcHVtVUxVVVZqMnA5a09LT2I4d05rWmVyUFHSAaQBQVVfeXFMT3ZsNjJfWW9FQ2VPLWROVXp2UHZsS0gwRjBUdkVZMi1tbnhFQXQ1RlBrazNCYTJUcWc2NWU2WGtETnB0MTNNQkJES1l0M011ZWJybldxTFBaZGJIQ1RIaVhXSkVvWVVZRFlSM1h3V1dnbHJiVmkxWnp6Y0wzOXJvaUdmbzk1Y0lyR2RrNTl3YkFzdVdfd21mYk5mQkRKN01TYlQ3ODA?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "3h ago",
+    "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13566,15 +13568,17 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.77,
-    "news_title": "Georgia secure World Rugby Nations Cup title as USA eye Pool A crown - World Rugby",
-    "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOalBibE5ubzRrbC1semFyRFVjZ21nbHdrS0dHSnlsTEUtM082NlAxVWlQY3ROSWVXNVNRQzZGUmREY3FrTGhqTGNyLWJPRkcxX1VDMDZVNGhydnNFNHVmRndVNU1FYXV2cEpMemZGN2hIRmo0bTZLYnBQRzZiV1hRRHl2NzJDdXhQOXktVldTUGFRWVh3VHBXNGhjRUZIUHhxSmlpV0o2d18?oc=5",
+    "news_score": 0.95,
+    "news_title": "College football live updates, scores: Week 11 schedule features Miami, Alabama, Ohio State in action - CBS Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNckJoQ3l2OUEwRGZiWUpDTXc5X2JBTlFNN05najVFTkhtY3Z1WUdvUVd2U3I0SFFiYTNhZGVRai1OWXhjWnF1Q1lPSE5FUHpYT0RrNGlxQ3JHdXh4bld6Q0lqMmRPTG40S3ZKVzJrN2o0Ukxrd2kxb2VRVncyOG1GVWdiRlBfc0hJY3k5Sm9qaUY1MVVURVdCNEdma0hYUDFIWkZFOFNPdGtWOUJzYnZhVkFR?oc=5",
     "news_image": "",
-    "news_source": "World Rugby",
-    "news_age": "2h ago",
+    "news_source": "CBS Sports",
+    "news_age": "16m ago",
     "news_columns": [
-      "rugby",
-      "olympic"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -14271,7 +14275,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcEF5N21mNlFfSVc0RzB2ZEJCT3doRk5PbHRzU2JYbW5mVTBwTTVrTVVrVTZPc19ob0lfWEZkY0U2eGpMVXZLLTgxQllPWkcwYV80amU5aEhrV05aektHbkp0bllGQWVDTkhQbUUzc2syN3FLQVBQSXk3bXFnMU1xcFJwY1hsSEpxNjJJMGtIYVE2djFsSVEwd2ZLNGpRdU5xbmZYSVl4ZlZjYTJ1elZLZjJqY0R1Y2ZLUExDSTFFR1lXcXByRVk3RjlYTzc?oc=5",
     "news_image": "",
     "news_source": "Legit News",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
       "chocolate",
       "agri"
@@ -16383,7 +16387,7 @@
     "refugees": null,
     "refugees_rank": null,
     "fifa_ranking_rank": 70,
-    "news_score": 0.15,
+    "news_score": 0.14,
     "news_title": "Rovers striker Gudjohnsen scores hat-trick for Iceland - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkhxcEtsUUtLTEJCelpCWTdzWFNLVk93WlR6NkFQeHEweDgwc2dRWTZranVncDdTd3lWeFJJVmlZR3dfOFFnYkZvX0ZjVkcwdWFHNFc1TUZWbndrTDEwSGFHVFVnN25JS3ItbHZ1b21JNVRHMGdfbGdSb1Z4aGtvaUR0UzQ3NXN3bVpxb3pn?oc=5",
     "news_image": "",
@@ -16822,12 +16826,12 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.25,
+    "news_score": 0.24,
     "news_title": "'Are we in kindergarten?': Ex-India spinner backs Khawaja, tears into Cummins' sandpapergate explanation - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZHlLa2UtWkZDNWZZYUo2X2hNeUctcEtQX3REOFZBV29GWE53V3lySHFNdWF3UGZ3ZDJ5aktZX3phVkFBYVNjdF9sZW5tbTRQWk5vVi1FNDZ0ZjFFRjhCZmZjYlB0d3RSb2txWkZsUWQ3Z0NrVFhreGE5UjN6STJaT3RyRm84Q0dkN2pTWg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "4h ago",
+    "news_age": "5h ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -17394,7 +17398,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.02,
+    "news_score": 0.01,
     "news_title": "Fatih Birol: The Energy World Will Never Be the Same As Before the Iran War - Time Magazine",
     "news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GMU54SnZyRFRIa0JwNnM3SVNLUXRwX0ljUGp6UjQ2OXRLODZtd2JqQ3BablVqUHZJT1JCWWxSX0tYNHpxVE45c1BKRi00LUZCYUkza3VSQzlJVGhUZHhQM2w5eEE5TjZ1WUtPbm5sN3E0Z1hxcnFrQmN3?oc=5",
     "news_image": "",
@@ -18574,14 +18578,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.7,
+    "news_score": 0.92,
     "news_title": "Italy fines Meta $887 million over Android users' data access - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVFmcHRvNGEzVXRKbU5Kc0JhSDV4R2o0bnpXSUJMZnRMc1E2ckNCRzBaWDhzY2xObHVtNmtiWmdoX3g4NlVsYkc1bzFDbVB0T016LWczNHJ6bGx2ZXlQeDZPUGNjeXJPaWZ3Wm5DdU9za21PMXFlZVVDckh5Q1I0QnROcElOTnA2bGMzczBMbFJweW1ISkkwWUgzNXJpTU95N0NR?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "73m ago",
+    "news_age": "75m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "basket"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -19261,7 +19267,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.73,
+    "news_score": 0.72,
     "news_title": "Ancelotti and Raphinha sent off as Japan beat Brazil - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTnV5ZmtpRGxiVE0ySlFqZnRDZW51eEdOeTZpcVR4bnJpOGh6RGNYUmIta0gzaTV5dXdpQmNSUVQ2ZEpWcUdnNnRlN2JVbjNxYnkzOTdmTjZmaUU2VS1zRDlKdlhmZUFQNWxVUlVsTkxtQ0NQT3dqUDJLRnlCb2lRaVRkNUlNRlpRTkE?oc=5",
     "news_image": "",
@@ -29500,12 +29506,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.86,
+    "news_score": 0.85,
     "news_title": "🔥 In-demand Antonio Nusa continues post-World Cup form for Norway - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWhaUTByaEdhYmc3blJZV2RkaHl4OXBNZDVaWlBrLXZDb2dGZEs2anQzdF9CXzZDdzJBWmNQSG5vUVZTbEdudkFWakhQTEt5dGZoVnJuQmtXQWhOT3RoVGtIYmotWWdZd0x4aTZCSzJLN1UtY3hJempKcXI3SnItLThNTWlJR1JzamxB?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "39m ago",
+    "news_age": "41m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -30504,7 +30510,7 @@
     "union_rate": 71.9,
     "union_rate_rank": null,
     "fifa_w_rank": 48,
-    "news_score": 0.53,
+    "news_score": 0.52,
     "news_title": "South Africa@Panama - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVFYSjFkTEVkSjgyUzZqUnM2TVZ3RjA2eUd6RV9Lc2REb01WZUNtWFhyOW1Sb3gta2RUVU1ZR1dzQ21RU2hUdVl0dnAyNmdCdjlESzdhcmVZa2drRnBJeFJyeE1NYkdRcDBuVm5VOEloRE81ZmlHNHJhOUVackYwMTNVY05UdVRuMGRxczk2QkNYOWJvd1M3S1VfS0dDekduLUNHeFI3dlo?oc=5",
     "news_image": "",
@@ -31103,7 +31109,7 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.43,
+    "news_score": 0.42,
     "news_title": "Pope’s visit to hub of Afro-Peruvian community casts spotlight on African slave trade to Peru - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbldQc0RVYVEyM2ozT01IUE1MUENQZl9sdXJDQVhZUUdUbEpEZHFwVVVDLUVKS2ZTQld4QUM1UVc1dWZwNG56WVQ0X3VENnVKTmtJLXZIUlkweUZHU1R4OXJTY0R4RmVadmozLWltdEVFMlh3VGlUM0V6U293Sk9mWjBwbWNLS25yVC1KZlRUbWEyOTk5dEFpRHd2WUw?oc=5",
     "news_image": "",
@@ -31377,7 +31383,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaVNPWnBnQ2ZZSE5oeUZBSFNDc2wyRFZ6aThYSmNDVWVrTWhkVWZvYzZMbGZJaDJSR1FhNDYxM3JfREczQmN3RmxRUndjOUZYbzdfUHNqR0t4emVnd2haYnZTZHNQV25qX3FLa2w4dUVhZ0V2N3Ntb0xlcDNJdDlKM3o3SkY0MzRwV1RtQlAzcHY3TG9xcXNZZmh1MkFxZkxiLWpNQWZ1X1VBY21pMml2bVUzaw?oc=5",
     "news_image": "",
     "news_source": "ESPN Philippines",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -32128,7 +32134,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY19VbG1HQktPOUhrUFJRTHNIRG4wbk5ubFhFcVNDd200dVVTSFhNeXNCam92WUF5R1FKQ0xSS0xTOHgtcWVXbkJGamwwWjFmdE8xak1rOWhOVndSUTZ5dUlOdXFpSkJnSEN4bkppWUtTX0VVRVFUbHBFX3hBaEZxMzhUT2VUNVFPdTNIVFFGSzlTMk5sY2lKcXpoeUwxQmpsZGFjZjhybkQ?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "86m ago",
+    "news_age": "88m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -33130,14 +33136,16 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.75,
+    "news_score": 0.7,
     "news_title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkl0WHV4OWtNN0k0SFVuR2E0VXhrOUpYMXZiOUxFYUVYZlBpa00zTTRXaTVmYWtwcGktWjAzUnMxckxsS0l1S2VqekRxbS15ajUwT1p6RkhjU1NtM3JwMU5uUGlqT295Y19OOXJfUXRHWFNLcGw0VFlTMXV1eFNZUXpobDNHcHVtVUxVVVZqMnA5a09LT2I4d05rWmVyUFHSAaQBQVVfeXFMT3ZsNjJfWW9FQ2VPLWROVXp2UHZsS0gwRjBUdkVZMi1tbnhFQXQ1RlBrazNCYTJUcWc2NWU2WGtETnB0MTNNQkJES1l0M011ZWJybldxTFBaZGJIQ1RIaVhXSkVvWVVZRFlSM1h3V1dnbHJiVmkxWnp6Y0wzOXJvaUdmbzk1Y0lyR2RrNTl3YkFzdVdfd21mYk5mQkRKN01TYlQ3ODA?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "3h ago",
+    "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -41257,14 +41265,16 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.41,
+    "news_score": 0.42,
     "news_title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Sc2FZdms0a2VhSnZ3bHhCakcwcnl4SWhTWi1HaDJUdmZXdzVKTmtocFp0aFRYQk9VYllVZ1Uzdkp5OV9Ic2l5NmtUUXU4WVBaNFpMdDVselhoS2c?oc=5",
     "news_image": "",
     "news_source": "BBC",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -42533,7 +42543,9 @@
     "news_age": "15049h ago",
     "news_columns": [
       "fifa_ranking",
-      "basket"
+      "fifa_w",
+      "basket",
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
