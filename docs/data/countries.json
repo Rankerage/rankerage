@@ -2552,19 +2552,17 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.01,
-    "news_title": "Australia and the Global Economy – The Terms of Trade Boom | Explainer | Education - www.rba.gov.au",
-    "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbi1LWXdGcTlnVU15dHJtY2VrMHRSQkUzLWpLek9oeXFRRms4Z3lNanpWR2RZSWJxZmtwZGNPdU03SWR6ejYzaWtlZmZLUnNhQVYxZ2JjZ0lkVFIxRGxfZ2xwSFZUdDJfZzV2cHZNZ2ltdmJ2Qk1ZRTZzUHJpNzRkamYyYWJzTWZkZHhJSWo0SWZfUFFJSlE?oc=5",
+    "news_score": 0.19,
+    "news_title": "Korea@Australia - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
+    "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUTQ4a0ZRLXViT3pCeGtrbFJ1all6RTJ5emZCekhqcUtXX2Q3Ry1kbG9HTElKeFNPclFWTVlFTzdMMldENXJ6X0JnZklfMU9FSHVmalE2ZUlud19NQ1JEV1ZuMncxV2NKam5CTHl5Ums1MDNUYkZSc2Y3U0RBTkJXblFQSG1PMndQSkV3eEpVWkphQkJWSDJsN0NfZy16T0hJMFNUUE91N3Y?oc=5",
     "news_image": "",
-    "news_source": "www.rba.gov.au",
-    "news_age": "76823h ago",
+    "news_source": "World Baseball Softball Confederation (WBSC)",
+    "news_age": "2h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -5165,7 +5163,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPd0hVOHRZTHFNc28xanRaUjlYbkNUUE5nWDZubjBublZOak1VTVZkdHVpMnF1dUQtRDJ6WVlMQmx1a2pBRFRrRk5WZkNNWUNXaXhQV3NDeXVpdk5PZmJ5eE10dHJEeTliMXoxc3E5Zk42MzYya3FvWExRcE1PaTh2UlctMGh4dHBhUjRjN0tlLUZ4MmtjRERtVGFNUWNSODQtTUFDa0JfQm1PNlowR2J6QllzV0NhSVo4UEVNNjdFZUtwRWE3ZzBSZjVWZWZUWFY1ckcyNVBpejBzcDhHYVZiUzVwN1hzVGd6WWxPMHJ6ZFViN2NXSm53REpmUkpPZDdNTG5ZZHEzUDYwMW4wTmdMUlVkRDA2dGVrQ01SOWxxMHJsUmUyek9hdg?oc=5",
     "news_image": "",
     "news_source": "California State Portal | CA.gov",
-    "news_age": "31h ago",
+    "news_age": "32h ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -8019,19 +8017,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.22,
+    "news_score": 1.24,
     "news_title": "Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ear on China - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNV83TGNqLXB1TGRFV1otMFAwS3poMGY4dHp6V05vWllwcmJ0SGN1QkxXdHpob3czaXJSLW1jcjkta1FpRFR1emR3SVZtWWlUclVIWDlFODZHRDFabzcxR2JfamFhU3VxTnVRNG16Z0F2Y09wRUU0ZmxRazVwTDVSV0V2dlFNNm1WazBoUXg2U1kxM1p0Ym5NSmREU1htSDk2SF9jR2hSTXFYLU85ZHFnaW5YMzY?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "112m ago",
+    "news_age": "114m ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
-      "cpi",
-      "democracy"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13038,19 +13031,17 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.23,
+    "news_score": 0.28,
     "news_title": "France awards Legion of Honor medal to 102-year-old Woodstock World War II veteran William Lyford - ABC7 Chicago",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSFhWd0dYdFhseDBMYWxtcHhXd0NBelhtclJKS0xsR2VGTWZEdGFhdVFwTkhSdWt4MHMxQ1dIWW1Vd2RJaU1DeDQ4RGRFYXNlVTZncGIwX0xpYVQtOWxGcHN0UHN5WENSZVVTcXJVZWdhc1FjQW9nbUxudVo4aUhHWUdfdl96MU9qVENCQmdqcFk0YkotUFAtV3F5OHk2UXlGY0FaMGV1VGQ1RG81clBEYXhRbWp4dXJkNTlNbnNjTVhOdXhXMWZXeDNn0gHPAUFVX3lxTFBBRUNobUlXOHgxUEtXZHVsWVdfVjBraUQ3SEZZNC1hd0Nndk45aFBleURuRnRRdWhqV3dJanF2WmxraEdEaDZLbDAzZEVDRG8tWU9aUGYta1JJNHplSThNZzI4WG9xY0VnU2xxS3Q3NldWOVVSMm1EVlRWaTVzaThKeEJ5SlJoMmdMU253SEJ4b1B1cUlkTTd0cWo0SVpCY0NRMkcwLWNEQ1c3c1BQZ0JpdmtsQjYyV2ppa3N2QXRSdkR4OWkzbHJkSkQ1S0tYdw?oc=5",
     "news_image": "",
     "news_source": "ABC7 Chicago",
     "news_age": "6h ago",
     "news_columns": [
-      "olympic",
-      "olympic_gold",
-      "olympic_per_cap",
       "fifa_ranking",
-      "gdp",
-      "gdp_per_capita"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -16832,12 +16823,12 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 1.01,
+    "news_score": 0.78,
     "news_title": "India: Delhi surpasses Lahore as world's most polluted city - DW.com",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNFpjSkU5QkR3bFpwclRRQ1NFSnBwM1JxUXh4Wm94TkhhM0pSUHBpQWNPamowWktydzhwQ2FQRHYtNzM1bTIzQTVsbUxUamIyMUw2Ym9rMFZ5dllPSkxnb0tsRjVCekJCWUJHVC1zSHR4dEtVOTBNak5qSVRpMExSZ3l1dHVIVWFkRGZORzNCWFMwWEU1WWgteQ?oc=5",
     "news_image": "",
     "news_source": "DW.com",
-    "news_age": "58m ago",
+    "news_age": "60m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -17404,19 +17395,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.07,
-    "news_title": "Fatih Birol: The Energy World Will Never Be the Same As Before the Iran War - Time Magazine",
-    "news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GMU54SnZyRFRIa0JwNnM3SVNLUXRwX0ljUGp6UjQ2OXRLODZtd2JqQ3BablVqUHZJT1JCWWxSX0tYNHpxVE45c1BKRi00LUZCYUkza3VSQzlJVGhUZHhQM2w5eEE5TjZ1WUtPbm5sN3E0Z1hxcnFrQmN3?oc=5",
+    "news_score": 0.19,
+    "news_title": "Trump touts Iran victory by ‘status quo’ economic pressure - The Washington Post",
+    "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSjdDUkdQaXVrcUlEYlg0SmxsT1hTdllwUzR1UWhJd3REV2czeXZjaHNTcnpGbnJzNVd5QkJZQUN4WHgxeG0yMFJIMTBTOGFkRmk1d2JVd2lXQWI4VmI0STRtQ3dRV3IwUHVackQxMGxSVUJ3empRR1NLWk1URkl4ODN5YktkUTN2T05SOUxoUmFqbkdtTlBVaXNUNW5ibkx6WGxLMjFabFA0X3BTeTFkeEUyc1JJY2dv?oc=5",
     "news_image": "",
-    "news_source": "Time Magazine",
-    "news_age": "9h ago",
+    "news_source": "The Washington Post",
+    "news_age": "2h ago",
     "news_columns": [
-      "gas_price",
-      "energy_per_capita",
-      "co2",
-      "renew",
-      "exports",
-      "military_pct"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -19271,7 +19262,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.48,
+    "news_score": 0.6,
     "news_title": "Chinese Taipei@Japan - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWVoTk9UQUhZcVcycUxjbFFHYUtua1NqbHVUdGw0anA2REFnQTFWVGpFaWRlSjhmUHZneFdhUjhYWUdjWWIxbHQ1OVFDQXlKVGVPcVFnRHVUNFVNZ3BLSlBFY1J6cmo2a1l1Z1p4Y0Fpc0xlbUJha2EtVTZyMFJuclM2LTJ2NFJPOWxicFA5Wjh3cUZBWjBzeTdrYU51WHQyX3J1VUp5OUo?oc=5",
     "news_image": "",
@@ -19281,9 +19272,7 @@
       "fifa_ranking",
       "fifa_w",
       "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "basket"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -28007,7 +27996,7 @@
     "refugees_rank": null,
     "union_rate": 69.0,
     "union_rate_rank": null,
-    "news_score": 0.41,
+    "news_score": 0.4,
     "news_title": "WBSC U-23 Baseball World Cup 2026 presented by RAXUS: Game Report 40 - Nicaragua-Great Britain - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOamloZmxncjFfQUs2Y2RqQVN4YnFraU1NU19HTzIwNVk3TnBQblEwNDZ6U1dodW5KdHphWFJJM1B4NHMzbkpiX3JkanE5MFFBN1ZMdTVqZlZyRndlU1NSQjNPeXpKWkRVeTBmN1ZhRFllVmRJZktsaE0teXM5RUN1d3VxNnpkRWVDa2Q5bnd5azhMSkVZdVpfNEoyZTcybUlnUEhkSnZBeXI?oc=5",
     "news_image": "",
@@ -31952,7 +31941,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPd0hVOHRZTHFNc28xanRaUjlYbkNUUE5nWDZubjBublZOak1VTVZkdHVpMnF1dUQtRDJ6WVlMQmx1a2pBRFRrRk5WZkNNWUNXaXhQV3NDeXVpdk5PZmJ5eE10dHJEeTliMXoxc3E5Zk42MzYya3FvWExRcE1PaTh2UlctMGh4dHBhUjRjN0tlLUZ4MmtjRERtVGFNUWNSODQtTUFDa0JfQm1PNlowR2J6QllzV0NhSVo4UEVNNjdFZUtwRWE3ZzBSZjVWZWZUWFY1ckcyNVBpejBzcDhHYVZiUzVwN1hzVGd6WWxPMHJ6ZFViN2NXSm53REpmUkpPZDdNTG5ZZHEzUDYwMW4wTmdMUlVkRDA2dGVrQ01SOWxxMHJsUmUyek9hdg?oc=5",
     "news_image": "",
     "news_source": "California State Portal | CA.gov",
-    "news_age": "31h ago",
+    "news_age": "32h ago",
     "news_columns": [
       "democracy",
       "approval",
@@ -33142,19 +33131,14 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.47,
+    "news_score": 0.46,
     "news_title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42UEI2dkxFV01OSy1NQkZLQmhkc01KaWFqcEwySVJNYUZOeDNSdko2T0JodkN1RU9LdFBMeGJ2SWhhZXdxMHVxNy1idnhqZ3FIODhKMlFlYUVCYWs?oc=5",
     "news_image": "",
     "news_source": "BBC",
     "news_age": "4h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
-      "nuclear",
-      "nuclear_power"
+      "fifa_ranking"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -35663,14 +35647,17 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.1,
-    "news_title": "France hold nerve to edge past South Africa in thriller - Yahoo Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMUFFNWhJLVR5eTVPMFFKZzRxdVhUaC1vYWdtalhadXVoWnV6dEo2QVNZeXo4RVBmaFRta3R5Uzd2UUV2dHlwU2ROTDV2ZGxBWWtvUld2RlptLXZ0N0hMekxfLUtyaU5EUkxHbkRuS1R3NHlkcW1WMHhkeTFxVjNTbHRB?oc=5",
+    "news_score": 0.12,
+    "news_title": "South Africa@Czechia - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
+    "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV09ZTUtuTzhpVVhoRXRjSFVZTHBSQUxNSzlVUEI0bUV5QlY2MWlKU0tWdlduLXllVmhkRVRBX2lvRHBScHQ2Zk5SLTV4OWdxMThId0FEUEVDS0NwcW1hM1RGdFkyYTJBcGZtUG1hdkdDWXB0UExnY0hiSE9HVFpvRTByN01tTktIS0VVbU1CWHQ4dVMwd0NHNXpIbXRZZFpHSnpZRjdWX28?oc=5",
     "news_image": "",
-    "news_source": "Yahoo Sports",
-    "news_age": "8h ago",
+    "news_source": "World Baseball Softball Confederation (WBSC)",
+    "news_age": "7h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 1.2,
     "bottom50_wealth_rank": 29
@@ -42545,8 +42532,9 @@
     "news_source": "City of Toronto",
     "news_age": "15037h ago",
     "news_columns": [
+      "fifa_ranking",
       "basket",
-      "fifa_ranking"
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43754,7 +43742,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOakh1NTNRT1J3YnpnQnRQMUtHN3ozREdoYTVJZ05iQUlPNjR5MjZpcWNDdzJ5ak12LUJqYWFienhacGNDYWtnUjdZODk4N01JVnBHcmhIWDUzcTE2TDJaQ1Y1OEdRMlFaSTR1N1hCUEpBUnNITXNJdkM3NmFSSkJBVDd5WXh5R19ncDVQTFBnbzFpSmNaazJnRUJhN2kyb3g2QWVEYQ?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "117m ago",
+    "news_age": "119m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
