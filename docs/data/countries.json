@@ -8019,7 +8019,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.81,
+    "news_score": 0.77,
     "news_title": "Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ear on China - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNV83TGNqLXB1TGRFV1otMFAwS3poMGY4dHp6V05vWllwcmJ0SGN1QkxXdHpob3czaXJSLW1jcjkta1FpRFR1emR3SVZtWWlUclVIWDlFODZHRDFabzcxR2JfamFhU3VxTnVRNG16Z0F2Y09wRUU0ZmxRazVwTDVSV0V2dlFNNm1WazBoUXg2U1kxM1p0Ym5NSmREU1htSDk2SF9jR2hSTXFYLU85ZHFnaW5YMzY?oc=5",
     "news_image": "",
@@ -8027,7 +8027,6 @@
     "news_age": "3h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
       "olympic"
     ],
     "bottom50_wealth": 6.4,
@@ -13569,12 +13568,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.41,
+    "news_score": 0.52,
     "news_title": "Georgia’s Kirby Smart Makes Explosive Claim About The SEC - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLURDUWdSeXhIcDNVV0FWVG1MdTFTT195T3o5NEVVeFQ1QjAtTHpxRlllR0FQbGNUX2FWeVE0TUFCMkgxYW1MdGZma1l6b005LTdUNWMtNktFV0Z5dWh2QTk5U0hMX2dycnpCcWhXdVdjZGFpZ1BHTlhvQTJCVklBcEVBTTc1Q3VnNmp2QQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "68m ago",
+    "news_age": "70m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -17408,18 +17407,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.07,
-    "news_title": "Fatih Birol: The Energy World Will Never Be the Same As Before the Iran War - Time Magazine",
-    "news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GMU54SnZyRFRIa0JwNnM3SVNLUXRwX0ljUGp6UjQ2OXRLODZtd2JqQ3BablVqUHZJT1JCWWxSX0tYNHpxVE45c1BKRi00LUZCYUkza3VSQzlJVGhUZHhQM2w5eEE5TjZ1WUtPbm5sN3E0Z1hxcnFrQmN3?oc=5",
+    "news_score": 0.12,
+    "news_title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says - BBC",
+    "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42UEI2dkxFV01OSy1NQkZLQmhkc01KaWFqcEwySVJNYUZOeDNSdko2T0JodkN1RU9LdFBMeGJ2SWhhZXdxMHVxNy1idnhqZ3FIODhKMlFlYUVCYWs?oc=5",
     "news_image": "",
-    "news_source": "Time Magazine",
-    "news_age": "10h ago",
+    "news_source": "BBC",
+    "news_age": "6h ago",
     "news_columns": [
-      "gas_price",
-      "energy_per_capita",
-      "co2",
-      "renew",
-      "exports",
+      "nuclear",
+      "nuclear_power",
       "military_pct"
     ],
     "bottom50_wealth": null
@@ -19272,12 +19268,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.97,
+    "news_score": 0.96,
     "news_title": "Microsoft says services fully restored after outage roiled world - The Japan Times",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRTAwY1pTczhZVmNBMjc0ZWt1Sk9pdGl5bkVlZzNfcHV5RzZDdGtCUkRFN1I5WGo5TzBlbDZHaHk3R0Y1clhFdEY3VEwwallsUlpqWERGVTd5b0Z0b3ZKd195T1FwMHNDNmwzREQ3VnlRNXBjcUFWWE9ibjFIaVZPWFdR?oc=5",
     "news_image": "",
     "news_source": "The Japan Times",
-    "news_age": "56m ago",
+    "news_age": "58m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -24842,12 +24838,12 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.68,
+    "news_score": 0.67,
     "news_title": "U.S. loses measles-elimination status, erasing a landmark public health achievement - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTm85QlZZUTBTbGs4UEtXbVpSc09JV3VEQTB0WW04M1ZTRmNRaURzY1A5bXZaSlBuaklXTDhkYlJaSU5yV2tXNE45STZEejBmOXpTQWc4MWYydC01cjJjQnNSRk9WU2tRaHJoLVFBdlZ1Nk9VSUZwcE5kSXFhbUstVlZNd3N5TGszSERWbFlUekFKd05ENEJzcnRUejh1YXRJWjB5NU5wYVRBVHBRWFpWR1FYUmo?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "110m ago",
+    "news_age": "112m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -32351,7 +32347,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTU9iU1cxNWlMRFdaVGlaaTA2ZHo5bVFyZjhMcGdKeU1jXzZPdllrSnFCNFVjaEJ4STVrTWNCT3dvYjlZYzBDMlBUaUtRTDI0MmctLVJXeGZhUlhmdHRyTmFMcldNY2NmWXNnN1VOenJISmlQZTlfcHFrVnYzcVo4eVhIU3VaMjNHMGxzT1hkQUw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "70m ago",
+    "news_age": "72m ago",
     "news_columns": [
       "exports",
       "imports",
@@ -33149,7 +33145,7 @@
     "news_age": "14h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "olympic"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -39109,7 +39105,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LSTVVUkE1cWwxS29oWEMwYVd3T1lTWjdUT01ncEJlUjBJUkNtVi1PT2hLRjhlbml4b2tEN3lPcGdZc20tNnhfR2xTSWwzTlhydkFvRWNuSnRXZDBPWnRmNENqZVJXWnc?oc=5",
     "news_image": "",
     "news_source": "Nation Thailand",
-    "news_age": "74h ago",
+    "news_age": "75h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -42546,8 +42542,7 @@
     "news_columns": [
       "basket",
       "fifa_ranking",
-      "olympic",
-      "fifa_w"
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
