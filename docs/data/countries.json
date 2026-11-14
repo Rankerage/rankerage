@@ -2869,12 +2869,12 @@
     "refugees_rank": null,
     "union_rate": 77.9,
     "union_rate_rank": null,
-    "news_score": 0.99,
+    "news_score": 0.75,
     "news_title": "ESLC Day 13: Austria and Greece book playoff spots - World Lacrosse",
     "news_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44ZjFZdF9WTHE2TDdNVHdEN3Z6a0xrdGR4Y1ZfcmhNalY2dGtuX3RvNWxUNGdvWXdkbmx6UTFpYU9Wd0tFcjlQRDBScTlHNkktaVNxYw?oc=5",
     "news_image": "",
     "news_source": "World Lacrosse",
-    "news_age": "67m ago",
+    "news_age": "69m ago",
     "news_columns": [
       "olympic"
     ],
@@ -8019,14 +8019,19 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.2,
+    "news_score": 0.86,
     "news_title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkl0WHV4OWtNN0k0SFVuR2E0VXhrOUpYMXZiOUxFYUVYZlBpa00zTTRXaTVmYWtwcGktWjAzUnMxckxsS0l1S2VqekRxbS15ajUwT1p6RkhjU1NtM3JwMU5uUGlqT295Y19OOXJfUXRHWFNLcGw0VFlTMXV1eFNZUXpobDNHcHVtVUxVVVZqMnA5a09LT2I4d05rWmVyUFHSAaQBQVVfeXFMT3ZsNjJfWW9FQ2VPLWROVXp2UHZsS0gwRjBUdkVZMi1tbnhFQXQ1RlBrazNCYTJUcWc2NWU2WGtETnB0MTNNQkJES1l0M011ZWJybldxTFBaZGJIQ1RIaVhXSkVvWVVZRFlSM1h3V1dnbHJiVmkxWnp6Y0wzOXJvaUdmbzk1Y0lyR2RrNTl3YkFzdVdfd21mYk5mQkRKN01TYlQ3ODA?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "88m ago",
+    "news_age": "90m ago",
     "news_columns": [
-      "fifa_ranking"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
+      "military_pct",
+      "nuclear"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10123,7 +10128,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.05,
+    "news_score": 0.07,
     "news_title": "Ask the Experts: 2026 IIHF Women’s World Championship in Denmark - IIHF",
     "news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SSWp3dnBLekx3VkF1Y0Nlcm9MYmJDWGlUaVg4UHlIUkM2VnNEbGtxNllEQmVkUnpkNlNKRkdvT1lqT0QwbE40QlpsVVZNeTVKaldhQkRNX3Jrd3Awa3NtMUF2aFp2NHFENlMyV1JTdXdpclJOUTNDdXp0QUUzdw?oc=5",
     "news_image": "",
@@ -12527,7 +12532,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.02,
+    "news_score": 0.0,
     "news_title": "Finland publishes fossil fuel exit plan as COP31 dodges the issue - Euronews.com",
     "news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUHZaQ2tyN3k4V3NnNlN0bjhpWUptSkl1MUpyNFRIVnZWOEc4ZXViQWhiVW1HT3ZWankzODQxTnJ0RkdpNUd2SS1Hd2pfdW96TnRTcHBZMHpYT2ViMENVVXBkTEFmNDhUanRZa2lUbHgtTGlDbC1VSmNTdUJia3ZWMEtLTmZMNHBhOFFYQmlBZS1WMjM2WlV0S19hX0pQWFZrd1RXbVVVS3RDNG91dFNNNjByNjk4YU5wQ0VXd0tGZTE2TGhn?oc=5",
     "news_image": "",
@@ -13031,7 +13036,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.64,
+    "news_score": 0.63,
     "news_title": "Aicher wins first slalom of World Cup season - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRGFNMi15UGZGbW96eFpXSkJnejRybnphVFlVVG9GM2dVbEhTNnc2V05jZEtGVlY4UGt0TFhEYnpNMFZpeFBzQTh2SGdfZTYtM21lUTlQYW90WUllZUQ3WWhjaUhoQXQtOWFPTENsMDZPdVhVbjl5RS1KRkcwckRlXzNSMTRGNGxiUWdFZkVJT2dVX29ldUE?oc=5",
     "news_image": "",
@@ -13565,19 +13570,15 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.01,
-    "news_title": "Kennesaw State launches Georgia's first integrated Para sports program - Kennesaw State University",
-    "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVVJJOGlMamtwbEVBdWp0SzhPY3VzX0tuajFVSFdRRmhwRkJUT2xOTWp6MFE3WEwtQmgzWld1M0pQTVlwOUJvLWV2ZHllaklkbXFiUXhqWkgyUWV0eDdGMGJQR1M1RU14TzNMVC1YTUtzaWFHZllmOE11ek1Nc0pPN2ZydDhtcWQxYU1mSk42T1BfLVdV?oc=5",
+    "news_score": 0.3,
+    "news_title": "Georgia secure World Rugby Nations Cup title as USA eye Pool A crown - World Rugby",
+    "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOalBibE5ubzRrbC1semFyRFVjZ21nbHdrS0dHSnlsTEUtM082NlAxVWlQY3ROSWVXNVNRQzZGUmREY3FrTGhqTGNyLWJPRkcxX1VDMDZVNGhydnNFNHVmRndVNU1FYXV2cEpMemZGN2hIRmo0bTZLYnBQRzZiV1hRRHl2NzJDdXhQOXktVldTUGFRWVh3VHBXNGhjRUZIUHhxSmlpV0o2d18?oc=5",
     "news_image": "",
-    "news_source": "Kennesaw State University",
-    "news_age": "49h ago",
+    "news_source": "World Rugby",
+    "news_age": "2m ago",
     "news_columns": [
-      "edu",
-      "literacy",
-      "pisa_math",
-      "pisa_science",
-      "pisa_reading",
-      "phd_per_cap"
+      "rugby",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -14069,7 +14070,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.56,
+    "news_score": 0.55,
     "news_title": "Skiing-Germany's Aicher powers to first World Cup slalom victory in Levi - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1VUQ2hTLU0wVWJ2Um9mcF9iVXRZMklCYlhneklQdGZUejNxSXRNX1hCcy1MUEI0UlRkUUZFRzFGeTdaSmdnYU52RzFKZ3JKMDYzdjhPZGc5Q0hBVTBIaW1yc1ZEcTU5LTJXMTQ2NUFoTlNRRUFXcDltTktGdU5sT1VyakZ4b05sMGFDRWhMaFUtQk1vSmtfcE9ialY1RVluOUgyZTZhQkdPOWFI?oc=5",
     "news_image": "",
@@ -14534,12 +14535,12 @@
     "refugees_rank": null,
     "union_rate": 70.0,
     "union_rate_rank": null,
-    "news_score": 0.76,
+    "news_score": 0.75,
     "news_title": "ESLC Day 13: Austria and Greece book playoff spots - World Lacrosse",
     "news_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44ZjFZdF9WTHE2TDdNVHdEN3Z6a0xrdGR4Y1ZfcmhNalY2dGtuX3RvNWxUNGdvWXdkbmx6UTFpYU9Wd0tFcjlQRDBScTlHNkktaVNxYw?oc=5",
     "news_image": "",
     "news_source": "World Lacrosse",
-    "news_age": "67m ago",
+    "news_age": "69m ago",
     "news_columns": [
       "immigration",
       "emigration",
@@ -16829,7 +16830,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNFpjSkU5QkR3bFpwclRRQ1NFSnBwM1JxUXh4Wm94TkhhM0pSUHBpQWNPamowWktydzhwQ2FQRHYtNzM1bTIzQTVsbUxUamIyMUw2Ym9rMFZ5dllPSkxnb0tsRjVCekJCWUJHVC1zSHR4dEtVOTBNak5qSVRpMExSZ3l1dHVIVWFkRGZORzNCWFMwWEU1WWgteQ?oc=5",
     "news_image": "",
     "news_source": "DW.com",
-    "news_age": "41m ago",
+    "news_age": "43m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -17400,7 +17401,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "56m ago",
+    "news_age": "58m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -17875,11 +17876,7 @@
     "news_source": "Afloat",
     "news_age": "18h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "golf"
     ],
     "bottom50_wealth": 2.7,
     "bottom50_wealth_rank": 20
@@ -18571,7 +18568,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGZYWEhESVZNX1JMbGFiTzdINi12QXhHUndRd3haSDVHZnE2d3NCcjRfY1ZoSzRVd3Ryc3lmbm9Nd0hsa2p2bUZjY0g4SlZfNl9ydGx0ZnRFcm1FaUxUbGVvNTNKc00zZnc4SXdXMzVpN1Y2cVhXVXprNUZzRDZ4czAySQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "6h ago",
+    "news_age": "7h ago",
     "news_columns": [
       "olympic",
       "fifa_w"
@@ -19254,14 +19251,18 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.36,
-    "news_title": "Vietnamese intellectuals in Japan increase cooperation in science, technology, and innovation. - Vietnam.vn",
-    "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQk1NdTlZZHU0d192OF9uNGYtV0d5eWo2YnljWDE2cDl1Ti1nRWh0VTVpdXNBQTUxVTU4NmdsNmpLVGphaHdwaHEzaVJwS0d5ZTBubzVKVVVSUjR0emJOdjZBcGx6d0IzRXl1XzBLcWZITkFRaUNZRzRHbjlUelRQbkJqWXhHRzhoX3BJdnI2RVpFUHowNlZ0bkhQamgwd0dyNmtuZnZLQQ?oc=5",
+    "news_score": 0.39,
+    "news_title": "Microsoft says services fully restored after outage roiled world - The Japan Times",
+    "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRTAwY1pTczhZVmNBMjc0ZWt1Sk9pdGl5bkVlZzNfcHV5RzZDdGtCUkRFN1I5WGo5TzBlbDZHaHk3R0Y1clhFdEY3VEwwallsUlpqWERGVTd5b0Z0b3ZKd195T1FwMHNDNmwzREQ3VnlRNXBjcUFWWE9ibjFIaVZPWFdR?oc=5",
     "news_image": "",
-    "news_source": "Vietnam.vn",
-    "news_age": "5h ago",
+    "news_source": "The Japan Times",
+    "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking"
+      "gas_price",
+      "energy_per_capita",
+      "co2",
+      "renew",
+      "exports"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -28456,12 +28457,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 1.24,
+    "news_score": 1.26,
     "news_title": "Jonathan Urges Investment in Tech Start-ups to Boost Nigeria's Economy - Head Topics",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbkpNX2ZNX2k1SHAxRWd6RExHdE1qck5TSDRUOVhLeWo4N2tHb3ZWczNjLUJkZFNZc1g1UURVZzVVSXcyakZlRjJoNFJSNHc2ZXdCYVRESkU3VWZLa0VUdmNoci1rV1dNc0IxdEdWeXFEd1A5cE8xWEF4aHFZTGs2TUtWSXZEa0V3eXE5VFRIMVRFa3ZPb0RB?oc=5",
     "news_image": "",
     "news_source": "Head Topics",
-    "news_age": "16m ago",
+    "news_age": "18m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -30499,7 +30500,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVFYSjFkTEVkSjgyUzZqUnM2TVZ3RjA2eUd6RV9Lc2REb01WZUNtWFhyOW1Sb3gta2RUVU1ZR1dzQ21RU2hUdVl0dnAyNmdCdjlESzdhcmVZa2drRnBJeFJyeE1NYkdRcDBuVm5VOEloRE81ZmlHNHJhOUVackYwMTNVY05UdVRuMGRxczk2QkNYOWJvd1M3S1VfS0dDekduLUNHeFI3dlo?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "27m ago",
+    "news_age": "29m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -31365,12 +31366,12 @@
     "refugees_rank": null,
     "union_rate": 63.7,
     "union_rate_rank": null,
-    "news_score": 0.9,
+    "news_score": 0.89,
     "news_title": "German skier Emma Aicher wins first World Cup slalom race - ESPN Philippines",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaVNPWnBnQ2ZZSE5oeUZBSFNDc2wyRFZ6aThYSmNDVWVrTWhkVWZvYzZMbGZJaDJSR1FhNDYxM3JfREczQmN3RmxRUndjOUZYbzdfUHNqR0t4emVnd2haYnZTZHNQV25qX3FLa2w4dUVhZ0V2N3Ntb0xlcDNJdDlKM3o3SkY0MzRwV1RtQlAzcHY3TG9xcXNZZmh1MkFxZkxiLWpNQWZ1X1VBY21pMml2bVUzaw?oc=5",
     "news_image": "",
     "news_source": "ESPN Philippines",
-    "news_age": "28m ago",
+    "news_age": "30m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -33123,14 +33124,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.68,
+    "news_score": 1.58,
     "news_title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkl0WHV4OWtNN0k0SFVuR2E0VXhrOUpYMXZiOUxFYUVYZlBpa00zTTRXaTVmYWtwcGktWjAzUnMxckxsS0l1S2VqekRxbS15ajUwT1p6RkhjU1NtM3JwMU5uUGlqT295Y19OOXJfUXRHWFNLcGw0VFlTMXV1eFNZUXpobDNHcHVtVUxVVVZqMnA5a09LT2I4d05rWmVyUFHSAaQBQVVfeXFMT3ZsNjJfWW9FQ2VPLWROVXp2UHZsS0gwRjBUdkVZMi1tbnhFQXQ1RlBrazNCYTJUcWc2NWU2WGtETnB0MTNNQkJES1l0M011ZWJybldxTFBaZGJIQ1RIaVhXSkVvWVVZRFlSM1h3V1dnbHJiVmkxWnp6Y0wzOXJvaUdmbzk1Y0lyR2RrNTl3YkFzdVdfd21mYk5mQkRKN01TYlQ3ODA?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "88m ago",
+    "news_age": "90m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -35644,7 +35646,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVFYSjFkTEVkSjgyUzZqUnM2TVZ3RjA2eUd6RV9Lc2REb01WZUNtWFhyOW1Sb3gta2RUVU1ZR1dzQ21RU2hUdVl0dnAyNmdCdjlESzdhcmVZa2drRnBJeFJyeE1NYkdRcDBuVm5VOEloRE81ZmlHNHJhOUVackYwMTNVY05UdVRuMGRxczk2QkNYOWJvd1M3S1VfS0dDekduLUNHeFI3dlo?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "27m ago",
+    "news_age": "29m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -41243,14 +41245,15 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.89,
+    "news_score": 0.93,
     "news_title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Sc2FZdms0a2VhSnZ3bHhCakcwcnl4SWhTWi1HaDJUdmZXdzVKTmtocFp0aFRYQk9VYllVZ1Uzdkp5OV9Ic2l5NmtUUXU4WVBaNFpMdDVselhoS2c?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "99m ago",
+    "news_age": "101m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -43721,7 +43724,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.64,
+    "news_score": 0.63,
     "news_title": "The Ministry of Science and Technology reviews legal documents and removes institutional obstacles. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS3RBdmZDeDFJeHJUNE94ellOMERpN1FiRDZmUWhMUXFBeXNtenZjaDk4ODE4TkNNQ1VIdzkwVTM0M1hIWTFwY2d6VDNzT0dxOXUyb0JvNjRIVkhYd2VPZXRFMWdnZXUyZjBUWkdpRTFIcmtBLTZnSW4yZVllaEpIalRQLUJtSHd5czBaaVA2aC1qZUlPdGQtblotdw?oc=5",
     "news_image": "",
