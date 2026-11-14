@@ -2556,7 +2556,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.16,
+    "news_score": 0.12,
     "news_title": "Korea@Australia - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUTQ4a0ZRLXViT3pCeGtrbFJ1all6RTJ5emZCekhqcUtXX2Q3Ry1kbG9HTElKeFNPclFWTVlFTzdMMldENXJ6X0JnZklfMU9FSHVmalE2ZUlud19NQ1JEV1ZuMncxV2NKam5CTHl5Ums1MDNUYkZSc2Y3U0RBTkJXblFQSG1PMndQSkV3eEpVWkphQkJWSDJsN0NfZy16T0hJMFNUUE91N3Y?oc=5",
     "news_image": "",
@@ -8018,14 +8018,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.75,
+    "news_score": 1.81,
     "news_title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkl0WHV4OWtNN0k0SFVuR2E0VXhrOUpYMXZiOUxFYUVYZlBpa00zTTRXaTVmYWtwcGktWjAzUnMxckxsS0l1S2VqekRxbS15ajUwT1p6RkhjU1NtM3JwMU5uUGlqT295Y19OOXJfUXRHWFNLcGw0VFlTMXV1eFNZUXpobDNHcHVtVUxVVVZqMnA5a09LT2I4d05rWmVyUFHSAaQBQVVfeXFMT3ZsNjJfWW9FQ2VPLWROVXp2UHZsS0gwRjBUdkVZMi1tbnhFQXQ1RlBrazNCYTJUcWc2NWU2WGtETnB0MTNNQkJES1l0M011ZWJybldxTFBaZGJIQ1RIaVhXSkVvWVVZRFlSM1h3V1dnbHJiVmkxWnp6Y0wzOXJvaUdmbzk1Y0lyR2RrNTl3YkFzdVdfd21mYk5mQkRKN01TYlQ3ODA?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "28m ago",
+    "news_age": "30m ago",
     "news_columns": [
-      "geopolitics"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -12534,7 +12534,7 @@
     "news_age": "9h ago",
     "news_columns": [
       "olympic",
-      "ski"
+      "fifa_w"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 13
@@ -13028,19 +13028,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.84,
+    "news_score": 1.14,
     "news_title": "Aicher wins first slalom of World Cup season - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRGFNMi15UGZGbW96eFpXSkJnejRybnphVFlVVG9GM2dVbEhTNnc2V05jZEtGVlY4UGt0TFhEYnpNMFZpeFBzQTh2SGdfZTYtM21lUTlQYW90WUllZUQ3WWhjaUhoQXQtOWFPTENsMDZPdVhVbjl5RS1KRkcwckRlXzNSMTRGNGxiUWdFZkVJT2dVX29ldUE?oc=5",
     "news_image": "",
     "news_source": "France 24",
-    "news_age": "106m ago",
+    "news_age": "108m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
       "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "fifa_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -14066,7 +14062,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.75,
+    "news_score": 0.78,
     "news_title": "Skiing-Germany's Aicher powers to first World Cup slalom victory in Levi - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1VUQ2hTLU0wVWJ2Um9mcF9iVXRZMklCYlhneklQdGZUejNxSXRNX1hCcy1MUEI0UlRkUUZFRzFGeTdaSmdnYU52RzFKZ3JKMDYzdjhPZGc5Q0hBVTBIaW1yc1ZEcTU5LTJXMTQ2NUFoTlNRRUFXcDltTktGdU5sT1VyakZ4b05sMGFDRWhMaFUtQk1vSmtfcE9ialY1RVluOUgyZTZhQkdPOWFI?oc=5",
     "news_image": "",
@@ -14074,7 +14070,7 @@
     "news_age": "2h ago",
     "news_columns": [
       "olympic",
-      "ski"
+      "fifa_w"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16822,7 +16818,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.45,
+    "news_score": 0.44,
     "news_title": "India: Delhi surpasses Lahore as world's most polluted city - DW.com",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNFpjSkU5QkR3bFpwclRRQ1NFSnBwM1JxUXh4Wm94TkhhM0pSUHBpQWNPamowWktydzhwQ2FQRHYtNzM1bTIzQTVsbUxUamIyMUw2Ym9rMFZ5dllPSkxnb0tsRjVCekJCWUJHVC1zSHR4dEtVOTBNak5qSVRpMExSZ3l1dHVIVWFkRGZORzNCWFMwWEU1WWgteQ?oc=5",
     "news_image": "",
@@ -17393,15 +17389,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.77,
+    "news_score": 0.55,
     "news_title": "Live Updates: 3 oil tankers hit mines in Strait of Hormuz, Iran says - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
     "news_image": "",
     "news_source": "CBS News",
     "news_age": "2h ago",
     "news_columns": [
-      "oil",
-      "geopolitics"
+      "gas_price",
+      "energy_per_capita",
+      "co2",
+      "renew",
+      "exports",
+      "military_pct"
     ],
     "bottom50_wealth": null
   },
@@ -18570,7 +18570,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGZYWEhESVZNX1JMbGFiTzdINi12QXhHUndRd3haSDVHZnE2d3NCcjRfY1ZoSzRVd3Ryc3lmbm9Nd0hsa2p2bUZjY0g4SlZfNl9ydGx0ZnRFcm1FaUxUbGVvNTNKc00zZnc4SXdXMzVpN1Y2cVhXVXprNUZzRDZ4czAySQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "5h ago",
+    "news_age": "6h ago",
     "news_columns": [
       "olympic",
       "fifa_w"
@@ -24824,7 +24824,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ3dicHNpRTlnUVBFdjNGYm94aWdJN09RZklxY0ZKaloyMzVoQW9kN3VVR2FzY0h2TEFCX2FheTRmSUVxOENtWHNzSE1pQUpTYU1BTWpXOUVTUTdZSFVlSk4yOFc0M1ZUdXNFSU5nZnp5d3JmcFMwMzF4dnBMMU1oQTItc1RkRURjTXBBb0o0MzdtS01TUy1ONUJxZmU5Q1dRVV9ZaHNVaTVHM0Zz?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "26m ago",
+    "news_age": "28m ago",
     "news_columns": [
       "doctors",
       "beds",
@@ -27802,7 +27802,7 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 0.13,
+    "news_score": 0.09,
     "news_title": "Vikings Host New Zealand Native as Part of Global Sports Mentoring Program - Minnesota Vikings",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPY0ZoNWlZYnJOMmQ5Qm1raDJNeUFMNmVhS3pENzdMVC00aHREQ3NkMGtTSTR5VXZfLUI5TmJFcUVPYUFJMGZudHI1bzhIVDBrSk9NS3c1TVAwSWtVdi1hMVdxZzcwUndOMTdKV3pNMGFEdUJNeTFDaUV4OW1oZno5ZFpNbFNsQQ?oc=5",
     "news_image": "",
@@ -28455,12 +28455,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.91,
+    "news_score": 0.9,
     "news_title": "Tinubu’s High -Cost Economy Pushes 40% of Nigerian Bakers Out of Business – Atiku - DAILY TIMES Nigeria",
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQblJYUmVac3VjOHpFZThJSEtiOG1DQ3JLaXpCOHhobEEtYmt1Z1R1aC1SYnppMV9vT19WQkNiSngwSDc2UWxleFBIeUVxMkxSNmtWOEMyNFh0OW1jVzc0b1JhNmtuYkpJMWMwSHZpUUNidTBDR0Rtbm92U1NlVFpLSGdVaDNYc05qVUtGa3NHcVFsZzl3VlYyekNndzdXbkNRYmJfYQ?oc=5",
     "news_image": "",
     "news_source": "DAILY TIMES Nigeria",
-    "news_age": "70m ago",
+    "news_age": "72m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -31092,7 +31092,7 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.54,
+    "news_score": 0.53,
     "news_title": "Pope’s visit to hub of Afro-Peruvian community casts spotlight on African slave trade to Peru - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbldQc0RVYVEyM2ozT01IUE1MUENQZl9sdXJDQVhZUUdUbEpEZHFwVVVDLUVKS2ZTQld4QUM1UVc1dWZwNG56WVQ0X3VENnVKTmtJLXZIUlkweUZHU1R4OXJTY0R4RmVadmozLWltdEVFMlh3VGlUM0V6U293Sk9mWjBwbWNLS25yVC1KZlRUbWEyOTk5dEFpRHd2WUw?oc=5",
     "news_image": "",
@@ -33123,14 +33123,14 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.17,
+    "news_score": 1.2,
     "news_title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkl0WHV4OWtNN0k0SFVuR2E0VXhrOUpYMXZiOUxFYUVYZlBpa00zTTRXaTVmYWtwcGktWjAzUnMxckxsS0l1S2VqekRxbS15ajUwT1p6RkhjU1NtM3JwMU5uUGlqT295Y19OOXJfUXRHWFNLcGw0VFlTMXV1eFNZUXpobDNHcHVtVUxVVVZqMnA5a09LT2I4d05rWmVyUFHSAaQBQVVfeXFMT3ZsNjJfWW9FQ2VPLWROVXp2UHZsS0gwRjBUdkVZMi1tbnhFQXQ1RlBrazNCYTJUcWc2NWU2WGtETnB0MTNNQkJES1l0M011ZWJybldxTFBaZGJIQ1RIaVhXSkVvWVVZRFlSM1h3V1dnbHJiVmkxWnp6Y0wzOXJvaUdmbzk1Y0lyR2RrNTl3YkFzdVdfd21mYk5mQkRKN01TYlQ3ODA?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "28m ago",
+    "news_age": "30m ago",
     "news_columns": [
-      "geopolitics"
+      "fifa_ranking"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -41240,19 +41240,14 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.29,
+    "news_score": 0.41,
     "news_title": "US floats Nato membership for Donbas withdrawal deal, Zelenskyy says - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNi1IdTRFRXk4dnlyWE9ycGhxcHVNVjNSU1VBendhRjdFSHNYcVM5d0wwUGN3VUktaTM2b2R2UVIxZ3NMbjcybDlsa3llTGNUOFgzOVllMjg5UW9Db2FmQzB4QUJEcS1RODdNU3JhTy04QlJwY0duelNBTTdROEJMQTcyaTQ?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
     "news_age": "4h ago",
     "news_columns": [
-      "basket",
-      "olympic",
-      "nato",
-      "military_pct",
-      "gdp",
-      "ai_research"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -42520,14 +42515,9 @@
     "news_source": "City of Toronto",
     "news_age": "15045h ago",
     "news_columns": [
-      "golf",
-      "dpwt",
       "fifa_ranking",
-      "nfl",
-      "cfb",
-      "basket",
-      "oil",
-      "geopolitics"
+      "fifa_w",
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43733,7 +43723,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS3RBdmZDeDFJeHJUNE94ellOMERpN1FiRDZmUWhMUXFBeXNtenZjaDk4ODE4TkNNQ1VIdzkwVTM0M1hIWTFwY2d6VDNzT0dxOXUyb0JvNjRIVkhYd2VPZXRFMWdnZXUyZjBUWkdpRTFIcmtBLTZnSW4yZVllaEpIalRQLUJtSHd5czBaaVA2aC1qZUlPdGQtblotdw?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "114m ago",
+    "news_age": "116m ago",
     "news_columns": [
       "car_density",
       "gas_price",
