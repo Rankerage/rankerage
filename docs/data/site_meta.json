@@ -1,26 +1,49 @@
 {
-  "last_updated": "2026-11-14T00:51:54Z",
+  "last_updated": "2026-11-14T21:02:08Z",
   "total_rankings": 136,
   "total_countries": 197,
   "version": "1.0",
   "update_frequency": "weekly",
-  "global_narrative": "A nationwide FAA ground stop dominates global news, stranding flights and disrupting sports schedules across the US, while political and legal battles over immigration and economic policy intensify alongside major sports and entertainment developments.",
+  "global_narrative": "A chaotic sports weekend dominated by an FAA ground stop disrupting college football travel collides with a packed international football calendar, while geopolitical and economic headlines—Trump-Putin-Xi trilateral, Nigeria's reforms, and tech regulation—simmer alongside.",
   "trending_stories": [
     {
-      "topic": "FAA nationwide ground stop and travel chaos",
+      "topic": "FAA ground stop disrupts college football and sports travel",
       "entities": [
-        "US",
-        "FAA"
+        "US"
       ],
       "columns": [
         "fifa_ranking",
-        "olympic",
-        "basket"
+        "fifa_w"
       ],
-      "weight": 0.95
+      "weight": 0.9
     },
     {
-      "topic": "Trump asylum executive order at Supreme Court",
+      "topic": "International football: Spain-England Nations League showdown and World Cup fallout",
+      "entities": [
+        "ES",
+        "GB",
+        "DE"
+      ],
+      "columns": [
+        "fifa_ranking",
+        "fifa_w"
+      ],
+      "weight": 0.85
+    },
+    {
+      "topic": "Trump-Putin-Xi trilateral summit speculation",
+      "entities": [
+        "US",
+        "RU",
+        "CN"
+      ],
+      "columns": [
+        "fifa_ranking"
+      ],
+      "weight": 0.8
+    },
+    {
+      "topic": "NFL Week 10 injuries and quarterback changes",
       "entities": [
         "US"
       ],
@@ -30,41 +53,14 @@
       "weight": 0.7
     },
     {
-      "topic": "Pochettino and Man Utd / World Cup coaching drama",
+      "topic": "Nigeria economic reforms and investment push under Tinubu",
       "entities": [
-        "US",
-        "AR",
-        "GB"
+        "NG"
       ],
       "columns": [
-        "fifa_ranking",
-        "fifa_w"
+        "fifa_ranking"
       ],
       "weight": 0.6
-    },
-    {
-      "topic": "KPop Demon Hunters 2027 world tour",
-      "entities": [
-        "US",
-        "KR"
-      ],
-      "columns": [
-        "fifa_ranking"
-      ],
-      "weight": 0.5
-    },
-    {
-      "topic": "Tennis year-end rankings and ATP/WTA action",
-      "entities": [
-        "CZ",
-        "US",
-        "GB"
-      ],
-      "columns": [
-        "fifa_w",
-        "fifa_ranking"
-      ],
-      "weight": 0.55
     }
   ]
 }
