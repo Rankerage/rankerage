@@ -1928,14 +1928,16 @@
     "union_rate": 70.7,
     "union_rate_rank": null,
     "news_score": 0.0,
-    "news_title": "Argentina beaten by Uruguay in first game since Messi retirement - Yahoo Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT1pncDdaZTNJS21VR2xNSk5RSTVtYzNoeWpZTFItSXFxZl9XYmpHTjY2dkFLYTFGMFlZQ0Y2d2VsQ0lJcUs1V05KS3NMbkVodU9ndjVhYWlhdDNYOEFEcTUwLU0tQUMxMmxtZDAxWjhiU1JaYUROLVIzWThrOExYbnZ2cGpBQ2k4WHFaNA?oc=5",
+    "news_title": "How will Argentina replace Lionel Messi ahead of 2030 World Cup? - ESPN",
+    "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWUxJaEZ3VGt2TzZuclc5OVVvRGRlT2VLWVRNMUFoSGhHbkpxalBVOEtfRGlBbkxGZTByS2h1SzZXSXBMbFdUMXNqTUtUUXVQdWJ6T1ZwT0hpRnZzbzhUMk96enRhNGw0TWgxaV9nUXF0R3ZSYjVOY0h3TVZzc21LR1MyTXY0bk8yTTY4?oc=5",
     "news_image": "",
-    "news_source": "Yahoo Sports",
-    "news_age": "68m ago",
+    "news_source": "ESPN",
+    "news_age": "50h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -2552,18 +2554,14 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.63,
+    "news_score": 0.83,
     "news_title": "How to watch Australia vs. New Zealand in the Rugby League World Cup final online for free - Mashable",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2RtSFFZM3BlWWZYbGVwU1loTFRSSnBVVURLUnJkeVhudTY0YjJVd1BhWm1rLTZucHptUmdxUjlUb2pHRWZlVGhYLWQyVG1PQTdILTVlM2wtallfRFFPeGt5bDZkTEhUdWh4OXVTQkRjVDI5QUN5bXVLcVdSOVItYmF0VVJGb3FiVkpTRFVtNkRkQU9td1VHY3pZYkYwUWVSZVRSQ1lYSUN2OFk?oc=5",
     "news_image": "",
     "news_source": "Mashable",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "rugby"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -8018,12 +8016,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.07,
-    "news_title": "Trump to have first trilateral meeting with Putin, Xi - The Washington Post",
-    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS0ZHZDFUVjNXc19jTzlIeWRBX0s4dmtIUG1jNGFwZFpCUTBEWEJTRW5tbnhDVTlEdDlwcnZNV0ctRWVLNnhaSUJvbDVlRzUyNmxWelF0aU5xOWV0SkJ5UkhHNTdmVTcyZ1plcWhhY0N2LW5zNUZFT3pVWXhzZkFidEM2bkk0aE8wUFRScg?oc=5",
+    "news_score": 0.06,
+    "news_title": "Trump, Xi and Putin to meet Thursday, discuss nukes - Politico",
+    "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRzZVbHFZa2NPRXFKZld5dVRCeDUyVFVFdmlaRURQVlFDQ0VxSjhWSC1aVm1zX3ExckJzaFM1dEIydUREa1FoMl8tM3h0RHpWQkFvNEptbjI3TmFNMDN6NGZfYUZHT3d1YzFMenZuYTBqMVQ2U1lkVEJfcktMa1ZIZ21EdG10bmJGZ3RsSk1MSmgyd1NNQTV0RnpyekVHY3VM?oc=5",
     "news_image": "",
-    "news_source": "The Washington Post",
-    "news_age": "8h ago",
+    "news_source": "Politico",
+    "news_age": "10h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -13039,17 +13037,14 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.63,
+    "news_score": 0.92,
     "news_title": "Who are the 'street medics' showing up at protests around the world? - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbENFTDZRRVFwbkxfcTdRclU0dTd3RXlWWHBJSjF2bHdWUFZhLTFXUVpUSEV3RUI2Q2FRd2VwNEcwcnNaMFFDUEhCU0Q2Z0l6a0s2MjBzN285dFdRLVdSWkw2a0JHWmEtMDNLNmJTbGhYTUNNWjRlR25wa2ZFcnlpaV9ZdEJFS1BxTExYdVJsdjhRQVBjRzJEQw?oc=5",
     "news_image": "",
     "news_source": "France 24",
-    "news_age": "56m ago",
+    "news_age": "58m ago",
     "news_columns": [
-      "democracy",
-      "press",
-      "gpi",
-      "polit_kill"
+      "olympic"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17884,15 +17879,18 @@
     "refugees_rank": null,
     "union_rate": 77.2,
     "union_rate_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.02,
     "news_title": "EMFAF Annual Webinar 2026 Explores How Science, Technology and Innovation Are Securing Sustainable Future of Ireland’s Marine Resources - Afloat",
     "news_url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOTHQyWEhQMURRZWNtOVBqMnZpbHpjYmQtUzMyVFE0aUs2ekx6NENYZVloT3g0cXA0aVBtZ2V1SVNXQ25oNFNwZ01SdF9PLUhtemcwQUgtU3R4X0FBanJxQzQtRDIyWDhGQm5sc1MzRTdVTldFTWlUdDR1YzhoZHdDMWo3a0VYVWt6M3E4Y1gxR0JVMHFZNGR1akZva1VJWTJUdXI5aTlzOFJoNGNoUERNUlRTZjV1QXJ5cFUzWm0zLThIaEpLUzZwX1hua1RvT0s3bW5fbWJ3bFNBaFRJaS1GSFZfb2lIaGxjUlB6SmhRUENFQmZPTF9odC1nVFY4VW9CeVh2U0x6c29IUXJsaWhNMjRlaDBrSGRVeUotTXFQZUQ0ek0?oc=5",
     "news_image": "",
     "news_source": "Afloat",
     "news_age": "14h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 2.7,
     "bottom50_wealth_rank": 20
@@ -18579,7 +18577,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.51,
+    "news_score": 0.75,
     "news_title": "ITALY U21 WIN AS CAMARDA SCORES - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGZYWEhESVZNX1JMbGFiTzdINi12QXhHUndRd3haSDVHZnE2d3NCcjRfY1ZoSzRVd3Ryc3lmbm9Nd0hsa2p2bUZjY0g4SlZfNl9ydGx0ZnRFcm1FaUxUbGVvNTNKc00zZnc4SXdXMzVpN1Y2cVhXVXprNUZzRDZ4czAySQ?oc=5",
     "news_image": "",
@@ -18587,6 +18585,7 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
+      "fifa_w",
       "olympic"
     ],
     "bottom50_wealth": 3.2,
@@ -19267,12 +19266,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.24,
+    "news_score": 1.23,
     "news_title": "Vietnamese intellectuals in Japan increase cooperation in science, technology, and innovation. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQk1NdTlZZHU0d192OF9uNGYtV0d5eWo2YnljWDE2cDl1Ti1nRWh0VTVpdXNBQTUxVTU4NmdsNmpLVGphaHdwaHEzaVJwS0d5ZTBubzVKVVVSUjR0emJOdjZBcGx6d0IzRXl1XzBLcWZITkFRaUNZRzRHbjlUelRQbkJqWXhHRzhoX3BJdnI2RVpFUHowNlZ0bkhQamgwd0dyNmtuZnZLQQ?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "63m ago",
+    "news_age": "65m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -27817,18 +27816,14 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 0.68,
+    "news_score": 0.89,
     "news_title": "How to watch Australia vs. New Zealand in the Rugby League World Cup final online for free - Mashable",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2RtSFFZM3BlWWZYbGVwU1loTFRSSnBVVURLUnJkeVhudTY0YjJVd1BhWm1rLTZucHptUmdxUjlUb2pHRWZlVGhYLWQyVG1PQTdILTVlM2wtallfRFFPeGt5bDZkTEhUdWh4OXVTQkRjVDI5QUN5bXVLcVdSOVItYmF0VVJGb3FiVkpTRFVtNkRkQU9td1VHY3pZYkYwUWVSZVRSQ1lYSUN2OFk?oc=5",
     "news_image": "",
     "news_source": "Mashable",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "rugby"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -28470,12 +28465,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.74,
+    "news_score": 0.73,
     "news_title": "Nigeria set to host 450 African entrepreneurs to create 100 new companies - Legit News",
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcUpmbU9NMlgwUTFGV19IU1pLaW95Rk85SjJLOVdpMTBmRW96d0UzUXd1dmUxT1FCd3BjTWpoQ2VIZmZxUHgtRjZFTU50WHB6aFMzemx3QmVFZmM0OXpQZzZteURlcHowb01fSlhaZFV6RVNUUDk2ZE9QbFJ4dU9uSlZJNlR5RDlzTjlBSFdUUDcxZ0FVRExFUnlEamsySkRGakpTaWlUTGtPSEhEdVN6TWRYVW1FUS1PN2NLTXdSSzE2NFkyelFpbg?oc=5",
     "news_image": "",
     "news_source": "Legit News",
-    "news_age": "77m ago",
+    "news_age": "79m ago",
     "news_columns": [
       "debt",
       "gdp",
@@ -33136,15 +33131,14 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.41,
+    "news_score": 0.52,
     "news_title": "US floats Ukraine ceding land in exchange for NATO membership: Kyiv - Euronews.com",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdG5xMEhNZHJWdGVwOFEyZlJJYjUxcXNydXJSVl9SSzNqTFJfdmZDRXFSNTZ6SE1pUzNZeVVYOUlxQ1lpSmh5N1lDSGZDdHpEZDl0TEV6LVpOdWo4emV1ZTZoUlhEaU1laGlrQmoxNjJrVzE1Wno4bjdmeWVsUmtVX2lZblZwS05iWjBNbUdmNWxacDRCbmZRVFNtTFlaMFNrUk1JWlZVai1yR3dNSzJwejQyTGFJT2df?oc=5",
     "news_image": "",
     "news_source": "Euronews.com",
-    "news_age": "115m ago",
+    "news_age": "117m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -38014,18 +38008,15 @@
     "refugees_rank": null,
     "union_rate": 84.0,
     "union_rate_rank": null,
-    "news_score": 0.56,
+    "news_score": 0.93,
     "news_title": "Switzerland celebrate as Elvedi and Bijol share the spoils - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOTEyM3ZJYW5TTHBMYy03T2hUd1pjRGNLUjZjTktObG93OUhMRm9FVExQOEl0ZXZ4aG5EMnhVWWZhZXZsUlhmd2lyb2dKc0RsejNKajg1YmhsM1hSRUFGeUJlaElBZTI5ak9mWlR5YndkMm9WdUhBMTNZek14MEJjTW1HTTlSZi04Wk1MbExxRi1SWHc?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "37m ago",
+    "news_age": "39m ago",
     "news_columns": [
-      "gas_price",
-      "energy_per_capita",
-      "co2",
-      "renew",
-      "exports"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "election_title": "N/A",
     "election_url": "https://www.electionguide.org/countries/id/207",
@@ -41257,15 +41248,14 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.91,
+    "news_score": 0.85,
     "news_title": "US floats Ukraine ceding land in exchange for NATO membership: Kyiv - Euronews.com",
     "news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdG5xMEhNZHJWdGVwOFEyZlJJYjUxcXNydXJSVl9SSzNqTFJfdmZDRXFSNTZ6SE1pUzNZeVVYOUlxQ1lpSmh5N1lDSGZDdHpEZDl0TEV6LVpOdWo4emV1ZTZoUlhEaU1laGlrQmoxNjJrVzE1Wno4bjdmeWVsUmtVX2lZblZwS05iWjBNbUdmNWxacDRCbmZRVFNtTFlaMFNrUk1JWlZVai1yR3dNSzJwejQyTGFJT2df?oc=5",
     "news_image": "",
     "news_source": "Euronews.com",
-    "news_age": "115m ago",
+    "news_age": "117m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -42533,8 +42523,8 @@
     "news_source": "City of Toronto",
     "news_age": "15042h ago",
     "news_columns": [
-      "basket",
       "fifa_ranking",
+      "basket",
       "olympic",
       "fifa_w"
     ],
@@ -43737,12 +43727,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.88,
+    "news_score": 0.87,
     "news_title": "Vietnamese intellectuals in Japan increase cooperation in science, technology, and innovation. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQk1NdTlZZHU0d192OF9uNGYtV0d5eWo2YnljWDE2cDl1Ti1nRWh0VTVpdXNBQTUxVTU4NmdsNmpLVGphaHdwaHEzaVJwS0d5ZTBubzVKVVVSUjR0emJOdjZBcGx6d0IzRXl1XzBLcWZITkFRaUNZRzRHbjlUelRQbkJqWXhHRzhoX3BJdnI2RVpFUHowNlZ0bkhQamgwd0dyNmtuZnZLQQ?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "63m ago",
+    "news_age": "65m ago",
     "news_columns": [
       "fifa_ranking"
     ],
