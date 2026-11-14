@@ -8019,14 +8019,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.97,
+    "news_score": 0.86,
     "news_title": "Trump to have first trilateral meeting with Putin, Xi - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS0ZHZDFUVjNXc19jTzlIeWRBX0s4dmtIUG1jNGFwZFpCUTBEWEJTRW5tbnhDVTlEdDlwcnZNV0ctRWVLNnhaSUJvbDVlRzUyNmxWelF0aU5xOWV0SkJ5UkhHNTdmVTcyZ1plcWhhY0N2LW5zNUZFT3pVWXhzZkFidEM2bkk0aE8wUFRScg?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "73m ago",
+    "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13567,7 +13568,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.39,
+    "news_score": 0.38,
     "news_title": "UNC Basketball vs. Georgia: Live blog, analysis, stats - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdkpsQkYtbUJ4NFUxX0lMVVVEakE1cUg2akxzamFGWUx5Mmx2S3hUR0ZVYjBVR1ZVMFlhWmFiMURHNlB0LTdIZjRGd1JmYUZsemloT0p4V2c3NktmNFQ3blRHd1BaYk1jdHMtM2ZqeTdHV2J0eUZqYUtrQVI1a0x4RXRCemJ4dw?oc=5",
     "news_image": "",
@@ -28475,7 +28476,7 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.57,
+    "news_score": 0.56,
     "news_title": "Nigeria External Debt Hits $145bn Amid High Private Lending Costs - Head Topics",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZllVU0lYM0lMVk92WVY2RXFJUVJ5dW9nYTlYRk5RelFjY0ZweWxWUlJ5RDNwblZmYVRyek1zWjVDVjZ5M3FqWXllU2hkMzdiVlY4eTliV3E3T1RBNjBlb3U0U3o4SkhqRlpvNDFMa0N1RjRwVFZ4UFBuc3hTa0xFWWNaSVprOEtOeVM5ZWhYTm9KZDdOZHFtU2UwYjN5SlE?oc=5",
     "news_image": "",
@@ -33145,14 +33146,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.99,
+    "news_score": 0.88,
     "news_title": "Trump to have first trilateral meeting with Putin, Xi - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS0ZHZDFUVjNXc19jTzlIeWRBX0s4dmtIUG1jNGFwZFpCUTBEWEJTRW5tbnhDVTlEdDlwcnZNV0ctRWVLNnhaSUJvbDVlRzUyNmxWelF0aU5xOWV0SkJ5UkhHNTdmVTcyZ1plcWhhY0N2LW5zNUZFT3pVWXhzZkFidEM2bkk0aE8wUFRScg?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "73m ago",
+    "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -42538,8 +42540,9 @@
     "news_age": "15034h ago",
     "news_columns": [
       "fifa_ranking",
-      "basket",
-      "olympic"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43747,7 +43750,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeFl2bTlOd3RWQk5UQklOSW5lLVRmTW9weXZvQzRrRTJJVWtvcm5aRlNHejlTWUk1NlBpZ0t0U05KeFgtbUVQcXp5SVFpVUQ5SDRiWkxWT0V4YlZ0cWFILUJtTGhRVENXQUFreUdMS19qYVhDb2VIQk9fNDl2Y0RjXzU4VTdZcFQ2VUxCY2c5bmNuQQ?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "114m ago",
+    "news_age": "116m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
