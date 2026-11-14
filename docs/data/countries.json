@@ -8019,12 +8019,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.96,
+    "news_score": 0.97,
     "news_title": "Trump to have first trilateral meeting with Putin, Xi - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS0ZHZDFUVjNXc19jTzlIeWRBX0s4dmtIUG1jNGFwZFpCUTBEWEJTRW5tbnhDVTlEdDlwcnZNV0ctRWVLNnhaSUJvbDVlRzUyNmxWelF0aU5xOWV0SkJ5UkhHNTdmVTcyZ1plcWhhY0N2LW5zNUZFT3pVWXhzZkFidEM2bkk0aE8wUFRScg?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "69m ago",
+    "news_age": "71m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -10946,7 +10946,7 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.11,
+    "news_score": 0.1,
     "news_title": "🚨 Mohamed Salah sets a legendary record for Egypt 👑 - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWURKVUFaWkZRRmVnamRMSGRZd1EzOElxZldMa1F3RHZ1RzlHZmVYWGMxLWtibXNfU2JsWFN1QVBuelRCMjJQa25wZDB6VW5Uc3ZiamJESXlvOUhrS0ZTUVpZSUhENHFIMy1VYlVHZmM2dmI2Rlcxb20tN1ZURTh5UFNJc2tnU3hMMVAzUw?oc=5",
     "news_image": "",
@@ -13568,7 +13568,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.4,
+    "news_score": 0.39,
     "news_title": "UNC Basketball vs. Georgia: Live blog, analysis, stats - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdkpsQkYtbUJ4NFUxX0lMVVVEakE1cUg2akxzamFGWUx5Mmx2S3hUR0ZVYjBVR1ZVMFlhWmFiMURHNlB0LTdIZjRGd1JmYUZsemloT0p4V2c3NktmNFQ3blRHd1BaYk1jdHMtM2ZqeTdHV2J0eUZqYUtrQVI1a0x4RXRCemJ4dw?oc=5",
     "news_image": "",
@@ -17401,14 +17401,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.53,
+    "news_score": 0.43,
     "news_title": "Rubio says further US military action is not needed against economically weakened Iran - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw?oc=5",
     "news_image": "",
     "news_source": "AP News",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -19272,12 +19277,8 @@
     "news_source": "Opportunities For Africans",
     "news_age": "35h ago",
     "news_columns": [
-      "edu",
-      "literacy",
-      "pisa_math",
-      "pisa_science",
-      "pisa_reading",
-      "phd_per_cap"
+      "fifa_ranking",
+      "basket"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -32343,12 +32344,12 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.25,
+    "news_score": 0.24,
     "news_title": "Traveller letters: Qatar Airways economy woes, Qantas business-class meals and travel tips - SSBCrack",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbU51ZzJoNnVGVmtvd190eFVndHlkcHJ1TVJHbE1sUDlNWG9HSTZJbl96QzRKUWttOTRiaHRZSHpLLVNKZTktaENIUTUxOTR1dDJNV2tJQlZQSWZyZzVYZDNNeUFMTGhRT2txTmFUb2dVTVdNcEp0SjhqSGRyMEFiM2xVYkh6NEdLbVFPVmRFWFVPSmFwZVJLVVVYaXJHUS0wX2xNN2VwclMwMmsteDh3VGpITjVEQQ?oc=5",
     "news_image": "",
     "news_source": "SSBCrack",
-    "news_age": "4h ago",
+    "news_age": "5h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -33141,12 +33142,12 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.97,
+    "news_score": 0.99,
     "news_title": "Trump to have first trilateral meeting with Putin, Xi - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS0ZHZDFUVjNXc19jTzlIeWRBX0s4dmtIUG1jNGFwZFpCUTBEWEJTRW5tbnhDVTlEdDlwcnZNV0ctRWVLNnhaSUJvbDVlRzUyNmxWelF0aU5xOWV0SkJ5UkhHNTdmVTcyZ1plcWhhY0N2LW5zNUZFT3pVWXhzZkFidEM2bkk0aE8wUFRScg?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "69m ago",
+    "news_age": "71m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -42527,7 +42528,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.03,
     "news_title": "Responding to United States Economic Policy - City of Toronto",
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONWM2aXc1OGtEUmRhQXAxWkF6OVlvaTNpVzRuUjNOeXVMQmoxN2EyRVZld1ljSkVYRVFNTWJ6NVlKUVdlbC1nTE81THNUUjdNZU1EblFWOGtfR3ZFQ3psc205eEFacXI5c05FN2Y3c0hrUVhSNDJZV2VQemg0YkM5UVdtSE5Ob0l1dllwZ08tNWNhVEcxSkg1d2NSRi0tYTZIVUkwX0V4c3BRNklvZnVNb1poMW1pQU1wb2FpOHpsdGgzQUJiV2c?oc=5",
     "news_image": "",
@@ -42535,9 +42536,9 @@
     "news_age": "15034h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w",
+      "basket",
       "olympic",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43453,7 +43454,7 @@
     "union_rate": 56.6,
     "union_rate_rank": null,
     "fifa_w_rank": 40,
-    "news_score": 0.22,
+    "news_score": 0.21,
     "news_title": "WBSC U-23 World Cup: Chinese Taipei vs Venezuela - ballysports.com",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWjFNUWdpQjVWZE8xTDd5bjF3bmx6cU1OenNjLWNIeEdkRGFubjl1bERiSk1UN01ucExYd3VhU0YtakhSVEN4cXVFTlZ1YVQtMDJpaWdlYV9kd18tcm10RUo5Mml2eFJyTnRhTVBoWXJkbGFYVjlFSXNEUTZwNXh4QUJvYk84cGczekw0ZXNYSmVna2dENEFkRkNLOU02Um1RY1JvV0dSbFZ3Z0Uya3c?oc=5",
     "news_image": "",
@@ -43745,7 +43746,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeFl2bTlOd3RWQk5UQklOSW5lLVRmTW9weXZvQzRrRTJJVWtvcm5aRlNHejlTWUk1NlBpZ0t0U05KeFgtbUVQcXp5SVFpVUQ5SDRiWkxWT0V4YlZ0cWFILUJtTGhRVENXQUFreUdMS19qYVhDb2VIQk9fNDl2Y0RjXzU4VTdZcFQ2VUxCY2c5bmNuQQ?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "110m ago",
+    "news_age": "112m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
