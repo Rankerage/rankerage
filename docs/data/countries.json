@@ -1927,18 +1927,17 @@
     "refugees_rank": null,
     "union_rate": 70.7,
     "union_rate_rank": null,
-    "news_score": 0.03,
-    "news_title": "Huge crowds and low vaccination rates raise measles alarms as Pope Leo XIV visits South America - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOejU1WlA1TVEtUUMwTVd1Zmw1RGhkVmFXM3p0QUxSZDZINExaSWpOc1Z1dDJ4OER2Q19LTVdqT0ZKQ1FyTXJNdnptMURsOGhsOXM4clJhVjVQazFLNS1TTXppLV8yRXZQM2xPMEpOdGNVYzF4Vi15YkluSkt1dDRMNk1xZ1lMTzF5V1VlLWh3VmkxLXpXQzZNa29wTGw3VUJVMTloekpB?oc=5",
+    "news_score": 0.02,
+    "news_title": "How will Argentina replace Lionel Messi ahead of 2030 World Cup? - ESPN",
+    "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWUxJaEZ3VGt2TzZuclc5OVVvRGRlT2VLWVRNMUFoSGhHbkpxalBVOEtfRGlBbkxGZTByS2h1SzZXSXBMbFdUMXNqTUtUUXVQdWJ6T1ZwT0hpRnZzbzhUMk96enRhNGw0TWgxaV9nUXF0R3ZSYjVOY0h3TVZzc21LR1MyTXY0bk8yTTY4?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "8h ago",
+    "news_source": "ESPN",
+    "news_age": "52h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -8019,14 +8018,19 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.71,
+    "news_score": 0.5,
     "news_title": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHV6OEE3TG9DMmR2b2N2OEpUX2IxMlZLTHUyc3FwaTRZbDZ1RWtPaUl3Q2N6c1JOYl9FQ1k4OGxFeTM1czMzV3R2TE5ueXdQdThyZXhWTHJPUEJVLXh4aVhRVGI5Ri1VcEhMREJWbGdtdVcxNjlBYjRsVHhkYktoU2JERjBmRUctUTkzdm9JcTZLdEpwSFM2TXV5WU5LbV9hZlhNMS1ZdXY4QQ?oc=5",
     "news_image": "",
     "news_source": "Reuters",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
+      "military_pct",
+      "nuclear"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -14076,8 +14080,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1VUQ2hTLU0wVWJ2Um9mcF9iVXRZMklCYlhneklQdGZUejNxSXRNX1hCcy1MUEI0UlRkUUZFRzFGeTdaSmdnYU52RzFKZ3JKMDYzdjhPZGc5Q0hBVTBIaW1yc1ZEcTU5LTJXMTQ2NUFoTlNRRUFXcDltTktGdU5sT1VyakZ4b05sMGFDRWhMaFUtQk1vSmtfcE9ialY1RVluOUgyZTZhQkdPOWFI?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "26m ago",
+    "news_age": "28m ago",
     "news_columns": [
+      "fifa_ranking",
+      "fifa_w",
       "olympic"
     ],
     "bottom50_wealth": 2.5,
@@ -16387,12 +16393,12 @@
     "refugees": null,
     "refugees_rank": null,
     "fifa_ranking_rank": 70,
-    "news_score": 0.69,
+    "news_score": 0.68,
     "news_title": "Rovers striker Gudjohnsen scores hat-trick for Iceland - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkhxcEtsUUtLTEJCelpCWTdzWFNLVk93WlR6NkFQeHEweDgwc2dRWTZranVncDdTd3lWeFJJVmlZR3dfOFFnYkZvX0ZjVkcwdWFHNFc1TUZWbndrTDEwSGFHVFVnN25JS3ItbHZ1b21JNVRHMGdfbGdSb1Z4aGtvaUR0UzQ3NXN3bVpxb3pn?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "89m ago",
+    "news_age": "91m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -16826,14 +16832,15 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.38,
+    "news_score": 0.62,
     "news_title": "India: Delhi surpasses Lahore as world's most polluted city - DW.com",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNFpjSkU5QkR3bFpwclRRQ1NFSnBwM1JxUXh4Wm94TkhhM0pSUHBpQWNPamowWktydzhwQ2FQRHYtNzM1bTIzQTVsbUxUamIyMUw2Ym9rMFZ5dllPSkxnb0tsRjVCekJCWUJHVC1zSHR4dEtVOTBNak5qSVRpMExSZ3l1dHVIVWFkRGZORzNCWFMwWEU1WWgteQ?oc=5",
     "news_image": "",
     "news_source": "DW.com",
-    "news_age": "77m ago",
+    "news_age": "79m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17397,14 +17404,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.17,
+    "news_score": 1.2,
     "news_title": "Live Updates: 3 oil tankers hit mines in Strait of Hormuz, Iran says - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "33m ago",
+    "news_age": "35m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -18568,7 +18576,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.31,
+    "news_score": 0.3,
     "news_title": "ITALY U21 WIN AS CAMARDA SCORES - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGZYWEhESVZNX1JMbGFiTzdINi12QXhHUndRd3haSDVHZnE2d3NCcjRfY1ZoSzRVd3Ryc3lmbm9Nd0hsa2p2bUZjY0g4SlZfNl9ydGx0ZnRFcm1FaUxUbGVvNTNKc00zZnc4SXdXMzVpN1Y2cVhXVXprNUZzRDZ4czAySQ?oc=5",
     "news_image": "",
@@ -27803,7 +27811,7 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 0.34,
+    "news_score": 0.33,
     "news_title": "How to watch Australia vs. New Zealand in the Rugby League World Cup final online for free - Mashable",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2RtSFFZM3BlWWZYbGVwU1loTFRSSnBVVURLUnJkeVhudTY0YjJVd1BhWm1rLTZucHptUmdxUjlUb2pHRWZlVGhYLWQyVG1PQTdILTVlM2wtallfRFFPeGt5bDZkTEhUdWh4OXVTQkRjVDI5QUN5bXVLcVdSOVItYmF0VVJGb3FiVkpTRFVtNkRkQU9td1VHY3pZYkYwUWVSZVRSQ1lYSUN2OFk?oc=5",
     "news_image": "",
@@ -28456,12 +28464,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.45,
+    "news_score": 0.44,
     "news_title": "Nigeria set to host 450 African entrepreneurs to create 100 new companies - Legit News",
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcUpmbU9NMlgwUTFGV19IU1pLaW95Rk85SjJLOVdpMTBmRW96d0UzUXd1dmUxT1FCd3BjTWpoQ2VIZmZxUHgtRjZFTU50WHB6aFMzemx3QmVFZmM0OXpQZzZteURlcHowb01fSlhaZFV6RVNUUDk2ZE9QbFJ4dU9uSlZJNlR5RDlzTjlBSFdUUDcxZ0FVRExFUnlEamsySkRGakpTaWlUTGtPSEhEdVN6TWRYVW1FUS1PN2NLTXdSSzE2NFkyelFpbg?oc=5",
     "news_image": "",
     "news_source": "Legit News",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
       "debt",
       "gdp",
@@ -31091,12 +31099,12 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.74,
+    "news_score": 0.77,
     "news_title": "Pope’s visit to hub of Afro-Peruvian community casts spotlight on African slave trade to Peru - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbldQc0RVYVEyM2ozT01IUE1MUENQZl9sdXJDQVhZUUdUbEpEZHFwVVVDLUVKS2ZTQld4QUM1UVc1dWZwNG56WVQ0X3VENnVKTmtJLXZIUlkweUZHU1R4OXJTY0R4RmVadmozLWltdEVFMlh3VGlUM0V6U293Sk9mWjBwbWNLS25yVC1KZlRUbWEyOTk5dEFpRHd2WUw?oc=5",
     "news_image": "",
     "news_source": "AP News",
-    "news_age": "39m ago",
+    "news_age": "41m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -33129,7 +33137,8 @@
     "news_source": "Reuters",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -41239,14 +41248,15 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.74,
+    "news_score": 0.73,
     "news_title": "US floats Nato membership for Donbas withdrawal deal, Zelenskyy says - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNi1IdTRFRXk4dnlyWE9ycGhxcHVNVjNSU1VBendhRjdFSHNYcVM5d0wwUGN3VUktaTM2b2R2UVIxZ3NMbjcybDlsa3llTGNUOFgzOVllMjg5UW9Db2FmQzB4QUJEcS1RODdNU3JhTy04QlJwY0duelNBTTdROEJMQTcyaTQ?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -42515,9 +42525,8 @@
     "news_age": "15044h ago",
     "news_columns": [
       "fifa_ranking",
-      "golf",
       "olympic",
-      "basket"
+      "fifa_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43718,12 +43727,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 1.16,
+    "news_score": 1.19,
     "news_title": "The Ministry of Science and Technology reviews legal documents and removes institutional obstacles. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS3RBdmZDeDFJeHJUNE94ellOMERpN1FiRDZmUWhMUXFBeXNtenZjaDk4ODE4TkNNQ1VIdzkwVTM0M1hIWTFwY2d6VDNzT0dxOXUyb0JvNjRIVkhYd2VPZXRFMWdnZXUyZjBUWkdpRTFIcmtBLTZnSW4yZVllaEpIalRQLUJtSHd5czBaaVA2aC1qZUlPdGQtblotdw?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "10m ago",
+    "news_age": "12m ago",
     "news_columns": [
       "car_density",
       "gas_price",
