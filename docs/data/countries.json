@@ -8019,12 +8019,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.07,
+    "news_score": 1.03,
     "news_title": "Trump to have first trilateral meeting with Putin, Xi - The Washington Post",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS0ZHZDFUVjNXc19jTzlIeWRBX0s4dmtIUG1jNGFwZFpCUTBEWEJTRW5tbnhDVTlEdDlwcnZNV0ctRWVLNnhaSUJvbDVlRzUyNmxWelF0aU5xOWV0SkJ5UkhHNTdmVTcyZ1plcWhhY0N2LW5zNUZFT3pVWXhzZkFidEM2bkk0aE8wUFRScg?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "84m ago",
+    "news_age": "86m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -10124,7 +10124,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.22,
+    "news_score": 0.21,
     "news_title": "U.S. Defeats Denmark, 14-0, In Women’s Worlds Quarterfinal - Team USA Hockey",
     "news_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZWkpDZWFZay03blB0NXlJc1VZcEhOMjFfMUZCbVV5Qi01YzdkN2NPS2VXXzBZandpUzV4amM5X2lkS2xyR2twajl0a0lLeWlnUlJZTDBoTW00ZDU4OVowX2t3R1g1UQ?oc=5",
     "news_image": "",
@@ -13034,7 +13034,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.21,
+    "news_score": 1.19,
     "news_title": "France awards Legion of Honor medal to 102-year-old Woodstock World War II veteran William Lyford - ABC7 Chicago",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSFhWd0dYdFhseDBMYWxtcHhXd0NBelhtclJKS0xsR2VGTWZEdGFhdVFwTkhSdWt4MHMxQ1dIWW1Vd2RJaU1DeDQ4RGRFYXNlVTZncGIwX0xpYVQtOWxGcHN0UHN5WENSZVVTcXJVZWdhc1FjQW9nbUxudVo4aUhHWUdfdl96MU9qVENCQmdqcFk0YkotUFAtV3F5OHk2UXlGY0FaMGV1VGQ1RG81clBEYXhRbWp4dXJkNTlNbnNjTVhOdXhXMWZXeDNn0gHPAUFVX3lxTFBBRUNobUlXOHgxUEtXZHVsWVdfVjBraUQ3SEZZNC1hd0Nndk45aFBleURuRnRRdWhqV3dJanF2WmxraEdEaDZLbDAzZEVDRG8tWU9aUGYta1JJNHplSThNZzI4WG9xY0VnU2xxS3Q3NldWOVVSMm1EVlRWaTVzaThKeEJ5SlJoMmdMU253SEJ4b1B1cUlkTTd0cWo0SVpCY0NRMkcwLWNEQ1c3c1BQZ0JpdmtsQjYyV2ppa3N2QXRSdkR4OWkzbHJkSkQ1S0tYdw?oc=5",
     "news_image": "",
@@ -13043,7 +13043,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13565,7 +13565,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.34,
+    "news_score": 0.33,
     "news_title": "PREGAMIN’ GEORGIA - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yTENES1Q5aWlWbkpwa1dwM04tdnd3Skd5Ml9Ma0hwT0ZSekhITUtOQXFwNzBkbU5pejlKVHpQRWMySXFGM1Nibml0aVF6NGR3bFdSMnhHc211a25WM1ozQUZocjEyRWQ2dm5TSzEyVlc3X1k?oc=5",
     "news_image": "",
@@ -17398,19 +17398,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.48,
+    "news_score": 0.61,
     "news_title": "Rubio says further US military action is not needed against economically weakened Iran - AP News",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw?oc=5",
     "news_image": "",
     "news_source": "AP News",
     "news_age": "2h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -19268,7 +19263,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.95,
+    "news_score": 0.75,
     "news_title": "Chinese Taipei@Japan - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWVoTk9UQUhZcVcycUxjbFFHYUtua1NqbHVUdGw0anA2REFnQTFWVGpFaWRlSjhmUHZneFdhUjhYWUdjWWIxbHQ1OVFDQXlKVGVPcVFnRHVUNFVNZ3BLSlBFY1J6cmo2a1l1Z1p4Y0Fpc0xlbUJha2EtVTZyMFJuclM2LTJ2NFJPOWxicFA5Wjh3cUZBWjBzeTdrYU51WHQyX3J1VUp5OUo?oc=5",
     "news_image": "",
@@ -19277,7 +19272,10 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "basket"
+      "olympic",
+      "basket",
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -24836,7 +24834,7 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.58,
+    "news_score": 0.57,
     "news_title": "After 26 years, the US has lost its measles elimination status - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWSzVyZHgxOG16NGU3a2o1NUpOMVhsVnV0LXh3aWJFZ3ZQN0dwVW03aGRWMjFEYW05OHFMLXczRmlEc2MwMlRSUWJ2UENrYm81bTFqV1JPSS1uRWVURW5zc0dKYWNhWjJxTk91czNsOUFmRzZubnc?oc=5",
     "news_image": "",
@@ -28471,7 +28469,7 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.86,
+    "news_score": 0.85,
     "news_title": "Nigeria External Debt Hits $145bn Amid High Private Lending Costs - Head Topics",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZllVU0lYM0lMVk92WVY2RXFJUVJ5dW9nYTlYRk5RelFjY0ZweWxWUlJ5RDNwblZmYVRyek1zWjVDVjZ5M3FqWXllU2hkMzdiVlY4eTliV3E3T1RBNjBlb3U0U3o4SkhqRlpvNDFMa0N1RjRwVFZ4UFBuc3hTa0xFWWNaSVprOEtOeVM5ZWhYTm9KZDdOZHFtU2UwYjN5SlE?oc=5",
     "news_image": "",
@@ -31108,7 +31106,7 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.28,
+    "news_score": 0.27,
     "news_title": "Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’ - NBC News",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcmRuVUtqVTM1UWNwZFByUGI0M0VOdDN6NVhTV0ZPUWxGYVBybHJPTVAzZzJBYnNxUWwzREFWZDN5Q2FPSzZ3VmN0dE5ETTRYTUVDdkNQTFotTlIxTlBvRkN5VTVwQ21nQnNhMkhnQjRHdnFXa2xGano1NHUyTlJBTXFRaFpybFRLUmNGSm1IU2c0Nk81dElMcU5WMS1BQmpJSUR3?oc=5",
     "news_image": "",
@@ -33146,7 +33144,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS0ZHZDFUVjNXc19jTzlIeWRBX0s4dmtIUG1jNGFwZFpCUTBEWEJTRW5tbnhDVTlEdDlwcnZNV0ctRWVLNnhaSUJvbDVlRzUyNmxWelF0aU5xOWV0SkJ5UkhHNTdmVTcyZ1plcWhhY0N2LW5zNUZFT3pVWXhzZkFidEM2bkk0aE8wUFRScg?oc=5",
     "news_image": "",
     "news_source": "The Washington Post",
-    "news_age": "84m ago",
+    "news_age": "86m ago",
     "news_columns": [
       "fifa_ranking",
       "olympic"
@@ -35658,7 +35656,7 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.34,
+    "news_score": 0.33,
     "news_title": "France hold nerve to edge past South Africa in thriller - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMUFFNWhJLVR5eTVPMFFKZzRxdVhUaC1vYWdtalhadXVoWnV6dEo2QVNZeXo4RVBmaFRta3R5Uzd2UUV2dHlwU2ROTDV2ZGxBWWtvUld2RlptLXZ0N0hMekxfLUtyaU5EUkxHbkRuS1R3NHlkcW1WMHhkeTFxVjNTbHRB?oc=5",
     "news_image": "",
@@ -35667,7 +35665,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 1.2,
     "bottom50_wealth_rank": 29
@@ -43456,7 +43454,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWjFNUWdpQjVWZE8xTDd5bjF3bmx6cU1OenNjLWNIeEdkRGFubjl1bERiSk1UN01ucExYd3VhU0YtakhSVEN4cXVFTlZ1YVQtMDJpaWdlYV9kd18tcm10RUo5Mml2eFJyTnRhTVBoWXJkbGFYVjlFSXNEUTZwNXh4QUJvYk84cGczekw0ZXNYSmVna2dENEFkRkNLOU02Um1RY1JvV0dSbFZ3Z0Uya3c?oc=5",
     "news_image": "",
     "news_source": "ballysports.com",
-    "news_age": "3h ago",
+    "news_age": "4h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -43743,7 +43741,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeFl2bTlOd3RWQk5UQklOSW5lLVRmTW9weXZvQzRrRTJJVWtvcm5aRlNHejlTWUk1NlBpZ0t0U05KeFgtbUVQcXp5SVFpVUQ5SDRiWkxWT0V4YlZ0cWFILUJtTGhRVENXQUFreUdMS19qYVhDb2VIQk9fNDl2Y0RjXzU4VTdZcFQ2VUxCY2c5bmNuQQ?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "24m ago",
+    "news_age": "26m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
