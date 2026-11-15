@@ -2129,7 +2129,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPODYtUzZnWGl3TGFDZzVqblNJRjIwNXpqTDVtUEYxRWZreC1QanhsdEpvOGlnTEJLcUozN1RManAxY29UMGJDQVQ5cm5LNElBRWMwWi1USkVDcTEtcGxqUlNnbTJCdHRucHlRdEhsV2ZPMnItOUFEUU9vanNIczlHdl96bkpZMU5KYW9SeTdvcUllNUQzQUFyUHU1WkFtaFBOQ21aTkFCaElwZU5tOUFGMXY2TnhGMksxMEZZdmNFOWFsQ2tuS3c?oc=5",
     "news_image": "",
     "news_source": "ARKA.am",
-    "news_age": "48h ago",
+    "news_age": "49h ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -2562,15 +2562,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 4.28,
+    "news_score": 3.82,
     "news_title": "Australia overpower New Zealand to win fourth consecutive men’s Rugby League World Cup - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS21KQm9tY1Q4QkQ1NG5hSTVBUGVyZnZsN2NKNFhpVXZYSU55bHJYczhxdWlhWGV6LWlfeUQ5OUIyRVVUWWpQRmRKV2luTTJ3Zm9razZuSC14UEZqUlpQM2Q3MEJWT0xPQkZFaUlfajZqRzhrVDlYNmtGTzNJUXR2dUtxU1RlSllMU2xyYXlCSzB6enBwMG1SbWlpdVdtZnhNWmxoc0QyeHJnOHExeGVoYU5wQ3AxaVRuYU90QVJValJHamVNYUxETVdR?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "75m ago",
+    "news_age": "77m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "rugby_ranking",
+      "rugby_w"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -5165,7 +5165,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.55,
+    "news_score": 0.54,
     "news_title": "Brazil U17s touch down in Doha for the World Cup - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU2FJeERYSWJmYkNrZVpRTklSZ0FxZjJGSVhMMlVOYlVXVVUyM3FhbHpOYm00V0loUzZST05ybjl1RnVGempxdHc3bXdJNkUxVC13WlZxUjNrdFRoQXBKQjQzWUdUcE5Za1lQZmliRXVyZzZ3bGJxeXZjcjBFazFLNGtR?oc=5",
     "news_image": "",
@@ -6948,7 +6948,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.36,
+    "news_score": 1.32,
     "news_title": "‍‍‍HERE’S!* WAY TO WATCH Canada vs Sweden Women hockey IIHF Women’s World Championship 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅ 15 November 2026 - Universitat de Barcelona",
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPM0FDT3h5SU9OWFl1c2NrZ2ExMmhZY3puV3dVUGh4cGtoS2lVdlNWa3NPUENKUzh0Q3V3eEZjbnhObXNWT1hBYjg1SS1Kdk5sUVpkRUhzaXpGSGlJNXU4elotbmFzVHNmd3lZTWtGV21wREZwTjY3ZXpDY1NrOWRmS3AyMzlxcHJ0MzRrTFpMU1YzLUVHdjJ1X1NTNm1sMUZDU3hHWG94bUR0SjNJcVNjZ1VfWmNzYUI2TVdmNElhWGtKeFplM2xGS0VQNHEzc245aEJWVGtPZVdHdm4xLVpSLTB6dzRhNHFlY1RmZm9tWkVuVFFkRkg4UkVyb003ai1QaURfc0xyN1h2My16MTV4bHZlOWhYZ2poNmc?oc=5",
     "news_image": "",
@@ -6956,7 +6956,8 @@
     "news_age": "2h ago",
     "news_columns": [
       "olympic",
-      "fifa_w"
+      "iihf_w",
+      "hockey_w"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -10948,7 +10949,7 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.19,
+    "news_score": 0.18,
     "news_title": "WEF meeting to spotlight Egypt economic reforms, investment prospects - Economy - Business - Ahram Online",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdV9ZS3RITlVmeHdrUXJweGN3dV82TkllVU9pUlZGamVjTE5kUU02YVV0MHUyUV9EMGVrVERabXdCa2hlQlN4bDRhVGJxQjdIWWlROVo3OWExeHhNdjFLQzdyalJscWc5THJJT3I0MFktTFVrRFZ1dEtha09QRVAyTWFxd05idkFWTEhHVXpDNmJRZm9XVGI2UlVxM1dpcUs2X3U0ZmdkUi1Zcms1OU9mdGR3cnhHQ2lMLS1tRzcydk42UVU?oc=5",
     "news_image": "",
@@ -12532,15 +12533,16 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.02,
+    "news_score": 1.03,
     "news_title": "US women's hockey team routs Finland in World Championship semifinal - USA Today",
     "news_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMDl4Q0kySE1qNzFkLXFyREh0Y3ROSmZOMUJMSTJzSEZhWGVLdXVwMDRMd1pJVkxYZDRpYnl1bDMwRHNYZjlLMm4yVndQYnB5aEFoVEd1X2hiYUFmZmIwT2N2a0lfc3B1bm1zYUl6YjBZQlNFVk02ZlY1dUxCbmt2N0dpOVZZNHQ3clFtWkxoc3JFc21OdG9FZ0ZuXzVXOUdqUmtlcDZXcmd6aDRxdGJHZTF1SkJub1NfblRmNzk2SUhCYmNYZExveU1WaWRVYTlGZzJnZEJzT3I3dnBwRnBpUF9MWmtrems5LXNseQ?oc=5",
     "news_image": "",
     "news_source": "USA Today",
-    "news_age": "58m ago",
+    "news_age": "60m ago",
     "news_columns": [
       "olympic",
-      "fifa_w"
+      "iihf_w",
+      "hockey_w"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 13
@@ -13034,7 +13036,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.53,
+    "news_score": 0.0,
     "news_title": "Is Kylian Mbappe playing today? France star set to return vs Turkey - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkl6YUZQMXd2UnZVNzF0OW1uQUtIcExHRnExbm1vOG5WME01WFQ3WnU1aUkxd1hIamNxN0tXYm1DU0tZRjZ0azlva3hVQkc4NExTT0lfV1lXQXI2U2hjZWJ3c2VYc2xFTmQ2TnhETGRrcjRxY2Jyc3oyQlZ5eWVQYXRQaXpHb0hVcV84?oc=5",
     "news_image": "",
@@ -15460,7 +15462,7 @@
     "refugees_rank": null,
     "union_rate": 65.3,
     "union_rate_rank": null,
-    "news_score": 0.31,
+    "news_score": 0.3,
     "news_title": "Haiti - Economy : The DGI engages in dialogue with the private business sector regarding the new Tax Code - HaitiLibre.com",
     "news_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYmFKZzZhYkVFTkIyS2IxSHRmNVdtc3hRQURMbkxTSHhHSFlEZzlmcEktZEZYRm50c0kwV2hyMDVVVFJwaWdISW1SQTBBRjdENDNSVnV6QjZZUDZZU0FxMGJFZ3VpTi11YS05cGtkVWZWeWtPU3p5X0stckphMmlnRTBFeWxHaGVBWV9XemRTMGRpbUt5dHU1d05ITXpTaWh1ZEZmb0JtT3NmX3pEbnQ5REhQRGdWdi1DSXpkYW84WW4zWE1uZDN1WFNFVTlLMklXUS1kcjltYkVxamtFU3BjZA?oc=5",
     "news_image": "",
@@ -16829,7 +16831,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONEZMN0RMaWduNkRUS1BCdEdhNWVydW15M3JVSjh4WWRxQ2JsRzZSSUk1SldFODdBTnlxZGZvaERRXzNkLVUtY0cta25lSUx1VzBWLTRNTVVTZXllZmtWSlpfOEFscHd6cy1nSmdvMEZiWktuU1JxeUdzc0xRSGZ0UnB5UUwzdw?oc=5",
     "news_image": "",
     "news_source": "Ommcom News",
-    "news_age": "31m ago",
+    "news_age": "33m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -17396,18 +17398,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.16,
-    "news_title": "Trump's top officials retreat behind military gates as ex-FBI deputy points to what's fueling threats - Fox News",
-    "news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzNGbjk3ZEFwRzVLb212NklvblprNXIxMWRXUEdEdjdDRUl4aFV5S0h1cGZzc1VYdS1NLUtDSTZVR3lTMGU1c0xDeFJjbGoybmNRbWlkbng4Y1RIZGM4aGR6MXBUV1l5ODBHdXl5TmptbzRUMEZTMmI0dHpEaG1qeUJPeUFna3BfMVQ5VXE1bHZMLWlLVnFOTkQ5NVByTHl5bjBTNzI4LTVPdndfaG5zNXlqYVJhcHBlVkc3VWFKMklvMFJ60gHKAUFVX3lxTE5GRU91SG1aMzBHMG5PaXVJNEpCcDRwLVZTVVFNSzh2cmVGUUhhQ2Y1NTljWTlQY19nUU1NY09wbFJISDBkbmRVNGxOSkdUUUVEM2VvX1VBbmlMLWhDYVRfX3V0Z3FpWkFkUmo5dWt6NE40Z3VmaWtyU1ZzUmpTYzBMcWZRTEhTWDFseHpBQWNFRno3UktkYU5HUXBGVk5IYlZMSE8zeXhHb08wMmVCWWN3OFZteHlUREhncWR0MTBGbVE2NXJzYlgyYUE?oc=5",
+    "news_score": 0.11,
+    "news_title": "Global Economy, Hit by Iran War and Inflation, Faces Sharp Slowdown - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMktxdXlJWExWLTFHUkkzY25IRzdfM3ZvNE5XLWlLdzdxMGdZVWRhMUhjaUwzRjdwcGpVMFp6MkZYMGtwTzVSOG00Ml9IVV93QjR4Tm80cG9xdC1LdHFJME9XOG1odnRsQU15bUtqeEFoN1VEeXE4VGlncHlLWkUzR0g5LWFQNkx6VG51MA?oc=5",
     "news_image": "",
-    "news_source": "Fox News",
-    "news_age": "5h ago",
+    "news_source": "The New York Times",
+    "news_age": "3131h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": null
   },
@@ -19451,7 +19454,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.25,
+    "news_score": 0.2,
     "news_title": "VIDEO: McLain Ward tops the Longines FEI Jumping World Cup™ Toronto with Jordan Molga M - World of Showjumping",
     "news_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSm9MQkN0M3kyN1IyeFNHS3lYal9FVk1QN093a09SbEkwX3JQM3VqenpHcnBYcUstR0pnNVdTUlZrRDY3THVvakZFQ2xpMWJwTmhhdGNLMGJteEtDV3lTSlVwTjdxWGR0YkN6TjdmTzM1RG52Smo4SWlMeXBRQ3ZoNFN0ZjFLTk8wblJ2MTJVeTgwMDVzN1dsaEdSN2pEV3I1WUtKWmNsd1hUYkZ5TVp6aGx3dkRJd3pDZm0wcjFBN1RXQzA1OHZNdVl5S3N1V05DUnA1cTVac1VEQQ?oc=5",
     "news_image": "",
@@ -27818,15 +27821,15 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 2.21,
+    "news_score": 2.0,
     "news_title": "Australia overpower New Zealand to win fourth consecutive men’s Rugby League World Cup - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS21KQm9tY1Q4QkQ1NG5hSTVBUGVyZnZsN2NKNFhpVXZYSU55bHJYczhxdWlhWGV6LWlfeUQ5OUIyRVVUWWpQRmRKV2luTTJ3Zm9razZuSC14UEZqUlpQM2Q3MEJWT0xPQkZFaUlfajZqRzhrVDlYNmtGTzNJUXR2dUtxU1RlSllMU2xyYXlCSzB6enBwMG1SbWlpdVdtZnhNWmxoc0QyeHJnOHExeGVoYU5wQ3AxaVRuYU90QVJValJHamVNYUxETVdR?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "75m ago",
+    "news_age": "77m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "rugby_ranking",
+      "rugby_w"
     ],
     "bottom50_wealth": null
   },
@@ -28468,12 +28471,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 1.03,
+    "news_score": 0.79,
     "news_title": "Nigeria's newest TV channel goes live, targets Nigerians without subscription - Legit News",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYnlWX0VKMzBBQkhZUlU2OEpDT0xLVXpGZ0RBNUtwQXNMTVkwZllXMnRPZ0JKZkJoNGtReW1hN3VhU2N6NzNCa0JtbGVGVHZfdElucFZMenZJaVFxUjQ3dHRHLTh6Q3p2LXFxQ1J2M18xZm5DRW5yWkJUMktEdWtESnBuWEZWd045NGZwLXRkVXIzUzFNWDdubm9rTmt1clNrbmJXWmM5bW5zNE1QbEdTaVZRaDFDQQ?oc=5",
     "news_image": "",
     "news_source": "Legit News",
-    "news_age": "57m ago",
+    "news_age": "59m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -31103,12 +31106,12 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.32,
-    "news_title": "Pope crosses Peru in finale of trip home to visit flock high in Andes and deep in Amazon - Politico",
-    "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTjlFUDFrd25XM3lQRjBEVXNDcXpsd1pRMlpCVklHa0JOLVNLMHluNUJ5ek1WMmYyeUgzQWhfUlBwZXVJYVVYTzlRNDZ0akVxQkxNWEJKSFZSeWRBQTFWaHA4YlFyOVZvZFBiU1ZhQU1nSGxKWlpqUXZSLUJiV0N1a3NB?oc=5",
+    "news_score": 0.43,
+    "news_title": "Pope crosses Peru in finale of trip home to visit flock high in Andes and deep in Amazon - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTVlSTFUWUh3d3hoRUVkeHNEX0lpTXFqQUx2dG1FUjR0TnBNVkJqQ19sQWt3Y2loVHplWlpHZGFOZHNyTjdNMDRQQS1Dd0ZLT2dSSTVxRjY5MURzT1JabnNQdHo1RkFJNjBsR2hFV29LQmhfaENsVFk0X2hDSTZaVFRFYjVfaUJOd3J4MjFjcW13ZEVYTkpiMQ?oc=5",
     "news_image": "",
-    "news_source": "Politico",
-    "news_age": "5h ago",
+    "news_source": "AP News",
+    "news_age": "88m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -33126,7 +33129,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.07,
+    "news_score": 0.12,
     "news_title": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia? - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFZxYzB6N3djaUJMOWI1QW1oaTFhLVc1bDZXNVlEMERPNlR5Z2FSMl9rdnJJSkNnVVhQclUteWJYWE1rM1F4amRadVRJQk1YZHNHU2UxcmtFYTRqNWk4eXhLTjhNWlBPbE1uNU1zMzFWMWJaZGpDUFgzSml5V29ZeVgwQUFuNzZMaXpWQVV2YUxaQ0wwckNfLWR4a3pYV3ROSjVHcVhCTnlEQlItWFBuctIBtgFBVV95cUxOV2YtTEY4U180dER0UjRwQUFDdUhDWVRLTnpMVzhJVkdJUTlhbXc0UEVvaHN1cnV3bWJud2FDZldDZ2h2WEtlVG9uWWlfZEI2OF82M05oMlRzUUxRaUg5cGgxM19acGEyeVpkMnNrcDZxaS1NTFQzdXNoZUJyVk9iUnFfTHQyeHZ6Nmc5cWtPcGM0LWpqVDcwUG9RNEExV0h5cEJwNXNVMzVZQ0hkM245SUdjM0F2QQ?oc=5",
     "news_image": "",
@@ -36138,7 +36141,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.3,
+    "news_score": 0.29,
     "news_title": "South Korea's top scorer in tax accountancy exam admits cheating - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lOUVQZFp1akk1cEpBcHBndHRjTEhzbGx1TzlHZGx0Wkt4LTk1dlNPVGZ1RjNqWkJ5by1FSG1HdnJGTjZBU0JGeGp3ZF91R2trSUFpeU1kUmdQc1E?oc=5",
     "news_image": "",
@@ -37678,7 +37681,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.36,
+    "news_score": 1.32,
     "news_title": "‍‍‍HERE’S!* WAY TO WATCH Canada vs Sweden Women hockey IIHF Women’s World Championship 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅ 15 November 2026 - Universitat de Barcelona",
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPM0FDT3h5SU9OWFl1c2NrZ2ExMmhZY3puV3dVUGh4cGtoS2lVdlNWa3NPUENKUzh0Q3V3eEZjbnhObXNWT1hBYjg1SS1Kdk5sUVpkRUhzaXpGSGlJNXU4elotbmFzVHNmd3lZTWtGV21wREZwTjY3ZXpDY1NrOWRmS3AyMzlxcHJ0MzRrTFpMU1YzLUVHdjJ1X1NTNm1sMUZDU3hHWG94bUR0SjNJcVNjZ1VfWmNzYUI2TVdmNElhWGtKeFplM2xGS0VQNHEzc245aEJWVGtPZVdHdm4xLVpSLTB6dzRhNHFlY1RmZm9tWkVuVFFkRkg4UkVyb003ai1QaURfc0xyN1h2My16MTV4bHZlOWhYZ2poNmc?oc=5",
     "news_image": "",
@@ -37686,7 +37689,8 @@
     "news_age": "2h ago",
     "news_columns": [
       "olympic",
-      "fifa_w"
+      "iihf_w",
+      "hockey_w"
     ],
     "election_title": "Swedish Parliament",
     "election_url": "https://www.electionguide.org/countries/id/206",
@@ -40291,7 +40295,7 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.53,
+    "news_score": 0.0,
     "news_title": "Is Kylian Mbappe playing today? France star set to return vs Turkey - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkl6YUZQMXd2UnZVNzF0OW1uQUtIcExHRnExbm1vOG5WME01WFQ3WnU1aUkxd1hIamNxN0tXYm1DU0tZRjZ0azlva3hVQkc4NExTT0lfV1lXQXI2U2hjZWJ3c2VYc2xFTmQ2TnhETGRrcjRxY2Jyc3oyQlZ5eWVQYXRQaXpHb0hVcV84?oc=5",
     "news_image": "",
@@ -41254,7 +41258,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.07,
+    "news_score": 0.17,
     "news_title": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia? - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFZxYzB6N3djaUJMOWI1QW1oaTFhLVc1bDZXNVlEMERPNlR5Z2FSMl9rdnJJSkNnVVhQclUteWJYWE1rM1F4amRadVRJQk1YZHNHU2UxcmtFYTRqNWk4eXhLTjhNWlBPbE1uNU1zMzFWMWJaZGpDUFgzSml5V29ZeVgwQUFuNzZMaXpWQVV2YUxaQ0wwckNfLWR4a3pYV3ROSjVHcVhCTnlEQlItWFBuctIBtgFBVV95cUxOV2YtTEY4U180dER0UjRwQUFDdUhDWVRLTnpMVzhJVkdJUTlhbXc0UEVvaHN1cnV3bWJud2FDZldDZ2h2WEtlVG9uWWlfZEI2OF82M05oMlRzUUxRaUg5cGgxM19acGEyeVpkMnNrcDZxaS1NTFQzdXNoZUJyVk9iUnFfTHQyeHZ6Nmc5cWtPcGM0LWpqVDcwUG9RNEExV0h5cEJwNXNVMzVZQ0hkM245SUdjM0F2QQ?oc=5",
     "news_image": "",
@@ -42534,10 +42538,14 @@
     "news_source": "City of Toronto",
     "news_age": "15071h ago",
     "news_columns": [
-      "basket",
-      "fifa_ranking",
+      "nfl_ranking",
+      "nfl_w",
+      "nfl_l",
       "olympic",
-      "fifa_w"
+      "iihf_w",
+      "hockey_w",
+      "politics",
+      "economy"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
