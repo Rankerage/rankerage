@@ -2562,17 +2562,14 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 1.86,
+    "news_score": 2.38,
     "news_title": "Australia overpower New Zealand to win fourth consecutive men’s Rugby League World Cup - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS21KQm9tY1Q4QkQ1NG5hSTVBUGVyZnZsN2NKNFhpVXZYSU55bHJYczhxdWlhWGV6LWlfeUQ5OUIyRVVUWWpQRmRKV2luTTJ3Zm9razZuSC14UEZqUlpQM2Q3MEJWT0xPQkZFaUlfajZqRzhrVDlYNmtGTzNJUXR2dUtxU1RlSllMU2xyYXlCSzB6enBwMG1SbWlpdVdtZnhNWmxoc0QyeHJnOHExeGVoYU5wQ3AxaVRuYU90QVJValJHamVNYUxETVdR?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
+      "hockey",
       "rugby"
     ],
     "bottom50_wealth": 5.0,
@@ -3825,15 +3822,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.73,
+    "news_score": 0.93,
     "news_title": "‍‍‍[[Fox^Sports]] Italy vs Belgium Nations League Live Stream Free - Universitat de Barcelona",
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQLWlIYV9xZUpUdDdTWm5kU0dxNzVVTTlLTHdlYUw1LVBhX2M3RGhTdUZzbHFOTWN5RnJ4ZEhyRVA3NlFWaml5R3lMOWhkX3phMVBzSnJTWUt0QUVRcEY3M0doMTV5aVNTRnNnSG84M202Wmcwd3E1RHRxLV9DYVNuOTJaUi1zNDVIZGx3TkFpa2xjSlBuQVJkdnV0b29ZT2tNa2NoTjdZZ01IWm9YeW9BMXc5akEwOExIRjZscFVCNkZ1RUZvYWR4MklSYkFsdkp1S29SUjhEZ2pVdzg2M2k3ZmhNeDNBbjd2THFiRURXX2dRSWZZVnVXY2RveXEwYlk1UHZXS3p5ellrcmg2WTZNS3NJODdUczJUVkE?oc=5",
     "news_image": "",
     "news_source": "Universitat de Barcelona",
-    "news_age": "3m ago",
+    "news_age": "5m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "soccer"
     ],
     "bottom50_wealth": 3.1,
     "bottom50_wealth_rank": 18
@@ -6943,14 +6940,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.75,
+    "news_score": 1.77,
     "news_title": "IIHF confirms Russia will miss World Juniors over Canada restrictions - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMkxDRkFmbXRVd1h3dV84NTF3cDZadjRjYUtqUHpkWXlVVXIzX3lvVXI5Z25BUkR6c0lJLVJpZkQxSzhEWmNZS2RFX1pJZWxkOXMxcHUxVUZvdGZvZDR1SUtMOUNKM2g4RTdEaWJtaE4wX0RacU55SndhaEoxWG1VNGVybFpvMVdwelU2TzhxWHNxbTZYOFlIbGo1QkM4c3c2aVVFWmtudXFxYnhObkYyb05B?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "29m ago",
+    "news_age": "31m ago",
     "news_columns": [
-      "olympic"
+      "hockey",
+      "iihf"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -8880,15 +8878,15 @@
     "refugees_rank": null,
     "union_rate": 70.4,
     "union_rate_rank": null,
-    "news_score": 1.67,
+    "news_score": 2.14,
     "news_title": "‍‍‍[[Fox^Sports]] Czech Republic vs Croatia Match Live Broadcast - Universitat de Barcelona",
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxObHlod0ZNdEM1czZFdTdTTkhPUjE3ZGtRRzdhdFJPT1pfUHlHOEtmTTZqZjlzQ09MYXhsOVJBdnJUVGwwVmtRME9CVWcyV1RKelF6M2ZCNjNwQjNuNTBZaTBHalJxSEpLd2RrcVlMNXJfRklBdGdLYmZkNmdDN0E2QXZXUG9lX0hWVnE2QUY1TFJwSGE5WVN6aERtekhHMkYyTmx0VjNNcFotMjAxbmhSUk41Y29PU2ZjRC1Vam1HeXl6ZmtKMTZXMUZFZHAtZ0JnRG9fUDVBY05VcUtIQno0b0hFalpKWXhqaC0tNVpubjQ1aDNCMmFLWU9pcTBHX2lvMXJaUTRVa1E3c1RKdWhJendTZHMyS0JlZXc?oc=5",
     "news_image": "",
     "news_source": "Universitat de Barcelona",
-    "news_age": "3m ago",
+    "news_age": "5m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "soccer"
     ],
     "bottom50_wealth": null
   },
@@ -9555,16 +9553,16 @@
     "refugees_rank": null,
     "union_rate": 77.5,
     "union_rate_rank": null,
-    "news_score": 1.71,
+    "news_score": 2.04,
     "news_title": "‍‍‍[[Fox^Sports]] Czech Republic vs Croatia Match Live Broadcast - Universitat de Barcelona",
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxObHlod0ZNdEM1czZFdTdTTkhPUjE3ZGtRRzdhdFJPT1pfUHlHOEtmTTZqZjlzQ09MYXhsOVJBdnJUVGwwVmtRME9CVWcyV1RKelF6M2ZCNjNwQjNuNTBZaTBHalJxSEpLd2RrcVlMNXJfRklBdGdLYmZkNmdDN0E2QXZXUG9lX0hWVnE2QUY1TFJwSGE5WVN6aERtekhHMkYyTmx0VjNNcFotMjAxbmhSUk41Y29PU2ZjRC1Vam1HeXl6ZmtKMTZXMUZFZHAtZ0JnRG9fUDVBY05VcUtIQno0b0hFalpKWXhqaC0tNVpubjQ1aDNCMmFLWU9pcTBHX2lvMXJaUTRVa1E3c1RKdWhJendTZHMyS0JlZXc?oc=5",
     "news_image": "",
     "news_source": "Universitat de Barcelona",
-    "news_age": "3m ago",
+    "news_age": "5m ago",
     "bottom50_wealth": null,
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "soccer"
     ],
     "election_title": "Czech Senate"
   },
@@ -12520,17 +12518,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.67,
+    "news_score": 0.87,
     "news_title": "USA Beats Finland, Updated Women's Hockey World Championship 2026 Results and Bracket - Bleacher Report",
     "news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRmktRmxqMFROeU1KQjlCak5qeG96Y1htS0pXX1d4bkt5T0Roa1pLVF94WkFiV3hOeDlxNWVVOFk4RlZZTmx3ckJLb01tX0dtZDl0NlpwTEh3UmtIaWJJMUZ6YUJWUzdhRWF2bEpnZFpBa2FJdVpJZnlWR1JfQ2xqWHhJYlNoNVlkMWpLNFlsX3ZXemxUdDYyTXpUb2pPQkRmXzUxUW1HOHZkUk5JN3A2SmZJVkxDWl9XcUM5SldtTVFQUE9nSEww?oc=5",
     "news_image": "",
     "news_source": "Bleacher Report",
-    "news_age": "103m ago",
+    "news_age": "105m ago",
     "news_columns": [
-      "gender",
-      "gender_gap",
-      "women_parl",
-      "edu"
+      "hockey",
+      "rugby"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 13
@@ -13024,15 +13020,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.73,
+    "news_score": 0.93,
     "news_title": "‍‍‍[[Fox^Sports]] Turkey v France LIvE FrEe StReAm - Universitat de Barcelona",
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOa21kNWxLb2RZTmtSTHVjbjhNX1NOSXloYnZoS2ZFMWZqeDlQT1BGUWJEV3czejVzcklXRmtXUDlTT3V5WlZrREFsUVdNb2V5X1hHNGVMUDJJaG4tRkp6bG9ORDlPUFZTYm1CckY3SW5ZOS1ZOC1DN0JkSWRId0h6NEpWcEJKeDBsalhSWlVEak43cnFpMUNyTVp6Y1J4LUZLbEs5aXEyNlFLeTctbjQxYzBhcUtILVZXeGp1bmJja2Rkand2UXJhTVFxaVVjS0l4ZUFqUTZFdGxiVVp5Ulk0enpPSFZVY05fVDNadnNHMjZiOHF2NnQzWHZZN0Z6eFVkcW43bjF6V3l6U3Fsbk5HM1FHamVvOERTSVE?oc=5",
     "news_image": "",
     "news_source": "Universitat de Barcelona",
-    "news_age": "3m ago",
+    "news_age": "5m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "soccer"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -14056,15 +14052,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.26,
+    "news_score": 1.35,
     "news_title": "Lions dominate Patriots in Germany after knocking Drake Maye out of game - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc3JxT28xNjZ3QXZ1RHg3N3haUmdTbmNna0VRZ19hcDlPOGZxZVUzSVBIem5ZNmo3ZlpVUDFLbERoanloNEY2S1V4Yk95UDlUU1ZWTlNRQmR1czd2VFRpN0h2UmFKREhvaDVFTm00NnBlTHlzN2NpQ3NlVUlkMkRUQlNxV3JpdGoxYm5vMHJkbW5PVUx5T0NBcm1BRm1hd2FsWWJtZzR4UzhmTXY4ejZxVEQ2OXg3NlV6ZUNmUWR6blJ3eXNVV281ZWlwdGtCZzkxdVBVWVR4Y1VOSHBQQzlPSw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "87m ago",
+    "news_age": "89m ago",
     "news_columns": [
-      "basket",
-      "fifa_ranking"
+      "nfl",
+      "football"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16813,7 +16809,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONEZMN0RMaWduNkRUS1BCdEdhNWVydW15M3JVSjh4WWRxQ2JsRzZSSUk1SldFODdBTnlxZGZvaERRXzNkLVUtY0cta25lSUx1VzBWLTRNTVVTZXllZmtWSlpfOEFscHd6cy1nSmdvMEZiWktuU1JxeUdzc0xRSGZ0UnB5UUwzdw?oc=5",
     "news_image": "",
     "news_source": "Ommcom News",
-    "news_age": "101m ago",
+    "news_age": "103m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -17380,18 +17376,18 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.46,
-    "news_title": "Energy briefs–world oil surplus and putting the squeeze on Iran - Oklahoma Energy Today",
-    "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2JtaktZMVMxTTJrR2ZnUTNWOWVlWDcySVZrc0FNV2hWZTNNQWZfV1R4R3hVcTlQVU95aUNsQVktMWJlT0RzSjlHRVJnLUZLemRnZV9ZUG15NDBQSXZjYXBJOG9iLWNIN2ZJelNnS2loVDBnNVB3eWJzd083Tk01WFViM1ZLXzYwdHFkRElvemE5amhUOUIxYXhtWlBnRFU?oc=5",
+    "news_score": 0.37,
+    "news_title": "Trump's top officials retreat behind military gates as ex-FBI deputy points to what's fueling threats - Fox News",
+    "news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzNGbjk3ZEFwRzVLb212NklvblprNXIxMWRXUEdEdjdDRUl4aFV5S0h1cGZzc1VYdS1NLUtDSTZVR3lTMGU1c0xDeFJjbGoybmNRbWlkbng4Y1RIZGM4aGR6MXBUV1l5ODBHdXl5TmptbzRUMEZTMmI0dHpEaG1qeUJPeUFna3BfMVQ5VXE1bHZMLWlLVnFOTkQ5NVByTHl5bjBTNzI4LTVPdndfaG5zNXlqYVJhcHBlVkc3VWFKMklvMFJ60gHKAUFVX3lxTE5GRU91SG1aMzBHMG5PaXVJNEpCcDRwLVZTVVFNSzh2cmVGUUhhQ2Y1NTljWTlQY19nUU1NY09wbFJISDBkbmRVNGxOSkdUUUVEM2VvX1VBbmlMLWhDYVRfX3V0Z3FpWkFkUmo5dWt6NE40Z3VmaWtyU1ZzUmpTYzBMcWZRTEhTWDFseHpBQWNFRno3UktkYU5HUXBGVk5IYlZMSE8zeXhHb08wMmVCWWN3OFZteHlUREhncWR0MTBGbVE2NXJzYlgyYUE?oc=5",
     "news_image": "",
-    "news_source": "Oklahoma Energy Today",
-    "news_age": "66m ago",
+    "news_source": "Fox News",
+    "news_age": "6h ago",
     "news_columns": [
-      "gas_price",
-      "energy_per_capita",
-      "co2",
-      "renew",
-      "exports"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export"
     ],
     "bottom50_wealth": null
   },
@@ -18556,15 +18552,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.73,
+    "news_score": 0.93,
     "news_title": "‍‍‍[[Fox^Sports]] Italy vs Belgium Nations League Live Stream Free - Universitat de Barcelona",
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQLWlIYV9xZUpUdDdTWm5kU0dxNzVVTTlLTHdlYUw1LVBhX2M3RGhTdUZzbHFOTWN5RnJ4ZEhyRVA3NlFWaml5R3lMOWhkX3phMVBzSnJTWUt0QUVRcEY3M0doMTV5aVNTRnNnSG84M202Wmcwd3E1RHRxLV9DYVNuOTJaUi1zNDVIZGx3TkFpa2xjSlBuQVJkdnV0b29ZT2tNa2NoTjdZZ01IWm9YeW9BMXc5akEwOExIRjZscFVCNkZ1RUZvYWR4MklSYkFsdkp1S29SUjhEZ2pVdzg2M2k3ZmhNeDNBbjd2THFiRURXX2dRSWZZVnVXY2RveXEwYlk1UHZXS3p5ellrcmg2WTZNS3NJODdUczJUVkE?oc=5",
     "news_image": "",
     "news_source": "Universitat de Barcelona",
-    "news_age": "3m ago",
+    "news_age": "5m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "soccer"
     ],
     "bottom50_wealth": 3.2,
     "bottom50_wealth_rank": 17
@@ -18751,12 +18747,12 @@
     "union_rate": 74.0,
     "union_rate_rank": null,
     "fifa_w_rank": 39,
-    "news_score": 0.75,
+    "news_score": 0.74,
     "news_title": "Jamaica eyes historic third FIFA Women’s World Cup berth - Concacaf | Official Website",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYW1wRmZXdFFQTkpRRWdxZU9aOHlweXVZbmlIa2w5VHJ5UERwVlJWVjVINXU3Y0x3cFlGcFdqU3I0dlpWdklWbkdoa3NLQzVhQlg3T0t3SFdXT0p2YXJ2Y0xJampuWlE5ZXBkUkl6LXFXWjV3WjU5elJSN0Yyd1JvWjM4ZWdMRFFQUXFtZnhCdTJxZTFXdlRYc0JvbjYyd05HMXBNQ3M5SW1zY2RmNFdrQ0E0OUo?oc=5",
     "news_image": "",
     "news_source": "Concacaf | Official Website",
-    "news_age": "69m ago",
+    "news_age": "71m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -24819,12 +24815,12 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.39,
+    "news_score": 0.5,
     "news_title": "SpaceX caught Starship from orbit with ‘robot chopsticks’ in a world 1st — but lost its booster in the Gulf of Mexico - Yahoo Finance",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHc2Umd3dWo3UUQyTHo3amFEVTdobVJQTzlMNV9PZFlGQUdjS1RtazVlNFdRMG5DYW5ocEV0TVp2Qk5fVFFCZnEwZjFaTXNhY0NINWdwVUxyS00wUmFZbGFMeEZFU0NIQk9YOFFtWHV5a2pIZGI5NFppZTQ0WWU3aU5mc2g1ZXZyQmNIckJCVnNtSXBpbVJaZUdmZjVKTGFf?oc=5",
     "news_image": "",
     "news_source": "Yahoo Finance",
-    "news_age": "66m ago",
+    "news_age": "68m ago",
     "news_columns": [
       "space_launch",
       "rd",
@@ -27798,17 +27794,14 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 0.96,
+    "news_score": 1.23,
     "news_title": "Australia overpower New Zealand to win fourth consecutive men’s Rugby League World Cup - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS21KQm9tY1Q4QkQ1NG5hSTVBUGVyZnZsN2NKNFhpVXZYSU55bHJYczhxdWlhWGV6LWlfeUQ5OUIyRVVUWWpQRmRKV2luTTJ3Zm9razZuSC14UEZqUlpQM2Q3MEJWT0xPQkZFaUlfajZqRzhrVDlYNmtGTzNJUXR2dUtxU1RlSllMU2xyYXlCSzB6enBwMG1SbWlpdVdtZnhNWmxoc0QyeHJnOHExeGVoYU5wQ3AxaVRuYU90QVJValJHamVNYUxETVdR?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
+      "hockey",
       "rugby"
     ],
     "bottom50_wealth": null
@@ -28451,7 +28444,7 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.58,
+    "news_score": 0.57,
     "news_title": "Nigeria's newest TV channel goes live, targets Nigerians without subscription - Legit News",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYnlWX0VKMzBBQkhZUlU2OEpDT0xLVXpGZ0RBNUtwQXNMTVkwZllXMnRPZ0JKZkJoNGtReW1hN3VhU2N6NzNCa0JtbGVGVHZfdElucFZMenZJaVFxUjQ3dHRHLTh6Q3p2LXFxQ1J2M18xZm5DRW5yWkJUMktEdWtESnBuWEZWd045NGZwLXRkVXIzUzFNWDdubm9rTmt1clNrbmJXWmM5bW5zNE1QbEdTaVZRaDFDQQ?oc=5",
     "news_image": "",
@@ -31086,12 +31079,12 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.32,
-    "news_title": "Pope crosses Peru in the finale of a trip home to visit flock high in Andes and deep in Amazon - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTVlSTFUWUh3d3hoRUVkeHNEX0lpTXFqQUx2dG1FUjR0TnBNVkJqQ19sQWt3Y2loVHplWlpHZGFOZHNyTjdNMDRQQS1Dd0ZLT2dSSTVxRjY5MURzT1JabnNQdHo1RkFJNjBsR2hFV29LQmhfaENsVFk0X2hDSTZaVFRFYjVfaUJOd3J4MjFjcW13ZEVYTkpiMQ?oc=5",
+    "news_score": 0.27,
+    "news_title": "Pope crosses Peru in finale of trip home to visit flock high in Andes and deep in Amazon - Politico",
+    "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTjlFUDFrd25XM3lQRjBEVXNDcXpsd1pRMlpCVklHa0JOLVNLMHluNUJ5ek1WMmYyeUgzQWhfUlBwZXVJYVVYTzlRNDZ0akVxQkxNWEJKSFZSeWRBQTFWaHA4YlFyOVZvZFBiU1ZhQU1nSGxKWlpqUXZSLUJiV0N1a3NB?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "2h ago",
+    "news_source": "Politico",
+    "news_age": "6h ago",
     "news_columns": [
       "health",
       "life_expectancy",
@@ -33112,14 +33105,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.99,
+    "news_score": 2.11,
     "news_title": "IIHF confirms Russia will miss World Juniors over Canada restrictions - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMkxDRkFmbXRVd1h3dV84NTF3cDZadjRjYUtqUHpkWXlVVXIzX3lvVXI5Z25BUkR6c0lJLVJpZkQxSzhEWmNZS2RFX1pJZWxkOXMxcHUxVUZvdGZvZDR1SUtMOUNKM2g4RTdEaWJtaE4wX0RacU55SndhaEoxWG1VNGVybFpvMVdwelU2TzhxWHNxbTZYOFlIbGo1QkM4c3c2aVVFWmtudXFxYnhObkYyb05B?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "29m ago",
+    "news_age": "31m ago",
     "news_columns": [
-      "olympic"
+      "hockey",
+      "iihf"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -36119,7 +36113,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.0,
+    "news_score": 0.06,
     "news_title": "South Korea's top scorer in tax accountancy exam admits cheating - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lOUVQZFp1akk1cEpBcHBndHRjTEhzbGx1TzlHZGx0Wkt4LTk1dlNPVGZ1RjNqWkJ5by1FSG1HdnJGTjZBU0JGeGp3ZF91R2trSUFpeU1kUmdQc1E?oc=5",
     "news_image": "",
@@ -36700,15 +36694,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.81,
+    "news_score": 2.11,
     "news_title": "‍‍‍[[Fox^Sports]] England vs Spain LIVE Kick off time TV - Universitat de Barcelona",
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOTXdRbE96SmFXdmdDZk1jMV9hZUVOcHVXN3VkRW0tVHY4aUtvLWNTQ1F2X2E4NnJDcncza09kTlFYQTdReTN0TkhkRkJxampCbHJyWHhTdmxwaXE0LXdCQVBLajc1OXRGZDVOTDN3U3l4eE8xU1BQeTdzNDRDVTdHc1d1UHBzZGxISFMyNHJkOV9HNGdyNHdubTBCR3BLNEJpZWNuRGRHby12aFdYdHA3SFJiMDdhbWw4RHh4aTFWdGFqZzM2Wk5KTzFZdnJKZUhkTDZuaXVlWVFITmRhZ2dvX1lpSHhMQkFMcE9HRHZmSUZpYmllOWUxbUR2ajREeGJSRk1xc3VhYmcyRF9mdjFMNkprNVVWdnRGWHc?oc=5",
     "news_image": "",
     "news_source": "Universitat de Barcelona",
-    "news_age": "3m ago",
+    "news_age": "5m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "soccer"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5,
@@ -37656,7 +37650,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.73,
+    "news_score": 0.72,
     "news_title": "‍‍‍HERE’S!* WAY TO WATCH Canada vs Sweden Women hockey IIHF Women’s World Championship 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅ 15 November 2026 - Universitat de Barcelona",
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPM0FDT3h5SU9OWFl1c2NrZ2ExMmhZY3puV3dVUGh4cGtoS2lVdlNWa3NPUENKUzh0Q3V3eEZjbnhObXNWT1hBYjg1SS1Kdk5sUVpkRUhzaXpGSGlJNXU4elotbmFzVHNmd3lZTWtGV21wREZwTjY3ZXpDY1NrOWRmS3AyMzlxcHJ0MzRrTFpMU1YzLUVHdjJ1X1NTNm1sMUZDU3hHWG94bUR0SjNJcVNjZ1VfWmNzYUI2TVdmNElhWGtKeFplM2xGS0VQNHEzc245aEJWVGtPZVdHdm4xLVpSLTB6dzRhNHFlY1RmZm9tWkVuVFFkRkg4UkVyb003ai1QaURfc0xyN1h2My16MTV4bHZlOWhYZ2poNmc?oc=5",
     "news_image": "",
@@ -40271,15 +40265,15 @@
     "union_rate": 60.8,
     "union_rate_rank": null,
     "fifa_w_rank": 42,
-    "news_score": 0.73,
+    "news_score": 0.93,
     "news_title": "‍‍‍[[Fox^Sports]] Turkey v France LIvE FrEe StReAm - Universitat de Barcelona",
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOa21kNWxLb2RZTmtSTHVjbjhNX1NOSXloYnZoS2ZFMWZqeDlQT1BGUWJEV3czejVzcklXRmtXUDlTT3V5WlZrREFsUVdNb2V5X1hHNGVMUDJJaG4tRkp6bG9ORDlPUFZTYm1CckY3SW5ZOS1ZOC1DN0JkSWRId0h6NEpWcEJKeDBsalhSWlVEak43cnFpMUNyTVp6Y1J4LUZLbEs5aXEyNlFLeTctbjQxYzBhcUtILVZXeGp1bmJja2Rkand2UXJhTVFxaVVjS0l4ZUFqUTZFdGxiVVp5Ulk0enpPSFZVY05fVDNadnNHMjZiOHF2NnQzWHZZN0Z6eFVkcW43bjF6V3l6U3Fsbk5HM1FHamVvOERTSVE?oc=5",
     "news_image": "",
     "news_source": "Universitat de Barcelona",
-    "news_age": "3m ago",
+    "news_age": "5m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "soccer"
     ],
     "bottom50_wealth": 5.2,
     "bottom50_wealth_rank": 7
@@ -41231,12 +41225,12 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.91,
+    "news_score": 0.9,
     "news_title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history' - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKRV92VVNvRTJsaGp2REVNVTkxQVgtRllsdDUydFV0Ym9hcklORXo0UjFwR1lIOVBTYm5Ed3hfenpzV2tfLVl0N3ZhVUcwZ3gzaFpQcGRTTlNYRzQ?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "74m ago",
+    "news_age": "76m ago",
     "news_columns": [
       "basket",
       "olympic",
@@ -42511,8 +42505,12 @@
     "news_source": "City of Toronto",
     "news_age": "15073h ago",
     "news_columns": [
-      "basket",
-      "fifa_ranking"
+      "nfl",
+      "football",
+      "aviation",
+      "transport",
+      "hockey",
+      "rugby"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43713,7 +43711,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.51,
+    "news_score": 0.5,
     "news_title": "Hanoi is gradually putting policies to promote science and technology into practice. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa05PZlp2aGJWQ1dDS1JmSUgxOUVHdnhqX1dIeEs5MFpEQmlaczl0RWkwTzB1VU5kb2hMel9JWGl5S0FtTnhpTTdzVE5aNl8xUzNVWU5UdS1kVndLZmd1S1ptaENxQXNSNnFnRl9JRjBPUTBHTG50MU9OQjQxVm1aT2tPR1RTMUxmdndTMXdhZU5zUmc5bjIxNVJFSmF1MnZVdVlBemRn?oc=5",
     "news_image": "",
