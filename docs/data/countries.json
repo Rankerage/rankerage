@@ -2556,15 +2556,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 2.46,
+    "news_score": 2.65,
     "news_title": "Australia v New Zealand: men’s Rugby League World Cup final – live - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOXzgwdkVtNkRfU091UlRMOFJlVERuMjZwaUR3TEVjVldqekhXanVmZEc5THl4LVYwZFVJY2cwNV80VzJCaTIyUTBTeENVay1MclRmbXdDZTNYWmZpN053Y01ENFVHdnRuWnBjN2wxalJQZ1VwZVJpTkE1VXJJMmlGUEdYaWxtWnN3RjVLTFV5MzFEUXI5Mzd3MlFBN1o4TDlhZnlLUGJSWldoNVZYWmU4TmVPckd0RGN4ZU1ER0kwS25oTGl1cGRBT2Vra2dnVGFncmdUbA?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "31m ago",
+    "news_age": "33m ago",
     "news_columns": [
-      "rugby_ranking",
-      "rugby_w"
+      "rugby_league",
+      "fifa_w"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -8017,15 +8017,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.59,
+    "news_score": 0.57,
     "news_title": "The world according to China - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjFJU0l0RDAwQ2FiRlJ5TWI4UnFSYzJPT2tTXzhydHU5ZEt1LVRseXY2aHByQ2FSdmpVWC00ZlpSc0IwX05rYkhpQkZrejd5dlREeDVHaHV6eXdaUllhSktGa3Q2YUk3aFBxQWR3R29zakdzVy1oZjlpSF9PZWo0d0h2aFc?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
     "news_age": "4h ago",
     "news_columns": [
-      "diplomacy",
-      "trade"
+      "geopolitics"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10949,7 +10948,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1M3RVhWWnB4TU1KREpveWFSU1I2aXRGRGRJNUZ3WURHTGwxX1NseWZNeFB5Z1RZRm9OUkpnX0NKd3NaeUZPaS1LZjFwRkp1U3puanBOQWllWTAtY0tXbFg5YkNqNTJueF9nMHhhNkFzdlFZcjY4U205QUxlSk1wNTRGRUVsaFZPREpOOVpIYWhVVnBHbzNkOUVoVXlOSXFfUlJnNVprYUk5RDVETi1RN2FiX0xnRWNLQ0ZSWW1IdDdxNGs?oc=5",
     "news_image": "",
     "news_source": "Ahram Online",
-    "news_age": "8h ago",
+    "news_age": "9h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -12528,7 +12527,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.45,
+    "news_score": 0.44,
     "news_title": "Hurricanes leave Finland with sweep of Kraken - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2hsUlBpZFYxeUxTU2VRX3ZJa0Rhc3J6ZERIcnRhdmg4S3lzVk9aNjM1U2ZoSDMxbU92N3E5ODk0RHVQbVBzNkZiZGVNQkJUdmtGdnZBUUlEcl9rTEdBakFjdmJUbV84TG15WmR3c1VWVVJSNE0zZzFYWThXcTh5YzJhWW83WmZ4eGtrWG5HYw?oc=5",
     "news_image": "",
@@ -13034,15 +13033,19 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.57,
+    "news_score": 1.07,
     "news_title": "Australia crush New Zealand 34-10 to win Women's Rugby League World Cup - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSTdvWUNPZlNUZTlaWl9VNFJ2Smc5VlJUdTV2YlJGUWxQN241eXRjeC1jX1BtZzNQcF9nTGJMZzI2SkdySFplbWlsSlhlREtKYTRZNE9EQTZaTmtsQ0d2ZWhlbUpMdXUxOGtoWnlHcTRjYWVUYXZTbHg0VUd4eUM4QmY5eEhsZTJDUzlxOGNqUDdHV2p4QlZfR2wyYXNDMEJWMmxYTkJnTnJtcEl5dWRzMFNoc2t2LTRvMlE?oc=5",
     "news_image": "",
     "news_source": "France 24",
-    "news_age": "38m ago",
+    "news_age": "40m ago",
     "news_columns": [
-      "rugby_ranking",
-      "rugby_w"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket",
+      "rugby",
+      "gender"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13564,7 +13567,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.16,
+    "news_score": 0.12,
     "news_title": "Georgia/Missouri Live Thread - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUNtYzlMSDVZNWtpcTVwOS1QMGtkb2t6Mkt0dUItTkxWRGVtcTBQLWl5cjdSNTQwdmJRZVlGT2hTakIyODBmLU13V3lhdldob0dibDFUZU04U0xrSndmb295cHI3Z0hCZE1RcFBJNnkxRGZoNU9XeVFwb01lVUlEQVdPOA?oc=5",
     "news_image": "",
@@ -15883,8 +15886,7 @@
     "news_source": "South China Morning Post",
     "news_age": "5h ago",
     "news_columns": [
-      "diplomacy",
-      "trade"
+      "geopolitics"
     ],
     "bottom50_wealth": null,
     "election_date": "2027-03-28",
@@ -17389,12 +17391,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.67,
+    "news_score": 0.66,
     "news_title": "Saudi-led coalition intercepts suspected Houthi missiles and drones - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGo3OGMxN1ZNYy1FT1NCeF9OVHEyVjJjTlpJVzJHV2Ezamt3MFJkMDc0aUJlLUp3alBQZ200M2VRNWp3NXNkSllocERrOGxWUVBZNEp5VHkxVHJqcFVGeExLUWk5c2QxbHJsWVZIQnp1RFhULXktVHJQb3Nja3dWcFpkTWNZM1JhUGd3MUdSREpCYlJTSGw3TUl5UFFoR0tqWWxyTTdSZk96Z9IBrwFBVV95cUxOYlBrSExJX0JtT1R4MTlVUzVLVFFlZUllUFZmR29fNnNidkEwaFF3SEpkRDdKTDhsWUlTYURSdHBRd1E2V0pKZGRfbWpLS2hiZlEzUTc0SW1wT0JxMzRaMDlicVVQcXVJeGtRcGl1Y2hodkZ6cC15R095ckpuUU81RUJTd3FwSG5qNTRyN1piRlJPWF9rcjVKTnJwNldseVYyQ0VMYjdDcnZPRXljclo0?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "95m ago",
+    "news_age": "97m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -19254,7 +19256,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.26,
+    "news_score": 0.25,
     "news_title": "The COP31 talks showcase a disastrous post-American world - The Japan Times",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc2JycGh1aEtvSGwtRjVzSlZWSERHWEJjUFk3czkyTGdMOUh0NVVFdEpSYkViMVptQXJpX2lCWjh2TWYzaTZlbks0a0I0c2oxREdHbUVVN01KeUcySnB6RGhxeFc2OGZ0WWhEUTQxV0tXN2VpNjVSV2x3M3NVd0NOZi1zc3NlbDA0Z0o1cmc0RUJ5RVJvX1FTbUNn?oc=5",
     "news_image": "",
@@ -26342,15 +26344,14 @@
     "refugees_rank": null,
     "union_rate": 59.8,
     "union_rate_rank": null,
-    "news_score": 0.82,
+    "news_score": 0.85,
     "news_title": "World’s top court to rule if Myanmar committed genocide against Rohingya - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDBRRS1KbTJxMzRiTlFFQnFlNW1uVk9jVWp0b2wtZ1VGNlJLTlFwaFo0SjFkbEM0djZyQW91M3lsN1lYTk00Qkw2VTJraGxZQWlHclF2YjhiVWJLUHlrMjFjdVB2M3M2SW9WMERERXR6NktITmNUNVpWdUZzVmlHWQ?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "113m ago",
+    "news_age": "115m ago",
     "news_columns": [
-      "icj",
-      "human_rights"
+      "geopolitics"
     ],
     "bottom50_wealth": null
   },
@@ -27804,10 +27805,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOXzgwdkVtNkRfU091UlRMOFJlVERuMjZwaUR3TEVjVldqekhXanVmZEc5THl4LVYwZFVJY2cwNV80VzJCaTIyUTBTeENVay1MclRmbXdDZTNYWmZpN053Y01ENFVHdnRuWnBjN2wxalJQZ1VwZVJpTkE1VXJJMmlGUEdYaWxtWnN3RjVLTFV5MzFEUXI5Mzd3MlFBN1o4TDlhZnlLUGJSWldoNVZYWmU4TmVPckd0RGN4ZU1ER0kwS25oTGl1cGRBT2Vra2dnVGFncmdUbA?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "31m ago",
+    "news_age": "33m ago",
     "news_columns": [
-      "rugby_ranking",
-      "rugby_w"
+      "rugby_league",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -28449,12 +28450,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.83,
+    "news_score": 0.82,
     "news_title": "Nigeria Stock Market Faces Liquidity Constraints Despite N160 Trillion Valuation - Head Topics",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkNULXpEMHd5QjhOSklodnl4SUFBQUNxWl8zd0tGWHotSEFRR09CYkFfMTRHZW9fMGdhLTN1eHVIY2lZdk9tcVhfQ1hBRDJILWhWUmVSbm9Qb2l2Y1ExazFVZTlINjBMNGZWeDRzeGp2bEJqLXF6amwxMGUwX1RYOTNramxMR2VmT2FNRFVNYkpLRmtPVTlXdFpDMlc?oc=5",
     "news_image": "",
     "news_source": "Head Topics",
-    "news_age": "95m ago",
+    "news_age": "97m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -29485,7 +29486,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.0,
     "news_title": "🔥 In-demand Antonio Nusa continues post-World Cup form for Norway - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWhaUTByaEdhYmc3blJZV2RkaHl4OXBNZDVaWlBrLXZDb2dGZEs2anQzdF9CXzZDdzJBWmNQSG5vUVZTbEdudkFWakhQTEt5dGZoVnJuQmtXQWhOT3RoVGtIYmotWWdZd0x4aTZCSzJLN1UtY3hJempKcXI3SnItLThNTWlJR1JzamxB?oc=5",
     "news_image": "",
@@ -36709,12 +36710,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.89,
+    "news_score": 0.91,
     "news_title": "Spain v England: How Unai Simon became world's best goalkeeper - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BeGRNUjZZOEpMdUdOOVE5TlRrZ0VNNmRXTUJicllVYUx0cHJFbWJkVlFkckZtNy1FVlNQZGxsM1huWEZrWVlhT003U3NPMndoMURoVnAyczRWdHBvdFVwaXF2bEJvcnlD?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "24m ago",
+    "news_age": "26m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -42530,10 +42531,8 @@
     "news_columns": [
       "ncaa_football",
       "cfp_ranking",
-      "diplomacy",
-      "trade",
-      "tech",
-      "markets"
+      "space_tech",
+      "geopolitics"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43449,7 +43448,7 @@
     "union_rate": 56.6,
     "union_rate_rank": null,
     "fifa_w_rank": 40,
-    "news_score": 0.33,
+    "news_score": 0.32,
     "news_title": "World Championship Final: Australia vs Venezuela - ballysports.com",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk5lTXJvTVR4b2Z4dGhCanloU2d4YXY3QVNJUkNUTDJxNmZTLUp5bklnQnI4d0hGV2MzNUl6VVhxTk9ZOGRxRjhqeDRQYUlsSTJ4SjlRVnl5UnlFOTBNYkMtaFRQNGZOQmNCbWgwX0FPTFpHazdhTkNBSmUtNHdnMHRkdlJfVUNFejFUTV91a1R0VC1PYl9hS2hMbE9UTXZtTjNKazlKQWM1a2oxVlE?oc=5",
     "news_image": "",
