@@ -2556,16 +2556,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 2.69,
+    "news_score": 2.7,
     "news_title": "Australia and New Zealand meet in Men's Rugby League World Cup final - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EVnZZdk9Qb1B6Nlh3QXl0UXlKV0dQQ213Rk5NTllQWlcyNEQyWmxJRGxxUTIwZEdPWWllXzBKNUNaRW52Q0tENWdpczJ6QkpaOGhMUGdsSUhyRUdDSFFBTUhQOHNKR1dp?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "15m ago",
+    "news_age": "17m ago",
     "news_columns": [
       "rugby_league_w",
-      "rugby_league",
-      "rugby_league_m"
+      "rugby_league"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3056,7 +3055,7 @@
     "union_rate": 72.9,
     "union_rate_rank": null,
     "fifa_w_rank": 80,
-    "news_score": 0.31,
+    "news_score": 0.39,
     "news_title": "Saudi-led coalition intercepts suspected Houthi missiles and drones - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGo3OGMxN1ZNYy1FT1NCeF9OVHEyVjJjTlpJVzJHV2Ezamt3MFJkMDc0aUJlLUp3alBQZ200M2VRNWp3NXNkSllocERrOGxWUVBZNEp5VHkxVHJqcFVGeExLUWk5c2QxbHJsWVZIQnp1RFhULXktVHJQb3Nja3dWcFpkTWNZM1JhUGd3MUdSREpCYlJTSGw3TUl5UFFoR0tqWWxyTTdSZk96Z9IBrwFBVV95cUxOYlBrSExJX0JtT1R4MTlVUzVLVFFlZUllUFZmR29fNnNidkEwaFF3SEpkRDdKTDhsWUlTYURSdHBRd1E2V0pKZGRfbWpLS2hiZlEzUTc0SW1wT0JxMzRaMDlicVVQcXVJeGtRcGl1Y2hodkZ6cC15R095ckpuUU81RUJTd3FwSG5qNTRyN1piRlJPWF9rcjVKTnJwNldseVYyQ0VMYjdDcnZPRXljclo0?oc=5",
     "news_image": "",
@@ -8018,15 +8017,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.52,
+    "news_score": 0.5,
     "news_title": "The world according to China - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjFJU0l0RDAwQ2FiRlJ5TWI4UnFSYzJPT2tTXzhydHU5ZEt1LVRseXY2aHByQ2FSdmpVWC00ZlpSc0IwX05rYkhpQkZrejd5dlREeDVHaHV6eXdaUllhSktGa3Q2YUk3aFBxQWR3R29zakdzVy1oZjlpSF9PZWo0d0h2aFc?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
     "news_age": "5h ago",
     "news_columns": [
-      "tech",
-      "ai"
+      "tech_index",
+      "market_cap"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -9083,7 +9082,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbkNIM2wydklvaTRLVTF5Qnpwd0xWcDA0eHBQTGFqd2hrR3ZYWFpfSDhicWlXeXNYZ1ZHZ1F2WFVtRDNBMzZkTkwydkl3ZmR2Ry1DcFY5RUZOaXR2UXJkUGlxMkZsUHZkcDU5NUFlSUpRdWpKRXZFNHBvQldUT29CeWtyMzFMV2tZRnhkS2VFZ1M3MXdTOHoyY2hZQ3NMSmFlNEpxT3c2djc?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "11h ago",
+    "news_age": "12h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -13040,7 +13039,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSTdvWUNPZlNUZTlaWl9VNFJ2Smc5VlJUdTV2YlJGUWxQN241eXRjeC1jX1BtZzNQcF9nTGJMZzI2SkdySFplbWlsSlhlREtKYTRZNE9EQTZaTmtsQ0d2ZWhlbUpMdXUxOGtoWnlHcTRjYWVUYXZTbHg0VUd4eUM4QmY5eEhsZTJDUzlxOGNqUDdHV2p4QlZfR2wyYXNDMEJWMmxYTkJnTnJtcEl5dWRzMFNoc2t2LTRvMlE?oc=5",
     "news_image": "",
     "news_source": "France 24",
-    "news_age": "70m ago",
+    "news_age": "72m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -16822,7 +16821,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.09,
+    "news_score": 0.06,
     "news_title": "Science, spirituality go hand-in-hand in India, says PM Modi while opening India's first LED Dome planetarium - Mathrubhumi English",
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXhWTzI0WjFvTzAwRkZVRVdvYXdYYWJSbDJ4bG5XT05rVGJ5OVprVjJFc29mVFhILXN2YmZqVktLS0k5MU15Zm9vSzJzYVBxYmh6c0dELUs4UVdPWmJXb2U2VnA1NkhxZUJ5Wk5adXZCMnBJRE1aMkdrQUhzbmNTNGkyb3VpUnlQUGxTdkNwR2dSNi13UDF4Qm9HRl9ISlVWWjI0S1pZcVZnckxxbmV6NS1YdjU2WnB5eEVr0gHAAUFVX3lxTE5MSExiZnhDRnpZc2dEbnhXT3NoTnFRZHltak56NUc5OV9aeHhhSDVpRlBuN1NrNE0wMFRMN21TczU2OEoxVFVOX2V6aTJIcXRkc3VXd1kwMWRSMXRial9mMl9lMEk2MXNWWUoxYWF5QmUyNU9xdVpVWFVnd3hvSmtjVlZiUGE0TVRVSDZTZzVYNGR6MzE3SlJELXRnUUFPZXRoNVByXzEtbEZNOWVFajN6TFU0VkpsQldLUURVRXpWcA?oc=5",
     "news_image": "",
@@ -17396,7 +17395,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.25,
+    "news_score": 0.18,
     "news_title": "Iran’s New Cyber Playbook: Create Real-World Havoc - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWHhDQVhxRWctTTRqSVdYVHZkYXlsb2hZTmlfSFNVRFZVOHJlSU1lWW1PUHhyN1hUMGhHUmtNQUlJOGJwRm8wSDNIOGhValpYbVFOVWplZ1BfckdNbnlNWUhOcHp4SFVnOUNJVlB6dlVkRG9McFBmd0xta0w0a2FpaUF6NlZLWXZRR0lxSnVoZmV4dEFCN1JJcUZkTQ?oc=5",
     "news_image": "",
@@ -26349,7 +26348,7 @@
     "refugees_rank": null,
     "union_rate": 59.8,
     "union_rate_rank": null,
-    "news_score": 0.72,
+    "news_score": 0.7,
     "news_title": "World’s top court to rule if Myanmar committed genocide against Rohingya - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDBRRS1KbTJxMzRiTlFFQnFlNW1uVk9jVWp0b2wtZ1VGNlJLTlFwaFo0SjFkbEM0djZyQW91M3lsN1lYTk00Qkw2VTJraGxZQWlHclF2YjhiVWJLUHlrMjFjdVB2M3M2SW9WMERERXR6NktITmNUNVpWdUZzVmlHWQ?oc=5",
     "news_image": "",
@@ -27806,16 +27805,15 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 1.33,
+    "news_score": 1.49,
     "news_title": "Australia and New Zealand meet in Men's Rugby League World Cup final - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EVnZZdk9Qb1B6Nlh3QXl0UXlKV0dQQ213Rk5NTllQWlcyNEQyWmxJRGxxUTIwZEdPWWllXzBKNUNaRW52Q0tENWdpczJ6QkpaOGhMUGdsSUhyRUdDSFFBTUhQOHNKR1dp?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "15m ago",
+    "news_age": "17m ago",
     "news_columns": [
       "rugby_league_w",
-      "rugby_league",
-      "rugby_league_m"
+      "rugby_league"
     ],
     "bottom50_wealth": null
   },
@@ -27997,7 +27995,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbkNIM2wydklvaTRLVTF5Qnpwd0xWcDA0eHBQTGFqd2hrR3ZYWFpfSDhicWlXeXNYZ1ZHZ1F2WFVtRDNBMzZkTkwydkl3ZmR2Ry1DcFY5RUZOaXR2UXJkUGlxMkZsUHZkcDU5NUFlSUpRdWpKRXZFNHBvQldUT29CeWtyMzFMV2tZRnhkS2VFZ1M3MXdTOHoyY2hZQ3NMSmFlNEpxT3c2djc?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "11h ago",
+    "news_age": "12h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -28457,7 +28455,7 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.72,
+    "news_score": 0.71,
     "news_title": "Nigeria Stock Market Faces Liquidity Constraints Despite N160 Trillion Valuation - Head Topics",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkNULXpEMHd5QjhOSklodnl4SUFBQUNxWl8zd0tGWHotSEFRR09CYkFfMTRHZW9fMGdhLTN1eHVIY2lZdk9tcVhfQ1hBRDJILWhWUmVSbm9Qb2l2Y1ExazFVZTlINjBMNGZWeDRzeGp2bEJqLXF6amwxMGUwX1RYOTNramxMR2VmT2FNRFVNYkpLRmtPVTlXdFpDMlc?oc=5",
     "news_image": "",
@@ -30503,7 +30501,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVFYSjFkTEVkSjgyUzZqUnM2TVZ3RjA2eUd6RV9Lc2REb01WZUNtWFhyOW1Sb3gta2RUVU1ZR1dzQ21RU2hUdVl0dnAyNmdCdjlESzdhcmVZa2drRnBJeFJyeE1NYkdRcDBuVm5VOEloRE81ZmlHNHJhOUVackYwMTNVY05UdVRuMGRxczk2QkNYOWJvd1M3S1VfS0dDekduLUNHeFI3dlo?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "15h ago",
+    "news_age": "16h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -31097,7 +31095,7 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.21,
+    "news_score": 0.2,
     "news_title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nSVEtNVRFaG5hcno2YnlYR1lwRDJhSXV2OGJNVGY3cU1aVzNPaHNjdUIxcHp5RXJ2RWVGQV9DRmR1cUx6ZkptMi1KSWlVeXhwWkp5S2xLZ2tCYzQ?oc=5",
     "news_image": "",
@@ -35654,7 +35652,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVFYSjFkTEVkSjgyUzZqUnM2TVZ3RjA2eUd6RV9Lc2REb01WZUNtWFhyOW1Sb3gta2RUVU1ZR1dzQ21RU2hUdVl0dnAyNmdCdjlESzdhcmVZa2drRnBJeFJyeE1NYkdRcDBuVm5VOEloRE81ZmlHNHJhOUVackYwMTNVY05UdVRuMGRxczk2QkNYOWJvd1M3S1VfS0dDekduLUNHeFI3dlo?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "15h ago",
+    "news_age": "16h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -36717,12 +36715,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.84,
+    "news_score": 0.83,
     "news_title": "Spain v England: How Unai Simon became world's best goalkeeper - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BeGRNUjZZOEpMdUdOOVE5TlRrZ0VNNmRXTUJicllVYUx0cHJFbWJkVlFkckZtNy1FVlNQZGxsM1huWEZrWVlhT003U3NPMndoMURoVnAyczRWdHBvdFVwaXF2bEJvcnlD?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "56m ago",
+    "news_age": "58m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -36910,7 +36908,7 @@
     "refugees_rank": null,
     "union_rate": 53.8,
     "union_rate_rank": null,
-    "news_score": 0.08,
+    "news_score": 0.13,
     "news_title": "Sri Lanka reality contrasts with new World Bank upper-middle-income status - Nikkei Asia",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQzE2bUJEVl9hZi00UTlkc05mZF92cHZvZ3ZqRXAxOEVWMXZ3NERETndFSDJCa0xUZ3JNbFFOMDg3bDdEWGZ6c3VsSjBkZEg0Zk54dXFUa0dhT2Fzbk93Wm9aZkpoaGhvdXBKcmJVUHFQRjgwX1hyRUN0aF9SdkpsU01ickU3cm1SVWNlRE9aWmtRaE05RGUySVpzc0xBQkpWSEkycFhNNmk3dw?oc=5",
     "news_image": "",
@@ -41256,19 +41254,15 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.15,
+    "news_score": 0.2,
     "news_title": "World in brief: America resumes flights after ground stop; Ukraine warns against Donbas concession - The Economist",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdXc3T0dQSkhDQ3Fua3VvTzJJanhqQUtTRU85LThtUEFEWFJzTzZyNndMZ2R2ZDV3Z1k1RjFUZ19qd0pUa3Z4OUg2MzBSSW9rOGZxUlVhMG9nWnlrSlRSdE5SUzFvZ0pxcldFckRjYnRqMGgzT2dXWmg4c0thQXdQUzY2LVkwUE5taHZtZ2M2dk03UlZ1OTZj?oc=5",
     "news_image": "",
     "news_source": "The Economist",
     "news_age": "8h ago",
     "news_columns": [
-      "basket",
-      "olympic",
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi"
+      "atp_ranking",
+      "wta_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -42538,8 +42532,8 @@
     "news_columns": [
       "cfb_ranking",
       "cfb",
-      "tech",
-      "ai"
+      "tech_index",
+      "market_cap"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43455,7 +43449,7 @@
     "union_rate": 56.6,
     "union_rate_rank": null,
     "fifa_w_rank": 40,
-    "news_score": 0.28,
+    "news_score": 0.27,
     "news_title": "World Championship Final: Australia vs Venezuela - ballysports.com",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk5lTXJvTVR4b2Z4dGhCanloU2d4YXY3QVNJUkNUTDJxNmZTLUp5bklnQnI4d0hGV2MzNUl6VVhxTk9ZOGRxRjhqeDRQYUlsSTJ4SjlRVnl5UnlFOTBNYkMtaFRQNGZOQmNCbWgwX0FPTFpHazdhTkNBSmUtNHdnMHRkdlJfVUNFejFUTV91a1R0VC1PYl9hS2hMbE9UTXZtTjNKazlKQWM1a2oxVlE?oc=5",
     "news_image": "",
