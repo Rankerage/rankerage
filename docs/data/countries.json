@@ -15465,12 +15465,12 @@
     "refugees_rank": null,
     "union_rate": 65.3,
     "union_rate_rank": null,
-    "news_score": 0.22,
+    "news_score": 0.37,
     "news_title": "USA Routs Haiti After Pochettino's Move To Man United Became Official: 5 Takeaways - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYXgyYW5IaXlfYURDOE90SG4tX0xjbkdFWHIwa3p3LUVCMGZpNk5Tem1Rajl2NlhEZnhOQjJWTXZjUTFyWVpnLWdUMmR5c295NmUySmF5d0xid25TbV9KQ01pNDFoaWI2a0E3eEF1aC1LckVidGliclgyR1Zfd2N6NG9PWWczckNwbnZUeHFqS01wWVNVSzRURE9YSmxEd9IBngFBVV95cUxPRHJSdW5yRHJGOGN3cHJ0Z1Mxajk1MXJWV1VTd3dKME9jc2s5cGRIbTlpQVZEU3JZRk1Yb0RmdFZJcDlmaU5IelB2OEw3U2RHOXAxemR0cnotWDVNMHJZVnFPZF9VZm50c29CNU5raEZUazQ0NmRVbXFlVmdjWGdHQjFVS2dkVzYwU2FpeHlFVW1feEU5TnpmRmxtXzkzQQ?oc=5",
     "news_image": "",
     "news_source": "FOX Sports",
-    "news_age": "74m ago",
+    "news_age": "76m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -16839,8 +16839,9 @@
     "news_source": "The Times of India",
     "news_age": "26h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "ncaa_football",
+      "cfp_ranking",
+      "big_ten"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17404,14 +17405,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.16,
+    "news_score": 1.19,
     "news_title": "Netanyahu urges talks ‘without preconditions’ on unity government; Eisenkot rejects PM’s ‘spin’ - The Times of Israel",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalk5X0pscG9RYW5lUWJuTFdKTF9BaV9CMi15MGV1LS05YnZUaWFsVE9CLWNxMnpqZ1NHbG9VWk1vai1rV0xsU2xwVlVLZTdqOHR3NTN2cHhLRXVXTVk5U01FeGJhRGppQ2d0VWNXdm1vLWw3MHZuTXVGS0N0OEp1eE9zRXRobTJjblh4c205T0tCNmlvZGRYNEc0RXRSU1B3RUVsVWpiVFRwcmlvQThLVzNR0gG3AUFVX3lxTE9Bb29jYV9MdVpkV3JhUE42WnU4bi1wTmlCcjRmMUtsS3VvbFdWbGhaMTZwUjlzVHVCVnU1dzdEZkMxYkh4MUFNUXRxcUt6bjhvX04xMERMallQWVZ2R29ETm8zTmFyQVpZb2hhY1QzZG5ud3BlTGdWTG03U3FDek9FLXhlTVRVaUlrMUY1dDlaVDRMV253TnQzQmlwLVVuLWVZLVRWTGxTMmZ1MFZna3M1QmlITXNjaw?oc=5",
     "news_image": "",
     "news_source": "The Times of Israel",
-    "news_age": "114m ago",
+    "news_age": "116m ago",
     "news_columns": [
-      "fifa_ranking"
+      "geopolitics",
+      "energy"
     ],
     "bottom50_wealth": null
   },
@@ -18135,17 +18137,15 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.91,
+    "news_score": 1.21,
     "news_title": "Netanyahu urges talks ‘without preconditions’ on unity government; Eisenkot rejects PM’s ‘spin’ - The Times of Israel",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalk5X0pscG9RYW5lUWJuTFdKTF9BaV9CMi15MGV1LS05YnZUaWFsVE9CLWNxMnpqZ1NHbG9VWk1vai1rV0xsU2xwVlVLZTdqOHR3NTN2cHhLRXVXTVk5U01FeGJhRGppQ2d0VWNXdm1vLWw3MHZuTXVGS0N0OEp1eE9zRXRobTJjblh4c205T0tCNmlvZGRYNEc0RXRSU1B3RUVsVWpiVFRwcmlvQThLVzNR0gG3AUFVX3lxTE9Bb29jYV9MdVpkV3JhUE42WnU4bi1wTmlCcjRmMUtsS3VvbFdWbGhaMTZwUjlzVHVCVnU1dzdEZkMxYkh4MUFNUXRxcUt6bjhvX04xMERMallQWVZ2R29ETm8zTmFyQVpZb2hhY1QzZG5ud3BlTGdWTG03U3FDek9FLXhlTVRVaUlrMUY1dDlaVDRMV253TnQzQmlwLVVuLWVZLVRWTGxTMmZ1MFZna3M1QmlITXNjaw?oc=5",
     "news_image": "",
     "news_source": "The Times of Israel",
-    "news_age": "114m ago",
+    "news_age": "116m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "politics",
+      "elections"
     ],
     "bottom50_wealth": null
   },
@@ -19267,12 +19267,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.87,
+    "news_score": 0.86,
     "news_title": "Japan can be world's best, says outgoing coach Moriyasu - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWU9wYnAwQ01YZjA2dnM5Tk5oeHpTZm8tUW94aGN3RnQwOWpoNUFDYlpERDhRS1d5d0ZRS2pwQ1pBWmUwT0tKSVZrb3kyVlRhSXdUVEZCRXpSOTJ1a2NLNFlfWjBqeDd4d2h5bGllNUZMREM0OThpQ3QzZG4tVlRnTXZqQldDSDg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "37m ago",
+    "news_age": "39m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -28471,7 +28471,7 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.22,
+    "news_score": 0.18,
     "news_title": "Jonathan Urges Investment in Tech Start-ups to Boost Nigeria's Economy - Head Topics",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbkpNX2ZNX2k1SHAxRWd6RExHdE1qck5TSDRUOVhLeWo4N2tHb3ZWczNjLUJkZFNZc1g1UURVZzVVSXcyakZlRjJoNFJSNHc2ZXdCYVRESkU3VWZLa0VUdmNoci1rV1dNc0IxdEdWeXFEd1A5cE8xWEF4aHFZTGs2TUtWSXZEa0V3eXE5VFRIMVRFa3ZPb0RB?oc=5",
     "news_image": "",
@@ -31110,7 +31110,7 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.18,
+    "news_score": 0.17,
     "news_title": "Pope Leo urges end to violence in Peru during visit to remote Andes town - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaThSTWlHZG9mM2JLSHd4Vnl0bk1GLUtlYy1VNktsWFBVMnVwbEJ2c1Y0bUczZGV0bnpzOHJzMGFSNkdGb1FndmNiUU5IM2dtSGNTdUZ6NjcyVDdYLXlzcHNnOEdUTkpOeDl4ekR6aUo4TVhJLTExX3BOOFE3NHFscUliTXlubnB4Yk9GeVJoMlJnd2RQZTE0cGdsUWJhU0VpOEl4a3c2dEpBMlNfcjQxR1dlbXTSAboBQVVfeXFMUGhXVHNabjI3TS1NRnlvZlRadjNmRVJ3clFkQVlwYmUtdmNubGk2alVrZ2xaa3ZULWNFZUh1Ujd0UmVKNno0NzlWUG5zWEtVUS1OTWVMZ3MyNmM5a19ZOVljdHMyMVNUTHlySjgzQlFmRHZKTVNxaFNiSGVqSUM0d0VjNDRIQVRaX1lRX3IxcG5WYV9IN1h4WmZkOElBVEhjM0JsNE1pdkRfNkVWb1ljV25ILUFkZkxVdGxn?oc=5",
     "news_image": "",
@@ -36726,7 +36726,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.01,
+    "news_score": 1.0,
     "news_title": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRmxpdGVWWnFKalBDb3Z1ZG9rU2RhbVMydDV0WFRrak9KQldJYXNaNWNhUjBMNERyUkZfVU5HUl9IOEhrUm1QX0V0RERFZlctclg4SjZOX1pQR2N1dEVmdS1HdDJ4c2c5ZklDdmd6dEN4eURrSUN0cllhbEs3UERPbXNLODdXenF0cVczVUdVd0xnRU5qcDJ1R0MyMjE0Z21rRDVUZVpodmhOSXlaNEc5a05jbw?oc=5",
     "news_image": "",
@@ -42546,10 +42546,14 @@
     "news_source": "City of Toronto",
     "news_age": "15055h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "ncaa_football",
+      "cfp_ranking",
+      "big_ten",
+      "nfl",
+      "travel",
+      "logistics",
+      "space",
+      "technology"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
