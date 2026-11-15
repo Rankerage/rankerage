@@ -402,12 +402,12 @@
     "union_rate": 77.0,
     "union_rate_rank": null,
     "fifa_w_rank": 54,
-    "news_score": 0.84,
+    "news_score": 1.04,
     "news_title": "[[[Fox^Sports]] Watch Albania vs Belarus Nations League live free! 15 November 2026 - Universitat de Barcelona",
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNVzV2UXZwRWczTThtcVU3bFRwdFI4eGt0SDJmTENwOENHWXVZOGdCbFJ0a3FnZU9kUll6SFgzTndya2M5dDhyRFkwVUFSVF9Kc1RkYlBzZUw0R21zRVczNS03Vk5XaV82c1JZYnVMV2l0b3RidXRwY0VUWnpta3picjh1cTFJc0UtYWhnM3JTaWNUQUNKeUpleUYweVJqSGh3aUJxT1dxYy1CUEdyNWZDM09ZcnJxc2M3YmNlT2RYazV0RzIyWTdqbF9qTWRXTE1qTnUtVDdBdGpDc1RPYk9nZGstcW1aMmZfQWQyaDAxUGFQYnQ5VkV4OGxrYXFzQ3NtaVVkS3pPRVdMSE9iaVpkT2hpS0RYREhsc3c?oc=5",
     "news_image": "",
     "news_source": "Universitat de Barcelona",
-    "news_age": "14m ago",
+    "news_age": "16m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -2565,12 +2565,12 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 5.78,
+    "news_score": 5.74,
     "news_title": "'We got disrespected' - Walsh and Australia make World Cup point - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQVBDSUJvUEV0WFBvY0xnU3daT2xwYlFHUXhUcU9LZGJEblRRNlo4RkF6VkpJbGwxeHBnWk1nNzlkTm9veEM3T1k5d2hWclNzMkU5NUYwWEVYQktLQ19paGl4VW5lTjMxQXRaUTBySGVELWg4eEZFcW51N1V0dkR5T3NJT1lrRzVqTmxLQl9pYlc?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "22m ago",
+    "news_age": "24m ago",
     "news_columns": [
       "rugby_league",
       "world_cup"
@@ -8026,15 +8026,18 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.06,
+    "news_score": 1.14,
     "news_title": "Beijing faces Russia bind amid talk of Xi-Trump-Putin summit - DW.com",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVh6RE80dFdsSFVoNlp1X0tuNE9RRWhmWGNFMXpnWHdDTzJhX193UDhhN1VMcTJNWjB3ODllTUQyTFU2VXcyOHBMcEk5RFNzV1paNG45S0tDVTdvSFljSHZFY0RkTm04VHd2WmNGa0R4MGxNRWxmVUZEUEE3MWJ5OXBILWg3M3ZRUlkxOVpZMWd5UFkzUHgtMEo5WEFGLVhqX0HSAaIBQVVfeXFMTXhHYWZpekRHVmpWZ2FBRW5DSGpEbnZiVzFidnd0Z3drSVdqek1uS3cyUVk5SS1DNmVZR21sX2JvQkxkTEdhcEl4Q0NWZGs0Q1FMZWdXZ25neVIzMjhTMV9zUEpJVXR6cWF1bE5FM1RBOEgxN0NnYlczZ0QyZ3gtcTZHTnpyOWYxLUVDeTJLangxU2pWTzBEdEU3OHRiTElOM2l3?oc=5",
     "news_image": "",
     "news_source": "DW.com",
-    "news_age": "76m ago",
+    "news_age": "78m ago",
     "news_columns": [
       "diplomacy",
-      "geopolitics"
+      "geopolitics",
+      "tech",
+      "ai",
+      "ipo"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10958,7 +10961,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdV9ZS3RITlVmeHdrUXJweGN3dV82TkllVU9pUlZGamVjTE5kUU02YVV0MHUyUV9EMGVrVERabXdCa2hlQlN4bDRhVGJxQjdIWWlROVo3OWExeHhNdjFLQzdyalJscWc5THJJT3I0MFktTFVrRFZ1dEtha09QRVAyTWFxd05idkFWTEhHVXpDNmJRZm9XVGI2UlVxM1dpcUs2X3U0ZmdkUi1Zcms1OU9mdGR3cnhHQ2lMLS1tRzcydk42UVU?oc=5",
     "news_image": "",
     "news_source": "Ahram Online",
-    "news_age": "83m ago",
+    "news_age": "85m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -12542,7 +12545,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNazV6cDhOZFRYcERqNFpXNVpteXItNW1oYjZyUVI5bVR3cjhYMTAwWmh0bm81b1RlSWJHaHRKc0MxczB4eWJYUEdvMFVNMk55dFZQVXl1T1BVaUQyYmY2bjZEa3dxLUtzdERoSjlqTjFHX0FSbFdpaUxCT1ZjeWs3NnN0dVR2SUlpNy1DdXhjeU1jZDc0MzJOeC1odnhaZWozVFBvcmJ0T0l5MlhFMkJNUWhyNS1aMzlKTWlyN1ZpZmRaNnE2UGN5NzJLRXQ5Nkk0cHF5bHdaejk2cXQ5MEZqd0tRWFhZU1IwZnNHS255eEQxazRZZTlqQVVyRWdDZzVSTVliV0xzb2ZHaDBzdGJFUmVOa2ZrQWFBZkE?oc=5",
     "news_image": "",
     "news_source": "Universitat de Barcelona",
-    "news_age": "24m ago",
+    "news_age": "26m ago",
     "news_columns": [
       "basket",
       "olympic"
@@ -13569,12 +13572,12 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.77,
+    "news_score": 0.76,
     "news_title": "College football winners, losers: Georgia, Wake Forest on cruise control; Kentucky cratering - CBS Sports",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXpHOEF0WTZENFRoZnYtSE9NVkZBLVhXaTRjeThXTE5FTjc1T2Y2cnJ2WGhYS2dqbHktOTNvQ1I5dktTcmR5aGg5bWtvSDBUUGVVUE04TkRGZmxJQVE3c1FVbmk1elZ3RlpKZ2pTdllPRTU1ZjdRVW93WkoyaVEzZHpCQ2p3alJtMTlJRmI3TklRQ3FjczQwNkQ2bnB4WnZuOWNreDdZUDA1ZUppMmc?oc=5",
     "news_image": "",
     "news_source": "CBS Sports",
-    "news_age": "63m ago",
+    "news_age": "65m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -14071,7 +14074,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.21,
+    "news_score": 0.0,
     "news_title": "Patriots vs. Lions live updates, inactives, where to watch: Drake Maye, Jared Goff square off in Germany to kick off Sunday slate in Week 10 - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc3JxT28xNjZ3QXZ1RHg3N3haUmdTbmNna0VRZ19hcDlPOGZxZVUzSVBIem5ZNmo3ZlpVUDFLbERoanloNEY2S1V4Yk95UDlUU1ZWTlNRQmR1czd2VFRpN0h2UmFKREhvaDVFTm00NnBlTHlzN2NpQ3NlVUlkMkRUQlNxV3JpdGoxYm5vMHJkbW5PVUx5T0NBcm1BRm1hd2FsWWJtZzR4UzhmTXY4ejZxVEQ2OXg3NlV6ZUNmUWR6blJ3eXNVV281ZWlwdGtCZzkxdVBVWVR4Y1VOSHBQQzlPSw?oc=5",
     "news_image": "",
@@ -17128,7 +17131,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 103,
     "fifa_w_rank": 77,
-    "news_score": 0.41,
+    "news_score": 0.4,
     "news_title": "James Riady urges ‘confidence’ in Indonesia’s business potential - The Jakarta Post",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSUM1ZGl1clE1bHNxVDE5anU2YUxmdkNpVU1Ma2F3bGR3dW1tTmM3dVY3QVZvdWVjRXpyenBVUmQtVHBPMHhwUjU0b0dYcHk0cEpqUDlvZzZWSlhNME9UUzVBYmVQcXppMFlqZkxQeHNQYnU3SVp0Vm1FTWRrODJuZFlkYzRIRkptOTZHMExmUzFpOVB3d2hjU3docFlXaTd3QkJmbEtrUGY4bzF5S3Nxb2hR?oc=5",
     "news_image": "",
@@ -27813,12 +27816,12 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 5.46,
+    "news_score": 5.41,
     "news_title": "Rugby league-Clinical Australia dominate New Zealand to win World Cup for 13th time - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMi1Pb2dzMlp6MEI3MTlsQ2RzMzM2eVB2bTFoV0FqLW9CZF9RUTdPcnRkQ25Ndm9DdFNOcm0wQTVsSGpxSkQtNndUSkdjM25lUW10ZG5FcjAzYk51R2hER0NJQTMybDdseWpkd1I4cngyZHpwLWpHR1FJZlQxcnFoMWdaLXpEN1o5RTA3cnBtX1NkYWdkSEtiRlMydXpVcUp0WWgzRWVJZlYtOHZ2V2VVdklySnl3eEZMd2ZV?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "43m ago",
+    "news_age": "45m ago",
     "news_columns": [
       "rugby_league",
       "world_cup"
@@ -28463,15 +28466,19 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.19,
+    "news_score": 0.14,
     "news_title": "Nigeria Stock Market Faces Liquidity Constraints Despite N160 Trillion Valuation - Head Topics",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkNULXpEMHd5QjhOSklodnl4SUFBQUNxWl8zd0tGWHotSEFRR09CYkFfMTRHZW9fMGdhLTN1eHVIY2lZdk9tcVhfQ1hBRDJILWhWUmVSbm9Qb2l2Y1ExazFVZTlINjBMNGZWeDRzeGp2bEJqLXF6amwxMGUwX1RYOTNramxMR2VmT2FNRFVNYkpLRmtPVTlXdFpDMlc?oc=5",
     "news_image": "",
     "news_source": "Head Topics",
     "news_age": "7h ago",
     "news_columns": [
-      "economy",
-      "energy"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": null
   },
@@ -33130,7 +33137,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVh6RE80dFdsSFVoNlp1X0tuNE9RRWhmWGNFMXpnWHdDTzJhX193UDhhN1VMcTJNWjB3ODllTUQyTFU2VXcyOHBMcEk5RFNzV1paNG45S0tDVTdvSFljSHZFY0RkTm04VHd2WmNGa0R4MGxNRWxmVUZEUEE3MWJ5OXBILWg3M3ZRUlkxOVpZMWd5UFkzUHgtMEo5WEFGLVhqX0HSAaIBQVVfeXFMTXhHYWZpekRHVmpWZ2FBRW5DSGpEbnZiVzFidnd0Z3drSVdqek1uS3cyUVk5SS1DNmVZR21sX2JvQkxkTEdhcEl4Q0NWZGs0Q1FMZWdXZ25neVIzMjhTMV9zUEpJVXR6cWF1bE5FM1RBOEgxN0NnYlczZ0QyZ3gtcTZHTnpyOWYxLUVDeTJLangxU2pWTzBEdEU3OHRiTElOM2l3?oc=5",
     "news_image": "",
     "news_source": "DW.com",
-    "news_age": "76m ago",
+    "news_age": "78m ago",
     "news_columns": [
       "diplomacy",
       "geopolitics"
@@ -41248,7 +41255,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.28,
+    "news_score": 0.27,
     "news_title": "U.S. floated exchanging Ukrainian territory for NATO membership, Zelenskyy says - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04V3RucGdlaGp6dm03UnM5TmRsMTQyVTBSZ1JxOHc3ZGJDeFRMOUFMUWlFR21wR05kaXJqcENqZG5URXJrMVN4MnMxVUU4UDhYNW05X2FVbHdyVzVZa3pSZk1NZFFObk0tZThid1RSX2g?oc=5",
     "news_image": "",
@@ -42521,7 +42528,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.27,
+    "news_score": 0.26,
     "news_title": "United States thrash Haiti in Pochettino's penultimate match - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFA5UjMybHFXMXZlTkhIay1xeGY2ZVhTUTN4SDNQWjJtTVVkbllvYTFpN1JQcE1kLU5zcWVjaVVIam9Pc0JKOC1JUlFTdll3VmkxdWhPVy1sQlh1OWVqQ0dMZFlwRXRvbU5XR3R2MTR1cF8wMWJpZmI0Q2Y5amZlX3FHRXZqcVdDUExxQWhENmw?oc=5",
     "news_image": "",
@@ -42530,8 +42537,9 @@
     "news_columns": [
       "diplomacy",
       "geopolitics",
-      "nfl",
-      "american_football"
+      "tech",
+      "ai",
+      "ipo"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43737,7 +43745,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLU5KY3daSnlTM3NIdHg3TGZ4SGhfbnhBeFVaQXBrek9xS05rdkZaNDYxU3k1N0ZPRUJ0MlFaOFdWNDZJWVNwTzUxXzRiY0oxbmVpQUdDNWxjTGRJT2pSX0MtSmFNb2E2V0RKRHVHQlZnN0Q0WkM4WWpZYVkzQ2JyZ3AtdE9FSUo0Umk1ejV4N1V4cGQ4Yk9Pd2lON05vN1VnbnFUTlNwb25IZWhkbEdGOG5INEhLd3NzR0VORG9OXzQ5UnBJOG5MMg?oc=5",
     "news_image": "",
     "news_source": "VOV World",
-    "news_age": "19m ago",
+    "news_age": "21m ago",
     "news_columns": [
       "diplomacy",
       "economy"
