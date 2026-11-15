@@ -2565,15 +2565,16 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 5.93,
+    "news_score": 6.02,
     "news_title": "Australia overpower New Zealand to win fourth consecutive men’s Rugby League World Cup - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS21KQm9tY1Q4QkQ1NG5hSTVBUGVyZnZsN2NKNFhpVXZYSU55bHJYczhxdWlhWGV6LWlfeUQ5OUIyRVVUWWpQRmRKV2luTTJ3Zm9razZuSC14UEZqUlpQM2Q3MEJWT0xPQkZFaUlfajZqRzhrVDlYNmtGTzNJUXR2dUtxU1RlSllMU2xyYXlCSzB6enBwMG1SbWlpdVdtZnhNWmxoc0QyeHJnOHExeGVoYU5wQ3AxaVRuYU90QVJValJHamVNYUxETVdR?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "54m ago",
+    "news_age": "56m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "rugby_league",
+      "rugby",
+      "world_cup"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -8026,12 +8027,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.77,
+    "news_score": 0.74,
     "news_title": "Tears and Disbelief in Taiwan, Where Jensen Huang Is a Celebrity - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZdTZsZlJDQ2h2VjdwSjBOeG5XYzZWdmV2X0QzeEN6Y01kd0tXVlVKdzJkZVJkOGtwbmRKS1F0WHdYNXVSNG9mTlJRckhmZjh2RE1WMXQ4QlRuN1JjNHdSUWhEaXJEUHI0WmEyQ211eHNZV1FZUlFZ?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
       "democracy",
       "press",
@@ -10962,7 +10963,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1M3RVhWWnB4TU1KREpveWFSU1I2aXRGRGRJNUZ3WURHTGwxX1NseWZNeFB5Z1RZRm9OUkpnX0NKd3NaeUZPaS1LZjFwRkp1U3puanBOQWllWTAtY0tXbFg5YkNqNTJueF9nMHhhNkFzdlFZcjY4U205QUxlSk1wNTRGRUVsaFZPREpOOVpIYWhVVnBHbzNkOUVoVXlOSXFfUlJnNVprYUk5RDVETi1RN2FiX0xnRWNLQ0ZSWW1IdDdxNGs?oc=5",
     "news_image": "",
     "news_source": "Ahram Online",
-    "news_age": "12h ago",
+    "news_age": "13h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -15469,7 +15470,7 @@
     "refugees_rank": null,
     "union_rate": 65.3,
     "union_rate_rank": null,
-    "news_score": 0.23,
+    "news_score": 0.24,
     "news_title": "United States thrash Haiti in Pochettino's penultimate match - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFA5UjMybHFXMXZlTkhIay1xeGY2ZVhTUTN4SDNQWjJtTVVkbllvYTFpN1JQcE1kLU5zcWVjaVVIam9Pc0JKOC1JUlFTdll3VmkxdWhPVy1sQlh1OWVqQ0dMZFlwRXRvbU5XR3R2MTR1cF8wMWJpZmI0Q2Y5amZlX3FHRXZqcVdDUExxQWhENmw?oc=5",
     "news_image": "",
@@ -17138,12 +17139,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 103,
     "fifa_w_rank": 77,
-    "news_score": 0.64,
+    "news_score": 0.63,
     "news_title": "James Riady urges ‘confidence’ in Indonesia’s business potential - The Jakarta Post",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSUM1ZGl1clE1bHNxVDE5anU2YUxmdkNpVU1Ma2F3bGR3dW1tTmM3dVY3QVZvdWVjRXpyenBVUmQtVHBPMHhwUjU0b0dYcHk0cEpqUDlvZzZWSlhNME9UUzVBYmVQcXppMFlqZkxQeHNQYnU3SVp0Vm1FTWRrODJuZFlkYzRIRkptOTZHMExmUzFpOVB3d2hjU3docFlXaTd3QkJmbEtrUGY4bzF5S3Nxb2hR?oc=5",
     "news_image": "",
     "news_source": "The Jakarta Post",
-    "news_age": "105m ago",
+    "news_age": "107m ago",
     "news_columns": [
       "economy",
       "business"
@@ -17400,7 +17401,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.34,
+    "news_score": 0.35,
     "news_title": "Iran Targets Bahrain Again After Resuming Attacks on U.S. Ally - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc3lsWFRDVTFjbUZFVHdTWkVtWklneU0tUGk0bmdSQUh1dlg0NTg5MXFMREhEOURUTC0zeEJyUUtPTmh6TGNPem92V3pWeUlLUkVKelRuY0VhaWUzaHgySnMtaG4wZmRUUDBQVmx4T18wd2tkVW1wMUppTmFscWlKT0NiaERXYkpPcElwTnNjZFVWWTg?oc=5",
     "news_image": "",
@@ -19459,7 +19460,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.59,
+    "news_score": 0.58,
     "news_title": "VIDEO: McLain Ward tops the Longines FEI Jumping World Cup™ Toronto with Jordan Molga M - World of Showjumping",
     "news_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSm9MQkN0M3kyN1IyeFNHS3lYal9FVk1QN093a09SbEkwX3JQM3VqenpHcnBYcUstR0pnNVdTUlZrRDY3THVvakZFQ2xpMWJwTmhhdGNLMGJteEtDV3lTSlVwTjdxWGR0YkN6TjdmTzM1RG52Smo4SWlMeXBRQ3ZoNFN0ZjFLTk8wblJ2MTJVeTgwMDVzN1dsaEdSN2pEV3I1WUtKWmNsd1hUYkZ5TVp6aGx3dkRJd3pDZm0wcjFBN1RXQzA1OHZNdVl5S3N1V05DUnA1cTVac1VEQQ?oc=5",
     "news_image": "",
@@ -27826,15 +27827,16 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 5.99,
+    "news_score": 6.08,
     "news_title": "Australia overpower New Zealand to win fourth consecutive men’s Rugby League World Cup - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS21KQm9tY1Q4QkQ1NG5hSTVBUGVyZnZsN2NKNFhpVXZYSU55bHJYczhxdWlhWGV6LWlfeUQ5OUIyRVVUWWpQRmRKV2luTTJ3Zm9razZuSC14UEZqUlpQM2Q3MEJWT0xPQkZFaUlfajZqRzhrVDlYNmtGTzNJUXR2dUtxU1RlSllMU2xyYXlCSzB6enBwMG1SbWlpdVdtZnhNWmxoc0QyeHJnOHExeGVoYU5wQ3AxaVRuYU90QVJValJHamVNYUxETVdR?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "54m ago",
+    "news_age": "56m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "rugby_league",
+      "rugby",
+      "world_cup"
     ],
     "bottom50_wealth": null
   },
@@ -33143,14 +33145,14 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.3,
+    "news_score": 0.52,
     "news_title": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia? - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFZxYzB6N3djaUJMOWI1QW1oaTFhLVc1bDZXNVlEMERPNlR5Z2FSMl9rdnJJSkNnVVhQclUteWJYWE1rM1F4amRadVRJQk1YZHNHU2UxcmtFYTRqNWk4eXhLTjhNWlBPbE1uNU1zMzFWMWJaZGpDUFgzSml5V29ZeVgwQUFuNzZMaXpWQVV2YUxaQ0wwckNfLWR4a3pYV3ROSjVHcVhCTnlEQlItWFBuctIBtgFBVV95cUxOV2YtTEY4U180dER0UjRwQUFDdUhDWVRLTnpMVzhJVkdJUTlhbXc0UEVvaHN1cnV3bWJud2FDZldDZ2h2WEtlVG9uWWlfZEI2OF82M05oMlRzUUxRaUg5cGgxM19acGEyeVpkMnNrcDZxaS1NTFQzdXNoZUJyVk9iUnFfTHQyeHZ6Nmc5cWtPcGM0LWpqVDcwUG9RNEExV0h5cEJwNXNVMzVZQ0hkM245SUdjM0F2QQ?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "50m ago",
+    "news_age": "52m ago",
     "news_columns": [
-      "fifa_ranking"
+      "geopolitics"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -36733,12 +36735,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.22,
+    "news_score": 1.21,
     "news_title": "PREVIEW: England face World Champions Spain in Madrid - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMkhzVmFMLUtfVjZxU3ZGM1lBYTdZSkJBUS03X3c4TWtVdE4wZzAwa05jTFgxLTBtQlJwMjhCcHlNR21qUXpaMTFNNWRpOXNKWTZ2b01teDFGWjFUTWItbFpVRG9zczVLeC1fUC1SNG03VmU3NFczd2JnLXl6dW5zcW5CcXg3a3AtMUw4bHdB?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "46m ago",
+    "news_age": "48m ago",
     "news_columns": [
       "fifa_w",
       "fifa_ranking"
@@ -38436,12 +38438,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.61,
     "news_title": "Tears and Disbelief in Taiwan, Where Jensen Huang Is a Celebrity - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZdTZsZlJDQ2h2VjdwSjBOeG5XYzZWdmV2X0QzeEN6Y01kd0tXVlVKdzJkZVJkOGtwbmRKS1F0WHdYNXVSNG9mTlJRckhmZjh2RE1WMXQ4QlRuN1JjNHdSUWhEaXJEUHI0WmEyQ211eHNZV1FZUlFZ?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
       "democracy",
       "press",
@@ -41269,14 +41271,14 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.69,
+    "news_score": 0.79,
     "news_title": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia? - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFZxYzB6N3djaUJMOWI1QW1oaTFhLVc1bDZXNVlEMERPNlR5Z2FSMl9rdnJJSkNnVVhQclUteWJYWE1rM1F4amRadVRJQk1YZHNHU2UxcmtFYTRqNWk4eXhLTjhNWlBPbE1uNU1zMzFWMWJaZGpDUFgzSml5V29ZeVgwQUFuNzZMaXpWQVV2YUxaQ0wwckNfLWR4a3pYV3ROSjVHcVhCTnlEQlItWFBuctIBtgFBVV95cUxOV2YtTEY4U180dER0UjRwQUFDdUhDWVRLTnpMVzhJVkdJUTlhbXc0UEVvaHN1cnV3bWJud2FDZldDZ2h2WEtlVG9uWWlfZEI2OF82M05oMlRzUUxRaUg5cGgxM19acGEyeVpkMnNrcDZxaS1NTFQzdXNoZUJyVk9iUnFfTHQyeHZ6Nmc5cWtPcGM0LWpqVDcwUG9RNEExV0h5cEJwNXNVMzVZQ0hkM245SUdjM0F2QQ?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "50m ago",
+    "news_age": "52m ago",
     "news_columns": [
-      "fifa_ranking"
+      "geopolitics"
     ],
     "bottom50_wealth": null
   },
@@ -42537,15 +42539,16 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.36,
+    "news_score": 0.38,
     "news_title": "United States thrash Haiti in Pochettino's penultimate match - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFA5UjMybHFXMXZlTkhIay1xeGY2ZVhTUTN4SDNQWjJtTVVkbllvYTFpN1JQcE1kLU5zcWVjaVVIam9Pc0JKOC1JUlFTdll3VmkxdWhPVy1sQlh1OWVqQ0dMZFlwRXRvbU5XR3R2MTR1cF8wMWJpZmI0Q2Y5amZlX3FHRXZqcVdDUExxQWhENmw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking",
-      "basket"
+      "nfl",
+      "american_football",
+      "geopolitics"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43746,7 +43749,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 1.01,
+    "news_score": 1.0,
     "news_title": "Institute of Construction Science and Technology: Contributing a scientific and technological foundation to the construction industry. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaWNMbUEzQWc5c2R0bmtlbnRWOGVnbzVEcXhZcUIwdE9hWlFyZFhkYmZQZVlCd2xsQjFlTkFZY0lsMlpfZ0VzSDFNT3N0SlllU3hfTUhqRTkxYUxnMFQ0eGNkaWRFZG5YX1RudENmRmp3T0hxbDFJVjJoaTNaQ1BkU2dtY2tSY3Z0eWJQcVFkdTFyQ083VC12bUlPTXpmNk5NS3Z3aGVhdDh4NXFDWldOSk9oV2g?oc=5",
     "news_image": "",
