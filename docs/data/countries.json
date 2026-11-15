@@ -958,13 +958,13 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 133,
     "fifa_w_rank": 115,
-    "news_score": 0.65,
+    "news_score": 0.64,
     "bottom50_wealth": null,
     "news_title": "Andorra goalkeeper Jesus Owono hit with 12-match ban after tragic collision leads to death of Tenerife striker Jesus de Miguel - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcTVad2xFOTJHMnVXOE5KaS13bUl3VzQxVk9pNlJqOGdzYjNRS2VsNFF2U3BZVWRhU24xT0w0cVkzNGRiLVp1dDlQWlM1U2w4NkszR3N0RVlpcXA4Tl9jbVp0clU0d2hmSlZjYXdwZTFGUm1DTnE1blQtY2RlaWwwc1IxdldkdWJKX1k0?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "101m ago",
+    "news_age": "103m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -2565,15 +2565,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 6.55,
+    "news_score": 6.52,
     "news_title": "Rugby league-Australia dominate New Zealand 32-12 to win World Cup for 13th time - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYlRJWHR2eWZTelVxRDZGTy1VX0xyZVZJQkNUcWdNMktzeER2STBTbTYtd2VGWU0xSWs0cGsxbDNjb1N3SW05MmpRb3hRVS1EN0hCSG1zeHNxbnc4TzNQd0kzbjAxTFlaUFFacEZiR2VpelFacC1XV0hPYlhTa3FMeXM1eDRnS3lCbzlibTVmSUpfbTBhcEtudjBCbEMyQUVwYnV0WWljUDRQcEJfSWJQVG5IekVZUQ?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "29m ago",
+    "news_age": "31m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "rugby_league",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3064,19 +3064,19 @@
     "union_rate": 72.9,
     "union_rate_rank": null,
     "fifa_w_rank": 80,
-    "news_score": 0.03,
-    "news_title": "KSA Business: Saudi economy to rebound in 2027 as oil output recovers, says Moody’s - Gulf Daily News (Bahrain)",
-    "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUnJUTkV4WUNaMDZHbGU1Uzc5cnZBc2xJZVJVS1I4OHZ4Nl93OVMyend4X3ZuNndpc0szeFFqWlpuX1BJUVRkTG1QeE9HNGRZTjYzenJFbTRzazB3bUFPelVyb1NaQVJONWRNc29xZVEwU3E5cEx3T0FCMkl1Nk80WkdES25aVW9SY1pzV1E2SUF5dDViMU9BUWdCSFY5YnJpdXBxeVgyNVA1bkZtNXJkSVVnUzFrSmpVdjdz?oc=5",
+    "news_score": 0.05,
+    "news_title": "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province - Reuters",
+    "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOemlqVE1TdmREQ0t3TjczWnBWVGZ3TkxTc0ZPVC1fZFlrUDJCZC1KV0liZGdUTHBXZEZpWG9SNkJJSlBYSjVPbE1aUnNtWHl2eE1FbzlURGRwckdIT3R2NG9rVm1oX1V0VEZoWmYxM1dSbmhNc1BidnFLX19YRVU3Q2tzR1F5Vk1QX3dDNXVCeXZ6bmVES0lZNTBlR3E0Z1hJcXFyYXpMam80TGRWbURod1NsUXBwZldjdHFVejFwaWtmVmo3ZWYzYW5QMzk?oc=5",
     "news_image": "",
-    "news_source": "Gulf Daily News (Bahrain)",
-    "news_age": "15h ago",
+    "news_source": "Reuters",
+    "news_age": "8h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "stock_market",
+      "reserves",
+      "gas_price",
+      "energy_per_capita"
     ],
     "bottom50_wealth": null
   },
@@ -17130,14 +17130,14 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 103,
     "fifa_w_rank": 77,
-    "news_score": 0.26,
+    "news_score": 0.45,
     "news_title": "James Riady urges ‘confidence’ in Indonesia’s business potential - The Jakarta Post",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSUM1ZGl1clE1bHNxVDE5anU2YUxmdkNpVU1Ma2F3bGR3dW1tTmM3dVY3QVZvdWVjRXpyenBVUmQtVHBPMHhwUjU0b0dYcHk0cEpqUDlvZzZWSlhNME9UUzVBYmVQcXppMFlqZkxQeHNQYnU3SVp0Vm1FTWRrODJuZFlkYzRIRkptOTZHMExmUzFpOVB3d2hjU3docFlXaTd3QkJmbEtrUGY4bzF5S3Nxb2hR?oc=5",
     "news_image": "",
     "news_source": "The Jakarta Post",
-    "news_age": "59m ago",
+    "news_age": "61m ago",
     "news_columns": [
-      "fifa_ranking"
+      "economy"
     ],
     "bottom50_wealth": 6.2,
     "bottom50_wealth_rank": 3
@@ -17391,19 +17391,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.04,
-    "news_title": "Yemen's Houthis say they fired missiles at Saudi forces in Jazan - Reuters",
-    "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM1hhZ2pySkp3SHdfNllHQ2VsLUFteHIxRlFGVVR3QXFIbXJZX01HQkZ5Ml96SjBMSkJkOHh6TjNIakZkR3k5ME1WY0RyYTNBQkxvaF9qYTVtNm5GVEFqckVEalRReVdXUFJKZVhlSXEzcnotRFMyVVBMZllhdmJxUFBwRjByVExHbGhnR3luTDVqTlRxOG5TTjFVbmdBRmM?oc=5",
+    "news_score": 0.05,
+    "news_title": "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province - Reuters",
+    "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOemlqVE1TdmREQ0t3TjczWnBWVGZ3TkxTc0ZPVC1fZFlrUDJCZC1KV0liZGdUTHBXZEZpWG9SNkJJSlBYSjVPbE1aUnNtWHl2eE1FbzlURGRwckdIT3R2NG9rVm1oX1V0VEZoWmYxM1dSbmhNc1BidnFLX19YRVU3Q2tzR1F5Vk1QX3dDNXVCeXZ6bmVES0lZNTBlR3E0Z1hJcXFyYXpMam80TGRWbURod1NsUXBwZldjdHFVejFwaWtmVmo3ZWYzYW5QMzk?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "38h ago",
+    "news_age": "8h ago",
     "news_columns": [
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
       "gas_price",
-      "energy_per_capita",
-      "co2",
-      "renew",
-      "exports",
-      "military_pct"
+      "energy_per_capita"
     ],
     "bottom50_wealth": null
   },
@@ -19455,7 +19455,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSm9MQkN0M3kyN1IyeFNHS3lYal9FVk1QN093a09SbEkwX3JQM3VqenpHcnBYcUstR0pnNVdTUlZrRDY3THVvakZFQ2xpMWJwTmhhdGNLMGJteEtDV3lTSlVwTjdxWGR0YkN6TjdmTzM1RG52Smo4SWlMeXBRQ3ZoNFN0ZjFLTk8wblJ2MTJVeTgwMDVzN1dsaEdSN2pEV3I1WUtKWmNsd1hUYkZ5TVp6aGx3dkRJd3pDZm0wcjFBN1RXQzA1OHZNdVl5S3N1V05DUnA1cTVac1VEQQ?oc=5",
     "news_image": "",
     "news_source": "World of Showjumping",
-    "news_age": "77m ago",
+    "news_age": "79m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -26357,7 +26357,7 @@
     "refugees_rank": null,
     "union_rate": 59.8,
     "union_rate_rank": null,
-    "news_score": 0.24,
+    "news_score": 0.23,
     "news_title": "World’s top court to rule if Myanmar committed genocide against Rohingya - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDBRRS1KbTJxMzRiTlFFQnFlNW1uVk9jVWp0b2wtZ1VGNlJLTlFwaFo0SjFkbEM0djZyQW91M3lsN1lYTk00Qkw2VTJraGxZQWlHclF2YjhiVWJLUHlrMjFjdVB2M3M2SW9WMERERXR6NktITmNUNVpWdUZzVmlHWQ?oc=5",
     "news_image": "",
@@ -27817,15 +27817,15 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 6.62,
+    "news_score": 6.6,
     "news_title": "Rugby league-Australia dominate New Zealand 32-12 to win World Cup for 13th time - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYlRJWHR2eWZTelVxRDZGTy1VX0xyZVZJQkNUcWdNMktzeER2STBTbTYtd2VGWU0xSWs0cGsxbDNjb1N3SW05MmpRb3hRVS1EN0hCSG1zeHNxbnc4TzNQd0kzbjAxTFlaUFFacEZiR2VpelFacC1XV0hPYlhTa3FMeXM1eDRnS3lCbzlibTVmSUpfbTBhcEtudjBCbEMyQUVwYnV0WWljUDRQcEJfSWJQVG5IekVZUQ?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "29m ago",
+    "news_age": "31m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "rugby_league",
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -28467,14 +28467,19 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.38,
+    "news_score": 0.33,
     "news_title": "Nigeria Stock Market Faces Liquidity Constraints Despite N160 Trillion Valuation - Head Topics",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkNULXpEMHd5QjhOSklodnl4SUFBQUNxWl8zd0tGWHotSEFRR09CYkFfMTRHZW9fMGdhLTN1eHVIY2lZdk9tcVhfQ1hBRDJILWhWUmVSbm9Qb2l2Y1ExazFVZTlINjBMNGZWeDRzeGp2bEJqLXF6amwxMGUwX1RYOTNramxMR2VmT2FNRFVNYkpLRmtPVTlXdFpDMlc?oc=5",
     "news_image": "",
     "news_source": "Head Topics",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": null
   },
@@ -31103,11 +31108,11 @@
     "union_rate": 77.0,
     "union_rate_rank": null,
     "news_score": 0.0,
-    "news_title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nSVEtNVRFaG5hcno2YnlYR1lwRDJhSXV2OGJNVGY3cU1aVzNPaHNjdUIxcHp5RXJ2RWVGQV9DRmR1cUx6ZkptMi1KSWlVeXhwWkp5S2xLZ2tCYzQ?oc=5",
+    "news_title": "Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’ - NBC News",
+    "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcmRuVUtqVTM1UWNwZFByUGI0M0VOdDN6NVhTV0ZPUWxGYVBybHJPTVAzZzJBYnNxUWwzREFWZDN5Q2FPSzZ3VmN0dE5ETTRYTUVDdkNQTFotTlIxTlBvRkN5VTVwQ21nQnNhMkhnQjRHdnFXa2xGano1NHUyTlJBTXFRaFpybFRLUmNGSm1IU2c0Nk81dElMcU5WMS1BQmpJSUR3?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "8h ago",
+    "news_source": "NBC News",
+    "news_age": "36h ago",
     "news_columns": [
       "tourism",
       "passport",
@@ -33129,7 +33134,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.03,
     "news_title": "Trump, Putin and Xi Jinping expected to meet in first-ever trilateral of its kind, officials say - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdHZwdDRwcjhOU2d0Z3Iwa3hzOENQN0VFMDZDbGtaSmU5LUtqYURrdUJuMkFBRWJsekdpaGIxWmxuX1h5dzRadUt1TnFOVXUtdWFfZVoxTjJtd0ZrdE9feGtFUUZzb3gwUGxTR19iZWVWcU4xUjM3eFRDU1NZQjAwMXh4M1RlaWxSU0E?oc=5",
     "news_image": "",
@@ -36729,7 +36734,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeGdKeGlaaWVQQ0NhTzdOWlNXenFJTWNMMWNETjZEWjBRODdEaEE0aDM5RnMxenlYSXJXU1BxSVRlS0xfQWlaRnE3LThNTzFmVnF2VGRaT3BjU0pvWTZ5SGI1LUdyV1ZCTFUwREt6TDEyTW5Yc2RINkZObGZMQ0tLTTk5cGpLM2hheGRJ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "102m ago",
+    "news_age": "104m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -38431,18 +38436,18 @@
     "union_rate": null,
     "union_rate_rank": null,
     "news_score": 0.01,
-    "news_title": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall. - The New York Times",
-    "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUm9IdVZ5VzluRUU1a05WdV83eWFQZVJOWXJCaVV4amVCWmk0VU9BYlJYc3NpejdJWUJPWm9sUVkwQTVnekQ4RHQyVGNyVWNHVVVrMkhBLVVaSmJnbXVZUmtMZEdpVW1yTEtjQjVPVTZJMWdVNGo3RzBuNURVN1JiZHpB?oc=5",
+    "news_title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang - Yahoo Finance",
+    "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNHZ3T21XRUxwQWdPcURMSUlDZFdycUdxWFJMdXo0anNPRS14VURoWFhHRkl4VHlZZ19QV2NsUEg4Z3RNUmlqWm40RUxwMDQ3MU1oZHUyaGcxc2tQRHM3VjdYS2NvT3Z1djFrV194SE1hT3lZV01PZmF0aUlkMlRmNklWcWlkelJWMHM3NGo4S1E?oc=5",
     "news_image": "",
-    "news_source": "The New York Times",
+    "news_source": "Yahoo Finance",
     "news_age": "13h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
       "ai_research",
-      "internet_pct"
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "coffee"
     ],
     "bottom50_wealth": null
   },
@@ -41263,19 +41268,19 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.36,
-    "news_title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Sc2FZdms0a2VhSnZ3bHhCakcwcnl4SWhTWi1HaDJUdmZXdzVKTmtocFp0aFRYQk9VYllVZ1Uzdkp5OV9Ic2l5NmtUUXU4WVBaNFpMdDVselhoS2c?oc=5",
+    "news_score": 0.41,
+    "news_title": "Ukraine refuses to concede Donbas as Zelensky warns US security plan could empower Putin - The Independent",
+    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQemkxX1h2SzZ1RzN3bFMzY1BrNUs4ZGJ1X2NZaV9iT1FlSDc4ODdaQnZJNHBqQUo4a1ZPWks2ZVhTMk5hX3lNU0hVRU1MQUM5cVd3ODhZbUtNOXd6NXpPM2ZZaDRVcWNzcE1GRm9pa2ZBZE9HVFFkNHZGbFpuWWR1X2xldE1UWlM0Vlk3QnBUaXBHR0VfMzlCa3Zka3BZSGtFaHhHVEFWYzZXVUxieVBjN0Y5Nlg?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "12h ago",
+    "news_source": "The Independent",
+    "news_age": "2h ago",
     "news_columns": [
       "basket",
       "olympic",
-      "nato",
       "military_pct",
-      "gdp",
-      "ai_research"
+      "nuclear",
+      "military_personnel",
+      "gpi"
     ],
     "bottom50_wealth": null
   },
@@ -42543,7 +42548,9 @@
     "news_source": "City of Toronto",
     "news_age": "15065h ago",
     "news_columns": [
-      "fifa_ranking"
+      "nfl",
+      "basket",
+      "tech"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43744,12 +43751,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 1.21,
+    "news_score": 1.2,
     "news_title": "Institute of Construction Science and Technology: Contributing a scientific and technological foundation to the construction industry. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaWNMbUEzQWc5c2R0bmtlbnRWOGVnbzVEcXhZcUIwdE9hWlFyZFhkYmZQZVlCd2xsQjFlTkFZY0lsMlpfZ0VzSDFNT3N0SlllU3hfTUhqRTkxYUxnMFQ0eGNkaWRFZG5YX1RudENmRmp3T0hxbDFJVjJoaTNaQ1BkU2dtY2tSY3Z0eWJQcVFkdTFyQ083VC12bUlPTXpmNk5NS3Z3aGVhdDh4NXFDWldOSk9oV2g?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "103m ago",
+    "news_age": "105m ago",
     "news_columns": [
       "fifa_ranking"
     ],
