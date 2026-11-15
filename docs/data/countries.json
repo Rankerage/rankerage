@@ -2561,10 +2561,11 @@
     "news_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdzU4YlZwem1zWllDTUdJeFJWVmYzajBpWmoyWnBvX1ZKZmNWLWJld291VU90SzVLMmI2cE9LNml0enhzdjlNUzF1anZOVHEwcWQxSVUybHdSWGp0YTExbUhGNWVhSnpZMG1abXpIRmJEekM4MlhaVGsxRDVOTUU1YWxZNW1SNzNvdnRXNGJicW4yTUthWDZqZTFqZjg4U3FuWkFVUEl0ZThGNkNXLUdJOGVoS3FYQjdQT2d5cXJFNS00ZC1Rd0x0di1xRkdRLXo4Y0xsa0dBRkFBVTB1aHc?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "15m ago",
+    "news_age": "17m ago",
     "news_columns": [
-      "rugby_ranking",
-      "rugby_w"
+      "rugby_league",
+      "rugby_union",
+      "fifa_w"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3055,19 +3056,19 @@
     "union_rate": 72.9,
     "union_rate_rank": null,
     "fifa_w_rank": 80,
-    "news_score": 0.1,
-    "news_title": "Iran's navy says three tankers on fire after hitting mines in Hormuz - Reuters",
-    "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
+    "news_score": 0.08,
+    "news_title": "KSA Business: Saudi economy to rebound in 2027 as oil output recovers, says Moody’s - Gulf Daily News (Bahrain)",
+    "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUnJUTkV4WUNaMDZHbGU1Uzc5cnZBc2xJZVJVS1I4OHZ4Nl93OVMyend4X3ZuNndpc0szeFFqWlpuX1BJUVRkTG1QeE9HNGRZTjYzenJFbTRzazB3bUFPelVyb1NaQVJONWRNc29xZVEwU3E5cEx3T0FCMkl1Nk80WkdES25aVW9SY1pzV1E2SUF5dDViMU9BUWdCSFY5YnJpdXBxeVgyNVA1bkZtNXJkSVVnUzFrSmpVdjdz?oc=5",
     "news_image": "",
-    "news_source": "Reuters",
-    "news_age": "6h ago",
+    "news_source": "Gulf Daily News (Bahrain)",
+    "news_age": "9h ago",
     "news_columns": [
-      "gas_price",
-      "energy_per_capita",
-      "co2",
-      "renew",
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
       "exports",
-      "military_pct"
+      "imports"
     ],
     "bottom50_wealth": null
   },
@@ -8017,15 +8018,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.1,
+    "news_score": 1.05,
     "news_title": "The world according to China - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjFJU0l0RDAwQ2FiRlJ5TWI4UnFSYzJPT2tTXzhydHU5ZEt1LVRseXY2aHByQ2FSdmpVWC00ZlpSc0IwX05rYkhpQkZrejd5dlREeDVHaHV6eXdaUllhSktGa3Q2YUk3aFBxQWR3R29zakdzVy1oZjlpSF9PZWo0d0h2aFc?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
     "news_age": "2h ago",
     "news_columns": [
-      "apec",
-      "asean"
+      "diplomacy",
+      "trade"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -12528,12 +12529,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.7,
+    "news_score": 0.72,
     "news_title": "Hurricanes leave Finland with sweep of Kraken - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2hsUlBpZFYxeUxTU2VRX3ZJa0Rhc3J6ZERIcnRhdmg4S3lzVk9aNjM1U2ZoSDMxbU92N3E5ODk0RHVQbVBzNkZiZGVNQkJUdmtGdnZBUUlEcl9rTEdBakFjdmJUbV84TG15WmR3c1VWVVJSNE0zZzFYWThXcTh5YzJhWW83WmZ4eGtrWG5HYw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "56m ago",
+    "news_age": "58m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -13034,15 +13035,18 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.12,
+    "news_score": 1.16,
     "news_title": "Dupont in command as France stay strong - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY3k0SGl4NWdRWWNIU0VDd1poS1JSZ2duMWdJMjd4amQtZThEOExra3hwX1cta0pVRWJmcmZ5Mk1uMC11RTZ3ZU1kNHN6cXVCYjBLMlk1YmdyS2tiWXU3X2t4SEMzWEFKYWFxcmlNRXdlem0xMUk3OEpiMEgwLXdyWnN6TWlicDBhTkE?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "110m ago",
+    "news_age": "112m ago",
     "news_columns": [
-      "rugby_ranking",
-      "rugby_w"
+      "rugby_league",
+      "rugby_union",
+      "fifa_w",
+      "ufc",
+      "mma"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -14272,7 +14276,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcEF5N21mNlFfSVc0RzB2ZEJCT3doRk5PbHRzU2JYbW5mVTBwTTVrTVVrVTZPc19ob0lfWEZkY0U2eGpMVXZLLTgxQllPWkcwYV80amU5aEhrV05aektHbkp0bllGQWVDTkhQbUUzc2syN3FLQVBQSXk3bXFnMU1xcFJwY1hsSEpxNjJJMGtIYVE2djFsSVEwd2ZLNGpRdU5xbmZYSVl4ZlZjYTJ1elZLZjJqY0R1Y2ZLUExDSTFFR1lXcXByRVk3RjlYTzc?oc=5",
     "news_image": "",
     "news_source": "Legit News",
-    "news_age": "10h ago",
+    "news_age": "11h ago",
     "news_columns": [
       "chocolate",
       "agri"
@@ -15877,15 +15881,15 @@
     "fifa_w": 81,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 62,
-    "news_score": 0.48,
+    "news_score": 0.47,
     "news_title": "Exclusive | Hong Kong sending who’s who delegation of business leaders to Apec CEO Summit - South China Morning Post",
     "news_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWjdJa3hvcmFHb013TmFyXzZoSGdkcTlLd2tneU93SmQtQVhYMEFHS0NqZ25obXMzblphWURoNHlkeDBNSWhRODE3Nl94dzJKYXFZV3IzRG1CUEFmaUlzUEJnd2tpT01EZDlrMEprZ3c0QlJjNmd1R3lWQXdQSGJEZ2hCVHhnN29MQW9oRDExT3NhZWtXQXpIYUNGMnVaTUZNeWJRUmtfRzJzc0VaX1RZT0VpVkgtcWJFcVV5Rmwwd3pPUElBSXRkU2JBWU1rZmpwb3VkUHpNZ9IB1wFBVV95cUxQN2JpTmtMdFFuZ1VUeGNIRElTZGFRNFV2VGFxaFloZm50eXJtMkhQd2xmMlJVeGtaZW5sRFZJakc3YXRCa2xaWUxxd2R3VjFnQWZvb1pKXzFielJsYnpGZWgwSFI0UW91X1M5QklNQ05FdzhPYTBBMUZVQnZHTUlyNk55elJsdlNfdjNvWkNmS05HSXVma1M3ZFBPRE8yMXJlcUtIX2pnRmRtVGtiM3NnLVNjTUFuRjU0Z2FJZUp3WnJsV1NaaUZOTG9OSkd2SVc3QTRuRnc5VQ?oc=5",
     "news_image": "",
     "news_source": "South China Morning Post",
     "news_age": "3h ago",
     "news_columns": [
-      "apec",
-      "asean"
+      "diplomacy",
+      "trade"
     ],
     "bottom50_wealth": null,
     "election_date": "2027-03-28",
@@ -16818,7 +16822,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.02,
+    "news_score": 0.01,
     "news_title": "Science, spirituality go hand-in-hand in India, says PM Modi while opening India's first LED Dome planetarium - Mathrubhumi English",
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXhWTzI0WjFvTzAwRkZVRVdvYXdYYWJSbDJ4bG5XT05rVGJ5OVprVjJFc29mVFhILXN2YmZqVktLS0k5MU15Zm9vSzJzYVBxYmh6c0dELUs4UVdPWmJXb2U2VnA1NkhxZUJ5Wk5adXZCMnBJRE1aMkdrQUhzbmNTNGkyb3VpUnlQUGxTdkNwR2dSNi13UDF4Qm9HRl9ISlVWWjI0S1pZcVZnckxxbmV6NS1YdjU2WnB5eEVr0gHAAUFVX3lxTE5MSExiZnhDRnpZc2dEbnhXT3NoTnFRZHltak56NUc5OV9aeHhhSDVpRlBuN1NrNE0wMFRMN21TczU2OEoxVFVOX2V6aTJIcXRkc3VXd1kwMWRSMXRial9mMl9lMEk2MXNWWUoxYWF5QmUyNU9xdVpVWFVnd3hvSmtjVlZiUGE0TVRVSDZTZzVYNGR6MzE3SlJELXRnUUFPZXRoNVByXzEtbEZNOWVFajN6TFU0VkpsQldLUURVRXpWcA?oc=5",
     "news_image": "",
@@ -17394,7 +17398,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.58,
+    "news_score": 0.57,
     "news_title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGo3OGMxN1ZNYy1FT1NCeF9OVHEyVjJjTlpJVzJHV2Ezamt3MFJkMDc0aUJlLUp3alBQZ200M2VRNWp3NXNkSllocERrOGxWUVBZNEp5VHkxVHJqcFVGeExLUWk5c2QxbHJsWVZIQnp1RFhULXktVHJQb3Nja3dWcFpkTWNZM1JhUGd3MUdSREpCYlJTSGw3TUl5UFFoR0tqWWxyTTdSZk96Z9IBrwFBVV95cUxOYlBrSExJX0JtT1R4MTlVUzVLVFFlZUllUFZmR29fNnNidkEwaFF3SEpkRDdKTDhsWUlTYURSdHBRd1E2V0pKZGRfbWpLS2hiZlEzUTc0SW1wT0JxMzRaMDlicVVQcXVJeGtRcGl1Y2hodkZ6cC15R095ckpuUU81RUJTd3FwSG5qNTRyN1piRlJPWF9rcjVKTnJwNldseVYyQ0VMYjdDcnZPRXljclo0?oc=5",
     "news_image": "",
@@ -27814,10 +27818,11 @@
     "news_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdzU4YlZwem1zWllDTUdJeFJWVmYzajBpWmoyWnBvX1ZKZmNWLWJld291VU90SzVLMmI2cE9LNml0enhzdjlNUzF1anZOVHEwcWQxSVUybHdSWGp0YTExbUhGNWVhSnpZMG1abXpIRmJEekM4MlhaVGsxRDVOTUU1YWxZNW1SNzNvdnRXNGJicW4yTUthWDZqZTFqZjg4U3FuWkFVUEl0ZThGNkNXLUdJOGVoS3FYQjdQT2d5cXJFNS00ZC1Rd0x0di1xRkdRLXo4Y0xsa0dBRkFBVTB1aHc?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "15m ago",
+    "news_age": "17m ago",
     "news_columns": [
-      "rugby_ranking",
-      "rugby_w"
+      "rugby_league",
+      "rugby_union",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -31098,12 +31103,12 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.0,
-    "news_title": "Pope Leo urges end to violence in Peru during visit to remote Andes town - Al Jazeera",
-    "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaThSTWlHZG9mM2JLSHd4Vnl0bk1GLUtlYy1VNktsWFBVMnVwbEJ2c1Y0bUczZGV0bnpzOHJzMGFSNkdGb1FndmNiUU5IM2dtSGNTdUZ6NjcyVDdYLXlzcHNnOEdUTkpOeDl4ekR6aUo4TVhJLTExX3BOOFE3NHFscUliTXlubnB4Yk9GeVJoMlJnd2RQZTE0cGdsUWJhU0VpOEl4a3c2dEpBMlNfcjQxR1dlbXTSAboBQVVfeXFMUGhXVHNabjI3TS1NRnlvZlRadjNmRVJ3clFkQVlwYmUtdmNubGk2alVrZ2xaa3ZULWNFZUh1Ujd0UmVKNno0NzlWUG5zWEtVUS1OTWVMZ3MyNmM5a19ZOVljdHMyMVNUTHlySjgzQlFmRHZKTVNxaFNiSGVqSUM0d0VjNDRIQVRaX1lRX3IxcG5WYV9IN1h4WmZkOElBVEhjM0JsNE1pdkRfNkVWb1ljV25ILUFkZkxVdGxn?oc=5",
+    "news_score": 0.01,
+    "news_title": "Pope laments violence enveloping Peru as he ministers in his former diocese - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaExCV3RUVkUxTElUOGlpVk90TWx1OFh1YjNJdVFXLVZpLXM1OVpzWUlLWHY1SHhSZDk0NDhNMml2V0dkR1hzXzU1VlNpOUZtek5zZy1OMlBjQTJGMDNHcEJmTXJFNVZVZTM4MjgtRHZEUEdqdXV4YUtseFBmM3o2b0dHcF9ReXNYTlpUUA?oc=5",
     "news_image": "",
-    "news_source": "Al Jazeera",
-    "news_age": "10h ago",
+    "news_source": "AP News",
+    "news_age": "12h ago",
     "news_columns": [
       "tourism",
       "passport",
@@ -33125,7 +33130,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.05,
+    "news_score": 0.0,
     "news_title": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQ1hLMTNVb094dE1lVlNkWWdtNXVYQjFqUUQ0Q0xkR0s1VnFzUExZQVVlVEZLYTNIUWN3cWoxa1dIM0xkc0docFNONklpRTZ6UFlTb3hLeFJxWC1feVRscDJMSWZaazQ0YzQwRVNyTDNqYUdiMUszLQ?oc=5",
     "news_image": "",
@@ -36718,7 +36723,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.2,
+    "news_score": 0.19,
     "news_title": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRmxpdGVWWnFKalBDb3Z1ZG9rU2RhbVMydDV0WFRrak9KQldJYXNaNWNhUjBMNERyUkZfVU5HUl9IOEhrUm1QX0V0RERFZlctclg4SjZOX1pQR2N1dEVmdS1HdDJ4c2c5ZklDdmd6dEN4eURrSUN0cllhbEs3UERPbXNLODdXenF0cVczVUdVd0xnRU5qcDJ1R0MyMjE0Z21rRDVUZVpodmhOSXlaNEc5a05jbw?oc=5",
     "news_image": "",
@@ -39098,15 +39103,15 @@
     "refugees_rank": null,
     "union_rate": 75.8,
     "union_rate_rank": null,
-    "news_score": 0.48,
+    "news_score": 0.46,
     "news_title": "Thai Chamber of Commerce presents six proposals for economic reform - Nation Thailand",
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwWEk3N1BNaFZlU0lkUks5M25tTGFBZ1NjUDR2WHkyWnRpVU5EcjljUUxRWnp1WlBUdmkybHc1VFg3VHlOTk5FQ01SWjItalFjdEFNMks4RWV1RGp4cXVyblM0ak8zSlk?oc=5",
     "news_image": "",
     "news_source": "Nation Thailand",
     "news_age": "3h ago",
     "news_columns": [
-      "apec",
-      "asean"
+      "diplomacy",
+      "trade"
     ],
     "bottom50_wealth": null
   },
@@ -41254,7 +41259,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.05,
+    "news_score": 0.0,
     "news_title": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQ1hLMTNVb094dE1lVlNkWWdtNXVYQjFqUUQ0Q0xkR0s1VnFzUExZQVVlVEZLYTNIUWN3cWoxa1dIM0xkc0docFNONklpRTZ6UFlTb3hLeFJxWC1feVRscDJMSWZaazQ0YzQwRVNyTDNqYUdiMUszLQ?oc=5",
     "news_image": "",
@@ -42534,11 +42539,14 @@
     "news_source": "City of Toronto",
     "news_age": "15059h ago",
     "news_columns": [
-      "ufc_ranking",
-      "ufc_w",
+      "ufc",
+      "mma",
       "ncaa_football",
-      "cfp_ranking",
-      "space_tech"
+      "cfp",
+      "diplomacy",
+      "trade",
+      "space",
+      "tech"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
