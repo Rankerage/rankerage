@@ -2556,7 +2556,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.68,
+    "news_score": 0.63,
     "news_title": "World Championship Final: Australia vs Venezuela - ballysports.com",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk5lTXJvTVR4b2Z4dGhCanloU2d4YXY3QVNJUkNUTDJxNmZTLUp5bklnQnI4d0hGV2MzNUl6VVhxTk9ZOGRxRjhqeDRQYUlsSTJ4SjlRVnl5UnlFOTBNYkMtaFRQNGZOQmNCbWgwX0FPTFpHazdhTkNBSmUtNHdnMHRkdlJfVUNFejFUTV91a1R0VC1PYl9hS2hMbE9UTXZtTjNKazlKQWM1a2oxVlE?oc=5",
     "news_image": "",
@@ -2564,7 +2564,7 @@
     "news_age": "2h ago",
     "news_columns": [
       "rugby",
-      "rugby_world_cup"
+      "rugby_w"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -8017,15 +8017,17 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.6,
+    "news_score": 0.9,
     "news_title": "The world according to China - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjFJU0l0RDAwQ2FiRlJ5TWI4UnFSYzJPT2tTXzhydHU5ZEt1LVRseXY2aHByQ2FSdmpVWC00ZlpSc0IwX05rYkhpQkZrejd5dlREeDVHaHV6eXdaUllhSktGa3Q2YUk3aFBxQWR3R29zakdzVy1oZjlpSF9PZWo0d0h2aFc?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
     "news_age": "3h ago",
     "news_columns": [
-      "tech",
-      "markets"
+      "geopolitics",
+      "conflict_index",
+      "tech_sentiment",
+      "btc_price"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10944,7 +10946,7 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.11,
+    "news_score": 0.1,
     "news_title": "Egypt calls for easier climate financing for developing countries - Economy - Business - Ahram Online",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1M3RVhWWnB4TU1KREpveWFSU1I2aXRGRGRJNUZ3WURHTGwxX1NseWZNeFB5Z1RZRm9OUkpnX0NKd3NaeUZPaS1LZjFwRkp1U3puanBOQWllWTAtY0tXbFg5YkNqNTJueF9nMHhhNkFzdlFZcjY4U205QUxlSk1wNTRGRUVsaFZPREpOOVpIYWhVVnBHbzNkOUVoVXlOSXFfUlJnNVprYUk5RDVETi1RN2FiX0xnRWNLQ0ZSWW1IdDdxNGs?oc=5",
     "news_image": "",
@@ -12528,12 +12530,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.63,
+    "news_score": 0.62,
     "news_title": "Hurricanes leave Finland with sweep of Kraken - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2hsUlBpZFYxeUxTU2VRX3ZJa0Rhc3J6ZERIcnRhdmg4S3lzVk9aNjM1U2ZoSDMxbU92N3E5ODk0RHVQbVBzNkZiZGVNQkJUdmtGdnZBUUlEcl9rTEdBakFjdmJUbV84TG15WmR3c1VWVVJSNE0zZzFYWThXcTh5YzJhWW83WmZ4eGtrWG5HYw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "108m ago",
+    "news_age": "110m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -13034,17 +13036,17 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.73,
+    "news_score": 0.72,
     "news_title": "Dupont in command as France stay strong - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY3k0SGl4NWdRWWNIU0VDd1poS1JSZ2duMWdJMjd4amQtZThEOExra3hwX1cta0pVRWJmcmZ5Mk1uMC11RTZ3ZU1kNHN6cXVCYjBLMlk1YmdyS2tiWXU3X2t4SEMzWEFKYWFxcmlNRXdlem0xMUk3OEpiMEgwLXdyWnN6TWlicDBhTkE?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
     "news_age": "2h ago",
     "news_columns": [
-      "rugby",
-      "rugby_world_cup",
       "ufc",
-      "mma"
+      "mma_ranking",
+      "rugby",
+      "rugby_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13566,18 +13568,17 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.07,
-    "news_title": "Georgia/Missouri Live Thread - Yahoo Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUNtYzlMSDVZNWtpcTVwOS1QMGtkb2t6Mkt0dUItTkxWRGVtcTBQLWl5cjdSNTQwdmJRZVlGT2hTakIyODBmLU13V3lhdldob0dibDFUZU04U0xrSndmb295cHI3Z0hCZE1RcFBJNnkxRGZoNU9XeVFwb01lVUlEQVdPOA?oc=5",
+    "news_score": 0.18,
+    "news_title": "College football winners, losers: Georgia, Wake Forest on cruise control; Kentucky cratering - CBS Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXpHOEF0WTZENFRoZnYtSE9NVkZBLVhXaTRjeThXTE5FTjc1T2Y2cnJ2WGhYS2dqbHktOTNvQ1I5dktTcmR5aGg5bWtvSDBUUGVVUE04TkRGZmxJQVE3c1FVbmk1elZ3RlpKZ2pTdllPRTU1ZjdRVW93WkoyaVEzZHpCQ2p3alJtMTlJRmI3TklRQ3FjczQwNkQ2bnB4WnZuOWNreDdZUDA1ZUppMmc?oc=5",
     "news_image": "",
-    "news_source": "Yahoo Sports",
-    "news_age": "10h ago",
+    "news_source": "CBS Sports",
+    "news_age": "3h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": null
   },
@@ -14269,7 +14270,7 @@
     "union_rate": 60.4,
     "union_rate_rank": null,
     "fifa_w_rank": 50,
-    "news_score": 0.04,
+    "news_score": 0.03,
     "news_title": "Dangote eyes Ghana cocoa industry, plans 500,000-tonne processing deal - Legit News",
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcEF5N21mNlFfSVc0RzB2ZEJCT3doRk5PbHRzU2JYbW5mVTBwTTVrTVVrVTZPc19ob0lfWEZkY0U2eGpMVXZLLTgxQllPWkcwYV80amU5aEhrV05aektHbkp0bllGQWVDTkhQbUUzc2syN3FLQVBQSXk3bXFnMU1xcFJwY1hsSEpxNjJJMGtIYVE2djFsSVEwd2ZLNGpRdU5xbmZYSVl4ZlZjYTJ1elZLZjJqY0R1Y2ZLUExDSTFFR1lXcXByRVk3RjlYTzc?oc=5",
     "news_image": "",
@@ -15457,7 +15458,7 @@
     "refugees_rank": null,
     "union_rate": 65.3,
     "union_rate_rank": null,
-    "news_score": 0.16,
+    "news_score": 0.15,
     "news_title": "US thrash Haiti as Pochettino prepares for farewell - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRVdMRGpqUk5ZUVdhNzJwSWVHbkh3c1RYOW8zUDZfUEFuMmMwUVFTY1R1azRZRDdhYnZGcUZ1eHVDdmNzU0tlVHE2RTEwZHUyNTdmSklHQmlSN3R2MVdrc1U0dUJQdWJJN3lSLW1DREp2YnRZSTNuRzdVV1hGU0RqaDdNdGdBUnFFeHQ2SA?oc=5",
     "news_image": "",
@@ -17396,7 +17397,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.27,
+    "news_score": 0.22,
     "news_title": "Iran's navy says three tankers on fire after hitting mines in Hormuz - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
     "news_image": "",
@@ -26350,15 +26351,15 @@
     "refugees_rank": null,
     "union_rate": 59.8,
     "union_rate_rank": null,
-    "news_score": 1.17,
+    "news_score": 1.11,
     "news_title": "World’s top court to rule if Myanmar committed genocide against Rohingya - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDBRRS1KbTJxMzRiTlFFQnFlNW1uVk9jVWp0b2wtZ1VGNlJLTlFwaFo0SjFkbEM0djZyQW91M3lsN1lYTk00Qkw2VTJraGxZQWlHclF2YjhiVWJLUHlrMjFjdVB2M3M2SW9WMERERXR6NktITmNUNVpWdUZzVmlHWQ?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "41m ago",
+    "news_age": "43m ago",
     "news_columns": [
-      "icj",
-      "human_rights"
+      "geopolitics",
+      "conflict_index"
     ],
     "bottom50_wealth": null
   },
@@ -28463,7 +28464,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkNULXpEMHd5QjhOSklodnl4SUFBQUNxWl8zd0tGWHotSEFRR09CYkFfMTRHZW9fMGdhLTN1eHVIY2lZdk9tcVhfQ1hBRDJILWhWUmVSbm9Qb2l2Y1ExazFVZTlINjBMNGZWeDRzeGp2bEJqLXF6amwxMGUwX1RYOTNramxMR2VmT2FNRFVNYkpLRmtPVTlXdFpDMlc?oc=5",
     "news_image": "",
     "news_source": "Head Topics",
-    "news_age": "23m ago",
+    "news_age": "25m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -36717,7 +36718,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.06,
+    "news_score": 0.05,
     "news_title": "Spain v England: Nations League test will reveal if Thomas Tuchel has learned lessons - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxcEJ0MzdseXFaSER5NkpLTVVYcGQ3cUxsUVV4MTlsd3hYMjcySm0zMDZKbnZqN1RCNkxjUTl3REhCMVRZSmdGbVNtU1dqZGhFNG9pcFRVZUFrdm1DeXFtOVZkdklwbk5C?oc=5",
     "news_image": "",
@@ -39097,7 +39098,7 @@
     "refugees_rank": null,
     "union_rate": 75.8,
     "union_rate_rank": null,
-    "news_score": 0.27,
+    "news_score": 0.26,
     "news_title": "Thai Chamber of Commerce presents six proposals for economic reform - Nation Thailand",
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwWEk3N1BNaFZlU0lkUks5M25tTGFBZ1NjUDR2WHkyWnRpVU5EcjljUUxRWnp1WlBUdmkybHc1VFg3VHlOTk5FQ01SWjItalFjdEFNMks4RWV1RGp4cXVyblM0ak8zSlk?oc=5",
     "news_image": "",
@@ -42536,12 +42537,14 @@
     "news_source": "City of Toronto",
     "news_age": "15060h ago",
     "news_columns": [
-      "ncaa_football",
+      "ncaaf",
       "cfp_ranking",
+      "ap_poll",
       "ufc",
-      "mma",
-      "space",
-      "tech"
+      "mma_ranking",
+      "geopolitics",
+      "conflict_index",
+      "tech_sentiment"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
