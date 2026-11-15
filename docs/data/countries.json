@@ -2564,7 +2564,7 @@
     "news_age": "3h ago",
     "news_columns": [
       "rugby_w",
-      "world_cup"
+      "world_rugby_ranking"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -8017,7 +8017,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.57,
+    "news_score": 0.73,
     "news_title": "The world according to China - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjFJU0l0RDAwQ2FiRlJ5TWI4UnFSYzJPT2tTXzhydHU5ZEt1LVRseXY2aHByQ2FSdmpVWC00ZlpSc0IwX05rYkhpQkZrejd5dlREeDVHaHV6eXdaUllhSktGa3Q2YUk3aFBxQWR3R29zakdzVy1oZjlpSF9PZWo0d0h2aFc?oc=5",
     "news_image": "",
@@ -8025,9 +8025,7 @@
     "news_age": "3h ago",
     "news_columns": [
       "tech",
-      "market",
-      "geopolitics",
-      "un"
+      "ai_index"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -12530,7 +12528,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.59,
+    "news_score": 0.58,
     "news_title": "Hurricanes leave Finland with sweep of Kraken - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2hsUlBpZFYxeUxTU2VRX3ZJa0Rhc3J6ZERIcnRhdmg4S3lzVk9aNjM1U2ZoSDMxbU92N3E5ODk0RHVQbVBzNkZiZGVNQkJUdmtGdnZBUUlEcl9rTEdBakFjdmJUbV84TG15WmR3c1VWVVJSNE0zZzFYWThXcTh5YzJhWW83WmZ4eGtrWG5HYw?oc=5",
     "news_image": "",
@@ -13036,7 +13034,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.46,
+    "news_score": 0.62,
     "news_title": "Dupont in command as France stay strong - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY3k0SGl4NWdRWWNIU0VDd1poS1JSZ2duMWdJMjd4amQtZThEOExra3hwX1cta0pVRWJmcmZ5Mk1uMC11RTZ3ZU1kNHN6cXVCYjBLMlk1YmdyS2tiWXU3X2t4SEMzWEFKYWFxcmlNRXdlem0xMUk3OEpiMEgwLXdyWnN6TWlicDBhTkE?oc=5",
     "news_image": "",
@@ -13044,9 +13042,7 @@
     "news_age": "2h ago",
     "news_columns": [
       "ufc",
-      "mma_ranking",
-      "rugby",
-      "rugby_w"
+      "mma_ranking"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13568,7 +13564,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.09,
+    "news_score": 0.08,
     "news_title": "Georgia/Missouri Live Thread - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUNtYzlMSDVZNWtpcTVwOS1QMGtkb2t6Mkt0dUItTkxWRGVtcTBQLWl5cjdSNTQwdmJRZVlGT2hTakIyODBmLU13V3lhdldob0dibDFUZU04U0xrSndmb295cHI3Z0hCZE1RcFBJNnkxRGZoNU9XeVFwb01lVUlEQVdPOA?oc=5",
     "news_image": "",
@@ -15458,7 +15454,7 @@
     "refugees_rank": null,
     "union_rate": 65.3,
     "union_rate_rank": null,
-    "news_score": 0.15,
+    "news_score": 0.14,
     "news_title": "US thrash Haiti as Pochettino prepares for farewell - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRVdMRGpqUk5ZUVdhNzJwSWVHbkh3c1RYOW8zUDZfUEFuMmMwUVFTY1R1azRZRDdhYnZGcUZ1eHVDdmNzU0tlVHE2RTEwZHUyNTdmSklHQmlSN3R2MVdrc1U0dUJQdWJJN3lSLW1DREp2YnRZSTNuRzdVV1hGU0RqaDdNdGdBUnFFeHQ2SA?oc=5",
     "news_image": "",
@@ -19263,7 +19259,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.27,
+    "news_score": 0.28,
     "news_title": "The COP31 talks showcase a disastrous post-American world - The Japan Times",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc2JycGh1aEtvSGwtRjVzSlZWSERHWEJjUFk3czkyTGdMOUh0NVVFdEpSYkViMVptQXJpX2lCWjh2TWYzaTZlbks0a0I0c2oxREdHbUVVN01KeUcySnB6RGhxeFc2OGZ0WWhEUTQxV0tXN2VpNjVSV2x3M3NVd0NOZi1zc3NlbDA0Z0o1cmc0RUJ5RVJvX1FTbUNn?oc=5",
     "news_image": "",
@@ -26351,15 +26347,15 @@
     "refugees_rank": null,
     "union_rate": 59.8,
     "union_rate_rank": null,
-    "news_score": 1.06,
+    "news_score": 1.05,
     "news_title": "World’s top court to rule if Myanmar committed genocide against Rohingya - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDBRRS1KbTJxMzRiTlFFQnFlNW1uVk9jVWp0b2wtZ1VGNlJLTlFwaFo0SjFkbEM0djZyQW91M3lsN1lYTk00Qkw2VTJraGxZQWlHclF2YjhiVWJLUHlrMjFjdVB2M3M2SW9WMERERXR6NktITmNUNVpWdUZzVmlHWQ?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "55m ago",
+    "news_age": "57m ago",
     "news_columns": [
-      "human_rights",
-      "icj_case"
+      "icj",
+      "human_rights"
     ],
     "bottom50_wealth": null
   },
@@ -28464,7 +28460,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkNULXpEMHd5QjhOSklodnl4SUFBQUNxWl8zd0tGWHotSEFRR09CYkFfMTRHZW9fMGdhLTN1eHVIY2lZdk9tcVhfQ1hBRDJILWhWUmVSbm9Qb2l2Y1ExazFVZTlINjBMNGZWeDRzeGp2bEJqLXF6amwxMGUwX1RYOTNramxMR2VmT2FNRFVNYkpLRmtPVTlXdFpDMlc?oc=5",
     "news_image": "",
     "news_source": "Head Topics",
-    "news_age": "37m ago",
+    "news_age": "39m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -39103,7 +39099,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwWEk3N1BNaFZlU0lkUks5M25tTGFBZ1NjUDR2WHkyWnRpVU5EcjljUUxRWnp1WlBUdmkybHc1VFg3VHlOTk5FQ01SWjItalFjdEFNMks4RWV1RGp4cXVyblM0ak8zSlk?oc=5",
     "news_image": "",
     "news_source": "Nation Thailand",
-    "news_age": "4h ago",
+    "news_age": "5h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -42539,12 +42535,10 @@
     "news_columns": [
       "ncaa_football",
       "cfp_ranking",
-      "ap_poll",
-      "ufc_ranking",
-      "mma",
-      "fight_card",
-      "tech_index",
-      "crypto_price"
+      "ufc",
+      "mma_ranking",
+      "tech",
+      "ai_index"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43745,12 +43739,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.85,
+    "news_score": 0.88,
     "news_title": "Science and technology open up new development opportunities for Ca Mau. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRkhsVjV6dy1kSnRGTEJ1T2o2bzZveWFzT0JJZ18wZm5JaXhLVUFxUmlLeHVab3JBS1d6YzIxVDVQV3N1bi1UVTRQb0hobjlVOFZ5VjdRUnU0VHB5RU8zUExkRlF1QlRZeTQ0WFBhcXN4RkRSeWhwU0RlWnliZGxtZkdZR0ZXUUhyWjZpaQ?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "66m ago",
+    "news_age": "68m ago",
     "news_columns": [
       "car_density",
       "gas_price",
