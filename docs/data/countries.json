@@ -958,13 +958,16 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 133,
     "fifa_w_rank": 115,
-    "news_score": 0.24,
+    "news_score": 0.47,
     "bottom50_wealth": null,
     "news_title": "Andorra goalkeeper Jesus Owono hit with 12-match ban after tragic collision leads to death of Tenerife striker Jesus de Miguel - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcTVad2xFOTJHMnVXOE5KaS13bUl3VzQxVk9pNlJqOGdzYjNRS2VsNFF2U3BZVWRhU24xT0w0cVkzNGRiLVp1dDlQWlM1U2w4NkszR3N0RVlpcXA4Tl9jbVp0clU0d2hmSlZjYXdwZTFGUm1DTnE1blQtY2RlaWwwc1IxdldkdWJKX1k0?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "49m ago"
+    "news_age": "51m ago",
+    "news_columns": [
+      "fifa_ranking"
+    ]
   },
   {
     "flag": "🇦🇴",
@@ -2561,12 +2564,12 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 7.04,
+    "news_score": 7.05,
     "news_title": "Rugby League World Cup Final New Zealand v Australia live: Rugby League World Cup Final New Zealand v Australia look to seize control of thrilling Rugby League World Cup Final New Zealand v Australia. Every team in the Rugby League World Cup Final - Universitat de Barcelona",
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOczhZblZZR2ZEdTNjNS14cUlqdlBPMEFmbnNsclBQUERBTDVNT3dSMmlmRi1Wd19yVU9TNWpoLWE5eHNwZlA3WkxEUFBnNGsxeHVyNGtOTHpXb2lSaG5jWXd5WmlTTnRFWnlBSUcxVDRCeEhGVDV4RjVpUFNwTElmSWZkLTZnOWNyaTE1aUNDM2FCS3BLbk1OSEFkYWpKRkhsYllJUmVWM0VwRnYxaVRWOTZXV0ZleVU3eUZzb0EyVERvOUhXVEdmOTRFN3lZMk9KQjk2c0NZdnphcFlqVmlXaTJrNUpmMVFvcGZjQWliczdTVU5LbFRkakRGaF9QbGVTNkJoXzVlajdiU04wbktEaUxQSkl2Um1pSnc?oc=5",
     "news_image": "",
     "news_source": "Universitat de Barcelona",
-    "news_age": "5m ago",
+    "news_age": "7m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -3060,19 +3063,19 @@
     "union_rate": 72.9,
     "union_rate_rank": null,
     "fifa_w_rank": 80,
-    "news_score": 0.05,
-    "news_title": "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province - Reuters",
-    "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOemlqVE1TdmREQ0t3TjczWnBWVGZ3TkxTc0ZPVC1fZFlrUDJCZC1KV0liZGdUTHBXZEZpWG9SNkJJSlBYSjVPbE1aUnNtWHl2eE1FbzlURGRwckdIT3R2NG9rVm1oX1V0VEZoWmYxM1dSbmhNc1BidnFLX19YRVU3Q2tzR1F5Vk1QX3dDNXVCeXZ6bmVES0lZNTBlR3E0Z1hJcXFyYXpMam80TGRWbURod1NsUXBwZldjdHFVejFwaWtmVmo3ZWYzYW5QMzk?oc=5",
+    "news_score": 0.04,
+    "news_title": "KSA Business: Saudi economy to rebound in 2027 as oil output recovers, says Moody’s - Gulf Daily News (Bahrain)",
+    "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUnJUTkV4WUNaMDZHbGU1Uzc5cnZBc2xJZVJVS1I4OHZ4Nl93OVMyend4X3ZuNndpc0szeFFqWlpuX1BJUVRkTG1QeE9HNGRZTjYzenJFbTRzazB3bUFPelVyb1NaQVJONWRNc29xZVEwU3E5cEx3T0FCMkl1Nk80WkdES25aVW9SY1pzV1E2SUF5dDViMU9BUWdCSFY5YnJpdXBxeVgyNVA1bkZtNXJkSVVnUzFrSmpVdjdz?oc=5",
     "news_image": "",
-    "news_source": "Reuters",
-    "news_age": "7h ago",
+    "news_source": "Gulf Daily News (Bahrain)",
+    "news_age": "14h ago",
     "news_columns": [
-      "gas_price",
-      "energy_per_capita",
-      "co2",
-      "renew",
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
       "exports",
-      "military_pct"
+      "imports"
     ],
     "bottom50_wealth": null
   },
@@ -6952,7 +6955,12 @@
     "news_source": "Business Insider Africa",
     "news_age": "13h ago",
     "news_columns": [
-      "olympic"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -10943,7 +10951,7 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.06,
+    "news_score": 0.05,
     "news_title": "Egypt calls for easier climate financing for developing countries - Economy - Business - Ahram Online",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1M3RVhWWnB4TU1KREpveWFSU1I2aXRGRGRJNUZ3WURHTGwxX1NseWZNeFB5Z1RZRm9OUkpnX0NKd3NaeUZPaS1LZjFwRkp1U3puanBOQWllWTAtY0tXbFg5YkNqNTJueF9nMHhhNkFzdlFZcjY4U205QUxlSk1wNTRGRUVsaFZPREpOOVpIYWhVVnBHbzNkOUVoVXlOSXFfUlJnNVprYUk5RDVETi1RN2FiX0xnRWNLQ0ZSWW1IdDdxNGs?oc=5",
     "news_image": "",
@@ -12527,14 +12535,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.34,
+    "news_score": 0.6,
     "news_title": "US women's hockey team faces Finland in World Championship semifinal: How to watch - USA Today",
     "news_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMDl4Q0kySE1qNzFkLXFyREh0Y3ROSmZOMUJMSTJzSEZhWGVLdXVwMDRMd1pJVkxYZDRpYnl1bDMwRHNYZjlLMm4yVndQYnB5aEFoVEd1X2hiYUFmZmIwT2N2a0lfc3B1bm1zYUl6YjBZQlNFVk02ZlY1dUxCbmt2N0dpOVZZNHQ3clFtWkxoc3JFc21OdG9FZ0ZuXzVXOUdqUmtlcDZXcmd6aDRxdGJHZTF1SkJub1NfblRmNzk2SUhCYmNYZExveU1WaWRVYTlGZzJnZEJzT3I3dnBwRnBpUF9MWmtrems5LXNseQ?oc=5",
     "news_image": "",
     "news_source": "USA Today",
-    "news_age": "11m ago",
+    "news_age": "13m ago",
     "news_columns": [
-      "olympic"
+      "olympic",
+      "fifa_w"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 13
@@ -17387,12 +17396,12 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.27,
-    "news_title": "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province - Reuters",
-    "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOemlqVE1TdmREQ0t3TjczWnBWVGZ3TkxTc0ZPVC1fZFlrUDJCZC1KV0liZGdUTHBXZEZpWG9SNkJJSlBYSjVPbE1aUnNtWHl2eE1FbzlURGRwckdIT3R2NG9rVm1oX1V0VEZoWmYxM1dSbmhNc1BidnFLX19YRVU3Q2tzR1F5Vk1QX3dDNXVCeXZ6bmVES0lZNTBlR3E0Z1hJcXFyYXpMam80TGRWbURod1NsUXBwZldjdHFVejFwaWtmVmo3ZWYzYW5QMzk?oc=5",
+    "news_score": 0.29,
+    "news_title": "Saudi-led coalition intercepts suspected Houthi missiles and drones - Al Jazeera",
+    "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGo3OGMxN1ZNYy1FT1NCeF9OVHEyVjJjTlpJVzJHV2Ezamt3MFJkMDc0aUJlLUp3alBQZ200M2VRNWp3NXNkSllocERrOGxWUVBZNEp5VHkxVHJqcFVGeExLUWk5c2QxbHJsWVZIQnp1RFhULXktVHJQb3Nja3dWcFpkTWNZM1JhUGd3MUdSREpCYlJTSGw3TUl5UFFoR0tqWWxyTTdSZk96Z9IBrwFBVV95cUxOYlBrSExJX0JtT1R4MTlVUzVLVFFlZUllUFZmR29fNnNidkEwaFF3SEpkRDdKTDhsWUlTYURSdHBRd1E2V0pKZGRfbWpLS2hiZlEzUTc0SW1wT0JxMzRaMDlicVVQcXVJeGtRcGl1Y2hodkZ6cC15R095ckpuUU81RUJTd3FwSG5qNTRyN1piRlJPWF9rcjVKTnJwNldseVYyQ0VMYjdDcnZPRXljclo0?oc=5",
     "news_image": "",
-    "news_source": "Reuters",
-    "news_age": "7h ago",
+    "news_source": "Al Jazeera",
+    "news_age": "3h ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
@@ -18123,15 +18132,19 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.0,
-    "news_title": "Live Updates: Netanyahu says it's time to remove Iran threat \"once and for all\" - CBS News",
-    "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
+    "news_score": 0.01,
+    "news_title": "In world first, SpaceX successfully recovers spaceship that orbited Earth - The Times of Israel",
+    "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNck9oM1d0UnBQN1lMQ2Q5eTJ0a3ZVTm8wZlAzZ0VXRkVCdkhSenlQWkhQR1l5Nk5DOFZqenNTTmRqRnpRbHJvRlY5VFRuX05FR1pNTzlOR2x1RmwxQWRJOEJFSEN6NFRjbGlXVldHWGNzRHNLYW9RNGpvVmJBTHRiTXBBMjBTWVVvaWRyQVdkcDY0U1NPU29wTllHUVFaaUw2aTNDREZB0gGrAUFVX3lxTE1Ub2tNbUdHRmRnMUlGanVnRXJ0YUcwSURETVFmeFVOMF9mZzl2a0NnbFR4YlA4NFREaXV0WGFDcWFhTk1ZQmg3SEpOY0NIQUh4cDRsZWk2alBtZzd0b0NtNGFRRF9zUnZtM0Mxa1MwQmFCOVYtX1FMX1NFNEdnbm80U283Q3hWRXNkMVJ0dmtqMGZkR3pnZU1ZVjVfdEQ4ZVRhMTVELXQxRThRTQ?oc=5",
     "news_image": "",
-    "news_source": "CBS News",
-    "news_age": "4h ago",
+    "news_source": "The Times of Israel",
+    "news_age": "10h ago",
     "news_columns": [
-      "geopolitics",
-      "conflict"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "space_launch"
     ],
     "bottom50_wealth": null
   },
@@ -19447,7 +19460,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSm9MQkN0M3kyN1IyeFNHS3lYal9FVk1QN093a09SbEkwX3JQM3VqenpHcnBYcUstR0pnNVdTUlZrRDY3THVvakZFQ2xpMWJwTmhhdGNLMGJteEtDV3lTSlVwTjdxWGR0YkN6TjdmTzM1RG52Smo4SWlMeXBRQ3ZoNFN0ZjFLTk8wblJ2MTJVeTgwMDVzN1dsaEdSN2pEV3I1WUtKWmNsd1hUYkZ5TVp6aGx3dkRJd3pDZm0wcjFBN1RXQzA1OHZNdVl5S3N1V05DUnA1cTVac1VEQQ?oc=5",
     "news_image": "",
     "news_source": "World of Showjumping",
-    "news_age": "25m ago",
+    "news_age": "27m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -27814,7 +27827,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOczhZblZZR2ZEdTNjNS14cUlqdlBPMEFmbnNsclBQUERBTDVNT3dSMmlmRi1Wd19yVU9TNWpoLWE5eHNwZlA3WkxEUFBnNGsxeHVyNGtOTHpXb2lSaG5jWXd5WmlTTnRFWnlBSUcxVDRCeEhGVDV4RjVpUFNwTElmSWZkLTZnOWNyaTE1aUNDM2FCS3BLbk1OSEFkYWpKRkhsYllJUmVWM0VwRnYxaVRWOTZXV0ZleVU3eUZzb0EyVERvOUhXVEdmOTRFN3lZMk9KQjk2c0NZdnphcFlqVmlXaTJrNUpmMVFvcGZjQWliczdTVU5LbFRkakRGaF9QbGVTNkJoXzVlajdiU04wbktEaUxQSkl2Um1pSnc?oc=5",
     "news_image": "",
     "news_source": "Universitat de Barcelona",
-    "news_age": "5m ago",
+    "news_age": "7m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -28459,7 +28472,7 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.43,
+    "news_score": 0.42,
     "news_title": "Nigeria Stock Market Faces Liquidity Constraints Despite N160 Trillion Valuation - Head Topics",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkNULXpEMHd5QjhOSklodnl4SUFBQUNxWl8zd0tGWHotSEFRR09CYkFfMTRHZW9fMGdhLTN1eHVIY2lZdk9tcVhfQ1hBRDJILWhWUmVSbm9Qb2l2Y1ExazFVZTlINjBMNGZWeDRzeGp2bEJqLXF6amwxMGUwX1RYOTNramxMR2VmT2FNRFVNYkpLRmtPVTlXdFpDMlc?oc=5",
     "news_image": "",
@@ -36721,19 +36734,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.49,
+    "news_score": 0.4,
     "news_title": "Spain v England: Nations League test will reveal if Thomas Tuchel has learned lessons - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxcEJ0MzdseXFaSER5NkpLTVVYcGQ3cUxsUVV4MTlsd3hYMjcySm0zMDZKbnZqN1RCNkxjUTl3REhCMVRZSmdGbVNtU1dqZGhFNG9pcFRVZUFrdm1DeXFtOVZkdklwbk5C?oc=5",
     "news_image": "",
     "news_source": "BBC",
     "news_age": "13h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups",
-      "car_density"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5,
@@ -42533,7 +42541,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.58,
+    "news_score": 0.66,
     "news_title": "United States thrash Haiti in Pochettino's penultimate match - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFA5UjMybHFXMXZlTkhIay1xeGY2ZVhTUTN4SDNQWjJtTVVkbllvYTFpN1JQcE1kLU5zcWVjaVVIam9Pc0JKOC1JUlFTdll3VmkxdWhPVy1sQlh1OWVqQ0dMZFlwRXRvbU5XR3R2MTR1cF8wMWJpZmI0Q2Y5amZlX3FHRXZqcVdDUExxQWhENmw?oc=5",
     "news_image": "",
@@ -42541,7 +42549,8 @@
     "news_age": "2h ago",
     "news_columns": [
       "olympic",
-      "basket"
+      "fifa_w",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43742,12 +43751,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 1.42,
+    "news_score": 1.43,
     "news_title": "Institute of Construction Science and Technology: Contributing a scientific and technological foundation to the construction industry. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaWNMbUEzQWc5c2R0bmtlbnRWOGVnbzVEcXhZcUIwdE9hWlFyZFhkYmZQZVlCd2xsQjFlTkFZY0lsMlpfZ0VzSDFNT3N0SlllU3hfTUhqRTkxYUxnMFQ0eGNkaWRFZG5YX1RudENmRmp3T0hxbDFJVjJoaTNaQ1BkU2dtY2tSY3Z0eWJQcVFkdTFyQ083VC12bUlPTXpmNk5NS3Z3aGVhdDh4NXFDWldOSk9oV2g?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "51m ago",
+    "news_age": "53m ago",
     "news_columns": [
       "olympic"
     ],
