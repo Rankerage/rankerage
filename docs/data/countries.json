@@ -2556,15 +2556,16 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 2.45,
-    "news_title": "Australia crush New Zealand 34-10 to win Women's Rugby League World Cup - France 24",
-    "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSTdvWUNPZlNUZTlaWl9VNFJ2Smc5VlJUdTV2YlJGUWxQN241eXRjeC1jX1BtZzNQcF9nTGJMZzI2SkdySFplbWlsSlhlREtKYTRZNE9EQTZaTmtsQ0d2ZWhlbUpMdXUxOGtoWnlHcTRjYWVUYXZTbHg0VUd4eUM4QmY5eEhsZTJDUzlxOGNqUDdHV2p4QlZfR2wyYXNDMEJWMmxYTkJnTnJtcEl5dWRzMFNoc2t2LTRvMlE?oc=5",
+    "news_score": 2.69,
+    "news_title": "Australia and New Zealand meet in Men's Rugby League World Cup final - BBC",
+    "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EVnZZdk9Qb1B6Nlh3QXl0UXlKV0dQQ213Rk5NTllQWlcyNEQyWmxJRGxxUTIwZEdPWWllXzBKNUNaRW52Q0tENWdpczJ6QkpaOGhMUGdsSUhyRUdDSFFBTUhQOHNKR1dp?oc=5",
     "news_image": "",
-    "news_source": "France 24",
-    "news_age": "68m ago",
+    "news_source": "BBC",
+    "news_age": "15m ago",
     "news_columns": [
       "rugby_league_w",
-      "rugby_league"
+      "rugby_league",
+      "rugby_league_m"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3055,7 +3056,7 @@
     "union_rate": 72.9,
     "union_rate_rank": null,
     "fifa_w_rank": 80,
-    "news_score": 0.2,
+    "news_score": 0.31,
     "news_title": "Saudi-led coalition intercepts suspected Houthi missiles and drones - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGo3OGMxN1ZNYy1FT1NCeF9OVHEyVjJjTlpJVzJHV2Ezamt3MFJkMDc0aUJlLUp3alBQZ200M2VRNWp3NXNkSllocERrOGxWUVBZNEp5VHkxVHJqcFVGeExLUWk5c2QxbHJsWVZIQnp1RFhULXktVHJQb3Nja3dWcFpkTWNZM1JhUGd3MUdSREpCYlJTSGw3TUl5UFFoR0tqWWxyTTdSZk96Z9IBrwFBVV95cUxOYlBrSExJX0JtT1R4MTlVUzVLVFFlZUllUFZmR29fNnNidkEwaFF3SEpkRDdKTDhsWUlTYURSdHBRd1E2V0pKZGRfbWpLS2hiZlEzUTc0SW1wT0JxMzRaMDlicVVQcXVJeGtRcGl1Y2hodkZ6cC15R095ckpuUU81RUJTd3FwSG5qNTRyN1piRlJPWF9rcjVKTnJwNldseVYyQ0VMYjdDcnZPRXljclo0?oc=5",
     "news_image": "",
@@ -8025,7 +8026,7 @@
     "news_age": "5h ago",
     "news_columns": [
       "tech",
-      "market"
+      "ai"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -12528,7 +12529,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.39,
+    "news_score": 0.38,
     "news_title": "Hurricanes leave Finland with sweep of Kraken - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2hsUlBpZFYxeUxTU2VRX3ZJa0Rhc3J6ZERIcnRhdmg4S3lzVk9aNjM1U2ZoSDMxbU92N3E5ODk0RHVQbVBzNkZiZGVNQkJUdmtGdnZBUUlEcl9rTEdBakFjdmJUbV84TG15WmR3c1VWVVJSNE0zZzFYWThXcTh5YzJhWW83WmZ4eGtrWG5HYw?oc=5",
     "news_image": "",
@@ -13034,12 +13035,12 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.95,
+    "news_score": 0.96,
     "news_title": "Australia crush New Zealand 34-10 to win Women's Rugby League World Cup - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSTdvWUNPZlNUZTlaWl9VNFJ2Smc5VlJUdTV2YlJGUWxQN241eXRjeC1jX1BtZzNQcF9nTGJMZzI2SkdySFplbWlsSlhlREtKYTRZNE9EQTZaTmtsQ0d2ZWhlbUpMdXUxOGtoWnlHcTRjYWVUYXZTbHg0VUd4eUM4QmY5eEhsZTJDUzlxOGNqUDdHV2p4QlZfR2wyYXNDMEJWMmxYTkJnTnJtcEl5dWRzMFNoc2t2LTRvMlE?oc=5",
     "news_image": "",
     "news_source": "France 24",
-    "news_age": "68m ago",
+    "news_age": "70m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -15458,7 +15459,7 @@
     "refugees_rank": null,
     "union_rate": 65.3,
     "union_rate_rank": null,
-    "news_score": 0.06,
+    "news_score": 0.07,
     "news_title": "US thrash Haiti as Pochettino prepares for farewell - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRVdMRGpqUk5ZUVdhNzJwSWVHbkh3c1RYOW8zUDZfUEFuMmMwUVFTY1R1azRZRDdhYnZGcUZ1eHVDdmNzU0tlVHE2RTEwZHUyNTdmSklHQmlSN3R2MVdrc1U0dUJQdWJJN3lSLW1DREp2YnRZSTNuRzdVV1hGU0RqaDdNdGdBUnFFeHQ2SA?oc=5",
     "news_image": "",
@@ -16821,7 +16822,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.13,
+    "news_score": 0.09,
     "news_title": "Science, spirituality go hand-in-hand in India, says PM Modi while opening India's first LED Dome planetarium - Mathrubhumi English",
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXhWTzI0WjFvTzAwRkZVRVdvYXdYYWJSbDJ4bG5XT05rVGJ5OVprVjJFc29mVFhILXN2YmZqVktLS0k5MU15Zm9vSzJzYVBxYmh6c0dELUs4UVdPWmJXb2U2VnA1NkhxZUJ5Wk5adXZCMnBJRE1aMkdrQUhzbmNTNGkyb3VpUnlQUGxTdkNwR2dSNi13UDF4Qm9HRl9ISlVWWjI0S1pZcVZnckxxbmV6NS1YdjU2WnB5eEVr0gHAAUFVX3lxTE5MSExiZnhDRnpZc2dEbnhXT3NoTnFRZHltak56NUc5OV9aeHhhSDVpRlBuN1NrNE0wMFRMN21TczU2OEoxVFVOX2V6aTJIcXRkc3VXd1kwMWRSMXRial9mMl9lMEk2MXNWWUoxYWF5QmUyNU9xdVpVWFVnd3hvSmtjVlZiUGE0TVRVSDZTZzVYNGR6MzE3SlJELXRnUUFPZXRoNVByXzEtbEZNOWVFajN6TFU0VkpsQldLUURVRXpWcA?oc=5",
     "news_image": "",
@@ -17395,7 +17396,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.35,
+    "news_score": 0.25,
     "news_title": "Iran’s New Cyber Playbook: Create Real-World Havoc - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWHhDQVhxRWctTTRqSVdYVHZkYXlsb2hZTmlfSFNVRFZVOHJlSU1lWW1PUHhyN1hUMGhHUmtNQUlJOGJwRm8wSDNIOGhValpYbVFOVWplZ1BfckdNbnlNWUhOcHp4SFVnOUNJVlB6dlVkRG9McFBmd0xta0w0a2FpaUF6NlZLWXZRR0lxSnVoZmV4dEFCN1JJcUZkTQ?oc=5",
     "news_image": "",
@@ -26348,14 +26349,14 @@
     "refugees_rank": null,
     "union_rate": 59.8,
     "union_rate_rank": null,
-    "news_score": 0.73,
+    "news_score": 0.72,
     "news_title": "World’s top court to rule if Myanmar committed genocide against Rohingya - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDBRRS1KbTJxMzRiTlFFQnFlNW1uVk9jVWp0b2wtZ1VGNlJLTlFwaFo0SjFkbEM0djZyQW91M3lsN1lYTk00Qkw2VTJraGxZQWlHclF2YjhiVWJLUHlrMjFjdVB2M3M2SW9WMERERXR6NktITmNUNVpWdUZzVmlHWQ?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
     "news_age": "2h ago",
     "news_columns": [
-      "geopolitics",
+      "icj",
       "human_rights"
     ],
     "bottom50_wealth": null
@@ -27805,15 +27806,16 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 1.0,
-    "news_title": "Australia crush New Zealand 34-10 to win Women's Rugby League World Cup - France 24",
-    "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSTdvWUNPZlNUZTlaWl9VNFJ2Smc5VlJUdTV2YlJGUWxQN241eXRjeC1jX1BtZzNQcF9nTGJMZzI2SkdySFplbWlsSlhlREtKYTRZNE9EQTZaTmtsQ0d2ZWhlbUpMdXUxOGtoWnlHcTRjYWVUYXZTbHg0VUd4eUM4QmY5eEhsZTJDUzlxOGNqUDdHV2p4QlZfR2wyYXNDMEJWMmxYTkJnTnJtcEl5dWRzMFNoc2t2LTRvMlE?oc=5",
+    "news_score": 1.33,
+    "news_title": "Australia and New Zealand meet in Men's Rugby League World Cup final - BBC",
+    "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EVnZZdk9Qb1B6Nlh3QXl0UXlKV0dQQ213Rk5NTllQWlcyNEQyWmxJRGxxUTIwZEdPWWllXzBKNUNaRW52Q0tENWdpczJ6QkpaOGhMUGdsSUhyRUdDSFFBTUhQOHNKR1dp?oc=5",
     "news_image": "",
-    "news_source": "France 24",
-    "news_age": "68m ago",
+    "news_source": "BBC",
+    "news_age": "15m ago",
     "news_columns": [
       "rugby_league_w",
-      "rugby_league"
+      "rugby_league",
+      "rugby_league_m"
     ],
     "bottom50_wealth": null
   },
@@ -36720,7 +36722,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BeGRNUjZZOEpMdUdOOVE5TlRrZ0VNNmRXTUJicllVYUx0cHJFbWJkVlFkckZtNy1FVlNQZGxsM1huWEZrWVlhT003U3NPMndoMURoVnAyczRWdHBvdFVwaXF2bEJvcnlD?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "54m ago",
+    "news_age": "56m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -36908,12 +36910,12 @@
     "refugees_rank": null,
     "union_rate": 53.8,
     "union_rate_rank": null,
-    "news_score": 0.0,
-    "news_title": "Global experts gather in Sri Lanka for historic first World Congress on Snakes - Mongabay News",
-    "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkRZVmZFazBMSU1ZMlJOV01heHJYR3F0blNHbVpmN2tnakN1V2JoclhEYVJkMzVlS3lhaXpXejduNE5FT1V2ZFdONUZ0MkRsMUJMNVZxVWI1YUxOR2xxMkRJZXIwMjZYS1NRUzVYMUUtN25WNVhUMzVRMlpRejZPdzhCazN0ZGg4TU92cWR0aGQyVHJ0RHVDR2ZzQ2twQmhFd1hvYlBsZkgzUDVIWkpqelVHY9IBuAFBVV95cUxPQ3V6UlE2WEp1eDR1MkJkR2tyS2U4MW5neHRWaS0tQUZQVnJkUGZCUFhDZ0pJR2V4WHFLNk5iY3F0VTJHcGZmS3BNZXplNUNab1BsQ0stS1BRX1RqWklzWm5UZ0tzZk1qdzdCWWc4dTBLa0ZiOFRqbFRleEMxai1Ld0pQaUk2aHBtWk5BaTlCckNDMWhsZEoxWHdTTjVNczRUSUpOTzdqakI4X0ZEUVhMZjd5bHZSUkIw?oc=5",
+    "news_score": 0.08,
+    "news_title": "Sri Lanka reality contrasts with new World Bank upper-middle-income status - Nikkei Asia",
+    "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQzE2bUJEVl9hZi00UTlkc05mZF92cHZvZ3ZqRXAxOEVWMXZ3NERETndFSDJCa0xUZ3JNbFFOMDg3bDdEWGZ6c3VsSjBkZEg0Zk54dXFUa0dhT2Fzbk93Wm9aZkpoaGhvdXBKcmJVUHFQRjgwX1hyRUN0aF9SdkpsU01ickU3cm1SVWNlRE9aWmtRaE05RGUySVpzc0xBQkpWSEkycFhNNmk3dw?oc=5",
     "news_image": "",
-    "news_source": "Mongabay News",
-    "news_age": "9h ago",
+    "news_source": "Nikkei Asia",
+    "news_age": "4h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -42537,7 +42539,7 @@
       "cfb_ranking",
       "cfb",
       "tech",
-      "market"
+      "ai"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43738,7 +43740,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.65,
+    "news_score": 0.64,
     "news_title": "Science and technology open up new development opportunities for Ca Mau. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRkhsVjV6dy1kSnRGTEJ1T2o2bzZveWFzT0JJZ18wZm5JaXhLVUFxUmlLeHVab3JBS1d6YzIxVDVQV3N1bi1UVTRQb0hobjlVOFZ5VjdRUnU0VHB5RU8zUExkRlF1QlRZeTQ0WFBhcXN4RkRSeWhwU0RlWnliZGxtZkdZR0ZXUUhyWjZpaQ?oc=5",
     "news_image": "",
