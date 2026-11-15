@@ -2556,7 +2556,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.4,
+    "news_score": 0.52,
     "news_title": "World Championship Final: Australia vs Venezuela - ballysports.com",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk5lTXJvTVR4b2Z4dGhCanloU2d4YXY3QVNJUkNUTDJxNmZTLUp5bklnQnI4d0hGV2MzNUl6VVhxTk9ZOGRxRjhqeDRQYUlsSTJ4SjlRVnl5UnlFOTBNYkMtaFRQNGZOQmNCbWgwX0FPTFpHazdhTkNBSmUtNHdnMHRkdlJfVUNFejFUTV91a1R0VC1PYl9hS2hMbE9UTXZtTjNKazlKQWM1a2oxVlE?oc=5",
     "news_image": "",
@@ -8017,15 +8017,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.7,
+    "news_score": 0.69,
     "news_title": "The world according to China - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjFJU0l0RDAwQ2FiRlJ5TWI4UnFSYzJPT2tTXzhydHU5ZEt1LVRseXY2aHByQ2FSdmpVWC00ZlpSc0IwX05rYkhpQkZrejd5dlREeDVHaHV6eXdaUllhSktGa3Q2YUk3aFBxQWR3R29zakdzVy1oZjlpSF9PZWo0d0h2aFc?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
     "news_age": "4h ago",
     "news_columns": [
-      "geopolitics",
-      "trade"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13034,7 +13033,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.43,
+    "news_score": 0.42,
     "news_title": "Dupont in command as France stay strong - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY3k0SGl4NWdRWWNIU0VDd1poS1JSZ2duMWdJMjd4amQtZThEOExra3hwX1cta0pVRWJmcmZ5Mk1uMC11RTZ3ZU1kNHN6cXVCYjBLMlk1YmdyS2tiWXU3X2t4SEMzWEFKYWFxcmlNRXdlem0xMUk3OEpiMEgwLXdyWnN6TWlicDBhTkE?oc=5",
     "news_image": "",
@@ -15454,7 +15453,7 @@
     "refugees_rank": null,
     "union_rate": 65.3,
     "union_rate_rank": null,
-    "news_score": 0.14,
+    "news_score": 0.13,
     "news_title": "US thrash Haiti as Pochettino prepares for farewell - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRVdMRGpqUk5ZUVdhNzJwSWVHbkh3c1RYOW8zUDZfUEFuMmMwUVFTY1R1azRZRDdhYnZGcUZ1eHVDdmNzU0tlVHE2RTEwZHUyNTdmSklHQmlSN3R2MVdrc1U0dUJQdWJJN3lSLW1DREp2YnRZSTNuRzdVV1hGU0RqaDdNdGdBUnFFeHQ2SA?oc=5",
     "news_image": "",
@@ -15883,8 +15882,7 @@
     "news_source": "South China Morning Post",
     "news_age": "5h ago",
     "news_columns": [
-      "geopolitics",
-      "trade"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null,
     "election_date": "2027-03-28",
@@ -26347,15 +26345,18 @@
     "refugees_rank": null,
     "union_rate": 59.8,
     "union_rate_rank": null,
-    "news_score": 1.01,
+    "news_score": 0.74,
     "news_title": "World’s top court to rule if Myanmar committed genocide against Rohingya - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDBRRS1KbTJxMzRiTlFFQnFlNW1uVk9jVWp0b2wtZ1VGNlJLTlFwaFo0SjFkbEM0djZyQW91M3lsN1lYTk00Qkw2VTJraGxZQWlHclF2YjhiVWJLUHlrMjFjdVB2M3M2SW9WMERERXR6NktITmNUNVpWdUZzVmlHWQ?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "69m ago",
+    "news_age": "71m ago",
     "news_columns": [
-      "icj",
-      "human_rights"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": null
   },
@@ -28455,15 +28456,19 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 1.27,
+    "news_score": 0.99,
     "news_title": "Nigeria Stock Market Faces Liquidity Constraints Despite N160 Trillion Valuation - Head Topics",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkNULXpEMHd5QjhOSklodnl4SUFBQUNxWl8zd0tGWHotSEFRR09CYkFfMTRHZW9fMGdhLTN1eHVIY2lZdk9tcVhfQ1hBRDJILWhWUmVSbm9Qb2l2Y1ExazFVZTlINjBMNGZWeDRzeGp2bEJqLXF6amwxMGUwX1RYOTNramxMR2VmT2FNRFVNYkpLRmtPVTlXdFpDMlc?oc=5",
     "news_image": "",
     "news_source": "Head Topics",
-    "news_age": "51m ago",
+    "news_age": "53m ago",
     "news_columns": [
-      "economy",
-      "governance"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
+      "ai_research",
+      "internet_pct"
     ],
     "bottom50_wealth": null
   },
@@ -41249,7 +41254,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.11,
+    "news_score": 0.1,
     "news_title": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQ1hLMTNVb094dE1lVlNkWWdtNXVYQjFqUUQ0Q0xkR0s1VnFzUExZQVVlVEZLYTNIUWN3cWoxa1dIM0xkc0docFNONklpRTZ6UFlTb3hLeFJxWC1feVRscDJMSWZaazQ0YzQwRVNyTDNqYUdiMUszLQ?oc=5",
     "news_image": "",
@@ -42529,10 +42534,9 @@
     "news_source": "City of Toronto",
     "news_age": "15061h ago",
     "news_columns": [
-      "ncaa_football",
-      "cfp_ranking",
-      "ufc",
-      "mma_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43733,12 +43737,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.9,
+    "news_score": 0.89,
     "news_title": "Science and technology open up new development opportunities for Ca Mau. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRkhsVjV6dy1kSnRGTEJ1T2o2bzZveWFzT0JJZ18wZm5JaXhLVUFxUmlLeHVab3JBS1d6YzIxVDVQV3N1bi1UVTRQb0hobjlVOFZ5VjdRUnU0VHB5RU8zUExkRlF1QlRZeTQ0WFBhcXN4RkRSeWhwU0RlWnliZGxtZkdZR0ZXUUhyWjZpaQ?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "80m ago",
+    "news_age": "82m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -44264,12 +44268,12 @@
     "union_rate": 34.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 119,
-    "news_score": 0.62,
-    "news_title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh - Al Jazeera",
+    "news_score": 0.67,
+    "news_title": "Saudi-led coalition intercepts suspected Houthi missiles and drones - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGo3OGMxN1ZNYy1FT1NCeF9OVHEyVjJjTlpJVzJHV2Ezamt3MFJkMDc0aUJlLUp3alBQZ200M2VRNWp3NXNkSllocERrOGxWUVBZNEp5VHkxVHJqcFVGeExLUWk5c2QxbHJsWVZIQnp1RFhULXktVHJQb3Nja3dWcFpkTWNZM1JhUGd3MUdSREpCYlJTSGw3TUl5UFFoR0tqWWxyTTdSZk96Z9IBrwFBVV95cUxOYlBrSExJX0JtT1R4MTlVUzVLVFFlZUllUFZmR29fNnNidkEwaFF3SEpkRDdKTDhsWUlTYURSdHBRd1E2V0pKZGRfbWpLS2hiZlEzUTc0SW1wT0JxMzRaMDlicVVQcXVJeGtRcGl1Y2hodkZ6cC15R095ckpuUU81RUJTd3FwSG5qNTRyN1piRlJPWF9rcjVKTnJwNldseVYyQ0VMYjdDcnZPRXljclo0?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "51m ago",
+    "news_age": "53m ago",
     "news_columns": [
       "gas_price",
       "energy_per_capita",
