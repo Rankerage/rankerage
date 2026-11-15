@@ -958,7 +958,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 133,
     "fifa_w_rank": 115,
-    "news_score": 0.54,
+    "news_score": 0.53,
     "bottom50_wealth": null,
     "news_title": "Andorra goalkeeper Jesus Owono hit with 12-match ban after tragic collision leads to death of Tenerife striker Jesus de Miguel - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcTVad2xFOTJHMnVXOE5KaS13bUl3VzQxVk9pNlJqOGdzYjNRS2VsNFF2U3BZVWRhU24xT0w0cVkzNGRiLVp1dDlQWlM1U2w4NkszR3N0RVlpcXA4Tl9jbVp0clU0d2hmSlZjYXdwZTFGUm1DTnE1blQtY2RlaWwwc1IxdldkdWJKX1k0?oc=5",
@@ -2565,16 +2565,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 6.02,
+    "news_score": 5.99,
     "news_title": "Australia overpower New Zealand to win fourth consecutive men’s Rugby League World Cup - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS21KQm9tY1Q4QkQ1NG5hSTVBUGVyZnZsN2NKNFhpVXZYSU55bHJYczhxdWlhWGV6LWlfeUQ5OUIyRVVUWWpQRmRKV2luTTJ3Zm9razZuSC14UEZqUlpQM2Q3MEJWT0xPQkZFaUlfajZqRzhrVDlYNmtGTzNJUXR2dUtxU1RlSllMU2xyYXlCSzB6enBwMG1SbWlpdVdtZnhNWmxoc0QyeHJnOHExeGVoYU5wQ3AxaVRuYU90QVJValJHamVNYUxETVdR?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "48m ago",
+    "news_age": "50m ago",
     "news_columns": [
       "rugby_league",
-      "rugby",
-      "world_cup"
+      "rugby"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3065,7 +3064,7 @@
     "union_rate": 72.9,
     "union_rate_rank": null,
     "fifa_w_rank": 80,
-    "news_score": 0.3,
+    "news_score": 0.31,
     "news_title": "Iran Targets Bahrain Again After Resuming Attacks on U.S. Ally - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc3lsWFRDVTFjbUZFVHdTWkVtWklneU0tUGk0bmdSQUh1dlg0NTg5MXFMREhEOURUTC0zeEJyUUtPTmh6TGNPem92V3pWeUlLUkVKelRuY0VhaWUzaHgySnMtaG4wZmRUUDBQVmx4T18wd2tkVW1wMUppTmFscWlKT0NiaERXYkpPcElwTnNjZFVWWTg?oc=5",
     "news_image": "",
@@ -8027,15 +8026,19 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.1,
-    "news_title": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business - The New York Times",
-    "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNmlDTE1xbEwwa3NwamwyY09wSXoyaE1UZ2prNXJ3OHItZGZlTkdneDB5RjRtRGQwal8tWERrRUhxSGJFa3F1SkFIV2ZpdHd1MWFqZDV1R0ZweHlWbXB4TW56UDBuaUdRYWhzZndoc3R1a0RscWxSZTRoSUlYMDI2TGxEeC1TTUF1bFJoZ1lwOHYxcERFRkUwa01ETFpJNF9LT3p3R1Yybmk5aDUtWDJ3M3NUZWpESnVJU1RGZ25Hdnl0d1U?oc=5",
+    "news_score": 0.85,
+    "news_title": "Tears and Disbelief in Taiwan, Where Jensen Huang Is a Celebrity - The New York Times",
+    "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZdTZsZlJDQ2h2VjdwSjBOeG5XYzZWdmV2X0QzeEN6Y01kd0tXVlVKdzJkZVJkOGtwbmRKS1F0WHdYNXVSNG9mTlJRckhmZjh2RE1WMXQ4QlRuN1JjNHdSUWhEaXJEUHI0WmEyQ211eHNZV1FZUlFZ?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "105m ago",
+    "news_age": "107m ago",
     "news_columns": [
-      "tech_policy",
-      "trade"
+      "democracy",
+      "press",
+      "gpi",
+      "polit_kill",
+      "military_pct",
+      "nuclear"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -15466,7 +15469,7 @@
     "refugees_rank": null,
     "union_rate": 65.3,
     "union_rate_rank": null,
-    "news_score": 0.14,
+    "news_score": 0.18,
     "news_title": "United States thrash Haiti in Pochettino's penultimate match - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFA5UjMybHFXMXZlTkhIay1xeGY2ZVhTUTN4SDNQWjJtTVVkbllvYTFpN1JQcE1kLU5zcWVjaVVIam9Pc0JKOC1JUlFTdll3VmkxdWhPVy1sQlh1OWVqQ0dMZFlwRXRvbU5XR3R2MTR1cF8wMWJpZmI0Q2Y5amZlX3FHRXZqcVdDUExxQWhENmw?oc=5",
     "news_image": "",
@@ -17140,7 +17143,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSUM1ZGl1clE1bHNxVDE5anU2YUxmdkNpVU1Ma2F3bGR3dW1tTmM3dVY3QVZvdWVjRXpyenBVUmQtVHBPMHhwUjU0b0dYcHk0cEpqUDlvZzZWSlhNME9UUzVBYmVQcXppMFlqZkxQeHNQYnU3SVp0Vm1FTWRrODJuZFlkYzRIRkptOTZHMExmUzFpOVB3d2hjU3docFlXaTd3QkJmbEtrUGY4bzF5S3Nxb2hR?oc=5",
     "news_image": "",
     "news_source": "The Jakarta Post",
-    "news_age": "99m ago",
+    "news_age": "101m ago",
     "news_columns": [
       "economy",
       "business"
@@ -17397,7 +17400,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.29,
+    "news_score": 0.31,
     "news_title": "Iran Targets Bahrain Again After Resuming Attacks on U.S. Ally - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc3lsWFRDVTFjbUZFVHdTWkVtWklneU0tUGk0bmdSQUh1dlg0NTg5MXFMREhEOURUTC0zeEJyUUtPTmh6TGNPem92V3pWeUlLUkVKelRuY0VhaWUzaHgySnMtaG4wZmRUUDBQVmx4T18wd2tkVW1wMUppTmFscWlKT0NiaERXYkpPcElwTnNjZFVWWTg?oc=5",
     "news_image": "",
@@ -19461,7 +19464,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSm9MQkN0M3kyN1IyeFNHS3lYal9FVk1QN093a09SbEkwX3JQM3VqenpHcnBYcUstR0pnNVdTUlZrRDY3THVvakZFQ2xpMWJwTmhhdGNLMGJteEtDV3lTSlVwTjdxWGR0YkN6TjdmTzM1RG52Smo4SWlMeXBRQ3ZoNFN0ZjFLTk8wblJ2MTJVeTgwMDVzN1dsaEdSN2pEV3I1WUtKWmNsd1hUYkZ5TVp6aGx3dkRJd3pDZm0wcjFBN1RXQzA1OHZNdVl5S3N1V05DUnA1cTVac1VEQQ?oc=5",
     "news_image": "",
     "news_source": "World of Showjumping",
-    "news_age": "117m ago",
+    "news_age": "119m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -27823,16 +27826,15 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 6.08,
+    "news_score": 6.05,
     "news_title": "Australia overpower New Zealand to win fourth consecutive men’s Rugby League World Cup - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS21KQm9tY1Q4QkQ1NG5hSTVBUGVyZnZsN2NKNFhpVXZYSU55bHJYczhxdWlhWGV6LWlfeUQ5OUIyRVVUWWpQRmRKV2luTTJ3Zm9razZuSC14UEZqUlpQM2Q3MEJWT0xPQkZFaUlfajZqRzhrVDlYNmtGTzNJUXR2dUtxU1RlSllMU2xyYXlCSzB6enBwMG1SbWlpdVdtZnhNWmxoc0QyeHJnOHExeGVoYU5wQ3AxaVRuYU90QVJValJHamVNYUxETVdR?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "48m ago",
+    "news_age": "50m ago",
     "news_columns": [
       "rugby_league",
-      "rugby",
-      "world_cup"
+      "rugby"
     ],
     "bottom50_wealth": null
   },
@@ -36740,7 +36742,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMkhzVmFMLUtfVjZxU3ZGM1lBYTdZSkJBUS03X3c4TWtVdE4wZzAwa05jTFgxLTBtQlJwMjhCcHlNR21qUXpaMTFNNWRpOXNKWTZ2b01teDFGWjFUTWItbFpVRG9zczVLeC1fUC1SNG03VmU3NFczd2JnLXl6dW5zcW5CcXg3a3AtMUw4bHdB?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "40m ago",
+    "news_age": "42m ago",
     "news_columns": [
       "fifa_w",
       "fifa_ranking"
@@ -38438,15 +38440,15 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.74,
+    "news_score": 0.71,
     "news_title": "Tears and Disbelief in Taiwan, Where Jensen Huang Is a Celebrity - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZdTZsZlJDQ2h2VjdwSjBOeG5XYzZWdmV2X0QzeEN6Y01kd0tXVlVKdzJkZVJkOGtwbmRKS1F0WHdYNXVSNG9mTlJRckhmZjh2RE1WMXQ4QlRuN1JjNHdSUWhEaXJEUHI0WmEyQ211eHNZV1FZUlFZ?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "105m ago",
+    "news_age": "107m ago",
     "news_columns": [
-      "tech_policy",
-      "trade"
+      "tech",
+      "business"
     ],
     "bottom50_wealth": null
   },
@@ -41267,7 +41269,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.44,
+    "news_score": 0.45,
     "news_title": "Ukraine war live: Zelensky says US floated Donbas proposal for Nato membership - The Independent",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTGQwamJqbjhtTlFRWHNTSG5EZHI4ZXItamJnZlB6M0lkS2FoNS11eWpxY2s4dTVPcFVjRzVjTUVSeDhrNTJXdF9RSWtDYy16QW96YlJGWk9xdjNDZV9oNkhIa1hWcE9qZEhZLV95RHVzUFZBOHFqUDBLVGdWMHBCeUk0c0ZlTzdVakZkTnloRkFJVVdTdW5HeDgzLVFMUGZSQWdlNFQ0OHFFUFQ4a2NNaTVPQVhpdw?oc=5",
     "news_image": "",
@@ -42540,7 +42542,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.22,
+    "news_score": 0.28,
     "news_title": "United States thrash Haiti in Pochettino's penultimate match - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFA5UjMybHFXMXZlTkhIay1xeGY2ZVhTUTN4SDNQWjJtTVVkbllvYTFpN1JQcE1kLU5zcWVjaVVIam9Pc0JKOC1JUlFTdll3VmkxdWhPVy1sQlh1OWVqQ0dMZFlwRXRvbU5XR3R2MTR1cF8wMWJpZmI0Q2Y5amZlX3FHRXZqcVdDUExxQWhENmw?oc=5",
     "news_image": "",
@@ -42549,8 +42551,8 @@
     "news_columns": [
       "nfl",
       "american_football",
-      "tech_policy",
-      "trade"
+      "tech",
+      "business"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43751,7 +43753,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 1.03,
+    "news_score": 1.02,
     "news_title": "Institute of Construction Science and Technology: Contributing a scientific and technological foundation to the construction industry. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaWNMbUEzQWc5c2R0bmtlbnRWOGVnbzVEcXhZcUIwdE9hWlFyZFhkYmZQZVlCd2xsQjFlTkFZY0lsMlpfZ0VzSDFNT3N0SlllU3hfTUhqRTkxYUxnMFQ0eGNkaWRFZG5YX1RudENmRmp3T0hxbDFJVjJoaTNaQ1BkU2dtY2tSY3Z0eWJQcVFkdTFyQ083VC12bUlPTXpmNk5NS3Z3aGVhdDh4NXFDWldOSk9oV2g?oc=5",
     "news_image": "",
