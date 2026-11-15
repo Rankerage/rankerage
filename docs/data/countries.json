@@ -958,7 +958,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 133,
     "fifa_w_rank": 115,
-    "news_score": 0.57,
+    "news_score": 0.56,
     "bottom50_wealth": null,
     "news_title": "Andorra goalkeeper Jesus Owono hit with 12-match ban after tragic collision leads to death of Tenerife striker Jesus de Miguel - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcTVad2xFOTJHMnVXOE5KaS13bUl3VzQxVk9pNlJqOGdzYjNRS2VsNFF2U3BZVWRhU24xT0w0cVkzNGRiLVp1dDlQWlM1U2w4NkszR3N0RVlpcXA4Tl9jbVp0clU0d2hmSlZjYXdwZTFGUm1DTnE1blQtY2RlaWwwc1IxdldkdWJKX1k0?oc=5",
@@ -2565,16 +2565,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 6.33,
+    "news_score": 6.09,
     "news_title": "Australia overpower New Zealand to win fourth consecutive men’s Rugby League World Cup - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS21KQm9tY1Q4QkQ1NG5hSTVBUGVyZnZsN2NKNFhpVXZYSU55bHJYczhxdWlhWGV6LWlfeUQ5OUIyRVVUWWpQRmRKV2luTTJ3Zm9razZuSC14UEZqUlpQM2Q3MEJWT0xPQkZFaUlfajZqRzhrVDlYNmtGTzNJUXR2dUtxU1RlSllMU2xyYXlCSzB6enBwMG1SbWlpdVdtZnhNWmxoc0QyeHJnOHExeGVoYU5wQ3AxaVRuYU90QVJValJHamVNYUxETVdR?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "38m ago",
+    "news_age": "40m ago",
     "news_columns": [
       "rugby_league",
-      "fifa_ranking",
-      "fifa_w"
+      "rugby"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3065,19 +3064,19 @@
     "union_rate": 72.9,
     "union_rate_rank": null,
     "fifa_w_rank": 80,
-    "news_score": 0.02,
-    "news_title": "KSA Business: Saudi economy to rebound in 2027 as oil output recovers, says Moody’s - Gulf Daily News (Bahrain)",
-    "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUnJUTkV4WUNaMDZHbGU1Uzc5cnZBc2xJZVJVS1I4OHZ4Nl93OVMyend4X3ZuNndpc0szeFFqWlpuX1BJUVRkTG1QeE9HNGRZTjYzenJFbTRzazB3bUFPelVyb1NaQVJONWRNc29xZVEwU3E5cEx3T0FCMkl1Nk80WkdES25aVW9SY1pzV1E2SUF5dDViMU9BUWdCSFY5YnJpdXBxeVgyNVA1bkZtNXJkSVVnUzFrSmpVdjdz?oc=5",
+    "news_score": 0.12,
+    "news_title": "Iran Targets Bahrain Again After Resuming Attacks on U.S. Ally - WSJ",
+    "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc3lsWFRDVTFjbUZFVHdTWkVtWklneU0tUGk0bmdSQUh1dlg0NTg5MXFMREhEOURUTC0zeEJyUUtPTmh6TGNPem92V3pWeUlLUkVKelRuY0VhaWUzaHgySnMtaG4wZmRUUDBQVmx4T18wd2tkVW1wMUppTmFscWlKT0NiaERXYkpPcElwTnNjZFVWWTg?oc=5",
     "news_image": "",
-    "news_source": "Gulf Daily News (Bahrain)",
-    "news_age": "15h ago",
+    "news_source": "WSJ",
+    "news_age": "3h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -8027,14 +8026,19 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.73,
+    "news_score": 0.68,
     "news_title": "Tears and Disbelief in Taiwan, Where Jensen Huang Is a Celebrity - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZdTZsZlJDQ2h2VjdwSjBOeG5XYzZWdmV2X0QzeEN6Y01kd0tXVlVKdzJkZVJkOGtwbmRKS1F0WHdYNXVSNG9mTlJRckhmZjh2RE1WMXQ4QlRuN1JjNHdSUWhEaXJEUHI0WmEyQ211eHNZV1FZUlFZ?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "95m ago",
+    "news_age": "97m ago",
     "news_columns": [
-      "fifa_ranking"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "coffee"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -17131,12 +17135,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 103,
     "fifa_w_rank": 77,
-    "news_score": 0.69,
+    "news_score": 0.68,
     "news_title": "James Riady urges ‘confidence’ in Indonesia’s business potential - The Jakarta Post",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSUM1ZGl1clE1bHNxVDE5anU2YUxmdkNpVU1Ma2F3bGR3dW1tTmM3dVY3QVZvdWVjRXpyenBVUmQtVHBPMHhwUjU0b0dYcHk0cEpqUDlvZzZWSlhNME9UUzVBYmVQcXppMFlqZkxQeHNQYnU3SVp0Vm1FTWRrODJuZFlkYzRIRkptOTZHMExmUzFpOVB3d2hjU3docFlXaTd3QkJmbEtrUGY4bzF5S3Nxb2hR?oc=5",
     "news_image": "",
     "news_source": "The Jakarta Post",
-    "news_age": "89m ago",
+    "news_age": "91m ago",
     "news_columns": [
       "economy",
       "business"
@@ -17393,19 +17397,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.02,
-    "news_title": "Global Economy, Hit by Iran War and Inflation, Faces Sharp Slowdown - The New York Times",
-    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMktxdXlJWExWLTFHUkkzY25IRzdfM3ZvNE5XLWlLdzdxMGdZVWRhMUhjaUwzRjdwcGpVMFp6MkZYMGtwTzVSOG00Ml9IVV93QjR4Tm80cG9xdC1LdHFJME9XOG1odnRsQU15bUtqeEFoN1VEeXE4VGlncHlLWkUzR0g5LWFQNkx6VG51MA?oc=5",
+    "news_score": 0.12,
+    "news_title": "Iran Targets Bahrain Again After Resuming Attacks on U.S. Ally - WSJ",
+    "news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc3lsWFRDVTFjbUZFVHdTWkVtWklneU0tUGk0bmdSQUh1dlg0NTg5MXFMREhEOURUTC0zeEJyUUtPTmh6TGNPem92V3pWeUlLUkVKelRuY0VhaWUzaHgySnMtaG4wZmRUUDBQVmx4T18wd2tkVW1wMUppTmFscWlKT0NiaERXYkpPcElwTnNjZFVWWTg?oc=5",
     "news_image": "",
-    "news_source": "The New York Times",
-    "news_age": "3124h ago",
+    "news_source": "WSJ",
+    "news_age": "3h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -19457,7 +19461,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSm9MQkN0M3kyN1IyeFNHS3lYal9FVk1QN093a09SbEkwX3JQM3VqenpHcnBYcUstR0pnNVdTUlZrRDY3THVvakZFQ2xpMWJwTmhhdGNLMGJteEtDV3lTSlVwTjdxWGR0YkN6TjdmTzM1RG52Smo4SWlMeXBRQ3ZoNFN0ZjFLTk8wblJ2MTJVeTgwMDVzN1dsaEdSN2pEV3I1WUtKWmNsd1hUYkZ5TVp6aGx3dkRJd3pDZm0wcjFBN1RXQzA1OHZNdVl5S3N1V05DUnA1cTVac1VEQQ?oc=5",
     "news_image": "",
     "news_source": "World of Showjumping",
-    "news_age": "107m ago",
+    "news_age": "109m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -24837,12 +24841,12 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.0,
-    "news_title": "¡Rojiblancos play their part in Mexico U17 win! - Yahoo Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcjBONVY4MFBmcV9xaHdyUk10eU1EUmdPbmdjakVjeDBoeHdhZXA0ZXVGZEpUOWt6NXlTQjItbjVYQ3JLTVhkb2RpVFh0MEJGcnJwUVN6Y3JiSURkYTFkTDlMNHJVY1lMQVpnZ1ktcVQ1S0Rrdm5LQVYtLWZVeENMS0FCUk5PX2l2?oc=5",
+    "news_score": 0.26,
+    "news_title": "49ers will fly to Colorado tonight to begin acclimating to altitude for Mexico City game - Yahoo Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0NFZ2VZRC1oUk9KVnc0blYwQnRUUF83WGxsSXRMUzZlVEx4dHYtRmhHLTctQVBvQ3JRcFdhSWt2VkxKN3BtNUUyZnh0VFZFVFExNVR2ZEljcTZubjI2dUdIc29BRU9HY0swb3lQMUJOcS1WcDJVSDhJUUg4Q2pnN3hySEtZamU0?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "46m ago",
+    "news_age": "36m ago",
     "news_columns": [
       "doctors",
       "beds",
@@ -27819,16 +27823,15 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 6.39,
+    "news_score": 6.15,
     "news_title": "Australia overpower New Zealand to win fourth consecutive men’s Rugby League World Cup - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS21KQm9tY1Q4QkQ1NG5hSTVBUGVyZnZsN2NKNFhpVXZYSU55bHJYczhxdWlhWGV6LWlfeUQ5OUIyRVVUWWpQRmRKV2luTTJ3Zm9razZuSC14UEZqUlpQM2Q3MEJWT0xPQkZFaUlfajZqRzhrVDlYNmtGTzNJUXR2dUtxU1RlSllMU2xyYXlCSzB6enBwMG1SbWlpdVdtZnhNWmxoc0QyeHJnOHExeGVoYU5wQ3AxaVRuYU90QVJValJHamVNYUxETVdR?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "38m ago",
+    "news_age": "40m ago",
     "news_columns": [
       "rugby_league",
-      "fifa_ranking",
-      "fifa_w"
+      "rugby"
     ],
     "bottom50_wealth": null
   },
@@ -28470,19 +28473,15 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.28,
+    "news_score": 0.32,
     "news_title": "Nigeria Stock Market Faces Liquidity Constraints Despite N160 Trillion Valuation - Head Topics",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkNULXpEMHd5QjhOSklodnl4SUFBQUNxWl8zd0tGWHotSEFRR09CYkFfMTRHZW9fMGdhLTN1eHVIY2lZdk9tcVhfQ1hBRDJILWhWUmVSbm9Qb2l2Y1ExazFVZTlINjBMNGZWeDRzeGp2bEJqLXF6amwxMGUwX1RYOTNramxMR2VmT2FNRFVNYkpLRmtPVTlXdFpDMlc?oc=5",
     "news_image": "",
     "news_source": "Head Topics",
     "news_age": "5h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
-      "ai_research",
-      "internet_pct"
+      "business",
+      "infrastructure"
     ],
     "bottom50_wealth": null
   },
@@ -33137,7 +33136,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.04,
+    "news_score": 0.03,
     "news_title": "US now focused on 'facilitating direct engagement' between Russia, Europe, Kushner says after Ukraine peace talks - The Kyiv Independent",
     "news_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUDRmZTUzNjBjeGFLSUE5N0ZjSnJmOXNpV1QtOTNaUUdEdVdOd0xQZnB6TjlHZ3h1WWJvQktCSWF6cVZjakFnTEhScmZrcnpNTlVBZTVZQzRjVzM2T0RqM0djVnVEOVNoWnlMRTJ6ZThFVjBkdHFhRnFPWEdBbi1lT1V2dEdpMFpib19fOFZYakVDc3dUNEpnOFFZVHZkRzUtVjRzSktyMWhaRl9uSVhBQlRLc0RSMGFDd252MDRWcE9acWlIMy00bWxNTVRkT0RuZHBrQw?oc=5",
     "news_image": "",
@@ -36731,15 +36730,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.46,
+    "news_score": 1.68,
     "news_title": "PREVIEW: England face World Champions Spain in Madrid - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMkhzVmFMLUtfVjZxU3ZGM1lBYTdZSkJBUS03X3c4TWtVdE4wZzAwa05jTFgxLTBtQlJwMjhCcHlNR21qUXpaMTFNNWRpOXNKWTZ2b01teDFGWjFUTWItbFpVRG9zczVLeC1fUC1SNG03VmU3NFczd2JnLXl6dW5zcW5CcXg3a3AtMUw4bHdB?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "30m ago",
+    "news_age": "32m ago",
     "news_columns": [
-      "fifa_w",
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5,
@@ -38434,14 +38433,15 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.61,
+    "news_score": 0.67,
     "news_title": "Tears and Disbelief in Taiwan, Where Jensen Huang Is a Celebrity - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZdTZsZlJDQ2h2VjdwSjBOeG5XYzZWdmV2X0QzeEN6Y01kd0tXVlVKdzJkZVJkOGtwbmRKS1F0WHdYNXVSNG9mTlJRckhmZjh2RE1WMXQ4QlRuN1JjNHdSUWhEaXJEUHI0WmEyQ211eHNZV1FZUlFZ?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "95m ago",
+    "news_age": "97m ago",
     "news_columns": [
-      "fifa_ranking"
+      "tech",
+      "business"
     ],
     "bottom50_wealth": null
   },
@@ -42543,7 +42543,9 @@
     "news_age": "15065h ago",
     "news_columns": [
       "nfl",
-      "basket"
+      "american_football",
+      "tech",
+      "business"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43744,7 +43746,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 1.08,
+    "news_score": 1.07,
     "news_title": "Institute of Construction Science and Technology: Contributing a scientific and technological foundation to the construction industry. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaWNMbUEzQWc5c2R0bmtlbnRWOGVnbzVEcXhZcUIwdE9hWlFyZFhkYmZQZVlCd2xsQjFlTkFZY0lsMlpfZ0VzSDFNT3N0SlllU3hfTUhqRTkxYUxnMFQ0eGNkaWRFZG5YX1RudENmRmp3T0hxbDFJVjJoaTNaQ1BkU2dtY2tSY3Z0eWJQcVFkdTFyQ083VC12bUlPTXpmNk5NS3Z3aGVhdDh4NXFDWldOSk9oV2g?oc=5",
     "news_image": "",
