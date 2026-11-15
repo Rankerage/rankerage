@@ -2563,12 +2563,8 @@
     "news_source": "www.rba.gov.au",
     "news_age": "76842h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -16832,16 +16828,19 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.22,
+    "news_score": 0.11,
     "news_title": "World Diabetes Day 2026: Diabetes can develop silently for years: Why one simple health check could help detect the risk early and prevent future complications - The Times of India",
     "news_url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPVjNqVWZVQXNHV2MwOW01S09jblhYOWczdXl0bEk3VGdETGVwWjRmX0lhNlptYkoybzdwRzBXVDMtSFoyMm5XY3daYnRVTEp2T29pTjlzb051STltVS1iYjBHdmR1VGxHVUNQRnpPendveFd4YUJuaDQtR0JsUGJQNEF4dVRINk9aLVpoMW1kOFpYX0NfYzZZLW8xajdQNnVUZlAzR1dPU0IwTHRlVFlMc3BxX0UyLVB0a20yZk40VEJVZzRvVkpRMHQzejBIbkRLaS1qaWxSNkJfNTdKQTZqX2lmVV9nUXFsaHNHV1N2d2dTdEwySTIwZEdUZjNUNzhibjZoY0tYSFcxdF83V1JDbDV0WlY3S0hFNGxTcWo2dUh1Y3ducGtFa9IBsAJBVV95cUxPZDVOdUMwc0JqWEdGYmoyN1EzaGpNOHZVSEZGVzNmcEhGVGdPcHVCTzFEem4zc3lBRWV2Z1NjVGJIUTVYU1E5cVhfY0w1aGZzZjBneThuQWFOV1NzTjhzWVY1MEJYOFc5Zlh1ZjVydHlETmNwMnVFT3FDUUVvQl9CWUpCMjFZMzB0S1pNNWtqTTNkSFdlYTRzdEpmYnN2Y2RJRjdVOVp6Nm56aDMxNzdNeUZKWDNEY1NZUlhNOVczcXdhWGtHeWowQ3BEeE55NTBReUlpYXN0ZzRRMk8yejVRUHJvempDcWhGakszdEctanAwdGsyZ2hTblJ3WTFJTFl2WlZKNWh2Q0JLelhVWTBtcmZfZUhpMTBVai1QTFlwdjY3RXhUR1V1YURmM3lPWTR6?oc=5",
     "news_image": "",
     "news_source": "The Times of India",
     "news_age": "26h ago",
     "news_columns": [
-      "ncaa_football",
-      "cfp_ranking",
-      "fifa_ranking"
+      "health",
+      "life_expectancy",
+      "doctors",
+      "beds",
+      "vaccination",
+      "infant_mortality"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17405,16 +17404,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.11,
+    "news_score": 1.05,
     "news_title": "Netanyahu urges talks ‘without preconditions’ on unity government; Eisenkot rejects PM’s ‘spin’ - The Times of Israel",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalk5X0pscG9RYW5lUWJuTFdKTF9BaV9CMi15MGV1LS05YnZUaWFsVE9CLWNxMnpqZ1NHbG9VWk1vai1rV0xsU2xwVlVLZTdqOHR3NTN2cHhLRXVXTVk5U01FeGJhRGppQ2d0VWNXdm1vLWw3MHZuTXVGS0N0OEp1eE9zRXRobTJjblh4c205T0tCNmlvZGRYNEc0RXRSU1B3RUVsVWpiVFRwcmlvQThLVzNR0gG3AUFVX3lxTE9Bb29jYV9MdVpkV3JhUE42WnU4bi1wTmlCcjRmMUtsS3VvbFdWbGhaMTZwUjlzVHVCVnU1dzdEZkMxYkh4MUFNUXRxcUt6bjhvX04xMERMallQWVZ2R29ETm8zTmFyQVpZb2hhY1QzZG5ud3BlTGdWTG03U3FDek9FLXhlTVRVaUlrMUY1dDlaVDRMV253TnQzQmlwLVVuLWVZLVRWTGxTMmZ1MFZna3M1QmlITXNjaw?oc=5",
     "news_image": "",
     "news_source": "The Times of Israel",
     "news_age": "2h ago",
     "news_columns": [
-      "geopolitics",
-      "energy",
-      "shipping"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -17885,7 +17882,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOTHQyWEhQMURRZWNtOVBqMnZpbHpjYmQtUzMyVFE0aUs2ekx6NENYZVloT3g0cXA0aVBtZ2V1SVNXQ25oNFNwZ01SdF9PLUhtemcwQUgtU3R4X0FBanJxQzQtRDIyWDhGQm5sc1MzRTdVTldFTWlUdDR1YzhoZHdDMWo3a0VYVWt6M3E4Y1gxR0JVMHFZNGR1akZva1VJWTJUdXI5aTlzOFJoNGNoUERNUlRTZjV1QXJ5cFUzWm0zLThIaEpLUzZwX1hua1RvT0s3bW5fbWJ3bFNBaFRJaS1GSFZfb2lIaGxjUlB6SmhRUENFQmZPTF9odC1nVFY4VW9CeVh2U0x6c29IUXJsaWhNMjRlaDBrSGRVeUotTXFQZUQ0ek0?oc=5",
     "news_image": "",
     "news_source": "Afloat",
-    "news_age": "27h ago",
+    "news_age": "28h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -18138,7 +18135,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.86,
+    "news_score": 0.85,
     "news_title": "Netanyahu urges talks ‘without preconditions’ on unity government; Eisenkot rejects PM’s ‘spin’ - The Times of Israel",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalk5X0pscG9RYW5lUWJuTFdKTF9BaV9CMi15MGV1LS05YnZUaWFsVE9CLWNxMnpqZ1NHbG9VWk1vai1rV0xsU2xwVlVLZTdqOHR3NTN2cHhLRXVXTVk5U01FeGJhRGppQ2d0VWNXdm1vLWw3MHZuTXVGS0N0OEp1eE9zRXRobTJjblh4c205T0tCNmlvZGRYNEc0RXRSU1B3RUVsVWpiVFRwcmlvQThLVzNR0gG3AUFVX3lxTE9Bb29jYV9MdVpkV3JhUE42WnU4bi1wTmlCcjRmMUtsS3VvbFdWbGhaMTZwUjlzVHVCVnU1dzdEZkMxYkh4MUFNUXRxcUt6bjhvX04xMERMallQWVZ2R29ETm8zTmFyQVpZb2hhY1QzZG5ud3BlTGdWTG03U3FDek9FLXhlTVRVaUlrMUY1dDlaVDRMV253TnQzQmlwLVVuLWVZLVRWTGxTMmZ1MFZna3M1QmlITXNjaw?oc=5",
     "news_image": "",
@@ -19273,7 +19270,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWU9wYnAwQ01YZjA2dnM5Tk5oeHpTZm8tUW94aGN3RnQwOWpoNUFDYlpERDhRS1d5d0ZRS2pwQ1pBWmUwT0tKSVZrb3kyVlRhSXdUVEZCRXpSOTJ1a2NLNFlfWjBqeDd4d2h5bGllNUZMREM0OThpQ3QzZG4tVlRnTXZqQldDSDg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "73m ago",
+    "news_age": "75m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -30512,12 +30509,12 @@
     "union_rate": 71.9,
     "union_rate_rank": null,
     "fifa_w_rank": 48,
-    "news_score": 0.16,
+    "news_score": 0.13,
     "news_title": "South Africa@Panama - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
-    "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVFYSjFkTEVkSjgyUzZqUnM2TVZ3RjA2eUd6RV9Lc2REb01WZUNtWFhyOW1Sb3gta2RUVU1ZR1dzQ21RU2hUdVl0dnAyNmdCdjlESzdhcmVZa2drRnBJeFJyeE1NYkdRcDBuVm5VOEloRE81ZmlHNHJhOUVackYwMTNVY05UdVRuMGRxczk2QkNYOWJvd1M3S1VfS0dDekduLUNHeFI3dlo?oc=5",
+    "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMzZzS3FlS2VibkxyVkhlOV9PWFNMNExkR2NaREVja0NGd2o2SXZhcUpjeVZNUTRUR2o4cEhNaURkZHVNRUcwVkZJZEsyMUdwalZUMkhSVlVXVjJtT3dfWndKajRhR1p6NzVDM29sdUNLTU1mOWdSeVhYaGkzUnhuTkhUc29OS0sybU9RUVlEUmJsY1JVQ1daZGdsQ2NLX1ZOWDllbA?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "5h ago",
+    "news_age": "9h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -31111,7 +31108,7 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.15,
+    "news_score": 0.14,
     "news_title": "Pope Leo urges end to violence in Peru during visit to remote Andes town - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaThSTWlHZG9mM2JLSHd4Vnl0bk1GLUtlYy1VNktsWFBVMnVwbEJ2c1Y0bUczZGV0bnpzOHJzMGFSNkdGb1FndmNiUU5IM2dtSGNTdUZ6NjcyVDdYLXlzcHNnOEdUTkpOeDl4ekR6aUo4TVhJLTExX3BOOFE3NHFscUliTXlubnB4Yk9GeVJoMlJnd2RQZTE0cGdsUWJhU0VpOEl4a3c2dEpBMlNfcjQxR1dlbXTSAboBQVVfeXFMUGhXVHNabjI3TS1NRnlvZlRadjNmRVJ3clFkQVlwYmUtdmNubGk2alVrZ2xaa3ZULWNFZUh1Ujd0UmVKNno0NzlWUG5zWEtVUS1OTWVMZ3MyNmM5a19ZOVljdHMyMVNUTHlySjgzQlFmRHZKTVNxaFNiSGVqSUM0d0VjNDRIQVRaX1lRX3IxcG5WYV9IN1h4WmZkOElBVEhjM0JsNE1pdkRfNkVWb1ljV25ILUFkZkxVdGxn?oc=5",
     "news_image": "",
@@ -35659,12 +35656,12 @@
     "refugees_rank": null,
     "union_rate": 60.6,
     "union_rate_rank": null,
-    "news_score": 0.16,
+    "news_score": 0.13,
     "news_title": "South Africa@Panama - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
-    "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVFYSjFkTEVkSjgyUzZqUnM2TVZ3RjA2eUd6RV9Lc2REb01WZUNtWFhyOW1Sb3gta2RUVU1ZR1dzQ21RU2hUdVl0dnAyNmdCdjlESzdhcmVZa2drRnBJeFJyeE1NYkdRcDBuVm5VOEloRE81ZmlHNHJhOUVackYwMTNVY05UdVRuMGRxczk2QkNYOWJvd1M3S1VfS0dDekduLUNHeFI3dlo?oc=5",
+    "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMzZzS3FlS2VibkxyVkhlOV9PWFNMNExkR2NaREVja0NGd2o2SXZhcUpjeVZNUTRUR2o4cEhNaURkZHVNRUcwVkZJZEsyMUdwalZUMkhSVlVXVjJtT3dfWndKajRhR1p6NzVDM29sdUNLTU1mOWdSeVhYaGkzUnhuTkhUc29OS0sybU9RUVlEUmJsY1JVQ1daZGdsQ2NLX1ZOWDllbA?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "5h ago",
+    "news_age": "9h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -42547,14 +42544,9 @@
     "news_source": "City of Toronto",
     "news_age": "15056h ago",
     "news_columns": [
-      "ncaa_football",
-      "cfp_ranking",
       "fifa_ranking",
-      "travel",
-      "aviation",
-      "infrastructure",
-      "space",
-      "technology"
+      "basket",
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
