@@ -2556,15 +2556,16 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 1.82,
+    "news_score": 1.87,
     "news_title": "Australia v New Zealand: Women’s Rugby League World Cup final – live - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdzU4YlZwem1zWllDTUdJeFJWVmYzajBpWmoyWnBvX1ZKZmNWLWJld291VU90SzVLMmI2cE9LNml0enhzdjlNUzF1anZOVHEwcWQxSVUybHdSWGp0YTExbUhGNWVhSnpZMG1abXpIRmJEekM4MlhaVGsxRDVOTUU1YWxZNW1SNzNvdnRXNGJicW4yTUthWDZqZTFqZjg4U3FuWkFVUEl0ZThGNkNXLUdJOGVoS3FYQjdQT2d5cXJFNS00ZC1Rd0x0di1xRkdRLXo4Y0xsa0dBRkFBVTB1aHc?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
       "rugby_league",
-      "rugby_w"
+      "fifa_w",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -8017,7 +8018,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.9,
+    "news_score": 1.18,
     "news_title": "The world according to China - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjFJU0l0RDAwQ2FiRlJ5TWI4UnFSYzJPT2tTXzhydHU5ZEt1LVRseXY2aHByQ2FSdmpVWC00ZlpSc0IwX05rYkhpQkZrejd5dlREeDVHaHV6eXdaUllhSktGa3Q2YUk3aFBxQWR3R29zakdzVy1oZjlpSF9PZWo0d0h2aFc?oc=5",
     "news_image": "",
@@ -8025,7 +8026,7 @@
     "news_age": "2h ago",
     "news_columns": [
       "diplomacy",
-      "trade"
+      "economy"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -12528,19 +12529,19 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.0,
-    "news_title": "German Emma Aicher wins World Cup slalom in Levi, Finland - VailDaily.com",
-    "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORFNwOTRPSXFTUFlWTXBVMXZxRUo3emwwTnhBeUpZUzRKOVZManNLOGtaVkRKd0h2bDY0OFdFQXFoZmhJTmpoOFdGdzBVM0J4Zm9XLUoxdmc5V3pVbUZQLW9PblNrTXhSeG9ZWUZaV2JQcnoxbVpqNGJHM1F6ZnZqVzZZdmZSelF6bUxuOG9TWnVVZw?oc=5",
+    "news_score": 0.27,
+    "news_title": "Hurricanes leave Finland with sweep of Kraken - Yahoo Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2hsUlBpZFYxeUxTU2VRX3ZJa0Rhc3J6ZERIcnRhdmg4S3lzVk9aNjM1U2ZoSDMxbU92N3E5ODk0RHVQbVBzNkZiZGVNQkJUdmtGdnZBUUlEcl9rTEdBakFjdmJUbV84TG15WmR3c1VWVVJSNE0zZzFYWThXcTh5YzJhWW83WmZ4eGtrWG5HYw?oc=5",
     "news_image": "",
-    "news_source": "VailDaily.com",
-    "news_age": "13h ago",
+    "news_source": "Yahoo Sports",
+    "news_age": "20m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "ai_research",
-      "internet_pct"
+      "earthquake_count",
+      "earthquakes",
+      "tsunami_risk",
+      "cyclone_freq",
+      "flood_risk",
+      "wildfire_freq"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 13
@@ -13034,12 +13035,12 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.93,
+    "news_score": 1.27,
     "news_title": "Dupont in command as France stay strong - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY3k0SGl4NWdRWWNIU0VDd1poS1JSZ2duMWdJMjd4amQtZThEOExra3hwX1cta0pVRWJmcmZ5Mk1uMC11RTZ3ZU1kNHN6cXVCYjBLMlk1YmdyS2tiWXU3X2t4SEMzWEFKYWFxcmlNRXdlem0xMUk3OEpiMEgwLXdyWnN6TWlicDBhTkE?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "72m ago",
+    "news_age": "74m ago",
     "news_columns": [
       "ufc",
       "mma"
@@ -13564,7 +13565,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.46,
+    "news_score": 0.41,
     "news_title": "'Ain't nobody coming to save us': Clemson's spiral hits new low in loss to Georgia Tech - CBS Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWGZBRUdaMjUteEl5ZGJ0YkxVZmpfNThwb3I3NXJ3MTZMYnc5Rjk4aWE0NlpLY0FuRUpMRGRzd2hSTVZvbVVsSTZPTlhibTE5X2ZDWjJ1LU5Za3ZHSEhFeVphLWYtdHZleVNLSjQ2dnRVLWFyQ3kyQ0VIeE1id21zN1pLdURONE9hWkRBVWJRYkQ?oc=5",
     "news_image": "",
@@ -15455,12 +15456,12 @@
     "refugees_rank": null,
     "union_rate": 65.3,
     "union_rate_rank": null,
-    "news_score": 0.25,
+    "news_score": 0.24,
     "news_title": "US thrash Haiti as Pochettino prepares for farewell - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRVdMRGpqUk5ZUVdhNzJwSWVHbkh3c1RYOW8zUDZfUEFuMmMwUVFTY1R1azRZRDdhYnZGcUZ1eHVDdmNzU0tlVHE2RTEwZHUyNTdmSklHQmlSN3R2MVdrc1U0dUJQdWJJN3lSLW1DREp2YnRZSTNuRzdVV1hGU0RqaDdNdGdBUnFFeHQ2SA?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "4h ago",
+    "news_age": "5h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -15877,7 +15878,7 @@
     "fifa_w": 81,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 62,
-    "news_score": 0.42,
+    "news_score": 0.56,
     "news_title": "Exclusive | Hong Kong sending who’s who delegation of business leaders to Apec CEO Summit - South China Morning Post",
     "news_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWjdJa3hvcmFHb013TmFyXzZoSGdkcTlLd2tneU93SmQtQVhYMEFHS0NqZ25obXMzblphWURoNHlkeDBNSWhRODE3Nl94dzJKYXFZV3IzRG1CUEFmaUlzUEJnd2tpT01EZDlrMEprZ3c0QlJjNmd1R3lWQXdQSGJEZ2hCVHhnN29MQW9oRDExT3NhZWtXQXpIYUNGMnVaTUZNeWJRUmtfRzJzc0VaX1RZT0VpVkgtcWJFcVV5Rmwwd3pPUElBSXRkU2JBWU1rZmpwb3VkUHpNZ9IB1wFBVV95cUxQN2JpTmtMdFFuZ1VUeGNIRElTZGFRNFV2VGFxaFloZm50eXJtMkhQd2xmMlJVeGtaZW5sRFZJakc3YXRCa2xaWUxxd2R3VjFnQWZvb1pKXzFielJsYnpGZWgwSFI0UW91X1M5QklNQ05FdzhPYTBBMUZVQnZHTUlyNk55elJsdlNfdjNvWkNmS05HSXVma1M3ZFBPRE8yMXJlcUtIX2pnRmRtVGtiM3NnLVNjTUFuRjU0Z2FJZUp3WnJsV1NaaUZOTG9OSkd2SVc3QTRuRnc5VQ?oc=5",
     "news_image": "",
@@ -15885,7 +15886,7 @@
     "news_age": "3h ago",
     "news_columns": [
       "diplomacy",
-      "trade"
+      "economy"
     ],
     "bottom50_wealth": null,
     "election_date": "2027-03-28",
@@ -16818,16 +16819,19 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.01,
-    "news_title": "Rome Hosts Second India-Italy Science and Innovation Dialogue - www.nationpathindia.com",
-    "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNFBGMkxuSmd6azN0ZlBjRnhEVkRDVjNoaTNYakh0VUJYakE3RTdRTVJXck10bDIyVjc5S1oyTmJHaWw1QnBvYUJob0xLczBUUDZ1UllKd2Z1bTZxVTVsb0FHMklFa1ZZSmgtRHM0a0VZR3hleFZRTGlESGhBMkNOVEtXM3FaR3BXdHNqcmxleFJQQQ?oc=5",
+    "news_score": 0.09,
+    "news_title": "Grant Wilson delivers as Indiana boosts CFP, Big Ten hopes with win vs. USC - ESPN",
+    "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmxkWG9XQVJ5QUo2WUNkbFFOa0V0Q3R4alBsYjZGNXBjS3VFQjllZUVBZTE3QVdiRnpOYnRpLUlQckpYQjZyNEQ2T2NERHVLTlQ2SzBpMGtmQ0l5QlBQNXJiazEyblRueTRlMDhSVk5Kdnc0SFZ1U29kVUI1WEI0enh1WXVOMmZwQnV0RXZTZGlGa0ZVSk1fSjVQZ1E5aGxHN0wwZUk1UEwyX0lWMmM1STlpUQ?oc=5",
     "news_image": "",
-    "news_source": "www.nationpathindia.com",
-    "news_age": "35h ago",
+    "news_source": "ESPN",
+    "news_age": "4h ago",
     "news_columns": [
-      "ncaa_football",
-      "cfp_ranking",
-      "basket"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket",
+      "gdp",
+      "gdp_per_capita"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17391,7 +17395,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.58,
+    "news_score": 0.43,
     "news_title": "Live Updates: Netanyahu says it's time to remove Iran threat \"once and for all\" - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
     "news_image": "",
@@ -18122,7 +18126,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.41,
+    "news_score": 0.31,
     "news_title": "Live Updates: Netanyahu says it's time to remove Iran threat \"once and for all\" - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
     "news_image": "",
@@ -19251,15 +19255,17 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.92,
     "news_title": "The COP31 talks showcase a disastrous post-American world - The Japan Times",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc2JycGh1aEtvSGwtRjVzSlZWSERHWEJjUFk3czkyTGdMOUh0NVVFdEpSYkViMVptQXJpX2lCWjh2TWYzaTZlbks0a0I0c2oxREdHbUVVN01KeUcySnB6RGhxeFc2OGZ0WWhEUTQxV0tXN2VpNjVSV2x3M3NVd0NOZi1zc3NlbDA0Z0o1cmc0RUJ5RVJvX1FTbUNn?oc=5",
     "news_image": "",
     "news_source": "The Japan Times",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "diplomacy",
+      "economy",
+      "climate",
+      "cop"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -27801,15 +27807,16 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 1.2,
+    "news_score": 1.25,
     "news_title": "Australia v New Zealand: Women’s Rugby League World Cup final – live - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdzU4YlZwem1zWllDTUdJeFJWVmYzajBpWmoyWnBvX1ZKZmNWLWJld291VU90SzVLMmI2cE9LNml0enhzdjlNUzF1anZOVHEwcWQxSVUybHdSWGp0YTExbUhGNWVhSnpZMG1abXpIRmJEekM4MlhaVGsxRDVOTUU1YWxZNW1SNzNvdnRXNGJicW4yTUthWDZqZTFqZjg4U3FuWkFVUEl0ZThGNkNXLUdJOGVoS3FYQjdQT2d5cXJFNS00ZC1Rd0x0di1xRkdRLXo4Y0xsa0dBRkFBVTB1aHc?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
       "rugby_league",
-      "rugby_w"
+      "fifa_w",
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -31090,7 +31097,7 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.01,
+    "news_score": 0.0,
     "news_title": "Pope Leo urges end to violence in Peru during visit to remote Andes town - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaThSTWlHZG9mM2JLSHd4Vnl0bk1GLUtlYy1VNktsWFBVMnVwbEJ2c1Y0bUczZGV0bnpzOHJzMGFSNkdGb1FndmNiUU5IM2dtSGNTdUZ6NjcyVDdYLXlzcHNnOEdUTkpOeDl4ekR6aUo4TVhJLTExX3BOOFE3NHFscUliTXlubnB4Yk9GeVJoMlJnd2RQZTE0cGdsUWJhU0VpOEl4a3c2dEpBMlNfcjQxR1dlbXTSAboBQVVfeXFMUGhXVHNabjI3TS1NRnlvZlRadjNmRVJ3clFkQVlwYmUtdmNubGk2alVrZ2xaa3ZULWNFZUh1Ujd0UmVKNno0NzlWUG5zWEtVUS1OTWVMZ3MyNmM5a19ZOVljdHMyMVNUTHlySjgzQlFmRHZKTVNxaFNiSGVqSUM0d0VjNDRIQVRaX1lRX3IxcG5WYV9IN1h4WmZkOElBVEhjM0JsNE1pdkRfNkVWb1ljV25ILUFkZkxVdGxn?oc=5",
     "news_image": "",
@@ -33117,7 +33124,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.0,
+    "news_score": 0.04,
     "news_title": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQ1hLMTNVb094dE1lVlNkWWdtNXVYQjFqUUQ0Q0xkR0s1VnFzUExZQVVlVEZLYTNIUWN3cWoxa1dIM0xkc0docFNONklpRTZ6UFlTb3hLeFJxWC1feVRscDJMSWZaazQ0YzQwRVNyTDNqYUdiMUszLQ?oc=5",
     "news_image": "",
@@ -36710,7 +36717,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.23,
+    "news_score": 0.24,
     "news_title": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRmxpdGVWWnFKalBDb3Z1ZG9rU2RhbVMydDV0WFRrak9KQldJYXNaNWNhUjBMNERyUkZfVU5HUl9IOEhrUm1QX0V0RERFZlctclg4SjZOX1pQR2N1dEVmdS1HdDJ4c2c5ZklDdmd6dEN4eURrSUN0cllhbEs3UERPbXNLODdXenF0cVczVUdVd0xnRU5qcDJ1R0MyMjE0Z21rRDVUZVpodmhOSXlaNEc5a05jbw?oc=5",
     "news_image": "",
@@ -39090,18 +39097,15 @@
     "refugees_rank": null,
     "union_rate": 75.8,
     "union_rate_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.54,
     "news_title": "Thai Chamber of Commerce presents six proposals for economic reform - Nation Thailand",
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwWEk3N1BNaFZlU0lkUks5M25tTGFBZ1NjUDR2WHkyWnRpVU5EcjljUUxRWnp1WlBUdmkybHc1VFg3VHlOTk5FQ01SWjItalFjdEFNMks4RWV1RGp4cXVyblM0ak8zSlk?oc=5",
     "news_image": "",
     "news_source": "Nation Thailand",
     "news_age": "3h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "diplomacy",
+      "economy"
     ],
     "bottom50_wealth": null
   },
@@ -41249,7 +41253,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.0,
+    "news_score": 0.04,
     "news_title": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQ1hLMTNVb094dE1lVlNkWWdtNXVYQjFqUUQ0Q0xkR0s1VnFzUExZQVVlVEZLYTNIUWN3cWoxa1dIM0xkc0docFNONklpRTZ6UFlTb3hLeFJxWC1feVRscDJMSWZaazQ0YzQwRVNyTDNqYUdiMUszLQ?oc=5",
     "news_image": "",
@@ -42529,12 +42533,12 @@
     "news_source": "City of Toronto",
     "news_age": "15059h ago",
     "news_columns": [
+      "ufc",
+      "mma",
       "ncaa_football",
-      "cfp_ranking",
-      "space",
-      "tech",
-      "fifa_ranking",
-      "soccer"
+      "cfp",
+      "climate",
+      "cop"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43450,12 +43454,12 @@
     "union_rate": 56.6,
     "union_rate_rank": null,
     "fifa_w_rank": 40,
-    "news_score": 0.71,
+    "news_score": 0.7,
     "news_title": "World Championship Final: Australia vs Venezuela - ballysports.com",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk5lTXJvTVR4b2Z4dGhCanloU2d4YXY3QVNJUkNUTDJxNmZTLUp5bklnQnI4d0hGV2MzNUl6VVhxTk9ZOGRxRjhqeDRQYUlsSTJ4SjlRVnl5UnlFOTBNYkMtaFRQNGZOQmNCbWgwX0FPTFpHazdhTkNBSmUtNHdnMHRkdlJfVUNFejFUTV91a1R0VC1PYl9hS2hMbE9UTXZtTjNKazlKQWM1a2oxVlE?oc=5",
     "news_image": "",
     "news_source": "ballysports.com",
-    "news_age": "82m ago",
+    "news_age": "84m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
