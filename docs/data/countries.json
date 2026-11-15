@@ -8019,7 +8019,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.55,
+    "news_score": 0.52,
     "news_title": "Trump faces Carney's refusal to back down as Canada pushes back against U.S. trade demands and Africa's largest economy turns to China - Business Insider Africa",
     "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcGRMYktmZXZYQWxOX3hEa3N6SHVYOTc3aW1hdjB6dnA3d01VRUQtdlRSRGpOc1M2eG93NWs0d1dqbWJaWkhVVXFzMThwQmlReFcwT1JkT0lhOEJsak8waDhEdGhtb1ZZcm10bTNpN0xUckhpY2lvTzNMWUNKcjlXT21zejVRaUk1aEV2a25RbndpejlmeGVFOURJT0stSmhkQVRwa2dkMnp2ZTNmN25naC1KX2ozX1pfVXg4MjZYZVlsZG1ZVFZseG1QakFWMk5kZlFjUVhB?oc=5",
     "news_image": "",
@@ -9083,7 +9083,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 128,
     "fifa_w_rank": 69,
-    "news_score": 0.28,
+    "news_score": 0.27,
     "news_title": "Nicaragua@Cuba - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbkNIM2wydklvaTRLVTF5Qnpwd0xWcDA0eHBQTGFqd2hrR3ZYWFpfSDhicWlXeXNYZ1ZHZ1F2WFVtRDNBMzZkTkwydkl3ZmR2Ry1DcFY5RUZOaXR2UXJkUGlxMkZsUHZkcDU5NUFlSUpRdWpKRXZFNHBvQldUT29CeWtyMzFMV2tZRnhkS2VFZ1M3MXdTOHoyY2hZQ3NMSmFlNEpxT3c2djc?oc=5",
     "news_image": "",
@@ -10950,7 +10950,7 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.57,
+    "news_score": 0.56,
     "news_title": "Egypt calls for easier climate financing for developing countries - Economy - Business - Ahram Online",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1M3RVhWWnB4TU1KREpveWFSU1I2aXRGRGRJNUZ3WURHTGwxX1NseWZNeFB5Z1RZRm9OUkpnX0NKd3NaeUZPaS1LZjFwRkp1U3puanBOQWllWTAtY0tXbFg5YkNqNTJueF9nMHhhNkFzdlFZcjY4U205QUxlSk1wNTRGRUVsaFZPREpOOVpIYWhVVnBHbzNkOUVoVXlOSXFfUlJnNVprYUk5RDVETi1RN2FiX0xnRWNLQ0ZSWW1IdDdxNGs?oc=5",
     "news_image": "",
@@ -15463,12 +15463,12 @@
     "refugees_rank": null,
     "union_rate": 65.3,
     "union_rate_rank": null,
-    "news_score": 0.96,
+    "news_score": 1.04,
     "news_title": "USA Routs Haiti After Pochettino's Move To Man United Became Official: 5 Takeaways - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYXgyYW5IaXlfYURDOE90SG4tX0xjbkdFWHIwa3p3LUVCMGZpNk5Tem1Rajl2NlhEZnhOQjJWTXZjUTFyWVpnLWdUMmR5c295NmUySmF5d0xid25TbV9KQ01pNDFoaWI2a0E3eEF1aC1LckVidGliclgyR1Zfd2N6NG9PWWczckNwbnZUeHFqS01wWVNVSzRURE9YSmxEd9IBngFBVV95cUxPRHJSdW5yRHJGOGN3cHJ0Z1Mxajk1MXJWV1VTd3dKME9jc2s5cGRIbTlpQVZEU3JZRk1Yb0RmdFZJcDlmaU5IelB2OEw3U2RHOXAxemR0cnotWDVNMHJZVnFPZF9VZm50c29CNU5raEZUazQ0NmRVbXFlVmdjWGdHQjFVS2dkVzYwU2FpeHlFVW1feEU5TnpmRmxtXzkzQQ?oc=5",
     "news_image": "",
     "news_source": "FOX Sports",
-    "news_age": "48m ago",
+    "news_age": "50m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -16837,8 +16837,12 @@
     "news_source": "The Times of India",
     "news_age": "25h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "health",
+      "life_expectancy",
+      "doctors",
+      "beds",
+      "vaccination",
+      "infant_mortality"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17402,14 +17406,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.19,
+    "news_score": 1.17,
     "news_title": "Iran's navy says three tankers on fire after hitting mines in Hormuz - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
     "news_image": "",
     "news_source": "Reuters",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -18133,14 +18138,15 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 1.07,
+    "news_score": 1.12,
     "news_title": "In world first, SpaceX successfully recovers spaceship that orbited Earth - The Times of Israel",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNck9oM1d0UnBQN1lMQ2Q5eTJ0a3ZVTm8wZlAzZ0VXRkVCdkhSenlQWkhQR1l5Nk5DOFZqenNTTmRqRnpRbHJvRlY5VFRuX05FR1pNTzlOR2x1RmwxQWRJOEJFSEN6NFRjbGlXVldHWGNzRHNLYW9RNGpvVmJBTHRiTXBBMjBTWVVvaWRyQVdkcDY0U1NPU29wTllHUVFaaUw2aTNDREZB0gGrAUFVX3lxTE1Ub2tNbUdHRmRnMUlGanVnRXJ0YUcwSURETVFmeFVOMF9mZzl2a0NnbFR4YlA4NFREaXV0WGFDcWFhTk1ZQmg3SEpOY0NIQUh4cDRsZWk2alBtZzd0b0NtNGFRRF9zUnZtM0Mxa1MwQmFCOVYtX1FMX1NFNEdnbm80U283Q3hWRXNkMVJ0dmtqMGZkR3pnZU1ZVjVfdEQ4ZVRhMTVELXQxRThRTQ?oc=5",
     "news_image": "",
     "news_source": "The Times of Israel",
-    "news_age": "106m ago",
+    "news_age": "108m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -19262,12 +19268,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.55,
+    "news_score": 0.67,
     "news_title": "Japan can be world's best, says outgoing coach Moriyasu - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWU9wYnAwQ01YZjA2dnM5Tk5oeHpTZm8tUW94aGN3RnQwOWpoNUFDYlpERDhRS1d5d0ZRS2pwQ1pBWmUwT0tKSVZrb3kyVlRhSXdUVEZCRXpSOTJ1a2NLNFlfWjBqeDd4d2h5bGllNUZMREM0OThpQ3QzZG4tVlRnTXZqQldDSDg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "11m ago",
+    "news_age": "13m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -28001,7 +28007,7 @@
     "refugees_rank": null,
     "union_rate": 69.0,
     "union_rate_rank": null,
-    "news_score": 0.28,
+    "news_score": 0.27,
     "news_title": "Nicaragua@Cuba - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbkNIM2wydklvaTRLVTF5Qnpwd0xWcDA0eHBQTGFqd2hrR3ZYWFpfSDhicWlXeXNYZ1ZHZ1F2WFVtRDNBMzZkTkwydkl3ZmR2Ry1DcFY5RUZOaXR2UXJkUGlxMkZsUHZkcDU5NUFlSUpRdWpKRXZFNHBvQldUT29CeWtyMzFMV2tZRnhkS2VFZ1M3MXdTOHoyY2hZQ3NMSmFlNEpxT3c2djc?oc=5",
     "news_image": "",
@@ -33126,14 +33132,19 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.62,
-    "news_title": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says - CBS News",
-    "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQ1hLMTNVb094dE1lVlNkWWdtNXVYQjFqUUQ0Q0xkR0s1VnFzUExZQVVlVEZLYTNIUWN3cWoxa1dIM0xkc0docFNONklpRTZ6UFlTb3hLeFJxWC1feVRscDJMSWZaazQ0YzQwRVNyTDNqYUdiMUszLQ?oc=5",
+    "news_score": 0.37,
+    "news_title": "Trump, Xi and Putin plan unprecedented joint meeting on APEC sidelines, White House and Kremlin say - AP News",
+    "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5",
     "news_image": "",
-    "news_source": "CBS News",
-    "news_age": "2h ago",
+    "news_source": "AP News",
+    "news_age": "8h ago",
     "news_columns": [
-      "fifa_w"
+      "gdp",
+      "gdp_per_capita",
+      "stock_market",
+      "reserves",
+      "nuclear",
+      "nuclear_power"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -41254,7 +41265,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.61,
+    "news_score": 0.0,
     "news_title": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQ1hLMTNVb094dE1lVlNkWWdtNXVYQjFqUUQ0Q0xkR0s1VnFzUExZQVVlVEZLYTNIUWN3cWoxa1dIM0xkc0docFNONklpRTZ6UFlTb3hLeFJxWC1feVRscDJMSWZaazQ0YzQwRVNyTDNqYUdiMUszLQ?oc=5",
     "news_image": "",
@@ -42531,8 +42542,8 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket"
+      "basket",
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
