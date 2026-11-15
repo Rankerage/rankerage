@@ -958,13 +958,13 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 133,
     "fifa_w_rank": 115,
-    "news_score": 0.84,
+    "news_score": 0.89,
     "bottom50_wealth": null,
     "news_title": "Andorra goalkeeper Jesus Owono hit with 12-match ban after tragic collision leads to death of Tenerife striker Jesus de Miguel - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcTVad2xFOTJHMnVXOE5KaS13bUl3VzQxVk9pNlJqOGdzYjNRS2VsNFF2U3BZVWRhU24xT0w0cVkzNGRiLVp1dDlQWlM1U2w4NkszR3N0RVlpcXA4Tl9jbVp0clU0d2hmSlZjYXdwZTFGUm1DTnE1blQtY2RlaWwwc1IxdldkdWJKX1k0?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "73m ago",
+    "news_age": "75m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -2565,15 +2565,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 6.64,
+    "news_score": 6.51,
     "news_title": "Rugby League World Cup Final New Zealand v Australia live: Rugby League World Cup Final New Zealand v Australia look to seize control of thrilling Rugby League World Cup Final New Zealand v Australia. Every team in the Rugby League World Cup Final - Universitat de Barcelona",
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOczhZblZZR2ZEdTNjNS14cUlqdlBPMEFmbnNsclBQUERBTDVNT3dSMmlmRi1Wd19yVU9TNWpoLWE5eHNwZlA3WkxEUFBnNGsxeHVyNGtOTHpXb2lSaG5jWXd5WmlTTnRFWnlBSUcxVDRCeEhGVDV4RjVpUFNwTElmSWZkLTZnOWNyaTE1aUNDM2FCS3BLbk1OSEFkYWpKRkhsYllJUmVWM0VwRnYxaVRWOTZXV0ZleVU3eUZzb0EyVERvOUhXVEdmOTRFN3lZMk9KQjk2c0NZdnphcFlqVmlXaTJrNUpmMVFvcGZjQWliczdTVU5LbFRkakRGaF9QbGVTNkJoXzVlajdiU04wbktEaUxQSkl2Um1pSnc?oc=5",
     "news_image": "",
     "news_source": "Universitat de Barcelona",
-    "news_age": "29m ago",
+    "news_age": "31m ago",
     "news_columns": [
-      "rugby_league",
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -6956,8 +6956,12 @@
     "news_source": "Business Insider Africa",
     "news_age": "13h ago",
     "news_columns": [
-      "military",
-      "canada"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -8022,15 +8026,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.21,
+    "news_score": 0.2,
     "news_title": "The world according to China - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjFJU0l0RDAwQ2FiRlJ5TWI4UnFSYzJPT2tTXzhydHU5ZEt1LVRseXY2aHByQ2FSdmpVWC00ZlpSc0IwX05rYkhpQkZrejd5dlREeDVHaHV6eXdaUllhSktGa3Q2YUk3aFBxQWR3R29zakdzVy1oZjlpSF9PZWo0d0h2aFc?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
     "news_age": "7h ago",
     "news_columns": [
-      "economy",
-      "macau"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13035,15 +13038,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.15,
+    "news_score": 0.18,
     "news_title": "Dupont in command as France stay strong - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY3k0SGl4NWdRWWNIU0VDd1poS1JSZ2duMWdJMjd4amQtZThEOExra3hwX1cta0pVRWJmcmZ5Mk1uMC11RTZ3ZU1kNHN6cXVCYjBLMlk1YmdyS2tiWXU3X2t4SEMzWEFKYWFxcmlNRXdlem0xMUk3OEpiMEgwLXdyWnN6TWlicDBhTkE?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
     "news_age": "6h ago",
     "news_columns": [
-      "football",
-      "uefa_nations_league"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -17393,7 +17396,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.14,
+    "news_score": 0.13,
     "news_title": "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOemlqVE1TdmREQ0t3TjczWnBWVGZ3TkxTc0ZPVC1fZFlrUDJCZC1KV0liZGdUTHBXZEZpWG9SNkJJSlBYSjVPbE1aUnNtWHl2eE1FbzlURGRwckdIT3R2NG9rVm1oX1V0VEZoWmYxM1dSbmhNc1BidnFLX19YRVU3Q2tzR1F5Vk1QX3dDNXVCeXZ6bmVES0lZNTBlR3E0Z1hJcXFyYXpMam80TGRWbURod1NsUXBwZldjdHFVejFwaWtmVmo3ZWYzYW5QMzk?oc=5",
     "news_image": "",
@@ -19452,12 +19455,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.82,
+    "news_score": 0.81,
     "news_title": "VIDEO: McLain Ward tops the Longines FEI Jumping World Cup™ Toronto with Jordan Molga M - World of Showjumping",
     "news_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSm9MQkN0M3kyN1IyeFNHS3lYal9FVk1QN093a09SbEkwX3JQM3VqenpHcnBYcUstR0pnNVdTUlZrRDY3THVvakZFQ2xpMWJwTmhhdGNLMGJteEtDV3lTSlVwTjdxWGR0YkN6TjdmTzM1RG52Smo4SWlMeXBRQ3ZoNFN0ZjFLTk8wblJ2MTJVeTgwMDVzN1dsaEdSN2pEV3I1WUtKWmNsd1hUYkZ5TVp6aGx3dkRJd3pDZm0wcjFBN1RXQzA1OHZNdVl5S3N1V05DUnA1cTVac1VEQQ?oc=5",
     "news_image": "",
     "news_source": "World of Showjumping",
-    "news_age": "49m ago",
+    "news_age": "51m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -27819,15 +27822,15 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 6.7,
+    "news_score": 6.57,
     "news_title": "Rugby League World Cup Final New Zealand v Australia live: Rugby League World Cup Final New Zealand v Australia look to seize control of thrilling Rugby League World Cup Final New Zealand v Australia. Every team in the Rugby League World Cup Final - Universitat de Barcelona",
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOczhZblZZR2ZEdTNjNS14cUlqdlBPMEFmbnNsclBQUERBTDVNT3dSMmlmRi1Wd19yVU9TNWpoLWE5eHNwZlA3WkxEUFBnNGsxeHVyNGtOTHpXb2lSaG5jWXd5WmlTTnRFWnlBSUcxVDRCeEhGVDV4RjVpUFNwTElmSWZkLTZnOWNyaTE1aUNDM2FCS3BLbk1OSEFkYWpKRkhsYllJUmVWM0VwRnYxaVRWOTZXV0ZleVU3eUZzb0EyVERvOUhXVEdmOTRFN3lZMk9KQjk2c0NZdnphcFlqVmlXaTJrNUpmMVFvcGZjQWliczdTVU5LbFRkakRGaF9QbGVTNkJoXzVlajdiU04wbktEaUxQSkl2Um1pSnc?oc=5",
     "news_image": "",
     "news_source": "Universitat de Barcelona",
-    "news_age": "29m ago",
+    "news_age": "31m ago",
     "news_columns": [
-      "rugby_league",
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -31109,7 +31112,7 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.0,
+    "news_score": 0.03,
     "news_title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nSVEtNVRFaG5hcno2YnlYR1lwRDJhSXV2OGJNVGY3cU1aVzNPaHNjdUIxcHp5RXJ2RWVGQV9DRmR1cUx6ZkptMi1KSWlVeXhwWkp5S2xLZ2tCYzQ?oc=5",
     "news_image": "",
@@ -33136,12 +33139,12 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.14,
+    "news_score": 0.13,
     "news_title": "Ukraine war briefing: US proposes Kyiv cede land to Russia for Nato membership, Zelenskyy says - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONDZhdzBhLVdGZk1vZFdVY1E5MmhQMWVMWjAyRFJ4RzB6NUlfLWVBbmdsb1BQMFpLbnNlQ2J4bUdWNVpuUE1jbzNseWhuREhsYkRUWm1oRTNLUVhMLVNWWEE5ejh0OVpZakN3YkNjWDNvYUUybUtMVVhsVmladkljQ2h6ZDNvUWREdUVaNkpBclpHTkY2Uktzd3lYMnltNmZEeUh4MUV2RllDSWZPUWNlZjJsaEJ0T29BeDVfLTJydUV2aVVlbncwVTVKc3pEZEJ4YzY3LQ?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "6h ago",
+    "news_age": "7h ago",
     "news_columns": [
       "basket",
       "olympic",
@@ -36731,12 +36734,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.85,
+    "news_score": 0.89,
     "news_title": "Lamine Yamal receives new shirt number for Spain vs England - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeGdKeGlaaWVQQ0NhTzdOWlNXenFJTWNMMWNETjZEWjBRODdEaEE0aDM5RnMxenlYSXJXU1BxSVRlS0xfQWlaRnE3LThNTzFmVnF2VGRaT3BjU0pvWTZ5SGI1LUdyV1ZCTFUwREt6TDEyTW5Yc2RINkZObGZMQ0tLTTk5cGpLM2hheGRJ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "74m ago",
+    "news_age": "76m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -38439,7 +38442,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNHZ3T21XRUxwQWdPcURMSUlDZFdycUdxWFJMdXo0anNPRS14VURoWFhHRkl4VHlZZ19QV2NsUEg4Z3RNUmlqWm40RUxwMDQ3MU1oZHUyaGcxc2tQRHM3VjdYS2NvT3Z1djFrV194SE1hT3lZV01PZmF0aUlkMlRmNklWcWlkelJWMHM3NGo4S1E?oc=5",
     "news_image": "",
     "news_source": "Yahoo Finance",
-    "news_age": "12h ago",
+    "news_age": "13h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -41272,7 +41275,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONDZhdzBhLVdGZk1vZFdVY1E5MmhQMWVMWjAyRFJ4RzB6NUlfLWVBbmdsb1BQMFpLbnNlQ2J4bUdWNVpuUE1jbzNseWhuREhsYkRUWm1oRTNLUVhMLVNWWEE5ejh0OVpZakN3YkNjWDNvYUUybUtMVVhsVmladkljQ2h6ZDNvUWREdUVaNkpBclpHTkY2Uktzd3lYMnltNmZEeUh4MUV2RllDSWZPUWNlZjJsaEJ0T29BeDVfLTJydUV2aVVlbncwVTVKc3pEZEJ4YzY3LQ?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "6h ago",
+    "news_age": "7h ago",
     "news_columns": [
       "basket",
       "olympic",
@@ -42540,15 +42543,15 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.12,
+    "news_score": 0.08,
     "news_title": "Responding to United States Economic Policy - City of Toronto",
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONWM2aXc1OGtEUmRhQXAxWkF6OVlvaTNpVzRuUjNOeXVMQmoxN2EyRVZld1ljSkVYRVFNTWJ6NVlKUVdlbC1nTE81THNUUjdNZU1EblFWOGtfR3ZFQ3psc205eEFacXI5c05FN2Y3c0hrUVhSNDJZV2VQemg0YkM5UVdtSE5Ob0l1dllwZ08tNWNhVEcxSkg1d2NSRi0tYTZIVUkwX0V4c3BRNklvZnVNb1poMW1pQU1wb2FpOHpsdGgzQUJiV2c?oc=5",
     "news_image": "",
     "news_source": "City of Toronto",
     "news_age": "15064h ago",
     "news_columns": [
-      "nfl",
-      "american_football"
+      "basket",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43749,12 +43752,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 1.35,
+    "news_score": 1.44,
     "news_title": "Institute of Construction Science and Technology: Contributing a scientific and technological foundation to the construction industry. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaWNMbUEzQWc5c2R0bmtlbnRWOGVnbzVEcXhZcUIwdE9hWlFyZFhkYmZQZVlCd2xsQjFlTkFZY0lsMlpfZ0VzSDFNT3N0SlllU3hfTUhqRTkxYUxnMFQ0eGNkaWRFZG5YX1RudENmRmp3T0hxbDFJVjJoaTNaQ1BkU2dtY2tSY3Z0eWJQcVFkdTFyQ083VC12bUlPTXpmNk5NS3Z3aGVhdDh4NXFDWldOSk9oV2g?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "75m ago",
+    "news_age": "77m ago",
     "news_columns": [
       "fifa_ranking"
     ],
