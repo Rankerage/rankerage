@@ -2563,8 +2563,8 @@
     "news_source": "www.rba.gov.au",
     "news_age": "76842h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "rugby_w",
+      "world_cup"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -8017,7 +8017,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.35,
+    "news_score": 0.3,
     "news_title": "Trump faces Carney's refusal to back down as Canada pushes back against U.S. trade demands and Africa's largest economy turns to China - Business Insider Africa",
     "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcGRMYktmZXZYQWxOX3hEa3N6SHVYOTc3aW1hdjB6dnA3d01VRUQtdlRSRGpOc1M2eG93NWs0d1dqbWJaWkhVVXFzMThwQmlReFcwT1JkT0lhOEJsak8waDhEdGhtb1ZZcm10bTNpN0xUckhpY2lvTzNMWUNKcjlXT21zejVRaUk1aEV2a25RbndpejlmeGVFOURJT0stSmhkQVRwa2dkMnp2ZTNmN25naC1KX2ozX1pfVXg4MjZYZVlsZG1ZVFZseG1QakFWMk5kZlFjUVhB?oc=5",
     "news_image": "",
@@ -9081,12 +9081,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 128,
     "fifa_w_rank": 69,
-    "news_score": 0.18,
+    "news_score": 0.28,
     "news_title": "Nicaragua@Cuba - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbkNIM2wydklvaTRLVTF5Qnpwd0xWcDA0eHBQTGFqd2hrR3ZYWFpfSDhicWlXeXNYZ1ZHZ1F2WFVtRDNBMzZkTkwydkl3ZmR2Ry1DcFY5RUZOaXR2UXJkUGlxMkZsUHZkcDU5NUFlSUpRdWpKRXZFNHBvQldUT29CeWtyMzFMV2tZRnhkS2VFZ1M3MXdTOHoyY2hZQ3NMSmFlNEpxT3c2djc?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "6h ago",
+    "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -16835,12 +16835,9 @@
     "news_source": "The Times of India",
     "news_age": "26h ago",
     "news_columns": [
-      "health",
-      "life_expectancy",
-      "doctors",
-      "beds",
-      "vaccination",
-      "infant_mortality"
+      "ncaa_football",
+      "cfp_ranking",
+      "ap_poll"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17404,14 +17401,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.18,
+    "news_score": 1.15,
     "news_title": "Live Updates: Netanyahu says it's time to remove Iran threat \"once and for all\" - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "91m ago",
+    "news_age": "93m ago",
     "news_columns": [
-      "fifa_ranking"
+      "geopolitics",
+      "maritime_security"
     ],
     "bottom50_wealth": null
   },
@@ -18135,14 +18133,15 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 1.24,
+    "news_score": 1.1,
     "news_title": "Live Updates: Netanyahu says it's time to remove Iran threat \"once and for all\" - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "91m ago",
+    "news_age": "93m ago",
     "news_columns": [
-      "fifa_ranking"
+      "geopolitics",
+      "maritime_security"
     ],
     "bottom50_wealth": null
   },
@@ -19264,12 +19263,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.68,
+    "news_score": 0.67,
     "news_title": "Japan can be world's best, says outgoing coach Moriyasu - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWU9wYnAwQ01YZjA2dnM5Tk5oeHpTZm8tUW94aGN3RnQwOWpoNUFDYlpERDhRS1d5d0ZRS2pwQ1pBWmUwT0tKSVZrb3kyVlRhSXdUVEZCRXpSOTJ1a2NLNFlfWjBqeDd4d2h5bGllNUZMREM0OThpQ3QzZG4tVlRnTXZqQldDSDg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "93m ago",
+    "news_age": "95m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -28003,12 +28002,12 @@
     "refugees_rank": null,
     "union_rate": 69.0,
     "union_rate_rank": null,
-    "news_score": 0.18,
+    "news_score": 0.28,
     "news_title": "Nicaragua@Cuba - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbkNIM2wydklvaTRLVTF5Qnpwd0xWcDA0eHBQTGFqd2hrR3ZYWFpfSDhicWlXeXNYZ1ZHZ1F2WFVtRDNBMzZkTkwydkl3ZmR2Ry1DcFY5RUZOaXR2UXJkUGlxMkZsUHZkcDU5NUFlSUpRdWpKRXZFNHBvQldUT29CeWtyMzFMV2tZRnhkS2VFZ1M3MXdTOHoyY2hZQ3NMSmFlNEpxT3c2djc?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "6h ago",
+    "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -30513,7 +30512,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMzZzS3FlS2VibkxyVkhlOV9PWFNMNExkR2NaREVja0NGd2o2SXZhcUpjeVZNUTRUR2o4cEhNaURkZHVNRUcwVkZJZEsyMUdwalZUMkhSVlVXVjJtT3dfWndKajRhR1p6NzVDM29sdUNLTU1mOWdSeVhYaGkzUnhuTkhUc29OS0sybU9RUVlEUmJsY1JVQ1daZGdsQ2NLX1ZOWDllbA?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "9h ago",
+    "news_age": "10h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -35660,7 +35659,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMzZzS3FlS2VibkxyVkhlOV9PWFNMNExkR2NaREVja0NGd2o2SXZhcUpjeVZNUTRUR2o4cEhNaURkZHVNRUcwVkZJZEsyMUdwalZUMkhSVlVXVjJtT3dfWndKajRhR1p6NzVDM29sdUNLTU1mOWdSeVhYaGkzUnhuTkhUc29OS0sybU9RUVlEUmJsY1JVQ1daZGdsQ2NLX1ZOWDllbA?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
-    "news_age": "9h ago",
+    "news_age": "10h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -36723,12 +36722,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.61,
+    "news_score": 0.6,
     "news_title": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRmxpdGVWWnFKalBDb3Z1ZG9rU2RhbVMydDV0WFRrak9KQldJYXNaNWNhUjBMNERyUkZfVU5HUl9IOEhrUm1QX0V0RERFZlctclg4SjZOX1pQR2N1dEVmdS1HdDJ4c2c5ZklDdmd6dEN4eURrSUN0cllhbEs3UERPbXNLODdXenF0cVczVUdVd0xnRU5qcDJ1R0MyMjE0Z21rRDVUZVpodmhOSXlaNEc5a05jbw?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "3h ago",
+    "news_age": "4h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -39103,19 +39102,18 @@
     "refugees_rank": null,
     "union_rate": 75.8,
     "union_rate_rank": null,
-    "news_score": 0.0,
-    "news_title": "Thai business leaders identify corruption as biggest barrier to economic growth - Nation Thailand",
-    "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LSTVVUkE1cWwxS29oWEMwYVd3T1lTWjdUT01ncEJlUjBJUkNtVi1PT2hLRjhlbml4b2tEN3lPcGdZc20tNnhfR2xTSWwzTlhydkFvRWNuSnRXZDBPWnRmNENqZVJXWnc?oc=5",
+    "news_score": 0.26,
+    "news_title": "Thai Chamber of Commerce presents six proposals for economic reform - Nation Thailand",
+    "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwWEk3N1BNaFZlU0lkUks5M25tTGFBZ1NjUDR2WHkyWnRpVU5EcjljUUxRWnp1WlBUdmkybHc1VFg3VHlOTk5FQ01SWjItalFjdEFNMks4RWV1RGp4cXVyblM0ak8zSlk?oc=5",
     "news_image": "",
     "news_source": "Nation Thailand",
-    "news_age": "79h ago",
+    "news_age": "32m ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": null
   },
@@ -42543,9 +42541,14 @@
     "news_source": "City of Toronto",
     "news_age": "15056h ago",
     "news_columns": [
-      "fifa_ranking",
-      "basket",
-      "olympic"
+      "ncaa_football",
+      "cfp_ranking",
+      "ap_poll",
+      "nfl",
+      "team_travel",
+      "schedule",
+      "geopolitics",
+      "maritime_security"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
