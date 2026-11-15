@@ -2565,15 +2565,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 5.87,
+    "news_score": 5.77,
     "news_title": "[[[Fox^Sports]] Scotland vs Australia Live Covarage - Universitat de Barcelona",
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPd3pnUWhQZVgwVGFwcDJUY00zZkNRSGJQVTdKQnhkSzdQOW9fLTVyMExFbFI2SjdyRVJWd0pfc29QR0FMeENSYl9PcUtGcTVuVDhaVk9NMUg4OFBsY3otam9aV3A0U2JPQWo1YkNKR3JhdlFDVGRpTjRQSmtQcnZxd0hhUkZrcVc2TUNkaF84ZkV2eHdoZGVoZHZPajV3b0VnMy1fdmRFdDlWUENBcE5NRXNxV0c2SmtndXJYZEZlelpHb1Y5U2tWUWlVcUw0cU02STB2ZXZxZ0JwaU1FcTNCY2ZnMDR2dkN2ZUhHTkxzcDVWSTMwRjNISE8wdzVuSVgwUjNDTVN6MUFfV0tSc2hWQUdidUtKaFZGQ2c?oc=5",
     "news_image": "",
     "news_source": "Universitat de Barcelona",
-    "news_age": "17m ago",
+    "news_age": "19m ago",
     "news_columns": [
       "rugby_league",
-      "rugby"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3064,14 +3064,15 @@
     "union_rate": 72.9,
     "union_rate_rank": null,
     "fifa_w_rank": 80,
-    "news_score": 0.56,
+    "news_score": 0.6,
     "news_title": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb1Vjb3BmOFROS281RURvRlRMTHZJVW0xRHMwZHpkSHRpamtsM0Fmd1cxZVZsSVk5UXdlRWJKeVpRcjFSMmJOYXpaVGxWUTBfdWc1eHpxdUpoeG1mVjItcmdxWmFaZDdKYWRZNWZkcHpOOTNpc0lwT0ZzYVNjT1JqU2tSNlrSAYoBQVVfeXFMTS11NU1oNVBmZFo0Mzd5eXBSVFNtU0dSUVBOSV9vWVozZ25FM0c1a0tlTWt3cmlEZDE2d2RYNzhVRE9xd0l1WEFOMElNRWlfNXFNMzQ5MnJYLXVUcWYwMkxmYmttMmFWN2RvWFNuTFlUSzN4d1BsdmtjUmo3bWFvY0RZOHR6QUt4VS13?oc=5",
     "news_image": "",
     "news_source": "CNBC",
     "news_age": "2h ago",
     "news_columns": [
-      "geopolitics"
+      "geopolitics",
+      "conflict"
     ],
     "bottom50_wealth": null
   },
@@ -8021,7 +8022,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.62,
+    "news_score": 0.46,
     "news_title": "The world according to China - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjFJU0l0RDAwQ2FiRlJ5TWI4UnFSYzJPT2tTXzhydHU5ZEt1LVRseXY2aHByQ2FSdmpVWC00ZlpSc0IwX05rYkhpQkZrejd5dlREeDVHaHV6eXdaUllhSktGa3Q2YUk3aFBxQWR3R29zakdzVy1oZjlpSF9PZWo0d0h2aFc?oc=5",
     "news_image": "",
@@ -10947,12 +10948,12 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.83,
+    "news_score": 0.82,
     "news_title": "WEF meeting to spotlight Egypt economic reforms, investment prospects - Economy - Business - Ahram Online",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdV9ZS3RITlVmeHdrUXJweGN3dV82TkllVU9pUlZGamVjTE5kUU02YVV0MHUyUV9EMGVrVERabXdCa2hlQlN4bDRhVGJxQjdIWWlROVo3OWExeHhNdjFLQzdyalJscWc5THJJT3I0MFktTFVrRFZ1dEtha09QRVAyTWFxd05idkFWTEhHVXpDNmJRZm9XVGI2UlVxM1dpcUs2X3U0ZmdkUi1Zcms1OU9mdGR3cnhHQ2lMLS1tRzcydk42UVU?oc=5",
     "news_image": "",
     "news_source": "Ahram Online",
-    "news_age": "49m ago",
+    "news_age": "51m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -17390,14 +17391,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.56,
+    "news_score": 0.6,
     "news_title": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base - CNBC",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb1Vjb3BmOFROS281RURvRlRMTHZJVW0xRHMwZHpkSHRpamtsM0Fmd1cxZVZsSVk5UXdlRWJKeVpRcjFSMmJOYXpaVGxWUTBfdWc1eHpxdUpoeG1mVjItcmdxWmFaZDdKYWRZNWZkcHpOOTNpc0lwT0ZzYVNjT1JqU2tSNlrSAYoBQVVfeXFMTS11NU1oNVBmZFo0Mzd5eXBSVFNtU0dSUVBOSV9vWVozZ25FM0c1a0tlTWt3cmlEZDE2d2RYNzhVRE9xd0l1WEFOMElNRWlfNXFNMzQ5MnJYLXVUcWYwMkxmYmttMmFWN2RvWFNuTFlUSzN4d1BsdmtjUmo3bWFvY0RZOHR6QUt4VS13?oc=5",
     "news_image": "",
     "news_source": "CNBC",
     "news_age": "2h ago",
     "news_columns": [
-      "geopolitics"
+      "geopolitics",
+      "conflict"
     ],
     "bottom50_wealth": null
   },
@@ -27811,15 +27813,15 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 5.66,
+    "news_score": 5.57,
     "news_title": "Australia crush New Zealand to win fourth Women’s Rugby League World Cup - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeXY3aF9FUTBHaV92SUJpd3VqMDJJSmlWbVJ0VXFNTnFENjk0YWlMSVFaZ2NuSXhGWm1FM2tKeHVOZ3lDYVp6dDVpa0pyRDZRWWF5Wi1nSjhkSFZQQzRKS3I0MGdBMmJob0phUTE1SmFMOVRxWDNGZEx4NXdmdi1VZWlLRXA2c1BqQnpmbXdRaHFTaGtRRXpheFUtaDVxNUtJU0ZDTFJGUnp3cmNMOGpKQTk3OHBDZ9IBuwFBVV95cUxQaWFGQXA5d0pYQTEycVM4WFpKN0tRc3FOM1JvZkJ4RENSeFFpb24tOEM4bjFUdWU3RFFRekNadDF3ZkVCUXJucFN4TXNBNmJPeXN5SkhWNWM0a3lJZVNOUFBPOG1fSFAzQlVlbWxTNEZyODNtWmh2TnFKOUV6NkI2eU1uUnRXVWJPaTduTUY0eTBwSlNGTVZkVFhqeVVjaGVtX1ZhT0FkQXVibzFrTWVickl4aUNMRU5LdkRR?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "31m ago",
+    "news_age": "33m ago",
     "news_columns": [
       "rugby_league",
-      "rugby"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -33127,7 +33129,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.8,
+    "news_score": 0.65,
     "news_title": "U.S. floated exchanging Ukrainian territory for NATO membership, Zelenskyy says - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04V3RucGdlaGp6dm03UnM5TmRsMTQyVTBSZ1JxOHc3ZGJDeFRMOUFMUWlFR21wR05kaXJqcENqZG5URXJrMVN4MnMxVUU4UDhYNW05X2FVbHdyVzVZa3pSZk1NZFFObk0tZThid1RSX2g?oc=5",
     "news_image": "",
@@ -36140,7 +36142,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.56,
+    "news_score": 0.39,
     "news_title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkl0WHV4OWtNN0k0SFVuR2E0VXhrOUpYMXZiOUxFYUVYZlBpa00zTTRXaTVmYWtwcGktWjAzUnMxckxsS0l1S2VqekRxbS15ajUwT1p6RkhjU1NtM3JwMU5uUGlqT295Y19OOXJfUXRHWFNLcGw0VFlTMXV1eFNZUXpobDNHcHVtVUxVVVZqMnA5a09LT2I4d05rWmVyUFHSAaQBQVVfeXFMT3ZsNjJfWW9FQ2VPLWROVXp2UHZsS0gwRjBUdkVZMi1tbnhFQXQ1RlBrazNCYTJUcWc2NWU2WGtETnB0MTNNQkJES1l0M011ZWJybldxTFBaZGJIQ1RIaVhXSkVvWVVZRFlSM1h3V1dnbHJiVmkxWnp6Y0wzOXJvaUdmbzk1Y0lyR2RrNTl3YkFzdVdfd21mYk5mQkRKN01TYlQ3ODA?oc=5",
     "news_image": "",
@@ -36724,7 +36726,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMkhzVmFMLUtfVjZxU3ZGM1lBYTdZSkJBUS03X3c4TWtVdE4wZzAwa05jTFgxLTBtQlJwMjhCcHlNR21qUXpaMTFNNWRpOXNKWTZ2b01teDFGWjFUTWItbFpVRG9zczVLeC1fUC1SNG03VmU3NFczd2JnLXl6dW5zcW5CcXg3a3AtMUw4bHdB?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "106m ago",
+    "news_age": "108m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -38426,7 +38428,7 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.47,
+    "news_score": 0.46,
     "news_title": "Jensen Huang’s Downfall Brings Disbelief in Taiwan - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZdTZsZlJDQ2h2VjdwSjBOeG5XYzZWdmV2X0QzeEN6Y01kd0tXVlVKdzJkZVJkOGtwbmRKS1F0WHdYNXVSNG9mTlJRckhmZjh2RE1WMXQ4QlRuN1JjNHdSUWhEaXJEUHI0WmEyQ211eHNZV1FZUlFZ?oc=5",
     "news_image": "",
@@ -42539,11 +42541,12 @@
     "news_source": "Yahoo Sports",
     "news_age": "5h ago",
     "news_columns": [
+      "politics",
+      "election",
+      "geopolitics",
+      "conflict",
       "nfl",
-      "football",
-      "fifa_ranking",
-      "fifa_w",
-      "geopolitics"
+      "american_football"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43744,7 +43747,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.78,
+    "news_score": 0.77,
     "news_title": "Institute of Construction Science and Technology: Contributing a scientific and technological foundation to the construction industry. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaWNMbUEzQWc5c2R0bmtlbnRWOGVnbzVEcXhZcUIwdE9hWlFyZFhkYmZQZVlCd2xsQjFlTkFZY0lsMlpfZ0VzSDFNT3N0SlllU3hfTUhqRTkxYUxnMFQ0eGNkaWRFZG5YX1RudENmRmp3T0hxbDFJVjJoaTNaQ1BkU2dtY2tSY3Z0eWJQcVFkdTFyQ083VC12bUlPTXpmNk5NS3Z3aGVhdDh4NXFDWldOSk9oV2g?oc=5",
     "news_image": "",
