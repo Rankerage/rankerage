@@ -2564,7 +2564,7 @@
     "news_age": "76843h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "olympic"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -6940,7 +6940,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.14,
+    "news_score": 0.13,
     "news_title": "Trump faces Carney's refusal to back down as Canada pushes back against U.S. trade demands and Africa's largest economy turns to China - Business Insider Africa",
     "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcGRMYktmZXZYQWxOX3hEa3N6SHVYOTc3aW1hdjB6dnA3d01VRUQtdlRSRGpOc1M2eG93NWs0d1dqbWJaWkhVVXFzMThwQmlReFcwT1JkT0lhOEJsak8waDhEdGhtb1ZZcm10bTNpN0xUckhpY2lvTzNMWUNKcjlXT21zejVRaUk1aEV2a25RbndpejlmeGVFOURJT0stSmhkQVRwa2dkMnp2ZTNmN25naC1KX2ozX1pfVXg4MjZYZVlsZG1ZVFZseG1QakFWMk5kZlFjUVhB?oc=5",
     "news_image": "",
@@ -8017,12 +8017,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.77,
+    "news_score": 1.32,
     "news_title": "The world according to China - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjFJU0l0RDAwQ2FiRlJ5TWI4UnFSYzJPT2tTXzhydHU5ZEt1LVRseXY2aHByQ2FSdmpVWC00ZlpSc0IwX05rYkhpQkZrejd5dlREeDVHaHV6eXdaUllhSktGa3Q2YUk3aFBxQWR3R29zakdzVy1oZjlpSF9PZWo0d0h2aFc?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
-    "news_age": "41m ago",
+    "news_age": "43m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -13033,7 +13033,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.19,
+    "news_score": 0.24,
     "news_title": "Japan can be world's best, says outgoing coach Moriyasu - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRWxqdFJwVHdFS2V2WU1QSkdqS2pMY2VqUmNvS2NEdExTQnU3YjdwWnVBTXdxZ3hvMm1DQkJpc1Etd3JQcEtHYjBKUnhNUkRmQklsVXJfU2lycjdtUHJvNmhya3FtLXR1aUdodFZJZWhGZTBHTVBkdFlXcVhoamE1ekMtdUpGWlVSd2ttWUJGbVlHSHFzQUNkSUtBMXNPWWZxejM0?oc=5",
     "news_image": "",
@@ -13562,19 +13562,18 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.65,
-    "news_title": "Clemson falls at home to Georgia Tech team that had just fired 4 coaches; Tait Reynolds exits early, Christopher Vizzina takes big hit late - Yahoo Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPNU0xYUhJRnAyalN2YUVSNTN6MlhJTlU0V1llQ1VRejVSU2lPQUtKcEY1bzJQOC0xMXU2NmswNkJ1dHl1ZkNxNzN2bFctLU14UEVWel9PaXZtcnRCYWZxTllQT3hBQ25MUWt6QktFQ1NON2E3ekgzS3VJdUM4azk2a1h5dWtoMkdCN1BHYnY3eEZJQ2dSVGRhUEpaaUJZb3pDZHFWX1dIOUZVWXphZ3JJQkl4dU5nQTBiNnBSNGlYbURWQjE4bnJBZkg3bmp6Z3ZEc2pTLTkyc1EwQklneDk1T3ZUNlNESFBEUzZud0V6NHpTTXNKQ3Q1RE1jVGg2dF9lMlluUkdHWndIcEdhY1JsTUVnTlQ3VGpMUGl6amJSVmpIZ0t0eHlBUGI3ME53c2VMdnNja1dYZ19MZmVf?oc=5",
+    "news_score": 0.6,
+    "news_title": "'Ain't nobody coming to save us': Clemson's spiral hits new low in loss to Georgia Tech - CBS Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWGZBRUdaMjUteEl5ZGJ0YkxVZmpfNThwb3I3NXJ3MTZMYnc5Rjk4aWE0NlpLY0FuRUpMRGRzd2hSTVZvbVVsSTZPTlhibTE5X2ZDWjJ1LU5Za3ZHSEhFeVphLWYtdHZleVNLSjQ2dnRVLWFyQ3kyQ0VIeE1id21zN1pLdURONE9hWkRBVWJRYkQ?oc=5",
     "news_image": "",
-    "news_source": "Yahoo Sports",
+    "news_source": "CBS Sports",
     "news_age": "5h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
       "patents",
       "rd",
-      "startups",
-      "coffee"
+      "startups"
     ],
     "bottom50_wealth": null
   },
@@ -15454,7 +15453,7 @@
     "refugees_rank": null,
     "union_rate": 65.3,
     "union_rate_rank": null,
-    "news_score": 0.39,
+    "news_score": 0.38,
     "news_title": "US thrash Haiti as Pochettino prepares for farewell - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRVdMRGpqUk5ZUVdhNzJwSWVHbkh3c1RYOW8zUDZfUEFuMmMwUVFTY1R1azRZRDdhYnZGcUZ1eHVDdmNzU0tlVHE2RTEwZHUyNTdmSklHQmlSN3R2MVdrc1U0dUJQdWJJN3lSLW1DREp2YnRZSTNuRzdVV1hGU0RqaDdNdGdBUnFFeHQ2SA?oc=5",
     "news_image": "",
@@ -15876,12 +15875,12 @@
     "fifa_w": 81,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 62,
-    "news_score": 0.88,
+    "news_score": 0.64,
     "news_title": "Exclusive | Hong Kong sending who’s who delegation of business leaders to Apec CEO Summit - South China Morning Post",
     "news_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWjdJa3hvcmFHb013TmFyXzZoSGdkcTlLd2tneU93SmQtQVhYMEFHS0NqZ25obXMzblphWURoNHlkeDBNSWhRODE3Nl94dzJKYXFZV3IzRG1CUEFmaUlzUEJnd2tpT01EZDlrMEprZ3c0QlJjNmd1R3lWQXdQSGJEZ2hCVHhnN29MQW9oRDExT3NhZWtXQXpIYUNGMnVaTUZNeWJRUmtfRzJzc0VaX1RZT0VpVkgtcWJFcVV5Rmwwd3pPUElBSXRkU2JBWU1rZmpwb3VkUHpNZ9IB1wFBVV95cUxQN2JpTmtMdFFuZ1VUeGNIRElTZGFRNFV2VGFxaFloZm50eXJtMkhQd2xmMlJVeGtaZW5sRFZJakc3YXRCa2xaWUxxd2R3VjFnQWZvb1pKXzFielJsYnpGZWgwSFI0UW91X1M5QklNQ05FdzhPYTBBMUZVQnZHTUlyNk55elJsdlNfdjNvWkNmS05HSXVma1M3ZFBPRE8yMXJlcUtIX2pnRmRtVGtiM3NnLVNjTUFuRjU0Z2FJZUp3WnJsV1NaaUZOTG9OSkd2SVc3QTRuRnc5VQ?oc=5",
     "news_image": "",
     "news_source": "South China Morning Post",
-    "news_age": "101m ago",
+    "news_age": "103m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -17392,14 +17391,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.7,
+    "news_score": 0.69,
     "news_title": "Netanyahu urges talks ‘without preconditions’ on unity government; Eisenkot rejects PM’s ‘spin’ - The Times of Israel",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalk5X0pscG9RYW5lUWJuTFdKTF9BaV9CMi15MGV1LS05YnZUaWFsVE9CLWNxMnpqZ1NHbG9VWk1vai1rV0xsU2xwVlVLZTdqOHR3NTN2cHhLRXVXTVk5U01FeGJhRGppQ2d0VWNXdm1vLWw3MHZuTXVGS0N0OEp1eE9zRXRobTJjblh4c205T0tCNmlvZGRYNEc0RXRSU1B3RUVsVWpiVFRwcmlvQThLVzNR0gG3AUFVX3lxTE9Bb29jYV9MdVpkV3JhUE42WnU4bi1wTmlCcjRmMUtsS3VvbFdWbGhaMTZwUjlzVHVCVnU1dzdEZkMxYkh4MUFNUXRxcUt6bjhvX04xMERMallQWVZ2R29ETm8zTmFyQVpZb2hhY1QzZG5ud3BlTGdWTG03U3FDek9FLXhlTVRVaUlrMUY1dDlaVDRMV253TnQzQmlwLVVuLWVZLVRWTGxTMmZ1MFZna3M1QmlITXNjaw?oc=5",
     "news_image": "",
     "news_source": "The Times of Israel",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -18123,14 +18123,15 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.44,
+    "news_score": 0.42,
     "news_title": "Netanyahu urges talks ‘without preconditions’ on unity government; Eisenkot rejects PM’s ‘spin’ - The Times of Israel",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalk5X0pscG9RYW5lUWJuTFdKTF9BaV9CMi15MGV1LS05YnZUaWFsVE9CLWNxMnpqZ1NHbG9VWk1vai1rV0xsU2xwVlVLZTdqOHR3NTN2cHhLRXVXTVk5U01FeGJhRGppQ2d0VWNXdm1vLWw3MHZuTXVGS0N0OEp1eE9zRXRobTJjblh4c205T0tCNmlvZGRYNEc0RXRSU1B3RUVsVWpiVFRwcmlvQThLVzNR0gG3AUFVX3lxTE9Bb29jYV9MdVpkV3JhUE42WnU4bi1wTmlCcjRmMUtsS3VvbFdWbGhaMTZwUjlzVHVCVnU1dzdEZkMxYkh4MUFNUXRxcUt6bjhvX04xMERMallQWVZ2R29ETm8zTmFyQVpZb2hhY1QzZG5ud3BlTGdWTG03U3FDek9FLXhlTVRVaUlrMUY1dDlaVDRMV253TnQzQmlwLVVuLWVZLVRWTGxTMmZ1MFZna3M1QmlITXNjaw?oc=5",
     "news_image": "",
     "news_source": "The Times of Israel",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -19252,7 +19253,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.35,
+    "news_score": 0.39,
     "news_title": "Japan can be world's best, says outgoing coach Moriyasu - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRWxqdFJwVHdFS2V2WU1QSkdqS2pMY2VqUmNvS2NEdExTQnU3YjdwWnVBTXdxZ3hvMm1DQkJpc1Etd3JQcEtHYjBKUnhNUkRmQklsVXJfU2lycjdtUHJvNmhya3FtLXR1aUdodFZJZWhGZTBHTVBkdFlXcVhoamE1ekMtdUpGWlVSd2ttWUJGbVlHSHFzQUNkSUtBMXNPWWZxejM0?oc=5",
     "news_image": "",
@@ -28461,7 +28462,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSHdvaWRGajFZZmFpZVJmQkcxR2loallEMDRzZHNuVndRMnRGSXA4OC15QmYwTjZiMFR3YmhidDk2OXV5VW9qZTBGNW9kSkFYOEdlN2wxcU94SjgzeEtNSFowaS12c0tIcFhyeGE2bGtqY3NJdmFzek5rWHBjdThBN2plTFh5WjNXd0h6X2IyWk5sdw?oc=5",
     "news_image": "",
     "news_source": "Head Topics",
-    "news_age": "47m ago",
+    "news_age": "49m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -29492,7 +29493,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.08,
+    "news_score": 0.07,
     "news_title": "🔥 In-demand Antonio Nusa continues post-World Cup form for Norway - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWhaUTByaEdhYmc3blJZV2RkaHl4OXBNZDVaWlBrLXZDb2dGZEs2anQzdF9CXzZDdzJBWmNQSG5vUVZTbEdudkFWakhQTEt5dGZoVnJuQmtXQWhOT3RoVGtIYmotWWdZd0x4aTZCSzJLN1UtY3hJempKcXI3SnItLThNTWlJR1JzamxB?oc=5",
     "news_image": "",
@@ -31102,8 +31103,12 @@
     "news_source": "Al Jazeera",
     "news_age": "8h ago",
     "news_columns": [
-      "religion_div",
-      "democracy"
+      "tourism",
+      "passport",
+      "aviation",
+      "airports",
+      "car_density",
+      "gas_price"
     ],
     "bottom50_wealth": null
   },
@@ -36711,7 +36716,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.41,
     "news_title": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRmxpdGVWWnFKalBDb3Z1ZG9rU2RhbVMydDV0WFRrak9KQldJYXNaNWNhUjBMNERyUkZfVU5HUl9IOEhrUm1QX0V0RERFZlctclg4SjZOX1pQR2N1dEVmdS1HdDJ4c2c5ZklDdmd6dEN4eURrSUN0cllhbEs3UERPbXNLODdXenF0cVczVUdVd0xnRU5qcDJ1R0MyMjE0Z21rRDVUZVpodmhOSXlaNEc5a05jbw?oc=5",
     "news_image": "",
@@ -39091,12 +39096,12 @@
     "refugees_rank": null,
     "union_rate": 75.8,
     "union_rate_rank": null,
-    "news_score": 0.64,
+    "news_score": 0.63,
     "news_title": "Thai Chamber of Commerce presents six proposals for economic reform - Nation Thailand",
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwWEk3N1BNaFZlU0lkUks5M25tTGFBZ1NjUDR2WHkyWnRpVU5EcjljUUxRWnp1WlBUdmkybHc1VFg3VHlOTk5FQ01SWjItalFjdEFNMks4RWV1RGp4cXVyblM0ak8zSlk?oc=5",
     "news_image": "",
     "news_source": "Nation Thailand",
-    "news_age": "104m ago",
+    "news_age": "106m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -42531,7 +42536,8 @@
     "news_age": "15057h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43732,12 +43738,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.82,
+    "news_score": 0.81,
     "news_title": "Improving institutions and unlocking resources for science, technology, and innovation. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTnAyZVlTUGYxMEtIQ2xlNlBqZkdZNm9CTGR4N1c0OUpJd0p2eUs5X3htTlZLcjZKSWYzWk9RMnVnZF9icU05RUV2Q2tqRUtqTXc5bm03UGVYbXEtNlBZNjdSaXBmci0wUkdFc0k3dUNCeXQzRUg0d3V5bDJUYkdXaGV5azlMV0Z0bExldHJwOHJUMVVnZzhuc24xd1A5d0E4VktTaG44Y0hoNXh2?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "52m ago",
+    "news_age": "54m ago",
     "news_columns": [
       "fifa_ranking"
     ],
