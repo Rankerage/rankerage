@@ -2556,16 +2556,16 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 1.75,
+    "news_score": 1.78,
     "news_title": "Australia v New Zealand: Women’s Rugby League World Cup final – live - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdzU4YlZwem1zWllDTUdJeFJWVmYzajBpWmoyWnBvX1ZKZmNWLWJld291VU90SzVLMmI2cE9LNml0enhzdjlNUzF1anZOVHEwcWQxSVUybHdSWGp0YTExbUhGNWVhSnpZMG1abXpIRmJEekM4MlhaVGsxRDVOTUU1YWxZNW1SNzNvdnRXNGJicW4yTUthWDZqZTFqZjg4U3FuWkFVUEl0ZThGNkNXLUdJOGVoS3FYQjdQT2d5cXJFNS00ZC1Rd0x0di1xRkdRLXo4Y0xsa0dBRkFBVTB1aHc?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "29m ago",
+    "news_age": "6m ago",
     "news_columns": [
       "rugby_league",
-      "fifa_w",
-      "olympic"
+      "rugby_w",
+      "fifa_w"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3061,7 +3061,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUnJUTkV4WUNaMDZHbGU1Uzc5cnZBc2xJZVJVS1I4OHZ4Nl93OVMyend4X3ZuNndpc0szeFFqWlpuX1BJUVRkTG1QeE9HNGRZTjYzenJFbTRzazB3bUFPelVyb1NaQVJONWRNc29xZVEwU3E5cEx3T0FCMkl1Nk80WkdES25aVW9SY1pzV1E2SUF5dDViMU9BUWdCSFY5YnJpdXBxeVgyNVA1bkZtNXJkSVVnUzFrSmpVdjdz?oc=5",
     "news_image": "",
     "news_source": "Gulf Daily News (Bahrain)",
-    "news_age": "9h ago",
+    "news_age": "10h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -8018,15 +8018,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.94,
+    "news_score": 0.96,
     "news_title": "The world according to China - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjFJU0l0RDAwQ2FiRlJ5TWI4UnFSYzJPT2tTXzhydHU5ZEt1LVRseXY2aHByQ2FSdmpVWC00ZlpSc0IwX05rYkhpQkZrejd5dlREeDVHaHV6eXdaUllhSktGa3Q2YUk3aFBxQWR3R29zakdzVy1oZjlpSF9PZWo0d0h2aFc?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "diplomacy",
+      "climate"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -12529,7 +12529,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.74,
+    "news_score": 0.0,
     "news_title": "Hurricanes leave Finland with sweep of Kraken - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2hsUlBpZFYxeUxTU2VRX3ZJa0Rhc3J6ZERIcnRhdmg4S3lzVk9aNjM1U2ZoSDMxbU92N3E5ODk0RHVQbVBzNkZiZGVNQkJUdmtGdnZBUUlEcl9rTEdBakFjdmJUbV84TG15WmR3c1VWVVJSNE0zZzFYWThXcTh5YzJhWW83WmZ4eGtrWG5HYw?oc=5",
     "news_image": "",
@@ -13035,7 +13035,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.66,
+    "news_score": 0.63,
     "news_title": "Dupont in command as France stay strong - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY3k0SGl4NWdRWWNIU0VDd1poS1JSZ2duMWdJMjd4amQtZThEOExra3hwX1cta0pVRWJmcmZ5Mk1uMC11RTZ3ZU1kNHN6cXVCYjBLMlk1YmdyS2tiWXU3X2t4SEMzWEFKYWFxcmlNRXdlem0xMUk3OEpiMEgwLXdyWnN6TWlicDBhTkE?oc=5",
     "news_image": "",
@@ -13565,7 +13565,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.24,
+    "news_score": 0.22,
     "news_title": "'Ain't nobody coming to save us': Clemson's spiral hits new low in loss to Georgia Tech - CBS Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWGZBRUdaMjUteEl5ZGJ0YkxVZmpfNThwb3I3NXJ3MTZMYnc5Rjk4aWE0NlpLY0FuRUpMRGRzd2hSTVZvbVVsSTZPTlhibTE5X2ZDWjJ1LU5Za3ZHSEhFeVphLWYtdHZleVNLSjQ2dnRVLWFyQ3kyQ0VIeE1id21zN1pLdURONE9hWkRBVWJRYkQ?oc=5",
     "news_image": "",
@@ -15885,8 +15885,8 @@
     "news_source": "South China Morning Post",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "diplomacy",
+      "climate"
     ],
     "bottom50_wealth": null,
     "election_date": "2027-03-28",
@@ -16819,7 +16819,7 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.02,
+    "news_score": 0.01,
     "news_title": "Science, spirituality go hand-in-hand in India, says PM Modi while opening India's first LED Dome planetarium - Mathrubhumi English",
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXhWTzI0WjFvTzAwRkZVRVdvYXdYYWJSbDJ4bG5XT05rVGJ5OVprVjJFc29mVFhILXN2YmZqVktLS0k5MU15Zm9vSzJzYVBxYmh6c0dELUs4UVdPWmJXb2U2VnA1NkhxZUJ5Wk5adXZCMnBJRE1aMkdrQUhzbmNTNGkyb3VpUnlQUGxTdkNwR2dSNi13UDF4Qm9HRl9ISlVWWjI0S1pZcVZnckxxbmV6NS1YdjU2WnB5eEVr0gHAAUFVX3lxTE5MSExiZnhDRnpZc2dEbnhXT3NoTnFRZHltak56NUc5OV9aeHhhSDVpRlBuN1NrNE0wMFRMN21TczU2OEoxVFVOX2V6aTJIcXRkc3VXd1kwMWRSMXRial9mMl9lMEk2MXNWWUoxYWF5QmUyNU9xdVpVWFVnd3hvSmtjVlZiUGE0TVRVSDZTZzVYNGR6MzE3SlJELXRnUUFPZXRoNVByXzEtbEZNOWVFajN6TFU0VkpsQldLUURVRXpWcA?oc=5",
     "news_image": "",
@@ -17395,7 +17395,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.54,
+    "news_score": 0.53,
     "news_title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGo3OGMxN1ZNYy1FT1NCeF9OVHEyVjJjTlpJVzJHV2Ezamt3MFJkMDc0aUJlLUp3alBQZ200M2VRNWp3NXNkSllocERrOGxWUVBZNEp5VHkxVHJqcFVGeExLUWk5c2QxbHJsWVZIQnp1RFhULXktVHJQb3Nja3dWcFpkTWNZM1JhUGd3MUdSREpCYlJTSGw3TUl5UFFoR0tqWWxyTTdSZk96Z9IBrwFBVV95cUxOYlBrSExJX0JtT1R4MTlVUzVLVFFlZUllUFZmR29fNnNidkEwaFF3SEpkRDdKTDhsWUlTYURSdHBRd1E2V0pKZGRfbWpLS2hiZlEzUTc0SW1wT0JxMzRaMDlicVVQcXVJeGtRcGl1Y2hodkZ6cC15R095ckpuUU81RUJTd3FwSG5qNTRyN1piRlJPWF9rcjVKTnJwNldseVYyQ0VMYjdDcnZPRXljclo0?oc=5",
     "news_image": "",
@@ -19261,7 +19261,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.39,
+    "news_score": 0.36,
     "news_title": "The COP31 talks showcase a disastrous post-American world - The Japan Times",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc2JycGh1aEtvSGwtRjVzSlZWSERHWEJjUFk3czkyTGdMOUh0NVVFdEpSYkViMVptQXJpX2lCWjh2TWYzaTZlbks0a0I0c2oxREdHbUVVN01KeUcySnB6RGhxeFc2OGZ0WWhEUTQxV0tXN2VpNjVSV2x3M3NVd0NOZi1zc3NlbDA0Z0o1cmc0RUJ5RVJvX1FTbUNn?oc=5",
     "news_image": "",
@@ -26350,14 +26350,15 @@
     "refugees_rank": null,
     "union_rate": 59.8,
     "union_rate_rank": null,
-    "news_score": 0.65,
+    "news_score": 0.91,
     "news_title": "World’s top court to rule if Myanmar committed genocide against Rohingya - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDBRRS1KbTJxMzRiTlFFQnFlNW1uVk9jVWp0b2wtZ1VGNlJLTlFwaFo0SjFkbEM0djZyQW91M3lsN1lYTk00Qkw2VTJraGxZQWlHclF2YjhiVWJLUHlrMjFjdVB2M3M2SW9WMERERXR6NktITmNUNVpWdUZzVmlHWQ?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "3m ago",
+    "news_age": "5m ago",
     "news_columns": [
-      "fifa_ranking"
+      "icj",
+      "human_rights"
     ],
     "bottom50_wealth": null
   },
@@ -27806,16 +27807,16 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 1.29,
+    "news_score": 1.32,
     "news_title": "Australia v New Zealand: Women’s Rugby League World Cup final – live - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdzU4YlZwem1zWllDTUdJeFJWVmYzajBpWmoyWnBvX1ZKZmNWLWJld291VU90SzVLMmI2cE9LNml0enhzdjlNUzF1anZOVHEwcWQxSVUybHdSWGp0YTExbUhGNWVhSnpZMG1abXpIRmJEekM4MlhaVGsxRDVOTUU1YWxZNW1SNzNvdnRXNGJicW4yTUthWDZqZTFqZjg4U3FuWkFVUEl0ZThGNkNXLUdJOGVoS3FYQjdQT2d5cXJFNS00ZC1Rd0x0di1xRkdRLXo4Y0xsa0dBRkFBVTB1aHc?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "29m ago",
+    "news_age": "6m ago",
     "news_columns": [
       "rugby_league",
-      "fifa_w",
-      "olympic"
+      "rugby_w",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -31096,7 +31097,7 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.27,
+    "news_score": 0.31,
     "news_title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nSVEtNVRFaG5hcno2YnlYR1lwRDJhSXV2OGJNVGY3cU1aVzNPaHNjdUIxcHp5RXJ2RWVGQV9DRmR1cUx6ZkptMi1KSWlVeXhwWkp5S2xLZ2tCYzQ?oc=5",
     "news_image": "",
@@ -36716,7 +36717,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.16,
+    "news_score": 0.17,
     "news_title": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRmxpdGVWWnFKalBDb3Z1ZG9rU2RhbVMydDV0WFRrak9KQldJYXNaNWNhUjBMNERyUkZfVU5HUl9IOEhrUm1QX0V0RERFZlctclg4SjZOX1pQR2N1dEVmdS1HdDJ4c2c5ZklDdmd6dEN4eURrSUN0cllhbEs3UERPbXNLODdXenF0cVczVUdVd0xnRU5qcDJ1R0MyMjE0Z21rRDVUZVpodmhOSXlaNEc5a05jbw?oc=5",
     "news_image": "",
@@ -39096,15 +39097,15 @@
     "refugees_rank": null,
     "union_rate": 75.8,
     "union_rate_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.43,
     "news_title": "Thai Chamber of Commerce presents six proposals for economic reform - Nation Thailand",
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwWEk3N1BNaFZlU0lkUks5M25tTGFBZ1NjUDR2WHkyWnRpVU5EcjljUUxRWnp1WlBUdmkybHc1VFg3VHlOTk5FQ01SWjItalFjdEFNMks4RWV1RGp4cXVyblM0ak8zSlk?oc=5",
     "news_image": "",
     "news_source": "Nation Thailand",
     "news_age": "4h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "diplomacy",
+      "climate"
     ],
     "bottom50_wealth": null
   },
@@ -42530,14 +42531,14 @@
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONWM2aXc1OGtEUmRhQXAxWkF6OVlvaTNpVzRuUjNOeXVMQmoxN2EyRVZld1ljSkVYRVFNTWJ6NVlKUVdlbC1nTE81THNUUjdNZU1EblFWOGtfR3ZFQ3psc205eEFacXI5c05FN2Y3c0hrUVhSNDJZV2VQemg0YkM5UVdtSE5Ob0l1dllwZ08tNWNhVEcxSkg1d2NSRi0tYTZIVUkwX0V4c3BRNklvZnVNb1poMW1pQU1wb2FpOHpsdGgzQUJiV2c?oc=5",
     "news_image": "",
     "news_source": "City of Toronto",
-    "news_age": "15059h ago",
+    "news_age": "15060h ago",
     "news_columns": [
       "ufc",
       "mma",
-      "basket",
-      "nfl",
-      "fifa_ranking",
-      "olympic"
+      "ncaa_football",
+      "cfp",
+      "diplomacy",
+      "climate"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43453,7 +43454,7 @@
     "union_rate": 56.6,
     "union_rate_rank": null,
     "fifa_w_rank": 40,
-    "news_score": 0.56,
+    "news_score": 0.55,
     "news_title": "World Championship Final: Australia vs Venezuela - ballysports.com",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk5lTXJvTVR4b2Z4dGhCanloU2d4YXY3QVNJUkNUTDJxNmZTLUp5bklnQnI4d0hGV2MzNUl6VVhxTk9ZOGRxRjhqeDRQYUlsSTJ4SjlRVnl5UnlFOTBNYkMtaFRQNGZOQmNCbWgwX0FPTFpHazdhTkNBSmUtNHdnMHRkdlJfVUNFejFUTV91a1R0VC1PYl9hS2hMbE9UTXZtTjNKazlKQWM1a2oxVlE?oc=5",
     "news_image": "",
