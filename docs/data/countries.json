@@ -2556,7 +2556,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.63,
+    "news_score": 0.46,
     "news_title": "World Championship Final: Australia vs Venezuela - ballysports.com",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk5lTXJvTVR4b2Z4dGhCanloU2d4YXY3QVNJUkNUTDJxNmZTLUp5bklnQnI4d0hGV2MzNUl6VVhxTk9ZOGRxRjhqeDRQYUlsSTJ4SjlRVnl5UnlFOTBNYkMtaFRQNGZOQmNCbWgwX0FPTFpHazdhTkNBSmUtNHdnMHRkdlJfVUNFejFUTV91a1R0VC1PYl9hS2hMbE9UTXZtTjNKazlKQWM1a2oxVlE?oc=5",
     "news_image": "",
@@ -6945,7 +6945,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcGRMYktmZXZYQWxOX3hEa3N6SHVYOTc3aW1hdjB6dnA3d01VRUQtdlRSRGpOc1M2eG93NWs0d1dqbWJaWkhVVXFzMThwQmlReFcwT1JkT0lhOEJsak8waDhEdGhtb1ZZcm10bTNpN0xUckhpY2lvTzNMWUNKcjlXT21zejVRaUk1aEV2a25RbndpejlmeGVFOURJT0stSmhkQVRwa2dkMnp2ZTNmN25naC1KX2ozX1pfVXg4MjZYZVlsZG1ZVFZseG1QakFWMk5kZlFjUVhB?oc=5",
     "news_image": "",
     "news_source": "Business Insider Africa",
-    "news_age": "9h ago",
+    "news_age": "10h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -8017,17 +8017,15 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.9,
+    "news_score": 0.89,
     "news_title": "The world according to China - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjFJU0l0RDAwQ2FiRlJ5TWI4UnFSYzJPT2tTXzhydHU5ZEt1LVRseXY2aHByQ2FSdmpVWC00ZlpSc0IwX05rYkhpQkZrejd5dlREeDVHaHV6eXdaUllhSktGa3Q2YUk3aFBxQWR3R29zakdzVy1oZjlpSF9PZWo0d0h2aFc?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
     "news_age": "3h ago",
     "news_columns": [
-      "geopolitics",
-      "conflict_index",
-      "tech_sentiment",
-      "btc_price"
+      "basket",
+      "fifa_w"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -12535,7 +12533,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2hsUlBpZFYxeUxTU2VRX3ZJa0Rhc3J6ZERIcnRhdmg4S3lzVk9aNjM1U2ZoSDMxbU92N3E5ODk0RHVQbVBzNkZiZGVNQkJUdmtGdnZBUUlEcl9rTEdBakFjdmJUbV84TG15WmR3c1VWVVJSNE0zZzFYWThXcTh5YzJhWW83WmZ4eGtrWG5HYw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "110m ago",
+    "news_age": "112m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -13036,7 +13034,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.72,
+    "news_score": 0.48,
     "news_title": "Dupont in command as France stay strong - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY3k0SGl4NWdRWWNIU0VDd1poS1JSZ2duMWdJMjd4amQtZThEOExra3hwX1cta0pVRWJmcmZ5Mk1uMC11RTZ3ZU1kNHN6cXVCYjBLMlk1YmdyS2tiWXU3X2t4SEMzWEFKYWFxcmlNRXdlem0xMUk3OEpiMEgwLXdyWnN6TWlicDBhTkE?oc=5",
     "news_image": "",
@@ -13568,7 +13566,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.18,
+    "news_score": 0.26,
     "news_title": "College football winners, losers: Georgia, Wake Forest on cruise control; Kentucky cratering - CBS Sports",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXpHOEF0WTZENFRoZnYtSE9NVkZBLVhXaTRjeThXTE5FTjc1T2Y2cnJ2WGhYS2dqbHktOTNvQ1I5dktTcmR5aGg5bWtvSDBUUGVVUE04TkRGZmxJQVE3c1FVbmk1elZ3RlpKZ2pTdllPRTU1ZjdRVW93WkoyaVEzZHpCQ2p3alJtMTlJRmI3TklRQ3FjczQwNkQ2bnB4WnZuOWNreDdZUDA1ZUppMmc?oc=5",
     "news_image": "",
@@ -15880,15 +15878,14 @@
     "fifa_w": 81,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 62,
-    "news_score": 0.27,
+    "news_score": 0.35,
     "news_title": "Exclusive | Hong Kong sending who’s who delegation of business leaders to Apec CEO Summit - South China Morning Post",
     "news_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWjdJa3hvcmFHb013TmFyXzZoSGdkcTlLd2tneU93SmQtQVhYMEFHS0NqZ25obXMzblphWURoNHlkeDBNSWhRODE3Nl94dzJKYXFZV3IzRG1CUEFmaUlzUEJnd2tpT01EZDlrMEprZ3c0QlJjNmd1R3lWQXdQSGJEZ2hCVHhnN29MQW9oRDExT3NhZWtXQXpIYUNGMnVaTUZNeWJRUmtfRzJzc0VaX1RZT0VpVkgtcWJFcVV5Rmwwd3pPUElBSXRkU2JBWU1rZmpwb3VkUHpNZ9IB1wFBVV95cUxQN2JpTmtMdFFuZ1VUeGNIRElTZGFRNFV2VGFxaFloZm50eXJtMkhQd2xmMlJVeGtaZW5sRFZJakc3YXRCa2xaWUxxd2R3VjFnQWZvb1pKXzFielJsYnpGZWgwSFI0UW91X1M5QklNQ05FdzhPYTBBMUZVQnZHTUlyNk55elJsdlNfdjNvWkNmS05HSXVma1M3ZFBPRE8yMXJlcUtIX2pnRmRtVGtiM3NnLVNjTUFuRjU0Z2FJZUp3WnJsV1NaaUZOTG9OSkd2SVc3QTRuRnc5VQ?oc=5",
     "news_image": "",
     "news_source": "South China Morning Post",
     "news_age": "4h ago",
     "news_columns": [
-      "diplomacy",
-      "trade"
+      "fifa_w"
     ],
     "bottom50_wealth": null,
     "election_date": "2027-03-28",
@@ -17397,19 +17394,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.22,
+    "news_score": 0.24,
     "news_title": "Iran's navy says three tankers on fire after hitting mines in Hormuz - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
     "news_image": "",
     "news_source": "Reuters",
     "news_age": "7h ago",
     "news_columns": [
-      "gas_price",
-      "energy_per_capita",
-      "co2",
-      "renew",
-      "exports",
-      "military_pct"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -26351,15 +26343,14 @@
     "refugees_rank": null,
     "union_rate": 59.8,
     "union_rate_rank": null,
-    "news_score": 1.11,
+    "news_score": 1.14,
     "news_title": "World’s top court to rule if Myanmar committed genocide against Rohingya - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDBRRS1KbTJxMzRiTlFFQnFlNW1uVk9jVWp0b2wtZ1VGNlJLTlFwaFo0SjFkbEM0djZyQW91M3lsN1lYTk00Qkw2VTJraGxZQWlHclF2YjhiVWJLUHlrMjFjdVB2M3M2SW9WMERERXR6NktITmNUNVpWdUZzVmlHWQ?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "43m ago",
+    "news_age": "45m ago",
     "news_columns": [
-      "geopolitics",
-      "conflict_index"
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -28464,7 +28455,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkNULXpEMHd5QjhOSklodnl4SUFBQUNxWl8zd0tGWHotSEFRR09CYkFfMTRHZW9fMGdhLTN1eHVIY2lZdk9tcVhfQ1hBRDJILWhWUmVSbm9Qb2l2Y1ExazFVZTlINjBMNGZWeDRzeGp2bEJqLXF6amwxMGUwX1RYOTNramxMR2VmT2FNRFVNYkpLRmtPVTlXdFpDMlc?oc=5",
     "news_image": "",
     "news_source": "Head Topics",
-    "news_age": "25m ago",
+    "news_age": "27m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -42537,14 +42528,9 @@
     "news_source": "City of Toronto",
     "news_age": "15060h ago",
     "news_columns": [
-      "ncaaf",
-      "cfp_ranking",
-      "ap_poll",
-      "ufc",
-      "mma_ranking",
-      "geopolitics",
-      "conflict_index",
-      "tech_sentiment"
+      "fifa_ranking",
+      "fifa_w",
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43745,7 +43731,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.35,
+    "news_score": 0.34,
     "news_title": "Improving institutions and unlocking resources for science, technology, and innovation. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTnAyZVlTUGYxMEtIQ2xlNlBqZkdZNm9CTGR4N1c0OUpJd0p2eUs5X3htTlZLcjZKSWYzWk9RMnVnZF9icU05RUV2Q2tqRUtqTXc5bm03UGVYbXEtNlBZNjdSaXBmci0wUkdFc0k3dUNCeXQzRUg0d3V5bDJUYkdXaGV5azlMV0Z0bExldHJwOHJUMVVnZzhuc24xd1A5d0E4VktTaG44Y0hoNXh2?oc=5",
     "news_image": "",
