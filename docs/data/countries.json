@@ -2562,14 +2562,18 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 3.19,
+    "news_score": 2.38,
     "news_title": "Australia overpower New Zealand to win fourth consecutive men’s Rugby League World Cup - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS21KQm9tY1Q4QkQ1NG5hSTVBUGVyZnZsN2NKNFhpVXZYSU55bHJYczhxdWlhWGV6LWlfeUQ5OUIyRVVUWWpQRmRKV2luTTJ3Zm9razZuSC14UEZqUlpQM2Q3MEJWT0xPQkZFaUlfajZqRzhrVDlYNmtGTzNJUXR2dUtxU1RlSllMU2xyYXlCSzB6enBwMG1SbWlpdVdtZnhNWmxoc0QyeHJnOHExeGVoYU5wQ3AxaVRuYU90QVJValJHamVNYUxETVdR?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "105m ago",
+    "news_age": "107m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket",
+      "rugby"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3060,14 +3064,15 @@
     "union_rate": 72.9,
     "union_rate_rank": null,
     "fifa_w_rank": 80,
-    "news_score": 0.0,
+    "news_score": 0.32,
     "news_title": "Iran launches drone attacks against US military base in Bahrain - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS0RnUlBTa1J0QTBzR0RHcldQd0twTEtaUWwzV2xlSzJOSURDRW9hcHVqaUNtUVp3YU9uMGZ1N2djRU1xeGdsTzlBLU9Jdm1iSTQ5RDlzc1VPb293V2xkNk1Ddms0VHZvMVJ3VklsXy1KUGtkTW03RnY1VUZ5VU1jaTFTNDlUYU9UVEw4MVlEVkdPNnNWX3hQejRueUotWmxEal9lTnJhaloyNTBCTFE?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "51m ago",
+    "news_age": "55m ago",
     "news_columns": [
-      "fifa_ranking"
+      "geopolitics",
+      "security"
     ],
     "bottom50_wealth": null
   },
@@ -5159,7 +5164,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.48,
+    "news_score": 0.47,
     "news_title": "Brazil U17s touch down in Doha for the World Cup - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU2FJeERYSWJmYkNrZVpRTklSZ0FxZjJGSVhMMlVOYlVXVVUyM3FhbHpOYm00V0loUzZST05ybjl1RnVGempxdHc3bXdJNkUxVC13WlZxUjNrdFRoQXBKQjQzWUdUcE5Za1lQZmliRXVyZzZ3bGJxeXZjcjBFazFLNGtR?oc=5",
     "news_image": "",
@@ -6314,7 +6319,7 @@
     "refugees_rank": null,
     "union_rate": 86.1,
     "union_rate_rank": null,
-    "news_score": 0.01,
+    "news_score": 0.0,
     "news_title": "Macron urges unity at Francophonie summit in Cambodia as DR Congo threatens to quit - DW.com",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR0x5Q2lOZndIVjJXbFRaVURDRE1iTjQ1OVFobFlDNEpaUlBJeTUwdkZkZkZHT0YzQzd2ZEpqRlYtM1JwbnRDTjNBbkFHUDJQR3FLX0tobVlZd1hTZkhacy1meEFxSjNvOE1OSHNudERlbWQ2QW5qUDcteVpPckhZRlVicmVKdmU5OGF3LW9KbFljLXFid3U40gGXAUFVX3lxTFBBSlhLbm9XWjJlVEUyblN5S1pZaXk0TFd5aURvNFhkUnpyZ0VCbHdpaWdabW4zdTJlRTBtUUF2dmdiaTd1RE5mN2FhdmxSSTQ5eU1RWDBsWWxoYUFPZkFWdEEzMC12ZzQ5VXpiZUY4OEhzSTdsZGNoMF9rNkt4Q0tFVG9kNkMzaDhadFo5cHY2cElSLUtMbjA?oc=5",
     "news_image": "",
@@ -6942,15 +6947,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.61,
+    "news_score": 1.72,
     "news_title": "Canada taking on Sweden for spot against US women's hockey team in World Championship final - USA Today",
     "news_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMDl4Q0kySE1qNzFkLXFyREh0Y3ROSmZOMUJMSTJzSEZhWGVLdXVwMDRMd1pJVkxYZDRpYnl1bDMwRHNYZjlLMm4yVndQYnB5aEFoVEd1X2hiYUFmZmIwT2N2a0lfc3B1bm1zYUl6YjBZQlNFVk02ZlY1dUxCbmt2N0dpOVZZNHQ3clFtWkxoc3JFc21OdG9FZ0ZuXzVXOUdqUmtlcDZXcmd6aDRxdGJHZTF1SkJub1NfblRmNzk2SUhCYmNYZExveU1WaWRVYTlGZzJnZEJzT3I3dnBwRnBpUF9MWmtrems5LXNseQ?oc=5",
     "news_image": "",
     "news_source": "USA Today",
-    "news_age": "15m ago",
+    "news_age": "17m ago",
     "news_columns": [
-      "olympic",
-      "fifa_w"
+      "hockey",
+      "olympic"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -8015,7 +8020,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.03,
+    "news_score": 0.02,
     "news_title": "The world according to China - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjFJU0l0RDAwQ2FiRlJ5TWI4UnFSYzJPT2tTXzhydHU5ZEt1LVRseXY2aHByQ2FSdmpVWC00ZlpSc0IwX05rYkhpQkZrejd5dlREeDVHaHV6eXdaUllhSktGa3Q2YUk3aFBxQWR3R29zakdzVy1oZjlpSF9PZWo0d0h2aFc?oc=5",
     "news_image": "",
@@ -12525,15 +12530,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.88,
+    "news_score": 0.94,
     "news_title": "USA Beats Finland, Updated Women's Hockey World Championship 2026 Results and Bracket - Bleacher Report",
     "news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRmktRmxqMFROeU1KQjlCak5qeG96Y1htS0pXX1d4bkt5T0Roa1pLVF94WkFiV3hOeDlxNWVVOFk4RlZZTmx3ckJLb01tX0dtZDl0NlpwTEh3UmtIaWJJMUZ6YUJWUzdhRWF2bEpnZFpBa2FJdVpJZnlWR1JfQ2xqWHhJYlNoNVlkMWpLNFlsX3ZXemxUdDYyTXpUb2pPQkRmXzUxUW1HOHZkUk5JN3A2SmZJVkxDWl9XcUM5SldtTVFQUE9nSEww?oc=5",
     "news_image": "",
     "news_source": "Bleacher Report",
-    "news_age": "63m ago",
+    "news_age": "65m ago",
     "news_columns": [
-      "olympic",
-      "fifa_w"
+      "hockey",
+      "olympic"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 13
@@ -14061,15 +14066,17 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.46,
+    "news_score": 0.95,
     "news_title": "Lions dominate Patriots in Germany after knocking Drake Maye out of game - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc3JxT28xNjZ3QXZ1RHg3N3haUmdTbmNna0VRZ19hcDlPOGZxZVUzSVBIem5ZNmo3ZlpVUDFLbERoanloNEY2S1V4Yk95UDlUU1ZWTlNRQmR1czd2VFRpN0h2UmFKREhvaDVFTm00NnBlTHlzN2NpQ3NlVUlkMkRUQlNxV3JpdGoxYm5vMHJkbW5PVUx5T0NBcm1BRm1hd2FsWWJtZzR4UzhmTXY4ejZxVEQ2OXg3NlV6ZUNmUWR6blJ3eXNVV281ZWlwdGtCZzkxdVBVWVR4Y1VOSHBQQzlPSw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "47m ago",
+    "news_age": "49m ago",
     "news_columns": [
-      "basket",
-      "fifa_ranking"
+      "democracy",
+      "press",
+      "gpi",
+      "polit_kill"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16818,7 +16825,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONEZMN0RMaWduNkRUS1BCdEdhNWVydW15M3JVSjh4WWRxQ2JsRzZSSUk1SldFODdBTnlxZGZvaERRXzNkLVUtY0cta25lSUx1VzBWLTRNTVVTZXllZmtWSlpfOEFscHd6cy1nSmdvMEZiWktuU1JxeUdzc0xRSGZ0UnB5UUwzdw?oc=5",
     "news_image": "",
     "news_source": "Ommcom News",
-    "news_age": "61m ago",
+    "news_age": "63m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -17385,19 +17392,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.39,
-    "news_title": "Global Economy, Hit by Iran War and Inflation, Faces Sharp Slowdown - The New York Times",
-    "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMktxdXlJWExWLTFHUkkzY25IRzdfM3ZvNE5XLWlLdzdxMGdZVWRhMUhjaUwzRjdwcGpVMFp6MkZYMGtwTzVSOG00Ml9IVV93QjR4Tm80cG9xdC1LdHFJME9XOG1odnRsQU15bUtqeEFoN1VEeXE4VGlncHlLWkUzR0g5LWFQNkx6VG51MA?oc=5",
+    "news_score": 0.72,
+    "news_title": "Iran launches drone attacks against US military base in Bahrain - The Guardian",
+    "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS0RnUlBTa1J0QTBzR0RHcldQd0twTEtaUWwzV2xlSzJOSURDRW9hcHVqaUNtUVp3YU9uMGZ1N2djRU1xeGdsTzlBLU9Jdm1iSTQ5RDlzc1VPb293V2xkNk1Ddms0VHZvMVJ3VklsXy1KUGtkTW03RnY1VUZ5VU1jaTFTNDlUYU9UVEw4MVlEVkdPNnNWX3hQejRueUotWmxEal9lTnJhaloyNTBCTFE?oc=5",
     "news_image": "",
-    "news_source": "The New York Times",
-    "news_age": "3131h ago",
+    "news_source": "The Guardian",
+    "news_age": "55m ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "geopolitics",
+      "security"
     ],
     "bottom50_wealth": null
   },
@@ -18764,7 +18767,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYW1wRmZXdFFQTkpRRWdxZU9aOHlweXVZbmlIa2w5VHJ5UERwVlJWVjVINXU3Y0x3cFlGcFdqU3I0dlpWdklWbkdoa3NLQzVhQlg3T0t3SFdXT0p2YXJ2Y0xJampuWlE5ZXBkUkl6LXFXWjV3WjU5elJSN0Yyd1JvWjM4ZWdMRFFQUXFtZnhCdTJxZTFXdlRYc0JvbjYyd05HMXBNQ3M5SW1zY2RmNFdrQ0E0OUo?oc=5",
     "news_image": "",
     "news_source": "Concacaf | Official Website",
-    "news_age": "29m ago",
+    "news_age": "31m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -27809,14 +27812,18 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 1.69,
+    "news_score": 1.26,
     "news_title": "Australia overpower New Zealand to win fourth consecutive men’s Rugby League World Cup - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS21KQm9tY1Q4QkQ1NG5hSTVBUGVyZnZsN2NKNFhpVXZYSU55bHJYczhxdWlhWGV6LWlfeUQ5OUIyRVVUWWpQRmRKV2luTTJ3Zm9razZuSC14UEZqUlpQM2Q3MEJWT0xPQkZFaUlfajZqRzhrVDlYNmtGTzNJUXR2dUtxU1RlSllMU2xyYXlCSzB6enBwMG1SbWlpdVdtZnhNWmxoc0QyeHJnOHExeGVoYU5wQ3AxaVRuYU90QVJValJHamVNYUxETVdR?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "105m ago",
+    "news_age": "107m ago",
     "news_columns": [
-      "fifa_ranking"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket",
+      "rugby"
     ],
     "bottom50_wealth": null
   },
@@ -28458,12 +28465,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.7,
+    "news_score": 0.69,
     "news_title": "Nigeria's newest TV channel goes live, targets Nigerians without subscription - Legit News",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYnlWX0VKMzBBQkhZUlU2OEpDT0xLVXpGZ0RBNUtwQXNMTVkwZllXMnRPZ0JKZkJoNGtReW1hN3VhU2N6NzNCa0JtbGVGVHZfdElucFZMenZJaVFxUjQ3dHRHLTh6Q3p2LXFxQ1J2M18xZm5DRW5yWkJUMktEdWtESnBuWEZWd045NGZwLXRkVXIzUzFNWDdubm9rTmt1clNrbmJXWmM5bW5zNE1QbEdTaVZRaDFDQQ?oc=5",
     "news_image": "",
     "news_source": "Legit News",
-    "news_age": "87m ago",
+    "news_age": "89m ago",
     "news_columns": [
       "economy"
     ],
@@ -31093,12 +31100,12 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.15,
-    "news_title": "Pope crosses Peru in the finale of a trip home to visit flock high in Andes and deep in Amazon - AP News",
-    "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTVlSTFUWUh3d3hoRUVkeHNEX0lpTXFqQUx2dG1FUjR0TnBNVkJqQ19sQWt3Y2loVHplWlpHZGFOZHNyTjdNMDRQQS1Dd0ZLT2dSSTVxRjY5MURzT1JabnNQdHo1RkFJNjBsR2hFV29LQmhfaENsVFk0X2hDSTZaVFRFYjVfaUJOd3J4MjFjcW13ZEVYTkpiMQ?oc=5",
+    "news_score": 0.16,
+    "news_title": "Pope crosses Peru in finale of trip home to visit flock high in Andes and deep in Amazon - Politico",
+    "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTjlFUDFrd25XM3lQRjBEVXNDcXpsd1pRMlpCVklHa0JOLVNLMHluNUJ5ek1WMmYyeUgzQWhfUlBwZXVJYVVYTzlRNDZ0akVxQkxNWEJKSFZSeWRBQTFWaHA4YlFyOVZvZFBiU1ZhQU1nSGxKWlpqUXZSLUJiV0N1a3NB?oc=5",
     "news_image": "",
-    "news_source": "AP News",
-    "news_age": "6h ago",
+    "news_source": "Politico",
+    "news_age": "5h ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -33116,12 +33123,12 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.99,
+    "news_score": 0.95,
     "news_title": "Russia will not play at World Juniors due to Canadian government’s restrictions, IIHF says - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObzZMRTJyMFpTNnpHckp4dzdYUDNGMVV5V19RU29CWGF5LVd4UDlIclJ5NzRVLUplb3VnOTk3ajlPVzVpZG5LRTdpNmNua0kxcjBVbFN3VmVBdHcyaDh5SUk5VmdweHdSNE9GMFZQeF9BY1VhUGNVZ2tUeWc5dFVhMWJpd3ZsSUFOc3FmdTd3?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "31m ago",
+    "news_age": "33m ago",
     "news_columns": [
       "ice_hockey",
       "iihf"
@@ -33304,7 +33311,7 @@
     "union_rate": 66.1,
     "union_rate_rank": null,
     "fifa_w_rank": 110,
-    "news_score": 0.01,
+    "news_score": 0.0,
     "news_title": "Macron urges unity at Francophonie summit in Cambodia as DR Congo threatens to quit - DW.com",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR0x5Q2lOZndIVjJXbFRaVURDRE1iTjQ1OVFobFlDNEpaUlBJeTUwdkZkZkZHT0YzQzd2ZEpqRlYtM1JwbnRDTjNBbkFHUDJQR3FLX0tobVlZd1hTZkhacy1meEFxSjNvOE1OSHNudERlbWQ2QW5qUDcteVpPckhZRlVicmVKdmU5OGF3LW9KbFljLXFid3U40gGXAUFVX3lxTFBBSlhLbm9XWjJlVEUyblN5S1pZaXk0TFd5aURvNFhkUnpyZ0VCbHdpaWdabW4zdTJlRTBtUUF2dmdiaTd1RE5mN2FhdmxSSTQ5eU1RWDBsWWxoYUFPZkFWdEEzMC12ZzQ5VXpiZUY4OEhzSTdsZGNoMF9rNkt4Q0tFVG9kNkMzaDhadFo5cHY2cElSLUtMbjA?oc=5",
     "news_image": "",
@@ -37664,15 +37671,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.61,
+    "news_score": 1.72,
     "news_title": "Canada taking on Sweden for spot against US women's hockey team in World Championship final - USA Today",
     "news_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMDl4Q0kySE1qNzFkLXFyREh0Y3ROSmZOMUJMSTJzSEZhWGVLdXVwMDRMd1pJVkxYZDRpYnl1bDMwRHNYZjlLMm4yVndQYnB5aEFoVEd1X2hiYUFmZmIwT2N2a0lfc3B1bm1zYUl6YjBZQlNFVk02ZlY1dUxCbmt2N0dpOVZZNHQ3clFtWkxoc3JFc21OdG9FZ0ZuXzVXOUdqUmtlcDZXcmd6aDRxdGJHZTF1SkJub1NfblRmNzk2SUhCYmNYZExveU1WaWRVYTlGZzJnZEJzT3I3dnBwRnBpUF9MWmtrems5LXNseQ?oc=5",
     "news_image": "",
     "news_source": "USA Today",
-    "news_age": "15m ago",
+    "news_age": "17m ago",
     "news_columns": [
-      "olympic",
-      "fifa_w"
+      "hockey",
+      "olympic"
     ],
     "election_title": "Swedish Parliament",
     "election_url": "https://www.electionguide.org/countries/id/206",
@@ -41240,19 +41247,19 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.35,
-    "news_title": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia? - Al Jazeera",
-    "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFZxYzB6N3djaUJMOWI1QW1oaTFhLVc1bDZXNVlEMERPNlR5Z2FSMl9rdnJJSkNnVVhQclUteWJYWE1rM1F4amRadVRJQk1YZHNHU2UxcmtFYTRqNWk4eXhLTjhNWlBPbE1uNU1zMzFWMWJaZGpDUFgzSml5V29ZeVgwQUFuNzZMaXpWQVV2YUxaQ0wwckNfLWR4a3pYV3ROSjVHcVhCTnlEQlItWFBuctIBtgFBVV95cUxOV2YtTEY4U180dER0UjRwQUFDdUhDWVRLTnpMVzhJVkdJUTlhbXc0UEVvaHN1cnV3bWJud2FDZldDZ2h2WEtlVG9uWWlfZEI2OF82M05oMlRzUUxRaUg5cGgxM19acGEyeVpkMnNrcDZxaS1NTFQzdXNoZUJyVk9iUnFfTHQyeHZ6Nmc5cWtPcGM0LWpqVDcwUG9RNEExV0h5cEJwNXNVMzVZQ0hkM245SUdjM0F2QQ?oc=5",
+    "news_score": 0.29,
+    "news_title": "World in brief: America resumes flights after ground stop; Ukraine warns against Donbas concession - The Economist",
+    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdXc3T0dQSkhDQ3Fua3VvTzJJanhqQUtTRU85LThtUEFEWFJzTzZyNndMZ2R2ZDV3Z1k1RjFUZ19qd0pUa3Z4OUg2MzBSSW9rOGZxUlVhMG9nWnlrSlRSdE5SUzFvZ0pxcldFckRjYnRqMGgzT2dXWmg4c0thQXdQUzY2LVkwUE5taHZtZ2M2dk03UlZ1OTZj?oc=5",
     "news_image": "",
-    "news_source": "Al Jazeera",
-    "news_age": "5h ago",
+    "news_source": "The Economist",
+    "news_age": "6h ago",
     "news_columns": [
       "basket",
       "olympic",
-      "nato",
       "military_pct",
-      "gdp",
-      "ai_research"
+      "nuclear",
+      "military_personnel",
+      "gpi"
     ],
     "bottom50_wealth": null
   },
@@ -42520,10 +42527,14 @@
     "news_source": "City of Toronto",
     "news_age": "15072h ago",
     "news_columns": [
-      "basket",
-      "fifa_ranking",
+      "nfl",
+      "football",
+      "hockey",
       "olympic",
-      "fifa_w"
+      "aviation",
+      "infrastructure",
+      "geopolitics",
+      "security"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
