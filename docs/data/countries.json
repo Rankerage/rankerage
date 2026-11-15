@@ -2562,7 +2562,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 2.0,
+    "news_score": 1.99,
     "news_title": "Australia overpower New Zealand to win fourth consecutive men’s Rugby League World Cup - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS21KQm9tY1Q4QkQ1NG5hSTVBUGVyZnZsN2NKNFhpVXZYSU55bHJYczhxdWlhWGV6LWlfeUQ5OUIyRVVUWWpQRmRKV2luTTJ3Zm9razZuSC14UEZqUlpQM2Q3MEJWT0xPQkZFaUlfajZqRzhrVDlYNmtGTzNJUXR2dUtxU1RlSllMU2xyYXlCSzB6enBwMG1SbWlpdVdtZnhNWmxoc0QyeHJnOHExeGVoYU5wQ3AxaVRuYU90QVJValJHamVNYUxETVdR?oc=5",
     "news_image": "",
@@ -3064,14 +3064,14 @@
     "union_rate": 72.9,
     "union_rate_rank": null,
     "fifa_w_rank": 80,
-    "news_score": 0.28,
+    "news_score": 0.47,
     "news_title": "Iran launches drone attacks against US military base in Bahrain - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS0RnUlBTa1J0QTBzR0RHcldQd0twTEtaUWwzV2xlSzJOSURDRW9hcHVqaUNtUVp3YU9uMGZ1N2djRU1xeGdsTzlBLU9Jdm1iSTQ5RDlzc1VPb293V2xkNk1Ddms0VHZvMVJ3VklsXy1KUGtkTW03RnY1VUZ5VU1jaTFTNDlUYU9UVEw4MVlEVkdPNnNWX3hQejRueUotWmxEal9lTnJhaloyNTBCTFE?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "81m ago",
+    "news_age": "83m ago",
     "news_columns": [
-      "fifa_ranking"
+      "geopolitics"
     ],
     "bottom50_wealth": null
   },
@@ -5163,7 +5163,7 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.42,
+    "news_score": 0.41,
     "news_title": "Brazil U17s touch down in Doha for the World Cup - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU2FJeERYSWJmYkNrZVpRTklSZ0FxZjJGSVhMMlVOYlVXVVUyM3FhbHpOYm00V0loUzZST05ybjl1RnVGempxdHc3bXdJNkUxVC13WlZxUjNrdFRoQXBKQjQzWUdUcE5Za1lQZmliRXVyZzZ3bGJxeXZjcjBFazFLNGtR?oc=5",
     "news_image": "",
@@ -6951,10 +6951,11 @@
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMkxDRkFmbXRVd1h3dV84NTF3cDZadjRjYUtqUHpkWXlVVXIzX3lvVXI5Z25BUkR6c0lJLVJpZkQxSzhEWmNZS2RFX1pJZWxkOXMxcHUxVUZvdGZvZDR1SUtMOUNKM2g4RTdEaWJtaE4wX0RacU55SndhaEoxWG1VNGVybFpvMVdwelU2TzhxWHNxbTZYOFlIbGo1QkM4c3c2aVVFWmtudXFxYnhObkYyb05B?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "17m ago",
+    "news_age": "19m ago",
     "news_columns": [
-      "fifa_w",
-      "olympic"
+      "hockey",
+      "iihf",
+      "iihf_w"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -8024,7 +8025,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjFJU0l0RDAwQ2FiRlJ5TWI4UnFSYzJPT2tTXzhydHU5ZEt1LVRseXY2aHByQ2FSdmpVWC00ZlpSc0IwX05rYkhpQkZrejd5dlREeDVHaHV6eXdaUllhSktGa3Q2YUk3aFBxQWR3R29zakdzVy1oZjlpSF9PZWo0d0h2aFc?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
-    "news_age": "15h ago",
+    "news_age": "16h ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -12529,15 +12530,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.92,
+    "news_score": 0.91,
     "news_title": "USA Beats Finland, Updated Women's Hockey World Championship 2026 Results and Bracket - Bleacher Report",
     "news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRmktRmxqMFROeU1KQjlCak5qeG96Y1htS0pXX1d4bkt5T0Roa1pLVF94WkFiV3hOeDlxNWVVOFk4RlZZTmx3ckJLb01tX0dtZDl0NlpwTEh3UmtIaWJJMUZ6YUJWUzdhRWF2bEpnZFpBa2FJdVpJZnlWR1JfQ2xqWHhJYlNoNVlkMWpLNFlsX3ZXemxUdDYyTXpUb2pPQkRmXzUxUW1HOHZkUk5JN3A2SmZJVkxDWl9XcUM5SldtTVFQUE9nSEww?oc=5",
     "news_image": "",
     "news_source": "Bleacher Report",
-    "news_age": "91m ago",
+    "news_age": "93m ago",
     "news_columns": [
-      "fifa_w",
-      "olympic"
+      "hockey",
+      "iihf_w"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 13
@@ -14063,18 +14064,17 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.73,
-    "news_title": "Aidan Hutchinson injured celebrating after sacking Drake Maye in Germany - NBC Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTzg1RmlDVGp5WC1nTE9EYnRLZkFISDFhU0FxTlQ0WmlETkZhYVAtdnZvM1NMZUdoOUo5WE1PQUo3d25VTkV6Skk3c3psSkN5M3VMRnhWVkdPbThQNHNUWm1pMDFUZ202cHNRUUJMeldES0N1ZXFPakQ0T3JrdVFPZFhPaDVPeWU5cFhGYzFRdHFWVmF4a1U4cGhLMGt1TGthZUJ6a3dCNDV2a2Z5OUQ1MFFlY3F5ZzlZZUNGb1BVR2E5Y0pfVE13anl5Vk52bVk?oc=5",
+    "news_score": 0.79,
+    "news_title": "Lions dominate Patriots in Germany after knocking Drake Maye out of game - Yahoo Sports",
+    "news_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc3JxT28xNjZ3QXZ1RHg3N3haUmdTbmNna0VRZ19hcDlPOGZxZVUzSVBIem5ZNmo3ZlpVUDFLbERoanloNEY2S1V4Yk95UDlUU1ZWTlNRQmR1czd2VFRpN0h2UmFKREhvaDVFTm00NnBlTHlzN2NpQ3NlVUlkMkRUQlNxV3JpdGoxYm5vMHJkbW5PVUx5T0NBcm1BRm1hd2FsWWJtZzR4UzhmTXY4ejZxVEQ2OXg3NlV6ZUNmUWR6blJ3eXNVV281ZWlwdGtCZzkxdVBVWVR4Y1VOSHBQQzlPSw?oc=5",
     "news_image": "",
-    "news_source": "NBC Sports",
-    "news_age": "3h ago",
+    "news_source": "Yahoo Sports",
+    "news_age": "77m ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "democracy",
+      "press",
+      "gpi",
+      "polit_kill"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -16823,7 +16823,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONEZMN0RMaWduNkRUS1BCdEdhNWVydW15M3JVSjh4WWRxQ2JsRzZSSUk1SldFODdBTnlxZGZvaERRXzNkLVUtY0cta25lSUx1VzBWLTRNTVVTZXllZmtWSlpfOEFscHd6cy1nSmdvMEZiWktuU1JxeUdzc0xRSGZ0UnB5UUwzdw?oc=5",
     "news_image": "",
     "news_source": "Ommcom News",
-    "news_age": "89m ago",
+    "news_age": "91m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -17390,14 +17390,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.92,
+    "news_score": 0.97,
     "news_title": "Iran launches drone attacks against US military base in Bahrain - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS0RnUlBTa1J0QTBzR0RHcldQd0twTEtaUWwzV2xlSzJOSURDRW9hcHVqaUNtUVp3YU9uMGZ1N2djRU1xeGdsTzlBLU9Jdm1iSTQ5RDlzc1VPb293V2xkNk1Ddms0VHZvMVJ3VklsXy1KUGtkTW03RnY1VUZ5VU1jaTFTNDlUYU9UVEw4MVlEVkdPNnNWX3hQejRueUotWmxEal9lTnJhaloyNTBCTFE?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "81m ago",
+    "news_age": "83m ago",
     "news_columns": [
-      "fifa_ranking"
+      "geopolitics"
     ],
     "bottom50_wealth": null
   },
@@ -18759,12 +18759,12 @@
     "union_rate": 74.0,
     "union_rate_rank": null,
     "fifa_w_rank": 39,
-    "news_score": 0.79,
+    "news_score": 0.78,
     "news_title": "Jamaica eyes historic third FIFA Women’s World Cup berth - Concacaf | Official Website",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYW1wRmZXdFFQTkpRRWdxZU9aOHlweXVZbmlIa2w5VHJ5UERwVlJWVjVINXU3Y0x3cFlGcFdqU3I0dlpWdklWbkdoa3NLQzVhQlg3T0t3SFdXT0p2YXJ2Y0xJampuWlE5ZXBkUkl6LXFXWjV3WjU5elJSN0Yyd1JvWjM4ZWdMRFFQUXFtZnhCdTJxZTFXdlRYc0JvbjYyd05HMXBNQ3M5SW1zY2RmNFdrQ0E0OUo?oc=5",
     "news_image": "",
     "news_source": "Concacaf | Official Website",
-    "news_age": "57m ago",
+    "news_age": "59m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -19258,7 +19258,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMVhrajlySXBWeW1JRVl1T3N1cVFDRUxYZjNzLTVmdXppNGw4cXg2MDhYcEk5NG9fN1lYRjNISDRVNUtVcllzRi1Tc0ZzaHptV1l3TVBHWUtJTzN3eDM2d1dLWWpPU0dBZUpoczJBOVJ0akZ3MWVBc1BVR3RlSHlReXlaeWRwa1gtUlE4REg2SV82UTIyNFplN3BTbw?oc=5",
     "news_image": "",
     "news_source": "Deloitte",
-    "news_age": "2267h ago",
+    "news_age": "2268h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -26354,7 +26354,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDBRRS1KbTJxMzRiTlFFQnFlNW1uVk9jVWp0b2wtZ1VGNlJLTlFwaFo0SjFkbEM0djZyQW91M3lsN1lYTk00Qkw2VTJraGxZQWlHclF2YjhiVWJLUHlrMjFjdVB2M3M2SW9WMERERXR6NktITmNUNVpWdUZzVmlHWQ?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "12h ago",
+    "news_age": "13h ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -27809,7 +27809,7 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 1.06,
+    "news_score": 1.05,
     "news_title": "Australia overpower New Zealand to win fourth consecutive men’s Rugby League World Cup - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS21KQm9tY1Q4QkQ1NG5hSTVBUGVyZnZsN2NKNFhpVXZYSU55bHJYczhxdWlhWGV6LWlfeUQ5OUIyRVVUWWpQRmRKV2luTTJ3Zm9razZuSC14UEZqUlpQM2Q3MEJWT0xPQkZFaUlfajZqRzhrVDlYNmtGTzNJUXR2dUtxU1RlSllMU2xyYXlCSzB6enBwMG1SbWlpdVdtZnhNWmxoc0QyeHJnOHExeGVoYU5wQ3AxaVRuYU90QVJValJHamVNYUxETVdR?oc=5",
     "news_image": "",
@@ -28467,7 +28467,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYnlWX0VKMzBBQkhZUlU2OEpDT0xLVXpGZ0RBNUtwQXNMTVkwZllXMnRPZ0JKZkJoNGtReW1hN3VhU2N6NzNCa0JtbGVGVHZfdElucFZMenZJaVFxUjQ3dHRHLTh6Q3p2LXFxQ1J2M18xZm5DRW5yWkJUMktEdWtESnBuWEZWd045NGZwLXRkVXIzUzFNWDdubm9rTmt1clNrbmJXWmM5bW5zNE1QbEdTaVZRaDFDQQ?oc=5",
     "news_image": "",
     "news_source": "Legit News",
-    "news_age": "115m ago",
+    "news_age": "117m ago",
     "news_columns": [
       "economy"
     ],
@@ -31097,7 +31097,7 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.26,
+    "news_score": 0.23,
     "news_title": "Pope crosses Peru in finale of trip home to visit flock high in Andes and deep in Amazon - Politico",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTjlFUDFrd25XM3lQRjBEVXNDcXpsd1pRMlpCVklHa0JOLVNLMHluNUJ5ek1WMmYyeUgzQWhfUlBwZXVJYVVYTzlRNDZ0akVxQkxNWEJKSFZSeWRBQTFWaHA4YlFyOVZvZFBiU1ZhQU1nSGxKWlpqUXZSLUJiV0N1a3NB?oc=5",
     "news_image": "",
@@ -33120,15 +33120,16 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.9,
+    "news_score": 2.1,
     "news_title": "IIHF confirms Russia will miss World Juniors over Canada restrictions - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMkxDRkFmbXRVd1h3dV84NTF3cDZadjRjYUtqUHpkWXlVVXIzX3lvVXI5Z25BUkR6c0lJLVJpZkQxSzhEWmNZS2RFX1pJZWxkOXMxcHUxVUZvdGZvZDR1SUtMOUNKM2g4RTdEaWJtaE4wX0RacU55SndhaEoxWG1VNGVybFpvMVdwelU2TzhxWHNxbTZYOFlIbGo1QkM4c3c2aVVFWmtudXFxYnhObkYyb05B?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "17m ago",
+    "news_age": "19m ago",
     "news_columns": [
-      "fifa_w",
-      "olympic"
+      "hockey",
+      "iihf",
+      "geopolitics"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -36709,7 +36710,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.24,
+    "news_score": 0.22,
     "news_title": "Branthwaite, Garner and King omitted for Spain game - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcTlVWk50d0hEMkxENlRjT2w1WGtzcjliQ09VNjl0bFVIa3Q2UUh0S1BoUFZJNUU2X3lqNk16VjVzSVpWOXpxbXRGLTZTc1A3V2x0NnpneTJNWmRrckx0Njk4Y20zTFpWaDlNTHZ3WGRuZzBRbVU4NTg2ekZhM3pIZUxSelBwUXJQR1JOX2hGQQ?oc=5",
     "news_image": "",
@@ -37668,15 +37669,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.03,
+    "news_score": 1.01,
     "news_title": "‍‍‍HERE’S!* WAY TO WATCH Canada vs Sweden Women hockey IIHF Women’s World Championship 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅ 15 November 2026 - Universitat de Barcelona",
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPM0FDT3h5SU9OWFl1c2NrZ2ExMmhZY3puV3dVUGh4cGtoS2lVdlNWa3NPUENKUzh0Q3V3eEZjbnhObXNWT1hBYjg1SS1Kdk5sUVpkRUhzaXpGSGlJNXU4elotbmFzVHNmd3lZTWtGV21wREZwTjY3ZXpDY1NrOWRmS3AyMzlxcHJ0MzRrTFpMU1YzLUVHdjJ1X1NTNm1sMUZDU3hHWG94bUR0SjNJcVNjZ1VfWmNzYUI2TVdmNElhWGtKeFplM2xGS0VQNHEzc245aEJWVGtPZVdHdm4xLVpSLTB6dzRhNHFlY1RmZm9tWkVuVFFkRkg4UkVyb003ai1QaURfc0xyN1h2My16MTV4bHZlOWhYZ2poNmc?oc=5",
     "news_image": "",
     "news_source": "Universitat de Barcelona",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_w",
-      "olympic"
+      "hockey",
+      "iihf_w"
     ],
     "election_title": "Swedish Parliament",
     "election_url": "https://www.electionguide.org/countries/id/206",
@@ -38411,12 +38412,12 @@
     "refugees_rank": null,
     "union_rate": null,
     "union_rate_rank": null,
-    "news_score": 0.45,
+    "news_score": 0.44,
     "news_title": "Taiwan’s Lin, Tian win World Para Table Tennis gold - Taipei Times",
     "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84U2xEekdIYWduX294clVKd1R0aE13ZXBDbFUzZHpwa0F4dll5cUh3eHgyYW8yMFpSSUlxWklUdkhDcTgwNy1ULW9OVW5mVnFoblRqQ3JZNnFtVnZSQm9EcGF1NUI2YWd6OEhzREhyeGE3eU82Q2hpTQ?oc=5",
     "news_image": "",
     "news_source": "Taipei Times",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
       "davis_cup",
       "ai_research",
@@ -41244,19 +41245,14 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.88,
+    "news_score": 1.22,
     "news_title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history' - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKRV92VVNvRTJsaGp2REVNVTkxQVgtRllsdDUydFV0Ym9hcklORXo0UjFwR1lIOVBTYm5Ed3hfenpzV2tfLVl0N3ZhVUcwZ3gzaFpQcGRTTlNYRzQ?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "62m ago",
+    "news_age": "64m ago",
     "news_columns": [
-      "basket",
-      "olympic",
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd"
+      "geopolitics"
     ],
     "bottom50_wealth": null
   },
@@ -42524,9 +42520,12 @@
     "news_source": "City of Toronto",
     "news_age": "15072h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "nfl",
+      "football",
+      "hockey",
+      "iihf_w",
+      "geopolitics",
+      "aviation"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43727,7 +43726,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.54,
+    "news_score": 0.53,
     "news_title": "Hanoi is gradually putting policies to promote science and technology into practice. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa05PZlp2aGJWQ1dDS1JmSUgxOUVHdnhqX1dIeEs5MFpEQmlaczl0RWkwTzB1VU5kb2hMel9JWGl5S0FtTnhpTTdzVE5aNl8xUzNVWU5UdS1kVndLZmd1S1ptaENxQXNSNnFnRl9JRjBPUTBHTG50MU9OQjQxVm1aT2tPR1RTMUxmdndTMXdhZU5zUmc5bjIxNVJFSmF1MnZVdVlBemRn?oc=5",
     "news_image": "",
