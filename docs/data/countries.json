@@ -2561,7 +2561,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQY1J0TW9haHlUZzlCTmQwN0YyckdhNXVuVkFkRHl6Rm1Da1EzMjZfdVl5OTNwTGpXUjN2V1dkaGIxSFROdGQ5cEhqMmNYU2RKVjJjcHZSanYzV3ZSOTVkNXZ0Z1dGc0hQQjdPcDlLMXhJT1p1ZWswY3hPMXJBek5XOFNSOEhaZkExZFdhNnRuZVFnWE8wbU5aZjUyMHhoVm1ULVd1azZWRnJLeHlLWnl4WHVNaWg2LXpoeVRRSi1aQnotSFplVFlmMldNaUhxY25rWUZJWmlHckw1MWFkNHV1enhKTk4xSkdFTDZGNjA3ZnkydFNlcWsySjVyUkFpSkFESnB3SWw3Q2Utb2ZpZ21HTDhXSDJBNUY1Y1E?oc=5",
     "news_image": "",
     "news_source": "Universitat de Barcelona",
-    "news_age": "5m ago",
+    "news_age": "7m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -6947,12 +6947,7 @@
     "news_source": "Business Insider Africa",
     "news_age": "13h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "olympic"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -10948,7 +10943,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1M3RVhWWnB4TU1KREpveWFSU1I2aXRGRGRJNUZ3WURHTGwxX1NseWZNeFB5Z1RZRm9OUkpnX0NKd3NaeUZPaS1LZjFwRkp1U3puanBOQWllWTAtY0tXbFg5YkNqNTJueF9nMHhhNkFzdlFZcjY4U205QUxlSk1wNTRGRUVsaFZPREpOOVpIYWhVVnBHbzNkOUVoVXlOSXFfUlJnNVprYUk5RDVETi1RN2FiX0xnRWNLQ0ZSWW1IdDdxNGs?oc=5",
     "news_image": "",
     "news_source": "Ahram Online",
-    "news_age": "10h ago",
+    "news_age": "11h ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -13033,7 +13028,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.19,
+    "news_score": 0.18,
     "news_title": "Dupont in command as France stay strong - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY3k0SGl4NWdRWWNIU0VDd1poS1JSZ2duMWdJMjd4amQtZThEOExra3hwX1cta0pVRWJmcmZ5Mk1uMC11RTZ3ZU1kNHN6cXVCYjBLMlk1YmdyS2tiWXU3X2t4SEMzWEFKYWFxcmlNRXdlem0xMUk3OEpiMEgwLXdyWnN6TWlicDBhTkE?oc=5",
     "news_image": "",
@@ -19447,16 +19442,19 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.0,
-    "news_title": "Report: DT Jordan Elliott to work out for Bears - Yahoo Sports",
-    "news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb21Mdnpid3hTR1JpcHp2bnB3czVhUWRicDFVU0tiYWp1NkVlT3lNVU5KbFA5V01lcFhnZ2dvSURwbDJ5czBieW12ZFZNZlE0dUFIVlIwM1lWLVlvV3BxRUt3ZFlFd1VkZl9OdzdpUXZSSExJSC1iQzlPY19zZUVSXzVxTlA3Zw?oc=5",
+    "news_score": 0.29,
+    "news_title": "McLain Ward tops the Longines FEI Jumping World Cup™ Toronto with Jordan Molga M - World of Showjumping",
+    "news_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY3pTVThSS0FlMm54aXFfVVp2ZGRiMjhMR2VfME9HLWx2QWRNNXlub1RrUzZTLUgxUzBkTFRKX29TOW9JeFJPSVd6ZUx0ajdBakZaWU5MRy05WDEyM0pMemtzeC1TZzVBbDFjbndERXpCNFlPMjRnTm43UjluQWM3Ql8ydXZiaGtWWUc1S0ZuMGxjbGVTM2pzNEZXdDdLRWd2N29neE53eGt1UU5ObzQ5YWpHQnZSSmh5TWQtWVdOSFFDM0VqN05aVVp4LS1Bb0Z1eGc?oc=5",
     "news_image": "",
-    "news_source": "Yahoo Sports",
-    "news_age": "2h ago",
+    "news_source": "World of Showjumping",
+    "news_age": "10m ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket",
+      "military_pct",
+      "nuclear"
     ],
     "bottom50_wealth": null
   },
@@ -27816,7 +27814,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQY1J0TW9haHlUZzlCTmQwN0YyckdhNXVuVkFkRHl6Rm1Da1EzMjZfdVl5OTNwTGpXUjN2V1dkaGIxSFROdGQ5cEhqMmNYU2RKVjJjcHZSanYzV3ZSOTVkNXZ0Z1dGc0hQQjdPcDlLMXhJT1p1ZWswY3hPMXJBek5XOFNSOEhaZkExZFdhNnRuZVFnWE8wbU5aZjUyMHhoVm1ULVd1azZWRnJLeHlLWnl4WHVNaWg2LXpoeVRRSi1aQnotSFplVFlmMldNaUhxY25rWUZJWmlHckw1MWFkNHV1enhKTk4xSkdFTDZGNjA3ZnkydFNlcWsySjVyUkFpSkFESnB3SWw3Q2Utb2ZpZ21HTDhXSDJBNUY1Y1E?oc=5",
     "news_image": "",
     "news_source": "Universitat de Barcelona",
-    "news_age": "5m ago",
+    "news_age": "7m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -28461,7 +28459,7 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.52,
+    "news_score": 0.47,
     "news_title": "Nigeria Stock Market Faces Liquidity Constraints Despite N160 Trillion Valuation - Head Topics",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkNULXpEMHd5QjhOSklodnl4SUFBQUNxWl8zd0tGWHotSEFRR09CYkFfMTRHZW9fMGdhLTN1eHVIY2lZdk9tcVhfQ1hBRDJILWhWUmVSbm9Qb2l2Y1ExazFVZTlINjBMNGZWeDRzeGp2bEJqLXF6amwxMGUwX1RYOTNramxMR2VmT2FNRFVNYkpLRmtPVTlXdFpDMlc?oc=5",
     "news_image": "",
@@ -36723,7 +36721,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.25,
+    "news_score": 0.18,
     "news_title": "Spain v England: Nations League test will reveal if Thomas Tuchel has learned lessons - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxcEJ0MzdseXFaSER5NkpLTVVYcGQ3cUxsUVV4MTlsd3hYMjcySm0zMDZKbnZqN1RCNkxjUTl3REhCMVRZSmdGbVNtU1dqZGhFNG9pcFRVZUFrdm1DeXFtOVZkdklwbk5C?oc=5",
     "news_image": "",
@@ -43743,12 +43741,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 1.11,
+    "news_score": 1.1,
     "news_title": "A launching pad for strategic basic science and technology talents. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ3pVOXlfRkpRb2lzXzgzLUJNZzl5ODJCVWdDMV9yYUlFQVNKUzVIWGhpbHRSZ0VqXzlKLWtPdGlPajZMNHhuNDFPQllmQzN2UGxMcmQ4M241anRpVEx3bXo1NmIyMWRtT2Z2aWJadGdmVFZtNDBWbHVlQUZiZ256WkNYNlh0WGFaVFFqWW1oTGh3VFdHMExCQw?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "35m ago",
+    "news_age": "37m ago",
     "news_columns": [
       "olympic"
     ],
