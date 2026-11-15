@@ -2563,8 +2563,8 @@
     "news_source": "www.rba.gov.au",
     "news_age": "76842h ago",
     "news_columns": [
-      "rugby",
-      "world_cup"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -8017,19 +8017,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.35,
+    "news_score": 0.51,
     "news_title": "Trump faces Carney's refusal to back down as Canada pushes back against U.S. trade demands and Africa's largest economy turns to China - Business Insider Africa",
     "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcGRMYktmZXZYQWxOX3hEa3N6SHVYOTc3aW1hdjB6dnA3d01VRUQtdlRSRGpOc1M2eG93NWs0d1dqbWJaWkhVVXFzMThwQmlReFcwT1JkT0lhOEJsak8waDhEdGhtb1ZZcm10bTNpN0xUckhpY2lvTzNMWUNKcjlXT21zejVRaUk1aEV2a25RbndpejlmeGVFOURJT0stSmhkQVRwa2dkMnp2ZTNmN25naC1KX2ozX1pfVXg4MjZYZVlsZG1ZVFZseG1QakFWMk5kZlFjUVhB?oc=5",
     "news_image": "",
     "news_source": "Business Insider Africa",
     "news_age": "5h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "olympic"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -9081,7 +9076,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 128,
     "fifa_w_rank": 69,
-    "news_score": 0.19,
+    "news_score": 0.18,
     "news_title": "Nicaragua@Cuba - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbkNIM2wydklvaTRLVTF5Qnpwd0xWcDA0eHBQTGFqd2hrR3ZYWFpfSDhicWlXeXNYZ1ZHZ1F2WFVtRDNBMzZkTkwydkl3ZmR2Ry1DcFY5RUZOaXR2UXJkUGlxMkZsUHZkcDU5NUFlSUpRdWpKRXZFNHBvQldUT29CeWtyMzFMV2tZRnhkS2VFZ1M3MXdTOHoyY2hZQ3NMSmFlNEpxT3c2djc?oc=5",
     "news_image": "",
@@ -16828,15 +16823,19 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.26,
+    "news_score": 0.13,
     "news_title": "World Diabetes Day 2026: Diabetes can develop silently for years: Why one simple health check could help detect the risk early and prevent future complications - The Times of India",
     "news_url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPVjNqVWZVQXNHV2MwOW01S09jblhYOWczdXl0bEk3VGdETGVwWjRmX0lhNlptYkoybzdwRzBXVDMtSFoyMm5XY3daYnRVTEp2T29pTjlzb051STltVS1iYjBHdmR1VGxHVUNQRnpPendveFd4YUJuaDQtR0JsUGJQNEF4dVRINk9aLVpoMW1kOFpYX0NfYzZZLW8xajdQNnVUZlAzR1dPU0IwTHRlVFlMc3BxX0UyLVB0a20yZk40VEJVZzRvVkpRMHQzejBIbkRLaS1qaWxSNkJfNTdKQTZqX2lmVV9nUXFsaHNHV1N2d2dTdEwySTIwZEdUZjNUNzhibjZoY0tYSFcxdF83V1JDbDV0WlY3S0hFNGxTcWo2dUh1Y3ducGtFa9IBsAJBVV95cUxPZDVOdUMwc0JqWEdGYmoyN1EzaGpNOHZVSEZGVzNmcEhGVGdPcHVCTzFEem4zc3lBRWV2Z1NjVGJIUTVYU1E5cVhfY0w1aGZzZjBneThuQWFOV1NzTjhzWVY1MEJYOFc5Zlh1ZjVydHlETmNwMnVFT3FDUUVvQl9CWUpCMjFZMzB0S1pNNWtqTTNkSFdlYTRzdEpmYnN2Y2RJRjdVOVp6Nm56aDMxNzdNeUZKWDNEY1NZUlhNOVczcXdhWGtHeWowQ3BEeE55NTBReUlpYXN0ZzRRMk8yejVRUHJvempDcWhGakszdEctanAwdGsyZ2hTblJ3WTFJTFl2WlZKNWh2Q0JLelhVWTBtcmZfZUhpMTBVai1QTFlwdjY3RXhUR1V1YURmM3lPWTR6?oc=5",
     "news_image": "",
     "news_source": "The Times of India",
     "news_age": "26h ago",
     "news_columns": [
-      "ncaa_football",
-      "cfp_ranking"
+      "health",
+      "life_expectancy",
+      "doctors",
+      "beds",
+      "vaccination",
+      "infant_mortality"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17400,15 +17399,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.1,
-    "news_title": "Netanyahu urges talks ‘without preconditions’ on unity government; Eisenkot rejects PM’s ‘spin’ - The Times of Israel",
-    "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalk5X0pscG9RYW5lUWJuTFdKTF9BaV9CMi15MGV1LS05YnZUaWFsVE9CLWNxMnpqZ1NHbG9VWk1vai1rV0xsU2xwVlVLZTdqOHR3NTN2cHhLRXVXTVk5U01FeGJhRGppQ2d0VWNXdm1vLWw3MHZuTXVGS0N0OEp1eE9zRXRobTJjblh4c205T0tCNmlvZGRYNEc0RXRSU1B3RUVsVWpiVFRwcmlvQThLVzNR0gG3AUFVX3lxTE9Bb29jYV9MdVpkV3JhUE42WnU4bi1wTmlCcjRmMUtsS3VvbFdWbGhaMTZwUjlzVHVCVnU1dzdEZkMxYkh4MUFNUXRxcUt6bjhvX04xMERMallQWVZ2R29ETm8zTmFyQVpZb2hhY1QzZG5ud3BlTGdWTG03U3FDek9FLXhlTVRVaUlrMUY1dDlaVDRMV253TnQzQmlwLVVuLWVZLVRWTGxTMmZ1MFZna3M1QmlITXNjaw?oc=5",
+    "news_score": 1.2,
+    "news_title": "Live Updates: Netanyahu says it's time to remove Iran threat \"once and for all\" - CBS News",
+    "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
     "news_image": "",
-    "news_source": "The Times of Israel",
-    "news_age": "2h ago",
+    "news_source": "CBS News",
+    "news_age": "89m ago",
     "news_columns": [
-      "geopolitics",
-      "maritime"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -18132,15 +18130,14 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.85,
-    "news_title": "Netanyahu urges talks ‘without preconditions’ on unity government; Eisenkot rejects PM’s ‘spin’ - The Times of Israel",
-    "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalk5X0pscG9RYW5lUWJuTFdKTF9BaV9CMi15MGV1LS05YnZUaWFsVE9CLWNxMnpqZ1NHbG9VWk1vai1rV0xsU2xwVlVLZTdqOHR3NTN2cHhLRXVXTVk5U01FeGJhRGppQ2d0VWNXdm1vLWw3MHZuTXVGS0N0OEp1eE9zRXRobTJjblh4c205T0tCNmlvZGRYNEc0RXRSU1B3RUVsVWpiVFRwcmlvQThLVzNR0gG3AUFVX3lxTE9Bb29jYV9MdVpkV3JhUE42WnU4bi1wTmlCcjRmMUtsS3VvbFdWbGhaMTZwUjlzVHVCVnU1dzdEZkMxYkh4MUFNUXRxcUt6bjhvX04xMERMallQWVZ2R29ETm8zTmFyQVpZb2hhY1QzZG5ud3BlTGdWTG03U3FDek9FLXhlTVRVaUlrMUY1dDlaVDRMV253TnQzQmlwLVVuLWVZLVRWTGxTMmZ1MFZna3M1QmlITXNjaw?oc=5",
+    "news_score": 1.25,
+    "news_title": "Live Updates: Netanyahu says it's time to remove Iran threat \"once and for all\" - CBS News",
+    "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
     "news_image": "",
-    "news_source": "The Times of Israel",
-    "news_age": "2h ago",
+    "news_source": "CBS News",
+    "news_age": "89m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -19262,12 +19259,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.69,
+    "news_score": 0.68,
     "news_title": "Japan can be world's best, says outgoing coach Moriyasu - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWU9wYnAwQ01YZjA2dnM5Tk5oeHpTZm8tUW94aGN3RnQwOWpoNUFDYlpERDhRS1d5d0ZRS2pwQ1pBWmUwT0tKSVZrb3kyVlRhSXdUVEZCRXpSOTJ1a2NLNFlfWjBqeDd4d2h5bGllNUZMREM0OThpQ3QzZG4tVlRnTXZqQldDSDg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "89m ago",
+    "news_age": "91m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -28001,7 +27998,7 @@
     "refugees_rank": null,
     "union_rate": 69.0,
     "union_rate_rank": null,
-    "news_score": 0.19,
+    "news_score": 0.18,
     "news_title": "Nicaragua@Cuba - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbkNIM2wydklvaTRLVTF5Qnpwd0xWcDA0eHBQTGFqd2hrR3ZYWFpfSDhicWlXeXNYZ1ZHZ1F2WFVtRDNBMzZkTkwydkl3ZmR2Ry1DcFY5RUZOaXR2UXJkUGlxMkZsUHZkcDU5NUFlSUpRdWpKRXZFNHBvQldUT29CeWtyMzFMV2tZRnhkS2VFZ1M3MXdTOHoyY2hZQ3NMSmFlNEpxT3c2djc?oc=5",
     "news_image": "",
@@ -31110,7 +31107,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaThSTWlHZG9mM2JLSHd4Vnl0bk1GLUtlYy1VNktsWFBVMnVwbEJ2c1Y0bUczZGV0bnpzOHJzMGFSNkdGb1FndmNiUU5IM2dtSGNTdUZ6NjcyVDdYLXlzcHNnOEdUTkpOeDl4ekR6aUo4TVhJLTExX3BOOFE3NHFscUliTXlubnB4Yk9GeVJoMlJnd2RQZTE0cGdsUWJhU0VpOEl4a3c2dEpBMlNfcjQxR1dlbXTSAboBQVVfeXFMUGhXVHNabjI3TS1NRnlvZlRadjNmRVJ3clFkQVlwYmUtdmNubGk2alVrZ2xaa3ZULWNFZUh1Ujd0UmVKNno0NzlWUG5zWEtVUS1OTWVMZ3MyNmM5a19ZOVljdHMyMVNUTHlySjgzQlFmRHZKTVNxaFNiSGVqSUM0d0VjNDRIQVRaX1lRX3IxcG5WYV9IN1h4WmZkOElBVEhjM0JsNE1pdkRfNkVWb1ljV25ILUFkZkxVdGxn?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "6h ago",
+    "news_age": "7h ago",
     "news_columns": [
       "religion_div",
       "democracy"
@@ -36721,7 +36718,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.63,
+    "news_score": 0.62,
     "news_title": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRmxpdGVWWnFKalBDb3Z1ZG9rU2RhbVMydDV0WFRrak9KQldJYXNaNWNhUjBMNERyUkZfVU5HUl9IOEhrUm1QX0V0RERFZlctclg4SjZOX1pQR2N1dEVmdS1HdDJ4c2c5ZklDdmd6dEN4eURrSUN0cllhbEs3UERPbXNLODdXenF0cVczVUdVd0xnRU5qcDJ1R0MyMjE0Z21rRDVUZVpodmhOSXlaNEc5a05jbw?oc=5",
     "news_image": "",
@@ -42541,14 +42538,10 @@
     "news_source": "City of Toronto",
     "news_age": "15056h ago",
     "news_columns": [
-      "ncaa_football",
-      "cfp_ranking",
-      "nfl",
-      "injury_report",
-      "space",
-      "tech",
-      "geopolitics",
-      "maritime"
+      "olympic",
+      "fifa_ranking",
+      "fifa_w",
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
