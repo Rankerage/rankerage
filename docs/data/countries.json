@@ -2556,15 +2556,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 1.39,
+    "news_score": 1.19,
     "news_title": "World Championship Final: Australia vs Venezuela - ballysports.com",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk5lTXJvTVR4b2Z4dGhCanloU2d4YXY3QVNJUkNUTDJxNmZTLUp5bklnQnI4d0hGV2MzNUl6VVhxTk9ZOGRxRjhqeDRQYUlsSTJ4SjlRVnl5UnlFOTBNYkMtaFRQNGZOQmNCbWgwX0FPTFpHazdhTkNBSmUtNHdnMHRkdlJfVUNFejFUTV91a1R0VC1PYl9hS2hMbE9UTXZtTjNKazlKQWM1a2oxVlE?oc=5",
     "news_image": "",
     "news_source": "ballysports.com",
     "news_age": "2h ago",
     "news_columns": [
-      "rugby",
-      "rugby_world_cup"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -8017,16 +8017,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.93,
+    "news_score": 0.91,
     "news_title": "The world according to China - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjFJU0l0RDAwQ2FiRlJ5TWI4UnFSYzJPT2tTXzhydHU5ZEt1LVRseXY2aHByQ2FSdmpVWC00ZlpSc0IwX05rYkhpQkZrejd5dlREeDVHaHV6eXdaUllhSktGa3Q2YUk3aFBxQWR3R29zakdzVy1oZjlpSF9PZWo0d0h2aFc?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
     "news_age": "3h ago",
     "news_columns": [
-      "diplomacy",
-      "climate",
-      "trade"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13035,17 +13033,14 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.96,
+    "news_score": 0.91,
     "news_title": "Dupont in command as France stay strong - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY3k0SGl4NWdRWWNIU0VDd1poS1JSZ2duMWdJMjd4amQtZThEOExra3hwX1cta0pVRWJmcmZ5Mk1uMC11RTZ3ZU1kNHN6cXVCYjBLMlk1YmdyS2tiWXU3X2t4SEMzWEFKYWFxcmlNRXdlem0xMUk3OEpiMEgwLXdyWnN6TWlicDBhTkE?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
     "news_age": "2h ago",
     "news_columns": [
-      "ufc",
-      "mma_ranking",
-      "rugby",
-      "rugby_world_cup"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13567,7 +13562,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.16,
+    "news_score": 0.13,
     "news_title": "Georgia/Missouri Live Thread - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUNtYzlMSDVZNWtpcTVwOS1QMGtkb2t6Mkt0dUItTkxWRGVtcTBQLWl5cjdSNTQwdmJRZVlGT2hTakIyODBmLU13V3lhdldob0dibDFUZU04U0xrSndmb295cHI3Z0hCZE1RcFBJNnkxRGZoNU9XeVFwb01lVUlEQVdPOA?oc=5",
     "news_image": "",
@@ -15887,9 +15882,7 @@
     "news_source": "South China Morning Post",
     "news_age": "4h ago",
     "news_columns": [
-      "diplomacy",
-      "climate",
-      "trade"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null,
     "election_date": "2027-03-28",
@@ -19264,16 +19257,14 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.49,
+    "news_score": 0.52,
     "news_title": "The COP31 talks showcase a disastrous post-American world - The Japan Times",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc2JycGh1aEtvSGwtRjVzSlZWSERHWEJjUFk3czkyTGdMOUh0NVVFdEpSYkViMVptQXJpX2lCWjh2TWYzaTZlbks0a0I0c2oxREdHbUVVN01KeUcySnB6RGhxeFc2OGZ0WWhEUTQxV0tXN2VpNjVSV2x3M3NVd0NOZi1zc3NlbDA0Z0o1cmc0RUJ5RVJvX1FTbUNn?oc=5",
     "news_image": "",
     "news_source": "The Japan Times",
     "news_age": "4h ago",
     "news_columns": [
-      "diplomacy",
-      "climate",
-      "trade"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -26354,15 +26345,14 @@
     "refugees_rank": null,
     "union_rate": 59.8,
     "union_rate_rank": null,
-    "news_score": 1.05,
+    "news_score": 1.1,
     "news_title": "World’s top court to rule if Myanmar committed genocide against Rohingya - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDBRRS1KbTJxMzRiTlFFQnFlNW1uVk9jVWp0b2wtZ1VGNlJLTlFwaFo0SjFkbEM0djZyQW91M3lsN1lYTk00Qkw2VTJraGxZQWlHclF2YjhiVWJLUHlrMjFjdVB2M3M2SW9WMERERXR6NktITmNUNVpWdUZzVmlHWQ?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "9m ago",
+    "news_age": "11m ago",
     "news_columns": [
-      "human_rights",
-      "legal"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -28462,7 +28452,7 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.43,
+    "news_score": 0.42,
     "news_title": "‘Nigeria needs 920 vessels to achieve $1tn economy’ - Head Topics",
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSHdvaWRGajFZZmFpZVJmQkcxR2loallEMDRzZHNuVndRMnRGSXA4OC15QmYwTjZiMFR3YmhidDk2OXV5VW9qZTBGNW9kSkFYOEdlN2wxcU94SjgzeEtNSFowaS12c0tIcFhyeGE2bGtqY3NJdmFzek5rWHBjdThBN2plTFh5WjNXd0h6X2IyWk5sdw?oc=5",
     "news_image": "",
@@ -31101,7 +31091,7 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.0,
+    "news_score": 0.12,
     "news_title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nSVEtNVRFaG5hcno2YnlYR1lwRDJhSXV2OGJNVGY3cU1aVzNPaHNjdUIxcHp5RXJ2RWVGQV9DRmR1cUx6ZkptMi1KSWlVeXhwWkp5S2xLZ2tCYzQ?oc=5",
     "news_image": "",
@@ -33128,12 +33118,12 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.07,
-    "news_title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Sc2FZdms0a2VhSnZ3bHhCakcwcnl4SWhTWi1HaDJUdmZXdzVKTmtocFp0aFRYQk9VYllVZ1Uzdkp5OV9Ic2l5NmtUUXU4WVBaNFpMdDVselhoS2c?oc=5",
+    "news_score": 0.06,
+    "news_title": "Zelenskyy says a new European security framework floated by U.S. could benefit Putin - PBS",
+    "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVJaNmpaaGdfSkd4dWhzZE8wMEx3dFZha3JtM0FZanNic0tnbEh2dXhaUm9kUkRtMi1mWnVCNVFXSU85VV9wVl9qd1A3cVhxQTBpaDg0djlmMkhRc1JNQm1KOFBxMExkSU5iOXB5RUJvcEFHb3kxcnhRZ3plY095UFN0SFFNYkYyVHVUQ0hjYWZpckpFWGVGNjJXaFlHVlRDODk4dy0tdDkweUx4N2h1OTgzdFV2MEtlaWfSAb8BQVVfeXFMTVEyNzBjU1YwN0lpendMNWhrNldxTUlLZ2VWSHRlTDVJcG15TUNrZHBNdmZFcnBwTlFZMk9LYmlCTVB4cEV1UUVCYzB4YUVlNHI0eFFNczExVlZaVjIwREFPN0IyanRDTXFBVTFDTnRmSFFSVzVWMHVZRHhnSGpCSndNak1sa0cxc1lRWUFDZEs1MU1yQUxmSzJhZFRqTEdybFJtS2Q0ZXVUYTFQMTFUMjktNFpYQWV0al9US2REQ2c?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "7h ago",
+    "news_source": "PBS",
+    "news_age": "9h ago",
     "news_columns": [
       "basket",
       "olympic",
@@ -39108,9 +39098,7 @@
     "news_source": "Nation Thailand",
     "news_age": "4h ago",
     "news_columns": [
-      "diplomacy",
-      "climate",
-      "trade"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -41258,12 +41246,12 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.07,
-    "news_title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Sc2FZdms0a2VhSnZ3bHhCakcwcnl4SWhTWi1HaDJUdmZXdzVKTmtocFp0aFRYQk9VYllVZ1Uzdkp5OV9Ic2l5NmtUUXU4WVBaNFpMdDVselhoS2c?oc=5",
+    "news_score": 0.06,
+    "news_title": "Zelenskyy says a new European security framework floated by U.S. could benefit Putin - PBS",
+    "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVJaNmpaaGdfSkd4dWhzZE8wMEx3dFZha3JtM0FZanNic0tnbEh2dXhaUm9kUkRtMi1mWnVCNVFXSU85VV9wVl9qd1A3cVhxQTBpaDg0djlmMkhRc1JNQm1KOFBxMExkSU5iOXB5RUJvcEFHb3kxcnhRZ3plY095UFN0SFFNYkYyVHVUQ0hjYWZpckpFWGVGNjJXaFlHVlRDODk4dy0tdDkweUx4N2h1OTgzdFV2MEtlaWfSAb8BQVVfeXFMTVEyNzBjU1YwN0lpendMNWhrNldxTUlLZ2VWSHRlTDVJcG15TUNrZHBNdmZFcnBwTlFZMk9LYmlCTVB4cEV1UUVCYzB4YUVlNHI0eFFNczExVlZaVjIwREFPN0IyanRDTXFBVTFDTnRmSFFSVzVWMHVZRHhnSGpCSndNak1sa0cxc1lRWUFDZEs1MU1yQUxmSzJhZFRqTEdybFJtS2Q0ZXVUYTFQMTFUMjktNFpYQWV0al9US2REQ2c?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "7h ago",
+    "news_source": "PBS",
+    "news_age": "9h ago",
     "news_columns": [
       "basket",
       "olympic",
@@ -42538,14 +42526,8 @@
     "news_source": "City of Toronto",
     "news_age": "15060h ago",
     "news_columns": [
-      "ncaa_football",
-      "cfp_ranking",
       "basket",
-      "ufc",
-      "mma_ranking",
-      "diplomacy",
-      "climate",
-      "trade"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
