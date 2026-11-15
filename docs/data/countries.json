@@ -2556,15 +2556,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.76,
+    "news_score": 0.74,
     "news_title": "World Championship Final: Australia vs Venezuela - ballysports.com",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk5lTXJvTVR4b2Z4dGhCanloU2d4YXY3QVNJUkNUTDJxNmZTLUp5bklnQnI4d0hGV2MzNUl6VVhxTk9ZOGRxRjhqeDRQYUlsSTJ4SjlRVnl5UnlFOTBNYkMtaFRQNGZOQmNCbWgwX0FPTFpHazdhTkNBSmUtNHdnMHRkdlJfVUNFejFUTV91a1R0VC1PYl9hS2hMbE9UTXZtTjNKazlKQWM1a2oxVlE?oc=5",
     "news_image": "",
     "news_source": "ballysports.com",
     "news_age": "2h ago",
     "news_columns": [
-      "rugby",
-      "rugby_world_cup"
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -8017,15 +8017,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.63,
+    "news_score": 0.95,
     "news_title": "The world according to China - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjFJU0l0RDAwQ2FiRlJ5TWI4UnFSYzJPT2tTXzhydHU5ZEt1LVRseXY2aHByQ2FSdmpVWC00ZlpSc0IwX05rYkhpQkZrejd5dlREeDVHaHV6eXdaUllhSktGa3Q2YUk3aFBxQWR3R29zakdzVy1oZjlpSF9PZWo0d0h2aFc?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
     "news_age": "3h ago",
     "news_columns": [
-      "tech",
-      "space"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -9077,7 +9076,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 128,
     "fifa_w_rank": 69,
-    "news_score": 0.06,
+    "news_score": 0.05,
     "news_title": "Nicaragua@Cuba - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbkNIM2wydklvaTRLVTF5Qnpwd0xWcDA0eHBQTGFqd2hrR3ZYWFpfSDhicWlXeXNYZ1ZHZ1F2WFVtRDNBMzZkTkwydkl3ZmR2Ry1DcFY5RUZOaXR2UXJkUGlxMkZsUHZkcDU5NUFlSUpRdWpKRXZFNHBvQldUT29CeWtyMzFMV2tZRnhkS2VFZ1M3MXdTOHoyY2hZQ3NMSmFlNEpxT3c2djc?oc=5",
     "news_image": "",
@@ -12533,7 +12532,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2hsUlBpZFYxeUxTU2VRX3ZJa0Rhc3J6ZERIcnRhdmg4S3lzVk9aNjM1U2ZoSDMxbU92N3E5ODk0RHVQbVBzNkZiZGVNQkJUdmtGdnZBUUlEcl9rTEdBakFjdmJUbV84TG15WmR3c1VWVVJSNE0zZzFYWThXcTh5YzJhWW83WmZ4eGtrWG5HYw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "98m ago",
+    "news_age": "100m ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -26348,15 +26347,14 @@
     "refugees_rank": null,
     "union_rate": 59.8,
     "union_rate_rank": null,
-    "news_score": 1.18,
+    "news_score": 1.21,
     "news_title": "World’s top court to rule if Myanmar committed genocide against Rohingya - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDBRRS1KbTJxMzRiTlFFQnFlNW1uVk9jVWp0b2wtZ1VGNlJLTlFwaFo0SjFkbEM0djZyQW91M3lsN1lYTk00Qkw2VTJraGxZQWlHclF2YjhiVWJLUHlrMjFjdVB2M3M2SW9WMERERXR6NktITmNUNVpWdUZzVmlHWQ?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "31m ago",
+    "news_age": "33m ago",
     "news_columns": [
-      "icj",
-      "human_rights"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -27991,7 +27989,7 @@
     "refugees_rank": null,
     "union_rate": 69.0,
     "union_rate_rank": null,
-    "news_score": 0.06,
+    "news_score": 0.05,
     "news_title": "Nicaragua@Cuba - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbkNIM2wydklvaTRLVTF5Qnpwd0xWcDA0eHBQTGFqd2hrR3ZYWFpfSDhicWlXeXNYZ1ZHZ1F2WFVtRDNBMzZkTkwydkl3ZmR2Ry1DcFY5RUZOaXR2UXJkUGlxMkZsUHZkcDU5NUFlSUpRdWpKRXZFNHBvQldUT29CeWtyMzFMV2tZRnhkS2VFZ1M3MXdTOHoyY2hZQ3NMSmFlNEpxT3c2djc?oc=5",
     "news_image": "",
@@ -28456,12 +28454,12 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.97,
+    "news_score": 1.02,
     "news_title": "Nigeria Stock Market Faces Liquidity Constraints Despite N160 Trillion Valuation - Head Topics",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkNULXpEMHd5QjhOSklodnl4SUFBQUNxWl8zd0tGWHotSEFRR09CYkFfMTRHZW9fMGdhLTN1eHVIY2lZdk9tcVhfQ1hBRDJILWhWUmVSbm9Qb2l2Y1ExazFVZTlINjBMNGZWeDRzeGp2bEJqLXF6amwxMGUwX1RYOTNramxMR2VmT2FNRFVNYkpLRmtPVTlXdFpDMlc?oc=5",
     "news_image": "",
     "news_source": "Head Topics",
-    "news_age": "13m ago",
+    "news_age": "15m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -33122,7 +33120,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.06,
+    "news_score": 0.08,
     "news_title": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQ1hLMTNVb094dE1lVlNkWWdtNXVYQjFqUUQ0Q0xkR0s1VnFzUExZQVVlVEZLYTNIUWN3cWoxa1dIM0xkc0docFNONklpRTZ6UFlTb3hLeFJxWC1feVRscDJMSWZaazQ0YzQwRVNyTDNqYUdiMUszLQ?oc=5",
     "news_image": "",
@@ -41254,7 +41252,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.19,
+    "news_score": 0.2,
     "news_title": "Zelensky: US floated idea of Ukraine swapping land for NATO membership - CNN",
     "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcnBJSVdsRS1QWWJDQUdWZHN6SFhTcTg1TlNfSm8wTEQ2NGV4aHpqLS1lQVVCT29EdUZJMmNoSFZtbzRRZ2hYeFlvbndWMXFxTjBRZTRNbllTNXQ3TFJKWUxuQkEtSEw5ZnMteXdOS3V5WERSNklISXJKSGZSRmdCQVZPem43RThxcUphU3Nodk5aenRycmhV?oc=5",
     "news_image": "",
@@ -42534,12 +42532,8 @@
     "news_source": "City of Toronto",
     "news_age": "15060h ago",
     "news_columns": [
-      "ncaa_football",
-      "cfp_ranking",
-      "ufc",
-      "mma",
-      "tech",
-      "markets"
+      "basket",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43455,7 +43449,7 @@
     "union_rate": 56.6,
     "union_rate_rank": null,
     "fifa_w_rank": 40,
-    "news_score": 0.49,
+    "news_score": 0.48,
     "news_title": "World Championship Final: Australia vs Venezuela - ballysports.com",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk5lTXJvTVR4b2Z4dGhCanloU2d4YXY3QVNJUkNUTDJxNmZTLUp5bklnQnI4d0hGV2MzNUl6VVhxTk9ZOGRxRjhqeDRQYUlsSTJ4SjlRVnl5UnlFOTBNYkMtaFRQNGZOQmNCbWgwX0FPTFpHazdhTkNBSmUtNHdnMHRkdlJfVUNFejFUTV91a1R0VC1PYl9hS2hMbE9UTXZtTjNKazlKQWM1a2oxVlE?oc=5",
     "news_image": "",
@@ -43740,7 +43734,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.37,
+    "news_score": 0.36,
     "news_title": "Improving institutions and unlocking resources for science, technology, and innovation. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTnAyZVlTUGYxMEtIQ2xlNlBqZkdZNm9CTGR4N1c0OUpJd0p2eUs5X3htTlZLcjZKSWYzWk9RMnVnZF9icU05RUV2Q2tqRUtqTXc5bm03UGVYbXEtNlBZNjdSaXBmci0wUkdFc0k3dUNCeXQzRUg0d3V5bDJUYkdXaGV5azlMV0Z0bExldHJwOHJUMVVnZzhuc24xd1A5d0E4VktTaG44Y0hoNXh2?oc=5",
     "news_image": "",
