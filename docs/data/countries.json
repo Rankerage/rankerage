@@ -2556,12 +2556,12 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 7.09,
-    "news_title": "!+>[LIVESTREAms] Rugby League World Cup Final Australia vs New Zealand Live free tv! 15 november 2026 - Universitat de Barcelona",
-    "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNWFhMSUtrRE1sc1ZneWdweFZDeXl1MloyZTNHVkdZYzZyOGt3eFBoVlFreklTSGNBVTV2UmQwVGhkbTk0QUtwOFlQR2NkOWlNV1hiNWpsLXNOQWk3cm1RZlY1Wkg0bUdYZjlWdDliR2VoMzBCVncxY3RjTXlocWRwaUgxTm5yTVU3R202WVBPTDNMZ20tbVlfMzBPMERSakNubUJuU3N1MGdlOGo4YlZYNENydjNpcW1KY3hTT0FyRUd0ZjBheU1jd0sxOGh4cUJuWmRESjFJZ1lPRWluQjdZYUdNaDJNeUlFNDdLNGVROUFVLXVKcXZMUlBlaEo4ck9xbTdTQl90X3pjaGtXWDlDdVF4YVFzMzMzc3c?oc=5",
+    "news_score": 7.17,
+    "news_title": "‍『LIVeSTREAMS』 Rugby League World Cup Final Australia v New Zealand 𝙻𝚒𝚟𝚎 𝚂𝚝𝚛𝚎𝚊𝚖𝚒𝚗𝚐 𝙾𝚗𝚕𝚒𝚗𝚎 - Universitat de Barcelona",
+    "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPYUV3QmRwbldWM3JuLVB2RjVJSmVQbjN5NmZNYVE4Q19MSUFTb2xUb1lIRkk3UXhEcjFScDF5dU9GeXNncG83MW5sTjdFNXUxQkY1SGRBQ0FuZ3BuLTlIaHhvR0ZIbGRvSTktMFhITkVXbEEyVzZSb3FHekRabVAza3dIQ3V5QTNRS19wWlJycS1jZ3VqRTlrZnR6cVVMd0w1ZnZrOFRBaTluam1EY3BreFh6U1JiSHdyRXp2cl80MGdhU0ZaNUhSRzhTSUpYbWhQTkdTYW15WV82UEpfOERMWlg5UjQ1WFhiRXhPUTdsNVJKRThWYXJZT2JaSmJUbFotQUI5QnpDTlI3azNlZWJBSGhpem4ya3RPTnc?oc=5",
     "news_image": "",
     "news_source": "Universitat de Barcelona",
-    "news_age": "1m ago",
+    "news_age": "5m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -6947,8 +6947,12 @@
     "news_source": "Business Insider Africa",
     "news_age": "13h ago",
     "news_columns": [
-      "olympic",
-      "basket"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -8013,7 +8017,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.22,
+    "news_score": 0.21,
     "news_title": "The world according to China - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjFJU0l0RDAwQ2FiRlJ5TWI4UnFSYzJPT2tTXzhydHU5ZEt1LVRseXY2aHByQ2FSdmpVWC00ZlpSc0IwX05rYkhpQkZrejd5dlREeDVHaHV6eXdaUllhSktGa3Q2YUk3aFBxQWR3R29zakdzVy1oZjlpSF9PZWo0d0h2aFc?oc=5",
     "news_image": "",
@@ -10939,7 +10943,7 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.12,
+    "news_score": 0.09,
     "news_title": "Egypt calls for easier climate financing for developing countries - Economy - Business - Ahram Online",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1M3RVhWWnB4TU1KREpveWFSU1I2aXRGRGRJNUZ3WURHTGwxX1NseWZNeFB5Z1RZRm9OUkpnX0NKd3NaeUZPaS1LZjFwRkp1U3puanBOQWllWTAtY0tXbFg5YkNqNTJueF9nMHhhNkFzdlFZcjY4U205QUxlSk1wNTRGRUVsaFZPREpOOVpIYWhVVnBHbzNkOUVoVXlOSXFfUlJnNVprYUk5RDVETi1RN2FiX0xnRWNLQ0ZSWW1IdDdxNGs?oc=5",
     "news_image": "",
@@ -17388,7 +17392,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.35,
+    "news_score": 0.34,
     "news_title": "Saudi-led coalition intercepts suspected Houthi missiles and drones - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGo3OGMxN1ZNYy1FT1NCeF9OVHEyVjJjTlpJVzJHV2Ezamt3MFJkMDc0aUJlLUp3alBQZ200M2VRNWp3NXNkSllocERrOGxWUVBZNEp5VHkxVHJqcFVGeExLUWk5c2QxbHJsWVZIQnp1RFhULXktVHJQb3Nja3dWcFpkTWNZM1JhUGd3MUdSREpCYlJTSGw3TUl5UFFoR0tqWWxyTTdSZk96Z9IBrwFBVV95cUxOYlBrSExJX0JtT1R4MTlVUzVLVFFlZUllUFZmR29fNnNidkEwaFF3SEpkRDdKTDhsWUlTYURSdHBRd1E2V0pKZGRfbWpLS2hiZlEzUTc0SW1wT0JxMzRaMDlicVVQcXVJeGtRcGl1Y2hodkZ6cC15R095ckpuUU81RUJTd3FwSG5qNTRyN1piRlJPWF9rcjVKTnJwNldseVYyQ0VMYjdDcnZPRXljclo0?oc=5",
     "news_image": "",
@@ -19443,12 +19447,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.88,
+    "news_score": 0.89,
     "news_title": "VIDEO: McLain Ward tops the Longines FEI Jumping World Cup™ Toronto with Jordan Molga M - World of Showjumping",
     "news_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSm9MQkN0M3kyN1IyeFNHS3lYal9FVk1QN093a09SbEkwX3JQM3VqenpHcnBYcUstR0pnNVdTUlZrRDY3THVvakZFQ2xpMWJwTmhhdGNLMGJteEtDV3lTSlVwTjdxWGR0YkN6TjdmTzM1RG52Smo4SWlMeXBRQ3ZoNFN0ZjFLTk8wblJ2MTJVeTgwMDVzN1dsaEdSN2pEV3I1WUtKWmNsd1hUYkZ5TVp6aGx3dkRJd3pDZm0wcjFBN1RXQzA1OHZNdVl5S3N1V05DUnA1cTVac1VEQQ?oc=5",
     "news_image": "",
     "news_source": "World of Showjumping",
-    "news_age": "19m ago",
+    "news_age": "21m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -26350,7 +26354,7 @@
     "refugees_rank": null,
     "union_rate": 59.8,
     "union_rate_rank": null,
-    "news_score": 0.32,
+    "news_score": 0.31,
     "news_title": "World’s top court to rule if Myanmar committed genocide against Rohingya - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDBRRS1KbTJxMzRiTlFFQnFlNW1uVk9jVWp0b2wtZ1VGNlJLTlFwaFo0SjFkbEM0djZyQW91M3lsN1lYTk00Qkw2VTJraGxZQWlHclF2YjhiVWJLUHlrMjFjdVB2M3M2SW9WMERERXR6NktITmNUNVpWdUZzVmlHWQ?oc=5",
     "news_image": "",
@@ -27810,12 +27814,12 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 7.18,
-    "news_title": "!+>[LIVESTREAms] Rugby League World Cup Final Australia vs New Zealand Live free tv! 15 november 2026 - Universitat de Barcelona",
-    "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNWFhMSUtrRE1sc1ZneWdweFZDeXl1MloyZTNHVkdZYzZyOGt3eFBoVlFreklTSGNBVTV2UmQwVGhkbTk0QUtwOFlQR2NkOWlNV1hiNWpsLXNOQWk3cm1RZlY1Wkg0bUdYZjlWdDliR2VoMzBCVncxY3RjTXlocWRwaUgxTm5yTVU3R202WVBPTDNMZ20tbVlfMzBPMERSakNubUJuU3N1MGdlOGo4YlZYNENydjNpcW1KY3hTT0FyRUd0ZjBheU1jd0sxOGh4cUJuWmRESjFJZ1lPRWluQjdZYUdNaDJNeUlFNDdLNGVROUFVLXVKcXZMUlBlaEo4ck9xbTdTQl90X3pjaGtXWDlDdVF4YVFzMzMzc3c?oc=5",
+    "news_score": 7.26,
+    "news_title": "‍『LIVeSTREAMS』 Rugby League World Cup Final Australia v New Zealand 𝙻𝚒𝚟𝚎 𝚂𝚝𝚛𝚎𝚊𝚖𝚒𝚗𝚐 𝙾𝚗𝚕𝚒𝚗𝚎 - Universitat de Barcelona",
+    "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPYUV3QmRwbldWM3JuLVB2RjVJSmVQbjN5NmZNYVE4Q19MSUFTb2xUb1lIRkk3UXhEcjFScDF5dU9GeXNncG83MW5sTjdFNXUxQkY1SGRBQ0FuZ3BuLTlIaHhvR0ZIbGRvSTktMFhITkVXbEEyVzZSb3FHekRabVAza3dIQ3V5QTNRS19wWlJycS1jZ3VqRTlrZnR6cVVMd0w1ZnZrOFRBaTluam1EY3BreFh6U1JiSHdyRXp2cl80MGdhU0ZaNUhSRzhTSUpYbWhQTkdTYW15WV82UEpfOERMWlg5UjQ1WFhiRXhPUTdsNVJKRThWYXJZT2JaSmJUbFotQUI5QnpDTlI3azNlZWJBSGhpem4ya3RPTnc?oc=5",
     "news_image": "",
     "news_source": "Universitat de Barcelona",
-    "news_age": "1m ago",
+    "news_age": "5m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -28460,19 +28464,14 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.44,
+    "news_score": 0.48,
     "news_title": "Nigeria Stock Market Faces Liquidity Constraints Despite N160 Trillion Valuation - Head Topics",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkNULXpEMHd5QjhOSklodnl4SUFBQUNxWl8zd0tGWHotSEFRR09CYkFfMTRHZW9fMGdhLTN1eHVIY2lZdk9tcVhfQ1hBRDJILWhWUmVSbm9Qb2l2Y1ExazFVZTlINjBMNGZWeDRzeGp2bEJqLXF6amwxMGUwX1RYOTNramxMR2VmT2FNRFVNYkpLRmtPVTlXdFpDMlc?oc=5",
     "news_image": "",
     "news_source": "Head Topics",
     "news_age": "3h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
-      "ai_research",
-      "internet_pct"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -36722,12 +36721,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.64,
+    "news_score": 0.75,
     "news_title": "Lamine Yamal receives new shirt number for Spain vs England - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeGdKeGlaaWVQQ0NhTzdOWlNXenFJTWNMMWNETjZEWjBRODdEaEE0aDM5RnMxenlYSXJXU1BxSVRlS0xfQWlaRnE3LThNTzFmVnF2VGRaT3BjU0pvWTZ5SGI1LUdyV1ZCTFUwREt6TDEyTW5Yc2RINkZObGZMQ0tLTTk5cGpLM2hheGRJ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "44m ago",
+    "news_age": "46m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -42537,8 +42536,8 @@
     "news_source": "Yahoo Sports",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "basket",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43739,12 +43738,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 1.35,
+    "news_score": 1.39,
     "news_title": "Institute of Construction Science and Technology: Contributing a scientific and technological foundation to the construction industry. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaWNMbUEzQWc5c2R0bmtlbnRWOGVnbzVEcXhZcUIwdE9hWlFyZFhkYmZQZVlCd2xsQjFlTkFZY0lsMlpfZ0VzSDFNT3N0SlllU3hfTUhqRTkxYUxnMFQ0eGNkaWRFZG5YX1RudENmRmp3T0hxbDFJVjJoaTNaQ1BkU2dtY2tSY3Z0eWJQcVFkdTFyQ083VC12bUlPTXpmNk5NS3Z3aGVhdDh4NXFDWldOSk9oV2g?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "45m ago",
+    "news_age": "47m ago",
     "news_columns": [
       "olympic"
     ],
