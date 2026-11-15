@@ -958,7 +958,7 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 133,
     "fifa_w_rank": 115,
-    "news_score": 0.58,
+    "news_score": 0.57,
     "bottom50_wealth": null,
     "news_title": "Andorra goalkeeper Jesus Owono hit with 12-match ban after tragic collision leads to death of Tenerife striker Jesus de Miguel - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcTVad2xFOTJHMnVXOE5KaS13bUl3VzQxVk9pNlJqOGdzYjNRS2VsNFF2U3BZVWRhU24xT0w0cVkzNGRiLVp1dDlQWlM1U2w4NkszR3N0RVlpcXA4Tl9jbVp0clU0d2hmSlZjYXdwZTFGUm1DTnE1blQtY2RlaWwwc1IxdldkdWJKX1k0?oc=5",
@@ -2565,16 +2565,18 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 6.33,
+    "news_score": 6.39,
     "news_title": "Australia overpower New Zealand to win fourth consecutive men’s Rugby League World Cup - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS21KQm9tY1Q4QkQ1NG5hSTVBUGVyZnZsN2NKNFhpVXZYSU55bHJYczhxdWlhWGV6LWlfeUQ5OUIyRVVUWWpQRmRKV2luTTJ3Zm9razZuSC14UEZqUlpQM2Q3MEJWT0xPQkZFaUlfajZqRzhrVDlYNmtGTzNJUXR2dUtxU1RlSllMU2xyYXlCSzB6enBwMG1SbWlpdVdtZnhNWmxoc0QyeHJnOHExeGVoYU5wQ3AxaVRuYU90QVJValJHamVNYUxETVdR?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
       "rugby_league",
       "rugby",
-      "world_cup"
+      "world_cup",
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -8027,12 +8029,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.56,
+    "news_score": 0.62,
     "news_title": "Tears and Disbelief in Taiwan, Where Jensen Huang Is a Celebrity - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZdTZsZlJDQ2h2VjdwSjBOeG5XYzZWdmV2X0QzeEN6Y01kd0tXVlVKdzJkZVJkOGtwbmRKS1F0WHdYNXVSNG9mTlJRckhmZjh2RE1WMXQ4QlRuN1JjNHdSUWhEaXJEUHI0WmEyQ211eHNZV1FZUlFZ?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "91m ago",
+    "news_age": "93m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -17136,12 +17138,12 @@
     "union_rate_rank": null,
     "fifa_ranking_rank": 103,
     "fifa_w_rank": 77,
-    "news_score": 0.79,
+    "news_score": 0.69,
     "news_title": "James Riady urges ‘confidence’ in Indonesia’s business potential - The Jakarta Post",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSUM1ZGl1clE1bHNxVDE5anU2YUxmdkNpVU1Ma2F3bGR3dW1tTmM3dVY3QVZvdWVjRXpyenBVUmQtVHBPMHhwUjU0b0dYcHk0cEpqUDlvZzZWSlhNME9UUzVBYmVQcXppMFlqZkxQeHNQYnU3SVp0Vm1FTWRrODJuZFlkYzRIRkptOTZHMExmUzFpOVB3d2hjU3docFlXaTd3QkJmbEtrUGY4bzF5S3Nxb2hR?oc=5",
     "news_image": "",
     "news_source": "The Jakarta Post",
-    "news_age": "85m ago",
+    "news_age": "87m ago",
     "news_columns": [
       "economy",
       "business"
@@ -17398,19 +17400,19 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.01,
-    "news_title": "The Iran War Permanently Altered the Global Economy - The New York Times",
-    "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTWd1WlVlcTRuWllUZjVGM0EzbjZ6Z0RkOW1DUTludjJuMGJoSW9hVG1XREtsNDhsUFdXa0dvZGtIM2JLa1g0dlR6TnJQUC1PR2d5aks0RTZ0bkk3S01KWTFfU1BlOGhjR1M4Nmd3cXdrdEh1bVJaeF90andzeWlNTg?oc=5",
+    "news_score": 0.03,
+    "news_title": "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province - Reuters",
+    "news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOemlqVE1TdmREQ0t3TjczWnBWVGZ3TkxTc0ZPVC1fZFlrUDJCZC1KV0liZGdUTHBXZEZpWG9SNkJJSlBYSjVPbE1aUnNtWHl2eE1FbzlURGRwckdIT3R2NG9rVm1oX1V0VEZoWmYxM1dSbmhNc1BidnFLX19YRVU3Q2tzR1F5Vk1QX3dDNXVCeXZ6bmVES0lZNTBlR3E0Z1hJcXFyYXpMam80TGRWbURod1NsUXBwZldjdHFVejFwaWtmVmo3ZWYzYW5QMzk?oc=5",
     "news_image": "",
-    "news_source": "The New York Times",
-    "news_age": "3652h ago",
+    "news_source": "Reuters",
+    "news_age": "8h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
+      "gas_price",
+      "energy_per_capita",
+      "co2",
+      "renew",
       "exports",
-      "imports"
+      "military_pct"
     ],
     "bottom50_wealth": null
   },
@@ -19462,7 +19464,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSm9MQkN0M3kyN1IyeFNHS3lYal9FVk1QN093a09SbEkwX3JQM3VqenpHcnBYcUstR0pnNVdTUlZrRDY3THVvakZFQ2xpMWJwTmhhdGNLMGJteEtDV3lTSlVwTjdxWGR0YkN6TjdmTzM1RG52Smo4SWlMeXBRQ3ZoNFN0ZjFLTk8wblJ2MTJVeTgwMDVzN1dsaEdSN2pEV3I1WUtKWmNsd1hUYkZ5TVp6aGx3dkRJd3pDZm0wcjFBN1RXQzA1OHZNdVl5S3N1V05DUnA1cTVac1VEQQ?oc=5",
     "news_image": "",
     "news_source": "World of Showjumping",
-    "news_age": "103m ago",
+    "news_age": "105m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -27824,16 +27826,18 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 6.39,
+    "news_score": 6.45,
     "news_title": "Australia overpower New Zealand to win fourth consecutive men’s Rugby League World Cup - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS21KQm9tY1Q4QkQ1NG5hSTVBUGVyZnZsN2NKNFhpVXZYSU55bHJYczhxdWlhWGV6LWlfeUQ5OUIyRVVUWWpQRmRKV2luTTJ3Zm9razZuSC14UEZqUlpQM2Q3MEJWT0xPQkZFaUlfajZqRzhrVDlYNmtGTzNJUXR2dUtxU1RlSllMU2xyYXlCSzB6enBwMG1SbWlpdVdtZnhNWmxoc0QyeHJnOHExeGVoYU5wQ3AxaVRuYU90QVJValJHamVNYUxETVdR?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "34m ago",
+    "news_age": "36m ago",
     "news_columns": [
       "rugby_league",
       "rugby",
-      "world_cup"
+      "world_cup",
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -33142,18 +33146,19 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.03,
-    "news_title": "US now focused on 'facilitating direct engagement' between Russia, Europe, Kushner says after Ukraine peace talks - The Kyiv Independent",
-    "news_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUDRmZTUzNjBjeGFLSUE5N0ZjSnJmOXNpV1QtOTNaUUdEdVdOd0xQZnB6TjlHZ3h1WWJvQktCSWF6cVZjakFnTEhScmZrcnpNTlVBZTVZQzRjVzM2T0RqM0djVnVEOVNoWnlMRTJ6ZThFVjBkdHFhRnFPWEdBbi1lT1V2dEdpMFpib19fOFZYakVDc3dUNEpnOFFZVHZkRzUtVjRzSktyMWhaRl9uSVhBQlRLc0RSMGFDd252MDRWcE9acWlIMy00bWxNTVRkT0RuZHBrQw?oc=5",
+    "news_score": 0.05,
+    "news_title": "Ukraine war briefing: US proposes Kyiv cede land to Russia for Nato membership, Zelenskyy says - The Guardian",
+    "news_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONDZhdzBhLVdGZk1vZFdVY1E5MmhQMWVMWjAyRFJ4RzB6NUlfLWVBbmdsb1BQMFpLbnNlQ2J4bUdWNVpuUE1jbzNseWhuREhsYkRUWm1oRTNLUVhMLVNWWEE5ejh0OVpZakN3YkNjWDNvYUUybUtMVVhsVmladkljQ2h6ZDNvUWREdUVaNkpBclpHTkY2Uktzd3lYMnltNmZEeUh4MUV2RllDSWZPUWNlZjJsaEJ0T29BeDVfLTJydUV2aVVlbncwVTVKc3pEZEJ4YzY3LQ?oc=5",
     "news_image": "",
-    "news_source": "The Kyiv Independent",
-    "news_age": "13h ago",
+    "news_source": "The Guardian",
+    "news_age": "7h ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "basket",
+      "olympic",
+      "military_pct",
+      "nuclear",
+      "military_personnel",
+      "gpi"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -36736,16 +36741,15 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.7,
+    "news_score": 1.49,
     "news_title": "PREVIEW: England face World Champions Spain in Madrid - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMkhzVmFMLUtfVjZxU3ZGM1lBYTdZSkJBUS03X3c4TWtVdE4wZzAwa05jTFgxLTBtQlJwMjhCcHlNR21qUXpaMTFNNWRpOXNKWTZ2b01teDFGWjFUTWItbFpVRG9zczVLeC1fUC1SNG03VmU3NFczd2JnLXl6dW5zcW5CcXg3a3AtMUw4bHdB?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "26m ago",
+    "news_age": "28m ago",
     "news_columns": [
-      "fifa_ranking",
       "fifa_w",
-      "world_cup"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5,
@@ -38445,10 +38449,14 @@
     "news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZdTZsZlJDQ2h2VjdwSjBOeG5XYzZWdmV2X0QzeEN6Y01kd0tXVlVKdzJkZVJkOGtwbmRKS1F0WHdYNXVSNG9mTlJRckhmZjh2RE1WMXQ4QlRuN1JjNHdSUWhEaXJEUHI0WmEyQ211eHNZV1FZUlFZ?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "91m ago",
+    "news_age": "93m ago",
     "news_columns": [
-      "economy",
-      "business"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups",
+      "coffee"
     ],
     "bottom50_wealth": null
   },
@@ -41269,7 +41277,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.48,
+    "news_score": 0.51,
     "news_title": "Ukraine war live: Zelensky says US floated Donbas proposal for Nato membership - The Independent",
     "news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTGQwamJqbjhtTlFRWHNTSG5EZHI4ZXItamJnZlB6M0lkS2FoNS11eWpxY2s4dTVPcFVjRzVjTUVSeDhrNTJXdF9RSWtDYy16QW96YlJGWk9xdjNDZV9oNkhIa1hWcE9qZEhZLV95RHVzUFZBOHFqUDBLVGdWMHBCeUk0c0ZlTzdVakZkTnloRkFJVVdTdW5HeDgzLVFMUGZSQWdlNFQ0OHFFUFQ4a2NNaTVPQVhpdw?oc=5",
     "news_image": "",
@@ -42550,7 +42558,8 @@
     "news_age": "15065h ago",
     "news_columns": [
       "nfl",
-      "american_football"
+      "nfl_week10",
+      "standings"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43751,7 +43760,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 1.09,
+    "news_score": 1.08,
     "news_title": "Institute of Construction Science and Technology: Contributing a scientific and technological foundation to the construction industry. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaWNMbUEzQWc5c2R0bmtlbnRWOGVnbzVEcXhZcUIwdE9hWlFyZFhkYmZQZVlCd2xsQjFlTkFZY0lsMlpfZ0VzSDFNT3N0SlllU3hfTUhqRTkxYUxnMFQ0eGNkaWRFZG5YX1RudENmRmp3T0hxbDFJVjJoaTNaQ1BkU2dtY2tSY3Z0eWJQcVFkdTFyQ083VC12bUlPTXpmNk5NS3Z3aGVhdDh4NXFDWldOSk9oV2g?oc=5",
     "news_image": "",
