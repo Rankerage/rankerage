@@ -8019,7 +8019,7 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.45,
+    "news_score": 0.47,
     "news_title": "Trump faces Carney's refusal to back down as Canada pushes back against U.S. trade demands and Africa's largest economy turns to China - Business Insider Africa",
     "news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcGRMYktmZXZYQWxOX3hEa3N6SHVYOTc3aW1hdjB6dnA3d01VRUQtdlRSRGpOc1M2eG93NWs0d1dqbWJaWkhVVXFzMThwQmlReFcwT1JkT0lhOEJsak8waDhEdGhtb1ZZcm10bTNpN0xUckhpY2lvTzNMWUNKcjlXT21zejVRaUk1aEV2a25RbndpejlmeGVFOURJT0stSmhkQVRwa2dkMnp2ZTNmN25naC1KX2ozX1pfVXg4MjZYZVlsZG1ZVFZseG1QakFWMk5kZlFjUVhB?oc=5",
     "news_image": "",
@@ -10950,7 +10950,7 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.56,
+    "news_score": 0.55,
     "news_title": "Egypt calls for easier climate financing for developing countries - Economy - Business - Ahram Online",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1M3RVhWWnB4TU1KREpveWFSU1I2aXRGRGRJNUZ3WURHTGwxX1NseWZNeFB5Z1RZRm9OUkpnX0NKd3NaeUZPaS1LZjFwRkp1U3puanBOQWllWTAtY0tXbFg5YkNqNTJueF9nMHhhNkFzdlFZcjY4U205QUxlSk1wNTRGRUVsaFZPREpOOVpIYWhVVnBHbzNkOUVoVXlOSXFfUlJnNVprYUk5RDVETi1RN2FiX0xnRWNLQ0ZSWW1IdDdxNGs?oc=5",
     "news_image": "",
@@ -15463,18 +15463,15 @@
     "refugees_rank": null,
     "union_rate": 65.3,
     "union_rate_rank": null,
-    "news_score": 1.09,
+    "news_score": 1.51,
     "news_title": "USA Routs Haiti After Pochettino's Move To Man United Became Official: 5 Takeaways - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYXgyYW5IaXlfYURDOE90SG4tX0xjbkdFWHIwa3p3LUVCMGZpNk5Tem1Rajl2NlhEZnhOQjJWTXZjUTFyWVpnLWdUMmR5c295NmUySmF5d0xid25TbV9KQ01pNDFoaWI2a0E3eEF1aC1LckVidGliclgyR1Zfd2N6NG9PWWczckNwbnZUeHFqS01wWVNVSzRURE9YSmxEd9IBngFBVV95cUxPRHJSdW5yRHJGOGN3cHJ0Z1Mxajk1MXJWV1VTd3dKME9jc2s5cGRIbTlpQVZEU3JZRk1Yb0RmdFZJcDlmaU5IelB2OEw3U2RHOXAxemR0cnotWDVNMHJZVnFPZF9VZm50c29CNU5raEZUazQ0NmRVbXFlVmdjWGdHQjFVS2dkVzYwU2FpeHlFVW1feEU5TnpmRmxtXzkzQQ?oc=5",
     "news_image": "",
     "news_source": "FOX Sports",
-    "news_age": "52m ago",
+    "news_age": "54m ago",
     "news_columns": [
-      "ai_research",
-      "internet_pct",
-      "patents",
-      "rd",
-      "startups"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": null
   },
@@ -16837,9 +16834,12 @@
     "news_source": "The Times of India",
     "news_age": "25h ago",
     "news_columns": [
-      "ncaa_football",
-      "cfp_ranking",
-      "nfl"
+      "health",
+      "life_expectancy",
+      "doctors",
+      "beds",
+      "vaccination",
+      "infant_mortality"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17403,7 +17403,7 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.2,
+    "news_score": 1.19,
     "news_title": "Iran's navy says three tankers on fire after hitting mines in Hormuz - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
     "news_image": "",
@@ -17411,7 +17411,7 @@
     "news_age": "2h ago",
     "news_columns": [
       "geopolitics",
-      "energy"
+      "security"
     ],
     "bottom50_wealth": null
   },
@@ -18135,15 +18135,15 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 1.19,
+    "news_score": 1.2,
     "news_title": "In world first, SpaceX successfully recovers spaceship that orbited Earth - The Times of Israel",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNck9oM1d0UnBQN1lMQ2Q5eTJ0a3ZVTm8wZlAzZ0VXRkVCdkhSenlQWkhQR1l5Nk5DOFZqenNTTmRqRnpRbHJvRlY5VFRuX05FR1pNTzlOR2x1RmwxQWRJOEJFSEN6NFRjbGlXVldHWGNzRHNLYW9RNGpvVmJBTHRiTXBBMjBTWVVvaWRyQVdkcDY0U1NPU29wTllHUVFaaUw2aTNDREZB0gGrAUFVX3lxTE1Ub2tNbUdHRmRnMUlGanVnRXJ0YUcwSURETVFmeFVOMF9mZzl2a0NnbFR4YlA4NFREaXV0WGFDcWFhTk1ZQmg3SEpOY0NIQUh4cDRsZWk2alBtZzd0b0NtNGFRRF9zUnZtM0Mxa1MwQmFCOVYtX1FMX1NFNEdnbm80U283Q3hWRXNkMVJ0dmtqMGZkR3pnZU1ZVjVfdEQ4ZVRhMTVELXQxRThRTQ?oc=5",
     "news_image": "",
     "news_source": "The Times of Israel",
-    "news_age": "110m ago",
+    "news_age": "112m ago",
     "news_columns": [
       "geopolitics",
-      "energy"
+      "security"
     ],
     "bottom50_wealth": null
   },
@@ -19265,12 +19265,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.75,
+    "news_score": 0.81,
     "news_title": "Japan can be world's best, says outgoing coach Moriyasu - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWU9wYnAwQ01YZjA2dnM5Tk5oeHpTZm8tUW94aGN3RnQwOWpoNUFDYlpERDhRS1d5d0ZRS2pwQ1pBWmUwT0tKSVZrb3kyVlRhSXdUVEZCRXpSOTJ1a2NLNFlfWjBqeDd4d2h5bGllNUZMREM0OThpQ3QzZG4tVlRnTXZqQldDSDg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "15m ago",
+    "news_age": "17m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -31106,7 +31106,7 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.2,
+    "news_score": 0.19,
     "news_title": "Pope Leo urges end to violence in Peru during visit to remote Andes town - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaThSTWlHZG9mM2JLSHd4Vnl0bk1GLUtlYy1VNktsWFBVMnVwbEJ2c1Y0bUczZGV0bnpzOHJzMGFSNkdGb1FndmNiUU5IM2dtSGNTdUZ6NjcyVDdYLXlzcHNnOEdUTkpOeDl4ekR6aUo4TVhJLTExX3BOOFE3NHFscUliTXlubnB4Yk9GeVJoMlJnd2RQZTE0cGdsUWJhU0VpOEl4a3c2dEpBMlNfcjQxR1dlbXTSAboBQVVfeXFMUGhXVHNabjI3TS1NRnlvZlRadjNmRVJ3clFkQVlwYmUtdmNubGk2alVrZ2xaa3ZULWNFZUh1Ujd0UmVKNno0NzlWUG5zWEtVUS1OTWVMZ3MyNmM5a19ZOVljdHMyMVNUTHlySjgzQlFmRHZKTVNxaFNiSGVqSUM0d0VjNDRIQVRaX1lRX3IxcG5WYV9IN1h4WmZkOElBVEhjM0JsNE1pdkRfNkVWb1ljV25ILUFkZkxVdGxn?oc=5",
     "news_image": "",
@@ -33129,7 +33129,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.39,
+    "news_score": 0.0,
     "news_title": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQ1hLMTNVb094dE1lVlNkWWdtNXVYQjFqUUQ0Q0xkR0s1VnFzUExZQVVlVEZLYTNIUWN3cWoxa1dIM0xkc0docFNONklpRTZ6UFlTb3hLeFJxWC1feVRscDJMSWZaazQ0YzQwRVNyTDNqYUdiMUszLQ?oc=5",
     "news_image": "",
@@ -36722,7 +36722,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.1,
+    "news_score": 1.09,
     "news_title": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRmxpdGVWWnFKalBDb3Z1ZG9rU2RhbVMydDV0WFRrak9KQldJYXNaNWNhUjBMNERyUkZfVU5HUl9IOEhrUm1QX0V0RERFZlctclg4SjZOX1pQR2N1dEVmdS1HdDJ4c2c5ZklDdmd6dEN4eURrSUN0cllhbEs3UERPbXNLODdXenF0cVczVUdVd0xnRU5qcDJ1R0MyMjE0Z21rRDVUZVpodmhOSXlaNEc5a05jbw?oc=5",
     "news_image": "",
@@ -41262,7 +41262,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.13,
+    "news_score": 0.0,
     "news_title": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQ1hLMTNVb094dE1lVlNkWWdtNXVYQjFqUUQ0Q0xkR0s1VnFzUExZQVVlVEZLYTNIUWN3cWoxa1dIM0xkc0docFNONklpRTZ6UFlTb3hLeFJxWC1feVRscDJMSWZaazQ0YzQwRVNyTDNqYUdiMUszLQ?oc=5",
     "news_image": "",
@@ -42544,12 +42544,12 @@
     "news_columns": [
       "ncaa_football",
       "cfp_ranking",
-      "nfl",
       "space",
       "tech",
+      "travel",
+      "aviation",
       "geopolitics",
-      "energy",
-      "aviation"
+      "security"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
