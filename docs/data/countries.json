@@ -2563,12 +2563,8 @@
     "news_source": "www.rba.gov.au",
     "news_age": "76842h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "inflation",
-      "unemp",
-      "exports",
-      "imports"
+      "rugby",
+      "world_cup"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3059,7 +3055,7 @@
     "union_rate": 72.9,
     "union_rate_rank": null,
     "fifa_w_rank": 80,
-    "news_score": 0.17,
+    "news_score": 0.16,
     "news_title": "KSA Business: Saudi economy to rebound in 2027 as oil output recovers, says Moody’s - Gulf Daily News (Bahrain)",
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUnJUTkV4WUNaMDZHbGU1Uzc5cnZBc2xJZVJVS1I4OHZ4Nl93OVMyend4X3ZuNndpc0szeFFqWlpuX1BJUVRkTG1QeE9HNGRZTjYzenJFbTRzazB3bUFPelVyb1NaQVJONWRNc29xZVEwU3E5cEx3T0FCMkl1Nk80WkdES25aVW9SY1pzV1E2SUF5dDViMU9BUWdCSFY5YnJpdXBxeVgyNVA1bkZtNXJkSVVnUzFrSmpVdjdz?oc=5",
     "news_image": "",
@@ -12541,7 +12537,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORFNwOTRPSXFTUFlWTXBVMXZxRUo3emwwTnhBeUpZUzRKOVZManNLOGtaVkRKd0h2bDY0OFdFQXFoZmhJTmpoOFdGdzBVM0J4Zm9XLUoxdmc5V3pVbUZQLW9PblNrTXhSeG9ZWUZaV2JQcnoxbVpqNGJHM1F6ZnZqVzZZdmZSelF6bUxuOG9TWnVVZw?oc=5",
     "news_image": "",
     "news_source": "VailDaily.com",
-    "news_age": "10h ago",
+    "news_age": "11h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -16832,19 +16828,15 @@
     "refugees_rank": null,
     "union_rate": 59.1,
     "union_rate_rank": null,
-    "news_score": 0.25,
-    "news_title": "Grant Wilson delivers as Indiana boosts CFP, Big Ten hopes with win vs. USC - ESPN",
-    "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmxkWG9XQVJ5QUo2WUNkbFFOa0V0Q3R4alBsYjZGNXBjS3VFQjllZUVBZTE3QVdiRnpOYnRpLUlQckpYQjZyNEQ2T2NERHVLTlQ2SzBpMGtmQ0l5QlBQNXJiazEyblRueTRlMDhSVk5Kdnc0SFZ1U29kVUI1WEI0enh1WXVOMmZwQnV0RXZTZGlGa0ZVSk1fSjVQZ1E5aGxHN0wwZUk1UEwyX0lWMmM1STlpUQ?oc=5",
+    "news_score": 0.26,
+    "news_title": "World Diabetes Day 2026: Diabetes can develop silently for years: Why one simple health check could help detect the risk early and prevent future complications - The Times of India",
+    "news_url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPVjNqVWZVQXNHV2MwOW01S09jblhYOWczdXl0bEk3VGdETGVwWjRmX0lhNlptYkoybzdwRzBXVDMtSFoyMm5XY3daYnRVTEp2T29pTjlzb051STltVS1iYjBHdmR1VGxHVUNQRnpPendveFd4YUJuaDQtR0JsUGJQNEF4dVRINk9aLVpoMW1kOFpYX0NfYzZZLW8xajdQNnVUZlAzR1dPU0IwTHRlVFlMc3BxX0UyLVB0a20yZk40VEJVZzRvVkpRMHQzejBIbkRLaS1qaWxSNkJfNTdKQTZqX2lmVV9nUXFsaHNHV1N2d2dTdEwySTIwZEdUZjNUNzhibjZoY0tYSFcxdF83V1JDbDV0WlY3S0hFNGxTcWo2dUh1Y3ducGtFa9IBsAJBVV95cUxPZDVOdUMwc0JqWEdGYmoyN1EzaGpNOHZVSEZGVzNmcEhGVGdPcHVCTzFEem4zc3lBRWV2Z1NjVGJIUTVYU1E5cVhfY0w1aGZzZjBneThuQWFOV1NzTjhzWVY1MEJYOFc5Zlh1ZjVydHlETmNwMnVFT3FDUUVvQl9CWUpCMjFZMzB0S1pNNWtqTTNkSFdlYTRzdEpmYnN2Y2RJRjdVOVp6Nm56aDMxNzdNeUZKWDNEY1NZUlhNOVczcXdhWGtHeWowQ3BEeE55NTBReUlpYXN0ZzRRMk8yejVRUHJvempDcWhGakszdEctanAwdGsyZ2hTblJ3WTFJTFl2WlZKNWh2Q0JLelhVWTBtcmZfZUhpMTBVai1QTFlwdjY3RXhUR1V1YURmM3lPWTR6?oc=5",
     "news_image": "",
-    "news_source": "ESPN",
-    "news_age": "108m ago",
+    "news_source": "The Times of India",
+    "news_age": "26h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket",
-      "gdp",
-      "gdp_per_capita"
+      "ncaa_football",
+      "cfp_ranking"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17408,15 +17400,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.13,
-    "news_title": "Live Updates: Netanyahu says it's time to remove Iran threat \"once and for all\" - CBS News",
-    "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
+    "news_score": 1.1,
+    "news_title": "Netanyahu urges talks ‘without preconditions’ on unity government; Eisenkot rejects PM’s ‘spin’ - The Times of Israel",
+    "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalk5X0pscG9RYW5lUWJuTFdKTF9BaV9CMi15MGV1LS05YnZUaWFsVE9CLWNxMnpqZ1NHbG9VWk1vai1rV0xsU2xwVlVLZTdqOHR3NTN2cHhLRXVXTVk5U01FeGJhRGppQ2d0VWNXdm1vLWw3MHZuTXVGS0N0OEp1eE9zRXRobTJjblh4c205T0tCNmlvZGRYNEc0RXRSU1B3RUVsVWpiVFRwcmlvQThLVzNR0gG3AUFVX3lxTE9Bb29jYV9MdVpkV3JhUE42WnU4bi1wTmlCcjRmMUtsS3VvbFdWbGhaMTZwUjlzVHVCVnU1dzdEZkMxYkh4MUFNUXRxcUt6bjhvX04xMERMallQWVZ2R29ETm8zTmFyQVpZb2hhY1QzZG5ud3BlTGdWTG03U3FDek9FLXhlTVRVaUlrMUY1dDlaVDRMV253TnQzQmlwLVVuLWVZLVRWTGxTMmZ1MFZna3M1QmlITXNjaw?oc=5",
     "news_image": "",
-    "news_source": "CBS News",
-    "news_age": "85m ago",
+    "news_source": "The Times of Israel",
+    "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "geopolitics",
+      "maritime"
     ],
     "bottom50_wealth": null
   },
@@ -18140,12 +18132,12 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 1.2,
-    "news_title": "Live Updates: Netanyahu says it's time to remove Iran threat \"once and for all\" - CBS News",
-    "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
+    "news_score": 0.85,
+    "news_title": "Netanyahu urges talks ‘without preconditions’ on unity government; Eisenkot rejects PM’s ‘spin’ - The Times of Israel",
+    "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalk5X0pscG9RYW5lUWJuTFdKTF9BaV9CMi15MGV1LS05YnZUaWFsVE9CLWNxMnpqZ1NHbG9VWk1vai1rV0xsU2xwVlVLZTdqOHR3NTN2cHhLRXVXTVk5U01FeGJhRGppQ2d0VWNXdm1vLWw3MHZuTXVGS0N0OEp1eE9zRXRobTJjblh4c205T0tCNmlvZGRYNEc0RXRSU1B3RUVsVWpiVFRwcmlvQThLVzNR0gG3AUFVX3lxTE9Bb29jYV9MdVpkV3JhUE42WnU4bi1wTmlCcjRmMUtsS3VvbFdWbGhaMTZwUjlzVHVCVnU1dzdEZkMxYkh4MUFNUXRxcUt6bjhvX04xMERMallQWVZ2R29ETm8zTmFyQVpZb2hhY1QzZG5ud3BlTGdWTG03U3FDek9FLXhlTVRVaUlrMUY1dDlaVDRMV253TnQzQmlwLVVuLWVZLVRWTGxTMmZ1MFZna3M1QmlITXNjaw?oc=5",
     "news_image": "",
-    "news_source": "CBS News",
-    "news_age": "85m ago",
+    "news_source": "The Times of Israel",
+    "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w"
@@ -19270,12 +19262,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.7,
+    "news_score": 0.69,
     "news_title": "Japan can be world's best, says outgoing coach Moriyasu - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWU9wYnAwQ01YZjA2dnM5Tk5oeHpTZm8tUW94aGN3RnQwOWpoNUFDYlpERDhRS1d5d0ZRS2pwQ1pBWmUwT0tKSVZrb3kyVlRhSXdUVEZCRXpSOTJ1a2NLNFlfWjBqeDd4d2h5bGllNUZMREM0OThpQ3QzZG4tVlRnTXZqQldDSDg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "87m ago",
+    "news_age": "89m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -31113,7 +31105,7 @@
     "refugees_rank": null,
     "union_rate": 77.0,
     "union_rate_rank": null,
-    "news_score": 0.14,
+    "news_score": 0.13,
     "news_title": "Pope Leo urges end to violence in Peru during visit to remote Andes town - Al Jazeera",
     "news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaThSTWlHZG9mM2JLSHd4Vnl0bk1GLUtlYy1VNktsWFBVMnVwbEJ2c1Y0bUczZGV0bnpzOHJzMGFSNkdGb1FndmNiUU5IM2dtSGNTdUZ6NjcyVDdYLXlzcHNnOEdUTkpOeDl4ekR6aUo4TVhJLTExX3BOOFE3NHFscUliTXlubnB4Yk9GeVJoMlJnd2RQZTE0cGdsUWJhU0VpOEl4a3c2dEpBMlNfcjQxR1dlbXTSAboBQVVfeXFMUGhXVHNabjI3TS1NRnlvZlRadjNmRVJ3clFkQVlwYmUtdmNubGk2alVrZ2xaa3ZULWNFZUh1Ujd0UmVKNno0NzlWUG5zWEtVUS1OTWVMZ3MyNmM5a19ZOVljdHMyMVNUTHlySjgzQlFmRHZKTVNxaFNiSGVqSUM0d0VjNDRIQVRaX1lRX3IxcG5WYV9IN1h4WmZkOElBVEhjM0JsNE1pdkRfNkVWb1ljV25ILUFkZkxVdGxn?oc=5",
     "news_image": "",
@@ -36729,7 +36721,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.64,
+    "news_score": 0.63,
     "news_title": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRmxpdGVWWnFKalBDb3Z1ZG9rU2RhbVMydDV0WFRrak9KQldJYXNaNWNhUjBMNERyUkZfVU5HUl9IOEhrUm1QX0V0RERFZlctclg4SjZOX1pQR2N1dEVmdS1HdDJ4c2c5ZklDdmd6dEN4eURrSUN0cllhbEs3UERPbXNLODdXenF0cVczVUdVd0xnRU5qcDJ1R0MyMjE0Z21rRDVUZVpodmhOSXlaNEc5a05jbw?oc=5",
     "news_image": "",
@@ -42549,8 +42541,14 @@
     "news_source": "City of Toronto",
     "news_age": "15056h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "ncaa_football",
+      "cfp_ranking",
+      "nfl",
+      "injury_report",
+      "space",
+      "tech",
+      "geopolitics",
+      "maritime"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
