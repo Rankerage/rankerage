@@ -10952,7 +10952,7 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.46,
+    "news_score": 0.45,
     "news_title": "Egypt calls for easier climate financing for developing countries - Economy - Business - Ahram Online",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1M3RVhWWnB4TU1KREpveWFSU1I2aXRGRGRJNUZ3WURHTGwxX1NseWZNeFB5Z1RZRm9OUkpnX0NKd3NaeUZPaS1LZjFwRkp1U3puanBOQWllWTAtY0tXbFg5YkNqNTJueF9nMHhhNkFzdlFZcjY4U205QUxlSk1wNTRGRUVsaFZPREpOOVpIYWhVVnBHbzNkOUVoVXlOSXFfUlJnNVprYUk5RDVETi1RN2FiX0xnRWNLQ0ZSWW1IdDdxNGs?oc=5",
     "news_image": "",
@@ -13574,7 +13574,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.32,
+    "news_score": 0.31,
     "news_title": "Georgia/Missouri Live Thread - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUNtYzlMSDVZNWtpcTVwOS1QMGtkb2t6Mkt0dUItTkxWRGVtcTBQLWl5cjdSNTQwdmJRZVlGT2hTakIyODBmLU13V3lhdldob0dibDFUZU04U0xrSndmb295cHI3Z0hCZE1RcFBJNnkxRGZoNU9XeVFwb01lVUlEQVdPOA?oc=5",
     "news_image": "",
@@ -16839,12 +16839,8 @@
     "news_source": "The Times of India",
     "news_age": "26h ago",
     "news_columns": [
-      "health",
-      "life_expectancy",
-      "doctors",
-      "beds",
-      "vaccination",
-      "infant_mortality"
+      "fifa_ranking",
+      "fifa_w"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -17408,17 +17404,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 1.19,
+    "news_score": 1.17,
     "news_title": "Netanyahu urges talks ‘without preconditions’ on unity government; Eisenkot rejects PM’s ‘spin’ - The Times of Israel",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalk5X0pscG9RYW5lUWJuTFdKTF9BaV9CMi15MGV1LS05YnZUaWFsVE9CLWNxMnpqZ1NHbG9VWk1vai1rV0xsU2xwVlVLZTdqOHR3NTN2cHhLRXVXTVk5U01FeGJhRGppQ2d0VWNXdm1vLWw3MHZuTXVGS0N0OEp1eE9zRXRobTJjblh4c205T0tCNmlvZGRYNEc0RXRSU1B3RUVsVWpiVFRwcmlvQThLVzNR0gG3AUFVX3lxTE9Bb29jYV9MdVpkV3JhUE42WnU4bi1wTmlCcjRmMUtsS3VvbFdWbGhaMTZwUjlzVHVCVnU1dzdEZkMxYkh4MUFNUXRxcUt6bjhvX04xMERMallQWVZ2R29ETm8zTmFyQVpZb2hhY1QzZG5ud3BlTGdWTG03U3FDek9FLXhlTVRVaUlrMUY1dDlaVDRMV253TnQzQmlwLVVuLWVZLVRWTGxTMmZ1MFZna3M1QmlITXNjaw?oc=5",
     "news_image": "",
     "news_source": "The Times of Israel",
     "news_age": "2h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w",
-      "olympic",
-      "basket"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -18142,7 +18135,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.92,
+    "news_score": 0.91,
     "news_title": "Netanyahu urges talks ‘without preconditions’ on unity government; Eisenkot rejects PM’s ‘spin’ - The Times of Israel",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalk5X0pscG9RYW5lUWJuTFdKTF9BaV9CMi15MGV1LS05YnZUaWFsVE9CLWNxMnpqZ1NHbG9VWk1vai1rV0xsU2xwVlVLZTdqOHR3NTN2cHhLRXVXTVk5U01FeGJhRGppQ2d0VWNXdm1vLWw3MHZuTXVGS0N0OEp1eE9zRXRobTJjblh4c205T0tCNmlvZGRYNEc0RXRSU1B3RUVsVWpiVFRwcmlvQThLVzNR0gG3AUFVX3lxTE9Bb29jYV9MdVpkV3JhUE42WnU4bi1wTmlCcjRmMUtsS3VvbFdWbGhaMTZwUjlzVHVCVnU1dzdEZkMxYkh4MUFNUXRxcUt6bjhvX04xMERMallQWVZ2R29ETm8zTmFyQVpZb2hhY1QzZG5ud3BlTGdWTG03U3FDek9FLXhlTVRVaUlrMUY1dDlaVDRMV253TnQzQmlwLVVuLWVZLVRWTGxTMmZ1MFZna3M1QmlITXNjaw?oc=5",
     "news_image": "",
@@ -19274,12 +19267,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.8,
+    "news_score": 0.79,
     "news_title": "Japan can be world's best, says outgoing coach Moriyasu - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWU9wYnAwQ01YZjA2dnM5Tk5oeHpTZm8tUW94aGN3RnQwOWpoNUFDYlpERDhRS1d5d0ZRS2pwQ1pBWmUwT0tKSVZrb3kyVlRhSXdUVEZCRXpSOTJ1a2NLNFlfWjBqeDd4d2h5bGllNUZMREM0OThpQ3QzZG4tVlRnTXZqQldDSDg?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "57m ago",
+    "news_age": "59m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -36733,7 +36726,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.79,
+    "news_score": 0.83,
     "news_title": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRmxpdGVWWnFKalBDb3Z1ZG9rU2RhbVMydDV0WFRrak9KQldJYXNaNWNhUjBMNERyUkZfVU5HUl9IOEhrUm1QX0V0RERFZlctclg4SjZOX1pQR2N1dEVmdS1HdDJ4c2c5ZklDdmd6dEN4eURrSUN0cllhbEs3UERPbXNLODdXenF0cVczVUdVd0xnRU5qcDJ1R0MyMjE0Z21rRDVUZVpodmhOSXlaNEc5a05jbw?oc=5",
     "news_image": "",
@@ -42555,8 +42548,7 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic",
-      "basket"
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
