@@ -402,12 +402,12 @@
     "union_rate": 77.0,
     "union_rate_rank": null,
     "fifa_w_rank": 54,
-    "news_score": 1.34,
+    "news_score": 1.33,
     "news_title": "[[[Fox^Sports]] Watch Albania vs Belarus Nations League live free! 15 November 2026 - Universitat de Barcelona",
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNVzV2UXZwRWczTThtcVU3bFRwdFI4eGt0SDJmTENwOENHWXVZOGdCbFJ0a3FnZU9kUll6SFgzTndya2M5dDhyRFkwVUFSVF9Kc1RkYlBzZUw0R21zRVczNS03Vk5XaV82c1JZYnVMV2l0b3RidXRwY0VUWnpta3picjh1cTFJc0UtYWhnM3JTaWNUQUNKeUpleUYweVJqSGh3aUJxT1dxYy1CUEdyNWZDM09ZcnJxc2M3YmNlT2RYazV0RzIyWTdqbF9qTWRXTE1qTnUtVDdBdGpDc1RPYk9nZGstcW1aMmZfQWQyaDAxUGFQYnQ5VkV4OGxrYXFzQ3NtaVVkS3pPRVdMSE9iaVpkT2hpS0RYREhsc3c?oc=5",
     "news_image": "",
     "news_source": "Universitat de Barcelona",
-    "news_age": "48m ago",
+    "news_age": "50m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -2132,7 +2132,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPODYtUzZnWGl3TGFDZzVqblNJRjIwNXpqTDVtUEYxRWZreC1QanhsdEpvOGlnTEJLcUozN1RManAxY29UMGJDQVQ5cm5LNElBRWMwWi1USkVDcTEtcGxqUlNnbTJCdHRucHlRdEhsV2ZPMnItOUFEUU9vanNIczlHdl96bkpZMU5KYW9SeTdvcUllNUQzQUFyUHU1WkFtaFBOQ21aTkFCaElwZU5tOUFGMXY2TnhGMksxMEZZdmNFOWFsQ2tuS3c?oc=5",
     "news_image": "",
     "news_source": "ARKA.am",
-    "news_age": "44h ago",
+    "news_age": "45h ago",
     "news_columns": [
       "coffee",
       "tea_consume"
@@ -2570,10 +2570,11 @@
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOVzJ2YTBpMVRhQ1RZWC1SQVRDVHpzTDFicXVtVlo4RlBhck00R29ub1pBLVJWbVhCRTNMaUxBWTZTYUxBZ1FLd0pQYk8xd1NqU2djTHhKYklWbnllVDdFU1pjeDc2Zk9rRGc5VXNVeUxOcHZxNnlkaFZ4TEVlMENhX3h2aEJqMGtXQ0RITFkyREZ4WDBYX0c2VHNudG9OZmVvTmFwN0hBUFRyLVo1bmNFcEJXZmhnVFhRZnZxQTU3M1M4X19ua0U2TnZncktIbW5ueGFRalZ5VDh3bnFTcVFMLV9MSmxONEIwOGU3RUZkYTN2SHZGTzBWRHc5N1FLNFdBelRjWTc1cHhUYUxWRmswUm5mWTVtemVEUnc?oc=5",
     "news_image": "",
     "news_source": "Universitat de Barcelona",
-    "news_age": "11m ago",
+    "news_age": "13m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "rugby_ranking",
+      "rugby_w",
+      "fifa_ranking"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -8026,15 +8027,17 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.91,
+    "news_score": 0.98,
     "news_title": "Beijing faces Russia bind amid talk of Xi-Trump-Putin summit - DW.com",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVh6RE80dFdsSFVoNlp1X0tuNE9RRWhmWGNFMXpnWHdDTzJhX193UDhhN1VMcTJNWjB3ODllTUQyTFU2VXcyOHBMcEk5RFNzV1paNG45S0tDVTdvSFljSHZFY0RkTm04VHd2WmNGa0R4MGxNRWxmVUZEUEE3MWJ5OXBILWg3M3ZRUlkxOVpZMWd5UFkzUHgtMEo5WEFGLVhqX0HSAaIBQVVfeXFMTXhHYWZpekRHVmpWZ2FBRW5DSGpEbnZiVzFidnd0Z3drSVdqek1uS3cyUVk5SS1DNmVZR21sX2JvQkxkTEdhcEl4Q0NWZGs0Q1FMZWdXZ25neVIzMjhTMV9zUEpJVXR6cWF1bE5FM1RBOEgxN0NnYlczZ0QyZ3gtcTZHTnpyOWYxLUVDeTJLangxU2pWTzBEdEU3OHRiTElOM2l3?oc=5",
     "news_image": "",
     "news_source": "DW.com",
-    "news_age": "110m ago",
+    "news_age": "112m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "tech_ranking",
+      "market_w",
+      "geopolitics_ranking",
+      "diplomacy_w"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10953,12 +10956,12 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.61,
+    "news_score": 0.6,
     "news_title": "WEF meeting to spotlight Egypt economic reforms, investment prospects - Economy - Business - Ahram Online",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdV9ZS3RITlVmeHdrUXJweGN3dV82TkllVU9pUlZGamVjTE5kUU02YVV0MHUyUV9EMGVrVERabXdCa2hlQlN4bDRhVGJxQjdIWWlROVo3OWExeHhNdjFLQzdyalJscWc5THJJT3I0MFktTFVrRFZ1dEtha09QRVAyTWFxd05idkFWTEhHVXpDNmJRZm9XVGI2UlVxM1dpcUs2X3U0ZmdkUi1Zcms1OU9mdGR3cnhHQ2lMLS1tRzcydk42UVU?oc=5",
     "news_image": "",
     "news_source": "Ahram Online",
-    "news_age": "117m ago",
+    "news_age": "119m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -12537,12 +12540,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.79,
+    "news_score": 0.78,
     "news_title": "[[[CBS^Sports]] Yhdysvallat - Suomi Jääkiekko Elää Live Stream - Universitat de Barcelona",
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNazV6cDhOZFRYcERqNFpXNVpteXItNW1oYjZyUVI5bVR3cjhYMTAwWmh0bm81b1RlSWJHaHRKc0MxczB4eWJYUEdvMFVNMk55dFZQVXl1T1BVaUQyYmY2bjZEa3dxLUtzdERoSjlqTjFHX0FSbFdpaUxCT1ZjeWs3NnN0dVR2SUlpNy1DdXhjeU1jZDc0MzJOeC1odnhaZWozVFBvcmJ0T0l5MlhFMkJNUWhyNS1aMzlKTWlyN1ZpZmRaNnE2UGN5NzJLRXQ5Nkk0cHF5bHdaejk2cXQ5MEZqd0tRWFhZU1IwZnNHS255eEQxazRZZTlqQVVyRWdDZzVSTVliV0xzb2ZHaDBzdGJFUmVOa2ZrQWFBZkE?oc=5",
     "news_image": "",
     "news_source": "Universitat de Barcelona",
-    "news_age": "58m ago",
+    "news_age": "60m ago",
     "news_columns": [
       "basket",
       "olympic"
@@ -13574,7 +13577,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXpHOEF0WTZENFRoZnYtSE9NVkZBLVhXaTRjeThXTE5FTjc1T2Y2cnJ2WGhYS2dqbHktOTNvQ1I5dktTcmR5aGg5bWtvSDBUUGVVUE04TkRGZmxJQVE3c1FVbmk1elZ3RlpKZ2pTdllPRTU1ZjdRVW93WkoyaVEzZHpCQ2p3alJtMTlJRmI3TklRQ3FjczQwNkQ2bnB4WnZuOWNreDdZUDA1ZUppMmc?oc=5",
     "news_image": "",
     "news_source": "CBS Sports",
-    "news_age": "97m ago",
+    "news_age": "99m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -14071,15 +14074,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.04,
+    "news_score": 1.03,
     "news_title": "Patriots vs. Lions live updates, inactives, where to watch: Drake Maye, Jared Goff square off in Germany to kick off Sunday slate in Week 10 - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc3JxT28xNjZ3QXZ1RHg3N3haUmdTbmNna0VRZ19hcDlPOGZxZVUzSVBIem5ZNmo3ZlpVUDFLbERoanloNEY2S1V4Yk95UDlUU1ZWTlNRQmR1czd2VFRpN0h2UmFKREhvaDVFTm00NnBlTHlzN2NpQ3NlVUlkMkRUQlNxV3JpdGoxYm5vMHJkbW5PVUx5T0NBcm1BRm1hd2FsWWJtZzR4UzhmTXY4ejZxVEQ2OXg3NlV6ZUNmUWR6blJ3eXNVV281ZWlwdGtCZzkxdVBVWVR4Y1VOSHBQQzlPSw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "52m ago",
+    "news_age": "54m ago",
     "news_columns": [
-      "nfl",
-      "basket"
+      "nfl_ranking",
+      "nfl_w"
     ],
     "bottom50_wealth": 2.5,
     "bottom50_wealth_rank": 21
@@ -15459,12 +15462,12 @@
     "refugees_rank": null,
     "union_rate": 65.3,
     "union_rate_rank": null,
-    "news_score": 0.95,
+    "news_score": 0.96,
     "news_title": "Haiti - Economy : The DGI engages in dialogue with the private business sector regarding the new Tax Code - HaitiLibre.com",
     "news_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYmFKZzZhYkVFTkIyS2IxSHRmNVdtc3hRQURMbkxTSHhHSFlEZzlmcEktZEZYRm50c0kwV2hyMDVVVFJwaWdISW1SQTBBRjdENDNSVnV6QjZZUDZZU0FxMGJFZ3VpTi11YS05cGtkVWZWeWtPU3p5X0stckphMmlnRTBFeWxHaGVBWV9XemRTMGRpbUt5dHU1d05ITXpTaWh1ZEZmb0JtT3NmX3pEbnQ5REhQRGdWdi1DSXpkYW84WW4zWE1uZDN1WFNFVTlLMklXUS1kcjltYkVxamtFU3BjZA?oc=5",
     "news_image": "",
     "news_source": "HaitiLibre.com",
-    "news_age": "18m ago",
+    "news_age": "21m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -16830,8 +16833,8 @@
     "news_source": "Mathrubhumi English",
     "news_age": "49h ago",
     "news_columns": [
-      "diplomacy",
-      "geopolitics"
+      "geopolitics_ranking",
+      "diplomacy_w"
     ],
     "bottom50_wealth": 4.8,
     "bottom50_wealth_rank": 10
@@ -19447,7 +19450,7 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.2,
+    "news_score": 0.23,
     "news_title": "VIDEO: McLain Ward tops the Longines FEI Jumping World Cup™ Toronto with Jordan Molga M - World of Showjumping",
     "news_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSm9MQkN0M3kyN1IyeFNHS3lYal9FVk1QN093a09SbEkwX3JQM3VqenpHcnBYcUstR0pnNVdTUlZrRDY3THVvakZFQ2xpMWJwTmhhdGNLMGJteEtDV3lTSlVwTjdxWGR0YkN6TjdmTzM1RG52Smo4SWlMeXBRQ3ZoNFN0ZjFLTk8wblJ2MTJVeTgwMDVzN1dsaEdSN2pEV3I1WUtKWmNsd1hUYkZ5TVp6aGx3dkRJd3pDZm0wcjFBN1RXQzA1OHZNdVl5S3N1V05DUnA1cTVac1VEQQ?oc=5",
     "news_image": "",
@@ -27819,10 +27822,11 @@
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS21KQm9tY1Q4QkQ1NG5hSTVBUGVyZnZsN2NKNFhpVXZYSU55bHJYczhxdWlhWGV6LWlfeUQ5OUIyRVVUWWpQRmRKV2luTTJ3Zm9razZuSC14UEZqUlpQM2Q3MEJWT0xPQkZFaUlfajZqRzhrVDlYNmtGTzNJUXR2dUtxU1RlSllMU2xyYXlCSzB6enBwMG1SbWlpdVdtZnhNWmxoc0QyeHJnOHExeGVoYU5wQ3AxaVRuYU90QVJValJHamVNYUxETVdR?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "72m ago",
+    "news_age": "74m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "rugby_ranking",
+      "rugby_w",
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -33130,16 +33134,15 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 0.77,
+    "news_score": 0.99,
     "news_title": "Beijing faces Russia bind amid talk of Xi-Trump-Putin summit - DW.com",
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVh6RE80dFdsSFVoNlp1X0tuNE9RRWhmWGNFMXpnWHdDTzJhX193UDhhN1VMcTJNWjB3ODllTUQyTFU2VXcyOHBMcEk5RFNzV1paNG45S0tDVTdvSFljSHZFY0RkTm04VHd2WmNGa0R4MGxNRWxmVUZEUEE3MWJ5OXBILWg3M3ZRUlkxOVpZMWd5UFkzUHgtMEo5WEFGLVhqX0HSAaIBQVVfeXFMTXhHYWZpekRHVmpWZ2FBRW5DSGpEbnZiVzFidnd0Z3drSVdqek1uS3cyUVk5SS1DNmVZR21sX2JvQkxkTEdhcEl4Q0NWZGs0Q1FMZWdXZ25neVIzMjhTMV9zUEpJVXR6cWF1bE5FM1RBOEgxN0NnYlczZ0QyZ3gtcTZHTnpyOWYxLUVDeTJLangxU2pWTzBEdEU3OHRiTElOM2l3?oc=5",
     "news_image": "",
     "news_source": "DW.com",
-    "news_age": "110m ago",
+    "news_age": "112m ago",
     "news_columns": [
-      "car_density",
-      "gas_price",
-      "co2"
+      "geopolitics_ranking",
+      "diplomacy_w"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -36145,7 +36148,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVh6RE80dFdsSFVoNlp1X0tuNE9RRWhmWGNFMXpnWHdDTzJhX193UDhhN1VMcTJNWjB3ODllTUQyTFU2VXcyOHBMcEk5RFNzV1paNG45S0tDVTdvSFljSHZFY0RkTm04VHd2WmNGa0R4MGxNRWxmVUZEUEE3MWJ5OXBILWg3M3ZRUlkxOVpZMWd5UFkzUHgtMEo5WEFGLVhqX0HSAaIBQVVfeXFMTXhHYWZpekRHVmpWZ2FBRW5DSGpEbnZiVzFidnd0Z3drSVdqek1uS3cyUVk5SS1DNmVZR21sX2JvQkxkTEdhcEl4Q0NWZGs0Q1FMZWdXZ25neVIzMjhTMV9zUEpJVXR6cWF1bE5FM1RBOEgxN0NnYlczZ0QyZ3gtcTZHTnpyOWYxLUVDeTJLangxU2pWTzBEdEU3OHRiTElOM2l3?oc=5",
     "news_image": "",
     "news_source": "DW.com",
-    "news_age": "110m ago",
+    "news_age": "112m ago",
     "news_columns": [
       "car_density",
       "gas_price",
@@ -36719,12 +36722,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.09,
+    "news_score": 1.11,
     "news_title": "Branthwaite, Garner and King omitted for Spain game - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcTlVWk50d0hEMkxENlRjT2w1WGtzcjliQ09VNjl0bFVIa3Q2UUh0S1BoUFZJNUU2X3lqNk16VjVzSVpWOXpxbXRGLTZTc1A3V2x0NnpneTJNWmRrckx0Njk4Y20zTFpWaDlNTHZ3WGRuZzBRbVU4NTg2ekZhM3pIZUxSelBwUXJQR1JOX2hGQQ?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "43m ago",
+    "news_age": "45m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -42533,11 +42536,12 @@
     "news_source": "Yahoo Sports",
     "news_age": "6h ago",
     "news_columns": [
-      "nfl",
-      "basket",
-      "fifa_ranking",
-      "fifa_w",
-      "olympic"
+      "nfl_ranking",
+      "nfl_w",
+      "tech_ranking",
+      "market_w",
+      "geopolitics_ranking",
+      "diplomacy_w"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43738,12 +43742,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 1.15,
+    "news_score": 1.14,
     "news_title": "Vietnam ready to promote science, technology, innovation cooperation in Francophone community - VOV World",
     "news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLU5KY3daSnlTM3NIdHg3TGZ4SGhfbnhBeFVaQXBrek9xS05rdkZaNDYxU3k1N0ZPRUJ0MlFaOFdWNDZJWVNwTzUxXzRiY0oxbmVpQUdDNWxjTGRJT2pSX0MtSmFNb2E2V0RKRHVHQlZnN0Q0WkM4WWpZYVkzQ2JyZ3AtdE9FSUo0Umk1ejV4N1V4cGQ4Yk9Pd2lON05vN1VnbnFUTlNwb25IZWhkbEdGOG5INEhLd3NzR0VORG9OXzQ5UnBJOG5MMg?oc=5",
     "news_image": "",
     "news_source": "VOV World",
-    "news_age": "53m ago",
+    "news_age": "55m ago",
     "news_columns": [
       "diplomacy",
       "economy"
