@@ -2556,15 +2556,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 1.2,
+    "news_score": 1.22,
     "news_title": "World Championship Final: Australia vs Venezuela - ballysports.com",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk5lTXJvTVR4b2Z4dGhCanloU2d4YXY3QVNJUkNUTDJxNmZTLUp5bklnQnI4d0hGV2MzNUl6VVhxTk9ZOGRxRjhqeDRQYUlsSTJ4SjlRVnl5UnlFOTBNYkMtaFRQNGZOQmNCbWgwX0FPTFpHazdhTkNBSmUtNHdnMHRkdlJfVUNFejFUTV91a1R0VC1PYl9hS2hMbE9UTXZtTjNKazlKQWM1a2oxVlE?oc=5",
     "news_image": "",
     "news_source": "ballysports.com",
-    "news_age": "12m ago",
+    "news_age": "14m ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "rugby_world_cup",
+      "world_rugby_ranking"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -8017,12 +8017,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 1.25,
+    "news_score": 1.23,
     "news_title": "The world according to China - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjFJU0l0RDAwQ2FiRlJ5TWI4UnFSYzJPT2tTXzhydHU5ZEt1LVRseXY2aHByQ2FSdmpVWC00ZlpSc0IwX05rYkhpQkZrejd5dlREeDVHaHV6eXdaUllhSktGa3Q2YUk3aFBxQWR3R29zakdzVy1oZjlpSF9PZWo0d0h2aFc?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
-    "news_age": "61m ago",
+    "news_age": "63m ago",
     "news_columns": [
       "geopolitics",
       "trade"
@@ -13034,15 +13034,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.18,
+    "news_score": 0.3,
     "news_title": "Japan can be world's best, says outgoing coach Moriyasu - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRWxqdFJwVHdFS2V2WU1QSkdqS2pMY2VqUmNvS2NEdExTQnU3YjdwWnVBTXdxZ3hvMm1DQkJpc1Etd3JQcEtHYjBKUnhNUkRmQklsVXJfU2lycjdtUHJvNmhya3FtLXR1aUdodFZJZWhGZTBHTVBkdFlXcVhoamE1ekMtdUpGWlVSd2ttWUJGbVlHSHFzQUNkSUtBMXNPWWZxejM0?oc=5",
     "news_image": "",
     "news_source": "France 24",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "ufc_ranking",
+      "mma"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13564,7 +13564,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.45,
+    "news_score": 0.44,
     "news_title": "'Ain't nobody coming to save us': Clemson's spiral hits new low in loss to Georgia Tech - CBS Sports",
     "news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWGZBRUdaMjUteEl5ZGJ0YkxVZmpfNThwb3I3NXJ3MTZMYnc5Rjk4aWE0NlpLY0FuRUpMRGRzd2hSTVZvbVVsSTZPTlhibTE5X2ZDWjJ1LU5Za3ZHSEhFeVphLWYtdHZleVNLSjQ2dnRVLWFyQ3kyQ0VIeE1id21zN1pLdURONE9hWkRBVWJRYkQ?oc=5",
     "news_image": "",
@@ -17390,15 +17390,15 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.8,
+    "news_score": 0.81,
     "news_title": "Live Updates: Netanyahu says it's time to remove Iran threat \"once and for all\" - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
     "news_image": "",
     "news_source": "CBS News",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "geopolitical_risk",
+      "conflict_index"
     ],
     "bottom50_wealth": null
   },
@@ -18122,15 +18122,15 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.57,
+    "news_score": 0.58,
     "news_title": "Live Updates: Netanyahu says it's time to remove Iran threat \"once and for all\" - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
     "news_image": "",
     "news_source": "CBS News",
     "news_age": "3h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "geopolitical_risk",
+      "conflict_index"
     ],
     "bottom50_wealth": null
   },
@@ -19252,7 +19252,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.19,
+    "news_score": 0.26,
     "news_title": "Japan can be world's best, says outgoing coach Moriyasu - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRWxqdFJwVHdFS2V2WU1QSkdqS2pMY2VqUmNvS2NEdExTQnU3YjdwWnVBTXdxZ3hvMm1DQkJpc1Etd3JQcEtHYjBKUnhNUkRmQklsVXJfU2lycjdtUHJvNmhya3FtLXR1aUdodFZJZWhGZTBHTVBkdFlXcVhoamE1ekMtdUpGWlVSd2ttWUJGbVlHSHFzQUNkSUtBMXNPWWZxejM0?oc=5",
     "news_image": "",
@@ -28461,7 +28461,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSHdvaWRGajFZZmFpZVJmQkcxR2loallEMDRzZHNuVndRMnRGSXA4OC15QmYwTjZiMFR3YmhidDk2OXV5VW9qZTBGNW9kSkFYOEdlN2wxcU94SjgzeEtNSFowaS12c0tIcFhyeGE2bGtqY3NJdmFzek5rWHBjdThBN2plTFh5WjNXd0h6X2IyWk5sdw?oc=5",
     "news_image": "",
     "news_source": "Head Topics",
-    "news_age": "67m ago",
+    "news_age": "69m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -42534,8 +42534,14 @@
     "news_source": "City of Toronto",
     "news_age": "15057h ago",
     "news_columns": [
-      "fifa_ranking",
-      "fifa_w"
+      "ncaa_football",
+      "cfp_ranking",
+      "ap_poll",
+      "ufc_ranking",
+      "mma",
+      "geopolitical_risk",
+      "conflict_index",
+      "space_tech"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43451,12 +43457,12 @@
     "union_rate": 56.6,
     "union_rate_rank": null,
     "fifa_w_rank": 40,
-    "news_score": 0.84,
+    "news_score": 0.87,
     "news_title": "World Championship Final: Australia vs Venezuela - ballysports.com",
     "news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk5lTXJvTVR4b2Z4dGhCanloU2d4YXY3QVNJUkNUTDJxNmZTLUp5bklnQnI4d0hGV2MzNUl6VVhxTk9ZOGRxRjhqeDRQYUlsSTJ4SjlRVnl5UnlFOTBNYkMtaFRQNGZOQmNCbWgwX0FPTFpHazdhTkNBSmUtNHdnMHRkdlJfVUNFejFUTV91a1R0VC1PYl9hS2hMbE9UTXZtTjNKazlKQWM1a2oxVlE?oc=5",
     "news_image": "",
     "news_source": "ballysports.com",
-    "news_age": "12m ago",
+    "news_age": "14m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -43736,12 +43742,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.75,
+    "news_score": 0.74,
     "news_title": "Improving institutions and unlocking resources for science, technology, and innovation. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTnAyZVlTUGYxMEtIQ2xlNlBqZkdZNm9CTGR4N1c0OUpJd0p2eUs5X3htTlZLcjZKSWYzWk9RMnVnZF9icU05RUV2Q2tqRUtqTXc5bm03UGVYbXEtNlBZNjdSaXBmci0wUkdFc0k3dUNCeXQzRUg0d3V5bDJUYkdXaGV5azlMV0Z0bExldHJwOHJUMVVnZzhuc24xd1A5d0E4VktTaG44Y0hoNXh2?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "72m ago",
+    "news_age": "74m ago",
     "news_columns": [
       "fifa_ranking"
     ],
