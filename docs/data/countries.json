@@ -402,7 +402,7 @@
     "union_rate": 77.0,
     "union_rate_rank": null,
     "fifa_w_rank": 54,
-    "news_score": 0.54,
+    "news_score": 0.53,
     "news_title": "[[[Fox^Sports]] Albania v Belarus Live Today 15 November 2026 - Universitat de Barcelona",
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQZFlhTDNJTEItbDhtNk1HYWZ6WkhmeW1Rdkw0N0VLUUlkcDd0RHBPeHZ0R3R1ems3ek1tMGMxRVdWc1gxclRyYjdmcUMycVN2QkpNVmxoU3FZbXF0djc1MzA1UHNaTmFFZDhfMmpUR3E0WTY5Rlk3aGExMDZUbjNtT3NRYk85MGdHdHZ0Ykd1UlpYWFNDVlZyNXRfTzBMWmdSQTdWQXVEVllsMTRhU1NHVm1wVkp3VzZpTmF2QXhweWxmR3hzMHFkczRvbkc5RzBTUG80VzV0a0NwRzBGajlVYWotenJKQ3M3amZTNGNzUWIza09nSGdoZXZGd25Zckw1TzNCdmxBaEZLM2xjeTcxaVd6ejFHNV9OcVE?oc=5",
     "news_image": "",
@@ -2562,17 +2562,16 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 6.68,
+    "news_score": 6.45,
     "news_title": "((SPORTS LIVE TV)) Scotland vs Australia ＬｉｖｅＦｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 15 November 2026 - Universitat de Barcelona",
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNQm5icDFtdDM4T0oxYWNlSW9TSnc2bUliTV9wbWxxOWxqdm5RTjFuZWhmbklXZ29hYUxJLUZCUHVKUV83YU52YzgzdzQ1dEpMMUhnX1kxTTRCU2hibUdxTGtodDd2VXRkRGZPN2ZIb0hreWIzTVZKeWFQaWR3dS1vVWJyN2hMTmlwM2ltUjZDM1QwTVIxU18tMG1CUW5BRXlUY3E0VkkzNmIwY1J0dzlFTWVURUU1X3JKRzdiQlJZM3p6WEIxVTVRTmhWMHhLNDY0enJtb3VSWk84R2h1Y3dHZmduOEVrNDRKR01mbzVzNXFNSTFXNTZIaTJWbnNwY3hQUFRBNzY1ZF9XT3ViT1U2OW4tVl80NnNJM3c?oc=5",
     "news_image": "",
     "news_source": "Universitat de Barcelona",
-    "news_age": "23m ago",
+    "news_age": "25m ago",
     "news_columns": [
-      "rugby_league",
-      "rugby_union",
-      "world_cup",
-      "tennis"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -3063,15 +3062,14 @@
     "union_rate": 72.9,
     "union_rate_rank": null,
     "fifa_w_rank": 80,
-    "news_score": 0.78,
+    "news_score": 0.77,
     "news_title": "Iran targets US military base in Bahrain with drone attack - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54d1BneWo3NFRhV3MxVkVJa1p4SXJkTE5rbFZvUTVTWkM0UDFrVWp2WWloenJjMmcwTDBKdkV1N3QtRVgxWV91NEpXN2pCbUxtTFNaSjBQM0t6dEk?oc=5",
     "news_image": "",
     "news_source": "BBC",
     "news_age": "2h ago",
     "news_columns": [
-      "geopolitics",
-      "security"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -5163,12 +5161,12 @@
     "child_labor_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.51,
+    "news_score": 0.65,
     "news_title": "Brazil U17s touch down in Doha for the World Cup - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU2FJeERYSWJmYkNrZVpRTklSZ0FxZjJGSVhMMlVOYlVXVVUyM3FhbHpOYm00V0loUzZST05ybjl1RnVGempxdHc3bXdJNkUxVC13WlZxUjNrdFRoQXBKQjQzWUdUcE5Za1lQZmliRXVyZzZ3bGJxeXZjcjBFazFLNGtR?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "3m ago",
+    "news_age": "5m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -8030,8 +8028,7 @@
     "news_source": "Financial Times",
     "news_age": "12h ago",
     "news_columns": [
-      "tech",
-      "ai"
+      "fifa_ranking"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -10950,19 +10947,19 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.83,
-    "news_title": "Iran targets US military base in Bahrain with drone attack - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54d1BneWo3NFRhV3MxVkVJa1p4SXJkTE5rbFZvUTVTWkM0UDFrVWp2WWloenJjMmcwTDBKdkV1N3QtRVgxWV91NEpXN2pCbUxtTFNaSjBQM0t6dEk?oc=5",
+    "news_score": 0.69,
+    "news_title": "WEF meeting to spotlight Egypt economic reforms, investment prospects - Economy - Business - Ahram Online",
+    "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdV9ZS3RITlVmeHdrUXJweGN3dV82TkllVU9pUlZGamVjTE5kUU02YVV0MHUyUV9EMGVrVERabXdCa2hlQlN4bDRhVGJxQjdIWWlROVo3OWExeHhNdjFLQzdyalJscWc5THJJT3I0MFktTFVrRFZ1dEtha09QRVAyTWFxd05idkFWTEhHVXpDNmJRZm9XVGI2UlVxM1dpcUs2X3U0ZmdkUi1Zcms1OU9mdGR3cnhHQ2lMLS1tRzcydk42UVU?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "2h ago",
+    "news_source": "Ahram Online",
+    "news_age": "3h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "gdp",
+      "gdp_per_capita",
+      "inflation",
+      "unemp",
+      "exports",
+      "imports"
     ],
     "bottom50_wealth": null
   },
@@ -13570,7 +13567,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.4,
+    "news_score": 0.44,
     "news_title": "Black voters helped Democrats win in Georgia. Now they expect to be heard - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUUdqWFh6V0NmOWhKRWk0VnUxTTVYNXhlV1p2bWZDbnZmdUZ2djNWZWhoUDJtSXFEbVVKRkF6QWR3OWI4MDhaV3dvYkFYQ3pQSmRxS0pjZVI2Vnl3dENEbXZoS2R2YVZ1dVhYMFVHZkJvU0tIV0RoR1VWVE9SUUpuTVZMSy1WNlRWTG1qQXRaYw?oc=5",
     "news_image": "",
@@ -14072,12 +14069,12 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.88,
+    "news_score": 0.85,
     "news_title": "Aidan Hutchinson injured celebrating after sacking Drake Maye in Germany - NBC Sports",
     "news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTzg1RmlDVGp5WC1nTE9EYnRLZkFISDFhU0FxTlQ0WmlETkZhYVAtdnZvM1NMZUdoOUo5WE1PQUo3d25VTkV6Skk3c3psSkN5M3VMRnhWVkdPbThQNHNUWm1pMDFUZ202cHNRUUJMeldES0N1ZXFPakQ0T3JrdVFPZFhPaDVPeWU5cFhGYzFRdHFWVmF4a1U4cGhLMGt1TGthZUJ6a3dCNDV2a2Z5OUQ1MFFlY3F5ZzlZZUNGb1BVR2E5Y0pfVE13anl5Vk52bVk?oc=5",
     "news_image": "",
     "news_source": "NBC Sports",
-    "news_age": "57m ago",
+    "news_age": "59m ago",
     "news_columns": [
       "democracy",
       "press",
@@ -17396,15 +17393,14 @@
     "union_rate": 45.0,
     "union_rate_rank": null,
     "fifa_w_rank": 55,
-    "news_score": 0.78,
+    "news_score": 0.77,
     "news_title": "Iran targets US military base in Bahrain with drone attack - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54d1BneWo3NFRhV3MxVkVJa1p4SXJkTE5rbFZvUTVTWkM0UDFrVWp2WWloenJjMmcwTDBKdkV1N3QtRVgxWV91NEpXN2pCbUxtTFNaSjBQM0t6dEk?oc=5",
     "news_image": "",
     "news_source": "BBC",
     "news_age": "2h ago",
     "news_columns": [
-      "geopolitics",
-      "security"
+      "fifa_ranking"
     ],
     "bottom50_wealth": null
   },
@@ -18128,7 +18124,7 @@
     "union_rate": 74.4,
     "union_rate_rank": null,
     "fifa_w_rank": 53,
-    "news_score": 0.05,
+    "news_score": 0.08,
     "news_title": "After Decades of Blood and Mistrust, Doubts Over Who’s to Blame for an Israeli Hostage - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOGRYOUx0YXZ4S2tHQVhmYWZUWUpzamk2dEpVNjhYREQyV3E1WmRsa0ZLM3lMUGd3MF8zTmltQ2FWQU1DT1liQ2VSRFNtWF9xSF9JR1pOZzJwSUhSNUZDSTF1azBXbWtWRkhJWHR4eUFtb3lkaTJXSElUUjZBQzNvWk40MG5vYnRFU1JkS1MycjhrbmpjTGNnWg?oc=5",
     "news_image": "",
@@ -19448,19 +19444,19 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.7,
-    "news_title": "Iran targets US military base in Bahrain with drone attack - BBC",
-    "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54d1BneWo3NFRhV3MxVkVJa1p4SXJkTE5rbFZvUTVTWkM0UDFrVWp2WWloenJjMmcwTDBKdkV1N3QtRVgxWV91NEpXN2pCbUxtTFNaSjBQM0t6dEk?oc=5",
+    "news_score": 0.54,
+    "news_title": "VIDEO: McLain Ward tops the Longines FEI Jumping World Cup™ Toronto with Jordan Molga M - World of Showjumping",
+    "news_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSm9MQkN0M3kyN1IyeFNHS3lYal9FVk1QN093a09SbEkwX3JQM3VqenpHcnBYcUstR0pnNVdTUlZrRDY3THVvakZFQ2xpMWJwTmhhdGNLMGJteEtDV3lTSlVwTjdxWGR0YkN6TjdmTzM1RG52Smo4SWlMeXBRQ3ZoNFN0ZjFLTk8wblJ2MTJVeTgwMDVzN1dsaEdSN2pEV3I1WUtKWmNsd1hUYkZ5TVp6aGx3dkRJd3pDZm0wcjFBN1RXQzA1OHZNdVl5S3N1V05DUnA1cTVac1VEQQ?oc=5",
     "news_image": "",
-    "news_source": "BBC",
-    "news_age": "2h ago",
+    "news_source": "World of Showjumping",
+    "news_age": "5h ago",
     "news_columns": [
+      "fifa_ranking",
+      "fifa_w",
+      "olympic",
+      "basket",
       "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "nuclear"
     ],
     "bottom50_wealth": null
   },
@@ -27815,16 +27811,16 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 3.81,
+    "news_score": 3.77,
     "news_title": "Clinical Australia dominate New Zealand to win World Cup for 13th time - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMi1Pb2dzMlp6MEI3MTlsQ2RzMzM2eVB2bTFoV0FqLW9CZF9RUTdPcnRkQ25Ndm9DdFNOcm0wQTVsSGpxSkQtNndUSkdjM25lUW10ZG5FcjAzYk51R2hER0NJQTMybDdseWpkd1I4cngyZHpwLWpHR1FJZlQxcnFoMWdaLXpEN1o5RTA3cnBtX1NkYWdkSEtiRlMydXpVcUp0WWgzRWVJZlYtOHZ2V2VVdklySnl3eEZMd2ZV?oc=5",
     "news_image": "",
     "news_source": "Reuters",
-    "news_age": "68m ago",
+    "news_age": "70m ago",
     "news_columns": [
-      "rugby_league",
-      "rugby_union",
-      "world_cup"
+      "fifa_ranking",
+      "fifa_w",
+      "olympic"
     ],
     "bottom50_wealth": null
   },
@@ -28466,7 +28462,7 @@
     "refugees_rank": null,
     "union_rate": 83.3,
     "union_rate_rank": null,
-    "news_score": 0.02,
+    "news_score": 0.0,
     "news_title": "Nigeria Stock Market Faces Liquidity Constraints Despite N160 Trillion Valuation - Head Topics",
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkNULXpEMHd5QjhOSklodnl4SUFBQUNxWl8zd0tGWHotSEFRR09CYkFfMTRHZW9fMGdhLTN1eHVIY2lZdk9tcVhfQ1hBRDJILWhWUmVSbm9Qb2l2Y1ExazFVZTlINjBMNGZWeDRzeGp2bEJqLXF6amwxMGUwX1RYOTNramxMR2VmT2FNRFVNYkpLRmtPVTlXdFpDMlc?oc=5",
     "news_image": "",
@@ -36718,7 +36714,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.71,
+    "news_score": 0.7,
     "news_title": "Branthwaite, Garner and King omitted for Spain game - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcTlVWk50d0hEMkxENlRjT2w1WGtzcjliQ09VNjl0bFVIa3Q2UUh0S1BoUFZJNUU2X3lqNk16VjVzSVpWOXpxbXRGLTZTc1A3V2x0NnpneTJNWmRrckx0Njk4Y20zTFpWaDlNTHZ3WGRuZzBRbVU4NTg2ekZhM3pIZUxSelBwUXJQR1JOX2hGQQ?oc=5",
     "news_image": "",
@@ -41257,7 +41253,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.14,
+    "news_score": 0.13,
     "news_title": "U.S. floated exchanging Ukrainian territory for NATO membership, Zelenskyy says - CBS News",
     "news_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04V3RucGdlaGp6dm03UnM5TmRsMTQyVTBSZ1JxOHc3ZGJDeFRMOUFMUWlFR21wR05kaXJqcENqZG5URXJrMVN4MnMxVUU4UDhYNW05X2FVbHdyVzVZa3pSZk1NZFFObk0tZThid1RSX2g?oc=5",
     "news_image": "",
@@ -42537,10 +42533,9 @@
     "news_source": "City of Toronto",
     "news_age": "15069h ago",
     "news_columns": [
-      "nfl",
-      "fantasy_football",
-      "geopolitics",
-      "security"
+      "basket",
+      "fifa_ranking",
+      "olympic"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43741,12 +43736,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 1.26,
+    "news_score": 1.25,
     "news_title": "Hanoi is gradually putting policies to promote science and technology into practice. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa05PZlp2aGJWQ1dDS1JmSUgxOUVHdnhqX1dIeEs5MFpEQmlaczl0RWkwTzB1VU5kb2hMel9JWGl5S0FtTnhpTTdzVE5aNl8xUzNVWU5UdS1kVndLZmd1S1ptaENxQXNSNnFnRl9JRjBPUTBHTG50MU9OQjQxVm1aT2tPR1RTMUxmdndTMXdhZU5zUmc5bjIxNVJFSmF1MnZVdVlBemRn?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "63m ago",
+    "news_age": "65m ago",
     "news_columns": [
       "diplomacy",
       "economy"
@@ -44271,7 +44266,7 @@
     "union_rate": 34.0,
     "union_rate_rank": null,
     "fifa_ranking_rank": 119,
-    "news_score": 0.48,
+    "news_score": 0.51,
     "news_title": "Iran targets US military base in Bahrain with drone attack - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54d1BneWo3NFRhV3MxVkVJa1p4SXJkTE5rbFZvUTVTWkM0UDFrVWp2WWloenJjMmcwTDBKdkV1N3QtRVgxWV91NEpXN2pCbUxtTFNaSjBQM0t6dEk?oc=5",
     "news_image": "",
