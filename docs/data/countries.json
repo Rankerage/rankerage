@@ -2556,16 +2556,15 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 2.36,
+    "news_score": 2.46,
     "news_title": "Australia v New Zealand: men’s Rugby League World Cup final – live - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOXzgwdkVtNkRfU091UlRMOFJlVERuMjZwaUR3TEVjVldqekhXanVmZEc5THl4LVYwZFVJY2cwNV80VzJCaTIyUTBTeENVay1MclRmbXdDZTNYWmZpN053Y01ENFVHdnRuWnBjN2wxalJQZ1VwZVJpTkE1VXJJMmlGUEdYaWxtWnN3RjVLTFV5MzFEUXI5Mzd3MlFBN1o4TDlhZnlLUGJSWldoNVZYWmU4TmVPckd0RGN4ZU1ER0kwS25oTGl1cGRBT2Vra2dnVGFncmdUbA?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "29m ago",
+    "news_age": "31m ago",
     "news_columns": [
-      "rugby_league",
-      "rugby_w",
-      "world_cup"
+      "rugby_ranking",
+      "rugby_w"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -8018,17 +8017,14 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.65,
+    "news_score": 0.59,
     "news_title": "The world according to China - Financial Times",
     "news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjFJU0l0RDAwQ2FiRlJ5TWI4UnFSYzJPT2tTXzhydHU5ZEt1LVRseXY2aHByQ2FSdmpVWC00ZlpSc0IwX05rYkhpQkZrejd5dlREeDVHaHV6eXdaUllhSktGa3Q2YUk3aFBxQWR3R29zakdzVy1oZjlpSF9PZWo0d0h2aFc?oc=5",
     "news_image": "",
     "news_source": "Financial Times",
     "news_age": "4h ago",
     "news_columns": [
-      "tech",
-      "market",
-      "ai_index",
-      "geopolitics",
+      "diplomacy",
       "trade"
     ],
     "bottom50_wealth": 6.4,
@@ -10948,7 +10944,7 @@
     "child_marriage_rank": null,
     "union_rate": 47.4,
     "union_rate_rank": null,
-    "news_score": 0.08,
+    "news_score": 0.07,
     "news_title": "Egypt calls for easier climate financing for developing countries - Economy - Business - Ahram Online",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1M3RVhWWnB4TU1KREpveWFSU1I2aXRGRGRJNUZ3WURHTGwxX1NseWZNeFB5Z1RZRm9OUkpnX0NKd3NaeUZPaS1LZjFwRkp1U3puanBOQWllWTAtY0tXbFg5YkNqNTJueF9nMHhhNkFzdlFZcjY4U205QUxlSk1wNTRGRUVsaFZPREpOOVpIYWhVVnBHbzNkOUVoVXlOSXFfUlJnNVprYUk5RDVETi1RN2FiX0xnRWNLQ0ZSWW1IdDdxNGs?oc=5",
     "news_image": "",
@@ -12537,7 +12533,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2hsUlBpZFYxeUxTU2VRX3ZJa0Rhc3J6ZERIcnRhdmg4S3lzVk9aNjM1U2ZoSDMxbU92N3E5ODk0RHVQbVBzNkZiZGVNQkJUdmtGdnZBUUlEcl9rTEdBakFjdmJUbV84TG15WmR3c1VWVVJSNE0zZzFYWThXcTh5YzJhWW83WmZ4eGtrWG5HYw?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "2h ago",
+    "news_age": "3h ago",
     "news_columns": [
       "earthquake_count",
       "earthquakes",
@@ -13038,16 +13034,15 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 1.58,
+    "news_score": 1.57,
     "news_title": "Australia crush New Zealand 34-10 to win Women's Rugby League World Cup - France 24",
     "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSTdvWUNPZlNUZTlaWl9VNFJ2Smc5VlJUdTV2YlJGUWxQN241eXRjeC1jX1BtZzNQcF9nTGJMZzI2SkdySFplbWlsSlhlREtKYTRZNE9EQTZaTmtsQ0d2ZWhlbUpMdXUxOGtoWnlHcTRjYWVUYXZTbHg0VUd4eUM4QmY5eEhsZTJDUzlxOGNqUDdHV2p4QlZfR2wyYXNDMEJWMmxYTkJnTnJtcEl5dWRzMFNoc2t2LTRvMlE?oc=5",
     "news_image": "",
     "news_source": "France 24",
-    "news_age": "36m ago",
+    "news_age": "38m ago",
     "news_columns": [
-      "rugby_league",
-      "rugby_w",
-      "world_cup"
+      "rugby_ranking",
+      "rugby_w"
     ],
     "bottom50_wealth": 3.8,
     "bottom50_wealth_rank": 14
@@ -13569,7 +13564,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.21,
+    "news_score": 0.16,
     "news_title": "Georgia/Missouri Live Thread - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUNtYzlMSDVZNWtpcTVwOS1QMGtkb2t6Mkt0dUItTkxWRGVtcTBQLWl5cjdSNTQwdmJRZVlGT2hTakIyODBmLU13V3lhdldob0dibDFUZU04U0xrSndmb295cHI3Z0hCZE1RcFBJNnkxRGZoNU9XeVFwb01lVUlEQVdPOA?oc=5",
     "news_image": "",
@@ -15881,14 +15876,14 @@
     "fifa_w": 81,
     "fifa_ranking_rank": 124,
     "fifa_w_rank": 62,
-    "news_score": 0.25,
+    "news_score": 0.26,
     "news_title": "Exclusive | Hong Kong sending who’s who delegation of business leaders to Apec CEO Summit - South China Morning Post",
     "news_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWjdJa3hvcmFHb013TmFyXzZoSGdkcTlLd2tneU93SmQtQVhYMEFHS0NqZ25obXMzblphWURoNHlkeDBNSWhRODE3Nl94dzJKYXFZV3IzRG1CUEFmaUlzUEJnd2tpT01EZDlrMEprZ3c0QlJjNmd1R3lWQXdQSGJEZ2hCVHhnN29MQW9oRDExT3NhZWtXQXpIYUNGMnVaTUZNeWJRUmtfRzJzc0VaX1RZT0VpVkgtcWJFcVV5Rmwwd3pPUElBSXRkU2JBWU1rZmpwb3VkUHpNZ9IB1wFBVV95cUxQN2JpTmtMdFFuZ1VUeGNIRElTZGFRNFV2VGFxaFloZm50eXJtMkhQd2xmMlJVeGtaZW5sRFZJakc3YXRCa2xaWUxxd2R3VjFnQWZvb1pKXzFielJsYnpGZWgwSFI0UW91X1M5QklNQ05FdzhPYTBBMUZVQnZHTUlyNk55elJsdlNfdjNvWkNmS05HSXVma1M3ZFBPRE8yMXJlcUtIX2pnRmRtVGtiM3NnLVNjTUFuRjU0Z2FJZUp3WnJsV1NaaUZOTG9OSkd2SVc3QTRuRnc5VQ?oc=5",
     "news_image": "",
     "news_source": "South China Morning Post",
     "news_age": "5h ago",
     "news_columns": [
-      "geopolitics",
+      "diplomacy",
       "trade"
     ],
     "bottom50_wealth": null,
@@ -17399,7 +17394,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGo3OGMxN1ZNYy1FT1NCeF9OVHEyVjJjTlpJVzJHV2Ezamt3MFJkMDc0aUJlLUp3alBQZ200M2VRNWp3NXNkSllocERrOGxWUVBZNEp5VHkxVHJqcFVGeExLUWk5c2QxbHJsWVZIQnp1RFhULXktVHJQb3Nja3dWcFpkTWNZM1JhUGd3MUdSREpCYlJTSGw3TUl5UFFoR0tqWWxyTTdSZk96Z9IBrwFBVV95cUxOYlBrSExJX0JtT1R4MTlVUzVLVFFlZUllUFZmR29fNnNidkEwaFF3SEpkRDdKTDhsWUlTYURSdHBRd1E2V0pKZGRfbWpLS2hiZlEzUTc0SW1wT0JxMzRaMDlicVVQcXVJeGtRcGl1Y2hodkZ6cC15R095ckpuUU81RUJTd3FwSG5qNTRyN1piRlJPWF9rcjVKTnJwNldseVYyQ0VMYjdDcnZPRXljclo0?oc=5",
     "news_image": "",
     "news_source": "Al Jazeera",
-    "news_age": "93m ago",
+    "news_age": "95m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
@@ -19259,7 +19254,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.28,
+    "news_score": 0.26,
     "news_title": "The COP31 talks showcase a disastrous post-American world - The Japan Times",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc2JycGh1aEtvSGwtRjVzSlZWSERHWEJjUFk3czkyTGdMOUh0NVVFdEpSYkViMVptQXJpX2lCWjh2TWYzaTZlbks0a0I0c2oxREdHbUVVN01KeUcySnB6RGhxeFc2OGZ0WWhEUTQxV0tXN2VpNjVSV2x3M3NVd0NOZi1zc3NlbDA0Z0o1cmc0RUJ5RVJvX1FTbUNn?oc=5",
     "news_image": "",
@@ -26352,10 +26347,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDBRRS1KbTJxMzRiTlFFQnFlNW1uVk9jVWp0b2wtZ1VGNlJLTlFwaFo0SjFkbEM0djZyQW91M3lsN1lYTk00Qkw2VTJraGxZQWlHclF2YjhiVWJLUHlrMjFjdVB2M3M2SW9WMERERXR6NktITmNUNVpWdUZzVmlHWQ?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "111m ago",
+    "news_age": "113m ago",
     "news_columns": [
-      "human_rights",
-      "geopolitics"
+      "icj",
+      "human_rights"
     ],
     "bottom50_wealth": null
   },
@@ -27809,11 +27804,10 @@
     "news_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOXzgwdkVtNkRfU091UlRMOFJlVERuMjZwaUR3TEVjVldqekhXanVmZEc5THl4LVYwZFVJY2cwNV80VzJCaTIyUTBTeENVay1MclRmbXdDZTNYWmZpN053Y01ENFVHdnRuWnBjN2wxalJQZ1VwZVJpTkE1VXJJMmlGUEdYaWxtWnN3RjVLTFV5MzFEUXI5Mzd3MlFBN1o4TDlhZnlLUGJSWldoNVZYWmU4TmVPckd0RGN4ZU1ER0kwS25oTGl1cGRBT2Vra2dnVGFncmdUbA?oc=5",
     "news_image": "",
     "news_source": "The Guardian",
-    "news_age": "29m ago",
+    "news_age": "31m ago",
     "news_columns": [
-      "rugby_league",
-      "rugby_w",
-      "world_cup"
+      "rugby_ranking",
+      "rugby_w"
     ],
     "bottom50_wealth": null
   },
@@ -28460,7 +28454,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkNULXpEMHd5QjhOSklodnl4SUFBQUNxWl8zd0tGWHotSEFRR09CYkFfMTRHZW9fMGdhLTN1eHVIY2lZdk9tcVhfQ1hBRDJILWhWUmVSbm9Qb2l2Y1ExazFVZTlINjBMNGZWeDRzeGp2bEJqLXF6amwxMGUwX1RYOTNramxMR2VmT2FNRFVNYkpLRmtPVTlXdFpDMlc?oc=5",
     "news_image": "",
     "news_source": "Head Topics",
-    "news_age": "93m ago",
+    "news_age": "95m ago",
     "news_columns": [
       "gdp",
       "gdp_per_capita",
@@ -33123,18 +33117,18 @@
     "union_rate": 76.1,
     "union_rate_rank": null,
     "news_score": 0.06,
-    "news_title": "Trump, Putin and Xi Jinping expected to meet in first-ever trilateral of its kind, officials say - CBS News",
-    "news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdHZwdDRwcjhOU2d0Z3Iwa3hzOENQN0VFMDZDbGtaSmU5LUtqYURrdUJuMkFBRWJsekdpaGIxWmxuX1h5dzRadUt1TnFOVXUtdWFfZVoxTjJtd0ZrdE9feGtFUUZzb3gwUGxTR19iZWVWcU4xUjM3eFRDU1NZQjAwMXh4M1RlaWxSU0E?oc=5",
+    "news_title": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says - CBS News",
+    "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQ1hLMTNVb094dE1lVlNkWWdtNXVYQjFqUUQ0Q0xkR0s1VnFzUExZQVVlVEZLYTNIUWN3cWoxa1dIM0xkc0docFNONklpRTZ6UFlTb3hLeFJxWC1feVRscDJMSWZaazQ0YzQwRVNyTDNqYUdiMUszLQ?oc=5",
     "news_image": "",
     "news_source": "CBS News",
-    "news_age": "20h ago",
+    "news_age": "9h ago",
     "news_columns": [
-      "gdp",
-      "gdp_per_capita",
-      "stock_market",
-      "reserves",
+      "military_pct",
       "nuclear",
-      "nuclear_power"
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -36715,12 +36709,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.88,
+    "news_score": 0.89,
     "news_title": "Spain v England: How Unai Simon became world's best goalkeeper - BBC",
     "news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BeGRNUjZZOEpMdUdOOVE5TlRrZ0VNNmRXTUJicllVYUx0cHJFbWJkVlFkckZtNy1FVlNQZGxsM1huWEZrWVlhT003U3NPMndoMURoVnAyczRWdHBvdFVwaXF2bEJvcnlD?oc=5",
     "news_image": "",
     "news_source": "BBC",
-    "news_age": "22m ago",
+    "news_age": "24m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -39094,15 +39088,18 @@
     "refugees_rank": null,
     "union_rate": 75.8,
     "union_rate_rank": null,
-    "news_score": 0.25,
+    "news_score": 0.18,
     "news_title": "Thai Chamber of Commerce presents six proposals for economic reform - Nation Thailand",
     "news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwWEk3N1BNaFZlU0lkUks5M25tTGFBZ1NjUDR2WHkyWnRpVU5EcjljUUxRWnp1WlBUdmkybHc1VFg3VHlOTk5FQ01SWjItalFjdEFNMks4RWV1RGp4cXVyblM0ak8zSlk?oc=5",
     "news_image": "",
     "news_source": "Nation Thailand",
     "news_age": "5h ago",
     "news_columns": [
-      "geopolitics",
-      "trade"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": null
   },
@@ -41251,19 +41248,19 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.07,
-    "news_title": "Zelenskyy says a new European security framework floated by U.S. could benefit Putin - PBS",
-    "news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVJaNmpaaGdfSkd4dWhzZE8wMEx3dFZha3JtM0FZanNic0tnbEh2dXhaUm9kUkRtMi1mWnVCNVFXSU85VV9wVl9qd1A3cVhxQTBpaDg0djlmMkhRc1JNQm1KOFBxMExkSU5iOXB5RUJvcEFHb3kxcnhRZ3plY095UFN0SFFNYkYyVHVUQ0hjYWZpckpFWGVGNjJXaFlHVlRDODk4dy0tdDkweUx4N2h1OTgzdFV2MEtlaWfSAb8BQVVfeXFMTVEyNzBjU1YwN0lpendMNWhrNldxTUlLZ2VWSHRlTDVJcG15TUNrZHBNdmZFcnBwTlFZMk9LYmlCTVB4cEV1UUVCYzB4YUVlNHI0eFFNczExVlZaVjIwREFPN0IyanRDTXFBVTFDTnRmSFFSVzVWMHVZRHhnSGpCSndNak1sa0cxc1lRWUFDZEs1MU1yQUxmSzJhZFRqTEdybFJtS2Q0ZXVUYTFQMTFUMjktNFpYQWV0al9US2REQ2c?oc=5",
+    "news_score": 0.06,
+    "news_title": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says - CBS News",
+    "news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQ1hLMTNVb094dE1lVlNkWWdtNXVYQjFqUUQ0Q0xkR0s1VnFzUExZQVVlVEZLYTNIUWN3cWoxa1dIM0xkc0docFNONklpRTZ6UFlTb3hLeFJxWC1feVRscDJMSWZaazQ0YzQwRVNyTDNqYUdiMUszLQ?oc=5",
     "news_image": "",
-    "news_source": "PBS",
-    "news_age": "11h ago",
+    "news_source": "CBS News",
+    "news_age": "9h ago",
     "news_columns": [
-      "nato",
       "military_pct",
-      "gdp",
-      "ai_research",
-      "internet_pct",
-      "patents"
+      "nuclear",
+      "military_personnel",
+      "gpi",
+      "arms_export",
+      "ai_research"
     ],
     "bottom50_wealth": null
   },
@@ -42532,13 +42529,11 @@
     "news_age": "15061h ago",
     "news_columns": [
       "ncaa_football",
-      "cfb_ranking",
-      "college_football",
+      "cfp_ranking",
+      "diplomacy",
+      "trade",
       "tech",
-      "market",
-      "ai_index",
-      "geopolitics",
-      "trade"
+      "markets"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43739,7 +43734,7 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.75,
+    "news_score": 0.74,
     "news_title": "Science and technology open up new development opportunities for Ca Mau. - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRkhsVjV6dy1kSnRGTEJ1T2o2bzZveWFzT0JJZ18wZm5JaXhLVUFxUmlLeHVab3JBS1d6YzIxVDVQV3N1bi1UVTRQb0hobjlVOFZ5VjdRUnU0VHB5RU8zUExkRlF1QlRZeTQ0WFBhcXN4RkRSeWhwU0RlWnliZGxtZkdZR0ZXUUhyWjZpaQ?oc=5",
     "news_image": "",
