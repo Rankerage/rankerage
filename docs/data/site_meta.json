@@ -1,66 +1,83 @@
 {
-  "last_updated": "2026-11-14T21:02:08Z",
+  "last_updated": "2026-11-15T21:01:28Z",
   "total_rankings": 136,
   "total_countries": 197,
   "version": "1.0",
   "update_frequency": "weekly",
-  "global_narrative": "A chaotic sports weekend dominated by an FAA ground stop disrupting college football travel collides with a packed international football calendar, while geopolitical and economic headlines—Trump-Putin-Xi trilateral, Nigeria's reforms, and tech regulation—simmer alongside.",
+  "global_narrative": "A heavy slate of NFL Week 10 action and UEFA Nations League fixtures dominates the feed, while Russia's exclusion from the World Junior hockey championship and a major US flight disruption emerge as the leading non-sports stories.",
   "trending_stories": [
     {
-      "topic": "FAA ground stop disrupts college football and sports travel",
+      "topic": "NFL Week 10 matchups and injuries",
       "entities": [
-        "US"
+        "US",
+        "GB",
+        "SE",
+        "DAL",
+        "SF",
+        "KC",
+        "DET",
+        "NE"
       ],
       "columns": [
-        "fifa_ranking",
-        "fifa_w"
+        "nfl",
+        "football"
       ],
       "weight": 0.9
     },
     {
-      "topic": "International football: Spain-England Nations League showdown and World Cup fallout",
+      "topic": "Russia barred from World Junior hockey championship",
       "entities": [
-        "ES",
-        "GB",
-        "DE"
-      ],
-      "columns": [
-        "fifa_ranking",
-        "fifa_w"
-      ],
-      "weight": 0.85
-    },
-    {
-      "topic": "Trump-Putin-Xi trilateral summit speculation",
-      "entities": [
-        "US",
         "RU",
-        "CN"
+        "CA",
+        "IIHF"
       ],
       "columns": [
-        "fifa_ranking"
+        "hockey",
+        "iihf"
       ],
-      "weight": 0.8
+      "weight": 0.75
     },
     {
-      "topic": "NFL Week 10 injuries and quarterback changes",
+      "topic": "UEFA Nations League fixtures (England/Spain, France/Turkey, Czechia/Croatia)",
       "entities": [
-        "US"
+        "GB",
+        "ES",
+        "FR",
+        "TR",
+        "CZ",
+        "HR"
       ],
       "columns": [
-        "fifa_ranking"
+        "uefa",
+        "soccer"
       ],
       "weight": 0.7
     },
     {
-      "topic": "Nigeria economic reforms and investment push under Tinubu",
+      "topic": "US nationwide flight ground stop and Miami airport collision",
       "entities": [
-        "NG"
+        "US",
+        "UPS",
+        "Copa Airlines"
       ],
       "columns": [
-        "fifa_ranking"
+        "aviation",
+        "transport"
       ],
-      "weight": 0.6
+      "weight": 0.65
+    },
+    {
+      "topic": "Nvidia leadership turmoil around Jensen Huang",
+      "entities": [
+        "US",
+        "Nvidia",
+        "Jensen Huang"
+      ],
+      "columns": [
+        "tech",
+        "markets"
+      ],
+      "weight": 0.5
     }
   ]
 }
