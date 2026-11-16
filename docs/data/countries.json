@@ -2561,7 +2561,7 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.38,
+    "news_score": 0.36,
     "news_title": "Australia overpower New Zealand to win fourth consecutive men’s Rugby League World Cup - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS21KQm9tY1Q4QkQ1NG5hSTVBUGVyZnZsN2NKNFhpVXZYSU55bHJYczhxdWlhWGV6LWlfeUQ5OUIyRVVUWWpQRmRKV2luTTJ3Zm9razZuSC14UEZqUlpQM2Q3MEJWT0xPQkZFaUlfajZqRzhrVDlYNmtGTzNJUXR2dUtxU1RlSllMU2xyYXlCSzB6enBwMG1SbWlpdVdtZnhNWmxoc0QyeHJnOHExeGVoYU5wQ3AxaVRuYU90QVJValJHamVNYUxETVdR?oc=5",
     "news_image": "",
@@ -2569,7 +2569,9 @@
     "news_age": "5h ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 5.0,
     "bottom50_wealth_rank": 9
@@ -6940,7 +6942,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.91,
+    "news_score": 1.97,
     "news_title": "Russia to miss World Juniors over Canada restrictions, IIHF confirms - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMkxDRkFmbXRVd1h3dV84NTF3cDZadjRjYUtqUHpkWXlVVXIzX3lvVXI5Z25BUkR6c0lJLVJpZkQxSzhEWmNZS2RFX1pJZWxkOXMxcHUxVUZvdGZvZDR1SUtMOUNKM2g4RTdEaWJtaE4wX0RacU55SndhaEoxWG1VNGVybFpvMVdwelU2TzhxWHNxbTZYOFlIbGo1QkM4c3c2aVVFWmtudXFxYnhObkYyb05B?oc=5",
     "news_image": "",
@@ -6948,7 +6950,9 @@
     "news_age": "2h ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -8011,15 +8015,18 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.35,
+    "news_score": 0.22,
     "news_title": "Bessent questions did Nvidia \"goose\" earnings with suspect China chip sales - Axios",
     "news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT1Rud2hiNnZiMFQ2RlJYZUxjdkg3UElselZNd0d5Mk5EYVpfazI3NlMxRk1jbEFES1RhcE1QRXpXeThnVTRNcHQ0TURMdjF4RkpHNGpPQ3o0OFhoREpZV3NGaDg3cE9id3J4U3FOcDVLeVI0N1RNbEZ3aDA1WU9ZRG5ZUQ?oc=5",
     "news_image": "",
     "news_source": "Axios",
     "news_age": "8h ago",
     "news_columns": [
-      "fifa_ranking",
-      "olympic"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -13558,7 +13565,7 @@
     "union_rate": 70.9,
     "union_rate_rank": null,
     "fifa_w_rank": 88,
-    "news_score": 0.14,
+    "news_score": 0.12,
     "news_title": "Coaches Poll top 25: Georgia tightens grip on No. 1, Wake Forest enters top 10 in college football rankings - CBS Sports",
     "news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaExvUG9HTWZ0eVBvTXpxeFpCaFZXUlBDNFM0eGF4dzRaUmI3YU1GeW94ZUZLdmVqNEtUM2hGTTZ0N0FrTkdFaGYtQ0dlSUdOUUgyczlPMFhMMFdlcXpZSjBaQVFKWTlZMEpKTkdzelg5aHhJQ0I5d2xOaHBId01OU3FGZ0RmM3JWbEtXODRLWjdIZHJOZ2ZfVlVIQmhPNTJsVElsSkpxUlhEcXc?oc=5",
     "news_image": "",
@@ -19255,15 +19262,17 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.64,
+    "news_score": 1.69,
     "news_title": "Japan to Propose Asian Version of IEA at AZEC Summit Tues. - JIJI PRESS",
     "news_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yTjVYMVVmUVFyYVRrQXpIV1JXdHAtaWVYai1GTFV5ajRHMGpfbzRSQ2xxZ004VjBLdExDekpqZFVra3lLZlloal91UVZEUXp4Uktub0hxN2Z5RjAtNFNPNVhR?oc=5",
     "news_image": "",
     "news_source": "JIJI PRESS",
-    "news_age": "51m ago",
+    "news_age": "53m ago",
     "news_columns": [
       "fifa_ranking",
-      "olympic"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 5.3,
     "bottom50_wealth_rank": 6
@@ -19440,12 +19449,12 @@
     "union_rate": 42.8,
     "union_rate_rank": null,
     "fifa_w_rank": 60,
-    "news_score": 0.33,
-    "news_title": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack - The New York Times",
-    "news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1BkLWlMbDFENjRVUFF4MHpNa0JXTEdmSVN6Zkh5LXUzREFPNktienNqRmRJRTFQWTRuY1ozVnpuUzhJRG5MY0FMQXRjV1IyNmJCdzJfalFYS1JEalRVTS1hYjg4STJUdldQZVBhOHpRWjNzeXIxS2IyYWM0bjVORkI5QUJJOXJGcWhJMUNUblJ2cmNxX3hz?oc=5",
+    "news_score": 0.43,
+    "news_title": "Kirk Cousins emotional after win in Vikings return, reflects on 'tough 3 years' - ESPN",
+    "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUFdFUFpsVEM2eWpGc1R0clhUdEZMdTFNNV9CVWRDSU5XSnZUdUhTZ1dBUkd6enBFUF90dUZDNTQyWVdZMW9LNnZjTy1nSVRlRlUwUWVXbmlNZVE2Z2M2Z1psamExNXJEd0tWQ1JVY1V3czJ0M3A1NUd4R2Nva3l3aUlpei1WekJaYWQzRmJGNWJ0elpnMVVYaWxB?oc=5",
     "news_image": "",
-    "news_source": "The New York Times",
-    "news_age": "4h ago",
+    "news_source": "ESPN",
+    "news_age": "2h ago",
     "news_columns": [
       "religion_div",
       "democracy"
@@ -27803,7 +27812,7 @@
     "union_rate": 82.6,
     "union_rate_rank": null,
     "fifa_ranking_rank": 81,
-    "news_score": 0.26,
+    "news_score": 0.25,
     "news_title": "Australia overpower New Zealand to win fourth consecutive men’s Rugby League World Cup - The Guardian",
     "news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS21KQm9tY1Q4QkQ1NG5hSTVBUGVyZnZsN2NKNFhpVXZYSU55bHJYczhxdWlhWGV6LWlfeUQ5OUIyRVVUWWpQRmRKV2luTTJ3Zm9razZuSC14UEZqUlpQM2Q3MEJWT0xPQkZFaUlfajZqRzhrVDlYNmtGTzNJUXR2dUtxU1RlSllMU2xyYXlCSzB6enBwMG1SbWlpdVdtZnhNWmxoc0QyeHJnOHExeGVoYU5wQ3AxaVRuYU90QVJValJHamVNYUxETVdR?oc=5",
     "news_image": "",
@@ -32319,12 +32328,12 @@
     "refugees_rank": null,
     "union_rate": 88.1,
     "union_rate_rank": null,
-    "news_score": 0.68,
+    "news_score": 0.67,
     "news_title": "TSN 690 has your FIFA World Cup Qatar 2022™ coverage! - UB - Universitat de Barcelona",
     "news_url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNTHhsTmlCUjBEVFFkckFVdDJUZXVhUm9ZUFhTWU1yYUo1SlVieDA2dFlIb0Y1Zmt2T3JNUUh4cHo0aVZ4NDhydEtkNG5SOEpyWTJnY2R3RHVPQlk3bmNIRFotaEdZUjFQNjdSaG52aDZtLWtUZGxadjZDVnBMRThteVZNYmNjUDk2Nmluc00yU1VJQjJlcjhRMXVNVkhYYmRjOTFMUllMcEw2ZkJnMTN4VWUwZHQ2WkNDLVBScWp5Q3hBTU1MS3puVlpsbFlvZkh6VWsxcC03NkdUWmk1aTA4ZlNuRk1jbkprT1huNXY1dGM5bkpjRjRYSExGMC13bTdhUVhRWGdkU2tnelJ2NXJhd1NPbXJ4TVkzZ3RxcnNIeXBTclFUUnNjWXdNMW5KTktuMHBHdnJsZmR6a2dRdVdBOWdVb0c5SEtjcGdQdFdKVkFUUHNqRV8tSGNxNFhvb2M3aUpnQUhqUk5kRk0?oc=5",
     "news_image": "",
     "news_source": "UB - Universitat de Barcelona",
-    "news_age": "91m ago",
+    "news_age": "93m ago",
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
@@ -33115,7 +33124,7 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.13,
+    "news_score": 1.12,
     "news_title": "Russia to miss World Juniors over Canada restrictions, IIHF confirms - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMkxDRkFmbXRVd1h3dV84NTF3cDZadjRjYUtqUHpkWXlVVXIzX3lvVXI5Z25BUkR6c0lJLVJpZkQxSzhEWmNZS2RFX1pJZWxkOXMxcHUxVUZvdGZvZDR1SUtMOUNKM2g4RTdEaWJtaE4wX0RacU55SndhaEoxWG1VNGVybFpvMVdwelU2TzhxWHNxbTZYOFlIbGo1QkM4c3c2aVVFWmtudXFxYnhObkYyb05B?oc=5",
     "news_image": "",
@@ -36702,15 +36711,17 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.72,
+    "news_score": 1.78,
     "news_title": "Spain's Unbeaten Streak Snapped: 3 Takeaways From Nations League Action - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQblctWmVYWDFlVi1ybnBMYTVLVElEMjBHYmx2R25CcVZmRlhTTWRDbHFzLWFJd01DN3JWRTBpdzBoVUVjNlIyZ2t6Vkw2LXZNV1JFNFJmZWR4dFMyRjhjTEQ2ZGxIXzZnMkFmTmhjUzdhYmdZMEtabjZjbUd0c2J2RnBwcy05RTR0aHZGRWNrVk10aW1pZnFXeUNR0gGaAUFVX3lxTE1keU1XQkt4WC1tRldtd19JVTAxTHhvdHFHVU9qYnNiSGQ4cnpBZTh5bFdpanFzV2VxZVVQNE9vcVRreDZTTHhkN2lBQnJhMVdNWjVaOHRZYU1jT3JtYUFLaWFidnd3TzlKYkhLd3Zjd2FtV1RxX3hXeDctX0tILUN1ZlduRHNodnJWdzZuRkJ2cUdXNS1KcExLMmc?oc=5",
     "news_image": "",
     "news_source": "FOX Sports",
-    "news_age": "84m ago",
+    "news_age": "86m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5,
@@ -40278,7 +40289,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlNjalMxMXVyQlNPa2gzbDAxMHUwc0N5aGpISk8wcWR3eWxCZkkwMnhtVkhvN0dIX28ycjJXOVpKYzJaNVNPTkFoNHVLNDNNYVI2VFFuYWFYVUJVaEFJN2FpellBaUc2VVRldHhBeVVlelRiQlppdy00Q3NsU0NaMHRVZm5MeVJYeXlfN1liLWc3S3RvZjdwdVZqMXlKNWdwbXBBRlRlZDNqMVRGN0RvWEtFQjRWVU0wWGRreA?oc=5",
     "news_image": "",
     "news_source": "WDSU",
-    "news_age": "59m ago",
+    "news_age": "61m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -41236,7 +41247,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.36,
+    "news_score": 0.32,
     "news_title": "Artificial life one step closer: Scientists create cell that copies DNA and divides - RBC-Ukraine",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaGRuTlVjX3RTV2tlM1lFSnl6cll4U2FQQ0tMZjhZQ0hEX3hRTnFjQU5ocHd0X1VfYWVSUnI4ZHVLTThRSmJTOGFyU19FN0ljcGU2NFVBcXFzMDd6Nkg1eU8xTE8yel9lZ3ctRXU3Tjg0WUt5ZnlrSUtWZGlGOFhROWJXYjZlTDhfVWRBUzRyNGJLRGho?oc=5",
     "news_image": "",
@@ -42516,6 +42527,7 @@
     "news_age": "4h ago",
     "news_columns": [
       "fifa_ranking",
+      "fifa_w",
       "olympic",
       "basket"
     ],
@@ -43725,7 +43737,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMFVCTjA1NklhNzRzdnVOQTJETXo1ZzJyd1lZSzNaX1pWYzJnLTFSMXpLaTJEUlNVaXlNN2Z6QWpXcFZDMy1VOURSUHlYMG9vQ0trMHF4ZkxXckd0SFktcExhdEtBUjRuRUE0MDEyd2VJaV9ZT3psd0kybXJUODdLbFVTUGxpdm94UTZJaHlubmFnbnpBeExkeTVFS1YwMmtE?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "114m ago",
+    "news_age": "116m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
