@@ -2561,14 +2561,14 @@
     "refugees_rank": null,
     "union_rate": 80.6,
     "union_rate_rank": null,
-    "news_score": 0.73,
+    "news_score": 0.74,
     "news_title": "Australia@Venezuela - WBSC U-23 Baseball World Cup 2026 presented by RAXUS - World Baseball Softball Confederation (WBSC)",
     "news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVXk3dFA3NFNKRUdzeUpGY0FLY1JjSjQ4eEpIdXcwMTNSbVpFTlc0UUFGWlNQU0lNX2VJc0o1UW56bTVXRXU4elpOUGgtem9TQzR4ajI4RlktRkI0WnVkLTFaR2ZGSWpTQnVleGN5WFJWMnNFQnI5d2tWVUdLMlpnUUVMbnJHZnFlekVYR28wbmltVFpFOUFkeHo2dEhObWxBOXRqOXBGNDg?oc=5",
     "news_image": "",
     "news_source": "World Baseball Softball Confederation (WBSC)",
     "news_age": "3h ago",
     "news_columns": [
-      "tech",
+      "tech_outage",
       "economy"
     ],
     "bottom50_wealth": 5.0,
@@ -6940,7 +6940,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.69,
+    "news_score": 1.56,
     "news_title": "Russia to miss World Juniors over Canada restrictions, IIHF confirms - Reuters",
     "news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMkxDRkFmbXRVd1h3dV84NTF3cDZadjRjYUtqUHpkWXlVVXIzX3lvVXI5Z25BUkR6c0lJLVJpZkQxSzhEWmNZS2RFX1pJZWxkOXMxcHUxVUZvdGZvZDR1SUtMOUNKM2g4RTdEaWJtaE4wX0RacU55SndhaEoxWG1VNGVybFpvMVdwelU2TzhxWHNxbTZYOFlIbGo1QkM4c3c2aVVFWmtudXFxYnhObkYyb05B?oc=5",
     "news_image": "",
@@ -6948,7 +6948,7 @@
     "news_age": "3h ago",
     "news_columns": [
       "cfl",
-      "football"
+      "grey_cup"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -8018,8 +8018,9 @@
     "news_source": "Axios",
     "news_age": "9h ago",
     "news_columns": [
-      "economy",
-      "macro"
+      "tech",
+      "ai",
+      "nvidia"
     ],
     "bottom50_wealth": 6.4,
     "bottom50_wealth_rank": 2
@@ -19254,12 +19255,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.42,
+    "news_score": 1.1,
     "news_title": "Japan to Propose Asian Version of IEA at AZEC Summit Tues. - JIJI PRESS",
     "news_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yTjVYMVVmUVFyYVRrQXpIV1JXdHAtaWVYai1GTFV5ajRHMGpfbzRSQ2xxZ004VjBLdExDekpqZFVra3lLZlloal91UVZEUXp4Uktub0hxN2Z5RjAtNFNPNVhR?oc=5",
     "news_image": "",
     "news_source": "JIJI PRESS",
-    "news_age": "99m ago",
+    "news_age": "101m ago",
     "news_columns": [
       "economy",
       "macro"
@@ -31105,7 +31106,9 @@
       "murder",
       "prison",
       "police",
-      "gpi"
+      "gpi",
+      "tourism",
+      "passport"
     ],
     "bottom50_wealth": null
   },
@@ -36703,7 +36706,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 1.01,
+    "news_score": 1.0,
     "news_title": "Spain's Unbeaten Streak Snapped: 3 Takeaways From Nations League Action - FOX Sports",
     "news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQblctWmVYWDFlVi1ybnBMYTVLVElEMjBHYmx2R25CcVZmRlhTTWRDbHFzLWFJd01DN3JWRTBpdzBoVUVjNlIyZ2t6Vkw2LXZNV1JFNFJmZWR4dFMyRjhjTEQ2ZGxIXzZnMkFmTmhjUzdhYmdZMEtabjZjbUd0c2J2RnBwcy05RTR0aHZGRWNrVk10aW1pZnFXeUNR0gGaAUFVX3lxTE1keU1XQkt4WC1tRldtd19JVTAxTHhvdHFHVU9qYnNiSGQ4cnpBZTh5bFdpanFzV2VxZVVQNE9vcVRreDZTTHhkN2lBQnJhMVdNWjVaOHRZYU1jT3JtYUFLaWFidnd3TzlKYkhLd3Zjd2FtV1RxX3hXeDctX0tILUN1ZlduRHNodnJWdzZuRkJ2cUdXNS1KcExLMmc?oc=5",
     "news_image": "",
@@ -40283,7 +40286,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlNjalMxMXVyQlNPa2gzbDAxMHUwc0N5aGpISk8wcWR3eWxCZkkwMnhtVkhvN0dIX28ycjJXOVpKYzJaNVNPTkFoNHVLNDNNYVI2VFFuYWFYVUJVaEFJN2FpellBaUc2VVRldHhBeVVlelRiQlppdy00Q3NsU0NaMHRVZm5MeVJYeXlfN1liLWc3S3RvZjdwdVZqMXlKNWdwbXBBRlRlZDNqMVRGN0RvWEtFQjRWVU0wWGRreA?oc=5",
     "news_image": "",
     "news_source": "WDSU",
-    "news_age": "107m ago",
+    "news_age": "109m ago",
     "news_columns": [
       "ai_research",
       "internet_pct",
@@ -41241,19 +41244,18 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.31,
-    "news_title": "Prince Harry Says 'You're Going To Win' On Ukraine Trip - Barron's",
-    "news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLUVuaUEwb0JnMkIwN3AxcHNMeUhiOXV2T3lDeVAwdEsxSFRBNHNPMF9RQjlSTmJDSlp4RGw4bXA2S3BMb1h1ejJZeHpKUEp4MXJrUW96M0RNd3BBcGVjVTZvOFBpZWNLSnBjMy1TY1k1Vko1bUJ4TG9URGJyRkVza2psUHV3d2thSG5MTDYxWHhCQzMwRUE?oc=5",
+    "news_score": 0.27,
+    "news_title": "Artificial life one step closer: Scientists create cell that copies DNA and divides - RBC-Ukraine",
+    "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaGRuTlVjX3RTV2tlM1lFSnl6cll4U2FQQ0tMZjhZQ0hEX3hRTnFjQU5ocHd0X1VfYWVSUnI4ZHVLTThRSmJTOGFyU19FN0ljcGU2NFVBcXFzMDd6Nkg1eU8xTE8yel9lZ3ctRXU3Tjg0WUt5ZnlrSUtWZGlGOFhROWJXYjZlTDhfVWRBUzRyNGJLRGho?oc=5",
     "news_image": "",
-    "news_source": "Barron's",
+    "news_source": "RBC-Ukraine",
     "news_age": "5h ago",
     "news_columns": [
-      "military_pct",
-      "nuclear",
-      "military_personnel",
-      "gpi",
-      "arms_export",
-      "ai_research"
+      "ai_research",
+      "internet_pct",
+      "patents",
+      "rd",
+      "startups"
     ],
     "bottom50_wealth": null
   },
@@ -42522,10 +42524,13 @@
     "news_age": "4h ago",
     "news_columns": [
       "nfl",
-      "football",
-      "tech",
+      "nfl_week10",
+      "afc_north",
+      "nfc_west",
+      "tech_outage",
       "economy",
-      "markets"
+      "tech",
+      "ai"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
