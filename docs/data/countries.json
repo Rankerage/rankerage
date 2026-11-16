@@ -6944,7 +6944,7 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 2.82,
+    "news_score": 2.81,
     "news_title": "Canada, U.S. will meet in IIHF Women’s World Championship gold medal showdown - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYy01WjNlOTN1TGlWUVZJd092RDZ5ZUZodjk2c1d4S1RwVE1mNm8xVUVyNnFnb1VHZGdMTnkwSGhfcGptTkNQV1c1dTNTRHgwQmN4a0lReExpRDgxYk1NVl95WDREeGpwZmMtQ0liVS1VM0hPT05IcDhxVEV3VHN2UFRjYnI1NjFNamdLYlpwNERIM1F5R3FseVNQOHY3SkU?oc=5",
     "news_image": "",
@@ -6953,7 +6953,8 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 4.2,
     "bottom50_wealth_rank": 12
@@ -8016,12 +8017,12 @@
     "refugees_rank": null,
     "union_rate": 74.0,
     "union_rate_rank": null,
-    "news_score": 0.76,
+    "news_score": 0.72,
     "news_title": "Megaspeed Says Alice Huang Left Company in August 2025 - The New York Times",
     "news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVTFteWE3T01VQ29ObzFtdi1VSlExVDZmWVAwWGM3YkdtZHliQXNEa0hQMjhkYTlKRDJqSnhEbU5VeEFKNnRQaWZ6bF9OZGpKdUs5OEFRTWQ4eHpySlJuZlJOY3NsaVdLUnJULXJrcVJWUHlpWkY2N01XTnZxOGhoN01BMXdyT2lwVjJn?oc=5",
     "news_image": "",
     "news_source": "The New York Times",
-    "news_age": "32m ago",
+    "news_age": "34m ago",
     "news_columns": [
       "fifa_ranking"
     ],
@@ -14064,7 +14065,7 @@
     "child_labor_rank": null,
     "child_marriage": null,
     "child_marriage_rank": null,
-    "news_score": 0.41,
+    "news_score": 0.42,
     "news_title": "After Drake Maye injury, the Patriots fell apart and showed no fight, and other observations after a blowout loss - The Boston Globe",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRDlmMGlJXzhlbGZRVmdqM2NYS0duQ1Q4aVNJdmRpYWxmV2tYbHFWczNoTmR1ZXE0NWEwYlJqSWdzMERDOGtxNTFORGJSazhDRi12QWVac2c1TjM0d1ZVd05pb0ZjTlYydHRCZEszWTVSeHFPZDN0dXF1Qy1ibXZHNXRXYkNmblZjRmx3RHB3UmtMMWsy?oc=5",
     "news_image": "",
@@ -19452,7 +19453,7 @@
     "news_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZEJfNkx4Tm93Ujl3WVBCWE5tT2tpSUhZMVZYNUlpR3J0Uk5ya05lRWlQR3BneFpZa1V0bnd1V0t3OU0teXBaRk1MUHVVZzBINklFenQtT1NRRUFtU1pleUF4Xy04X1dZS25kMEh0M2NLYnZoeDM2aVh2TmM2QVZvS0pGa1BlSDFoVE9LQVpmb3dVRllYRWVWT282cHlKUEVwYWZDVlNCaUZTaTZuVHNrRUswemwxamh1R3NTQ0FVcTNURWUyYmdPTmxlZnBpVGNubHQtZnV3TEpQanZjbTNUXzVEY24zdnc?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "53m ago",
+    "news_age": "55m ago",
     "news_columns": [
       "murder",
       "prison",
@@ -24832,12 +24833,12 @@
     "refugees_rank": null,
     "union_rate": 66.3,
     "union_rate_rank": null,
-    "news_score": 0.74,
+    "news_score": 0.71,
     "news_title": "Miguel Ángel Félix Gallardo, Architect of Mexico’s Modern Drug Trade, Dies at 80 - WSJ",
     "news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa2NoVVlfcDZSM0Mtdm5fYVpFcXY0ZFdRNG1KNl9uNXN5X3NBLUl3Mjh3Z0cyWTduQUZEa2lCODhtREFzbmJ1cmNIc3VJbndxSGIyNlYtbkg4anhJNWVIaWlSUEt3RmRCSnBKSXpoYXJPVTBYd3ZYMTVCYXF6Rjh1QzR3VUpXejRDUWFuSEE4eDRMV2NsWlF0b05XOXNtbXQtYWxRSXlxUzR2SjlvVUd5eXpMVmctbVkwZGp6ZF9BUm5kX1E?oc=5",
     "news_image": "",
     "news_source": "WSJ",
-    "news_age": "103m ago",
+    "news_age": "2h ago",
     "news_columns": [
       "news"
     ],
@@ -33123,15 +33124,17 @@
     "refugees_rank": null,
     "union_rate": 76.1,
     "union_rate_rank": null,
-    "news_score": 1.85,
+    "news_score": 1.87,
     "news_title": "IIHF says Russia won't take part in world junior hockey tournament in Canada | Sports | 2news.com - KTVN",
     "news_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNd3N4dGNlVDZ6aGtHcmg4U3dDV080OTF4VHNtbGlyWXE5T1NraFlOR2ZxSFhCdXRHcVUtQVZ0enlCODZ2amwwOE5KRkIwM3JDYlhZckhHUlNjR3JrVHBIVUMtNGFuS0djSkgzNm8wMTFXSWZLRF9nU2ZnX0NZQXhUX0MxcnJrVURJV2RlbXZqSGdZRlpLcVRlajg5MHhZMnMtN2N5RlhBVThheUJFaWppZ1dpbTFaalJvQTlvbWNSUzRDWVBHMEt2NThSZjcxSk8wY1pFdHlfM0QzbjdHeTNPTHhtanpKVm8?oc=5",
     "news_image": "",
     "news_source": "KTVN",
     "news_age": "2h ago",
     "news_columns": [
+      "fifa_ranking",
+      "fifa_w",
       "olympic",
-      "fifa_w"
+      "basket"
     ],
     "election_title": "Russian Federal Duma",
     "election_url": "https://www.electionguide.org/countries/id/179",
@@ -36709,15 +36712,17 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 2.21,
+    "news_score": 1.92,
     "news_title": "England made statement by beating world champions Spain: Tuchel - Yahoo Sports",
     "news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVllRLWdQTXpFZU9DRmxBTWltWlRNX3dqYWNIMlpCVDYtMVVON1NaT3kycS1LWXdxNkk4eEJIcHQ2U0ViRGdGZWhtUVVRV0pxUXl1aEh4ZlZpOFRSRUJ0UTlSbEliSnd1aTd3Yy1qVWZteVpNMHJ2N2VqRGtQVkRkNW9ZMGl3X2hadmFtN19B?oc=5",
     "news_image": "",
     "news_source": "Yahoo Sports",
-    "news_age": "98m ago",
+    "news_age": "100m ago",
     "news_columns": [
       "fifa_ranking",
-      "fifa_w"
+      "fifa_w",
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 5.8,
     "bottom50_wealth_rank": 5,
@@ -37665,12 +37670,12 @@
     "child_marriage_rank": null,
     "refugees": null,
     "refugees_rank": null,
-    "news_score": 0.57,
+    "news_score": 0.56,
     "news_title": "‍‍‍HERE’S!* WAY TO WATCH Canada vs Sweden Women hockey IIHF Women’s World Championship 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅ 15 November 2026 - UB - Universitat de Barcelona",
     "news_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPM0FDT3h5SU9OWFl1c2NrZ2ExMmhZY3puV3dVUGh4cGtoS2lVdlNWa3NPUENKUzh0Q3V3eEZjbnhObXNWT1hBYjg1SS1Kdk5sUVpkRUhzaXpGSGlJNXU4elotbmFzVHNmd3lZTWtGV21wREZwTjY3ZXpDY1NrOWRmS3AyMzlxcHJ0MzRrTFpMU1YzLUVHdjJ1X1NTNm1sMUZDU3hHWG94bUR0SjNJcVNjZ1VfWmNzYUI2TVdmNElhWGtKeFplM2xGS0VQNHEzc245aEJWVGtPZVdHdm4xLVpSLTB6dzRhNHFlY1RmZm9tWkVuVFFkRkg4UkVyb003ai1QaURfc0xyN1h2My16MTV4bHZlOWhYZ2poNmc?oc=5",
     "news_image": "",
     "news_source": "UB - Universitat de Barcelona",
-    "news_age": "3h ago",
+    "news_age": "4h ago",
     "news_columns": [
       "gender",
       "gender_gap",
@@ -41240,7 +41245,7 @@
     "union_rate": 66.8,
     "union_rate_rank": null,
     "fifa_w_rank": 32,
-    "news_score": 0.62,
+    "news_score": 0.61,
     "news_title": "Artificial life one step closer: Scientists create cell that copies DNA and divides - RBC-Ukraine",
     "news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaGRuTlVjX3RTV2tlM1lFSnl6cll4U2FQQ0tMZjhZQ0hEX3hRTnFjQU5ocHd0X1VfYWVSUnI4ZHVLTThRSmJTOGFyU19FN0ljcGU2NFVBcXFzMDd6Nkg1eU8xTE8yel9lZ3ctRXU3Tjg0WUt5ZnlrSUtWZGlGOFhROWJXYjZlTDhfVWRBUzRyNGJLRGho?oc=5",
     "news_image": "",
@@ -42521,7 +42526,8 @@
     "news_columns": [
       "fifa_ranking",
       "fifa_w",
-      "olympic"
+      "olympic",
+      "basket"
     ],
     "bottom50_wealth": 1.5,
     "bottom50_wealth_rank": 28
@@ -43724,12 +43730,12 @@
     "refugees_rank": null,
     "union_rate": 78.4,
     "union_rate_rank": null,
-    "news_score": 0.85,
+    "news_score": 0.89,
     "news_title": "From curiosity about technology to the 2026 Science and Technology Female Student Award - Vietnam.vn",
     "news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMFVCTjA1NklhNzRzdnVOQTJETXo1ZzJyd1lZSzNaX1pWYzJnLTFSMXpLaTJEUlNVaXlNN2Z6QWpXcFZDMy1VOURSUHlYMG9vQ0trMHF4ZkxXckd0SFktcExhdEtBUjRuRUE0MDEyd2VJaV9ZT3psd0kybXJUODdLbFVTUGxpdm94UTZJaHlubmFnbnpBeExkeTVFS1YwMmtE?oc=5",
     "news_image": "",
     "news_source": "Vietnam.vn",
-    "news_age": "10m ago",
+    "news_age": "12m ago",
     "news_columns": [
       "military_pct",
       "nuclear",
