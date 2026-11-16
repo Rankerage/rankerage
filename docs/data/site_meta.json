@@ -1,81 +1,76 @@
 {
-  "last_updated": "2026-11-15T21:01:28Z",
+  "last_updated": "2026-11-16T21:01:29Z",
   "total_rankings": 136,
   "total_countries": 197,
   "version": "1.0",
   "update_frequency": "weekly",
-  "global_narrative": "A heavy slate of NFL Week 10 action and UEFA Nations League fixtures dominates the feed, while Russia's exclusion from the World Junior hockey championship and a major US flight disruption emerge as the leading non-sports stories.",
+  "global_narrative": "NFL Week 10 action and fallout dominates the news cycle, with the 49ers' high-scoring win over the Cowboys, Vikings' sack-heavy victory over the Packers, and Steelers-Bengals AFC North clash generating the most coverage, while a global Microsoft outage and Japan's unexpected economic contraction round out the top international stories.",
   "trending_stories": [
     {
-      "topic": "NFL Week 10 matchups and injuries",
+      "topic": "NFL Week 10 results and analysis",
       "entities": [
         "US",
-        "GB",
-        "SE",
-        "DAL",
         "SF",
-        "KC",
-        "DET",
-        "NE"
+        "DAL",
+        "MIN",
+        "GB",
+        "PIT",
+        "CIN"
       ],
       "columns": [
         "nfl",
         "football"
       ],
-      "weight": 0.9
+      "weight": 0.95
     },
     {
-      "topic": "Russia barred from World Junior hockey championship",
+      "topic": "Microsoft global outage economic fallout",
       "entities": [
-        "RU",
-        "CA",
-        "IIHF"
+        "US",
+        "AU",
+        "Microsoft"
       ],
       "columns": [
-        "hockey",
-        "iihf"
-      ],
-      "weight": 0.75
-    },
-    {
-      "topic": "UEFA Nations League fixtures (England/Spain, France/Turkey, Czechia/Croatia)",
-      "entities": [
-        "GB",
-        "ES",
-        "FR",
-        "TR",
-        "CZ",
-        "HR"
-      ],
-      "columns": [
-        "uefa",
-        "soccer"
+        "tech",
+        "economy"
       ],
       "weight": 0.7
     },
     {
-      "topic": "US nationwide flight ground stop and Miami airport collision",
+      "topic": "Japan economy contracts in Q3",
       "entities": [
-        "US",
-        "UPS",
-        "Copa Airlines"
+        "JP"
       ],
       "columns": [
-        "aviation",
-        "transport"
+        "economy",
+        "gdp"
       ],
       "weight": 0.65
     },
     {
-      "topic": "Nvidia leadership turmoil around Jensen Huang",
+      "topic": "Jensen Huang and Nvidia leadership calls",
       "entities": [
         "US",
         "Nvidia",
-        "Jensen Huang"
+        "Jensen Huang",
+        "Elon Musk"
       ],
       "columns": [
         "tech",
-        "markets"
+        "business"
+      ],
+      "weight": 0.6
+    },
+    {
+      "topic": "Spain Nations League streak snapped / Tuchel England result",
+      "entities": [
+        "ES",
+        "GB",
+        "England"
+      ],
+      "columns": [
+        "fifa_ranking",
+        "football"
       ],
       "weight": 0.5
     }
